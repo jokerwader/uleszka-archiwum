@@ -1,0 +1,29 @@
+{
+  "id": "03majowie/52lata",
+  "tytul": "52 lata",
+  "streszczenie": "Autor omawia 52-letni cykl kalendarza Majów (tzolkin i haab, data 4-Ahau 8-Cumhu) na tle interpretacji Ericha von Dänikena, według którego cykl odpowiada obiegowi hipotetycznej Planety X. Nie zgadza się z wnioskiem o spotkaniu z bogami i proponuje, że Majowie bali się upadku planetoid z „oczka” pierścienia szczątków dawnej planety, o czym ostrzegli ich bogowie kalendarzem. Krytykuje naukowe sposoby liczenia kalendarza i przedstawia własne, orientacyjne rachunki. Na koniec wiąże te obawy ze współczesnymi doniesieniami o planetoidach i asteroidzie 2004 MN4, sugerując, że astronomowie nie dość poważnie traktują zagrożenie.",
+  "tezy": [
+    { "teza": "Według von Dänikena (cytowanego przez autora) planetoidy to szczątki planety, której okres obiegu wynosił 5,2 roku, a 52-letni cykl Majów odpowiada dziesięciu jej obiegom.", "cytat": "Jeżeli założymy, że planetoidy te są szczątkami jakiejś planety, to będzie można obliczyć, że planeta owa, w czasie kiedy stanowiła całość, wykonywała jeden obrót wokół Słońca w ciągu 1898 dni, czyli dokładnie 5,2 roku ziemskiego!", "dziedzina": "astronomia" },
+    { "teza": "Majowie obawiali się nie spotkania z bogami, lecz kosmicznej zagłady.", "cytat": "Wydaje się, że nie chodzi o spotkanie z Bogami, a raczej o spotkanie z czymś gorszym - z kosmiczną śmiercią.", "dziedzina": "astronomia" },
+    { "teza": "W miejscu dzisiejszego pasa planetoid krążyła kiedyś planeta, która została rozbita w kosmicznej katastrofie.", "cytat": "Przesłanki naukowe dopuszczają, że w miejscu, gdzie dziś rozciąga się pas planetoid, po ich orbicie kiedyś krążyła planeta.", "dziedzina": "astronomia" },
+    { "teza": "Planetoidy tworzą raczej rurę o zmiennej średnicy niż równy pas, a w miejscu dawnej kolizji istnieje chmura odłamków.", "cytat": "Zamiast o pasie winno się mówić raczej o rurze planetoid i to rurze o zmiennej średnicy.", "dziedzina": "astronomia" },
+    { "teza": "Bogowie przekazali Majom kalendarz, by co 52 lata przypominał im o zagrożeniu.", "cytat": "Bogowie, wiedząc o takiej możliwości, poinformowali ich o takiej ewentualności i przekazali kalendarz, który będzie im o tym przypominał co 52 lata.", "dziedzina": "mitologia" },
+    { "teza": "Kalendarz został Majom dany z zewnątrz, więc musiał być prosty i służyć ostrzeganiu przed niebezpieczeństwami.", "cytat": "Ponadto nauka jest zgodna co do tego, że istniejąca ówcześnie cywilizacja tego kalendarza nie stworzyła. Ten kalendarz został im dany.", "dziedzina": "historia" },
+    { "teza": "Naukowa wizja kalendarza z trzema obracającymi się kołami jest sztuczna i niepotwierdzona znaleziskami.", "cytat": "Wprowadzony przykład kalendarza Majów z trzema obracającymi się kołami całkowicie, według mnie, zaciemnił sprawę.", "dziedzina": "archeologia" },
+    { "teza": "Zasób źródeł o kulturze Majów jest skąpy, bo zniszczyli go konkwistadorzy.", "cytat": "Bardzo mała, wręcz uznawana za skąpą ilość materiału spowodowana konkwistą ówczesnej Hiszpanii oraz szczególnym działaniem", "dziedzina": "historia" },
+    { "teza": "Początek kalendarza Majów przypada według obliczeń autora na ok. 7,9–8,8 tys. lat temu, ale pewności nie ma.", "cytat": "Wynik zbliżony, choć z rozrzutem szrapnela. Jedno co jest pewne - było to bardzo dawno temu.", "dziedzina": "historia" },
+    { "teza": "Coraz częstsze doniesienia o meteorytach mijających Ziemię mogą oznaczać zbliżanie się do skupiska gruzu kosmicznego.", "cytat": "Od 2-3 lat w prasie zaczynają pojawiać się notatki o mijaniu Ziemi przez meteoryty różnej wielkości i to w coraz mniejszej odległości od naszej planety.", "dziedzina": "astronomia" },
+    { "teza": "Astronomowie wykrywają zagrożenia za późno i być może nie informują o nich w obawie przed paniką.", "cytat": "Czy na takim poziomie stoi wykrywanie niebezpieczeństwa, czy też astronomowie nie chcą siać paniki wśród ludzi?", "dziedzina": "astronomia" },
+    { "teza": "Asteroida 2004 MN4 mogła uderzyć w Ziemię 13 kwietnia 2029 r. z prawdopodobieństwem szacowanym wówczas na 1:300.", "cytat": "Jak obliczyli astronomowie, może ona uderzyć w naszą planetę 13 kwietnia 2029 roku", "dziedzina": "astronomia" }
+  ],
+  "tematy": ["kalendarz majów", "cykl 52-letni", "tzolkin i haab", "planeta x", "pas planetoid", "zagrożenie asteroidami", "4-ahau 8-cumhu", "von däniken", "kosmiczna katastrofa", "bogowie"],
+  "osoby": ["Erich von Däniken", "dr Kissling", "Bernardino de Sahagún", "Makemson", "Spinden", "Thompson", "Kukulcan", "Quetzalcoatl", "Kepler"],
+  "miejsca": ["Mezoameryka", "Meksyk", "Jukatan", "pas planetoid", "Mars", "Jowisz"],
+  "okresy": [
+    { "kiedy": "8499 p.n.e. (Makemson), 8498 p.n.e. (Spinden), 8238 p.n.e. (Thompson)", "co": "Naukowe daty zerowe kalendarza Majów (0.0.0.0.0 4-Ahau 8-Cumhu)." },
+    { "kiedy": "3373 p.n.e. i 3113 p.n.e.", "co": "Naukowe przeliczenia daty 13.0.0.0.0 4-Ahau 8-Cumhu." },
+    { "kiedy": "ok. 65 mln lat temu", "co": "Uderzenie wspomniane jako porównanie dla wielkości asteroidy." },
+    { "kiedy": "13 kwietnia 2029", "co": "Możliwa data uderzenia asteroidy 2004 MN4 według ówczesnych obliczeń." }
+  ],
+  "zrodla_cytowane": ["Erich von Däniken – Dzień, w którym przybyli bogowie", "Bernardino de Sahagún – Historia ogólna spraw Nowej Hiszpanii", "Naród Słońca (opis kalendarza)", "Dawni Meksykanie (opis kalendarza)"]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "medalt/truzyw",
+  "tytul": "Trująca żywność",
+  "streszczenie": "Tekst składa się z trzech przedruków o jakości współczesnej żywności. Konstanty Hanff twierdzi, że chemizacja rolnictwa, manipulacje genetyczne, przetwarzanie mleka, pestycydy, hormony, dodatki do żywności i wody (chlor, fluor, kwasek cytrynowy) świadomie lub nie szkodzą zdrowiu i płodności, a elity mają z tego zyski. Dorota Sajnug i Paweł Paliwoda opisują fałszowanie żywności w Polsce po wejściu do UE, niewydolne inspekcje i rosnące dopuszczalne dodatki. Marcin Grudzień pisze o skutkach przemysłowej produkcji żywności w USA i Europie oraz o szansach polskiej żywności.",
+  "tezy": [
+    {
+      "teza": "Nawozy sztuczne wyjaławiają glebę po 10-20 latach, co w USA doprowadziło do zaniku żyznej warstwy.",
+      "cytat": "Efekt stosowania nawozów sztucznych jest taki, że po upływie 10-20 lat gleba zostaje całkowicie wyjałowiona.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Homogenizacja mleka dokonywana przez dodatki do paszy krów powoduje, że rozdrobniony tłuszcz przenika do krwi i odkłada się w naczyniach.",
+      "cytat": "Szkodliwość tego polega na tym, że rozdrobnione cząsteczki tłuszczu z łatwością przenikają do krwi, omijając proces trawienia.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Witaminy syntetyczne różnią się budową cząsteczki od naturalnych i są zwykle szkodliwe.",
+      "cytat": "Mało kto wie, że witaminy syntetyczne są prawoskrętnymi związkami organicznymi, podczas gdy naturalne są lewoskrętne.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Choroba szalonych krów (BSE) powstała, gdy zaczęto karmić trawożerne krowy mączką mięsną.",
+      "cytat": "Po pewnym czasie krowy zaczęły chorować. Musiały! I nikt nie pomyślał, że to może okazać się niebezpieczne także i dla ludzi!",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Pestycydy i hormony w żywności powodują raka piersi i jajników, bezpłodność oraz zmiany płciowe, także u ludzi.",
+      "cytat": "Nadmiar tzw. środków ochrony roślin (pestycydów, czyli środków owadobójczych, grzybobójczych, pleśniobójczych itp.) trafiających do organizmu kobiet, a także i nadmiar hormonów żeńskich (estrogenu) i wzrostu, powoduje nagminne występowanie raka piersi, raka jajników i innych form rakowacenia",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Żółtko jaj jest zdrowe, bo zawiera lecytynę i cholinę niezbędną dla mózgu, a szkodliwe są tylko jaja kur fermowych.",
+      "cytat": "Tymczasem żółtko zawiera nie tylko pożyteczny (dobry) cholesterol, lecz także dużą ilość lecytyny, która właśnie ułatwia trawienie tłuszczu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Kwasek cytrynowy dodawany do większości przetworów narusza pracę komórek mózgowych i może służyć do ogłupiania społeczeństwa.",
+      "cytat": "Stwierdzono, że kwas cytrynowy (syntetyczny, oczywiście) narusza system przewodnictwa elektrochemicznego w pracy komórek mózgowych.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Chlor i fluor trafiły do wody pitnej, bo przemysł chemiczny miał po wojnach ich nadmiar.",
+      "cytat": "Wpadli więc panowie przemysłowcy na genialny pomysł: wtrynić ten chlor wszystkim miastom, jako środek dezynfekujący wodę pitną.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Większość polskiego pieczywa to produkty chlebopodobne, a kontrole inspekcji wykazują, że jakość żywności jest często niższa od deklarowanej.",
+      "cytat": "Kontrole stwierdziły, że to, co sprzedaje się u nas jako chleb i bułkę, jest w większości produktami chlebopodobnymi i bułkopodobnymi.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Prawie co czwarta woda mineralna lub źródlana jest zwykłą kranówką, a normy zostały obniżone.",
+      "cytat": "wynika, że prawie co czwarta woda mineralna czy źródlana (na rynku jest jej około 500 rodzajów) to po prostu zwyczajna kranówka.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Po wejściu do UE w Polsce dopuszczono ponad dwa razy więcej substancji dodatkowych, a wyroby mięsne zawierają MOM i wstrzykiwaną wodę.",
+      "cytat": "Po wejściu Polski do Unii Europejskiej liczba dopuszczonych do użycia w przemyśle spożywczym substancji dodatkowych wzrosła ponaddwukrotnie - ocenia dr Sołtysiak.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Inspekcje żywności są niewydolne i korumpowane przez producentów.",
+      "cytat": "ludzi zajmujących się kontrolowaniem żywności producenci korumpują tak samo, jak koncerny farmaceutyczne lekarzy.",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["chemizacja rolnictwa", "nawozy sztuczne", "gmo", "mleko", "bse", "pestycydy", "dodatki do żywności", "fałszowanie żywności", "fluor i chlor w wodzie", "koncerny spożywcze", "kwasek cytrynowy"],
+  "osoby": ["Konstanty Z. Hanff", "Dorota Sajnug", "Paweł Paliwoda", "Marcin Grudzień", "Walentyna Rakiel-Czarnecka", "Urszula Sołtysiak", "Zbigniew Hałat", "Phill Angell", "Mike Tober", "David Katz", "Marion Nestle", "Grzegorz Russak", "Stanisław Zaręba", "Lidia Lorek", "Waldemar Starosta"],
+  "miejsca": ["USA", "Europa", "Polska", "Anglia", "Holandia", "Niemcy", "Afryka", "Krasnojarsk", "Jenisej", "Starachowice", "Utah", "Belgia", "Maroko"],
+  "okresy": [
+    { "kiedy": "od lat 50. XX wieku", "co": "wiadomo było, że pracownicy fabryk pestycydów (DDT, HCH, PCB) zapadają na bezpłodność" },
+    { "kiedy": "I wojna światowa", "co": "według autora nadwyżki chloru posłużyły do dezynfekcji wody pitnej" },
+    { "kiedy": "1995", "co": "w Polsce przestało obowiązywać zakazanie używania MOM (mięsa drobiowego odkostnionego)" },
+    { "kiedy": "2001", "co": "ustawa pozwalająca umieszczać na wodach hasła o oddziaływaniu leczniczym" },
+    { "kiedy": "1 maja 2004", "co": "wejście Polski do UE; dopuszczono sprowadzanie żywności o podwyższonej zawartości kadmu" },
+    { "kiedy": "2004", "co": "kontrola 211 placówek z żywnością ekologiczną wykryła liczne uchybienia" }
+  ],
+  "zrodla_cytowane": ["Marion Nestle – Food Politics", "New York Times – wypowiedź Phila Angella (Monsanto)", "Time – ostrzeżenie Davida Katza", "New Scientist – filtr dla żołnierskich racji żywnościowych", "Raport Inspekcji Handlowej (maj 2004)"]
+}

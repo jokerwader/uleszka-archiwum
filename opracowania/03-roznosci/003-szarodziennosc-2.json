@@ -1,0 +1,161 @@
+{
+  "id": "blogier2",
+  "tytul": "Szarodzienność 2",
+  "streszczenie": "Druga część felietonów z sierpnia 2006 roku, utrzymana w tym samym ostrym, ironicznym tonie. Autor komentuje wojnę w Libanie i rolę Iranu, Rosji, USA i Izraela, polsko-rosyjską „wojnę o ropę”, stan armii, kolei i służby zdrowia oraz spory o lustrację (sprawa „Delegata”, Wałęsa, Herbert, krakowska kuria i ks. Isakowicz-Zaleski). Twierdzi, że politykę polską od 1989 roku kontroluje ta sama grupa z Okrągłego Stołu, a przeciwnicy rządu PiS bronią jej interesów. Krytykuje wystawę Eriki Steinbach, UE, ochronę przyrody, szkolnictwo i naukowców proponujących geoinżynierię. Wyraża też przewidywania dotyczące Bliskiego Wschodu, Arabii Saudyjskiej, Turcji i przyszłej wojny islamu z chrześcijaństwem.",
+  "tezy": [
+    {
+      "teza": "Autor uważa, że Unia Europejska wtrąca się w wewnętrzne sprawy Polski (np. w sprawie kary śmierci), powołując się na niejasne „europejskie wartości”.",
+      "cytat": "Nie jestem wrogiem UE, bo praca jej urzędów podoba mi się bardziej niż naszych, ale nie podoba mi się natrętne wtrącanie się w wewnętrzne sprawy Polski.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Według autora na Bliskim Wschodzie grupy bojowników zaczynają ściśle współpracować pod koordynacją Iranu, a Al-Kaida zyskuje jego protekcję.",
+      "cytat": "Kto śledzi przebieg wydarzeń na Bliskim Wschodzie może zauważyć, że grupy bojowników rozpoczynają ścisłą współpracę, a koordynatorem działań zaczyna być Iran.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Koniec zimnej wojny był według autora pozorny: USA i Rosja nadal realizują ustalenia jałtańskie, a Rosja wraca jako silny gracz na wschodnią granicę Polski.",
+      "cytat": "bo oba mocarstwa i tak robią to, co postanowiono w Jałcie.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Awaria rurociągu do litewskich Możejek (należących do polskiego Orlenu) jest według autora elementem rosyjskiej zemsty politycznej za nieudane przejęcie polskich spółek paliwowych.",
+      "cytat": "Rurociąg dostarczający ropę syberyjską na Litwę uszkodził się gdzieś na styku Łukaszenko-Putin i prawdopodobnie z przyczyn \"naturalnych\".",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Autor stwierdza, że po 18 latach „restrukturyzacji” polska armia nie jest w stanie obronić kraju, a przemysł zbrojeniowy i szkolnictwo wojskowe zostały zniszczone.",
+      "cytat": "Na dzień dzisiejszy, nasze siły zbrojne nie są w stanie obronić kraju, nawet w przypadku agresji malutkiej Białorusi.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Autor uważa, że I Zjazd „Solidarności” był pierwszym spotkaniem przyszłych władców Polski i zapadły na nim decyzje prowadzące do Magdalenki.",
+      "cytat": "Było to pierwsze spotkanie przyszłych władców Polski i na nim zapadły pierwsze ważne decyzje społeczno-polityczne otwierające drogę do następnego etapu jakim była Magdalenka.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Autor sugeruje, że tajemniczym „Delegatem” był ktoś z najbliższego otoczenia Wałęsy, kto robił „delegacje” na jachtach i został ministrem.",
+      "cytat": "Kto zamiast pracować dla kraju, wypuszczał się na częste i dalekie \"delegacje\" na polskich jachtach?",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Autor zadaje pytanie, jaka siła w krakowskiej kurii ogranicza ks. Isakowicza-Zaleskiego i wpływa na kardynała Dziwisza w sprawie duchownych współpracowników SB.",
+      "cytat": "Co to za siła, która jest zdolna ubezwłasnowolnić nawet \"prawą rękę\" polskiego papieża?",
+      "dziedzina": "religia"
+    },
+    {
+      "teza": "Szkolnictwo zostało według autora podzielone na elitarne dla „narodu wybranego” i masowe, kształcące motłoch do pracy dla elit, przy wypieraniu historii i religii.",
+      "cytat": "Z reszty porobiono \"ferbluwy\" kształcące motłoch do pracy na rzecz elit.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Autor krytykuje pomysł geoinżynierii (siarka w atmosferze) i twierdzi, że za efekt cieplarniany odpowiada głównie metan, a nie dwutlenek węgla.",
+      "cytat": "Szanowny profesor uważa, że za efekt cieplarniany winić należy dwutlenek węgla, co jest sprzeczne z twierdzeniem, że największy wpływ (bo prawie 30%) ma zwykły metan",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Przewidywanie: Arabia Saudyjska, uzbrajana przez Europę, może podzielić los Iranu szacha, bo władzę trzyma jedna rodzina wobec wrogiego narodu.",
+      "cytat": "W Arabii Saudyjskiej może być tak samo, bo u władzy jest zaledwie jedna rodzina, a narodu wiele i to wrogo nastawionego do wszystkiego, co nie arabskie.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Przewidywanie: przyszła wojna islamu z chrześcijaństwem zakończy się szybko zwycięstwem islamu, m.in. z powodu europejskiej polityki rodzinnej i uzbrojonej Turcji.",
+      "cytat": "dlaczego przyszła wojna islamu z chrześcijaństwem zakończy się bardzo szybko i zwycięstwem tych pierwszych.",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": [
+    "wojna w libanie 2006",
+    "iran, hezbollah i al-kaida",
+    "ropa i gaz, polsko-rosyjska rywalizacja",
+    "stan polskiej armii",
+    "lustracja, ipn i sprawa delegata",
+    "okrągły stół i transformacja",
+    "wystawa wypędzonych steinbach",
+    "krakowska kuria i księża agenci",
+    "szkolnictwo i wizerunek polaków",
+    "ochrona przyrody i klimat",
+    "powodzie i susza"
+  ],
+  "osoby": [
+    "Fidel Castro",
+    "Raul Castro",
+    "Osama bin Laden",
+    "Lech Wałęsa",
+    "Lech Kaczyński",
+    "Zyta Gilowska",
+    "Adam Michnik",
+    "Anna Jarucka",
+    "Tadeusz Isakowicz-Zaleski",
+    "Stanisław Dziwisz",
+    "Günter Grass",
+    "Erika Steinbach",
+    "Salomon Morel",
+    "Zbigniew Herbert",
+    "Romuald Szeremietiew",
+    "Jörg Haider",
+    "Paul Crutzen",
+    "Krzysztof Rutkowski",
+    "Jakub Berman",
+    "Ławrientij Beria",
+    "Stefan Batory",
+    "Władysław Bartoszewski",
+    "Bronisław Geremek",
+    "Awi Dichter"
+  ],
+  "miejsca": [
+    "Kuba",
+    "Liban",
+    "Izrael",
+    "Iran",
+    "Rosja",
+    "Białoruś",
+    "Litwa (Możejki)",
+    "Mierzeja Wiślana",
+    "Gdańsk",
+    "Kraków",
+    "Beskid Śląski i Żywiecki",
+    "Arabia Saudyjska",
+    "Turcja",
+    "Austria",
+    "Berlin",
+    "Radom, Ursus, Płock",
+    "Świętochłowice"
+  ],
+  "okresy": [
+    {
+      "kiedy": "1577",
+      "co": "Król Stefan Batory zlecił przekop Mierzei Wiślanej, który według autora nie doszedł do skutku przez sprzeciw Gdańska i Prus."
+    },
+    {
+      "kiedy": "1976",
+      "co": "Robotnicze protesty w Radomiu, Ursusie i Płocku; wojewoda mazowiecki przyznał po 31 latach po 1000 zł około 500 uczestnikom."
+    },
+    {
+      "kiedy": "1981",
+      "co": "Pielgrzymka delegacji „Solidarności” do papieża, której uczestnicy są w tekście typowani jako „Delegat”."
+    },
+    {
+      "kiedy": "do 2010",
+      "co": "Zapowiedź ministra gospodarki morskiej przekopu przez Mierzeję Wiślaną pod wsią Skowronki."
+    },
+    {
+      "kiedy": "około 2014",
+      "co": "Według autora USA zaczną wtedy eksploatować własne złoża ropy."
+    },
+    {
+      "kiedy": "sierpień 2006",
+      "co": "Wojna w Libanie, sprawa Delegata, spór o wystawę Steinbach i honorowe obywatelstwo Grassa, wycinka lasów w Beskidach (ok. 120 tys. drzew), postój „Rotterdamu”."
+    }
+  ],
+  "zrodla_cytowane": [
+    "Arystoteles – cytat o demokracji (motto)",
+    "Reuters – informacja o zwolnieniu syna bin Ladena w Iranie",
+    "The Independent – o propozycji prof. Crutzena (siarka w atmosferze)",
+    "Washington Post – ocena stosunków Izraela z USA",
+    "Jan M. Fijor – artykuł w tygodniku „Wprost” o oddaniu Niemcom akt zbrodni wojennych",
+    "Der Spiegel – o członkach Związku Wypędzonych w NSDAP",
+    "France Presse – o propozycji referendum Haidera w Austrii",
+    "Życie Warszawy – o zmowie milczenia wśród hierarchów Kościoła"
+  ]
+}

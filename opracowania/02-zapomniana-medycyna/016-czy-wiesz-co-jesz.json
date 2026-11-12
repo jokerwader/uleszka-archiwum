@@ -1,0 +1,78 @@
+{
+  "id": "medalt/grande/eee",
+  "tytul": "CZY WIESZ CO JESZ ?",
+  "streszczenie": "Strona jest słownikiem dodatków do żywności oznaczonych symbolami E: barwników, konserwantów, przeciwutleniaczy, zagęszczaczy i innych, ułożonym według numerów na podstawie duńskiej listy z lipca 1987 roku. Przy każdym dodatku autor podaje pochodzenie, zastosowanie, ciekawostki historyczne i uwagi o bezpieczeństwie, często ironicznie komentując obawy przed dodatkami. Autor twierdzi, że wiele dodatków uznawanych w mediach za groźne jest w gruncie rzeczy bezpieczne lub naturalnego pochodzenia, a zarzuty (np. o rakotwórczość) są przesadzone lub bezpodstawne.",
+  "tezy": [
+    {
+      "teza": "Symbol E na opakowaniu oznacza, że dodatek znajduje się na liście zatwierdzonej przez władze krajów europejskich.",
+      "cytat": "Symbole E umieszczane na opakowaniu są deklaracjami producenta, że substancje dodane do żywności zostały użyte w ilości odpowiadającej przeznaczeniu",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Zarzuty, że karmel (E 150) jest szkodliwy, wynikały z politycznej akcji przeciwko Ameryce, a dowodów na jego rakotwórczość nie znaleziono.",
+      "cytat": "Koncern ten zgodził się nawet na produkcję swojego napoju w postaci bezbarwnej, jasnoszarej, ale nonsensowna akcja skończyła się z chwilą odcięcia dotacji na ten cel przez przeciwników USA.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Antyoksydanty BHA i BHT są w Polsce bezpodstawnie uznawane za rakotwórcze, a rakotwórcze mogą być raczej produkty utlenienia tłuszczów.",
+      "cytat": "Osławione przez środki masowego przekazu antyoksydanty BHA i BHT, nazywane w Polsce bezpodstawnie rakotwórczymi.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Kwas cytrynowy (E 330) został niesłusznie oskarżony przez dziennikarzy o działanie rakotwórcze.",
+      "cytat": "Doskonały przeciwutleniacz, też zniesławiony przez nieodpowiedzialnych dziennikarzy, którzy - powołując się na anonimowe źródła zachodnie - twierdzą, że działa rakotwórczo.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Amerykańska FDA wycofała amarant w 1976 roku, ale Duńczycy nie uznali badań za przekonujące i zachowali go na swojej liście.",
+      "cytat": "W roku 1976 został wycofany z listy FDA substancji dopuszczonych do stosowania w przemyśle spożywczym, w produktach farmaceutycznych i w kosmetykach.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Dopuszczone barwniki azowe są bezpieczne, bo mają w cząsteczce grupę sulfonową i rozkładają się do nieszkodliwych kwasów.",
+      "cytat": "Dlatego dopuszczono tylko te barwniki azowe, które w cząsteczce mają co najmniej jedną grupę sulfonową.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Glin i jego sole bywały podejrzewane o sprzyjanie chorobie Alzheimera, mimo to są dopuszczone do dekoracji słodyczy, a w prasie reklamuje się preparaty z solami glinu.",
+      "cytat": "Metaliczny glin i jego sole były swego czasu podejrzane o sprzyjanie rozwojowi choroby Alzheimera.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Azotyny i azotany są niezbędne do produkcji szynki i wędlin, a azotany mogą też pozostawać w warzywach po nawożeniu.",
+      "cytat": "Azotyny i azotany - bez nich nie byłoby szynki i innych wędlin.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Likopen jest strukturą obcą organizmowi, ale skoro występuje w pomidorach, nie powinien budzić obaw.",
+      "cytat": "Gdyby ta okoliczność miała być podstawą obaw, to należałoby zrezygnować z jedzenia pomidorów, które zawierają ten związek.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Metaliczne złoto (E 175) nie może w organizmie przejść w sole złota, więc jest bezpieczne.",
+      "cytat": "Każdy chemik zaświadczy, że metaliczne złoto nie może przejść w organizmie w sole złota!",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Dodatek E 900 (silikon do form piekarniczych) pochodzi z rodziny silikonów używanych do powiększania biustu i przechodzi do pieczywa.",
+      "cytat": "Jako ciekawostka: wymieniony silikon pochodzi z rodziny silikonów stosowanych do sztucznego powiększania biustu.",
+      "dziedzina": "inne"
+    }
+  ],
+  "tematy": ["dodatki do żywności", "symbole E", "barwniki spożywcze", "konserwanty", "przeciwutleniacze", "zagęszczacze", "bezpieczeństwo żywności", "rakotwórczość"],
+  "osoby": ["Leon Marchlewski", "Hofmann"],
+  "miejsca": ["Dania", "Polska", "USA", "Sycylia", "Łódź"],
+  "okresy": [
+    { "kiedy": "1842", "co": "Wydzielono kurkuminę w stanie czystym." },
+    { "kiedy": "1894", "co": "Leon Marchlewski wydzielił w stanie czystym kwas karminowy." },
+    { "kiedy": "1859", "co": "Hofmann opisał kwas sorbinowy." },
+    { "kiedy": "1670", "co": "Po raz pierwszy otrzymano kwas mrówkowy z suchej destylacji mrówek." },
+    { "kiedy": "1976", "co": "Amerykańska FDA wycofała amarant z listy dozwolonych barwników." },
+    { "kiedy": "lipiec 1987", "co": "Data duńskiej listy dodatków, na której oparto zestawienie." }
+  ],
+  "zrodla_cytowane": [
+    "Merck Index – Indeks Mercka",
+    "Hofmann – Liebigs Annalen (opis kwasu sorbinowego)",
+    "Dania, ministerstwa środowiska – lista dodatków do żywności z lipca 1987 (tytuł nie podany)"
+  ]
+}

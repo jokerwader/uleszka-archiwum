@@ -1,0 +1,60 @@
+{
+  "id": "medalt/sitwa",
+  "tytul": "Wszechmocna sitwa",
+  "streszczenie": "Tekst przedrukowuje reportaż Anny Binkowskiej o długotrwałych, bezkarnych sprawach przeciw polskim lekarzom: pozostawionej w brzuchu chuście chirurgicznej, śmierci piętnastolatki u dentysty we Wrocławiu i zgonie pacjenta w warszawskim szpitalu po upadku z krzesła. Reportaż pokazuje opieszałe śledztwa, umorzenia, niszczenie dowodów i łagodne opinie biegłych. Dodano doniesienie o rekordowym odszkodowaniu za błąd operacyjny. Redaktor strony kończy ostrym komentarzem: oskarża rząd, izby lekarskie, prokuratorów i sędziów o krycie lekarzy oraz sugeruje powrót do surowości kodeksu Hammurabiego.",
+  "tezy": [
+    {
+      "teza": "Sprawy dotyczące błędów lekarskich w Polsce ciągną się latami i kończą się umorzeniem lub przedawnieniem, bez kary dla winnych.",
+      "cytat": "Jak to się dzieje, że nawet w tak głośnych sprawach nie zapadł jeszcze żaden wyrok, mimo że minęły lata.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "W 1998 r. w szpitalu w Wołominie pozostawiono w ciele pacjentki serwetę chirurgiczną, a sąd warunkowo umorzył postępowanie.",
+      "cytat": "Lekarz Igor P. i położna Barbara W. podczas zabiegu pozostawili w ciele pacjentki serwetę chirurgiczną.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Piętnastolatka zmarła we wrocławskim gabinecie z powodu rażących uchybień anestezjologa i braku odpowiedniego sprzętu.",
+      "cytat": "Nie dość, że przedawkował środek znieczulający i korzystał ze sprzętu, który nie miał atestu, to użył przeterminowanych leków.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Pacjent w warszawskim szpitalu zmarł, bo nie wykonano na czas tomografii mimo podejrzenia pęknięcia czaszki, choć gabinet był 200 metrów od sali.",
+      "cytat": "Gabinet z tomografem komputerowym znajduje się w odległości zaledwie 200 metrów od sali, na której konał, nie trzeba było wzywać karetki, wystarczyło wwieźć chorego do windy.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Prokuratura i organy samorządu lekarskiego bagatelizują sprawy, uznając zgon pacjenta za przypadek incydentalny.",
+      "cytat": "Prokurator odpowiedział mi, że nie widzi powodu do zawieszenia, gdyż był to przypadek incydentalny!",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Podczas śledztwa zniszczono wycinki do badań histopatologicznych, przez co nie da się ustalić dawki leku.",
+      "cytat": "Dlaczego nadzorujący śledztwo doprowadził do zniszczenia wycinków, pobranych do badań histopatologicznych?",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Lekarze nie ponoszą finansowych skutków swoich błędów, bo odszkodowania płacą szpitale z ubezpieczenia.",
+      "cytat": "To ostatnie - jak dowiedzieliśmy się, płacić będzie szpital z ubezpieczenia. Żaden z lekarzy nie zapłaci za błąd z własnej kieszeni.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Redaktor twierdzi, że izby lekarskie, biegli, prokuratorzy i sędziowie kryją się nawzajem, a lekarze mogą bezkarnie zabijać.",
+      "cytat": "W Izbach Lekarskich siedzi medyczna gerontokracja zadowolona z ciepłej posady, która nie widzi powodów do wprowadzania jakichkolwiek zmian.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Redaktor proponuje powrót do surowości starożytnego kodeksu Hammurabiego wobec lekarzy.",
+      "cytat": "Czy nie czas w Polsce wrócić do starożytnego kodeksu Hammurabiego - \"Jeżeli lekarz zrobi człowiekowi głębokie cięcie nożem z brązu i spowoduje śmierć onego człowieka",
+      "dziedzina": "historia"
+    }
+  ],
+  "tematy": ["błędy lekarskie", "sitwa", "wymiar sprawiedliwości", "odpowiedzialność lekarzy", "izby lekarskie", "przedawnienie", "polska służba zdrowia", "kodeks hammurabiego"],
+  "osoby": ["Anna Binkowska", "Małgorzata Król", "Kasia Szejnwald", "Stanisław Szejnwald", "Dariusz Rafalski", "Zbigniew Gosk", "Michał O.", "Grażyna Durek", "Jarosław Boba", "Hammurabi"],
+  "miejsca": ["Wołomin", "Wrocław", "Warszawa", "Kraków", "Polska"],
+  "okresy": [
+    { "kiedy": "1998", "co": "cesarskie cięcie w Wołominie, w którym pozostawiono serwetę chirurgiczną" },
+    { "kiedy": "2002", "co": "Sąd Rejonowy w Wołominie warunkowo umorzył postępowanie; w październiku zmarła Kasia Szejnwald we Wrocławiu" }
+  ],
+  "zrodla_cytowane": ["Anna Binkowska – Sitwa świętych krów (Onet.pl)", "Fakty.Interia.pl – Rekordowe odszkodowanie", "kodeks Hammurabiego"]
+}

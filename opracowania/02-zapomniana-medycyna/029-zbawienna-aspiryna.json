@@ -1,0 +1,45 @@
+{
+  "id": "medalt/aspiryna",
+  "tytul": "\"Zbawienna\" aspiryna",
+  "streszczenie": "Tekst to przedruk fragmentu książki Juliana Winstona o historii homeopatii, dotyczącego epidemii grypy z lat 1918-19. Zebrano w nim relacje amerykańskich lekarzy homeopatów, według których pacjenci leczeni homeopatycznie umierali rzadko (poniżej 1-2%), a leczeni metodami konwencjonalnymi, zwłaszcza aspiryną i salicylanami, często (do 30% i więcej). Cytowani lekarze twierdzą, że aspiryna osłabiała serce i zwiększała śmiertelność. Na końcu redaktor strony stawia pytanie o rzekomą ochronę przed zawałem dzięki codziennej aspirynie.",
+  "tezy": [
+    {
+      "teza": "W epidemii grypy 1918 roku pacjenci leczeni homeopatycznie umierali znacznie rzadziej (ok. 1%) niż leczeni konwencjonalnie (ok. 30%).",
+      "cytat": "Dean W.A. Pearson z Filadelfii zebrał łącznie 26,795 przypadków grypy wyleczonej przez lekarzy homeopatów, przy śmiertelności równej 1,05%, podczas gdy średnia śmiertelności przy leczeniu metodami konwencjonalnymi wynosiła 30%.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Aspiryna i salicylany przyczyniły się do większej liczby zgonów niż sama grypa.",
+      "cytat": "Istnieje pewien lek, który bezpośrednio lub pośrednio przyczynił się do większej liczby zgonów niż sama grypa.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Aspiryna osłabiała serce, zwiększała śmiertelność, spowalniała rekonwalescencję i maskowała objawy.",
+      "cytat": "W wielu przypadkach aspiryna osłabiła serce, negatywnie wpłynęła na poziom sił witalnych pacjentów, zwiększyła poziom śmiertelności oraz znacznie spowolniła proces rekonwalescencji.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Śmiertelność w zapaleniu płuc przy leczeniu konwencjonalnym (salicylany, chinina) sięgała 60%, a u homeopatów kilku procent.",
+      "cytat": "Jedynymi środkami, jakimi dysponowali lekarze stosujący medycynę konwencjonalną były salicylany, z aspiryną i chininą włącznie, co bardzo często prowadziło do przypadków, w których śmiertelność wśród pacjentów leczonych na zapalenie płuc wynosiła 60%.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Większość zgonów wywołało zjadliwe zapalenie płuc, szczególnie groźne dla osłabionych środkami przeciwbólowymi.",
+      "cytat": "Czytając notatki dotyczące epidemii można wnioskować, że większość zgonów wywołana była przez zjadliwą odmianę zapalenia płuc, szczególnie niebezpieczną dla chorych, którzy osłabili swój organizm zażywając środki przeciwbólowe",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Aspiryna najprawdopodobniej nie leczy żadnej choroby i powinna być wycofana z użycia.",
+      "cytat": "Aspiryna najprawdopodobniej wcale nie działa lecząco na żadną chorobę i powinna być wycofana z użycia.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["grypa 1918", "homeopatia", "aspiryna", "salicylany", "śmiertelność", "zapalenie płuc", "medycyna konwencjonalna"],
+  "osoby": ["Julian Winston", "H.A. Roberts", "W.A. Dewey", "W.A. Pearson", "Frank Wieland", "Dudley A. Williams", "E.F. Sappington", "T.A. McCann", "W.F. Edmundson", "Frank L. Newton", "Guy Beckly Stearns", "Cora Smith King", "J.P. Huff", "Raymond Seidel"],
+  "miejsca": ["Filadelfia", "Connecticut", "Chicago", "Providence", "Waszyngton", "Dayton", "Pittsburgh", "Nowy Jork", "Kentucky"],
+  "okresy": [
+    { "kiedy": "1918-1919", "co": "epidemia grypy zwana Wielką Białą Epidemią i leczenie jej homeopatią" },
+    { "kiedy": "1920", "co": "publikacja relacji lekarzy w Journal of the American Institute of Homeopathy" }
+  ],
+  "zrodla_cytowane": ["Julian Winston – zarys historii homeopatii (The New England Journal of Homeopathy)", "W.A. Dewey – Homeopathy In Influenza - A Chorus of Fifty In Harmony (Journal of the American Institute of Homeopathy, 1920)"]
+}

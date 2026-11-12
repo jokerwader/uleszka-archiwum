@@ -1,0 +1,57 @@
+{
+  "id": "medalt/kapusta",
+  "tytul": "Co może zwykła kapusta?",
+  "streszczenie": "Tekst przedstawia kapustę (białą, włoską, czerwoną) jako najskuteczniejszą roślinę leczniczą, powołując się na ranking dr Górnickiej. Autor opisuje przykładanie świeżych liści na rany, owrzodzenia, bóle i stany zapalne oraz picie soku z kapusty na choroby przewodu pokarmowego, anemię, szkorbut, marskość wątroby i inne. Dalej podaje alfabetyczny wykaz dolegliwości z zaleceniami (liście, sok, surówka), zaznaczając, że opiera się na doświadczeniach lekarzy francuskich i że w poważniejszych przypadkach decyduje lekarz. Autor twierdzi, że kapusta jest najlepiej spożywana na surowo, bo gotowanie niszczy witaminy i enzymy.",
+  "tezy": [
+    {
+      "teza": "Kapusta jest najskuteczniejszą rośliną leczniczą spośród dziesięciu porównywanych, a pozostałe (kiełki zbożowe, cytryna, marchew itd.) mają ułamek jej właściwości.",
+      "cytat": "W leczeniu naturalnym w grupie 10 najbardziej skutecznych w leczeniu roślin, pierwsze miejsce przypada bezapelacyjnie kapuście.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Zewnętrzne stosowanie świeżych liści kapusty leczy bardzo szeroki zakres chorób, w tym zapalenia, infekcje skóry, a nawet guzy i nowotwory.",
+      "cytat": "Stosowane zewnętrznie leczą następujące choroby: katar, zapalenie oskrzeli, choroby żołądkowo-jelitowe, wątrobowe, pęcherzowe, egzemę, opryszki, trądzik, łupież, gangreny i martwice, guzy i nowotwory",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Nasilenie ropienia lub bólu po przyłożeniu liści jest dowodem odtruwania i regeneracji tkanek, a nie szkodliwego działania.",
+      "cytat": "Zjawiska te potwierdzają proces odtruwania i regenerację leczonych tkanek.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Kapusta leczy anemię dzięki zawartości żelaza, magnezu i miedzi, a także jest najlepszym lekiem na szkorbut.",
+      "cytat": "Kapusta była i jest najlepszym lekiem na szkorbut.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Sok z kapusty i sama kapusta pomagają w marskości wątroby i puchlinie brzusznej.",
+      "cytat": "Na marskość i puchlinę brzuszną można spożywać z korzyścią sok z kapusty (400 g dziennie w porcjach po 200 g) lub kapustę gotowaną bądź surową (surówki).",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Kapusta działa odtruwająco i odwykowo w alkoholizmie.",
+      "cytat": "Spożywanie kapusty surowej lub duszonej oraz świeżego soku działa odtruwająco i odwykowo.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Witaminy i enzymy kapusty giną przy gotowaniu, dlatego najlepiej jeść ją surową.",
+      "cytat": "Należy jednak pamiętać, że witaminy i enzymu łatwo przechodzą do wody i są niszczone podczas gotowania, dlatego zaleca się spożywać kapustę w stanie surowym.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Enzymy zawarte w kapuście kiszonej dezynfekują przewód pokarmowy i pomagają trawić tłuszcze i błonnik, więc nie należy jej płukać.",
+      "cytat": "Enzymy kapusty działają silnie dezynfekujące na przewód pokarmowy.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Liście kapusty przyłożone na ciało zmniejszają przekrwienie i normalizują krwioobieg, także przy chorobach serca i nadciśnieniu.",
+      "cytat": "Przykładanie miejscowe liści zmniejsza przekrwienie i normalizuje krwioobieg.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["kapusta", "sok z kapusty", "okłady z liści", "medycyna naturalna", "odtruwanie", "szkorbut", "kapusta kiszona", "leczenie ziołami"],
+  "osoby": ["doktor Górnicka"],
+  "miejsca": [],
+  "okresy": [],
+  "zrodla_cytowane": ["doktor Górnicka – doświadczenia lekarzy francuskich (bez podanego tytułu)"]
+}

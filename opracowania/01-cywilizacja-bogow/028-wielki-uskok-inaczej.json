@@ -1,0 +1,65 @@
+{
+  "id": "hipoteza/hipowusz2",
+  "tytul": "Wielki uskok inaczej",
+  "streszczenie": "Autor proponuje mechanizm „wielkiego uskoku skorupy ziemskiej” oparty na hipotezie, że jądro Ziemi jest naturalnym reaktorem atomowym. Zakłada, że pole elektromagnetyczne powstaje w skorupie dzięki wyładowaniom atmosferycznym i że skorupa jest sprzężona z płaszczem jak sprzęgło hydrauliczne. Zmiany intensywności burz mogłyby powodować poślizg tego sprzęgła, czyli przesunięcie skorupy, zgodnie z hipotezą Hapgooda. Zastanawia się też nad wpływem pola magnetycznego i Księżyca na trzęsienia ziemi. Krytykuje naukę za brak badań i lekceważenie ostrzeżeń zapisanych w starożytnych przekazach (Noe, Henoch, Indianie, Akakor).",
+  "tezy": [
+    {
+      "teza": "Jądro Ziemi jest działającym od miliardów lat reaktorem atomowym, zbudowanym z ciężkich pierwiastków promieniotwórczych.",
+      "cytat": "To, że w środku Ziemi działa już miliardy lat atomowy reaktor nie jest tylko moim wymysłem.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Jądro składa się z pierwiastków ciężkich i promieniotwórczych, które spłynęły w głąb podczas formowania planety.",
+      "cytat": "Jądro Ziemi to pierwiastki ciężkie, w tym przeważająca większość promieniotwórczych, które \"spłynęły\" do wewnątrz w procesie formowania się planety z pyłu kosmicznego.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Reakcja rozszczepiania zachodzi na powierzchni jądra, a po wygaśnięciu reaktora Ziemia wystygnie.",
+      "cytat": "Reakcja rozszczepiania pierwiastków zachodzi na powierzchni jądra i jądro spala się jakby do wewnątrz.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Ziemia oddaje w kosmos więcej ciepła, niż otrzymuje od Słońca, co świadczy o wewnętrznym źródle ciepła.",
+      "cytat": "A co zrobić z bilansem ciepnym, który mówi, że Ziemia oddaje w kosmos więcej ciepła niż może otrzymać go od Słońca?",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Pole elektromagnetyczne Ziemi jest polem „naskórkowym”, generowanym w skorupie przez wyładowania atmosferyczne, a nie w jądrze.",
+      "cytat": "Z tej koncepcji wynika także, że nasze pole elektromagnetyczne jest polem \"naskórkowym\" i jest generowane oraz utrzymywane tylko w obrębie skorupy ziemskiej.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Suma sił wyładowań atmosferycznych może podtrzymywać obrót Ziemi.",
+      "cytat": "Pomnóżmy to wszystko przez ilość wyładowań w czasie, a otrzymamy siłę być może zdolną do poruszenia skorupy ziemskiej i podtrzymywania obrotu kuli ziemskiej.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Skorupa jest sprzężona z płaszczem jak sprzęgło hydrauliczne, a utrata przyczepności oznacza wielki uskok skorupy.",
+      "cytat": "Skorupa ziemska nie jest umocowana na stałe do płynnego płaszcza, a siła obrotu jest przenoszona na resztę globu przez siły tarcia występujące na styku skorupa-płaszcz, działając na zasadzie sprzęgła hydraulicznego.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Wielki uskok skorupy ziemskiej może być zjawiskiem cyklicznym i wieloetapowym, zgodnie z hipotezą Hapgooda.",
+      "cytat": "Charles Hapgood najprawdopodobniej miał rację. \"Wielki uskok skorupy ziemskiej\" może być cyklicznym zjawiskiem.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Zmiany pola magnetycznego i położenie Księżyca mogą być powiązane z trzęsieniami ziemi, co warto sprawdzić.",
+      "cytat": "Czy zmiany pola magnetycznego mogą mieć wpływ na trzęsienia ziemi?",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Nauka i ludzie zlekceważyli starożytne ostrzeżenia o kataklizmach, traktując je jak klechdy ludowe.",
+      "cytat": "Dlatego, że ostrzeżenia z przeszłości potraktowano jak klechdy ludowe nie wnikając w treść przekazu.",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": ["wielki uskok skorupy ziemskiej", "jądro ziemi jako reaktor", "pole magnetyczne ziemi", "wyładowania atmosferyczne", "hipoteza hapgooda", "trzęsienia ziemi", "potop", "krytyka nauki", "ostrzeżenia starożytnych"],
+  "osoby": ["Marvin Herndon", "Charles Hapgood", "Cuvier", "Noe", "Henoch"],
+  "miejsca": ["jądro Ziemi", "powierzchnia Gutenberga", "skorupa ziemska", "Akakor"],
+  "okresy": [
+    { "kiedy": "15 marca 2006", "co": "Data dopisku autora o związku pola magnetycznego z trzęsieniami ziemi." },
+    { "kiedy": "300 lat przed potopem", "co": "Według tradycji biblijnej Noe dowiedział się o potopie." }
+  ],
+  "zrodla_cytowane": ["Księga Henocha", "Kronika z Akakor", "Charles Hapgood - (hipoteza wędrówki biegunów)", "Marvin Herndon - (hipoteza georeaktora)"]
+}

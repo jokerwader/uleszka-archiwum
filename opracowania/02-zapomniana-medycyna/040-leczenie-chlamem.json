@@ -1,0 +1,61 @@
+{
+  "id": "medalt/reklama",
+  "tytul": "Leczenie chłamem",
+  "streszczenie": "Tekst zbiera kilka przedruków prasowych o nierzetelnych reklamach leków i żywności w Polsce (Andrzej Dyszel, Dorota Bugajska, PAP, Przekrój). Opisano konkretne reklamy wprowadzające w błąd, liczbę decyzji Głównego Inspektoratu Farmaceutycznego oraz rosnące wydatki na reklamę leków. Dalej omówiono tezę, że jogurty probiotyczne (Actimel) mają niewiele udowodnionych właściwości, i zarzuty, że publiczne instytuty rekomendują produkty za pieniądze producentów, choć niemieckie badania wykazały skażenie. Redaktor strony komentuje to ironicznie i krytykuje unijną metodę unikania odpowiedzialności.",
+  "tezy": [
+    {
+      "teza": "Reklamy leków w Polsce często wprowadzają w błąd lub naruszają prawo.",
+      "cytat": "Reklamy leków sprzedawanych w Polsce często oszukują potencjalnych klientów, wprowadzają ich w błąd lub zachęcają do kupna sposobami sprzecznymi z prawem.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Producent melatoniny reklamował ją jako środek hamujący komórki rakowe i opóźniający starzenie, choć jest zarejestrowana tylko jako pomocna w zaburzeniach snu.",
+      "cytat": "tymczasem reklamowana jest jako preparat przyczyniający się do... hamowania wzrostu komórek rakowych i wspomagający zwalczanie chorób nowotworowych, a także opóźniający proces starzenia.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Wydatki firm farmaceutycznych na reklamę w Polsce wzrosły ponad dwukrotnie w pięć lat.",
+      "cytat": "w 2000 r. firmy produkujące leki i zajmujące się ich sprzedażą wydały na reklamę w Polsce zaledwie 450 mln zł, w roku ubiegłym zaś ponad miliard.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Główny Inspektorat Farmaceutyczny wydał setki decyzji wstrzymujących reklamy, a producenci stosują wybiegi, by je obejść.",
+      "cytat": "Główny Inspektorat Farmaceutyczny wydał już łącznie 166 decyzji nakazujących natychmiastowe wstrzymanie emisji niedozwolonych reklam leków.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Probiotyczne jogurty nie mają udowodnionego wpływu na odporność, a tylko jedno twierdzenie z etykiety Actimela zostało uznane przez francuską agencję za zgodne z prawdą.",
+      "cytat": "Po półrocznych badaniach, stwierdzono, że tylko jedna opinia podana na etykiecie Actimela jest zgodna z prawdą",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Polskie instytuty naukowe dają atesty i rekomendacje produktom za duże pieniądze od producentów, co prowadzi do nadużyć.",
+      "cytat": "Za możliwość umieszczenia na opakowaniu produktu logo instytutu koncerny płacą olbrzymie pieniądze, dlatego często dochodzi do nadużyć.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Niemieckie badania wykazały, że polecane przez instytuty woda Żywiec Zdrój i kawa Astra były zanieczyszczone.",
+      "cytat": "W rozpuszczalnej kawie Astrze Classic polecanej przez Instytut Żywności i Żywienia niemieccy laboranci znaleźli dwukrotnie więcej trującej ochratoksyny A wytwarzanej przez pleśń, niż zezwalają na to europejskie normy.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Zdaniem dr. Hałata naukowcy sprzedali się koncernom, a mamy do czynienia z medycyną reklamową.",
+      "cytat": "Naukowcy zwyczajnie sprzedali się koncernom - twierdzi dr Zbigniew Hałat, lekarz epidemiolog, prezes Stowarzyszenia Ochrony Zdrowia Konsumentów.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Popularne preparaty ziołowe reklamowane jako bezpieczne mogą szkodzić, bo wchodzą w interakcje z lekami.",
+      "cytat": "Popularne wyciągi z dziurawca zmniejszają skuteczność m.in. leków na nadciśnienie i cukrzycę, zaś miłorząb japoński szkodzi pacjentom zażywającym równocześnie aspirynę.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["reklama leków", "nierzetelna reklama", "główny inspektorat farmaceutyczny", "probiotyki", "atesty", "lobby żywnościowe", "samoleczenie", "zioła i interakcje"],
+  "osoby": ["Andrzej Dyszel", "Dorota Duliban", "Dorota Bugajska", "Jarosław Woroń", "Adam Kliś", "Wojciech Matusewicz", "Zbigniew Hałat"],
+  "miejsca": ["Polska", "Francja", "Niemcy", "Szczyrk", "Poznań"],
+  "okresy": [
+    { "kiedy": "2000", "co": "wydatki na reklamę leków w Polsce wyniosły ok. 450 mln zł" },
+    { "kiedy": "2003", "co": "francuska agencja AFFSA oceniała twierdzenia z etykiety Actimela" },
+    { "kiedy": "2005", "co": "54 decyzje GIF wstrzymujące reklamy; Polacy wydali na leki ponad 18 mld zł" }
+  ],
+  "zrodla_cytowane": ["Andrzej Dyszel – Lekarstwa na wszystko (Przegląd)", "Dorota Bugajska – Jak oszukać konsumenta (interia.pl)", "PAP/wp.pl – Reklamy leków mogą być szkodliwe", "Przekrój – Instytuty naukowe reklamują zamiast badać", "Świat Konsumenta – badania niemieckich laboratoriów"]
+}

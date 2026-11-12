@@ -1,0 +1,66 @@
+{
+  "id": "ameryka/machu",
+  "tytul": "Machu Picchu",
+  "streszczenie": "Autor oprowadza czytelnika po Machu Picchu i kwestionuje oficjalne datowanie na ok. 1500 r. n.e. oraz tradycyjne nazwy obiektów (świątynie, zegar słoneczny). Zwraca uwagę na precyzję obróbki kamienia, trapezoidalne nisze z zaciekami, wycięcia, otwory i czopy, wyryte w skale siatki oraz kamienne tarasy chroniące przed trzęsieniem ziemi. Twierdzi, że miejsce nie miało charakteru sakralnego ani mieszkalnego, nie ma w nim cmentarzy ani kanalizacji, a obróbka kamienia wymagała nieznanej techniki. Wiąże opuszczenie miasta z trzęsieniem ziemi sprzed ok. 12,5 tys. lat i uznaje je za dzieło epoki, gdy Bogowie stąpali po ziemi.",
+  "tezy": [
+    {
+      "teza": "Machu Picchu należy do jednolitego „kręgu inkaskiego” budowli o wspólnym stylu łączenia kamiennych bloków, wokół Cusco.",
+      "cytat": "Miasto należy do obszaru, który ja określam mianem \"Inkaskiego kręgu\".",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Oficjalne datowanie miasta na ok. 1500 r. n.e. jest nieuzasadnione; Machu Picchu nie zbudowali średniowieczni Indianie, lecz pochodzi ono z czasów, gdy Bogowie stąpali po ziemi.",
+      "cytat": "Machu Picchu nie jest na pewno dziełem średniowiecznych Indian. Sądzę, że należy go wiązać z wiekiem, gdy Bogowie stąpali na ziemi.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Nie ma śladów zamieszkania w XVI wieku (cmentarzy, kanalizacji), a miasto opuszczono z powodu wielkiego trzęsienia ziemi sprzed 12,5 tys. lat.",
+      "cytat": "Sądzę, że opuszczenie miasta należy wiązać z wielkim trzęsieniem ziemi 12,5 tys. lat temu.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Obszar jest za mały na miasto, a tarasy służyły ochronie stoków przed osunięciem podczas trzęsień ziemi, nie uprawie.",
+      "cytat": "Całość otoczona terasami, których zasadniczym zadaniem było i jest chronienie stoków górskich przed osunięciem się podczas trzęsienia ziemi i zapewne nigdy nie służyły za pola uprawne.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Budowle nie miały charakteru kultowego; nazwy nadane przez archeologów są umowne, a sam kompleks nie ma nic wspólnego z sacrum.",
+      "cytat": "Dla mnie wniosek jest prosty. Machu Picchu nie miało nic wspólnego z \"sacrum\".",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Z trapezoidalnych nisz wyciekła jakaś substancja, która odbarwiła kamień, co sugeruje przechowywanie tam czegoś standardowego i płynnego.",
+      "cytat": "Widać wyraźnie, że z nisz \"coś\" wyciekło i to \"coś\" wyraźnie odbarwiło kamień.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Intihuatana nie jest słonecznym zegarem, bo nie jest skierowana w kierunkach geograficznych.",
+      "cytat": "Czy faktycznie był to słoneczny zegar? Nie jest skierowany w kardynalnych geograficznych kierunkach świata.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Obróbka kamienia (cięcie, wiercenie, dopasowanie) wskazuje na technikę dla nas nieznaną, jakby kamień był plasteliną.",
+      "cytat": "Moja wyobraźnia podsuwa dwie techniki. Używano czegoś, co pozwalało ciąć kamień jak masło, albo znano technikę doprowadzania kamienia do konsystencji naszej plasteliny.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Wyryte w skale siatki mogły służyć do precyzyjnego dopasowywania kamieni, co wskazuje na nieznaną cywilizację.",
+      "cytat": "Czy faktycznie mówimy o średniowiecznych muratorach, czy też o nieznanej cywilizacji i jej nieznanej technice?",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Ślady przesunięć bloków i zapadnięty narożnik świątyni głównej wskazują na wielki wstrząs oraz istnienie podziemnych pomieszczeń.",
+      "cytat": "Na pierwszym zdjęciu widać narożnik świątyni głównej. Zapadł się tylko on i wygląda jakby zarwał strop znajdujący się pod nim.",
+      "dziedzina": "geologia"
+    }
+  ],
+  "tematy": ["machu picchu", "inkowie", "krąg inkaski", "obróbka kamienia", "trzęsienie ziemi", "cywilizacja bogów", "intihuatana", "huayna picchu", "megality", "krytyka archeologii"],
+  "osoby": ["Hiram Bingham", "Anteusz", "Herakles", "Erich von Däniken"],
+  "miejsca": ["Machu Picchu", "Huayna Picchu", "Cusco", "rzeka Urubamba", "Wilcabamba", "Intipunku", "Pisaq", "Mykeny"],
+  "okresy": [
+    { "kiedy": "ok. 1500 n.e.", "co": "Według oficjalnej historii miasto zbudowała miejscowa ludność." },
+    { "kiedy": "1911", "co": "Hiram Bingham odkrywa Machu Picchu, szukając Wilcabamby." },
+    { "kiedy": "ok. 12,5 tys. lat temu", "co": "Według autora wielkie trzęsienie ziemi, które zniszczyło miasto i doprowadziło do jego opuszczenia." }
+  ],
+  "zrodla_cytowane": []
+}

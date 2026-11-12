@@ -1,0 +1,23 @@
+{
+  "id": "cybog/wstepcb",
+  "tytul": "Wstęp",
+  "streszczenie": "Autor przedstawia założenia całego działu. Twierdzi, że oficjalna historia i teoria ewolucji są kontrolowane przez grupę naukowców broniących swojego monopolu, a początki cywilizacji opisują błędnie. Proponuje hipotezę o dawnej wysoko rozwiniętej „cywilizacji Bogów”, cyklicznych kataklizmach (wielkich uskokach skorupy ziemskiej), realnej Atlantydzie i błędnym przypisywaniu starożytnym ludom budowli, których nie mogły zbudować. Ostrzega, że kolejny globalny kataklizm jest nieuchronny, a ludzkość jest na niego nieprzygotowana.",
+  "tezy": [
+    { "teza": "Na Ziemi istniała dawniej wielka technicznie rozwinięta cywilizacja Bogów, której ludzie zawdzięczają istnienie i która zostawiła materialne ślady.", "cytat": "Na Ziemi w przeszłości istniała wielka techniczna cywilizacja - cywilizacja Bogów, której my ludzie zawdzięczamy swoje istnienie.", "dziedzina": "historia" },
+    { "teza": "Ziemia cyklicznie doznaje ogólnoświatowych kataklizmów, które niszczyły dorobek cywilizacji, a ślady ostatniego są celowo lekceważone.", "cytat": "niszczących zarówno dorobek cywilizacji Bogów jak i ludzkości. Widoczne ślady, które zostawił ostatni kataklizm są celowo niezauważane i lekceważone", "dziedzina": "geologia" },
+    { "teza": "Atlantyda istniała naprawdę, a jej poszukiwań unika się, bo zagrażałaby obowiązującej wersji historii.", "cytat": "Atlantyda istniała naprawdę, ale nikt nie kwapi się z jej odszukaniem, gdyż stanowi to ogromne zagrożenie dla dzisiejszej, tak wypieszczonej lecz kłamliwej historii", "dziedzina": "historia" },
+    { "teza": "Przypisywanie Egiptowi, Rzymowi czy Chinom wielkich budowli i supercywilizacji jest oszustwem sprzecznym z teorią liniowego postępu.", "cytat": "Wprowadzenie do historii super cywilizacji Egiptu, Rzymu czy Chin, nie bacząc że przeczy to głoszonej teorii liniowego postępu", "dziedzina": "archeologia" },
+    { "teza": "Garstka wpływowych naukowców, polityków i mediów decyduje o obowiązującej wizji początków cywilizacji i tłumi odmienne poglądy.", "cytat": "Dlatego, że o tym wszystkim decyduje garstka arogantów mających przemożny wpływ na światową naukę, politykę i media.", "dziedzina": "społeczeństwo" },
+    { "teza": "Należy oddzielić budowle, które mógł wznieść człowiek, od tych, do których nie miał siły ani techniki.", "cytat": "Oddzielmy budowle, które mógł zbudować człowiek od tych, których zbudować nie mógł, bo nie miał ani siły ani techniki.", "dziedzina": "archeologia" },
+    { "teza": "Linia brzegowa kontynentów mogła się znacznie zmieniać wskutek wielkich uskoków skorupy ziemskiej (hipoteza Hapgooda), więc dawne miejsca mogą leżeć pod wodą.", "cytat": "Jeśli jednak uzwględnić hipotezę Hapgooda o możliwości zaistnienia wielkiego uskoku skorupy ziemskiej i przyjąć, że taki zaistniał w przeszłości i to niejednokrotnie", "dziedzina": "geologia" },
+    { "teza": "Kolejny ogólnoświatowy kataklizm jest nieunikniony, a ludzkość stracona wieki, które mogła przeznaczyć na przygotowania.", "cytat": "Czy chcemy tego czy nie, następny ogólnoświatowy kataklizm zbliża się i jest tylko kwestią czasu.", "dziedzina": "geologia" }
+  ],
+  "tematy": ["cywilizacja bogów", "kataklizmy", "wielki uskok skorupy ziemskiej", "atlantyda", "krytyka teorii ewolucji", "krytyka nauki oficjalnej", "zmiany linii brzegowej", "przepowiednia kolejnego kataklizmu"],
+  "osoby": ["Hapgood", "Sanchoniathon", "prof. A. Lasota"],
+  "miejsca": ["Egipt", "Rzym", "Chiny", "ocean Indyjski"],
+  "okresy": [
+    { "kiedy": "grudzień 2004", "co": "Tsunami na oceanie Indyjskim, podane jako „drobny” przykład możliwości Ziemi." },
+    { "kiedy": "ponad 3 tysiące lat temu", "co": "Fenicki dziejopisarz Sanchoniathon miał stwierdzić, że ludzie przyzwyczajeni są do zafałszowanych wieści." }
+  ],
+  "zrodla_cytowane": ["Sanchoniathon – cytat o fałszywych wieściach i uprzedzeniach", "Hapgood – hipoteza wielkiego uskoku skorupy ziemskiej"]
+}

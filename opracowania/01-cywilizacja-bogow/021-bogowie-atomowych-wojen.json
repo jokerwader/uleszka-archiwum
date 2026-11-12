@@ -1,0 +1,195 @@
+{
+  "id": "atomwoj/bogatom01",
+  "tytul": "Bogowie atomowych wojen",
+  "streszczenie": "Tekst to obszerne fragmenty książki M. Jesenskiego w przekładzie W. Baranowicza (czyli R. K. Leśniakiewicza), uzupełnione dodatkami Mory, Sidniewy i Leśniakiewiczów. Autor twierdzi, że w odległej przeszłości (ok. 15–12 tys. lat temu) na Ziemi i innych planetach toczyła się globalna wojna z użyciem broni jądrowej, biologicznej i chemicznej, prowadzona przez zaawansowaną cywilizację Atlantydów. Jako dowody podaje opisy z Mahabharaty i sumeryjskich lamentacji, zeszklone mury fortec, radioaktywne szkielety z Mohendżo-Daro, anomalie rudy uranu w Oklo oraz krater Tapanui i Wyspę Wielkanocną. Według niego na orbicie krążą do dziś bojowe satelity tej cywilizacji, których spadki i wybuchy (np. Tunguska 1908, Hebrydy 1996) oraz „komety” średniowiecza miały powodować epidemie, a wirusy i bakterie (HIV, dżuma, cholera) są sztuczną bronią biologiczną. Autor dodaje, że UFO i istoty z uprowadzeń to biorobóty „martwych” maszyn, a w części Mory – że Księżyc został sprowadzony na orbitę, a ludzi stworzono eksperymentem genetycznym bogów. Wniosek ogólny: współczesna ludzkość powtarza błędy poprzedniej cywilizacji i grozi jej podobny los.",
+  "tezy": [
+    {
+      "teza": "Biblijne miasta Sodoma i Gomora zostały zniszczone eksplozjami jądrowymi, o czym świadczy opis w Starym Testamencie i zwojach z Qumran.",
+      "cytat": "Prof. Agrest, który jest ojcem tej hipotezy o zniszczeniu obydwu tych miast przy pomocy eksplozji jądrowych, opiera ją na analizie biblijnego tekstu.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Mohendżo-Daro (cywilizacja Indusu) zniszczył wybuch jądrowy, o czym mają świadczyć zeszklone cegły i silnie radioaktywne szkielety.",
+      "cytat": "kości te były silnie radioaktywne - tak radioaktywne, jak kości ofiar atomowego ataku na Hiroszimę i Nagasaki!!!",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Staroindyjskie eposy, zwłaszcza Mahabharata, opisują użycie broni jądrowej i jej skutki biologiczne (choroba popromienna, skażenie żywności, dekontaminacja w rzece).",
+      "cytat": "Zbieżność opisów atomowych wybuchów i ich skutków biologicznych z sanskryckich tekstów jest więcej, niż oczywista!",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Zeszklone mury fortec (Irlandia, Szkocja, Hattusas, Sacsayhuaman) nie mogły powstać od zwykłych pożarów drewna, lecz od ekstremalnego uderzenia cieplnego wybuchu jądrowego.",
+      "cytat": "Trudno sobie wyobrazić, by 4-metrowej grubości mur został stopiony dzięki podpaleniu kawałków drewna czy wiązek chrustu!!!",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Niedobór uranu-235 w rudzie z Oklo w Gabonie dowodzi, że ktoś w przeszłości celowo wzbogacał uran w celach energetycznych, a nie że działał tam naturalny reaktor.",
+      "cytat": "pozostaje faktem, że ktoś czy coś w przepastnej przeszłości oddzielał izotop 235U od reszty rudy dokładnie tak, jakby chciał przeznaczyć go do celów energetycznych.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Wielka Wojna Bogów-Astronautów zakończyła się 15–12 tysięcy lat temu, a wojujące strony miały na orbicie system satelitów bojowych z bronią masowego rażenia przypominający SDI.",
+      "cytat": "Powyższa hipoteza zakłada, że Wielka Wojna Bogów-Astronautów skończyła się 15-12 tysięcy lat temu.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Średniowieczne „komety” i spadające ognie to w rzeczywistości upadające martwe satelity i głowice z bronią biologiczną, które wywoływały epidemie, a nawet mogły przyczynić się do upadku Rzymu.",
+      "cytat": "Spadki satelitów z bronią B mogły spowodować także upadek Imperium Rzymskiego.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Wirusy takie jak HIV czy Ebola mogły powstać przez mutacje broni biologicznej z satelitów bojowych poddanej przez dziesiątki tysięcy lat promieniowaniu kosmicznemu.",
+      "cytat": "wirusy oraz bakterie na pokładach satelitów bojowych w czasie dziesiątków tysięcy lat mutowały pod wpływem promieniowania kosmicznego, dzięki czemu pojawiły się takie mikroorganizmy, jak wywołujące AIDS wirusy HIV czy gorączkę krwotoczną Ebola...",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Zjadliwość dżumy i cholery jest wynikiem celowych modyfikacji genetycznych sprzed około 12 tysięcy lat, a bakterie te zaprojektowano jako broń biologiczną.",
+      "cytat": "dawno temu ktoś manipulował genami bakterii tak, by były one morderczą bronią przeciwko człowiekowi i zwierzętom, które go otaczają.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Katastrofa tunguska z 1908 roku była wybuchem jądrowym (głowicy bojowej), a nie upadkiem meteorytu czy komety, co ma wynikać z wysokości eksplozji, skutków biologicznych i szklistych kulek.",
+      "cytat": "ekspedycje prof. Zołotowa i prof. Fłorieńskiego potwierdziły, że eksplozja miała miejsce na wysokosci 3-5 km, co zupełnie wyklucza wybuch jakiegoś meteorytu czy bolidu i całkowicie wybuch komety.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "W 1178 roku nad Nową Zelandią eksplodował obiekt o mocy około 60 Mt, czego dowodem jest krater Tapanui, a obserwację tę zapisał kronikarz z Canterbury jako „chwianie się Księżyca”.",
+      "cytat": "Okolice krateru wskazują jednoznacznie na to, że powstał on w momencie wybuchu o mocy rzędu 60 Mt TNT, czyli 1000 razy większej od mocy bomby atomowej typu Hiroshima.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Moai-Kava-Kava z Wyspy Wielkanocnej przedstawiają ofiary choroby popromiennej, a wyspa była celem uderzenia bronią jądrową lub poligonem atomowym.",
+      "cytat": "Oczywistym jest, że wygląd tych ludzi wskazuje na to, że cierpieli oni na chorobę popromienną - konkluduje on.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Rozkład kraterów na Księżycu (pary, łańcuchy, równoległoboki) wskazuje na bombardowanie nuklearne w starożytnej wojnie, a nie na naturalne uderzenia meteorytów.",
+      "cytat": "Okazuje się, że kratery te tworzą określone i logiczne wzory. Występują mianowicie w parach, lub tworzą łańcuchy, szeregi lub równoległoboki.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Według Mory Księżyc jest sztucznie sprowadzoną na orbitę Ziemi planetoidą, a jego zakotwiczenie wywołało potopy, które zatopiły Mu i część Atlantydy.",
+      "cytat": "Przechwycono z Kosmosu niewielką planetoidę Luna, a tor jej obiegu skorygowano tak, aby mogła ona krążyć w Układzie Słonecznym.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Dzisiejszych ludzi stworzyli „bogowie” – ocaleńcy poprzedniej cywilizacji – przez eksperyment genetyczny na prymitywnych plemionach, a późniejsze spory bogów opisują mity i Biblia.",
+      "cytat": "Zdecydowano się więc na śmiały eksperyment biologiczny, którego celem było dokonanie na kilku wybranych plemionach zabiegu genetycznego, pozwalającego na znaczne przyśpieszenie ich rozwoju.",
+      "dziedzina": "historia"
+    }
+  ],
+  "tematy": [
+    "wojny atomowe w starożytności",
+    "bronie masowego rażenia",
+    "atlantyda",
+    "sodoma i gomora",
+    "mahabharata",
+    "mohendżo-daro",
+    "witryfikacja kamienia",
+    "martwe satelity",
+    "tunguska",
+    "tapanui",
+    "wyspa wielkanocna",
+    "broń biologiczna",
+    "ufo i porwania",
+    "księżyc i planety"
+  ],
+  "osoby": [
+    "Miloš Jesenský",
+    "Robert K. Leśniakiewicz",
+    "Witold Baranowicz",
+    "Aleksander Mora",
+    "Ludvik Souczek",
+    "Matwiej Agrest",
+    "Carl Sagan",
+    "Robert Oppenheimer",
+    "Frederic Soddy",
+    "David W. Davenport",
+    "Zacharia Sitchin",
+    "Ivo Wiesner",
+    "Aleksander Kazancew",
+    "Anthony Dodd",
+    "Jan Pająk",
+    "Francois Maziére",
+    "Wolfgang Jeschke",
+    "Johannes Fiebag",
+    "Budd Hopkins",
+    "Marco Strohmeier",
+    "Erich von Däniken",
+    "Nostradamus",
+    "Albrecht Dürer",
+    "Aleksander Wielki",
+    "Karol Wielki",
+    "Christopher Wills",
+    "Gilbert Fielder",
+    "Michaił Wasin",
+    "Aleksander Szczerbakow",
+    "Ronald Bracewell",
+    "Siergiej Bożicz",
+    "Thor Heyerdahl",
+    "Platon"
+  ],
+  "miejsca": [
+    "Sodoma i Gomora",
+    "Mohendżo-Daro",
+    "Harappa",
+    "Sumer (Ur, Eridu, Nippur)",
+    "Hattusas",
+    "Sacsayhuaman",
+    "Oklo (Gabon)",
+    "Tunguska",
+    "Hebrydy Zewnętrzne",
+    "Koszyce",
+    "Tapanui (Nowa Zelandia)",
+    "Wyspa Wielkanocna",
+    "Pustynia Libijska",
+    "Pustynia Gobi",
+    "Atlantyda",
+    "Mu",
+    "Księżyc",
+    "Mars",
+    "Faeton (Pas Asteroid)",
+    "Piramidy w Gizie",
+    "Zielona Góra"
+  ],
+  "okresy": [
+    { "kiedy": "II tysiąclecie p.n.e.", "co": "Według autora wybuchy jądrowe niszczą Sodomę i Gomorę." },
+    { "kiedy": "ok. 1950–1700 p.n.e.", "co": "Upadek Sumeru i jednoczesny zanik Mohendżo-Daro i Harappy, tłumaczony przez autora atakiem jądrowym." },
+    { "kiedy": "ok. 1200 p.n.e.", "co": "Nagłe zniszczenie hetyckiej stolicy Hattusas." },
+    { "kiedy": "776", "co": "Tajemnicze świecące tarcze nad Sigiburgiem płoszą Sasów podczas oblężenia." },
+    { "kiedy": "1178", "co": "Wybuch nad Nową Zelandią (krater Tapanui) i zapis kronikarza z Canterbury o chwiejącym się Księżycu." },
+    { "kiedy": "400–1400", "co": "Według autora „ciemne milenium chorób”: epidemie jako skutek spadków satelitów z bronią biologiczną." },
+    { "kiedy": "30 czerwca 1908", "co": "Eksplozja nad Podkamienną Tunguską, uznana przez autora za wybuch jądrowy." },
+    { "kiedy": "16 lipca 1945 / 6 sierpnia 1945", "co": "Próba Trinity i atak atomowy na Hiroszimę." },
+    { "kiedy": "9–15 sierpnia 1996", "co": "Wykopaliska na ulicy Hlavnej w Koszycach i tajemnicza skrzynka ukryta przed opinią publiczną." },
+    { "kiedy": "26 października 1996", "co": "Wybuch obiektu nad Zewnętrznymi Hebrydami, w interpretacji autora starożytna głowica Atlantydów." },
+    { "kiedy": "9 grudnia 1997", "co": "Spadek ciała na Grenlandię o energii kilkunastu kiloton, według autora głowica jądrowa Atlantydów." },
+    { "kiedy": "15–12 tys. lat temu", "co": "Według autora koniec Wielkiej Wojny Bogów-Astronautów i zatopienie Atlantydy, Mu i Lanki." }
+  ],
+  "zrodla_cytowane": [
+    "Miloš Jesenský – Bogowie atomowych wojen (Usti nad Łabą 1998)",
+    "Aleksander Mora – Atomowa wojna bogów (Lublin 1979)",
+    "Ludvik Souczek – Tuszeni stinu (Przeczucie cienia)",
+    "Zacharia Sitchin – Wojny bogów i ludzi",
+    "Wolfgang Jeschke – Ostatni dzień stworzenia",
+    "Ivo Wiesner – Predpeklie raje",
+    "Paul Anderson – Guardians of Time (1991)",
+    "Zdenek Kukal, Jaroslav Malina – Zmierzch magów",
+    "Robert Jungk – Heller als tausend Sonnen",
+    "Thomas Andrews – Nie jesteśmy pierwsi",
+    "Christopher Wills – Żółta febra, czarna bogini (2001)",
+    "Richard Preston – Strefa skażenia (1996)",
+    "Peter Radetsky – Niewidzialni najeźdźcy (1998)",
+    "Michaił Wasin, Aleksander Szczerbakow – Księżyc – nasz tajemniczy pojazd kosmiczny",
+    "François Maziére – Tajemnica Wyspy Wielkanocnej",
+    "Peter Krassa – Największa zagadka stulecia (1996)",
+    "Erich von Däniken – Rydwany bogów",
+    "Erich von Däniken – Złoto bogów",
+    "Mahabharata",
+    "Ramajana",
+    "Platon – Kritias",
+    "Spengler, Institoris – Młot na czarownice",
+    "Aleksander Mora – Atomowa wojna bogów (fragmenty o Księżycu i eksperymencie genetycznym)"
+  ]
+}

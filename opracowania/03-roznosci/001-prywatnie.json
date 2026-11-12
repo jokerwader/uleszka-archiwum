@@ -1,0 +1,80 @@
+{
+  "id": "refleksja",
+  "tytul": "Prywatnie",
+  "streszczenie": "Autor strony żegna się z aktywnym prowadzeniem serwisu i w osobistej refleksji (wrzesień 2006) podsumowuje swoje poglądy. Pisze, że zaczął pisać w ramach rehabilitacji po wylewie z 2001 roku, a opierał się na hipotezie cyklicznych kataklizmów (Hapgood), na kwestionowaniu sposobu budowy dawnych budowli i obróbki kamienia oraz na przekonaniu, że oficjalna historia jest fałszowana, w tym historia Rzymu i Polski (Mieszko I jako marionetka rzymska). Dodaje krytyczne uwagi o ochronie przyrody i zabytków, zdrowym żywieniu, demokracji i polskiej polityce, a także o ewolucji i medycynie. Kończy radami: dbać o zdrowie i rozwój duchowy oraz poznawać prawdziwą historię.",
+  "tezy": [
+    {
+      "teza": "Cykliczny wielki uskok skorupy ziemskiej niszczy okresowo cywilizacje, a hipotezę Hapgooda usunięto z nauki, bo rządy nie chcą ponosić kosztów ochrony.",
+      "cytat": "założenie istnienia cyklicznego \"wielkiego uskoku skorupy ziemskiej\" (hipoteza Hapgood'a), który co pewien czas niszczy wszystko (lub prawie wszystko), co żywe i co zbudowano na ziemi.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Budowle z wielotonowych bloków wymagały albo gigantów, albo techniki nieznanej nawet dziś.",
+      "cytat": "albo budowniczy byli ogromnego wzrostu a co za tym idzie i siły, albo do budowy musiano użyć wysokiej techniki, nie znanej nawet dzisiaj.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Obróbka kamienia i metali w starożytności wskazuje na narzędzia i techniki (np. diamentowe wiertła, wysokie temperatury), których oficjalna nauka nie wyjaśnia.",
+      "cytat": "Już Petrie, badający egipskie artefakty, wskazywał na możliwość użycia szybkoobrotowych diamentowych wierteł czy frezów.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Dzisiejsza historia jest pisana na usługach polityki i przedstawia w istocie poukładane kłamstwa.",
+      "cytat": "to fakt, że dzisiejsza historia jest daleka od prawdy i przedstawia chronologicznie poukładane kłamstwa.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Imperium Rzymskie nie upadło, lecz arystokracja przejęła tytuły papieży i bazyleusów i podbijała Europę pod znakiem krzyża.",
+      "cytat": "Arystokracja rzymska bardzo zgrabnie znalazła się w nowej rzeczywistości porzucając tytuły cesarzy na rzecz tytułu papieży (chrześcijaństwo rzymskie) i bazyleusów (chrześcijaństwo bizantyjskie).",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Potężne trzęsienia ziemi nawiedzały Europę w historycznych czasach i mogą powtórzyć się w każdej chwili.",
+      "cytat": "Naukowcy twierdzą też, że Europa była świadkiem takich wstrząsów w roku 3200 pne., 365 ne., a także około 400 i 800 ne.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Bałtyk, kanał La Manche i inne morza powstały niedawno w wyniku kataklizmu, który zatopił także Atlantydę.",
+      "cytat": "Sądzę, że powstanie Bałtyku należy wiązać z tym samym kataklizmem, który zatopił nie tylko Atlantydę, ale także tereny dzisiejszego kanału La Manche, morza Północnego, morza Irlandzkiego i oczywiście Bałtyku.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Mieszko I został wyniesiony przez cesarstwo niemieckie jako marionetka Rzymu, a wcześniejsza historia Polski została zniszczona lub skradziona.",
+      "cytat": "Mieszko I został wyniesiony do władzy przez konkwistadorów Świętego Cesarstwa Rzymskiego Narodu Niemieckiego i był nikim innym jak tylko marionetką Rzymu",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Przed chrystianizacją Polska wyznawała bizantyjską formę chrześcijaństwa, a wcześniejsza historia pisana głagolicą została zniszczona.",
+      "cytat": "Wcześniejsza historia pisana zapewne głagolicą została skradziona albo spalona na stosach konkwisty.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Według relacji Wulfstana kwitnące w IX wieku Prusy w ciągu 200 lat zamieniły się w prymitywne plemiona, co może wskazywać na kataklizm.",
+      "cytat": "Powodem jest przekaz Wulfstana, który w IX wieku ogląda kwitnące, murowane o bardzo zaskakującej technice Prusy (umieli wytwarzać zimno), a już 200 lat później zastajemy tam tylko prymitywne plemiona",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Stosowanie zasad Tombaka (łączenie pokarmów, przerwy między posiłkami) pozwoliło autorowi schudnąć i poprawić samopoczucie.",
+      "cytat": "Pierwsza zasada jaką zastosowałem, to odpowiednie łączenie spożywanych pokarmów. Czułem się dużo lepiej po posiłku niż poprzednio",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Współczesna medycyna jest eksperymentem na ludziach, a chemia w żywności i lekach jest główną przyczyną chorób.",
+      "cytat": "To, co dziś nazywamy naukową medycyną jest niekończącym się \"naukowym\" eksperymentem na żywych ludziach, który czasem się udaje.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["wielki uskok skorupy ziemskiej", "megality i techniki budowy", "fałszowanie historii", "rzym i papiestwo", "najdawniejsza historia polski", "bałtyk i atlantyda", "zdrowe żywienie", "krytyka demokracji", "ochrona zabytków", "teoria ewolucji", "zapomniana medycyna"],
+  "osoby": ["Hapgood", "Flinders Petrie", "Axel Bojanowski", "Wulfstan", "Mieszko I", "Czcibor", "Bezprym", "Wilhelm Zdobywca", "Cyryl i Metody", "Diego de Landa", "prof. Tombak", "Hitler", "Stalin"],
+  "miejsca": ["Egipt", "Antykithera", "Rzym", "Watykan", "Brytania", "kanał La Manche", "Bałtyk", "Atlantyda", "Prusy", "Polska", "Bizancjum", "Kolonia", "Wiedeń", "Dolina Rospudy", "Góry Izerskie", "cieśnina Beringa", "Yomsborg", "Truso"],
+  "okresy": [
+    { "kiedy": "maj 2001", "co": "autor doznał ciężkiego wylewu, po którym zaczął pisać w ramach rehabilitacji" },
+    { "kiedy": "3200 p.n.e., 365, ok. 400 i 800 n.e.", "co": "według tekstu potężne trzęsienia ziemi w Europie" },
+    { "kiedy": "ok. 400 tysięcy lat temu", "co": "według brytyjskich naukowców Wielka Brytania w ciągu kilku godzin stała się wyspą" },
+    { "kiedy": "ok. 13 tysięcy lat temu", "co": "według hipotezy naukowej powstała cieśnina Beringa" },
+    { "kiedy": "IX wiek", "co": "relacja Wulfstana o kwitnących Prusach" },
+    { "kiedy": "X wiek", "co": "według autora konkwista rzymskiego chrześcijaństwa na ziemiach polskich" },
+    { "kiedy": "wrzesień 2006", "co": "data napisania tekstu pożegnalnego" }
+  ],
+  "zrodla_cytowane": ["Axel Bojanowski – artykuł o śladach trzęsień ziemi na europejskich budowlach", "prof. Tombak – Czy można żyć 150 lat?", "Wulfstan – relacja z podróży po Prusach", "hipoteza Hapgooda o wielkim uskoku skorupy ziemskiej"]
+}

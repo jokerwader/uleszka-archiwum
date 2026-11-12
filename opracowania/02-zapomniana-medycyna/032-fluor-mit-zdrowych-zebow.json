@@ -1,0 +1,68 @@
+{
+  "id": "medalt/fluor",
+  "tytul": "Fluor - mit zdrowych zębów",
+  "streszczenie": "Zbiór przedruków o fluorze: artykuł Laury Orkan, tekst Olgi Woźniak z Przekroju, fragment polskiej prasy o próchnicy i fragment wywiadu z dr Lorraine Day. Autorzy twierdzą, że fluor jest trucizną, chroni zęby tylko miejscowo i w młodym wieku, a jego dodawanie do wody może szkodzić. Orkan przedstawia teorię, że fluoryzację forsowano jako narzędzie kontroli umysłów i z powodów finansowych (ALCOA, I.G. Farben). Przekrój relacjonuje spór w USA i wycofywanie się krajów Europy z fluoryzacji wody oraz radzi ostrożność w używaniu fluoru.",
+  "tezy": [
+    {
+      "teza": "Fluor w pastach chroni zęby tylko do 20. roku życia i przy braku przedawkowania, a w nadmiarze powoduje choroby somatyczne i psychiczne.",
+      "cytat": "Po pierwsze - fluor w pastach do zębów chroni zęby u ludzi jedynie do 20. roku życia.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Fluor jest trucizną gorszą od ołowiu, a fluoryzowana woda może powodować zaburzenia genetyczne, odwapnienie kości i raka.",
+      "cytat": "Niewielu ludzi wie, że fluor tak naprawdę jest trucizną. Często też jest głównym składnikiem leków psychotropowych, a także... trutek na insekty.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Fluoryzacja nie zmniejsza istotnie liczby ubytków u dzieci względem terenów niefluoryzowanych.",
+      "cytat": "Ekspertyza przeprowadzona na zlecenie Amerykańskiego Instytutu Badań Stomatologicznych wykazała, że właściwie nie ma różnicy między liczbą ubytków w zębach dzieci mieszkających na terenach objętych fluoryzacją i na nieobjętych.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Fluor wzmacnia działanie leków psychotropowych, a dodany do Valium dał Rohypnol.",
+      "cytat": "Gdy do popularnego leku uspokajającego Valium dodano fluor, powstał środek o silniejszym działaniu, Rohypnol.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Hitlerowcy podawali więźniom fluor w wodzie, by ich ogłupić, a USA i ZSRR dostrzegły w fluoryzacji metodę kontroli mas.",
+      "cytat": "Gdy więc podczas II wojny światowej hitlerowcy szukali sposobu, by otumanić więźniów obozów koncentracyjnych, zaczęli podawać im duże dawki fluoru w wodzie pitnej.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Fluoryzację wody promowano, bo fluor jest toksycznym odpadem produkcji aluminium, a koncerny sfinansowały badania o jego nieszkodliwości.",
+      "cytat": "Po wojnie Mellonowie założyli Amerykańskie Przedsiębiorstwo Aluminiowe (ALCOA) - a fluor jest toksycznym odpadem przy produkcji aluminium.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "W wielu krajach Europy wycofano fluoryzację wody, a spadek próchnicy jest niemal taki sam na terenach z fluoryzacją i bez niej.",
+      "cytat": "W latach 60-tych z fluoryzacji wody wycofały się Szwecja i Dania. W latach 70-tych dołączyły do nich Holandia i Niemcy.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Fluoroza (zatrucie fluorem) dotyka znacznej części dzieci w USA, a dzieci magazynują w organizmie znacznie więcej fluoru niż dorośli.",
+      "cytat": "Szacuje się, że 32 procent amerykańskich dzieci cierpi na fluorozę.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Fluor otępia umysł, powoduje łamliwość kości i przyspiesza starzenie (według dr Lorraine Day).",
+      "cytat": "Fluor ludzi otępia, jest jednym ze składników środków znieczulających, stępia działanie mózgu.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Próchnica w Polsce jest powszechna u dzieci, a przyczyną są słodycze, napoje gazowane i brak opieki dentystycznej.",
+      "cytat": "Dentystów dobił nowy raport przygotowany przez naukowców z Warszawy i Łodzi. 87 proc. sześciolatków ma próchnicę.",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": ["fluor", "fluoryzacja wody", "próchnica", "fluoroza", "kontrola umysłów", "pasty do zębów", "toksyczność", "aluminium"],
+  "osoby": ["Laura Orkan", "Charles Elliot Perkins", "Olga Woźniak", "William Maas", "Marek Konarzewski", "Magdalena Wochna-Sobańska", "Lorraine Day", "Daryl Bradford Smith", "Ryszard Majkowski", "Maria Wierzbicka", "Zbigniew Religa", "prof. Tombak", "rodzina Mellonów"],
+  "miejsca": ["Wielka Brytania", "Polska", "USA", "Niemcy", "Indie", "Szwecja", "Dania", "Holandia", "Żuławy", "Poznań", "Floryda"],
+  "okresy": [
+    { "kiedy": "II wojna światowa", "co": "według autorki hitlerowcy podawali fluor więźniom obozów koncentracyjnych" },
+    { "kiedy": "lata 40. XX wieku", "co": "w kilku miastach USA rozpoczęto fluoryzację wody; od 1945 r. obowiązkowa dla 170 mln obywateli" },
+    { "kiedy": "lata 50. XX wieku", "co": "fluor stał się składnikiem past do zębów" },
+    { "kiedy": "1996", "co": "10-letni Kevin dostał 1000 funtów odszkodowania od Colgate Palmolive za fluorozę" },
+    { "kiedy": "lata 60.-70. XX wieku", "co": "Szwecja, Dania, Holandia i Niemcy wycofały się z fluoryzacji wody" }
+  ],
+  "zrodla_cytowane": ["Olga Woźniak – Fluor niezgody (Przekrój)", "Sylwia Sałwacka – artykuł o próchnicy sześciolatków (2006)", "Marek Konarzewski – Na początku był głód", "wywiad Darylla Bradforda Smitha z dr Lorraine Day (21 lipca 2006)", "Time – wypowiedź Williama Maasa"]
+}

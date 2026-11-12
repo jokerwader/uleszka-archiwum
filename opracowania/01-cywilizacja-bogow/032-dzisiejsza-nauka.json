@@ -1,0 +1,135 @@
+{
+  "id": "oszusci",
+  "tytul": "Dzisiejsza nauka",
+  "streszczenie": "Tekst otwiera ostra krytyka środowiska naukowego, porównanego do mafii, a następnie zawiera artykuł Olgi Woźniak z „Przekroju” o oszustwach naukowych (Hwang, da Vinci, Newton, Mendel, Burt, Summerlin, Kammerer, Piltdown, Archaeoraptor) i sondaż „Nature” o nierzetelności badaczy. Autor strony dodaje własne wnioski: oszustwa naukowe są powszechne, medycyna i genetyka służą pieniądzom, a rzetelność nauki jest wątpliwa. Wymienia też Darwina, Einsteina, Hawassa i inne postaci jako przykłady fałszerstw lub plagiatu. Kończy cytatem z Księgi Henocha o szkodliwości wiedzy i apelem o uczciwość.",
+  "tezy": [
+    {
+      "teza": "Środowisko naukowe działa jak mafia: awans zależy od układów i cytowania promotorów, a nie od uczciwości.",
+      "cytat": "Kariera początkującego naukowca jest proporcjonalna do ilości cytowanych osiągnięć promotora pracy oraz jej recenzentów i powoływania się na ich naukowe sukcesy.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Oszustwo koreańskiego klonera Hwanga polegało na sfabrykowaniu wyników, a sprawca nie poniósł poważnych konsekwencji.",
+      "cytat": "Potem badania genetyczne dowiodły, że 9 z 11 jego linii komórkowych to żadne klony.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Według ankiety „Nature” znaczna część amerykańskich naukowców przyznaje się do naruszeń metodologii; autor wnioskuje, że ok. 70 procent nauki to oszustwo.",
+      "cytat": "Prawie jedna trzecia przyznała się do karygodnego postępku dotyczącego metodologii badań, którego dopuściła się w ciągu ostatnich trzech lat.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Leonardo da Vinci fałszował rysunki anatomiczne, by pasowały do autorytetów, więc zasługuje na miano oszusta, nie tylko geniusza.",
+      "cytat": "Dlaczego więc w dalszym ciągu uważa się Leonarda da Vinci za wielkiego geniusza, zamiast mówić o wielkim oszuście?",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Wiek Ziemi był przez wieki zaniżany pod naciskiem Kościoła; Buffon podał 75 tys. lat zamiast trzech milionów.",
+      "cytat": "Jeszcze w XVIII wieku, gdy francuski uczony Georges Buffon wylicza wiek Ziemi na trzy miliony lat, nie ma tyle odwagi, by taką liczbę umieścić w artykule.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Znane fałszerstwa: Burt (dane o dziedziczeniu inteligencji), Summerlin (przeszczepy flamastrem), Kammerer (barwa żab).",
+      "cytat": "Nie szkodzi, że wkrótce okazało się, iż Burt fabrykował dane, publikując te, które potwierdzały teorię.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Człowiek z Piltdown i Archaeoraptor były fałszerstwami archeologicznymi, odkrytymi po latach.",
+      "cytat": "Okazały się układanką fragmentu czaszki pozyskanej ze zwłok średniowiecznego człowieka, szczęki orangutana z Borneo i zęba szympansa.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Darwin, Einstein, Vyse i Hawass to przykłady oszustów, plagiatorów lub fałszerzy; Einstein skopiował wzór na energię z wcześniejszych prac.",
+      "cytat": "Einstein może być zatem dziś uznany za największego plagiatora wszechczasów.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Banki krwi pępowinowej to naciąganie klientów, bo skuteczna metoda rozmnażania komórek macierzystych nie istnieje.",
+      "cytat": "Jeden z polskich banków krwi już naciągnął klientów na 60 milionów złotych, a kolejka naiwniaków rośnie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Badania nad GMO służą zyskowi, a nie walce z głodem, i prowadzą do zwyrodnień oraz zagrożeń dla zdrowia.",
+      "cytat": "Po co prowadzi się badania nad genetycznie modyfikowaną żywnością? Tylko dla zdobycia pieniędzy na nieświadomych niczego ludziach",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Chorobę szalonych krów wywołał człowiek, który wprowadził białko zwierzęce do paszy roślinożerców; ptasia grypa wynika z błędów hodowli.",
+      "cytat": "Czy któryś z uczonych pomyślał przez chwilę, że za tą chorobę odpowiada człowiek?",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Jeśli nauka jest w ok. 70 procentach oszustwem, to nie wiadomo, ile fałszu jest w medycynie i w podstawach, na których rządzi się światem.",
+      "cytat": "Jeśli sama nauka jest oszustwem w około 70%, to ile procent tego oszustwa jest w tzw. naukowej medycynie",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": [
+    "oszustwa naukowe",
+    "krytyka nauki",
+    "mafia naukowa",
+    "fałszerstwa archeologiczne",
+    "gmo",
+    "komórki macierzyste",
+    "darwinizm",
+    "etyka naukowa",
+    "medycyna i pieniądze"
+  ],
+  "osoby": [
+    "Olga Woźniak",
+    "Woo Suk Hwang",
+    "Leonardo da Vinci",
+    "Galen",
+    "Georges Buffon",
+    "Izaak Newton",
+    "Gregor Mendel",
+    "Ronald Fisher",
+    "Cyril Burt",
+    "William Summerlin",
+    "Paul Kammerer",
+    "Charles Dawson",
+    "Albert Einstein",
+    "Karol Darwin",
+    "Zahi Hawass",
+    "Howard Vyse",
+    "Alexander Kohn",
+    "Wiesław Jędrzejczak",
+    "John Gearhart",
+    "Penemue"
+  ],
+  "miejsca": [
+    "Korea Południowa",
+    "Piltdown",
+    "Sorbona",
+    "Giza"
+  ],
+  "okresy": [
+    {
+      "kiedy": "1912",
+      "co": "Rzekome odkrycie „człowieka z Piltdown”, fałszerstwo wykryte po 40 latach."
+    },
+    {
+      "kiedy": "1999",
+      "co": "Fałszywa skamieniałość Archaeoraptor z Chin."
+    },
+    {
+      "kiedy": "listopad 2005",
+      "co": "Wykrycie oszustwa dr. Hwanga."
+    },
+    {
+      "kiedy": "czerwiec 2005",
+      "co": "Ankieta „Nature” o nierzetelności amerykańskich naukowców."
+    },
+    {
+      "kiedy": "1971",
+      "co": "Śmierć sir Cyrila Burta, którego dane okazały się sfabrykowane."
+    }
+  ],
+  "zrodla_cytowane": [
+    "Olga Woźniak - Kłamać jak naukowiec (Przekrój)",
+    "Alexander Kohn - Fałszywi prorocy",
+    "Księga Henocha",
+    "Nautilus - Tajemnice piramid, mroczna mafia nadzorująca kompleks w Gizie",
+    "RMF-FM, 1.3.2006 (komórki macierzyste)"
+  ]
+}

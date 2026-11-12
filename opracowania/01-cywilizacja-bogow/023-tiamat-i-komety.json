@@ -1,0 +1,145 @@
+{
+  "id": "uklad/wstep1",
+  "tytul": "Tiamat i komety",
+  "streszczenie": "Autor przedstawia oficjalną teorię powstania Układu Słonecznego i zestawia ją z sumeryjską kosmogonią w interpretacji Zecharii Sitchina, a następnie przechodzi po kolei przez planety, księżyce, planetoidy i komety, opatrując tabele danych krytycznymi komentarzami. Zarzuca nauce hipotezy oparte na słowach „prawdopodobnie”, niespójności i brak badań. Twierdzi, że planety powstały w kolejności opisanej przez Sumerów, a układ był początkowo „czysty”, zanim wtargnięcie planety Nibiru rozbiło Tiamat i wywołało bombardowanie. Z tego wyprowadza tezy o pochodzeniu wody, komet, planetoid, życia i pól magnetycznych oraz wzywa do sprawdzenia, czy starożytni mówili prawdę.",
+  "tezy": [
+    {
+      "teza": "Sumeryjskie tabliczki opisują kosmiczną bitwę Marduka z Tiamat, czyli katastrofę w Układzie Słonecznym, i dokładną kolejność powstawania planet.",
+      "cytat": "Zecharia Sitchin czytając i tłumacząc starożytne tabliczki pokryte pismem klinowym wysunął hipotezę, że pod opisem walki Marduka z Tiamat kryje się opis katastrofy kosmicznej w naszym Układzie Słonecznym",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Planety nie powstały jednocześnie, lecz parami, w określonej kolejności, zgodnie z kosmogonią sumeryjską.",
+      "cytat": "Według ich kosmogonii planety Układu Słonecznego nie powstały jednocześnie. Planety powstawały parami.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Tiamat została rozbita: jedna połowa dała pas planetoid i komety, druga stała się Ziemią wraz z Księżycem.",
+      "cytat": "Tiamat została przepołowiona na pół. Rozbita połowa utworzyła pas planetoid i komety, druga, w jednym kawałku, została zepchnięta na inną orbitę wraz ze swym satelitą, tworząc dzisiejszą Ziemię i jej księżyc.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Pierwotny Układ Słoneczny był „czysty”, bez planetoid i komet; skalne odłamki powstały dopiero w kosmicznej katastrofie.",
+      "cytat": "Układ Słoneczny powstawał jako układ \"czysty\". Powstawał z pyłu i nie było w nim miejsca na żadne odłamki skalne, planetoidy czy komety.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Zderzenia brył skalnych nie mogły zlepić planet; hipoteza powstawania Ziemi z kolejnych zderzeń jest błędna.",
+      "cytat": "Żadne zderzenie odłamków skalnych nie ma wystarczającej energii, by stopić ze sobą dwie bryły w jedną całość",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Woda na Ziemi nie pochodzi z komet; to w kometach znajduje się woda wyrzucona z praZiemi Tiamat.",
+      "cytat": "to nie komety naniosły wodę na Ziemię, to w kometach znajduje się woda z mitycznej praZiemi - Tiamat.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Wsteczny obrót Wenus świadczy o tym, że cała planeta została obrócona o 180 stopni.",
+      "cytat": "Obrót wsteczny wokół własnej osi (regułą w układzie jest ruch obrotowy przeciwny do ruchu wskazówek zegara) może wskazywać na to, że cała planeta została obrócona o 180°.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Wnętrza planet ogrzewają reaktory jądrowe (rozpad pierwiastków promieniotwórczych), co wiąże się z polem magnetycznym; dotyczy to także Jowisza.",
+      "cytat": "Osobiście sądzę, że istnieje triada: [reaktor jądrowy (jądro) - temperatura - pole magnetyczne] i w tym kierunku winny iść badania.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Wielka Czerwona Plama na Jowiszu mogła powstać wskutek dziury wybitej przez gigantyczny meteoryt lub księżyc.",
+      "cytat": "Sądzę, że za istniejący wir odpowiada ogromna dziura wybita w powierzchni planety przez upadek gigantycznego meteorytu lub nieznanego nam księżyca Jowisza",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Metan na innych ciałach niebieskich może powstawać tylko dzięki organizmom (bakteriom), a odkrycia nanobów w meteorycie i skałach sugerują „obsianie” planet przez kogoś nieznanego.",
+      "cytat": "Jeśli zatem na innych ciałach niebieskich nie jest możliwe otrzymanie metanu w wyniku nieorganicznych reakcji, logiczny wniosek nasuwa się sam.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Kształt krateru na Fobosie może wskazywać na świadomą ingerencję przy sprowadzaniu planetoidy na orbitę Marsa.",
+      "cytat": "A może mamy do czynienia ze świadomą ingerencją podczas sprowadzania planetoidy na orbitę Marsa",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Bombardowanie z kosmosu trwa nadal, a uderzenie dużego obiektu w Ziemię jest pewne.",
+      "cytat": "Bombardowanie trwa nadal i prawdopodobieństwo uderzenia dużego obiektu w Ziemię wynosi 100%. Nie znamy tylko dnia i godziny.",
+      "dziedzina": "astronomia"
+    }
+  ],
+  "tematy": [
+    "tiamat",
+    "nibiru",
+    "sumerowie",
+    "układ słoneczny",
+    "komety",
+    "planetoidy",
+    "pas planetoid",
+    "katastrofy kosmiczne",
+    "krytyka nauki",
+    "metan i życie",
+    "pole magnetyczne planet",
+    "kosmogonia"
+  ],
+  "osoby": [
+    "Zecharia Sitchin",
+    "Marduk",
+    "Tiamat",
+    "Mikołaj Kopernik",
+    "Karol Darwin",
+    "Galileusz",
+    "Jan Oort",
+    "Cassini",
+    "William Herschel",
+    "Asaph Hall",
+    "Karol Pankowski",
+    "Ptolemeusz"
+  ],
+  "miejsca": [
+    "Pas planetoid",
+    "Pas Kuipera",
+    "Chmura Oorta",
+    "Mars",
+    "Fobos",
+    "Deimos",
+    "Cydonia",
+    "Jowisz",
+    "Czerwona Plama",
+    "Saturn",
+    "Uran",
+    "Neptun",
+    "Pluton",
+    "Merkury",
+    "Wenus",
+    "Tryton",
+    "Hoba (Namibia)",
+    "Grenlandia"
+  ],
+  "okresy": [
+    {
+      "kiedy": "ponad 4,5 miliarda lat temu",
+      "co": "Według nauki w obłoku międzygwiazdowym zaczyna tworzyć się Protosłońce i Układ Słoneczny."
+    },
+    {
+      "kiedy": "ok. 4 miliardy lat temu",
+      "co": "Według autora straszliwa katastrofa kosmiczna rozbiła Tiamat i zapoczątkowała bombardowanie."
+    },
+    {
+      "kiedy": "ok. 6 tysięcy lat temu",
+      "co": "Wiek sumeryjskich tekstów opisujących powstanie planet i bitwę Marduka z Tiamat."
+    },
+    {
+      "kiedy": "1989",
+      "co": "Sondy radzieckie Phobos 1 i 2 nie wykonują misji, druga zdążyła sfotografować dziwny cień na Marsie."
+    },
+    {
+      "kiedy": "lipiec 1994",
+      "co": "Odłamki komety Shoemaker-Levy 9 uderzają w Jowisza."
+    },
+    {
+      "kiedy": "2005",
+      "co": "Sonda uderza w kometę Tempel 1."
+    }
+  ],
+  "zrodla_cytowane": [
+    "Zecharia Sitchin - Genesis jeszcze raz. Czy współczesna nauka dościga stan wiedzy starożytności",
+    "Sumeryjskie tabliczki klinowe (VA/243)"
+  ]
+}

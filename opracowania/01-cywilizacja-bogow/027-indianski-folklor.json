@@ -1,0 +1,137 @@
+{
+  "id": "ameryka/folklor",
+  "tytul": "Indiański folklor",
+  "streszczenie": "Autor krytykuje sposób, w jaki napisano historię Ameryki Środkowej: na podstawie folkloru spisanego przez hiszpańskich kolonizatorów, bez znajomości pisma i bez niezależnych datowań. Przegląda piramidy, rzeźby, cenote, wizerunki Pierzastego Węża, obserwatoria astronomiczne, boiska do tlachtli oraz mury „rzymskich” akweduktów i proponuje ich reinterpretację. Twierdzi, że budowle powstały w ramach kolonizacji dokonanej przez cywilizację Bogów (z Atlantydy), że wąż Quetzalcoatla to pojazd techniczny, a kataklizm sprzed ok. 12,5 tys. lat zniszczył budowle, które później przypisano plemionom indiańskim. Kończy listą zarzutów wobec dzisiejszej archeologii.",
+  "tezy": [
+    {
+      "teza": "Historia Ameryki Środkowej opiera się na folklorze spisanym przez kolonizatorów, a nie na obiektywnych źródłach.",
+      "cytat": "Dzieje ludów Ameryki Środkowej na obecną chwilę nie mają spisanej obiektywnej historii.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Teoria zasiedlenia Ameryki przez Beringię jest nieprawdopodobna; znaleziska wskazują na kierunek południowy.",
+      "cytat": "Znaleziska wskazują na kierunek południowy, ale pewna grupa \"jajogłowych\" uważa, że Indianie przyszli z północy przez zamarzniętą cieśninę Beringa.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Aztekowie i Quiche przybyli do Ameryki Środkowej łodziami zza morza, a nie piechotą po lądzie, jak interpretują to uczeni.",
+      "cytat": "Rysunek z indiańskiego kodeksu pokazuje wyraźnie, że do nowej ojczyzny Aztekowie dopłynęli na łodziach.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Migrację do Nowego Świata zorganizowali Bogowie (cywilizacja z Atlantydy), którzy przygotowali tereny, drogi i kanały nawadniające.",
+      "cytat": "Jedyna odpowiedzią może być ta, że migracji dokonali Bogowie. Oni zorganizowali i przeprowadzili planową kolonizację nowych terytoriów.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Przeznaczenie piramid nie jest znane, a opinie archeologów to myślenie życzeniowe; w środku nikt nie prowadzi badań.",
+      "cytat": "Jakie było początkowe przeznaczenie piramid nie wie nikt i chyba się nawet nie domyśla.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Precyzyjne dzieła z kamienia (czaszki z kwarcu, głowy, kule) nie mogły powstać w rękach ludzi znających tylko glinę i złoto.",
+      "cytat": "Czy to są dzieła tych, po których dzisiaj odnajduje się gliniane skorupy i klepane ozdóbki ze złota?",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Cenote były częścią systemu wodnego, a krwawe rytuały wiązały się z awarią nieznanych urządzeń w piramidach.",
+      "cytat": "Sadzę, że większość krwawych rytuałów w Ameryce Środkowej należało by łączyć z zaprzestaniem działania nieznanych urządzeń ukrytych w piramidach lub innych budynkach.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Quetzalcoatl to „latający wąż”, czyli pojazd techniczny Bogów, a nie wąż w piórach.",
+      "cytat": "Z tego wszystkiego wyciągam wniosek, że węża należy potraktować jako urządzenie stricte techniczne.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Węże z postacią w środku przedstawiają pojazd Bogów, a same węże były znakami ostrzegawczymi.",
+      "cytat": "Sądzę, że węże z postacią w swoim wnętrzu obrazują pojazd, którym poruszali się Bogowie.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Wiedzę astronomiczną Majowie otrzymali od cywilizacji Bogów, bo ich obserwacje wymagały 6-10 tysięcy lat, a według historyków istnieli znacznie krócej.",
+      "cytat": "Zwykła logika podpowiada tylko jedno rozwiązanie - Majowie tę wiedzę otrzymali. Od kogo? Od bardzo wysokiej cywilizacji - cywilizacji Bogów.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Technologia budowlana „rzymskich” akweduktów występuje też w Ameryce Środkowej; Atlantyda zginęła ok. 12,5 tysiąca lat temu i zniszczyła te budowle.",
+      "cytat": "Królestwo Atlantydy sięgało w Afryce po granicę Egiptu (Kartagina), a w Europie aż po Tyrrenię (Etruskowie). Kiedy zginęła Atlantyda? Około 12,5 tysięcy lat temu.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Boiska do tlachtli to budowle innego pochodzenia, zinterpretowane na podstawie folkloru, a nie dowodów.",
+      "cytat": "Według mnie zbudował je ktoś inny i w zupełnie innym celu, a ci co wymyślili \"tlachtli\" należeli już do zupełnie innej cywilizacji.",
+      "dziedzina": "archeologia"
+    }
+  ],
+  "tematy": [
+    "ameryka środkowa",
+    "majowie",
+    "aztekowie",
+    "quetzalcoatl",
+    "piramidy",
+    "cenote",
+    "tlachtli",
+    "obserwatoria",
+    "cywilizacja bogów",
+    "atlantyda",
+    "krytyka archeologii",
+    "akwedukty",
+    "konkwista"
+  ],
+  "osoby": [
+    "Huitzilopochtli",
+    "Quetzalcoatl",
+    "Kukulcan",
+    "Gucumatz",
+    "Kirchhoff",
+    "Zahi Hawass",
+    "Platon",
+    "Tlaloc",
+    "Coatlicue",
+    "Xolotl"
+  ],
+  "miejsca": [
+    "Teotihuacan",
+    "Tikal",
+    "Calakmul",
+    "Chichen Itza",
+    "Mayapan",
+    "El Tajin",
+    "Uxmal",
+    "Xochicalco",
+    "Palenque",
+    "Monte Alban",
+    "Coba",
+    "Jukatan",
+    "Aztlan",
+    "Panutla",
+    "Tulan-Zuiwa",
+    "Kostaryka",
+    "Tenochtitlan",
+    "Kartagina",
+    "Atlantyda"
+  ],
+  "okresy": [
+    {
+      "kiedy": "XVI wiek",
+      "co": "Hiszpański podbój Ameryki Środkowej, rabunek złota i zniszczenie cywilizacji."
+    },
+    {
+      "kiedy": "XIX wiek",
+      "co": "Ponowne odkrycie budowli Ameryki Środkowej."
+    },
+    {
+      "kiedy": "ok. 12,5 tysięcy lat temu",
+      "co": "Zagłada Atlantydy i kataklizm niszczący piramidy, Kartaginę i „rzymskie” akwedukty."
+    },
+    {
+      "kiedy": "ok. 1500 p.n.e. - 1500 lat później",
+      "co": "Okres, w którym według historyków istnieli Majowie."
+    }
+  ],
+  "zrodla_cytowane": [
+    "Popol Vuh",
+    "Platon - (Atlantyda)"
+  ]
+}

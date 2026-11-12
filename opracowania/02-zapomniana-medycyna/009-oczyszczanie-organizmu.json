@@ -1,0 +1,78 @@
+{
+  "id": "medalt/oczyszczanie",
+  "tytul": "Oczyszczanie organizmu",
+  "streszczenie": "Autor streszcza metody prof. Michała Tombaka dotyczące ośmiu kolejnych etapów oczyszczania organizmu: jelita grubego, jelit, wątroby, kości i stawów, nerek, limfy i krwi oraz naczyń, a do tego zasady łączenia pokarmów. Podaje szczegółowe przepisy (lewatywy, kefir, soki, olej z cytryną, igliwie, liść laurowy, nalewka czosnkowa tybetańska) i opisuje objawy rzekomego zanieczyszczenia poszczególnych narządów. Dodaje też rozdziały o oczyszczaniu z kwasu moczowego, tarczycy, układu oddechowego, z radionuklidów i o higienie zębów, języka, nosa i uszu. Autor twierdzi, że złogi w jelicie grubym są głównym źródłem większości chorób, a oczyszczenie przywraca zdrowie, i zaznacza, że kolejność zabiegów trzeba zachować.",
+  "tezy": [
+    {
+      "teza": "U dorosłych w jelicie grubym zalega kilkanaście kilogramów kamieni kałowych, które są główną przyczyną większości chorób.",
+      "cytat": "Mało kto wie, że u dorosłej osoby w jelicie grubym znajduje się od 8 do 15 kg kamieni kałowych, które człowiek nosi przez całe życie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Zapełnione jelito grube wypiera inne narządy, a jego układ wchłaniający dostarcza do krwi toksyny i substancje rakotwórcze, które osiadają w naczyniach i stawach.",
+      "cytat": "Przeważnie po 40 roku życia jelito grube jest tak zapełnione kamieniami, że wypiera ze swoich miejsc inne organy, utrudniając pracę wątrobie, nerkom i płucom.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Lewatywa jest najprostszym i najskuteczniejszym sposobem oczyszczenia z wewnętrznych brudów, a środki przeczyszczające szkodzą jelitu.",
+      "cytat": "Nie ma prostszego i bardziej skutecznego środka oczyszczającego człowieka od wewnętrznych \"brudów\" niż lewatywa.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Środki przeczyszczające odwadniają i osłabiają mięśnie jelita, co prowadzi do przewlekłych zaparć, a płukanie irygatorem przywraca pracę jelita.",
+      "cytat": "Środki przeczyszczające odwadniają organizm, zabierając z jelit wilgoć. Mięśnie jelita grubego powinny pracować.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Pełne zdrowie daje połączenie higieny wewnętrznej z rozumnym odżywianiem, wtedy człowiek jest zabezpieczony przed chorobami.",
+      "cytat": "Sekret zdrowia, to jednoczesne przestrzeganie zasad higieny wewnętrznej i rozumne odżywianie. Wtedy jesteśmy całkowicie zabezpieczeni przed jakimikolwiek chorobami.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Węglowodany i białka trawią się w różnym czasie, dlatego należy je jeść osobno z odpowiednimi przerwami.",
+      "cytat": "węglowodany trawimy 20-40 minut, a białka 2-4 godziny i stąd zasada - zjadłeś chleb z masłem, mięso zjedz za 40 minut",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Oczyszczanie wątroby olejem i sokiem z cytryny wydala złogi (starą żółć, pleśń, cholesterol), a brak kamieni nie oznacza porażki.",
+      "cytat": "Zwykle jest wydalane dużo starej żółci, pleśni, białych nici, zielonych \"koreczków\" (cholesterol) ale kamieni może nie być.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Sok z dzikiej róży rozpuszcza i rozdrabnia kamienie w organizmie do wielkości ziaren piasku.",
+      "cytat": "Stosujemy w celu rozpuszczenia i rozdrobnienia do wielkości ziaren piasku wszystkich kamieni w organizmie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Organizm nie przyswaja wapnia z mleka, a jedynym kwasem wiążącym wapń jest kwas cytrynowy, więc mleko dla uczniów jest bezużyteczne.",
+      "cytat": "Organizm bardzo trudno, a czasem w ogóle nie przyswaja wapnia z mleka, nie ma więc potrzeby jego spożywania.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Nalewka czosnkowa z receptury tybetańskiej oczyszcza naczynia, zapobiega zawałowi, miażdżycy, nowotworom i odmładza.",
+      "cytat": "Nalewka czosnkowa oczyszcza organizm z odkładającego się tłuszczu, wypłukuje nie rozpuszczony wapń, gwałtownie poprawia przemianę materii, oczyszcza naczynia krwionośne, zapobiega zawałowi serca, miażdżycy, paraliżowi, tworzeniu się nowotworów",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Metale ciężkie i radionuklidy gromadzą się w tłuszczach organizmu i sprzyjają powstawaniu raka, ale można się z nich oczyścić (pączki sosnowe, igliwie, siemię lniane).",
+      "cytat": "Każdy jest małym \"Czernobylem\". Metale ciężkie i radionuklidy spożywamy z pokarmem i napojami oraz wdychamy z powietrzem.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Wygląd i zachowanie ciała (np. nierówny krok, worki pod oczami, plamy) mają zdradzać zanieczyszczenie wątroby lub nerek.",
+      "cytat": "Brak możliwości zrobienia prawą nogą kroku takiej samej długości jak lewą.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["oczyszczanie organizmu", "jelito grube", "lewatywa", "oczyszczanie wątroby", "kamienie nerkowe", "łączenie pokarmów", "kwas moczowy", "nalewka czosnkowa", "toksyny", "higiena ciała", "radionuklidy"],
+  "osoby": ["Michał Tombak", "Walker"],
+  "miejsca": ["klasztor tybetański", "Czernobyl"],
+  "okresy": [
+    { "kiedy": "1971", "co": "Według autora wyprawa UNESCO znalazła w klasztorze tybetańskim recepturę nalewki czosnkowej." }
+  ],
+  "zrodla_cytowane": [
+    "Michał Tombak – Droga do zdrowia",
+    "Michał Tombak – Jak żyć długo i zdrowo",
+    "Michał Tombak – Czy można żyć 150 lat?"
+  ]
+}

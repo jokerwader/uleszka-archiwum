@@ -1,0 +1,44 @@
+{
+  "id": "medalt/grande/witaminy",
+  "tytul": "W I T A M I N Y",
+  "streszczenie": "Strona jest słownikiem witamin: po krótkiej definicji i podziale na rozpuszczalne w wodzie i w tłuszczach opisuje po kolei witaminy A, B (B1, B2, B6, B11, B12, B14, B15), C, D, E, F, H, K, P, PP i kwas pantotenowy. Przy każdej autor podaje funkcję w organizmie, dobową normę, objawy niedoboru i przedawkowania oraz najważniejsze źródła pokarmowe, a w niektórych przypadkach pisze, że brak danych. Tekst ma charakter informacyjny i nie formułuje nowych tez ani wniosków.",
+  "tezy": [
+    {
+      "teza": "Nazwę „witamina” wprowadził polski biochemik Kazimierz Funk; witaminy to niezbędne związki, których organizm sam nie wytwarza.",
+      "cytat": "Nazwę witamina zawdzięczamy polskiemu biochemikowi - Kazimierzowi Funkowi. Witaminy - związki chemiczne niezbędne do normalnego toku procesów życiowych",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Niedobór witaminy C zaburza syntezę kolagenu i funkcjonowanie tkanki łącznej oraz kostnienie.",
+      "cytat": "Przy niedoborze witaminy C dochodzi do zaburzeń syntezy kwasu hialuronowego, zaburzeń syntezy kolagenu, nieprawidłowego funkcjonowania tkanki łącznej i procesów kostnienia.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Witamina D2 powstaje w skórze z prowitaminy pod wpływem promieni słonecznych, a jej brak prowadzi do krzywicy i rozmiękczenia kości.",
+      "cytat": "Tworzy się tylko z prowitaminy (ergosterolu) zawartej w skórze pod wpływem promieni słonecznych (promieniowanie ultrafioletowe).",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Witamina K jest wytwarzana przez własną florę bakteryjną jelit, a jej niedobór może wystąpić po antybiotykach.",
+      "cytat": "U człowieka źródłem witaminy jest własna flora bakteryjna, skąd przy obecności kwasów żółciowych jest ona wchłaniana do krwi i wychwytywana w wątrobie.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Biotyna powstaje w jelitach dzięki bakteriom, a jej niedobór pojawia się po zniszczeniu flory przez antybiotyki.",
+      "cytat": "Niedobór występuje przeważnie po zniszczeniu flory bakteryjnej przy leczeniu antybiotykami.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Witamina B15 poprawia dotlenienie tkanek i koncentrację oraz bywa stosowana w miażdżycy i chorobach wątroby.",
+      "cytat": "Zwiększa przyswajanie tlenu przez tkanki, usuwając objawy nieznacznego niedotlenienia. Zwiększa koncentrację umysłu i zdolność skupienia się, wzmaga aktywność życiową, polepsza samopoczucie.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["witaminy", "niedobory witamin", "witaminy rozpuszczalne w tłuszczach", "witaminy z grupy B", "normy dobowe", "źródła pokarmowe"],
+  "osoby": ["Kazimierz Funk"],
+  "miejsca": [],
+  "okresy": [
+    { "kiedy": "1956", "co": "Zbadano witaminę B12 (kobalaminę)." }
+  ],
+  "zrodla_cytowane": []
+}

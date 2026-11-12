@@ -1,0 +1,78 @@
+{
+  "id": "blogier5",
+  "tytul": "Szarodzienność 5",
+  "streszczenie": "Kolejny zbiór satyrycznych notatek z przełomu 2006 i 2007 roku. Autor komentuje aferę wokół posła Łyżwińskiego i Samoobrony, lustrację duchowieństwa (arcybiskup Wielgus), rocznicę stanu wojennego, zakup F-16 i misje w Iraku i Afganistanie. Obok polityki pojawiają się wątki zdrowotne i przyrodnicze: metan z klatratów i prognozy kataklizmów, skutki uboczne leków, żywienie a inteligencja, rosnąca zachorowalność na raka. Autor twierdzi, że za polską polityką i mediami stoi niewidzialny układ wywodzący się z Okrągłego Stołu, a nauka i medycyna często służą interesom koncernów.",
+  "tezy": [
+    {
+      "teza": "Rosnąca temperatura wody może uwalniać z dna mórz ogromne ilości metanu z klatratów, co tłumaczy zatrucia i śmierć ptaków na świecie.",
+      "cytat": "mówi o uwalnianiu się wielkich ilości metanu z tzw, klatratów zalegających na dnie mórz i oceanów spowodowanych wzrostem temperatury wody",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Przewidywanie: według prognozy Johna Stokesa do 2012 roku może zginąć ponad 4,5 miliarda ludzi.",
+      "cytat": "Jak prognozuje John Stokes do roku 2012 może nie dożyć ponad 4,5 miliarda (!) ludzi.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Leczenie antybiotykami osłabia odporność dzieci, a medycyna zrzuca winę na geny i mutacje zamiast na własne metody.",
+      "cytat": "dzieci się leczy antybiotykami, co skutecznie i na wiele miesięcy osłabia ich naturalną odporność",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "System ochrony zdrowia nie jest nastawiony na wyleczenie pacjentów, bo wyleczony pacjent to utrata dochodu.",
+      "cytat": "Lekarzu pamiętaj, że każdy wyleczony pacjent, to utrata twojego źródła dochodu",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Topole pochłaniają więcej dwutlenku węgla niż inne drzewa, więc ich masowe wycinanie w Polsce jest błędem.",
+      "cytat": "topole są jednymi z nielicznych drzew, które asymilują więcej dwutlenku węgla niż pozostałe",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Odkrycie, że 235 genów człowieka nie występuje u naczelnych, podważa teorię ewolucji.",
+      "cytat": "235 genów u człowieka nie występuje u gatunków niższych w tym i naczelnych, czyli przodków Darwina i Engelsa, a więc w teorii ewolucji coś zaczyna iskrzyć",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Ciemna materia i współczesne modele jądra planet to nieudowodnione hipotezy, a sama nauka ma własną ciemną materię.",
+      "cytat": "Za parę lat dowiemy się, że \"ciemna materia\" owszem istnieje ale... w światowej nauce i też w wielkości 95%.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Dieta roślinna sprzyja inteligencji, a jedzenie mięsa i fast foodów ją obniża.",
+      "cytat": "Brytyjska nauka dobitnie stwierdza, że pochłaniający zieleninę są bardziej inteligentni od preferujących białko martwych braci mniejszych",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Przewidywanie: w 2007 roku zachorowalność na raka wzrośnie o 10-20 procent, głównie z powodu chemicznie przetworzonej żywności.",
+      "cytat": "Główny powód to przerażająco niezdrowe, pełne związków chemicznych jedzenie dostępne w sklepach.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Przewidywanie: kolejna susza sprawi, że chleb stanie się luksusem, a zboże trzeba będzie kupować za granicą.",
+      "cytat": "i jeszcze jedna tylko susza i będziemy zmuszeni do zmiany jadłospisu, gdzie chleb zacznie być luksusem",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Stan wojenny miał utrzymać komunistyczną władzę i przygotować Okrągły Stół, a nie bronić kraju przed interwencją.",
+      "cytat": "stan wojenny umożliwił przekształcenie pierwszej Solidarności na inną, potulną komuszej władzy oraz był przygotowaniem do Okrągłego Stołu",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Osama bin Laden jest potrzebny Ameryce jako uzasadnienie dla wojen i przemysłu zbrojeniowego, więc nie jest ścigany naprawdę.",
+      "cytat": "Wynika z tego, że Osama musi żyć, bo jest potrzebny Ameryce jak chleb i woda.",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["afera samoobrony", "lustracja kościoła", "stan wojenny", "okrągły stół", "metan i kataklizmy", "gmo i żywność", "skutki uboczne leków", "ewolucja", "f-16", "misje w iraku i afganistanie"],
+  "osoby": ["Andrzej Lepper", "Stanisław Łyżwiński", "Aneta Krawczyk", "Roman Kluska", "Stanisław Wielgus", "Tadeusz Isakowicz-Zaleski", "Wojciech Jaruzelski", "Czesław Kiszczak", "Andrzej Gwiazda", "Stefan Niesiołowski", "Radosław Sikorski", "Romuald Szeremietiew", "Osama bin Laden", "Saddam Husajn", "John Stokes", "David Hudson", "Czesław Miłosz", "Adam Michnik", "Tomasz Rożek", "Heinrich Schliemann"],
+  "miejsca": ["Halemba", "Krzesiny", "Yellowstone", "Mt St Helens", "Montserrat", "Białowieża", "Polkowice", "Pomorze", "Jasna Góra", "Afganistan", "Irak", "Białoruś", "Villaconejos"],
+  "okresy": [
+    { "kiedy": "1981", "co": "Wprowadzenie stanu wojennego, który według autora przygotował Okrągły Stół." },
+    { "kiedy": "2000", "co": "Działania kontroli skarbowej wobec Romana Kluski, za które w 2006 roku przeproszono go w imieniu ministerstwa." },
+    { "kiedy": "grudzień 2006", "co": "Afera Łyżwińskiego, awarie F-16 w drodze do Polski, wiadomości o kataklizmach i martwych ptakach." },
+    { "kiedy": "styczeń 2007", "co": "Sprawa lustracyjna arcybiskupa Wielgusa i strajk w służbie zdrowia." },
+    { "kiedy": "2012", "co": "Planowany termin zakończenia dostaw F-16 oraz według prognozy Stokesa data możliwej śmierci miliardów ludzi." }
+  ],
+  "zrodla_cytowane": ["Jakub – Kod Czasu (forum zamknięte)", "David Hudson – wywiad o leczeniu raka", "Czesław Miłosz – wypowiedzi cytowane w tekście", "Adam Michnik – wypowiedź o gen. Jaruzelskim", "Jacek Kuroń – wypowiedź o żołnierzach AK", "Rozalia Celakówna – żądanie intronizacji Chrystusa"]
+}

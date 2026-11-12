@@ -1,0 +1,1292 @@
+[
+  {
+    "sciezka": "zrodlo/webacja/logo.jpg",
+    "typ": "dekoracja",
+    "opis": "Małe logo strony: żółte, pomarańczowe i różowe prostokątne ramki na czarnym tle z ukośnym napisem.",
+    "tekst_na_obrazie": "uleszka"
+  },
+  {
+    "sciezka": "zrodlo/webacja/brama.jpg",
+    "typ": "okładka",
+    "opis": "Baner nagłówkowy strony: kamienna Brama Słońca z Tiahuanaco (pęknięta, z reliefem w górnej części), przez której otwór widać Ziemię unoszącą się nad horyzontem w kosmosie. Nad bramą hasło, pod nią tytuł serwisu.",
+    "tekst_na_obrazie": "zmień pogląd na historię cywilizacji ludzi; CYWILIZACJA BOGÓW"
+  },
+  {
+    "sciezka": "zrodlo/webacja/wielkanoc07.jpg",
+    "typ": "dekoracja",
+    "opis": "Wielkanocna ozdoba: żółte kurczątko obok ozdobnej pisanki w koszyczku.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/netykieta.jpg",
+    "typ": "dekoracja",
+    "opis": "Mały przycisk-baner linkujący do serwisu o netykiecie, żółty z czerwoną ramką.",
+    "tekst_na_obrazie": "NETYKIETA.PL"
+  },
+  {
+    "sciezka": "zrodlo/webacja/nagroda.gif",
+    "typ": "dekoracja",
+    "opis": "Baner-wyróżnienie od serwisu START24.PL, żółto-czarny.",
+    "tekst_na_obrazie": "Strona wyróżniona przez START24.PL"
+  },
+  {
+    "sciezka": "zrodlo/webacja/usmiech.gif",
+    "typ": "dekoracja",
+    "opis": "Mała żółta uśmiechnięta buźka.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/tsunami.jpg",
+    "typ": "zdjęcie",
+    "opis": "Fotomontaż: ogromna fala tsunami wznosi się nad Statuą Wolności. Ilustracja nadchodzącego kataklizmu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/01potop/gilgam.gif",
+    "typ": "zdjęcie",
+    "opis": "Zdjęcie fragmentu glinianej tabliczki z pismem klinowym, ułożonym w kolumny; prawdopodobnie tabliczka z opisem potopu z eposu o Gilgameszu (wg kontekstu artykułu o potopie).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/01potop/legendy.jpg",
+    "typ": "mapa",
+    "opis": "Mapa świata z zaznaczonymi kolorowymi kółkami: miejsca, skąd pochodzą przekazy o potopie, mrozach i lodzie, przybyszach zza morza i niezwykłych zjawiskach atmosferycznych. Linia poziomu to równik.",
+    "tekst_na_obrazie": "przekazy o mrozach i lodzie; przekazy o potopie; przekazy o przybyszach zza morza; niezwykłe zjawiska atmosferyczne"
+  },
+  {
+    "sciezka": "zrodlo/webacja/01potop/potop3.jpg",
+    "typ": "wykres",
+    "opis": "Oś czasu w tysiącach lat przed naszą erą (od 50 do 0) z naniesionymi zdarzeniami: potopy, wizyty Bogów, wybuch wulkanu, załamanie kultur wg C. Schaeffera. Na dole pasek kolejnych „Słońc” (epok) od I do V.",
+    "tekst_na_obrazie": "załamanie kultur wg C. Schaeffera; potop; wizyta Bogów; potop lokalny(?); wybuch wulkanu; Thera; 4 potopy greckie; Sumer; potop z Ur; zalanie m. Czarnego; Ogha-Mongulala; Tiahuanaco; Atlantyda (Platon); Atlantyda (Muck, Zajdler); Majowie; Nibiru; WB 444; Sithin; I Słońce; II Słońce; III Słońce; IV Słońce; V Słońce; tysiące lat przed naszą erą; 50 40 30 20 10 0"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/ollin.gif",
+    "typ": "rysunek",
+    "opis": "Stylizowany rysunek w sepii przypominający azteckie koło/Kamień Słońca: twarz w środku, wokół symbole i ramiona w kształcie krzyża; według kontekstu symbol Ollin (ruch).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/lodowiec.gif",
+    "typ": "mapa",
+    "opis": "Mapa świata (projekcja owalna) z zaznaczonym na niebiesko zasięgiem lodowców i lądolodów, m.in. Grenlandia, Antarktyda, północna Kanada, Skandynawia, Alpy, Himalaje i Andy.",
+    "tekst_na_obrazie": "Ice sheet or glacier; ATLANTIC OCEAN; PACIFIC OCEAN; INDIAN OCEAN; Equator; Tropic of Cancer; Tropic of Capricorn; Antarctic Circle; 0 1,500 3,000 Miles; 0 1,500 3,000 Kilometers; siatka długości i szerokości geograficznych (150°, 120° itd.)"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/uskok.jpg",
+    "typ": "schemat",
+    "opis": "Globus widziany od strony bieguna północnego z kontynentami; zaznaczone położenie dawnego i dzisiejszego bieguna oraz czerwona strzałka kierunku przesunięcia skorupy ziemskiej. Pokazuje równik sprzed 12000 lat i dzisiejszy.",
+    "tekst_na_obrazie": "Położenie poprzedniego bieguna północnego; Położenie dzisiejszego bieguna północnego; Kierunek przesunięcia skorupy ziemskiej; Równik sprzed 12000 lat; Równik dzisiejszy"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/tektonika.gif",
+    "typ": "mapa",
+    "opis": "Mapa świata z białymi liniami granic płyt tektonicznych i czerwonymi kropkami oznaczającymi gorące plamy; pomarańczowe strzałki przy Atlantyku.",
+    "tekst_na_obrazie": "PACYFIK; ATLANTYK; INDYJSKI; PACYFIK"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/masy2.jpg",
+    "typ": "schemat",
+    "opis": "Widok od bieguna północnego: kontynenty w kole, wokół niego niebieskie i brązowe łuki oznaczające rozkład mas; dwie linie przekątne oznaczone a, b, A, B.",
+    "tekst_na_obrazie": "Pacyfik; Eurazja; Afryka; Atlantyk; Ameryki; a; b; A; B"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/masy1.jpg",
+    "typ": "schemat",
+    "opis": "Niebieska kula z osią N-S i czterema czerwonymi elipsami mas (O1-O4) oraz niebieskimi strzałkami (G1-G4) przy rejonach górskich; duża pomarańczowa strzałka pokazuje kierunek.",
+    "tekst_na_obrazie": "N; S; O1; O2; O3; O4; G1; G2; G3; G4; rejon HIMALAJÓW; rejon KILIMANDŻARO; środkowe ANDY; środkowe KORDYLIERY"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/masy3.jpg",
+    "typ": "schemat",
+    "opis": "Niebieska elipsa (zdeformowana kula) z szarym konturem, czerwonymi i granatowymi strzałkami sił oraz łukiem oznaczającym przesunięcie o około 30 stopni.",
+    "tekst_na_obrazie": "ok 30°; Pn; Pd"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/temperatura.jpg",
+    "typ": "wykres",
+    "opis": "Wykres zmian średniej temperatury (w stopniach Celsjusza) w zależności od wieku próbki lodu i głębokości odwiertu; wyraźny skok temperatury przy około 12-10 tys. lat temu, zaznaczony jasnym pionowym pasem.",
+    "tekst_na_obrazie": "PRZYBLIŻONY WIEK PRÓBKI, DLA KTÓREJ OKREŚLONO ŚREDNIĄ TEMPERATURĘ (w tys. lat); 250 150 100 50 40 30 20 16 12 10 0; GŁĘBOKOŚĆ ODWIERTU, Z KTÓREJ POBRANO PRÓBKĘ LĄDOLODU (w m.); 3000 2500 2000 1500 1000; ZMIANA TEMPERATURY O 1 STOPIEŃ CELSJUSZA"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/machu1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze kamiennej budowli z wielkich, dopasowanych bloków, z wnękami w górnej części ściany; wg tekstu „Świątynia główna” w Machu Picchu z zapadniętym narożnikiem.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/machu2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ściana z dużych kamiennych bloków o nieregularnych kształtach, widocznie poprzesuwanych; wg tekstu fragment „Świątyni trzech okien” w Machu Picchu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/ollanta.jpg",
+    "typ": "zdjęcie",
+    "opis": "Widok z góry na ruiny Ollantaytambo (wg tekstu): rozrzucone bloki i fragmenty murów na tarasach, na pierwszym planie kaktusy, w tle zbocze góry.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/puno.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna wieża grobowa (chullpa) i rozrzucone wokół duże głazy nad brzegiem jeziora; wg tekstu okolice Puno.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/tiahu1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Rozrzucone, poprzewracane i ułożone krzywo ogromne bloki kamienne z precyzyjnymi krawędziami na płaskowyżu; wg tekstu Puma Punku (Tiahuanaco).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/tiahu2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Stare czarno-białe zdjęcie lub rycina Bramy Słońca: pęknięty monolit z reliefem w górnej części, do połowy zasypany ziemią, z kilkoma niszami w dolnej części.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/cusco.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z dużych prostokątnych bloków kamiennych z występami; jeden z dolnych bloków jest wyraźnie pęknięty pośrodku. Wg tekstu blok z Corichanchy w Cusco.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/apurimac.jpg",
+    "typ": "zdjęcie",
+    "opis": "Skalny blok wyciosany w formę stopni i uskoków, leżący na trawiastym zboczu; wg tekstu z okolic Cusco.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/moai1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Posągi Moai z Wyspy Wielkanocnej na zboczu wulkanu, częściowo zasypane ziemią, w różnych pozycjach; na pierwszym planie duża głowa w profilu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/moai2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Przewrócony, leżący na trawie posąg Moai, pęknięty na dwie części.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/angkor2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ruiny w Angkorze w Kambodży: zwalone kamienne bloki i kolumny wśród roślinności, część budowli runęła.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/angkor.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zrujnowany kamienny budynek świątyni w Angkorze, porośnięty drzewami, z przesuniętymi i leżącymi blokami wokół.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/palenque.jpg",
+    "typ": "zdjęcie",
+    "opis": "Schodkowa piramida w Palenque z rozbitą świątynią na szczycie; wokół trawnik i kilkoro ludzi u podnóża.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/delfy.jpg",
+    "typ": "zdjęcie",
+    "opis": "Popękane kamienne bloki z rzędami otworów i wgłębień, leżące wśród roślinności; wg tekstu „klocki Lego” z greckich Delf.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/aksum.jpg",
+    "typ": "zdjęcie",
+    "opis": "Powalona i roztrzaskana kamienna kolumna (stela) z rzeźbionymi okienkami na trawie; w tle stoją inne kolumny. Wg tekstu Aksum.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/egipt1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Pustynne stanowisko z rozbitymi kamiennymi kolumnami i walcami stojącymi w rzędach oraz leżącymi blokami, w tle piaszczyste wzgórza.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/egipt2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Duże kamienne bloki leżące na piasku u podnóża piramidy; przy nich siedzi kilka osób.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/egipt3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mężczyzna siedzi obok ogromnej kamiennej stopy kolosalnego posągu; wokół leżą potężne fragmenty rzeźby, w tle palma i ruiny.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/egipt4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Roztrzaskane, leżące fragmenty kolosalnego kamiennego posągu (tułów i głowa) na ziemi, obok blok kamienny i drzewo w tle.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/egipt5.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze egipskiej sali kolumnowej: masywne kolumny z hieroglifami, jedna pochylona i oparta o drugą; w prześwicie niebo.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/slonejeziora.jpg",
+    "typ": "mapa",
+    "opis": "Satelitarna mapa świata z żółtymi strzałkami wskazującymi jeziora słone i pustynie słone: Salt Lake w USA, Titicaca i Salar de Uyuni w Ameryce Południowej, Morze Martwe, Kaspijskie, Aralskie, jezioro Bałchasz i pustynia słona w Iranie.",
+    "tekst_na_obrazie": "m. Kaspijskie; m. Aralskie; m. Martwe; jez. Bałchasz; Salt Lake; Wielka pustynia słona; Wielka pustynia słona; Titicaca; Salar del Uyuni"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/17std3.jpg",
+    "typ": "schemat",
+    "opis": "Globus od strony bieguna północnego z zaznaczoną wyspą Akpatok, linią południka z liczbą 70 oraz odchyleniem budowli od północy w Jukatanie (na północny wschód) i w Egipcie (na północny zachód); czerwona strzałka przy biegunie.",
+    "tekst_na_obrazie": "Pn; Akpatok; 70; Odchylenie od północy na północny wschód; Odchylenie od północy na północny zachód; Jukatan; Egipt; Titicaca"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/tikal.jpg",
+    "typ": "schemat",
+    "opis": "Uproszczony plan kompleksu Tikal: czarne kwadraty budowli na zielonym tle, niebieska strzałka północy i przerywane linie wskazujące odchylenie osi od północy.",
+    "tekst_na_obrazie": "Pn"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/teotihuacan.jpg",
+    "typ": "schemat",
+    "opis": "Uproszczony plan Teotihuacan: czarne kwadraty budowli, przerywana czerwona oś odchylona od kierunku północy oznaczonego strzałką.",
+    "tekst_na_obrazie": "Pn"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/palenques.jpg",
+    "typ": "schemat",
+    "opis": "Uproszczony plan zespołu budowli w Palenque z zaznaczonymi osiami (czerwone przerywane linie) i kierunkiem północy.",
+    "tekst_na_obrazie": "Pn"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/tiahuanaco.jpg",
+    "typ": "schemat",
+    "opis": "Uproszczony plan Tiahuanaco: czarne bryły budowli z czerwonymi przerywanymi osiami prostopadłymi i strzałką północy.",
+    "tekst_na_obrazie": "Pn"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/ozyrejons.jpg",
+    "typ": "schemat",
+    "opis": "Plan Abydos: Świątynia Setiego I i Ozyrejon z zaznaczonymi osiami (czerwone przerywane) względem kierunku północy.",
+    "tekst_na_obrazie": "Świątynia Setiego I; Pn; Ozyrejon"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/sakkara.jpg",
+    "typ": "schemat",
+    "opis": "Plan piramid w Sakkarze: prostokątne zarysy kompleksów z czarnymi kwadratami piramid i ukośnymi liniami osi; niebieska strzałka północy.",
+    "tekst_na_obrazie": "Teti; Userkaf; Dżoser; Unis; Sekhemhet; Pn"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/obliczenia.jpg",
+    "typ": "schemat",
+    "opis": "Rysunek sfery z trójkątem sferycznym ABC, kątami szerokości i długości geograficznej oraz wzorami do obliczania odległości i kątów (trygonometria sferyczna) w zielonej ramce.",
+    "tekst_na_obrazie": "c=90°-BA; a=90°-BC; b=arccos[sinBA sinBC+cosBA cosBC cos(LA-LC)]; p=(a+b+c):2; C=2arctan pierwiastek[sin(p-a)sin(p-b)/sinp sin(p-c)]; długość geograficzna zachodnia - znak „+”; długość geograficzna wschodnia - znak „-”; szerokość geograficzna północna - znak „+”; szerokość geograficzna południowa - znak „-”; Greenwich; A; B; C; L; LA; LC; LO; BA; BC; a; b; c; o"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/absyda.jpg",
+    "typ": "schemat",
+    "opis": "Plan absydy z głównym ołtarzem i promieniami wschodzącego słońca w najdłuższy i najkrótszy dzień roku, padającymi z kierunku wschodu.",
+    "tekst_na_obrazie": "Pn; Absyda; Ołtarz główny; Wschód; najdłuższy dzień; najkrótszy dzień"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/ollinstone.jpg",
+    "typ": "schemat",
+    "opis": "Plan Stonehenge z zaznaczonymi liniami do gwiazd i planet (Alamak, Wega, Jowisz, Wenus, Spica), pierścieniem znaków zodiaku i literami A-F; w rogu symbol Ollin (Naui Ollin).",
+    "tekst_na_obrazie": "Alamak; Wega; Jowisz; Wenus; Spica; A; B; C; D; E; F; Pn; WAGA; PANNA; LEW"
+  },
+  {
+    "sciezka": "zrodlo/webacja/02uskok/stonehenge.jpg",
+    "typ": "schemat",
+    "opis": "Mały uproszczony plan Stonehenge z kręgiem kamieni, pomarańczową linią i strzałką kierunku północy.",
+    "tekst_na_obrazie": "W; Pn"
+  },
+  {
+    "sciezka": "zrodlo/webacja/03majowie/4a8c.gif",
+    "typ": "rysunek",
+    "opis": "Dwa glify w stylu majańskim: kropki (cyfry) po lewej stronie każdego bloku oraz ozdobne głowy-znaki; prawdopodobnie data kalendarza majańskiego (wg nazwy pliku 4 Ahau 8 Cumku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/03majowie/planetax.gif",
+    "typ": "schemat",
+    "opis": "Schemat Układu Słonecznego: Słońce w środku, orbity Merkurego, Wenus, Ziemi, Marsa, pas planetoid oraz Jowisz; w pasie planetoid szary znak X oznaczający hipotetyczną Planetę X.",
+    "tekst_na_obrazie": "X; Jowisz; Mars; Ziemia; Wenus; Merkury; Pas planetoid"
+  },
+  {
+    "sciezka": "zrodlo/webacja/03majowie/eros.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zdjęcie wydłużonej, ciemnej, pokrytej kraterami planetoidy na czarnym tle; prawdopodobnie Eros (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/chrono1.jpg",
+    "typ": "wykres",
+    "opis": "Oś czasu (w tysiącach lat) podzielona na epoki: paleolit późny, mezolit, neolit, brąz, żelazo, z wielkim znakiem zapytania nad epoką kamienia i paskami cywilizacji (Eridu, Sumer, Egipt, Babilon, Grecja, Kreta, Majowie, Aztekowie, Inkowie, Chiny itd.).",
+    "tekst_na_obrazie": "PALEOLIT PÓŹNY; MEZOLIT; NEOLIT; BRĄZ; ŻELAZO; ERIDU; SUMER; EGIPT; BABILON; MYKENY, TIRYNS; GRECJA; KRETA; RZYM; NAZCA; CHAVIN DE HUANTAR; OLMEKOWIE; DOLINA INDUSU; CHINY; MAJOWIE; AZTEKOWIE; INKOWIE; KHMEROWIE; EPOKA KAMIENIA; tysiące lat; -10; -5; -4; -3; -2; -1; 0"
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/chrosumer.jpg",
+    "typ": "wykres",
+    "opis": "Oś czasu w tysiącach lat (od 500 tys. lat temu do dziś) z epokami geologicznymi i prehistorycznymi; zaznaczone rządy prakróli przed potopem, 23 królów po potopie, cytat z Diodora oraz wizyta Anu i początek kalendarza nippuryjskiego.",
+    "tekst_na_obrazie": "Wizyta Boga Anu. Początek kalendarza Nippuryjskiego 3760 r. pne.; Rządy prakrólów z przed potopu; Rządy 23 królów po potopie (24510 lat, 3 miesiące i pół dnia); DIODOR: ... kasta Chaldejczyków bada kosmos od 473 000 lat, tyle czasu minęło do wyprawy Aleksandra Wielkiego do Azji ...; lata w tysiącach; 500 400 300 250 200 150 100 50 30 22 18 16 14 12 10 8 6 4 2 0 2; Pramatka - Afryka; Proto-język; Neandertalczyk; SUMER; BABILON; PLEJSTOCEN; HOLOCEN; PALEOLIT GÓRNY; PALEOLIT DOLNY; PALEOLIT PÓŹNY; MEZOLIT; NEOLIT"
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/chronegipt.jpg",
+    "typ": "wykres",
+    "opis": "Oś czasu (w tysiącach lat) porównująca egipskie przekazy o długości panowania bogów i półbogów (Manetho, Vincent, Diodor, Herodot, Papirus Turyński) z potopami i datami wydarzeń, np. panowanie Menesa i Amasisa.",
+    "tekst_na_obrazie": "MANETON; Panowanie Bogów w Egipcie (13900 lat); Panowanie półbogów w Egipcie (1255 lat); Panowanie śmiertelnych w Egipcie (7943 lata); Rządy 341 kapłanów w Egipcie (11340 lat); HERODOT; VINCENT; Panowanie Bogów i Półbogów w Egipcie 33894-5621 pne (28273 lata); DIODOR; 23000 lat od panowania Boga Słońca do wyprawy Aleksandra Wielkiego do Azji; 18000 lat rządów Bogów i Herosów; Od Mojrisa do Diodora 5060-60 pne; PAPIRUS TURYŃSKI; Rządy przed Szemsu-Hor 45320-22120 pne (23200 lat); Rządy Szemsu-Hor 22120-8700 pne (13420 lat); Rządy królów śmiertelnych (3100 lat) 8700-5600 pne; POTOP „Nibiru”; POTOP „biblijny”; Śmierć Ozyrysa; Herakles; Dionizos; WIELKI USKOK; tysiące lat pne; 50 40 20 15 10 5 0; Panowanie Menesa; Panowanie Amasisa"
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/chronowieki.jpg",
+    "typ": "wykres",
+    "opis": "Schemat porównujący greckie wieki (złoty, srebrny, spiżowy, żelazny) z cywilizacją bogów, półbogów i ludzi na osi czasu od 450 000 pne do dziś; zaznaczone imiona Kronos i Zeus.",
+    "tekst_na_obrazie": "Kronos; Zeus; ZŁOTY; SREBRNY; SPIŻOWY; ŻELAZNY; HEROSÓW; CYWILIZACJA BOGÓW; CYWILIZACJA PÓŁBOGÓW; CYWILIZACJA LUDZI; 450 000 pne; 290 000 - 140 000; ?; 32 000; 10 500; 0"
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/mostadama1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zdjęcie satelitarne cieśniny z łańcuchem łach i wysepek łączących dwa brzegi; prawdopodobnie Most Adama między Indiami a Sri Lanką (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/mostadama2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie satelitarne łańcucha płycizn i wysp przecinającego morze; prawdopodobnie Most Adama (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/zodindie1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Okrągła kamienna płyta z koncentrycznym wzorem i płaskorzeźbami postaci oraz zwierząt na obwodzie; prawdopodobnie indyjski zodiak (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/zodindie2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Ta sama okrągła kamienna płyta z zodiakiem, opisana polskimi nazwami znaków zodiaku rozmieszczonymi wokół.",
+    "tekst_na_obrazie": "BLIŹNIĘTA; RAK; LEW; PANNA; WAGA; SKORPION; STRZELEC; KOZIOROŻEC; WODNIK; RYBY; BARAN; BYK"
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/chromoja.jpg",
+    "typ": "wykres",
+    "opis": "Oś czasu (w tysiącach lat) ze wskazaniem cywilizacji bogów, paracywilizacji królów i kapłanów-półbogów oraz cywilizacji ludzi; zaznaczone potop biblijny, wielki uskok skorupy ziemskiej, śmierć Ozyrysa, Herakles, Dionizos, wizyty bogów.",
+    "tekst_na_obrazie": "Potop biblijny; Wielki uskok skorupy ziemskiej; ?; CYWILIZACJA BOGÓW; PARACYWILIZACJA KRÓLÓW I KAPŁANÓW - PÓŁBOGOWIE; CYWILIZACJA LUDZI; śmierć Ozyrysa; Herakles; Dionizos; Bogowie w Akakor; Wizyta Anu w Sumerze; Wizyta Bogów u Majów; lata w tysiącach; 500 400 300 250 200 150 100 50 30 22 18 16 14 12 10 8 6 4 2 0 2; PALEOLIT GÓRNY; PALEOLIT DOLNY; PALEOLIT PÓŹNY; MEZOLIT; NEOLIT"
+  },
+  {
+    "sciezka": "zrodlo/webacja/kamienie.gif",
+    "typ": "dekoracja",
+    "opis": "Poziomy pasek z rzędu szarych kamieni, ozdobny separator.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/udar.jpg",
+    "typ": "rysunek",
+    "opis": "Cyfrowa ilustracja kosmicznego zderzenia: dwie planety lub planeta i duże ciało niebieskie, rozbite, z rozbłyskiem ognia i odłamkami na tle gwiazd.",
+    "tekst_na_obrazie": "© KAGAYA"
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/darwinizm.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Brązowa figurka małpy siedzącej na stosie książek, trzymającej w łapie ludzką czaszkę i pogrążonej w zadumie; ironiczny symbol darwinizmu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/atlantyk.jpg",
+    "typ": "mapa",
+    "opis": "Mapa batymetryczna Atlantyku z grzbietem śródoceanicznym (żółta wstęga), czerwonymi liniami izochron i prostą linią przekroju od punktu A (Ameryka Północna) do B (Afryka) z zaznaczonymi punktami A1-A5 i B1-B5 oraz zerem na grzbiecie.",
+    "tekst_na_obrazie": "A; B; 0; A1; A2; A3; A4; A5; B1; B2; B3; B4; B5"
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/slady1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie mężczyzny w kapeluszu stojącego na odsłoniętej skale, który coś wskazuje; przy nim leżą narzędzia lub kije.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/04chrono/slady2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie dwóch śladów odciśniętych w skale: ludzka stopa i ślad trójpalczasty dinozaura, obok nich tabliczki z opisem.",
+    "tekst_na_obrazie": "DINO TRACKS; MAN TRACK"
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/salamanca.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienna rzeźba w ozdobnym tle roślinnym przedstawiająca postać w stroju przypominającym skafander kosmonauty; prawdopodobnie detal katedry w Salamance (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/0stone.jpg",
+    "typ": "zdjęcie",
+    "opis": "Trylit z Stonehenge: dwa pionowe głazy z poprzecznym kamieniem na szczycie, w tle kolejne kamienie.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/0ozyrejon.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wielkie bloki granitu w kamiennej budowli; prawdopodobnie Ozyrejon w Abydos (wg nazwy pliku), widoczny filar i ciężkie belki stropowe.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/0sacsay.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z ogromnych, nieregularnych, ściśle dopasowanych głazów; przed nim stoją dwie osoby dla porównania skali; prawdopodobnie Sacsayhuaman (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/0haamonga.jpg",
+    "typ": "zdjęcie",
+    "opis": "Trylit z dwóch wysokich głazów i poprzecznej belki wśród zieleni; w dole stoi niewielka osoba. Prawdopodobnie Ha'amonga 'a Maui na Tonga (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/0ishibutai.jpg",
+    "typ": "zdjęcie",
+    "opis": "Obrośnięty trawą kopiec z gigantycznymi głazami nad kamiennym wejściem; przy wejściu stoją ludzie. Prawdopodobnie Ishibutai w Japonii (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/1abusir.jpg",
+    "typ": "zdjęcie",
+    "opis": "Duża kamienna płyta w kształcie czteroramiennej gwiazdy z okrągłym środkiem; prawdopodobnie ołtarz w Abusir (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/1a.jpg",
+    "typ": "zdjęcie",
+    "opis": "Skalne nisze o kształcie prostokątnych drzwi wykute w ciemnym głazie, przed którymi stoi osoba tyłem do obiektywu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/1sayhuite.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny blok wyciosany w kształt stopni i uskoków, na trawie; prawdopodobnie Sayhuite (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/czlowiek.jpg",
+    "typ": "schemat",
+    "opis": "Plansza „Ewolucja” na osi czasu: czaszki kolejnych przodków od Prokonsula po Homo sapiens sapiens, z dużą luką oznaczoną czerwonym znakiem zapytania i napisem o brakującym ogniwie, oraz sylwetką Afryki i Pramatką Ewą.",
+    "tekst_na_obrazie": "EWOLUCJA; PROKONSUL; RAMAPITEK; HOMO ERECTUS; HOMO HABILIS; AUSTRALOPITEK; BRAKUJĄCE OGNIWO; HOMO DARVINICUS; ?; HOMO SAPIENS; NEANDERTALCZYK; CRO-MAGNON; HOMO SAPIENS SAPIENS; PRAMATKA EWA wg NAUKI; miliony lat temu; 45; 15; 5; Karol; Lucy; 2; 1,5; tysiące lat temu; 300; 290; 140; 100; DZIŚ"
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/karol.jpg",
+    "typ": "zdjęcie",
+    "opis": "Podłużny jasny przedmiot, przypominający kość lub skamieniały fragment, leżący na czerwonawej ziemi; u dołu zdjęcia widać fragment buta lub stopy.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/dino.gif",
+    "typ": "rysunek",
+    "opis": "Ilustracja długoszyjego dinozaura zauropoda w pozie stojącej, w brązowych barwach.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/mezop1.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Czarny kamienny relief: stojąca postać przed siedzącym bogiem na tronie; wygląda jak górna część stelii typu Kodeks Hammurabiego.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/mezop2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Skalny relief z rzędem postaci, w środku siedząca lub dominująca postać z brodą, po bokach stojące figury; styl mezopotamski lub perski.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/mezop3.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Skalny relief przedstawiający dwie postaci na koniach lub obok koni, wymieniające się przedmiotem; scena inwestytury w stylu starożytnego Iranu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/mezop4.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienna tablica: siedzący na tronie bóg w tiarze przed dyskiem słonecznym, z trzema mniejszymi postaciami po lewej i klinowym pismem; przypomina tablicę z Sippar.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/mezop5.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Ciemny posąg stojącej postaci w długiej, dekorowanej szacie, z małą figurką przy nogach; styl mezopotamski.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/egipt2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Płaskorzeźba z okresu Amarna: tarcza słoneczna z promieniami zakończonymi dłońmi, pod nią postacie królewskiej rodziny.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/egipt1.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Egipski relief: faraon z uniesioną ręką stoi nad uklękniętym jeńcem lub przeciwnikiem; obok kolumny hieroglifów.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/gigant.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Malowany relief egipski: nogi bardzo dużej postaci w czerwono-brązowym kolorze i obok mała, niebieskoszara postać pochylona pod nimi, co ilustruje kontrast wielkości.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/egipt4.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Fragment kamiennej palety ze scenami: duża postać w koronie i rzędy mniejszych postaci oraz sztandarów; przypomina paletę Narmera.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/egipt5.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Egipska stela lub płyta z płaskorzeźbą: stojąca postać z wyciągniętą ręką, dalej mniejsze figury przy stole ofiarnym, nad nimi hieroglify.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/azja1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Płaskorzeźba azjatycka: tańcząca lub walcząca postać z ozdobną głowa w ruchu po lewej, po prawej tłum postaci, u góry drzewo; prawdopodobnie Angkor.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/zab.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dłoń w jasnej koszuli trzymająca dwa duże, ciemne, ząbkowane zęby, które wyglądają na skamieniałe trzonowce.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/olbrzym.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zdjęcie odkrytego w wykopie gigantycznego szkieletu ludzkiego z wielką czaszką i żebrami, obok drewnianych belek i niewielkiej osoby jako skali.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/olbrzym2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Widok z góry na wykop w błocie z rozrzuconymi wielkimi kośćmi i żebrami zwierzęcia, otoczony drewnianymi belkami.",
+    "tekst_na_obrazie": "Copyright 2000 Cornell University Program of Computer Graphics"
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/przodek1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kolosalna kamienna głowa w hełmie, o szerokim nosie i pełnych ustach, stojąca na trawie; typ głowy olmeckiej.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/przodek2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienna twarz o łagodnym uśmiechu, ze zbliżenia wieży świątyni; prawdopodobnie Bayon w Angkorze (wg stylu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/przodek4.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienna głowa faraona w nemesie z uraeusem; styl egipski.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/przodek6.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienna głowa w stożkowatej tiarze, spękana, na tle skał i nieba; styl kolosów z góry Nemrut.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/budda1a.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Drewniana głowa Buddy z zamkniętymi oczami, loczkami na głowie i wydłużonymi uszami.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/angkor.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Panoramiczna płaskorzeźba z Angkoru: szereg wojowników z biżuterią i hełmami, jeden z okrągłą tarczą, po prawej konie lub słonie i włócznie.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/kamasutra.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Różowawa płaskorzeźba w stylu indyjskim: dwie splecione postaci w ozdobnych koronach i biżuterii, przytulone do siebie.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/uszy1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Złota figurka lub maska twarzy z uśmiechem i długimi uszami, w czapce z poziomymi pasami.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/uszy2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Srebrna figurka głowy w walcowatej czapce, z dużymi pętlami kolczyków w wydłużonych uszach.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/uszy3.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Zbliżenie kamiennej głowy posągu Moai z wydłużonym uchem i ostrym nosem; w tle ruiny.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/uszy4.jpg",
+    "typ": "rysunek",
+    "opis": "Dwie ilustracje rekonstrukcji twarzy mężczyzn: jeden w stożkowym kapeluszu, drugi z białymi piórami na głowie, na czarnym tle.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/uszy5.jpg",
+    "typ": "portret",
+    "opis": "Fotografia kobiety w ozdobnym nakryciu głowy i naszyjniku, z mocno wydłużonymi płatkami uszu obciążonymi ozdobami.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/glowa1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Popiersie królowej w wysokiej niebieskiej koronie i złotej opasce, ujęte z profilu; wygląda jak słynne popiersie Nefertiti.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/glowa2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Złota głowa młodego władcy w koronie z uraeusem, ujęta z półprofilu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/ptah.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Figura w obcisłym niebieskim nakryciu głowy i z długą brodą oraz berłem; prawdopodobnie bóg Ptah (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/glowa5.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Ciemna kamienna głowa postaci w długiej peruce, ujęta z profilu, na czarnym tle.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/baniak.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Płaskorzeźba w kamieniu: profil głowy o wydłużonej, wysklepionej potylicy, z wyraźnie zaznaczonym uchem; styl egipski.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/nefer1.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Popiersie Nefertiti w niebieskiej koronie z profilu na białym tle; wygląda jak słynne popiersie z Berlina.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/nefer2.gif",
+    "typ": "rzeźba/relief",
+    "opis": "To samo popiersie Nefertiti z nałożonymi żółtymi liniami i strzałkami pokazującymi kształt wydłużonej czaszki i szyi.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/farao2.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Złota maska faraona w niebiesko-złotym nemesie z uraeusem i brodą, ujęta z profilu; wygląda jak maska Tutanchamona.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/farao3.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Profil głowy o silnie wydłużonej czaszce, brunatnoszarej, bez nakrycia głowy; rzeźba z okresu Amarna.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/farao1.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Złota maska faraona w nemesie z nałożonym półprzezroczystym konturem wydłużonej czaszki ponad nim.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/agust2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienne posągi z San Agustín w Kolumbii (wg nazwy pliku): w środku masywna postać w wiatce z kamiennych płyt, po bokach dwa wąskie posągi.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/agust3.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienny posąg z okrągłymi oczami i szerokimi ustami z kłami, z rękami złożonymi na brzuchu; prawdopodobnie San Agustín (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/agust5.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Wąski kamienny posąg stojącej postaci z dużą głową i wystającymi zębami na tle zieleni; San Agustín (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/bharvi.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Czerwonopomarańczowa maska groźnej bogini lub demona z kłami, wybałuszonymi oczami i wieńcem ozdób; maska w stylu indyjsko-nepalskim, prawdopodobnie Bhairav (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/1elbaul.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Jasna kamienna płyta z rzeźbioną postacią w pozie wojownika z ozdobami, w kamieniu o gładkiej fakturze; styl El Baúl (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/1elbaul1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Zbliżenie kamiennej rzeźby: duża głowa postaci o wyrazistych oczach i okrągłej ozdobie w uchu; wg nazwy pliku El Baúl.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/1tonina1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Zielonkawa kamienna rzeźba z postacią o nadmiernych rysach twarzy, pochylonej do przodu; prawdopodobnie Toniná (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/1tonina.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Zielonkawa kamienna rzeźba przedstawiająca istotę o głowie zwierzęcej lub maskowanej, z przedmiotem po prawej; prawdopodobnie Toniná (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/ofiara2.jpg",
+    "typ": "rysunek",
+    "opis": "Kolorowa ilustracja z kodeksu azteckiego: ofiara ludzka na szczycie piramidy, kapłan wyjmuje serce, krew spływa po schodach; po bokach postacie.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/ofiara.jpg",
+    "typ": "rysunek",
+    "opis": "Kolorowa ilustracja z kodeksu: kilku kapłanów trzyma na ołtarzu ofiarę, jeden unosi serce, nad nimi słońce z promieniami.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/cywilizacje1.jpg",
+    "typ": "mapa",
+    "opis": "Mapa świata z 17 ponumerowanymi żółtymi punktami (miejsca starożytnych kultur) na tle jasnego ukośnego pasa przecinającego globus.",
+    "tekst_na_obrazie": "1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17"
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/ollantayambo.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ogromny pionowy monolit z wyżłobionymi wnękami, ustawiony na tle gór; po lewej stoją ludzie dla skali. Prawdopodobnie Ollantaytambo (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/petra.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze skalnej komory w Petrze (wg nazwy pliku): ściany i sufit w czerwono-różowych smugach piaskowca, z półkolistymi wnękami i trzema osobami na posadzce.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/yerebatan.jpg",
+    "typ": "zdjęcie",
+    "opis": "Podziemna cysterna z rzędami kolumn oświetlonych na złoto; prawdopodobnie Yerebatan w Stambule (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/derinkuyu.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze podziemnego miasta wykutego w skale: wąskie korytarze i okrągłe otwory oświetlone na żółto; prawdopodobnie Derinkuyu (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/05bogowie/cywilizacje.jpg",
+    "typ": "mapa",
+    "opis": "Mapa świata z oznaczonymi strefami A (niebieska, Atlantyk), B, C, D i E, linią przerywaną, znakami zapytania na kontynentach oraz zdjęciami głów: olmeckiej, egipskiej (Nefertiti), faraona i głowy z Azji.",
+    "tekst_na_obrazie": "A; B; C; D; D; E; ?; ?; ?; ?; ?; ?"
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/odbudowa.jpg",
+    "typ": "zdjęcie",
+    "opis": "Odbudowa posągu Moai: ciężki kamienny element (kapelusz lub głowa) wisi na linie dźwigu nad posągiem otoczonym rusztowaniem; na rusztowaniu i obok stoją robotnicy.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/menga1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wejście do dolmenu: ogromne płyty nakrywające i boczne, przed wejściem krata i brukowany plac; prawdopodobnie dolmen Menga (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/viera.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wykopany w ziemi korytarz dojściowy prowadzący do kamiennego wejścia w kopcu, wśród suchej trawy; prawdopodobnie dolmen Viera (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/gallardet1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wąski kamienny korytarz z ułożonych płyt prowadzący do wejścia pod dużym głazem, wśród drzew i suchej ziemi; wg nazwy pliku Gallardet.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/menga2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze komory z potężnym pionowym kamiennym filarem pośrodku i dużymi płytami ścian i stropu; wg nazwy pliku dolmen Menga.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/neksis3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie wnętrza kamiennej budowli: gładka ściana złożona z dużych, dopasowanych płyt i belek, pod nimi niższy rząd bloków.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/gallardet3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze kamiennego przejścia: boczne ściany z drobnych płaskich kamieni i potężne ciosane bloki po bokach wyjścia, przez które widać drzewa.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/ishibutai1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Masywny kamienny grobowiec z gigantycznych głazów odsłonięty na polu; w tle góry i kwitnące drzewa wiśni. Prawdopodobnie Ishibutai (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/ishibutai2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Trawiasty kopiec z ogromnymi głazami i ciemnym wejściem do komory; przy wejściu stoją dwie osoby. Ishibutai (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/ishibutai3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze komory grobowej: ściany z dopasowanych wielkich kamieni i kamienne sklepienie nad brukowaną podłogą. Ishibutai (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/ishibutai4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wąski kamienny korytarz wejściowy prowadzący do jasnego otworu, ściany z ciosanych głazów. Ishibutai (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/neksis1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dolmen: duża płyta stropowa na kamiennych ściankach; w frontowej płycie okrągły otwór; wokół trawa i krzewy.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/d9walba.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dolmen z ogromną płytą nakrywającą na dwóch porowatych podporach, na zielonej łące; w tle drzewa.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/d3djubga.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dolmen z frontową płytą z okrągłym otworem i płaską płytą stropową, w otoczeniu zieleni; prawdopodobnie typ kaukaski (Dżubga, wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/d7francja.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dolmen: szeroka płyta stropowa wsparta na dwóch skośnych kamieniach, w lesie; prawdopodobnie Francja (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/d4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dolmen o ścianach z wielkich płyt i frontowej płycie z okrągłym otworem, pośród leśnej zieleni i kamieni.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/d11.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dolmen z gigantyczną płaską płytą stropową, pod którą widać kilka mniejszych podpór; otoczenie leśne.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/menantol1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Na trawiastym polu kilka kamieni, w tym kamień z okrągłym otworem pośrodku i pochylone głazy obok; prawdopodobnie Men-an-Tol (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/menantol2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie kamiennego pierścienia z dużym otworem, przez który widać pionowy stojący kamień; Men-an-Tol (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/menantol3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Trzy kamienie na trawie: pionowy kamień po lewej, kamień z otworem w środku oraz pochylony wysoki głaz po prawej i płaski kamień; Men-an-Tol (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/ozyrejon4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zalane wodą wnętrze podziemnej budowli z masywnych kamiennych bloków; w wodzie roślinność; prawdopodobnie Ozyrejon w Abydos (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/chefren1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ruiny świątyni z potężnych bloków i belek na piasku, w tle piramidy w Gizie; wg nazwy pliku świątynia przy piramidzie Chefrena.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/obel1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wielki niedokończony obelisk leżący w kamieniołomie granitu, obok skalne ściany; prawdopodobnie Asuan (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/obel2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Powierzchnia niedokończonego obelisku z widoczną pionową pęknięciem, ujęta od góry.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/obel3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Bok niedokończonego obelisku leżącego w głębokim rowie wyciętym w skale, na tle ściany kamieniołomu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/baalbeck1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ściana z ogromnych bloków kamiennych: wyżej mniejsze kamienie z blankami, niżej gigantyczne bloki; na trawie niewielki kamień. Prawdopodobnie Baalbek (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/baalbeck3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Gigantyczny, ukośnie leżący monolit w kamieniołomie, obok którego stoi człowiek dla skali; w tle budynki. Prawdopodobnie Baalbek (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/baalbeck2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie muru z ogromnych bloków, przy którym stoi człowiek; wg nazwy pliku Baalbek.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/mykeny1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna brama w grubym murze z dużych bloków z trójkątną płytą nad nadprożem; prawdopodobnie Mykeny (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/mykeny2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze kopulastego grobowca z kamiennym sklepieniem, przez drzwi wpada jasne światło; prawdopodobnie Mykeny (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/mykeny3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z wielkich, dokładnie ociosanych prostokątnych bloków; przy nim stoi kobieta w fioletowej kurtce. Prawdopodobnie Mykeny (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/ollanta1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Rząd sześciu wielkich, prostokątnych monolitów z płaskimi powierzchniami ustawionych obok siebie na zboczu; obok siedzi człowiek. Prawdopodobnie Ollantaytambo (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/ollanta3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ściana z dużych kamiennych płyt z występami w kształcie guzów; obok stoi osoba; prawdopodobnie Ollantaytambo (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/ollanta2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wielki blok kamienny z wystającymi uchwytami leży na ziemi przy murze; mężczyzna w białej koszuli opiera się o niego. Ollantaytambo (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/machu1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mężczyzna z aparatem stoi przed ścianą budowli z dużych, dopasowanych bloków kamiennych; Machu Picchu (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/machu2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienne przejście z trapezowym ościeżem ze skalnych bloków w ścianie z drobniejszych kamieni; Machu Picchu (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/machu3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Skalna konstrukcja ze słupkiem i stopniowanymi powierzchniami na tle gór; prawdopodobnie Intihuatana w Machu Picchu (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tiahu1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Brama Słońca z Tiahuanaco: monolityczny blok z reliefem w górnej części i wąskim prześwitem, na tle płaskowyżu; widoczne dwie niewielkie wnęki po bokach.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tiahu2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna brama-portal z jednego bloku, przez którą widać niebo i stojący w oddali słup; Tiahuanaco (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tiahu3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z rzędem kamiennych głów wmurowanych w ścianę, obok wysoka stela i schody; Tiahuanaco (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/malta1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ściana megalitycznej świątyni z wielkich płyt kamiennych w odcieniach pomarańczu, za metalowym ogrodzeniem; Malta (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/malta2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wejście do maltańskiej świątyni megalitycznej: trylitowy portal z płyt kamiennych i niewielkie okienko w głębi.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/malta3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Trzy osoby stoją na tle ogromnych, jasnych płyt kamiennych świątyni; Malta (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/stone1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Stonehenge: duże stojące głazy z kamiennymi nadprożami na trawiastym terenie, na pierwszym planie leży płaski kamień.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/stone2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Widok z lotu ptaka na Stonehenge: krąg kamieni otoczony okrągłym rowem i wałem na zielonej równinie, z drogą dochodzącą z boku.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/stone3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na trylity Stonehenge: pionowe głazy z poprzecznymi nadprożami i cienie na trawie.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/haamonga1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Trylit z dwóch wysokich porowatych głazów i belki, zielona polana i palmy; przy podstawie stoi dziecko. Prawdopodobnie Ha'amonga 'a Maui na Tonga (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/haamonga2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie jednego z filarów trylitu: dużej porowatej płyty z belką na szczycie; obok stoi mężczyzna. Ha'amonga (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/haamonga3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Trylit Ha'amonga 'a Maui widziany z boku w otoczeniu palm i drzew tropikalnych.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/3jarres2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Duże kamienne dzbany (stągwie) rozrzucone na trawiastym wzgórzu; z lewej pokryte porostami. Prawdopodobnie Równina Dzbanów w Laosie (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/3laos.jpg",
+    "typ": "zdjęcie",
+    "opis": "Człowiek kuca na brzegu ogromnego kamiennego dzbana z dużym otworem; Laos (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/3jarres1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kilka wielkich kamiennych dzbanów na łące z porostami, w tle wzgórza; Równina Dzbanów (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/iran.jpg",
+    "typ": "zdjęcie",
+    "opis": "Stopniowana budowla z ciosanych bloków z małym wejściem i dachem szczytowym oraz kolumna i bloki na pierwszym planie; wygląda jak grobowiec Cyrusa w Pasargadach (Iran, wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/argolida.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wzgórze z ułożonych wielkich, kanciastych bloków o kształcie piramidy, wśród suchej roślinności; Argolida (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/himeji.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wąskie kamienne przejście z nadprożem w grubym murze z wielkich głazów i schodami w głębi; Himeji (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/2abydos.jpg",
+    "typ": "zdjęcie",
+    "opis": "Widok z góry na kamienne bloki ułożone w stopnie z drewnianymi schodkami lub pomostem; Abydos (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/2indie.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienne schody wykute w skale prowadzące do niewielkiej bramy na szczycie; Indie (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/2machu1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Skalny występ z wyciętymi stopniowymi płaszczyznami na górskim zboczu; Machu Picchu (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/2petra.jpg",
+    "typ": "zdjęcie",
+    "opis": "Schody i półki wykute w jasnej skale; Petra (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/2qenko.jpg",
+    "typ": "zdjęcie",
+    "opis": "Szerokie kamienne schody o wyraźnych stopniach ułożone z dużych bloków; Qenko (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/1mykeny.jpg",
+    "typ": "zdjęcie",
+    "opis": "Brama Lwów w Mykenach (wg nazwy pliku): prostokątne wejście z masywnym nadprożem, nad nim trójkątna płyta ze zatartym reliefem.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/1karystos.jpg",
+    "typ": "zdjęcie",
+    "opis": "Brama z wielkich płyt kamiennych tworzących portal pod chmurami, otoczona głazami; Karystos (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/1liban.jpg",
+    "typ": "zdjęcie",
+    "opis": "Szereg kamiennych bram ustawionych jedna za drugą, tworzących perspektywę korytarza; Liban (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/1sacsay.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z wielkich wielokątnych bloków dopasowanych bez zaprawy z trapezową bramą i kamiennymi stopniami; Sacsayhuaman (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort1a.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Duży głaz z wyrzeźbioną powierzchnią o wielu zagłębieniach, schodkach i kształtach zwierząt, w ogrodzonym terenie na tle wzgórz; prawdopodobnie kamień z Sayhuite w Peru.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort1b.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Zbliżenie na rzeźbioną powierzchnię głazu: kanały, stopnie, figury zwierząt i okrągłe zagłębienia; po lewej fragment osoby w tle.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort2a.jpg",
+    "typ": "zdjęcie",
+    "opis": "Widok z góry na świątynię wykutą w całości w skale: fasada z kolumnami i rzeźbami postaci, płaski dach z figurami zwierząt, przed nią piaszczysty dziedziniec; prawdopodobnie Ellora w Indiach.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort2b.jpg",
+    "typ": "zdjęcie",
+    "opis": "Skalna świątynia wykuta w ogromnym głazie, ozdobiona rzeźbami smoków lub lwów wokół wejścia; obok leży duży okrągły głaz. Prawdopodobnie Mahabalipuram w Indiach.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort3a.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wykute w skale świątynie typu ratha o piętrowych dachach, z rzeźbami postaci na ścianach; po prawej kamienny byk. Prawdopodobnie Mahabalipuram.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort3b.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wielki kompleks świątynny wykuty w zboczu skały, z filarami, wieżyczkami i bogatą ornamentyką; prawdopodobnie świątynia Kailasa w Ellorze.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort4a.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wysoka skalna ściana z wykutą w niej fasadą grobowca w kształcie krzyżowego portalu; prawdopodobnie Naqsh-e Rustam w Iranie.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort4b.jpg",
+    "typ": "zdjęcie",
+    "opis": "Fasada wykuta w czerwonym piaskowcu: kolumny, tympanon i okrągły tholos nad drzwiami, u podnóża turyści; prawdopodobnie Skarbiec w Petrze.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort5a.jpg",
+    "typ": "zdjęcie",
+    "opis": "Fasada skalnej świątyni z wysokimi rzeźbionymi posągami stojących postaci między występami skały; prawdopodobnie mała świątynia w Abu Simbel.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort5b.jpg",
+    "typ": "zdjęcie",
+    "opis": "Fasada skalnej świątyni z czterema kolosalnymi posągami siedzących faraonów oraz małymi posągami przy ich nogach; przed nią ludzie; prawdopodobnie Abu Simbel.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort6a.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Wielki kamienny blok z płaskorzeźbami postaci w lesie; obok stoi kobieta w niebieskiej kurtce dla skali. Wygląda na ołtarz kultury olmeckiej.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/tort6b.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Ozdobny kamienny ołtarz w kształcie bloku z rzeźbionymi głowami i spiralami, na placu otoczonym zielenią; w tle ruiny kamiennych budowli; wygląda na kulturę Majów.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/aramu.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ogromny blok skalny z wygładzoną, prostokątną płaszczyzną i niewielką niszą w dolnej części, nad nią zaokrąglone głazy; prawdopodobnie Aramu Muru (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/yazilikaya.jpg",
+    "typ": "zdjęcie",
+    "opis": "Skalna ściana z wyciosaną regularną fasadą z niewielkim wejściem na dole, na tle nieba; prawdopodobnie Yazılıkaya (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/jordania.jpg",
+    "typ": "zdjęcie",
+    "opis": "Fasada grobowca wykuta w różowym piaskowcu z drzwiami i ornamentami, wieloma rzeźbionymi płaszczyznami; Jordania (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/ramzes.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Zbliżenie na leżący kamienny kolos faraona: ręka zaciśnięta na symbolu, kartusze z hieroglifami na ramieniu i barku; prawdopodobnie Ramzes II (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/1chmur1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wielki Mur Chiński wijący się po zielonych górach, z wieżami strażniczymi i blankami po lewej.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/1chmur2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wieża strażnicza Wielkiego Muru Chińskiego z blankami i oknami, otoczona drzewami na górskim zboczu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/06budowle/1chmur3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Narożnik kamiennego muru z ciosanych bloków o nieregularnych kształtach, w tle drzewa; mur zamku lub fortecy, prawdopodobnie w Japonii.",
+    "tekst_na_obrazie": ""
+  }
+]

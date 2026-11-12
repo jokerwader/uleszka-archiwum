@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
  * Serwer MCP archiwum uleszka.net.
- * Pozwala asystentowi AI przeglądać, przeszukiwać i czytać artykuły serwisu w oryginalnym brzmieniu.
+ * Pozwala asystentowi AI przeglądać, przeszukiwać (po słowach i po znaczeniu) i czytać artykuły strony
+ * w oryginalnym brzmieniu, a także opracowania AI, opisy zdjęć i bibliotekę dzieł z domeny publicznej.
  */
 import { readFileSync, existsSync } from "node:fs";
 import { dirname, extname, join, resolve, sep } from "node:path";
@@ -11,42 +12,75 @@ import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/streamableHttp.js";
 import { createServer } from "node:http";
 import { z } from "zod";
-import { Archiwum, type Artykul } from "./archiwum.js";
+import { Archiwum, zloz, type Dokument } from "./archiwum.js";
+import { Semantyka, zaladujModel, type Zbior } from "./semantyka.js";
 
 const KATALOG_GLOWNY = process.env.ULESZKA_KATALOG ?? resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const ROZMIAR_CZESCI = 15000;
 const archiwum = new Archiwum(KATALOG_GLOWNY);
+const semantyka = new Semantyka(archiwum);
+// model do wyszukiwania po znaczeniu ładujemy od razu w tle, żeby pierwsze zapytanie było szybkie
+if (semantyka.dostepne("archiwum") && !process.env.ULESZKA_BEZ_MODELU) zaladujModel().catch(() => {});
 
 const INSTRUKCJE = `To jest archiwum serwisu uleszka.net („Uwierz we własny rozum”) – prywatnej polskiej strony internetowej z lat ok. 2004–2007, której autorem był Leszek Klimek.
 Zawiera ${archiwum.artykuly.length} stron w działach: ${archiwum.dzialy.join(", ")}.
 Tematy: dawne cywilizacje, Atlantyda, piramidy, potop, kalendarze, katastrofy kosmiczne, medycyna naturalna, zdrowie i żywność, publicystyka.
-Teksty są przeniesione bez żadnych zmian względem oryginału.
+Teksty artykułów są przeniesione bez żadnych zmian względem oryginału.
+Dodatkowo: opracowania AI każdego artykułu (streszczenie, tezy z dosłownymi cytatami, tematy), opisy AI ${archiwum.opisyObrazow.size} zdjęć
+oraz biblioteka ${archiwum.ksiazki.length} dawnych dzieł z domeny publicznej, na które powołuje się autor (Platon, Herodot, Księga Henocha, Popol Vuh, Mahabharata i in.).
 
 Jak pracować:
-- Zacznij od list_articles (spis treści) albo search (wyszukiwanie pełnotekstowe, odporne na brak polskich znaków).
-- Czytaj artykuły przez read_article; długie artykuły mają kilka części (parametr part).
-- W długim artykule szukaj konkretnych miejsc przez find_in_article.
-- Cytując archiwum, przytaczaj tekst dosłownie i podawaj tytuł artykułu.
+- Spis treści: list_articles. Wyszukiwanie po słowach: search. Po znaczeniu (gdy słowa mogą być inne niż w tekście): search_by_meaning.
+- Szybki przegląd artykułu: get_article_notes (opracowanie). Pełny tekst: read_article (długie artykuły mają kilka części).
+- Powiązane artykuły: related_articles. Konkretne miejsca w długim tekście: find_in_article.
+- Książki cytowane przez autora i gdzie są dostępne: list_books. Pełne teksty dawnych źródeł: list_library, read_book.
+  Gdy autor powołuje się na Platona, Herodota, Biblię itp., sprawdź w bibliotece, co źródło naprawdę mówi.
+- Cytując archiwum, przytaczaj tekst dosłownie i podawaj tytuł artykułu. Opracowania i opisy zdjęć są pomocą AI, nie częścią oryginału.
 - Wyraźnie oddzielaj to, co twierdzi autor strony, od aktualnej wiedzy i własnej oceny. Teksty pochodzą sprzed ok. 20 lat
   i zawierają wiele hipotez niezgodnych z dzisiejszą nauką (szczególnie w dziale medycznym) – omawiaj je rzetelnie,
   a przy porównaniu z obecną wiedzą korzystaj z wyszukiwarki, jeśli jest dostępna, i podawaj źródła.`;
 
+/** Wiersze tabel z docs/ksiazki.md (lista książek cytowanych przez autora) z nazwą sekcji. */
+const WIERSZE_KSIAZEK: { sekcja: string; wiersz: string }[] = (() => {
+  const p = join(KATALOG_GLOWNY, "docs", "ksiazki.md");
+  if (!existsSync(p)) return [];
+  let sekcja = "";
+  const out: { sekcja: string; wiersz: string }[] = [];
+  for (const l of readFileSync(p, "utf8").split("\n")) {
+    if (/^#{2,3} /.test(l)) sekcja = l.replace(/^#+ /, "");
+    else if (l.startsWith("| ") && !/^\|\s*(Dzieło|Autor)\s*\|/.test(l) && !/^\|[-| ]+\|$/.test(l)) out.push({ sekcja, wiersz: l });
+  }
+  return out;
+})();
+
 /** Tworzy serwer MCP z narzędziami archiwum (jeden na połączenie; archiwum jest wczytane raz, wspólne). */
 function utworzSerwer(): McpServer {
-const server = new McpServer({ name: "uleszka-archiwum", version: "1.1.0" }, { instructions: INSTRUKCJE });
+const server = new McpServer({ name: "uleszka-archiwum", version: "1.2.0" }, { instructions: INSTRUKCJE });
 
 const tekst = (t: string) => ({ content: [{ type: "text" as const, text: t }] });
 const blad = (t: string) => ({ content: [{ type: "text" as const, text: t }], isError: true });
-const naglowek = (a: Artykul) =>
-  [
-    `# ${a.tytul}`,
-    `id: ${a.id} | dział: ${a.dzial}${a.rodzic ? ` | podstrona artykułu: ${a.rodzic}` : ""}`,
-    `oryginał: ${a.adresOryginalny} | plik w repozytorium: ${a.plik}`,
-  ].join("\n");
-const nieZnaleziono = (klucz: string) =>
-  blad(`Nie znaleziono artykułu „${klucz}”. Użyj list_articles albo search, żeby znaleźć właściwe id.`);
+const naglowek = (a: Dokument) =>
+  a.rodzaj === "ksiazka"
+    ? [
+        `# ${a.tytul}`,
+        `id: ${a.id} | autor: ${a.autor}${a.meta.tlumacz ? ` | przekład: ${a.meta.tlumacz}` : ""} | język: ${a.meta.jezyk}`,
+        `źródło: ${a.adresOryginalny} | licencja: ${a.meta.licencja}`,
+      ].join("\n")
+    : [
+        `# ${a.tytul}`,
+        `id: ${a.id} | dział: ${a.dzial}${a.rodzic ? ` | podstrona artykułu: ${a.rodzic}` : ""}`,
+        `oryginał: ${a.adresOryginalny} | plik w repozytorium: ${a.plik}`,
+      ].join("\n");
+const nieZnaleziono = (klucz: string, coTo = "artykułu") =>
+  blad(`Nie znaleziono ${coTo} „${klucz}”. Użyj ${coTo === "książki" ? "list_library" : "list_articles albo search"}, żeby znaleźć właściwe id.`);
+const stopkaCzesci = (a: Dokument, part: number, ile: number, narzedzie: string) =>
+  ile > 1
+    ? part < ile
+      ? `[Część ${part} z ${ile}. Dalej: ${narzedzie}(id: "${a.id}", part: ${part + 1})]`
+      : `[Koniec – część ${part} z ${ile}.]`
+    : "[Koniec.]";
 
-// ---------------- narzędzia ----------------
+// ---------------- narzędzia: archiwum ----------------
 
 server.registerTool(
   "list_articles",
@@ -60,9 +94,7 @@ server.registerTool(
     annotations: { readOnlyHint: true },
   },
   async ({ section }) => {
-    const lista = section
-      ? archiwum.artykuly.filter((a) => a.dzial.toLowerCase() === section.toLowerCase())
-      : archiwum.artykuly;
+    const lista = section ? archiwum.artykuly.filter((a) => a.dzial.toLowerCase() === section.toLowerCase()) : archiwum.artykuly;
     if (!lista.length) return blad(`Brak działu „${section}”. Dostępne: ${archiwum.dzialy.join(", ")}`);
     const linie: string[] = [];
     let dzial = "";
@@ -72,9 +104,9 @@ server.registerTool(
         linie.push(`\n## ${dzial}`);
       }
       const czesci = archiwum.czesci(a, ROZMIAR_CZESCI).length;
-      const wciecie = a.rodzic ? "  " : "";
+      const tematy = archiwum.opracowania.get(a.id)?.tematy.slice(0, 4).join(", ");
       linie.push(
-        `${wciecie}- ${a.tytul} — id: ${a.id} (${Math.round(a.czysty.length / 1000)} tys. znaków${czesci > 1 ? `, ${czesci} części` : ""}${a.obrazy.length ? `, ${a.obrazy.length} obr.` : ""})`,
+        `${a.rodzic ? "  " : ""}- ${a.tytul} — id: ${a.id} (${Math.round(a.czysty.length / 1000)} tys. znaków${czesci > 1 ? `, ${czesci} części` : ""}${a.obrazy.length ? `, ${a.obrazy.length} obr.` : ""})${tematy ? ` · ${tematy}` : ""}`,
       );
     }
     return tekst(`Archiwum uleszka.net – ${lista.length} stron${linie.join("\n")}`);
@@ -84,28 +116,63 @@ server.registerTool(
 server.registerTool(
   "search",
   {
-    title: "Szukaj w archiwum",
+    title: "Szukaj słów",
     description:
-      "Full-text search across all articles (content is Polish – query in Polish for best results; diacritics optional, prefix and fuzzy matching). Returns matching articles ranked by relevance with quoted passages.",
+      "Keyword full-text search (content is Polish – query in Polish; diacritics optional, prefix and fuzzy matching). scope='archiwum' (default) searches the website's articles, their AI notes and AI photo descriptions; scope='biblioteka' searches the public-domain library of ancient sources. Returns ranked documents with verbatim passages. For searching by meaning/concept use search_by_meaning.",
     inputSchema: {
       query: z.string().min(1).describe("Słowa do wyszukania, np. „Atlantyda Platon” albo „wapn kosci”"),
-      section: z.string().optional().describe("Ogranicz do działu"),
-      limit: z.number().int().min(1).max(50).default(10).describe("Maksymalna liczba artykułów"),
+      scope: z.enum(["archiwum", "biblioteka"]).default("archiwum").describe("archiwum = artykuły strony; biblioteka = dawne dzieła"),
+      section: z.string().optional().describe("Ogranicz do działu archiwum"),
+      limit: z.number().int().min(1).max(50).default(10).describe("Maksymalna liczba wyników"),
     },
     annotations: { readOnlyHint: true },
   },
-  async ({ query, section, limit }) => {
-    const { tryb, lacznie, wyniki } = archiwum.szukaj(query, { dzial: section, limit });
+  async ({ query, scope, section, limit }) => {
+    const { tryb, lacznie, wyniki } = archiwum.szukaj(query, { dzial: section, limit, zakres: scope });
     if (!wyniki.length) return tekst(`Brak wyników dla „${query}”.`);
     const bloki = wyniki.map(({ artykul: a, terminy }) => {
       const fr = archiwum.fragmenty(a, terminy, 160, 3);
-      return [
-        `## ${a.tytul}  (id: ${a.id}, dział: ${a.dzial})`,
-        `trafień w tekście: ${fr.lacznie}`,
-        ...fr.fragmenty.map((f) => `> ${f.tekst}`),
-      ].join("\n");
+      const zrodlo = a.rodzaj === "ksiazka" ? `książka, ${a.autor}` : `dział: ${a.dzial}`;
+      const linie = [`## ${a.tytul}  (id: ${a.id}, ${zrodlo})`, `trafień w tekście: ${fr.lacznie}`, ...fr.fragmenty.map((f) => `> ${f.tekst}`)];
+      if (!fr.lacznie && a.rodzaj === "artykul") {
+        const o = archiwum.opracowania.get(a.id);
+        if (o) linie.push(`(trafienie w opracowaniu lub opisach zdjęć) Streszczenie: ${o.streszczenie}`);
+      }
+      return linie.join("\n");
     });
-    return tekst(`Znaleziono ${lacznie} artykułów (dopasowanie: ${tryb}). Pokazuję ${wyniki.length}.\n\n${bloki.join("\n\n")}`);
+    return tekst(`Znaleziono ${lacznie} (dopasowanie: ${tryb}). Pokazuję ${wyniki.length}.\n\n${bloki.join("\n\n")}`);
+  },
+);
+
+server.registerTool(
+  "search_by_meaning",
+  {
+    title: "Szukaj po znaczeniu",
+    description:
+      "Semantic search: finds passages whose MEANING matches the query, even if they use different words (e.g. 'katastrofy z kosmosu' finds texts about comets, Tiamat, meteorites). Works in Polish and English. scope: 'archiwum' (articles, AI notes, AI photo descriptions), 'biblioteka' (ancient public-domain sources) or 'wszystko'. Returns the best matching passages with their article/book ids.",
+    inputSchema: {
+      query: z.string().min(2).describe("Pytanie lub opis tematu, np. „czy dawne cywilizacje znały energię atomową”"),
+      scope: z.enum(["archiwum", "biblioteka", "wszystko"]).default("archiwum"),
+      limit: z.number().int().min(1).max(30).default(10),
+    },
+    annotations: { readOnlyHint: true },
+  },
+  async ({ query, scope, limit }) => {
+    const zbiory: Zbior[] = scope === "wszystko" ? ["archiwum", "biblioteka"] : [scope];
+    const dostepne = zbiory.filter((z) => semantyka.dostepne(z));
+    if (!dostepne.length) return blad(`Wyszukiwanie po znaczeniu nie jest dostępne dla „${scope}” (brak policzonych wektorów – uruchom npm run wektory). Użyj search.`);
+    let wyniki;
+    try {
+      wyniki = await semantyka.szukaj(query, dostepne, limit);
+    } catch (e) {
+      return blad(`Nie udało się załadować modelu do wyszukiwania po znaczeniu (${(e as Error).message}). Użyj search.`);
+    }
+    const bloki = wyniki.map(({ fragment: f, wynik }) => {
+      const d = archiwum.znajdz(f.d);
+      const kto = d?.rodzaj === "ksiazka" ? `książka, ${d.autor}` : `dział: ${d?.dzial}`;
+      return `## ${d?.tytul ?? f.d}  (id: ${f.d}, ${kto}, podobieństwo ${wynik.toFixed(2)})\n> ${semantyka.tekstFragmentu(f, d)}`;
+    });
+    return tekst(`Najbliższe znaczeniowo fragmenty dla „${query}” (${dostepne.join(" + ")}):\n\n${bloki.join("\n\n")}`);
   },
 );
 
@@ -113,7 +180,7 @@ server.registerTool(
   "read_article",
   {
     title: "Czytaj artykuł",
-    description: `Returns the full original text of an article as Markdown (verbatim). Long articles are split into parts of ~${ROZMIAR_CZESCI} characters – read all parts to see the whole text. Images appear as Markdown image links with repository paths (use get_image to view one); links to other articles appear as artykul:<id>.`,
+    description: `Returns the full original text of an article as Markdown (verbatim). Long articles are split into parts of ~${ROZMIAR_CZESCI} characters – read all parts to see the whole text. Images appear as Markdown image links with repository paths, each followed by an AI description in [opis AI: …] (not part of the original); use get_image to view one. Links to other articles appear as artykul:<id>.`,
     inputSchema: {
       id: z.string().describe("id artykułu (z list_articles/search) albo jego tytuł"),
       part: z.number().int().min(1).default(1).describe("Numer części (od 1)"),
@@ -121,33 +188,108 @@ server.registerTool(
     annotations: { readOnlyHint: true },
   },
   async ({ id, part }) => {
-    const a = archiwum.znajdz(id);
+    const a = archiwum.znajdz(id, "artykul");
     if (!a) return nieZnaleziono(id);
     const czesci = archiwum.czesci(a, ROZMIAR_CZESCI);
     if (part > czesci.length) return blad(`Artykuł ma tylko ${czesci.length} części.`);
+    const tresc = czesci[part - 1].replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (m, _alt, src: string) => {
+      const opis = archiwum.opisObrazu(src);
+      return opis ? `${m} [opis AI: ${opis}]` : m;
+    });
     const pod = archiwum.podstrony(a);
+    const ksiazki = archiwum.ksiazkiArtykulu(a.id);
     const stopka = [
-      czesci.length > 1
-        ? part < czesci.length
-          ? `[Część ${part} z ${czesci.length}. Dalej: read_article(id: "${a.id}", part: ${part + 1})]`
-          : `[Koniec artykułu – część ${part} z ${czesci.length}.]`
-        : "[Koniec artykułu.]",
+      stopkaCzesci(a, part, czesci.length, "read_article"),
       pod.length && part === czesci.length ? `Podstrony: ${pod.map((p) => `${p.tytul} (id: ${p.id})`).join("; ")}` : "",
+      part === czesci.length && archiwum.opracowania.has(a.id) ? `Opracowanie (streszczenie, tezy, tematy): get_article_notes(id: "${a.id}"). Podobne artykuły: related_articles.` : "",
+      part === czesci.length && ksiazki.length ? `Źródła cytowane w artykule, dostępne w bibliotece (read_book): ${ksiazki.map((k) => `${k.tytul} (id: ${k.id})`).join("; ")}` : "",
     ]
       .filter(Boolean)
       .join("\n");
-    return tekst(`${naglowek(a)}${czesci.length > 1 ? ` | część ${part} z ${czesci.length}` : ""}\n\n---\n\n${czesci[part - 1]}\n\n---\n${stopka}`);
+    return tekst(`${naglowek(a)}${czesci.length > 1 ? ` | część ${part} z ${czesci.length}` : ""}\n\n---\n\n${tresc}\n\n---\n${stopka}`);
+  },
+);
+
+server.registerTool(
+  "get_article_notes",
+  {
+    title: "Opracowanie artykułu",
+    description:
+      "Returns the AI-prepared notes for an article: summary, the author's main theses (each with a verbatim quote verified to occur in the article), topics, people, places, dates/periods and sources the author cites. Use it for a quick overview or to compare the author's claims with current knowledge. Notes are an AI aid, not part of the original website.",
+    inputSchema: { id: z.string().describe("id albo tytuł artykułu") },
+    annotations: { readOnlyHint: true },
+  },
+  async ({ id }) => {
+    const a = archiwum.znajdz(id, "artykul");
+    if (!a) return nieZnaleziono(id);
+    const o = archiwum.opracowania.get(a.id);
+    if (!o) return blad(`Artykuł „${a.tytul}” nie ma jeszcze opracowania.`);
+    const lista = (nazwa: string, x: string[]) => (x.length ? `**${nazwa}:** ${x.join(", ")}` : "");
+    const ksiazki = archiwum.ksiazkiArtykulu(a.id);
+    return tekst(
+      [
+        `# Opracowanie: ${a.tytul}`,
+        `id: ${a.id} | dział: ${a.dzial} | (opracowanie AI – nie jest częścią oryginalnej strony)`,
+        "",
+        `**Streszczenie:** ${o.streszczenie}`,
+        "",
+        o.tezy.length ? "**Tezy autora:**" : "",
+        ...o.tezy.map((t, i) => `${i + 1}. ${t.teza} *(${t.dziedzina})*\n   > „${t.cytat}”`),
+        "",
+        lista("Tematy", o.tematy),
+        lista("Osoby", o.osoby),
+        lista("Miejsca", o.miejsca),
+        o.okresy.length ? `**Daty i okresy:** ${o.okresy.map((x) => `${x.kiedy} – ${x.co}`).join("; ")}` : "",
+        lista("Źródła cytowane przez autora", o.zrodla_cytowane),
+        ksiazki.length ? `**W bibliotece (read_book):** ${ksiazki.map((k) => `${k.tytul} (id: ${k.id})`).join("; ")}` : "",
+      ]
+        .filter((l) => l !== "")
+        .join("\n"),
+    );
+  },
+);
+
+server.registerTool(
+  "related_articles",
+  {
+    title: "Powiązane artykuły",
+    description: "Finds articles related to the given one – by meaning (semantic similarity of the whole text) and by shared topics, people and places from the AI notes.",
+    inputSchema: {
+      id: z.string().describe("id albo tytuł artykułu"),
+      limit: z.number().int().min(1).max(20).default(8),
+    },
+    annotations: { readOnlyHint: true },
+  },
+  async ({ id, limit }) => {
+    const a = archiwum.znajdz(id, "artykul");
+    if (!a) return nieZnaleziono(id);
+    const poZnaczeniu = semantyka.podobne(a.id, limit);
+    const poTematach = archiwum.podobnePoTematach(a.id, limit);
+    const linie = [`# Artykuły powiązane z „${a.tytul}”`];
+    if (poZnaczeniu.length) {
+      linie.push("", "## Najbliższe znaczeniowo");
+      for (const p of poZnaczeniu) {
+        const d = archiwum.znajdz(p.id)!;
+        linie.push(`- ${d.tytul} (id: ${d.id}, dział: ${d.dzial}, podobieństwo ${p.wynik.toFixed(2)})`);
+      }
+    }
+    if (poTematach.length) {
+      linie.push("", "## Wspólne tematy, osoby i miejsca");
+      for (const p of poTematach) linie.push(`- ${p.artykul.tytul} (id: ${p.artykul.id}) – wspólne: ${p.wspolne.slice(0, 6).join(", ")}`);
+    }
+    if (linie.length === 1) linie.push("Brak danych o powiązaniach.");
+    return tekst(linie.join("\n"));
   },
 );
 
 server.registerTool(
   "find_in_article",
   {
-    title: "Szukaj w artykule",
+    title: "Szukaj w artykule lub książce",
     description:
-      "Finds all places in one article where the given words occur and returns verbatim passages with context. Useful for long articles. Matching ignores case and Polish diacritics.",
+      "Finds all places in ONE article or library book where the given words occur and returns verbatim passages with context. Useful for long texts. Matching ignores case and Polish diacritics.",
     inputSchema: {
-      id: z.string().describe("id albo tytuł artykułu"),
+      id: z.string().describe("id albo tytuł artykułu (albo id książki z biblioteki)"),
       phrase: z.string().min(2).describe("Słowo lub fraza (wyszukiwane jako ciąg znaków, także fragment słowa)"),
       context: z.number().int().min(50).max(2000).default(400).describe("Ile znaków kontekstu z każdej strony"),
       limit: z.number().int().min(1).max(50).default(15),
@@ -158,9 +300,9 @@ server.registerTool(
     const a = archiwum.znajdz(id);
     if (!a) return nieZnaleziono(id);
     const fr = archiwum.fragmenty(a, [phrase], context, limit);
-    if (!fr.lacznie) return tekst(`W artykule „${a.tytul}” nie ma frazy „${phrase}”.`);
+    if (!fr.lacznie) return tekst(`W „${a.tytul}” nie ma frazy „${phrase}”.`);
     return tekst(
-      `„${phrase}” w artykule „${a.tytul}” (id: ${a.id}): ${fr.lacznie} wystąpień, ${fr.wszystkichFragmentow} fragmentów, pokazuję ${fr.fragmenty.length}.\n\n` +
+      `„${phrase}” w „${a.tytul}” (id: ${a.id}): ${fr.lacznie} wystąpień, ${fr.wszystkichFragmentow} fragmentów, pokazuję ${fr.fragmenty.length}.\n\n` +
         fr.fragmenty.map((f, i) => `### Fragment ${i + 1} (znak ${f.od})\n${f.tekst}`).join("\n\n"),
     );
   },
@@ -174,26 +316,128 @@ server.registerTool(
   {
     title: "Pokaż obraz",
     description:
-      "Returns an image from the archive. Pass a path shown in read_article (e.g. zrodlo/webacja/01potop/gilgam.gif), or an article id to list that article's images with their captions.",
+      "Returns an image from the archive together with its AI description. Pass a path shown in read_article (e.g. zrodlo/webacja/01potop/gilgam.gif), or an article id to list that article's images with their AI descriptions.",
     inputSchema: {
       path: z.string().optional().describe("Ścieżka obrazu z treści artykułu"),
-      article_id: z.string().optional().describe("Zamiast ścieżki: id artykułu – zwraca listę jego obrazów"),
+      article_id: z.string().optional().describe("Zamiast ścieżki: id artykułu – zwraca listę jego obrazów z opisami"),
     },
     annotations: { readOnlyHint: true },
   },
   async ({ path, article_id }) => {
     if (article_id) {
-      const a = archiwum.znajdz(article_id);
+      const a = archiwum.znajdz(article_id, "artykul");
       if (!a) return nieZnaleziono(article_id);
       if (!a.obrazy.length) return tekst(`Artykuł „${a.tytul}” nie ma obrazów.`);
-      return tekst(`Obrazy w artykule „${a.tytul}” (${a.obrazy.length}):\n` + a.obrazy.map((o, i) => `${i + 1}. ${o.sciezka}${o.opis ? ` — ${o.opis}` : ""}`).join("\n"));
+      return tekst(
+        `Obrazy w artykule „${a.tytul}” (${a.obrazy.length}; opisy przygotowała AI):\n` +
+          a.obrazy
+            .map((o, i) => {
+              const op = archiwum.opisyObrazow.get(o.sciezka);
+              return `${i + 1}. ${o.sciezka}${op ? ` — [${op.typ}] ${op.opis}${op.tekst_na_obrazie ? ` Napis: „${op.tekst_na_obrazie}”` : ""}` : ""}`;
+            })
+            .join("\n"),
+      );
     }
     if (!path) return blad("Podaj path albo article_id.");
     const pelna = resolve(KATALOG_GLOWNY, path);
     if (!pelna.startsWith(ZRODLO + sep) || !existsSync(pelna)) return blad(`Nie ma takiego obrazu w archiwum: ${path}`);
     const typ = TYPY[extname(pelna).toLowerCase()];
     if (!typ) return blad("To nie jest obsługiwany plik graficzny.");
-    return { content: [{ type: "image" as const, data: readFileSync(pelna).toString("base64"), mimeType: typ }] };
+    const op = archiwum.opisyObrazow.get(path.replace(/\\/g, "/"));
+    return {
+      content: [
+        { type: "image" as const, data: readFileSync(pelna).toString("base64"), mimeType: typ },
+        ...(op ? [{ type: "text" as const, text: `Opis AI [${op.typ}]: ${op.opis}${op.tekst_na_obrazie ? ` Napis na obrazie: „${op.tekst_na_obrazie}”` : ""}` }] : []),
+      ],
+    };
+  },
+);
+
+// ---------------- narzędzia: książki i biblioteka ----------------
+
+server.registerTool(
+  "list_books",
+  {
+    title: "Książki cytowane przez autora",
+    description:
+      "Lists books and ancient sources cited in the archive's articles, with information where they can be read for free and legally (or that they are copyrighted). Filter by a search phrase (author/title) or by article id. Books available in full in the built-in library can be read with read_book.",
+    inputSchema: {
+      query: z.string().optional().describe("Fragment autora lub tytułu, np. „Platon”, „Däniken”"),
+      article_id: z.string().optional().describe("Pokaż książki cytowane w tym artykule"),
+    },
+    annotations: { readOnlyHint: true },
+  },
+  async ({ query, article_id }) => {
+    let wiersze = WIERSZE_KSIAZEK;
+    if (!wiersze.length) return blad("Brak pliku docs/ksiazki.md.");
+    let opis = "wszystkie";
+    if (article_id) {
+      const a = archiwum.znajdz(article_id, "artykul");
+      if (!a) return nieZnaleziono(article_id);
+      wiersze = wiersze.filter((w) => w.wiersz.includes(encodeURI(a.plik.replace(/^artykuly\//, ""))));
+      opis = `cytowane w „${a.tytul}”`;
+    }
+    if (query) {
+      wiersze = wiersze.filter((w) => zloz(w.wiersz).includes(zloz(query)));
+      opis += ` pasujące do „${query}”`;
+    }
+    if (!wiersze.length) return tekst(`Nie znaleziono książek (${opis}).`);
+    const linie = [`# Książki i źródła (${opis}) – ${wiersze.length}`];
+    let sekcja = "";
+    for (const w of wiersze) {
+      if (w.sekcja !== sekcja) {
+        sekcja = w.sekcja;
+        linie.push("", `## ${sekcja}`);
+      }
+      // linki do artykułów skracamy do tytułów, żeby odpowiedź była zwięzła
+      linie.push(w.wiersz.replace(/\]\(\.\.\/artykuly\/[^)]+\)/g, "]"));
+    }
+    const wBibliotece = archiwum.ksiazki.filter((k) => !query || zloz(`${k.tytul} ${k.autor}`).includes(zloz(query)));
+    if (wBibliotece.length && wBibliotece.length < archiwum.ksiazki.length)
+      linie.push("", `W bibliotece (pełny tekst, read_book): ${wBibliotece.map((k) => `${k.tytul} (id: ${k.id})`).join("; ")}`);
+    return tekst(linie.join("\n"));
+  },
+);
+
+server.registerTool(
+  "list_library",
+  {
+    title: "Biblioteka dawnych źródeł",
+    description:
+      "Lists the built-in library: full texts of ancient and historical works cited by the author that are in the public domain (Plato's Timaeus and Critias, Herodotus, Genesis, Ovid, the Book of Enoch, Popol Vuh, Gilgamesh, Hammurabi, Book of the Dead, Strabo, Pliny, Mahabharata, Ramayana, Nostradamus, Charles Fort and more). Use read_book / find_in_article / search(scope='biblioteka') on them.",
+    inputSchema: {},
+    annotations: { readOnlyHint: true },
+  },
+  async () =>
+    tekst(
+      `# Biblioteka – ${archiwum.ksiazki.length} dzieł z domeny publicznej\n\n` +
+        archiwum.ksiazki
+          .map((k) => {
+            const ile = archiwum.czesci(k, ROZMIAR_CZESCI).length;
+            const cyt = (k.meta.cytowane_w as string[] | undefined) ?? [];
+            return `- ${k.tytul} — ${k.autor}${k.meta.tlumacz ? `, przekład: ${k.meta.tlumacz}` : ""} (${k.meta.jezyk}) — id: ${k.id} (${ile} części)${k.meta.uwagi ? ` · ${k.meta.uwagi}` : ""}${cyt.length ? ` · cytowane w ${cyt.length} art.` : ""}`;
+          })
+          .join("\n"),
+    ),
+);
+
+server.registerTool(
+  "read_book",
+  {
+    title: "Czytaj dzieło z biblioteki",
+    description: `Returns the text of a public-domain book from the library, in parts of ~${ROZMIAR_CZESCI} characters. Books are long – use find_in_article(id, phrase) or search(scope='biblioteka') to locate the relevant part first.`,
+    inputSchema: {
+      id: z.string().describe("id książki z list_library, np. „platon-kritias”"),
+      part: z.number().int().min(1).default(1),
+    },
+    annotations: { readOnlyHint: true },
+  },
+  async ({ id, part }) => {
+    const k = archiwum.znajdz(id, "ksiazka");
+    if (!k) return nieZnaleziono(id, "książki");
+    const czesci = archiwum.czesci(k, ROZMIAR_CZESCI);
+    if (part > czesci.length) return blad(`Książka ma tylko ${czesci.length} części.`);
+    return tekst(`${naglowek(k)} | część ${part} z ${czesci.length}\n\n---\n\n${czesci[part - 1]}\n\n---\n${stopkaCzesci(k, part, czesci.length, "read_book")}`);
   },
 );
 
@@ -212,7 +456,7 @@ server.registerPrompt(
   "omow_artykul",
   {
     title: "Omów artykuł i porównaj z obecną wiedzą",
-    description: "Wierne streszczenie tez artykułu, a potem zestawienie każdej tezy z aktualną wiedzą.",
+    description: "Wierne streszczenie tez artykułu, sprawdzenie źródeł autora, a potem zestawienie każdej tezy z aktualną wiedzą.",
     argsSchema: { artykul: z.string().describe("id albo tytuł artykułu") },
   },
   ({ artykul }) => ({
@@ -221,10 +465,12 @@ server.registerPrompt(
         role: "user",
         content: {
           type: "text",
-          text: `Przeczytaj w całości artykuł „${artykul}” z archiwum uleszka.net (narzędzie read_article – wszystkie części).
-1. Streść wiernie główne tezy autora, każdą z krótkim dosłownym cytatem.
-2. Dla każdej tezy oceń ją w świetle dzisiejszej wiedzy (użyj wyszukiwarki internetowej, jeśli jest dostępna) i oznacz: potwierdzone / częściowo trafne / sporne / obalone / niesprawdzalne. Podaj źródła.
-3. Wskaż, co od czasu napisania tekstu się zmieniło: nowe odkrycia, badania, wydarzenia.
+          text: `Omów artykuł „${artykul}” z archiwum uleszka.net.
+1. Pobierz opracowanie (get_article_notes) i przeczytaj artykuł w całości (read_article – wszystkie części).
+2. Streść wiernie główne tezy autora, każdą z krótkim dosłownym cytatem.
+3. Gdy autor powołuje się na dawne źródło dostępne w bibliotece (Platon, Herodot, Biblia, Księga Henocha, Popol Vuh…), sprawdź w nim (find_in_article / read_book), czy źródło rzeczywiście to mówi.
+4. Każdą tezę oceń w świetle dzisiejszej wiedzy (użyj wyszukiwarki internetowej, jeśli jest dostępna) i oznacz: potwierdzone / częściowo trafne / sporne / obalone / niesprawdzalne. Podaj źródła.
+5. Wskaż, co od czasu napisania tekstu (ok. 2004–2007) się zmieniło: nowe odkrycia, badania, wydarzenia. Zaproponuj powiązane artykuły (related_articles).
 Wyraźnie oddzielaj zdanie autora od swojej oceny.`,
         },
       },
@@ -246,10 +492,34 @@ server.registerPrompt(
         content: {
           type: "text",
           text: `Temat: „${temat}”.
-1. Przeszukaj archiwum uleszka.net (search, potem find_in_article w trafionych artykułach) i zbierz wszystko, co autor pisał na ten temat – z dosłownymi cytatami i tytułami artykułów.
-2. Poszukaj odzwierciedleń w obecnej wiedzy: aktualne badania, odkrycia, wydarzenia i publikacje (użyj wyszukiwarki internetowej, jeśli jest dostępna). Podaj źródła i daty.
-3. Zestaw to w tabeli: teza autora | co wiemy dziś | ocena (potwierdzone / sporne / obalone / niesprawdzalne).
+1. Znajdź w archiwum uleszka.net wszystko na ten temat: search_by_meaning (po znaczeniu) i search (po słowach), potem get_article_notes i find_in_article w trafionych artykułach. Zbierz to, co pisał autor – z dosłownymi cytatami i tytułami artykułów.
+2. Jeśli autor opiera się na dawnych źródłach, sprawdź je w bibliotece (search z scope „biblioteka”, read_book).
+3. Poszukaj odzwierciedleń w obecnej wiedzy: aktualne badania, odkrycia, wydarzenia i publikacje (użyj wyszukiwarki internetowej, jeśli jest dostępna). Podaj źródła i daty.
+4. Zestaw to w tabeli: teza autora | co wiemy dziś | ocena (potwierdzone / sporne / obalone / niesprawdzalne).
 Wyraźnie oddzielaj zdanie autora od swojej oceny.`,
+        },
+      },
+    ],
+  }),
+);
+
+server.registerPrompt(
+  "sprawdz_zrodlo",
+  {
+    title: "Sprawdź, co naprawdę mówi źródło",
+    description: "Porównuje to, co autor strony przypisuje dawnemu źródłu (np. Platonowi, Herodotowi, Biblii), z oryginalnym tekstem w bibliotece.",
+    argsSchema: { teza: z.string().describe("Twierdzenie lub temat, np. „Platon o zagładzie Atlantydy w jeden dzień i jedną noc”") },
+  },
+  ({ teza }) => ({
+    messages: [
+      {
+        role: "user",
+        content: {
+          type: "text",
+          text: `Sprawdź źródło dla: „${teza}”.
+1. Znajdź w archiwum uleszka.net, co autor pisze na ten temat i na jakie źródło się powołuje (search_by_meaning, search, find_in_article). Zacytuj go dosłownie.
+2. Znajdź to źródło w bibliotece (list_library, search z scope „biblioteka”, find_in_article, read_book) i zacytuj odpowiedni fragment oryginału (z podaniem przekładu).
+3. Porównaj: czy autor oddał źródło wiernie, czy coś dodał, pominął lub zinterpretował po swojemu? Jeśli źródła nie ma w bibliotece, sprawdź list_books i powiedz, gdzie można je przeczytać.`,
         },
       },
     ],

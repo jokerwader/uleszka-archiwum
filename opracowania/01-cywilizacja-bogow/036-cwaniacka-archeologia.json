@@ -1,0 +1,56 @@
+{
+  "id": "hawass/cwaniaki",
+  "tytul": "Cwaniacka archeologia",
+  "streszczenie": "Tekst przytacza artykuł Marcina Rybaka z Gazety Wyborczej o domniemanych łapówkach za kontrakty na wykopaliska przy budowie autostrad w Polsce oraz artykuł z Hotnews.pl o układach wokół konserwatorów zabytków w Toruniu. Opisuje zarzuty wobec dyrektora Ośrodka Ochrony Dziedzictwa Archeologicznego Marka Gierlacha, jego odwołanie i śledztwo ABW, a także kontrakty dla firmy Restauro i wątpliwe wydatki z funduszu powodziowego. Autor strony dopisuje własne komentarze: uważa, że agencje rządowe i fundacje powstają głównie po to, by zarabiać dla siebie, i że podobnie działają ekolodzy oraz część archeologów. Wniosek jest taki, że w polskiej archeologii i konserwacji zabytków działa korupcyjny układ, a państwo marnuje publiczne pieniądze.",
+  "tezy": [
+    {
+      "teza": "Polskie agencje rządowe tworzy się po to, by dawać zajęcie działaczom partyjnym i zarabiać, a nie po to, by realizować deklarowane cele.",
+      "cytat": "Agencje rządowe i tzw. gospodarstwa pomocnicze tworzone przez kolejne rządy \"mające naprawiać Rzeczpospolitą\" sa zręcznym kamuflażem słodkiego nicnierobienia i brania za to dużych pieniędzy.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Archeolodzy mieli płacić łapówki za zlecenia na wykopaliska przy autostradach, a kwota haraczu rosła z 1 do 10 procent kontraktu.",
+      "cytat": "Pierwszą łapówkę wręczyłem osobiście w 1998 r. Wtedy to był ledwie jeden procent kontraktu. Potem kwota haraczu doszła nawet do 10 proc.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Łapówki miał przyjmować dyrektor ministerialnego Ośrodka Ochrony Dziedzictwa Archeologicznego Marek Gierlach, który zaprzecza zarzutom.",
+      "cytat": "Łapówki miał brać sam dyrektor ministerialnego Ośrodka Ochrony Dziedzictwa Archeologicznego Marek Gierlach.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Wykopaliska autostradowe dzielono bez przetargów, bo uznano je za badania naukowe, co sprzyjało układom.",
+      "cytat": "Wielkie pieniądze dzieli się bez przetargów, bo Urząd Zamówień Publicznych uznał, że autostradowe wykopaliska to badania naukowe, a nie biznes.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Członkowie rady naukowej Ośrodka sami dostawali zlecenia i odpłatnie recenzowali prace, co jest patologią.",
+      "cytat": "część zleceń trafia do instytucji naukowych, w których pracują członkowie rady. Także oni (odpłatnie) recenzują opracowania wykopalisk.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Prace archeologiczne przy obwodnicy Wrocławia wyceniono na 57 mln zł, choć trasa miała tylko 35 km.",
+      "cytat": "Obwodnica Wrocławia. Planowana długość to tylko 35 km, wartość prac archeologicznych - aż 57 mln zł (obniżona do 30 mln).",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Wojewódzcy konserwatorzy zabytków wspierają wybrane firmy, które wygrywają najdroższe przetargi dzięki dopasowanym specyfikacjom.",
+      "cytat": "Ten, kto ma \"parasol ochronny\" u Wojewódzkiego Konserwatora Zabytków (i niestety dotyczy to właściwie całej Polski) wygrywa większość najwyżej wycenionych przetargów.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "W Toruniu z funduszu powodziowego sfinansowano remont kamieniczki należącej do firmy Restauro, choć stoi daleko ponad poziomem Wisły.",
+      "cytat": "Tyle bowiem kosztowała konserwacja przez firmę \"Restauro\" kamieniczki należącej do firmy \"Restauro\" wraz z przyległym murem",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": ["korupcja", "archeologia w polsce", "wykopaliska autostradowe", "konserwatorzy zabytków", "przetargi publiczne", "agencje rządowe", "ochrona zabytków"],
+  "osoby": ["Marcin Rybak", "Marek Gierlach", "Rafał Maciszewski", "Aleksander Bursche", "Bogdan Marciniec", "Aleksander Limisiewicz", "Kazimierz Ujazdowski", "Tomasz Merta", "Marek Rubnikowicz", "Paweł Połom", "Sławomir Musiela", "Lech Narębski", "Aleksandra Jakubowska", "Marek Pol", "prof. Gediga"],
+  "miejsca": ["Wrocław", "Toruń", "Poznań", "Zielona Góra", "katedra św. Janów w Toruniu", "Wisła"],
+  "okresy": [
+    { "kiedy": "1998–2003", "co": "Według zeznań sześciu archeologów przekazano ponad milion złotych łapówek pracownikom Ośrodka." },
+    { "kiedy": "jesień 2005", "co": "Wybrano wykonawców badań przy obwodnicy Wrocławia." },
+    { "kiedy": "2001–2002", "co": "Rzekoma propozycja korupcyjna wobec dr. Limisiewicza ze strony zastępcy Gierlacha." }
+  ],
+  "zrodla_cytowane": ["Marcin Rybak – Polska cwaniacka archeologia (Gazeta Wyborcza)", "Hotnews.pl – Witamy w świecie mafii (o konserwatorach zabytków)"]
+}

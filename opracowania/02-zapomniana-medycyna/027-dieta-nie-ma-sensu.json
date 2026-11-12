@@ -1,0 +1,50 @@
+{
+  "id": "medalt/dietacud",
+  "tytul": "Dieta nie ma sensu",
+  "streszczenie": "Tekst składa się z krótkiego wstępu redaktora, przedruku artykułu Danny'ego Penmana z The Independent (2006) i komentarza końcowego. Penman twierdzi, że diety prawie zawsze zawodzą, a nadwaga wynika z ukrytych nawyków, które można przełamać drobnymi zmianami w codzienności. Autor opisuje też psychiczne i fizyczne szkody diet. Redaktor dodaje, że otyłość to kwestia przyzwyczajeń i nieznajomości zasad trawienia, a nie genów, oraz że diety-cud i preparaty odchudzające to biznes; dołącza wiadomość o groźnym chińskim preparacie z sibutraminą.",
+  "tezy": [
+    {
+      "teza": "Około 95 procent osób na diecie po roku waży tyle samo lub więcej, więc diety są najgorszym sposobem na schudnięcie.",
+      "cytat": "Około 95 procent osób, które je stosują, po roku waży tyle samo, a nawet więcej.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Szczupłość lub nadwaga zależą od zespołów nawyków, a nie od tego, co się je; zerwanie z nawykami prowadzi do naturalnej wagi.",
+      "cytat": "Profesor Fletcher odkrył, że naturalna szczupłość i nadwaga nie zależą od tego, co się je, lecz od kryjących się za nimi zespołami nawyków.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Efekt jojo i ciągłe diety szkodzą narządom i odporności organizmu.",
+      "cytat": "Efekt jojo może powodować uszkodzenia nerek, serca i wątroby, a także tkanki mięśniowej.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Diety pogarszają kondycję psychiczną i zaburzają poczucie głodu.",
+      "cytat": "Wiele badań wskazuje na związek między częstymi dietami a depresją, niską samooceną i narastającym stresem.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Genetyczne tłumaczenie otyłości to zasłona dymna; otyłość wynika z przyzwyczajeń i nieznajomości zasad trawienia.",
+      "cytat": "Otyłość, to nic innego tylko \"genetyczne\" przyzwyczajenie do łakomstwa i obżarstwa, a przede wszystkim kompletna nieznajomość zasad trawienia pokarmu przez człowieka.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Cukry należy jeść osobno i odczekać godzinę przed zjedzeniem czegoś innego, bo żołądek nie trawi wszystkiego naraz.",
+      "cytat": "Wszelkie cukry spożywajmy osobno, odczekajmy godzinę i dopiero zjedzmy coś innego.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Chiński preparat meizitang zawiera sibutraminę, uzależnia i spowodował śmierć co najmniej kilkudziesięciu osób.",
+      "cytat": "Tymczasem meizitang spowodował już na świecie śmierć co najmniej kilkudziesięciu osób!",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["diety odchudzające", "otyłość", "nawyki żywieniowe", "efekt jojo", "diety-cud", "sibutramina", "fast food", "trawienie"],
+  "osoby": ["Danny Penman", "Ben Fletcher", "Karen Pine", "Wojciech Waldman", "Jolanta Twardowska"],
+  "miejsca": ["Wielka Brytania", "Pomorze", "Chiny", "Gdynia"],
+  "okresy": [
+    { "kiedy": "ostatnie 25 lat (do 2006)", "co": "liczba ludzi otyłych w Wielkiej Brytanii wzrosła o ponad 400 procent" },
+    { "kiedy": "luty i maj 2006", "co": "celnicy zatrzymali przemyt preparatu meizitang (łącznie 13 600 tabletek)" }
+  ],
+  "zrodla_cytowane": ["Danny Penman – Dieta nie ma sensu (The Independent, 17.01.2006)", "Dziennik Bałtycki – doniesienie o meizitang (za interia.pl, 17.05.2006)"]
+}

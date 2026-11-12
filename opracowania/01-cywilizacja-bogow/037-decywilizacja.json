@@ -1,0 +1,68 @@
+{
+  "id": "upadek/katrina1",
+  "tytul": "Decywilizacja",
+  "streszczenie": "Tekst zawiera artykuł Timothy'ego Garton Asha o huraganie Katrina w Nowym Orleanie oraz obszerny komentarz autora strony. Garton Ash twierdzi, że rozpad porządku po katastrofie pokazuje cienką warstwę cywilizacji, która pod wpływem braku żywności, wody i bezpieczeństwa szybko zamienia się w „stan natury”. Wśród przyszłych zagrożeń wymienia zmiany klimatu, terroryzm, masowe migracje i konflikty wielkich mocarstw, a sądzi, że świat osiągnął szczyt ucywilizowania około roku 2000. Komentator zgadza się z tą diagnozą, wini lekceważenie sił przyrody i wojenne priorytety ludzkości, porównuje Nowy Orlean z reakcją społeczności azjatyckich po tsunami 2004 roku i przytacza Platona o upadku dawnej cywilizacji. Kończy ostrzeżeniem, że bez wspólnego celu ludzkość może w ciągu stu lat utracić rozum.",
+  "tezy": [
+    {
+      "teza": "Po utracie podstaw życia (żywność, woda, schronienie, bezpieczeństwo) ludzie w kilka godzin wracają do wojny wszystkich ze wszystkimi.",
+      "cytat": "usuńmy podpory naszego zorganizowanego, cywilizowanego życia - jak żywność, schronienie, pitna woda i minimum bezpieczeństwa - a w parę godzin wrócimy do Hobbesowskiego stanu natury - wojny wszystkich ze wszystkimi.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Podobne sceny jak w Nowym Orleanie miały miejsce w Europie zaledwie 60 lat temu, więc Europa nie jest od nich wolna.",
+      "cytat": "Zdarzyły się na całym naszym kontynencie zaledwie 60 lat temu. Poczytajmy wspomnienia ludzi, którzy przeżyli Holocaust i Gułag",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "„Decywilizacja” – proces odwrotny do cywilizowania – jest zawsze możliwa i będzie się zdarzać częściej w XXI wieku.",
+      "cytat": "Czytając kiedyś Jacka Londona, natrafiłem na niezwykłe słowo \"decywilizacja\" - odwrotny proces, w wyniku którego ludzie przestają być cywilizowani i stają się barbarzyńcami.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Topnienie lodów i wiecznej zmarzliny może uruchomić nieodwracalne zmiany klimatu, wobec których Nowy Orlean okaże się drobiazgiem.",
+      "cytat": "Jeśli prawdziwe są ostatnie doniesienia o tym, że topią się nie tylko polarne czapy lodowe, ale i syberyjska wieczna zmarzlina",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Masowa migracja z Południa na Północ i napięcia z muzułmańskimi imigrantami grożą nową falą barbarzyństwa w Europie.",
+      "cytat": "Masowa migracja z biednego i przeludnionego Południa naszej planety na bogatą Północ przypomina potężną falę powodziową",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Około roku 2000 świat osiągnął szczyt ucywilizowania, który przyszłe pokolenia będą wspominać z nostalgią.",
+      "cytat": "że gdzieś około 2000 roku świat osiągnął szczyt ucywilizowania, który przyszłe pokolenia mogą wspominać z nostalgią i zazdrością.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Komentator uważa, że społeczności Azji po tsunami zachowały się lepiej niż mieszkańcy Nowego Orleanu dzięki większej pokorze wobec natury.",
+      "cytat": "Ludzie Azji mają dużo więcej pokory przed siłami natury niż społeczności uważające się za wysoce ucywilizowane.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Wielkie miasta i zabudowa na terenach zagrożonych nie przetrwają silnych kataklizmów, a człowiek lekceważy ostrzeżenia natury.",
+      "cytat": "Nie łudźmy się. Wielkie aglomeracje nie przetrwają bardzo silnych huraganów czy trzęsień ziemi. Zamieszkałe pradoliny rzek i rozlewisk powodziowych z pewnością kiedyś zaleje wielka woda.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Bez wspólnego celu, jakim jest przetrwanie, rozum zniknie z Ziemi w ciągu niespełna stu lat.",
+      "cytat": "Jeżeli w najbliższym czasie ludzkości nie połączy wspólny cel - przetrwanie, to w ciągu niespełna stu lat rozum zniknie z powierzchni Ziemi.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Według autora Platon opisał już dawno cywilizację, która upadła, gdy zanikł w niej pierwiastek boski; my możemy być ostatnią taką.",
+      "cytat": "Gdy jednak zanikł w nich boski pierwiastek dlatego, iż w wielkiej mierze i często zastępował go element śmiertelny i brał w nich górę ludzki charakter",
+      "dziedzina": "mitologia"
+    }
+  ],
+  "tematy": ["huragan katrina", "decywilizacja", "upadek cywilizacji", "zmiany klimatu", "terroryzm", "migracje", "tsunami", "solidarność", "wojna"],
+  "osoby": ["Timothy Garton Ash", "Thomas Jefferson", "Jack London", "Thomas Hobbes", "John McCain", "Samuel Huntington", "Platon", "Sergiusz Kowalski", "Norman Lewis"],
+  "miejsca": ["Nowy Orlean", "Neapol", "Berlin", "Bośnia", "Guantanamo", "Abu Ghraib", "Londyn", "Ocean Indyjski", "Des Moines"],
+  "okresy": [
+    { "kiedy": "1944–1945", "co": "Według tekstu podobne sceny anarchii i przemocy miały miejsce w Europie (Neapol, Berlin)." },
+    { "kiedy": "grudzień 2004", "co": "Tsunami na Oceanie Indyjskim, zestawione w komentarzu z Nowym Orleanem." },
+    { "kiedy": "sierpień–wrzesień 2005", "co": "Huragan Katrina i anarchia w Nowym Orleanie." },
+    { "kiedy": "ok. 2000", "co": "Według Garton Asha szczyt ucywilizowania świata." },
+    { "kiedy": "2003", "co": "Opublikowano raport przewidujący przerwanie wałów w Nowym Orleanie." }
+  ],
+  "zrodla_cytowane": ["Timothy Garton Ash – Wolny świat. Dlaczego kryzys Zachodu jest szansą naszych czasów", "Platon – Krytiasz (cytat o upadku Atlantydy, bez podania tytułu)", "Samuel Huntington – zderzenie cywilizacji (wzmianka)"]
+}

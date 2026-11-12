@@ -1,0 +1,197 @@
+{
+  "id": "08egipt/egipt",
+  "tytul": "Jezioro Mojrisa",
+  "streszczenie": "Autor zestawia relacje Herodota, Diodora, Strabona i Pliniusza o labiryncie i jeziorze Mojrisa i uznaje jezioro za gigantyczny zbiornik retencyjny, który regulował wylewy Nilu. Na zdjęciach satelitarnych próbuje wskazać jego prawdopodobny zarys i położenie labiryntu w okolicy Fajum. Twierdzi, że piramidy, mastaby i podziemne serapea nie były grobowcami, lecz „przemysłowymi” centrami energetycznymi i magazynami niebezpiecznego paliwa, zbudowanymi przez zaginioną cywilizację Bogów. Według niego budowle powstały między 37 a 12,5 tysiącami lat temu, a zniszczył je kataklizm sprzed ok. 12,5 tys. lat; dzisiejsza egiptologia, jego zdaniem, błędnie przypisuje je ludziom. Tekst ma charakter hipotezy, którą autor sam określa jako „bajkę” i zachętę do badań inżynierskich.",
+  "tezy": [
+    {
+      "teza": "Jezioro Mojrisa było ogromnym zbiornikiem retencyjnym, dzięki któremu dolinę Nilu uchroniono przed wylewami i uczyniono spichlerzem starożytności.",
+      "cytat": "Jeśli moje rozumowanie jest słuszne, to mamy do czynienia z największym przedsięwzięciem hydrotechnicznym - ogromnym zbiornikiem retencyjnym, dzięki któremu dolina Nilu stała się największym spichlerzem starożytności i bezpiecznym miejscem dla monumentalnych budowli Egiptu.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Piramidy nie były grobowcami, lecz obiektami związanymi z gospodarką wodną jeziora, rodzajem centrów energetycznych obsługujących śluzy.",
+      "cytat": "Sądzę, że ich funkcja musiała być ściśle związana z jeziorem, a dokładniej z gospodarką wodną tego zbiornika. Bardzo możliwe, że były to swego rodzaju centra energetyczne, pozwalające na obsługę śluz",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Autor odrzuca wiązanie piramid z życiem pozagrobowym Egipcjan i opiera się na teorii dwóch równoległych cywilizacji: Bogów i ludzi.",
+      "cytat": "Moja koncepcja nie łączy piramid z życiem pozagrobowym starożytnych Egipcjan. Swoją hipotezę konsekwentnie opieram na teorii",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Energii w piramidach mogła dostarczać podgrzewana rtęć, a kamienne „sarkofagi” miały być szczelnymi zbiornikami na paliwo.",
+      "cytat": "Moje myśli uporczywie krążą wokół hinduskich przekazów o latających pojazdach. Tym, jak zapewne wiadomo, energii dostarczała rtęć i to rtęć podgrzewana do wysokich temperatur.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Biblijny potop, który dotarł do Egiptu, miał miejsce około 37 tysięcy lat temu.",
+      "cytat": "Pierwszy punkt, to biblijny potop, który sięgnął także Egiptu, a który prawdopodobnie miał miejsce około 37 tysięcy lat temu.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Kataklizm sprzed ok. 12,5 tysiąca lat, kończący epokę lodowcową, jest odpowiedzialny za zniszczenia najstarszych budowli Egiptu.",
+      "cytat": "Drugi, to kataklizm, który mógł mieć miejsce około 12,5 tysięcy lat temu i który zakończył epokę lodowcową naszej, północnej półkuli.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Rolnicza rewolucja w Egipcie trwała od 13000 do 10500 lat p.n.e. i załamała się wskutek kataklizmu, który uszkodził system nawadniający.",
+      "cytat": "Rozpoczęła się nagle 13000 lat pne., i równie nagle skończyła 10500 lat pne. Od 13000 lat pne. w Egipcie dominującą rolę odgrywała hodowla i gospodarka rolna",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Podziemne serapea nie były sanktuariami świętych byków, lecz surowymi podziemnymi zakładami (magazynami lub fabrykami niebezpiecznej substancji).",
+      "cytat": "Surowe, chropawe korytarze kute pod ziemią bez najmniejszej choćby ozdoby czy napisu? Korytarze, w których swobodnie poruszać się może traktor z przyczepą.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Masowa mumifikacja zwierząt była pierwotnie pracą laboratoryjną nad „bankiem genów” Bogów, a dopiero z czasem stała się niezrozumiałym rytuałem.",
+      "cytat": "Bogowie postanowili stworzyć \"bank genów\" lub \"bank zarodków\", a być może i swoiste muzeum biologiczne",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Jezioro Mojrisa istniało jeszcze za czasów Herodota, a po okresie Ptolemeuszy został po nim tylko niewielki zbiornik Moeris w oazie Fajum.",
+      "cytat": "Kiedy znikło samo jezioro? Naoczny świadek Herodot widział je jeszcze w roku 430 pne., ale już za rządów dynastii Ptolemeuszy (III-I w. pne.) pozostaje po nim jeziorko o nazwie Moeris",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Egipskie „barki słoneczne” były zaawansowanymi pojazdami Bogów, zdolnymi pływać, latać i podróżować w kosmosie.",
+      "cytat": "Nam, współczesnym, barka kojarzy się tylko ze środowiskiem wodnym i tylko z urządzeniem pływającym po wodzie. Co innego w starożytnym Egipcie. Potrafiła pływać, latać w powietrzu, a nawet przemierzać kosmos.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Piramidy, Sfinksa i inne wielkie budowle Egiptu wzniosła zaginiona wysoka cywilizacja Bogów, a nie historyczni Egipcjanie.",
+      "cytat": "Budowniczych piramid, Sfinksa, Memfis, Karnaku, Luksoru czy Abu-Simbel, że wspomnę tylko kilka, należy szukać w czasach pomiędzy 37 a 12,5 tysiącami lat temu",
+      "dziedzina": "historia"
+    }
+  ],
+  "tematy": [
+    "jezioro mojrisa",
+    "labirynt egipski",
+    "piramidy",
+    "cywilizacja bogów",
+    "hydrotechnika",
+    "energia",
+    "serapeum",
+    "mumifikacja zwierząt",
+    "potop",
+    "kataklizm",
+    "egiptologia"
+  ],
+  "osoby": [
+    "Herodot",
+    "Diodor",
+    "Strabon",
+    "Pliniusz Starszy",
+    "Zajdler",
+    "Flinders Petrie",
+    "Mereżkowski",
+    "Zahi Hawass",
+    "Gantenbrink",
+    "Mariette",
+    "Jean Philippe Lauer",
+    "Däniken",
+    "Mojris",
+    "Menes",
+    "Ptah",
+    "Ra",
+    "Hapy",
+    "Chnum",
+    "Ozyrys",
+    "Izyda",
+    "Hefajstos",
+    "Hatszepsut",
+    "Ramzes",
+    "Saurid",
+    "Al-Makrizi",
+    "Belzoni",
+    "Vyse",
+    "Apulejusz"
+  ],
+  "miejsca": [
+    "Jezioro Mojrisa",
+    "labirynt egipski",
+    "Fajum",
+    "Memfis",
+    "Giza",
+    "Abu Roasz",
+    "Lahun",
+    "Hawara",
+    "Sakkara",
+    "Dahszur",
+    "Abusir",
+    "Meidum",
+    "Lisht",
+    "Zawiyet el-Aryan",
+    "Abydos (Ozyrejon)",
+    "Assuan",
+    "Edfu",
+    "Dairut (kanał Józefa)",
+    "Heliopolis",
+    "Teby",
+    "Luksor",
+    "Deir el-Bahari",
+    "Kom Ombo",
+    "Esna",
+    "el-Kula",
+    "Philae",
+    "Tama Assuańska",
+    "Teotihuacan",
+    "Tenayuca",
+    "Libijska Syrta",
+    "Dolina Królów",
+    "Dendera"
+  ],
+  "okresy": [
+    {
+      "kiedy": "ok. 37 tysięcy lat temu",
+      "co": "Według autora biblijny potop sięga także Egiptu."
+    },
+    {
+      "kiedy": "ok. 21000 lat p.n.e.",
+      "co": "Według tradycji przywołanej w tekście zamordowany zostaje Ozyrys."
+    },
+    {
+      "kiedy": "ok. 15000 lat p.n.e.",
+      "co": "Według tradycji panuje na Ziemi Dionizos."
+    },
+    {
+      "kiedy": "13000–10500 lat p.n.e.",
+      "co": "Według autora w Egipcie trwa rewolucja rolnicza, możliwa dzięki systemowi nawadniania z jeziora Mojrisa."
+    },
+    {
+      "kiedy": "ok. 12,5 tysiąca lat temu",
+      "co": "Kataklizm („wielki uskok skorupy ziemskiej”) kończy epokę lodowcową i niszczy budowle starożytnego Egiptu."
+    },
+    {
+      "kiedy": "ok. 430 p.n.e.",
+      "co": "Herodot widzi jezioro Mojrisa."
+    },
+    {
+      "kiedy": "365 p.n.e.",
+      "co": "Trzęsienie ziemi, które rzekomo zatopiło pałac Kleopatry i latarnię na Faros."
+    },
+    {
+      "kiedy": "III–I w. p.n.e.",
+      "co": "Za Ptolemeuszy z jeziora zostaje tylko niewielkie Moeris i oaza Fajum."
+    },
+    {
+      "kiedy": "VIII w. n.e.",
+      "co": "Według autora ekspansja Arabów kończy istnienie ostatnich Egipcjan."
+    },
+    {
+      "kiedy": "2003–2005",
+      "co": "Czas powstania tekstu i dodatku autora."
+    }
+  ],
+  "zrodla_cytowane": [
+    "Herodot – Dzieje",
+    "Diodor Sycylijski – Biblioteka historyczna",
+    "Strabon – Geografia",
+    "Pliniusz Starszy – Historia naturalna",
+    "Zajdler – Atlantyda",
+    "Mereżkowski – Tajemnice Wschodu (cytat za A. Mostowiczem)",
+    "Maneton – dzieje Egiptu (wzmianka)",
+    "Al-Makrizi – dzieło o piramidach (wzmianka)",
+    "Däniken – wzmianka o hipotezach egiptologów"
+  ]
+}

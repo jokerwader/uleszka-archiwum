@@ -1,0 +1,79 @@
+{
+  "id": "survival",
+  "tytul": "Czy przetrwamy?",
+  "streszczenie": "Autor odpowiada, że nasza cywilizacja nie przetrwa, jeśli nie zmieni sposobu myślenia, bo rządzą nią ludzie nastawieni na bogactwo, a nauka lekceważy starożytne ostrzeżenia i hipotezę Hapgooda. Wymienia trzy zagrożenia: uderzenie obiektu z kosmosu, „wielki uskok skorupy ziemskiej” oraz samozagładę w wojnie religijnej lub o wodę. Zarzuca nauce, że szuka życia w kosmosie zamiast zagrożeń dla Ziemi, i przywołuje kalendarz Majów, Kronikę z Akakor i opis Platona jako ostrzeżenia. Proponuje przygotowania: zapasy, „bank nasienia” i „bank wiedzy”, badania zagrożeń oraz ponowne czytanie przekazów starożytnych, zaznaczając, że nie chce straszyć, lecz uświadomić ryzyko.",
+  "tezy": [
+    {
+      "teza": "Cywilizacja ludzi nie przetrwa, bo od stuleci rządzą nią osobowości silne, ale niekoniecznie mądre, a jej historię oparto na nieprawdzie.",
+      "cytat": "Odpowiedź jest równie prosta co okrutna. Nie. Dlaczego? Dlatego, że od stuleci cała cywilizacja ludzi jest rządzona przez osobowości silne ale niekoniecznie mądre",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Hipoteza Hapgooda o przesunięciu skorupy ziemskiej została odrzucona mimo poparcia Einsteina, choć potwierdza teorię okresowych kataklizmów niszczących życie na Ziemi.",
+      "cytat": "Nie pomogło nawet poparcie samego Alberta Einsteina. Jego hipoteza potwierdza teorię wielkich kataklizmów niszczących co jakiś czas wszystko na naszej planecie.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Przesunięcie skorupy wynika z dążenia obracającej się Ziemi do ułożenia najcięższych mas na równiku; skutkiem byłoby ogólnoświatowe tsunami.",
+      "cytat": "Ruch obrotowy Ziemi dąży do ułożenia najcięższych mas na równiku, ale skorupa ziemska tworzy całość i nie jest możliwe przesunięcie pojedynczych kontynentów więc dochodzi do ruchu całej powierzchni Ziemi.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Autor wskazuje trzy najbardziej realne rodzaje zagłady: uderzenie obiektu z kosmosu, wielki uskok skorupy ziemskiej i globalną wojnę religijną lub ideologiczną.",
+      "cytat": "zagrożenie istnieje i jest tylko kwestią czasu, kiedy usłyszymy dzwon bijący na trwogę. Wymieniłbym trzy najbardziej realne rodzaje zagłady, które mogą dotknąć nas lub naszych potomnych",
+      "dziedzina": "inne"
+    },
+    {
+      "teza": "Kalendarz Majów, pozostawiony przez zaginioną cywilizację, ostrzega o śmierci z kosmosu co 52 lata.",
+      "cytat": "Zaginiona, wysoka cywilizacja nieprzypadkowo pozostawiła Majom kalendarz, który ostrzega o śmierci z kosmosu co 52 lata.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Ludzkość zbadała tylko ułamek orbit zagrażających Ziemi obiektów i nie potrafi na czas wykryć zagrożenia.",
+      "cytat": "Dotychczas obliczyliśmy około 0,5% orbit zagrażających nam kosmicznych obiektów o ile, w co bardzo wątpię, wszystkie zidentyfikowaliśmy.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Uderzenie w kometę Tempel-1 mogło zapoczątkować łańcuch zdarzeń o nieznanych skutkach dla Ziemi.",
+      "cytat": "Czy człowiek uderzeniem w Tempel-1 nie zapoczątkował łańcucha wydarzeń nie przypuszczając nawet co będzie jego ostatnim ogniwem?",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Wyginięcie dinozaurów wiązane z kraterem na Jukatanie jest wątpliwe, bo kształt krateru nie pasuje do uderzenia meteorytu.",
+      "cytat": "Za wyginięcie dinozaurów odpowiedzialnym czyni się uderzenie wielkiego meteorytu w rejonie półwyspu Jukatan. Czy na pewno? Kto oglądał rzeźbę terenu i dna w rejonie Zatoki Meksykańskiej musiał się zastanawiać dlaczego krater po uderzeniu meteorytu wygląda jak rogalik.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Po kataklizmie 12,5 tys. lat temu przetrwali silni i uzbrojeni, a inteligencja stała się ofiarą ludzi o najniższych instynktach, podobnie jak po huraganie w Nowym Orleanie.",
+      "cytat": "Tak być może wyglądał świat po globalnym kataklizmie 12,5 tysiąca lat temu. Przetrwali silni, głupi i uzbrojeni.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Brak światowego działania wobec ubóstwa i niedoboru wody może doprowadzić do wojny o słodką wodę.",
+      "cytat": "Niedostrzeganie potrzeb społeczeństw ubogich, brak światowego frontu do walki z nędzą może doprowadzić także do innej wojny - wojny o wodę.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Według Kroniki z Akakor Bogowie wybudowali podziemne miasto, w którym część ludu Ogha-Mongulala przetrwała kataklizm 10,5 tys. lat p.n.e.; podziemne miasta historycy interpretują błędnie.",
+      "cytat": "Bogowie, by uchronić choć niewielu ludzi, wybudowali podziemne miasto pod twierdzą Akakor, w którym uratowała się część plemienia w kataklizmie 10,5 tysiąca lat pne.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Zwiastunem wielkiego uskoku może być stała wibracja skorupy ziemskiej w pasie równikowym, przechodząca w coraz silniejsze trzęsienia ziemi.",
+      "cytat": "Jeśli by to zjawisko przenieść na obracającą się kulę ziemską, to być może początkowym sygnałem będzie stała wibracja skorupy ziemskiej w całym pasie około równikowym, początkowo niezauważalna dla ludzi",
+      "dziedzina": "fizyka"
+    }
+  ],
+  "tematy": ["przetrwanie cywilizacji", "wielki uskok skorupy ziemskiej", "kataklizmy", "zagrożenie z kosmosu", "kalendarz majów", "wojna o wodę", "hapgood", "podziemne miasta", "ostrzeżenia starożytnych", "krytyka nauki"],
+  "osoby": ["Bertrand Russell", "Charles Hapgood", "Albert Einstein", "Nostradamus", "Platon", "Majowie", "Ogha-Mongulala"],
+  "miejsca": ["jezioro Aralskie", "dżungla amazońska", "Tempel-1 (kometa)", "Półwysep Jukatan", "Zatoka Meksykańska", "Ocean Indyjski", "Nowy Orlean", "Akakor", "Dolina Królów"],
+  "okresy": [
+    { "kiedy": "12,5 tysiąca lat temu", "co": "Globalny kataklizm („wielki uskok skorupy ziemskiej”); według autora przetrwali silni i uzbrojeni." },
+    { "kiedy": "10,5 tysiąca lat p.n.e.", "co": "Według Kroniki z Akakor kataklizm, w którym część ludu Ogha-Mongulala ocalała w podziemnym mieście." },
+    { "kiedy": "co 52 lata", "co": "Według autora kalendarz Majów ostrzega o zagrożeniu z kosmosu." },
+    { "kiedy": "grudzień 2004", "co": "Tsunami na Oceanie Indyjskim, które autor uznaje za zapowiedź." },
+    { "kiedy": "sierpień–wrzesień 2005", "co": "Huragan Katrina w Nowym Orleanie; przykład zachowania ludzi po katastrofie." },
+    { "kiedy": "lata 3440 i 7520", "co": "Według „boskiego rozkładu jazdy” (cytat z tekstu) wyznaczone kolejne wizyty Bogów." }
+  ],
+  "zrodla_cytowane": ["Charles Hapgood – hipoteza przesunięcia skorupy ziemskiej", "Kronika z Akakor", "Platon – opis kataklizmu (jeden dzień i jedna noc okropna)", "Kalendarz Majów"]
+}

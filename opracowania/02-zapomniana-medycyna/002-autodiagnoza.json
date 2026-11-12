@@ -1,0 +1,62 @@
+{
+  "id": "medalt/objawy",
+  "tytul": "Autodiagnoza",
+  "streszczenie": "Rozdział poradnikowy, w którym autor – głównie za prof. Michałem Tombakiem – opisuje, jak po wyglądzie zewnętrznym (włosy, paznokcie, czoło, oczy, nos, usta, zęby, język, szyja, skóra, ramiona) rozpoznawać choroby i niedobory. Większość tekstu to tabele „oznaka zewnętrzna – możliwa przyczyna”, uzupełnione krótkim zestawieniem częstych chorób i ich widocznych objawów oraz zestawieniem zaburzeń kręgosłupa. Druga część to wykaz witamin, składników mineralnych i innych substancji (funkcja, objawy niedoboru, źródła pokarmowe, co niszczy, ryzyko zatrucia) oparty na książce Patricka Holforda. Autor wnioskuje, że dzisiejsza medycyna niewiele zrozumiała z procesów w organizmie, a ludzie powinni sami uczyć się odczytywać sygnały ciała i uzupełniać braki jedzeniem, nie tabletkami.",
+  "tezy": [
+    {
+      "teza": "Wiele chorób wewnętrznych ma odzwierciedlenie w wyglądzie zewnętrznym, więc można je rozpoznać samemu, nawet we wczesnym stadium.",
+      "cytat": "Prof. Tombak twierdzi, że wiele chorób wewnętrznych ma swoje odzwierciedlenie (sygnał) w wyglądzie zewnętrznym człowieka.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Kształt potylicy („ścięta potylica”) świadczy o skłonności do chorób, w tym kręgosłupa i krążenia.",
+      "cytat": "Przykładem jest \"ścięta potylica\", która według niego oznacza skłonności do zapadania na choroby",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Stan włosów odzwierciedla pracę wątroby oraz niedobory witamin i pierwiastków.",
+      "cytat": "Zwykle problemy z włosami pojawiają się przy niedostatecznej zdolności filtracyjnej wątroby, braku witamin, makro i mikroelementów.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Na podstawie nalotu i wyglądu języka można bezbłędnie ocenić zdrowie, a choroby serca często mają źródło w wątrobie.",
+      "cytat": "Język jest zwierciadłem organizmu. Na podstawie stanu języka możemy bezbłędnie stwierdzić, czy człowiek jest zdrowy, czy chory.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Nieprawidłowe odżywianie prowadzi do kwasicy krwi, która sprzyja rozwojowi pasożytów (grzybów, drożdży).",
+      "cytat": "Nieprawidłowy sposób odżywiania wiekszości ludzi prowadzi do kwasicy (kwaśnego odczyny krwi), co stwarza w organizmie korzystne warunki dla rozwoju chorobotwórczych pasożytów (grzybów, drożdży itp.).",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Dolegliwości serca bywają leczone latami, choć ich przyczyną są schorzenia wątroby.",
+      "cytat": "Często ludzie latami leczą choroby serca, gdy dolegliwości sercowe powstają na skutek schorzeń wątroby.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Główną przyczyną psucia się zębów jest obróbka termiczna pokarmów, cukier, kawa i produkty syntetyczne.",
+      "cytat": "Podstawową przyczyną psucia się zębów w naszych czasach jest przede wszystkim spożywanie produktów poddanych obróbce termicznej (gotowanych też), produktów zawierających cukier, spożywanie w dużych ilościach kawy i słodkich napojów, lodów i produktów syntetycznych.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Zmiany położenia kręgów szyjnych, piersiowych i lędźwiowych wywołują szerokie spektrum chorób (alergie, astmę, choroby wątroby, impotencję).",
+      "cytat": "Niepełny spis chorób, które są wynikiem braku należytego zainteresowania swoim kręgosłupem.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Niedobory witamin i minerałów należy uzupełniać z pożywieniem, a nie tabletkami, i dieta nie może być monotonna.",
+      "cytat": "Jedzenie, by spełniało swoją funkcję odbudowy organizmu, regulowania tych procesów i samoleczenia nie może być monotonne.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Według autora współczesna medycyna podpatruje wiedzę starożytnych i traktuje zwykłych ludzi jak króliki doświadczalne.",
+      "cytat": "Dzisiejsza wiedza medyczna, to pełzająca nauka podpatrująca ukradkiem nauki starożytnych i z pomocą bratniej chemii usiłująca rozwiązywać problemy zdrowia.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["autodiagnoza", "diagnostyka z wyglądu", "włosy", "paznokcie", "język", "kręgosłup", "witaminy", "minerały", "niedobory", "żywienie", "zioła"],
+  "osoby": ["Michał Tombak", "Patrick Holford", "Paracelsus"],
+  "miejsca": [],
+  "okresy": [],
+  "zrodla_cytowane": ["Patrick Holford – Zasady zdrowego odżywiania", "Michał Tombak – (prace prof. Tombaka o diagnostyce z wyglądu)"]
+}

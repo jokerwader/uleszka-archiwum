@@ -1,0 +1,59 @@
+{
+  "id": "medalt/szczep",
+  "tytul": "Szczepionki",
+  "streszczenie": "Artykuł Laury Orkan przedstawia szczepionki jako zagrożenie ukryte na lata. Autorka twierdzi, że szczepienia mogą uaktywniać utajone wirusy i wywoływać choroby (cukrzycę, stwardnienie rozsiane, nowotwory), opisuje skandale związane ze szczepionką przeciw krztuścowi (Di-Per-Te, SIDS) oraz z wczesnymi szczepionkami przeciw polio (Salk, Sabin, wirus SV40). Sugeruje nawet możliwy związek szczepionek z pochodzeniem HIV. Do tekstu dołączono wiadomość o niemieckiej akcji szczepień przeciw rakowi szyjki macicy z komentarzem redaktora, który obawia się przymusu i braku odszkodowań.",
+  "tezy": [
+    {
+      "teza": "Szczepionki mogą wywoływać inne choroby, uaktywniając utajone wirusy, i nie da się z góry sprawdzić, czy szczepienie jest dla danej osoby bezpieczne.",
+      "cytat": "Chodzi o to, że zagrożeniem we wszelkiego rodzaju szczepieniach jest uaktywnienie znajdującego się w organizmie utajonego wirusa.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Szczepionka przeciw krztuścowi odpowiada za przypadki śmierci i trwałe uszkodzenia mózgu u dzieci.",
+      "cytat": "Najgorszą ze wszystkich jest szczepionka przeciwko kokluszowi. Jest ona odpowiedzialna za wiele przypadków śmiertelnych i za to, że wiele dzieci cierpi na nieodwracalne uszkodzenia mózgu.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Szczepionka Di-Per-Te powodowała tysiące zgonów rocznie w USA, klasyfikowanych jako zwykły SIDS.",
+      "cytat": "które wykazały, że rocznie w samych Stanach Zjednoczonych umiera ponad 1000 dzieci w wyniku szczepień Di-Per-Te i że przypadki te są klasyfikowane jako zwykły SIDS.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Szczepionka Salka przeciw polio wywołała w 1955 roku epidemię polio w Massachusetts i zakażała rodziny zaszczepionych dzieci.",
+      "cytat": "Największa w historii stanu Massachusetts epidemia polio wystąpiła po podaniu szczepionki Salka 130 000 dzieci - w porównaniu z 273 przypadkami polio z 1950 roku, w 1955 roku zachorowało 2027 dzieci.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Obie szczepionki przeciw polio były zakażone wirusem SV40, powodującym nowotwory u zwierząt.",
+      "cytat": "Dwóch wirusologów, dr B.H.Sweet i dr M.R. Hilleman, odkryło, że obie szczepionki przeciw polio były zakażone wirusem znanym jako SV40, wywołującym nowotwory złośliwe u osesków chomików.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Wirus HIV mógł przedostać się do ludzi ze szczepionkami hodowanymi na tkankach małp (autorka zaznacza, że to domysły).",
+      "cytat": "Ostatnio mówi się także, że być może małpi wirus HIV wywołujący AIDS również przedostał się do organizmu człowieka za pośrednictwem \"zbawiennych\" szczepionek.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Skutki uboczne szczepień mogą ujawnić się nawet po wielu latach, a szczepionki mogą stać za epidemią białaczki i nowotworów dziecięcych.",
+      "cytat": "W dodatku skutki uboczne szczepienia mogą się ujawnić nawet po 20 latach.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Redaktor obawia się, że szczepienie przeciw rakowi szyjki macicy stanie się obowiązkowe, a poszkodowani będą musieli dochodzić odszkodowań w sądzie.",
+      "cytat": "Na razie są to akcje \"zachęcające\" lecz nie jest wykluczone, że w niedalekiej przyszłości tego rodzaju szczepienie wpisze się na stałe do procedur medycyny państwowej",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["szczepionki", "choroba prowokowana", "krztusiec", "di-per-te", "sids", "polio", "wirus sv40", "szczepienia przeciw hpv", "skandale medyczne"],
+  "osoby": ["Laura Orkan", "Leon Grigorski", "Archie Kalokerinos", "W. Ehrengut", "John Wilson", "Alan Hinman", "Jonas Salk", "B.H. Sweet", "M.R. Hilleman", "Jacek Lepiarz"],
+  "miejsca": ["USA", "Wielka Brytania", "Hamburg", "Atlanta", "Massachusetts", "Kalifornia", "Niemcy", "Nowa Południowa Walia"],
+  "okresy": [
+    { "kiedy": "1954", "co": "dr Salk zaszczepił pierwszą grupę 440 000 dzieci" },
+    { "kiedy": "1955", "co": "po szczepieniach Salka wybuchły epidemie polio, m.in. w Kalifornii i Massachusetts" },
+    { "kiedy": "1957-1968", "co": "w Wielkiej Brytanii zaszczepiono ponad 70% dzieci przeciw krztuścowi" },
+    { "kiedy": "2 września 1978", "co": "CDC poprosiło lekarzy o wstrzymanie szczepień Di-Per-Te z powodu skutków ubocznych" },
+    { "kiedy": "1960", "co": "szczepionkę Salka zastąpiono szczepionką Sabina z żywymi kulturami" },
+    { "kiedy": "czerwiec 2006", "co": "w USA dopuszczono szczepionki przeciw rakowi szyjki macicy; cztery miesiące później w Europie" }
+  ],
+  "zrodla_cytowane": ["Süddeutsche Zeitung – doniesienie o szczepieniach przeciw rakowi szyjki macicy (za wp.pl)"]
+}

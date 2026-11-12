@@ -1,0 +1,71 @@
+{
+ "id": "medalt/akupresura",
+ "tytul": "Refleksoterapia",
+ "streszczenie": "Tekst, oparty na książkach Jadwigi Górnickiej i Teresy Tuszyńskiej, opisuje refleksoterapię stóp (akupresurę): masaż stref refleksyjnych stóp powiązanych z narządami wewnętrznymi. Autor omawia technikę, kolejność masażu (wstępny, profilaktyczny, leczniczy), przeciwwskazania, możliwe reakcje oczyszczające oraz podaje tabelę receptorów do masowania przy kilkudziesięciu chorobach. Dodaje uwagi o pielęgnacji stóp, chodzeniu boso i domowym „dreptaniu” po kamykach. Twierdzi też, że wiedza o punktach akupresury musiała pochodzić od „kogoś”, a nie z kilku tysięcy lat obserwacji.",
+ "tezy": [
+  {
+   "teza": "Wiedza o punktach akupresury nie mogła powstać w ciągu kilku tysięcy lat obserwacji, więc została człowiekowi przekazana przez „kogoś”.",
+   "cytat": "Wszystko wskazuje na to, że wiedza o tym została człowiekowi przez \"kogoś\" przekazana i bajanie o tysiącach lat nie ma żadnego sensu.",
+   "dziedzina": "historia"
+  },
+  {
+   "teza": "Refleksoterapię znali także Indianie i dawni Francuzi, a współczesny świat zainteresował się nią dopiero w XX wieku.",
+   "cytat": "Frapujące jest także to, że refleksoterapię stosowali także Indianie, a w najstarszej Europie Francuzi.",
+   "dziedzina": "historia"
+  },
+  {
+   "teza": "Masaż stref refleksyjnych stóp poprawia przepływ krwi i bioenergii do powiązanego narządu, co prowadzi do poprawy i wyleczenia.",
+   "cytat": "Masaż stref refleksyjnych stóp powoduje lepszy przepływ krwi i bioenergii, które docierają do organu powiązanego z dana strefą.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Ciasne i niewygodne obuwie zaburza krążenie krwi i bioenergii oraz jest częstą przyczyną bólów głowy.",
+   "cytat": "bardzo niekorzystny wpływ na krążenie krwi i bioenergii ma niewygodne i ciasne obuwie.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Masaż zawsze trzeba zaczynać od nerek i dróg moczowych, bo inaczej można zablokować nerki toksynami.",
+   "cytat": "Gdybyśmy zaczęli masaż od innych receptorów, moglibyśmy doprowadzić do zablokowania nerek toksynami i złogami.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Mózg steruje wszystkimi narządami, więc jego zaburzenia (np. po wstrząsie) mogą wywołać objawy w narządach, które nie są uszkodzone.",
+   "cytat": "To właśnie mózg przekazuje nerkom fałszywe rozkazy i podobnie może się stać z każdym organem.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Gorączki nie należy zbijać lekami syntetycznymi, bo obniża to odporność i wydłuża chorobę.",
+   "cytat": "walce przeciwciał z infekcją zawsze towarzyszy gorączka i nie należy jej \"zbijać\" środkami syntetycznymi, gdyż w ten sposób sami obniżamy odporność organizmu i przedłużamy walkę z chorobą.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Masaż stóp ma być skuteczny przy bardzo wielu schorzeniach, od stresu i nadciśnienia po guzy piersi.",
+   "cytat": "Dużą skuteczność ma w leczeniu takich chorób jak stany stresowe, nadciśnienie, astma, dolegliwości nerek i pęcherza moczowego, bóle głowy, wrzody żołądka i dwunastnicy, zaburzenia wzroku a nawet guzy piersi.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Refleksoterapia uznana przez oficjalną medycynę zna około stu punktów, co ma być zaledwie dziesiątą częścią wiedzy chińskiej akupresury.",
+   "cytat": "Nasza refleksoterapia, uznana przez oficjalną medycynę, zna około stu punktów do masażu, a to podobno zaledwie 10% tego, co zna i używa akupresura chińska.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Intensywny masaż może wywołać przejściowe reakcje oczyszczające (opuchlizna, ciemny mocz, gorączka), których nie należy przerywać.",
+   "cytat": "Z powodu intensywnego podrażnienia jednego organu może (ale nie musi) występować przejściowa reakcja, która znika po pewnym czasie.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Chodzenie boso po drobnych kamykach pobudza zakończenia nerwowe stóp i hartuje organizm.",
+   "cytat": "Specjaliści wyliczyli, że w naszych stopach znajduje się 72 tysiące zakończeń nerwowych i dlatego powinniśmy się starać chodzić boso po drobno kamienistym podłożu.",
+   "dziedzina": "medycyna"
+  }
+ ],
+ "tematy": ["refleksoterapia", "akupresura", "masaż stóp", "strefy refleksyjne", "medycyna niekonwencjonalna", "chodzenie boso", "obuwie", "pielęgnacja stóp"],
+ "osoby": ["Teresa Tuszyńska", "Jadwiga Górnicka", "Hipokrates"],
+ "miejsca": ["Chiny", "Bydgoszcz"],
+ "okresy": [
+  { "kiedy": "5000 lat temu", "co": "Według tradycyjnych opisów w Chinach powstała akupresura." },
+  { "kiedy": "XX wiek", "co": "Nowoczesny świat zainteresował się refleksoterapią." },
+  { "kiedy": "1988", "co": "Bydgoskie Stowarzyszenie Radiestezyjne wydało „Refleksoterapię dłoni i stóp”, z której pochodzi wykaz chorób." }
+ ],
+ "zrodla_cytowane": ["Jadwiga Górnicka – Apteka natury", "Teresa Tuszyńska – Zdrowie nie ma ceny", "Bydgoskie Stowarzyszenie Radiestezyjne – Refleksoterapia dłoni i stóp"]
+}

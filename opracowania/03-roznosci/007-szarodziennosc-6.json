@@ -1,0 +1,77 @@
+{
+  "id": "blogier6",
+  "tytul": "Szarodzienność 6",
+  "streszczenie": "Szósta odsłona satyrycznego dziennika z początku 2007 roku. Autor komentuje korupcję w polskiej piłce, amerykańską tarczę antyrakietową, raport o WSI, dymisje i kłopoty polityków oraz stan służby zdrowia. Sporo miejsca poświęca też tematom naukowym i zdrowotnym: zakażeniom szpitalnym, GMO i śmierci pszczół, skuteczności leczenia raka, Słońcu oraz dacie 2012. Autor twierdzi, że polskie państwo, służba zdrowia i media służą wąskiej grupie wywodzącej się z dawnego układu, a oficjalna nauka i medycyna są zawodne i podporządkowane zyskom.",
+  "tezy": [
+    {
+      "teza": "Największym zagrożeniem dla życia w Polsce są zakażenia szpitalne, które zabijają więcej osób niż wypadki drogowe.",
+      "cytat": "Zakażenia szpitalne pochłaniają rocznie prawie dwa razy więcej ofiar niż wypadki samochodowe i trzy razy więcej niż zabija rak piersi.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Amerykańska tarcza antyrakietowa nie obroni Polski, lecz Niemcy i bazy USA, a w razie konfliktu naraża Polskę na zagładę.",
+      "cytat": "tarcza ochronna, która w teorii ma chronić nasze terytorium, chronić go nie będzie, a w razie konfliktu przyspieszy tylko tylko naszą agonię",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Autor odnotowuje potężny wybuch na Słońcu w okresie, w którym oficjalna nauka przewidywała minimum aktywności.",
+      "cytat": "Między 15:00 a 15:30 wielkość wybuchu osiągnęła wielkość samego Słońca.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Hipoteza przebiegunowania pola magnetycznego Ziemi jest nieuzasadniona, bo nauka nie zna jego pochodzenia, a data 2012 wynika z domysłów.",
+      "cytat": "Skąd wzięto hipotezę o przebiegunowaniu ziemskiego pola magnetycznego, skoro nauka nie ma zielonego pojęcia o jego genezie",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Cywilizacja jest przesądzona na upadek z powodu własnych destrukcyjnych działań, a nie dlatego, że tak wskazuje kalendarz.",
+      "cytat": "Koniec naszej cywilizacji i tak jest przesądzony, bo nasze działania są wybitnie destrukcyjne i tak głupia, pełna pychy cywilizacja nie zasługuje na przetrwanie i robi wszystko by nie przetrwać.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Indianie Hopi przenoszą się w góry w związku ze swoimi przepowiedniami, co ma być znakiem nadchodzących zmian.",
+      "cytat": "Otrzymałem prywatną informację o tym, że Indianie Hopi wynoszą się z terenów nizinnych w góry.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Postęp w leczeniu raka jest mitem, bo skuteczność terapii w USA nie zmieniła się od 35 lat.",
+      "cytat": "W USA skuteczność leczenia guzów złośliwych jest taka sama jak przed 35 laty, gdy ogłoszono National Cancer Act.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Rak jest skutkiem złego odżywiania i zatrucia własnymi toksynami, a naukowcy z wynikami w leczeniu byli zwalczani.",
+      "cytat": "Rak to zemsta organizmu za nieprawidłowo spożywane posiłki. W 99% to zatrucie własnymi toksynami, a tylko 1 % to nieodwracalne zmiany w organizmie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Skutki spożywania żywności transgenicznej mogą ujawnić się dopiero po pokoleniach, a polska ustawa o GMO nie zabezpiecza przed skażeniem upraw.",
+      "cytat": "Jak działa transgeniczna żywność na organizm ludzki nie wiadomo, bo skutki mogą być widoczne dopiero w następnych pokoleniach.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Masowe ginięcie pszczół w USA wywołało trujące białko wprowadzone do roślin modyfikowanych genetycznie.",
+      "cytat": "do genomu roślin wprowadzono trujące białko i ono właśnie było przyczyną śmierci pszczół podczas zapylania tychże roślin",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "W Polsce kurczaki są karmione zakazaną w Unii mączką zwierzęcą, co grozi chorobą podobną do wściekłych krów.",
+      "cytat": "Blisko pięć procent próbek pokarmu używanego w polskich kurzych fermach zawiera zakazaną na terenie Unii Europejskiej mączkę zwierzęcą",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Oprocentowanie kredytu PKO BP rozłożonego na raty wynosi w rzeczywistości ponad 327 procent, czyli więcej niż dawna lichwa.",
+      "cytat": "Nietrudno policzyć, że za 1000 zł musisz spłacić 3276 zł, co daje bandyckie oprocentowanie w wysokości 327,6%",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": ["afera w piłce nożnej", "tarcza antyrakietowa", "zakażenia szpitalne", "raport o wsi", "gmo", "rak i odżywianie", "koniec świata 2012", "służba zdrowia", "rospuda", "ewolucja"],
+  "osoby": ["Zbigniew Religa", "Hanna Gronkiewicz-Waltz", "Lech Wałęsa", "Andrzej Lepper", "Wojciech Jaruzelski", "Ryszard Kukliński", "Antoni Macierewicz", "Mirosław Garlicki", "Zbigniew Ziobro", "Andrzej Klimuszko", "Biały Niedźwiedź", "Raymond Rife", "Wilhelm Reich", "David Hudson", "Max Gerson", "Albert Einstein", "Stephanie Dancer", "Władimir Putin"],
+  "miejsca": ["Rospuda", "Szymany", "Borne Sulinowo", "Potala", "Lhasa", "Szambala", "góry Izerskie", "Afganistan", "Opolszczyzna", "Tybet"],
+  "okresy": [
+    { "kiedy": "24 stycznia 2007", "co": "Według autora potężny wybuch na Słońcu zarejestrowany przez satelitę SOHO." },
+    { "kiedy": "21 grudnia 2012", "co": "Data, wokół której według autora narastają obawy o koniec świata, odnowę duchową lub zniszczenie." },
+    { "kiedy": "25 sierpnia 1980", "co": "Śmierć Andrzeja Czesława Klimuszki, cytowanego przez autora." },
+    { "kiedy": "około 35 lat temu", "co": "Ogłoszenie amerykańskiego programu National Cancer Act, który miał wyeliminować raka." }
+  ],
+  "zrodla_cytowane": ["Andrzej Czesław Klimuszko – Moje widzenie świata", "Jakub – Kod Czasu (forum)", "Rzeczpospolita – artykuł o zakażeniach szpitalnych", "Newsweek – informacja o ustawie o GMO", "Max Gerson – wypowiedź o raku", "Albert Einstein – wypowiedź o pszczołach (cytowana przez autora)"]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "medalt/jedzenie",
+  "tytul": "Jak powinniśmy jeść",
+  "streszczenie": "Obszerny poradnik żywieniowy oparty głównie na zasadach prof. Michała Tombaka i dr Jadwigi Górnickiej. Autor tłumaczy przebieg trawienia, podaje tabele łączenia produktów (osobno białka, węglowodany i tłuszcze, owoce poza posiłkami), zasady jedzenia warzyw, owoców i tłuszczów, a także rady dotyczące wody (przemrażanie jako „woda strukturowana”), kawy, herbaty, alkoholu i soków warzywnych z ich rzekomymi właściwościami leczniczymi. Dodaje etapy przechodzenia na „zdrowy” sposób żywienia i część poświęconą ciąży, karmieniu i żywieniu dzieci. Autor twierdzi, że prawidłowe łączenie i przygotowanie jedzenia oraz ograniczenie mięsa, mleka, cukru i produktów przetworzonych pozwala utrzymać zdrowie i uniknąć lekarzy.",
+  "tezy": [
+    {
+      "teza": "Dobre samopoczucie i zdrowie zależą przede wszystkim od jakości i składu posiłków; organizm to „silnik”, któremu potrzebne jest dobre „paliwo”.",
+      "cytat": "Wszyscy lekarze naturaliści traktują człowieka jako jeden biologiczny \"silnik\", który by pracować dobrze i bez zakłóceń musi mieć dostarczane \"paliwo\" i to doskonałej jakości i odpowiednim składzie.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Węglowodany i białka należy jeść osobno z odstępem kilku godzin, bo enzymy się wzajemnie neutralizują i pokarm gnije w jelitach.",
+      "cytat": "Nigdy nie łącz białek z węglowodanami. W trawieniu te produkty się wykluczają i w efekcie nie strawione gniją i fermentują w jelitach.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Optymalna dieta to jeden produkt w posiłku; węglowodany trawią się 20–30 minut, białka 2–4 godziny.",
+      "cytat": "Przykładowo węglowodany są trawione w ciągu 20-30 minut, zaś białka w ciągu 2-4 godzin i takie przerwy powinny być między zjedzeniem jednego a drugiego.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Zgromadzone w jelicie grubym gnijące resztki są źródłem toksyn i większości chorób.",
+      "cytat": "Jeśli jego ścianki są oblepione starymi, gnijącymi resztkami pokarmu (kamienie kałowe), to do organizmu przenikają wszystkie toksyny z gnijących resztek.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Obróbka cieplna niszczy witaminy i enzymy oraz zamienia związki organiczne w trudno przyswajalne nieorganiczne.",
+      "cytat": "Temperatura około 100°C \"zabija\" witaminy, powyżej 47°C czynne biologicznie enzymy, a związki organiczne zamienia w nieorganiczne, trudno przyswajalne przez organizm człowieka.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Sól w nadmiarze jest główną przyczyną nadciśnienia i szkodzi nerkom.",
+      "cytat": "Sól tylko poprawia smak, a jej przedawkowanie narusza drastycznie stosunek sodu do potasu i jest główną przyczyną wysokiego nadciśnienia",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Mleko słodkie jest niestrawne dla dorosłych i dzieci, bo kazeina służy tylko do budowy włosów i paznokci, a podpuszczka zanika po 1–2 latach.",
+      "cytat": "Mleko zawiera dużo kazeiny, która jest potrzebna tylko do budowy włosów i paznokci.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Mięso i bulion zawierają trujące substancje; wystarczy jeść mięso, ryby i drób dwa razy w tygodniu, a białko zastępować roślinami strączkowymi i orzechami.",
+      "cytat": "Produkty mięsne zawierają ponad 20 różnych, trujących substancji i podczas gotowania przechodzą one do bulionu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Smażenie w temperaturze ok. 150°C zamienia tłuszcze w toksyczne i rakotwórcze związki.",
+      "cytat": "Szczególnie szkodliwe jest smażenie tłuszczów w temperaturze 150°C (taka temperatura jest na patelni podczas smażenia).",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Wymoczenie warzyw w słonej wodzie ma usuwać ok. 40% radionuklidów.",
+      "cytat": "przed spożyciem należy warzywa wymoczyć w słonej wodzie przez 3 godziny bez dostępu światła. W ten sposób około 40% radionukleidów ulega zniszczeniu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Woda „strukturowana”, uzyskana przez przemrożenie, ma taką strukturę jak woda w komórkach i wymywa złogi oraz stare komórki.",
+      "cytat": "Po wyjęciu przebić warstwę lodu i zlać wodę do innego pojemnika. Woda ta ma taką samą strukturę, jak woda w naszych komórkach.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Świeże soki warzywne i owocowe leczą liczne choroby i oczyszczają organizm, a sklepowe zachowują tylko 60% wartości.",
+      "cytat": "Wszystkie soki, które kupujemy w sklepach zawierają tylko 60% pierwotnej wartości.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Autor zaleca stopniowe przechodzenie na zdrowe żywienie i jeden dzień postu tygodniowo.",
+      "cytat": "Raz w tygodniu przeprowadzajmy \"post\" trwający 16-24 godzin, pijąc w tym czasie tylko przegotowaną wodę.",
+      "dziedzina": "żywienie"
+    }
+  ],
+  "tematy": ["łączenie pokarmów", "trawienie", "jelito grube", "mleko", "mięso", "woda strukturowana", "soki warzywne", "herbata i kawa", "alkohol", "żywienie dzieci", "ciąża i karmienie", "post", "kwasowość krwi"],
+  "osoby": ["Hipokrates", "Michał Tombak", "Jadwiga Górnicka", "Lorraine Day", "Daryl Bradford Smith", "Teresa Tuszyńska", "Ojciec Grande", "Dr Hay", "Michael Garner", "Wojciech Jóźwiak"],
+  "miejsca": ["Polska", "Burgundia"],
+  "okresy": [
+    { "kiedy": "21 lipca 2006", "co": "Data wywiadu z dr Lorraine Day, z którego przytoczono fragment o trawieniu białka." }
+  ],
+  "zrodla_cytowane": [
+    "Michał Tombak – Droga do zdrowia / Jak żyć długo i zdrowo (zasady żywienia)",
+    "Jadwiga Górnicka – Apteka natury, poradnik zdrowia",
+    "Teresa Tuszyńska – Zdrowie nie ma ceny",
+    "Marzena i Tadeusz Woźniakowie – Ojca Grande przepisy na zdrowe życie",
+    "Irena Gumowska – Czy wiesz co jesz?",
+    "Jan Schulz, Edyta Ueberhuber – Leki z Bożej apteki",
+    "Wojciech Jóźwiak – interpretacja Księgi Przemian (I-Cing)"
+  ]
+}

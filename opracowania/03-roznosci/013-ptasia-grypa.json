@@ -1,0 +1,79 @@
+{
+ "id": "grypa",
+ "tytul": "Ptasia grypa",
+ "streszczenie": "Serwis o ptasiej grypie (2006–2007) łączy poradnik naturalnej profilaktyki, opartej na książkach Michała Tombaka, z dziennikiem doniesień prasowych opatrzonych ironicznymi komentarzami autora. Autor krytykuje polski rząd, NFZ, Ministerstwo Zdrowia i koncerny farmaceutyczne, twierdząc, że szczepionki i leki są nieskuteczne lub służą zyskom, a władze ukrywają informacje i marnują pieniądze. Zaleca cytryny, czosnek, cebulę, hartowanie, lewatywy i unikanie syntetycznych witamin oraz aspiryny. Opisuje też przebieg wydarzeń w Polsce (łabędzie w Toruniu, laboratorium w Puławach) i na świecie.",
+ "tezy": [
+  {
+   "teza": "Państwo polskie, a zwłaszcza NFZ, nie dba o zdrowie obywateli, więc w razie epidemii ludzie muszą radzić sobie sami.",
+   "cytat": "Jedno jest pewne. Rzeczpospolita nie kiwnie palcem w obronie własnego obywatela, a tym bardziej w ochronie jego zdrowia, bowiem niepodzielnie panuje w niej instytucja urzędasów zwana NFZ",
+   "dziedzina": "polityka"
+  },
+  {
+   "teza": "Ptasia grypa towarzyszy ludziom od wieków, a wirus grypy stale mutuje i co kilkadziesiąt lat wywołuje pandemie.",
+   "cytat": "Ptasia grypa towarzyszy nam od wieków, czego dowodem są ostatnie badania wirusa słynnej \"hiszpanki\".",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Hiszpanka z 1918 roku i późniejsze pandemie pochłonęły miliony ofiar.",
+   "cytat": "W roku 1918 \"Hiszpanka\" zabiła 20 mln ludzi (nowe dane mówią o 50 milionach), \"azjatycka\" z roku 1957 pochłoneła około 1 miliona ofiar",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Skutecznej szczepionki na ptasią grypę nie ma, a reklamowane leki to chwyt marketingowy koncernów.",
+   "cytat": "Szczepionki na ptasią grypę nie ma i nie będzie.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Witamina C w tabletkach jest szkodliwa, a odporność trzeba budować naturalnymi źródłami witaminy C.",
+   "cytat": "Syntetyczna witamina C szkodzi, gdyż nie jest łatwo przyswajalna przez organizm jako produkt chemicznie czysty.",
+   "dziedzina": "żywienie"
+  },
+  {
+   "teza": "Profilaktycznie zaleca się odżywkę z cytryn i czosnku oraz kurację sokiem z cytryny, a w chorobie czosnek, cebulę i lewatywy.",
+   "cytat": "Codziennie od października do kwietnia stosować odżywkę przeciwgrypową: 2 cytryny zetrzeć na tarce usuwając uprzednio pestki, rozdrobnić 4 główki obranego czosnku",
+   "dziedzina": "żywienie"
+  },
+  {
+   "teza": "Aspiryna jest według dawnych lekarzy homeopatów szkodliwa i w epidemii 1918 roku zwiększała śmiertelność.",
+   "cytat": "Aspiryna oraz inne produkty wytwarzane ze smoły węglowej są potępiane przez lekarzy, ponieważ powodują ogromną liczbę niepotrzebnych zgonów.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Wirusa H5N1 można skutecznie zwalczać biocydem G-Cide, ale producent podnosi ceny, co ma świadczyć, że nie chodzi o zdrowie ludzi.",
+   "cytat": "Substancja G-Cide, zawierająca aldehyd glutarowy, od 1990 r. stosowana w Afryce jako biocyd zwalczający różnego rodzaju patogeny (grzyby, wirusy, bakterie), jest bardzo efektywną substancją unieszkodliwiającą wirusa ptasiej grypy H5N1.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Głównym roznosicielem ptasiej grypy jest dzikie ptactwo, zwłaszcza w czasie sezonowych migracji, a wybijanie drobiu nie rozwiązuje problemu.",
+   "cytat": "Dziś już wiadomo, że głównym roznosicielem choroby jest dzikie, zarażone ptactwo, szczególnie niebezpieczne podczas sezonowych migracji.",
+   "dziedzina": "biologia"
+  },
+  {
+   "teza": "Polskie laboratoria nie spełniały norm bezpieczeństwa i brakowało pieniędzy na badania, choć koszt kilku limuzyn wystarczyłby na setki testów.",
+   "cytat": "Wniosek jest taki, że za jedną średnią limuzynę rządową (około 140 tys. zł.) można wykonać 200 badań.",
+   "dziedzina": "społeczeństwo"
+  },
+  {
+   "teza": "Wyniki badań wirusa H5N1 w Polsce zostały według doniesień wstrzymane na prośbę resortu rolnictwa, co autor traktuje jako manipulację informacją.",
+   "cytat": "Ktoś nami manipuluje. Albo pierwsza albo czwarta władza.",
+   "dziedzina": "polityka"
+  },
+  {
+   "teza": "Mieszkańcy Syberii mieli chronić się przed grypą ssaniem kamienia, bo ślina rozpuszcza minerały zasilające układ odpornościowy.",
+   "cytat": "Na przestrzeni wieków mieszkańcy Syberii profilaktycznie przeciw grypie ssali kamień.",
+   "dziedzina": "medycyna"
+  }
+ ],
+ "tematy": ["ptasia grypa", "H5N1", "profilaktyka naturalna", "witamina C", "czosnek i cytryna", "aspiryna", "Tamiflu", "NFZ", "krytyka rządu", "media i panika", "hiszpanka"],
+ "osoby": ["Michał Tombak", "Zbigniew Religa", "Kazimierz Marcinkiewicz", "Władimir Żyrinowski", "Guy Beckly Stearns", "J.P. Huff", "Toni Martin", "Tadeusz Wijaszka", "Krzysztof Jurgiel", "Lidia Brydak", "Galen"],
+ "miejsca": ["Polska", "Toruń", "Puławy", "Bydgoszcz", "Azja", "Indonezja", "Egipt", "Rosja", "Moskwa", "Węgry", "Syberia"],
+ "okresy": [
+  { "kiedy": "1918", "co": "Epidemia hiszpanki zabiła według autora 20 do 50 milionów ludzi." },
+  { "kiedy": "1957", "co": "Pandemia „azjatycka” pochłonęła około miliona ofiar." },
+  { "kiedy": "1968", "co": "Wirus „Hong-Kong A2” uśmiercił 700 tysięcy ludzi." },
+  { "kiedy": "23 grudnia 2005", "co": "Ogłoszono mutację wirusa ptasiej grypy i brak skuteczności Tamiflu." },
+  { "kiedy": "5–6 marca 2006", "co": "W Toruniu potwierdzono pierwszy w Polsce przypadek wirusa H5N1 u łabędzi." },
+  { "kiedy": "luty 2007", "co": "Kolejne ogniska ptasiej grypy w obwodzie moskiewskim i na Węgrzech." }
+ ],
+ "zrodla_cytowane": ["Michał Tombak – Uleczyć nieuleczalne", "Guy Beckly Stearns – Epidemia grypy 1918 - homeopatia na ratunek"]
+}

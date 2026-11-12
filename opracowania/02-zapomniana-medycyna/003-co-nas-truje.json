@@ -1,0 +1,91 @@
+{
+  "id": "medalt/trucie",
+  "tytul": "Co nas truje",
+  "streszczenie": "Rozdział o „zatruciach” codziennego życia, oparty głównie na poglądach prof. Tombaka i artykułach cytowanych z prasy. Autor opisuje kwas moczowy jako przyczynę wielu chorób (podagra, reumatyzm, kamica, cukrzyca) i poleca kurację sokiem z 200 cytryn, ostrzega przed białym cukrem, tłuszczami, wędzonkami, azotanami oraz podaje zasady profilaktyki raka. Obszernie krytykuje mleko krowie, twierdząc, że szkodzi dorosłym i dzieciom, osłabia kości i wywołuje alergie, a reklamy mleka służą koncernom. Na końcu oskarża medycynę o „broń chemiczną”: aspirynę, syntetyczne witaminy i nadużywane antybiotyki, które niszczą florę bakteryjną. Wniosek autora: należy opierać się na naturalnym żywieniu i unikać przetworzonych produktów i leków chemicznych.",
+  "tezy": [
+    {
+      "teza": "Nadmiar kwasu moczowego jest trucizną odkładającą się w tkankach i przyczyną chorób stawów, kości, reumatyzmu, podagry i osteoporozy.",
+      "cytat": "Praktycznie jest powodem takich chorób jak choroby stawów, kości, bólów w kręgosłupie, chronicznego reumatyzmu, artretyzmu, podagry i osteoporozy.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Kuracja sokiem z 200 cytryn w 12 dni usuwa kwas moczowy i leczy ciężkie choroby przewlekłe.",
+      "cytat": "Aby leczyć cięzkie, chroniczne choroby należy w ciągu całej kuracji wypić sok z 200 cytryn (ani jednej mniej, ale można więcej). Kuracja trwa 12 dni",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Biały cukier jest dla organizmu substancją obcą, zabiera wapń i selen i prowadzi do próchnicy, cukrzycy, osteoporozy i raka.",
+      "cytat": "cukier jest dla organizmu substancją całkowicie obcą, która własciwie nie jest przez organizm wchłaniana, a tylko prowadzi do zaniku naczyń krwionośnych oraz mutacji lub zwyrodnienia komórek, co w najprostszy sposób prowadzi do raka",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Rafinowany cukier można „ożywić” miodem, który rozkłada go na glukozę i fruktozę.",
+      "cytat": "W ciągu 8 dni cukier pod wpływem miodu rozkłada się na glukozę i fruktozę - cukry przyjazne dla organizmu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Produkty wędzone zawierają ogromne ilości substancji rakotwórczych, porównywalne z dymem papierosowym.",
+      "cytat": "Nieraz w 50 g kiełbasy wędzonej znajduje się taka sama ilość substancji rakotwórczych, jak w dymie z paczki papierosów, lub w powietrzu, które mieszkaniec dużego miasta wdycha w ciągu czterech dni.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Dorosły człowiek nie powinien pić mleka, bo żaden inny dorosły ssak go nie pije, a kazeina i białko są dla niego szkodliwe.",
+      "cytat": "Żaden ssak na świecie (oprócz człowieka), będąc dorosłym już osobnikiem nie spożywa mleka. Tak urządziła to natura.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Kazeina z mleka „skleja” kamienie w nerkach i naczynia krwionośne oraz wywołuje śluz i choroby dróg oddechowych.",
+      "cytat": "W naszym organizmie kazeina \"klei\" kamienie w nerkach, naczynia krwionośne, powoduje powstawanie guzków w nogach, deformację palców rąk",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Mleko nie wzmacnia kości, lecz je osłabia, a osteoporoza występuje najczęściej tam, gdzie pije się najwięcej mleka.",
+      "cytat": "osteoporoza jest najbardziej rozpowszechniona w regionach świata o wysokim spożyciu mleka, np. w Europie Północnej, Kanadzie i USA",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Wapń z orzechów, warzyw, sezamu czy sardynek jest lepiej przyswajalny niż wapń z mleka krowiego.",
+      "cytat": "A czy mniej jest wapnia w orzechach, kapuście, marchwi, burakach? Więcej.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Medycyna oparta na chemii odrzuciła medycynę ludową, a producenci leków blokują informacje o ich szkodliwości.",
+      "cytat": "Nowoczesna medycyna od samego początku odrzuciła \"medycynę ludową\" jako szkodliwy, nienaukowy zabobon i znalazła sprzymierzeńca w naukowej chemii - farmakologii.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Aspiryna jest szkodliwa i pogorszyła przebieg epidemii grypy w 1918 roku, jak twierdzą cytowani lekarze homeopaci.",
+      "cytat": "Aspiryna oraz inne produkty wytwarzane ze smoły węglowej są potępiane przez lekarzy, ponieważ powodują ogromną liczbę niepotrzebnych zgonów.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Syntetyczne witaminy są obcą, krystaliczną substancją, słabo przyswajalną i obciążającą nerki i wątrobę.",
+      "cytat": "Po drugie - sztuczne witaminy, to krystaliczna, nieorganiczna substancja, obca dla organizmu.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Antybiotyki niszczą florę bakteryjną i obniżyły odporność populacji; florę można odbudować czosnkiem i fermentowanym nabiałem.",
+      "cytat": "Po wynalezieniu antybiotyków i wprowadzeniu ich do masowego użycia spadła umieralność, natomiast bariera odporności u ludzi obniżyła się.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["kwas moczowy", "kuracja cytrynowa", "cukier", "rak i żywienie", "mleko", "osteoporoza", "aspiryna", "syntetyczne witaminy", "antybiotyki", "flora bakteryjna", "koncerny farmaceutyczne"],
+  "osoby": ["Seneka", "Michał Tombak", "Annemarie Colbin", "Frank Oski", "Eugeniusz Zbigniew Siwik", "Mariusz Gawlik", "Waldemar Broś", "Corrie McLachlan", "Max Bircher-Benner", "Guy Beckly Stearns", "J.P. Huff", "Tomasz Nocuń", "Edward Zawisza", "Dorota Szostak-Węgierek", "H. Shelton", "Andrzej Janus", "Kayah", "Bogusław Linda", "Jagna Marczułajtis", "Ewa Wachowicz"],
+  "miejsca": ["Kioto", "Finlandia", "Skarżysko-Kamienna", "Zurych", "Stargard Szczeciński", "Białystok", "Japonia", "Stany Zjednoczone"],
+  "okresy": [
+    { "kiedy": "1918", "co": "Epidemia „hiszpanki”, w której według cytowanych lekarzy aspiryna zaszkodziła chorym." },
+    { "kiedy": "do połowy lat 40. XX wieku", "co": "Czas bez antybiotyków, kiedy według lekarza w tekście działała selekcja naturalna." },
+    { "kiedy": "wrzesień 2002", "co": "Start kampanii reklamowej „Pij mleko, będziesz wielki”." },
+    { "kiedy": "2001", "co": "Badacz Corrie McLachlan ogłasza wyniki o związku kazeiny z chorobami serca." },
+    { "kiedy": "27.02.2007", "co": "Doniesienie o badaniach DNA szkieletów neolitycznych wskazujących na brak trawienia laktozy u dorosłych." }
+  ],
+  "zrodla_cytowane": [
+    "Michał Tombak – kuracja cytrynowa i artykuły o syntetycznych witaminach",
+    "Annemarie Colbin – Food and Healing",
+    "Annemarie Colbin – Osteoporoza",
+    "Frank Oski – Proszę, nie pij mleka",
+    "Guy Beckly Stearns – Epidemia grypy 1918 - homeopatia na ratunek",
+    "Andrzej Janus – Czy lubisz mleko?",
+    "H. Shelton, dr Walker – opinia o mleku krowim jako źródle śluzu"
+  ]
+}

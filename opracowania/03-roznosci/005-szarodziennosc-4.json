@@ -1,0 +1,78 @@
+{
+  "id": "blogier4",
+  "tytul": "Szarodzienność 4",
+  "streszczenie": "Zbiór krótkich, satyrycznych komentarzy autora do bieżących wydarzeń z końca 2006 roku: wyborów samorządowych, zakupu samolotów F-16, afer politycznych, lustracji, pomyłki w ampułkach w Jelfie i sytuacji w służbie zdrowia. Autor krytykuje polską klasę polityczną, prawo, urzędy i media, które określa jako zależne od dawnej komuny i obcych kapitałów. W kilku wpisach porusza też tematy zdrowotne i naukowe (efekt cieplarniany, GMO, szczepienia, promieniowanie, piramidy). Autor dochodzi do wniosku, że w Polsce rządzi miernota i układ wywodzący się z Okrągłego Stołu, a zwykły obywatel płaci za błędy władzy.",
+  "tezy": [
+    {
+      "teza": "Walka z emisją dwutlenku węgla jest bezcelowa, bo gazy cieplarniane pochodzą głównie od ludzi i ich liczby, więc lepiej łagodzić skutki niż zwalczać przyczyny.",
+      "cytat": "Wniosek - żadne współdziałanie narodów efektu cieplarnianego nie powstrzyma i pieniądze wydane na walkę z przyczynami, przeznaczyć lepiej na łagodzenie jego skutków",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Wojna jądrowa i promieniowanie mogą być korzystne dla zdrowia ocalałych i narażonych ludzi, co mają potwierdzać wnioski komitetu UNSCEAR.",
+      "cytat": "Okazuje się, że wojna jądrowa może być błogosławieństwem dla ludzkości",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Ulotki leków przemilczają szkodliwe skutki uboczne, na przykład witaminy C i aspiryny stosowanych systematycznie.",
+      "cytat": "powoduje mikrowylewy krwi w żołądku, zaburzenia gospodarki cukrowej i powstawanie kamieni w nerkach",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Szczepionka przeciw HPV to wyłącznie biznes oparty na strachu, a rak rozwija się u osób niedożywionych i pozbawionych witamin.",
+      "cytat": "Najważniejsze to posiać strach i czekać jak pieniążki same zaczną spływać do kieszeni",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Żywność modyfikowana genetycznie szkodzi zwierzętom laboratoryjnym, które chorują częściej i giną szybciej.",
+      "cytat": "szczury i myszy, którym podawano żywność modyfikowaną genetycznie (GMO) giną znacznie prędzej, a także znacznie częściej chorują, od tych które dostają normalną żywność",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Polerowany biały ryż amerykański wywołał beri-beri u Wietnamczyków, a chorobę opanowano dopiero po powrocie do ryżu nieoczyszczonego.",
+      "cytat": "Chorobę opanowano po wyrzuceniu z jadłospisu ryżu Wuja Sama i powrocie do swojego, nieoczyszczanego.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Odporność buduje się dużą ilością surówek i owoców, a nie reklamowanymi jogurtami probiotycznymi.",
+      "cytat": "Jeśli chcemy naprawdę się uodpornić, to trzeba zacząć jeść codziennie dużo surówek warzywnych, jeść owoce, czyli codziennie fundować sobie naturalną witaminę C.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Piramidy w Gizie mogły zostać odlane z mieszanki wapiennego granulatu i spoiwa, a pisał o tym już Daeniken.",
+      "cytat": "piramidy w Giza zostały zbudowane z prefabrykatów, które według francuskich uczonych, starożytni Egipcjanie odlali jako precyzyjnie pasujące do siebie bloki konstrukcyjne",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Przewidywanie: Zakład Ubezpieczeń Społecznych zbankrutuje w ciągu niecałych dziewięciu lat.",
+      "cytat": "Jak ostrzegają ludzie myślący, czeka nas jeszcze jedna katastrofa na skalę kraju - za niecałe 9 lat zbankrutuje ZUS.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Przewidywanie: poważna awaria sieci energetycznej Warszawy jest realnym zagrożeniem, bo miasto bez prądu przez tydzień by umarło.",
+      "cytat": "Wam wystarczy tylko tydzień bez prądu, aby wasze miasto umarło, czego oczywiście wam nie życzę.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Rozrost biurokracji wynika z nieprzestrzegania sztywnych etatów w administracji państwowej.",
+      "cytat": "nadmierny rozrost biurokracji w Polsce jest skutkiem nieprzestrzegania tzw. sztywnych etatów w zatrudnieniu i to na szczeblu państwowym",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Radykalizację młodzieży spowodowało zaniedbanie edukacji i wychowania patriotycznego przez wszystkie rządy po 1990 roku.",
+      "cytat": "od roku 1990 wszystkie rządy miały w dupie edukację, a patriotyzmu uczyła ulica, knajpy i dyskoteki",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": ["satyra polityczna", "wybory samorządowe 2006", "f-16", "lustracja i ipn", "służba zdrowia", "gmo", "efekt cieplarniany", "biurokracja", "szczepienia", "media"],
+  "osoby": ["Kazimierz Marcinkiewicz", "Roman Kluska", "Hanna Gronkiewicz-Waltz", "Aleksander Łukaszenko", "Roman Dmowski", "Andrzej Lepper", "Stanisław Łyżwiński", "Leszek Bubel", "Zahi Hawass", "Erich von Däniken", "Milton Friedman", "Leszek Balcerowicz", "Artur Sandauer", "Bronisław Geremek", "Fryderyk Engels", "Anna Walentynowicz", "Marcin Tymochowicz", "Jan Rokita", "Matthew Hurles", "Aleksander Litwinienko", "Tadeusz Isakowicz-Zaleski", "Jacek Kurski", "Zygmunt Solorz"],
+  "miejsca": ["Krzesiny", "Warszawa", "Rospuda", "Augustów", "Halemba", "Giza", "Greenpoint", "Hiroszima", "Nagasaki", "Tworki", "Białoruś", "Kraków"],
+  "okresy": [
+    { "kiedy": "1920", "co": "Cud nad Wisłą, który według autora w 2006 roku się nie powtórzył, bo Warszawa padła w wyborach." },
+    { "kiedy": "1990", "co": "Początek rządów, które według autora zaniedbały edukację i patriotyzm, określony jako V rozbiór Polski." },
+    { "kiedy": "listopad 2006", "co": "Przylot F-16 do Krzesin, pomyłka w ampułkach w Jelfie, wybory prezydenta Warszawy, tragedia w kopalni Halemba." },
+    { "kiedy": "2012", "co": "Planowane wejście do służby wszystkich zakupionych F-16." },
+    { "kiedy": "za niecałe 9 lat", "co": "Według przewidywania autora zbankrutuje ZUS." }
+  ],
+  "zrodla_cytowane": ["Erich von Däniken – Oczy Sfinksa", "Milton Friedman – cytat o ekonomistach i interwencji państwa", "UNSCEAR – wnioski o skutkach promieniowania po Hiroszimie i Nagasaki", "Artur Sandauer – wypowiedź o Żydach i Polakach", "Bronisław Geremek – wypowiedź o celu ruchu społecznego", "Fryderyk Engels – wypowiedź o Polakach", "Anna Walentynowicz – pytania z 1995 roku do polityka"]
+}

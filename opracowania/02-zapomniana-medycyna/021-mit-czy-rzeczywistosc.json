@@ -1,0 +1,72 @@
+{
+ "id": "medalt/radiestezja",
+ "tytul": "Mit czy rzeczywistość?",
+ "streszczenie": "Autor przedstawia radiestezję jako pozostałość dawnej mądrości, która nie leczy, ale wskazuje zagrożenia dla zdrowia. Opisuje szkodliwe promieniowanie podziemnych cieków wodnych (strefy geopatyczne) oraz tzw. sieć geobiologiczną, a także ich rzekomy wpływ na ludzi, zwierzęta, rośliny i budynki. Zalecany jest powrót do naturalnych materiałów w domu, odzieży i kuchni, podane są domowe sposoby wykrywania stref (np. test z kredą) oraz ludowe „odpromienniki”. Autor uznaje, że nauka nie traktuje radiestezji poważnie, ale on sam przedstawia jej wnioski jako jednoznaczne.",
+ "tezy": [
+  {
+   "teza": "Nauka odrzuca radiestezję, bo racjonaliści uważają, że czego nie można wytłumaczyć, to nie istnieje.",
+   "cytat": "Współczesna nauka nie widzi powodu, by radiestezję uznać za jakąkolwiek gałąź wiedzy",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Około połowy ludzi ma predyspozycje radiestezyjne, a tylko niewielki odsetek potrafi posługiwać się różdżką.",
+   "cytat": "Około połowy populacji ludzi posiada predyspozycje radiestezyjne, z tego około 5% jest zdolnych posługiwać się różdżką.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Każdy podziemny ciek wodny promieniuje do góry i na boki, a promieniowanie pionowe jest najsilniejsze i najbardziej szkodliwe.",
+   "cytat": "Weedług radiestezji każdy podziemny ciek wodny promieniuje pionowo do góry i na boki pod kątem 45°, przy czym promieniowanie pionowe jest najsilniejsze i tym samym bardziej szkodliwe.",
+   "dziedzina": "geologia"
+  },
+  {
+   "teza": "Promieniowanie geopatyczne szkodzi zdrowiu ludzi i zagraża ich życiu, a lekarz bez diagnozy powinien brać je pod uwagę jako przyczynę.",
+   "cytat": "Strefy promieniowania geopatycznego szkodzą zdrowiu człowieka i zagrażają jego życiu.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Zwierzęta gospodarskie na strefach geopatycznych chorują i dają gorsze plony, a drzewa owocowe chorują na raka.",
+   "cytat": "krowy dają mniej mleka, dostają skurczów, drgawek, konwulsji, mają częste poronienia i chorują na zapalenie wymion,",
+   "dziedzina": "biologia"
+  },
+  {
+   "teza": "Poza strefami wodnymi istnieje sieć geobiologiczna wywołana promieniowaniem kosmicznym, obejmująca całą Ziemię i wnętrza budynków.",
+   "cytat": "Sieć geobiologiczna obejmuje całą ziemię na podobieństwo siatki geograficznej, a szerokość jej linii zawiera się w granicach 12-20 cm.",
+   "dziedzina": "geologia"
+  },
+  {
+   "teza": "Dawniej budowano domy zgodnie ze stronami świata, aby ograniczyć zagęszczenie linii siatki geobiologicznej w wnętrzu.",
+   "cytat": "Teraz wiadomo, dlaczego najstarsze budynki (oczywiście nie wszystkie) sytuowano na kierunku północ-południe.",
+   "dziedzina": "historia"
+  },
+  {
+   "teza": "Organ znajdujący się najdłużej na węźle siatki zachoruje; przed siecią geobiologiczną nie chronią żadne ekrany, trzeba unikać takich miejsc.",
+   "cytat": "Nie ma ochrony. Tu nie pomagają nawet żadne ekrany, odpromienniki czy neutralizatory radiestezyjne.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Przedmioty z naturalnych materiałów, zwłaszcza drewna, nie zubażają powietrza w ładunki ujemne, a syntetyki szkodzą.",
+   "cytat": "Przedmioty drewniane i wykonane z innych surowców naturalnych nie zubożają powietrza o ujemne ładunki elektryczne i nie zmieniają pola energetycznego w środowisku.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Obecność cieku wodnego pod mieszkaniem można wykryć domowym testem z zawiesiną kredy w wodzie, która dłużej się klaruje.",
+   "cytat": "W miejscach, pod którymi są cieki wodne, osad klaruje przez kilka godzin, a czasem woda jest cały czas mętna, mieszana przez energię cieku.",
+   "dziedzina": "geologia"
+  },
+  {
+   "teza": "Głazy wmurowywane w narożniki dawnych budowli miały świadomie neutralizować promieniowanie podziemnych żył wodnych.",
+   "cytat": "To nie są ozdoby, ani brak materiału. To świadome działanie w celu zlikwidowania promieniowania podziemnych żył wodnych.",
+   "dziedzina": "historia"
+  },
+  {
+   "teza": "Organizacje ekologiczne są według autora bojówkami do wynajęcia, zwalczającymi konkurencję dla pieniędzy.",
+   "cytat": "Sądzę, że wszelkie organizacje ekologiczne ze słynnym \"Zielonym Pokojem\" na czele, to nic innego, jak bojówki do wynajęcia przez określone grupy do zwalczania niewygodnej konkurencji, przy okazji zgarniające dla siebie niemałe pieniądze.",
+   "dziedzina": "polityka"
+  }
+ ],
+ "tematy": ["radiestezja", "strefy geopatyczne", "sieć geobiologiczna", "żyły wodne", "naturalne materiały", "odpromienniki", "zdrowie w domu", "wiedza ludowa"],
+ "osoby": ["Adolf Januszewski"],
+ "miejsca": [],
+ "okresy": [],
+ "zrodla_cytowane": ["Adolf Januszewski – prace o radiestezji i energii kształtów"]
+}

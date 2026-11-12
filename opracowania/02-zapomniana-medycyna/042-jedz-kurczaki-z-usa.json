@@ -1,0 +1,56 @@
+{
+  "id": "medalt/kurcze",
+  "tytul": "Jedz kurczaki z USA",
+  "streszczenie": "Tekst łączy dwa przedruki. Pierwszy, Mariana Burrosa z The New York Times, opisuje legalne podawanie arszeniku kurczakom w USA i badanie, które wykryło go w próbkach mięsa z supermarketów i fast foodów, oraz twierdzi, że dawka arszeniku nigdy nie jest całkiem bezpieczna. Drugi (Hanna Shen) dotyczy chińskiej żywności: barwienia zgniłych owoców i warzyw, sudanu w zupkach i przemycania chińskich owoców na rynek UE jako polskich. Redaktor strony kończy ironicznymi uwagami o fast foodach i cenach chińskich zupek.",
+  "tezy": [
+    {
+      "teza": "Arszenik jest w USA legalnie podawany kurczakom jako środek na pasożyty i pobudzający wzrost.",
+      "cytat": "W Stanach Zjednoczonych arszenik - jako środek zabijający pasożyty i wpływający na wzrost - podaje się całkiem legalnie kurczakom.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Według wielu specjalistów nie ma bezpiecznej dawki arszeniku, który jest rakotwórczy i powoduje inne choroby.",
+      "cytat": "Zdaniem wielu specjalistów nie ma takiej dawki arszeniku, którą można by uznać za bezpieczną.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Spożycie kurczaków rosło, a dopuszczalny poziom arszeniku nie zmienił się od dziesięcioleci, co zwiększa narażenie.",
+      "cytat": "W roku 1960 statystyczny Amerykanin zjadał 12,7 kilograma kurczaków rocznie. W ubiegłym roku przypadło 39,46 na osobę.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Badanie próbek kurczaków z supermarketów i fast foodów wykazało arszenik w produktach większości firm; żaden z kurczaków z fast foodów nie był wolny od trucizny.",
+      "cytat": "Żaden z kurczaków zakupionych w fast foodach nie był wolny od trucizny, ale u niektórych stwierdzono jedynie śladowe ilości.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Wnioski z badania są wstępne ze względu na małą liczbę próbek.",
+      "cytat": "Wnioski z raportu instytutu nie są ostateczne ze względu na niewielką ilość zbadanych próbek.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Część chińskiej żywności jest barwiona rakotwórczymi lub zakazanymi barwnikami, m.in. sudanem.",
+      "cytat": "Najbardziej drastycznym przypadkiem jest stosowanie syntetycznego barwnika sudan (zakwalifikowanego przez Międzynarodową Agencję Badania Raka jako związek rakotwórczy) do barwienia papryki chili i zupek błyskawicznych.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Zgniłe owoce w Chinach są płukane w detergentach i barwnikach i ponownie sprzedawane.",
+      "cytat": "Zgniłe jabłka i pomarańcze są m.in. płukane w detergentach i barwnikach.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Chińskie owoce są mieszane w polskich zakładach z polskimi i sprzedawane na rynku UE jako polskie, a Unia przymyka oko ze względu na cenę.",
+      "cytat": "chińskie owoce bardzo często wjeżdżają na unijny obszar celny poprzez działające na terenie Polski zakłady, które mieszają chińskie owoce z polskimi truskawkami czy polski koncentrat jabłkowy z chińskim i sprzedają na unijnym rynku jako produkty polskie.",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["arszenik", "drób", "fast food", "chińska żywność", "barwniki spożywcze", "import żywności", "sudan", "bezpieczeństwo żywności"],
+  "osoby": ["Marian Burros", "Richard Lobb", "Ted Schettler", "Paul Mushak", "David Wallinga", "Tamar Lasky", "Hanna Shen", "Tse-Yan Alexander Lee", "Anna Malinowska", "Mirosław Maliszewski"],
+  "miejsca": ["USA", "Chiny", "Hongkong", "Polska", "Unia Europejska"],
+  "okresy": [
+    { "kiedy": "1960", "co": "statystyczny Amerykanin zjadał 12,7 kg kurczaków rocznie" },
+    { "kiedy": "2004", "co": "Departament Rolnictwa USA uznał, że założenia co do dawek arszeniku w mięsie kurzym wymagają weryfikacji" },
+    { "kiedy": "wrzesień 2003 - maj 2004", "co": "Chiny sprzedały do UE ok. 40 tys. ton mrożonych truskawek" }
+  ],
+  "zrodla_cytowane": ["Marian Burros – Kurczak z arszenikiem (The New York Times)", "Hanna Shen – Żywność ulepszana chemią (Nasz Dziennik)", "Tse-Yan Alexander Lee – Jedzenie z piekła (Internetowe Czasopismo Toksykologiczne)"]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "blazenada/zarty",
+  "tytul": "Uczona błazenada",
+  "streszczenie": "Satyryczny zbiór krótkich felietonów, w których autor wyśmiewa wybrane (zwykle zanonimizowane) hipotezy naukowców i popularyzatorów: o budowie piramid, rzeźbieniu głów olmeckich, pochodzeniu wody na Ziemi z komet, ewolucji, znakach z Nazca, Stonehenge, hobbicie z Flores czy chodzeniu Jezusa po wodzie. Autor zestawia je z własnymi wyliczeniami i pytaniami technicznymi, pokazując, że wiele oficjalnych wyjaśnień jest nieprzemyślanych lub niedorzecznych. Tekst ma charakter ironiczny i jest pisany lekkim, żartobliwym językiem, a wnioskiem jest krytyka współczesnej nauki jako kosztownej i oderwanej od zdrowego rozsądku.",
+  "tezy": [
+    {
+      "teza": "Autor zbiera przykłady naukowych wypowiedzi, by pokazać „naukowe” podejście do problemów, nie po to, by kogoś piętnować.",
+      "cytat": "Poszukuję tych \"szlachetnych kamyczków\", by pokazać czym trudzą się niektórzy niosący kaganek oświaty.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Egiptologiczne wyjaśnienia budowy piramid (kołyska do unoszenia bloków, transport bloków między łodziami) pomijają kluczowe pytania techniczne i logistyczne.",
+      "cytat": "Hipoteza wygląda na więcej niż bardzo roboczą, bowiem pan profesor nie wspomina - W jaki sposób dźwigano i układano blok na kołysce?",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Hipoteza o transporcie bloków do Gizy pomiędzy dwoma łodziami jest niewykonalna ze względu na wyporność, liny i tempo dostaw.",
+      "cytat": "Jaką wyporność musiały mieć te łodzie? Kto i z czego w Egipcie wytwarzał tak doskonałe i wytrzymałe liny?",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Eksperyment telewizyjny pokazał, że rzeźbienie głowy olmeckiej z andezytu kamiennymi narzędziami jest praktycznie niewykonalne w krótkim czasie.",
+      "cytat": "W pierwszym dniu zużył cały zestaw narzędziowy nie wykonawszy nawet zadrapania.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Rachunek ilości wody na Ziemi pokazuje, że teoria o jej kometarnym pochodzeniu wymagałaby niewyobrażalnie częstych uderzeń komet i jest niedorzeczna lub myli skutek z przyczyną.",
+      "cytat": "Albo hipoteza jest lekko niedorzeczna albo matematyki nie wolno stosować w astronomii, jednak najbardziej prawdopodobne jest pomieszanie skutku z przyczyną.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Interpretacje oparte na skojarzeniach seksualnych (np. Stonehenge jako model kobiecych narządów) wynikają ze zboczenia zawodowego badacza.",
+      "cytat": "Czy zboczenie zawodowe nie jest przesłanką do skierowania na przymusowe badania u lekarzy specjalnej troski?",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Wyjaśnienia ewolucyjne tworzone ad hoc (np. karłowatość hobbita z Flores) wymagają założenia, że ewolucja zatrzymała się na prawie milion lat.",
+      "cytat": "Czyli jak rozumiem, w tym przypadku ewolucja wstrzymała oddech na prawie milion lat.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Wyjaśnienie, że Jezus chodził po lodzie na Jeziorze Genezaret, jest sprzeczne z treścią relacji ewangelicznych i świadczy o naukowej arogancji.",
+      "cytat": "Czy to jeszcze uczona głupota, czy już naukowa pycha i arogancja w czystej formie? Czy ten \"amerykancki\" profesor choć raz przeczytał wersety Testamentu?",
+      "dziedzina": "religia"
+    },
+    {
+      "teza": "Autor przytacza, że w latach 20. XX w. Stalin zlecił próby stworzenia superwojownika przez krzyżowanie człowieka z szympansem, które zakończyły się niepowodzeniem.",
+      "cytat": "W połowie lat 20-tych Józef Stalin zwrócił się do wybitnego biologa i twórcy metody sztucznego zapładniania koni, Ilii Iwanowa, z rozkazem stworzenia superwojownika.",
+      "dziedzina": "historia"
+    }
+  ],
+  "tematy": ["krytyka nauki", "satyra", "budowa piramid", "głowy olmeckie", "pochodzenie wody na ziemi", "ewolucja", "darwinizm", "stonehenge", "hobbit z flores", "znaki z nazca", "malta", "palenque"],
+  "osoby": ["Erich von Däniken", "Albert Einstein", "Archimedes", "Karol Darwin", "Józef Stalin", "Ilja Iwanow", "Desmond Morris", "Doron Nof", "Mikołaj Kopernik", "Stanisław Tym", "Simon B. (geochemik)", "Marek Karolkiewicz", "Waldemar Stelmach", "Nicholas Mulcahy", "Josep Call"],
+  "miejsca": ["Giza", "La Venta", "Ollantaytambo", "Nazca", "Palenque", "Stonehenge", "Malta", "Flores", "Jezioro Genezaret", "Loch Ness", "Xihuangbanna"],
+  "okresy": [
+    { "kiedy": "2003–2004", "co": "Odkrycie szczątków Homo floresiensis na wyspie Flores." },
+    { "kiedy": "1926", "co": "Biuro Polityczne ZSRR zleca stworzenie „żywej maszyny wojennej”; Iwanow wyjeżdża do Afryki." },
+    { "kiedy": "1932", "co": "Śmierć Ilji Iwanowa w Kazachstanie." },
+    { "kiedy": "3600–2500 p.n.e.", "co": "Według cytowanych autorów powstanie prehistorycznych świątyń na Malcie." },
+    { "kiedy": "10 000 p.n.e.", "co": "Według artykułu prasowego wymarcie mamutów." }
+  ],
+  "zrodla_cytowane": ["Erich von Däniken – Oczy Sfinksa. Tajemnice piramid", "Erich von Däniken – Czy się myliłem? Nowe wspomnienia z przyszłości", "Peter J., Nick T. – Niewyjaśnione tajemnice przeszłości... jak było naprawdę?", "Waldemar Stelmach – Jak wlec owcę po betonie", "New Scientist", "Nature", "Głos Wielkopolski"]
+}

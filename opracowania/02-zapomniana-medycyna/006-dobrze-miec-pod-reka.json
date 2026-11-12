@@ -1,0 +1,62 @@
+{
+  "id": "medalt/podreka",
+  "tytul": "Dobrze mieć \\\"pod reką\\\"",
+  "streszczenie": "Tekst jest zbiorem domowych sposobów leczenia i profilaktyki, które autor proponuje jako uzupełnienie standardowej domowej apteczki. Najwięcej miejsca zajmuje ocet jabłkowy (przepis na jego wykonanie i lista dolegliwości, na które ma pomagać), a dalej kwas buraczany, domowy kefir, ssanie oleju słonecznikowego, sproszkowane skorupki jaj i przegląd przypraw o właściwościach trawiennych i leczniczych. Autor twierdzi, że leki naturalne działają wolno, ale systematycznie, i mają zastępować lub wspierać chemiczne leki. Powołuje się na ludową medycynę, o. Grande, dr Górnicką i własne dobre wyniki badań kości.",
+  "tezy": [
+    {
+      "teza": "Ocet jabłkowy skutecznie zapobiega i leczy wiele różnych chorób.",
+      "cytat": "Ocet jabłkowy działa profilaktycznie i leczniczo w przypadku wielu chorób.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Szereg objawów (zimne kończyny, skurcze, zaparcia, bezsenność, bóle stawów) świadczy o niedoborze potasu, który uzupełnia ocet jabłkowy.",
+      "cytat": "to znaczy, że mamy niedobór potasu, a w tym może pomóc ocet jabłkowy.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Ocet jabłkowy zakwasza krew i obniża ciśnienie tętnicze, a zbyt zasadowa krew gęstnieje i sprzyja zakrzepom.",
+      "cytat": "Ocet jabłkowy zakwasza krew i wyrównuje ciśnienie tętnicze (obniża je).",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Ssanie oleju słonecznikowego w ustach usuwa z organizmu toksyny zawarte w ślinie.",
+      "cytat": "Toksyny znajdujące się w ślinie \"przechodzą\" do oleju i jest on skondensową mieszaniną trucizn.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Sproszkowana skorupka jajka leczy osteoporozę, jest dobrze przyswajalna i usuwa z organizmu pierwiastki promieniotwórcze.",
+      "cytat": "Skorupka jajka nie tylko wzmacnia tkankę kostną ale także usuwa z organizmu pierwiastki promieniotwórcze.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Czosnek działa doustnie jak najlepszy antybiotyk i obniża ciśnienie krwi.",
+      "cytat": "i w tym charakterze zażywany doustnie spisuje się jak najlepszy antybiotyk, ponadto działa wykrztuśnie i przeciwrobaczo.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Skórka cytryny należy do nielicznych środków obniżających ciśnienie w sposób leczniczy, a nie tylko objawowy.",
+      "cytat": "Skórka cytryny (żółta i biały miąższ) należy do nielicznej grupy środków obniżających ćiśnienie krwi w sposób leczniczy, a nie wyłącznie objawowy.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Domowy kefir odnawia florę bakteryjną jelit i pomaga w leczeniu owrzodzeń przewodu pokarmowego.",
+      "cytat": "Pity szklankę dziennie kefir doskonale odnawia naszą florę bakteryjną w jelitach, poprawia trawienie i jest bardzo pomocny w leczeniu owrzodzenia układu pokarmowego.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Ziarno dyni jest bezpiecznym i najlepszym w naszym klimacie środkiem przeciw tasiemcowi.",
+      "cytat": "Ziarno jest najlepszym środkiem przeciwrobaczym w naszym klimacie przeciw soliterowi (tasiemcowi), tak bezpieczne, że można je podawać nawet dzieciom.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Według ludowej medycyny światło księżyca wywołuje lęki, a słoneczne – zadowolenie, dlatego kurację na lęki zaczyna się od nowiu.",
+      "cytat": "ludowa medycyna uważa światło księżyca za powodujące lęki, w odróżnieniu od światła słonecznego powodującego zadowolenie.",
+      "dziedzina": "inne"
+    }
+  ],
+  "tematy": ["ocet jabłkowy", "medycyna ludowa", "domowa apteczka", "niedobór potasu", "ssanie oleju", "skorupki jaj", "przyprawy lecznicze", "kefir", "profilaktyka"],
+  "osoby": ["Hipokrates", "prof. Jarwis", "doktor Górnicka", "ojciec Grande", "Irena Gumowska"],
+  "miejsca": [],
+  "okresy": [],
+  "zrodla_cytowane": ["Irena Gumowska – Czy wiesz co jesz?"]
+}

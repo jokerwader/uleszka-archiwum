@@ -1,0 +1,38 @@
+{
+  "id": "04chrono/chronos",
+  "tytul": "Chronologia",
+  "streszczenie": "Autor zestawia starożytne rachuby czasu (listy królów sumeryjskich i egipskich, Herodot, Diodor, Platon, kalendarze Mezoameryki, indyjskie Yugi) i twierdzi, że sięgają one dziesiątek i setek tysięcy lat, a więc znacznie dalej niż oficjalna historia. Na tej podstawie buduje własną chronologię: przybycie cywilizacji Bogów ok. 450 tys. lat temu, potop ok. 37 tys. lat temu, ostatni kataklizm ok. 12,5 tys. lat temu, po którym ludzie zostali sami. Porównuje biblijny opis stworzenia z podziałem naukowym, krytykuje darwinizm i metody datowania, popiera hipotezy Sitchina o Tiamat oraz przedstawia własny podział dziejów Ziemi na pięć epok. Przytacza też znaleziska „nie na swoim miejscu” jako dowód obecności istot rozumnych w bardzo dawnych warstwach.",
+  "tezy": [
+    { "teza": "Oficjalna teoria liniowego rozwoju cywilizacji została podważona przez odkrycia takie jak piramidy w Gizie, Machu Picchu czy Mykeny.", "cytat": "Wszystko szło dobrze po myśli nauki, dopóki jakiegoś dociekliwego nie zainteresowały piramidy w Giza, inny nie odnalazł Machu Picchu, jeszcze inny Myken itd.", "dziedzina": "archeologia" },
+    { "teza": "Starożytni operowali wiekami rzędu dziesiątek i setek tysięcy lat, bo wiedzę tę otrzymali, a nie wymyślili.", "cytat": "Jak widać starożytni nie bali się operować wiekiem sięgającym dziesiątek i setek tysięcy lat wstecz. Jest chyba logiczne, że wiedza ta została im dana.", "dziedzina": "historia" },
+    { "teza": "Potop sumeryjski/biblijny miał miejsce ok. 37 tys. lat temu, czyli 24,5 tys. lat przed ostatnim kataklizmem.", "cytat": "Wnioskuję z tego, że przekaz o potopie mógł powstać 24,5 tysiąca lat przed ostatnim kataklizmem. Stąd 24,5+12,5=37 tysięcy lat temu.", "dziedzina": "historia" },
+    { "teza": "Egipska chronologia z półbogami jest spójna, a potop sprzed 12,5 tys. lat mógł przerwać ich rządy.", "cytat": "Według mnie chronologia ta wygląda dość logicznie i jest dosyć spójna. Wynikałoby z tego, że hipotetyczny potop sprzed 12,5 tysiąca lat mógł przerwać panowanie półbogów", "dziedzina": "historia" },
+    { "teza": "Cywilizacja Bogów przybyła na Ziemię ok. 450 tys. lat temu, by ją eksplorować, i stworzyła istoty pomocnicze.", "cytat": "Cywilizacja Bogów pojawia się na Ziemi (w Afryce lub na Bliskim Wschodzie) około 450 tysięcy lat temu celem jej eksploracji.", "dziedzina": "historia" },
+    { "teza": "Człowiek nie musiał sam wynajdywać narzędzi, ognia czy koła, bo mógł je otrzymać od Bogów.", "cytat": "Jak widać człowiek wcale nie musiał wynaleźć łuku, wymyśleć koła i nie musiał się uczyć krzesania ognia. Człowiek to wszystko mógł otrzymać.", "dziedzina": "historia" },
+    { "teza": "Po ostatnim kataklizmie Bogowie już odeszli i od tego momentu należy liczyć samodzielny postęp ludzki, który trwa ponad 12 tys. lat.", "cytat": "Ludzie zostali sami i od tego czasu należy liczyć ludzki postęp techniczny i naukowy.", "dziedzina": "historia" },
+    { "teza": "Teoria Darwina wyrządziła nauce ogromne szkody, bo upowszechniono ją propagandą i naciągniętymi dowodami.", "cytat": "Teoria Darwina wyrządziła tyle szkód w nauce co Święta Inkwizycja w mrokach średniowiecza.", "dziedzina": "biologia" },
+    { "teza": "Sumeryjska Tiamat krążyła między Marsem a Jowiszem w miejscu pasa planetoid i została rozbita w kosmicznej katastrofie.", "cytat": "Według Sumerów praZiemia (sumeryjska Tiamat) krążyła po orbicie między Marsem a Jowiszem w miejscu, gdzie dziś rozciąga się pas planetoid.", "dziedzina": "astronomia" },
+    { "teza": "Woda na Ziemi i komety mogą pochodzić z rozbitej Praziemi, a nie z kolizji z licznymi kometami.", "cytat": "Może jednak rację mają Sumerowie? Może komety to jednak części Praziemi i zawarta w nich woda pochodzi z niej samej?", "dziedzina": "astronomia" },
+    { "teza": "Datowanie izotopem węgla i geologiczne oznaczanie wieku znalezisk są nieadekwatne dla dawnych epok.", "cytat": "Badanie izotopem węgla jest całkowicie nieprzydatne w badaniach czasu powyżej 5 tysięcy lat.", "dziedzina": "geologia" },
+    { "teza": "Nauka sama przyznaje, że czasu na ewolucję od małpy do człowieka jest za mało, co autor uznaje za argument za „stworzeniem” człowieka.", "cytat": "Sama nauka jest zgodna, że na ewolucję od małpy do istoty myślącej jest za mało czasu.", "dziedzina": "biologia" }
+  ],
+  "tematy": ["chronologia", "listy królów", "cywilizacja bogów", "potop", "sumerowie", "egipt", "kalendarze mezoameryki", "yugi indyjskie", "tiamat i marduk", "krytyka darwinizmu", "biblijne stworzenie", "znaleziska nie na miejscu", "most adama"],
+  "osoby": ["Diodor Sycylijski", "Maneton", "Herodot", "Platon", "Solon", "Zecharia Sitchin", "L. C. Vincent", "Menes", "Amasis", "Tatunca Nara", "Erich von Däniken", "dr Kiessling", "Darwin", "Charles Hapgood", "Zahi Hawass", "Quetzalcoatl", "Marduk", "Tiamat", "Wegener", "Schliemann", "Alulim", "Ubar-Tutu", "Ziusudra", "Dionizos", "Herakles", "Rama", "Budda", "Wisznu", "Kronos", "Zeus", "Ozyrys", "Set"],
+  "miejsca": ["Eridu", "Kisz", "Suruppak", "Egipt", "Heliopolis", "Teby", "Sais", "Abydos", "Giza", "Teotihuacan", "Tiahuanaco", "Akakor", "Most Adama (cieśnina Palk)", "Sri Lanka", "Troja", "Atlantyda", "Antelope Springs (Utah)", "Palluxy River", "Mount Vernon", "Transwal", "Mezopotamia", "Indie", "Ameryka Środkowa"],
+  "okresy": [
+    { "kiedy": "473 000 lat do wyprawy Aleksandra", "co": "Według Diodora tyle lat Chaldejczycy mieli badać niebo." },
+    { "kiedy": "456 000 lat", "co": "Łączny czas rządów dziesięciu królów sprzed potopu według listy WB 444." },
+    { "kiedy": "24 510 lat", "co": "Łączny czas rządów 23 królów po potopie według WB 444." },
+    { "kiedy": "5621 p.n.e.", "co": "Początek panowania Menesa według Vincenta." },
+    { "kiedy": "ok. 12,5 tys. lat temu", "co": "Ostatni wielki kataklizm; kres rządów półbogów i początek ludzkiego postępu." },
+    { "kiedy": "ok. 37 tys. lat temu", "co": "Potop sumeryjski/biblijny według obliczeń autora." },
+    { "kiedy": "ok. 55 tys. lat temu", "co": "Alternatywna data potopu według liczenia na podstawie Sitchina." },
+    { "kiedy": "ok. 450 tys. lat temu", "co": "Przybycie Bogów i początek ich pracy według Sitchina i autora." },
+    { "kiedy": "ok. 290–140 tys. lat temu", "co": "Czas pramatki ludzkości według genetyków; stworzenie rozmnażającego się człowieka." },
+    { "kiedy": "15 tys. p.n.e.", "co": "Czas życia Dionizosa, ostatniego Boga według Greków." },
+    { "kiedy": "10481 p.n.e.", "co": "Według Kroniki Akakor bogowie opuszczają Ziemię (godzina zero)." },
+    { "kiedy": "ok. 4,5 do 4 mld lat temu", "co": "Według autora epoka destrukcji: kosmiczna katastrofa z udziałem Praziemi." },
+    { "kiedy": "535 mln lat temu", "co": "Wielki wybuch biologiczny według nauki; autor wiąże go z epoką tworzenia." }
+  ],
+  "zrodla_cytowane": ["Diodor Sycylijski – Biblioteka historyczna", "Babilońska lista królów WB 444", "Maneton – listy królów Egiptu", "Papirus Turyński", "Kamień z Palermo", "Herodot – Dzieje", "Platon – Kritias", "Codex Rios", "Codex Watykańsko-Łaciński", "Kronika Akakor", "Purana i Vymaanika-Shaastra", "Ramajana", "Biblia – Księga Rodzaju", "Zecharia Sitchin – teksty o Nibiru, Tiamat i Marduku", "Erich von Däniken – o Kodeksie Drezdeńskim"]
+}

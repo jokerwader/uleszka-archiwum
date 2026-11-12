@@ -1,0 +1,55 @@
+{
+  "id": "antypol/perol",
+  "tytul": "Zgnoić rolnika",
+  "streszczenie": "Tekst oparty na przedruku komentarza Filipa Adwenta do wypowiedzi wiceministra Zbigniewa Witkowskiego z maja 2005 roku, który ujawnił istnienie ekspertyzy Banku Światowego dla Polski. Według ekspertyzy ok. 2 mln rolników miałoby sprzedać ziemię i trafić do miast jako siła robocza. Autor twierdzi, że to dowód na zaplanowaną likwidację polskiego rolnictwa przez instytucje ponadnarodowe i Unię Europejską. Wzywa do odrzucenia eurokonstytucji i ostrzega, że ziemię wykupią cudzoziemcy, a bezrobocie wzrośnie.",
+  "tezy": [
+    {
+      "teza": "Ekspertyza Banku Światowego proponuje wykup ziemi od biednych rolników i skierowanie ich do pracy w miastach.",
+      "cytat": "Otóż eksperci Banku proponują radykalne rozwiązanie problemu poprzez wykup ziemi od biednych rolników i skierowanie ich do miast, jako siły roboczej do zagospodarowania.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Wypowiedź wiceministra dowodzi, że zaplanowano zagładę polskiego rolnictwa i wsi.",
+      "cytat": "Nieopatrzna wypowiedź Podsekretarza Stanu, ujawniająca istnienie haniebnej ekspertyzy Banku Światowego, jest kolejnym dowodem na to, że zaplanowano zagładę polskiego rolnictwa i polskiej wsi.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Bank Światowy, WTO i Unia Europejska służą globalizacji kosztem ludzi.",
+      "cytat": "Nikt nie może już zaprzeczyć, że Bank Światowy i podobne instytucje ponadnarodowe lub międzynarodowe jak Światowa Organizacja Handlu, Unia Europejska itd. nie są niczym innym, jak machinami do miażdżenia ludzi w imieniu fanatycznej koncepcji globalizacji.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Po wejściu do Unii Polska utraciła suwerenność i nie może sama decydować o rolnictwie.",
+      "cytat": "Tak się dzieje, bo Polska nie jest już wolna. Tak się dzieje, bo wchodząc do Unii Europejskiej, Polska straciła swoją suwerenność i swój honor.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Przewidywanie: ziemię polskich rolników wykupią cudzoziemcy i banki, ale nie Polacy.",
+      "cytat": "Kto ją kupi? Niemcy? Holendrzy? Duńczycy? Banki? Prawdopodobnie wszyscy po trochę... oczywiście z wyjątkiem Polaków.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Według wzorców unijnych w Polsce ma pozostać tylko 3-4 procent farmerów.",
+      "cytat": "Musi mieć góra 3-4% farmerów - już nie rolników. Tak jak w Unii.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Przewidywanie: bezrobocie, wynoszące wówczas 20 procent, może jeszcze wzrosnąć do 40 lub 50 procent.",
+      "cytat": "Polska liczy obecnie 20% bezrobotnych. Ilu będzie ich w końcu musiała liczyć, aby zadowolić środowiska globalistyczne? 40%? 50%? Więcej?",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Eurokonstytucja dałaby jeszcze większą władzę bankierom i komisarzom, więc należy ją odrzucić.",
+      "cytat": "Obdarzyłaby ona jeszcze większymi uprawnieniami tę klikę bankierów i komisarzy, którzy za nic mają prawa człowieka i decydują o prawdziwych deportacjach.",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["rolnictwo", "bank światowy", "unia europejska", "suwerenność", "globalizacja", "bezrobocie", "eurokonstytucja", "wieś"],
+  "osoby": ["Zbigniew Witkowski", "Piotr Krutul", "Marianne Fischer Boel", "Filip Adwent", "Andrzej Lepper"],
+  "miejsca": ["Polska", "Bruksela", "Warszawa"],
+  "okresy": [
+    { "kiedy": "12 maja 2005", "co": "Faks wiceministra Witkowskiego do Naszego Dziennika, w którym ujawnił ekspertyzę Banku Światowego." },
+    { "kiedy": "1989", "co": "Według dopisku na końcu tekstu rok, w którym Targowica sprzedała naród okruchom z pańskiego stołu." }
+  ],
+  "zrodla_cytowane": ["Zbigniew Witkowski – faks do Naszego Dziennika z 12 maja 2005 r.", "Filip Adwent – komentarz do wypowiedzi wiceministra", "Bank Światowy – ekspertyza dotycząca polskiego rolnictwa (opisana w faksie)"]
+}

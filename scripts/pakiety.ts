@@ -45,4 +45,27 @@ archiwum.dzialy.forEach((dzial, i) => {
 });
 copyFileSync("KATALOG.md", `${WYJSCIE}/00-katalog.md`);
 
+// opracowania AI wszystkich artykułów w jednym pliku – szybki przegląd całego archiwum
+const opr: string[] = [
+  "# Archiwum uleszka.net – opracowania artykułów",
+  "",
+  "Streszczenia, główne tezy autora (z dosłownymi cytatami), tematy, osoby, miejsca i daty dla każdego artykułu.",
+  "UWAGA: opracowania przygotowała AI (Claude); nie są częścią oryginalnej strony. Każdy cytat sprawdzono automatycznie – występuje w artykule dosłownie.",
+  "",
+];
+for (const a of archiwum.artykuly) {
+  const o = archiwum.opracowania.get(a.id);
+  if (!o || (!o.tezy.length && o.streszczenie.length < 140)) continue;
+  opr.push(`## OPRACOWANIE: ${a.tytul}`, `id: ${a.id} | dział: ${a.dzial}`, "", `Streszczenie: ${o.streszczenie}`);
+  if (o.tezy.length) opr.push("", "Tezy:", ...o.tezy.map((t, i) => `${i + 1}. ${t.teza} (${t.dziedzina}) – cytat: „${t.cytat}”`));
+  if (o.tematy.length) opr.push("", `Tematy: ${o.tematy.join(", ")}`);
+  if (o.osoby.length) opr.push(`Osoby: ${o.osoby.join(", ")}`);
+  if (o.miejsca.length) opr.push(`Miejsca: ${o.miejsca.join(", ")}`);
+  if (o.okresy.length) opr.push(`Daty: ${o.okresy.map((x) => `${x.kiedy} – ${x.co}`).join("; ")}`);
+  if (o.zrodla_cytowane.length) opr.push(`Źródła cytowane: ${o.zrodla_cytowane.join("; ")}`);
+  opr.push("", "---", "");
+}
+writeFileSync(`${WYJSCIE}/06-opracowania.md`, opr.join("\n"), "utf8");
+console.log(`${WYJSCIE}/06-opracowania.md: ${Math.round(opr.join("\n").length / 1000)} tys. znaków`);
+
 for (const p of pliki) console.log(`${p.plik}: ${p.n} stron, ${Math.round(p.znaki / 1000)} tys. znaków`);

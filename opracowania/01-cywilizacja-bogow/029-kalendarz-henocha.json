@@ -1,0 +1,65 @@
+{
+  "id": "henoch/henoch",
+  "tytul": "Kalendarz Henocha",
+  "streszczenie": "Autor analizuje astronomiczną część Księgi Henocha, interpretując „widzenia” jako relacje naocznego świadka, a aniołów ze „skrzydłami” jako opis latających urządzeń. Przytacza fragmenty o drodze Słońca przez sześć bram i dochodzi do wniosku, że rok sprzed potopu liczył 364 dni, a doba była nieco dłuższa niż dziś. Zmianę długości doby wiąże z „wielkim uskokiem skorupy ziemskiej” zapamiętanym jako potop. Zwraca uwagę, że współczesny projekt kalendarza 364-dniowego jest podobny do kalendarza Henocha, i konkluduje, że bogowie przekazali ludziom tylko wiedzę o Ziemi.",
+  "tezy": [
+    {
+      "teza": "Słowo „widzenie” w Księdze Henocha oznacza raczej relację naocznego świadka niż sen czy wizję.",
+      "cytat": "Ja to odczytuję jako \"naoczny świadek\" widzący coś na własne oczy.",
+      "dziedzina": "religia"
+    },
+    {
+      "teza": "Trzy góry z opisu Henocha mogą nawiązywać do trzech piramid w Gizie.",
+      "cytat": "nie wiem czemu kojarzy mi się z trzema piramidami w Giza.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Aniołowie z Księgi Henocha latali dzięki przypinanym skrzydłom ułożonym na krzyż, co przypomina śmigłowiec.",
+      "cytat": "Skrzydła nie zwisają swobodnie w dół, te skrzydła są ułożone na krzyż. Jak z takimi skrzydłami można latać? Oczywiście, że tylko tak jak śmigłowiec.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Starożytne kalendarze (Henocha, egipski, majowski) znały rzeczywistą długość roku, mimo 360-dniowego rdzenia z dodawanymi dniami.",
+      "cytat": "Podobne kalendarze mieli i Egipcjanie i Majowie, w których na końcu dodawano 5 feralnych dni (w zapiskach Hiszpanów jest wzmianka, że czasem dodawano 6 dni feralnych), stąd wniosek że starożytni doskonale zdawali sobie sprawę z faktycznej długości roku.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Podział doby na części w kalendarzu Henocha (suma 18) wskazuje na system dwudziestkowy, znany m.in. Majom.",
+      "cytat": "Dwudziestkowy system liczenia mieli Majowie, a i dziś jego echa pobrzmiewają w liczebnikach Francuzów i Basków.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Rok przed potopem liczył 364 dni.",
+      "cytat": "Faktycznie należą one do liczby dni roku i wpisane są weń na zawsze, jeden w pierwszej bramie, drugi w trzeciej, trzeci w czwartej, a czwarty w szóstej. Rok kończy się w trzysta sześćdziesiątym czwartym dniu.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Przy dzisiejszym hamowaniu obrotu Ziemi doba 24 godzin i 4 sekund istniałaby 25,6 mln lat temu, więc zmianę wywołał wielki uskok skorupy ziemskiej zapamiętany jako potop.",
+      "cytat": "Sądzę jednak, że zmiana długości doby jest następstwem \"wielkiego uskoku skorupy ziemskiej\", zapamiętanego przez ludzkość jako ogólnoświatowy potop.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Człowiek może być obecny na Ziemi znacznie dłużej niż kilkadziesiąt tysięcy lat, o czym świadczą Wedy i ślady stóp.",
+      "cytat": "Czy jest możliwe, że Henoch żył w tak odległych czasach? Prawdopodobnie nie, choć istnieją poszlaki, że życie człowieka na Ziemi, to nie ostatnie kilkadziesiąt tysięcy lat.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Współczesny projekt reformy kalendarza na 364 dni pokrywa się z kalendarzem Henocha, lecz nie jest wdrażany.",
+      "cytat": "Dlatego projekt do dziś spoczywa w szufladach ONZ w oczekiwaniu na umieszczenie go w porządku obrad.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Bogowie przekazali ludziom tylko wiedzę potrzebną do przeżycia, czyli o Ziemi; badanie kosmosu niczego nie dało.",
+      "cytat": "Ludziom przekazywano tylko tą wiedzę, która była naprawdę potrzebna. A wiedza potrzebna nam, to wiedza o Ziemi.",
+      "dziedzina": "inne"
+    }
+  ],
+  "tematy": ["księga henocha", "kalendarz przedpotopowy", "rok 364 dni", "aniołowie jako piloci", "potop", "wielki uskok skorupy ziemskiej", "astronomia starożytna", "długość doby", "bogowie i wiedza"],
+  "osoby": ["Henoch", "Matuzalem", "Lamech", "Noe", "Uriel", "Marduk", "Pazuzu", "Antoni Opolski", "Zajdler"],
+  "miejsca": ["Giza", "Mezopotamia"],
+  "okresy": [
+    { "kiedy": "przed potopem", "co": "Według Księgi Henocha rok liczył 364 dni, a doba trwała nieco ponad 24 godziny." },
+    { "kiedy": "25,6 mln lat temu", "co": "Według wyliczeń autora (przy dzisiejszym hamowaniu Ziemi) mogła istnieć doba o długości 24 godzin i 4 sekund." }
+  ],
+  "zrodla_cytowane": ["Księga Henocha (Księga astronomiczna)", "Antoni Opolski - Astronomiczne podstawy geografii", "Zajdler - Dzieje zegara"]
+}

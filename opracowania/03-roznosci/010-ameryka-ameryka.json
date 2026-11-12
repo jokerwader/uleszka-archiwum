@@ -1,0 +1,78 @@
+{
+  "id": "zyko/zykowywiad1",
+  "tytul": "Ameryka, Ameryka",
+  "streszczenie": "Przedruk w tłumaczeniu rozmowy prezentera radiowego Daryla Bradforda Smitha z dr Lorraine Day z 21 lipca 2006 roku. Rozmówcy twierdzą, że USA kontrolują organizacje syjonistyczne i lobby żydowskie, wspierane przez ewangelicznych chrześcijan, oraz że ta sama grupa kontroluje medycynę, farmację, media i mafię. Dr Day przypisuje też otępienie społeczeństwa fluorowi, jedzeniu mięsa i telewizji oraz twierdzi, że AIDS i ptasia grypa są sztucznie wytworzone, a szczepionki szkodliwe. W tekście pojawiają się też ostrzeżenia o rzekomym planie wymordowania nie-Żydów i obozach koncentracyjnych w USA. Rozmówcy zachęcają do unikania szczepionek, dbania o zdrowie i rozpowszechniania tych informacji.",
+  "tezy": [
+    {
+      "teza": "Fluor dodawany do wody i past do zębów otępia ludzi i działa jak trucizna.",
+      "cytat": "Fluor ludzi otępia, jest jednym ze składników środków znieczulających, stępia działanie mózgu.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Spożywanie mięsa osłabia pracę płatów czołowych mózgu przez zawarty w nim kwas, co utrudnia racjonalne myślenie.",
+      "cytat": "Spożywanie wołowiny i innych produktów zwierzęcych - zawierają one kwas (racadonic acid), który osłabia pracę płatów czołowych zaburzając w ten sposób umiejętność rozsądnego myślenia.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Oglądanie telewizji wprowadza mózg w stan hipnotyczny rytmu alfa, który omija ocenę krytyczną.",
+      "cytat": "Następnie praca mózgu przechodzi w rytm alfa, który jest rytmem hipnotycznym - obraz wówczas omija płaty czołowe, poprzez co nie można ocenić co jest dobre, a co złe",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Wirus HIV został sztucznie wytworzony w Fort Detrick na zlecenie rządu USA.",
+      "cytat": "Jednak na pewno wirus AIDS był sztucznie wytworzony w Ft. Dietrich w Maryland, mam na to dowód",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Ptasia grypa nie jest chorobą groźną dla ludzi, a planowana szczepionka miałaby zarażać ludzi tą chorobą i innymi.",
+      "cytat": "Oni to będą mieli w szczepionce! Po zaszczepieniu zostaniesz zarażony ptasią grypą, lecz nie będzie to tylko ta choroba",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Epidemię grypy z 1918 roku wywołały szkodliwe szczepionki podawane żołnierzom, a nie sama grypa.",
+      "cytat": "W przypadku każdej epidemii, poczynając od grypy w 1918 r.szkodliwe były naprawdę szczepionki, które stosowano na żołnierzach.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Rak i każda choroba można wyleczyć bez chemioterapii, radioterapii i leków, właściwą dietą i trybem życia.",
+      "cytat": "Udało mi się jednak wyleczyć bez żadnej chemioterapii ani radioterapii czy też operacji. Można się wyleczyć z każdej choroby praktycznie bez lekarstw.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Lobby AIPAC finansuje większość kampanii wyborczych w USA, więc politycy słuchają tylko Żydów.",
+      "cytat": "Około 90% pieniędzy przekazywanych w USA demokratom i 40-50% republikanom, którzy stają do wyborów pochodzi z AIPAC",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Żydzi kontrolują amerykańską medycynę, uczelnie medyczne i finansowanie badań.",
+      "cytat": "Najważniesze jest to, że Żydzi są w posiadaniu prawie całego lecznictwa.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Interwencja USA w Afganistanie miała na celu przejęcie kontroli nad handlem opium przez amerykańskich Żydów.",
+      "cytat": "To właśnie była przyczyna przejęcia kontroli nad Afganistanem, amerykańscy Żydzi zapragnęli kontroli nad przepływem tego narkotyku.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Syjonistyczni liderzy planują wymordowanie wszystkich ludzi, którzy nie są Żydami.",
+      "cytat": "nie zdajesz sobie sprawy że w planie tych żydowskich syjonistów jest wymordowanie wszystkich ludzi, którzy nie są Żydami.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "W USA działają już obozy koncentracyjne dla opozycji, podzielonej na czerwoną i niebieską listę.",
+      "cytat": "W Ameryce są już obozy koncentracyjne dla opozycji sklasyfikowanej według niebieskiej i czerwonej listy.",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["syjonizm", "lobby aipac", "fluor w wodzie", "szczepionki", "aids", "ptasia grypa", "medycyna alternatywna", "telewizja i mózg", "nowy porządek świata", "mafia i narkotyki"],
+  "osoby": ["Lorraine Day", "Daryl Bradford Smith", "John Hagee", "Rosenthal", "McArthur", "Len Horowitz", "Alex Jones", "Eustace Mullins", "Ezra Pound", "Meyer Lansky", "Bugsy Siegel", "Kimberly Bergalis", "Charlie Sheen", "Hillary Clinton", "Pablo Escobar", "Aaron Russo", "Jim Ennis", "Christopher Jon Bjerknes", "Mohammed Atta"],
+  "miejsca": ["Liban", "Palestyna", "Gaza", "Izrael", "Fort Detrick", "Londyn", "Afganistan", "Jerozolima", "Nowy Jork", "San Francisco", "Indonezja", "Malezja"],
+  "okresy": [
+    { "kiedy": "21 lipca 2006", "co": "Data przeprowadzenia rozmowy w audycji French Connection." },
+    { "kiedy": "19 lipca 1969", "co": "Według dr Day podkomisja ds. obrony Kongresu zapytała o możliwość wytworzenia wirusa podobnego do HIV." },
+    { "kiedy": "10 stycznia 1963", "co": "Według dr Day data dokumentu w archiwum Kongresu z planem kontroli psychiatrii i społeczeństwa." },
+    { "kiedy": "1918", "co": "Według dr Day epidemię grypy spowodowały szkodliwe szczepionki podawane żołnierzom." },
+    { "kiedy": "wrzesień lub październik 2006", "co": "Według Smitha władze mogły zacząć zamykać ludzi sprzeciwiających się syjonizmowi." }
+  ],
+  "zrodla_cytowane": ["Protokoły Mędrców Syjonu – cytowane przez dr Day jako dowód kłamstwa syjonistów", "Strona dr Lorraine Day – goodnewsaboutgod.com", "Ustawa Kongresu nr 15090 podkomisji ds. obrony z 19 lipca 1969 r. (wg dr Day)", "Dokumenty Kongresu z 10 stycznia 1963 r. (wg dr Day)"]
+}

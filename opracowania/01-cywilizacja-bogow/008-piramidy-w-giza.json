@@ -1,0 +1,32 @@
+{
+  "id": "07piramidy/piramidy",
+  "tytul": "Piramidy w Giza",
+  "streszczenie": "Autor zestawia relacje arabskich i greckich pisarzy o piramidach, hipotezy Bauvala (układ Oriona) i geologiczne badania Westa i Schocha nad erozją Sfinksa. Wyciąga wniosek, że piramidy i Sfinks są znacznie starsze, niż twierdzi egiptologia, i zostały zbudowane przed potopem w celu zabezpieczenia wiedzy lub jako obiekt techniczny (np. hydrotechniczny), a nie jako grobowce. Proponuje, że kierunki kompleksu zmieniły się wskutek wielkiego uskoku skorupy ziemskiej, a Sfinks mógł być szakalem-Anubisem z później przerzeźbioną głową. Ostro krytykuje Zahiego Hawassa i oficjalną egiptologię za pomijanie dowodów i hamowanie badań.",
+  "tezy": [
+    { "teza": "Starożytne pisma są zgodne, że piramidy zbudowano po to, by zabezpieczyć ówczesną wiedzę.", "cytat": "Pisma starożytnych, po odrzuceniu fantazji autorów, są w zasadzie zgodne. Według nich piramidy zbudowano dla zabezpieczenia ówczesnej wiedzy.", "dziedzina": "historia" },
+    { "teza": "Według cytowanych autorów arabskich piramidy zbudowano przed potopem, bo gdyby powstały później, ludzie by o nich wiedzieli.", "cytat": "Moim zdaniem piramidy mogły zostać zbudowane tylko i wyłącznie przed potopem, ponieważ gdyby zostały zbudowane później, ludzie by o nich wiedzieli.", "dziedzina": "historia" },
+    { "teza": "Układ trzech piramid odpowiada gwiazdozbiorowi Oriona w najniższym położeniu ok. 10450 p.n.e. (hipoteza Bauvala), a po uwzględnieniu uskoku autor wskazuje 13450 p.n.e.", "cytat": "Gwiazdozbiór został nałożony tak, w jaki sposób obserwuje się go spod piramid. Ogólna koncepcja Bouval'a sprawdza się niemal dokładnie.", "dziedzina": "astronomia" },
+    { "teza": "Erozja Sfinksa i jego świątyni wskazuje na długotrwałe opady deszczu, więc Sfinks liczy ponad 10 tys. lat (West i Schoch).", "cytat": "Z jego hipotezy wynika, że Sfinks wraz ze świątynią liczy sobie więcej niż 10 tysięcy lat, a dowody nie natury historycznej a geologicznej.", "dziedzina": "geologia" },
+    { "teza": "Brak śladów deszczowej erozji na piramidach każe wątpić, że wszystkie obiekty kompleksu powstały równocześnie.", "cytat": "Na żadnej z piramid nie ma podobnych śladów, a stanowią dużo większą powierzchnię niż Sfinks.", "dziedzina": "geologia" },
+    { "teza": "Zahi Hawass blokuje badania innych egiptologów, którzy kwestionują wiek Sfinksa.", "cytat": "Wszyscy egiptolodzy myślący inaczej niż on, nie są dopuszczani do badań i bezpardonowo wyganiani z Egiptu", "dziedzina": "społeczeństwo" },
+    { "teza": "Głowa Sfinksa została później przerzeźbiona i nie przedstawia Chefrena.", "cytat": "Wynika to zapewne z tego, że głowa Sfinksa została ponownie wyrzeźbiona w czasach dużo późniejszych", "dziedzina": "archeologia" },
+    { "teza": "Sfinks pierwotnie przedstawiał szakala, strażnika bogów (Anubisa lub Upuaut), a nie lwa.", "cytat": "W otoczeniu Ozyrysa nie spotykamy lwa, spotykamy natomiast szakala i sądzę, że taką właśnie postać miał Sfinks-Anubis, strażnik bogów", "dziedzina": "archeologia" },
+    { "teza": "Żaden egiptolog nie wie, do czego piramidy naprawdę służyły; wersja o grobowcach jest nieudowodniona.", "cytat": "Dowodzi to jednego. Żaden egiptolog nie wie do czego służyły naprawdę.", "dziedzina": "archeologia" },
+    { "teza": "Giza mogła być częścią centrum hydro-energetycznego zarządzającego wodą z jeziora Mojrisa.", "cytat": "Sieć podziemnych kanałów przemawia za moją hipotezą, w której twierdzę, że Giza stanowiła jeden z elementów centrum hydro-energetycznego zarządzającego wodą z jeziora Mojrisa.", "dziedzina": "archeologia" },
+    { "teza": "Uskok skorupy ziemskiej przesunął biegun o ok. 45° i obrócił oś kompleksu Giza, dlatego kierunki piramid należy odczytywać inaczej.", "cytat": "Postawiona tak hipoteza przesuwa siłą rzeczy położenie bieguna północnego aż o 45°, czyli na 30 równoleżnik.", "dziedzina": "geologia" },
+    { "teza": "Nazwy faraonów przypisane piramidom wynikają z fałszerstwa Howarda Vyse'a, które powtarza oficjalna egiptologia.", "cytat": "Jest to ewidentne i nieracjonalne popieranie fałszerstwa, udowodnionego ponad wszelką wątpliwość przez Zecharię Sitchina.", "dziedzina": "archeologia" }
+  ],
+  "tematy": ["piramidy w gizie", "sfinks", "orion i piramidy", "erozja sfinksa", "zahi hawass", "potop", "wielki uskok skorupy ziemskiej", "krytyka egiptologii", "grobowce czy fabryki", "inskrypcje na piramidach"],
+  "osoby": ["Al-Makrisi", "Saurid", "Hermes Trismegistos (Henoch)", "Abu Zaid Al-Balhi", "Muhammad ben Abdallah ben Abd al-Hakam", "Abd-el Latif", "Robert Bauval (Bouval)", "Graham Hancock", "John Anthony West", "Robert Schoch", "Zahi Hawass", "Cheops", "Henutsen", "Chefren", "Pliniusz Starszy", "Strabon", "Herodot", "Zecharia Sitchin", "Howard Vyse", "Davidovits", "Erich von Däniken", "K. Lal Gauri", "Pacal", "Thot", "Ozyrys", "Anubis"],
+  "miejsca": ["Giza", "Kair", "Memfis", "Sakkara", "Heliopolis", "Abusir", "Abu Roasz", "Abydos", "Delfy", "Nemrud Dag", "Wyspa Wielkanocna", "jezioro Mojrisa", "Palenque", "wyspa Akpatok", "Assuan"],
+  "okresy": [
+    { "kiedy": "10450 p.n.e.", "co": "Według Bauvala Orion zajmuje najniższe położenie; piramidy miały powstać nie później niż wtedy." },
+    { "kiedy": "13450 p.n.e.", "co": "Data skorygowana przez autora po uwzględnieniu wielkiego uskoku." },
+    { "kiedy": "12500–9500 p.n.e.", "co": "Okres ulew kończących epokę lodowcową, które według Westa zerodowały Sfinksa." },
+    { "kiedy": "ok. 37 tys. lat temu", "co": "Potop, po którym według autora mogły powstać piramidy lub zostały odkryte." },
+    { "kiedy": "1850", "co": "Znalezienie steli Cheopsa w pobliżu piramidy." },
+    { "kiedy": "1992 i 1993", "co": "Referat Schocha (1992) i ogłoszenie hipotezy Bauvala (1993)." },
+    { "kiedy": "ok. 4500 lat temu", "co": "Oficjalna data budowy piramid przez faraonów IV dynastii." }
+  ],
+  "zrodla_cytowane": ["Al-Makrisi – relacje o piramidach", "Abu Zaid Al-Balhi – o napisie na piramidach", "Muhammad ben Abdallah ben Abd al-Hakam – o piramidach przed potopem", "Abd-el Latif – opis piramid", "Graham Hancock – Ślady palców bogów", "Herodot – Dzieje", "Pliniusz Starszy – Historia naturalna", "Strabon – Geografia", "Zecharia Sitchin – o fałszerstwie Vyse'a", "Erich von Däniken – o teorii Davidovitsa", "Robert Bauval – hipoteza Oriona"]
+}

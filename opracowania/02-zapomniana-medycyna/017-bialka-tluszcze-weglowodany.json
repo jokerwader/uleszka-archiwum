@@ -1,0 +1,42 @@
+{
+  "id": "medalt/grande/kalorie",
+  "tytul": "Białka - Tłuszcze - Węglowodany",
+  "streszczenie": "Strona zawiera krótkie definicje białek, tłuszczów i węglowodanów wraz z ich wartością energetyczną, tabelę dziennego zapotrzebowania na energię według grup osób oraz rozbudowaną tabelę zawartości białek, tłuszczów, węglowodanów i kalorii w 100 g różnych produktów (pieczywo, nabiał, mięsa, warzywa, owoce, alkohol i inne). Dane pochodzą z tabel Kurowskiej. Autor zaznacza, że tabele są orientacyjne i nie zachęca do liczenia kalorii, bo żywność się zmienia, a szybkie chudnięcie jest kwestią żartu o wadze.",
+  "tezy": [
+    {
+      "teza": "Skład ilościowy i jakościowy białek, tłuszczów i węglowodanów decyduje o kondycji organizmu.",
+      "cytat": "W zależności od składu, ilości i jakości możesz wyglądać jak wspaniały pałac lub jak nędzna, byle jak sklecona lepianka.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Białko pełnowartościowe to białko zwierzęce, a gram białka daje 4 kcal.",
+      "cytat": "Białko pełnowartościowe to białko zwierzęce. 1 gram białka dostarcza 4 kcal.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Tłuszcze są pożywieniem wysokokalorycznym (9 kcal na gram), a szczególną wartość mają nienasycone kwasy tłuszczowe.",
+      "cytat": "Szczególną wartość w żywieniu mają nienasycone kwasy tłuszczowe. 1 gram tłuszczu dostarcza 9 kcal.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Cukier biały należy do bisacharydów, a gram węglowodanów dostarcza 4 kcal.",
+      "cytat": "popularny cukier biały, sacharoza, należy do bisacharydów. 1 gram węglowodanów dostarcza 4 kcal.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Nowe trendy żywieniowe, takie jak jedzenie owadów, wchodzą do Europy, a autor odnosi się do nich z dystansem.",
+      "cytat": "W Austrii już jedzą pieczone robactwo, a to zaledwie kilkaset kilometrów od nas.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Tabele wartości odżywczych mają charakter orientacyjny, bo produkty i ich nazwy się zmieniają.",
+      "cytat": "Także wielu potraw lub składników nie uświadczysz już na naszym rynku. Pozmieniały się także ich nazwy. Traktuj tabelkę jako orientacyjną.",
+      "dziedzina": "żywienie"
+    }
+  ],
+  "tematy": ["białka", "tłuszcze", "węglowodany", "kalorie", "tabele wartości odżywczych", "zapotrzebowanie energetyczne", "żywienie"],
+  "osoby": ["Kurowska"],
+  "miejsca": ["Austria"],
+  "okresy": [],
+  "zrodla_cytowane": ["Kurowska – tabele składu i wartości energetycznej produktów (tytuł nie podany)"]
+}

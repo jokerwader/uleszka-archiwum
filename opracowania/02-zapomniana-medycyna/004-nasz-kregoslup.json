@@ -1,0 +1,62 @@
+{
+  "id": "medalt/kregoslup",
+  "tytul": "Nasz kręgosłup",
+  "streszczenie": "Rozdział poradnikowy o kręgosłupie jako fundamencie zdrowia, oparty głównie na zaleceniach prof. Tombaka. Autor opisuje budowę kręgosłupa, twierdzi, że stan ucha odzwierciedla stan kręgów, i przedstawia wykaz zależności między poszczególnymi kręgami a narządami i chorobami (według prof. Aleksandrowicza). Zaleca profilaktykę: twardy materac i poduszka, ruch, właściwa postawa, unikanie zakładania nogi na nogę, wzmacnianie mięśni brzucha. Większą część tekstu zajmują zestawy prostych ćwiczeń (łóżkowe, dywanowe, krzesełkowe, masaże, ćwiczenia „zamków mięśniowych”). Autor podkreśla, że ćwiczenia trzeba wykonywać codziennie, i ostrzega, że manipulowanie kręgosłupem przez amatorów grozi kalectwem.",
+  "tezy": [
+    {
+      "teza": "Kręgosłup jest fundamentem ciała, a jego niszczenie prowadzi do załamania całego organizmu.",
+      "cytat": "Fundamentem naszego ciała jest kręgosłup i nie trudno dojść do wniosku, że gdy fundament zaczyna się rozlatywać, po jakimś czasie zawali się cały dom.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Należy spać na twardym materacu i twardej poduszce, bo miękkie posłanie wygina kręgosłup i szkodzi oddychaniu.",
+      "cytat": "Spać powinniśmy na twardym materacu i na twardej poduszce i do tego na wznak.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Spanie na miękkiej poduszce zmusza do oddychania przez usta, co sprzyja infekcjom bakteryjnym i wirusowym.",
+      "cytat": "zaś spanie na miękkiej poduszce zakłóca proces oddychania przez nos, a oddychanie przez usta jest początkiem inwazji bakterii i wirusów",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Brzeg ucha odzwierciedla stan kręgosłupa; wgniecenia wskazują osłabione odcinki.",
+      "cytat": "Prof. Tombak twierdzi, że stan naszego kręgosłupa odzwieciedla brzeg naszego ucha. Jeśli jest wyraźnie zarysowany, to znaczy, że nasz kręgosłup jest zdrowy.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Zwichnięty kręg uciska nerwy i naczynia, co wywołuje choroby powiązanych z nimi narządów.",
+      "cytat": "Zwichnięty kręg uciska nerwy i naczynia krwionośne, które powiązane są z konkretnymi organami naszego ciała.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Każdy kręg jest powiązany z określonymi organami (np. piersiowe z sercem, płucami i wątrobą), co ma wyjaśniać związek kręgosłupa z chorobami.",
+      "cytat": "Każdy narząd organizmu, pośrednio lub bezpośrednio jest połączony z odpowiednim segmentem rdzenia kręgowego poprzez nerwy obwodowe.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Przemieszczenie kręgów piersiowych wywołuje m.in. astmę, bóle rąk i pleców oraz choroby serca, wątroby i nerek.",
+      "cytat": "Przy przemieszczeniu kręgów piersiowych - astma, kaszel, ciężki oddech, sapanie, bóle rąk (od łokcia w dół), pleców",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Siedzenie z nogą założoną na nogę uciska tętnice i z wiekiem powoduje żylaki i bóle kręgosłupa.",
+      "cytat": "Siedząc nie należy nigdy zakładać nogi na nogę, ponieważ pod kolanami znajdują się dwie duże arterie (tętnice), których ucisk powoduje naruszenie ogólnego krążenia krwi.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Prosty zestaw japońskich ćwiczeń dywanowych daje wysoki procent wyleczeń chorób kręgosłupa; autor testował go na sobie.",
+      "cytat": "Zestaw nr 2 (dywanowy) - japoński, doskonale regenerujący wszystkie układy organizmu, wysoki procent wyleczenia chorób kręgosłupa, przetestował go sam autor uleczając się z dolegliwości kręgosłupa.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Nie ma lekarstwa na kręgosłup poza chirurgią, więc najważniejsza jest codzienna profilaktyka, a samodzielne manipulacje są groźne.",
+      "cytat": "Powyższy wykaz nie upoważnia do wykonywania jakichkolwiek eksperymentów. Nasz kręgosłup w ręku amatora lub pseudokręgarza, to w najlepszym przypadku dożywotnie kalectwo.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["kręgosłup", "profilaktyka", "ćwiczenia", "ruch", "sen", "postawa ciała", "diagnostyka z ucha", "kręgi a narządy"],
+  "osoby": ["Michał Tombak", "J. Aleksandrowicz", "Agnieszka Osiecka"],
+  "miejsca": [],
+  "okresy": [],
+  "zrodla_cytowane": ["Michał Tombak – (zalecenia dotyczące kręgosłupa i zestawy ćwiczeń)", "J. Aleksandrowicz – (wykaz zależności kręgów od narządów)"]
+}

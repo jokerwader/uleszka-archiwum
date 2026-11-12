@@ -1,0 +1,1292 @@
+[
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/mapy/thule.jpg",
+  "typ": "mapa",
+  "opis": "Fragment mapy reliefowej północnej Atlantyku i zachodniej Europy z widocznym dnem oceanu i szelfem kontynentalnym; wg tekstu artykułu: Europa przed kataklizmem (?).",
+  "tekst_na_obrazie": "NORTH, ATLANTIC (częściowo widoczne napisy na mapie, m.in. Great Western Gap)"
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/mapy/brzeg.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zdjęcie satelitarne zachodniej Europy: widoczne Wyspy Brytyjskie, Islandia i Półwysep Iberyjski, część kontynentu nocą z miejskimi światłami; wg tekstu: ten sam rejon z kosmosu.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/mapy/celtowie.jpg",
+  "typ": "mapa",
+  "opis": "Mapa fizyczna Europy ze strzałkami wędrówek Celtów wychodzących z Galii (około 2000 pne) w różnych kierunkach, z podanymi epokami.",
+  "tekst_na_obrazie": "GALIA 2000 pne; Celtowie Szkoccy; Celtowie Irysjscy; Celtowie Waliscy; III w. pne; V w. pne; GALICJA; GALIZJA; Baskowie; Celtiberowie; V-IV w. pne; GALIA; Etruskowie; IV w. pne; III w. pne; II w. pne; GALACJA"
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/mapy/matkieuropy.jpg",
+  "typ": "mapa",
+  "opis": "Mapa Europy z kolorowymi kropkami oznaczającymi rozmieszczenie klanów (potomków siedmiu praMatek Europy wg prof. Sykesa); większe kółka z imionami.",
+  "tekst_na_obrazie": "XENIA; HELENA; KATRINE; VELDA; TARA; URSULA; JASMINE"
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/celtart/dziura.gif",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienny pionowy totem z okrągłym otworem pośrodku, pokryty precyzyjnym ornamentem plecionkowym i zoomorficznym reliefem, przypisywany Celtom.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/celtart/potwor.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienna rzeźba siedzącego, groźnego potwora z otwartą paszczą, pod którym widoczne małe postaci ludzkie; artefakt przypisywany Celtom.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/celtart/bouray.gif",
+  "typ": "rzeźba/relief",
+  "opis": "Brązowa figurka półpostaci ludzkiej (popiersie z odciętymi rękami) z naszyjnikiem i prostą fryzurą; artefakt celtycki wg artykułu.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/matrony1.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienna stela wotywna z trzema siedzącymi postaciami kobiet (matrony) w wnęce ze szczytem.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/matrony2.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Relief z trzema matronami: dwie w aureolach po bokach i jedna pośrodku, nad nimi trzy małe popiersia; ujęcie z kościelnego lub starożytnego wnętrza.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/matrony3.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienna płyta z trzema stojącymi postaciami kobiecymi (matrony) trzymającymi kosze z owocami lub dary.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/spodnd1.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienny relief twarzy z rogami zakończonymi pierścieniami (torquesami) – wg tekstu Cernunnos.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/spodnd2.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienny blok z reliefem: u góry drzewo z liśćmi i napis, niżej zwierzę z dużym cielskiem (wg tekstu Tarvos Trigaranus, byk z trzema żurawiami).",
+  "tekst_na_obrazie": "(nieczytelny napis nad drzewem)"
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/cernunos.gif",
+  "typ": "rzeźba/relief",
+  "opis": "Złota płyta z reliefem: Cernunnos z rogami siedzący po turecku, otoczony zwierzętami (jeleń, wilk, lwy) – wg tekstu panel z kotła z Gundestrup.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/taranis.gif",
+  "typ": "rzeźba/relief",
+  "opis": "Srebrna płyta z reliefem: Taranis z kołem i kobieca postać na wozie, nad nimi maska z brodą, zwierzęta i konie po bokach – wg tekstu panel celtycki.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/brigantia.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienna stela wotywna z reliefem kobiety w hełmie i długiej szacie, ze włócznią, w niszy – wg tekstu Brigantia.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/coventina.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienna stela z reliefem leżącej postaci z liściem oraz napisem łacińskim u dołu – wg tekstu Kowentyna.",
+  "tekst_na_obrazie": "(fragmentarycznie czytelny napis łaciński u dołu steli)"
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/taranis2.gif",
+  "typ": "rzeźba/relief",
+  "opis": "Złota figurka nagiego brodatego boga trzymającego koło i maczugę – wg tekstu Taranis.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/rosmerta.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienna stela wąska z reliefem kobiety trzymającej niewielki przedmiot – wg tekstu Rosmerta.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/bostwa/esus.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienny kapitel z reliefem półnagiego mężczyzny uderzającego siekierą w drzewo – wg tekstu bóg Esus.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/koscioly/kosc1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny małego kamiennego kościoła na zielonym terenie nad wodą, widok z góry; wg tekstu irlandzki kościół zbudowany przez Patryka.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/koscioly/kosc2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna ściana ruin z ozdobnym gotyckim oknem maswerkowym i zamkniętymi drzwiami łukowymi po lewej.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/koscioly/kosc3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienne okno z półokrągłym łukiem w grubym murze z regularnie ułożonych bloków; przez otwór widać niebo.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/koscioly/kosc4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny kamiennego kościoła z wieżą z blankami i rzędem łuków arkad, na trawiastym wzgórzu.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/krzyze/krzyz6.jpg",
+  "typ": "zdjęcie",
+  "opis": "Celtycki krzyż kamienny z okręgiem i bogato rzeźbionym trzonem na tle nieba, obok widoczny mur.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/krzyze/krzyz4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wysoki krzyż celtycki z kamiennym kołem i figuralnymi scenami na ramionach i trzonie, na tle niebieskiego nieba.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/krzyze/krzyz2.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Metalowa płaskorzeźba: trzy figury z rozpostartymi ramionami (środkowa większa) na tle budynków; wg tekstu figura Chrystusa(?) z dwiema postaciami.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/krzyze/krzyz3.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienny półkolisty tympanon nad wejściem z rzeźbą postaci z rozpostartymi ramionami (typ ukrzyżowania).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/koscioly/apost11.jpg",
+  "typ": "zdjęcie",
+  "opis": "Fasada z rzędem dziesięciu stojących rzeźb apostołów w gotyckich niszach z wimpergami; wg tekstu fasada kościoła z jedenastoma apostołami (bez Judasza).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/krzyze/palamas.jpg",
+  "typ": "rysunek",
+  "opis": "Ikona prawosławna: święty biskup z brodą i książką w ręku na złotym tle, w złoconej szacie.",
+  "tekst_na_obrazie": "Ο ΑΓΙΟΣ ΓΡΗΓΟΡΙΟΣ ΠΑΛΑΜΑΣ (częściowo czytelny napis greckiego świętego Grzegorza Palamasa)"
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/krzyze/patrick.jpg",
+  "typ": "rysunek",
+  "opis": "Ikona prawosławna: święty Patryk w biskupich szatach, z książką z krzyżem, na złotym tle.",
+  "tekst_na_obrazie": "SAINT PATRICK; napis cerkiewny obok głowy"
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/rozne/mur.jpg",
+  "typ": "zdjęcie",
+  "opis": "Długi kamienny mur z nieobrobionych głazów biegnący po zboczu wrzosowiska, w tle góry; wg artykułu obiekt w Irlandii lub Wielkiej Brytanii.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/mosty/most1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Stary kamienny most z jednym wysokim łukiem, porośnięty trawą po bokach.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/mosty/most2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienny most wielołukowy nad strumieniem, z grubymi, zielonymi od porostów łukami.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/rozne/swiatynia.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kolumny greckiej lub rzymskiej świątyni z fragmentem belkowania i trójkątnego frontonu na zielonej łące wśród drzew.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/mosty/most3s.jpg",
+  "typ": "zdjęcie",
+  "opis": "Szeroki kamienny most łukowy z trzema łukami nad rzeką, wiosną lub zimą, z drzewami po lewej.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/mosty/aqua.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wysoki wielołukowy kamienny akwedukt lub wiadukt widziany spoza zarośli, w tle niebo.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/rozne/zimb.jpg",
+  "typ": "zdjęcie",
+  "opis": "Widok z góry na koliste kamienne forty (Dun Aengus lub podobne) z koncentrycznymi murami wśród pól; wg tekstu irlandzkie „Wielkie Zimbabwe”.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_tintagel.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Tintagel: zniszczone kamienne mury z otworem w kształcie łuku i fragmenty wież na tle nieba (wg tekstu artykułu).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_pendragon.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Pendragon: pozostałości kamiennych murów i wieży na trawiastym wzgórzu (wg tekstu artykułu).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_kornwal.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku w Kornwalii z wieloma otworami w murach na wzgórzu, w tle morze i wybrzeże (wg podpisu Kornwalia).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_guimaraes.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek Guimaraes w Portugalii: masywne kamienne wieże z blankami i drzewa na pierwszym planie (wg tekstu).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_obidos.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek Obidos w Portugalii: wysokie okrągłe i prostokątne wieże z blankami na skalistym wzgórzu pod błękitnym niebem.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_calachora.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wieża Calahorra w Kordobie (Hiszpania): wysoka kamienna warownia z blankami i drzewem po lewej (wg nazwy pliku).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_carcassonne2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Carcassonne: mury obronne z okrągłymi basztami o stożkowych dachach i kamiennym mostem na łukach; fragment fortecy we Francji.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_carcassonne1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Carcassonne: wejście w grubym murze obronnym między dwiema wysokimi basztami, z wnęką z figurą nad bramą.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_arques.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek Arques we Francji: wysoka, smukła kamienna wieża z wieżyczkami na zielonym wzgórzu (wg nazwy pliku).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/_scaligers.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mury z blankami w stylu gibelińskim, wysokie, oparte o taflę wody; wg nazwy pliku zamek Scaligerów w Sirmione nad jeziorem Garda.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/szcz/irland.jpg",
+  "typ": "zdjęcie",
+  "opis": "Fragment kamiennego muru z wąską szczeliną strzelniczą w kształcie łuku; wg podpisu Irlandia.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/szcz/arques.jpg",
+  "typ": "zdjęcie",
+  "opis": "Fragment okrągłej baszty z trzema pionowymi szczelinami strzelniczymi; wg podpisu Arques.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/szcz/carcas.jpg",
+  "typ": "zdjęcie",
+  "opis": "Fragment muru z cegły i kamienia z długą pionową szczeliną; wg podpisu Carcassonne.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/szcz/delmonte.jpg",
+  "typ": "zdjęcie",
+  "opis": "Narożnik ośmiokątnej baszty z jasnego kamienia z wąską pionową szczeliną; wg podpisu Apulia (Castel del Monte).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/szcz/kdc.jpg",
+  "typ": "zdjęcie",
+  "opis": "Blanki baszty z kamienia z długą wąską szczeliną pod nimi, tło niebieskie; wg podpisu Syria (Krak des Chevaliers).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/szcz/margat.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mur z regularnych bloków kamiennych z wąską pionową szczeliną; wg podpisu Margat.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/szcz/montsegur.jpg",
+  "typ": "zdjęcie",
+  "opis": "Okno w grubym murze kamiennym o dwóch ściętych brzegach, przez które widać niebieski pas nieba; wg podpisu Montsegur.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/casteldelmonte1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Widok z lotu ptaka na ośmiokątny zamek Castel del Monte z ośmioma wieżami i ośmiokątnym dziedzińcem, na wzgórzu pośród lasów (Apulia, wg artykułu).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/casteldelmonte2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Castel del Monte z zewnątrz: ośmiokątna, jasna budowla z wieżami na narożach, portal wejściowy i schody.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/casteldelmonte4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Castel del Monte od strony wejścia: kamienne ośmiokątne wieże i portal ozdobny na wzgórzu porośniętym trawą.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/katar1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek katarski Queribus na szczycie skalistej góry, kwadratowa wieża i mury, widok z góry (wg kontekstu zamki katarów).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/katar3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna stela z kołem zakończenia i napisem na trzonie, krzyż tarczowy (typ krzyża katarskiego); wg artykułu zamki katarów.",
+  "tekst_na_obrazie": "(nieczytelny napis na trzonie steli, widoczne wiersze liter)"
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/katar4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna stela z krzyżem w kole (tarczowym) na trzonie, zielona roślinność w tle; wg artykułu pamiątka katarów.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/katar2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Montsegur na szczycie wzgórza, widziane z góry wśród drzew; wg tekstu artykułu zamek, w którym spalono ostatnich katarów.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/00margat3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Margat (Syria): okrągła czarna baszta z bazaltu i mury obronne, drzewo na pierwszym planie.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/00kdch4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek Krak des Chevaliers w Syrii: potężne mury i baszty na wzgórzu, widok z oddali.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/00kdch2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Czarno-białe zdjęcie kamiennych schodów i przejść z łukami w murach Krak des Chevaliers z kilkoma siedzącymi ludźmi.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/zamki/00kdch5.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienne spiralne przejście lub schody w grubym murze warowni, widok od góry; Krak des Chevaliers.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/koscioly/etiop.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienny kościół w Etiopii wykuty w skale w kształcie krzyża, widok z góry (wg nazwy pliku, Lalibela).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/odry1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kilka dużych kamiennych głazów stojących w trawie, fragment kręgu kamiennego w Odrach (wg podpisu w artykule).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/sleza2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienny słup w kształcie wydłużonej wazy lub kolumny z kulistą głowicą stojący przy drodze; wg podpisu słup milowy(?) na Ślęży.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/sleza3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna rzeźba w kształcie grzyba lub dużego zwierzęcia na kamiennej podstawie, na tle drzew; wg podpisu rzeźba na Ślęży (niedźwiedź?).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/sleza1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna rzeźba leżącego zwierzęcia (kot, lew lub pies) na Ślęży, porośnięta porostami.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/sleza4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Odkryte kamienne fundamenty z ciemnym otworem w ziemi, widok na stanowisko archeologiczne; wg artykułu Ślęża.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/sleza5.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mały kamienny kościół na Ślęży z dachem czerwonej wieżyczki i schodami, wśród drzew bez liści.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/wawel1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Widok z góry na odsłonięte kamienne fundamenty na Wawelu, zarysy murów wśród trawnika.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/rotunda.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze kamiennej rotundy z grubym murem popękanym pionową rysą i małym oknem, po prawej ściana z cegły.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/ostrow3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienne ruiny kaplicy na Ostrowie Lednickim z półokrągłymi absydami, widok z góry (wg artykułu).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/ostrow1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zbliżenie na mur z nieregularnych kamieni polnych i bloków skalnych o różnych barwach, w górze ciemne otwory; Ostrów Lednicki.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/ostrow2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ciemne wnętrze z okrągłym kamiennym murem i fundamentami, w środku widoczny drewniany słup lub postać; Ostrów Lednicki.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/krzyz1p.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienny krzyż pokutny na trawie, szeroki z nieregularnymi ramionami; wg artykułu krzyż pokutny w Polsce.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/krzyz2p.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienny krzyż z wyciosanymi ramionami na tle chropowatego muru kamiennego, niski.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/krzyz3p.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wysoki kamienny słup lub krzyż z zaokrąglonym zwieńczeniem na tle gołych drzew i dachu.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_bydlin.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Bydlin: zrujnowane mury z łukowymi otworami na trawiastym wzgórzu (wg podpisu).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_czorsztyn.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku w Czorsztynie: mur z kamienia o wysokim łuku, wąskie schody i fragment baszty w tle (wg podpisu).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_morsko.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienny mur z otworem bramnym w kształcie łuku, zniszczone ruiny; wg podpisu zamek Morsko.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_ogrodz7.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Ogrodzieniec: szczątki wież i murów na skalistym wzgórzu pod chmurnym niebem.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_olsztyn.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku w Olsztynie (małopolskim): ruiny baszt na tle błękitnego nieba, z jasnymi skałami.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_rabsztyn.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Rabsztyn: kamienne mury z oknami i wyrwą po lewej, na tle nieba (wg podpisu).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_babice.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wysoka okrągła kamienna wieża z blankami na szczycie, widok od dołu; wg podpisu Babice.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_nidzica.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze kamiennego przejścia z łukiem i wąskim oknem w głębi; wg podpisu Nidzica.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_kt1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ceglano-kamienne łuki ruin zamku widziane z dołu, za nimi ceglany mur z oknami; wg podpisu Ujazd, zamek Krzyżtopór.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/_kt2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Długa sklepiona kamienna sala z łukami i kolumnami, korytarz w ruinach; Krzyżtopór w Ujeździe.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/konin.jpg",
+  "typ": "zdjęcie",
+  "opis": "Romański portal kościoła w Koninie z półkolistym łukiem i zielonymi drzwiami w kamiennym murze; wg tekstu artykułu.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/strzelno1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna romańska budowla w Strzelnie z okrągłą wieżyczką o stożkowym dachu z gontu, mur z granitu.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/polcelt/strzelno2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zbliżenie na kamienną wnękę z łukiem w ceglano-granitowym murze kościoła w Strzelnie.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/glagolica.gif",
+  "typ": "skan tekstu",
+  "opis": "Fragment pergaminu z tekstem w piśmie głagolickim, napisanym czerwonym i brązowym atramentem, z dużymi inicjałami.",
+  "tekst_na_obrazie": "(pismo głagolickie, nieprzepisywalne)"
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/gest/irland.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zbliżenie na rzeźbiony kamienny krzyż celtycki z figuralnymi scenami na ramionach i ułożeniem rąk postaci; wg podpisu Irlandia.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/gest/tiahu.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienny słup z rzeźbioną postacią z rękami ułożonymi na brzuchu, Tiahuanaco (wg podpisu); w tle ziemia i kamienie.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/gest/zbrucz.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wysoki kamienny słup – posąg Światowida ze Zbrucza, z czterema twarzami i postacią w czapce, z wizerunkami z rękami (wg podpisu Zbrucz).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/gest/trogir.jpg",
+  "typ": "zdjęcie",
+  "opis": "Dwie fotografie rzeźb postaci w kamieniu z rękami skrzyżowanymi na piersiach, wg podpisu Trogir (Chorwacja).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/13celtowie/celtart/ornament.gif",
+  "typ": "dekoracja",
+  "opis": "Ornament celtycki w kształcie splecionego węzła trójlistnego na białym tle.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/dzwontitanic.gif",
+  "typ": "rysunek",
+  "opis": "Szary dzwonek elektryczny (dzwonek alarmowy) z kulą ziemską zamiast czaszy – obraz symboliczny Ziemi jako dzwonka; wg tytułu „Czy przetrwamy?”.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/swider2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Jasna smuga meteoru lub komety na ciemnym niebie, z sylwetkami drzew na dole; wg kontekstu zapowiedź kataklizmu.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/czazie.jpg",
+  "typ": "rysunek",
+  "opis": "Ziemia widziana z kosmosu z nałożoną na kontynenty czaszką ludzką; symbolizuje zagrożenie dla ludzkości (wg tytułu „Czy przetrwamy?”).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/pekin1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Panorama Warszawy z lotu ptaka z Pałacem Kultury i Nauki (PKiN) i otaczającą zabudową; wg tekstu współczesny plac budowy.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/pekin2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Czarno-białe zdjęcie z budowy: robotnicy przy dźwigach i rusztowaniach, jedna osoba z taczką; historyczna budowa Pałacu Kultury.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/pekin3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Czarno-białe zdjęcie budowy wysokiego gmachu ze stalowym szkieletem i dźwigami na pustym placu, w oddali niskie budynki.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/pekin4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Czarno-białe zdjęcie rusztowań i szkieletu wysokiego budynku w budowie, na pierwszym planie tramwaje.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/pekin5.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienna płyta lub postument z napisem nazwisk w jednym fragmencie rzeźby, z postacią u góry (detal z budowli PKiN).",
+  "tekst_na_obrazie": "MARX ENGELS LENIN"
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/k1.gif",
+  "typ": "dekoracja",
+  "opis": "Czarny krzyż łaciński na białym tle (symbol religijny).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/k3.gif",
+  "typ": "dekoracja",
+  "opis": "Czarny krzyż prawosławny z ukośną dolną poprzeczką na białym tle.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/k4.gif",
+  "typ": "dekoracja",
+  "opis": "Żółty krzyż maltański (ośmiokątny) z zielonkawymi cieniami na białym tle.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/k5.gif",
+  "typ": "dekoracja",
+  "opis": "Czarny krzyż patriarszy (lotaryński) z dwiema poprzeczkami na białym tle.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/mapa1.jpg",
+  "typ": "mapa",
+  "opis": "Schematyczna mapa wybrzeża Lewantu (Syria, Liban, Izrael) z zaznaczonymi zamkami krzyżowców i miastami; po prawej żółty pas.",
+  "tekst_na_obrazie": "Baghras; ANTIOCHIA; ALEPPO; Margat; Tortosa; Krak; Ch. Blanc; Ch. Rouge; TRIPOLI; Sydon; Belfort; Akka; Safad; Pelerin; Belvoir; JEROZOLIMA; Gaza; Kerak; Shoubak"
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/6margat7.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek Margat w Syrii: potężna warownia z czarnego bazaltu na wzgórzu, widok od dołu pod niebieskim niebem (wg nazwy pliku).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/6margat1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Margat (Qalaat al-Marqab): masywna baszta i mury z ciemnego bazaltu na zboczu pokrytym roślinnością.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/6margat6.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zbliżenie na wielką okrągłą wieżę zamku Margat z bazaltowych bloków, z małą wąską szczeliną na ścianie.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/6margat3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Margat z okrągłą wieżą wysoką po prawej, mury i drzewo na pierwszym planie, w tle morze.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/6margat4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Okrągła i prostokątna wieża zamku Margat z kamiennych ciemnych bloków z małymi oknami i łukiem u dołu.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/6margat2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze dziedzińca zamku Margat: kamienne mury z łukami i oknami, pusta przestrzeń, nad nią błękitne niebo.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcwsch.jpg",
+  "typ": "zdjęcie",
+  "opis": "Widok z lotu ptaka na średniowieczny zamek z wieloma wieżami i murami otoczonymi drogą i zabudowaniami; wg pliku Krak des Chevaliers.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdc7.jpg",
+  "typ": "zdjęcie",
+  "opis": "Krak des Chevaliers: panorama potężnej warowni na wzgórzu z licznymi wieżami i murami, po prawej łukowy akwedukt.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcm23.jpg",
+  "typ": "zdjęcie",
+  "opis": "Krak des Chevaliers: skośny, pochyły mur zewnętrzny (talus) i okrągłe baszty widoczne z dołu, w tle morze.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcm1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Krak des Chevaliers: wielka okrągła baszta z jasnych kamiennych bloków z szeroką skarpą, w tle niebo.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcm6.jpg",
+  "typ": "zdjęcie",
+  "opis": "Krak des Chevaliers: wieża z blankami i mur z arkadami na tle błękitnego nieba, widok z zewnątrz.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcp10.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wewnętrzny dziedziniec Krak des Chevaliers: kamienne mury z gotyckimi arkadami i dużymi łukowymi wejściami.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcp11.jpg",
+  "typ": "zdjęcie",
+  "opis": "Widok z góry na wewnętrzne dziedzińce i zabudowania Krak des Chevaliers z gotyckimi łukami i oknami.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcp12.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienne schody wzdłuż muru prowadzące do ciemnych arkadowych przejść w Krak des Chevaliers.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcp26.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wąska kamienna rampa lub mur obronny z brukowanym przejściem, widok z góry, Krak des Chevaliers.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcwn4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze sklepionej galerii z kamiennymi gotyckimi żebrami i kolumnami, światło wpada przez okno po lewej; Krak des Chevaliers.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcwn24.jpg",
+  "typ": "zdjęcie",
+  "opis": "Długi kamienny sklepiony korytarz z beczkowym sklepieniem i jasnym wyjściem w głębi; Krak des Chevaliers.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcwn29.jpg",
+  "typ": "zdjęcie",
+  "opis": "Pusta kamienna sala z krzyżowo-żebrowymi sklepieniami i szerokimi filarami; Krak des Chevaliers.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcwn32.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wysoka sala gotycka z żebrowym sklepieniem i wąskimi oknami; na prawym dole stoi mała postać człowieka dla skali.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcs16.jpg",
+  "typ": "zdjęcie",
+  "opis": "Widok z góry na wewnętrzny dziedziniec zamku z kamienną cysterną i niewielkimi grupami ludzi; Krak des Chevaliers.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcs20.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zbliżenie na kwadratową kamienną studnię lub zbiornik wkomponowany w posadzkę dziedzińca.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/0kdcs16a.jpg",
+  "typ": "zdjęcie",
+  "opis": "Dziedziniec warowni widziany od góry z cieniami murów i grupą turystów na skarpie po prawej.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/3aleppo4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zdjęcie lotnicze cytadeli w Aleppo na sztucznym wzgórzu otoczonym fosą i zabudową miejską.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/3aleppo3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Cytadela Aleppo: masywna brama z wieżą i arkadowymi murami oraz stokiem z kamieni; po lewej kamienna ściana.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/3aleppo6.jpg",
+  "typ": "zdjęcie",
+  "opis": "Półkoliste kamienne siedziska amfiteatru w cytadeli Aleppo, w tle budynek z oknami i wieżą.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/4belvoir2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mur z ciemnych bazaltowych kamieni i skalista ruina z roślinnością; zamek Belvoir (wg nazwy pliku).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/4belvoir1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna hala z blankowaniem i łukami, w głębi widać kolejne przejście; wnętrze zamku Belvoir.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/4belvoir3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze sklepionego przejścia z kamienia z otworem wyjścia na zewnątrz, zbliżenie na sklepienie; zamek Belvoir.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/5kerak5.jpg",
+  "typ": "zdjęcie",
+  "opis": "Panorama murów i wież zamku Kerak (Jordania) na wzgórzu, na pierwszym planie zabudowa miasta.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/5kerak6.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek Kerak w Jordanii: kamienne wieże na stromym stoku skalnym, po prawej droga, niebo bez chmur.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/5kerak3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Widok z muru zamku Kerak w dół na stromy skalisty stok i mury z blankami; w tle miasto i góry.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/5kerak4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienne mury i wieża zamku Kerak (Jordania) z łukowatymi otworami, na tle błękitnego nieba.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/5kerak7.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna baszta z łukowatymi przejściami i wąskimi oknami, wśród trawy; zamek Kerak.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/5kerak2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Długi kamienny tunel o ciemnej, nierównej powierzchni sklepienia, w głębi światło; zamek Kerak.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/5kerak8.jpg",
+  "typ": "rzeźba/relief",
+  "opis": "Kamienny blok z reliefem: koło słoneczne (rozeta) z lewej, obok ptaki i inne motywy zwierzęce; element z zamku Kerak.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/2akka1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna brama z półkolistym łukiem i ciemnym wejściem w grubym murze, przy murze ludzie; wg pliku Akka.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/2akka2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna baszta i mur obronny nad morzem; wg pliku twierdza Akka (Akra).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/2akka3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zbliżenie na kamienną basztę nad morzem, fale uderzają o wybrzeże; Akka.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/sydon2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek morski w Sydonie (Sidon) połączony kamiennym mostem z lądem, na tle morza (wg pliku sydon).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/sydon4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna brama z gotyckim łukiem i opuszczaną kratą, nad nią blanki; Sydon.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/sydon1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna baszta o okrągłym narożniku z otworem drzwiowym i schodami; zamek w Sydonie.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/bagras1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zrujnowany zamek na szczycie skalistego wzgórza, kamienne mury z otworami; wg pliku Bagras (Baghras).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/byblos1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna kwadratowa wieża i mury zamku w Byblos (Liban), z gałęzią drzewa nad nimi, w tle miasto.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/saone1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Prostokątna kamienna wieża z blankami z ciosów kamiennych, zamek Saone (Sahyun) wg pliku.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/azrak1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze sklepionej sali zamku z grubymi łukami z kamienia, przy ścianie stoi kobieta w niebieskim ubraniu; wg pliku Azraq.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/safita2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze sklepionej, gotyckiej sali z filarem pośrodku i żebrowymi sklepieniami; wg pliku Safita.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_bw/saladin2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wąskie kamienne schody i łukowy portal z prostym sklepieniem, w głębi kolejne wejście; wg pliku Saladin (zamek Saladyna).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/cconimbriga.jpg",
+  "typ": "zdjęcie",
+  "opis": "Cegła ułożona w łuk ceglany na fragmencie kamienno-ceglanej konstrukcji rzymskiej; wg pliku Conimbriga.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/coloss.jpg",
+  "typ": "zdjęcie",
+  "opis": "Rząd belek drewnianych lub cegieł w ścianie w kolorze żółtym – fragment rzymskiego muru w stylu Koloseum; wg pliku coloss.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/cpompeja.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ceglany łuk i mur z niszą i małym oknem; wg pliku Pompeje.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/ctessaloniki.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ceglany łuk bramy w murze kamiennym, przez otwór widać drzewo i niebo; wg pliku Saloniki.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/alhambra.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zbliżenie na ścianę z bogato rzeźbioną dekoracją arabeskową w stiuku, fragment ceglanego muru po lewej; wg pliku Alhambra.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/cpiza.jpg",
+  "typ": "zdjęcie",
+  "opis": "Narożnik ściany mieszanej: kamień polny i cegła, wg pliku Piza (Pisa).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/ctur.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mur z kamienia łamanego przeplatanego warstwami cegły, w głębi ciemny łukowy otwór; wg pliku Turcja.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/csardes.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ściana z kamieni rzecznych i cegły z wysoką ceglaną niszą w kształcie łuku; wg pliku Sardes.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/grecja10.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mur z dużych ciosów kamiennych ułożonych na sucho, trawa na pierwszym planie; wg pliku Grecja.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/portugal.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mur z regularnych bloków kamiennych z fragmentem łuku z prawej strony, przez który widać zieleń; wg pliku Portugalia.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/turcja3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna wieża z oknem zakratowanym i krenelażem na tle nieba; wg pliku Turcja.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/france1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mur z masywnych ciosów kamiennych w stylu cyklopowym z nierównymi warstwami; wg pliku Francja.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/mur/bw.jpg",
+  "typ": "zdjęcie",
+  "opis": "Stromy kamienny mur z nieregularnych kamieni porośnięty trawą i krzewami; wg pliku bw (Bliski Wschód).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/mur/anglia.jpg",
+  "typ": "zdjęcie",
+  "opis": "Fragment kamiennego muru z drobnych płyt i nieregularnych kamieni; wg pliku Anglia.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/mur/ruma.jpg",
+  "typ": "zdjęcie",
+  "opis": "Pozostałości muru kamiennego, mocno zniszczone, o jasnym kolorze; wg pliku Rumunia(?).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/mur/kuelap.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mur z ułożonych starannie kamieni z kępami roślin; wg pliku Kuelap (Peru).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/wegry.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mur z ciemnych, nieregularnych kamieni ułożonych w warstwy; wg pliku Węgry.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/bornholm.jpg",
+  "typ": "zdjęcie",
+  "opis": "Okrągła kamienna baszta z kamieni łamanych, z otwartym oknem i ceglanym łukiem po prawej; wg pliku Bornholm.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/rising.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienny mur z łukiem zamykającym otwór, w zbliżeniu; wg pliku Rising (Castle Rising, Anglia).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/norwegia.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wieża z kamienia z trzema ceglanymi oknami w szczycie i wąskimi oknami; wg pliku Norwegia.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/dziw/dz1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Smukła kamienna wieża zamku Arques (Francja) z czterema okrągłymi narożnymi wieżyczkami, na tle nieba.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/dziw/dz3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Czworokątny kamienny donżon z małymi oknami i wieżyczkami narożnymi, wokół zielone krzewy; wg pliku zamek Hedingham.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/dziw/dz6.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek Rocca Calascio w Abruzji na górze: kamienne mury i wieże okrągła i kwadratowa na stromej skale.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/dziw/dz2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Masywny sześciokątny donżon na trawie, z przyporami; wg pliku zamek Conisbrough.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/dziw/dz4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienna wieża zamku z blankami i dwoma rzędami okien, obok niska zabudowa; wg pliku Newcastle (keep).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/czechy.jpg",
+  "typ": "zdjęcie",
+  "opis": "Rozległy zamek na skalistym wzgórzu z licznymi murami i wieżą, widoczny z oddali na tle gór; wg pliku czechy (zamek środkowoeuropejski).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/polska1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Ogrodzieniec: baszty i mury zbudowane na jasnej skale pod niebieskim niebem (wg pliku polska1).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/war_eu/corfe.jpg",
+  "typ": "zdjęcie",
+  "opis": "Ruiny zamku Corfe (Anglia): zrujnowana wieża i okrągłe baszty na zielonym wzgórzu, na pierwszym planie ścieżka.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm2.jpg",
+  "typ": "zdjęcie",
+  "opis": "Widok z lotu ptaka na klasztor Mont-Saint-Michel z wieżą, otoczony piaskami i morzem.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm14.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mont-Saint-Michel na skalistej wyspie widziany z daleka, klasztor ze strzelistą wieżą na szczycie.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm1.jpg",
+  "typ": "zdjęcie",
+  "opis": "Opactwo Mont-Saint-Michel: kamienne mury i wieżyczka z iglicą na tle nieba.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm5.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienny łuk nad schodami w Mont-Saint-Michel z konsolowym fryzem, wąskie przejście między murami.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm6.jpg",
+  "typ": "zdjęcie",
+  "opis": "Okrągła kamienna wieża z półkolistym wykuszem i małymi oknami, widziana z dołu; Mont-Saint-Michel.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm7.jpg",
+  "typ": "zdjęcie",
+  "opis": "Stroma kamienna rampa z drewnianymi poprzeczkami prowadząca do wejścia w murze; Mont-Saint-Michel.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm9.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze krypty z grubymi walcowymi kamiennymi filarami i sklepieniami; Mont-Saint-Michel.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm10.jpg",
+  "typ": "zdjęcie",
+  "opis": "Długa kamienna sala (refektarz) z rzędem arkad i drewnianymi ławami, z oknami po lewej; Mont-Saint-Michel.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm11.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze kamiennego kościoła romańskiego z grubymi filarami i łukami, widoczna oświetlona kaplica w głębi.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm12.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze chóru gotyckiego z smukłymi oknami i łukami, przy ołtarzu stoi kilka osób; Mont-Saint-Michel.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm13.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wysokie gotyckie okna chóru z maswerkami i sklepieniem, widziane od dołu.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm8.jpg",
+  "typ": "zdjęcie",
+  "opis": "Kamienne mury i dachy klasztoru, wąskie okno i drzwi w murze, w górze fragment konstrukcji z drewna.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm16.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wirydarz klasztorny z gotyckimi łukami arkad i trawnikiem z krzewami widzianym przez kolumnadę.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm17.jpg",
+  "typ": "zdjęcie",
+  "opis": "Długi kamienny krużganek z rzędem smukłych kolumn i perspektywą w głąb.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm18.jpg",
+  "typ": "zdjęcie",
+  "opis": "Arkady krużganku z ozdobnymi kolumnami i płaskorzeźbami w tympanonie, za nimi zielony ogród.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm4.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mont-Saint-Michel jako wyspa z klasztorem ze strzelistą wieżą, widok z góry na tle morza i piasku (pocztówka).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm15.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zdjęcie lotnicze wyspy Mont-Saint-Michel połączonej groblą z lądem, wśród wód wylewu rzeki i pól.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/klasztor/msm3.jpg",
+  "typ": "zdjęcie",
+  "opis": "Mont-Saint-Michel otoczony morzem, wyspa ze skałą, miasteczkiem i klasztorem ze strzelistą wieżą.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/poznan.gif",
+  "typ": "schemat",
+  "opis": "Kolorowy plan z badań georadarowych lub pomiarowych fundamentów (wg nazwy pliku Poznań): jaskrawe plamy żółte, czerwone i czarne w zarysie budowli i niebieski rzut dolny.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/dziw/delhi.jpg",
+  "typ": "zdjęcie",
+  "opis": "Czerwonopiaskowa kamienna wieża i mury budowli w Delhi (wg nazwy pliku), otoczone drzewami.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/rasafa.jpg",
+  "typ": "zdjęcie",
+  "opis": "Wnętrze apsydy bazyliki w Resafie (Syria): kamienne półkoliste sklepienie z trzema oknami i kamiennymi blokami.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/porfir.jpg",
+  "typ": "rysunek",
+  "opis": "Bizantyjska rzeźba lub miniatura w kości słoniowej przedstawiająca stojącą postać w ozdobnym stroju z berłem; wg nazwy pliku porfirogeneta.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/otton.jpg",
+  "typ": "rysunek",
+  "opis": "Średniowieczna miniatura: cesarz Otton na tronie w zielonej szacie i koronie, z berłem i jabłkiem cesarskim (wg nazwy pliku Otton).",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/sylwester.jpg",
+  "typ": "portret",
+  "opis": "Rysunkowy portret papieża w trzywarstwowej tiarze z krzyżami; wg nazwy pliku papież Sylwester.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/kw/chrzelice.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zrujnowane kamienne wejście w murze z łukiem i ciemnym korytarzem, porośnięte trawą i krzewami; wg pliku Chrzelice.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/kw/swierklaniec.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zarośnięty kamienny mur ziemny z regularnych bloków w zagłębieniu terenu; wg pliku Świerklaniec.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/kw/czarnybor.jpg",
+  "typ": "zdjęcie",
+  "opis": "Fragment ruin zamku z ułożonych kamieni, porośnięty drzewami i krzewami; wg pliku Czarny Bór.",
+  "tekst_na_obrazie": ""
+ },
+ {
+  "sciezka": "zrodlo/webacja/warownie/kw/checiny.jpg",
+  "typ": "zdjęcie",
+  "opis": "Zamek w Chęcinach: widok z góry na ceglaną wieżę, kamienne mury i dziedziniec wśród lasów.",
+  "tekst_na_obrazie": ""
+ }
+]

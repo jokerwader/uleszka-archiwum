@@ -1,0 +1,42 @@
+{
+  "id": "medalt/lekipb",
+  "tytul": "Leki przeciwbólowe",
+  "streszczenie": "Artykuł Igora Cieślickiego (PAP) relacjonuje ostrzeżenie katowickiej Kliniki Hematologii: coraz więcej pacjentów z zanikiem krwinek lub szpiku zażywało wcześniej popularne leki przeciwbólowe z ibuprofenem. Prof. Jerzy Hołowiecki twierdzi, że łączy ich wyłącznie lek, i postuluje sprzedaż takich leków na receptę oraz ograniczenie reklam. Podano historię pacjentki, której leczenie obejmowało usunięcie śledziony. Wypowiedział się też rzecznik producenta, który powołuje się na ulotki i zatwierdzenie przez ministerstwo, a redaktor strony kończy ironicznym zdaniem o reklamie w radiu.",
+  "tezy": [
+    {
+      "teza": "Pacjenci kliniki hematologicznej z ciężkimi schorzeniami krwi zażywali wcześniej popularne leki przeciwbólowe z ibuprofenem.",
+      "cytat": "Na pozór różne przypadki łączy jedno. Chorzy zażywali wcześniej popularne tabletki przeciwbólowe, najczęściej zawierające ibuprofen.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Według prof. Hołowieckiego wniosek o szkodliwości leków opiera się na zbieżności faktów, bo chorzy nie byli narażeni na inne czynniki.",
+      "cytat": "O szkodliwym działaniu leków przeciwbólowych możemy mówić na podstawie zbieżności faktów. Mamy pacjentów, którzy nie byli narażeni na żadne inne czynniki chorobotwórcze, a zażywali te leki",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Substancja zawarta w leku może uszkadzać komórki macierzyste szpiku, co zaburza tworzenie komórek krwi.",
+      "cytat": "Zawarta w leku przeciwbólowym substancja może uszkodzić komórki macierzyste (najbardziej pierwotne) szpiku kostnego.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Objawy uszkodzenia szpiku bywają początkowo błahe, ale bagatelizowane stają się groźne dla życia.",
+      "cytat": "W efekcie dochodzi do zaburzeń przy tworzeniu komórek krwi. Spada poziom białych i czerwonych krwinek oraz płytek krwi.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Leki przeciwbólowe sprzedawane bez recepty powinny być przepisywane na receptę, a ich reklamowanie jest bezkrytyczne.",
+      "cytat": "Jego zdaniem, sprzedawane dzisiaj na każdym kroku leki przeciwbólowe powinny być przepisywane na receptę.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Producent twierdzi, że działania niepożądane są opisane w ulotkach zatwierdzonych przez ministerstwo, a badania z Katowic nie są mu znane.",
+      "cytat": "Rzeczywiście znakomita większość leków posiada działania niepożądane, niesterydowe leki przeciwzapalne również.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["leki przeciwbólowe", "ibuprofen", "uszkodzenie szpiku", "hematologia", "działania niepożądane", "reklama leków", "leki bez recepty"],
+  "osoby": ["Igor Cieślicki", "Jerzy Hołowiecki", "Joanna Cichy", "Grażyna Bober", "Paweł Bernat"],
+  "miejsca": ["Katowice", "Tychy", "Śląska Akademia Medyczna"],
+  "okresy": [],
+  "zrodla_cytowane": ["Super Express – doniesienie o pacjentach katowickiej kliniki (za PAP)"]
+}

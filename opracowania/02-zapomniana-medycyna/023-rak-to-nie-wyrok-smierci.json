@@ -1,0 +1,79 @@
+{
+ "id": "medalt/rak",
+ "tytul": "Rak, to nie wyrok śmierci",
+ "streszczenie": "Tekst oparty na książce Michała Tombaka „Uleczyć nieuleczalne” przedstawia raka jako chorobę całego organizmu, wynikającą z zatrucia toksynami, błędów żywieniowych, stresu i nieprawidłowego trybu życia. Autor opisuje leczenie oparte na lewatywach, sokach z buraka i marchwi, diecie, ćwiczeniach systemu Nishi, samohipnozie i pracy z psychiką, podając przypadki rzekomych wyleczeń. Przytacza też teorię, że komórki rakowe to rzęsistki (trichomonas), oraz zestaw porad profilaktycznych. Twierdzi, że oficjalna medycyna zwalcza tylko skutki, a nie przyczynę choroby.",
+ "tezy": [
+  {
+   "teza": "Rak jest chorobą całego organizmu, a nie pojedynczego narządu, i ma być ostatnim ogniwem łańcucha wcześniejszych chorób.",
+   "cytat": "Rak nie jest chorobą konkretnego organu, lecz chorobą wszystkich układów w organizmie, z których jeden szybciej \"nie wytrzymał\".",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Rak według autora tkwi w każdym od urodzenia i przy obecnym stylu życia jest nieunikniony.",
+   "cytat": "Przy takim trybie życia, jaki prowadzimy rak jest po prostu nieunikniony, istnieje w każdym z nas od chwili narodzin (znajduje się w genetycznej pamięci noworodka) i dopiero z czasem daje o sobie znać.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Rak jest w 99 procentach zatruciem własnymi toksynami, więc leczenie należy zaczynać od oczyszczenia jelita grubego lewatywami (metoda Gersona).",
+   "cytat": "Rak to zemsta natury za nieprawidłowo spozywane posiłki. W 99% to zatrucie własnymi toksynami, a tylko 1% stanowią nieodwracalne zmiany, które występują w organizmie",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Sok z buraka i marchwi ma zatrzymywać rozwój guza i zwiększać skuteczność enzymów utleniających.",
+   "cytat": "sok z buraka i marchwii zatrzymuje rozwój guza, wypłukuje stare, chore komórki nowowtworowe i zwieksza skuteczność działania enzymów utleniających",
+   "dziedzina": "żywienie"
+  },
+  {
+   "teza": "Przyczyną raka bywają silne stresy przeżyte w dzieciństwie i długo pielęgnowany gniew, dlatego potrzebna jest praca z psychiką (samohipnoza, regresja).",
+   "cytat": "jedna z przyczyn raka u wielu osób są silne stresy przezyte we wczesnym dzieciństwie",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Komórki ciała potrafią prymitywnie „myśleć”, więc chory może samoleczyć się, wydając w myślach polecenia choremu narządowi.",
+   "cytat": "Komórki każdego organizmu naszego ciała posiadają zdolność prymitywnego myślenia",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Wiele chorób powstaje łańcuchowo: zapalenie gardła, uszu i wylew krwi do mózgu mają wynikać z niedomagania nerek.",
+   "cytat": "wylew krwi do mózgu spowodowany jest z reguły zapaleniem uszu, a zapalenie uszu to z kolei wynik zapalenia gardła. Gardło natomiast choruje, gdy nerki źle wypełniają swoje funkcje.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Japoński profesor Nishi stwierdził mikrowylewy do mózgu u 99 procent zmarłych, co ma tłumaczyć chłodne ręce i nogi oraz zaparcia.",
+   "cytat": "u 99% osób, które zmarły z powodu różnych chorób, znaleziono mikrowylewy krwi do mózgu",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Przypadki raka płuc, żołądka, jelita, krtani i macicy mają być wyleczone systemem Nishi (powietrze, kąpiele, herbaty, ćwiczenia) bez operacji.",
+   "cytat": "Opisane wydarzenia miały miejsce 40 lat temu, ale do dzisiaj w Japonii z powodzeniem stosuje się system Nishi przy leczeniu chorób nowotworowych.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Komórki rakowe to według rosyjskich badań nie zwyrodniałe komórki ludzkie, lecz rzęsistki (trichomonas) żyjące w każdym człowieku.",
+   "cytat": "W toku badań naukowych udowodniono, że komórki rakowe to nie zwyrodniałe ludzkie komórki, jak do tej pory sądzono, ale żyjące w każdym z nas rzęsistki (trichomonas)",
+   "dziedzina": "biologia"
+  },
+  {
+   "teza": "Chemioterapia i naświetlanie osłabiają objawy tylko czasowo, a pobudzają rzęsistki i przyczyny choroby.",
+   "cytat": "ogólnie przyjęte metody leczenia chorób nowotworowych, takie jak chemioterapia czy naświetlanie, czasowo osłabiają symptomy (powodują chwilową poprawę samopoczucia), potęgują przyczyny choroby.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Wirusy AIDS mają znajdować się w rzęsistku, więc dopóki nie rozwiąże się problemu raka, nie da się leczyć AIDS.",
+   "cytat": "Wysunięto hipotezę, że to właśnie w tym pierwotniaku są wirusy AIDS (a nie jak przyjęło się uważać, w komórkach limfatycznych).",
+   "dziedzina": "medycyna"
+  }
+ ],
+ "tematy": ["rak", "nowotwory", "lewatywy", "sok z buraka", "system Nishi", "rzęsistek", "samoleczenie", "dieta", "psychika a choroba", "krytyka medycyny oficjalnej"],
+ "osoby": ["Michał Tombak", "Max Gerson", "Nishi", "Watanabe", "Zepp", "Abbot", "Ugolew", "Passet", "Hipokrates"],
+ "miejsca": ["Moskwa", "Japonia", "Tokio", "Osaka", "Sankt Petersburg", "Rosja", "Ameryka"],
+ "okresy": [
+  { "kiedy": "XII wiek p.n.e.", "co": "Pojawiają się pierwsze wzmianki o raku." },
+  { "kiedy": "1946", "co": "Amerykański lekarz Gerson zaproponował leczenie raka lewatywami." },
+  { "kiedy": "początek XX wieku", "co": "Prof. Zepp opisał łańcuch chorób prowadzących do wylewu, a dr Passet bakterie w komórkach mózgu." },
+  { "kiedy": "II wojna światowa", "co": "Niemieccy okupanci mieli wstrzykiwać zdrowym ludziom serum z treści jelita chorych na zaparcia." },
+  { "kiedy": "1958–1959", "co": "Według relacji Watanabe wyleczeni zostali japońscy chorzy leczeni systemem Nishi." },
+  { "kiedy": "od 1986", "co": "Autor i koledzy stosują system Nishi z modyfikacjami; od 1990 system trafia do ośrodków w Rosji." }
+ ],
+ "zrodla_cytowane": ["Michał Tombak – Uleczyć nieuleczalne", "Hud-szi – tybetański traktat o leczeniu chorób", "Ugolew – prace o trawieniu membranowym"]
+}

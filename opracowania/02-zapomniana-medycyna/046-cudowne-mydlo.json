@@ -1,0 +1,32 @@
+{
+  "id": "medalt/mydlo",
+  "tytul": "Cudowne mydło",
+  "streszczenie": "Krótki artykuł z wp.pl o badaniach zespołu Petera Vikeslanda: triclosan, popularny środek antybakteryjny w mydłach i pastach, w kontakcie z chlorowaną wodą wodociągową może przekształcać się w chloroform, substancję podejrzewaną o działanie rakotwórcze. Autorzy podają ilości powstającego chloroformu i zużycie triclosanu w USA. Naukowiec zastrzega, że celem badań nie jest ograniczenie stosowania triclosanu, tylko wsparcie świadomych decyzji konsumentów.",
+  "tezy": [
+    {
+      "teza": "Triclosan z mydeł i past w kontakcie z chlorowaną wodą wodociągową może przekształcać się w chloroform, który jest podejrzewany o działanie rakotwórcze.",
+      "cytat": "obecny w produktach higieny osobistej triclosan w kontakcie z chlorowaną wodą wodociągową może przekształcać się w chloroform, substancję chemiczną, która podejrzewana jest o działanie rakotwórcze.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Triclosan jest zużywany w USA w dużych ilościach i można go znaleźć w ściekach, rzekach i osadach.",
+      "cytat": "Przeciętny Amerykanin każdego dnia zużywa 5 miligramów tej substancji, co w przeliczeniu na całą populację USA daje około 1.5 tony na dzień",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Produkty z triclosanem dają znacznie więcej chloroformu niż produkty bez niego.",
+      "cytat": "Naukowcy określili ilość powstającego z triclosanu chloroformu na 60 mikrogramów na litr w produktach z dodatkiem antybaketryjnym oraz 2 mikrogramy na litr",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Autor badań nie dąży do zakazu triclosanu, lecz do świadomego wyboru konsumentów.",
+      "cytat": "Według dr Petera J. Vikeslanda jego badania nie mają na celu ograniczenia stosowania triclosanu, a jedynie mają dopomóc konsumentom w podejmowaniu świadomej decyzji podczas zakupów.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["triclosan", "mydła antybakteryjne", "chloroform", "chlorowana woda", "środki higieny osobistej", "substancje rakotwórcze"],
+  "osoby": ["Peter J. Vikesland"],
+  "miejsca": ["USA", "Virginia Polytechnic Institute and State University"],
+  "okresy": [],
+  "zrodla_cytowane": ["Environmental Science & Technology – badania zespołu Vikeslanda (za wp.pl)"]
+}

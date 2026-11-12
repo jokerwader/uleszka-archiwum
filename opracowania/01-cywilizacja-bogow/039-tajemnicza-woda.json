@@ -1,0 +1,81 @@
+{
+  "id": "woda",
+  "tytul": "Tajemnicza woda",
+  "streszczenie": "Autor strony przepisuje artykuł dr. inż. Sergieja Filina z Politechniki Szczecińskiej o niezwykłych właściwościach wody, opublikowany w czasopiśmie chłodniczym. Tekst zaczyna od anomalii fizycznych wody (pojemność cieplna, lód lżejszy od cieczy, struktura wiązań wodorowych), potem przechodzi do przechłodzenia i zeszklenia wody oraz do wody z topniejącego lodu i obróbki magnetycznej. Dalej opisuje „wodę żywą i martwą”, ukraińskie „spinory”, technologię Grandera, rosyjskie koncepcje „pamięci wody” (Zenin, Stiepanow, Szpilman) oraz kod „SmartWater” używany przez policję. Filin kończy tezą, że odkrycia o wodzie zapowiadają skok ludzkości do nowych form energii, w tym „energii myśli”, co ma uczynić zbędnymi obecne techniki chłodzenia.",
+  "tezy": [
+    {
+      "teza": "Woda ma szereg anomalii fizycznych, m.in. najwyższą pojemność cieplną spośród substancji i minimum tej pojemności przy ok. 37°C, czyli w temperaturze ciała człowieka.",
+      "cytat": "Wykres zależności właściwej pojemności cieplnej wody od temperatury posiada minimum przy temperaturze około 37°C, tzn. odpowiada normalnej temperaturze ciała człowieka.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Lód jest lżejszy od wody, co chroni zbiorniki wodne przed całkowitym zamarznięciem.",
+      "cytat": "Lód jako lżejszy od wody pływa na jej powierzchni, co chroni akweny Ziemi przed wymrożeniem w srogie zimy.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Przyczyną niezwykłych właściwości wody są wiązania wodorowe tworzące złożone struktury cząsteczek.",
+      "cytat": "Podstawową przyczyną wszystkich wyróżniających się właściwości wody jest obecność wiązań (mostków) wodorowych pomiędzy cząsteczkami wody.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Woda po stopieniu lodu zachowuje przez kilka godzin zwiększoną aktywność biologiczną, co ma służyć roślinom i zdrowiu człowieka.",
+      "cytat": "Sadownicy i ogrodnicy wiedzą dobrze, że w celu przyspieszenia wzrostu roślin zaleca się ich podlewanie taką wodą.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Woda w komórkach przy ok. 4°C może przejść w „czwarty stan skupienia”, w którym jogowie mają trwać w anabiozie przez setki lub tysiące lat.",
+      "cytat": "W stan anabiozy indyjscy i nepalscy jogowie wprowadzają się drogą medytacji i mogą pozostawać w nim w głębokich jaskiniach górskich w temperaturze około 4°C dziesiątki, setki, a nawet i tysiące lat",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Hipoteza podana w tekście wiąże biblijne chodzenie Jezusa po wodzie z tym fenomenem „skamieniałej” wody.",
+      "cytat": "Istnieje hipoteza, że u podstaw biblijnej opowieści o tym, jak Jezus Chrystus chodził po wodzie leży właśnie ten fenomen",
+      "dziedzina": "religia"
+    },
+    {
+      "teza": "Woda poddana polu magnetycznemu zwiększa plony i zmniejsza osady w instalacjach.",
+      "cytat": "Agronomowie z ożywieniem raportowali o niemal 30% wzroście urodzaju warzyw regularnie podlewanych taką wodą.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Ukraińscy specjaliści mieli odkryć „spinory” – dwie odmiany wody o działaniu leczniczym, rzekomo leczące m.in. gruźlicę, wirusy i AIDS.",
+      "cytat": "Ukraińscy specjaliści odkryli nową postać wody. Nie fizyczną, jak lód, woda lub para, a dwie fizykochemiczne odmiany ciekłej wody - dwa spinory: dodatni i ujemny",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Woda może przechowywać informację jak nośnik danych; Zenin opisuje „kryształki” z 912 cząsteczek, których ściany tworzą kod dwójkowy.",
+      "cytat": "Dzięki istnieniu struktury w wiązaniach wodorowych, woda jest bardzo pojemną energetycznie substancją. Według prof. Mołdaszewa nawet bardziej pojemną niż geny człowieka.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Uzdrowiciele mogą myślą zmieniać przewodność elektryczną wody i wytwarzać wodę „żywą” oraz „martwą”.",
+      "cytat": "Uczony podał mu menzurkę, a on na niej mocno skupił swoją uwagę. W porównaniu z próbką kontrolną destylat w menzurce uzdrowiciela zwiększył swoją przewodność elektryczną kilkukrotnie!",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Woda zapisuje informację o człowieku, także z jego fotografii, co ma wykazać badanie chromatograficzne (Stiepanow).",
+      "cytat": "chromatogram wody zdjętej z fotografii był identyczny z wykresem dla wody poddanej działaniu samego człowieka",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "We Wszechświecie istnieją dwie „wody” – H2O jako podstawa życia i Li2O jako podstawa procesów w gwiazdach.",
+      "cytat": "Okazuje się, że we Wszechświecie są niejako dwie wody, dwa podstawowe nośniki informacji. H2O - podstawa życia biologicznego oraz Li2O (Li - lit) - podstawa wszystkich procesów zachodzących w gwiazdach.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Ludzkość stoi na progu opanowania „energii myśli”, miliony razy silniejszej od jądrowej, co uczyni dzisiejsze chłodnictwo zbędnym.",
+      "cytat": "energii myśli, nazywanej też energią psychiczną lub energią niskiego poziomu. Jej moc jest miliony razy większa niż energii jądrowej.",
+      "dziedzina": "fizyka"
+    }
+  ],
+  "tematy": ["woda", "właściwości wody", "pamięć wody", "woda żywa i martwa", "spinory", "homeopatia", "obróbka magnetyczna", "anabioza", "energia myśli", "przechłodzenie"],
+  "osoby": ["Sergiej Filin", "E.R. Mułdaszew", "I. Grander", "Stanisław Zenin", "Aleksandr Stiepanow", "Aleksandr Szpilman", "W. Barziński", "W.D. Płykin", "Ł.A. Kulski", "W.A. Bobkow", "Phil i Mike Cleary", "Akimow", "Jezus Chrystus"],
+  "miejsca": ["Tybet", "Ukraina", "Rosja", "Ocean Indyjski", "Wielka Brytania", "Szczecin"],
+  "okresy": [
+    { "kiedy": "kwiecień 2004", "co": "Dyrektor Ukraińskiego Centrum Systemowo-Analitycznego publicznie opisuje „spinory”." },
+    { "kiedy": "lata 70. XX wieku", "co": "Prof. Kulski bada magnetyczną obróbkę wody." },
+    { "kiedy": "lata 90. XX wieku", "co": "Głośno o leczeniu wodą „żywą i martwą” w Polsce (wg autora strony)." }
+  ],
+  "zrodla_cytowane": ["Sergiej Filin – artykuł o niezwykłych właściwościach wody (czasopismo chłodnicze)", "E.R. Mułdaszew – książki o wyprawach do Tybetu", "Biblia – Księga Rodzaju o wodach pod i nad sklepieniem (cytat)"]
+}

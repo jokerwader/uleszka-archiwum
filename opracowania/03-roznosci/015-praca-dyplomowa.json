@@ -1,0 +1,75 @@
+{
+ "id": "magister/magister",
+ "tytul": "Praca dyplomowa",
+ "streszczenie": "Tekst jest poradnikiem formalnym, jak pisać prace kontrolne, seminaryjne i magisterskie, na przykładzie Uniwersytetu Gdańskiego (aktualizacja 16.06.2004). Omawia planowanie i konstrukcję pracy, wymogi redakcyjne (marginesy, czcionki, numeracja), stronę tytułową, spis treści, wstęp i zakończenie, przypisy, cytaty, bibliografię, tablice, rysunki, załączniki i wyróżnienia. Jako przykład cytatu użyto fragmentu Al-Makrisiego o budowie piramid przez Saurida. Autor kończy stwierdzeniem, że przestrzeganie tych zasad jest warunkiem spełnienia wymogów formalnych i podstawą oceny pracy.",
+ "tezy": [
+  {
+   "teza": "Pisanie pracy można porównać do procesu produkcyjnego składającego się z ciągu operacji prowadzących do produktu końcowego.",
+   "cytat": "Proces pisania pracy w pewnym sensie porównać można z procesem produkcyjnym w zakładzie pracy.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Tematy prac seminaryjnych powinny być wąskie i konkretne, a ich poprawność nadzoruje promotor.",
+   "cytat": "Dlatego też tematy prac seminaryjnych powinny być wąskie i konkretne.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Plan pracy jest dynamiczny i zmienia się w trakcie pisania, aż stanie się ostatecznym spisem treści.",
+   "cytat": "Plan pracy w trakcie jej realizacji ulega zatem ciągłym modyfikacjom, aż do ostatecznej wersji, która stanie się spisem treści w momencie jej zakończenia.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Powtórzenia tych samych zagadnień w pracy są niedopuszczalne i świadczą o złej logice układu.",
+   "cytat": "Powtarzanie tych samych zagadnień w kilku miejscach opracowania jest niedopuszczalne i świadczy o braku logiki w całym układzie pracy.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Praca seminarska musi być złożona w maszynopisie, a pisanie komputerowe imituje to czcionką Courier New.",
+   "cytat": "Praca seminaryjna (w odróżnieniu od pracy magisterskiej) musi być składana do oceny w maszynopisie.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Sztuczne zwiększanie objętości pracy (większa czcionka i interlinia) nie oszukuje już oceniających.",
+   "cytat": "Piszący prace imają się różnych sposobów sztucznego powiększania objętości pracy. Najbardziej popularnymi są zwiększenie wielkości czcionki i odstępu między wierszami.",
+   "dziedzina": "społeczeństwo"
+  },
+  {
+   "teza": "Wstęp ma charakter metodologiczny i razem z zakończeniem stanowi końcowy efekt pracy autora.",
+   "cytat": "Są one integralną częścią pracy. Wstęp i zakończenie stanowią końcowy efekt pracy autora. Wstęp ma charakter metodologiczny i powinien zawierać:",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Zakończenie ma być syntezą pracy, a nie powtórzeniem wniosków, co jest częstym błędem prac.",
+   "cytat": "Zakończenie pracy nie powinno zawierać bezpośredniego powtórzenia wniosków zawartych w treści pracy. Jest to nagminny błąd prac seminaryjnych i magisterskich.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Brak przypisów dyskwalifikuje pracę, bo świadczy o nieznajomości literatury lub sugeruje plagiat.",
+   "cytat": "Brak przypisów w pracy seminaryjnej lub magisterskiej w zasadzie z góry ją dyskwalifikuje, ponieważ stanowi to dowód nieopanowania przez piszącego literatury przedmiotu, bądź też sugeruje, że przedstawione do oceny opracowanie jest plagiatem.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Bibliografia obejmuje tylko pozycje, na które autor powołał się w tekście.",
+   "cytat": "Obejmują tylko te pozycje, na które piszący pracę powołał się w tekście pracy.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Na Uniwersytecie Gdańskim zaleca się termin „tablica” zamiast „tabela”.",
+   "cytat": "Ponieważ niniejsze opracowanie jest przeznaczone dla studentów Uniwersytetu Gdańskiego, zaleca się używać tego terminu, jako przyjętego zwyczajowo w środowisku tej uczelni.",
+   "dziedzina": "inne"
+  },
+  {
+   "teza": "Przestrzeganie zasad formalnych jest warunkiem koniecznym i podstawą końcowej oceny pracy.",
+   "cytat": "Przestrzeganie reprezentowanych zasad jest nieodzownym warunkiem spełnienia wymogów formalnych prac seminaryjnych i magisterskich, co jest również przesłanką do ostatecznej oceny pracy.",
+   "dziedzina": "inne"
+  }
+ ],
+ "tematy": ["praca dyplomowa", "praca magisterska", "wymogi formalne", "przypisy i bibliografia", "redakcja tekstu", "Uniwersytet Gdański", "cytowanie"],
+ "osoby": ["K. Święcicki", "J. Rudniański", "Al-Makrisi", "Saurid"],
+ "miejsca": ["Uniwersytet Gdański", "Gdańsk", "piramidy egipskie"],
+ "okresy": [
+  { "kiedy": "trzysta lat przed potopem", "co": "Według cytowanego fragmentu Saurid miał sen o odwróceniu się Ziemi i spadających gwiazdach, co skłoniło do budowy piramid." },
+  { "kiedy": "16.06.2004", "co": "Data ostatniej aktualizacji poradnika." }
+ ],
+ "zrodla_cytowane": ["K. Święcicki – Jak studiować. Jak pisać pracę magisterską?", "J. Rudniański – Sprawność umysłowa. Wybór metod", "Al-Makrisi – fragment o budowie piramid (cytat przykładowy)", "PN-65/N-01173 – Przepisy bibliograficzne - kompozycja wydania książki", "PN-73/N-01152 – Opis bibliograficzny"]
+}

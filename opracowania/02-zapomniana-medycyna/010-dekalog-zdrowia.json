@@ -1,0 +1,27 @@
+{
+  "id": "medalt/koniec",
+  "tytul": "Dekalog zdrowia",
+  "streszczenie": "Krótkie podsumowanie cyklu o zdrowiu w formie dziesięciu zasad żywieniowych i ruchowych. Autor twierdzi, że nie istnieją cudowne diety, a przestrzeganie zasad (przede wszystkim niełączenia białek z węglowodanami) daje szczupłą sylwetkę i zdrowie bez liczenia kalorii. Kończy stwierdzeniem, że kto się do nich zastosuje, będzie oglądał lekarzy tylko w serialach.",
+  "tezy": [
+    {
+      "teza": "Samo niełączenie pokarmów białkowych z węglowodanowymi wystarcza do chudnięcia około kilograma tygodniowo, bez diet i liczenia kalorii.",
+      "cytat": "Już po wprowadzeniu zasady pierwszego punktu będziesz szczupleć w tempie 1 kilograma na tydzień.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Przestrzeganie dziesięciu zasad praktycznie eliminuje potrzebę korzystania z lekarzy.",
+      "cytat": "Jeśli w pełni zastosujesz się do punktu pierwszego, a pozostałe będziesz przestrzegać przynajmniej w połowie, to lekarzy będziesz oglądać tylko w serialach telewizyjnych",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Ruch jest najlepszym lekarstwem i nie ma na niego zamiennika w postaci tabletek.",
+      "cytat": "Najlepszym lekarstwem jest ruch. Na to tabletek nie ma i chyba nigdy nie będzie.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["dekalog zdrowia", "dieta", "łączenie pokarmów", "odchudzanie", "ruch", "zasady żywienia"],
+  "osoby": [],
+  "miejsca": [],
+  "okresy": [],
+  "zrodla_cytowane": []
+}

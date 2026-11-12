@@ -1,0 +1,71 @@
+{
+  "id": "ankietabo",
+  "tytul": "Polska przecieka",
+  "streszczenie": "Autor pyta, dlaczego z państwa polskiego nieustannie wyciekają informacje, i wskazuje dwie przyczyny: celową manipulację przez nieformalny układ oraz nieprzestrzeganie ustawy o tajemnicy przez samych polityków. W tym celu przytacza pełny wzór ankiety bezpieczeństwa osobowego z komentarzami, fragmenty ustawy z 22 stycznia 1999 roku o ochronie informacji niejawnych oraz listę informacji o klauzulach ściśle tajne i tajne. Zwraca uwagę, że z art. 27 ustawy wyłączono ze sprawdzania prezydenta, premiera, posłów, senatorów i innych najwyższych urzędników. Autor twierdzi, że ta luka pozwoliła na obecność współpracowników służb w polityce, a Polska będzie przeciekać, dopóki prawo nie zacznie obowiązywać rządzących.",
+  "tezy": [
+    {
+      "teza": "Przecieki wynikają z braku przestrzegania ustawy o tajemnicy przez polityków, którzy ją ustanowili.",
+      "cytat": "a drugi - to elementarny brak przestrzegania przepisów ustawy o tajemnicy przez tych, którzy takie prawo ustanowili, czyli krótko mówiąc przez polityków",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Prawo uchwalane przez Sejm nie obowiązuje samych ustawodawców, tylko pozostałych obywateli.",
+      "cytat": "prawo ustanawiane przez Sejm jest prawem dla motłochu i nie obowiązujące ustawodawców",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Informacje bez jednej z czterech klauzul tajności powinny być jawne, a inne oznaczenia są próbą obejścia ustawy.",
+      "cytat": "Każda informacja nie posiadająca jednej z czterech urzędowych klauzul tajności jest (a przynajmniej powinna być) informacją jawną.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Posłowie, senatorowie, prezydent, premier i inni najwyżsi urzędnicy nie są objęci postępowaniem sprawdzającym.",
+      "cytat": "Postępowania sprawdzającego nie przeprowadza się, z zastrzeżeniem ust. 4, wobec posłów i senatorów.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Najwyższe stanowiska w państwie są ponad ustawą o ochronie tajemnicy, więc można na nie powołać każdego.",
+      "cytat": "Rząd, Sejm, Senat i inne najwyższe stanowiska państwowe były (i są) ponad ustawą o ochronie tajemnicy.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Ustawa o tajemnicy służyła do ukrywania złodziejstwa i korupcji na wysokich szczeblach władzy.",
+      "cytat": "ustawa o tajemnicy służyła (przynajmniej do dziś) tylko do maskowania i ukrywania złodziejstwa, malwersacji, korupcji i innych patologii występujących na najwyższych i wysokich szczeblach władzy",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Gdyby rzetelnie sprawdzano posłów i senatorów, nie byłoby wśród nich tylu tajnych współpracowników służb.",
+      "cytat": "Jeśliby tę ankietę wypełniano rzetelnie i nie mniej rzetelnie ją zweryfikowano, to nie byłoby takiej ilości TW wśród posłów i senatorów, szczególnie w pierwszych kadencjach.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Laptopy z informacjami niejawnymi nie mogą być wynoszone do domu, a kradzieże laptopów posłów świadczą o łamaniu ustawy.",
+      "cytat": "Co oznacza, że takiego laptopa nie wolno zabierać do domu czy pozostawiać w samochodzie.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Dawne WSI nie wypełniały swych ustawowych zadań sprawdzających i wspierały osoby wrogie Polsce, więc ich likwidacja była konieczna.",
+      "cytat": "starego WSI, które jako instytucja sprawdzająca, absolutnie nie spełniała swoich ustawowych zadań, a wręcz przeciwnie - wspierała ludzi wrogich Polsce.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Przecieki służą dziś do manipulowania społeczeństwem, a ankieta bezpieczeństwa wypełniana przez rządzących odsiałaby szubrawców.",
+      "cytat": "Gdyby ci, co nami rządzą podlegali jak inni obywatele tej ustawie, gdyby musieli wypełniać ankiety, jak przedstawiona wyżej, szubrawcy nie przeszliby przez sito.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Przewidywanie: Polska będzie przeciekać, dopóki organy ochrony nie zaczną działać, a ustawodawcy nie zaczną przestrzegać prawa.",
+      "cytat": "dopóki organy wyznaczone do ochrony informacji nie zaczną wypełniać swoich ustawowych obowiązków, sprawcy nie zaczną być karani, a ci co ustanawiają prawo nie zaczną go przestrzegać",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["przecieki informacji", "ochrona informacji niejawnych", "ankieta bezpieczeństwa osobowego", "klauzule tajności", "wsi", "lustracja", "przywileje polityków", "prawo i jego egzekwowanie"],
+  "osoby": ["Alek", "Olin", "Wolski"],
+  "miejsca": ["Sejm", "Senat", "Wiejska", "Starachowice"],
+  "okresy": [
+    { "kiedy": "22 stycznia 1999", "co": "Data uchwalenia ustawy o ochronie informacji niejawnych, na której opiera się cały tekst." },
+    { "kiedy": "11 kwietnia 1997", "co": "Data ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa w latach 1944-1990, o której mowa w punkcie 11 ankiety." },
+    { "kiedy": "1944-1990", "co": "Okres, którego dotyczy pytanie o współpracę z organami bezpieczeństwa w ankiecie." }
+  ],
+  "zrodla_cytowane": ["Ustawa z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. nr 11 poz. 95)", "Ustawa z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990", "Ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. nr 133 poz. 883)"]
+}

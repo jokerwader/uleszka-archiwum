@@ -1,0 +1,77 @@
+{
+  "id": "medalt/domlecz",
+  "tytul": "Leczymy się w domu",
+  "streszczenie": "Bardzo obszerny zbiór domowych i ziołowych sposobów leczenia, zebrany z książek m.in. Tombaka, Górnickiej, Srokę i o. Klimuszki, ułożony według układów i chorób (drogi oddechowe, krążenie, trawienie, wątroba, nerki, skóra, choroby kobiece, dziecięce, nowotwory i inne). Autor od początku zastrzega, że takie leczenie jest pomocnicze i wymaga diagnozy lekarza. W drugiej części przytacza zestawy ziołowe o. Klimuszki, który twierdzi, że przez 25 lat stosował zioła także w przypadkach, w których lekarze byli bezradni. Autor przyznaje, że niektóre porady brzmią jak ze „Starej baśni”, i dodaje, że wpisał je z kronikarskiego obowiązku.",
+  "tezy": [
+    {
+      "teza": "Natura zawsze dostarcza lekarstwa na choroby, które w niej występują.",
+      "cytat": "Jeżeli w przyrodzie istnieje choroba, to i w przyrodzie istnieje lek na nią.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Leczenie niekonwencjonalne należy traktować jako pomocnicze, a rozpoznanie choroby powinno należeć do lekarza.",
+      "cytat": "Wszyscy piszący na temat leczenia niekonwencjalnego zastrzegają iż takie leczenie należy traktować jako leczenie pomocnicze.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Antybiotyki ratują życie, ale niszczą florę bakteryjną i odporność, dlatego po kuracji trzeba odbudowywać organizm ziołami i dietą.",
+      "cytat": "Nawet przy najostrożniejszym dawkowaniu organizm ludzki po otrzymaniu serii antybiotyków, zwłaszcza silniejszych, wygląda jak las po pożarze.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Proszek z huby brzozowej (czyra) jest stosowany przy nowotworach żołądka, płuc i białaczce.",
+      "cytat": "2 łyżeczki proszku z wysuszonego czyra brzozowego (innotus obliquus) na 1/2 szklanki ciepłej, przegotowanej wody pozostawić na noc do naciągnięcia.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Ziołowa mieszanka z kapustą wstrzymała raka żołądka i przedłużyła życie wielu chorych.",
+      "cytat": "Podana mieszanka wypróbowana przez szereg lat wielu pomogła w zahamowaniu choroby i o kilka lat przedłużyła życie ludzkie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Ocet jabłkowy przed jedzeniem i ograniczenie mięsa wyraźnie obniżają nadciśnienie.",
+      "cytat": "Trzeba zmniejszyć ilość spożywanego mięsa, a przed jedzeniem pić 1-3 łyżeczki octu jabłkowego. Ciśnienie krwi obniża się zauważalnie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Czosnek reguluje ciśnienie w obu kierunkach: obniża wysokie i podwyższa niskie.",
+      "cytat": "Czosnek reguluje ciśnienie. Gdy jest wysokie obniża je, gdy jest za niskie podwyższa.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Wywar z siemienia lnianego usuwa z organizmu toksyny i pierwiastki promieniotwórcze, także po naświetlaniach i chemioterapii.",
+      "cytat": "Podczas picia wywaru z siemienia lnianego z organizmu wydalane są toksyny, pierwiastki promieniotwórcze i inne szkodliwe związki.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Sok z cytryny z sokami warzywnymi pozwala w kilka dni lub tygodni pozbyć się piasku i kamieni w nerkach i pęcherzyku żółciowym.",
+      "cytat": "W ten sposób można pozbyć się piasku i kamieni w ciągu kilku dni lub tygodni (w zależności od ilości i rozmiarów)",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Hemoroidy są jednym ze stopni prowadzących do raka jelita grubego.",
+      "cytat": "Każdy powinien być świadom tego, że hemoroidy to jeden ze szczebli drabiny prowadzącej do raka jelita grubego.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Dym z palonych brzozowych polan ma przeniknąć do dróg oddechowych i wyleczyć gronkowca złocistego.",
+      "cytat": "Już następnego dnia gronkowiec powinien przestać nas niepokoić. Jeśli całkiem nie zniknął należy powtórzyć zabieg.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "O. Klimuszko twierdzi, że przez 25 lat stosował zioła z pozytywnym skutkiem w stanach, w których lekarze byli bezradni.",
+      "cytat": "Stosowałem je w praktyce w przypadkach beznadziejnych stanów chorobowych, kiedy lekarze opuścili ręce bezradnie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Autor przyznaje, że nie umiemy dziś wyjaśnić działania wielu dawnych porad, i prosi, by w nie po prostu wierzyć.",
+      "cytat": "Porady naszych przodków, oprócz dziwnego czasem języka, mają jeszcze to do siebie, że my nawet dziś nie potrafimy wyjaśnić złożonych procesów zachodzących przy leczeniu.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["leczenie domowe", "zioła lecznicze", "mieszanki ziołowe", "nadciśnienie", "kamica nerkowa", "antybiotyki", "nowotwory", "choroby kobiece", "leczenie dzieci", "tybetańskie recepty odmładzające", "siemię lniane", "medycyna ludowa"],
+  "osoby": ["Hipokrates", "Michał Tombak", "Jadwiga Górnicka", "Jasiak", "Tuszyńska", "o. Franciszek Sroka", "o. Andrzej Czesław Klimuszko"],
+  "miejsca": ["Syberia", "Tybet"],
+  "okresy": [],
+  "zrodla_cytowane": ["Andrzej Czesław Klimuszko – Wróćmy do ziół"]
+}

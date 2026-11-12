@@ -1,0 +1,52 @@
+{
+  "id": "medalt/aids",
+  "tytul": "AIDS bez HIV?",
+  "streszczenie": "Maciej Trojanowski, powołując się na książkę Christine Maggiore i artykuł w The Business (2004), przedstawia poglądy kwestionujące zależność HIV = AIDS. Autor twierdzi, że AIDS jest kategorią administracyjną, a nie chorobą, że testy na HIV wykrywają przeciwciała, których swoistość dla wirusa nigdy nie została dowiedziona, oraz że terapia lekami jest szkodliwa. Opisuje pozwy osób z dodatnim wynikiem w USA i Francji przeciw producentom testów. Przykładem ma być Magic Johnson, który po zaprzestaniu leczenia pozostał zdrowy. Na końcu dołączono fragment o kenijskiej prostytutce odpornej na HIV.",
+  "tezy": [
+    {
+      "teza": "AIDS nie jest chorobą w rozumieniu medycyny, lecz kategorią medyczną lub administracyjną zbudowaną z 29 znanych symptomów.",
+      "cytat": "AIDS NIE JEST CHOROBĄ w rozumieniu medycyny! Powtarzając za Christine Maggiore: AIDS jest \"kategorią medyczną\", a może nawet administracyjną.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Skokowy wzrost zachorowań w USA wynikał z decyzji administracyjnej o zaliczeniu kolejnych objawów do syndromu AIDS.",
+      "cytat": "Na przełomie lat osiemdziesiątych i dziewięćdziesiątych gwałtowny, skokowy wzrost liczby zachorowań w USA był wynikiem decyzji",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Testy na HIV nie wykrywają wirusa, a przeciwciała, i nigdy nie ustalono, które białka są swoiste dla HIV, więc wynik może być dodatni z innych przyczyn.",
+      "cytat": "Nikt nigdy jednoznacznie nie ustalił, jakie białka i dlaczego mają służyć jako diagnostyczne antygeny.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Dr Gallo ogłosił w 1984 r. HIV jako możliwą przyczynę AIDS bez przedstawienia dowodów i bez weryfikacji, a od razu złożył wniosek patentowy na test.",
+      "cytat": "Nieco później tego samego dnia dr Gallo złożył wniosek patentowy na test diagnostyczny na przeciwciała, znany jako AIDSTEST (!).",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Magic Johnson pozostał zdrowy, bo przestał się leczyć, a zestaw leków przeciw AIDS jest bardzo szkodliwy dla organizmu.",
+      "cytat": "Zestaw leków stosowanych w terapii AIDS stanowi bowiem niezwykle niebezpieczną i szkodliwą dla organizmu mieszaninę.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Zdjęcia przedstawiające HIV pochodzą z kultur komórkowych będących mieszaniną cząsteczek, a nie z wyizolowanego wirusa.",
+      "cytat": "Fotografie, które były opublikowane w artykułach, w licznych gazetach i magazynach, podpisywane jako przedstawiające HIV, nie pochodzą z wyizolowanego materiału",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Osoby z dodatnim wynikiem pozywają producentów testów, co może zmienić podejście do epidemii.",
+      "cytat": "W ten sposób dyskusja na temat paradygmatu HIV=AIDS z podziemnej przeobraża się w publiczną",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": ["aids", "hiv", "testy diagnostyczne", "paradygmat hiv=aids", "pozwy sądowe", "terapia antyretrowirusowa", "krytyka medycyny oficjalnej"],
+  "osoby": ["Maciej Trojanowski", "James DeMeo", "Christine Maggiore", "Magic Johnson", "Kim Bannon", "Mark Griffiths", "Philippe Autrive", "Robert Gallo", "Neville Hodkinson", "Salome Simon", "dr Plummer"],
+  "miejsca": ["Kansas", "Francja", "USA", "Instytut Pasteura", "Nairobi", "Majengo", "Oxford University"],
+  "okresy": [
+    { "kiedy": "1984", "co": "dr Gallo ogłosił retrowirusa jako możliwą przyczynę AIDS i złożył wniosek patentowy na test" },
+    { "kiedy": "połowa lat 80.", "co": "tylko 4% przypadków z testu Western Blot potwierdzało się w teście ELISA" },
+    { "kiedy": "maj 1986", "co": "u Marka Griffithsa zdiagnozowano HIV podczas kuracji antyheroinowej" },
+    { "kiedy": "maj 2004", "co": "publikacja w The Business o pozwach przeciw producentom testów" }
+  ],
+  "zrodla_cytowane": ["Christine Maggiore – A co, jeśli wszystko co wiedziałeś o Aids było błędne?", "Neville Hodkinson – artykuł w The Business (9/10 maja 2004)"]
+}

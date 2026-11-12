@@ -1,0 +1,54 @@
+{
+  "id": "medalt/aspartam",
+  "tytul": "Dietetyczny aspartam?",
+  "streszczenie": "Artykuł Laury Orkan z 2001 roku przedstawia aspartam jako silną truciznę dodawaną do wielu produktów spożywczych. Autorka twierdzi, że jego składniki (kwas asparaginowy, fenyloalanina, metanol) szkodzą mózgowi i oczom oraz wywołują wiele chorób, w tym nowotwory, stwardnienie rozsiane i cukrzycę. Oskarża producentów o fałszowanie badań i o wpływ na decyzje amerykańskiego urzędu FDA. Na końcu dołączono wiadomość z 2006 roku o raporcie EFSA, który nie stwierdził związku aspartamu z rakiem, oraz ironiczny komentarz redaktora.",
+  "tezy": [
+    {
+      "teza": "Aspartam rozkłada się w organizmie m.in. na metanol, kwas mrówkowy i formaldehyd, które są silnie toksyczne.",
+      "cytat": "Najbardziej szkodliwy jest ten ostatni, gdyż rozkłada się w organizmie na kwas mrówkowy i formaldehyd - silnie toksyczną neurotoksynę.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Litr napoju z aspartamem zawiera wielokrotnie więcej metanolu niż maksymalna bezpieczna dawka dzienna.",
+      "cytat": "Maksymalna bezpieczna dla nas dawka to 7,8 mg/dzień, a litr słodzonego aspartamem napoju zawiera około 56 mg metanolu!",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Aspartam może wywoływać lub zaostrzać nowotwory mózgu, stwardnienie rozsiane, padaczkę, chorobę Alzheimera i inne schorzenia.",
+      "cytat": "Faktem jest, że aspartam odpowiedzialny jest za ponad 75% przypadków złego tolerowania dodatków żywnościowych, zgłaszanych amerykańskiemu Urzędowi ds. Leków i Żywnosci.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Nadmiar kwasu asparaginowego zabija neurony przez napływ wapnia do komórek i wolne rodniki.",
+      "cytat": "Nadmiar kwasu asparaginowego prowadzi do śmierci pewnych neuronów w mózgu, gdyż powoduje napływ wapnia do komórek.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Fenyloalanina z aspartamu obniża poziom serotoniny i może uszkadzać mózg, co ilustruje przypadek Johna Cooka.",
+      "cytat": "Znany jest przypadek Johna Cooka, który wypijał dziennie 6-8 dietetycznych napojów dziennie słodzonych aspartamem.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Wyniki badań producentów słodzików były fałszowane, a aspartam pozostaje dopuszczony z powodów korupcyjnych.",
+      "cytat": "Już w latach 70-tych udowodniono, że wyniki badań wykonywane przez producentów słodzików były wielokrotnie fałszowane, ale nadal nie ma zakazu.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Agencja EFSA w 2006 roku uznała, że aspartam nie powoduje raka, a norma 40 mg na kilogram masy ciała dziennie pozostaje bezpieczna.",
+      "cytat": "Aspartam nie powoduje raka. Sztuczny słodzik, aspartam nie ma związku z rakiem - wynika z raportu zajmującej się bezpieczeństwem żywności agencji European Food Safety Authority (EFSA).",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["aspartam", "słodziki", "metanol", "neurotoksyny", "dodatki do żywności", "fałszowanie badań", "efsa", "fda"],
+  "osoby": ["Laura Orkan", "John Cook", "Luis J. Elsas"],
+  "miejsca": ["USA", "Bolonia"],
+  "okresy": [
+    { "kiedy": "1965", "co": "przypadkowe odkrycie aspartamu podczas poszukiwań leku na wrzody" },
+    { "kiedy": "1981", "co": "aspartam zaczęto dodawać do suchej żywności" },
+    { "kiedy": "5 grudnia 1974", "co": "amerykański urząd FDA uchylił zgodę na aspartam po protestach naukowców" },
+    { "kiedy": "1983", "co": "aspartam zaczęto stosować w napojach gazowanych" },
+    { "kiedy": "2005", "co": "włoscy naukowcy z fundacji Ramazzini opublikowali badania wskazujące na rakotwórczość aspartamu u szczurów" },
+    { "kiedy": "11 maja 2006", "co": "EFSA ogłosiła, że aspartam nie ma związku z rakiem" }
+  ],
+  "zrodla_cytowane": ["Laura Orkan – Tik-Tak? To tylko dwie kalorie (Gwiazdy mówią, nr 3/2001)", "European Journal of Clinical Oncology – badania fundacji Ramazzini (2005)", "raport EFSA (za Onet.pl, 11 maja 2006)"]
+}

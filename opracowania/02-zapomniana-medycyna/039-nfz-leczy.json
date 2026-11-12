@@ -1,0 +1,62 @@
+{
+  "id": "medalt/nfz",
+  "tytul": "NFZ leczy",
+  "streszczenie": "Tekst jest zbiorem cytowanych doniesień prasowych o absurdach w działaniu Narodowego Funduszu Zdrowia. Opisuje m.in. wymóg ośmiodniowego leczenia zapalenia płuc, brak świadczeń dla geriatrów, cięcia stawek za chorych na białaczkę, odmowę finansowania leków i limity przyjęć pacjentów. Dodaje doniesienia o włamaniach do serwisu lekarzy, wymiarach recept i kosztownym wystroju biur NFZ. Redaktor strony kończy pytaniem, czy to nie planowe obniżanie liczby Polaków zgodnie z dyrektywami Unii Europejskiej.",
+  "tezy": [
+    {
+      "teza": "NFZ nie płaci szpitalom za leczenie zapalenia płuc krótsze niż osiem dni, co zmusza lekarzy do wpisywania innych rozpoznań.",
+      "cytat": "NFZ orzekł, że zapalenie płuc to choroba leczona co najmniej osiem dni. Jeśli pacjent wcześniej zostanie wypisany do domu, szpital nie dostanie pieniędzy za leczenie.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Katalog świadczeń NFZ nie obejmuje części chorób, np. ostrego tętniaka aorty, więc lekarze muszą kodować inne schorzenia.",
+      "cytat": "Ostry tętniak rozwarstwiający aorty nie występuje w tzw. katalogu świadczeń, refundowanych przez Narodowy Fundusz Zdrowia.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "NFZ nie pozwala geriatrom zlecać części badań i nie płaci za diagnozowanie chorób ich pacjentów.",
+      "cytat": "NFZ nie pozwala geriatrom zlecać tomografii płuc, USG czy przepisywać sprzętu ortopedycznego",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "NFZ płaci szpitalom tylko połowę stawki za chorych na białaczkę, u których leczenie nie powiodło się lub nastąpił nawrót.",
+      "cytat": "Za pacjentów, u których nie powiodła się pierwsza faza leczenia oraz którzy mają nawrót choroby płaci szpitalom tylko połowę stawki.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Prezes NFZ zagroził szpitalom brakiem zapłaty za jakiegokolwiek pacjenta przyjętego ponad miesięczny limit.",
+      "cytat": "Rok temu zagroził szpitalom i przychodniom, że jeśli przyjmą choć jednego pacjenta ponad miesięczny limit, zamiast zapisać go w kolejce, to w ogóle nie dostaną pieniędzy za leczenie.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "NFZ odmawia finansowania leków i programów lekowych, m.in. hormonu wzrostu dla dzieci z zespołem Pradera-Willego.",
+      "cytat": "Dzieci z zespołem Paradera-Willego nie dostają hormonu wzrostu, który ratuje im życie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Lekarze oskarżyli NFZ o włamania do ich serwisu internetowego w celu poznania strategii negocjacyjnej.",
+      "cytat": "Lekarze z Porozumienia Zielonogórskiego oskarżają NFZ, że włamywał się do ich serwisu internetowego i dzięki temu dysponował tajnymi informacjami przydatnymi w czasie finansowych negocjacji z lekarzami.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "NFZ stosuje absurdalne ograniczenia wiekowe, np. refunduje leczenie raka jelita grubego tylko do 65. roku życia.",
+      "cytat": "NFZ płaci za leczenie chorych na raka jelita grubego, ale tylko tych, którzy mają do 65 lat.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "NFZ wydaje duże sumy na wystrój biur i nagrody, podczas gdy odmawia finansowania leczenia chorych.",
+      "cytat": "Ostatnio prezes Funduszu wydał blisko 2 mln zł na nagrody dla swoich pracowników.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Redaktor sugeruje, że działania NFZ mogą być planową akcją zmniejszania liczby Polaków zgodnie z dyrektywami UE.",
+      "cytat": "A może to nie matoły, a planowe działanie mające obniżyć \"pogłowie\" Polaków zgodnie z dyrektywami Unii Europejskiej?",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["nfz", "polska służba zdrowia", "refundacja", "biurokracja", "kontrakty ze szpitalami", "geriatria", "onkologia", "limity przyjęć"],
+  "osoby": ["Paweł Górski", "Zenon Gawor", "Jarosław Derejczyk", "Jerzy Hołowiecki", "Jerzy Miller", "Maria Libura", "Tadeusz Kubalski", "Marek Twardowski", "Zdzisław Drożak"],
+  "miejsca": ["Łódź", "Kielce", "Śląsk", "Lublin", "Warszawa", "Wielkopolska", "Polska"],
+  "okresy": [],
+  "zrodla_cytowane": ["Dziennik Łódzki – o tętniaku i katalogu świadczeń", "Nowy Dzień – o kosztownym kaprysie NFZ"]
+}

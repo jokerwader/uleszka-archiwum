@@ -1,0 +1,70 @@
+{
+  "id": "ameryka/sacsay",
+  "tytul": "Sacsayhuaman",
+  "streszczenie": "Autor opisuje kompleks Sacsayhuaman koło Cusco, krytykuje powierzchowność badań archeologicznych i kwestionuje inkaskie pochodzenie budowli. Zwraca uwagę na gigantyczne, ściśle dopasowane bloki, zygzakowate mury, ślady na kamieniu, system tarasów i odwodnienia oraz podobieństwa do Cusco, Ollantaytambo i Machu Picchu. Proponuje, że kamień obrabiano techniką jego uplastyczniania i że obiekt był centrum przemysłowo-energetycznym wzniesionym przez cywilizację Bogów, wcześniej niż 12,5 tysięcy lat temu. Uważa, że wszystkie ośrodki tego regionu zniszczył jeden kataklizm, a nie służyły one do mieszkania.",
+  "tezy": [
+    {
+      "teza": "Gigantyczne, ściśle dopasowane bloki Sacsayhuaman były obrabiane tak, jakby kamień był plasteliną; człowiek tego nie mógł zrobić.",
+      "cytat": "Wymyślne kształty nieodparcie podsuwają wniosek, że ktoś bawił się kamieniem jak plasteliną.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Obróbka kamienia odbywała się prawdopodobnie przez doprowadzanie go do stanu plastycznego, czego dowodem są ślady „chwytania” miękkich bloków.",
+      "cytat": "Zakładając zastosowanie techniki umożliwiającej doprowadzanie kamienia do stanu plastycznego, ślady można odczytać, że ktoś lub coś przenosiło kamień, który był jeszcze zbyt miękki.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Zygzakowate mury twierdzy chroniły przed falami huraganu lub uderzeniowymi, a nie przed ludzkim wrogiem.",
+      "cytat": "Zygzakowate mury stwarzają wrażenie, jakby miały zadanie rozbijać jakieś potężne fale huraganu albo fali uderzeniowej.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Skała podobna do wyciśniętej lawy na sąsiednim wzgórzu może być pozostałością materiału budowlanego (rodzaju betonu).",
+      "cytat": "Skała ta leży na przeciwległym \"twierdzy\" wzgórzu i wygląda jak wyciśnięta z tubki.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Tiahuanaco zbudowali inni budowniczowie niż Sacsayhuaman, bo styl i technika są zupełnie inne.",
+      "cytat": "Czy zbudowali także Tiahuanaco? Tu stanowczo się sprzeciwiam.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Cusco zbudowano na ruinach starych megalitycznych murów po wielkim trzęsieniu ziemi (być może wielkim uskoku skorupy ziemskiej).",
+      "cytat": "Nowe Cusco zbudowano na ruinach tego, co pozostało po jakimś wielkim trzęsieniu ziemi, być może po \"wielkim uskoku skorupy ziemskiej\".",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Rozrzucone bloki i zniszczenia w całym „kręgu inkaskim” są skutkiem jednego kataklizmu.",
+      "cytat": "To jest widok kataklizmu, który unicestwił wszystkie te obiekty. Sądzę, że był to jeden i ten sam kataklizm.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Sacsayhuaman nie jest dziełem człowieka, lecz cywilizacji Bogów, a jego wiek przekracza 12,5 tysięcy lat.",
+      "cytat": "Technika wykonania jak i wielkość elementów w żadnym wypadku nie wskazuje na człowieka jako twórcę.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Twierdza była centrum energetycznym lub miejscem wytwarzania niebezpiecznych materiałów i pierwszą budowlą regionu.",
+      "cytat": "\"Twierdza\" była swojego rodzaju \"centrum energetycznym\" bądź miejscem wytwarzania bardzo niebezpiecznych materiałów.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Ośrodki regionu (Sacsayhuaman, Pisaq, Ollantaytambo, Machu Picchu) nie były miejscami zamieszkania, bo brak w nich nekropolii i kanalizacji; tarasy chroniły przed osuwaniem ziemi.",
+      "cytat": "nie mogą być brane pod uwagę jako miejsca zamieszkania ludzi, ze względu na mały, zajmowany rejon.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Proste cięcia i owalne formy w skale w Qenko i Sacsayhuaman nie mogły powstać za pomocą kamiennego dłuta.",
+      "cytat": "Zwróć uwagę na proste, i równe cięcia w skale oraz łatwość w wykonywaniu owalnych kształtów. Tego nie można zrobić kamiennym dłutkiem.",
+      "dziedzina": "archeologia"
+    }
+  ],
+  "tematy": ["sacsayhuaman", "cusco", "megality", "obróbka kamienia", "cywilizacja bogów", "kataklizm", "inkowie", "wielki uskok skorupy ziemskiej", "krytyka archeologii", "qenko"],
+  "osoby": ["Anteusz"],
+  "miejsca": ["Sacsayhuaman", "Cusco", "Qenko", "Ollantaytambo", "Machu Picchu", "Tiahuanaco", "Chavin de Huantar", "Akapana", "Corichancha", "Tambomachay", "Tipon", "Pisaq", "Peru", "Mykeny", "Feng Xiao Tang (Chiny)"],
+  "okresy": [
+    { "kiedy": "lata trzydzieste XX wieku", "co": "Początek badań archeologicznych kompleksu według encyklopedii." },
+    { "kiedy": "ok. 12,5 tysiąca lat temu", "co": "Według autora wielki uskok skorupy ziemskiej zniszczył ośrodki regionu; budowle są starsze." }
+  ],
+  "zrodla_cytowane": []
+}

@@ -1,0 +1,150 @@
+{
+  "id": "blogier",
+  "tytul": "Szarodzienność 1",
+  "streszczenie": "Pierwsza część cyklu felietonów z lata 2006 roku, pisanych przez autora jako „bezrobotnego obywatela” w ostrym, polemicznym tonie. Autor komentuje bieżące wydarzenia polityczne (rząd braci Kaczyńskich, Sejm, lustracja, WSI, sprawa Zyty Gilowskiej, Wałęsa i „Bolek”, minister Giertych), służbę zdrowia, sprawę azbestu na statku „Rotterdam”, energetykę, wodę i żywność. Twierdzi, że po 1989 roku Polską rządzi ta sama grupa wywodząca się z PZPR i służb, związana z wpływowymi środowiskami żydowskimi, a wybory niczego nie zmieniają. Uważa też, że system zdrowotny, media i oświata celowo osłabiają i ogłupiają naród. Krytykuje „powtórki z historii”, sondaże i przetargi zbrojeniowe, a pod koniec ostrzega przed brakiem prądu i wody oraz przed obrazem Polaka kreowanym w mediach.",
+  "tezy": [
+    {
+      "teza": "Autor uważa, że istnieje światowy syjonizm w symbiozie z komunizmem, który rządzi Polską od końca II wojny światowej i po transformacji.",
+      "cytat": "Uważam także, że istnieje światowy syjonizm i jego doskonała symbioza z komunizmem, co pozwala mi zrozumieć rolę tej hybrydy",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Polskie wybory nic nie zmieniają, bo każda partia to ta sama „czerwona zupa” ugotowana przy Okrągłym Stole, a zmiana ordynacji niczego nie poprawi.",
+      "cytat": "Każde wybory po roku 1989, to serwowanie tej samej zupy i z tego samego okrągłego kotła, lecz podawanej w oddzielnych wazach, różniących się od siebie tylko nazwami partii na nich wymalowanych.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Autor twierdzi, że reforma służby zdrowia (Kasy Chorych, NFZ, lista leków refundowanych, długi szpitali) była celowym działaniem, by naród chorował i wymierał.",
+      "cytat": "Schorowany i pozbawiony opieki medycznej naród wcześniej czy później zejdzie do grobu i zostanie tylko garstka odpornych, która już nikomu nie będzie w stanie zagrozić.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Nowoczesna medycyna według autora zwiększa liczbę chorych przez rozszerzanie definicji chorób (na przykładzie autyzmu) i dostosowywanie recept do producentów leków.",
+      "cytat": "Dlatego \"zliberalizowali\" objawy i wyliczyli, że takich chorych będzie około 1% światowej populacji.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Wzdęcia („bębnica”) wynikają ze złego odżywiania – mieszania białka z węglowodanami i nadmiaru cukru – a państwo nie przeciwdziała reklamie niezdrowej żywności.",
+      "cytat": "Państwo nie może zakazać reklamy i nie ma żadnego wpływu na jej treść, ale też nie robi nic dla przeciwwagi, propagując choćby zasady zdrowego żywienia.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Autor sugeruje, że badania WHO nad obrzezaniem jako ochroną przed HIV mogą służyć zwiększeniu liczby wyznawców judaizmu.",
+      "cytat": "ale obrzezanie wydatnie zwiększy (przynajmniej teoretycznie) liczbę synów rodu Abrahama.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Autor uważa, że wraz z chrztem w 966 roku Polakom odebrano dawną historię i zaczęto pisać nową, a pewne elementy (np. Bogarodzica) przetrwały poza Polską.",
+      "cytat": "Jest to potwierdzenie mojej tezy, że w roku 966 wraz z chrztem odebrano nam historię i zaczęto pisać nową.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Mniejszość licząca poniżej 1% narodu, według autora, zajmuje większość najwyższych stanowisk w państwie, mediach i gospodarce i jest odpowiedzialna za nędzę oraz emigrację.",
+      "cytat": "dlaczego pewna mniejszość (i bynajmniej nie niemiecka), liczona na mniej niż 1% narodu, zajmuje większość najwyższych stanowisk w partiach politycznych",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Polakom brakuje energetyki jądrowej; autor ostrzega, że problemem nie jest już „czy wyłączą prąd”, ale „kiedy wyłączą”.",
+      "cytat": "stoimy już nie przed problemem \"czy wyłączą?\", ale \"kiedy wyłączą\".",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Autor przewiduje, że po błędach melioracyjnych i likwidacji małej retencji Polsce grozi brak wody, groźniejszy w skutkach niż brak prądu.",
+      "cytat": "problem następny, który może okazać się dużo gorszy w skutkach niż brak prądu - brak wody.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Polska zależy od Rosji w dostawach ropy i gazu, a „pakt Ribbentrop-Mołotow” (gazociąg) nadal obowiązuje.",
+      "cytat": "a ponieważ nasz \"pierwszy\" wolał balangi niż odrabianie zadanych lekcji, więc Polska zaczyna być karana i to coraz dotkliwiej. Pakt Ribbentrop-Mołotow obowiązuje w dalszym ciągu.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Media i konkursy telewizyjne celowo kreują obraz Polaka jako pijaka, złodzieja i debila, by tło dla innych wypadało lepiej.",
+      "cytat": "w Polsce działają siły, których jedynym celem jest propagowanie Polaka-pijaka, Polaka-złodzieja i Polaka-debila",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": [
+    "polityka polska 2006",
+    "rząd braci Kaczyńskich",
+    "okrągły stół i transformacja",
+    "lustracja i ipn",
+    "służba zdrowia i nfz",
+    "żywność i zdrowe odżywianie",
+    "energetyka i brak prądu",
+    "brak wody i melioracja",
+    "azbest na statku rotterdam",
+    "spiskowa teoria dziejów",
+    "wizerunek polaków w mediach"
+  ],
+  "osoby": [
+    "Lech Kaczyński",
+    "Jarosław Kaczyński",
+    "Lech Wałęsa",
+    "Roman Giertych",
+    "Radosław Sikorski",
+    "Zyta Gilowska",
+    "Anna Walentynowicz",
+    "Andrzej Gwiazda",
+    "Tadeusz Mazowiecki",
+    "Wisława Szymborska",
+    "Krzysztof Rutkowski",
+    "Patrick Moore",
+    "Mel Gibson",
+    "Aleksander Łukaszenka",
+    "Władimir Putin",
+    "Fidel Castro",
+    "Helena Wolińska",
+    "Edward Mazur",
+    "Stanisław Lem"
+  ],
+  "miejsca": [
+    "Polska",
+    "Warszawa",
+    "Gdańsk",
+    "Augustów",
+    "dolina Rospudy",
+    "Grunwald",
+    "Libia (Liban)",
+    "Bajkonur",
+    "Białoruś",
+    "Rosja",
+    "Kuba",
+    "Moskwa",
+    "Bruksela",
+    "Bolesławiec",
+    "Gietrzwałd"
+  ],
+  "okresy": [
+    {
+      "kiedy": "966",
+      "co": "Chrzest Polski, wraz z którym według autora odebrano Polakom dawną historię."
+    },
+    {
+      "kiedy": "1953",
+      "co": "Podpisanie rezolucji domagającej się surowej kary dla księży oskarżonych o szpiegostwo (proces bp. Kaczmarka), pod którą podpisali się m.in. Mazowiecki i Szymborska."
+    },
+    {
+      "kiedy": "1989",
+      "co": "Okrągły Stół, po którym według autora Polską rządzi ta sama grupa pod zmienianymi szyldami."
+    },
+    {
+      "kiedy": "14 czerwca 2006 i 28 lipca 2006",
+      "co": "Zanotowane przez serwisy sejsmiczne trzęsienia ziemi w okolicach Bolesławca (4,5 i 4,2 stopnia), których według autora nie odnotowały polskie media."
+    },
+    {
+      "kiedy": "lato 2006",
+      "co": "Sprawa azbestu na statku „Rotterdam” w porcie w Gdańsku, odwołanie Zyty Gilowskiej z rządu, upadłość Jukosu, zapowiedź Wałęsy powrotu do polityki."
+    },
+    {
+      "kiedy": "12 lipca 2006",
+      "co": "Odnalezienie przez pracowników Petrobalticu wraku niemieckiego lotniskowca „Graf Zeppelin”."
+    }
+  ],
+  "zrodla_cytowane": [
+    "Antystenes – cytat o ginięciu narodów",
+    "Stanisław Lem – wypowiedź o czytaniu i rozumieniu przez Polaków",
+    "Le Figaro – doniesienie o obrzezaniu a ryzyku zakażenia HIV (wg WHO)",
+    "Frankfurter Allgemeine Zeitung – artykuł „Dysydent” o premierze Kaczyńskim"
+  ]
+}

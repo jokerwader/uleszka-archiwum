@@ -1,0 +1,31 @@
+{
+  "id": "06budowle/budowle",
+  "tytul": "Kto zbudował?",
+  "streszczenie": "Autor przegląda megalityczne i skalne budowle z całego świata (dolmeny, Egipt, Baalbek, Mykeny, Peru, Tiahuanaco, Malta, Stonehenge, Tonga, Petra, Indie, Wielki Mur) i uznaje, że ich wielkość i precyzja przekraczają możliwości ludzi z epoki kamienia. Krytykuje oficjalne wyjaśnienia (grobowce, ołtarze, ręczne szlifowanie, metody budowy piramid), datowanie węglem i założenie liniowego postępu. Twierdzi, że budowli tych dokonała wspólna ogólnoświatowa technologia cywilizacji Bogów sprzed kataklizmu ok. 12,5 tys. lat temu, a zniszczenia przypisuje trzęsieniom i tsunami. Wielki Mur Chiński i budowle Petry uznaje za starsze niż ich oficjalni budowniczowie.",
+  "tezy": [
+    { "teza": "Podobieństwo gigantycznych budowli na całym świecie świadczy o wspólnej ogólnoświatowej technologii.", "cytat": "Świadczy to jeśli nie o kontaktach osobistych to o wspólnej, ogólnoświatowej technologii.", "dziedzina": "archeologia" },
+    { "teza": "Datowanie radiowęglowe zawodzi dla budowli starszych niż kilka tysięcy lat, a archeolodzy opierają się na przypadkowych znaleziskach obok budowli.", "cytat": "Metodę badania wieku za pomocą radioaktywnego węgla uznano za panaceum na wszystko, choć nawet uczeń szkoły średniej wie, że zawodzi ona już powyżej kilku tysięcy lat.", "dziedzina": "archeologia" },
+    { "teza": "Założenie liniowości postępu zmusza historyków do absurdalnych wyjaśnień.", "cytat": "Przyjęcie założenia o liniowości postępu intelektualnego i technicznego naszej cywilizacji sprawiło, że historia starożytna zamienia się w kiepski teatr.", "dziedzina": "historia" },
+    { "teza": "Proponowane przez egiptologów metody budowy piramid (kołyski, łodzie) są technicznie nieprzekonujące.", "cytat": "Takich teorii jest mnóstwo. Wymyślają je ludzie, którzy nie mają zielonego pojęcia o technice, a jedynym warunkiem by ogłosić te rewelacje światu jest odpowiedni wiek i tytuł naukowy.", "dziedzina": "archeologia" },
+    { "teza": "Dolmeny i podobne budowle nie były grobowcami, bo nie znaleziono w nich pochówków.", "cytat": "Wszystkie jak jeden zakwalifikowano jako starożytne... grobowce, choć w żadnym nie znaleziono głównego bohatera.", "dziedzina": "archeologia" },
+    { "teza": "Dolmeny mogły powstać jako schrony w obliczu jakiegoś ogólnoświatowego zagrożenia.", "cytat": "Budowane na całym świecie mogą świadczyć, że budowano je w obliczu jakiegoś ogólnoświatowego zagrożenia, którego nie umiemy sprecyzować.", "dziedzina": "archeologia" },
+    { "teza": "Niedokończony obelisk w Assuanie mógł pęknąć w czasie kataklizmu sprzed 12,5 tys. lat, a nie za Hatszepsut.", "cytat": "A jeśli blok pękł z przyczyn naturalnych 12,5 tysięcy lat temu?", "dziedzina": "archeologia" },
+    { "teza": "Fundamenty świątyni w Baalbek nie mogły zostać zbudowane przez Rzymian ani Greków, bo ci nie dysponowali odpowiednią techniką transportu.", "cytat": "Ponadto nie mogę sobie uświadomić w jaki sposób, jaką techniką Grecy lub Rzymianie transportowali ciężkie bloki", "dziedzina": "archeologia" },
+    { "teza": "Tiahuanaco zniszczyła powódź lub tsunami z jeziora Titicaca, a przesunięcie linii brzegowej tłumaczy uskok skorupy.", "cytat": "Miasto zniszczyła olbrzymia powódź. Ale czy to była powódź, czy też tsunami z jeziora Titicaca?", "dziedzina": "geologia" },
+    { "teza": "Petrę wykuto na długo przed Nabatejczykami i Rzymianami.", "cytat": "To nie Nabatejczycy wykonali te piękne budowle, te budowle już stały i to od dawna, gdy Nabatejczycy zaczęli okupować te ziemie.", "dziedzina": "archeologia" },
+    { "teza": "Wielkiego Muru Chińskiego nie zbudowali historyczni Chińczycy, tylko wcześniejsza cywilizacja przedpotopowa.", "cytat": "Sądzę, że Chińskiego muru nie zbudowali historyczni Chińczycy. Nie mieli takiej możliwości.", "dziedzina": "archeologia" },
+    { "teza": "Powierzchnię Ziemi pokrywają pozostałości cywilizacji zniszczonej przez kataklizm ok. 12,5 tys. lat temu.", "cytat": "Cała powierzchnia ziemi jest pełna pozostałości po cywilizacji, która unicestwił kataklizm 12,5 tysiąca lat temu.", "dziedzina": "historia" }
+  ],
+  "tematy": ["megality", "dolmeny", "kto zbudował piramidy", "technologia obróbki kamienia", "datowanie radiowęglowe", "wielki mur chiński", "petra", "baalbek", "krytyka archeologii", "cywilizacja bogów", "kataklizm 12,5 tys. lat temu", "liniowość postępu"],
+  "osoby": ["Erich von Däniken", "Hatszepsut", "Szy-huang-ti", "Zahi Hawass", "Artur Poznansky", "Edmund Kiss", "Ramzes II", "Nasser"],
+  "miejsca": ["Menga", "Ishibutai (Japonia)", "Abydos", "Giza", "Assuan", "Baalbek", "Mykeny", "Ollantaytambo", "Machu Picchu", "Tiahuanaco", "Malta (Tarxien, Mnajdra, Hagar Qim)", "Stonehenge", "Wyspy Tonga (Ha'amonga)", "Laos", "Iran", "Petra", "Abu Simbel", "Ellora", "Mahabalipuram", "Kailasa", "Qenko", "Cusco", "Copan", "Aramu Muru", "Wielki Mur Chiński", "Sumer"],
+  "okresy": [
+    { "kiedy": "ok. 12,5 tys. lat temu", "co": "Kataklizm, który zniszczył budowle cywilizacji Bogów według autora." },
+    { "kiedy": "ok. 200 p.n.e.", "co": "Rozpoczęcie budowy Wielkiego Muru przez Szy-huang-ti według oficjalnej historii." },
+    { "kiedy": "1900–1400 p.n.e.", "co": "Wiek Stonehenge ustalony oficjalnie metodą C-14." },
+    { "kiedy": "3 tys. p.n.e. oraz I–III w. n.e.", "co": "Oficjalne datowania odpowiednio budowy Baalbek i świątyni Jowisza." },
+    { "kiedy": "II tys. p.n.e.", "co": "Powstanie Mykeń według nauki." },
+    { "kiedy": "marzec 2005", "co": "Doniesienia o odkryciu kleiku ryżowego w zaprawie Wielkiego Muru." }
+  ],
+  "zrodla_cytowane": ["Erich von Däniken – relacje o teoriach budowy piramid (profesorowie austriaccy)", "Artur Poznansky i Edmund Kiss – badania Tiahuanaco"]
+}

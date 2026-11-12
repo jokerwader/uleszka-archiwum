@@ -1,0 +1,168 @@
+{
+  "id": "09tiahu/tiahua",
+  "tytul": "Tiahuanaco",
+  "streszczenie": "Autor zestawia oficjalne informacje o Tiahuanaco (kultura z III–XII w. n.e.) z relacjami kronikarzy, legendami Indian i opisami Hancocka, Posnansky'ego i Kissa. Kwestionuje wyjaśnienie, że jezioro Titicaca jest zatoką morską wypiętrzoną razem z Andami, i proponuje zamiast tego skutki kataklizmu sprzed ok. 12,5 tys. lat (przesunięcie skorupy ziemskiej o ok. 3000 km i megatsunami). Twierdzi, że Tiahuanaco, Apacama i Puma Punku zbudowała cywilizacja Bogów jako centrum przemysłowo-hydroenergetyczne, a precyzja obróbki kamienia wskazuje na technikę nieznaną ludziom tamtych czasów. Porównuje kompleks do Gizy i jeziora Mojrisa oraz krytykuje sposób, w jaki książka Hancocka interpretuje rzeźby.",
+  "tezy": [
+    {
+      "teza": "Jezioro Titicaca nie zostało wypiętrzone razem z Andami 100 mln lat temu; jego położenie i słoność można wyjaśnić kataklizmem sprzed ok. 12,5 tys. lat (przesunięcie skorupy według Hapgooda).",
+      "cytat": "Samo powstanie jeziora można wytłumaczyć także w inny sposób, ale wymaga to uwzględnienia kataklizmu, jaki wydarzył się około 12,5 tysięcy lat temu - \"wielkiego uskoku skorupy ziemskiej\" - hipotezy Charlesa Hapgood'a.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Gdyby fauna jeziora pochodziła sprzed 100 mln lat, powinna była ewoluować, a tymczasem nie różni się od organizmów z Pacyfiku; autor widzi w tym argument przeciw wersji o powolnym wypiętrzeniu.",
+      "cytat": "Otóż, zmiany nie zaszły. Dziś wyławia się organizmy nie wykazujące żadnych różnic w stosunku do pobratymców z Pacyfiku.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Kataklizm przesunął cały region o ok. 3000 km na południe, a megatsunami zalało Tiahuanaco i zmieniło wodę jeziora na słoną.",
+      "cytat": "Czoło megatsunami po osiągnięciu wybrzeża osiąga wysokość kilku kilometrów i atakuje szczyty Andów, być może przelewając się przez nie aż na drugą stronę.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Warstwy kości i przedmiotów w Tiahuanaco świadczą o zniszczeniu przez wodę, a nikt nie datował kości, choć mogłoby to wykazać, że miejsce jest starsze niż podaje oficjalna nauka.",
+      "cytat": "Czy ktoś wykazał zainteresowanie określeniem wieku kości, nawet za pomocą C-14? Nikt. Powód? Mogło by się okazać, że Tiahuanaco jest dużo starsze niż oficjalna wersja nauki, która budowę umieszcza w 500 r. ne.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Obliczenia astronomiczne Posnansky'ego, potwierdzone przez niemiecki zespół w latach 1927–30, datują Kalasasayę na ok. 15 tysięcy lat p.n.e.",
+      "cytat": "Wiek tego kompleksu, poprzez obliczenia astronomiczne, Poznansky określił na 15 tysięcy lat. W latach 1927-30 zespół naukowców (Ludendorf, Becker, Kohlschutter i Muller) po trzech latach prac ogłosił, że wnioski Poznansky'ego są słuszne",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Kalendarz z Bramy Słońca odczytany przez Kissa opisuje rok z 290 dni; przy założeniu Zajdlera o spowolnieniu obrotu Ziemi oznaczałoby to powstanie kalendarza 450 tysięcy lat temu.",
+      "cytat": "Gdyby, jak pisze Zajdler, przyjąć, że Ziemia opóźnia obrót dookoła własnej osi o 0,005 sekundy na 100 lat, to kalendarz musiałby powstać 450 tysięcy lat temu.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Brama Słońca i inne elementy wyglądają jak odlewy, a nie wykute w kamieniu, więc obróbka wykraczała poza możliwości znanych narzędzi.",
+      "cytat": "Wrębienia czy wycięcia nie zostały, według mnie, wykute. Brama wygląda jak doskonały odlew.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Elementy z Puma Punku nie przypominają części świątyni, lecz kamienne części maszyn.",
+      "cytat": "Najważniejsze jednak pytanie, jakie się ciśnie na usta, to - po co to wykonano? Czy są to kamienne części jakiś maszyn? Bo na pewno nie są to elementy starożytnej świątyni.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Piramida Apacama nie była miejscem kultu, lecz kryła urządzenie wytwarzające niebezpieczną energię; nazwa oznacza miejsce, gdzie giną ludzie.",
+      "cytat": "Sama nazwa Apacama, w miejscowym języku, oznacza miejsce gdzie ginęli ludzie. Tradycyjna nazwa wskazuje, że nie było to miejsce kultu, a wręcz miejsce, które należało omijać z daleka.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Według przekazów zebranych przez Cieza de Leona Indianie nie wiedzieli, kto zbudował Tiahuanaco, a budowle miały powstać nagle, w ciągu jednej nocy.",
+      "cytat": "Odpowiedzieli śmiechem na moje pytanie, wyjaśniając, że budowle powstały na długo przed panowaniem Inków. Od swoich przodków Indianie wiedzieli, że wszystko to pojawiło się nagle w ciągu jednej nocy.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Historię Ameryki trzeba podzielić na działalność cywilizacji Bogów, której przypisać należy budowle megalityczne, i cywilizacji ludzi, która wykonywała prace skromniejsze.",
+      "cytat": "Całą historię Ameryki należy podzielić na działalność dwóch cywilizacji - cywilizacji Bogów i cywilizacji ludzi. Jeżeli przypiszemy Bogom wszystkie gigantyczne budowle i inne ogromne przedsięwzięcia budowlane",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Tiahuanaco było centrum przemysłowo-hydroenergetycznym cywilizacji Bogów, odpowiednikiem Gizy i jeziora Mojrisa w Egipcie.",
+      "cytat": "Całość, dotychczas odkrytego kompleksu, uważam za centrum przemysłowo-hydroenergetyczne wybudowane przez cywilizację Bogów, swoim charakterem przypominające podobne na terenie starożytnego Egiptu i stąd moje porównanie Tiahuanaco do Gizy.",
+      "dziedzina": "archeologia"
+    }
+  ],
+  "tematy": [
+    "tiahuanaco",
+    "jezioro titicaca",
+    "puma punku",
+    "brama słońca",
+    "wirakocza",
+    "cywilizacja bogów",
+    "wielki uskok skorupy ziemskiej",
+    "megatsunami",
+    "obróbka kamienia",
+    "andy",
+    "kataklizm 12,5 tys. lat temu"
+  ],
+  "osoby": [
+    "Graham Hancock",
+    "Arthur Posnansky",
+    "Edmund Kiss",
+    "Pedro Cieza de León",
+    "Garcilaso de la Vega",
+    "Charles Hapgood",
+    "Zajdler",
+    "Wirakocza (Tikiwirakocza)",
+    "Quetzalcoatl",
+    "Oannes",
+    "Joseph Blumrich",
+    "Biały Niedźwiedź",
+    "Joseph Campbell",
+    "Däniken",
+    "Molina",
+    "Avila",
+    "Ptah",
+    "Ludendorff",
+    "Kohlschütter"
+  ],
+  "miejsca": [
+    "Tiahuanaco",
+    "Jezioro Titicaca",
+    "Altiplano",
+    "Andy",
+    "Kalasasaya",
+    "Brama Słońca",
+    "Apacama",
+    "Puma Punku",
+    "Putuni",
+    "Puno",
+    "Sillustani",
+    "Sacsayhuaman",
+    "Cusco",
+    "Ollantaytambo",
+    "Pisaq",
+    "Machu Picchu",
+    "Chavín de Huántar",
+    "Ingapirca",
+    "San Agustín",
+    "Teotihuacan",
+    "Salar de Uyuni",
+    "Salar de Coipasa",
+    "La Paz",
+    "Egipt (porównanie z Gizą i jeziorem Mojrisa)"
+  ],
+  "okresy": [
+    {
+      "kiedy": "III–XII w. n.e.",
+      "co": "Według oficjalnej nauki rozwija się kultura Tiahuanaco, z rozkwitem w VI–XI w."
+    },
+    {
+      "kiedy": "ok. 500 r. n.e.",
+      "co": "Oficjalna nauka umieszcza w tym czasie budowę Tiahuanaco."
+    },
+    {
+      "kiedy": "ok. 100 mln lat temu",
+      "co": "Według wersji naukowej wypiętrzenie Andów i Altiplano z dna morskiego."
+    },
+    {
+      "kiedy": "ok. 12,5 tysiąca lat temu",
+      "co": "Kataklizm („wielki uskok skorupy ziemskiej”) przesuwa region o ok. 3000 km, niszczy Tiahuanaco i zalewa jezioro wodą morską."
+    },
+    {
+      "kiedy": "ok. 15 tysięcy lat p.n.e.",
+      "co": "Datowanie Kalasasai przez Posnansky'ego na podstawie obliczeń astronomicznych."
+    },
+    {
+      "kiedy": "37–12,5 tysiąca lat temu",
+      "co": "Według autora czas budowy Tiahuanaco przez cywilizację Bogów, między dwoma kataklizmami."
+    },
+    {
+      "kiedy": "ok. 12 tysięcy lat temu",
+      "co": "Wymierają zwierzęta przedstawione na fryzie, np. toksodont."
+    }
+  ],
+  "zrodla_cytowane": [
+    "Graham Hancock – Ślady palców Bogów",
+    "Pedro Cieza de León – kroniki",
+    "Garcilaso de la Vega – kroniki",
+    "Joseph Blumrich – Kaskara i siedem światów",
+    "Zajdler – Atlantyda",
+    "Arthur Posnansky – badania Tiahuanaco",
+    "Edmund Kiss – badania Tiahuanaco",
+    "Charles Hapgood – hipoteza przesunięcia skorupy ziemskiej",
+    "Däniken – wzmianka o Chavín de Huántar"
+  ]
+}

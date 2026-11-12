@@ -1,0 +1,42 @@
+{
+  "id": "medalt/przepkul",
+  "tytul": "Niecodzienne przepisy",
+  "streszczenie": "Tekst otwiera krótki wstęp o szkodliwości złego żywienia, po którym następuje zbiór przepisów kulinarnych z książek m.in. Tombaka i Gumowskiej: chleby bezdrożdżowe, naturalne słodycze, desery, twarożki, sosy i majonezy, surówki sezonowe, chłodniki, potrawy z pasternaku i napoje ziołowe. Autor twierdzi, że złe żywienie zabija częściej niż palenie, krytykuje drożdże i kupowane sosy jako obce organizmowi oraz zachwala surowe warzywa, orzechy, miód i olej roślinne. Przepisy mają realizować zasady zdrowego, naturalnego odżywiania.",
+  "tezy": [
+    {
+      "teza": "Złe odżywianie zabija więcej ludzi niż rak płuc u palaczy, a potępianie palenia przy akceptacji nałogów żywieniowych jest hipokryzją.",
+      "cytat": "Jeśli policzyć zmarłych na raka żołądka, dwunastnicy, jelita grubego, odbytu czy wątroby, to okazuje się, że złe żywienie zabija częściej i więcej ludzi niż rak płuc palących papierosy.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Drożdże wywołują fermentację w jelitach i mogą niszczyć florę bakteryjną, dlatego nie są wskazane.",
+      "cytat": "jednak nie są polecane ze względu na wywoływanie fermentacji, a niekontrolowany rozwój w przewodzie pokarmowym może spowodować zniszczenie flory bakteryjnej jelit.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Dietetycy zalecają jeść chleb dopiero po trzech dniach, aby żywe drożdże zdążyły obumrzeć.",
+      "cytat": "Wielu dietetyków przestrzega przed spożywaniem świeżego chleba, zalecając spożywanie trzydniowego (czas ten jest potrzebny na zabicie żyjących jeszcze drożdży).",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Sklepowe sosy i majonezy zawierają obce substancje, które zanieczyszczają krew, więc lepiej robić je samemu.",
+      "cytat": "Z reguły kupowane sosy i majonezy zawierają ocet spirytusowy, konserwanty, barwniki i inne obce dla organizmu substancje, które zanieczyszczają krew, a można je wykonać samemu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Zimne zupy-chłodniki zachowują wszystkie witaminy i sole mineralne oraz zawierają wodę strukturowaną i tlen.",
+      "cytat": "Są bardzo zdrowe, ponieważ zawierają wszystkie witaminy i sole mineralne (które nie zostają zniszczone przez podgrzewanie) oraz wodę strukturowaną i tlen.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Odpowiednio przygotowany wywar z warzyw (napój uodparniający) można podawać w każdej chorobie i w dowolnych ilościach.",
+      "cytat": "Napój uodparniający, wieloelektrolitowy - może być podawany w dowolnym czasie i w dowolnych ilościach, we wszystkich chorobach i dolegliwościach.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["przepisy kulinarne", "chleb bezdrożdżowy", "surówki", "pasternak", "zdrowe słodycze", "sosy domowe", "złe żywienie", "chłodniki"],
+  "osoby": ["Tombak", "Gumowska", "Schulz", "Überhuber", "Tuszyńska"],
+  "miejsca": ["McDonald's"],
+  "okresy": [],
+  "zrodla_cytowane": []
+}

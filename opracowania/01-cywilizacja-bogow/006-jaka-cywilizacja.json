@@ -1,0 +1,34 @@
+{
+  "id": "05bogowie/bogowie",
+  "tytul": "Jaka cywilizacja",
+  "streszczenie": "Obszerny tekst, w którym autor przedstawia hipotezę o dawnej wysoko rozwiniętej cywilizacji Bogów, która stworzyła człowieka, kolonizowała Ziemię, zbudowała największe starożytne budowle i opuściła planetę przed ostatnim kataklizmem. Krytykuje darwinizm i oficjalną historię starożytną, wskazuje na ślady olbrzymów, „długouchych” i ruin zniszczonych przez trzęsienia, a składanie ofiar z ludzi tłumaczy jako redukcję populacji dokonywaną przez Bogów. Za podstawę przyjmuje przekazy Sumerów, Biblii, ksiąg Henocha i Mezoameryki, a życie na Ziemi wiąże z zasianiem z kosmosu po kosmicznej katastrofie Tiamat. Autor zaznacza, że hipoteza jest jego własną propozycją, której nie może zweryfikować.",
+  "tezy": [
+    { "teza": "Istniała wysoko rozwinięta cywilizacja Bogów, a jej istnienie jest bardziej niż prawdopodobne.", "cytat": "Istnienie wysokiej cywilizacji (cywilizacji Bogów) w dawnych czasach uważam za więcej niż prawdopodobne.", "dziedzina": "historia" },
+    { "teza": "Cywilizacja Bogów opuściła Ziemię przed kataklizmem zwanym przez Hapgooda wielkim uskokiem skorupy ziemskiej, pozostawiając ludzi samym sobie.", "cytat": "Cywilizacja Bogów opuściła Ziemię przed światowym kataklizmem, nazwanym przez Hapgood'a", "dziedzina": "historia" },
+    { "teza": "Czasu na ewolucję od bakterii do człowieka brakuje o kilka miliardów lat, więc ktoś musiał jej pomóc.", "cytat": "Coraz więcej uczonych, zwłaszcza genetyków, stwierdza, że na ewolucję od bakterii do człowieka w warunkach ziemskich brakuje kilku miliardów lat.", "dziedzina": "biologia" },
+    { "teza": "Życie mogło zostać przyniesione z kosmosu, co tłumaczyłoby nagłą różnorodność gatunków 535 mln lat temu.", "cytat": "Nie jest niemożliwe i nie można całkowicie wykluczyć, że życie zostało przyniesione z kosmosu.", "dziedzina": "biologia" },
+    { "teza": "Człowiek został stworzony przez Bogów kilkaset tysięcy lat temu i od razu mógł mówić, jak podają Sumerowie.", "cytat": "Człowiek został stworzony kilkaset tysięcy lat temu i jak twierdzą Sumerowie od razu miał możność mówienia.", "dziedzina": "religia" },
+    { "teza": "Zbuntowana grupa Bogów spłodziła z ziemskimi kobietami olbrzymy i półbogów, za co została skazana na pobyt na Ziemi.", "cytat": "Nie zdyscyplinowana, czy wręcz zbuntowana grupa boskich przedstawicieli, wbrew zakazom, dokonała gwałtu na ziemskich kobietach, co wydało przerażające owoce.", "dziedzina": "mitologia" },
+    { "teza": "Najwyższa technologia była zastrzeżona dla Bogów, a ludzie i półbogowie otrzymali tylko proste narzędzia i broń.", "cytat": "Najwyższa technologia była zastrzeżona wyłącznie dla Bogów. Człowiek mógł mieć tylko najprostszą broń", "dziedzina": "historia" },
+    { "teza": "Olbrzymy istniały naprawdę, bo wskazuje na to wysokość starożytnych wejść i rozmiary postaci na reliefach.", "cytat": "Jak sądzę dlatego, że świątynie budowano dla Bogów, a pałace dla królów - dzieci Bogów. Boski gen wzrostu występował także u ich dzieci.", "dziedzina": "archeologia" },
+    { "teza": "Cywilizacja „długouchych” z Azji, Pacyfiku i Ameryki stworzyła najstarsze kamienne pomniki i budowle w tych regionach.", "cytat": "Śmiem twierdzić, że ta właśnie cywilizacja stworzyła najstarsze kamienne pomniki i budowle na tych terenach.", "dziedzina": "archeologia" },
+    { "teza": "Składanie ofiar z ludzi w Ameryce miało być narzędziem redukcji populacji przez Boga po kataklizmie, gdy brakowało żywności.", "cytat": "Tu na arenę wkracza Bóg, który w swoiście pojęty sposób dokonuje redukcji populacji tak, by reszta mogła przetrwać na określonej ilości pożywienia.", "dziedzina": "mitologia" },
+    { "teza": "Zniszczenia starożytnych budowli są dziełem natury, a nie ludzi, i dotyczą wielu miejsc naraz.", "cytat": "Owszem mamy tu do czynienia z gniewem, ale z gniewem natury. Tego mogło dokonać tylko potężne trzęsienie ziemi.", "dziedzina": "archeologia" },
+    { "teza": "Potop sumeryjski sprzed ok. 37 tys. lat poprzedził drugi kataklizm sprzed 12,5 tys. lat, po którym Bogowie odeszli.", "cytat": "Potop sumeryjski (biblijny?) około 37 tysięcy lat temu był prawdopodobnie przyczyną zniszczeń na niewyobrażalną skalę.", "dziedzina": "historia" }
+  ],
+  "tematy": ["cywilizacja bogów", "krytyka darwinizmu", "stworzenie człowieka", "półbogowie i olbrzymy", "długousi", "starożytne budowle", "megalityty", "kataklizmy", "ofiary z ludzi", "kosmiczne pochodzenie życia", "kodeks etyczny starożytnych", "obcy a religia"],
+  "osoby": ["Erich von Däniken", "Zecharia Sitchin", "Charles Hapgood", "Platon", "Zahi Hawass", "Brunon Vollmert", "Quetzalcoatl", "Huitzilopochtli", "Henoch", "Ezdrasz", "Hammurabi", "Gilgamesz", "Budda", "Ramzes II", "Nefretete", "Tutanchamon", "Orejona", "Utnapisztim (Ziusudra)", "Dionizos", "Herakles", "Aleksander Macedoński", "Prometeusz", "Adam", "Dawid Haussler", "Fryderyk Engels"],
+  "miejsca": ["Giza", "Teotihuacan", "Tiahuanaco", "Cusco", "Machu Picchu", "Ollantaytambo", "Sacsayhuaman", "Angkor", "Wyspa Wielkanocna", "jezioro Titicaca", "Petra", "Abu Simbel", "Aleksandria", "Derinkuyu", "Yerebatan", "San Agustin", "El Baul", "Tonina", "Khajuraho", "Akakor", "Atlantyda", "Dolina Królów", "Stonehenge", "Salamanca", "Flores", "Sumer", "Egipt", "Marib", "Mohendżo Daro", "Tobago"],
+  "okresy": [
+    { "kiedy": "ponad 400 tys. lat temu", "co": "Według Sumerów obcy rozpoczynają eksplorację Ziemi i tworzą pierwszego człowieka." },
+    { "kiedy": "290–140 tys. lat temu", "co": "Czas pojawienia się myślącego przodka według badań DNA." },
+    { "kiedy": "ok. 37 tys. lat temu", "co": "Potop sumeryjski według hipotezy autora." },
+    { "kiedy": "ok. 12,5 tys. lat temu", "co": "Drugi ogólnoświatowy kataklizm, po którym odchodzą półbogowie." },
+    { "kiedy": "ok. 25 tys. lat temu", "co": "Hipotetyczny podział świata między Bogów (mapka autora)." },
+    { "kiedy": "ok. 3760 p.n.e.", "co": "Ostatnia wizyta Bogów według Sumerów (cytowana przez autora)." },
+    { "kiedy": "535 mln lat temu", "co": "Wielki wybuch biologiczny według nauki; autor wiąże go z interwencją Bogów." },
+    { "kiedy": "październik 2004", "co": "Odkrycie szczątków Homo floresiensis na wyspie Flores." },
+    { "kiedy": "1862", "co": "Peruwiańczycy porywają ok. 1000 mieszkańców Wyspy Wielkanocnej." }
+  ],
+  "zrodla_cytowane": ["Platon – Kritias", "Epos o Gilgameszu", "Kodeks Rios", "Biblia – Księga Rodzaju", "Księga Henocha", "Księga Barucha", "Księga Liczb i Księga Powtórzonego Prawa (olbrzymy)", "Popol Vuh", "Opowieść o Adapie", "Ezdrasz (apokryf)", "Enmerkar i władca Aratty", "Ajschylos – Prometeusz", "Blumrich – Kaskara i siedem światów", "Sabhaparwa", "Erich von Däniken – różne prace", "Zecharia Sitchin – teksty o Anunnaki", "Teksty Piramid", "Weda Narajana", "Brunon Vollmert – o darwinizmie", "Awesta", "Wikipedia – definicja cywilizacji", "Kopaliński – definicja cywilizacji"]
+}

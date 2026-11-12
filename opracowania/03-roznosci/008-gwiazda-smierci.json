@@ -1,0 +1,83 @@
+{
+  "id": "dziadek/dziadek",
+  "tytul": "Gwiazda śmierci",
+  "streszczenie": "Osobisty tekst autora poświęcony jego dziadkowi Edwardowi Cygankiewiczowi, posterunkowemu Policji Państwowej, wziętemu do niewoli sowieckiej we wrześniu 1939 roku i zamordowanemu w kwietniu 1940 roku w Kalininie (Twer), a pochowanemu w Miednoje. Autor opisuje losy policjantów w obozie w Ostaszkowie, mechanizm egzekucji według list NKWD, kalendarium sprawy katyńskiej i zatajanie prawdy przez ZSRR i PRL. Twierdzi, że Zachód znał plany zbrodni, a współczesne państwo polskie zaniedbuje pamięć o ofiarach i prawdę historyczną. Całość kończy wierszem ku czci dziadka i listą źródeł.",
+  "tezy": [
+    {
+      "teza": "Brytyjski wywiad uczestniczył w konferencji NKWD i Gestapo w Zakopanem, więc Wielka Brytania i Niemcy znały plany zbrodni.",
+      "cytat": "W konferencji wzięli udział zaproszeni przedstawiciele wywiadu brytyjskiego. Wniosek - rządy Wielkiej Brytanii i hitlerowskich Niemiec doskonale znały plany wymordowania jeńców polskich!!!",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Generał Sikorski mógł zginąć w 1943 roku, bo znał prawdę o Katyniu.",
+      "cytat": "Gen. Sikorski był prawdopodobnie trzecią osobą wśród aliantów, oprócz Stalina i Churchila, która znała prawdę o Katyniu. O jedną osobę za dużo.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Decyzję o rozstrzelaniu polskich jeńców i więźniów podjęło Politbiuro 5 marca 1940 roku jednogłośnie.",
+      "cytat": "Decyzja Politbiura o rozstrzelaniu 14,7 tys. polskich jeńców i 11 tys. polskich obywateli przetrzymywanych w więzieniach w zachodnich obwodach Białorusi i Ukrainy.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Likwidacja obozu w Ostaszkowie i mordowanie jeńców w Twerze trwały od 4 kwietnia do 19 maja 1940 roku.",
+      "cytat": "Likwidacja obozu ostaszkowskiego trwała od 4 kwietnia do 19 maja 1940 r.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Dziadek autora znajdował się na liście NKWD z 13 kwietnia 1940 roku, więc prawdopodobnie leży w jednym z dołów w Miednoje.",
+      "cytat": "Mój dziadek figuruje na liście NKWD nr 027/3 z dnia 13 kwietnia 1940 r. pod pozycją 27.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Akta personalne zamordowanych jeńców zniszczono z polecenia Chruszczowa, a prawdę znali i ukrywali wszyscy czołowi funkcjonariusze ZSRR.",
+      "cytat": "Nie kto inny jak Chruszczow wydał polecenie zniszczenia 21857 teczek personalnych jeńców wojennych zamordowanych w roku 1940.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Wanda Wasilewska rozpowszechniała sowiecką wersję, obciążającą Niemców za zbrodnię katyńską.",
+      "cytat": "Wanda Wasilewska, kanalia niewarta wzmianki, działaczka polskich komunistów w ZSRR, była niczym innym jak tylko małą trąbą Stalina",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Państwa zachodnie, a zwłaszcza Wielka Brytania, znały sprawców zbrodni i milczały, co czyni je współodpowiedzialnymi.",
+      "cytat": "Fakt przemilczania zbrodni katyńskiej przez państwa zachodnie, skądinąd doskonale poinformowane o sprawcach, szczególnie przez Wielką Brytanię, stawia je w moich oczach na równi ze zbrodniarzami.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Polskie państwo nie przekazuje pamięci o ofiarach kolejnym pokoleniom, a pamięć o nich zginie wraz z ich rodzinami.",
+      "cytat": "Państwo nie przekazuje tej historii następnym pokoleniom (ukłony dla komuszej minister Łybackiej i jej podobnym). Pamięć o pomordowanych zginie wraz ze śmiercią ich bliskich.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Rosja jest winna Polsce ogromne odszkodowania, a w samej sprawie katyńskiej wyliczono je na 453 miliony dolarów.",
+      "cytat": "Instytut Katyński wyliczył, że odszkodowanie dla rodzin zamordowanych na wschodzie tylko w zbrodni katyńskiej wynosi 453 mln dolarów!",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Większość oprawców zmarła w podejrzanych okolicznościach, według świadków popełniając samobójstwa po utracie zmysłów.",
+      "cytat": "Według zeznań żyjących świadków, prawie wszyscy popełnili samobójstwa, dostawszy uprzednio pomieszania zmysłów.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Przewidywanie: z powodu obojętności państwa polskiego święto pamięci ofiar Katynia będą kiedyś obchodzić tylko Niemcy i potomkowie morderców.",
+      "cytat": "Absolutny brak zainteresowania naszych, polskich czynników państwowych doprowadzi do takiego paradoksu, że niedługo to święto zamiast Polaków będą obchodzić tylko Niemcy i może wnuki morderców.",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": ["zbrodnia katyńska", "ostaszków", "miednoje", "policja państwowa", "nkwd", "pamięć historyczna", "rodziny katyńskie", "wiersz", "rosja", "odszkodowania"],
+  "osoby": ["Edward Cygankiewicz", "Józef Stalin", "Ławrientij Beria", "Wiaczesław Mołotow", "Kliment Woroszyłow", "Anastas Mikojan", "Łazar Kaganowicz", "Michaił Kalinin", "Piotr Soprunienko", "Dymitr Tokariew", "Wasilij Błochin", "Nikita Chruszczow", "Michaił Gorbaczow", "Borys Jelcyn", "Władysław Sikorski", "Władysław Anders", "Wanda Wasilewska", "Nikołaj Burdenko", "Zdzisław Peszkowski", "Jędrzej Tucholski", "Stefan Śnieżko", "Aleksander Kwaśniewski", "Lech Wałęsa", "Włodzimierz Putin", "Józef Czapski", "Janusz Lange", "Leon Kieres"],
+  "miejsca": ["Sułoszowa", "Łódź", "Ostaszków", "Niłowa Pustyń", "jezioro Seliger", "Kalinin (Twer)", "Miednoje", "Katyń", "Charków", "Kozielsk", "Starobielsk", "Soroga", "Zakopane", "Tarnopol", "Bykownia", "Kuropaty", "Braniewo"],
+  "okresy": [
+    { "kiedy": "17 lipca 1891", "co": "Data urodzenia Edwarda Cygankiewicza w Sułoszowej." },
+    { "kiedy": "28 sierpnia 1939", "co": "Rozkaz marszałka Rydza-Śmigłego o mobilizacji policji." },
+    { "kiedy": "17 września 1939", "co": "Atak ZSRR na Polskę, po którym policjanci i oficerowie trafili do niewoli sowieckiej." },
+    { "kiedy": "5 marca 1940", "co": "Decyzja Politbiura o rozstrzelaniu polskich jeńców i więźniów." },
+    { "kiedy": "4 kwietnia - 19 maja 1940", "co": "Likwidacja obozu w Ostaszkowie i rozstrzeliwanie jeńców w Kalininie." },
+    { "kiedy": "13 kwietnia 1940", "co": "Data listy nr 027/3, na której pod pozycją 27 figuruje dziadek autora." },
+    { "kiedy": "kwiecień 1943", "co": "Niemcy ogłosili odkrycie grobów katyńskich i dokonali ekshumacji." },
+    { "kiedy": "13 kwietnia 1990", "co": "Komunikat TASS uznający zbrodnię za dzieło NKWD." },
+    { "kiedy": "15-31 sierpnia 1991", "co": "Pierwsza sondażowa ekshumacja w Miednoje." },
+    { "kiedy": "9 maja 2005", "co": "Prezydent Polski w Moskwie na rocznicy zwycięstwa, opisywany przez autora jako upokorzenie Polski." }
+  ],
+  "zrodla_cytowane": ["Jędrzej Tucholski – W krainie śmierci... kronika ekshumacji Charków - Miednoje 22.VII-3.IX.1991 r.", "Jędrzej Tucholski – Dzieje zbrodni (Gazeta Policyjna, wydanie specjalne, 1991)", "Zdzisław Peszkowski – ...i ujrzałem doły śmierci", "Andrzej Leszek Szcześniak – Katyń. Tło historyczne, fakty, dokumenty", "Wanda Wasilewska – Prawda o Katyniu", "Zbrodnia katyńska w świetle dokumentów z przedmową gen. Andersa", "Gazeta Wyborcza – Kalendarium Katyńskie z 6 maja 1996", "Biuletyn katyński nr 1(35), Kraków 1992", "My, Sybiracy – Związek Sybiraków Oddział w Łodzi, nr 2/1991"]
+}

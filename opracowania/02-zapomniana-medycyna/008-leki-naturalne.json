@@ -1,0 +1,79 @@
+{
+  "id": "medalt/lekinat",
+  "tytul": "Leki naturalne",
+  "streszczenie": "Tekst jest obszernym przewodnikiem po warzywach, owocach i ziołach z wykazami wskazań leczniczych dla każdej rośliny, do tego dochodzą zapomniane warzywa (jarmuż, pasternak, rzepa, rzeżucha), zasady przyrządzania odwarów i naparów, ostrzeżenia o przedawkowaniu i roślinach trujących oraz lista mieszanek ziołowych Herbapolu. Autor zestawia rośliny według działania (36 zestawów, na podstawie Jadwigi Górnickiej) i podaje przepisy na kąpiele lecznicze. Twierdzi, że natura dostarcza środków na bardzo wiele chorób, jednocześnie zastrzega, że zioła nie są nieszkodliwe i należy konsultować się z zielarzem lub lekarzem.",
+  "tezy": [
+    {
+      "teza": "Lekarz przyszłości ma leczyć dietą, a nie lekami; żywność i rośliny stanowią wielką aptekę.",
+      "cytat": "Lekarz przyszłości nie będzie dawać lekarstw, a tylko zainteresuje pacjenta odpowiednią dietą.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Kapusta jest najważniejszym warzywem w medycynie naturalnej i leczy bardzo długą listę chorób.",
+      "cytat": "Bezapelacyjna królowa warzyw pod względem zastosowania w medycynie naturalnej.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Cebula rozpuszcza fibrynę i hamuje krzepnięcie krwi, więc leczy zwężenia naczyń i skrzepy.",
+      "cytat": "leczy zwężenia naczyń krwionośnych, hamuje krzepnięcie krwi rozpuszczając włóknik czyli fibrynę - nierozpuszczalne białko będące podstawą skrzepów",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Czosnek działa przeciwgnilnie w jelitach i dzięki temu zapobiega nowotworom.",
+      "cytat": "zapobieganie nowotworom przez działanie przeciwgnilne w jelitach, zapalenie płuc, oskrzeli, zakłócenia krążenia krwi z powodu nadmiernej krzepliwości",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Maliny zawierają aspirynę (kwas acetylosalicylowy) oraz liczne witaminy i sole mineralne.",
+      "cytat": "Zawiera kwas acetylosalicylowy (aspiryna) oraz witaminy A, C, K, E, z grupy B, a także sole mineralne żelaza, wapnia, potasu.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Czyr brzozowy (huba) hamuje choroby nowotworowe i skłonność do przerzutów, także w raku żołądka i płuc.",
+      "cytat": "Wrzody i nieżyty zołądka, guzy błony śluzowej jamy ustnej, białaczka, zahamowanie chorób nowotworowych i zmniejszanie skłonności do przerzutów (rak żołądka i płuc).",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Pestki brzoskwini i moreli są trujące, bo amygdalina rozpada się w organizmie do cyjanowodoru.",
+      "cytat": "W szczególności dotyczy to pestek brzoskwini i moreli zawierających dużą ilość glikozydu cyjanogennego, zwanego amygdaliną, który w organizmie rozpada się i wytwarza silnie trujący cyjanowodór.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Zielone lub kiełkujące ziemniaki zawierają trującą solaninę i trzeba wycinać takie miejsca.",
+      "cytat": "Nie spożywać ziemniaków o zielonym kolorze skórki, ani z wyrastającymi kiełkami.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Dziurawiec uczula skórę na słońce, więc po jego użyciu nie wolno przebywać na słońcu.",
+      "cytat": "Główny składnik dziurawca, hiperycyna, uczula skórę człowieka na światło słoneczne, na naświetlanie lampą kwarcową i powoduje ujemne odczyny skórne",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Zioła nie są nieszkodliwe: przedawkowanie może być groźne, a zbyt długie przechowywanie odbiera im właściwości.",
+      "cytat": "Powszechne przekonanie o nieszkodliwości ziół jest nieprawdziwe. Nie każde zioło można stosować bez umiaru, a przedawkowanie niektórych może mieć nieobliczalne skutki.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Pasternak był dawniej powszechnym pożywieniem Polaków i został wyparty przez ziemniaka.",
+      "cytat": "Pasternak w Polsce był powszechnie uprawiany (spożywany na równi z kaszami) jeszcze za Jagiellonów i został wyparty przez ziemniaka.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Rzeżucha jest warzywem najbogatszym w łatwo przyswajalny jod.",
+      "cytat": "Rzeżucha jest jarzyną najbogatszą w jod łatwo przyswajalny przez organizm.",
+      "dziedzina": "żywienie"
+    }
+  ],
+  "tematy": ["zioła lecznicze", "warzywa", "owoce", "medycyna naturalna", "zapomniane warzywa", "Herbapol", "napary i odwary", "kąpiele lecznicze", "rośliny trujące", "przeciwwskazania"],
+  "osoby": ["Edison", "Witold Poprzędzki", "K. Mikołajczyk", "A. Wierzbicki", "o. Franciszek Sroka", "Jadwiga Górnicka", "dr Kneipp", "król Ludwik (francuski)"],
+  "miejsca": ["Polska", "Europa Zachodnia"],
+  "okresy": [
+    { "kiedy": "czasy Jagiellonów", "co": "Pasternak był w Polsce powszechnie uprawiany i spożywany na równi z kaszami, potem wyparł go ziemniak." }
+  ],
+  "zrodla_cytowane": [
+    "Franciszek Sroka – Poradnik ziołowy",
+    "K. Mikołajczyk, A. Wierzbicki – Zioła",
+    "Witold Poprzędzki – Ziołolecznictwo",
+    "Jadwiga Górnicka – Apteka natury"
+  ]
+}

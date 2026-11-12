@@ -1,0 +1,34 @@
+{
+  "id": "medalt/robale",
+  "tytul": "Robale w groszku",
+  "streszczenie": "Krótki przedruk z Super Expressu (lipiec 2006) opisuje mieszkankę Krakowa, która znalazła w puszce groszku konserwowego robaka. Według eksperta i sanepidu owad ma prawo tam być, bo polska norma dopuszcza niewielki odsetek uszkodzonych ziaren, w tym z owadami, a robak nie jest szkodliwy dla zdrowia. Na końcu dołączono wypowiedź dr. Łuczaja zachwalającego larwy owadów jako smaczne i zdrowe.",
+  "tezy": [
+    {
+      "teza": "Obecność robaka w puszce groszku konserwowego jest zgodna z polskim prawem.",
+      "cytat": "Polska norma stanowi, że część nasion może zawierać uszkodzenia w tym owady",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Norma pozwala na maksymalnie 1,5 procent uszkodzonych ziaren, co obejmuje także owady.",
+      "cytat": "Marta Szewczyk z krakowskiego sanepidu informuje, że ta ilość nie może przekroczyć 1,5 proc. w stosunku do masy \"przetworu odsączonego\".",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Robaki fasolowe nie są szkodliwe dla zdrowia, to białko, choć obrzydliwe.",
+      "cytat": "Robale fasolowe nie są szkodliwe dla zdrowia. To normalne białko, tyle że obrzydliwe",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Larwy owadów są smaczne i zdrowe, można je jeść na surowo lub pieczone.",
+      "cytat": "Larwy owadów są smaczne i zdrowe. Mają smak słoniny. Mnie smakują na surowo.",
+      "dziedzina": "żywienie"
+    }
+  ],
+  "tematy": ["normy żywnościowe", "konserwy", "owady w żywności", "sanepid", "larwy owadów jako pokarm"],
+  "osoby": ["Andrzej Wnuk", "Marta Szewczyk", "Stanisław Pawlus", "dr Łuczaj"],
+  "miejsca": ["Kraków"],
+  "okresy": [
+    { "kiedy": "3 lipca 2006", "co": "publikacja artykułu w Super Expressie o robaku w groszku" }
+  ],
+  "zrodla_cytowane": ["Super Express (3 lipca 2006) – Robale w groszku? Taka norma!"]
+}

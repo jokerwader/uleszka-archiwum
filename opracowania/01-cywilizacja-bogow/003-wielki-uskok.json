@@ -1,0 +1,33 @@
+{
+  "id": "02uskok/uskok",
+  "tytul": "Wielki uskok...",
+  "streszczenie": "Autor broni hipotezy Charlesa Hapgooda o nagłym przesunięciu całej skorupy ziemskiej pod wpływem nagromadzonego lodu na biegunie i uważa, że ostatnie takie zdarzenie miało miejsce ok. 12,5 tys. lat temu. Za ślady uskoku uznaje zniszczenia starożytnych budowli, zasypane ruiny, słone jeziora śródlądowe, nietypowe odchylenia osi budowli od północy oraz dane z Grenlandii. Twierdzi, że starożytna wiedza astronomiczna została przekazana jako ostrzeżenie przed kolejnym kataklizmem, a data 23 grudnia 2012 może dotyczyć raczej zdarzenia dawnego niż przyszłego. Zaznacza, że nie jest geofizykiem, a część obliczeń jest orientacyjna.",
+  "tezy": [
+    { "teza": "Hipoteza Hapgooda została wyśmiana przez środowisko naukowe i zignorowana zamiast sprawdzona.", "cytat": "Charles Hapgood, nie doczekał się chwały. Wręcz przeciwnie, jego hipoteza z 1953 r. została wyśmiana przez naukowców.", "dziedzina": "geologia" },
+    { "teza": "Nagromadzony na biegunie lód zaburza równowagę obracającej się Ziemi i powoduje przesunięcie całej skorupy po płynnym wnętrzu.", "cytat": "Hapggod twierdził, że na biegunach cały czas odkładała się, tak jak i dzisiaj odkłada się warstwa śniegu i lodu, która posiada swoją wagę i to niemałą.", "dziedzina": "geologia" },
+    { "teza": "Ok. 12,5 tys. lat temu skorupa Ziemi przesunęła się o ok. 3000 km na południe wzdłuż 70° zachodniego południka, a po tym przetoczyły się gigantyczne tsunami.", "cytat": "Około 12,5 tysiąca lat temu skorupa Ziemi rozpoczęła ruch w kierunku południowym wzdłuż 70° zachodniego południka. Zatrzymała się dopiero po przebyciu 3000 km.", "dziedzina": "geologia" },
+    { "teza": "Globalny potop nie mógłby powstać przez samo stopienie lodów, bo na zatopienie gór zabrakłoby wody.", "cytat": "Czy jest możliwe zatopienie całej Ziemi aż po najwyższe szczyty? Nie. W taki sposób na pewno nie. Skąd bowiem wziąć tyle wody?", "dziedzina": "geologia" },
+    { "teza": "Zniszczenia starożytnych budowli w wielu częściach świata nie są dziełem tłumu ani ludzi, lecz sił natury.", "cytat": "To nie jest dzieło wzburzonego tłumu, jak chcieliby niektórzy. To jest pokaz sił natury. Potężnej natury.", "dziedzina": "archeologia" },
+    { "teza": "Ruiny starożytnych miast są zakopane, bo zasypało je tsunami niosące osady i wypłukaną ziemię.", "cytat": "To prawdopodobnie ogromne tsunami, przetaczając się przez ląd, oprócz wody niosło z sobą olbrzymie ilości osadów i wypłukanej ziemi.", "dziedzina": "geologia" },
+    { "teza": "Słone zbiorniki śródlądowe (Kaspijskie, Titicaca, Martwe i inne) są pozostałością wód oceanicznych uwięzionych w lądzie przez gigantyczne tsunami.", "cytat": "Morze Kaspijskie to wody oceanu Lodowatego, które spłynęły na najniżej położone tereny nie mając możliwości powrotu.", "dziedzina": "geologia" },
+    { "teza": "Nietypowe odchylenia osi budowli (np. ok. 17° w miastach Mezoameryki) wynikają z przesunięcia biegunów po uskoku.", "cytat": "Spójrzmy na rysunek i zrozumiemy, że na Jukatanie musiało to spowodować przesunięcie się kierunków osi budowli na północny wschód", "dziedzina": "archeologia" },
+    { "teza": "Wyludnienie Teotihuacan i innych miast Jukatanu spowodowało megatsunami sprzed ok. 12,5 tys. lat, a nie głód czy wojny.", "cytat": "Wyludnienia zaś dokonało megatsunami, które przetoczyło się przez Jukatan około 12,5 tysiąca lat temu.", "dziedzina": "archeologia" },
+    { "teza": "Wykres z odwiertu w Grenlandii pokazuje tylko lokalny klimat i może świadczyć o przesunięciu wyspy poza strefę polarną.", "cytat": "Z wykresu wyciągam też wniosek, że przez ostatnie 100 tysięcy lat Grenlandia znajdowała się w strefie biegunowej.", "dziedzina": "geologia" },
+    { "teza": "Wiedzę astronomiczną starożytnych przekazano im z zewnątrz, jako ostrzeżenie przed następnym kataklizmem.", "cytat": "Należy jednak przypuszczać, że tak wielka wiedza astronomiczna została starożytnym przekazana.", "dziedzina": "astronomia" },
+    { "teza": "Ustawienie Stonehenge wskazuje kierunek na dawny biegun północny sprzed 12,5 tys. lat (okolice wyspy Akpatok).", "cytat": "Z pobieżnych wyliczeń wynika, że wskazuje kierunek na Akpatok, na biegun północny sprzed 12,5 tysiąca lat.", "dziedzina": "archeologia" }
+  ],
+  "tematy": ["wielki uskok skorupy ziemskiej", "hipoteza hapgooda", "potop", "tsunami", "przesunięcie biegunów", "słone jeziora śródlądowe", "orientacja budowli", "megality", "astronomia starożytnych", "2012", "kataklizmy cykliczne", "zniszczenia budowli"],
+  "osoby": ["Charles Hapgood", "Albert Einstein", "John Wright", "Erich von Däniken", "Zecharia Sitchin", "prof. Zajdler", "Julio Chaves", "Bogusław Jeff Leng", "Piri Reis", "Marduk", "Tiamat", "Anteusz", "Herakles", "Quetzalcoatl", "Tezcatlipoca", "K'ü Jüan"],
+  "miejsca": ["wyspa Akpatok", "Labrador", "Grenlandia", "Machu Picchu", "Ollantaytambo", "Puno", "Puma Punku", "Tiahuanaco", "Cusco", "Wyspa Wielkanocna", "Angkor", "Palenque", "Delfy", "Aksum", "Egipt", "Tikal", "Teotihuacan", "Jukatan", "jezioro Titicaca", "morze Kaspijskie", "morze Aralskie", "morze Martwe", "Wielkie Słone Jezioro", "Uyuni", "Mezopotamia", "Stonehenge", "Giza", "Abydos", "Sakkara", "Grzbiet Atlantycki", "Atlantyda"],
+  "okresy": [
+    { "kiedy": "ok. 12,5 tysiąca lat temu", "co": "Według autora uskok skorupy i megatsunami, koniec epoki lodowcowej, biegun północny w okolicy wyspy Akpatok." },
+    { "kiedy": "1953", "co": "Hapgood publikuje swoją hipotezę." },
+    { "kiedy": "ok. 4 mld lat temu", "co": "Według hipotezy Sitchina kosmiczna katastrofa z udziałem praZiemi (Tiamat) i Marduka." },
+    { "kiedy": "ok. 11500 lat temu", "co": "Prof. Zajdler przyjmuje zderzenie z ciałem niebieskim i przesunięcie biegunów o 30° (cytat autora)." },
+    { "kiedy": "ok. 37 tys. lat temu", "co": "Według obliczeń autora potop sumeryjski." },
+    { "kiedy": "9792 p.n.e.", "co": "Według cytowanego Lenga układ Oriona i Wenus identyczny jak w 2012; piramidy postawiono ok. 9400 p.n.e." },
+    { "kiedy": "26 grudnia 2004", "co": "Tsunami na oceanie Indyjskim, podane jako skromna zapowiedź skutków uskoku." },
+    { "kiedy": "23 grudnia 2012", "co": "Data uznawana za koniec kalendarza Majów; autor uważa, że może dotyczyć zdarzenia sprzed ok. 12,5 tys. lat." }
+  ],
+  "zrodla_cytowane": ["Charles Hapgood – hipoteza uskoku skorupy ziemskiej (1953)", "Zajdler – Dzieje zegara", "Erich von Däniken – Dzień, w którym przybyli bogowie", "Zecharia Sitchin – hipoteza o Marduku i Tiamat", "Kodeks Rios", "Annales de Cuauhtitlan", "K'ü Jüan – Pytam niebiosa", "Księga Rodzaju", "Kronika Akakor", "Bogusław Jeff Leng – o ruchach Oriona i roku 2012"]
+}

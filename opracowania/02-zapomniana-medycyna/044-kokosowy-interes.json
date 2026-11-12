@@ -1,0 +1,50 @@
+{
+  "id": "medalt/detox",
+  "tytul": "Kokosowy interes",
+  "streszczenie": "Reportaż Grzegorza Rzeczkowskiego i Mileny Rachid Chehab z Przekroju opisuje polski rynek szybkich detoksów alkoholowych. Autorzy pokazują ogłoszeniowe usługi domowego odtruwania (kroplówki, insulina, esperal), często niebezpieczne i drogie, oraz detoksy dla VIP-ów. Opisują też prywatne ośrodki odwykowe i oddziały szpitalne, lekarzy twierdzących, że szybki detoks jest fikcją, oraz delirium tremens z wysoką śmiertelnością. Podają rosnącą liczbę leczonych alkoholików i wydatki NFZ, a lekarze ostrzegają, że detoks to dopiero początek drogi do trzeźwości.",
+  "tezy": [
+    {
+      "teza": "Błyskawiczne domowe detoksy alkoholowe to szybko rosnący, dochodowy biznes medyczny, łatwy do założenia i bez rejestracji praktyki.",
+      "cytat": "Biznes jest nie tylko dochodowy, lecz także łatwy do rozkręcenia. Nie trzeba rejestrować prywatnej praktyki, tylko zaopatrzyć się w leki i dać ogłoszenie.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Przy szybkich detoksach stosuje się ryzykowne metody, np. insulinę i gwałtowne kroplówki, które mogą uszkodzić trzustkę lub spowodować udar.",
+      "cytat": "To bardzo niebezpieczne, bo insulina może rozwalić trzustkę, a skaczące ciśnienie doprowadzić do udaru mózgu - mówi pielęgniarz",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Najbardziej opłacalnymi klientami są znane osoby, które korzystają z prywatnych kanałów i zaufanych lekarzy.",
+      "cytat": "Najbardziej opłacalnymi pacjentami są gwiazdy: aktorzy, dziennikarze, politycy, muzycy. Z braku czasu na długie leczenie, a także z obawy przed upublicznieniem wstydliwej choroby chętnie korzystają z domowego odtruwania.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Szybki detoks usuwa alkohol z krwi, ale nie leczy alkoholowego zespołu abstynencyjnego ani uzależnienia.",
+      "cytat": "Kto raz skorzysta z szybkiego odtrucia, przekona się, że tak naprawdę to fikcja - mówi doktor Marcin Wojnar",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Delirium tremens jest bardzo groźne, a śmiertelność wśród osób nim dotkniętych wynosi 30 procent.",
+      "cytat": "Częściej jednak umierają na zawały, wylewy, niewydolność krążenia. Śmiertelność osób dotkniętych delirką wynosi aż 30 procent.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Liczba alkoholików leczonych w publicznych szpitalach szybko rosła, co zachęca prywatne ośrodki do wchodzenia na rynek.",
+      "cytat": "W roku 2001 było ich 13 tysięcy, dwa lata później już 21 tysięcy.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Detoks jest tylko pierwszym etapem; trzeźwość wymaga psychoterapii.",
+      "cytat": "Detoks to dopiero początek drogi do trzeźwości, która prowadzi przez psychoterapię.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["alkoholizm", "detoks alkoholowy", "esperal", "delirium tremens", "prywatne ośrodki odwykowe", "domowe odtruwanie", "biznes medyczny"],
+  "osoby": ["Grzegorz Rzeczkowski", "Milena Rachid Chehab", "Paweł Kukiz", "Janusz Zimak", "Tomasz Nowak", "Marcin Wojnar", "Wiktor Osiatyński"],
+  "miejsca": ["Tworki", "Płochocin", "Stara Wieś", "Szpital Nowowiejski w Warszawie", "Warszawa", "Ostrołęka", "Bełchatów"],
+  "okresy": [
+    { "kiedy": "2001-2003", "co": "liczba alkoholików leczonych w publicznych szpitalach wzrosła z 13 tys. do 21 tys." },
+    { "kiedy": "2005", "co": "w detoksach szpitali publicznych leczyło się ok. 30 tys. osób, NFZ wydał ponad 50 mln zł" }
+  ],
+  "zrodla_cytowane": ["Grzegorz Rzeczkowski, Milena Rachid Chehab – Kokosy na bogatych pijakach (Przekrój)", "dane Państwowej Agencji Rozwiązywania Problemów Alkoholowych"]
+}

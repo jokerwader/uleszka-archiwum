@@ -1,0 +1,52 @@
+{
+  "id": "medalt/czywiesz",
+  "tytul": "Jak można być zdrowym?",
+  "streszczenie": "Tekst oparty na artykule Waldemara Maszewskiego i doniesieniach prasowych z 2006 roku opisuje testowanie pestycydów i leków na ludziach. Według autora koncerny, m.in. Bayer, zlecają badania na ochotnikach w klinikach poza Niemcami, a uczestnicy nie wiedzą, że połykają pestycydy. Dalej podano wyniki badań wskazujące na przekroczenia norm pestycydów w ziemniakach, sałacie i kapuście oraz przypadki zatruć. Dołączono informacje o skandalach: nieudanym teście leku w Londynie, nielegalnych badaniach na noworodkach w Turynie i badaniach firmy Pfizer na dzieciach w Nigerii.",
+  "tezy": [
+    {
+      "teza": "Firmy produkujące środki ochrony roślin coraz częściej testują ich szkodliwość bezpośrednio na ludziach.",
+      "cytat": "Coraz częściej firmy produkujące preparaty do ochrony roślin testują ich potencjalną szkodliwość dla organizmów żywych bezpośrednio na ludziach.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Koncern Bayer zlecił szkockiej klinice badania pestycydów na ochotnikach, którzy nie wiedzieli, co naprawdę połykają.",
+      "cytat": "Takie badania szkockiej klinice zlecił jeden z największych na świecie producentów pestycydów niemiecki koncern chemiczny \"Bayer\".",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Badania na ludziach są bezcelowe i mogą prowadzić do podniesienia dopuszczalnych norm pestycydów w żywności.",
+      "cytat": "Według dr. Wolfganga Lingka z Instytutu Żywienia, z wyników takich badań można wyprowadzić całkowicie błędne wnioski.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Znaczna część badanych w Niemczech warzyw zawierała pestycydy, w tym zakazane w UE.",
+      "cytat": "W ziemniakach na 794 zbadanych próbek w 264 stwierdzono aktywne pestycydy, w tym takie, których w ogóle w uprawie tego warzywa nie wolno stosować w Unii Europejskiej.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Pestycydy powodują poważne zatrucia i zgony, czego przykładem są zatrute melony w USA w 1986 roku.",
+      "cytat": "Warto w tym miejscu przypomnieć, że w roku 1986 z powodu spożycia melonów zatrutych pestycydami w USA zmarło 6 osób, a 1350 uległo ciężkiemu zatruciu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Pfizer testował niezarejestrowany lek na dzieciach w Nigerii podczas epidemii w 1996 roku, według nigeryjskich ekspertów nielegalnie.",
+      "cytat": "Nigeryjscy eksperci stwierdzili, że największa na świecie firma farmaceutyczna pogwałciła prawo międzynarodowe, testując jeden ze swoich leków na chorych dzieciach podczas epidemii zapalenia opon mózgowych w 1996 roku",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "W Turynie lekarze przeprowadzali nielegalne badania na noworodkach na rzecz firmy farmaceutycznej.",
+      "cytat": "Na jaw wyszło, że dwaj lekarze z miejskiego szpitala przeprowadzali nielegalne badania na noworodkach.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["pestycydy", "testy na ludziach", "bayer", "pfizer", "skandale farmaceutyczne", "normy zanieczyszczeń żywności", "eksperymenty medyczne"],
+  "osoby": ["Waldemar Maszewski", "Bruce Turnbull", "Wolfgang Lingk", "Dora Akunyili"],
+  "miejsca": ["Edynburg", "Niemcy", "Londyn", "Turyn", "Nigeria", "Kano", "USA"],
+  "okresy": [
+    { "kiedy": "1986", "co": "w USA zmarło 6 osób po zjedzeniu melonów zatrutych pestycydami, 1350 osób ciężko się zatruło" },
+    { "kiedy": "1996", "co": "Pfizer testował lek na dzieciach w Kano podczas epidemii zapalenia opon mózgowych" },
+    { "kiedy": "15 marca 2006", "co": "ochotnicy w Londynie znaleźli się w stanie zagrożenia życia po teście nowego leku" },
+    { "kiedy": "16 marca 2006", "co": "ujawniono nielegalne badania na noworodkach w Turynie" }
+  ],
+  "zrodla_cytowane": ["Waldemar Maszewski – Przyszedł czas na ludzi (hotnews.pl)", "niemiecki program telewizyjny Frontal 21 (ZDF)", "The Washington Post – o testach Pfizera w Nigerii (za Onet.pl, 8 maja 2006)"]
+}

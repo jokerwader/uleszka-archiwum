@@ -1,0 +1,67 @@
+{
+  "id": "hawass/hawass",
+  "tytul": "Archeolog czy złodziej?",
+  "streszczenie": "Autor strony oskarża Zahiego Hawassa, szefa egipskich zabytków w Gizie, o apodyktyczność, wypędzanie niezależnych badaczy i prowadzenie tajnych wykopalisk. Większą część tekstu zajmuje relacja Wojciecha Bobilewicza z Fundacji Nautilus z podróży do Egiptu: nocne wejście na Wielką Piramidę za łapówkę, niezwykłe misy z Abu Ghourab i rozmowy z Larrym Hunterem oraz mieszkańcami wsi Nazlet es Samman. Hunter i jego informatorzy mieli twierdzić, że piramidy są znacznie starsze niż 12 tysięcy lat, że hieroglify odciskano w płynnej masie, że w okolicy żyli olbrzymi Nefilim i że Hawass ukrywa odkrycia, m.in. podziemną komnatę z bazaltową łodzią. Autor strony wnioskuje, że jeśli to prawda, mamy do czynienia z kradzieżą dóbr kultury na niespotykaną skalę oraz z ukrywaniem prawdy o historii cywilizacji.",
+  "tezy": [
+    {
+      "teza": "Hawass blokuje niezależne badania w Gizie i usunął stamtąd naukowców, którzy się z nim nie zgadzali.",
+      "cytat": "To on przepędził spod piramid wszystkich naukowców niezgadzających się z jego poglądami. To on zabronił prowadzenia jakichkolwiek badań pod piramidami.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Pod kierunkiem Hawassa prowadzi się tajne wykopaliska pilnowane przez policję i wojsko, z których wywozi się ciężarówki gruzu.",
+      "cytat": "że tzw. \"archeologiczna mafia\" pod kierownictwem Zahiego Hawassa prowadzi potajemne wykopaliska w bardzo konkretnych miejscach",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "W podziemnej komnacie znaleziono wielką bazaltową łódź, a ekipa, która ją podniosła, rzekomo zachorowała.",
+      "cytat": "któregoś dnia znaleziono potężną, podziemną komnatę, a w niej kilkunastometrowej długości bazaltową łódź",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Muszle przyklejone do dolnych bloków piramid mają dowodzić, że Giza była kiedyś zalana słoną wodą, a więc kompleks jest o wiele starszy, niż się sądzi.",
+      "cytat": "Wniosek z tego jest taki, że przynajmniej niektóre piramidy i inne struktury w Gizie i wokół niej musiały istnieć już wtedy, gdy zalegała tu słona woda",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Wiek Gizy według większości alternatywnych autorów to ok. 12–12,5 tysiąca lat, ale Hunter uważa, że może być znacznie wyższy.",
+      "cytat": "nawet alternatywni autorzy zgadzają się, że wiek Gizy, a zatem i Piramid, i Sfinksa, mimo wszystko należy liczyć w tysiącach lat i większość optuje za okresem mniej więcej 12 do 12,5 tysiąca lat temu",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Krążki o prążkowanych brzegach znajdowane w kamieniach to według relacji produkty mechaniczne dodawane do betonopodobnej masy, w której odciskano hieroglify.",
+      "cytat": "Świadczyłoby to tym, że mogą być to \"twory\" produkowane mechanicznie, a nie - jak chcą geolodzy - morskie organizmy sprzed milionów lat.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Misy z Abu Ghourab wyglądają jak odlane z płynnego surowca, co ma wskazywać na zaawansowaną obróbkę kamienia w starożytności.",
+      "cytat": "podstawy owych mis, z jednego bloku, wyglądają tak, jakby zostały odlane z cementu czy innego płynnego surowca",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Według mieszkańców Nazlet es Samman w rejonie Gizy żyli biblijni olbrzymi Nefilim; pokazywane są odcisk dłoni i rzekomy ząb olbrzyma.",
+      "cytat": "Otóż być może część Nefilim żyła w Egipcie, w rejonie Gizy i Abu Ghourab!",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Larry Hunter twierdzi, że poprawił ułożenie Oriona względem piramid i znalazł miejsca kolejnych piramid odpowiadających innym gwiazdom.",
+      "cytat": "Larry zauważył, że Hancock i Bauval nieco źle ukierunkowali cały gwiazdozbiór Oriona względem piramid i dlatego nie mogli znaleźć pozostałych piramid.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Autor strony sądzi, że za Hawassem stoi światowa mafia handlująca zabytkami, a kradzież może służyć także ukrywaniu prawdy o naszej cywilizacji.",
+      "cytat": "Za Hawassem muszą stać potężne siły światowej mafii ograbiającej nie tylko Egipt.",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["zahi hawass", "giza", "piramidy", "wielka piramida", "pas oriona", "sfinks", "nefilim", "tajne wykopaliska", "hol zapisków", "datowanie piramid"],
+  "osoby": ["Zahi Hawass", "Wojciech Bobilewicz", "Larry Hunter", "Hakim", "Bora", "Moses", "Robert Bauval", "Graham Hancock", "Stephen Mehler", "Lloyd Pye", "Ozyrys", "K. Grześkowiak"],
+  "miejsca": ["Giza", "Sakkara", "Oaza Baharija", "Góra Synaj", "Nazlet es Samman", "Abu Ghourab", "Abu Sir", "Dashur", "Wielka Piramida", "Sfinks", "Kair", "Dolina Królów", "Bagdad", "Delta Nilu"],
+  "okresy": [
+    { "kiedy": "ok. 10000 r. p.n.e.", "co": "Według Hancocka i Bauvala piramidy odzwierciedlały wtedy Oriona, a Sfinks patrzył na gwiazdozbiór Lwa." },
+    { "kiedy": "IX wiek", "co": "Arabowie docierają do Gizy i zastają pomniki częściowo zasypane piaskiem." },
+    { "kiedy": "1987", "co": "Hawass zostaje Dyrektorem Generalnym Gizy i Sakkary oraz Oazy Baharija i uzyskuje doktorat w Pensylwanii." },
+    { "kiedy": "10 lutego 2006", "co": "Egipskie służby ogłaszają odkrycie grobowca sprzed 3,5 tysiąca lat w Dolinie Królów przez ekipę University of Memphis." }
+  ],
+  "zrodla_cytowane": ["Wojciech Bobilewicz – raport z Egiptu (Nautilus.org.pl)", "Szmaragdowe Tablice (wzmiankowane)", "Biblia – opowieść o Nefilim (wzmiankowana)"]
+}

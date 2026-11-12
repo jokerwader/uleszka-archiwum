@@ -1,0 +1,168 @@
+{
+  "id": "10woda/bogwody",
+  "tytul": "Bogowie wody",
+  "streszczenie": "Autor krytykuje współczesną astronomię i archeologię za brak spójnych teorii i odrzucanie przekazów starożytnych, a następnie streszcza sumeryjską opowieść (za Sitchinem) o Tiamat, Mardukku i powstaniu Ziemi oraz o stworzeniu człowieka przez Bogów. Opisuje współistnienie dwóch cywilizacji: Bogów, którzy rządzą, i ludzi, którzy im służą. Twierdzi, że Bogowie budowali na Ziemi ośrodki energetyczno-hydrotechniczne (Egipt, Tiahuanaco, Angkor, Teotihuacan, ziggurat w Mezopotamii, miasta doliny Indusu, kanały Nazca), a kataklizm sprzed ok. 12,5 tys. lat je zniszczył. Uważa więc, że to, co uczeni nazywają świątyniami i grobowcami, było urządzeniami do dystrybucji wody i energii. Dodaje rozważania o petroglifach jako zapisie widzianych przez ludzi istot i techniki Bogów.",
+  "tezy": [
+    {
+      "teza": "Współczesna astronomia nie ma spójnej teorii powstania Układu Słonecznego i opiera się na kolejnych hipotezach roboczych, podczas gdy przekazy Sumerów dają jasny obraz.",
+      "cytat": "Astronomia współczesna nie ma sprecyzowanej, spójnej teorii na temat powstania naszego Układu Słonecznego. Przykładem może być teoria o powstawaniu komet.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Według Sumerów obca planeta Marduk zderzyła się z praZiemią Tiamat, co dało planetoidy i komety; autor uważa, że nauka tego ani nie potwierdza, ani nie obala.",
+      "cytat": "Planetę, zwaną przez Sumerów, Mardukiem otaczało 7 księżyców. Los chciał, że na drodze Marduka znalazła się Tiamat. Została rozbita. Z okruchów, wyrzuconych w przestrzeń, powstały planetoidy",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Człowiek został stworzony przez Bogów, którzy przebywali na Ziemi, aby im służył i pracował na ich korzyść.",
+      "cytat": "Podstawą jest wiara w to, co pisali starożytni - kiedyś po Ziemi stąpali Bogowie i oni to stworzyli człowieka, który miał im służyć i wykonywać pracę na ich korzyść.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Cywilizacja Bogów i cywilizacja ludzi istniały obok siebie, przy czym ludzie byli całkowicie podporządkowani Bogom.",
+      "cytat": "Dwie cywilizacje, Bogów i ludzi, rozpoczynają żyć obok siebie i nie jest to bynajmniej współpraca partnerska. Cywilizacją wiodącą jest cywilizacja Bogów, a cywilizacja ludzi jest jej bezwzględnie podporządkowana i od niej całkowicie uzależniona.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Bogowie najpierw przygotowywali gospodarkę wodną na dużych obszarach, a dopiero potem organizowali skupiska ludzi do produkcji żywności, bo ludzie nie mieli do tego środków.",
+      "cytat": "Cywilizacja ludzi nie miała ani sił ani środków do wykonania melioracji na dużych obszarach, dlatego też Bogowie zanim przystąpili do organizowania skupisk ludzkich mających za zadanie produkcję żywności, najpierw przygotowywali teren pod kątem gospodarki wodnej.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Angkor nie zbudowali Khmerowie w XII w., lecz dawna cywilizacja „długouchych”; kompleks był systemem energetyczno-hydrotechnicznym zniszczonym przez trzęsienie ziemi.",
+      "cytat": "Czy kompleks Angkor zbudowali Khmerowie w XII wieku? Następny naukowy żarcik? Sądzę, że cały kompleks zbudowała cywilizacja przedstawiona na reliefach całego Angkor.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Znalezione w Teotihuacan pomieszczenie wyłożone miką wskazuje na przeznaczenie techniczne, a nie religijne, bo mika jest izolatorem odpornym na wysoką temperaturę.",
+      "cytat": "Pomieszczenie, w którym ją znaleziono jest wykonane jak przekładaniec - pół metra kamienia i siedem cm miki. Mika jest specyficznym materiałem. Wytrzymuje temperaturę 800°C i jest doskonałym izolatorem elektrycznym.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Teotihuacan było centrum energo-hydrotechnicznym, a nie religijnym; miasto liczące 200 tysięcy mieszkańców potrzebowałoby ogromnych ilości wody.",
+      "cytat": "Przejdźmy zatem do mojej hipotezy. Teotihuacan było centrum energo-hydrotechnicznym. Jeśli wokół niego istniało 200 tysięczne miasto, to skąd mieszkańcy czerpali wodę?",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Teotihuacan zbudowano grubo przed 12 tysiącami lat i zniszczył je światowy kataklizm sprzed ok. 12,5 tys. lat wraz z falami tsunami.",
+      "cytat": "Teotihuacan, jak sądzę, zostało wybudowane grubo przed 12 tysiącami lat i zakończyło swą działalność w wyniku światowego kataklizmu około 12,5 tysięcy lat temu.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Ziggurat nie miał na szczycie świątyni, lecz kryły się w nim niebezpieczne urządzenia; stąd brak wejść i potężne ogrodzenia.",
+      "cytat": "Odpowiedź może być tylko jedna. Nikt nie miał prawa przebywać wewnątrz zigguratu. W jego środku działo się coś bardzo niebezpiecznego dla ludzkiego życia.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Miasta doliny Indusu stały pierwotnie nad rzeką, która zmieniła koryto wskutek kataklizmu; autor odrzuca wyjaśnienie z „gniewem Boga wody”.",
+      "cytat": "Miasta zapewne zbudowano nad rzeką. To rzeka zmieniła koryto, ale dlaczego? Przesuwać rzeki mogą tylko kataklizmy i to kataklizmy na dużym obszarze lub ogólnoświatowe.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Cywilizacja Bogów tworzyła na całym świecie bazy dystrybucji wody zasilane energią z piramid i zigguratów; zniszczył je kataklizm, a ludzie zostali bez ich wiedzy.",
+      "cytat": "Cywilizacja Bogów stworzyła potężne bazy dystrybucji wody zapewniającą efektywną produkcję rolną i hodowlę dla wyżywienia populacji ludzkiej i swojej.",
+      "dziedzina": "historia"
+    }
+  ],
+  "tematy": [
+    "bogowie",
+    "cywilizacja bogów",
+    "woda",
+    "melioracja",
+    "sumerowie",
+    "marduk i tiamat",
+    "petroglify",
+    "angkor",
+    "teotihuacan",
+    "ziggurat",
+    "dolina indusu",
+    "nazca",
+    "kataklizm 12,5 tys. lat temu"
+  ],
+  "osoby": [
+    "Zecharia Sitchin",
+    "Marduk",
+    "Tiamat",
+    "Ninti",
+    "Hathor",
+    "Oannes",
+    "Erich von Däniken",
+    "Maria Reiche",
+    "Christine Dequerlor",
+    "Hugh Harleston junior",
+    "M. Covarrubias",
+    "Bauval (w tekście: Bouval)",
+    "Biały Niedźwiedź",
+    "Tatunca Nara",
+    "Tlaloc",
+    "Quetzalcoatl",
+    "Budda",
+    "Wisznu",
+    "Samuel Butler",
+    "Darwin"
+  ],
+  "miejsca": [
+    "Angkor",
+    "Teotihuacan",
+    "Tiahuanaco",
+    "Toro Muerto",
+    "Nazca",
+    "Mezopotamia",
+    "Persepolis",
+    "Nemrut Dağ",
+    "Eridu",
+    "Ur",
+    "Larsa",
+    "Lagasz",
+    "Kisz",
+    "Mohendżo-Daro",
+    "Harappa",
+    "Dolina Indusu",
+    "Jezioro Texcoco",
+    "Tenochtitlan",
+    "Jukatan",
+    "Chogha Zanbil",
+    "Lascaux",
+    "Tassili",
+    "Jezioro Tonle Sap"
+  ],
+  "okresy": [
+    {
+      "kiedy": "ok. 450 tysięcy lat temu",
+      "co": "Według znanych przekazów Bogowie przebywali już wtedy na Ziemi."
+    },
+    {
+      "kiedy": "ok. 200–290 tysięcy lat temu",
+      "co": "Według badań mitochondrialnego DNA żyła pierwsza matka rodzaju ludzkiego (Afryka)."
+    },
+    {
+      "kiedy": "ok. 12,5 tysiąca lat temu",
+      "co": "Światowy kataklizm („wielki uskok…”) niszczy ośrodki Bogów, w tym Teotihuacan, Tiahuanaco i systemy irygacyjne."
+    },
+    {
+      "kiedy": "II w. p.n.e. – II w. n.e.",
+      "co": "Według nauki powstaje Teotihuacan."
+    },
+    {
+      "kiedy": "XII w. n.e.",
+      "co": "Według nauki Khmerowie budują Angkor."
+    },
+    {
+      "kiedy": "2500–1500 p.n.e.",
+      "co": "Według nauki rozwija się cywilizacja Indusu."
+    },
+    {
+      "kiedy": "1979",
+      "co": "Däniken odwiedza podziemne kanały w dolinie Nazca."
+    }
+  ],
+  "zrodla_cytowane": [
+    "Zecharia Sitchin – przekazy sumeryjskie o Tiamat i Mardukku",
+    "Erich von Däniken – opis kanałów w dolinie Nazca",
+    "Joseph Blumrich – Kaskara i siedem światów (przekaz Białego Niedźwiedzia)",
+    "Babilońska lista królów (WB 444, muzeum Ashmolean)",
+    "Purany (wzmianka o długości epok)",
+    "Żydowska Kabała (wzmianka o 7 zamieszkałych planetach)",
+    "Bauval – hipoteza o układzie świątyń Angkor"
+  ]
+}

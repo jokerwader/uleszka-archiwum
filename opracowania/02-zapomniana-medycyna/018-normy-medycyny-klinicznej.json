@@ -1,0 +1,24 @@
+{
+ "id": "medalt/grande/normy",
+ "tytul": "NORMY MEDYCYNY KLINICZNEJ",
+ "streszczenie": "Tekst jest zestawieniem norm laboratoryjnych używanych w medycynie klinicznej. Autor wyjaśnia, że lekarze często nie tłumaczą pacjentom wyników badań, więc zebrał normy z fachowych wydawnictw obowiązujące jeszcze w 2000 roku. Podaje przelicznik jednostek, a następnie tabele dla badania krwi, rozmazu, krzepnięcia, osocza, płynu mózgowo-rdzeniowego, enzymów, białek, punktatów, równowagi kwasowo-zasadowej, glukozy, moczu i hormonów.",
+ "tezy": [
+  {
+   "teza": "Autor uważa, że lekarze zbyt rzadko informują pacjentów o znaczeniu wyników badań, a przy ciężkich chorobach milczą.",
+   "cytat": "Nie wszyscy lekarze mówią jednak, co one oznaczają.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Podane tabele norm zebrano z fachowych wydawnictw i obowiązywały one jeszcze w roku 2000.",
+   "cytat": "Zebrałem tu wszystkie normy jakie mogłem znaleźć w fachowych wydawnictwach. Te normy obowiązywały jeszcze w roku 2000.",
+   "dziedzina": "medycyna"
+  }
+ ],
+ "tematy": ["normy laboratoryjne", "badania krwi", "badania moczu", "enzymy", "hormony", "medycyna kliniczna"],
+ "osoby": [],
+ "miejsca": [],
+ "okresy": [
+  { "kiedy": "2000", "co": "Według autora obowiązywały jeszcze podane normy laboratoryjne." }
+ ],
+ "zrodla_cytowane": []
+}

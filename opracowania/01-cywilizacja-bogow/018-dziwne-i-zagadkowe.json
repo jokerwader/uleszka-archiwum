@@ -1,0 +1,80 @@
+{
+  "id": "zagadki/zagadki",
+  "tytul": "Dziwne i zagadkowe",
+  "streszczenie": "Zbiór krótkich notatek o rzekomo niewyjaśnionych podobieństwach i anomaliach w zabytkach z różnych kontynentów: śladach na kamieniach, wierconych otworach, sarkofagach, łukach i mostach, terasach, murach z dopasowanych bloków, symbolach (lwy, węże, korony), kolejnych palcach u rzeźb, rytach z Ica, nieznanych strukturach w pustyni koło Giza czy w Sudanie. Autor odrzuca wyjaśnienie „koincydencją” i oficjalną archeologię, twierdząc, że wiele obiektów pochodzi z czasów sprzed kataklizmu ok. 12,5 tys. lat temu, a ich twórcami byli „Bogowie” lub zaawansowana cywilizacja z techniką nieznaną dziś (wtrysk kamienia, specjalna energia, latające „węże”). Wiele tez jest sformułowanych jako pytania i przypuszczenia autora, a nie dowody.",
+  "tezy": [
+    {
+      "teza": "Podobne rysunki lwów lub pum na tle słońca w Egipcie i Ameryce Środkowej upamiętniają zmianę wschodu słońca w znaku Lwa po „wielkim uskoku skorupy ziemskiej” sprzed 12,5 tys. lat.",
+      "cytat": "Moja hipoteza jest nierozerwalnie z \"wielkim uskokiem skorupy ziemskiej\", przyczyną kataklizmu ok. 12,5 tysięcy lat temu.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Wypustki (czopy) na blokach w Delfach, Cusco i Ollantaytambo mogą świadczyć, że bloki kamienne formowano metodą wtrysku półpłynnego kamienia przy pomocy techniki „Bogów”.",
+      "cytat": "Bardzo możliwe, że ówczesna technika \"Bogów\" pozwalała na tworzenie bloków kamiennych metodą wtrysku półpłynnego kamienia.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Podobne reliefy z Egiptu i Ameryki Środkowej przedstawiają ludzi-pilotów wewnątrz latających węży, pojazdów Bogów z okresu 37–12,5 tys. lat temu.",
+      "cytat": "Na obu widzimy postacie ludzkie oplecione przez węża, obie postacie są otoczone przez dziwne przyrządy, obie wydają się być pilotami podróżującymi w środku węża. Latające węże są znane tylko z najstarszych przekazów i były pojazdami Bogów.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Struktury widoczne na zdjęciu satelitarnym na zachód od piramid w Giza są pozostałością prehistorycznego lotniska („kosmodromu”), niezbadanego przez egiptologów.",
+      "cytat": "Struktura na dole przypomina ogromne lotnisko. Dwa szerokie, przecinające się długie \"pasy startowe\" i \"ścieżki do kołowania\".",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "„Koleiny” na Malcie i w innych miejscach powstały przed ociepleniem 10,7 tys. lat p.n.e. i są pozostałością kanałów, w których mogły biec przewody paliwowe, wodne lub energetyczne.",
+      "cytat": "Musiały zatem zostać wykonane przed globalnym ociepleniem, które nauka umiejscawia na 10,7 tysiąca lat pne., a nie w epoce brązu 2000 lat pne., jak twierdzą archeolodzy.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Rzymianie nie byli wynalazcami łuku ani cementu; łuki występują na całym świecie, a wielkie kamienne budowle zostały przez wcześniejsze cywilizacje, a odziedziczone przez Rzymian i Chińczyków.",
+      "cytat": "To, że Rzymianie są twórcami tego detalu budowniczego jest dla mnie nieporozumieniem, podobnie jak słynny \"rzymski\" cement - pucolana.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Terasy w górach nie były polami uprawnymi, lecz służyły do umacniania stoków przed trzęsieniami ziemi i opadami, a ich systemy odwadniające błędnie uznano za nawadniające.",
+      "cytat": "Ja natomiast sądzę, że zasadniczą rolą teras było umocnienie stoków gór czy wzgórz przed obsunięciem się podczas trzęsień ziemi lub bardzo intensywnych opadów deszczu.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Katakumby i inne podziemne struktury istniały na długo przed Rzymem, a chrześcijanie tylko odkryli je i wykorzystali; datowanie szkieletami jest zawodne.",
+      "cytat": "Podziemne struktury musiały istnieć na długo przed Imperium Rzymskim i Rzymianie nie mieli o nich pojęcia, co skwapliwie wykorzystali chrześcijanie, odkrywszy je przypadkowo.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Lingamy nie są symbolami fallicznymi, lecz tłoczniami do wyciskania soku lub oleju (może somy).",
+      "cytat": "Jak sądzę przeznaczenie lingamu było bardziej prozaiczne - służyły do produkcji soku lub oleju.",
+      "dziedzina": "religia"
+    },
+    {
+      "teza": "Pierzasty wąż Quetzalcoatl nie ma piór, lecz był urządzeniem technicznym (latającym pojazdem) przenoszącym Bogów, otoczonym płomieniami.",
+      "cytat": "Z tego wszystkiego można wyciągnąć wniosek, że węża należy potraktować jako urządzenie stricte techniczne. Węże potrafią latać. Potrafią przenosić w sobie Bogów.",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Rytu na kamieniach z Ica przedstawiają ludzi jadących na dinozaurach, co świadczy o współistnieniu człowieka z dinozaurami i wysokiej kulturze w prehistorii.",
+      "cytat": "Na rysunkach z Ica wyraźnie widać istotę człekopodobną jadącą na... triceratopsie i lecącą na jakimś ptaku o wielkości małego samolotu.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Rzeźby olmeckie i majskie przedstawiające neandertalczyka dowodzą, że żył on równolegle z twórcami rzeźb.",
+      "cytat": "Uwiecznienie wizerunku neandertalczyka w rzeźbie i na dość eksponowanym miejscu świadczy nie tylko o ważności tej rasy, ale także o tym, że człowiek neandertalski żył równolegle z ówczesnymi twórcami rzeźb.",
+      "dziedzina": "biologia"
+    }
+  ],
+  "tematy": ["koincydencja", "megality", "obróbka kamienia", "latające węże", "pierzasty wąż", "kosmodrom giza", "zodiak i precesja", "kataklizm sprzed 12,5 tys. lat", "bogowie i kosmici", "łuki rzymskie", "terasy", "katakumby", "lingam", "neandertalczyk", "kamienie z Ica", "sześć palców i długousi"],
+  "osoby": ["Erich von Däniken", "Flinders Petrie", "Karl Brugger", "Tatunca Nara", "Arnold Mostowicz", "Carlo Crespi", "Lorenzo Dominguez", "dr Cabrera", "Michał Jaworski", "Olek z Bielska-Białej", "Tadeusz Kotarbiński", "Henoch", "Hapy", "Quetzalcoatl (Kukulcan)", "Hanuman", "Orejona", "Albert Einstein", "Horus", "Re-Hor-Achte", "Ashur"],
+  "miejsca": ["Sacsayhuaman", "Cusco", "Ollantaytambo", "Tiahuanaco", "Machu Picchu", "Giza", "Abydos", "Naxos", "Delfy", "Knossos", "Ugarit", "Malta (Gozo)", "Knowth (Irlandia)", "Wyspa Wielkanocna", "Ica (Peru)", "Nazca", "Angkor", "Copan", "Uxmal", "Teotihuacan", "Xochicalco", "Sudan (Rahad al-Bardi)", "Sigiriya", "Jezioro Titicaca", "Chiński Mur", "Philae"],
+  "okresy": [
+    { "kiedy": "ok. 12,5 tysiąca lat temu", "co": "Wielki uskok skorupy ziemskiej i kataklizm; według autora zmienił położenie wschodu słońca i zniszczył dawną cywilizację." },
+    { "kiedy": "37–12,5 tysiąca lat temu", "co": "Okres, w którym według autora na Ziemi przebywali Bogowie (reliefy z latającymi wężami)." },
+    { "kiedy": "10,7 tysiąca lat p.n.e.", "co": "Globalne ocieplenie wg nauki; według autora koleiny z Malty powstały wcześniej." },
+    { "kiedy": "17594–15866 p.n.e.", "co": "Ostatnia era Skorpiona według wyliczeń autora." },
+    { "kiedy": "65 milionów lat temu", "co": "Początek wymierania dinozaurów według nauki." },
+    { "kiedy": "XVIII wiek", "co": "Ostatni „długousi” mieli być widziani w Ameryce Południowej (przekaz)." },
+    { "kiedy": "połowa XIX wieku", "co": "Peruwiańczycy wywożą mieszkańców Wyspy Wielkanocnej do wydobycia guano." }
+  ],
+  "zrodla_cytowane": ["Karl Brugger – Kronika z Akakor", "Księga Henocha", "Teksty Piramid", "Tadeusz Kotarbiński – hasło „lingam”"]
+}

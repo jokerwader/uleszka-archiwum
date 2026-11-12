@@ -1,0 +1,80 @@
+{
+  "id": "medalt/grande/grande",
+  "tytul": "O. Grande",
+  "streszczenie": "Tekst przedstawia o. Jana Grande, bonifratra i zielarza, oraz jego poglądy na żywienie, spisane przez dziennikarzy z Gdańska w książkach „Ojca Grande przepisy na zdrowe życie”. Autor relacjonuje jego przestrogi (margaryna, cukier, sól oczyszczana, ocet, kawa, zasmażka), przepisy kulinarne, napoje domowe oraz prywatne poglądy o bioenergoterapii, alkoholizmie, dietach i wegetarianizmie. Według o. Grande choroby biorą się z zachwiania pierwotnej równowagi składników, z których zbudowany jest człowiek, a zdrowie zapewnia tradycyjna polska kuchnia prowadzona przez kobiety. Autor strony podsumowuje, by nie eksperymentować z odżywianiem na sobie i nie wierzyć w cudowne diety.",
+  "tezy": [
+    {
+      "teza": "Człowiek ma dobierać pożywienie z tych składników, z których sam jest zbudowany, a choroby wynikają z zachwiania tej pierwotnej równowagi.",
+      "cytat": "Przez miliony lat (prawdopodobnie żyjemy przeszło 450 mln lat) człowiek tak dobierał pożywienie, by było w nim wszystko, co jest potrzebne do wzrostu organizmu i jego odnawiania.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Stwórca ulepił człowieka z wapnia i domieszek pierwiastków, a człowiek ma szukać w pożywieniu tego, z czego jest zbudowany.",
+      "cytat": "Po zastanowieniu wziął wapń, domieszał do niego po trochu: krzemu, żelaza, kobaltu, magnezu, cynku, zbudował rodzaj rusztowania na planie krzyża.",
+      "dziedzina": "religia"
+    },
+    {
+      "teza": "Margaryna jest wysoko przetworzonym produktem szkodliwym dla organizmu i powinna zniknąć z kuchni.",
+      "cytat": "Margaryna, jako produkt o wysokim stopniu przetworzenia, robi szkody w ludzkim organizmie.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Cukier łączy się w organizmie z tłuszczami nasyconymi i tworzy cholesterol, a także sprzyja kamicy nerkowej.",
+      "cytat": "W pierwszym rzędzie łączy się z solami tłuszczów nasyconych i produkuje ogromne kryształy cholesterolu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Mycie i oczyszczanie soli jest zbrodnią przeciw naturze; należy używać szarej soli kopalnianej, bogatej w selen, żelazo i kobalt.",
+      "cytat": "Mycie, płukanie i ważenie soli jest zbrodnią przeciw naturze. Sól kopalniana niesie ze sobą ogromne bogactwa selenu, żelaza i kobaltu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Cytryna wrzucona do herbaty uwalnia glin, który osiada w mózgu i sprzyja chorobie Alzheimera.",
+      "cytat": "Płatki herbaciane posiadają w swoim składzie mikroskopijną ilość glinu (aluminium), który sam w sobie nie jest szkodliwy, natomiast pod wpływem kwasu cytrynowego, chemizuje się i przenoszony w krwioobiegu osiada w mózgu, tworząc sprzyjające tło dla choroby Alzheimera.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Jajka, nawet sześć dziennie, obniżają cholesterol i chronią przed miażdżycą, o ile nie łączy się ich z cukrem i tłuszczami nasyconymi.",
+      "cytat": "Jajka - wbrew wszystkiemu, co się o nich mówi - są lekarstwem przeciw miażdżycy. Można zjadać 6 jajek dziennie i obniżyć nimi poziom cholesterolu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Grzybki kefiru oczyszczają mleko z bakterii i wytwarzają kwas, który usuwa z organizmu nawet „jad rakowy”.",
+      "cytat": "Poza tym wytwarzają mlekowy kwas chemiczny odwrotnie złożony, który z naszych organizmów, nawet trupi jad rakowy usuwa.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Bioenergoterapia to znachorstwo i nabieranie ludzi; każdy ma własny zasób energii, który promieniuje, gdy organizm jest zdrowy.",
+      "cytat": "Jestem życiowym realistą i praktykiem i nie uznaję żadnej bioenergoterapii. Każdy z nas ma w sobie samym własną elektrownię, bioprądy, niezbędny mu do życia zasób energii i optymizmu.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Alkoholizm nie jest chorobą, lecz kwestią wolnej woli i psychicznej rozpusty, a w domu pijaka winę ponosi zaniedbująca męża żona.",
+      "cytat": "Alkoholizm nie jest chorobą, lecz psychiczną rozpustą, podobnie jak każdy inny nałóg.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Mieszkańcy Europy Środkowej mają w genach zapisaną najwłaściwszą dietę, a diety bezmięsne są szkodliwe i powodują choroby.",
+      "cytat": "Wszystkie diety bezmięsne są dietami fałszywymi, powodują patologiczne zmiany wskutek wrzodziejącego jelita grubego, utratę odporności, wyniszczenie organizmu.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Antybiotyki są niebezpieczne i po kuracji trzeba odtruć wątrobę i nerki oraz oczyścić śluzówki z grzybicy.",
+      "cytat": "Po kuracji antybiotykami trzeba odtruć organizm, usunąć toksyny z wątroby i nerek, oczyścić śluzówkę z grzybicy, jeśli taka się pojawi",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["ojciec Grande", "zdrowe żywienie", "kuchnia staropolska", "margaryna", "cukier", "sól kopalniana", "antybiotyki", "wegetarianizm", "bioenergoterapia", "alkoholizm", "kefir domowy"],
+  "osoby": ["o. Jan Grande", "Marzena Woźniak", "Tadeusz Woźniak"],
+  "miejsca": ["Grodno", "Syberia", "Tybet", "Kijów", "Petersburg", "Wrocław", "Łódź", "Warszawa", "Gdańsk", "Kłodawa"],
+  "okresy": [
+    { "kiedy": "1934", "co": "Urodził się o. Jan Grande w okolicach Grodna." },
+    { "kiedy": "1990", "co": "O. Grande wygłosił w Łodzi wykład o sposobie żywienia i pielęgnowania organizmu." },
+    { "kiedy": "1995", "co": "Dziennikarze z Gdańska natrafili na maszynopis z relacją z wykładu o. Grande." },
+    { "kiedy": "1996", "co": "Ukazała się książka „Ojca Grande przepisy na zdrowe życie”." }
+  ],
+  "zrodla_cytowane": [
+    "Marzena i Tadeusz Woźniakowie – Ojca Grande przepisy na zdrowe życie",
+    "Marzena i Tadeusz Woźniakowie – Ojca Grande przepisy na zdrowe życie, część 2"
+  ]
+}

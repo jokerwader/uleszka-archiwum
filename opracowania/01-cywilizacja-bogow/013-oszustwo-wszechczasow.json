@@ -1,0 +1,82 @@
+{
+  "id": "12rzym/rzym",
+  "tytul": "Oszustwo wszechczasów",
+  "streszczenie": "Autor kwestionuje, że starożytni Rzymianie zbudowali amfiteatry, akwedukty, mosty, drogi, termy, mur Hadriana i inne budowle, które im się przypisuje. Argumentuje, że Rzym był przede wszystkim systemem polityczno-wojskowym i grabieżczym, bez zaplecza technicznego i szkolnictwa, a datowanie budowli opiera się na skorupach i inskrypcjach. Wskazuje na braki w źródłach (trasy marszów, architekci, skład „rzymskiego cementu”), logistykę i zniszczenia wszystkich budowli. Twierdzi, że budowle te pochodzą z cywilizacji Atlantydy sprzed ok. 12,5 tys. lat (Ruma jako jej ośrodek), a Rzymianie tylko przejęli i przerobili istniejące ruiny. Tekst ma polemiczny, ironiczny ton i kończy się wezwaniem do nowego pokolenia historyków.",
+  "tezy": [
+    {
+      "teza": "Rzymianie nie odbudowali żadnej z budowli, które im się przypisuje, co autor uznaje za jeden z głównych dowodów, że ich nie zbudowali.",
+      "cytat": "Za jeden z najważniejszych dowodów, że Rzymianie nie zbudowali niczego uważam to, że nie odbudowali żadnej, podkreślam żadnej, rzekomo przez siebie wzniesionej budowli.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Cywilizacja starożytnego Rzymu była systemem polityczno-wojskowym i totalitarnym, żyjącym z podbojów i grabieży, a nie wielką kulturą techniczną.",
+      "cytat": "Osobiście uważam, że cywilizacja starożytnego Rzymu była tylko systemem polityczno-wojskowym i w pełni totalitarną, która dzięki sprytnej polityce (divide et impera)",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Rzymianie nie wynaleźli cementu; badacze pochopnie przypisali im spoiwo znalezione w budowlach wcześniejszych.",
+      "cytat": "Rzymianie nie wynaleźli żadnego cementu. Twierdzenie to archeolodzy oparli o zbadane budowle, faktycznie spajane czymś w rodzaju cementu lecz zbyt pochopnie przypisane Rzymianom.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Podziemne i najstarsze budowle Rzymu (np. cloaca maxima) zbudowała dawna etruska/atlantydzka kolonia Ruma przed co najmniej 12,5 tysiącami lat.",
+      "cytat": "Tu sprawdza się moja hipoteza. Ruma, leżąca na terenie Etrurii, będącej dawną kolonią Atlantydy, została zbudowana przed co najmniej 12,5 tysiącami lat.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Datowanie rzymskich budowli na podstawie znalezionych obok skorup jest niewiarygodne, bo skorupy mogły zostać porzucone w dowolnym czasie.",
+      "cytat": "Jaka jest wiarygodność wieku rzymskich budowli określonego tylko na podstawie znalezionych w pobliżu skorup, które mogły zostać porzucone w każdym innym czasie?",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Zasięg imperium rzymskiego na mapach jest zawyżony, bo opiera się na założeniu, że każde kamienne ruiny są rzymskie; w rzeczywistości Rzym kontrolował głównie obozy i garnizony.",
+      "cytat": "Ukazywana na historycznych mapach wielkość imperium rzymskiego jest raczej życzeniem współczesnych historyków na podstawie błędnego podstawowego założenia.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Mur Hadriana w Brytanii nie został zbudowany przez Rzymian, lecz był już istniejącą budowlą, którą cesarz przywłaszczył.",
+      "cytat": "Można przypuszczać, że Hadrian napotkawszy mur wykorzystał go do prywatnych celów. Pisząc do Rzymu (nieliczni umieli pisać) ogłosił się budowniczym, by wyłudzać od senatu dotacje na dalszą budowę i utrzymanie.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Rzymianie nie zbudowali mostu na Dunaju; próbowali przeprawić się pontonami, a monument w Adamclissi miał być wotum za cudowne ocalenie.",
+      "cytat": "Sądzę, że Rzymianie nie zbudowali mostu, ale na pojedynczych pontonach chcieli osiągnąć drugi brzeg przepływając rzekę.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "„Rzymski cement” zawierał popiół wulkaniczny charakterystyczny dla Półwyspu Apenińskiego, więc nie mógł być wytwarzany na miejscu budowy w całym imperium.",
+      "cytat": "Nie mógł być wytwarzany na miejscu budowy, bo w jego skład wchodził ponoć popiół wulkaniczny, a ten jest wyłączną domeną rejonu półwyspu Apenińskiego.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Imperium rzymskie było maszyną do grabieży i niewolnictwa dla wąskiej oligarchii, a nie źródłem postępu technicznego.",
+      "cytat": "Sądzę, że Imperium rzymskie było tylko maszyną do rabowania, zdobywania niewolników i zaspakajania luksusu dla wąskiej grupy oligarchów.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Ruma była największym ośrodkiem administracyjnym tej części Atlantydy przed światowym kataklizmem sprzed 12,5 tys. lat; stolica cywilizacji spoczywa na dnie Atlantyku.",
+      "cytat": "Ruma pod względem wielkości była bodaj największym ze starożytnych miast Europy. Pozwala to wyciągnąć wniosek, że była największym ośrodkiem administracyjnym tej części Atlantydy przed 12,5 tysiącami lat, przed światowym kataklizmem.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Autor sugeruje, że chrześcijaństwo może być starsze niż pogański Rzym, jeśli „Ruma” i „Roma” oznaczają różne ośrodki.",
+      "cytat": "Czy nasz Wielki Nauczyciel i syn Boga został schwytany i uwięziony przez żołnierzy z Rumy czy z Romy? To ogromna różnica.",
+      "dziedzina": "religia"
+    }
+  ],
+  "tematy": ["starożytny rzym", "rzymski cement (pucolana)", "mur hadriana", "akwedukty", "kartagina", "etruskowie", "atlantyda", "kataklizm 12,5 tys. lat temu", "krytyka historii starożytnej", "datowanie", "imperium rzymskie", "limes"],
+  "osoby": ["Hadrian", "Trajan", "Decebal", "Apollodor z Damaszku", "Appiusz Klaudiusz", "Romulus", "Remus", "Eneasz", "Rea Sylwia", "Amuliusz", "Fabiusz Piktor", "Liwiusz", "Dionizjusz z Halikarnasu", "Andreas Alföldi", "Einar Gjerstad", "Maria Jaczynowska", "Heinrich Schliemann", "Scypion", "Neron", "Archimedes", "Domicjan", "Septimus Sewerus", "Mussolini", "Hitler", "Stalin", "Lucjusz Emiliusz Paulus", "Wespazjan", "Flawiusz", "Tarkwiniusz Stary", "Karakalla", "Dioklecjan", "Hannibal"],
+  "miejsca": ["Rzym (Ruma)", "Cloaca Maxima", "Colosseum", "Circus Maximus", "Caere", "Weje", "Kartagina", "Petra", "Conimbriga", "Mur Hadriana", "Wał Antonina", "Dunaj (most w Drobeta/Turnu Severin)", "Adamclissi (Tropaeum Traiani)", "Sarmizegetusa", "Numancja", "Nowa Kartagina", "Dougga", "Leptis Magna", "Tyr", "Ostia", "Villa Hadriana", "Termy Karakalli", "Biskupin", "Atlantyda", "Wielki Mur Chiński", "Alcobaça", "Batalha", "Catoira", "Orkady", "Stonehenge"],
+  "okresy": [
+    { "kiedy": "ok. 12,5 tysiąca lat temu", "co": "Według autora światowy kataklizm niszczy cywilizację Atlantydy, której ośrodkiem była Ruma." },
+    { "kiedy": "ok. 750–575 p.n.e.", "co": "Według nauki założenie Rzymu i jego murowana rozbudowa." },
+    { "kiedy": "312 p.n.e.", "co": "Według historii Appiusz Klaudiusz buduje pierwszy akwedukt i pierwszą kamienną drogę." },
+    { "kiedy": "146 p.n.e.", "co": "Scypion zdobywa i niszczy Kartaginę." },
+    { "kiedy": "I w. n.e.", "co": "Według tradycji Wespazjan i Flawiusz budują Colosseum (ukończone w 80 r.)." },
+    { "kiedy": "101–106 n.e.", "co": "Wojny Trajana z Dakami i rzekomy most na Dunaju." },
+    { "kiedy": "ok. 122 n.e.", "co": "Według historyków budowa muru Hadriana w Brytanii." },
+    { "kiedy": "ok. 1303 n.e.", "co": "Autor wskazuje to jako datę pierwszego znanego uniwersytetu rzymskiego." },
+    { "kiedy": "ok. X w. n.e.", "co": "Według autora Europa Zachodnia zaczyna budować z cegły i kamienia." }
+  ],
+  "zrodla_cytowane": ["Andreas Alföldi – opinia o Liwiuszu i Fabiuszu Piktorze", "Einar Gjerstad – datowanie założenia Rzymu", "Maria Jaczynowska – Historia starożytnego Rzymu", "Księga Ezechiela (motto)", "Liwiusz i Dionizjusz z Halikarnasu (wymieniani jako zależni od Fabiusza Piktora)"]
+}

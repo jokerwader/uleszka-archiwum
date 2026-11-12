@@ -1,0 +1,212 @@
+{
+  "id": "medalt/orgon/orgon",
+  "tytul": "ORGON - energia kosmosu",
+  "streszczenie": "Tekst jest obszernym fragmentem „Podręcznika akumulatora orgonu” Jamesa DeMeo, przedstawiającym odkrycia Wilhelma Reicha. Autor twierdzi, że orgon to fizyczna, kosmiczna energia życiowa wypełniająca przestrzeń, którą Reich zgromadził w akumulatorze z naprzemiennych warstw metalu i materiałów organicznych. Według tekstu akumulator ogrzewa się wbrew drugiej zasadzie termodynamiki, przyspiesza gojenie ran, wzrost roślin i pomaga w chorobach, także nowotworowych. Opisano też „oranur” i „dor”, czyli zatrucie orgonu przez promieniowanie jądrowe i elektromagnetyczne (telewizory, świetlówki, mikrofale), z którym łączy się susze i pustynnienie, oraz „cloudbuster” do oczyszczania atmosfery. Autor przedstawia Reicha jako ofiarę prześladowań FDA i sądów, wiąże jego odkrycia z pracami innych badaczy (Miller, Kervran, Becker, Piccardi) i zarzuca nauce oficjalnej tłumienie niewygodnych badań. Druga połowa to instrukcje budowy akumulatora, koców i emiterów, opisy doświadczeń domowych oraz streszczenie badania z Marburga (1986).",
+  "tezy": [
+    {
+      "teza": "Orgon jest rzeczywistą, fizyczną energią kosmiczną, którą można zobaczyć, zmierzyć i sfotografować.",
+      "cytat": "być uwidoczniony, zmierzony, sfotografowany i fizycznie odczuty. Jest rzeczywistą, fizyczną energią, a nie jakąś metaforą czy hipotetyczną siłą.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Wnętrze akumulatora orgonu jest cieplejsze od otoczenia, co ma przeczyć drugiej zasadzie termodynamiki.",
+      "cytat": "Wyniki tych doświadczeń z temperaturą były wykonywane wielokrotnie celem sprawdzenia, ponieważ wykazują, że energia orgonu funkcjonuje przeciwnie do drugiej zasady termodynamiki (ujemna entropia).",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Rozkładająca się materia tworzy „biony”, z których powstają pierwotniaki, a w ciele człowieka komórki rakowe.",
+      "cytat": "Jego odkrycie bionów spowodowało rozwiązanie dwóch równoległych zagadek; pochodzenia pierwotniaków (protozoa) z rozkładających się martwych tkanek roślinnych w naturalnych warunkach, oraz pochodzenia komórek rakowych z energetycznie (emocjonalnie) martwych tkanek ludzkiego ciała.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Rak wiąże się z emocjonalną i seksualną rezygnacją pacjenta oraz chronicznym niedoborem energii życiowej.",
+      "cytat": "Reich skoncentrował się na centralnej roli, jaką emocjonalna i seksualna rezygnacja odgrywa w historii życia pacjentów chorych na raka.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Akumulator orgonu łagodzi ból, przyspiesza gojenie i wydłuża życie chorych na raka, choć całkowite wyleczenia są rzadkie.",
+      "cytat": "Całkowite wyleczenia raka były rzadkie, ale ludzie zawsze doświadczali ulgi w bólu czy innych symptomach wraz z wydłużeniem życia z kilku miesięcy, do co najmniej kilku lat zawsze powyżej tradycyjnych prognoz.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Badanie z Marburga (1986) z atrapą akumulatora potwierdziło wzrost temperatury ciała i działanie wagotoniczne w akumulatorze.",
+      "cytat": "W podsumowaniu można stwierdzić, że otrzymane przez nas wyniki badań, dają potwierdzenie wcześniejszych założeń Reicha, o fizycznych właściwościach akumulatora orgonowego i jego psychofizjologicznym działaniu na ludzki organizm.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Nasiona i rośliny naświetlane w akumulatorze rosną znacznie szybciej niż kontrolne.",
+      "cytat": "W swoich własnych doświadczeniach widziałem sześciokrotne zwiększenie długości kiełków fasoli mung wewnątrz akumulatora orgonu w stosunku do kontrolnej grupy kiełków.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Eter został wykryty przez Daytona Millera, a doświadczenie Michelsona-Morleya jest błędnie uznawane za dowód jego nieistnienia.",
+      "cytat": "Doświadczenie Michelson'a-Morley'a jest szeroko i błędnie przytaczane jako dowód całkowitego niepowodzenia wykrycia eteru.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Zdjęcia Haltona Arpa obalają teorię rozszerzającego się wszechświata i Wielkiego Wybuchu.",
+      "cytat": "Jego proste zdjęcia obaliły teorię pustej przestrzeni, rozszerzającego się wszechświata i teorii \"wielkiego wybuchu\" przy pomocy prostego kliknięcia migawki aparatu.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Wprowadzenie materiału radioaktywnego do akumulatora wywołało „oranur”, którego skutki trwały wiele lat po usunięciu źródła.",
+      "cytat": "Reich odkrył, że efekt oranur'u trwał jeszcze długo po usunięciu materiałów radioaktywnych z laboratoryjnych akumulatorów, powodując że wszystkie urządzenia badawcze pozostały bezużyteczne na wiele lat.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Telewizory, świetlówki i kuchenki mikrofalowe wytwarzają oranur, szkodzą zdrowiu i uzależniają dzieci.",
+      "cytat": "Oranur jest wytwarzany przez wszelkiego rodzaju światła fluorescencyjne, odbiorniki telewizyjne i kuchenki mikrofalowe.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Podziemne próby jądrowe zaburzają pole orgonowe Ziemi i mogą powodować susze, burze i epidemie grypy.",
+      "cytat": "Kilka powyższych przykładów ostatecznie sugeruje, że skrajne stany pogodowe takie jak susze czy gwałtowne burze oraz pewne symptomy epidemii grypy mogą być powodowane przez podziemne próby nuklearne, wskutek których całe pole energetyczne Ziemi zostaje zaburzone.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Cloudbuster usuwa z atmosfery dor i oranur oraz przywołuje deszcz w rejonach długotrwałych susz.",
+      "cytat": "Większe urządzenia tego typu, nazwane cloudbusters bazujące na powyżej opisanych zasadach, były używane do usuwania zakumulowanego dor'u i oranur'u z atmosfery, celem odtworzenia pierwotnej świeżości i uzyskania opadów deszczu w rejonach bardzo długotrwałych i uciążliwych susz.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Organizmy przekształcają pierwiastki: według Kervrana krzem z diety zamienia się w wapń w ciele kur i myszy.",
+      "cytat": "Te doświadczenia zdecydowanie świadczą o tym, że krzem z diety był przetwarzany na wapno wewnątrz organizmu zwierząt.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Reich został skazany przez sąd i zmarł w więzieniu, a jego książki spalono, bo oficjalna medycyna i FDA chciały zniszczyć jego odkrycie.",
+      "cytat": "Pomimo, że odwoływał się wszystkimi dostępnymi metodami do Sądu Najwyższego, sprawę przegrał i został wtrącony do Federalnego Więzienia Penitencjarnego w Lewisburgu, gdzie zmarł w 1957.",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": [
+    "orgon",
+    "wilhelm reich",
+    "akumulator orgonu",
+    "energia życiowa",
+    "biony",
+    "oranur i dor",
+    "cloudbuster",
+    "eter",
+    "rak",
+    "promieniowanie elektromagnetyczne"
+  ],
+  "osoby": [
+    "Wilhelm Reich",
+    "James DeMeo",
+    "Eva Reich",
+    "Zygmunt Freud",
+    "John D. Clifford",
+    "Galileusz",
+    "Franz Anton Mesmer",
+    "Harold S. Burr",
+    "Rupert Sheldrake",
+    "Robert O. Becker",
+    "Bjorn Nordenstrom",
+    "Louis Kervran",
+    "Jacques Benveniste",
+    "Charles G. Abbot",
+    "Irving Langmuir",
+    "Izaak Newton",
+    "Dayton Miller",
+    "Halton Arp",
+    "Hannes Alfven",
+    "Frank Brown",
+    "Giorgio Piccardi",
+    "John Ott",
+    "Thelma Moss",
+    "Albert Einstein",
+    "Stefan Muschenich",
+    "Rainer Gebauer",
+    "Gunter Hebenstreit",
+    "Bernd Senf"
+  ],
+  "miejsca": [
+    "Oslo",
+    "Maine",
+    "Portland (Maine)",
+    "Lewisburg",
+    "Berlin",
+    "Wiedeń",
+    "Uniwersytet w Marburgu",
+    "Turkey Point (Floryda)",
+    "Wielka Piramida Cheopsa",
+    "Egipt",
+    "Greensprings (Oregon)",
+    "Espanca (Portugalia)",
+    "Jelcz-Laskowice",
+    "Nowy Meksyk",
+    "Ohio",
+    "Arizona",
+    "Stany Zjednoczone",
+    "Niemcy",
+    "Chiny"
+  ],
+  "okresy": [
+    {
+      "kiedy": "1920",
+      "co": "Początek prac Reicha nad energią biologiczną, gdy był uczniem Freuda."
+    },
+    {
+      "kiedy": "1934-1957",
+      "co": "Intensywne badania Reicha w Oslo, Nowym Jorku i we własnym laboratorium."
+    },
+    {
+      "kiedy": "1938",
+      "co": "Obserwacje Reicha nad bionami przedstawiono Francuskiej Akademii Nauk."
+    },
+    {
+      "kiedy": "1939",
+      "co": "Reich przybył do Stanów Zjednoczonych."
+    },
+    {
+      "kiedy": "około 1940-1942",
+      "co": "Reich opublikował odkrycie energii orgonu i plany akumulatora."
+    },
+    {
+      "kiedy": "1951",
+      "co": "Ukazała się praca Reicha „Eksperyment ORANUR”."
+    },
+    {
+      "kiedy": "19 marca 1954",
+      "co": "Sąd w Portland (Maine) uznał, że orgon nie istnieje, i nakazał zniszczenie publikacji Reicha."
+    },
+    {
+      "kiedy": "1957",
+      "co": "Reich zmarł w więzieniu federalnym na dwa tygodnie przed możliwym zwolnieniem."
+    },
+    {
+      "kiedy": "1887",
+      "co": "Doświadczenie Michelsona-Morleya, trwające według autora niespełna dwa dni."
+    },
+    {
+      "kiedy": "1986",
+      "co": "Badanie psychofizjologiczne akumulatora na Uniwersytecie w Marburgu."
+    },
+    {
+      "kiedy": "1989",
+      "co": "Drugie wydanie „Podręcznika Budowy Akumulatora Orgonu”."
+    },
+    {
+      "kiedy": "1998",
+      "co": "W Greensprings ukończono pierwsze Pomieszczenie Orgonowe, wyszła też książka „Saharasia”."
+    }
+  ],
+  "zrodla_cytowane": [
+    "Wilhelm Reich – The Cancer Biopathy",
+    "Wilhelm Reich – The Oranur Experiment",
+    "Wilhelm Reich – The Orgone Energy Accumulator, Its Scientific and Medical Use",
+    "Wilhelm Reich – Character Analysis",
+    "Wilhelm Reich – People in Trouble",
+    "Wilhelm Reich – The Murder of Christ",
+    "Wilhelm Reich – Orgone Energy Bulletin",
+    "John Ott – Health and Light",
+    "Bjorn Nordenstrom – Zamknięte biologiczne obwody elektryczne",
+    "Stefan Muschenich, Rainer Gebauer – Psycho-Physiological Effects of the Reich Orgone Energy Accumulator",
+    "Stefan Muschenich – Der Gesundheitsbegriff im Werk des Arztes Wilhelm Reich",
+    "Gunter Hebenstreit – Der Orgonakkumulator nach Wilhelm Reich",
+    "James DeMeo, Bernd Senf (red.) – Nach Reich: Neue Forschungen zur Orgonomie",
+    "James DeMeo – Saharasia",
+    "The Einstein Affair (korespondencja Reicha z Einsteinem)"
+  ]
+}

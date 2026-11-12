@@ -1,0 +1,75 @@
+{
+  "id": "warownie/warownie",
+  "tytul": "Cuda epoki upadku",
+  "streszczenie": "Autor zestawia budowę Pałacu Kultury i Nauki z technicznymi możliwościami średniowiecza i pyta, jak w epoce bez dźwigów i stalowych lin powstały tysiące kamiennych zamków, od Bliskiego Wschodu (Krak des Chevaliers, Margat, Aleppo, Kerak) po Europę (Mont-Saint-Michel). Zwraca uwagę na brak tynków, wody pitnej, dokumentów budowy i na ich dziwną architekturę, uznając oficjalne datowania za nieprzekonujące. Autor twierdzi, że zamki te nie były siedzibami możnych, lecz magazynami lub obiektami „przemysłowymi” odziedziczonymi po dawnej cywilizacji, a zniszczenia wynikają z kataklizmu („wielkiego uskoku skorupy ziemskiej”) sprzed ok. 12,5 tys. lat. W dodatku przytacza hipotezę Herberta Illiga o wymyślonych 297 latach wczesnego średniowiecza jako możliwe wyjaśnienie fałszerstw historii.",
+  "tezy": [
+    {
+      "teza": "Kamiennych zamków średniowiecza nie zbudowało ówczesne pokolenie, lecz odziedziczono je po zapomnianej cywilizacji.",
+      "cytat": "Z punktu widzenia mojej hipotezy, kamiennych zamków średniowiecza nie zbudowało ówczesne pokolenie ludzi. Te zamki \"odziedziczono\" jako spadek po dawno zapomnianej cywilizacji.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Poprzednią cywilizację, której dziełem są zamki, zniszczył kataklizm sprzed około 12,5 tysiąca lat, dlatego większość zamków jest w ruinie.",
+      "cytat": "Te zamki to pozostałośc poprzedniej cywilizacji, Tej, którą unicestwił kataklizm sprzed 12,5 tysiaca lat.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Zniszczeń tylu budowli na tak rozległym obszarze nie da się wyjaśnić wojnami i upływem czasu, potrzebne jest założenie wielkiego uskoku skorupy ziemskiej.",
+      "cytat": "Dopóki w założeniu nie uwzględnimy \"wielkiego uskoku skorupy ziemskiej\", nigdy nie rozwiążemy zagadki zniszczeń tylu budowli i na tak wielkim obszarze.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Zamki nie były siedzibami arystokracji ani garnizonami, lecz państwowymi magazynami zboża, nasion i żywności lub obiektami o funkcji przemysłowej.",
+      "cytat": "Czy tak mogło być? Mogło i chyba tak było. Co przechowywano? Sadzę, że przede wszystkim zboża, nasiona, suchą paszę i inną nie psującą się szybko żywność np. oliwę.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Średniowieczna technika (koń, wół, lina konopna, drewniane rusztowania) nie wystarczyłaby do wzniesienia takich budowli, co pokazuje porównanie z budową Pałacu Kultury.",
+      "cytat": "Po to, by do historyków dotarło, że w średniowieczu nie było dźwigów, stalowych lin, betoniarek, pił do cięcia kamiennych bloków, transportu kolejowego i samochodowego.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Klasztor na Mont-Saint-Michel, zalewany przez przypływy, mógł powstać tylko przed kataklizmem sprzed 12,5 tys. lat, gdy te tereny leżały wyżej na suchym lądzie.",
+      "cytat": "Sprawa może znaleźć rozwiązanie lecz tylko w przypadku przeniesienia budowy w czasy sprzed kataklizmu 12,5 tysiąca lat.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Płaska rzymska cegła (Rzym, Pompeje, Hagia Sophia, Alhambra, Sardes) nie jest wynalazkiem znanych nam społeczności i pochodzi z wcześniejszego, nieznanego źródła.",
+      "cytat": "ten rodzaj cegły nie jest wynalazkiem żadnej współczesnej społeczności, a jeśli nie współczesnej, to jakiej?",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Różnice między szybką budową dziesiątek kamiennych zamków przez Kazimierza Wielkiego a ponadstuletnią budową ceglanego Malborka są trudne do wytłumaczenia.",
+      "cytat": "Czyż nie dziwi fakt, że król Kazimierz Wielki przez okres swego panowania wzniósł kilkadziesiąt kamiennych zamków podczas gdy w sąsiednim państwie zakonnym Krzyżacy zamek w Malborku wznosili z cegły?",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Wąskie szczeliny w murach zamków miały sens tylko przy broni palnej, a nie przy łuku czy kuszy.",
+      "cytat": "Owszem taka szczelina spełnia wymagania, gdy od wycelowania do rażenia celu mija bardzo krótki czas, a takie wymogi spełnia tylko broń palna.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Obraz Arabów jako dzikich niszczycieli to propaganda ówczesnego Kościoła i białej rasy; w rzeczywistości przystosowywali oni istniejące budowle.",
+      "cytat": "To co im przypisujemy, to \"wroga propaganda\" ówczesnego kościoła i całej białej, europejskiej rasy.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Według hipotezy Illiga 297 lat (614–911 n.e.) nigdy nie istniało i zostało wymyślone przez władców i Kościół, a zamki mogą mieć związek z tym fałszerstwem.",
+      "cytat": "Uważa on, że 297 lat (od września 614 do sierpnia 911 r.) w ogóle nigdy nie było.",
+      "dziedzina": "historia"
+    }
+  ],
+  "tematy": ["zamki średniowieczne", "zamki krzyżowców", "kataklizm sprzed 12,5 tys. lat", "wielki uskok skorupy ziemskiej", "cywilizacja przedpotopowa", "technika budowy", "cegła rzymska", "Mont-Saint-Michel", "chronologia fałszywa", "Pałac Kultury i Nauki", "krytyka oficjalnej historii"],
+  "osoby": ["Józef Stalin", "Lew Rudniew", "Mirosław Bańka", "Fulko Andegaweński", "Baldwin I", "Saladyn", "Bajbars", "Qalaun", "Aubert z Avranches", "Ryszard I Normandzki", "Kazimierz Wielki", "Mieszko I", "Dąbrówka", "Herbert Illig", "Otton III", "Sylwester II (Gerbert z Aurillac)", "Konstantyn VII Porfirogeneta", "Michał Anioł", "Wilhelm Zdobywca", "Krezus", "Filip Piękny", "Rey"],
+  "miejsca": ["Pałac Kultury i Nauki (Warszawa)", "Margat (Qal'at Marqab)", "Krak des Chevaliers", "Aleppo", "Belvoir", "Kerak", "Akka", "Sydon", "Bagras", "Byblos", "Safita", "Azrak", "Mont-Saint-Michel", "Alhambra", "Hagia Sophia", "Rasafa", "Malbork", "Poznań (Ostrów Tumski)", "Svalbard", "Petra", "Piza", "Conimbriga", "Sardes", "Notre-Dame"],
+  "okresy": [
+    { "kiedy": "1054", "co": "Wielka schizma, rozłam chrześcijaństwa na wschodnie i zachodnie." },
+    { "kiedy": "1232", "co": "Powołanie Świętej Inkwizycji." },
+    { "kiedy": "1285", "co": "Sułtan Qalaun zdobywa Margat po oblężeniu." },
+    { "kiedy": "708", "co": "Według legendy archanioł Michał nakazuje biskupowi Aubertowi zbudować kaplicę na Mont-Saint-Michel." },
+    { "kiedy": "ok. 12,5 tysiąca lat temu", "co": "Kataklizm (wielki uskok skorupy ziemskiej), który zniszczył cywilizację, do której autor przypisuje zamki." },
+    { "kiedy": "614–911", "co": "Według Illiga 297 lat, które nigdy nie istniały i zostały wymyślone." },
+    { "kiedy": "1582", "co": "Reforma gregoriańska kalendarza, według Illiga ślad manipulacji." }
+  ],
+  "zrodla_cytowane": ["Herbert Illig – Wer hat an der Uhr gedreht?", "Obywatel X – FPP Kod Czasu", "Daina Kolbuszewska – Odkryto najstarszy kościół w Polsce?"]
+}

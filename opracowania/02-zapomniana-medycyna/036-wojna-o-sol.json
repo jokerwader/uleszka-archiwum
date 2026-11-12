@@ -1,0 +1,57 @@
+{
+  "id": "medalt/sol",
+  "tytul": "Wojna o sól",
+  "streszczenie": "Tekst przedrukowuje artykuł Andrzeja Hołdysa o procesie, który amerykański Salt Institute wytoczył instytucjom zdrowia publicznego, żądając ujawnienia danych, na których oparto zalecenia ograniczania soli (badanie DASH-Sodium). Artykuł opisuje spór naukowców, z których część kwestionuje związek soli z ciśnieniem krwi, oraz ocenę, że lobby przemysłowe stosuje taktykę zasiewania wątpliwości (Data Quality Act, Jim Tozzi). Redaktor strony dodaje komentarz: uważa nadmiar sodu za szkodliwy, a rafinowaną sól za obciążającą organizm, i widzi w sporze głównie walkę o pieniądze.",
+  "tezy": [
+    {
+      "teza": "Salt Institute pozwał instytucje zdrowia publicznego, twierdząc, że brak jednoznacznych dowodów na szkodliwość soli dla układu krążenia.",
+      "cytat": "Pozew do sądu przeciwko badaczom złożył Salt Institute - organizacja lobbystyczna reprezentująca interesy firm produkujących sól i handlujących nią.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Amerykańskie instytuty zalecały ograniczenie soli do 6 gramów dziennie, a następnie jeszcze o połowę, na podstawie badania DASH-Sodium.",
+      "cytat": "Badacze zalecali zatem obywatelom, aby dziennie zjadali nie więcej niż 6 gramów soli - tyle mniej więcej mieści się na łyżeczce do herbaty.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Badanie DASH-Sodium wykazało, że dieta warzywno-owocowa i mniej niż 6 g soli znacząco obniżają ciśnienie krwi.",
+      "cytat": "W badaniu przeprowadzonym sześć lat temu wzięło udział 412 osób, którym podawano w diecie trzy różne dzienne dawki soli - 4, 6 i 8 gramów.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Część badań (Szkocja, Kopenhaga) nie wykazuje korzyści z ograniczania soli u osób z normalnym ciśnieniem i tylko znikome u nadciśnieniowców.",
+      "cytat": "naukowcy z uniwersytetu w Kopenhadze, którzy w 1998 roku dokonali ponownej analizy 114 wcześniejszych badań, doszli do wniosku, że korzyści płynące z ograniczenia spożycia soli są dla ludzi z normalnym ciśnieniem krwi zerowe, a dla tych z nadciśnieniem - znikome.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Dyrektor NHLBI przyznaje, że mówi się obywatelom, iż sól szkodzi, bo chcą jednoznacznej rady, choć nauka nie ma stuprocentowej pewności.",
+      "cytat": "Zwykłych obywateli to jednak nie interesuje. Chcą jednoznacznej rady, a skoro jesteśmy przekonani, że sól szkodzi, mówimy to.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Koncerny stosują strategię zasiewania wątpliwości, którą przetarły firmy tytoniowe w latach 70.",
+      "cytat": "Tę drogę przetarły w latach 70. firmy tytoniowe, starając się obalić wyniki badań dowodzących szkodliwości tytoniu.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Data Quality Act z 2001 r. jest wykorzystywany przez lobby do podważania badań naukowych leżących u podstaw regulacji.",
+      "cytat": "Jest to przyjęty przez Kongres w 2001 roku przepis zobowiązujący wszystkich autorów badań, które są finansowane z funduszy publicznych, do skrupulatnego archiwizowania danych.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Redaktor twierdzi, że o zdrowiu decyduje stosunek sodu do potasu, a rafinowana sól obciąża organizm koniecznością uruchamiania dodatkowych enzymów.",
+      "cytat": "Czysta rafinowana sól, to związek tylko dwóch, czystych pierwiastków - sodu i chloru, które by przyswoić nasz organizm musi uruchomić dodatkowe enzymy, biopierwiastki i witaminy czyli w sumie niekorzystnie naruszyć nasz wewnętrzny bilans energetyczny.",
+      "dziedzina": "żywienie"
+    }
+  ],
+  "tematy": ["sól", "ciśnienie krwi", "salt institute", "dash-sodium", "lobbing", "data quality act", "nauka i biznes", "sód i potas"],
+  "osoby": ["Andrzej Hołdys", "Claude Lenfant", "Chris Mooney", "Lawrence Appel", "Jim Tozzi", "George W. Bush"],
+  "miejsca": ["USA", "Szkocja", "Kopenhaga"],
+  "okresy": [
+    { "kiedy": "styczeń 2001", "co": "opis badania DASH-Sodium w New England Journal of Medicine" },
+    { "kiedy": "2001", "co": "Kongres USA przyjął Data Quality Act" },
+    { "kiedy": "październik 2002", "co": "NHLBI przedstawił restrykcyjne normy spożycia soli, początek sporu sądowego" },
+    { "kiedy": "1998", "co": "analiza 114 badań w Kopenhadze o znikomym wpływie ograniczania soli" }
+  ],
+  "zrodla_cytowane": ["Andrzej Hołdys – Wojna o zwykłą sól? (Gazeta.pl)", "DASH-Sodium Trial (New England Journal of Medicine, 2001)", "Chris Mooney – The Republican War of Science"]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "medalt/wstep",
+  "tytul": "Wstęp",
+  "streszczenie": "Wstęp do cyklu „Zapomniana medycyna”, w którym autor przedstawia swoje motywy i poglądy na współczesną medycynę. Autor sugeruje, że wiedza lecznicza starożytnych mogła pochodzić od bogów i zginąć w kataklizmie sprzed 12,5 tysiąca lat, a dziś jest niszczona przez „nowoczesną” medycynę i koncerny farmaceutyczne. Twierdzi, że państwa nie chcą uczyć zdrowego żywienia, bo zysk czerpie przemysł spożywczy i farmaceutyczny, oraz że chemiczne leki leczą objawy i szkodzą. Zachęca do samodzielnego dbania o zdrowie przez jedzenie, ziołolecznictwo i naturalne środki, zastrzegając, że medycyna jest potrzebna w nagłych wypadkach, i podaje listę książek, na których oparł cykl.",
+  "tezy": [
+    {
+      "teza": "Wiedza medyczna została ludziom przekazana przez bogów (Asklepios, Toth), a jej większa część zginęła w kataklizmie sprzed 12,5 tysiąca lat.",
+      "cytat": "Czy zaginęła w kataklizmie 12,5 tysiaca lat temu? Być może, ale zapewne jakieś jej resztki przetrwały i być może z tych szczątków korzystali Hipokrates czy Galen.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Zakaz sekcji zwłok nie był wymysłem Kościoła, lecz zakazem pochodzącym od Bogów, chroniącym przed tworzeniem potworów.",
+      "cytat": "Czy zakaz przeprowadzania sekcji zwłok był wymysłem kościoła? Prawdopodobnie nie. To był zakaz przekazany przez Bogów, by ustrzec ludzi przed błędami działających po omacku",
+      "dziedzina": "mitologia"
+    },
+    {
+      "teza": "Współczesne leki chemiczne usuwają objaw, a przy tym wywołują kolejne choroby.",
+      "cytat": "Chemiczne leki \"szybkiego reagowania\", które likwidując jeden objaw wpędzają nas w następną chorobę.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Odrzucenie medycyny ludowej oddało medycynę koncernom chemicznym, które zaczynają ludzi truć.",
+      "cytat": "Odrzucenie przez nowoczesną medycynę tak zwanej \"medycyny ludowej\" rzuciło ją w ramiona wyspecjalizowanych koncernów chemicznych, które jak wskazuje coraz więcej informacji, zamiast leczyć zaczynają nas truć, a nawet zabijać.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Skórka cytryny z miodem i czosnek regulują ciśnienie krwi i działają leczniczo, a nie tylko objawowo.",
+      "cytat": "Jak wiadomo, używanie czosnku reguluje ciśnienie, ale nie wszyscy lubią lub mogą jeść czosnek. Nie wszyscy też wiedzą, że takie same działanie ma skórka cytryny wraz z białym miąższem.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Państwa nie edukują o zdrowym żywieniu, bo zagroziłoby to przemysłowi spożywczemu i chemicznemu oraz służbie zdrowia.",
+      "cytat": "Żadne państwo nie jest zainteresowane edukowaniem swych obywateli na temat zdrowego żywienia z bardzo prozaicznego powodu.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Najważniejszy jest zysk ze sprzedaży niezdrowej żywności i z leczenia ludzi, a nie ich zdrowie.",
+      "cytat": "To nie zdrowie ludzi jest najważniejsze. Najważniejszy jest zysk ze sprzedaży niezdrowej żywności i zysk koncernów farmaceutycznych na leczeniu ludzi.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Aspiryna niszczy śluz żołądka i prowadzi do owrzodzeń, a witamina C w tabletkach grozi skrzepami i kamieniami nerkowymi.",
+      "cytat": "Kto chce, będzie łykał witaminę C w tabletkach, ale niech będzie świadomy, że od niej nabawi się skrzepów krwi, kamieni w nerkach",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Środki naturalne nie są dopuszczane do użytku, dopóki chemicy nie wyodrębnią z nich związku, który stanie się patentowanym lekiem.",
+      "cytat": "Środek naturalny leczący chorobę nie zostanie dopuszczony do oficjalnego użytku, dopóki nie zostanie dogłębnie rozłożony na czynniki pierwsze przez chemików",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Medycyna naukowa jest potrzebna w nagłych i ciężkich przypadkach; autor nie propaguje wegetarianizmu i zaleca umiarkowane białko zwierzęce.",
+      "cytat": "Nie mam zamiaru także propagować wegetarianizmu czy wręcz weganizmu. Człowiek musi też spożywać białko zwierzęce, ale spożywać z umiarem.",
+      "dziedzina": "żywienie"
+    }
+  ],
+  "tematy": ["medycyna naturalna", "zioła", "koncerny farmaceutyczne", "zdrowe żywienie", "medycyna starożytna", "leki chemiczne", "samoleczenie"],
+  "osoby": ["Galen", "Hipokrates", "Asklepios", "Apollo", "Zeus", "Toth", "Jim Knight", "książę Karol"],
+  "miejsca": ["Genewa", "Anglia"],
+  "okresy": [
+    { "kiedy": "ok. 12,5 tysiąca lat temu", "co": "Według autora kataklizm, w którym miała zaginąć większość wiedzy medycznej." },
+    { "kiedy": "maj 2006", "co": "Brytyjskie standardy żywieniowe w szkołach oraz apel księcia Karola o nieodrzucanie medycyny tradycyjnej." }
+  ],
+  "zrodla_cytowane": [
+    "Jadwiga Górnicka – Apteka natury, poradnik zdrowia",
+    "Irena Gumowska – Czy wiesz co jesz?",
+    "Patrick Holford – Zasady zdrowego odżywiania",
+    "Adolf Januszewski – ABC radiestezji",
+    "Henryk Jasiak, Monika Jucewicz – Życie bez lekarza",
+    "Andrzej Czesław Klimuszko – Wróćmy do ziół",
+    "Krystyna Mikołajczyk, Adam Wierzbick – Zioła",
+    "Witold Porzęcki – Ziołolecznictwo",
+    "Andrzej Skarżyński – Bliżej natury",
+    "Grzegorz Franciszek Sroka – Poradnik ziołowy",
+    "Jan Schulz, Edyta Ueberhuber – Leki z Bożej apteki",
+    "Michał Tombak – Droga do zdrowia",
+    "Michał Tombak – Jak żyć długo i zdrowo",
+    "Michał Tombak – Jak żyć 150 lat?",
+    "Michał Tombak – Uleczyć nieuleczalne",
+    "Teresa Tuszyńska – Zdrowie nie ma ceny",
+    "Marzena i Tadeusz Woźniakowie – Ojca Grande przepisy na zdrowe życie"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "medalt/osteo",
+  "tytul": "Osteoporoza",
+  "streszczenie": "Artykuł Laury Orkan przedstawia osteoporozę jako mit rozpowszechniany przez przemysł farmaceutyczny i mleczarski. Autorka twierdzi, że zmniejszanie gęstości kości jest naturalne i rzadko groźne, że osteoporoza dotyczy także mężczyzn, a nadmiar wapnia i hormonów szkodzi. Jako dowód podaje niskie wskaźniki zachorowań u ludów jedzących mało nabiału (Bantu, Japonia, Malezja). Uważa osteoporozę za chorobę cywilizacyjną. Dodatkowo cytuje szwedzkie badania, według których picie kawy zwiększa ryzyko złamań.",
+  "tezy": [
+    {
+      "teza": "Osteoporoza jest promowana przez potężne lobby farmaceutyczne i nabiałowe, które tłumi sprzeciw naukowców.",
+      "cytat": "Lobby przemysłowe jest tak potężne, że protesty naukowców, których badania zaprzeczają ogólnie głoszonym poglądom, zostają stłumione w zarodku.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Zmniejszenie gęstości kości jest zjawiskiem naturalnym i niegroźnym u kobiet i mężczyzn, a ciężka postać występuje rzadko.",
+      "cytat": "Tak więc osteoporoza - czyli zmniejszenie się gęstości tkanki kostnej - jest zjawiskiem zupełnie naturalnym zarówno u kobiet, jak i u mężczyzn, i nie jest niebezpieczna.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Połowa osób z rozpoznaną osteoporozą nigdy nie doznała złamań kości.",
+      "cytat": "Badania naukowe przeprowadzone przez dr Susan E. Brown wykazały, że połowa osób, u których stwierdzono osteoporozę, nigdy nie doznała złamań kości.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Nadmiar wapnia z nabiału i suplementów nie chroni kości, a może je osłabiać; w społeczeństwach jedzących mniej nabiału osteoporoza jest rzadsza.",
+      "cytat": "A przecież badania naukowe już dawno dowiodły, że w społeczeństwach, w których je się mniej nabiału, mniej ludzi zapada na osteoporozę.",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Niskie spożycie wapnia w Japonii i u ludu Bantu idzie w parze z rzadkimi złamaniami, w odróżnieniu od Zachodu.",
+      "cytat": "W Japonii średnia spożycia wapnia wynosi 540 miligramów na dobę, a przecież niezwykle rzadko zdarzają się tam u osób w okresie pomenopauzalnym złamania kręgosłupa",
+      "dziedzina": "żywienie"
+    },
+    {
+      "teza": "Osteoporoza jest chorobą cywilizacyjną wynikającą ze złego odżywiania, stresu, braku ruchu i chemikaliów, a nie z menopauzy.",
+      "cytat": "Osteoporoza nie jest wynikiem starzenia się organizmu kobiety w okresie menopauzy. Dotyczy zarówno kobiet, jak i mężczyzn. Jest chorobą cywilizacyjną, wynikiem złego odżywiania, stresów, braku ruchu oraz skutkiem faszerowania się chemikaliami i sztucznymi hormonami.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Estrogeny stosowane przeciw osteoporozie mają działanie rakotwórcze, a kampanie reklamowe przynoszą ogromne zyski.",
+      "cytat": "Firmy farmaceutyczne prowadzą kampanię mającą na celu przekonanie pań o konieczności długoletniego zażywania preparatów wapniowych oraz estrogenów, mimo że udowodniono ich rakotwórcze działanie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Picie dużej ilości kawy zwiększa częstość złamań kości, według badań szwedzkich naukowców.",
+      "cytat": "Wśród amatorek kawy złamania kości dłoni, przedramienia, szyjki kości udowej, pęknięcia kręgów zdarzają się aż 20 proc. częściej niż u osób rzadziej pijących ten napój",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["osteoporoza", "wapń", "nabiał", "estrogeny", "lobby farmaceutyczne", "kawa", "choroby cywilizacyjne", "menopauza"],
+  "osoby": ["Laura Orkan", "Bruce Ettinger", "Susan E. Brown", "Helena Hallstroem"],
+  "miejsca": ["USA", "Japonia", "Malezja", "Upsala", "Sztokholm", "Instytut Karoliński"],
+  "okresy": [
+    { "kiedy": "1986", "co": "w USA wydano na preparaty wapniowe ponad 160 milionów dolarów" },
+    { "kiedy": "1989", "co": "Narodowy Instytut Zdrowia USA ostrzegł, że firmy promujące wapń obiecują więcej korzyści, niż on daje" }
+  ],
+  "zrodla_cytowane": ["Upsala Nya Tidning – doniesienie o badaniach nad kawą", "Osteoporosis International (zapowiedź publikacji wyników)"]
+}

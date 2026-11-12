@@ -1,0 +1,68 @@
+{
+ "id": "quake/quake",
+ "tytul": "Zatrzęsło",
+ "streszczenie": "Autor opisuje własne przeżycie trzęsienia ziemi z 21 września 2004 roku w Braniewie, które objęło północno-wschodnią Polskę i obwód kaliningradzki, oraz reakcje ludzi i władz, w tym wpisy internautów. Zestawia dane o dawnych trzęsieniach w Polsce, skalach Richtera i Mercallego oraz największych katastrofach na świecie. Cytuje wypowiedzi sejsmologów, którzy uznają zjawisko za naturalne i nieszkodliwe, ale sam im nie dowierza. Autor podejrzewa nieznane pęknięcia skorupy pod Bałtykiem lub rosyjską próbę atomową i krytykuje brak przygotowania służb kryzysowych.",
+ "tezy": [
+  {
+   "teza": "Dawne przekazy (Kodeks Rios) zapowiadają koniec świata przez trzęsienie ziemi jako czwarte zniszczenie ludzkości.",
+   "cytat": "Wszystko, co żyje, ulegnie zniszczeniu na skutek trzęsienia ziemi. Będzie to już czwarte zniszczenie ludzkości.",
+   "dziedzina": "mitologia"
+  },
+  {
+   "teza": "Nostradamus miał przepowiedzieć trzęsienie ziemi w rejonie bursztynu i powódź od Renu do Dniestru.",
+   "cytat": "I ziemia zadrży tam, gdzie jantar leży. A będzie to przednówek strasznych rzeczy. Wody zaleją niziny od Renu do Dniestru.",
+   "dziedzina": "religia"
+  },
+  {
+   "teza": "Lokalne władze nie były przygotowane na trzęsienie, a służby kryzysowe zawiodły mimo wydawanych na szkolenia pieniędzy.",
+   "cytat": "Burmistrz Braniewa zapytany w wywiadzie radiowym, czy miasto jest gotowe na taki rodzaj klęski, odpowiedział rozbrajająco szczerze - absolutnie nie.",
+   "dziedzina": "społeczeństwo"
+  },
+  {
+   "teza": "W ostatnim tysiącleciu w Polsce zarejestrowano 76 trzęsień ziemi, a największe z 1443 roku miało siłę około 6 stopni.",
+   "cytat": "Ogółem w ciągu ostatniego tysiąclecia w Polsce zarejestrowano 76 trzęsień ziemi.",
+   "dziedzina": "geologia"
+  },
+  {
+   "teza": "Polska leży na starej i sztywnej platformie wschodnioeuropejskiej, gdzie nie ma silnych katastrofalnych trzęsień (opinia sejsmologów).",
+   "cytat": "Na szczęście znajdujemy się na tzw. platformie wschodnioeuropejskiej, która jest starą i sztywną strukturą geologiczną, gdzie nie występują silne, katastrofalne trzęsienia ziemi.",
+   "dziedzina": "geologia"
+  },
+  {
+   "teza": "Sejsmolodzy uznali trzęsienie za naturalne zjawisko tektoniczne w rejonie Kaliningradu, po którym spodziewane są tylko słabsze wstrząsy.",
+   "cytat": "Tak silne trzęsienie w tym rejonie to rzadkość, ale zapisy sejsmografów wskazują, że przyczyną były naturalne zjawiska tektoniczne w rejonie Kaliningradu.",
+   "dziedzina": "geologia"
+  },
+  {
+   "teza": "Wyjaśnienie, że winna jest Skandynawia unosząca się po ustąpieniu lodowca, autor uważa za niewiarygodne.",
+   "cytat": "Śpij spokojnie, polska nauka czuwa. Już znaleziono winnego. To Skandynawia, pnąca się w górę od 12 tys. lat po uwolnieniu się z okowów lodowca.",
+   "dziedzina": "geologia"
+  },
+  {
+   "teza": "Autor przypuszcza, że pod Bałtykiem istnieją nieznane pęknięcia skorupy ziemskiej, które same dały o sobie znać.",
+   "cytat": "Mnie się wydaje, że pod Bałtykiem są pęknięcia skorupy ziemi, o których nic nie wiemy i one same zdecydowały przypomnieć o sobie.",
+   "dziedzina": "geologia"
+  },
+  {
+   "teza": "Autor dopuszcza, że wstrząs mógł być skutkiem rosyjskiej próby atomowej pod dnem Bałtyku.",
+   "cytat": "Czy przypadkiem Rosjanie wykorzystując rzadkie, bądź co bądź, zjawisko w tym rejonie nie przeprowadzili próby atomowej pod dnem Bałtyku???",
+   "dziedzina": "polityka"
+  },
+  {
+   "teza": "Wstrząs miał siłę 4-5 stopni w skali Richtera i 6-7 w skali Mercallego, a epicentra były dwa: pod Bałtykiem i pod lądem.",
+   "cytat": "Pierwsze miało epicentrum pod Bałtykiem na półnoć od półwyspu sambijskiego (54,83°N i 19,71°E), drugie z epicentrum już pod lądem w rejonie Świetłogorska.",
+   "dziedzina": "geologia"
+  }
+ ],
+ "tematy": ["trzęsienie ziemi 2004", "sejsmologia", "Braniewo", "Kaliningrad", "przepowiednie", "zarządzanie kryzysowe", "skala Richtera", "historia trzęsień w Polsce", "Bałtyk"],
+ "osoby": ["Nostradamus", "Jan Długosz", "Piekarek-Jankowska", "Paweł Wiejacz", "Edward Perchuć", "Leszek Wiktor Klimek"],
+ "miejsca": ["Braniewo", "Kaliningrad", "Olsztyn", "Elbląg", "Suwałki", "półwysep Sambijski", "Świetłogorsk", "Bałtyk", "Pieniny", "Kraków", "Wrocław", "Tatry", "Skandynawia"],
+ "okresy": [
+  { "kiedy": "21 września 2004", "co": "Dwa wstrząsy (ok. 13.06 i 15.33) nawiedziły północno-wschodnią Polskę i obwód kaliningradzki." },
+  { "kiedy": "1443", "co": "Największe trzęsienie ziemi w historii Polski (około 6°R), opisane przez Długosza." },
+  { "kiedy": "1662", "co": "W Tatrach trzęsienie miało obniżyć Sławkowski Szczyt o około 300 m." },
+  { "kiedy": "1786", "co": "Silne trzęsienia z epicentrum między Cieszynem a Opawą oraz Kętami a Myślenicami." },
+  { "kiedy": "1976", "co": "Trzęsienie w Chinach zabiło według autora 242 000 osób." }
+ ],
+ "zrodla_cytowane": ["Kodeks Rios", "Nostradamus – Centurie"]
+}

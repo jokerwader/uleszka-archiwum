@@ -1,0 +1,42 @@
+{
+ "id": "medalt/mudra",
+ "tytul": "Lecznicze mudry",
+ "streszczenie": "Tekst, oparty na książce Teresy Tuszyńskiej, opisuje mudry, czyli ułożenia palców dłoni wywodzące się ze starohinduskiej ajurwedy. Autor przedstawia zasadę działania (równoważenie pięciu elementów przez dotykanie opuszką kciuka), zasady ćwiczeń i kilkanaście konkretnych mudr z przypisanymi im działaniami, np. na serce, wzrok, uszy, gardło, stawy. Twierdzi, że mudry nie mają skutków ubocznych i mogą pomóc w wielu schorzeniach.",
+ "tezy": [
+  {
+   "teza": "Choroby wynikają z nadmiaru lub niedoboru jednego z pięciu żywiołów, co można wyrównać układem palców.",
+   "cytat": "Tradycyjna medycyna hinduska uważa, że nadmiar lub niedostatek któregoś z elementów (słońca, powietrza, nieba, ziemi lub wody) jest przyczyną choroby i róznych dolegliwości",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Mudra ratująca życie ma działać w ataku serca podobnie do nitrogliceryny i jest zalecana jako pierwsza pomoc.",
+   "cytat": "Działanie mudry mozna przyrównać do zażycia dawki nitrogliceryny.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Mudra nieba ma polepszać słuch, a przy dłuższym stosowaniu wyleczyć prawie wszystkie choroby uszu.",
+   "cytat": "a przy dłuższym praktykowaniu całkowicie wyleczyć prawie wszystkie choroby uszu.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Mudra życia ma poprawiać ostrość wzroku i leczyć różne choroby oczu.",
+   "cytat": "Doskonale wpływa na wzrok, polepsza ostrość, leczy różne choroby oczu",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Ćwiczenia powinny trwać łącznie co najmniej 45 minut dziennie i być wykonywane obiema dłońmi.",
+   "cytat": "Ogólny czas ćwiczeń nie powinien być krótszy niż 45 minut dziennie (lub rozłozony np. 3 razy po 15 minut).",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Mudry nie mają skutków ubocznych, a efekty pojawiają się po dniach, tygodniach lub miesiącach.",
+   "cytat": "Mudry nie powodują żadnych skutków ubocznych, a mogą jedynie pomóc.",
+   "dziedzina": "medycyna"
+  }
+ ],
+ "tematy": ["mudry", "ajurweda", "medycyna hinduska", "ćwiczenia dłoni", "medycyna niekonwencjonalna", "pięć żywiołów"],
+ "osoby": ["Teresa Tuszyńska"],
+ "miejsca": ["Indie"],
+ "okresy": [],
+ "zrodla_cytowane": ["Teresa Tuszyńska – Zdrowie nie ma ceny"]
+}

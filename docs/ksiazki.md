@@ -6,6 +6,8 @@ Leszek Klimek w swoich artykułach powołuje się na kilkaset książek i dawnyc
 
 **Legalność.** Podajemy tylko źródła legalne: dzieła w domenie publicznej albo udostępnione bezpłatnie przez biblioteki i wydawców. Nie podajemy serwisów z nielegalnymi kopiami. W Polsce dzieło przechodzi do domeny publicznej 70 lat po śmierci autora, a także tłumacza, jeśli to przekład. Dlatego dawny tekst w nowym polskim przekładzie zwykle **nie** jest darmowy.
 
+**Biblioteka w repozytorium.** 30 dzieł z tej listy (m.in. Platon, Herodot, Księga Rodzaju, Owidiusz, Księga Henocha, Popol Vuh, Gilgamesz, Strabon, Pliniusz, Mahabharata, Nostradamus) jest skopiowanych w pełnym brzmieniu do folderu [biblioteka/](../biblioteka/README.md). Asystent AI może je przeszukiwać i czytać przez serwer MCP.
+
 ## Podsumowanie
 
 - **Za darmo po polsku**: najważniejsze dawne źródła autora, czyli Biblia, *Timajos* i *Kritias* Platona (Atlantyda), *Dzieje* Herodota, *Metamorfozy* Owidiusza, *Iliada*, Długosz i *Stara baśń*.

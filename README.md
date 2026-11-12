@@ -10,6 +10,18 @@ Strona zniknęła z internetu. To repozytorium zachowuje **całość jej treści
 
 > „Zwrócić na coś uwagę większości, znaczy pomóc zdrowemu rozsądkowi wpaść na właściwy ślad” – G. E. Lessing, motto strony
 
+### Co jest w archiwum
+
+| | |
+|---|---|
+| 📄 **148 stron oryginału** | wszystkie artykuły w niezmienionej formie, ze zdjęciami ([katalog](KATALOG.md)) |
+| 🧭 **Opracowania** | dla każdego artykułu: streszczenie, tezy autora z dosłownymi cytatami, tematy, osoby, miejsca i daty ([spis](opracowania/README.md)) |
+| 🖼️ **Opisy 1714 zdjęć** | co przedstawia każde zdjęcie, mapa i rysunek, razem z przepisanymi napisami |
+| 📚 **Biblioteka 30 dawnych dzieł** | pełne teksty źródeł, na które powołuje się autor: Platon, Herodot, Księga Rodzaju, Owidiusz, Księga Henocha, Popol Vuh, Gilgamesz, Mahabharata i in. ([biblioteka](biblioteka/README.md)) |
+| 🔎 **Wyszukiwanie po znaczeniu** | pytanie „katastrofy z kosmosu” znajdzie teksty o kometach i Tiamat, choć tych słów w pytaniu nie ma |
+
+Opracowania i opisy zdjęć przygotowała sztuczna inteligencja. Są oddzielone od oryginału, który pozostał nietknięty. Każdy cytat w opracowaniach jest automatycznie sprawdzany: musi występować w artykule dosłownie.
+
 ---
 
 ## 💬 Jak porozmawiać z archiwum
@@ -25,7 +37,7 @@ Wybierz sposób, który ci pasuje:
 
 ### A. ChatGPT – własny GPT
 
-1. Pobierz pliki z folderu [`dla-ai/`](dla-ai): kliknij plik, a potem *Download raw file*. Całość ma ok. 5 MB, a każdy dział to jeden plik.
+1. Pobierz pliki z folderu [`dla-ai/`](dla-ai): kliknij plik, a potem *Download raw file*. Każdy dział to jeden plik, a `06-opracowania.md` zawiera streszczenia i tezy wszystkich artykułów. Całość ma ok. 5,5 MB.
 2. W ChatGPT: **Odkrywaj GPT → Utwórz → Konfiguruj**.
 3. W polu **Instrukcje** wklej tekst z [docs/instrukcje-asystenta.md](docs/instrukcje-asystenta.md).
 4. W sekcji **Wiedza** wgraj pliki z `dla-ai/`.
@@ -41,9 +53,22 @@ Wybierz sposób, który ci pasuje:
 
 ### C. Claude Desktop / Claude Code (serwer MCP)
 
-Ten sposób działa najlepiej. AI dostaje narzędzia: spis treści, wyszukiwarkę (odporną na brak polskich znaków i literówki), czytanie całych artykułów, szukanie w artykule i oglądanie zdjęć.
+Ten sposób działa najlepiej. AI dostaje 11 narzędzi:
 
-Potrzebny jest [Node.js](https://nodejs.org) w wersji 20 lub nowszej.
+| Narzędzie | Co robi |
+|---|---|
+| `list_articles` | spis treści (z tematami) |
+| `search` | wyszukiwanie po słowach (w artykułach, opracowaniach i opisach zdjęć albo w bibliotece); działa bez polskich znaków i przy literówkach |
+| `search_by_meaning` | wyszukiwanie po znaczeniu, także w bibliotece |
+| `read_article` | pełny tekst artykułu, z opisem każdego zdjęcia |
+| `get_article_notes` | opracowanie: streszczenie, tezy z cytatami, tematy, osoby, miejsca, daty |
+| `related_articles` | artykuły powiązane znaczeniowo i tematycznie |
+| `find_in_article` | wszystkie miejsca w artykule lub książce, gdzie pada dane słowo |
+| `get_image` | zdjęcie razem z opisem |
+| `list_books` | książki cytowane przez autora i gdzie je legalnie przeczytać |
+| `list_library`, `read_book` | biblioteka dawnych źródeł w pełnym brzmieniu |
+
+Potrzebny jest [Node.js](https://nodejs.org) w wersji 20 lub nowszej. Przy pierwszym wyszukiwaniu po znaczeniu serwer pobiera jednorazowo model językowy (ok. 120 MB). Potem działa bez internetu.
 
 ```bash
 git clone https://github.com/jokerwader/uleszka-archiwum.git
@@ -76,6 +101,7 @@ Gotowe polecenia (prompty) dostępne w Claude:
 
 - **omow_artykul**: wierne streszczenie tez artykułu i zestawienie każdej z dzisiejszą wiedzą.
 - **szukaj_odzwierciedlen**: wszystko, co archiwum mówi na dany temat, i co mówią o tym obecne badania.
+- **sprawdz_zrodlo**: czy autor wiernie oddał dawne źródło, np. Platona o Atlantydzie. AI porównuje jego słowa z oryginałem z biblioteki.
 
 ### D. Serwer MCP pod adresem internetowym
 
@@ -132,6 +158,9 @@ To repozytorium zachowuje stronę w pierwotnym układzie działów, razem ze zdj
 | [`artykuly/`](artykuly) | Każda strona jako osobny plik Markdown, z opisem (tytuł, dział, adres oryginału) i zdjęciami |
 | [`dla-ai/`](dla-ai) | Całe archiwum w kilku plikach do wgrania do ChatGPT lub Claude (sposoby A i B) |
 | [`zrodlo/`](zrodlo) | Oryginalna kopia strony: pliki HTML i ok. 1500 zdjęć, bajt w bajt |
+| [`opracowania/`](opracowania) | Opracowania AI każdego artykułu (JSON) i [ich spis](opracowania/README.md) |
+| [`biblioteka/`](biblioteka) | 30 dawnych dzieł z domeny publicznej, na które powołuje się autor ([spis](biblioteka/README.md)) |
+| [`dane/`](dane) | Opisy AI zdjęć (`opisy-obrazow/`) i wektory do wyszukiwania po znaczeniu (`wektory/`) |
 | [`src/`](src) | Serwer MCP |
 | [`scripts/`](scripts) | Konwersja, kontrola wierności, pliki dla AI, testy |
 | [`docs/`](docs) | Instrukcje dla asystenta AI oraz [książki cytowane przez autora i gdzie je legalnie przeczytać za darmo](docs/ksiazki.md) |
@@ -148,10 +177,24 @@ npm run sprawdz
 
 Wynik: `Sprawdzono 148 artykułów (3642740 liter i cyfr). Różnic: 0.`
 
+Druga kontrola dotyczy warstwy AI. Sprawdza, że każdy artykuł ma opracowanie, każdy z ponad 1000 cytatów w opracowaniach występuje w artykule dosłownie i każde zdjęcie ma opis:
+
+```bash
+npm run sprawdz-opracowania
+```
+
 ### Dla programistów
 
 ```bash
 npm run konwertuj   # odtwarza artykuly/ i KATALOG.md z zrodlo/
+```
+
+```bash
+npm run biblioteka  # pobiera brakujące dzieła do biblioteka/ (Gutenberg, Wolne Lektury, Wikiźródła)
+```
+
+```bash
+npm run wektory     # wektory znaczenia dla archiwum; "npm run wektory -- biblioteka" dla biblioteki
 ```
 
 ```bash
@@ -162,7 +205,7 @@ npm run pakiety     # odtwarza dla-ai/
 npm run build && npm test   # testy serwera MCP: lokalnie (stdio) i przez HTTP
 ```
 
-Narzędzia serwera: `list_articles`, `search`, `read_article`, `find_in_article`, `get_image`. Zasób: `uleszka://katalog`.
+Zasób MCP: `uleszka://katalog`. Model do wyszukiwania po znaczeniu: [multilingual-e5-small](https://huggingface.co/intfloat/multilingual-e5-small), uruchamiany lokalnie przez transformers.js.
 
 ---
 
@@ -173,3 +216,5 @@ Treści strony uleszka.net (`artykuly/`, `zrodlo/`, `dla-ai/`, `KATALOG.md`) nal
 Teksty są poglądami autora sprzed ok. 20 lat. Dotyczy to zwłaszcza działu o zdrowiu: nie są poradą medyczną.
 
 Licencja MIT ([LICENSE](LICENSE)) dotyczy tylko kodu (`src/`, `scripts/`).
+
+Dzieła w `biblioteka/` są w domenie publicznej. Pliki z Project Gutenberg zawierają oryginalną licencję PG, a wydania Wolnych Lektur i transkrypcje Wikiźródeł mają licencje CC BY-SA, podane w nagłówku każdego pliku. Opracowania i opisy zdjęć przygotowane przez AI (`opracowania/`, `dane/opisy-obrazow/`) udostępniamy na licencji [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pl).

@@ -1,0 +1,68 @@
+{
+  "id": "upadek/archeoastro1",
+  "tytul": "Archeoastronomia",
+  "streszczenie": "Strona przytacza artykuł Olgi Woźniak z „Przekroju” o archeoastronomii, w którym dr Stanisław Iwaniszewski omawia badania nad astronomiczną wiedzą dawnych kultur: orientacją świątyń i kręgów kamiennych, zaćmieniem słońca w Loughcrew, kalendarzami Majów i polskimi zabytkami. Następnie autor strony ostro krytykuje ten tekst jako ideologicznie poprawny, powtarzający założenie o „głupich starożytnych” i unikający badań nad UFO. Kwestionuje m.in. interpretację Stonehenge, odczytanie kodeksów Majów i tezę, że ludzie obserwowali niebo, by mieć poczucie kontroli. Uważa też, że to Däniken dał archeoastronomom tematy do pracy, a oficjalna nauka nie tłumaczy zbieżności wiedzy astronomicznej odległych kultur.",
+  "tezy": [
+    {
+      "teza": "Archeoastronomia bada astronomiczne treści w dawnych cywilizacjach i różni się od tego, czym zajmuje się Däniken.",
+      "cytat": "Choć to właśnie dzięki niemu w powszechnej świadomości zaistniała nauka zwana archeoastronomią. To, czym zajmuje się Däniken, należałoby raczej nazwać astroarcheologią",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Kręgi kamienne i świątynie w starożytnej Grecji, Egipcie i Wielkiej Brytanii były zorientowane według zjawisk astronomicznych, np. przesileń.",
+      "cytat": "Zauważył, że większość z nich jest zorientowana na wschód lub zachód Słońca podczas przesilenia wiosennego lub zimowego. To nie mógł być przypadek!",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Rysunki w irlandzkim Loughcrew mogą dokumentować zaćmienie Słońca sprzed ok. 5340 lat, według symulacji komputerowej.",
+      "cytat": "Używając komputerowego symulatora astronomicznego, Griffin obliczył, że blisko 5340 lat temu wieczorem na tym obszarze można było oglądać zaćmienie Słońca zbiegające się z jego zachodem.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Gwiazdozbiór Wielkiej Niedźwiedzicy mógł być znany już 10–15 tysięcy lat temu i wędrować z ludźmi przez Cieśninę Beringa.",
+      "cytat": "Wygląda na to, że zaobserwowano ją już 10-15 tysięcy lat temu. Być może wiedza o niej pochodzi jeszcze z epoki lodowcowej.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Polskie zabytki (kości z nacięciami, megality kujawskie, krąg w Odrach) świadczą o obserwacjach Księżyca i Słońca.",
+      "cytat": "Sprzed sześciu i pół tysiąca lat pochodzą kości z nacięciami, które odnoszą się prawdopodobnie do faz Księżyca.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Ludzie obserwowali niebo, by mieć poczucie kontroli nad światem, a reformy kalendarza prowadziły do wojen.",
+      "cytat": "Dziś mało kto zdaje sobie z tego sprawę, ale reformy kalendarzowe prowadziły do wojen. Ludzie umierali za kalendarze.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Autor strony uważa artykuł za ideologicznie poprawny i opierający się na założeniu o „głupich starożytnych”.",
+      "cytat": "Artykuł poprawny ideologicznie i spełniający zapewne oczekiwania sponsora. Szkoda, że nie wnosi nic nowego.",
+      "dziedzina": "inne"
+    },
+    {
+      "teza": "Autor strony twierdzi, że to Däniken dał archeoastronomom tematy, a nauka nie wyjaśnia zbieżności wiedzy astronomicznej odległych kultur.",
+      "cytat": "To właśnie dzięki Daenikenowi, archeoastronomowie zaczęli mieć coś do roboty, bo wskazał im miejsca i pomysły, o których nie mieli zielonego pojęcia.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Zagadka Stonehenge nie została rozwiązana: nie ustalono daty powstania ani celu budowli.",
+      "cytat": "Czy zagadka Stonehenge została rozwiązana? Wolnego. Nikt jeszcze nie określił prawdziwej daty powstania monumentu, nie mówiąc o celu budowy.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Autor strony kwestionuje, czy Majowie mieli przyrządy astronomiczne i czy kodeksy faktycznie odczytano.",
+      "cytat": "Czy odnaleziono jakiekolwiek przyrządy astronomiczne? Dlaczego ich \"obserwatoria\" miały tylko parę okien i grube, wysokie dachy?",
+      "dziedzina": "archeologia"
+    }
+  ],
+  "tematy": ["archeoastronomia", "stonehenge", "kalendarze", "majowie", "däniken", "megality", "zaćmienie słońca", "syriusz", "nauka oficjalna"],
+  "osoby": ["Olga Woźniak", "Stanisław Iwaniszewski", "Erich von Däniken", "Heinrich Nissen", "Norman Lockyer", "Gerald Hawkins", "Paul Griffin", "Mikołaj Kopernik"],
+  "miejsca": ["Stonehenge", "Loughcrew", "Odry", "Jaskinia Maszycka", "Nowa Łupianka", "Sarnowo", "Wietrzychowice", "Łupawa", "Cieśnina Beringa", "Roswell", "Emelcin"],
+  "okresy": [
+    { "kiedy": "30 listopada 3340 r. p.n.e. (ok. 5340 lat temu)", "co": "Zaćmienie Słońca w Irlandii, które według Griffina utrwalono w rzeźbach w Loughcrew." },
+    { "kiedy": "1963", "co": "Gerald Hawkins stosuje analizę komputerową do kręgów w Stonehenge." },
+    { "kiedy": "ok. 6500 lat temu", "co": "Kości z nacięciami z Jaskini Maszyckiej, prawdopodobnie kalendarz lunarny." },
+    { "kiedy": "V–IV tysiąclecie p.n.e.", "co": "Budowa grobowców megalitycznych na Kujawach." },
+    { "kiedy": "10–15 tysięcy lat temu", "co": "Według tekstu obserwacja konstelacji Wielkiej Niedźwiedzicy." }
+  ],
+  "zrodla_cytowane": ["Olga Woźniak – Piramidą w gwiazdy (Przekrój)"]
+}

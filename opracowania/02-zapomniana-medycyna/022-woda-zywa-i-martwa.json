@@ -1,0 +1,75 @@
+{
+ "id": "medalt/wodazywa",
+ "tytul": "Woda żywa i martwa",
+ "streszczenie": "Tekst (autorstwa Tamary Marty Karpiuk, Puławy 1988) opisuje „wodę żywą” (zasadową) i „martwą” (kwaśną), powstające przy elektrolizie, które odkryto rzekomo w 1985 roku w Taszkiencie. Podaje instrukcję budowy urządzenia, wskazania dla kilkudziesięciu chorób, zalecenia dietetyczne oraz opis łączenia wody z ziołami wg faz księżyca i astrologii. Autorka powołuje się też na radiestezję i medycynę wschodnią, twierdząc, że kuracja wspiera oczyszczanie organizmu. Tekst zaczyna się i kończy zastrzeżeniem, że metoda nie jest uznawana przez medycynę naukową.",
+ "tezy": [
+  {
+   "teza": "Woda „żywa” i „martwa” została odkryta w 1985 roku w Taszkiencie przez zespół uzbeckich uczonych z udziałem Polaka.",
+   "cytat": "Odkrycia dokonano w roku 1985 w Instytucie Złóż Naftowych w Taszkiencie, przez zespół uzbeckich uczonych, wsród których był też Polak dr nauk chemicznych Adam Mariampolski.",
+   "dziedzina": "historia"
+  },
+  {
+   "teza": "Elektroliza wody daje dwie odmiany: kwaśną („martwą”) i alkaliczną („żywą”), przy czym „żywa” pobudza wzrost roślin.",
+   "cytat": "Prowadząc badania nad elektrolizą wody znaleziono dwie odmiany wody - kwaśną i alkaliczną. Wodę kwaśną nazwano \"martwą\", a alkaliczną \"żywą\".",
+   "dziedzina": "fizyka"
+  },
+  {
+   "teza": "Woda „żywa” oczyszcza organizm, nie wypłukuje mikroelementów i szczególnie dobrze działa na nerki.",
+   "cytat": "Woda \"żywa\" działa oczyszczająco na cały organizm i jest nieprawdą, że wypłukuje mikroelementy z organizmu.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Grypę i anginę można wyleczyć w kilka dni płukaniem wodą „martwą” i piciem wody „żywej”.",
+   "cytat": "6 razy dziennie płukać gardło i wnętrze nosa wodą \"martwą\". Pić 2 razy dziennie po 1/2 szklanki wodę \"żywą\". Grypa ustępuje w ciągu doby.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Preparaty dr. Podbielskiego rozprowadzane w wodzie „żywej” mają pomagać m.in. w nowotworach żołądka i jelit.",
+   "cytat": "Szczególnie wskazany w stanach pooperacyjnych, nowotworach żołądka i jelit.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Narządy tworzą pięć par połączonych energetycznie, więc choroba jednego osłabia drugi, a płuca można leczyć wlewkami do jelita grubego.",
+   "cytat": "Są to pary połączone ze soba energetycznie: [1] nerki - pęcherz moczowy, [2] serce - jelito cienkie, [3] wątroba - woreczek żółciowy, [4] płuca - jelito grube, [5] żołądek - śledziona i trzustka.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Stan nerek decyduje o zdrowiu zębów, kości i włosów, a nerki są „oczami” organizmu.",
+   "cytat": "Otóż nerki są naszymi oczyma - tak twierdzą radiesteci i nie tylko. Zdrowe nerki, to zdrowe zęby, kościec i włosy.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Faza księżyca wpływa na działanie ziół i skuteczność kuracji, którą najlepiej zaczynać przy ubywającym księżycu.",
+   "cytat": "Dobrze byłoby rozpoczynać kurację z ubywaniem księżyca, zgodnie z biologicznym zegarem człowieka.",
+   "dziedzina": "astronomia"
+  },
+  {
+   "teza": "Zioła podlegają wpływom planet i znaków zodiaku, a każdy człowiek rodzi się pod planetą z przypisanymi mu ziołami.",
+   "cytat": "Astrologowie powiadają, że zioła są pod wpływem planet, które nadają im siły witalne",
+   "dziedzina": "astronomia"
+  },
+  {
+   "teza": "Agresja i znerwicowanie wywołują chorobę wątroby, a wątroba odnawia się przez trzy lata.",
+   "cytat": "Najczęściej chorą wątrobę mają ludzie agresywni i znerwicowani. Agresja i złość blokują pracę wątroby.",
+   "dziedzina": "medycyna"
+  },
+  {
+   "teza": "Organizm odnawia się w cyklach siedmioletnich, więc długotrwałych chorób nie da się wyleczyć w kilka dni.",
+   "cytat": "Otóż odnowa organizmu następuje co 7 lat.",
+   "dziedzina": "biologia"
+  },
+  {
+   "teza": "Zioła i woda „żywa” mają pomagać w porażeniu mózgowym dzieci, a poprawa ma być widoczna po sześciu tygodniach.",
+   "cytat": "Pierwsze oznaki poprawy można zaobserwować po 6 tygodniach. Dzieci, które mają ataki drgawkowe powoli je tracą.",
+   "dziedzina": "medycyna"
+  }
+ ],
+ "tematy": ["woda żywa i martwa", "elektroliza wody", "zioła", "fazy księżyca", "astrologia ziół", "dieta", "radiestezja", "medycyna niekonwencjonalna", "nerki i wątroba"],
+ "osoby": ["Tamara Marta Karpiuk", "Adam Mariampolski", "Tadeusz Podbielski", "Czesław Klimuszko"],
+ "miejsca": ["Taszkient", "Puławy", "Białowieża"],
+ "okresy": [
+  { "kiedy": "1985", "co": "W Instytucie Złóż Naftowych w Taszkiencie odkryto wodę „żywą” i „martwą”." },
+  { "kiedy": "styczeń 1988", "co": "Powstało opracowanie Tamary Marty Karpiuk w Puławach." }
+ ],
+ "zrodla_cytowane": []
+}

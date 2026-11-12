@@ -1,0 +1,79 @@
+{
+  "id": "visoko/piramida",
+  "tytul": "Piramida w Visoko",
+  "streszczenie": "Tekst relacjonuje początek badań wzgórza Visočica koło Visoko w Bośni, które Semir Osmanagić uznał za piramidę (Piramida Słońca) sprzed ok. 12 tys. lat, i zestawia doniesienia prasowe, opinie zwolenników (egipski geolog Barakat) i przeciwników (Harding, Hawass, bośniaccy archeolodzy, Pastuszka z Archeowieści). Autor komentuje je krytycznie wobec sceptyków, wskazując na uprzedzenie nauki, i przedstawia własną hipotezę: pod ziemią może kryć się kompleks przemysłowo-energetyczny zbudowany przez cywilizację sprzed kataklizmu 12,5 tys. lat, a Ilirowie nie mogli go postawić. Tekst jest niedokończony i kończy się zapowiedzią „c.d.n.”.",
+  "tezy": [
+    {
+      "teza": "Według autora Ilirowie (rolnicy, hutnicy, rybacy) nie mogli zbudować takich obiektów, a oficjalna chronologia nie dopuszcza cofnięcia budowy głębiej w dzieje.",
+      "cytat": "Skoro nie mieli o nich pojęcia ani Grecy ani Rzymianie, to budowę musimy umieścić między III tysiącleciem pne. a III wiekiem pne.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Pod wzgórzami może znajdować się cały kompleks kamienny, nie związany z wierzeniami, lecz będący centrum przemysłowo-energetycznym.",
+      "cytat": "Przypuszczam także, że nie mają nic wspólnego z wierzeniami, a z zupełnie inną formą działalności i być może było to jakieś centrum przemysłowo-energetyczne w tej części świata.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Strzaskane płyty i obsunięty bok piramidy świadczą o zniszczeniach spowodowanych kataklizmem sprzed 12,5 tys. lat.",
+      "cytat": "Strzaskane kamienne płyty i obsunięty bok piramidy mogą świadczyć o zniszczeniach spowodowanych kataklizmem sprzed 12,5 tysiąca lat.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Warstwę ziemi pokrywającą okolicę naniosło prawdopodobnie tsunami z Adriatyku, co potwierdzałoby wiek podawany przez Osmanagicia.",
+      "cytat": "Warstwa ziemi, która pokrywa całą okolicę została prawdopodobnie naniesiona przez tsunami jakie uderzyło z Adriatyku.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Piramidy zbudowała ta sama cywilizacja co obiekty w Sarmizegetusie, która obrabiała kamień tak łatwo jak dziś plastelinę.",
+      "cytat": "Piramidy, jak sądzę, zbudowała ta sama cywilizacja co Sarmisegetuzę, gdzie znaleziono spękane koło wykonane z najtwardszego andezytu.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Osmanagić uważa, że wzgórza Visoko kryją piramidy, które mogą liczyć około 12 tysięcy lat.",
+      "cytat": "Wieku piramid Osmanagić nie określa, ale nie wyklucza iż mogą liczyc około 12 tysięcy lat.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Według cytowanego Barakata bloki w Visoko zostały obrobione przez człowieka i połączone antycznym betonem, podobnie jak w piramidach egipskich.",
+      "cytat": "Po przestudiowaniu północnej strony piramidy, Barakat stwierdził, że bloki skalne zostały wykonane przez człowieka i zawierają antyczny rodzaj betonu.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Według cytowanego Hardinga (Europejskie Stowarzyszenie Archeologów) wzgórze jest tworem naturalnym.",
+      "cytat": "Profesor Anthony Harding, który przewodniczy organizacji European Association of Archaeologists po odwiedzeniu tajemniczego miejsca stwierdził, że wzgórze powstało naturalnie.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Według cytowanego Hawassa teorie Osmanagicia nie mają oparcia naukowego, a wzgórze to naturalna formacja geologiczna.",
+      "cytat": "Teorie pana Osmanagicia są czystymi halucynacjami, nie mającymi żadnego naukowego oparcia",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Według cytowanego Runnelsa w czasie, do którego Osmanagić odnosi piramidy, Bałkany były pokryte lodowcami i zamieszkane tylko przez myśliwych paleolitycznych.",
+      "cytat": "specjalisty od prehistorii Grecji i Bałkanów z Boston University, w okresie od 27 000 do 12 000 lat temu na Bałkanach panowało ostatnie zlodowacenie, a większość gór pokrywały lodowce.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Cytowani krytycy zarzucają Osmanagiciowi, że jego książka o Majach głosi, że Majowie, Baskowie i Berberowie to potomkowie Atlantydów z Plejad.",
+      "cytat": "wynika, że Majowie, Baskowie i Berberowie są potomkami Atlantydów, którzy z kolei przybyli z Plejad, czyli z kosmosu.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Autor uważa, że krytyka odrzuca odkrycie z góry, zanim cokolwiek odkopano, w imię naukowego dogmatu.",
+      "cytat": "Poczatek zabijania prawdy? Chyba tak. Jeszcze nic nie odkopano, a już wiadomo, że to bzdura.",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": ["piramida w visoko", "piramidy w europie", "ilirowie", "kataklizm sprzed 12,5 tys. lat", "tsunami", "krytyka archeologii", "archeologia amatorska", "atlantyda", "sensacja medialna", "geologia wzgórz"],
+  "osoby": ["Semir Osmanagić", "Senad Hodović", "Aly Abd Alla Barakat", "Anthony Harding", "Zahi Hawass", "Mark Rose", "Curtis Runnels", "Svetozar Pudarić", "Ivan Lovrenović", "Wojciech Pastuszka", "Chris Mudigler", "Heinrich Schliemann", "Alan Leshner"],
+  "miejsca": ["Visoko", "Visočica (Piramida Słońca)", "Plješevica (Piramida Księżyca)", "Sarajewo", "Teotihuacan", "Giza", "Sarmizegetusa", "Adriatyk", "Tuzla"],
+  "okresy": [
+    { "kiedy": "koniec 2005", "co": "Osmanagić przyjeżdża do Visoko i uznaje wzgórze za piramidę." },
+    { "kiedy": "kwiecień 2006", "co": "Początek wykopalisk w Visoko." },
+    { "kiedy": "ok. 12 tysięcy lat temu", "co": "Według Osmanagicia czas budowy piramid; autor wiąże to z kataklizmem 12,5 tys. lat temu." },
+    { "kiedy": "380–168 p.n.e.", "co": "Państwo Ilirów istnieje do podboju przez Rzym (według tekstu 168/167 p.n.e.)." },
+    { "kiedy": "XIV wiek", "co": "Najazd Turków na Bośnię i legenda o tajemnicy ukrytej pod wzgórzem." },
+    { "kiedy": "1992–1995", "co": "Wojna w Bośni; Osmanagić twierdzi, że okolice piramidy uchroniły ludzi." }
+  ],
+  "zrodla_cytowane": ["Semir Osmanagić – The World of the Maya", "Wojciech Pastuszka – Archeowieści", "Archaeology (serwis Marka Rose'a)", "Fundacja Nautilus"]
+}

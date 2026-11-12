@@ -1,0 +1,61 @@
+{
+  "id": "medalt/indygo",
+  "tytul": "ADHD czy \"Indygo\"?",
+  "streszczenie": "Tekst zestawia medyczny opis ADHD z ideą Dzieci Indygo i dzieci kryształowych (Lee Carroll i Jan Tober). Autor strony twierdzi, że ADHD może być chorobą wymyśloną pod chemiczne leki, czyli kolejnym przykładem syndromu MCCP (Medycyna-Choroby-Chemia-Pieniądze). Dzieci Indygo przedstawia jako wyjątkowe duchowo, buntownicze wobec niesprawiedliwych systemów, a leczenie ich farmakologicznie jako ograniczanie ich darów. Dołącza ostrzeżenie FDA o zgonach po lekach na ADHD oraz doniesienie, że firmy farmaceutyczne wymyślają choroby.",
+  "tezy": [
+    {
+      "teza": "Współczesna medycyna dopasowuje nowe choroby do chemicznych leków; tak działa syndrom MCCP (medycyna-choroby-chemia-pieniądze).",
+      "cytat": "Czy do już wymyślonych chemicznych specyfików nie dopasowuje się nowych chorób? Nie jest trudno zauważyć doskonale znany syndrom MCCP (Medycyna-Choroby-Chemia-Pieniądze).",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "ADHD to prawdopodobnie choroba wymyślona na potrzeby medycyny, podobnie jak AIDS jest kategorią administracyjną.",
+      "cytat": "Jest wielce prawdopodobne, że chorobę wymyślono na potrzeby medycyny i jest taką samą chorobą \"administracyjną\" jak AIDS.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Objawy ADHD są powszechne wśród dorosłych, więc nie świadczą o chorobie.",
+      "cytat": "Przecież to wyraźne cechy ADHD i jak z tego widać cierpi na tę przypadłość większość dorosłej populacji.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Dzieci Indygo to pokolenie urodzone od lat 70. do ok. 2000 r., po którym zaczęły rodzić się Dzieci Kryształowe.",
+      "cytat": "Dzieci Indygo to pokolenie, którego główna fala narodzin rozpoczęła się na świecie w latach siedemdziesiątych i potrwała mniej więcej do roku 2000, kiedy to zaczęły rodzić się pierwsze Dzieci Kryształowe.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Nazwa Indygo pochodzi od koloru aury tych dzieci, związanego z czakrą trzeciego oka i zdolnościami jasnowidzenia.",
+      "cytat": "Nazwa Indygo pochodzi od koloru aury tych dzieci. Jest to kolor czakry zwanej \"trzecim okiem\", znajdującej się między brwiami",
+      "dziedzina": "inne"
+    },
+    {
+      "teza": "Dzieci Indygo są często błędnie diagnozowane jako ADHD i leczone lekami typu Ritalin, co ogranicza ich duchowe dary.",
+      "cytat": "Niestety, często zjawisko Indygo sprowadzane jest do zdiagnozowania u nich ADD (zespół zaburzeń koncentracji uwagi) lub ADHD (zespół nadpobudliwości psychoruchowej z deficytem uwagi), czego konsekwencją jest faszerowanie ich środkami farmakologicznymi różnego typu, takich jak Ritalin.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "FDA ostrzegła, że leki na ADHD mogą powodować poważne problemy sercowo-naczyniowe i zgony.",
+      "cytat": "Niepokój FDA wzbudziło 25 zgonów (z których 19 dotyczyło dzieci) oraz 54 przypadki poważnego pogorszenia stanu zdrowia u amerykańskich chorych leczonych na ADHD w latach 1999-2003.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Dzieci kryształowe są spokojne i komunikują się telepatycznie, a wiele z nich zakwalifikowano jako autystyczne.",
+      "cytat": "Większość z nich już zakwalifikowano jako dotknięte autyzmem (epidemia wybuchła nagle po 2000 roku).",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Firmy farmaceutyczne wymyślają nowe choroby i wyolbrzymiają inne, by zwiększyć sprzedaż leków.",
+      "cytat": "By zwiększyć sprzedaż leków, przedstawiciele firm farmaceutycznych wymyślają nowe choroby i nadają nadmierne znaczenie innym",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["adhd", "dzieci indygo", "dzieci kryształowe", "ritalin", "leki psychotropowe", "medykalizacja", "autyzm", "nowa era"],
+  "osoby": ["Lee Carroll", "Jan Tober", "Kate Gelperin", "David Henry", "Ray Moynihan"],
+  "miejsca": ["USA", "Kanada", "Newcastle University"],
+  "okresy": [
+    { "kiedy": "lata 70. do ok. 2000", "co": "główna fala narodzin Dzieci Indygo, po niej Dzieci Kryształowe" },
+    { "kiedy": "1999-2003", "co": "25 zgonów i 54 poważne pogorszenia zdrowia u pacjentów leczonych na ADHD w USA" },
+    { "kiedy": "15.04.2006", "co": "autor strony dopisał uzupełnienie o wymyślaniu chorób przez firmy farmaceutyczne" }
+  ],
+  "zrodla_cytowane": ["Lee Carroll, Jan Tober – Dzieci Indygo", "Public Library of Science Medicine – artykuł Davida Henry'ego i Raya Moynihana"]
+}

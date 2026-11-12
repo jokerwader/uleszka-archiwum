@@ -1,0 +1,80 @@
+{
+  "id": "szypow",
+  "tytul": "Nauka jutra",
+  "streszczenie": "Tekst zawiera wywiad Marty Figury z rosyjskim fizykiem Gennadijem Szypowem oraz popularny artykuł o jego teorii próżni fizycznej. Szypow przedstawia próżnię jako żywą matrycę informacyjną, z której rodzi się materia, i opisuje pola torsyjne jako nośnik myśli i świadomości. Autor wywiadu wiąże z tym istnienie Boga jako Wyższego Umysłu, życie po śmierci, zbliżanie się nauki do religii oraz możliwość budowy napędów antygrawitacyjnych, łączności torsyjnej i nowej medycyny. Szypow ostrzega też, że technologie torsyjne mogą posłużyć jako broń, i twierdzi, że w ten sposób zginęła Atlantyda. Opowiada o odrzuceniu jego teorii przez oficjalną naukę i o własnych doświadczeniach z prototypami.",
+  "tezy": [
+    {
+      "teza": "Próżnia fizyczna nie jest pustką, lecz żywą matrycą informacyjną, z której powstają cząstki i cała materia.",
+      "cytat": "Próżnia żyje, zachodzą w niej fluktuacje, chociaż w zasadzie jest neutralna: nie ma ani masy, ani ładunku...",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Pola torsyjne są nośnikiem myśli i świadomości; przenoszą informację, a nie energię, i rozchodzą się natychmiastowo.",
+      "cytat": "Teoria próżni fizycznej udowodniła istnienie nosiciela myśli. Tym nosicielem są pierwotne pola torsyjne.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Teoria próżni wskazuje na istnienie Wyższego Umysłu (Boga) jako początku wszystkiego, a nauka i religia przechodzą syntezę.",
+      "cytat": "Mnie Bóg wyłonił się zza równań.",
+      "dziedzina": "religia"
+    },
+    {
+      "teza": "Śmierć nie istnieje: człowiek odkłada tylko materialną powłokę, a jego świadomość przechodzi do światów subtelnych.",
+      "cytat": "Nie umieramy zatem - po prostu odkładamy swoją materialną powłokę, kiedy przestaje nam być potrzebna. I żyjemy dalej.",
+      "dziedzina": "religia"
+    },
+    {
+      "teza": "Planety Układu Słonecznego podlegają kwantowaniu orbit i nachyleń osi (0, 30, 60, 90 stopni); odchylenie osi Ziemi o 30 stopni oznaczałoby potop, a sygnał torsyjny może zależeć od stanu świadomości ludzi.",
+      "cytat": "A co oznacza odchylenie się osi Ziemi o 30°? To oznacza potop. I były już takie potopy na Ziemi.",
+      "dziedzina": "astronomia"
+    },
+    {
+      "teza": "Odkrywcy naukowi czerpią wiedzę z kosmicznego Banku Danych (pola informacyjnego), jeśli są uczciwi w swojej pracy.",
+      "cytat": "kiedy człowiek pozostaje wewnętrznie uczciwym, czystym w swojej pracy, to rzeczywiście mogą się przed nim otworzyć pewne, można by rzec, kosmiczne kanały, pomagające rozwiązać zadanie.",
+      "dziedzina": "inne"
+    },
+    {
+      "teza": "Technologie torsyjne pozwalają na łączność niezanikającą z odległością, zmianę struktury metali, terapię bez efektów ubocznych oraz napęd antygrawitacyjny (ziemski latający talerz).",
+      "cytat": "Pierwsze eksperymenty przekazania sygnałów torsyjnym kanałem łączności zostały przeprowadzone w kwietniu 1986 roku w Moskwie.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Szypow i współpracownicy zbudowali w Tajlandii urządzenie poruszające się bez odbijania się od czegokolwiek; w Rosji prowadzono podobne prace nad pojazdem antygrawitacyjnym.",
+      "cytat": "Otrzymaliśmy nieprzerwany, ciągły ruch aparatu, sfilmowaliśmy jego działanie, dokonaliśmy prezentacji.",
+      "dziedzina": "fizyka"
+    },
+    {
+      "teza": "Atlantyda zginęła, bo jej mieszkańcy mieli zbyt niski poziom świadomości, by władać dostępnymi im energiami psychicznymi; to samo grozi współczesnej ludzkości.",
+      "cytat": "Tak właśnie zginęła Atlantyda. Poziom świadomości był niski, przez co ludzie nie byli zdolni władać tymi możliwościami energii psychicznej, jakie mieli do dyspozycji.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Choroba zaczyna się na poziomie polowym, więc narządy można leczyć promieniowaniem torsyjnym, a to samo urządzenie może posłużyć jako broń.",
+      "cytat": "Są badania potwierdzające, że choroba zaczyna się na poziomie polowym.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Według artykułu piramidy egipskie są generatorami pola torsyjnego, a drzewa iglaste i kształt jaja lub kopuły wytwarzają pole korzystne dla organizmów.",
+      "cytat": "Szypow i jego ekipa przeprowadzili w swoim laboratorium symulacyjne badania piramid egipskich. Okazało się, że są one generatorami pola świadomości.",
+      "dziedzina": "inne"
+    },
+    {
+      "teza": "Artykuł twierdzi, że zbudowano urządzenia o sprawności 300-500 procent, które mimo odrzucenia teorii przez oficjalną naukę są finansowane przez państwo.",
+      "cytat": "Podobno zbudowano kilka urządzeń, których współczynnik sprawności wynosi od 300 do 500%, chociaż według znanych praw fizyki taki współczynnik nie może przekraczać 100%.",
+      "dziedzina": "fizyka"
+    }
+  ],
+  "tematy": ["teoria próżni fizycznej", "pola torsyjne", "świadomość", "bóg i nauka", "antygrawitacja", "atlantyda", "życie po śmierci", "kwantowanie orbit planet", "piramidy", "krytyka oficjalnej nauki"],
+  "osoby": ["Gennadij Szypow", "Marta Figura", "Anatolij Akimow", "Albert Einstein", "Isaac Newton", "Paul Dirac", "Erwin Schrödinger", "Willigis Jäger", "Frank J. Tipler", "Roger Penrose", "Helena Bławatska", "Szri Matadżi", "Galileusz", "Gurdżijew", "Roerich"],
+  "miejsca": ["Moskwa", "Uniwersytet Moskiewski", "Tajlandia", "Ryga", "Atlantyda", "piramidy egipskie", "Państwowe Centrum Badań Kosmicznych im. Kroniczewa", "Ośrodek Went", "Dubna"],
+  "okresy": [
+    { "kiedy": "1905", "co": "Einstein odcina się od teorii eteru." },
+    { "kiedy": "1928", "co": "Dirac ogłasza w zarysie mechanikę kwantową." },
+    { "kiedy": "1979", "co": "Szypow publikuje pierwszą książkę; potem zostaje usunięty z uczelni." },
+    { "kiedy": "kwiecień 1986", "co": "W Moskwie przeprowadzono pierwsze eksperymenty łączności torsyjnej." },
+    { "kiedy": "1993", "co": "Ukazuje się pierwsze wydanie książki Teoria próżni fizycznej." },
+    { "kiedy": "lato 1999", "co": "Szypow wyjeżdża do USA, potem do Tajlandii, gdzie buduje urządzenie antygrawitacyjne." },
+    { "kiedy": "2000", "co": "Wykłady Szypowa i Akimowa w Rydze, w Łotewskiej Akademii Nauk i Domskim Soborze." }
+  ],
+  "zrodla_cytowane": ["Gennadij Szypow - Teoria próżni fizycznej", "Willigis Jäger - Fala jest morzem", "Frank J. Tipler - Fizyka nieśmiertelności", "Roger Penrose - Nowy umysł cesarza", "Helena Bławatska - Tajemna doktryna"]
+}

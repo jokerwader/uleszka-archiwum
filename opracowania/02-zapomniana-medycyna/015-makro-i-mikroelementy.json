@@ -1,0 +1,52 @@
+{
+  "id": "medalt/grande/mikro",
+  "tytul": "MAKRO I MIKROELEMENTY",
+  "streszczenie": "Strona opisuje skład pierwiastkowy ciała człowieka i rolę poszczególnych makro- i mikroelementów (sód, potas, wapń, krzem, żelazo, jod, arsen, kobalt, magnez, fosfor, siarka, fluor, mangan, miedź, cynk, chlor i inne). Przy każdym pierwiastku podaje funkcje w organizmie, dzienne zapotrzebowanie, skutki niedoboru i źródła w pożywieniu. Autor zwraca uwagę na znaczenie wody oraz na to, że utrata 15% wody grozi śmiercią. O kilku pierwiastkach (cyna, srebro, złoto) pisze, że nie ma danych.",
+  "tezy": [
+    {
+      "teza": "Makroelementy stanowią ponad 99% masy ciała, a mikroelementy około 0,8%.",
+      "cytat": "Pierwiastki ciała człowieka dzielimy na makroelementy, stanowiące w połączeniach chemicznych przeszło 99% ciężaru ciała człowieka i mikroelementy - około 0,8%",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Utrata wody z organizmu powoduje poważne zaburzenia, a utrata 15% grozi śmiercią.",
+      "cytat": "Obniżenie się jej poziomu na skutek np. biegunek, wymiotów, krwotoków, potów itp. powoduje poważne zaburzenia w gospodarce wodnej i mineralnej organizmu, a utrata 15% grozi śmiercią.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Serce przy niedoborze wapnia z pokarmu pobiera go z kości.",
+      "cytat": "Serce, jeśli nie otrzyma dostatecznej ilości wapnia z pokarmów, zaczyna \"kraść\" je z kości.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Krzem jest obok wapnia podstawowym surowcem kości i zębów, a bogate w niego są kasza gryczana, skrzyp i woda źródlana.",
+      "cytat": "Obok wapnia podstawowy surowiec do budowy kości i zębów. Najwięcej zawiera go kasza gryczana, ziele skrzypu oraz dobra studzienna lub źródlana woda.",
+      "dziedzina": "biologia"
+    },
+    {
+      "teza": "Alkoholowy roztwór jodu przyjmowany doustnie przyspiesza spalanie cholesterolu i obniża ciśnienie.",
+      "cytat": "10% roztwór alkoholowy jodu w postaci kropli stosowany jest do użytku wewnętrznego jako lek przeciwmiażdżycowy, gdyż przyspiesza spalanie cholesterolu.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Arsen przyspiesza przemianę materii, wzmaga łaknienie i bywa stosowany w niedokrwistości i białaczce.",
+      "cytat": "Arsen przyspiesza przemianę materii, powoduje wzrost i odnowę tkanek. Zwiększa łaknienie, działa tucząco",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Niedobór magnezu objawia się m.in. drganiem powiek, nocnymi skurczami łydek i zawrotami głowy.",
+      "cytat": "Brak magnezu w organizmie może wyrażać się w drganiu powieki (zwykle lewej), w nocnych skurczach łydek, nagłych zawrotach głowy z utratą równowagi",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Zarówno niedobór, jak i nadmiar fluoru szkodzą: pierwszy powoduje próchnicę, drugi fluorozę zębów.",
+      "cytat": "Niedobór prowadzi do próchnicy zębów. Nadmiar też jest szkodliwy. Powoduje fluorzycę zębów oraz poważne zaburzenia w organizmie.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["makroelementy", "mikroelementy", "wapń", "magnez", "żelazo", "jod", "fluor", "gospodarka wodna", "pierwiastki w organizmie"],
+  "osoby": ["o. Grande"],
+  "miejsca": [],
+  "okresy": [],
+  "zrodla_cytowane": []
+}

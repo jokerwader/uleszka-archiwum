@@ -1,0 +1,80 @@
+{
+  "id": "warownie/kazimierz",
+  "tytul": "Kazimierz III cudotwórca",
+  "streszczenie": "Autor analizuje polskie zamki (statystyka ok. 359 obiektów z XIII–XV w.) i kwestionuje tezę, że Kazimierz Wielki „zastał drewnianą, zostawił murowaną”, a Krzyżacy zbudowali Malbork w kilka lat. Twierdzi, że ani król, ani zakon nie mieli bazy ekonomicznej, specjalistów i techniki do takich budów, brak też dokumentów, a zamki (m.in. Wawel, Malbork) to ruiny po wcześniejszej cywilizacji, odkopane i przerobione. Krytykuje datowanie według stylów, zaprawy, cegły i monet oraz historyków, którzy według niego wiek budowli ustalają z przypadkowych znalezisk. Uważa, że rok 966 oznaczał utratę polskiej historii i pisma, i wiąże zniszczenia z kataklizmami, w tym z tym sprzed ok. 12,5 tys. lat, przy czym zaznacza, że to „głośne myślenie”.",
+  "tezy": [
+    {
+      "teza": "Kazimierz Wielki nie zbudował żadnego zamku, lecz odziedziczył istniejące, od dawna zrujnowane budowle i co najwyżej je remontował.",
+      "cytat": "Kazimierz Wielki nie zbudował żadnego zamku. Odziedziczył schedę po ojcu, na którego ziemi od wieków niszczały ruiny.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Brak kronik i dokumentów o kosztownych budowach Kazimierza Wielkiego świadczy, że opis króla-budowniczego jest nieprawdziwy.",
+      "cytat": "Nie ma, po prostu nie ma. Ani słowa w kronikach, a przecież już umieliśmy pisać.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Malbork nie został zbudowany od podstaw w 7 lat, lecz Krzyżacy odkopali zasypane ruiny wcześniejszego zamku i je odbudowali.",
+      "cytat": "Ja sądzę, że ruiny zamku pokrywała warstwa ziemi, a cała praca Krzyżaków ograniczyła się do ich odkopania, oczyszczenia, odzyskania budulca i samej odbudowy.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Krzyżacy, tak jak Kazimierz Wielki, nie mieli odpowiedniej bazy gospodarczej, techniki ani ludzi, by zbudować przypisywane im zamki.",
+      "cytat": "Czy Krzyżacy mogli zbudować to, co im się przypisuje? Nie, i powtarza się ta sama sytuacja, co w wypadku Kazimierza Wielkiego - nie mieli dostatecznej bazy ekonomicznej, nie mieli rozwiniętej struktury gospodarczej (przecież były to biedne, pogańskie Prusy) i nie mieli odpowiedniej techniki.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Wraz z chrztem w 966 r. Rzym zabrał Polakom wcześniejszą historię i pismo, narzucając łacinę i nową, nieprawdziwą historię.",
+      "cytat": "W roku 966 ukradziono nam historię i pismo. Narzucono łacinę, z której zrodziły się nowy język, nowe pismo, nowe obyczaje, nowe prawa i oczywiście nowa ale nieprawdziwa historia.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Wawel i Kraków stoją na fundamentach z wielkich, doskonale obrobionych bloków, zbudowanych na długo przed dynastią Piastów.",
+      "cytat": "Stolica Kazimierzowa - Kraków, także stoi na potężnych kamiennych fundamentach i zapewne budowana była na długo przed tym nim pierwszy Piast zasiadł na wawelskim stolcu.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Ta sama technika murowania (mur z polnego kamienia licowany, na nieznanej zaprawie) występuje na całym świecie, od Rzymu i Chin po Meksyk i Irlandię, i nie jest zbiegiem okoliczności.",
+      "cytat": "To nie jest żadna koincydencja, to była technologia rozpowszechniona na całym niemal świecie.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Budowle należy datować według stopnia trudności techniki, a nie stylów; im głębiej w historię, tym wyższe możliwości budowniczych.",
+      "cytat": "Stawia to na głowie pojęcie postępu technicznego, bo z tego co widzimy im głębiej w historię tym większe techniczne możliwości budowniczych.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Autor umieszcza kataklizm sprzed 12,5 tys. lat jako koniec pierwszego „Słońca” Azteków i próbuje powiązać z nim chronologię kataklizmów.",
+      "cytat": "Do swojego schematu wprowadziłem tzw. Słońca czyli epoki z przekazów Azteckich, gdzie za koniec I Słońca przyjąłem kataklizm sprzed 12,5 tysiąca lat (u Azteków też potop) oraz dane o niektórych kataklizmach.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Według Platona i Diodora w dziejach było wiele potopów i kataklizmów, co może tłumaczyć nagłe załamania kultur i zniszczenie dawnych budowli.",
+      "cytat": "Ile mogło być kataklizmów w ciągu tych 12,5 tysiąca lat? Platon wspomina o czterech potopach.",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Starożytne monety i hełmy wymagały narzędzi twardszych niż ich materiał, których nie znaleziono; autor wnioskuje, że stemple i matryce zrobił ktoś stojący wyżej technicznie.",
+      "cytat": "Matryce i stemple wykonał ktoś inny, ktoś stojący dużo wyżej technicznie od wykonawcy tych monet.",
+      "dziedzina": "archeologia"
+    },
+    {
+      "teza": "Relacja Wulfstana o Estach, którzy potrafią „wytwarzać zimno”, może świadczyć o technice nieznanej dziś albo o błędnym datowaniu tekstu.",
+      "cytat": "Angielska fantazja czy technika nie znana nam nawet dzisiaj? To nie było zjawisko naturalne, bo jak Wulfstan napisał - \"potrafią wytwarzać zimno\".",
+      "dziedzina": "historia"
+    }
+  ],
+  "tematy": ["kazimierz wielki", "zamki polskie", "krzyżacy", "malbork", "rok 966", "kataklizm sprzed 12,5 tys. lat", "technika budowlana", "datowanie budowli", "kalendarz", "wieże ciśnień", "monety starożytne", "krytyka archeologii"],
+  "osoby": ["Kazimierz III Wielki", "Władysław Łokietek", "Mieszko I", "Paweł Jasienica", "Józef Matusik", "Jerzy Miszalski", "Łukasz Papaj", "Karol Górski", "Wulfstan", "Alfred Wielki", "Platon", "Diodor Sycylijski", "Claude Schaeffer", "Herbert Illig", "Domenico Quaglio", "Konrad Mazowiecki", "Fryderyk II", "Grzegorz IX", "Donato Bramante", "Leonardo da Vinci", "prof. Pająk"],
+  "miejsca": ["Chęciny", "Malbork", "Wawel", "Kraków", "Tum pod Łęczycą", "Ostrów Lednicki", "Zantyr", "Ogrodzieniec", "Bytów", "Grądy Kruklaneckie", "Truso", "Biskupin", "Bolczów", "Nidzica", "Sulejów", "Ujazd (Krzyżtopór)", "Olsztyn pod Częstochową", "Gniew", "Pyrzyce"],
+  "okresy": [
+    { "kiedy": "1333–1370", "co": "Panowanie Kazimierza III Wielkiego, przypisywane mu wzniesienie ok. 43 zamków." },
+    { "kiedy": "966", "co": "Chrzest Polski; według autora Rzym odebrał Polakom wcześniejszą historię i pismo." },
+    { "kiedy": "1272–1280", "co": "Według historyków budowa zamku wysokiego w Malborku." },
+    { "kiedy": "ok. 890", "co": "Podróż Wulfstana z Jutlandii do Truso." },
+    { "kiedy": "ok. 12,5 tysiąca lat temu", "co": "Kataklizm kończący I Słońce Azteków i poprzednią cywilizację." },
+    { "kiedy": "ok. 700 r. p.n.e.", "co": "Autor rozważa ostatni kataklizm w pobliżu daty założenia Rzymu i końca III Słońca (ok. 690 p.n.e.)." },
+    { "kiedy": "2300, 1500, 1200 p.n.e.", "co": "Według Schaeffera gwałtowne załamania kultur Bliskiego Wschodu spowodowane trzęsieniami ziemi." }
+  ],
+  "zrodla_cytowane": ["Józef Matusik, Jerzy Miszalski – Zamki w Polsce (mapa)", "Paweł Jasienica – Polska Piastów", "Karol Górski – Dzieje Malborka", "Wulfstan – relacja z podróży do Truso", "Platon – Timajos/Kritias", "Diodor Sycylijski – Biblioteka historyczna", "Herbert Illig – Wer hat an der Uhr gedreht?", "Geograf Bawarski – dokument z 843 r."]
+}

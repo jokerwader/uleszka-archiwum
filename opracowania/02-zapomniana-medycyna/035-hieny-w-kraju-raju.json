@@ -1,0 +1,42 @@
+{
+  "id": "medalt/hieny",
+  "tytul": "Hieny w \"kraju raju\"",
+  "streszczenie": "Tekst opiera się na reportażu Alicji Katarzyńskiej o tym, jak firmy farmaceutyczne wprowadzają drogie leki na polski rynek. Opisuje darmowe próbki wystarczające tylko na część kuracji, po których zdesperowani chorzy i stowarzyszenia pacjentów naciskają na NFZ w sprawie refundacji. Przedstawiciele firm przyznają, że część budżetu promocyjnego idzie na wpływanie na lekarzy. Dołączono doniesienie o kiosku w łódzkim szpitalu sprzedającym pacjentom sprzęt chirurgiczny oraz ostry komentarz o NFZ i rządzie. Autor strony nazywa te praktyki żerowaniem na nieszczęściu chorych.",
+  "tezy": [
+    {
+      "teza": "Firmy farmaceutyczne dają ciężko chorym darmowe drogie leki tylko na część kuracji, by uzależnić pacjentów i wymusić refundację.",
+      "cytat": "Firmy farmaceutyczne za darmo rozdają ciężko chorym drogie leki. Ale tylko na część kuracji.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Firmy podpowiadają pacjentom, jak pisać wnioski do NFZ, i same inicjują powstawanie stowarzyszeń pacjentów.",
+      "cytat": "Firma daje choremu wszystko jak na dłoni: gotowe podanie do NFZ o refundację leku, instrukcję postępowania krok po kroku, nawet skargę do rzecznika praw obywatelskich w przypadku odmowy",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Przedstawiciele firm przeznaczają część budżetów promocyjnych na zjednywanie sobie lekarzy.",
+      "cytat": "Mam trzymilionowy roczny budżet na promocję jednego leku neurologicznego. Budżet jest podzielony tak: część na zmiękczanie lekarzy, część na organizowanie konferencji, część na darmowe próbki leku.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Nowoczesne drogie leki bywają bardzo skuteczne i odsuwają chorobę w czasie, ale nie mają tańszych zamienników.",
+      "cytat": "Glivec to przykład leku, który odsuwa chorobę w czasie, i to czasem na wiele lat.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Szpitale nie są w stanie sfinansować drogich kuracji, więc po okresie darmowych próbek pacjenci zostają bez leku.",
+      "cytat": "To znaczyło, że nagle, w środku roku muszę wytrzasnąć 52 tys. zł na trzy miesiące kuracji drogim lekiem onkologicznym",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "W łódzkim szpitalu pacjenci musieli kupować drogi sprzęt chirurgiczny w szpitalnym kiosku, choć szpital sam go nie posiadał.",
+      "cytat": "Jednak w Szpitalu im. Szareckiego w Łodzi, poza prasą i artykułami spożywczymi, możemy kupić drogi sprzęt chirurgiczny, jakiego używa się do operacji.",
+      "dziedzina": "społeczeństwo"
+    }
+  ],
+  "tematy": ["firmy farmaceutyczne", "refundacja leków", "nfz", "darmowe próbki", "lobbing", "stowarzyszenia pacjentów", "korupcja w ochronie zdrowia"],
+  "osoby": ["Alicja Katarzyńska", "Marek Labon", "Barbara Misiewicz-Jagielak", "Anna Leder", "Grzegorz Luboiński", "Jan Zaucha", "Jacek Gugulski", "Beata Cholewińska"],
+  "miejsca": ["Gdańsk", "Łódź", "Polska", "Sopot", "Szpital im. Szareckiego"],
+  "okresy": [],
+  "zrodla_cytowane": ["Alicja Katarzyńska – Dziś hieny żerują w Polsce (gazeta.pl)", "Beata Cholewińska – artykuł o kiosku ze sprzętem chirurgicznym"]
+}

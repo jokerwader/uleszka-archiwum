@@ -1,0 +1,140 @@
+{
+  "id": "blogier3",
+  "tytul": "Szarodzienność 3",
+  "streszczenie": "Trzecia część felietonów, obejmująca przełom sierpnia, września i października 2006 roku. Autor komentuje kryzys koalicji rządowej (Samoobrona, afera taśmowa, widmo rozwiązania Sejmu), prywatyzację banków i spór z prezesem NBP, rozwiązanie WSI, sprawy lustracyjne (Kuroń i Lesiak, Michnik, ksiądz Isakowicz-Zaleski) oraz zamieszki na Węgrzech. Twierdzi, że Okrągły Stół był operacją służb specjalnych, a Polską rządzi grupa określana jako „naród wybrany”, której zagraża Radio Maryja i rząd PiS. Zawiera też krótkie komentarze o nauce (gen HAR1F, szympansy, Amazonka i hipoteza Hapgooda), o wieżowcu we Wrocławiu i o próbie jądrowej w Korei Północnej, a także prognozy dotyczące przyszłych wyborów w Polsce.",
+  "tezy": [
+    {
+      "teza": "Autor twierdzi, że prywatyzacja w Polsce miała na celu zniszczenie polskiego mienia i oddanie go w obce ręce, a straty przy prywatyzacji banków wyniosły co najmniej 200 mld zł.",
+      "cytat": "Tylko ignorant nie zauważy, że prywatyzacja w Polsce miała jeden tylko cel - jak najwięcej zniszczyć wszystkiego co polskie i co może służyć narodowi oraz jak najwięcej oddać w obce ręce",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Okrągły Stół był według autora wieloletnią operacją służb specjalnych, przygotowaną w rozmowach Kuronia i Kiszczaka od 1985 roku, a nie spontaniczną próbą naprawy kraju.",
+      "cytat": "To była kilkuletnia, starannie przygotowana operacja służb specjalnych, mająca na celu przekazanie władzy w konkretne ręce, w konkretnym celu, z konkretnymi korzyściami dla ustępujących",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Po 1989 roku, w ocenie autora, zniszczono PGR-y, zakłady pracy i dostęp do szkół, aby podzielić społeczeństwo na władców i niewolników.",
+      "cytat": "Prosto i w majestacie prawa ustalono kto teraz jest władzą, a kto jest niewolnikiem.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Atakowanie Radia Maryja wynika według autora z tego, że ojciec Rydzyk ujawnia rolę „narodu wybranego” w życiu Polski po 1944 roku i w transformacji.",
+      "cytat": "Ano dlatego, że ojciec Rydzyk z uporem maniaka obnaża działalność \"narodu wybranego\" w życiu narodu polskiego, szczególnie ukazując ich rolę po roku 1944",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Przewidywanie: Sejm zostanie rozwiązany, PiS przegra wybory, wygra Platforma i stworzy koalicję, po czym nastąpi powtórka z rozrywki, a PiS znajdzie się w opozycji.",
+      "cytat": "Sejm się rozwiązuje, PiS przegrywa wybory, zwycięża Platforma Obrażonych, czyni koalicję (z kim? wiadomo) i dalej... powtórka z rozrywki",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Przewidywanie: jeśli PiS przegra, Polska wejdzie w epokę komuny różniącej się od poprzedniej tylko nazwą, hasłami i lepszą techniką.",
+      "cytat": "Jeżeli teraz PiS przegra, wejdziemy znów w epokę komuny różniącą się od poprzedniej tylko nową \"facjatą\", nazwą, innymi hasełkami i lepszą techniką.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Przewidywanie: wrocławski wieżowiec Sky Tower będzie pułapką dla mieszkańców, co zdaniem autora sprawdzi się jeszcze w tym wieku, bo brak odpowiednich środków gaśniczych i przygotowania na trzęsienie ziemi.",
+      "cytat": "Będzie to świetna pułapka dla mieszkających tam ludzi, co zapewne sprawdzimy jeszcze w tym wieku.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Autor wyjaśnia osady w środku Amazonki tsunami po „wielkim uskoku skorupy ziemskiej” z Atlantyku, wskazując na hipotezę Hapgooda jako „zakazaną”.",
+      "cytat": "Osady w środku rzeki to efekt tsunami po \"wielkim uskoku skorupy ziemskiej\", którego to wody północnego Atlantyku zepchneły osady aż do środkowego biegu Amazonki.",
+      "dziedzina": "geologia"
+    },
+    {
+      "teza": "Autor przytacza oskarżenie Macierewicza o agenturalnej przeszłości części ministrów spraw zagranicznych i przewiduje, że sprawa ucichnie.",
+      "cytat": "Większość spośród nich w przeszłości była agentami sowieckich służb specjalnych. Nie wszyscy, ale kilku reprezentowało interes struktur postsowieckich",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Autor twierdzi, że nagroda RFK z 1986 roku dla ks. Popiełuszki (pośmiertnie), Michnika i Bujaka nie trafiła do rodziców księdza.",
+      "cytat": "Tyle tylko, że rodzice ks. Popiełuszki nie zobaczyli z tej nagrody nawet złamanego centa",
+      "dziedzina": "historia"
+    },
+    {
+      "teza": "Autor uważa, że kuria i hierarchowie uciszają ks. Isakowicza-Zaleskiego w sprawie księży współpracowników SB i że ma się ukazać konkurencyjna książka kurii.",
+      "cytat": "Ksiądz Isakowicz-Zaleski został \"uziemiony\" (chyba już na zawsze) dzięki \"uprzejmości\" kolegów po fachu.",
+      "dziedzina": "religia"
+    },
+    {
+      "teza": "Autor twierdzi, że sowiecką agresję 17 września 1939 roku w szkołach nazywa się „wkroczeniem”, co jest kłamstwem utrwalanym przez komunistów i rządy po 1989 roku.",
+      "cytat": "co jest nie tyle delikatną pomyłką ale ordynarnym kłamstwem serwowanym nam od wielu, wielu lat.",
+      "dziedzina": "historia"
+    }
+  ],
+  "tematy": [
+    "kryzys koalicji pis-samoobrona",
+    "afera taśmowa i wsi",
+    "prywatyzacja banków i nbp",
+    "okrągły stół i służby specjalne",
+    "lustracja i ipn",
+    "radio maryja i naród wybrany",
+    "księża i sb, ks. isakowicz-zaleski",
+    "zamieszki na węgrzech 2006",
+    "korea północna, próba jądrowa",
+    "hipoteza hapgooda i amazonka",
+    "wybory samorządowe 2006"
+  ],
+  "osoby": [
+    "Andrzej Gwiazda",
+    "Joanna Gwiazda",
+    "Lech Wałęsa",
+    "Günter Grass",
+    "Adam Michnik",
+    "Jacek Kuroń",
+    "Czesław Kiszczak",
+    "Jan Lesiak",
+    "Antoni Macierewicz",
+    "Leszek Balcerowicz",
+    "Andrzej Lepper",
+    "Roman Giertych",
+    "Jarosław Kaczyński",
+    "Donald Tusk",
+    "Zyta Gilowska",
+    "Tadeusz Isakowicz-Zaleski",
+    "Stanisław Dziwisz",
+    "Tadeusz Rydzyk",
+    "Jerzy Popiełuszko",
+    "Zbigniew Bujak",
+    "Wisława Szymborska",
+    "Tony Judt",
+    "Marek Grechuta",
+    "Kazimierz Marcinkiewicz",
+    "Ryszard Bugaj"
+  ],
+  "miejsca": [
+    "Bieszczady, Gorgany, Czarnohora",
+    "Gdańsk",
+    "Warszawa",
+    "Węgry (Budapeszt)",
+    "Korea Północna",
+    "Wrocław",
+    "Amazonka",
+    "Białoruś",
+    "Kraków",
+    "Włoszczowa (przystanek Gosiewo)",
+    "Mediolan",
+    "Nowy Sącz",
+    "Częstochowa"
+  ],
+  "okresy": [
+    { "kiedy": "8 lutego 1953", "co": "Rezolucja krakowskiego Oddziału Związku Literatów Polskich potępiająca księży w procesie „szpiegów amerykańskich”; według autora pod nią podpisała się Szymborska." },
+    { "kiedy": "1985", "co": "Według autora Kuroń prowadził od tego roku rozmowy z gen. Kiszczakiem o przyszłym przekazaniu władzy (Okrągły Stół)." },
+    { "kiedy": "październik 1986", "co": "Przyznanie nagrody RFK Human Rights Award Michnikowi, Bujakowi i ks. Popiełuszce (pośmiertnie)." },
+    { "kiedy": "17 sierpnia 1991", "co": "Według autora narodziny polskiego Internetu (pierwszy kontakt internetowy fizyka UW z Wielką Brytanią)." },
+    { "kiedy": "18 lipca – 18 sierpnia 2006", "co": "Zaginięcie małżonków Gwiazdów w Bieszczadach i ich odnalezienie na Ukrainie 18 sierpnia." },
+    { "kiedy": "17 września 1939 (67. rocznica w 2006)", "co": "Sowiecka agresja na Polskę, określana przez autora jako IV rozbiór." },
+    { "kiedy": "październik 2006", "co": "Próba jądrowa w Korei Północnej, zamieszki w Budapeszcie, śmierć Marka Grechuty, kryzys koalicji PiS–Samoobrona." }
+  ],
+  "zrodla_cytowane": [
+    "Życie Warszawy – o antysemickim Radiu Maryja i apelu Ligi Przeciw Zniesławieniu",
+    "Gazeta Polska – reportaż o powiązaniach sekretarza programowego TVN",
+    "New York Times (20.10.1986) – o nagrodzie RFK dla Popiełuszki, Michnika i Bujaka",
+    "Wikipedia – definicja centralizmu demokratycznego",
+    "Samuel Johnson – cytat o patriotyzmie",
+    "Stanisław Jerzy Lec – cytat o dnie",
+    "Ipsos MORI – sondaż o zaufaniu do dziennikarzy i polityków w Wielkiej Brytanii"
+  ]
+}

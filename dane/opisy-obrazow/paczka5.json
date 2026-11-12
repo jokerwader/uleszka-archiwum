@@ -1,0 +1,1292 @@
+[
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/mapa2.gif",
+    "typ": "mapa",
+    "opis": "Mapa Polski z zaznaczonymi zamkami z XIII-XIV w.: czerwone kropki to zamki krzyżackie (skupione na północy), czerwone krzyżyki to zamki Kazimierza III, żółte kwadraty to zamki innych inwestorów.",
+    "tekst_na_obrazie": "WIEK XIII - XIV; Zamki krzyżackie; Zamki Kazimierza III; Inni inwestorzy"
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/xxtum.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze romańskiego kościoła z kolumnami, łukami i apsydą w głębi; prawdopodobnie kolegiata w Tumie pod Łęczycą (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/xxgnojewo.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze zrujnowanego, opuszczonego kościoła z sklepieniem i łukami oraz oknami, przez które wpada światło; prawdopodobnie kościół w Gnojewie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/flakw.gif",
+    "typ": "rysunek",
+    "opis": "Biały orzeł w koronie na czerwonym, falującym tle, godło Polski w formie flagi.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kwz_bobolice.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna wieża zamkowa z grubego, nieregularnego muru z kamienia; prawdopodobnie ruiny zamku w Bobolicach (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kwz_inowlodz.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ruiny kamiennego zamku: mur z nieregularnych kamieni i fragment wieży porośnięty roślinnością; prawdopodobnie Inowłódz (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kwz_lanckorona.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wysoki, porośnięty mchem kamienny mur zamkowej ruiny wśród drzew; prawdopodobnie Lanckorona (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kwz_olsztyn.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny mur i okrągła wieża zamkowa w tle; prawdopodobnie częstochowski Olsztyn (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/mapa.jpg",
+    "typ": "mapa",
+    "opis": "Kolorowa mapa Królestwa Polskiego za Kazimierza Wielkiego w 1370 r. z czerwonymi krzyżykami (zamki), sąsiadami i miastami.",
+    "tekst_na_obrazie": "1370 r.; Gdańsk; Malbork; KRZYŻACY; Toruń; Poznań; Gniezno; WIELKIE KSIĘSTWO LITEWSKIE; Częstochowa; Opole; Kraków; Lwów; Przemyśl; KSIĘSTWA ŚLĄSKIE; Świdnica; KRÓLESTWO CZESKIE; KRÓLESTWO WĘGIERSKIE; Kamieniec Podolski; MOŁDAWIA; KRÓLESTWO POLSKIE ZA KAZIMIERZA WIELKIEGO"
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kwz_bochotnica.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ruina kamiennego zamku z fragmentem muru z cegły i kamienia, z otworami; prawdopodobnie Bochotnica (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kwz_kolo.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglany mur z okrągłą, ceglaną basztą na zielonej łące pod niebem; prawdopodobnie zamek w Kole (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kwz_leczyca.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglana wieża i mur z małymi okienkami na tle nieba; prawdopodobnie zamek w Łęczycy (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kwz_zlotoria.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zniszczony narożnik ceglanej budowli z wnęką, porośnięty roślinnością; prawdopodobnie Złotoria (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/kam_wawel5.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na kamienny mur z łukowatą, ceglano-kamienną wnęką okienną; prawdopodobnie fragment Wawelu (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/kam_wawel1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dolna część kamiennego muru z warstwami ciosów, nad nim zieleń, a na pierwszym planie trawnik; prawdopodobnie Wawel (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/kam_wawel4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Fragment arkadowego dziedzińca z kolumną i kamiennym murem z ciosów po lewej; prawdopodobnie Wawel (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/kam_wawel2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Jasny mur z równo obrobionych kamieni z wąską szczeliną okienną i łukiem portalu w prawym dolnym rogu; prawdopodobnie Wawel (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/kam_wawel3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur obronny z drobnych kamieni zwieńczony blankami, nad nim ceglana ściana z oknem; prawdopodobnie mury Wawelu (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/kam_krabar.jpg",
+    "typ": "zdjęcie",
+    "opis": "Narożnik ceglanej budowli z łukowatym ciemnym wejściem i kamienną podmurówką, trawa na pierwszym planie; prawdopodobnie fundament barbakanu w Krakowie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/kam_dominikanie.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny mur wewnątrz kościoła z wnękami i ciemnymi tablicami epitafijnymi; prawdopodobnie kościół dominikanów w Krakowie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/kam_wawel6.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na kamienną kolumnę z jońską głowicą (spiralne woluty); prawdopodobnie kolumna z dziedzińca Wawelu (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/zal_wawel.jpg",
+    "typ": "rysunek",
+    "opis": "Komputerowa rekonstrukcja pierwotnej romańskiej katedry na Wawelu: bryła z dwiema wieżami, nawą i półkolistą apsydą, na tle gór.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/wawel/zal_tum.jpg",
+    "typ": "zdjęcie",
+    "opis": "Romańska kolegiata w Tumie pod Łęczycą: ceglano-kamienna bryła z dwiema wieżami i spiczastym zielonym hełmem, drzewa po bokach.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/dz1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny mur z dwoma wąskimi otworami strzelniczymi w kształcie dziurki od klucza, obok skalna ściana z roślinnością.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/ogrodziura.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na otwór strzelniczy w kształcie dziurki od klucza wycięty w skale, widać przez niego niebieskie niebo; ogrodzieniec (wg nazwy pliku i kontekstu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/dz2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Okrągła kamienna wieża w słońcu z małymi otworami i jednym otworem w kształcie krzyża w dolnej części.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/dz3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Jasny, chropowaty mur z rzędem otworów w kształcie dziurki od klucza.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/mapakrz.jpg",
+    "typ": "mapa",
+    "opis": "Uproszczona mapa Prus (terenów krzyżackich) z czerwonymi krzyżami oznaczającymi zamki krzyżackie, morzem i zalewem na północy.",
+    "tekst_na_obrazie": "Królewiec; Malbork; Toruń; ZAMKI KRZYŻACKIE W XIII I XIV WIEKU"
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kammalbork3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Fragment ceglanego muru zamku w Malborku z dwoma gotyckimi ostrołukowymi wnękami i kamiennymi fragmentami na trawniku (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kammalbork2a.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglane arkady z szarymi kamiennymi filarami i ostrymi łukami, brukowany dziedziniec; zamek w Malborku (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kammalbork2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Rząd kamiennych kolumn z głowicami i ceglane łuki arkad, drewniana ławka przy ścianie; zamek w Malborku (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kammalbork1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na element z ciemnej płyty z rzędami otworów (nitów lub dziurek) przy kamiennym i ceglanym murze; zamek w Malborku (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kammalbork5.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze gotyckiej sali z jedną smukłą ceglaną kolumną, sklepieniem, oknami i drzwiami; zamek w Malborku (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kamlidzbark.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wewnętrzny dziedziniec z dwupiętrowym ceglanym krużgankiem o łukowych arkadach i czerwonym dachu; zamek w Lidzbarku Warmińskim (wg nazwy pliku i kontekstu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kamswiecie.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na ceglany mur z kamiennymi konsolami o rzeźbionym, schodkowym kształcie przy oknie; zamek w Świeciu (wg nazwy pliku i kontekstu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/quaglio3.jpg",
+    "typ": "rysunek",
+    "opis": "Barwna ilustracja zamku w Malborku nad rzeką: czerwone ceglane mury, dwie okrągłe baszty z stożkowymi dachami i wysokie budynki zamku w tle (obraz Quaglia, wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/quaglio1.jpg",
+    "typ": "rysunek",
+    "opis": "Dawna ilustracja wysokiej, kamienno-ceglanej wieży z blankami i smukłymi wnękami, otoczonej niską zabudową miejską; fragment zamku w Malborku (obraz Domenica Quaglia wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/quaglio2.jpg",
+    "typ": "rysunek",
+    "opis": "Kolorowa, dawna grafika widoku na zamek z wieżami, kościołem i basztami nad wodą; na pierwszym planie statek i żółte słońce (obraz Quaglia wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/luki.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kolaż dwóch zdjęć przejść bramnych z ostrołukowymi, ceglanymi łukami zamkowymi i drewnianymi elementami; Malbork (wg kontekstu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/00gniew.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czerwony ceglany zamek z narożnymi wieżyczkami na tle nieba; zamek w Gniewie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/00lidzbark.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglany, prostokątny zamek z czterema wieżyczkami, czerwonym dachem i mostkiem przed bramą; zamek w Lidzbarku Warmińskim (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/00radzynchelm.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ruina ceglanego zamku z wieżami po bokach na trawiastym wzgórzu; zamek w Radzyniu Chełmińskim (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/00golub.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglany zamek z attyką, ostrołukowymi oknami i wieżyczką; zamek w Golubiu-Dobrzyniu (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/br_malbork.jpg",
+    "typ": "zdjęcie",
+    "opis": "Widok przez ceglany ostrołukowy łuk bramy na budynek zamku z czerwonym dachem; zamek w Malborku (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/sztum.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wąska uliczka widziana przez ceglaną, ostrołukową bramę; zamek w Sztumie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/br_pyrzyce.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ruina ceglanego muru z ostrołukową wnęką i żółto-czarnym słupkiem na pierwszym planie; Pyrzyce (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/br_wawa.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglany ostrołukowy łuk bramy, pod którym stoją trzy osoby; Warszawa (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/br_krakow.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglana brama z ostrym łukiem zamkniętym kutą kratą, nad nią rząd ceglanych ozdobnych wnęk; Kraków (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/most5.jpg",
+    "typ": "rysunek",
+    "opis": "Stara czarno-biała ilustracja zamku w Malborku widzianego zza rzeki Nogat, z drewnianym mostem po lewej stronie; most krzyżacki na Nogacie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/w_bytow.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wielołukowy ceglano-kamienny wiadukt kolejowy z kilkoma półkolistymi łukami wśród zieleni; Bytów (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/w_glaznoty.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny filar z ceglanymi łukami wiaduktu na tle błękitnego nieba; Głaznoty (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/w_gradykruklaneckie.jpg",
+    "typ": "zdjęcie",
+    "opis": "Łuk ceglano-kamiennego mostu wśród zieleni i kamienna kolumna obok; Grądy Kruklanieckie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/w_gradykruklaneckie2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Widok z góry na zniszczony fragment kamienno-ceglanej konstrukcji i drzewo; Grądy Kruklanieckie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/wc.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wysoka ceglana wieża ciśnień z wieżyczkami i spiczastym hełmem na tle nieba; Wrocław (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/wcbiala.jpg",
+    "typ": "zdjęcie",
+    "opis": "Prostokątna, tynkowana wieża z ceglanym zwieńczeniem i wąską arkadową wnęką; Biała (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/wckowalewo.jpg",
+    "typ": "zdjęcie",
+    "opis": "Okrągła ceglana wieża ciśnień z wnękami arkadowymi i zwieńczeniem; Kowalewo (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/wczawiercie.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglana wieża ciśnień z oknami i gzymsem, częściowo zniszczona; Zawiercie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/wctrawniki.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zielona ozdobna wnęka z owalnym wypukłym elementem w ceglanym murze; Trawniki (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/m_knowth.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze ciemnego korytarza grobowca z ułożonych bez zaprawy kamieni; prawdopodobnie Knowth w Irlandii (wg nazwy pliku i kontekstu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/m_irlandia.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na mur suchy z płaskich, układanych warstwowo kamieni, ze schodkami; Irlandia (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/m_maja.jpg",
+    "typ": "zdjęcie",
+    "opis": "Fragment muru z nieregularnych, obrobionych kamieni bez widocznej zaprawy; budowla Majów (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/m_hammershus.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wąskie, kamienne ułożenie muru z nieregularnych kamieni, z trawą po bokach; Hammershus na Bornholmie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/m_ostrow.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zaokrąglony mur z wielobarwnych, drobnych kamieni połączonych zaprawą; Ostrów Lednicki (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kb_bolczow.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze ruiny z kamiennym ostrołukowym łukiem i drugim łukiem w głębi, porośnięte mchem; zamek Bolczów (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kb_nidzica.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny przedsionek z łukiem i wąskim oknem w głębi, kamienne ściany; zamek w Nidzicy (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kb_sulejow.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny łuk z widokiem na ścianę z oknami, nad nią niebo; Sulejów (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kb_krzyztopor.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dwa kamienne łuki, przez które widać ruiny ścian z wnękami okiennymi; zamek Krzyżtopór w Ujeździe (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kol_evora.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie korynckiej głowicy kolumny z liśćmi akantu, część rzymskiej świątyni; Evora w Portugalii (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kol_chiny.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna głowica kolumny z liśćmi akantu i jońskimi wolutami, zielonkawy kamień, wśród zieleni; Chiny (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kol_notredame.jpg",
+    "typ": "zdjęcie",
+    "opis": "Głowica kolumny z motywem liści roślinnych (kapitel gotycki) we wnętrzu katedry; Notre-Dame, Francja (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/kol_zeus.jpg",
+    "typ": "zdjęcie",
+    "opis": "Korynckie głowice kolumn z liśćmi akantu na tle nieba; świątynia Zeusa w Rzymie lub Atenach (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/c_pompeie.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglany łuk nad wnęką z piecem lub paleniskiem w ceglanej ścianie; Pompeje (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/c_conimbriga.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglany łuk z cienkich cegieł rzymskich, obok kamienny mur i roślinność; Conimbriga (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/c_mystras.jpg",
+    "typ": "zdjęcie",
+    "opis": "Dwa ceglane łuki z dekoracyjnym fryzem w jodełkę nad nimi, ceglane kolumienki; grecki monastyr w Mistrze (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/c_dankow.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglana ściana z ostrołukowym łukiem i zamurowaną ceglaną wnęką; Danków (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/c_cieplowody.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ceglany łuk sklepienny wsparty na czerwonej kolumience, pod nim ciemna jama w ziemi lub skale; Ciepłowody (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/kw/chrono1.jpg",
+    "typ": "wykres",
+    "opis": "Oś czasu w tysiącach lat z kataklizmami i użytkowanymi kalendarzami: kolorowe paski epok Słońc Azteków oraz kalendarze (żydowski, chiński, juliański, islamski, gregoriański) z datami początkowymi.",
+    "tekst_na_obrazie": "KATAKLIZMY; transgresja m. Śródziemnego; Wojna trojańska wg. Diodora; Claude Schaeffer ( trzęsienia ziemi ); -1200 do 1200 ?; -10500; Słońca Azteków; -5500; -690; I Słońce; II Słońce; III Słońce; IV Słońce; tysiące lat; -10; -8; -6; -4; -2; 0; 2; -3761; żydowski ( i nippurajski ); -2698; chiński; -45; juliański; 622; islamski; 1582; gregoriański; UŻYTKOWANE KALENDARZE"
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/zbroja/moneta6.gif",
+    "typ": "zdjęcie",
+    "opis": "Srebrna moneta grecka z awersem przedstawiającym twarz z prawej, otoczoną falistymi włosami (głowa bóstwa).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/zbroja/moneta3.gif",
+    "typ": "zdjęcie",
+    "opis": "Dwie strony starożytnej srebrnej monety: po lewej głowa z ozdobnymi włosami, po prawej jeździec na koniu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/zbroja/moneta7.gif",
+    "typ": "zdjęcie",
+    "opis": "Złota moneta rzymska z profilem kobiety z koczkiem i napisem wokół, awers.",
+    "tekst_na_obrazie": "IVLIA ... (napis wokół portretu, częściowo nieczytelny)"
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/zbroja/moneta8.gif",
+    "typ": "zdjęcie",
+    "opis": "Srebrna moneta rzymska z dwoma sceneryjnymi postaciami (żołnierze lub zapaśnicy) i napisem u dołu, rewers.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/zbroja/moneta5.gif",
+    "typ": "zdjęcie",
+    "opis": "Rewers monety z dwoma sztyletami po bokach i czapką wolności pośrodku oraz napisem; denar Brutusa (wg znanej ikonografii).",
+    "tekst_na_obrazie": "EID MAR"
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/zbroja/helm3.gif",
+    "typ": "zdjęcie",
+    "opis": "Brązowy, zielonkawy starożytny hełm grecki w stylu koryncko-attyckim z wyciętymi otworami na oczy.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/warownie/zbroja/helm1.gif",
+    "typ": "zdjęcie",
+    "opis": "Brązowy hełm grecki z grzebieniem i ozdobnymi zdobieniami po bokach, widok z boku.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/00sacsay.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na duży głaz muru z wgłębieniami i zaokrąglonymi śladami na powierzchni; prawdopodobnie Sacsayhuaman (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/00chmur1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ściana z dużych kamiennych bloków; blok z nacięciem pionowym i pęknięciem na styku, poniżej drobny żwir; prawdopodobnie Pekin (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/nagoja1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Duży płaski blok kamienny z rzędem małych nacięć lub wgłębień wzdłuż dolnej krawędzi, wśród ułożonych kamieni muru; Nagoja (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/osaka9.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny blok w murze z drobnymi nacięciami i otworkiem na powierzchni; Osaka (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/1cusco.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ciemne, równo obrobione bloki kamienne z prostokątnym występem (wypustem) na jednym z nich; Cusco (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/1delfy.jpg",
+    "typ": "zdjęcie",
+    "opis": "Poziomo ułożone bloki kamienne z niewielkimi prostokątnymi występami i wgłębieniami na bocznych ścianach; Delfy (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/1naksos.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienne bloki starożytnej budowli z wypustami na pierwszym planie, w tle zatoka z morzem i miasto; Naksos (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/1segesta.jpg",
+    "typ": "zdjęcie",
+    "opis": "Jasne bloki kamienne z prostokątnymi występami i otworami w murze świątyni; Segesta (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/2abusir.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na jasny kamień z dwoma okrągłymi, ciemnymi otworami wywierconymi w powierzchni; Abusir (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/2sumatra.jpg",
+    "typ": "zdjęcie",
+    "opis": "Brunatny głaz z czterema okrągłymi otworami wśród trawy; Sumatra (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/2tiahu.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny blok z jednym dużym okrągłym otworem ustawiony na drewnianej podstawie na tle pustynnej równiny; Tiahuanaco (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/2ugarit.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ciemna, porowata płyta kamienna z trzema okrągłymi otworami; Ugarit (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/2gozo.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienne bloki z pionowymi rzędami okrągłych otworów, przy barierce ochronnej; Malta, wyspa Gozo (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/szutefnut.jpg",
+    "typ": "rysunek",
+    "opis": "Czarno-biała grafika egipska: dwa siedzące lwy zwrócone do siebie tyłem, między nimi znak anch i słoneczny dysk na horyzoncie; Szu i Tefnut (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/uxmalpumy.jpg",
+    "typ": "rysunek",
+    "opis": "Czarno-biała ilustracja dwóch cętkowanych, siedzących pum lub lampartów zwróconych od siebie, z ciemnym dyskiem słońca pośrodku.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/2aztec.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Płaskorzeźba na fasadzie: centralna maska z pióropuszem i po bokach dwa skaczące zwierzęta, z geometrycznymi wzorami po bokach; styl azteckiej ornamentyki (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/2mykeny.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienny relief nad bramą z dwoma lwami po bokach centralnej kolumny; Brama Lwic w Mykenach (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/5persep.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienna rzeźba skrzydlatego lwa lub gryfa z rogami, leżącego na kamiennym cokole; Persepolis (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/5uxmal.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienna rzeźba dwóch złączonych tyłami zwierząt (pum lub jaguarów) siedzących po przeciwnych stronach; Uxmal (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/2puma.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienny relief z siedzącą postacią w bogatym nakryciu głowy i napisami glifów, prawdopodobnie wizerunek majański.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/2inanna.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Gliniany relief skrzydlatej bogini stojącej na dwóch lwach, po bokach sowy; rzeźba mezopotamska, prawdopodobnie Inanna (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/4aksum.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze jasnego kamiennego sarkofagu bez ozdób, obok leży płyta pokrywy; Aksum (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/4byblos.jpg",
+    "typ": "zdjęcie",
+    "opis": "Duży, jasny, prostopadłościenny sarkofag kamienny z lekko wypukłą pokrywą, stojący na trawie wśród drzew; Byblos (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/4meidum.jpg",
+    "typ": "zdjęcie",
+    "opis": "Szary kamienny sarkofag z pokrywą w kształcie dachu na tle piasku pustyni; Meidum (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/4olbia.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny sarkofag lub koryto z jasnego kamienia, częściowo ukryty wśród murów i drzew; Olbia (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/4palenque.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze kamiennego sarkofagu w pomieszczeniu z różowo-czerwonym dnem; Palenque (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/weze1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Egipski relief: postać w koronie siedząca w owalnej ramie utworzonej przez ciało węża, trzymająca przedmioty w dłoniach; Egipt (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/weze2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienny relief z Ameryki Środkowej: siedząca postać w nakryciu głowy otoczona zwojem węża, u góry głowa węża; Ameryka Środkowa (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/uszy1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Złota figurka lub maska z wizerunkiem twarzy z wydłużonymi płatkami uszu i dekoracyjną czapką z rowkami; wyrób Inków (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/uszy2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Srebrna lub metalowa figurka twarzy z kolczykami w długo rozciągniętych uszach i cylindryczną czapką; wyrób Inków (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/uszy3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Brązowa głowa Buddy z lokami i wydłużonym uchem; Indie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/uszy4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Rzeźba głowy Buddy wykuta w czerwonawym kamieniu z wydłużonymi uszami; Chiny (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/3amer.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna budowla z dużym łukiem sklepieniowym wejścia i murem z drobnych kamieni; Dżibilchaltun (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/chmur13.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wnętrze wąskiego, wielostopniowego łuku kamiennego korytarza z cegieł i kamienia, z schodami; Pekin, Wielki Mur (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/3efez.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny łuk wnęki z dużych klińców nad ciemnym otworem w murze, wśród ruin; Efez (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/3olimpia.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienne sklepienie łukowe tunelu wejściowego na stadion, w głębi ścieżka; Olimpia (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/philae.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna ściana z wąskim oknem w półkolistej wnęce, dwie smukłe kolumienki; Philae (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/9anglia.jpg",
+    "typ": "zdjęcie",
+    "opis": "Stary kamienny most z dwoma łukami nad rzeką z małym jazem, zieleń w tle; Brytania (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/9chiny.jpg",
+    "typ": "zdjęcie",
+    "opis": "Długi kamienny most z wieloma półkolistymi łukami nad wodą; Chiny (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/9hiszpania.jpg",
+    "typ": "zdjęcie",
+    "opis": "Długi kamienny most z wieloma półkolistymi łukami nad rzeką, w złotym świetle; Hiszpania (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/9syria.jpg",
+    "typ": "zdjęcie",
+    "opis": "Pojedynczy duży łuk kamiennego mostu stojący na zielonej równinie, bez przęsła; Syria (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/9turcja.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienny most z dwoma łukami i metalową balustradą nad spokojną rzeką; Turcja (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/3laos.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mężczyzna w niebieskiej kurtce klęczący na krawędzi ogromnego kamiennego naczynia (dzbana) z otworem u góry; Laos, Równina Dzbanów (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/6knossos.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wysoki gliniany pitos zdobiony rzędami okrągłych medalionów i ornamentów; Knossos (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/6ostia.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie rzędu dużych glinianych dolii (naczyń zapasowych) wkopanych w ziemię; Ostia (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/6ugarit.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mężczyzna w kapeluszu stojący przy dużym kamiennym naczyniu z szerokim brzegiem i uchwytami; Ugarit (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/terasa1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wyschnięty stok pokryty kamiennymi tarasami ułożonymi z kamieni; Egipt (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/terasa2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienne tarasy na stoku z jesienną roślinnością, w tle ceglaste liście drzew; Liban (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/terasa3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Tarasy rolnicze w kształcie koncentrycznych łuków obramowane kamiennymi murkami na ciemnej ziemi; Chiny (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/terasa4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Stok z poziomymi kamiennymi tarasami i kilkoma drzewami oliwnymi; Izrael (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/terasa5.jpg",
+    "typ": "zdjęcie",
+    "opis": "Górska osada z wysokimi, kamiennymi domami wieżowymi i zielonymi tarasami uprawnymi na stoku; Jemen (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mur0.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z dużych, dokładnie dopasowanych bloków kamiennych o wielokątnych kształtach, na tle drzewa; dopasowane megality (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mur1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z bardzo dużych, ciemnych, ściśle dopasowanych bloków kamiennych o wypukłych ścianach, trawa u podstawy (wg kontekstu artykułu o wielkich murach megalitycznych).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mur2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z wielokątnych bloków kamiennych szczelnie dopasowanych do siebie, na tle nieba z chmurami; prawdopodobnie Sacsayhuaman lub Cusco (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mur3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na duży wielokątny blok kamienny ściśle wpasowany między sąsiednie kamienie muru; Cusco (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mur4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na narożnik lub wnękę w gładko obrobionym kamiennym murze o precyzyjnie dopasowanych blokach.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/osaka10.jpg",
+    "typ": "zdjęcie",
+    "opis": "Narożnik kamiennej podstawy zamku z ciosów, w tle drzewa i ogrodzenie; Osaka (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mur5.jpg",
+    "typ": "zdjęcie",
+    "opis": "Pionowy mur z dużych, czerwonawych bloków kamiennych z kwadratowymi wnękami; Ollantaytambo (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mur6.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbocze wzgórza z kolumnami u góry oraz niski, wielokątny mur z dużych bloków i dwoma słupkami; Delfy (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mur7.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wielokątny mur z kamiennych ciosów o nieregularnych kształtach, w tle słup lub filar; Delfy (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mur8.jpg",
+    "typ": "zdjęcie",
+    "opis": "Ogromne wielokątne bloki kamienne megalitycznego muru nad trawiastym terenem, w tle niebo; okolice jeziora Titicaca lub Sacsayhuaman (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/wypust6.jpg",
+    "typ": "zdjęcie",
+    "opis": "Szeroki mur z gładkich bloków, na których górnej krawędzi widoczne są rzędy zaokrąglonych wypustów (guzów), na dole luźny kamień; mała piramida w Giza (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/pirinka1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na mur z wielokątnych bloków o dopasowanych krawędziach, z małymi wypustami na kamieniach; mała piramida w Giza lub podobna budowla (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/pirinka2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mężczyzna w kurtce stojący przy ścianie z dużych, czerwonawych bloków kamiennych, wskazujący ręką na mur.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/malapir4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kolaż kilku zdjęć na tle piramidy: duże bloki granitowe z dwiema osobami, mniejsze bloki, rzędy kamieni różnej wielkości; piramida w Giza i Abydos (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/abydosinca1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zdjęcie w okrągłym kadrze: ułożone bloki kamienne o skośnych krawędziach, piaszczysty teren; Abydos (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/abydosinca3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z równo ciosanych bloków z dużym, nachodzącym blokiem na wierzchu i ciemnym przejściem po prawej; Abydos (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/abydosinca2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zdjęcie w okrągłym kadrze, pokazujące mur z równych bloków kamiennych na tle piaszczystych ruin; Abydos (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/tarczahorusa0.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Płaskorzeźba skrzydlatego dysku z postacią w środku i rozpostartymi skrzydłami na ścianie z piaskowca; prawdopodobnie Persepolis (wg tekstu artykułu o tarczy Horusa).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/tarczahorusa1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Wąski fragment płaskorzeźby przedstawiający skrzydło i okrągły dysk, na złotawym tle.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/tarczahorusa2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kolorowa egipska płaskorzeźba skrzydlatego słonecznego dysku z uraeusami (kobrami) po bokach, pod gzymsem z ornamentem, u dołu hieroglify; tarcza Horusa (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/koro0.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Płaskorzeźba skrzydlatej postaci w koronie złożonej z trzech elementów (kwiatów lub piór), kamienny relief na niebieskim tle nieba.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/koro1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Egipska płaskorzeźba postaci z koroną złożoną z trzech elementów i hieroglifami nad nimi, kolorowe pozostałości farby.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/07eltain.jpg",
+    "typ": "zdjęcie",
+    "opis": "Schodkowa piramida z rzędami kwadratowych wnęk na każdym stopniu; El Tajin, Ameryka Środkowa (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/07kmer.jpg",
+    "typ": "zdjęcie",
+    "opis": "Schodkowa kamienna piramida porośnięta zielenią wśród drzew, na tle chmurzastego nieba; Prasat Thom, Kambodża (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/gizanazca3.jpg",
+    "typ": "mapa",
+    "opis": "Zdjęcie satelitarne okolic Kairu i Giza z nałożonym pytajnikiem i strzałkami; widoczne regularne struktury liniowe na pustyni.",
+    "tekst_na_obrazie": "Kair; Giza; ?"
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/liniegiza1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie lotnicze lub satelitarne pustyni z siecią jasnych linii i prostokątnych struktur; okolice Giza (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/liniegiza2a.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie lotnicze poziomego pasa terenu z jasnymi liniami tworzącymi zaokrąglone prostokąty; okolice Giza (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/liniegiza3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie lotnicze pustyni z jasną siecią krzywych dróg, pętli i prostych linii; okolice Giza (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/slafur1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Płaska skalista powierzchnia przecięta licznymi równoległymi rowkami i koleinami, porośnięta miejscami zielenią; ślady furmanki na Malcie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/slafur2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Skalisty teren z głębokimi, krzyżującymi się koleinami wyżłobionymi w jasnej skale; ślady furmanki na Malcie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/slafur3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na głębokie wyżłobienie lub rów w skale kończący się ciemnym otworem; ślady furmanki na Malcie (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/6palce.jpg",
+    "typ": "zdjęcie",
+    "opis": "Egipska płaskorzeźba dłoni ściskającej przedmiot, z palcami ponumerowanymi cyframi od 1 do 6 (sześć palców).",
+    "tekst_na_obrazie": "1; 2; 3; 4; 5; 6"
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/tiahuwira.gif",
+    "typ": "rysunek",
+    "opis": "Czarno-biały rysunek stojącej postaci z promienistym nakryciem głowy, trzymającej berła, w zdobionym stroju, otoczonej ornamentami; bóstwo z Bramy Słońca w Tiahuanaco (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/crespi3b.jpg",
+    "typ": "zdjęcie",
+    "opis": "Złota figurka postaci ze słoneczną koroną promieni wokół okrągłej twarzy na niebieskim tle, z zdobieniami na korpusie; zbiór Crespi (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/mezo4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna figura siedzącego lub kucającego bóstwa z wysokim nakryciem głowy, na ciemnym tle; Mezoameryka (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/nazcam1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Lotnicze zdjęcie geoglifu z pustyni Nazca przedstawiającego małpę ze spiralnym ogonem; Nazca (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/nazcam2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wąski wycinek geoglifu z linii na pustyni, widać dłoń o kilku palcach; Nazca (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man0.jpg",
+    "typ": "zdjęcie",
+    "opis": "Posąg moai z wyspy Wielkanocnej z czerwonym pukao (kamiennym nakryciem głowy) na tle nieba.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man1.jpg",
+    "typ": "rysunek",
+    "opis": "Stary, jasny rysunek lub szkic wydłużonej dłoni z długimi palcami i fioletowym zakończeniem u góry.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man2.jpg",
+    "typ": "rysunek",
+    "opis": "Stary rysunek kilku wydłużonych palców lub piór ułożonych wachlarzowo, na kremowym tle.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man3.jpg",
+    "typ": "rysunek",
+    "opis": "Stary szkic dłoni z kilkoma bardzo długimi, wąskimi palcami rozchodzącymi się wachlarzowo.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man4.jpg",
+    "typ": "rysunek",
+    "opis": "Szkic wydłużonych, cienkich linii przypominających długie palce lub piórka, na jasnym tle ze zmarszczonym papierem.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man5.jpg",
+    "typ": "rysunek",
+    "opis": "Szkic dłoni lub części ciała z wachlarzem równoległych linii oznaczających długie palce, jasne tło.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man6.jpg",
+    "typ": "rysunek",
+    "opis": "Niebieskawy ołówkowy szkic dłoni o długich, cienkich palcach.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man7.jpg",
+    "typ": "rysunek",
+    "opis": "Rysunek sepią przedstawiający zdobiony, szeroki element z poziomymi pasami, być może fragment stroju lub ozdobnej konstrukcji z wachlarzem prążków.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man8.jpg",
+    "typ": "rysunek",
+    "opis": "Delikatny rysunek ołówkiem smukłej dłoni z bardzo długimi palcami.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/man9.jpg",
+    "typ": "rysunek",
+    "opis": "Jasny szkic zaokrąglonej formy z półkolistymi liniami i wąskim wypustem u dołu.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/palce3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na rzeźbione, wydłużone palce posągu o ciemnej, zielonkawej barwie, widoczne paznokcie.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/palce4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie wydłużonych palców rzeźby z widocznymi paznokciami.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/palce1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienny relief dłoni ze złączonymi długimi palcami, powyżej pasy ornamentu, w piaskowo-żółtych barwach; Egipt.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/palce2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Fragment egipskiego reliefu z wydłużonymi palcami dłoni i hieroglifami w tle.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/ica1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarny kamień z Ica ze światłym grawerunkiem przedstawiającym zwierzę i postać, leżący na bordowym materiale; Ica, Peru (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/ica2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na kamień z Ica pokryty precyzyjnym grawerunkiem przedstawiającym ptaka i siatkowy ornament, złoto-brązowe tło; Ica, Peru (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/sigiriya.jpg",
+    "typ": "zdjęcie",
+    "opis": "Szerokie schody wiodące między dwiema ogromnymi kamiennymi łapami lwa, otoczone skalnymi ścianami; Sigirija na Sri Lance (wg nazwy pliku).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/neand1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna rzeźba przysadzistej, siedzącej postaci o szerokiej, spłaszczonej twarzy w wiejskiej wiacie; stylistyka mezoamerykańska.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/neand2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na zniszczoną kamienną rzeźbę twarzy z marszczonym czołem, szerokimi nozdrzami i grymasem.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/neand2a.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na kamienną rzeźbę czaszki z dużymi oczodołami i uzębieniem na ścianie budowli.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/neand3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna rzeźba siedzącej postaci wkomponowana w mur świątyni, z ozdobnym fryzem pod spodem.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/neand4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Wielki posąg małpiego boga z złożonymi dłońmi i zdobioną koroną na tle nieba; prawdopodobnie Hanuman (wg kształtu postaci).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/smugi1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z dużych, precyzyjnie ociosanych bloków kamiennych i długi płaski kamień-ołtarz pośrodku; Machu Picchu lub podobne miejsce Inków (wg stylu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/smugi2.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na mur z gładkich bloków kamiennych z trapezowymi wnękami i wypustem nad nimi.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/smugi3.jpg",
+    "typ": "zdjęcie",
+    "opis": "Mur z regularnych bloków kamiennych z kilkoma trapezowymi niszami, przed nim zielona trawa; wnętrze inkaskich zabudowań.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/pioro.gif",
+    "typ": "zdjęcie",
+    "opis": "Jasne, szare pióro ptaka na białym tle.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/pioroq.jpg",
+    "typ": "zdjęcie",
+    "opis": "Zbliżenie na kamienną rzeźbę pióra lub piór, z wyrzeźbionymi wąskimi pasmami.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/qcoatl4.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Rzeźba skręconej, pierzastej postaci (węża Quetzalcoatla) z głową w kierunku widza, wykonana z jasnego kamienia.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/qcoatl2.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Rzeźba drewnianej lub kamiennej postaci z twarzą wyłaniającą się z zwojów pierzastego węża (Quetzalcoatl), o spiralnych rzeźbionych pasmach.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/qcoatl5.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienny relief postaci w bogatym nakryciu głowy otoczonej promieniami, z okrągłym ornamentem na piersi; sztuka azteckich rzeźb Quetzalcoatla (wg kontekstu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/qcoatl3.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Drewniana rzeźba skręconego, pierzastego węża z głową u góry, ciemnobrązowa, lekko wypolerowana (Quetzalcoatl wg kontekstu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/qcoatl1.gif",
+    "typ": "rzeźba/relief",
+    "opis": "Rzeźba siedzącej postaci o twarzy ludzkiej wyłaniającej się z zwojów pierzastego węża, jasnobrązowe drewno (Quetzalcoatl wg kontekstu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/quet1.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienna głowa pierzastego węża z otwartą paszczą i spiralami, otoczona piórami; Teotihuacan (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/quet2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Boczny widok kamiennej głowy węża z wystającymi zębami na ścianie z wzorem w romby; Uxmal (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/quet3.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kamienny relief z falistym ciałem pierzastego węża, spiralami i postacią; piramida w Xochicalco (wg tekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/qjezyk.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Brązowy relief przedstawiający postać z wystającym językiem w otoczeniu mechanicznie wyglądających ornamentów i zwojów węża.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/szczena.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kamienna głowa węża z otwartą paszczą na tle trawiastego terenu i ruin; Chichén Itzá (wg kontekstu artykułu).",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/szczena1.jpg",
+    "typ": "zdjęcie",
+    "opis": "Kokpit z podniesioną owiewką nowoczesnego myśliwca na lotnisku, w tle śmigłowiec i pochmurne niebo.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/broda2.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Kolorowa egipska malowidło ścienne: profil mężczyzny w niebieskim nakryciu głowy z uraeusem i sztuczną brodą.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/broda4.jpg",
+    "typ": "zdjęcie",
+    "opis": "Czarno-białe zdjęcie fragmentu rzeźby z drapowaną szatą i małą figurką na dole.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/broda3.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Płaskorzeźba profilu postaci w nakryciu głowy z zakręconym pasmem włosów i sztuczną brodą, ciemny kamień.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/broda6.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Malowana płaskorzeźba w czerwonych barwach: profil twarzy z brodą i okrągłym ornamentem ucha, pomarańczowe tło.",
+    "tekst_na_obrazie": ""
+  },
+  {
+    "sciezka": "zrodlo/webacja/zagadki/broda7.jpg",
+    "typ": "rzeźba/relief",
+    "opis": "Okrągła płaskorzeźba z dwiema twarzami, jedna za drugą, w ramie na szarym kamieniu.",
+    "tekst_na_obrazie": ""
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "id": "antypol/wqrwiaczek",
+  "tytul": "W kraju raju...",
+  "streszczenie": "Publicystyczny esej o tym, dlaczego w Polsce według autora nie będzie dobrze po wyborach z 2005 roku. Autor krytykuje klasę polityczną, posłów, urzędników i Narodowy Fundusz Zdrowia, twierdząc, że żadnej partii nie zależy na zwykłym obywatelu. Proponuje reformy, takie jak ścisłe etaty w urzędach, materialna odpowiedzialność urzędników, zamiana Senatu w izbę prawną i karty pracy samochodów służbowych posłów. Autor wyjaśnia, że od kilku lat nie głosuje, i przewiduje, że sytuacja będzie jeszcze gorsza, bo do władzy dojdą kolejne dotąd niesprawdzone partie.",
+  "tezy": [
+    {
+      "teza": "Żadnemu rządowi, sejmowi ani senatowi nie zależy na narodzie, bo politycy dbają o własne finanse.",
+      "cytat": "Dlaczego w Polsce nie będzie dobrze? To proste - nikomu z będących u władzy nie zależy na narodzie czyli na zwykłym obywatelu.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Wszystkie wybory po 1989 roku były farsą, a obywatel ma do wyboru jedynie miernotę lub nieuczciwych.",
+      "cytat": "Wszystkie wybory po roku 1989 były zwyczajną farsą. I nie ma się czemu dziwić. Przeciętny Polak ma do wyboru albo miernotę albo",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Spadkobiercy komunizmu skupili gospodarkę, finanse, energetykę, sądownictwo i media w wąskim gronie partyjnych kolegów.",
+      "cytat": "Skupienie gospodarki, finansów, energetyki, sprawiedliwości, agencji od wszelkich przymusowych składek czy telewizji i prasy w wąskim gronie partyjnych kolesiów",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Likwidacja PGR-ów po 1989 roku wyrzuciła na bruk miliony ludzi, a majątek rozgrabiono przez agencje rządowe.",
+      "cytat": "Likwidując dawne PGR-y wyrzucono na bruk i pastwę losu miliony ludzi utrzymujących się z państwowego rolnictwa.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Narodowy Fundusz Zdrowia ogranicza leczenie i faktycznie dokonuje eutanazji na narodzie.",
+      "cytat": "Na dzień dzisiejszy jest to jedyna w świecie instytucja która w prawnie usankcjonowany choć zawoalowany sposób, dokonuje eutanazji na narodzie.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "NFZ wprowadza ograniczenia dla pacjentów, takie jak leczenie raka tylko do 65. roku życia i kary dla szpitali za nadwagę pacjentów.",
+      "cytat": "Raka leczymy tylko do 65 roku życia, za operację na otyłych szpital płaci za każdy ponadnormatywny kilogram",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "W urzędach powinny obowiązywać ścisłe etaty uzależnione od wykształcenia, bo ich brak jest przyczyną układów.",
+      "cytat": "Dlaczego przez ponad 20 lat nie wprowadzono tzw. ścisłych etatów dla urzędów państwowych obwarowanych wykształceniem",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Urzędnicy powinni ponosić pełną odpowiedzialność materialną za błędne decyzje i zaniechania.",
+      "cytat": "każdy urzędnik państwowy jest odpowiedzialny materialnie w pełnym zakresie za zaniechanie decyzji lub wydanie błędnej, która spowodowała straty materialne petenta",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Senat należy zamienić w izbę prawną złożoną ze stu prawników, która chroniłaby Sejm przed uchwalaniem bubli.",
+      "cytat": "Niech zasiądzie w nim 100 prawników o wysokich kwalifikacjach i niech tworzą pierwszy stopień na schodach do Trybunału Konstytucyjnego.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Lewica pod hasłem tolerancji promuje styl życia, który według autora zmniejsza liczebność narodu i odwraca uwagę od ważnych problemów.",
+      "cytat": "Pod przykrywką tolerowania tolerancji zaczyna się zezwalać na propagowanie trybu życia, którego celem jest także zmniejszenie liczebności narodu.",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Autor od kilku lat nie głosuje, bo żadna partia nie ma programu naprawy państwa, a jego głos nic nie zmieni.",
+      "cytat": "Ja, jako normalny obywatel od kilku lat korzystam z prawa nieuczestniczenia w wyborach.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Przewidywanie: będzie jeszcze gorzej, a kolejne partie dojdą do władzy, co oznacza około 12 lat życia w biedzie.",
+      "cytat": "Polaku nie smuć się, będzie jeszcze gorzej. Jeśli ta kadencja potrwa całe cztery lata, to trzeba doliczyć jeszcze ze dwie przyczajone partie, które jeszcze nie",
+      "dziedzina": "polityka"
+    }
+  ],
+  "tematy": ["krytyka klasy politycznej", "wybory", "nfz", "urzędnicy i biurokracja", "pgr", "senat", "reforma państwa", "demokracja", "tolerancja", "samorządy"],
+  "osoby": ["Ambrose Bierce", "Arystoteles", "Tadeusz Rydzyk", "Józef Piłsudski"],
+  "miejsca": ["Szymany", "Stare Kiejkuty", "Polska"],
+  "okresy": [
+    { "kiedy": "od 1989", "co": "Według autora wszystkie wybory były farsą, a polityka służyła rozkradaniu majątku narodowego." },
+    { "kiedy": "rok po wyborach 2005", "co": "Powstanie rządu i Partii Obrażonych po przegranych wyborach koalicji kaszubsko-krakowskiej." },
+    { "kiedy": "najbliższe 12 lat", "co": "Według przewidywania autora Polacy będą żyć o głodzie i smrodzie, jeśli kolejne partie dojdą do władzy." }
+  ],
+  "zrodla_cytowane": ["Ambrose Bierce – cytat o głosowaniu (motto)", "Arystoteles – cytat o demokracji (motto)"]
+}

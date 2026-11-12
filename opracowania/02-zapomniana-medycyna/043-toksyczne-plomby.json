@@ -1,0 +1,60 @@
+{
+  "id": "medalt/plomby",
+  "tytul": "Toksyczne plomby",
+  "streszczenie": "Tekst zbiera kilka artykułów o amalgamatowych plombach zawierających rtęć. Autorzy twierdzą, że z plomb może uwalniać się toksyczna rtęć szkodząca nerkom, mózgowi i płodowi, i opisują plan polskiego resortu zdrowia wycofania amalgamatów w odpowiedzi na dyrektywę Parlamentu Europejskiego. Podano relację BBC o kobiecie, której depresja ustąpiła po wymianie plomb i detoksykacji. Na końcu przytoczono przeciwne stanowisko: badania nie wykazały wpływu amalgamatu na inteligencję dzieci, a brytyjskie ministerstwo nie widzi dowodów poważnego zagrożenia.",
+  "tezy": [
+    {
+      "teza": "Podczas żucia z amalgamatu uwalniają się opary rtęci wielokrotnie przekraczające normy zakładów przemysłowych, więc plomby należy usuwać.",
+      "cytat": "Gazy powstające podczas żucia w jamie ustnej z amalgamatem przekraczają około 500-krotnie normę zakładów produkcyjnych używająch rtęć podczas produkcji (dane z USA).",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Resort zdrowia planuje wycofanie amalgamatowych wypełnień w ciągu kilku lat zgodnie z dyrektywą Parlamentu Europejskiego.",
+      "cytat": "Resort zdrowia chce, by za 4-5 lat Polacy nie mieli już w zębach amalgamatowych wypełnień, gdyż zawierają one szkodliwą dla organizmu rtęć.",
+      "dziedzina": "polityka"
+    },
+    {
+      "teza": "Plomby amalgamatowe mogą powodować bóle głowy, uczulenia, uszkodzenia nerek i szkodzić kobietom w ciąży.",
+      "cytat": "plomby amalgamatowe są niebezpieczne dla zdrowia; mogą powodować migrenowe bóle głowy, uczulenia, uszkadzać nerki, szkodzić kobietom w ciąży.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Rtęć gromadzi się w układzie nerwowym, mózgu, płodzie i nerkach, gdzie kumuluje się ponad 90 procent związku.",
+      "cytat": "Z krwią rtęć wędruje do układu nerwowego, odkłada się w mózgu, komórkach płodu i nerkach, w których kumuluje się ponad 90 proc. tego związku.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Wieloletnia depresja pacjentki z Wielkiej Brytanii cofnęła się po usunięciu amalgamatów i detoksykacji z rtęci.",
+      "cytat": "Rodzina Mary uważa, że cierpiała ona na zatrucie rtęcią z amalgamatowych plomb w zębach.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Amalgamaty maskują próchnicę i rozszerzają się pod wpływem temperatury, co uszkadza ząb.",
+      "cytat": "Dodatkowo amalgamaty, tak jak każdy metal, kurczą się i rozszerzają pod wpływem temperatury (zimne lody, gorąca kawa), co prowadzi często do odłamania ściany zęba na zasadzie rozsadzenia",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "NFZ refunduje tylko amalgamaty w zębach bocznych, a lepsze plomby wymagają dopłaty, więc większość pacjentów jest na nie skazana.",
+      "cytat": "Za amalgamatowe wypełnienia, zakładane do zębów przedtrzonowych i trzonowych, czyli od \"czwórki\" do \"ósemki\" pacjent nie płaci",
+      "dziedzina": "społeczeństwo"
+    },
+    {
+      "teza": "Według przeciwnych badań rtęć z amalgamatu nie szkodzi inteligencji ani układowi nerwowemu dzieci, a obawy były nieuzasadnione.",
+      "cytat": "Seria opublikowanych w tym tygodniu artykułów naukowych rozwiała obawy, że zawarta w popularnych wypełnieniach amalgamatowych rtęć może szkodzić dzieciom.",
+      "dziedzina": "medycyna"
+    },
+    {
+      "teza": "Brytyjskie ministerstwo zdrowia uważa, że nie ma dowodów na poważne zagrożenie ze strony plomb rtęciowych, choć zaleca nie stosować ich u ciężarnych.",
+      "cytat": "Jednak brytyjskie Ministerstwo Zdrowia stwierdza, że miliardy takich plomb używa się na całym świecie i nie ma żadnych dowodów potwierdzających, że plomby oparte na rtęci stanowią poważne zagrożenie dla zdrowia.",
+      "dziedzina": "medycyna"
+    }
+  ],
+  "tematy": ["amalgamat", "rtęć", "plomby", "stomatologia", "zatrucie rtęcią", "detoksykacja", "dyrektywa ue", "nfz"],
+  "osoby": ["Jolanta Gromadzka-Anzelewicz", "Krzysztof Chmielewski", "Edyta Gasperowicz", "Krystyna Erecińska", "Dorota Landsberger", "Mary Stephenson", "Tomasz Cegielski"],
+  "miejsca": ["Polska", "Gdańsk", "Szczecin", "Wielka Brytania", "Frankfurt"],
+  "okresy": [
+    { "kiedy": "ok. 150 lat temu", "co": "początek stosowania wypełnień amalgamatowych" },
+    { "kiedy": "styczeń 2004", "co": "rodzina Mary usłyszała o zatruciu rtęcią i doprowadziła do usunięcia plomb" }
+  ],
+  "zrodla_cytowane": ["Jolanta Gromadzka-Anzelewicz – Sprawdź, czy masz toksyczne plomby", "Dorota Landsberger (BBC News) – Plomby, które wywołują depresję", "Głos Szczeciński – Musimy usuwać trujące plomby", "dyrektywa Parlamentu Europejskiego (luty) o wycofywaniu wyrobów z rtęcią"]
+}
