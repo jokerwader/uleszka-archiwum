@@ -108,6 +108,10 @@ Serwer odpowiada pod adresem `/mcp` (protokół MCP Streamable HTTP).
 
 ---
 
+## 📚 Książki, na które powołuje się autor
+
+Leszek Klimek cytuje setki książek i dawnych tekstów: od Platona, Herodota i Księgi Henocha po Dänikena i Sitchina. Zestawienie [**docs/ksiazki.md**](docs/ksiazki.md) pokazuje, które z nich można legalnie przeczytać lub pobrać za darmo i gdzie, a także w których artykułach są cytowane.
+
 ## 📜 Historia strony
 
 - **Autor:** Leszek Klimek. Jak mówił w wywiadzie, tematem zajął się w 1992 roku, po przejściu na emeryturę. Inspiracją był Erich von Däniken, ale nie wszystko w jego tezach przekonywało autora, więc zaczął dociekać sam. W internecie był od 2004 roku. ([wywiad, nandi.pl](https://nandi.pl/index.php?go=art_uleszka))
@@ -130,7 +134,7 @@ To repozytorium zachowuje stronę w pierwotnym układzie działów, razem ze zdj
 | [`zrodlo/`](zrodlo) | Oryginalna kopia strony: pliki HTML i ok. 1500 zdjęć, bajt w bajt |
 | [`src/`](src) | Serwer MCP |
 | [`scripts/`](scripts) | Konwersja, kontrola wierności, pliki dla AI, testy |
-| [`docs/`](docs) | Instrukcje dla asystenta AI |
+| [`docs/`](docs) | Instrukcje dla asystenta AI oraz [książki cytowane przez autora i gdzie je legalnie przeczytać za darmo](docs/ksiazki.md) |
 
 ### Wierność tekstów
 
