@@ -1,0 +1,334 @@
+---
+id: "10woda/bogwody"
+tytul: "Bogowie wody"
+dzial: "Cywilizacja Bogów"
+adres_oryginalny: "http://www.uleszka.net/webacja/10woda/bogwody.htm"
+plik_zrodlowy: "zrodlo/webacja/10woda/bogwody.htm"
+liczba_obrazow: 40
+---
+
+**Bogowie wody**  
+Różnica między Bogiem a historykami polega głównie na tym,  
+że Bóg nie może zmieniać przeszłości. Samuel Butler
+
+**Symbioza bezwzględnie wymuszona**
+
+Astronomia współczesna nie ma sprecyzowanej, spójnej teorii na temat powstania naszego Układu Słonecznego. Przykładem może być teoria o powstawaniu komet. Tworzy się teorię, dla której wymyśla się hipotezę roboczą mającą wytłumaczyć fragment teorii, a później układa się następną hipotezę mającą uzasadnić poprzednią roboczą. Wynika z tego mały potworek, który nie tłumaczy wszystkiego, ale za to mamy już chmurę Oorta i pas Kuipera, których nikt na oczy nie widział. Wielkie kosmiczne śmietnisko, z którego raz po raz wylatują w kierunku Ziemi komety. Co więcej, hipotezy wprowadzone na chwilę zaczynają żyć swoim życiem i zaczynają być obowiązującymi. Nie inaczej było z hipotezą Darwina, której do dziś nie sposób udowodnić, a tym bardziej wykorzenić.
+
+Porozsyłaliśmy sondy we wszystkich możliwych kierunkach, by sprawdzić, czy w naszym układzie planetarnym istnieje gdzieś woda. Wydaje się miliardy dolarów po to, by mała grupa astronomów utwierdziła się w przekonaniu, że na Marsie mogły istnieć kałuże. Przesyłane na Ziemię zdjęcia wywołują "ohy" i "ahy" bez żadnych innych korzyści. Zecharia Sitchin pisze, że współczesna astronomia zaczyna potwierdzać wszystko to, o czym pisali Sumerowie 6 tysięcy lat temu. Czy nie wyważamy dawno otwartych drzwi? Czy potwierdzanie faktów opisywanych przez starożytnych musi tak znacznie uszczuplać światowy budżet? Dlaczego nie wprowadzono roboczej hipotezy pod nazwą "sumeryjski lapsus", którą można było tańszym kosztem udowodnić lub całkowicie wykluczyć?
+
+Przykładem może być najstarsza historia naszej planety, rozbitej według Sumerów w początkach powstania Układu Słonecznego przez obcego "najeźdźcę" zwanego Mardukiem. Wtedy to powstać miały komety, pas planetoid, a połowa praZiemi zmieniła orbitę na bliższą Słońcu. Nauka coś "podejrzewa", mówiąc o jakimś potężnym i gwałtownym odgazowaniu na Ziemi 4 mld. lat temu, o uderzeniu "czegoś" w nasz Księżyc w tym samym okresie, o tym że pas planetoid musiał jakoś powstać. Nikt jednak nie wiąże tego z przekazami Sumerów. Powaga nauki wymaga wręcz odseparowania się od przekazów starożytnych. Tworzy się więc teorie robocze wspierane jeszcze bardziej roboczymi hipotezami, do których dorabia się jeszcze hipotezy pomocnicze. Potem ogłasza się nowszą teorię, zapominając o unieważnieniu poprzedniej i wychodzi z tego równanie z kilkunastoma niewiadomymi, które chce się rozwiązać metodami z czwartej klasy szkoły podstawowej.
+
+Do dziś nie ma jednoznacznych odpowiedzi na proste pytania:
+
+\- dlaczego Ziemia ma taką, a nie inną atmosferę?  
+\- dlaczego na Ziemi jest tyle słonej wody?  
+\- dlaczego Ziemia nie posiada jednolitej skorupy i która jest tak cienka?  
+\- dlaczego na Ziemi występują tak silne trzęsienia, podczas gdy na badanych globach jest to zjawisko rzadsze i mniejsze w skali?  
+\- dlaczego Ziemia wypromieniowuje więcej ciepła niż otrzymuje go od Słońca?  
+\- skąd się wziął nasz Księżyc tak stosunkowo ogromnych rozmiarów i czy Ziemia od zawsze go posiadała?  
+\- skąd się wziął pas planetoid?  
+\- z czego i jak powstały komety i skąd mają tyle wody?  
+\- dlaczego inne planety posiadają tak wiele księżyców i dlaczego jedne księżyce są kuliste, a inne nieforemne?
+
+Na te pytania nie ma jednoznacznych i jasnych odpowiedzi. Odnoszę wrażenie, że tworzenie dziwacznych i zawiłych teorii, ma na celu ukrycie własnej indolencji, a co ważniejsze stworzenie wrażenia u zwykłego człowieka, że wytężona praca naukowców jest niezbędna dla całego świata i dlatego musi pochłaniać tak wielkie fundusze. Zwykły człowiek, nie rozumiejący tych zawiłości godzi się dalej na dotowanie takiej nauki. Bo gdyby zrozumiał...
+
+U Sumerów wszystko jest klarowne i zrozumiałe. Pozwolę sobie raz jeszcze pokrótce to przedstawić.
+
+• Pierwsze powstałe planety to Merkury i praZiemia (nazywana przez Sumerów Tiamat). Następne to już "bliźniaki" Wenus i Mars, potem Jowisz i Saturn i na końcu Uran i Neptun. Zauważmy, że jak przystało na bliźnięta, posiadają podobne cechy. O Plutonie nie ma żadnej konkretnej wzmianki, być może powstał jako zupełna sierota lub był księżycem którejś z planet (Sitchin przypuszcza, że Saturna). Tu nauka nie zabiera głosu i w zadzie nic nie udowodniła. Hipotezy "sumeryjskiej" nie potwierdziła, ale też i nie obaliła.
+
+• PraZiemia, zwana też przez Sumerów "wodnym potworem" lub "dziewicą życia", okrążała Słońce po orbicie, którą dziś wyznacza pas planetoid. Była cała pokryta wodą i była prawdopodobnie dwa razy większa od dzisiejszej Ziemi. Ciekawe, że Aztekowie też twierdzą, że "woda istniała na świecie zanim została stworzona ziemia". Nauka nawet nie dotyka tego tematu.
+
+• Około 500 mln. lat po powstaniu Układu Słonecznego w jego granice wtargnął obcy przybysz. Planetę, zwaną przez Sumerów, Mardukiem otaczało 7 księżyców. Los chciał, że na drodze Marduka znalazła się Tiamat. Została rozbita. Z okruchów, wyrzuconych w przestrzeń, powstały planetoidy, a z wyrzuconej wody "zamarznięte kule brudnego lodu" czyli komety. Po wykonaniu "masakry" Marduk zniknął w głębinach kosmosu. Nauka takiego faktu też ani nie potwierdza ani nie zaprzecza.
+
+Tak twierdzą Sumerowie w swoim kosmicznym widzeniu świata. Przeciągnę trochę temat, by płynnie przejść do czasów znacznie nam bliższych.
+
+• Połowa Tiamat (nie rozbita część planety), uderzeniem wytrącona z pierwszej orbity, nie tracąc ruchu obrotowego, zamieniała ją stopniowo na dzisiejszą stając się naszą Ziemią. W wyrwę po uderzeniu zaczęła spływać woda, która w zetknięciu z gorącym płaszczem gwałtownie parowała tworząc pierwszą atmosferę Ziemi. Ruch odśrodkowy spowodował pękanie pozostałości skorupy i przesuwanie się jej części po płynnym płaszczu Ziemi tworząc pierwsze kontynenty, ponownie nadając Ziemi kształt kulisty. Kontynenty "pływając" po płynnym płaszczu Ziemi zderzały się zapewne ze sobą wypiętrzając pierwsze łańcuchy górskie. Nie sądzę, że rację mają Francuzi, umiejscawiając pękanie prakontynentu na 800 mln. lat temu. Minęło by przecież aż 3,2 mld. lat od katastrofy i z pewnością skorupa musiałaby tak stwardnieć, że jakikolwiek ruch skorupy byłby już niemożliwy. Lawa będąca niczym innym jak płynnym płaszczem Ziemi stygnie bardzo szybko, mimo że od zimna kosmosu chroni ją atmosfera ziemska. Co na to nauka? Nauka nieśmiało przesuwa do tyłu wiek rozpadu kontynentów. Na razie z 50 doszła do 800 mln. lat temu. Budujące, że wykazuje tendencję wzrostową. Do tej pory jednak nie wytłumaczono powodu odmienności składu płyt kontynentalnych i dna oceanów ani ich różnej grubości.
+
+![](../../zrodlo/webacja/10woda/slad.jpg)
+
+• Uczeni stwierdzają, że 535 mln. lat temu zaszło coś na Ziemi, co nazwano "wielkim wybuchem biologicznym". W stosunkowo krótkim czasie na Ziemi zaistniała wielka ilość i różnorodność żyjących stworzeń. Najbardziej znane to oczywiście dinozaury i inne wielkie potwory, których skamieliny do dziś są odnajdywane. Czy to jedyne znaleziska z tego okresu? Nie. Są jeszcze inne, ale zakwalifikowane jako oszustwa i fałszerstwa, jak przykładowo odcisk buta "astronauty" z Antelope Springs, odciśnięty w warstwie geologicznej sprzed 450 mln. lat, czy ślad bosej stopy odnaleziony w Mount Vermont sprzed 200 mln. lat albo ślad olbrzymiej stopy określanym na 100 mln. lat i jeszcze odcisk buta w pokładzie węgla z Fisher Canyon liczący "tylko" 1 milion lat. Ten co fałszował te ślady musiał być genialną mieszaniną artysty, paleontologa, fizyka i chemika, który po mistrzowsku opanował metodę szybkiej fosylizacji oraz doskonale wiedział, gdzie i w jaki sposób ten dowód umieścić. But zapewne mógł kupić na wyprzedaży w Cap Canaveral, ale skąd wziął stopę olbrzyma i w dodatku platfusa?
+
+Czy ktoś od 400 mln. lat doglądał co rośnie na "działce" Ziemia? Czy 65 mln lat temu ten "ktoś" doszedł do wniosku, że eksperyment odszedł bardzo od założonego kierunku i zniszczył życie na Ziemi oraz postanowił rozpocząć od nowa? Czy ten "ktoś", to Wszechmogący nazywany przez nas Pierwszym Stwórcą? Czy po stwierdzeniu "że to jest dobre" przekazał Ziemię swoim dzieciom? Jej wysokość nauka stwierdzi, że to brednie, ale i kreacjoniści powiedzą, że poniżam boską godność. I tak źle i tak niedobrze, ale staram się zrozumieć co zaszło i być może przekazuję to niestarannym językiem.
+
+Sądzę, że te dawne echa Pierwszej Historii zostały przekazane rozumnym już ludziom w kilku lapidarnych zdaniach - Bóg stworzył Niebo i Ziemię, Bóg oddzielił lądy od morza, Bóg stworzył pierwsze rośliny i zwierzęta, w końcu Bóg stworzył człowieka na wzór i podobieństwo.
+
+Znane nam przekazy starożytnych mówią, że Bogowie przebywali na Ziemi już 450 tysięcy lat temu. Ile takich "boskich wypraw" odwiedziło naszą planetę? Tego nikt chyba nie zdoła ustalić. Sumerowie twierdzą, że człowiek został stworzony do pomocy Bogom, do wyręczania ich w ciężkiej pracy w kopalniach złota, natomiast hinduskie przekazy mówią o Bogach z innych planet, którzy przybyli na Ziemię "by studiować ludzi". Można wysnuć wniosek, że tereny wschodniej Azji odwiedziła inna cywilizacja gdy rasa ludzka już istniała, co dodatkowo komplikuje sprawę gdyż według Purany opisywane epoki Ziemi liczą bez mała 4,5 mln lat.
+
+Dlaczego Ziemia w dawnych czasach miała tylu gości? Żydowska Kabała opisuje 7 zamieszkałych planet, Bogowie Egiptu swoje siedziby umieszczali w Orionie i Syriuszu itd. Czy winien temu jest rozszerzający się wszechświat? Przy takim założeniu i, dajmy na to, prędkości oddalania się układów planetarnych równej 1/100 prędkości światła, świat pierwszych Bogów oddalił się na 4000 lat świetlnych. Proxima Centaura? Gwiazda Barnarda? Czy to są Słońca ojczyzny Bogów?
+
+Nie będę dalej rozwijał tematu, gdyż postawiłem sobie inny cel. Chcę abyśmy wspólnie zastanowili się, jak przebiegać mogła "współpraca" Bogów i ludzi na Ziemi, jak te dwie cywilizacje mogły współistnieć obok siebie i jakie zależności mogły występować między nimi.
+
+![](../../zrodlo/webacja/10woda/bog.gif)
+
+Postawmy założenie, które posłuży za bazę rozważań. Podstawą jest wiara w to, co pisali starożytni - kiedyś po Ziemi stąpali Bogowie i oni to stworzyli człowieka, który miał im służyć i wykonywać pracę na ich korzyść. Takie postępowanie stwarza pewne konsekwencje. Człowiek nie mógł stanowić dla Bogów nawet cienia konkurencji, stąd forma na wzór i podobieństwo, ale bez "boskiej treści" (długość życia, widzenie na odległość, dar uzdrawiania itp.).
+
+Z przekazów starożytnych Sitchin wnioskuje, że pierwsze egzemplarze nie były doskonałe (nie mogły wstrzymać oddawania moczu, miały chore nerki i wątrobę), a przede wszystkim nie mogły się rozmnażać. Rolę matek pełniły boginie życia (było ich "dwakroć po siedem"), a nad wszystkim czuwała Ninti. W Egipcie siedem bogiń Hathor opiekowało się położnicami. Hathor oznacza "dom Horusa" i według mnie nie jest imieniem bogini. Być może chodzi tu o jakiś cały program nazywany Horus, w którym boginie miały swój udział. Nawet Izyda występuje "pod postacią Hathor".
+
+W efekcie poprawek zostaje stworzony doskonalszy człowiek i po dodaniu mu partnerki może już następować rozmnażanie bez udziału bogiń. Nauka, po przeprowadzeniu badań mitochondrialnego DNA kobiet stwierdziła, że pierwsza matka naszego rodzaju żyła w Afryce około 200-290 tysięcy lat temu. Różnice w przekazach starożytnych mogą świadczyć o tym, że stworzeń człowieka mogło być kilka i w różnych miejscach, a to może z kolei oznaczać odwiedziny kilku "cywilizacji Bogów" (stąd być może różne rasy ludzi) oraz różnice w czasie, których nie można ustalić.
+
+Dwie cywilizacje, Bogów i ludzi, rozpoczynają żyć obok siebie i nie jest to bynajmniej współpraca partnerska. Cywilizacją wiodącą jest cywilizacja Bogów, a cywilizacja ludzi jest jej bezwzględnie podporządkowana i od niej całkowicie uzależniona.
+
+• Człowiek otrzymuje zakres zadań, które musi wykonywać dla Bogów (które w późniejszej religijnej formie przekształcają się w dary, a dziś praktykowane pod postacią pieniężnej "ofiary"). Musi wydobywać określone rodzaje kopalin, szczególnie metale i kamienie szlachetne. Musi uprawiać rolę i hodować zwierzęta, by zapewnić byt Bogom i swojej społeczności.
+
+• Po osiągnięciu przez populację znaczniejszej liczebności, Bogowie wprowadzają organizację grupy dzieląc ich na wojowników, rzemieślników i rolników. Po pojawieniu się mieszańców (Bogów i ziemskich kobiet) pośredniej rasy zwanej półbogami, zostaje utworzona kasta, z której wyznaczani są królowie (namaszczenie na króla przez Boga) i kapłani, pośrednicy między Bogami i ludźmi. Wtedy też wprowadza się organizację "królestwa Bożego na Ziemi", ustanawia się prawa i kodeks etyczny dla ludzi.
+
+• Bogowie występują w roli kolonizatorów obszarów na Ziemi. W zależności od potrzeb (być może obrona przed przeludnieniem danego obszaru) przenoszą grupy ludzi na nowe, uprzednio przygotowane, tereny i stąd zapewne odkrywamy tzw. cywilizacje pojawiające się znikąd czy cywilizacje "wybuchające".
+
+• Bogowie są bezwzględnymi sędziami. Społeczności, które wymykają się spod kontroli, bądź zaczynające postępować wbrew ich nakazom, są natychmiast likwidowane. Przykładem może być biblijna Sodoma i Gomora, gdzie powrócono do współżycia ze zwierzętami, przestano respektować władzę Boga stwarzając nawet jego wysłannikom bezpośrednie zagrożenie.
+
+• Ludziom nie wolno tworzyć techniki wyższej ponad tą, którą otrzymali od Bogów. Być może takim przejawem "samodzielności" była budowa "wieży Babel"? Reakcją Bogów było natychmiastowe jej zniszczenie i rozdzielenie ekipy konstruktorów.
+
+Co w zamian ludzie otrzymują od Bogów? Otrzymują szeroko rozumianą "opiekę".
+
+\- tereny przygotowane do prac polowych zaopatrzone w wodę,  
+\- ośrodki administracyjne (pałace, świątynie, magazyny), umocnione murami, które w pewnych sytuacjach mogły służyć jako schronienie dla okolicznej ludności na wypadek niebezpieczeństwa,  
+\- podstawową wiedzę o uprawie i hodowli, wiedzę o pożytecznych i niebezpiecznych roślinach, wiedzę o budowaniu domostw - lekkich schronień budowanych z podręcznych materiałów, wiedzę o podstawach higieny i zdrowia oraz profilaktyce zdrowotnej (leczyli tylko Bogowie lub ich dzieci),  
+\- podstawowe narzędzia pracy oraz narzędzia do polowania i obrony, a także wiedzę o ich wytwarzaniu,
+
+Słowem, ludzie otrzymują tylko to, co jest niezbędne do pracy i przeżycia. Czy człowiek od zarania mógł tworzyć sztukę? Oczywiście, że mógł. Sztuka zależy od wyobraźni, zmysłu obserwacji, talentu, a także od narzędzi. Otrzymując rozum otrzymał wszystko oprócz narzędzi. Czy istnieje sztuka "pierwotna"? Istnieje, ale nie potrafimy jej sklasyfikować i umiejscowić w czasie.
+
+**Petroglify - bazgroły czy informacja ?**
+
+Istnieje pewna część materialnych zabytków historycznych, które nie cieszą się zbytnim zaufaniem archeologów. Są chyba najchętniej niezauważanymi artefaktami. Poniekąd może mają rację, bo można je bardzo łatwo podrobić, a jak dotąd archeolodzy nie potrafią ich datować. Obowiązkowa archeologia wcale nie zwraca na nie uwagi. Zajmują się nimi tylko fanatycy prehistorii dostrzegając w nich namalowaną lub wydrapaną historię najdawniejszych wieków.
+
+Oficjalna nauka twierdzi, że to są dzieła pierwszych ludzi, którzy intelektem nie przekraczali rozumu dzisiejszego dziecka, malowali wszystko co mogli sobie wymyśleć, tak jak dzisiejsze małe dziecko, które mając w ręku coś do rysowania potrafi w ciągu kilku godzin wymalować ściany i meble w całym mieszkaniu. Osobiście taki pogląd uważam za krzywdzący naszych przodków, a jednocześnie pokazujący tendencje dzisiejszych uczonych do deprecjacji naszych antenatów. Nieumiejętność metod datowania petroglifów spowodowała, że współcześni historycy określają wiek takiego znaleziska przy pomocy tylko dwóch dat - "dawno" i "bardzo dawno", co wymownie oddaje jakość współczesnej archeologii.
+
+![](../../zrodlo/webacja/10woda/petro1.jpg)
+
+![](../../zrodlo/webacja/10woda/petro2.jpg)
+
+![](../../zrodlo/webacja/10woda/petro3.jpg)
+
+![](../../zrodlo/webacja/10woda/petro4.jpg)
+
+![](../../zrodlo/webacja/10woda/petro5.jpg)
+
+Ówcześni artyści byli zapewne ograniczeni, lecz nie umysłowo jak twierdzą dzisiejsi badacze, ale ograniczeni w środkach wyrazu, a przede wszystkim ograniczeni brakiem technicznego słownika. Byli za to doskonałymi obserwatorami. Petroglify nie są fantastycznymi wizjami, są odbiciem rzeczywistości i choć nie wszyscy posiadali talent Van Gogh'a, umieli bezbłędnie wychwycić charakterystyczne cechy i takie umieszczali na rysunkach. Niestety większość uczonych nie potrafi ich odczytać nie mając porównania w dzisiejszej technice. Ogromną część tych malowideł zajmują ludzie i zwierzęta, takie jakie widzieli na codzień obok siebie.
+
+![](../../zrodlo/webacja/10woda/stopy.jpg)
+
+Jednak część rysunków przedstawia zupełnie coś innego. Znajdujemy rysunki, które być może przedstawiają technikę, której obserwator nie rozumiał, choć widział na własne oczy. Co oznaczać mogą koła ze szprychami? Przecież badacze wręcz twierdzą, że w tych czasach ludzie nie znali koła. Za to o takich kołach można przeczytać w przekazach hinduskich, tyle, że te koła latały w niebie i były niebiańskimi miastami Bogów. Czy widać tu jakieś ludzkie postacie? Można by powiedzieć, że są, ale narysowane w sposób prymitywny. Można, ale dlaczego jedna jest bez nóg? Dlaczego druga posiada dwie ręce lecz z trzema częściami chwytnymi, gdzie jedna wyrasta z ramienia? Dlaczego posiada tak niezwykłe nogi? Jaki człowiek staje tak w rozkroku? Czy ostatnie zdjęcie przedstawia istoty z gwiazd przybyłe na Ziemię w dziwnym "pucharze"? Na siłę można zobaczyć w nich Oannesa wraz z bratem bliźniakiem.
+
+Przyjrzyjmy się jeszcze rysunkom przedstawiającym odciski stóp. Bardzo dziwne, platfusowate stopy, które posiadają cztery, pięć i sześć palców. Czy kiedyś mogły istnieć takie istoty? Cztery palce znane są z opowieści o Orejonie, wizerunku Wirakoczy z Bramy Słońca oraz z istoty nazwanej "bóstwem z gwiazd" wykonanej ze złota, które historycy nazwali starożytnym liczydłem. Sześć palców spotkałem na płaskorzeźbie z Egiptu, ale występują także w opowieści Indianina imieniem Tatunca-Nara, wodza plemienia Ogha-Mongulala zamieszkującego dorzecze Amazonki. Czy jest więc niemożliwe, by w przeszłości znane były istoty o takiej ilości palców? Dla oficjalnej nauki jest to ewidentna bzdura.
+
+Tak będzie dotąd, dopóki nie wprowadzi się czynnika łączącego, jakim była wysoka cywilizacja zamieszkująca kiedyś Ziemię wraz z cywilizacją ludzi - cywilizacji Bogów.
+
+![](../../zrodlo/webacja/10woda/sefar.jpg)
+
+![](../../zrodlo/webacja/10woda/vandina.jpg)
+
+![](../../zrodlo/webacja/10woda/tassili.jpg)
+
+![](../../zrodlo/webacja/10woda/petro6.jpg)
+
+Czy postacie widniejące u góry można sobie wymyśleć? Oczywiście, że można, ale świadczyć to musi o wysokim intelekcie artysty i myśleniu abstrakcyjnym. A jeśli takie postacie istniały? Czym mógł być wielkolud z Sefar, obdarzony rogami, dziwnymi uszami i dziwnymi naroślami w łokciach. Czy postacie zwane przez Aborygenów Vandinami istniały naprawdę? Czy rysunek, ochrzczony Marsjaninem, namalowany na skałach w Tassili nie przypomina cyklopa? Nasi uczeni wiedzą najlepiej. Już same stwierdzenia: "na rysunku widać wyraźnie, że...", "rysunek z pewnością przedstawia...", "z rysunku wyciągam wniosek, że..." czy "stwierdzam z całą stanowczością..." świadczą o subiektywnej i czasem nonszalanckiej ocenie.
+
+W roku 1970, Christine Dequerlor, francuski naukowiec przypadkowo odkryła rysunki naskalne w Toro Muerto. Rysunki dawno były znane nauce, ale dopiero Francuzka nadała im rozgłos. Toro Muerto leży w Peru nad wybrzeżem Pacyfiku, na terenie wyznaczonym przez Tiahuanaco, Cusco, Nazca i Toquepala (znane z malowideł jaskiniowych), najstarszymi ośrodkami bodaj całej Ameryki Południowej. Dequerlor odnalazła tutaj tysiące rysunków, nierzadko odsłaniając je spod ziemi. Co ciekawe, musiała robić to samotnie, bez pomocy miejscowych, bo tubylcy nawet dziś omijają to miejsce lakonicznie twierdząc - "tutaj nie jest dobrze". Współczesna nauka określiła wiek rysunków na 1000-1200 lat. Na jakiej podstawie? Jaką metodą?
+
+![](../../zrodlo/webacja/10woda/toro1.jpg)
+
+![](../../zrodlo/webacja/10woda/toro2.jpg)
+
+![](../../zrodlo/webacja/10woda/toro3.jpg)
+
+![](../../zrodlo/webacja/10woda/toro4.jpg)
+
+![](../../zrodlo/webacja/10woda/toro5.jpg)
+
+![](../../zrodlo/webacja/10woda/toro6.jpg)
+
+![](../../zrodlo/webacja/10woda/toro7.jpg)
+
+Całe Toro Muerto wypełniają rysunki postaci, które nie są na pewno ludźmi. Czegoś, co przypomina latające pojazdy, na pewno nie używali ludzie. Czy to przypadek, że jest to rejon niezbyt odległy od Tiahuanaco i Cusco? Czy to przypadek, że niedaleko znajduje się Nazca, w rejonie którym, według Białego Niedźwiedzia, lądowali rozbitkowie z Kaskary? Czy jest możliwe by 1000 lat temu Ameryka Południowa przodowała w kosmicznym wyścigu? Dlaczego tylko 500 lat później konkwistadorzy hiszpańscy nie znaleźli szczątków tej techniki? Ostatnie pytanie zadałem oczywiście żartem, tak jak żartują sobie z nas współcześni historycy.
+
+Stworzenie swoistej bazy danych petroglifów oraz jej opracowanie dało by odpowiedzi na wiele pytań, a w szczególności na to, gdzie najczęściej obserwowano tego typu, być może pozaziemskie istoty. Przy badaniu wieku petroglifów dochodzi do absurdów. Określenie wieku malowideł w grocie Lascaux wykonano na podstawie badań farby przy pomocy C-14. Wynik w granicach 20 tysięcy lat. Czy ktoś z badaczy może odpowiedzieć na pytanie skąd pewność co do wieku, skoro rysunki mogły być kilkakrotnie "poprawiane" w ciągu długiego okresu czasu? Archeologia musi mieścić się w założonych granicach. Mogło być po roku..., ale nie mogło być przed rokiem.... To nie jest żadna dokładność i stąd takie wyniki - "kosmonauta" z Toro Muerto liczy 1000 lat, a europejska krowa 20000 i stąd takie wnioski - krowy w Europie udomowiono na 19000 lat przed kosmicznymi lotami pierwotnych Amerykanów. Niby logiczne.
+
+**Bogowie wody**
+
+Czy wszystkie wielkie starożytne ośrodki budowane przez cywilizację Bogów miały ścisły związek z wodą? Czy była to zachcianka, czy praktyczne myślenie? Nie od dziś wiadomo, że przeżycie człowieka jest uzależnione przede wszystkim od wody, i to od słodkiej wody. Bez pożywienia wytrzymamy bez mała 30 dni, bez wody maksymalnie 7 dni. Bez wody nie mogą istnieć żadne uprawy czy hodowla, a dzisiaj także i przemysł. Woda do życia jest niezbędna i o tym doskonale wiedziała cywilizacja Bogów. Bogowie też doskonale zdawali sobie sprawę z żywiołu wody i wiedzieli, że tylko uregulowanie dystrybucji wody da pożądane efekty w produkcji żywności i hodowli nie przerywanej powodziami.
+
+Cywilizacja ludzi nie miała ani sił ani środków do wykonania melioracji na dużych obszarach, dlatego też Bogowie zanim przystąpili do organizowania skupisk ludzkich mających za zadanie produkcję żywności, najpierw przygotowywali teren pod kątem gospodarki wodnej. Czy ta hipoteza jest możliwa? Pisałem już o Egipcie i Tiahuanaco jako o wielkich ośrodkach energetycznych i hydrotechnicznych. Czy można odnaleźć podobne? Postaram się ich poszukać.
+
+**Kompleks "świątynny" Angkor**
+
+  
+  
+
+Przypatrzmy się schematowi przepięknego kompleksu Angkor w dawnej Kambodży. Współczesna nauka jego budowę umieszcza w XII wieku ne. i przypisuje ludowi Khmerów, którego potomkowie żyją do dziś. Położony jest w północno-zachodniej części kraju nad rzeką Siemreap, która wpada do jeziora Boeng Tonle Sab. Wschodnią część kraju przecina rzeka Mekong. Muszę wspomnieć, że jeden z badaczy francuskich rozpoznał i rozpoczął badania tego gigantycznego systemu nawadniającego, ale prawdopodobnie jeszcze długo nie ujrzymy jego wniosków. Jest samotnym badaczem, a zbadanie tak wielkiego obszaru wymaga niemało czasu i niebagatelnych środków finansowych. Drugi z badaczy alternatywnych, bodaj Bouval (ten od Oriona i piramid w Giza) stwierdził, że układ kilkunastu świątyń jest wiernym odwzorowaniem gwiazdozbioru Smoka na Ziemi. Co do wierności mam pewne obiekcje, ale w ogólnych zarysach się zgadza.
+
+![](../../zrodlo/webacja/10woda/angkor2.jpg)
+
+Wróćmy do samego kompleksu Angkor i moich pytań niedzielnego badacza.
+
+• Dlaczego powierzchnia basenów wielokrotnie przekracza powierzchnię samych świątyń? Na pewno nie są to baseny kąpielowe, gdyż pełno w nich krokodyli. Nie są to też zapewne zbiorniki wody pitnej, gdyż są otwarte a tym samym podatne na zanieczyszczenia. Ponadto są zamieszkiwane i brudzone przez wszelkiego rodzaju zwierzęta wodne i lądowe.
+
+• W jaki sposób regulowano wymianę wody w zbiornikach? Stojąca woda już po niedługim czasie i szczególnie w tak gorącym klimacie wydzielała by nieznośny zapach, co w żadnym wypadku nie mogło przystawać do świętego miejsca, a tym bardziej nie służyło mieszkającym na stałe w pałacach.
+
+• Czy prawdziwe jest powszechne mniemanie, że zespół stawów i fos funkcjonował jako system obronny? Czy nie jest to żart? Przeciętnie inteligentny uczeń gimnazjum stwierdził by, że zbudowanie muru obronnego byłoby szybsze i bardziej ekonomiczne. Pasuje to jednak historykom, bo uwiarygodnia ich tezę o okrutnym władcy-tyranie, który nie liczył się ani z ludźmi ani z kosztami.
+
+• Po co budowano świątynie na środku basenów? Czy po to, by utrudnić dostęp dla wyznawców? Czy to były naprawdę świątynie lub grobowce? Są hermetycznie zabudowane. Nie zbadano w ogóle ich wnętrz i podziemi. Czy tym nie przypominają piramid w Egipcie?
+
+![](../../zrodlo/webacja/10woda/uszy1.jpg)
+
+![](../../zrodlo/webacja/10woda/uszy2.jpg)
+
+• Czy kompleks Angkor zbudowali Khmerowie w XII wieku? Następny naukowy żarcik? Sądzę, że cały kompleks zbudowała cywilizacja przedstawiona na reliefach całego Angkor. Jest to cywilizacja "długouchych", do której należał także Budda czy Wisznu. Cywilizacja, która panowała we wschodniej Azji, na Pacyfiku i być może w Ameryce Południowej. Cały kompleks został zniszczony wielkim trzęsieniem ziemi. Kiedy to mogło być? Współczesna historia nie zna takiego kataklizmu w naszych, historycznych czasach. Także historycy nie mają zielonego pojęcia, co to była za cywilizacja i w jakich czasach żyła. Brak o niej wzmianki nawet w najdłuższej pisanej historii cywilizacji tego rejonu, cywilizacji starożytnych Chin.
+
+Moim zdaniem mamy tu do czynienia z podobnym do egipskiego kompleksem energetyczno-hydrotechnicznym lecz w innym, azjatyckim wykonaniu. Do jego zadań, prawdopodobnie należało nawadnianie północno-zachodniego rejonu. Być może są jeszcze inne w rejonie Mekongu czy poniżej jeziora Boeng Tonle Sab, ale dotychczas nie odkryte. Kompleks Angkor, jak na razie, jest tylko wielką atrakcją turystyczną. Stwierdzono też istnienie ciekawego zjawiska. Co roku, w porze monsunów, jezioro Boeng napełnia się samo przez cofające się wody rzek, pchane wiatrami od oceanu Indyjskiego. Czy zjawisko to było jakoś wykorzystywane?
+
+**Teotihuacan**
+
+  
+  
+
+Starożytny kompleks znajdujący się na terenie dzisiejszego Meksyku. Już w momencie podboju tych ziem przez Hiszpanów nikt nie wiedział kto i kiedy go zbudował. Według nauki:
+
+Teotihuacan, miejscowość położona na centralnym płaskowyżu, w pobliżu dzisiejszej stolicy Meksyku. Nazwa pochodzenia azteckiego, oznacza "miejsce, gdzie ludzie stają się bogami". To wielkie centrum religijne oraz miasto zbudowano pomiędzy II w. pne. a II w. ne. Największy rozkwit miasta przypada na IV-VII wiek ne. Zamieszkiwało je 200 tys. mieszkańców. Centrum kultowe zostało zbudowane wzdłuż Alei Zmarłych, usytuowanej w osi północ-południe. Aleja ciągnęła się od Piramidy Księżyca aż do Cytadeli. Wzdłuż niej usytuowano wiele świątyń oraz Piramidę Słońca. Do budowy piramid użyto wysuszonych na słońcu cegieł i ziemi, które obłożono płytami kamiennymi. Cały kompleks poświęcono Tlalocowi - bogowi deszczu. W wyniku najazdów koczowniczych ludów zostało zniszczone i porzucone przez mieszkańców. Za czasów Azteków to wielkie miasto od dawna leżało w gruzach.
+
+![](../../zrodlo/webacja/10woda/teo1.jpg)
+
+Trudno tu o jakąkolwiek polemikę. W Teotihuacan nie ma żadnych cegieł. Jest tylko kamień. Ponadto oś kompleksu nie przebiega w linii północ-południe, a jest odchylona od północy o 18° w kierunku wschodnim. A jakież to plemiona koczownicze napadły Teotihuacan? Czy Amerykę pomylono z Azją? Nie słyszałem, by w tamtych okolicach hasały hordy w rodzaju Mongołów czy niezwyciężonej Armii Czerwonej. Najstarsi "Aztekowie" i to ci z XVI w. tak tłumaczyli powstanie Teotihuacan:
+
+Zwało się to miejsce Teotihuacan, albowiem kiedy umierali panowie, tam ich chowano. A potem budowano piramidy, które jeszcze do dnia dzisiejszego tam stoją. Piramida jest jak mały wzgórek, tyle, że wzniesiona rękoma. \[...\] W ten sposób uczyniono piramidy Słońca i Księżyca, wzniesiono je bardzo wysokie. Są jak pagórki i powiada się, że zostały wzniesione rękoma ludzkimi. Wcale nie jest to niewiarygodne, albowiem naonczas w wielu miejscach istniały wielkoludy.
+
+Indianie umieszczają budowę piramid i całego Teotihuacam w czasach, gdy po ziemi chodziły olbrzymy. Czy piramidy są grobowcami? Według nauki nie ma innej alternatywy, choć jak zwykle żadnego grobowca nie znaleziono. Znaleziono parę szkieletów, które uznano za ofiarne (a może to pierwsi archeolodzy?), ale grobowców ani śladu. Także do Teotihuacan nie zawitał jeszcze pan Bouval, a szkoda, bo "cytadela", piramida Słońca i piramida Księżyca układają się w gwiazdy "pasa Oriona".
+
+![](../../zrodlo/webacja/10woda/q1.jpg)
+
+![](../../zrodlo/webacja/10woda/q2.jpg)
+
+![](../../zrodlo/webacja/10woda/tlaloc2.jpg)
+
+Swego czasu zaistniała hipoteza, że cała "aleja zmarłych" była wypełniona wodą i stanowiła jakby gigantyczny sejsmograf. Tylko po co komu sejsmograf, który nie poda ani siły trzęsienia ziemi ani kierunku w jakim się ono zdarzyło. Sama koncepcja wody jest jednak ciekawa. Jednak zacznijmy od kilku odkryć, które jak na centrum religijne wcale do niego nie pasują.
+
+\- piramidę Słońca posadowiono na ogromnym, podziemnym zbiorniku wodnym. Co jest pod piramidą Księżyca jeszcze nie sprawdzono,  
+\- w pobliżu piramidy Słońca (między cytadelą a piramidą) odnaleziono pomieszczenie wyłożone miką, z którego prowadzą jakieś rury do innego pomieszczenia, a dwie znich do piramidy Słońca,  
+\- rzeźby "pierzastych wężów" na piramidzie Quetzalcoatla wyglądają na zakończenie jakiegoś odprowadzania wody, ale z wnętrza piramidy i wyglądają jak hydranty do napełniania basenu, który nazwano "cytadelą".  
+\- czy któryś z uczonych zwrócił uwagę na drobny szczegół, że głowy pierzastych węży i Tlaloca są prawie identyczne? Standard? Jedna "sztanca"?
+
+Czy odkrycie pomieszczenia z miką jest takie ważne? Tak. Mika jest rzadkim minerałem. Jej złoża najbliższe Teotihuacan znajdują się dopiero w USA i Brazylii. Czy historyczni Aztekowie mieli o tym pojęcie? Pomieszczenie, w którym ją znaleziono jest wykonane jak przekładaniec - pół metra kamienia i siedem cm miki. Mika jest specyficznym materiałem. Wytrzymuje temperaturę 800°C i jest doskonałym izolatorem elektrycznym. Jest odporna na rozpuszczalniki organiczne i większość kwasów. W dzisiejszych technologiach stosowana jest na hutnicze wzierniki do pieców oraz na izolatory w elektrotechnice. Jak się to ma do centrum religijnego?
+
+Wspomniałem, że na ścianach piramidy Quetzalcoatla, oprócz pierzastego węża, znajdują się też podobizny Tlaloca - azteckiego boga deszczu. Po czym można rozpoznać tego Boga? Podaję to za uczonymi (chyba meksykańskimi) i na ich odpowiedzialność.
+
+W wizerunkach twarz Boga przybiera zwykle postać maski z pierścieniami wokół oczu, wystającymi kłami i rozdwojonym językiem węża. Oprócz tego uczony M. Covarrubias, na podstawie fresków przedstawiających Tlaloca opracował "drzewo genealogiczne", obrazujące poszczególne etapy ewolucji od stylizowanej paszczy jaguara do maski boga deszczu.
+
+Niby wszystko się zgadza, tyle że Tlaloc z piramidy Quetzalcoatla oprócz pierścieni wokół oczu ma jeszcze dwa zapasowe nad oczami, kłów aż osiem, zakręcone rogi (podobnie jak "pierzasty wąż"), rozdwojonego języka nie widać, ale głowa stanowi zakończenie takiego samego "pierzastego" cielska, jakie posiada głowa węża. Jeśli ktoś nie widzi tam Tlaloca, to nie ma zadatków na archeologa.
+
+![](../../zrodlo/webacja/10woda/tlaloc.jpg)
+
+Przejdźmy zatem do mojej hipotezy. Teotihuacan było centrum energo-hydrotechnicznym. Jeśli wokół niego istniało 200 tysięczne miasto, to skąd mieszkańcy czerpali wodę? Z jednej rzeczułki? Sądzę, że cała okolica była nawadniana z tego centrum. Szkoda, że nie zbadano jeszcze podziemi piramidy Księżyca. Nic też nie wiadomo, co kryje we wnętrzu piramida Quetzalcoatla. Po co w centrum religijnym pomieszczenie odporne na wysoką temperaturę i przeskoki łuku elektrycznego? Czy ktoś już zbadał, czy na brzegach piramid nie ma śladów działania wody? Co stało na szczytach piramid? Świątynie? Skąd ta pewność skoro nic nie znaleziono. Starożytni wspominają o posągach Bogów. Tego trzymetrowego z piramidy Księżyca znaleziono u jej podnóża, a posąg z piramidy Słońca (ponoć ze złota) został przez Hiszpanów natychmiast zrzucony i przetopiony. Gdzie inne wielkie posągi Bogów? Jeden Tlaloc, znaleziony zresztą poza Teotihuacan, nie czyni wiosny. Te "drobne" 168 ton bardziej przypomina jakąś podporę czy kolumnę niż posąg Boga. Walec z dziurkami pod "brodą" wcale nie upoważnia archeologów do ujrzenia w tym konewki i nadania mu rangi Boga deszczu. Ponadto byłbym ostrożny w ujrzeniu tutaj jakiejkolwiek twarzy.
+
+Wspominałem o uczonej hipotezie, że Teotihuacan padło ofiarą najazdu koczowniczych ludów. Skoro istniało takie zagrożenie, to jak wytłumaczyć fakt, że 200 tysięczne miasto nie posiadało żadnych murów obronnych czy nawet namiastki fosy? Może miasto wybudowano w czasach, gdy takiego zagrożenia nie było? Może ci rzekomi napastnicy bohatersko atakowali tylko własne cienie? Takie hipotezy głoszą uczeni, dla których aztecka figurka kobiety z dwiema głowami jest personifikacją podwójnej kolby kukurydzy (autentyczne!).
+
+Dwustutysięczne miasto powinno mieć doskonale rozwiniętą sieć kanalizacyjną, a takiej w Teotihuacan nie odnaleziono. Gdzie załatwiano więc potrzeby osobiste? Jest to średnio 200 ton kupek dziennie oraz 250 tysięcy litrów oddawanego moczu nie licząc odchodów zwierząt. Skąd brano wodę do codziennych czynności jak jedzenie czy pranie? Skąd czerpano wodę do pojenia zwierząt domowych? Przecież są to miliony litrów na każdy dzień. A może nie potrzeba było tyle wody, bo to co widzimy nie było wcale miastem. Pozostawała by jeszcze kwestia pielgrzymów, o ile było to centrum religijne.
+
+Teotihuacan, jak sądzę, zostało wybudowane grubo przed 12 tysiącami lat i zakończyło swą działalność w wyniku światowego kataklizmu około 12,5 tysięcy lat temu. Fale tsunami, które przetoczyły się przez nie, zmyły część budowli pokrywając resztę naniesioną ziemią (może stąd teoria o zasypaniu całego miasta przez odchodzących Azteków). To jest, według mnie, główny powód jego opuszczenia. To co znajdujemy dzisiaj, to "śmieci" pozostawione przez ludzi współczesnej cywilizacji, którzy być może koczowali w jego ruinach. Samo Teotihuacan zostało zbudowane przed potopem i przez potop zostało zniszczone. Dlatego dzisiaj nikt nie wie, kto i kiedy je zbudował.
+
+![](../../zrodlo/webacja/10woda/texcoco.jpg)
+
+Być może to przypadek, a może i nie. Wszystkie piramidy w Teotihuacan mają tę samą cechę co piramidy w Egipcie. Są hermetycznie zamknięte. Do wnętrza nie prowadzą żadne widoczne wejścia. Odkrycia w ich wnętrzach dokonano po uprzednim "delikatnym" usunięciu przeszkód, czyli ordynarnym włamaniem. Wniosek nasuwa się jeden. Piramidy Teotihuacan nie są żadnymi grobowcami. Ich wnętrza kryją zapewne pomieszczenia, ale nie są to miejsca sakralne. To były zakłady dystrybucji wody, a kto wie, może i energii. Może jednak podziemne zbiorniki pod piramidami to za mało? Może jednak było coś większego? Było. Było to ogromne jezioro Tezcoco (lub Texcoco), które na własne oczy oglądali jeszcze hiszpańscy konkwistadorzy. Dawna stolica Azteków Tenochtitlan była tylko małą wyspą na tym wielkim jeziorze, które łączyło się jeszcze z czterema innymi? Dziś w tym miejscu wznosi się stolica Meksyku i mało kto pamięta, że leży na dnie wyschniętego jeziora. Czy to przypadek, że nad dawnym jego brzegiem stały piramidy w Tezcoco, Culhuacan, Chalco, Tlacopan, Azcapotzalco i Tenayuca i niedaleko od niego - Teotihuacan? Czy mamy prawo przypuszczać, że jezioro było podstawą jakiegoś (nie odkrytego jeszcze) wielkiego systemu melioracyjnego na tym terenie? Wszystko na to wskazuje, że chyba tak.
+
+Na zakończenie ciekawostka, która być może potwierdza wysoką wiedzę dawnych budowniczych. Pierwiastkiem najbardziej rozpowszechnionym we wszechświecie jest wodór, którego promień atomu wynosi 0,5291 angstremów. Hugh Harleston junior badając wymiary budowli w Teotihuacan odnalazł podstawową jednostkę miary długości, którą Majowie nazywali hunab (co w ich języku oznacza też jednostkę) i której długość wynosi 1,059 m. Połowa hunab wynosi 0,5295 m. Kolejny przypadek?
+
+**Mezopotamia**
+
+  
+  
+
+Mezopotamia to obszar leżący w dorzeczy dwóch wielkich rzek - Eufratu i Tygrysu uchodzących do Zatoki Perskiej. Od północy i wschodu otoczony przez wysokie góry. Według nauki teren najstarszych cywilizacji świata, które na tym terenie istniały już w trzecim tysiącleciu przed naszą erą. Sumerowie, Babilończycy, Akkadyjczycy, a na północy Asyryjczycy i królestwo Mari, że wspomnieć te najstarsze. Czy najstarsze? Kto budował z ogromnych elementów Persepolis i do tego na sztucznym podwyższeniu umocnionym kamiennymi płytami? Kto pozostawił po sobie zrujnowane dziś Nemrut Dag? Antioch, Zeus, Apollo czy Herkules? Chronologia Mezopotamii i Azji Mniejszej czeka jeszcze na uporządkowanie. Nas jednak powinny zainteresować piramidy zwane zigguratami.
+
+![](../../zrodlo/webacja/10woda/1agar_quf.jpg)
+
+![](../../zrodlo/webacja/10woda/1ashur.jpg)
+
+![](../../zrodlo/webacja/10woda/1chogha_zanbil.jpg)
+
+![](../../zrodlo/webacja/10woda/1eanna.jpg)
+
+Agar-Quf
+
+Ashur
+
+Chogha-Zanbil
+
+Ziggurat Eanny
+
+Według badaczy ziggurat budowano wokół wysokiego, ubitego glinianego rdzenia. W około usypywano ziemną piramidę, której następnie nadawano kształt obudowując ją glinianymi cegłami. Budowano schody prowadzące na jej szczyt, który wieńczyła świątynia. Dlaczego z taką pewnością mówi się o świątyni, skoro nie odnaleziono żadnej z nich? Czy twierdzi się tak na znanej już zasadzie - "a cóż tam innego mogło być?". Teksty starożytne mówią, że na szczycie zigguratu stał dom dla Boga, do którego mógł wejść tylko on, król i główny kapłan. Dlaczego dla jednego skromnego "domu" budowano tak potężną podstawę? Dlaczego schody prowadziły tylko na górę, a nie odnaleziono żadnych prowadzących w głąb, do środka zigguratu?
+
+Odpowiedź może być tylko jedna. Nikt nie miał prawa przebywać wewnątrz zigguratu. W jego środku działo się coś bardzo niebezpiecznego dla ludzkiego życia. To właśnie stąd ogromne rozmiary, to właśnie stąd brak jakichkolwiek wejść, to właśnie stąd potężne ogrodzenia samych zigguratów nie pozwalające ludziom znaleźć się nawet w ich pobliżu.
+
+![](../../zrodlo/webacja/10woda/1nimrud.jpg)
+
+![](../../zrodlo/webacja/10woda/1susa.jpg)
+
+![](../../zrodlo/webacja/10woda/1ur.jpg)
+
+![](../../zrodlo/webacja/10woda/1zig.jpg)
+
+Nimrud
+
+Suza
+
+Ur
+
+"Newim"
+
+Czy w środku zigguratów były jakieś niebezpieczne urządzenia? To można sprawdzić tylko poprzez dokopanie się do samego środka, a kto wie czy także nie poniżej poziomu. Na razie jest to niemożliwe. Dostępu broni arabska religia i panoszący się muzułmańscy ekstremiści. Cywilizowany świat może przeprowadzić tylko teoretyczne rozważania.
+
+Rozważając hipotezę o centrach energohydrotechnicznych na terenie Mezopotamii można zauważyć, że każdy starożytny ośrodek posiadał swój własny ziggurat oraz to, że wszystkie starożytne ośrodki tego rejonu znajdowały się w pobliżu Eufratu lub Tygrysu. można powiedzieć, że to nieprawda. Zgoda, ale patrzymy na współczesną mapę rejonu. Czy ktoś przeprowadził badania, czy w pobliżu tych ośrodków nie ma starych koryt rzecznych zasypanych dziś piaskami pustyni? Czy ktoś badał czy pod piaskami pustyni nie ma pozostałości po kanałach nawadniających? Nie, a więc nie można tego wykluczyć. Badania tego typu przeprowadzono jedynie w Ameryce Środkowej. Szukano dróg starożytnych Majów, których odnaleziono setki kilometrów, a niejako przy okazji odkryto wielką sieć kanałów nawadniających obejmującą prawie cały półwysep Jukatan. Kto mógł planować i wykonać tak gigantyczne przedsięwzięcie? Nauka zapewne "winą" obarczyłaby plemiona, które "zbudowały" wielkie miasta harmonijną współpracą. Nie obarczyła, bo nie uznała jeszcze faktu istnienia dróg i kanałów.
+
+![](../../zrodlo/webacja/10woda/sumer.jpg)
+
+Czy ktoś przeprowadził badania dlaczego brzeg Zatoki Perskiej jest tak oddalony od Eridu, Ur, Larsa czy Lagasz? Nie. Stwierdzono tylko, że jest to wynik trwającego tysiąclecia nanoszenia mułu przez obie rzeki. Możliwe, ale czy tylko? Czy nie jest możliwe, że tak wielkie ilości ziemi mogła pozostawić po sobie spływająca do zatoki cofająca się fala tsunami przed 12,5 tysiącami lat?
+
+Tak jak poprzednio opisywane ośrodki, tak i tutaj widać, że zniszczenia nastąpiły w wyniku ogromnego kataklizmu. Być może tu należy szukać przyczyn zmiany koryt rzek i oddalenia się linii brzegowej Zatoki Perskiej. To prawdopodobnie ten kataklizm zakończył działanie tego ogromnego systemu irygacyjnego, którego szczątki sporadycznie są rozpoznawane, a z reguły niezauważane i pomijane. Babilońska lista królów odnaleziona w Chorsabadzie (oznaczona numerem katalogowym WB 444) i przechowywana w muzeum Ashmolean w Oxfordzie, wymienia miasta, które istniały przed potopem na terenie Mezopotamii: Eridu, Bad-Tibira, Larak, Sippar i Szuruppak. Po potopie królestwo "ponownie zeszło z nieba" i znajdowało się w Kisz. Archeologia odnalazła niewiele.
+
+**Dolina Indusu**
+
+  
+  
+
+W latach dwudziestych ubiegłego wieku, podczas budowy linii kolejowej przez kolonistów angielskich, pewien bardziej inteligentny Anglik zwrócił uwagę na materiał służący do budowy nasypów i tak doszło do odkrycia Mohendżo-Daro i Harappy, głównych miast cywilizacji Indusu. Wiek cegieł określono na lata 2500-1500 pne. i tak już zostało. Odkryto pewne wspólne cechy miast - sztuczne wzgórze (oczywiście cytadela) oraz spore ilości cystern i "basenów rytualnych". Wielkie zdziwienie uczonych wywołał brak pałaców i świątyń, ale są pełni nadziei, bo być może nie stanowią już nasypów linii kolejowej i znajdą się w terminie późniejszym. Mohendżo-Daro okrzyknięto największym miastem rejonu i przypisano mu 40 tysięcy mieszkańców.
+
+![](../../zrodlo/webacja/10woda/indus.jpg)
+
+Na podstawie znalezisk stwierdzono ożywiony handel rejonu z pobliskimi Indiami i Sumerem. Znaleziono mnóstwo odcisków pieczęci, ale napisów do tej pory nie zdołano odczytać. Ponieważ miasta zbudowano w dość sporej odległości od Indusu, natychmiast wyciągnięto wnioski, że cysterny i baseny służyły do zbierania wody deszczowej, a stąd już bardzo blisko do Boga deszczu, czyli ogólnie do Boga wody. Miasta zapewne zostały opuszczone przez mieszkańców, bo Bóg wody nie pomny na modlitwy i błagania, spuszczał jej za mało, co doprowadziło do krachu gospodarczego i unicestwienia tak dobrze zapowiadającej się cywilizacji. Jest to oczywiście teoria doskonale pasująca do ogólnego "naukowego" schematu.
+
+Dla mnie sprawa przedstawia się nieco inaczej. Po pierwsze należy odpowiedzieć na pytanie, dlaczego miasta zostały wybudowane w tak dużej odległości od rzeki. Czy znowu mamy do czynienia z głupimi przodkami epoki kamiennej? Na pewno nie. Miasta zapewne zbudowano nad rzeką. To rzeka zmieniła koryto, ale dlaczego? Przesuwać rzeki mogą tylko kataklizmy i to kataklizmy na dużym obszarze lub ogólnoświatowe. Nauka nie bierze takiej możliwości pod uwagę, dlatego łatwiej jest wszystko zwalić na barki Boga wody. Czy ktoś badał, czy w obok Mohendżo-Daro i Harappy przepływał kiedyś Indus? Nie, bo po co. Czy w pobliżu miast odkryto jakieś duże systemy irygacyjne? Nie, bo po co. Czy przeprowadzono badania, co zawiera sztucznie usypane wzgórze w swoim wnętrzu. Nie, bo szkoda pieniędzy. To dlaczego puszcza się w obieg taką teorię jako niepodważalną i jedyną prawdę? Klasyczny przykład przypadkowego odkrycia i dostosowania do niego ogólnej teorii Bogów wody.
+
+Cywilizację Indusu z cywilizacją Sumeru łączy jeszcze jedna nić i kto wie czy nie gruba. Są to inne elementy budowlane, a przede wszystkim wymiary użytej cegły, już pasujące do ręki "ludzkiego" budowniczego. Po lewej stronie ruiny Mohendżo-Daro (sztuczne wzgórze i cytadela) po po prawej ruiny zigguratu w Chogha-Zanbil.
+
+![](../../zrodlo/webacja/10woda/cegla1.jpg)
+
+![](../../zrodlo/webacja/10woda/cegla2.jpg)
+
+Czy w tej sytuacji mamy do czynienia z nowym systemem wznoszenia budowli? Bardzo możliwe, że całość budowy mogła zostać zaplanowana przez cywilizację Bogów, a wykonanie powierzono cywilizacji ludzi. Może w tym czasie nie było już Bogów, a planowaniem zajęli się półbogowie (kształceni przez Bogów królowie lub kapłani). Rozwiązanie tej zagadki jest bezwzględnie uzależnione od dokładności datowania budowli i to nie tej stosowanej dzisiaj. Co by się stało z tak pięknie opracowaną historią, gdyby okazało się, że kiedyś Indus przepływał obok Mohendżo-Daro i Harappy, a w jego starym korycie odnaleziono by szczątki organiczne liczące ponad 12 tysięcy lat?
+
+**O czym wspomina Daeniken**
+
+Na jesieni 1979 r. Erich von Daeniken przebywał w okolicach Nazca.
+
+Jesienią, kiedy zostałem uroczyście przyjęty przez ojców miasta Nazca i przyznano mi tytuł honorowego obywatela, burmistrz zawiózł mnie swoim jeepem do podziemnych sztolni na skraju doliny Nazca. Opuściliśmy się do głębokiego na 20 metrów otworu pod wypaloną powierzchnią. Biegł tam kanał, jakiego nie powstydziliby się starożytni Rzymianie. Z potężnych ociosanych monolitów woda spływała do tunelu, w którym mogłem stanąć wyprostowany. Burmistrz Nazca zaprowadził mnie do trzech takich zejść i wszędzie napotkałem ten sam widok. Owe podziemne tunele, wyjasnił mi burmistrz, mają podobno wiele kilometrów długości, woda zaś zbierana jest wysoko w andyjskich źródłach i kierowana do sztolni w dolinie.
+
+---
+
+Burmistrz miasta Nazca zapewniał mnie, że łączna długość podziemnych kanałów wynosi kilkaset kilometrów.
+
+Na płaskowyżu Nazca nikt, oprócz Marii Reiche (badała zresztą tylko tajemnicze naziemne rysunki), nie prowadził żadnych badań, a w ogóle nikt nie zainteresował się podziemnymi kamiennymi kanałami, które być może są następnym olbrzymim systemem hydrotechnicznym.
+
+**Woda, woda i jeszcze raz woda**
+
+Z opisanych przeze mnie egipskich piramid, Tiahuanaco i powyższych wynika, przynajmniej dla mnie, kilka wniosków:
+
+• Cywilizacja Bogów stworzyła potężne bazy dystrybucji wody zapewniającą efektywną produkcję rolną i hodowlę dla wyżywienia populacji ludzkiej i swojej. Powstawały one w oparciu o naturalne zbiorniki wody (Tiahuanaco, Teotihuacan), sztuczne zbiorniki retencyjne (jezioro Mojrisa) lub rzeki (Eufrat, Tygrys, Indus). Są to tylko nieliczne przykłady. Energię potrzebną do działania tych systemów czerpano z budowanych "centrów" w postaci piramid różnego typu z zigguratami włącznie - ogromnych, hermetycznie zamkniętych budowli, do których dojście do wewnętrznych urządzeń mieli zapewne nieliczni poprzez tajne i najprawdopodobniej podziemne wejścia.
+
+• Po utworzeniu takiej bazy Bogowie przenosili część ludzkiej populacji, tworząc nowe ośrodki cywilizacyjne, zapobiegając przy tym przeludnieniu już istniejących. Stąd, być może, "cywilizacje znikąd" czy zagadkowe "wybuchy cywilizacji". Stąd, być może, w starożytnych przekazach - "przybyliśmy tu zza morza", "Bóg przyprowadził nas do ziemi obiecanej", "przybyliśmy tu z dalekiego kraju" czy "nasza ojczyzna jest hen za morzem".
+
+• Oglądając zniszczenia można dojść do wniosku, że kres działania tych ośrodków nastąpił w wyniku bardzo wielkiego trzęsienia ziemi, być może ogólnoświatowego, który należało by powiązać z "wielkim uskokiem..." sprzed 12,5 tysiąca lat temu. Ośrodki te nie zostały odbudowane z braku sił i środków. Wtedy już cywilizacja Bogów na Ziemi być może należała do przeszłości.
+
+• Zniszczenie systemów nawadniania zmusiło ludzi do migracji w pobliże wielkich zbiorników wodnych i rzek, gdzie już sami musieli tworzyć swoje małe systemy melioracyjne, a także wykorzystywać pozostałe "fundamenty", jak to widać w Egipcie czy obu Amerykach. Jest to też chyba początek kataklizmów powodzi nawiedzających ludzkie siedziby.
+
+• Postawiłbym także hipotezę dotyczącą krwawych obrzędów (np. Moche) wykonywanych w celu wywołania deszczu. Być może po kataklizmie ocaleli nieliczni, którzy potrafili ponownie uruchomić mechanizmy nawadniające działające w piramidach. Gdy ich zabrakło i mechanizmy uległy awarii, wody znów zaczęło brakować. Niektóre grupy zaczęły migrować, a w niektórych doszło do takiego wypaczenia "wiary", że zaczęto błagać "Bogów deszczu" o wodę składając najwyższe ofiary, ofiary z ludzi.
+
+Archeologia powinna zrewidować swój pogląd w ocenie wielkich systemów melioracyjnych w starożytności oraz stworzyć całościową i spójną teorię, gdyż inaczej w dalszym ciągu będziemy słyszeć, że cały starożytny świat czcił przede wszystkim bogów wody.

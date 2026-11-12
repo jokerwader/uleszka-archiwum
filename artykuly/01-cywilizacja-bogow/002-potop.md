@@ -1,0 +1,245 @@
+---
+id: "01potop/potop"
+tytul: "Potop"
+dzial: "Cywilizacja Bogów"
+adres_oryginalny: "http://www.uleszka.net/webacja/01potop/potop.htm"
+plik_zrodlowy: "zrodlo/webacja/01potop/potop.htm"
+liczba_obrazow: 3
+---
+
+**Potop - czy tylko jeden?**  
+Albowiem zagłada spotka cały świat i przyjdzie wielka fala, i zaleje całą  
+ziemię, i wszystko co się na niej znajduje ulegnie zagładzie. \[Henoch\].
+
+**Źródła pisane - Starożytni**
+
+Z wieścią o Potopie mamy do czynienia już od najmłodszych lat. Stykają się z nią wszyscy, zarówno wierzący jak i dalecy od tego. Wszyscy bez wątpienia zadają sobie te same pytania - czy był naprawdę, kiedy to było, jak wyglądał, czy faktycznie uratowała się tylko para ludzi? Wejdźmy w ten w gąszcz wiadomości na jego temat. Będzie to ciekawa wędrówka choć nie ma pewności czy przy jej końcu ujrzymy chociaż małe światełko.
+
+**Stary Testament** - A potop trwał na ziemi czterdzieści dni i wody wezbrały, i podniosły arkę ponad ziemię. Kiedy przybywało coraz więcej wody i poziom jej podniósł się wysoko ponad ziemią, arka płynęła po powierzchni wód. Wody bowiem podnosiły się coraz bardziej nad ziemię, tak że zakryły wszystkie góry wysokie, które były pod niebem. Wody się więc podniosły na piętnaście łokci ponad góry i zakryły je. A wody stale się podnosiły na ziemi przez sto pięćdziesiąt dni.
+
+---
+
+Ale Bóg, pamiętając o Noem, o wszystkich istotach żywych i o wszystkich zwierzętach, które z nim były w arce, sprawił, że powiał wiatr nad całą ziemią i wody zaczęły opadać. Zamknęły się bowiem zbiorniki Wielkiej Otchłani tak, że deszcz przestał padać z nieba. Wody ustępowały z ziemi powoli, lecz nieustannie, i po upływie stu pięćdziesięciu dni się obniżyły. Miesiąca siódmego, siedemnastego dnia miesiąca arka osiadła na górach Ararat. Woda wciąż opadała aż do miesiąca dziesiątego. W pierwszym dniu miesiąca dziesiątego ukazały się szczyty gór.
+
+**Zusiudra (Utnapisztim)** - Ziusudra słuchał stojąc podle niego, stojąc po lewej stronie ściany...  
+Ściano, chcę ci rzec słowo, słowo moje zachowaj, zaprawdę rady mojej wysłuchaj.  
+Wszystkie siedziby zaleje potop, który przejdzie nad stolicami, aby zniszczyć nasienie ludzkości...  
+Ostateczny to wyrok, słowo zgromadzenia (bogów), słowo wypowiedziane przez Ana, Enlila i Ninhursang.  
+\[kolejny fragment jest zniszczony\]  
+Wszystkie niszczycielskie wichury i nawałnice razem sunęły ławą,  
+potop przetoczył się nad stolicami.  
+
+![](../../zrodlo/webacja/01potop/gilgam.gif)
+
+Po siedmiu dniach i nocach, po potopie, który przewalił się przez kraj,  
+na wysokiej wodzie wicher kołysał barką.  
+Bóg Utu pojawił się roztaczając światło na niebo i ziemię.  
+Ziusudra przebił otwór w barce i promienie boga Utu rozbłysły w niej.  
+Wówczas król Ziusudra padł na twarz przed bogiem Utu!  
+Król ubił woły i liczne owce (na ofiarę):  
+na życie nieba, na życie ziemi, niech będą zaklęci.  
+An i Enlil, na życie nieba, na życie ziemi niech będą zaklęci!...  
+Za ich sprawą pojawiły się (znów) stworzenia, które podniosły się z ziemi.  
+Król Ziusudra padł na twarz przed Anem i Enlilem.  
+An zaś i Enlil... obdarzyli go życiem podobnym boskiemu,  
+podnieśli go do wiecznego życia podobnego boskiemu.  
+Wtedy to króla Ziusudrę, który... nasienie ludzkości ocalił,  
+osiedlili w krainie zamorskiej, w kraju Diimun, w kraju, skąd wschodzi bóg słońca Utu.
+
+**Potop Deukaliona** - \[...\] na radzie niebieskiej postanowiono wytępić ród ludzki potopem. Wysłano wiatry, aby zewsząd pospędzały chmury. Z pierwszym gromem spadły wielkie deszcze. Morza i rzeki wystąpiły z brzegów. Najwyższe domy skryły się pod wodą. Nie było granicy między ziemią i morzem. Człowiek żeglował po polach, po których niedawno chodził za pługiem. Nereidy, zdumione i przerażone, pływały po ulicach miast zatopionych. Wszystko ratowało się bezładną ucieczką. Z białych fal wychylały się płowe grzywy lwów, a wilk prowadził trzodę owiec do nie istniejącej przystani. Ptaki znużone lotem, nie widząc nigdzie oparcia, spadały w głębinę. Ziemię zaległa cisza i pustka. Bogowie ze szczytów Olimpu słyszeli tylko oddech bezkresnego morza. Najwyższe góry znikły. Ponad falami wyrastał jeden wierch Parnasu, w Beocji.
+
+---
+
+Na bezbrzeżnym oceanie kołysało się nędzne czółno, a w nim drżało z trwogi dwoje staruszków: Deukalion i Pyrra. Ich słaby wzrok nie mógł ogarnąć całego bezmiaru klęski. Po dziewięciu dniach i dziewięciu nocach wędrowania czółno stanęło na szczycie Parnasu. Wody zaczęły opadać. Z wolna ukazywały się wzgórza, po nich wyższe płaszczyzny, wreszcie niziny pełne szlamu, w którym leżały trupy ludzi i zwierząt. \[...\] Dookoła świat się odnawiał. Z użyźnionej wielkimi deszczami gleby rodziły się rośliny, ptaki i zwierzęta. Niezmierna, zielona puszcza przykryła ziemię, nad którą śpiewały skowronki, przelatywały bociany i jaskółki. Dopiero z wolna i gdzieniegdzie podnosiły się nieśmiało pierwsze osady. Budowało je plemię wyrosłe z kamieni, a więc zdatniejsze do życia, wytrzymałe na ból i trudy. Deukalion, jak patriarcha, chodził wśród swoich dzieci, nauczał ich rzeczy niezbędnych do życia, krzewił cześć należną bogom i stawiał świątynie. Z okien dworzyszcza olimpijskiego Dzeus widział, jak świat dźwigał się do nowych przeznaczeń. Przekonał się niebawem, że ludzie, niepamiętni kary, jaka spotkała ich poprzedników, bynajmniej nie stają się lepsi, ale już więcej nie zsyłał na nich potopu.
+
+Nie wszystkie źródła pisane podają wprost, że opisują Potop. Możemy tylko wnioskować, że chodzi o Potop na podstawie opisu kataklizmu, choć nie wszędzie występuje tylko woda.
+
+**Codex Troano (tłum. Le Plongeon)** - W roku 0. Kan, w dniu 11. Muluc miesiąca Zac rozpoczęły się straszne trzęsienia ziemi, trwające bez przerwy do dnia 13. Chuen (trzy dni). Kraj bagnistych wzgórz, kraj Mu, padł ich ofiarą. Dwukrotnie wzniesiony w górę, w ciągu jednej nocy zniknął po nieprzerwanym działaniu podwodnych wulkanów. Ląd unosił się i opadał wielokrotnie. W końcu ziemia się zapadła i dziesięć państw zostało porozrywanych na części i zniszczonych. Zatonęły wraz z ludnością, liczącą 64 miliony, 8000 lat przed napisaniem tej księgi.
+
+**Chilam Balam (V część)** - ...Stało się, gdy Ziemia zaczęła się odradzać. Nikt nie wiedział, co może nastąpić. Spadł ognisty deszcz, spadł popiół, kamienie i drzewa chyliły się ku ziemi. Kamienie i drzewa zostały rozbite... Zerwał się Wielki Wąż z nieba... i spadły na ziemię jego skóra i kawałki jego kości... a strzały trafiały sieroty i starców, wdowców i wdowy, którzy jeszcze żyli, choć już sił nie mieli do życia. I zostali oni pogrzebani na piaszczystym wybrzeżu morza. Wtedy nadeszły potworne fale wody. A wraz z Wielkim Wężem spadło na ziemię niebo i zatopiło ziemię...
+
+**Platon - Kritias** - Kiedy zaś bogowie czyszczą Ziemię wodami i zalewają ją, wtedy tylko wieśniacy i pasterze, którzy zamieszkują góry, zachowują się przy życiu, podczas gdy mieszkańców waszych miast niosą rzeki do morza. \[...\] Tak, Solonie, w pewnym okresie, wyprzedzającym największą katastrofę spowodowaną przez wodę, miasto Ateńczyków było najlepsze w wojnie, a przede wszystkim było rządzone zgodnie z dobrymi prawami. \[...\] W następnym okresie czasu pojawiły się trzęsienia ziemi oraz powodzie; w ciągu jednego dnia i jednej strasznej nocy cała wasza armia w jednym momencie zapadła się naraz pod ziemię. Podobnie znikła także wyspa Atlantyda, pochłonięta przez morze. Dla tej właśnie przyczyny to morze jest tam jeszcze do dzisiejszego dnia nieżeglowne i nawet niezbadane wskutek przeszkód, jakie stawia dno pełne szlamu i płycizn - szlamu zostawionego przez pochłoniętą wyspę.
+
+**Oera Linda Boek** - Podczas całego lata Słońce kryło się za chmurami, jak gdyby nie chciało więcej patrzeć na ziemię. Panowała tu wieczna cisza i wilgotna mgła zawisła na kształt mokrego żagla ponad domami i polami. Powietrze było ciężkie i przygnębiające, a ludzie nie wiedzieli, co to radość i wesele. W czasie tej ciszy rozpoczęło się trzęsienie ziemi, jak gdyby zwiastujące jej zgon. Góry zionęły ogniem i płomieniami. Niektóre znów zapadały się w łono ziemi, w innych natomiast miejscach góry wyrosły ponad powierzchnię ziemi. Aldland, nazywana przez żeglarzy Atlan, zniknęła, a rozszalałe fale wzniosły się tak wysoko ponad góry i doliny, że wszystko zostało zniszczone, a ci, którzy uciekli przed ogniem, zostali strąceni do wody...
+
+---
+
+Nie tylko w kraju Finda ziemia płonęła, lecz także w Twiskland (Germania). Wszystkie lasy płonęły jeden za drugim, a gdy wiatr powiał w tej części ziemi, cały nasz kraj został pokryty popiołem. Rzeki zmieniły swój bieg, a u ich ujścia powstały nowe wyspy z piasku i z tego, co woda naniosła. Trwało tak trzy lata, kiedy nastąpił wreszcie spokój i lasy ukazały się ponownie... Wiele krajów zniknęło pod wodą, w innych miejscach wynurzyły się nowe lądy ponad poziom wody, w Twiskland lasy zostały zniszczone w połowie kraju.
+
+**Kronika Akakor** - Tatunca Nara opowiada następnie o dwóch globalnych katastrofach, które wyniszczyły niemal całą ludzkość. W roku 10 468 prz. Chr. miał mieć miejsce niewyobrażalny potop związany z drastyczną zmianą klimatu:  
+"Oto wieść o zagładzie ludzkości. Co zdarzyło się na Ziemi? Kto sprawił, że zadrżała? Kto sprawił, że zatańczyły gwiazdy? Kto kazał wodzie wytrysnąć ze skał? \[...\] Było straszliwie zimno i lodowaty wicher smagał ziemię. Było straszliwie gorąco i ludzie płonęli od swych oddechów. Ludzie i zwierzęta uciekali w panicznym strachu. Rozpaczliwie biegali we wszystkie strony. Próbowali wspinać się na drzewa, a drzewa odrzucały ich daleko od siebie. Próbowali dostać się do jaskiń, a jaskinie zapadały się nad nimi. Co było u dołu, zostało wywrócone do góry. Co było na górze, zniknęło w otchłani \[...\]".
+
+**Koniec trzeciego świata według Indian Hopi** - Kaskara "Ojczyzna" lub "Kraj Słońca". Kontynent na Pacyfiku. Ameryka Południowa dopiero wynurzała się z oceanu. W tym świecie na Kaskarę napadli ludzie z Kraju Wschodu - Talawaiczique. W tym świecie nastąpiła katastrofa, w wyniku której Kraj Wschodu pogrążył się w oceanie. Kaskara także zaczęła pogrążać się w oceanie, ale w czasie dłuższym. Trzeci Świat pogrążył się w oceanie.
+
+Z mapki poniżej widać, że przekazy o potopie (wielkiej wodzie czy wielkiej fali) spotkać można prawie na całej kuli ziemskiej. Zapewne nie są oznaczone wszystkie miejsca, bowiem etnografia jest stosunkowo młodą dziedziną. Pierwsi etnografowie swe wiadomości zdobywali zgoła w ekstremalnych warunkach i zapewne w wolnych chwilach pomiędzy walkami z tubylcami. Nie mamy też absolutnej pewności, czy niektóre przekazy nie zostały celowo "skażone" przez misjonarzy chrześcijańskich.
+
+![](../../zrodlo/webacja/01potop/legendy.jpg)
+
+Wnioski są jednak interesujące. Przekazy o potopie są znane na całym niemal świecie. Trudno uwierzyć, że w tak oddalonych od siebie miejscach można by wymyśleć identyczną historię. Potop jednak musiał być i to o ogólnoświatowym zasięgu. Białe plamy na mapie (Azja, Afryka, Malajazja, Australia) mogą mieć kilka przyczyn: albo nie znamy przekazów z tamtych stron, albo na te tereny nie dotarły fale powodzi lub też w czasie potopu po prostu nie było tam ludzi, co jest być może niemożliwe ale nie wykluczone.
+
+**Co wiemy na temat potopu**
+
+Zajmijmy się na początek próbą zdefiniowania zjawiska nazwanego przez nas Potopem. Casey Wadowski zajmujący się problematyką potopu proponuje taki opis:
+
+Krótkotrwałe, nagłe i jednoczesne wystąpienie wszystkich wód na powierzchni Ziemi (oceanów, mórz, jezior i rzek) ze swych stałych "siedzib" i zalanie całej powierzchni Ziemi łącznie z najwyższymi górami, zagłada ogromnej większości rodzaju ludzkiego i populacji zwierząt, zniszczenie prawie całego dorobku technicznego i kulturalnego ówcześnie żyjącej cywilizacji.
+
+Oczywiście nie jest to ostateczna i jedynie prawdziwa definicja, ale nasz punkt wyjścia.
+
+**Czy możemy określić kiedy to było?**
+
+  
+  
+
+Należy chyba przyjąć, że jeden ze znanych nam, ostatnich wielkich kataklizmów prawdopodobnie wydarzył się około 12,5 tysiąca lat temu. Tu nauka mówi o zakończeniu epoki lodowcowej "z wielkim hukiem", o gwałtownej zmianie klimatu, o bliżej niesprecyzowanym kataklizmie. Także na okres 12,5 tysiąca lat temu Artur Poznansky ocenia czas kataklizmu w Tiahuanaco.
+
+Czy był to jedyny Potop? Prawdopodobnie nie. Według listy królów babilońskich (WB 444) po Potopie, w Sumerze rządziło 23 królów przez około 24,5 tysiąca lat. Zakładając, że mówią o Potopie, ale nie o ostatnim kataklizmie sprzed 12,5 tysiąca lat temu, należałoby umiejscowić go na minimum 37 tysięcy lat temu (24,5+12,5). Drugą "datę" podaje Zecharia Sitchin: pierwszy raz Nefilim odwiedzili Ziemię 450 tys. lat temu. Potop miał miejsce po 120 okrążeniach Nibiru wokół Słońca jakie upłynęły od pierwszych odwiedzin. Obliczenia wskazują na 18 tysięcy lat przed napisaniem tekstu przez Sumerów. Zakładając, że pierwszego opisu tego Potopu dokonano z początkiem panowania królów po Potopie, datę należy przesunąć jeszcze głębiej i to na 55 tysięcy lat temu (18+24,5+12,5). On sam umieszcza Potop na ponad 20 tysięcy lat temu. Gdyby jednak za pierwsze odwiedziny przyjąć datowanie Diodora (473 tysiące lat) Potop odsunie się jeszcze dalej, bo aż na 78 tysięcy lat wstecz i wygląda to dość ciekawie, bo Abu Zaid Al-Balhi budowę piramid umieszcza na 72 tysiące lat temu.
+
+Prześledźmy tok rozumowania. Sumerowie nie mogli pisać o ostatnim kataklizmie, gdyż królowie "po Potopie" panowali około 24,5 tysiąca lat, więc czas od ostatniego kataklizmu jest po prostu za krótki, a i ostatnią cywilizację Sumerów umieszczamy około 5 tysięcy lat temu. Zakładając, że tego typu wydarzenie powinno rozpoczynać historię każdej cywilizacji, to czas zapisu należało by umieścić w początkach tej cywilizacji. Dlaczego te najstarsze źródła nie wspominają o kataklizmie opisywanym przez Platona? Sądzę, że ta cywilizacja nie była świadkiem tego kataklizmu. Jej już nie było lub całkowicie zginęła w tym właśnie kataklizmie.
+
+**Stary Testament** - I żył Adam sto i trzydzieści lat, i spłodził syna na podobieństwo swoje, i na wyobrażenie swoje, i nazwał imię jego Set. • A Set żył sto lat i pięć lat, i spłodził Enosa. • A Enos żył dziewięćdziesiąt lat, i spłodził Kenana. • Kenan też żył siedemdziesiąt lat, i spłodził Mahalaleela. • A Mahalaleel żył sześćdziesiąt i pięć lat, i spłodził Jareda. • Żył też Jared sto sześćdziesiąt i dwa lata, i spłodził Enocha. • A Enoch żył sześćdziesiąt lat, i pięć, i spłodził Matuzalema. • I żył Matuzalem sto osiemdziesiąt i siedem lat, i spłodził Lamecha. • Lamech żył sto osiemdziesiąt i dwa lat, i spłodził syna. I nazwał imię jego Noe.
+
+---
+
+Noe miał sześćset lat, gdy nastał potop na ziemi. \[...\] W roku sześćsetnym życia Noego, w drugim miesiącu roku, siedemnastego dnia miesiąca, w tym właśnie dniu trysnęły z hukiem wszystkie źródła Wielkiej Otchłani i otworzyły się upusty nieba;
+
+Potop biblijny nastąpił gdy Noe miał sześćset lat. Noe, według Biblii, urodził się 1056 lat po stworzeniu Adama, a więc Potop na Ziemi miał miejsce 1656 lat po stworzeniu pierwszego człowieka (według Biblii). Czas trwania biblijnego Potopu odbiega także od pozostałych. Według Biblii wody na Ziemi utrzymywały się przez 340 dni (40 dni i nocy padał deszcz, 150 dni wody wzbierały i 150 dni wody opadały), podczas gdy inne opisy wskazują na znacznie krótsze okresy.
+
+Czy można połączyć Potop biblijny z potopem sumeryjskim? Wiemy dziś, że opowieści Starego Testamentu są kompilacją dużo starszych, sumeryjskich tekstów, więc może mówią o tym samym Potopie. Dlaczego więc takie rozbieżności o czasie jego trwania? Tego nie potrafię wytłumaczyć. Możliwe, że czas trwania Potopu biblijnego wyolbrzymiono, by podnieść jego rangę jako wielką karę za grzechy ludzi? Skoro tak, to chyba popełniono błąd. Biblijny Noe nie miał żadnych szans na zmieszczenie zapasu żywności i wody pitnej dla siebie i zwierząt na okres prawie całego roku w małej arce. Autorzy hebrajscy albo źle przetłumaczyli sumeryjski tekst lub po prostu przedobrzyli.
+
+Grecki Potop Deukaliona łączony jest z wiekiem spiżowym (miedzianym, brązowym) ludzkości, w którym to Zeus za nieprawości i upadek moralny ludzi ukarał ich Potopem. Według Owidiusza Giganci pojawiają się w wieku żelaznym, a więc po Potopie Deukaliona. Natomiast walka Zeusa z Gigantami ma miejsce przed wiekiem spiżowym, gdyż w wieku spiżowym panuje on już niepodzielnie. Czy Giganci to nie tylko jeden krótki okres w dziejach Ziemi? Gdzie więc umieścić Potop Deukaliona? Nie wiem, chociaż... Platon w Kritiasie pisze:
+
+Miały bowiem miejsce w ciągu tych dziewięciu tysięcy lat liczne i okrutne potopy. \[...\] Najpierw, Akropol nie wyglądał tak, jak teraz. Teraz mianowicie jedna jedyna noc potopu roztopiła ziemię i obnażyła to miejsce do naga, podczas gdy w tym samym czasie wystąpiły trzęsienia ziemi i trzeci z rzędu zalew wody przed katastrofą z czasów Deukaliona.
+
+Wynikało by z tego, że potop Deukaliona był czwartym w ciągu 9 tysięcy lat (od kataklizmu sprzed 12,5 lat do czasów Platona). Literatura grecka wymienia następujące - potop Megarosa, Ogygesa, Dardanosa i Deukaliona, przy czym Bellamy umieszcza potop Dardanosa za potopem Deukaliona. W roku 1948 Claude Schaeffer, archeolog francuski, wystąpił z tezą o gwałtownych załamaniach kultur Bliskiego Wschodu w latach 2300, 1500 i 1200 r. pne. spowodowanych trzęsieniami ziemi.
+
+Przenieśmy się na tereny rzadko (lub wcale) kojarzone z Potopem. Nie wszyscy zapewne wiedzą, że także Egipt doznał w zamierzchłych czasach katastrofy Potopu. Według przekazów starożytnych Egipcjan:
+
+Kiedy Egipt został zalany wodą pojawił się bardzo wielki Bóg, który już od dawna żył na Ziemi i wydobył kraj z wody i błota, budując groble i tamy na Nilu. Z tego też powodu Egipt nosił nazwę "kraju wydobytego". Bogiem tym był Ptah.
+
+Cytat przytoczyłem za Arnoldem Mostowiczem. Według Greków, piszących u schyłku ery przed Chrystusem, Egipt nie doznał potopu przez ostatnie 8 tysięcy lat. Czy to wspomnienie może dotyczyć Potopu, o którym piszą Sumerowie i wspomina Biblia?
+
+![](../../zrodlo/webacja/01potop/potop3.jpg)
+
+Podjąłem próbę naniesienia zdarzeń na osi czasu. Widać wyraźnie różnicę czasu pomiędzy Potopem na Bliskim Wschodzie a pozostałymi. Czy to może oznaczać, że Potopów było kilka? Prawdopodobnie. Wynika także jeszcze jeden wniosek. Z przekazu Platona statystycznie wynika, że kataklizm dotyka Europę co 2-2,5 tysiąca lat. Starożytni Grecy wojnę trojańską umieszczają około 1200 lat pne. Gdzie zatem jest prawdziwa Troja? Odkryte ruiny przez Schliemanna nauka od dawna kwestionuje jako prawdziwą Troję. Czy pozostałości Troi znajdują się gdzieś na dnie morza, a my jesteśmy dopiero w przededniu odkrycia jej ruin? Czy można łączyć jej zniknięcie z potopem Dardanosa? Teoretycznie można założyć wszystko. Potop ten można umieścić w terenie, gdzie być może istniała Troja, w okolicach morza Marmara. Morze to istnieje między dwoma cieśninami - Bosforem i Dardanelami. Oglądając mapę nie sposób oprzeć się wrażeniu, że obie cieśniny wyglądają jak głębokie pęknięcia w skorupie ziemi, a ich przedłużeniem jest podwodny rów przebiegający północnym skrajem morza Marmara. Jak wielkie musiało być trzęsienie ziemi, które to spowodowało? Kondratow w książce Tajemnice trzech oceanów pisze:
+
+**Kondratow** - W mitologii greckiej mówi się o trzech potopach: Ogygesa, Deukaliona i Dardanosa. Historię potopu Ogygesa przytacza Warron, pisarz rzymski z I wieku pne. Pisał on, że w czasach Ogygea, dawnego króla Attyki, czynne były wszystkie wulkany na Morzu Egejskim i 9 miesięcy panowała noc. Fale potopu zatopiły nawet na jakiś czas Attykę, w której potem przez kilkadziesiąt lat nikt nie mieszkał. Na temat potopu Dardanosa Diodor Sycylijczyk, historyk grecki w I wieku pne. pisał, że zapadła się wtedy część wyspy Samotraki na Morzu Egejskim i niektóre części Azji Mniejszej, a między Morzem Czarnym a Egejskim ukształtowała się łączność, taka jak dziś, poprzez cieśniny Dardanele i Bosfor. \[...\] Geolodzy współcześni uważają, że \[...\] 8-9 tys. lat temu zaczęła się nowa transgresja Morza Czarnego i baseny Morza Czarnego i Śródziemnego połączyły się.
+
+Do diagramu wstawiłem też ery Mezoameryki (zwane Słońcami). Za początek naszej już ery (V Słońca) przyjąłem kataklizm sprzed 12,5 tysiąca lat. Jak widać, przełomy poszczególnych Słońc nie korelują z innymi kataklizmami, chociaż koniec pierwszego "Słońca" wypada w pobliżu Potopu Sitchina. Być może kataklizmy Ameryki Środkowej nie były notowane w Europie. Najprawdopodobniej jednak nie znamy korelacji ich wydarzeń z naszym, europejskim kalendarzem. Z drugiej jednak strony, czy wiek poszczególnych "Słońc" odczytano prawidłowo? Czy ilość podanych lat nie jest jakąś wielokrotnością 52-letnich cykli? Nie uwzględnia się przecież w obliczeniach czwartego kalendarza zwanego "księgą lat". Wnioski mogą być następujące: albo przekazy mówią o różnych kataklizmach, albo my wiemy o niewielu. Generalnie wróciliśmy do punktu wyjścia. Dzisiejsza wiedza nie pozwala na stworzenie logicznej chronologii nawet dla ostatnich kilkudziesięciu tysięcy lat.
+
+Moja konkluzja to ta, że Potopu sumeryjskiego i biblijnego nie powinno się łączyć z kataklizmem z przed 12,5 tysięcy lat. Z przekazów starożytnych można wywnioskować, że Potop sumeryjski to czas sprzed co najmniej 37 tysięcy lat. Czy to w tych czasach żyli patriarchowie biblijni? Czy cywilizacja istniejąca po tym Potopie była też świadkiem Potopu sprzed 12,5 tysiąca lat? Brak sumeryjskich przekazów z tego okresu skłania do wniosku, że w tym czasie cywilizacja ta mogła już nie istnieć. Przekazy urwały się. Pojawiły się dużo, dużo później już w innej rzeczywistości, lecz bez dopisanego ciągu dalszego. Dlatego być może historia Żydów nie ma odzwierciedlenia w pisanych źródłach Egiptu. Czy miała miejsce tysiące lat wcześniej?
+
+Po Potopie sprzed 12,5 tysiąca lat historia zaczęła toczyć się niejako od nowa. Według Egipcjan w okresie 8 tysięcy lat potopów było kilka, Platon w okresie 9 tysięcy lat wymienia ich trzy plus potop Deukaliona. Biorąc pod uwagę wszystkie źródła starożytnych należy zauważyć, że nie wszystkie "Potopy" to tylko woda. Powinniśmy raczej mówić o okresowych kataklizmach niszczących ludzi i ich dorobek, gdzie woda była jednym z niszczycielskich czynników.
+
+**Co mogło być przyczyną Potopu?**
+
+  
+  
+
+Woda. Banalne, prawda? Ale jak tę wodę zmusić do zatopienia najwyższych gór i do tego jednocześnie i wszędzie? Równomierne zatopienie całego świata nie wchodzi w rachubę. Z prostego wyliczenia wynika, że po prostu zabrakło by wody. Druga metoda to "potrząśnięcie tą wanną", jaką jest Ziemia lecz Kto lub Co może tego dokonać? Stan mojej wiedzy podparty tezami C. Wadowskiego podsuwa trzy rozwiązania:
+
+1.  Krótkotrwałe działanie grawitacji dużego ciała niebieskiego.
+-   Upadek wielkiego meteorytu do któregoś z oceanów.
+-   Gwałtowny wstrząs całej skorupy Ziemi, czyli "wielki uskok skorupy ziemskiej".
+
+Poddajmy to ogólnej analizie.
+
+Krótkotrwałe działanie grawitacji dużego ciała niebieskiego.
+
+Księżyc oddziaływując grawitacyjnie na Ziemię jest w stanie spowodować przypływ o wysokości kilkudziesięciu metrów. Nie stwierdzono znaczącego wpływu Słońca na przypływy, podobnie jak i Jowisza. Jak wielkie musiało by być ciało niebieskie mogące spowodować spowolnienie (lub nawet krótkie zatrzymanie) ruchu obrotowego Ziemi i spowodować przypływ o wysokości kilku kilometrów? Sądzę, że musiało by mieć przynajmniej wielkość Ziemi. Siła wzajemnego oddziaływania grawitacyjnego jest wprost proporcjonalna do mas obu ciał biorących udział w takiej konfrontacji, a odwrotnie proporcjonalna do odległości między nimi podniesionej do kwadratu. Logicznie biorąc, spowodowanie Potopu na Ziemi mogło by spowodować ciało niebieskie wielkości Ziemi (lub zbliżonej) przelatujące w odległości mniejszej niż odległość do Księżyca i większej niż granica Roche'a (2,5 promienia Ziemi - około 15918 km).
+
+Zbliżanie się takiego obiektu do Ziemi nie mogło być nie zauważone i zapewne znalazło by odbicie w źródłach pisanych jako zbliżająca się "gwiazda śmierci", która z dnia na dzień stawałaby się coraz większa, jaśniejsza i która w końcu wielkością przerosła by Księżyc. Nic takiego w przekazach nie znaleziono. Można by w to włączyć "czarną dziurę" przelatującą w pobliżu naszego Układu. Masa olbrzymia, niewidoczna dla ludzkich oczu. Jednak wtedy ucierpiała by nie tylko Ziemia, ale prawdopodobnie wszystko co krąży w naszym Układzie Słonecznym. Być może nawet doszłoby do "porwania" najodleglejszych naszych planet (np. Plutona). Biorąc wszystkie "za i przeciw" spokojnie taką koncepcję możemy odłożyć na półkę.
+
+Upadek wielkiego meteorytu do któregoś z oceanów.
+
+Możliwe, ale nie tłumaczy jednoczesnego "wylania się" mórz wewnętrznych, jezior i rzek. Musiałoby także nastąpić zróżnicowanie zniszczeń. Przeciwna strona Ziemi powinna by zostać mniej zniszczona. Ponadto, jak pisałem uprzednio, fakt zbliżania się takiego meteorytu nie mógłby zostać nie zauważony. Koncepcja także może zostać odłożona, przynajmniej na razie.
+
+Gwałtowny ruch całej skorupy Ziemi, czyli "wielki uskok skorupy ziemskiej" Hapgood'a.
+
+Gwoli prawdzie, z podobną hipotezą już w roku 1978 wystąpił i to w Polsce Kazimierz Wadowski. Jego hipoteza pod nazwą "Teoria nagłej i krótkotrwałej zmiany prędkości obrotu ziemi jako przyczyna Potopu", nie tłumaczy jednak (nie jest to przedmiotem rozważań) przyczyn nagłej zmiany prędkości obrotowej Ziemi. Obie teorie konkludują jednak zgodnie - skutki były katastrofalne. Dziś Casey Wadowski mieszka w USA i jak wiem nosi się z zamiarem wydania w Polsce swojej książki. Jednoczesny ruch całej skorupy ziemskiej, jej "poślizg" po płynnym jądrze spowodował by ogromny ruch wody w oceanach, "wytryśnięcie" wód wewnątrz kontynentów (mórz, jezior i rzek) oraz trzęsienia ziemi o niewyobrażalnej sile i czasie trwania. Zapewne uaktywniły by się także wulkany na ziemi i pod wodą. Doprowadziło by to do zmiany kształtu kontynentów, część ich została by na zawsze zatopiona (drogi niknące w oceanach i morzach, zatopione miasta), część wyniosła by się ponad poziom wody (nowe części lądów, nowe wyspy). Prawdopodobnie doszło by do zmiany stref klimatycznych na Ziemi. Wyrównywanie ciśnienia (zmienia się położenie geograficzne lądów, a i atmosfera ma swoją bezwładność) spowodowało by huraganowe wiatry i ulewne deszcze. W dalszym, dłuższym okresie zaczęła by się roztapiać czapa starego lodowca (być może tym tłumaczyć należy powstanie kanionów na wschodnim wybrzeżu Stanów Zjednoczonych i Kanady, jako efekt pękania co roku tam lodowych na jeziorze polodowcowym tworzącym się podczas każdego lata - efekt podobny do powodzi na Islandii, choć tu roztopienie lodowca spowodowało uaktywnienie się wulkanu).
+
+Opisywane zjawiska zatrzymania Słońca, czy "dziwnej jego wędrówki po niebie" sądzę, że też można wytłumaczyć na gruncie hipotezy Hapgood'a. Na powierzchni Ziemi obserwatorowi wydawało by się, że punkty na nieboskłonie zatrzymały się, by po jakimś czasie zacząć poruszać się w innym kierunku. Nocą, widząc tylko gwiazdy obserwator mógł ulec wrażeniu, że część z ich szybko "osuwa" się na Ziemię. Zjawisko "ognistych deszczów" można by "od biedy" wytłumaczyć działalnością wulkanów na ogromną skalę. Wybuch sięgający stratosfery lub wyżej, może mógłby spowodować "gorące" opady na wielkim terytorium i w dużej odległości od wulkanu. Bardziej jednak pasuje tu "deszcz meteorytów" docierający do powierzchni Ziemi.
+
+**Teoria potopu**
+
+  
+  
+
+Ten sam Casey Wadowski stworzył roboczy scenariusz Potopu, w którym można odnaleźć miejsce dla Bogów-Nauczycieli, występujących w pisanych źródłach starożytnych (prawie wszystkich), a od których odżegnuje się dzisiejsza nauka. Niejako przy okazji nie sposób pominąć tematu wysokiej technicznej cywilizacji, która prawdopodobnie istniała w tamtych czasach. Pokrótce co wiemy i czego się domyślamy (wg. C. Wadowskiego):
+
+• Nadejście kataklizmu (Potopu), było znane z dużym wyprzedzeniem.  
+• Wiedziano, że kataklizm będzie miał globalny zasięg.  
+• Znany był również charakter mającego nastąpić kataklizmu - "wody w krótkim czasie zaleją wszystkie kontynenty po najwyższe góry".  
+• Niewielka ilość ludzi i zwierząt zostanie uratowana.  
+• Po Potopie powierzchnia Ziemi będzie nadal nadawała się do dalszego zamieszkania.  
+• Ziemski dorobek całkowicie ulegnie zagładzie ale cywilizacja przedpotopowa zabezpieczy posiadaną wiedzę tak, aby ją przekazać cywilizacji po potopowej w chwili kiedy będzie ona na nią gotowa.  
+• Po Potopie przedstawiciele przedpotopowej cywilizacji będą pomagali w odbudowie nowej cywilizacji.
+
+Nie byłbym sobą, gdybym nie dorzucił swoich trzech groszy. Ostrzeżenie przed zbliżającym się Potopem było dane od Bogów (lub Boga). Spotykamy się z tym w potopie biblijnym, sumeryjskim i w przekazach Indii. Moja wiedza w tym zakresie jest prawdopodobnie ograniczona. Faktem jest, że niektórzy zostali ostrzeżeni. Ostrzec zaś mogli tylko Ci, którzy o nadciągającym kataklizmie doskonale wiedzieli. Henoch otrzymuje ostrzeżenie na kilkaset lat(!) przed potopem. Pan nakazuje przekazać Henochowi:
+
+Albowiem zagłada spotka cały świat i przyjdzie wielka fala, i zaleje całą ziemię, i wszystko, co się na niej znajduje ulegnie zagładzie. Poucz go, aby uszedł cało, i jego potomstwo zostało zachowane ze wszystkich pokoleń świata.
+
+Czy Bogowie znali dokładny termin? Być może znali w przybliżeniu. Być może przed "wielkim uskokiem..." nasilona działalność sejsmiczna dawała jakieś określone terminy w rodzaju "już niedługo" czy "w najbliższym czasie", ale nie można mieć 100% pewności. Jako cywilizacja o wysokim stopniu rozwoju, być może monitorująca najmniejsze nawet zmiany współrzędnych geograficznych, znająca przyczyny i skutki działania siły odśrodkowej w globalnym znaczeniu, znająca oraz umiejąca obliczać masę kontynentów i lodu, a także zależność między tymi siłami w ruchu obrotowym, była w stanie przewidzieć przybliżony termin kataklizmu. Stąd przygotowania - zabezpieczenie zdobytej wiedzy w taki sposób, by ta "baza danych" nie została zniszczona. Mając taką wiedzę nie sposób było nie przewidzieć też skutków kataklizmu oraz jego zasięgu.
+
+Czy zdawano sobie sprawę z możliwości uratowania tylko nielicznych? Chyba tak. Być może sięgnięto do środków ratowniczych na tak małą skalę (arki lub temu podobne), bo tylko takie były możliwości (Bogów mogło być kilkuset, a ludności być może tysiące razy więcej). Biblia budowę arki przypisuje Noemu, jednak z księgi Henocha wynika zupełnie cos innego:
+
+Noe! Oto twoje postępowanie stanęło przede mną, postępowanie bez zarzutu, postępowanie miłości i sprawiedliwości. Teraz aniołowie przygotowują drewnianą \[arkę\] i kiedy wykonają to zadanie, położę moją rękę na niej i zabezpieczę. Wyjdzie z niej nasienie życia, ziemia się odmieni i nie pozostanie bez ludzi.
+
+Biblijna arka Noego miała wymiary: długość - 300 łokci (ok. 150 m), szerokość - 50 łokci (ok. 25 m), wysokość - 30 łokci (ok. 15 m). Pan powiedział: "Z wszelkich zwierząt czystych weź z sobą siedem samców i siedem samic, ze zwierząt zaś nieczystych po jednej parze: samca i samicę; również i z ptactwa - po siedem samców i po siedem samic, aby w ten sposób zachować ich potomstwo dla całej ziemi. Jak w takich gabarytach pomieścić taką ilość zwierząt? Sama para słoni wraz z żywnością i pitną wodą na 340 dni zajęła by mnóstwo miejsca. A gdzie reszta? Pewną wskazówkę do tego fragmentu możemy znaleźć w oryginalnej wersji sumeryjskiej. Bóg Ea powiedział do Utnapisztima (Zusiudra, sumeryjski Noe, syn ostatniego przedpotopowego króla Ubara-Tutu):
+
+Mężu z Szurupak, synu Ubara-Tutu,  
+Zburz dom swój, arkę dla siebie wybuduj.  
+Dobytku poniechaj i ocal swe życie.  
+Pogardź majątkiem i ratuj swe życie,  
+zgromadź w arce nasienie wszelkiego stworzenia.
+
+Gromadząc samo nasienie "oszczędzamy" zarówno na powierzchni jak i na pożywieniu. Być może w tym odnaleźć można sensowne wytłumaczenie dla małych wymiarów arki. Hebrajczycy nie mogąc sobie poradzić z problemem zaistnienia (rozmnażania) zwierząt po potopie, zmienili tekst i do arki "wprowadzili" wszystkiego żywego po parze.
+
+Fakt zabezpieczenia zdobyczy wiedzy i techniki jest znany z przekazów starożytnych. Natomiast nic nie wiadomo w jakiej formie i dokładnie gdzie. Wiemy tylko, że miał mieć miejsce. Mając na uwadze piramidy w Giza nie sądzę, by w nich ukryto wiedzę przed ostatnim Potopem, chociaż możliwe, że wykorzystano istniejący już "schron". Być może takich miejsc było więcej. Znajduje się przecież dzisiaj całe podziemne miasta. Czy zrobiono to "rzeźbiąc wiedzę" w kamiennych kolumnach ustawionych w kraju Siriad przez Toth'a? Możliwe. Możliwe także, że wiedza ta czeka na odkrycie w dalszym ciągu, ale my nie potrafimy jej odnaleźć.
+
+Pomoc po Potopie jest opisana w wielu starożytnych źródłach. Sądzę, że w pierwszym rzędzie musiano rozwiązać problem odnalezienia żywych oraz zabezpieczenia żywności i wody pitnej. Głód może być przyczyną kanibalizmu, co za tym idzie polowania na innego, słabszego człowieka i chyba było to najważniejsze zadanie Bogów-Nauczycieli. Następnie od nowa organizowano społeczności, władzę, sądownictwo itd. Czy stąd pochodzi określenie "władza dana od Boga"?
+
+Największy według mnie problem tkwi w tym, że nie wiemy czy był tylko jeden Potop, czy było ich kilka, o którym Potopie mówią fragmenty zapisków starożytnych. Wszystko to tworzy coś w rodzaju "zestawu Nostradamusa". Jest tego dużo i we fragmentach, ale nie wiemy w jakiej kolejności je ułożyć.
+
+**Był taki człowiek**
+
+Cytat z książki "Ślady palców Bogów" Hancook'a:  
+
+Charles Hapgood wykładał historię nauki w Keene College w New Hampshire. Nie był ani geologiem, ani historykiem starożytności, a mimo to przyszłe pokolenia będą zmuszone docenić go jako człowieka, który zachwiał podstawami historii świata oraz geologii.
+
+---
+
+Hipoteza wysunięta przez Hapgooda w książce z 1953 roku jest teorią geologiczną, która w wiarygodny sposób wyjaśnia jak i dlaczego znaczna część Antarktydy zniknęła pod lodem cztery tysiące lat przed naszą erą, a także inne anomalie, których nauka nie potrafi wytłumaczyć.
+
+---
+
+Akademiccy geolodzy z niechęcią odnoszą się do hipotezy Hapgooda, choć nikomu nie udało się udowodnić, że jest błędna. Pozostawia jednak wiele, na które brak odpowiedzi. Najważniejsze z nich brzmi: jaki mechanizm mógłby wywrzeć tak potężny nacisk na litosferę, aby spowodować tak wielkie jej przesunięcie? Einstein pisał w recenzji: "W strefie polarnej trwa nieustanne nawarstwianie się lodu, występujące nierównomiernie wokół bieguna. Rotacja Ziemi oddziałuje na tę masę lodu, wytwarzając moment odśrodkowy, który przenosi się na twardą skorupę naszej planety. Siła ta, osiągnąwszy pewną wartość, powoduje przesuwanie skorupy ziemskiej".
+
+Dziś ta hipoteza nie jest w ogóle brana pod uwagę. Czy należy ją ignorować tylko dlatego, że nikt z naszej cywilizacji nie doświadczył tego typu kataklizmu? Czy należy ją przemilczać tylko dlatego, że nikt nie potrafi wyobrazić sobie takiego "końca świata"? Czy z całą pewnością jest to niemożliwe? Stoimy na stanowisku, że skorupa Ziemi jest niewzruszona, jak starożytni Grecy przy tym, że Ziemia była płaska.
+
+**Coś w rodzaju podsumowania**
+
+Prawie za pewnik możemy przyjąć założenie, że co jakiś okres czasu ludzkość doświadcza kataklizmów niszczących istniejącą cywilizację i jej dorobek. Można przyjąć także, że przyczyny tych kataklizmów są dwojakiego rodzaju:
+
+1.  Natury kosmicznej (uderzenia meteorytów, komet lub innego gruzu kosmicznego).
+-   Natury ziemskiej (trzęsienia ziemi, gwałtowne zmiany klimatu, potopy).
+
+Pierwsza przyczyna jest już doskonale znana astronomom i uważana za wysoce prawdopodobną. Im bardziej poznaje się nasz Układ Słoneczny, tym więcej odkrywa się kosmicznych "wrogów". Nie tak dawno astronomowie odkryli, że w kierunku Ziemi zmierza meteoryt o średnicy kilku kilometrów, którego kolizja z Ziemią jest możliwa za kilkanaście lat, o ile szczęśliwie nas nie ominie. Nie tak dawno również astronomowie nie zauważyli, że Ziemia była o krok od takiej "wizyty". Tłumaczyli się tym, że sami dopiero zauważyli "najeźdźcę" gdy majestatycznie przemknął się między Ziemią i Księżycem.
+
+Jeden wszak leci. Już uspakaja się ludzi, że prawdopodobnie przeleci obok. Słaba to pociecha, bo niepokój pozostaje. Co się stanie jeżeli trafi w Ziemię? Na taki atak z kosmosu nasza cywilizacja absolutnie nie jest przygotowana. Planuje się co prawda jakieś ataki rakietowo-jądrowe skierowane w tych "kosmicznych gości", ale są to spekulacje obliczone bardziej na samouspokojenie niż na realne uniknięcie zagrożenia. Na razie korzystają z tego twórcy filmowi, przy okazji zbijając fortuny na ludzkim przerażeniu. Co się stanie, gdy taki atak nie zmieni orbity, a tylko spowoduje rozbicie obiektu na mniejsze? Czy śmierć "na raty" jest lepsza?
+
+Zostaje nam, przynajmniej na razie, robić to, co Majowie robili co 52 lata. Bać się i modlić, by kolejny raz śmierć ominęła Ziemię. Data 4-Ahau 8-Cumhu jest ciągle aktualna, choć uczeni chyba nie potrafią jej dokładnie określić. Na razie "na topie" jest data 23 grudnia 2012 r.
+
+Z drugim rodzajem kataklizmu nauka jeszcze nie wie co począć. Niedowierzanie, a wręcz ignorowanie problemu wcale nie przybliża nas do jego rozwiązania. Stwierdzenie, że coś takiego nie może zaistnieć powoduje brak problemu. Jak nie ma problemu, to nie ma o czym mówić, nie ma czego badać i nie ma podstaw do szukania środków zaradczych. Jak można przekonać niedowiarków? Tylko poprzez osobiste doświadczenie, tyle że to doświadczenie na pewno będzie ostatnim nie tylko dla nich. Wszyscy znamy nasze powiedzenie: Polak mądry po szkodzie. W tym wypadku odnosi się ono do całego świata. Nauka winna nam wszystkim dać odpowiedź na pytania:
+
+1.  Czy praprzyczyną trzęsień Ziemi jest pierwszy rozpad kontynentów oraz ich "wędrówka" powodowana dążeniem Ziemi do kształtu zrównoważonej kuli wymuszanego obrotem wokół własnej osi?
+2.  Czy skorupa Ziemi jako ciało sztywne i posiadające określoną, nierówno rozłożoną masę, może dążyć do stanu równowagi poprzez równomierne rozmieszczanie masy kontynentów na powierzchni obraca-jącej się kuli ziemskiej?
+3.  Czy dążąc do stanu równowagi cała sztywna skorupa Ziemi może "ślizgać się" po jej płynnym płaszczu? Czy taki "poślizg" jest w ogóle możliwy? Jakie siły są zdolne do pokonania siły tarcia na granicy skorupa-płaszcz, a tym samym ów "poślizg"? Jeśli taki "poślizg" jest możliwy, to jaka przyczyna może spowodować jego zaistnienie?
+4.  Czy obracająca się kula ziemska na dzień dzisiejszy, zgodnie ze znanymi prawami fizyki, znajduje się w doskonałej równowadze, czy też jest to stan chwilowej równowagi?
+
+Jak dotąd, tylko jeden człowiek dopuścił taką możliwość. Charles Hapgood. Został wyśmiany i upokorzony tylko ze względów komercyjnych. Dlaczego nikt do tej pory nie sprawdził czy taka hipoteza jest możliwa do udowodnienia? Na to pytanie jest odpowiedź - nauka nie potrafi tego zrobić, a uczeni użyją wszelkich sposobów, byle tylko nie dopuścić do postawienia im takiego zarzutu.
+
+Według hipotezy Hapgood'a "winą" za wielki uskok skorupy ziemskiej obarczyć należy masę nagromadzonego lodu na biegunie północnym (ówczesnym). Czy przyczyna jest jedna, czy tylko jedna z kilku? Skorupa ziemska nie jest na całej powierzchni jednakowa. Na wielkich nizinach jest cieńsza, a w rejonach wielkich łańcuchów górskich grubsza i zarazem cięższa. Jeśli przyjąć założenie, a jest chyba logiczne, że największe masy (a w zasadzie ich wypadkowa) winny rozłożyć się równomiernie w okolicy równika gdzie odziaływuje największa siła odśrodkowa, to patrząc na rozłożenie kontynentów jest do tego jeszcze daleko. Co to oznacza? Oznacza jedno
+
+**Skorupa Ziemi jeszcze się NIE USTABILIZOWAŁA**.
+
+Jeśli Hapgood miał rację, to być może my lub nasze potomstwo, doświadczymy dowodu na prawdziwość hipotezy "wielkiego uskoku skorupy ziemskiej", lecz będzie to ostatnie życiowe doświadczenie. Czy nie nadszedł czas, by wreszcie uwierzyć, że mądrość starożytnych doskonale odróżniała "4-Ahau 8-Cumhu" od "Naui Ollin"?

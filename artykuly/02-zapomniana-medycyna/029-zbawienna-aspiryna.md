@@ -1,0 +1,49 @@
+---
+id: "medalt/aspiryna"
+tytul: "\"Zbawienna\" aspiryna"
+dzial: "Zapomniana medycyna"
+adres_oryginalny: "http://www.uleszka.net/webacja/medalt/aspiryna.htm"
+plik_zrodlowy: "zrodlo/webacja/medalt/aspiryna.htm"
+liczba_obrazow: 1
+---
+
+**"Zbawienna" aspiryna**  
+Artykuł ze strony "[Portal Medycyny Homeopatycznej](http://www.homeopatia.edu.pl/index.asp?idm=1&idp=12&ide=30)"
+
+**Poniższy fragment rozdziału, przedstawiającego przebieg epidemii grypy w 1918 roku, pochodzi z książki Julian Winstori, prezentującej zarys historii homeopatii, a opublikowany został w The New England Journal of Homeopathy**.
+
+**EPIDEMIA GRYPY 1918 - HOMEOPATIA NA RATUNEK**
+
+![](../../zrodlo/webacja/medalt/aspiryna.gif)
+
+Epidemia ta znana jest jako "Wielka Biała Epidemia". Trudno jest wyobrazić sobie spustoszenie jakie poczyniła ona wśród ówczesnej ludności w latach 1918-19. Osoby, które przeżyły ten okres wspominały, że ci, którzy rano budzili się zdrowi i pełni energii, wieczorem umierali na grypę. W tamtym okresie doktor H.A. Roberts był lekarzem na statku przewożącym piechotę. Śmiertelność wśród żołnierzy była tak wielka, że pewnego dnia podpłynął do nich inny transportowiec, aby zabrać na pokład wszystkie wolne jeszcze trumny. Podczas powrotu do portu kapitan zapytał Robertsa: "Czy wykorzystałeś wszystkie trumny?", na co Roberts, który na statku leczył żołnierzy za pomocą homeopatii, odpowiedział: "Tak, a przy tym nie straciłem ani jednego pacjenta!". Poniższy tekst przedstawia fragment artykułu zatytułowanego "Homeopathy In Influenza - A Horus of Fifty In Harmony" , autorstwa W.A. Dewey, MD, który ukazał się w Journal of the American Institute of Homeopathy w 1920 roku.
+
+Dean W.A. Pearson z Filadelfii zebrał łącznie 26,795 przypadków grypy wyleczonej przez lekarzy homeopatów, przy śmiertelności równej 1,05%, podczas gdy średnia śmiertelności przy leczeniu metodami konwencjonalnymi wynosiła 30%.
+
+Na moją prośbę dotyczącą udostępnienia danych statystycznych odpowiedziało trzydziestu lekarzy ze stanu Connecticut. Wykryli oni 6602 przypadki zachorowań z czego 55 zakończyło się zgonem, co stanowi mniej niż 1%. Podczas pracy na statku transportującym piechotę wykryłem 81 przypadków. Wszyscy pacjenci zostali wyleczeni i stanęli na suchym lądzie o własnych siłach. Każdy z nich poddany został leczeniu homeopatycznemu. Dla porównanie jeden ze statków odnotował po drodze 31 zgonów. - H.A. Roberts MD, Derby, stan Connecticut.
+
+W fabryce zatrudniającej 8000 pracowników odnotowaliśmy tylko jeden zgon. Odpowiednie dawki leków przyjmowane przez pacjentów nie powodowały zgonów spowodowanych przedawkowaniem. Jedynym lekiem jakiego używaliśmy był Gelsemium. Nie podawaliśmy aspiryny, ani nie stosowaliśmy szczepionek antywirusowych. - Frank Wieland MD, Chicago.
+
+Nie odnotowałem ani jednego zgonu spowodowanego przez grypę, a w przypadku zapalenia płuc śmiertelność wśród moich pacjentów wyniosła zaledwie 2,1%. Jedynymi środkami, jakimi dysponowali lekarze stosujący medycynę konwencjonalną były salicylany, z aspiryną i chininą włącznie, co bardzo często prowadziło do przypadków, w których śmiertelność wśród pacjentów leczonych na zapalenie płuc wynosiła 60%. - Dudley A. Williams MD, Providence, Rhode Island.
+
+W Homeopatic Medical Society of the District of Columbia (Stowarzyszenie Lekarzy Homeopatów stanu Waszyngton DC), wykryto 1500 przypadków zachorowań, przy zaledwie 15 zgonach. W National Homeopatic Hospital (Narodowy Szpital Homeopatyczny) 100% pacjentów wyzdrowiało. - E.F. Sappington MD, Filadelfia.
+
+Wyleczyłem 1000 przypadków grypy, co mogę udokumentować za pomocą dokumentów i zapisków. Jak dotąd nie odnotowałem żadnego zgonu. Chylę czoła przed homeopatią, jednocześnie dyskredytując medycynę konwencjonalną. - T.A. McCann MD, Dayton, stan Ohio.
+
+Pewien lekarz ze szpitala w Pitsburgu zapytał pielęgniarkę, czy zna jakiekolwiek inne metody leczenia niż te, które stosuje, ponieważ nie może nic poradzić na wysoką śmiertelność swoich pacjentów. Pielęgniarka powiedziała: "Tak, doktorze, proszę przestać podawać aspirynę i rozpocząć leczenie za pomocą leków homeopatycznych". Lekarz odparł: "Ależ to właśnie jest homeopatia". "Tak, wiem, ale lekarze homeopaci, z którymi pracowałam wcześniej, nie stracili ani jednego pacjenta". - W.F. Edmundson MD, Pitsburg.
+
+Istnieje pewien lek, który bezpośrednio lub pośrednio przyczynił się do większej liczby zgonów niż sama grypa. Wszyscy znają ten lek bardzo dobrze. To kwas salicylowy. Historia aspiryny została spisana i opublikowana. Obecnie nie wiadomo, do jakiego stopnia kwas salicylowy działa uspokajająco. Pewne jest, że aspiryna szkodziła na dwa sposoby. Efekt pośredni spowodowany był faktem, że aspiryna podawana była aż do momentu krańcowego wyczerpania, gdy u pacjenta rozwijało się zapalenie płuc. - Frank L. Newton MD, Sommerville, stan Massachusetts.
+
+Aspiryna oraz inne produkty wytwarzane ze smoły węglowej są potępiane przez lekarzy, ponieważ powodują ogromną liczbę niepotrzebnych zgonów. Wszędobylska aspiryna jest zdecydowanie najbardziej szkodliwym lekiem ze wszystkich. Jej fałszywie dobroczynne działanie przeciwbólowe wywołuje zaledwie krótką ulgę, nic nie znaczącą z punktu widzenia medycyny. W wielu przypadkach aspiryna osłabiła serce, negatywnie wpłynęła na poziom sił witalnych pacjentów, zwiększyła poziom śmiertelności oraz znacznie spowolniła proces rekonwalescencji. We wszystkich przypadkach aspiryna maskuje objawy, co znacznie bardziej utrudnia dobór odpowiednich leków. Aspiryna najprawdopodobniej wcale nie działa lecząco na żadną chorobę i powinna być wycofana z użycia. - Guy Beckly Stearns MD, New York.
+
+Trzysta pięćdziesiąt wyleczonych przypadków i tylko jeden zgon - pacjentki, która przyszła do mnie z zaawansowanym i zaniedbanym zapaleniem płuc po zażyciu stu tabletek aspiryny w ciągu dwudziestu czterech godzin. - Cora Smith King MD, Waszyngton, DC.
+
+Przysłano mi paczkę zawierającą 1000 tabletek aspiryny, o 994 za dużo. Wydaje mi się, że podałem zaledwie pół tuzina. Nigdzie nie mogłem tego schować. Używam bardzo niewielu leków. Prawie zawsze podaję Gelsemium i Bryonia. Prawie nigdy nie traciłem pacjenta, jeżeli przybyłem na wezwanie pierwszy, chyba że wcześniej pacjent wysłany był do apteki po aspirynę. W takiej sytuacji prawie zawsze musiałem zająć się nowym przypadkiem zapalenia płuc. - J.P. Huff MD, Olive Branch, stan Kentucky.
+
+Czytając notatki dotyczące epidemii można wnioskować, że większość zgonów wywołana była przez zjadliwą odmianę zapalenia płuc, szczególnie niebezpieczną dla chorych, którzy osłabili swój organizm zażywając środki przeciwbólowe - najłatwiej dostępnym z nich jest aspiryna. Lekarz, który uczył mnie stosować homeopatię, Raymond Seidel MD, HMD, stwierdził kiedyś, że zdecydował się zostać lekarzem homeopatą w czasie epidemii grypy. Pracował wtedy jako kurier dostarczający przesyłki dla homeopaty z New Jersey. Seidel powiedział: "Widziałem, jak ludzie zażywający aspirynę umierali, połowa tych, którzy regularnie się upijali, umierała, natomiast ci, którzy przyjęli leki homeopatyczne żyli".
+
+**Julian Winston mieszka na Nowej Zelandii, gdzie uczy projektowania, gra na gitarze oraz wprowadza homeopatię w kolejne millenium. Jest długoletnim wydawcą pisma Homeopathy Today w National Centre of Homeopathy (Narodowy Ośrodek Homeopatii)**.
+
+---
+
+Jedna tabletka aspiryny dziennie uchroni cię przed zawałem serca ????????????

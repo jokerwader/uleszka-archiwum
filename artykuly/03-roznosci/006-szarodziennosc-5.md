@@ -1,0 +1,672 @@
+---
+id: "blogier5"
+tytul: "Szarodzienność 5"
+dzial: "Różności"
+adres_oryginalny: "http://www.uleszka.net/webacja/blogier5.htm"
+plik_zrodlowy: "zrodlo/webacja/blogier5.htm"
+liczba_obrazow: 31
+---
+
+![](../../zrodlo/webacja/plbc.jpg)
+
+**SZARODZIENNOŚĆ**  
+**czyli o czym rozmyśla bezrobotny obywatel nie uwikłany w trud rządzenia państwem**.
+
+---
+
+**• Demokratyczne wybory rozstrzygają o tym, kto będzie uciskany w majestacie prawa - N. G. Davilla •**
+
+---
+
+**O**
+
+statnie badania statystyczne przeprowadzone przez polski kościół wykazały, że krajowy katolicyzm jest średnio żarliwy, albowiem regularnie do kościoła uczęszcza około 40% polskiej populacji. Inna firma, Centrum Badań Obłudy Społecznej, przeprowadziła badanie na temat ewolucji i okazało się, że w kreatywne pochodzenie wierzy 30% Polaków, a reszta pochodzi od wspólnego ojca o imieniu Bonobo lub nie ma zielonego pojęcia kto jest jej ojcem. Wziąwszy te badania "do kupy" wychodzi, że 10% wierzących ma mdłe wyobrażenie o swoim pochodzeniu lub są to ci, którzy w ostatnich latach przeszli z marksizmu na katolicyzm i są, być może chwilowo, zawieszeni między młotem a papieżem. Ze względu na średni wskaźnik głęboko wierzących można też stwierdzić, że w Polsce jeszcze nie zaistniał stan zwany "trwogą" (wtedy wskaźnik wierzących gwałtownie zbliża się do 100). Jak się można było spodziewać, ostatnie miejsce w rankingu wiary zajmuje stolica, ale to jest zrozumiałe, gdyż tu biją źródła marksizmu i leninizmu, tu są gniazda partyjne i tu działają kuźnie katolewicy czyli wierzących ateistów, a większość mieszkańców to uczniowie z Młoteczna i Sierpuchowa oraz prorocy "spoza gór i rzek", wyznawcy radzieckiej wersji Talmudu. ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**Z**
+
+aczynają się jaja z procesu po wypadku w Halembie. Sąd jeszcze raz ma przesłuchać świadka dlatego, że górnik zeznawał w swoim języku, a wysoki sąd ani w ząb nie skapował po "ślunsku". Prasa nie podała, czy sąd ma gwałtownie przyswoić sobie śląską gwarę, czy górnika odesłano do szkoły na naukę "sądowego" polskiego. Schliemann (ten od Troi) uczył się obcego języka średnio w sześć miesięcy. Szybkość zamknięcia sprawy po raz pierwszy będzie zależała od wrodzonych predyspozycji do nauki obu stron.
+
+---
+
+**G**
+
+dybym w tle nie widział logo Sam00brony i Endriu na pierwszym planie, myślałbym że oglądam program "Nie do wiary". Strąkmen wsi polskiej, niezwyciężony bokser blokad i podpora psychiczna polskiego rolnictwa, zapłakał jak bóbr apelując do dziennikarzy, by "jeździli tylko po nim, a nie po jego rodzinie". Za to ukorzenie się przed czwartą władzą dostał "standing owation". Nie wszystkim się to spodobało, bo niejaka Antykorupcyjna POkemon uznała to (te zbliżenie na łzy) za zabieg socjotechniczny, podnoszący nienależne notowania w rankingu. Endriu jest w szoku, bo choć sam nie zapładniał, to odium nieokiełznanego ogiera spadło także na niego i zasiało wątpliwość w najbliższej rodzinie. Niestety Endriu, "lajf is brutal end ful zasadzkas", szczególnie w polskiej polityce, a zasada odpowiedzialności wodza za czyny swoich wojowników obowiązuje także wśród cywilbandy. Płakać za to można. Łza nie sperma, nie stwarza kłopotów alimentacyjnych ale za to ładnie wygląda w telewizji, krokodylu.
+
+---
+
+**A**
+
+kcja wspaniale się rozwija... i Partia Obrażonych przystępuje do następnego punktu - do kopania leżącego. Niemieckie radio z Krakowa informuje, że PO zaproponuje PiS poparcie przyszłorocznego budżetu oraz kilku innych ważnych dla rządu ustaw w zamian za ogłoszenie na wiosnę przyspieszonych wyborów parlamentarnych. I dalej niemieckie radio mówi, że warunkiem PO jest również to, by rząd Jarosława Kaczyńskiego opuścili Roman Giertych i Andrzej Lepper. Cichy głos kopanego odpowiada, że póki co "mamy większość w tym parlamencie". Dalsze kopanie leżącego zależy od rozwoju afery plemnikowej. W każdym badź razie Partia Obrażonych trzyma w gotowości niektóre cienie ze swojego gabinetu, mające wskoczyć na puste miejsca po Leperze i eLePeRze. Czy specjalista z bożej łaski od obrony narodowej obejmie nauczanie młodzieży? A kto w mieszczańskiej partii zna się na rolnictwie? Pytania retoryczne, bo przecież nie muszą się znać na niczym. ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**N**
+
+a co stać polskie państwo prawa? Ano tylko na to: Wiceminister finansów, Generalny Inspektor Kontroli Skarbowej Paweł Banaś przeprosił w czwartek na konferencji b. prezesa Optimusa Romana Kluskę w imieniu resortu finansów za postępowanie organów kontroli skarbowej w 2000 roku. Zdaniem Kluski przeprosiny ministerstwa są ważne, a sprawa jest istotna dla ogółu podatników. Tylko tyle za ograbienie człowieka z 8 milionów złotych, zniszczenie mu dobrze działającej firmy i ciąganie po aresztach i sądach. Wysoki i sprawiedliwy sąd oddał mu tylko 5000 złotych w ramach odszkodowania, co stanowi 0,0625% zagrabionej sumy. Wystąpienie jest ważne dla podatników, jak zauważa pan Roman, gdyż podatnik musi wiedzieć, że sprawiedliwe państwo nie oddaje zrabowanych pieniędzy, a na same przeprosiny, które nic nie kosztują, trzeba czekać minimum 6 lat.
+
+---
+
+**W**
+
+aferze meblowej, dotyczącej szafy pułkownika, zeznawał biały Konstanty syn czerwonego Alfreda. Jego własna adnotacja - Proszę ponownie ustawić źródło na kierunek rozpoznań wewnątrzkrajowych, w szczególności środowisk prawicowych - wcale nie świadczy, według niego, by notatka sugerowała rozpracowywanie środowisk legalnych partii. Czyli sąd ma problem jakiego koloru jest kolor biały. Drugi tzw. koordynator z Sojuza Lewitów zapodał, że UOP pod jego rządami, zajmował się tylko walką z (hehehe) korupcją na kierowniczych stanowiskach. No wypisz, wymaluj jak w cyrku u Stanieckich braci z (nomen omen) Ordynackiej. Niedługo się okaże, że partie same się inwigilowały, korupcji żadnej nie było, a oni popijali tylko herbatkę z prądem w oczekiwaniu na dzień zasłużonej wypłaty. W sumie i tak się nic nie dowiemy, bo qrwa qrwie łba nie urwie, a sąd i tak utajni całą tę parodię.
+
+---
+
+**W**
+
+edług tzw. OBOP - Zaledwie 11% Polaków uważa, że rządy po 1989 r. rozwiązały problem służb specjalnych PRL. Ale tylko dwóch z ponad tysiąca badanych uznało lustrację za najbardziej palącą z polskich potrzeb. Wiadomość podał kto? Oczywiście wyborczy podogoniec. I to jest robienie ludziom wody z mózgu, a taki wynik ankiety można tylko uzyskać prowadząc badania w zatoce czerwonych świń.
+
+---
+
+**W**
+
+cieniu afery plemnikowej, Partia Obrażonych wybrała swe nowe władze. I co widzimy? Wiceszefem partii został pan, który jest znany także jako TW Leopold, pozyskany przez Wydz. III KWMO Łódź w roku 1971 (26 maja 1979 r. materiały TW przekazano do Dep. I MSW za pismem nr AB-00166/79). PO skorzystała z zasłony dymnej, by śmielej kroczyć drogą wskazaną przez kolesiów z SLD. Teraz widać, dlaczego tak ostatnio "mylono" kancelarie i to nie przypadek, że po tak intensywnych konsultacjach wybuchła afera plemnikowa. Owocna współpraca kwitnie nadal i jakoś żadne media nie chcą tego zauważyć. I o to chodzi, i o to chodzi...
+
+---
+
+**S**
+
+permoafera jakby przycichła, ale nie ma się co dziwić, bo już piątek i nawet afery muszą kiedyś wypoczywać. Cała Poland czeka na wyniki badań, a dzisiaj oddział Deutsche Rundfunk z Krakowa podał, że dopiero co, poseł Łyżwiński zgłosił się na pobranie ojcostwa. Teoretycznie w poniedziałek będzie już wiadomo, dlaczego Aneta K. (zbieżność litery przypadkowa) nabyła działkę za marne 26 tysięcy złotych. Akcja się rozwija. W Sam00bronie sperma tryska z każdego kąta i okazuje się, że nawet samoobronne kobitki nie gorsze i też ponoć naciągały się na chłopów, tyle że tu pokrzywdzone są młode chłopaki przez baby postury i urody posła Stanisława. Zadyma taka, że trudno zauważyć co się dzieje poza nią. A dzieje się sporo. Niemcy na gwałt wykupują polskie media (już wykupili ćwiartkę Polkabla, o RMF-FM z Krakowa "co dla odmiany chciało Niemca" już pisałem, a o gazetach nawet nie wspomnę, bo prawie wszystkie w niemieckich rękach), ale może mi się tylko wydaje, gdyż to właściciele polskich wsi wyprzedają swoje źródła utrzymania. Partia Obrażonych, na polecenie Ośrodka Decyzyjnego dla wszystkich partii, żąda wywalenia Sam00brony i LPR z koalicji, co dokładnie odpowiada planowi "ostatecznego rozwiązania kwestii polskiej" czyli "odpolaczenia" polskiej sceny politycznej, bo akurat tylko w tych partiach nie zalęgli się talmudyści, choć partia Endriu od samego początku została skażona komuną i esbecją (np. Łyżwiński, to były TW, co sam kiedyś przyznał). POkemonom wtórują politycy z Sojuza Lewitów, ale prawo głosu mają tylko ci nieumoczeni (albo jeszcze nie wykryci) i tylko ślepy nie zauważa, że obie te partie są w wielkiej, choć utajnionej, komitywie. Gra w "tysiąca" o władzę trwa, POkemony i Sojuz Lewitów zostawili PiS na "musiku", a ci muszą grać choć w kartach "kościół w Pyzdrach" czyli figur jak na lekarstwo. Na razie jest tak - SLD czyli jakby nie patrzył dzieci komuny i jej talmudycznego odłamu + jarmułkowa frakcja towarzysza Bermana, PO - partia spadkobierczyni talmudycznej UW i AWS (z zapleczem zlewek z UW, masonerii i komuchów mniejszych) dalej PiS - wymieszany z Polakami naród wybrany (ale ten zwalczany przez talmudystów) oraz polska drobnica, jedni o zabarwieniu narodowym, drudzy pezetpeerowsko-esbeckim. Nad tym wszystkim czuwa Ośrodek Decyzyjny, czyli pełny skład Okrągłego Stołu (oczywiście bez denatów) wraz ze zbrojnym ramieniem "niewidzialnej ręki" i podległymi organami medialnymi, a jeszcze nad nimi wszystkimi czuwa Układ Wiedeński, podległy bezpośrednio Moskwie, natomiast wszystko razem z Unią Europejską wpisuje nas w światową władzę "Mędrców Syjonu", gdzie nie ma miejsca na narodową Polskę i dlatego w Polsce jest tylko miejsce dla władzy popieranej przez Izrael i Rosję, a nie ma miejsca dla polskiego narodu. Jasne?
+
+---
+
+**Ś**
+
+miech się niesie jak Polska długa i szeroka, bo okazuje się, że Aneta K. to faktycznie Aneta K., ale poseł Łyżwiński nie jest bezpośrednim sprawcą trzeciego porodu wspomnianej. I co teraz? Cały strategiczny plan połączonych sił PO, SLD i GW można rozbić o kant stołu, bo tym razem czekiści ze wsi spieprzyli cały zamach stanu. Teraz należy przejść do wariantu "B" i pokazać w niezależnych telewizjach fotkę "dowodu w sprawie" i niech wszyscy Polacy wypowiedzą się w narodowym plebiscycie, kogo w następnej kolejności poddać badaniu DNA. Dla oszczędności można dodać pytanie o przyszłą walutę - "czy chcesz 1000 euro?" (yes, yes, yes). Zanosi się na ciekawy i wesoły tydzień, w którym jak zwykle zamiast debaty o Polsce, będziemy się podniecać orgiami ogierów i szwadronu klaczy zarodowych samoobronnego "lebensbornu". A może wylezą następne zboczone partie? Nie wierzę, że reszta to eunuchy. ![](../../zrodlo/webacja/usmiech.gif) Aneta K. nie może uwierzyć w to, że się pomyliła. Jeżeli zajście odbyło się na pochlaju całego "parteikomando" to współczuję, bo czeka ją prawdziwa gra w "koło fortuny". Laboratorium badające DNA już ma zapewnioną pracę do samych świąt, bo pełnomocnik Anety K., jako pierwszego w kolejce na wymaz z jamy gębowej, wyznaczyła ministra rolnictwa czyli samego Endriu.
+
+---
+
+**N**
+
+aziemne organy prasowe Polski podziemnej już bagatelizują sprawę ojcostwa posła Łyżwińskiego i tłumaczą, że to tylko odprysk wytrysku, a meritum jest z drugiej strony. OZI pani Anety albo dało dupy albo uczennica w głowie niedryngawa i sprawę trzeba pchać dalej, bo przecież jest niemożliwe, by w Sam00bronie stosowano metody "in vitro" i jakiś gość musiał włożyć coś, żeby wyszedł ktoś. Pierwszy atak idzie na "wschodzące słońce rolnictwa" - Endriu, ale kolejka zapewne się wydłuży, bo samotnej matki w potrzebie Agora nie opuści, a i DNA w Sam00bronie jest mnóstwo. Jak jest Isaura, to musi być i Leoncjo. Jak na razie, zapobiegliwa partia arbuzów już zwołała nadzwyczajne posiedzenie, bo walka o stołki musi się zaostrzyć, więc trzeba być zwartym, gotowym i mieć dobrze przyszyte guziki. Wielki Donald z towarzyszami od Lewitów w głowę zachodzi co się stało, bo plan przewrotu opracowany przez czekistów był przecież "pierwyj sort" - uderzyć na "Gertyś-Jugend" i zrobić z nich faszystów, ujawnić rozbuchany bimbro-seksizm leperystów, a "niezależna" prasa i TV ma co pół godziny rozsyłać listy gończe. No i masz, kompletna klapa. Korzyści z tego odniesie tylko Anetka, bo bez wysiłku i za darmochę znajdzie dawcę alimentów, a my jak zwykle poniesiemy straty, bo Endriu za państwowe poleci odstresować się do Chin albo do znachora Kałaszenki.
+
+---
+
+**S**
+
+łoneczny poniedziałek nastał, co może świadczyć, że nawet Prezydent Układu Słonecznego zainteresował się aferą sromową w czworakach jednego z pomniejszych folwarków. Sama afera zaczyna ewoluować w kierunku partyjnego zjawiska obyczajowo-socjologicznego, stając się podstawą każdej dyskusji w kolejce czy środkach komunikacji. Teorie rosną jak grzyby po deszczu, a co jedna to gotowy scenariusz dla Hollyłódź. Wynika z nich, że świat nie kręci się koło Słońca, ale wookoło "clitoris", czyli ogólnie mówiąc "dupy", co jednoznacznie określa podstawowe czynności, do których człowiek został zasadniczo powołany, a reszta to tylko zakres czynności około ustawowych (poczytaj o polskich ogierach rasy politycznej [![przeczytaj](../../zrodlo/webacja/info.jpg)](http://wiadomosci.onet.pl/1377806,2677,kioskart.html) ). Samoobrona ambicją się uniosła i szuka na gwałt ojca, wskazując na jednego samoobrońcę, który jakimś trafem przybłąkał się niedawno do Partii Obrażonych, ale w zamierzchłej przeszłości wyręczał w wielu sprawach swojego byłego szefa terenowej leperszcziny. On sam tłumaczy, że poznał Anetkę dopiero wówczas, gdy ukryty sekret Sam00brony osiągał już czwarty miesiąc wtajemniczenia, więc logiczne jest, że nie on "zamknął" go do "sejfu". Dość ciekawą jest teoria która mówi, że ze względu na drożyznę panującą w tzw. terenowych Agencjach Towarzyskich, męska część Sam00brony wpadła na pomysł zatrudniania pracownic Agencji u siebie, z jednoczesnym wpisaniem wcześniej wykonywanego zawodu do zakresu partyjnych obowiązków na stanowiskach niemęskich. Czy to nie wyzysk "biednych" panienek? Może i wyzysk, ale za to głęboko słuszny ekonomicznie i ergonomicznie. Jeszcze inna teoria jest jak rodem z "kejdżibi" - najpierw Anetce zadawano narkotyki i dopiero po ich zadziałaniu padała komenda "Szarik, do wozu". Czy jest prawdziwa, nie wiadomo, bo Anetki nie sprawdzono "gajgerem" na nosicielstwo pierwiastków radioaktywnych. Inna sprawa, to coraz większa ilość świadków w sprawie ojcostwa i wygląda na to, że w terenie Sam00brona preferowała seks w ciżbie (ze względu na większą solidarność pamięci zbiorowej), co źle wróży ewentualnym alimentom i ministrowi sprawiedliwości, bo znowu będzie trzeba zmieniać prawo na okoliczność. **•** Z zemsty Endriu będzie zamykał organ Okrągłego Stołu. Hehehe... Endriu, czyżby tak wytrawny i obeznany w meandrach partyjnej gnojowicy polityk nie wie, że gazetę stworzyło wiele głów i rąk i żadne jeszcze nie odpadło? Chcesz samemu ukraść księżyc? Endriu, ośmiornica przy gazecie, to jednokomórkowy podwodny chwytak. Jeśli nie padniesz z rąk czekiszczakistów, to z pewnością w Tworkach założą ci klapy na oczy, a do pyska włożą kantar i będziesz zmuszony przejść do Sojuza Lewitów albo do Partii Obrażonych albo jeszcze gorzej, bo zostanie ci tylko pokrywanie strusic we własnym folwarku. Zadaj sobie owsa i patrz w kurwiki. **•** "Niezależna" prasa i telewizja w tej Polsce nie ma sumienia. Gdzie ta polityka chroniąca niewinne dzieci. Czy nikt nie widzi, że córka Anetki od pewnego czasu musi zakładać kurteczkę tył na przód z kapturkiem na oczy? Przecież takie niedotlenione dziecko może się stać dzieckiem autentycznym? Grozi jej także wychłodzenie potylicy, co może ją skazać w przyszłości tylko na pracę w polityce. Co to za matka, która z własnego dziecka zrobiła mięso armatnie? Gdzie się podziewa minister oświecenia publicznego? Gdzie ta liga ochrony dzietności?
+
+---
+
+**K**
+
+to rządzi w krakowskiej kurii? Kardynał Dziwisz czy kilku biskupów wyświęconych przez generała Cze. Kiszczaka? Wydawnictwo "Znak", które ma opublikować książkę ks. Isakowicza-Zaleskiego wydało oświadczenie, w którym można przeczytać, że - książka ukaże się wtedy, gdy kompetentni i miarodajni recenzenci uznają jej treści za w pełni odpowiadające historycznej prawdzie i gdy na autorze nie będzie ciążyć nakaz dyscyplinarny zawarty w komunikacie krakowskiej kurii. Biorąc pod uwagę, że wydawnictwo "Znak" jest bardzo zależne od "Tygodnika Powszechnego", "Tygodnik Powszechny" od ekipy Okrągłego Stołu, a ekipa Okrągłego Stołu od generała Cze. Kiszczaka, to należy być pewnym, że książka nie ukaże się nigdy. Natomiast krakowska Kuria nie bierze odpowiedzialności za publikacje ks. Zaleskiego - oznacza to, że kard. Dziwisz nie przeczyta, jak planowano, książki przed publikacją, oświadczył rzecznik kurii ks. Robert Nowak. Ksiądz zapowiedział, że książkę wyda w innym wydawnictwie lub opublikuje w Internecie. Ja mam nadzieje, że materiały źródłowe zdążył zdeponować u zaufanych przyjaciół na wszelki wypadek. Kuria nie śpi, a i Święta Inkwizycja nadal funkcjonuje.
+
+---
+
+**M**
+
+ożna odnieść wrażenie, że ruszyła jakaś kampania dezinformacji. Oprócz afery plemnikowej, która jest sztandarowym tematem podogońca Targowicy, mamy też dziwne dymisje, których nie ma, a G. Wyborcze pozwoliło sobie nawet na wywiad, którego nie było, a został skompilowany z różnych wcześniejszych wypowiedzi i puszczony bez autoryzacji. Takie rzeczy kiedyś robiła tylko "Trybuna Ludu" i wydawało się, że uderzenia poniżej pasa obowiązywały tylko w skomuszonej Polsce. Widać gra idzie o coś więcej, skoro Wyborcza sięgnęła do metod z arsenału propagandowego dwóch Józefów - doktora i generalissimusa.
+
+---
+
+**P**
+
+rzeglądając raporty prasowe w sprawie poszukiwań domniemanego ojca córki pani Anety K. zachodzę w głowę, o co w tym wszystkim chodzi. Najpierw sama Anetka z pewnością sięgającą 110% wskazuje na chwilowo dobrze sytuowanego posła, a po badaniach DNA nie może wyjść z podziwu, że się pomyliła. Potem następny weteran Sam00brony, ten co ponoć chciał spędzić ciążę odkrowięcymi miksturami, w imię prawdy i męskiej solidarności ogłasza, że ojcem jest inny zagończyk Sam00brony (ponoć sama Anetka tak powiedziała), który już akurat pracuje w opozycyjnej Partii Obrażonych. Ten znowy zarzeka się jak żaba błota i obiecuje oddać sprawę do wymiaru (hehehe) sprawiedliwości. Ja znowu tak patrząc na tę chłopięcą buzię i nie mogąc zauważyć nawet cienia doświadczenia życiowego myślę sobie, że całkiem możliwe, ponieważ u mężczyzny przy pierwszym stosunku najbardziej pracuje zwieracz odbytu, żeby się z radości nie zesr..., a dopiero potem jak już opadnie... podniecenie, zaczyna pracować głowa, po której zaczynają chodzić wątpliwości - zasiałem czy nie zasiałem. Całość wygląda na odliczanie w stylu - entliczek pętliczek..., a dziecina jest już chyba tak skołowana, że na wszelki wypadek do wszystkich mówi tatuś. A kto jest naprawdę ojcem wie tylko jeden emerytowany generał.
+
+---
+
+**W**
+
+ósmym dniu afery z samoobronnym seksizmem, bohaterka już doznaje przeorania psyche, a w całej aferze dowody miękną lub się rozpływają jak masełko na patelni. Według niemieckiego radia z Krakowa, Anetka K. miała zeznać, że Endriu nie jest ojcem jej córki, ani też młody zagończyk, który poszedł w destruktywną opozycję, choć ponoć zeznała, że wie kto jest ojcem dziecka, tylko "wie, ale nie powie", czyli za wszelka cenę chce zachować resztki tzw. twarzy, bo nie ma nawet cienia pojęcia kto zasiał (rozterki seksu zbiorowego albo "prądu zmiennego wysokiej częstotliwości"). Zdradziła tylko, że pan przewodniczący ma charakterystyczne, "owłosione plecy i nogi", ale nie powiedziała czy Endriu pokazał jej sam, czy zobaczyła jak molestowała podwyżkę, czy też dorwała gdzieś fotki ze wspólnej kąpieli "parteikomando". Wielka afera zamienia się w "gonić króliczka" i nadal sporo samoobrońców robi szybki rachunek sumienia "gdzie, z kim i kiedy", co noc przewracając się jak na rożnie obok urzędowych ślubnych. Coś jest charakterystycznego w tych opisach - Anetka nic nie mówi, sąd zeznania trzyma pod kluczem, a radio jednak wie wszystko. Ktoś tu kręci, albo rżnie jasnowidza. Podobnie z przeglądem ministerstw - jeszcze premier nie zaczął, a już w gazetach piszą, że najgorsi, to "first men" z MEN i "wschodzące słońce polskiego rolnictwa", czyli akurat ci, którzy wybitnie "nie leżą" przegranym. W ogóle to zastanawia mnie działalność ministra sprawiedliwości. Dlaczego, mając czarno na białym sytuację w tym politycznym bagnie, nie powołał jeszcze 24-godzinnych sądów dla polityków? Wszyscy narzekają na opieszałość sądów, ale nikt nie zwraca uwagi na to, że sądy dzisiaj nic nie robią, tylko zajmują się przede wszystkim piździanymi aferami, pomówieniami, wyzwiskami i innymi bzdetami Wysokiej Ciżby. Wystarczyło, że Endriu w telewizji jęknął coś na temat mieszkania na strychu i już "wielka Jupitera chce pozwać Leppera". Całe to badziewie zamiast pracować, to się po sądach włóczy.
+
+---
+
+**J**
+
+utro, po raz dwudziesty piąty, dowiemy się, że "rząd dołoży wszelkich starań, by wyjaśnić wszystkie aspekty stanu wojennego i ukarać winnych". 25 lat temu legiony Wolskiego, czekiszczakiści i Zdziczałe Oddziały Milicji Obywatelskiej zrealizowały stan wojenny, by rozpocząć przygotowania do obrad Okrągłego Stołu i wstępnie podzielić przyszłą władzę między "nas" i "was" w braterskim przymierzu ze Związkiem Radzieckim. Internowano pierwszą, prawdziwą "Solidarność", by móc dokonać selekcji i udzielić instruktażu dla przyszłej "naszej i waszej Solidarności". Wszystko poszło zgodnie z planem, ale do dzisiaj nie wiadomo kto faktycznie dyrygował, z jakiego klucza wybrano nową orkiestrę i kto tak naprawdę skomponował słynny utwór "Szalom Alejchem Polsko".
+
+---
+
+**J**
+
+akie są polskie "elyty" polityczne każdy widzi. Polskiego polityka pokazuje sie tylko do pasa, bo niżej słoma spod kiecek, z gaci i butów wystaje. Niektórzy starają się mówić poprawnie w ojczystym języku, co może tylko oznaczać, że kończyli stare szkoły, gdzie nie było jeszcze dyslekcji i ADHD, a normalne nauczanie. Ale nawet piękna mowa na nic, jak się nie ma nic do powiedzenia. Polskie "elyty" kształtują także "styl bycia" i do tego stylu siłą rzeczy równają pozostali, a przede wszystkim media. Nic dziwnego, że większość dziennikarzy, a szczególnie młodego pokolenia, brak kindersztuby nadrabia bezczelnością i hienowatością i codziennie zamiast rzetelnej informacji serwuje nam zwyczajną padlinę. Styl "elyt" jest propagowany przez telewizję i tu od razu widać po zaproszonych gościach, kto łoży na utrzymanie stacji. Jakiego stylu ma nas nauczyć poczerwieniała i pomarszczona damulka? Chyba tylko czegoś w stylu - "jak byliśmy na koktajlu w ambasadzie rosyjskiej, to wszyscy tak się schlali, że rzygali gdzie popadło, a tylko my z mężem wymiotowaliśmy pod stół".
+
+---
+
+**D**
+
+yżurne dwie tuby lewaków i libertynów rozdzierają szaty i rozpaczają nad skandalem na temat niemieckich wypędzonych. A czegoście się dupki spodziewali po oddaniu Niemcom pełnej dokumentacji zbrodni hitlerowskich na Polakach? Przecież to wy sami doprowadziliście do tego, a teraz ronicie krokodyle łzy? Faktycznie jesteście obłudni i do tego bezczelni. Teraz możecie tylko pojechać do Niemiec i uniżenie pocałować ich w dupę w obecności kamer, bo już nie macie dowodów, że było inaczej.
+
+---
+
+**N**
+
+asz były prezydent, laureat pokojowej nagrody Nobla i doktor honoris causa niezliczonej ilości uczelni oraz absolwent (no mniejsza z tym), raczył podsumować stan wojenny - Polska miała fuksa i pomoc Bożą, że się udało pokonać system komunistyczny. Ale równie dobrze mogłoby się nie udać, dlatego staram się zrozumieć decyzję generała. Szkoda, że nie wymienia Pan z nazwiska tego fuksa, a Bóg Panie Prezydencie to się odwrócił od Polski, gdy ujrzał Okrągły Stół i usłyszał o czym się przy nim mówiło. Dlatego zostaliśmy narodem wybranym nie przez Boga, a przez "jewrejów". Stan wojenny to była wielka zbrodnia, to najgorsza rzecz, jaka się stała. To była największa zbrodnia w całym 50-leciu komunizmu. No, tu historycy mogliby się z Panem pospierać o fakty, ale Pan akurat nie był na tych lekcjach, więc unika Pan dyskusji. Gen. Jaruzelski reprezentuje pokolenie nieszczęśliwych, fatalnych czasów. W innych warunkach to mogli być wielcy ludzie, bohaterowie, ale mieli pecha do historii. Niech go historia i Bóg rozliczy. Ja go zostawiam, bo rozumiem straszliwe czasy, które wytworzyły ludzi takich jak on. Tak, i dlatego według Pana "po co dziadka denerwować, niech se dziadek żyje". Pan zawsze wyżej cenił gen. Jaruzelskiego niż tego zdrajcę płk. Kuklińskiego. Od Pana nie usłyszał nawet zwykłego "dziękuję". Jako rewolucjoniście, jako temu, który prowadził naród, wystarczy mi wielkie zwycięstwo, które odnieśliśmy nad komunizmem. Jeszcze jakby mi Pan pokazał, w którym miejscu odnieśliśmy to zwycięstwo, to naprawdę lepiej by mi suchy chleb smakował. Pan żyje w innym świecie, Panie Prezydencie. Dzisiaj komunizm w Polsce ma się tak dobrze, jak nie mógł nawet pomarzyć w siermiężnej PRL. I to jest właśnie to największe, Pańskie "zwycięstwo", którym tak się Pan chełpi.
+
+---
+
+Czy to jest państwowa opieka społeczna czy nowy stalinowski terroryzm? Przecież to jest najzwyklejszy sqrwysynizm!!! Przeczytaj. [![przeczytaj](../../zrodlo/webacja/info.jpg)](http://serwisy.gazeta.pl/kraj/1,34317,3788599.html)
+
+---
+
+**W**
+
+dniach wielkich rocznic jesteśmy zalewani artykułami i audycjami, które mają rozjaśniać w głowach motłochu, dlaczego taką rocznicę obchodzimy. Jak zwykle u nas, zgodnie z zasadą demokracji, z reguły wypowiadają się tylko ci, którzy "są za, a nawet przeciw" i jak zwykle jest to bełtanie wody z szarym mydłem. Historyk, zgodnie z zasadami współczesnej nauki, nic nie napisze bez dokumentu, czyli mówiąc prościej, jak nie znajdzie "kwitu" czegoś potwierdzającego, to taką rzecz uważa za niebyłą (choć wielce prawdopodobną). Problem w tym, że większość dokumentów dotyczących spraw polskich nie znajduje się u nas, a u sąsiadów. Rosja ma większy IPN "polaczków" niż sama Polska, dodatkowo zasilony kwitami z okresu "niszczenia dokumentów". Przecież we WSI nie pracowali głupcy i doskonali zdawali sobie sprawę, gdzie dokumenty będą najbezpieczniejsze. Dzięki polskim komuchom, Niemcom darowano dokumentację ich własnych zbrodni na Polakach i dlatego coraz bardziej ochoczo mówią to, co o nas myślą. Polak nie ocenia siebie przez pryzmat kraju i dlatego stan wojenny jest oceniany przez pryzmat własnych korzyści i niekorzyści. Jedni stracili bliskich, inni osobistą wolność i pracę, a jeszcze innych wyniósł na szczyty kariery czy przysporzył korzyści materialnych. To są właśnie plusy i minusy i te mają odbicie we wszelkich nikomu nie potrzebnych ankietach. Stan wojenny wprowadzono z dwóch powodów - pierwszy, to utrzymanie komuszej władzy, która była ważniejsza od nędznej i tak gospodarki, drugi i chyba ważniejszy, jak mówi Andrzej Gwiazda, - stan wojenny umożliwił przekształcenie pierwszej Solidarności na inną, potulną komuszej władzy oraz był przygotowaniem do Okrągłego Stołu, przy którym "bezkrwawo" przekazano władzę "hieno-demokratom" pod warunkiem zachowania przywilejów dla przekazujących. To dlatego ci niby-demokraci nie przeprowadzili rzeczy najważniejszej - odwszawienia Polski i te niewybite wszy ze swoimi gnidami, dalej w najlepsze żywią się krwią narodu. O tym "niezależna" prasa na pewno nie napisze, a "niezależna" telewizja na pewno nie powie, bo nie będą gryzły ręki, która je karmi.
+
+---
+
+**J**
+
+ak wynika z analizy moskiewskiego Centrum Badania Elit - 78% ludzi na arenie politycznej Rosji w taki czy inny sposób było związanych w swej karierze zawodowej z KGB lub organizacjami, które są jego spadkobiercami. Niektórzy obserwatorzy uważają, że FSB odgrywa dużą rolę w przygotowaniu projektów ustaw. Podają tu przykład ustawy, która umożliwia rosyjskim organom państwowym pełny wgląd w dokumenty finansowe i administracyjne organizacji pozarządowych i wprowadza zakaz finansowania ich działalności politycznej. Skąd oni przejęli ten model? I to bez obrad Okrągłego Stołu?
+
+---
+
+**C**
+
+zy istnieje w Polsce Grupa Trzymająca Sondaże? W polskich sondażowniach rządzą ludzie z powołanego przez Wojciecha Jaruzelskiego w stanie wojennym "mundurowego" CBOS, który był orężem generalskiej junty. Dziś zasiadają we władzach OBOP, Pentora, PBS i IPSOS. Stworzyli też od podstaw GfK Polonia. Jak działa patologiczny układ, na który składają się wzajemne powiązania sondażowni, mediów oraz medialnych ekspertów? Teraz jest już jasne, dlaczego ponad połowa Polaków popiera wprowadzenie stanu wojennego. Przeczytaj. [![przeczytaj](../../zrodlo/webacja/info.jpg)](http://wiadomosci.onet.pl/1378623,2677,kioskart.html)
+
+---
+
+**R**
+
+osyjscy deputowani spienili się widząc przed parlamentem figury Świętego Mikołaja zamiast leninowskiego Dieda Moroza i zażądali wymiany na jedynie słuszną wersję. U nas też można zauważyć leninowską tradycję - w niemieckim radiu z Krakowa występuje Świetny Mikołaj i prezenty też rozdają Śnieżynki. Brak natomiast danych, kto ciągnie zaprzęg - czy to są jeszcze tradycyjne renifery czy już "Leopardy" z Bundeswehry.
+
+---
+
+**Z**
+
+łódzkiego sądu - "...to on sypał już na pierwszym przesłuchaniu swoich przyjaciół, rozszyfrowywał pseudonimy. My milczeliśmy, a on, przywódca - wszystko im mówił. A teraz oskarża mnie o niegodne zachowanie! Manifest był moją odpowiedzią na jego zachowanie." - Ona, to Elżbieta Nagrodzka, była działaczka antykomunistycznego "Ruchu" z lat 60-tych, a on - to dzisiejszy senator Stefan Niesiołowski (TW Leopold), wtedy przewodniczący tej organizacji, później pospołu z Wiesławem Chrzanowskim (TW Zuwak, TW Spółdzielca) w ZChN, a dziś głośny krzykacz w PO. [![przeczytaj](../../zrodlo/webacja/info.jpg)](http://serwisy.gazeta.pl/kraj/1,34317,3788412.html)
+
+---
+
+**O**
+
+jakiegoś czasu trwa zażarta dyskusja, co zrobic z generałem. Ponad dekadę straszy się go sądem za stan wojenny i nic. Problem jest taki, że owszem można postawić przed sądem, ale po co. Generał może nie dożyć wyroku, przy takim tempie rozpraw. Dzisiaj ścierają się dwie opcje - potępić albo zdegradować. Potępienie jako kara jest stosowane już od lat i generał ma się dobrze. Druga kara jest o wiele dotkliwsza, bo wiąże się z utratą dochodów, ale jak sądzę też niewielka, bo generał ma przecież dozgonny dochód od narodu za prezydenturę (a tu jak wiemy był "cacy"). Nie wierzę także, że po cichu nie zasiada jako "honorowy" członek zarządu w paru dochodowych spółkach utworzonych przez dawnych podwładnych. Najbardziej satysfakcjonująca kara za zdradę narodu niestety nie istnieje, bo znieśli ją ci, którym groziła.
+
+---
+
+**S**
+
+am00brona przystąpiła do (hehehe) samooczyszczania. Jest to typowo partyjny zabieg kosmetyczny, gdzie wyciska się tylko to, co jest najbardziej widoczne. Poseł Łyżwiński "wyrósł" na samej twarzy i był najbardziej widoczny, dlatego poszedł na pierwszy ogień. Reszta, albo szybko "przeniesie" się gdzie indziej (najbezpieczniej na dupie), albo też pójdzie pod paznokieć. Prawdę mówiąc, "syfki" na ciele są chorobą całej tej partii jako organizmu i wyciskanie nic tu nie da, bo na miejsce jednego wyciśniętego wyskoczą dwa następne, ale jedni tego nie rozumieją, a inni nie chcą zrozumieć. Największy "wągier" Sam00brony i tak pozostanie, bo przecież sam siebie nie wyciśnie.
+
+---
+
+**W**
+
+Polkowicach, mieście słynącym z górniczych tąpnięć, właściciel KGHM wpadł na genialny pomysł mający poprawić bezpieczeństwo mieszkańców. Wystosował list do 400 rodzin, mieszkających na ostatnich piętrach wieżowców, z propozycją aby meble poprzykręcali sobie śrubami do ścian. Zanaczył, że przykręcenie nie jest obowiązkowe, ale dobrowolne. Widać władze kopalni mają złe przeczucia, albo szykują kolejny "kontrolowany wybuch" jak ostatnio. Mieszkańcy wystosowali zapytanie do władz kopalnianych, do czego i jak poprzykęcać telewizory. ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**I**
+
+już mamy następne cztery Fe-16 do zemkowego skupu złomu. Mamy mieć 48 egzemplarzy, czyli prezydentowa oprócz tych, musi jeszcze 10 razy specjalnie przylatywać z Warszawki do Krzesin, by powiedzieć kolejnym sokołom, jak się mają nazywać, jak mają latać i kogo wychwalać pod chmurami. Tanie państwo stać na dwanaście chrztów, a co... Czytałem też, że już mamy jednego pilota co umie, ale kiedy będą następni to niewiadomo, bo uczniowie w domu, a nauczyciele po drugiej stronie globu. Jak rozumiem, na dzień dzisiejszy po naszym niebie może latać kto chce, bo nasz bojowy "aerofłot" stracił licencję na zabijanie w zeszłym wieku, a pierwsze nieopierzone sokoły wzlecą dopiero za dwa lata, jak je celnicy złożą do kupy. Całe 48 sztuk ma być gotowe dopiero w roku 2012 i teraz rozumiem, dlaczego prymas co jakiś czas oddaje nas wszystkich pod opiekę Pani Jasnogórskiej.
+
+---
+
+**P**
+
+o walnięciu pałą w koalicję, organy prasowe Okrągłego Stołu przeszły do taktyki upierdliwego komara, wysyłając do czytelników niby nic nie znaczące wiadomości, które potem dementują same albo zmuszeni zainteresowani (których z reguły się już nie czyta). Przykładowo - Wiceszef ABW Tomasz Klimek trzykrotnie oblał badanie na wykrywaczu kłamstw - dowiedzieli się reporterzy "Dziennika". \[...\] Jego problemy pojawiły się, gdy padały pytania o korupcję - twierdzą informatorzy "Dziennika". Oficjalnie kierownictwo ABW odmawia odpowiedzi na temat badania. Na najbliższym posiedzeniu wyjaśnimy tę niepokojącą informację - zapowiada szef komisji ds. służb specjalnych poseł Janusz Zemke (specjalista od prowokacji politycznej w PZPR). Oczywiście nie wiemy kim są tzw. informatorzy, bo pismakowi nie wolno zdradzić, ale należy sądzić, że chodzi o kręgi zbliżone do... samego brukowca (tzw. sufitówka). Zwykle nie chodzi tu o żadną sensację, ale o tzw. prztyczki, mające na celu lekkie naderwanie zaufania, a także o zmuszenie delikwenta do "prostowania" informacji, co znajduje potwierdzenie dalej - ABW stwierdza, że przedstawione przez autora artykułu tezy nie są zgodne z rzeczywistością" - głosi komunikat zespołu prasowego ABW. Dodano w nim, że ABW ani nie komentuje, ani nie udostępnia danych pochodzących z wewnętrznych procedur kadrowych. Z uwagi na poufny charakter, nie udziela również informacji o ich przebiegu i wynikach - podkreśla ABW. Coś a'la gra w ping-ponga, gdzie pismak zamiast piłeczki używa śliny wymemlanej z własnymi odchodami, ale jest to standard w komucho-liberalnych podogońcach. Taktyka odzwierzęca czasem przynosi efekty, bo komar nie musi się tłumaczyć...
+
+---
+
+**L**
+
+edwo Hajke zasiadła na stolcu i od razu - "dzisiaj w Warszawie, dzisiaj w Warszawie wesoła nowina..." - odbędzie się oficjalna uroczystość zapalenia świateł Chanukowych (nie mylić z choinkowymi). Świece zapalą... oczywiście Sami Swoi i to z samego świecznika a wyborcy, którzy wybrali Prezydentową Miasta Stołecznego Warszawy, dostaną za darmochę pieniądze... z czekolady (gelty) i latkes (takie ichnie ciasteczkas), by razem przeżywać wielką radość z powodu cudu z oliwą (podkreślam - z oliwą, bo cud z olejem rzepakowym nazywany jest u nas przekrętem). Natomiast Fakty.interia.pl rzuciły od niechcenia wiadomość, że Watykan jest za zniesieniem Świąt Bożego Narodzenia, ale nie szukajmy potwierdzenia, bo wiadomość błyskawicznie zniknęła z portalu (pozostał tylko adres - http://fakty.interia.pl/fakty\_dnia/news/watykan-za-likwidacja-swiat-bozego-narodzenia,848324,2943, pod którym już "nikt nie mieszka"). Demokracja coraz śmielej wkracza do Polski, a ja się całkiem poważnie zastanawiam, czy już (na wszelki wypadek) nie poddać się obrzezaniu i nie zacząć się uczyć historii o dwunastu plemionach mojego przyszłego "hajmatu". Kraków broni się nadal - dzisiaj na rynku normalna, polska wigilia dla ubogich i potrzebujących.
+
+---
+
+**D**
+
+opiero po upływie dwudziestu lat (by nie denerwować lobby "ciężkich" pokarmów), brytyjscy uczeni zdecydowali się ogłosić wyniki badań nad wpływem pożywienia na ewolucję rozumu. Populację potomków bonobo nauka podzieliła na dwie zasadnicze grupy - zieleninofagów i habaninofagów. Brytyjska nauka dobitnie stwierdza, że pochłaniający zieleninę są bardziej inteligentni od preferujących białko martwych braci mniejszych i dotyczy to zarówno osobników typu samiec jak i samica. Badania wykazały, że dzieci anty-macdonaldystów mają większą zawartość "oleju" (sposobu tłoczenia nie podano) w głowie niż ich rówieśnicy z gatunku kochających "bigmaca". Najważniejsza jest konkluzja, że "grupa unikająca mięsa ma też wyższy status socjalny i lepsze wykształcenie", co potwierdza fakt, że w Polsce na najwyższych stanowiskach zasiadają tylko ludzie preferujący "koszerne" pożywienie. Święta prawda, bo czy ktoś widział chasydę jedzącego w MacDonaldzie i zapijającego się Coca-Colą? Ja nigdy i pod tym względem uważam ich za mądry naród.
+
+---
+
+**D**
+
+ocent czerwiologii (specjalista od robactwa), poseł "specjalnej troski" za panowania Leszka Czerwonego, a dziś "pierwsza mucha plujka" Partii Obrażonych - TW Leopold, jest oburzony wypowiedzią Prezydenta, co nie chciał pytania od "małpy w czerwonym". Mnie się Prezydent coraz bardziej podoba, bo jako pierwszy na świecie rezygnuje z tzw. języka dyplomacji na rzecz zrozumiałej dla wszystkich mowy. Mógł oczywiście powiedzieć o "brakującym ogniwie w teorii Darwina w narzutce koloru komunizmu" ale możliwe, że czas konferencji prasowej dobiegał końca. A w kraju, "[pierwsza bufetowa RP](http://bufetowa.blogspot.com/)" nie będzie już przekształcać Bazaru Wschodu w Stadion Narodowy a fundusze zostaną przekierowane na stadion Legii, którego właścicielem jest koncern ITI, do którego (całkiem przypadkowo) należy walterowska TVN (zbieżność z gen. Świerczewskim - "Walterem" jest nieprzypadkowo przypadkowa).
+
+---
+
+**J**
+
+ak trwoga, to do Boga. Posłowie Sam00brony na czele z szefem partii udali się na Jasną Górę, gdzie modlili się w intencji odnowy życia politycznego i medialnego w Polsce. Pan przewodniczący raczył powiedzieć - Chcemy w takiej chwili refleksji przed świętami Bożego Narodzenia nasz los, los Polski, powierzyć w ręce Matki Boskiej Królowej Polski. \[...\] To, co się stało wobec naszej partii. Partii, która bez winy na pewno nie jest i której również potrzebna jest odnowa moralna. \[...\] Natomiast zachowania przestępcze, kryminalne, niech osądzi wymiar sprawiedliwości, a nie dziennikarze i politycy. Czyli tłumacząc na nasze - "my, Panie Boże, może i winowate, ale nas utratą władzy nie doświadczaj, bo tego nie przeżyjem i wielkich długów swoich nie spłacim, które na podatników spaść będą musiały". Nie wiem, co tu podziwiać - bezczelność i tupet ludzi czy cierpliwość i miłosierdzie Tego, który już dawno powinien spuścić obydwie nogi i skopać ich po tych głupich łbach. Sam00brona pokazuje taki sam pic dla ludu, jak jeden ekscentryk z Jasnogórską w klapie.
+
+---
+
+**M**
+
+inister obrony uważa, że nie trzeba dramatyzować awarii samolotów F-16 w drodze do Polski. Radosław Sikorski powiedział w "Sygnałach Dnia" w Programie Pierwszym Polskiego Radia, że zdaniem specjalistów, drobne awarie samolotów nie są niczym nadzwyczajnym. Wysnuć z tego należy wniosek, że albo pan minister lekceważy sobie bezpieczeństwo pilotów, a w gruncie rzeczy naszego państwa, albo nie ma pojęcia o tym co robi i do czego został powołany. Świadczy to też o tym, że "uratowana" przez Polskę linia produkcyjna przestarzałych samolotów jest pozbawiona kontroli jakości, co dobitnie świadczy o całkowitym lekceważeniu "drobnego" kontrahenta (o współpracy "ofsikowej" nie wspomnę). W wielkiej przyjaźni USA do Polski tak naprawdę liczą się tylko pieniądze, które spłyną od nas do nich. Zaczynam się też zastanawiać, czy przypadkiem nie zapomniano w tym zemkowym kontrakcie o uzbrojeniu dla tych Fe-16, bo za parę lat się okaże, że trzeba będzie albo wysupłać następne miliardy albo po bokach przyklejać taśmą samoprzylepną niezawodne "kałachy".
+
+---
+
+**J**
+
+esteśmy świadkami finału wielkiej prowokacji WSI mającej na celu skompromitowanie i odsunięcie od polityki byłego Ministra Obrony Narodowej Romualda Szewremietiewa i jego zaufanych współpracowników. Dzisiaj skazano jego asystenta Zbigniewa Farmusa za rzekome ujawnienie tajemnicy państwowej. Tak, rzekome, ponieważ proces utjaniono i opinia publiczna nie jest w stanie "odgadnąć" za co tak naprawdę był sądzony. Ponieważ odsiedział już 2,5 roku w areszcie, skazano go "tylko" na 2,5 roku, bo "zadanie" zasadnicze zostało wykonane. Romuald Szeremietiew czeka jeszcze na proces. A wszystko dlatego, że jako jedyny minister obrony chciał dokonać rzeczywistej restrukturyzacji armii, jako jedyny miał wizję przyszłej polskiej armii i jako jedyny minister obrony miał wykształcenie wojskowe i naprawdę znał się na rzeczy. Na drodze stanał rząd ignorantów, dbająca tylko o siebie generalicja do dziś nie zainteresowana restrukturyzacją oraz "niewidzialna ręka" komuny, czyli wszyscy, którym nie zależy na bezpieczeństwie Polski.
+
+---
+
+"Prawica jest mi kompletnie obca", "Michnik będzie dla mnie zawsze postacią naczelną" - Marek Kondrat
+
+---
+
+**C**
+
+zyżby w Sojuzie Lewitów też zapachniało nasieniem? jak pisze "Newsweek" - w ubiegłym tygodniu w biurze posła SLD Michała Tobera automatyczna sekretarka zarejestrowała wiadomość: "Doświadczyłam tego samego, co Aneta Krawczyk, ale nie skorzystałam z propozycji, którą mi złożono w wojewódzkim biurze parlamentarnym SLD". Jak informuje "Newsweek" informacja pochodzi od byłej działaczki młodzieżówki SLD Agnieszki S. "Jestem zdecydowana zrobić z tego aferę, jeśli państwo nie dacie mi stanowiska" - oznajmia kobieta, która twierdzi, ze propozycja miała paść w biurze byłego posła SLD Andrzeja Szarawarskiego. Jak widać i tu sporo prącia jest w pozycji "włączone". Okazać się może, że lewica nie tylko pieprzy głupoty.
+
+---
+
+**G**
+
+azeta Wybiorcza pierwsza publikuje zaskakujące wyniki nowego sondażu tzw. Eurobarometru przeprowadzonego jednocześnie w całej UE. Unia skorzystała zapewne z Centrum Badania Obłudy Społecznej pod wezwaniem płk. Kwiatkowskiego, które przeprowadziło ankietę na losowo podstawionych, ale "pewnych" respondentach z Zatoki Czerwonych Chrum-Chrum i stąd wynik jak w Chińskiej Republice Ludowej, czyli 63% "za", co jest wynikiem zaskakująco nie zaskakującym.
+
+---
+
+**B**
+
+iałowieski Park Narodowy będzie zabiegał o zgodę na odstrzał eliminacyjny w przyszłym roku 40 żubrów ze stada w Białowieskim Parku Narodowym. Mam nadzieję, że liczba obejmuje osobniki naprawdę chore i na liście znajduje się jeden przewlekle chory żubr o czerwonej sierści i wdzięcznym imieniu Włodzimierz.
+
+---
+
+**R**
+
+adujcie się bracia politycy, posłowie, senatorowie oraz wszelkiej maści partyjniacy i urzędnicy państwowi. Z zagranicy nadeszła wiadomość, która tchnie optymizmem dla wszystkich, którzy jej oczekiwali. Jak dowodzą niemieccy lekarze, uszkodzone mózgi alkoholików mogą się regenerować. Ale jest też i wiadomość smutna - warunkiem jest natychmiastowa i bezwzględna abstynencja.
+
+---
+
+**Z**
+
+nowu zaczęło się bicie piany. Tym razem idzie o naszą obecność wojskową w Iraku. Rząd chce przedłużyć misję do końca 2007 roku, a to jest "z urzędu" sprzeczne z poglądami opozycji, która chce wycofania wojska natychmiast. Oczywiście najgłośniej ujada dwóch Lewitów, którzy wojsko tam posłali, a przyszczekuje jedna sztuka niespełnionego ministra obrony narodowej z Partii Obrażonych. Żadna opcja jednak nie powie wprost, jak to było naprawdę z tym wysyłaniem do Iraku. Wiemy wszyscy, że wojna w Iraku nie ma mandatu Narodów Zjednoczonych, a więc jest prywatną wojenką Ameryki o ropę naftową i przy okazji "być albo nie być Izraela", bo to co się opowiada publice, to bajki z "tysiąca i jednej nocy" o kalifie z Bagdadu. Jeśli tak, to niech ktoś powie uczciwie, co już dostali od Amerykanów i co jeszcze mają dostać, skoro zgadzamy się na przedłużenie pobytu i na dodatek mamy posłać wojsko do Afganistanu. Na te pytania z odpowiedzią nikt się nie pokwapi, bo ci partyjni "fachowcy", to tylko specjaliści od gier planszowych i przestawiania ołowianych żołnierzyków. Prawdziwi żołnierze nie mają tu nic do gadania i szkoda tylko, że muszą nadstawiać głowy, za tych co myślą dupą. A ruskie tylko liczą ile nam wojska w kraju zostało i dozbrajają Kałaszenkę i swoją kaliningradzką bazę.
+
+---
+
+**Ż**
+
+ywot Warszawy, polskojęzyczna gazeta (z obcym napędem) dla wyborców ze stolicy donosi, że partia "Narodowe Odrodzenie Polski" będzie nasyłać do sejmu kartki świąteczne z życzeniami "przebudzenia się w Wolnej, Narodowej i Katolickiej Polsce" wraz z wizerunkiem "świętego Mikołaja unoszącego rękę w nazistowskim geście". Podobno nazistowskim, bo na wszelki wypadek fotki nie zamieszczono i czytający jest skazany na własną wyobraźnię. Politykom znów przegina się pała i teraz każde podniesienie prawej ręki, może być odczytane jako "Heil Hitler", a sąd będzie je tylko klasyfikował jako wyraziste, kamuflowane albo niedbałe (z licznikiem 3-2-1, oczywiście lat). Czy były prezydent miał nosa, jak chciał wprowadzić nowy polski zwyczaj witania się nogą? Coś w tym jest.
+
+---
+
+**J**
+
+uż któryś raz z rzędu dowiadujemy się, że Osama syn Ladena znajdował się na muszce i wystarczało tylko pociągnąć za spust. Tym razem miał go w celowniku francuski komandos, a konkretnie jeden francuski palec wskazujący, który nie zgiął się do końca tylko dlatego, że na to nie pozwoliła głowa, która dla odmiany znajdowała się w Waszyngtonie. Wynika z tego, że Osama musi żyć, bo jest potrzebny Ameryce jak chleb i woda. Dla przeciętnego Amerykanina, Osama jest obliczem terroryzmu i dopóki on żyje, doputy rząd amerykański ma przyzwolenie społeczne na ściganie go we wszystkich zakątkach świata, nawet tam gdzie go nie ma, bo przecież może tam być. Osama to błogosławieństwo dla przemysłu Ameryki, bo jest kołem zamachowym prawie wszystkiego, a szczególnie przemysłu zbrojeniowego i kto wie, czy oprócz swojej gwardii, nie chroni go jeszcze inna "niewidzialna" jednostka amerykańska ze sztabem lekarzy specjalistów. Jeśli umrze, Ameryka straci motywację i będzie musiała używać wszelkich sposobów aby dowodzić, że jeszcze żyje, tak jak niezależna "walterowska" TVN, która odkurzyła film z płonącym hakenkrojcem sprzed dwóch lat, by pokazać że po Polsce jeszcze dziś hulają fani wuja Adolfa. Nie o to chodzi by złapać króliczka, ale by gonić go.
+
+---
+
+**P**
+
+olskie Koleje Państwowe przechodzą w stadium "convulsio", co oznacza bliską już śmierć przemysłu na szynach. To własnie dlatego podzielono PKP na mniejsze organizmy, by dziś łatwiej i bez rozgłosu sprzedać "kadłubki", a także dlatego by rozbić ludzką jedność kolejarskiej braci na nic nie znaczące bezsilne grupki (z górnikami się nie udało). Od przyszłego roku wchodzi zagraniczny przewoźnik, który od razu zrobi to, czego "nasi" nie chcieli przez 15 lat - zacznie zarabiać na przewozie TIR-ów. Potem wejdą zachodni specjaliści od przewozu ludzi, a PKP z MON zreanimują tylko jednostki Obrony Torów Kolejowych, które będą dbać fizycznie o szyny, podkłady kolejowe i polską ziemię pod torami. Szeregowi pracownicy kolei podzielą los PGR-ów i nie będą mieli kompletnie nic, bo do dziś nie uregulowano ich emerytur i zapewne (planowo) się nie zdąży. Popracują jeszcze przez parę lat, bo trzeba wyremontować tory dla szybkich pociągów "Pierdolino" i to będzie koniec polskiego kolejnictwa. Jak dobrze pójdzie, to niebawem usłyszymy na "Centralnym"- "pospieszna pociąg z Krakau do Warschau ma wjechać planowo na szyna peron jeden, bitte nie wchodzić na szyna".
+
+---
+
+**Z**
+
+okazji zbliżających się Świąt Bożego Narodzenia, Polacy dostali pod choinkę temat - czy następca kardynała to zwyczajny Stanisław czy niezwykły Adam? Problem leży w tym, że wiadomośc podała "Gazeta Polska", a więc jedna z tych niewielu nieskażonych Talmudem oraz obcym kapitałem i dlatego w obronie biskupa stanęli ci, u których na ołtarzu powiewa replika sztandaru PZPR zatknięta w doniczkę obok sierpa i młota. Odezwał się nawet obleśny "czerwony kapturek", konwertyta z frakcji tow. Bermana, ten co już zaliczył drogę przez mękę od ołtarza do gorejącej gwiazdy, która świeciła podczas narodzenia świętego Iljicza, przebąkując coś o pomówieniu. Biorąc pod uwagę "zawodową" solidarność obrońców, "coś musi być na rzeczy" - jak zwykła mawiać spryciulna dziennikarz po studiach i obozach kondycyjnych na Wyższej Szkole Informacji.
+
+---
+
+**G**
+
+azeta zbliżona do kręgu czwartego prezydenta pojałtańskiej RP, wykryła następny spisek PiS, dotyczący uchwały Sejmu "o intronizacji Chrystusa na króla Polski". Jeśli już na samo słowo "Chrystus" podniósł ci się włos na głowie, to nie czytaj dalej, bo prawdopodobnie jesteś zwolennikiem wyższości portmonetki nad psyche. O ile wiem, będzie to kolejna próba uznania przez państwo żądania Syna Bożego przekazanego ustami Rozalii Celakówny - "Jest ratunek dla Polski, jeśli Mnie uzna za swego Króla i Boga w zupełności przez Intronizację, nie tylko w poszczególnych częściach kraju, ale w całym państwie z rządem na czele..." (novum w dziejach chrześcijaństwa, gdyż żądanie dotyczy nie tylko kościoła ale i świeckiego państwa, nad czym warto się zastanowić). Czy zostanie wprowadzona w życie? Być może tak, choć jak mówi jeden z inicjatorów uchwały - "Boimy się, że podczas sejmowej dyskusji nad uchwałą zostaną splugawione największe świętości". Jest to więcej niż pewne, szczególnie gdy głos zabierze lewacki kobieton, maskotka wszystkich "inaczej", której "timbre" można porównać tylko do skrzeku podrzynanej żaby. Co takiego może być w uchwale, która jak żadna inna, nie pociąga za sobą milionowych wydatków? Ano to, że może ponownie rozbudzić ducha w narodzie, jak po pamiętnych słowach Papieża-Polaka w Warszawie, a to już jest nie do przyjęcia dla tych, co z Polski zrobili pasierbicę Europy i popychadło Rosji. Osobiście uważam to za dobry ruch (nawet jako "na wszelki wypadek"), bo rok 2012 nieuchronnie nadciąga, a wtedy nie wiadomo komu będzie "z brzega".
+
+---
+
+**R**
+
+ząd zaczyna realizować wizję państwa przyjaznego obywatelom. Od 1 stycznia 2007 obywatel będzie mógł zachować dla siebie więcej śliny, bo znikają znaczki skarbowe. Pieniędzy i tak wyda więcej, bo zamiast znaczka będzie musiał zapłacić należną kwotę przekazem pocztowym, a to jednak nadal kosztuje (i wykazuje tendencję zwyżkową).
+
+---
+
+**Z**
+
+espół mechaników z warsztatu medycznego w Toronto odkrył, że wystarczy założyć jedna uszczelkę i już będzie po cukrzycy typu pierwszego. Chodzi o to, że chory otrzyma zastrzyk, po którym nastąpi blokada własnego układu odpornościowego. Podobno działa na myszy, ale na ludziach mengelistyczne eksperymenty potrwają jeszcze parę lat. Chorzy zatem mają jeszcze kilka lat życia, zanim od nowoczesnej medycyny otrzymają możliwość zachorowania na nowy typ naukowego AIDS. Ilu nie przetrzyma eksperymentów, nie dowiemy się, bo takie wieści są utajniane z urzędu, ale jeśli połowa przeżyje, to ogłosi się nowe zwycięstwo nowoczesnej medycyny i jej siostry, paracelsusowej farmacji.
+
+---
+
+**M**
+
+inisterstwo Finansów wydało komunikat - zadłużenie Skarbu Państwa wyniosło na koniec października 2006 roku 477,1 mld zł. Oznacza to spadek o 1,9 mld zł, czyli o 0,4% w porównaniu z końcem września 2006 roku. Jednak od początku 2006 roku zadłużenie wzrosło o 36,9 mld zł, czyli o 8,4%. Zadłużenie krajowe wyniosło na koniec października 350,4 mld zł. Było to o 5,1 mld, czyli 1,5% więcej, niż we wrześniu. Od początku roku wzrosło o ponad 35 mld zł, czyli o 11,1%. Zadłużenie zagraniczne wyniosło 126,6 mld zł. Oznacza to spadek o 7,1 mld zł, czyli o 5,3%, w stosunku do końca września. Od początku roku wzrosło o 1,9 mld zł, czyli o 1,6%. Jeżeli wszystko zrozumiałeś, to możesz spokojnie zasiąść do wigilijnej kolacji. ![](../../zrodlo/webacja/usmiech.gif) Dług i tak będą spłacać jeszcze nasze prawnuki, a na wszelki wypadek mamy jeszcze niewyprzedaną połowę kraju.
+
+---
+
+**J**
+
+edna z wielu filii płk. Kwiatkowskiego przeprowadziła sondaż "Czy zgadzasz się na budowę elektrowni atomowej?" i oczywiście naród zmądrzał i powiedział "tak" w 61% i zapewne głosami tych, co chcą prądu ale nie elektrowni w pobliżu. Straconego czasu nikt nie nadrobi, a z chęci do elektrowni prądu nie będzie. Nawet jeśli zapadnie decyzja o budowie, to możemy poczekać do "USA" (usranej śmierci, amen), bo tak rozkradzionego kraju długo nie będzie stać nawet na fundamenty. Na razie kombinują z Ignalinem, choć to elektrownia typu "Czernobyl" i nie wiadomo jak się zachowa po podłączeniu Polski. Tylko rząd będzie "w porzo", bo chciał. Za 2-3 lata przypomnimy sobie czym był 20-ty stopień zasilania, kontemplując przy świecach ciemną rzeczywistość.
+
+---
+
+**H**
+
+ehehe. Specjaliści wymyślili, co wojsko ma robić w Afganistanie, by uniknąć strat w sile żywej. Będą tłumaczyć miejscowym, że ruskie, to były hordy czerwonych małp, a oni są łagodnym okupantem, którym zależy tylko na szczęściu Afganistanu. Będzie tam głoszone, że nie wiadomo po co oni tu przyjechali, bo polskie społeczeństwo jest temu przeciwne, ale słowo dane Amerykanom to rzecz święta. Filmowcy mają nakręcić w Polsce film o Afganistanie, który jest winien narkotyzacji Polski, a MON chce żeby z wojskiem wyjechali dziennikarze (na pierwszy ogień proponuje Lisa z Olejnikówną), by dawać świadectwo prawdzie. Mają też wypowiadać się wojskowi, ale tylko ci pozytywnie odnoszący się do misji. Na razie wojsko przygotowuje się do walki o prawa kobiet afgańskich, zgodnie z założeniem "gdzie diabeł nie może...". Czyli wszystko ma być "cool", a jeśli ktoś zginie, to tylko dlatego, że nie uważał na szkoleniu albo przez własną nieuwagę.
+
+---
+
+**W**
+
+Polsce w dalszym ciągu sieje się nienawiść, a co najmniej nieufność, zgodnie z imperialną zasadą "divide et impera", bowiem podzielony wewnętrznie naród daje sobą doskonale manipulować i nigdy nie będzie w stanie zjednoczyć się w całość. Czy biskup Stanisław był "Adamem"? - tego z całkowitą pewnością nie dowiemy się nigdy. Bardzo możliwe, że "Gazeta Polska" padła ofiarą esbeckiej prowokacji, ale jest też możliwe, że napisała prawdę. Dziwi mnie trochę, że na obrońców biskupa kreują się ludzie, którzy marzą wprost o wyburzeniu wszystkich kościółów w Polsce, ale to chyba zasada "magnesu" - oni na tym biegunie, to my musimy być na przeciwnym. "Wybiorcza" pisze, że podobno w obronie biskupa wystąpił sam papież. Piszę "podobno", bo temu "organowi" wierzę tak, jak pewien minister "burej suce", bowiem stworzona do kłamstwa i propagandy nigdy nie będzie kreować rzeczywistej prawdy. Z drugiej strony, czym podyktowana jest w tej akurat materii "nieomylność papieska"? Wypowiadając się tak autorytatywnie wydawać się może, że doskonale jest obeznany z działaniem polskiej esbecji, a także doskonale zna nie tylko archiwum IPN ale także te dokumenty, których w archiwum nie ma. Czy to jest możliwe? Cieszy papieska solidarność i zdecydowanie, ale wcale to nie znaczy, że opiera się na prawdzie absolutnej. Jan Paweł II znał to z autopsji i też nie znał wszystkich swoich "przyjaciół".
+
+---
+
+**J**
+
+uż niedługo możemy zostać świadkami narodzin nowej politycznej super-ameby, partii liberalno-lewicowej, którą mają założyć pospołu komunista z masonem, obaj (a jakżeby inaczej) wywodzący się z narodu wybranego. Skład partii będzie chyba oczywisty, zważywszy dzisiejszą partyjną diasporę, która nie sprzyja wprowadzaniu w życie protokołów Mędrców Syjonu i nauk Talmudu, więc będziemy świadkami przeprowadzki tabunu "swoich" do jedynie słusznego zgromadzenia. Będzie to z pewnością partia i duża i "narodowa", a zważywszy na skład, nie będzie wolno jej atakować, bez narażenia się "z urzędu" na miano antysemity. Nawet dzisiaj, rzucając kamieniem w poselskie ławy, trafić w prawdziwego Polaka, to jak wygrać w toto-lotka. ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**D**
+
+ostaliśmy jako naród, prezent pod choinkę od "Wybiorczej" w postaci sondażu na najlepszego prezydenta. Biorąc pod uwagę kto zamawiał, kto sondował i kto (p)odpowiadał, to nie dziwi, że zwyciężył ten, co "jam nie z soli, ani z roli, ale z różnych alkoholi". Dziwi mnie także, dlaczego gazeta tak dbająca o historyczną (hehehe) prawdę pominęła w ankiecie najważniejszego, który dał początek dynastii miłośników Towarzystwa Przyjaźni Polsko-Radzieckiej - tow. Bolesława Bieruta. Czy tylko dlatego, że jego elektorat spoczywa w śródziemiu? Przecież to absolutny brak zaufania do jego potomnego mrowia. Dzisiaj nam panujący załapał się na pudło jako drugi, ale chyba tylko dlatego, by ukazać "bezstronność" sondażu, bo do starej dynastii genetycznie nie pasuje. Szykuje się też wydarzenie literackie na miarę "Prawdy o Katyniu" Wandy Wasilewskiej, bowiem Endriu pisze książkę o własnej, promieniującej etosem partii, którą złe moce opluwają jej własnym nasieniem, chcąc ją politycznie unicestwić. Żeby nie było plagiatu proponuję tytuł - "Ryj utracony". ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+W wieku 76 lat zmarł w Rychwałdzie koło Żywca, franciszkanin o. Grzegorz Sroka, jeden z ostatnich, prawdziwych polskich zielarzy.
+
+---
+
+**Ś**
+
+więta, święta i po świętach. W zasadzie wszystko było w normie. W Wigilię, politycy choć raz w roku zagadali ludzkim głosem, a zwierzyna nie. Ponoć dlatego, jak mówią starzy ludzie, że do gadania po ludzku upoważnienie mają tylko te, które były przy narodzinach więc przede wszystkim wół i osioł. Prawie setka osób udała się do krainy wiecznych łowów w półtysiącu wypadków, a i kierowcy nadal namiętnie "tankowali" przed jazdą, bo złapano ponad 1,5 tysiąca na "męskim oddechu". Podobno było mniej obżarstwa, bo szpitale nie zanotowały nawału pracy, ale to być może w wyniku spadku zaufania albo, co bardziej możliwe, w wyniku galopującej pauperyzacji narodu. Krótko mówiąc, święta zaliczone i teraz przed nami tylko jedna noc z nigdy niespełniającymi się życzeniami i wkraczamy w nową, szarą rzeczywistość z licznikiem o jeden większą. Dziś rano zrobiłem inspekcję lodówki i widzę, że sporo zostało, bo wszyscy "oczami" jedli. I co teraz? "Lepiej zjeść i odchorować niż wyrzucić i żałować"? Możnaby, ale Narodowy Fundusz Zgonów, pieniądze na leczenie rzuci dopiero od 2 stycznia, bo pod koniec każdego roku zawsze jest "sezon martwych". Jak by co, mamy nową aferę typu "Rywin-gate", ale już pod nazwą "Jacewicz-gate", gdzie w roli głównej wystąpi syn księcia Leszka Czerwonego.
+
+---
+
+**J**
+
+est ich dwóch - jeden to komendant WAT, a drugi to komendant "Szkoły orląt". Jak pozbyć się generałów niekochanych przez ministra obrony? To proste - należy zlikwidować szkoły. Minister Radek chce rozpędzić WAT i szkołę lotniczą w Dęblinie. Chodzą też słuchy o likwidacji Akademii Obrony Narodowej, Akademii Marynarki Wojennej oraz Szkoły Wojsk Lądowych. W ich miejsce ma powstać kolos - Uniwersytet Obrony Narodowej (oczywiście w Warszawie), który będzie kształcił uniwersalnych dowódców, znających się na wszystkim, czyli na niczym. MON działa w myśl zasady, że łupież najlepiej wyleczyć gilotyną. Mało tego. Zakłady lotnicze w Mielcu mają iść pod młotek i zostać sprzedane Amerykanom, gdzie będą produkować dla nas śmigłowce typu "Hjuj" i rzecz jasna przejmą na własność nasze "Sokoły". Plan pozbawienia Polski wojska i przemysłu zbrojeniowego wkracza w ostatnią fazę i zostanie nam tylko fabryka amunicji strzeleckiej, którą przekształci się w fabrykę ogni sztucznych, a Bumar może przecież z powodzeniem produkować dźwigi, traktory i pługi wieloskibowe. Dokonano piątego rozbioru Polski i tym razem najskuteczniejszego, bo ekonomiczno-gospodarczego, a wszystko to rękami własnych komucho-liberałów żydowskiego pochodzenia. Teraz już tylko należy oczekiwać zmiany języka urzędowego na jedynie słuszny "idisz", a o tym, kto przejmie tereny i zabudowania po wojskowych szkołach, możemy się tylko domyślać.
+
+---
+
+**O**
+
+nkolodzy biją na alarm. Z roku na rok coraz więcej Polaków choruje i umiera na raka. W 2007 roku nowotwór może zaatakować nawet 10-20% ludzi więcej. Główny powód to przerażająco niezdrowe, pełne związków chemicznych jedzenie dostępne w sklepach. Na czołowym miejscu listy są nowotwory narządów trawiennych. Winowajcą tej przerażającej sytuacji jest przede wszystkim to, co jemy. No cóż, jedzenie dzielimy na zdrowe i smaczne. Pascal, Makłowicz, Kuroń pokazują co trzeba zjeść, by szybciej zejść. Jacuś Kuroń też lubił wchłaniać to, co ugotował brat (a do tego nadmiar wódeczki oraz papierosków) i umarł... ze zmęczenia?
+
+---
+
+**N**
+
+o i rozpoczęło się obieranie jabłuszka z gatunku "biskup". IPN po długim zastanowieniu "przypomniał" sobie, ża ma coś na temat biskupa i że wiedział o tym od dawna, bo nawet powiadomił bratni, "czarny" IPN, że takowe posiada, ale Komisja Historyczna Episkopatu nie była i nie jest tym zainteresowana, czyli miała i ma to głęboko w d... Indagowany w temacie doktor z IPN przyznaje, że materiały takowe są, ale "Gazeta Polska" zbyt szybko i nadzbyt ostro oskarżyła biskupa i od razu zboczył z tematu na niewystarczającą ilość zatrudnionych upoważnionych do grzebania w papierach i oczywiście na (jak zwykle) złą nową ustawę "frustracyjną". Pisałem już, że coś w tym jest, zważywszy na "jakość" obrońców biskupa i biorąc pod uwagę czas jaki upłynął od domniemanej współpracy z esbecją. Kolaborantów nie znajdziemy wśród zwykłych księży i zakonników, bo ci co wspierali cichociemnych z PRL, są dziś zapewne na bardzo wysokich stanowiskach, z których łatwo jest blokować inicjatywy typu Isakowicz-Zaleski, a ponieważ nadchodzą czasy plebsu w "moherowych beretach" warto mieć swoich ludzi na decyzyjnych stanowiskach i stąd kurczowe trzymanie się hierarchów irracjonalnej decyzji o niewtrącaniu się księży w sprawy polityki własnego kraju. Jest to trzymanie "na smyczy i w kagańcu" największego w Polsce elektoratu, który z pewnością może zagrozić polskiej "rasie panów", gnębionej jeszcze nie tak dawno przez inną "rasę panów".
+
+---
+
+**P**
+
+rzeczytałem ciekawy artykuł w internecie [![przeczytaj](../../zrodlo/webacja/info.jpg)](http://www.raynold.prv.pl/pl/005/002/012/), który powinien się znaleźć w prasie ogólnokrajowej, ale się nie znajdzie, bo ekolodzy nie "wyczuwają" tu dużych pieniędzy. Przytoczę fragment - Ze spalania mieszanek oświetlających, sygnalizacyjnych i ogni sztucznych do środowiska przedostają się silnie toksyczne związki baru a także atakujące układ oddechowy i spojówki tlenki magnezu i glinu. Przykładowo, ze spalanie 10 kg mieszanki oświetlającej do środowiska trafia 4 kg tlenku baru i 5,2 kg tlenku magnezu, a z tej samej masy czerwonej mieszanki sygnalizacyjnej - 3,5 kg tlenku strontu, 1,3 kg tlenku magnezu i aż 1,2 kg (736 litrów) chlorowodoru. Obejrzawszy na głębokim wdechu pokaz "broni chemicznej", pójdziemy do domu, przekąsimy szynką na sporej dawce azotynów (to taka, co się tęczą mieni), popijemy "markowej" wódeczki z podpałki na grilla i zapijemy "amerykancką" Coca-colą. W Nowy Rok poprawimy już bez fajerwerków, a 2 stycznia radośni i wypoczęci z łbem ciężkim jak ołów, zameldujemy się w pracy na ośmiogodzinne katusze o suchym ryju. Po pracy z wywieszonym jęzorem zahaczymy o byle jaki wyszynk i aby do piątku, bo od poniedziałku już trzeba na serio zacząć wytwarzać PKB, by utrzymać rząd i Sejm z Senatem.
+
+---
+
+**Z**
+
+aczęło się petardziane szaleństwo i już mamy skutki - Część palca u ręki stracił 11-letni chłopiec podczas odpalania petardy, którą kupił w sklepie spożywczym w miejscowości Bazanów Stary, koło Ryk. Marcin W. kupił w sklepie 50 petard. Gdy jedną z nich odpalał w czwartek w swoim domu, eksplozja urwała mu kawałek małego palca u lewej ręki. Dziecko po opatrzeniu mu rany w szpitalu w Rykach, wróciło do domu. - Niech się baran cieszy, że nie była to włoska "główka Zidane'a", bo te 5 kg materiału urwałoby mu ten głupi łeb przy samej dupie, nie wspominając już o totalnym zdemolowaniu mieszkania.
+
+---
+
+**Z**
+
+a jedno z najdonioślejszych odkryć w roku 2006 uznano udowodnienie istnienia tzw "ciemnej materii" we wszechświecie, która wypełnia go w 95%. Za parę lat dowiemy się, że "ciemna materia" owszem istnieje ale... w światowej nauce i też w wielkości 95%. To właśnie dzięki tej "ciemnej materii" Plutona zdegradowano do roli ciała "planetopodobnego" i zamieszano w głowach milionom uczniów na całym świecie. Ta sama "ciemna materia" jest zdania, że jądro planety złożone z lodu i skał jest zdolne wytwarzać (hehehe) pole elektromagnetyczne a jądro Ziemi, to "paczka gwoździ" w płynie, która grzeje od miliardów lat na tym samym poziomie. I nie ma się czemu dziwić, bo czego wymagać od dalekiego wnuczka małpy, którą w latach 60-tych ubiegłego stulecia bezskutecznie usiłowano nauczyć języka angielskiego.
+
+---
+
+**O**
+
+dgrzany i zalatujący już kotlet zwrócono do kuchni Agory. Chodzi o koncerty, które organizowała Młodziez Wszechpolska w roku 2001, a które znowu niedawno pokazała "walterowska" WSI-24. Sąd stwierdził - Z czynności sprawdzających, które przeprowadziliśmy, wynika, że podczas opisanych przez "Gazetę" koncertów nie doszło do propagowania faszyzmu. Osoby, które się na nich bawiły, nie wykonywały gestów, które można jednoznacznie odczytać jako faszystowskie. Widoczne na zdjęciach flagi też nie są symbolami tej ideologii. Jedyne, co uzyskał sojuz komuchów z liberałami to tylko to, że LPR zrezygnowała z patronatu nad MW, który i tak był potrzebny Młodzieży jak penisowi uszy. Główny cel - delegalizacja MW nie powiodła się i możemy być pewni dalszych ataków, a nawet komuszej prowokacji, gdyż jest to jedyna organizacja, która wychowuje młodzież w duchu polskiego patriotyzmu, w odróżnieniu od kuroniowego harcerstwa, lewackiego komsomołu czy pogrobowców Haszomer Hacair.
+
+---
+
+Czy wiesz, że w 1918 roku miała powstać nie Rzeczpospolita Polska, ale "Izrael" na ziemiach Polskich pod nazwą Judeo-Polonii? [![przeczytaj](../../zrodlo/webacja/info.jpg)](http://www.homepage.interaccess.com/~netpol/POLISH/historia/JudPolonia.html)
+
+---
+
+**R**
+
+olnicy ze wsi Bućwinka pod Giżyckiem od drugiego dnia świąt walczą z rozbudzonymi seksualnie żubrami, które prawdopodobnie wyczuły krowie małolaty gotowe do uciech. Chłopi bronią dziewictwa krów swoich widłami i kijami, grożąc nawet przerobem żubrówki na kiełbasy. Byłaby to już druga, w tak krótkim czasie, sexafera w Polsce (po buhajach z Sam00brony) choć może to być zwykła "ściema", bo opisuje to polskojęzyczny, niemiecki brukowiec (wsławiony waleniem pod Inowrocławiem), a więc pisemko mające we krwi omijanie prawdy szerokim łukiem. "Wybiorcza" tego faktu ani nie potwierdza ani nie zaprzecza. ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**N**
+
+iemiecki dziennik ukazujący sie w języku polskim rozpoczyna kampanię na rzecz powrotu folozofii do polskich szkół. Gazeta pisze, że - na lekcjach filozofii chodzi o to, aby otworzyć młodych ludzi na zupełnie nowy świat. Aby poszukali odpowiedzi na pytania najważniejsze: czy Bóg istnieje, czy świat ma swój cel, jakie jest w nim miejsce człowieka, czy ma on obowiązki tylko wobec siebie, czy też wobec innych. Szczytny cel, ale w Polsce raczej niewykonalny, gdyż jesteśmy potęgą tylko w filozofii marksistowsko-leninowskiej, w której opisane cele są podporządkowane tylko jednemu - umacnianiu komunizmu, gdzie obywatel ma tylko obowiązki wobec panującej władzy, a to młodzi ludzie znają nawet bez filozofii.
+
+---
+
+**P**
+
+rzyznam szczerze, że coraz mniej rozumiem ten zakłamany świat. Najpierw wszyscy potępiali Saddama, a teraz wylewają łzy nad jego śmiercią i protestują przeciw powieszeniu mordercy własnego narodu. A to dopiero drugi (po Caucescu) ubity sprawiedliwie, którego śmierć sprawiła satysfakcję ofiarom i ich rodzinom. Miłosiernym można być dla tych, co zbłądzili, ale nie dla zwierzęcia w ludzkiej skórze. Świat się wcale nie zmienia. Dzisiaj też jesteśmy świadkami krwawej konkwisty, świadkami "cywilizowania" na siłę innych kultur czy nawracania na jedynie słuszne religie. Pytam, po co? Czy tylko po to, by przyciąć rozłożyste, zdrowe drzewo do takiego wyglądu jaki sobie wymyśliliśmy? Czy Papuas nie jest cywilizowanym człowiekiem tylko dlatego, że chodzi z gołym tyłkiem? To właśnie ta obrzydliwa obłuda, chęć wyzyskiwania słabszych i chęć bezwzględnego zysku, pcha silniejszych do władzy nad słabszymi. Siła to bezkarność. To nie kto inny, ale Hitler powiedział, że zwycięzcy nikt nie będzie sądził choć nie przypuszczał, że jego motto wprowadzi w życie jego najzacieklejszy wróg, gdzie do dziś jego zbrodniarze wojenni pławią się w sławie i gdzie do dziś inna "swastyka" w postaci sierpa i młota jest nadal symbolem chwały.
+
+Na świecie nie ma kraju, gdzie cały naród żyłby obok siebie i dla siebie, gdzie mądre rządy pomnażałyby dorobek narodu dla narodu, bo nawet gdyby taki był, to wszyscy bez wyjątku, nawet tyran z liberałem, zawarliby przymierze, by taki kraj zniszczyć. Ten kto myśli, że nasza cywilizacja rozkwita a nauka robi wszystko dla dobra człowieka, jest głupi i nic nie widzi ani nic nie słyszy, albo nie chce bo jest mu z tym wygodnie. Nasza cywilizacja chyli się ku upadkowi i nawet sama Ziemia zaczęła jej w tym pomagać. W zastraszającym tempie "przejadamy" dobra Ziemi, sięgamy bezmyślnie po to, co decyduje już nie tylko o życiu człowieka, ale o życiu całej planety. Mądre powiedzenie Hopi głosi - "dopóki nie zostanie ścięte ostatnie drzewo, dopóki nie złowiona zostanie ostatnia ryba, biały człowiek nie zrozumie, że pieniędzy nie da się zjeść". I tak się stanie, bo w przeogromnej wiekszości człowiek jest głupi i nie rozumie, że sile musi towarzyszyć mądrość.
+
+Czy nowy rok będzie lepszy? Absolutnie nie. Będzie tylko "nowy". Będzie tak samo źle i krwawo, a kto wie czy nie rozgorzeją nowe, bardziej krwawe konflikty. W Polsce w dalszym ciągu będzie kwitła obłudna, okrągłostołowa propaganda, która za wszelką cenę będzie chciała zgnoić i zniszczyć PiS, Kaczyńskich i koalicjantów, by nie dopuścić do jakichkolwiek zmian na lepsze i byle tylko zachować swoje złodziejskie zdobycze. W dalszym ciągu będzie trwała walka o media, a co za tym idzie o "wyborcze dusze". Rok 2007 będzie rokiem bezpardonowego zwalczania radia i telewizji toruńskich Redemptorystów, "Naszego Dziennika" i "Gazety Polskiej" jako ostatnich i jedynych całkowicie polskich mediów, które ujawniają rzeczywistą prawdę o polskiej Targowicy XX wieku. Rok 2007 będzie rokiem walki o umysły polskiej młodzieży, gdyż to ona już nie zadługo przejmie stery rządzenia Polską, ale młodzież która z lenistwa nie będzie chciała poznać prawdziwej historii swojego kraju, będzie skazana na służenie innym i całkowitą zagładę w niedalekiej przyszłości. Kto pije tylko z kranu, nigdy nie pozna smaku czystej wody. Każdy, komu bliska jest Polska niech chociaż pomyśli przy noworocznym toaście - "Jestem Polakiem, więc mam obowiązki polskie..."
+
+---
+
+Dla Polski nie ma miejsca na ziemi. Żaden rząd zachodni nie wpadłby na taki pomysł jak Stalin, żeby wysiedlić miliony Niemców z ich wielowiekowych siedzib i oddać ten obszar Polakom. Tym samym rzec można, że Polska istnieje z woli i łaski Stalina. - Cz. Miłosz.
+
+---
+
+**C**
+
+oraz więcej głosów rozbrzmiewa, że Saddam został "źle" powieszony. A to, że był obrażany przed śmiercią, a to że mu źle życzyli w życiu pozagrobowym. Zaraz się okaże, że włożył nie te skarpetki, co trzeba. No, po prostu śmiech z pogrzebu. Może ci wszyscy "moraliści" zebraliby się do kupy, poprosili współczesną medycynę o wskrzeszenie bandyty i pokazali światu jak się powinno prawidłowo i "humanitarnie" wieszać.
+
+---
+
+Norwid jest dla mnie za bardzo lechicki. To Lechita. Ja nie lubię Lechitów. - Czesław Miłosz.
+
+---
+
+**N**
+
+owy rok przyniósł już jedną niespodziankę. Nelly, żona Jana Marii, jako pierwsza jaskółka opuściła zasrane gniazdo, czyli Partię Obrażonych. Jan Maria otrzymał wyraźny znak, że jak nie chce rozwodu, to ma zrobić to samo, tym bardziej że blada twarz Donalda zaczyna się czerwienić, a to już znak, że do pełnego zbliżenia z komuną pozostało niewiele. Wódz POkemonów doskonale wyczuwa, gdzie pieniądze, czwarta władza i "kierownicza siła narodu", więc nie chcąc stracić tego co przyziemne, coraz bardziej wsuwa się pod opiekuńcze skrzydła neostalinowskiej partii. Dopiero po tylu latach możemy naocznie stwierdzić, że żadnych antykomunistów nie było i nie ma, a prawie wszystkie partie są tak czerwone, jak dziewica przed wstąpieniem do Sam00brony.
+
+---
+
+Najpierw zabijali działaczy PPR, z czasem cała ich działalność ograniczyła się do rabowania. - Jacek Kuroń o żołnierzach AK.
+
+---
+
+**U**
+
+czmy się od hiszpańskich wieśniaków. Około 500 wieśniaków postanowiło wystąpić przeciwko tyranowi, który szykanował ich, groził bronią, bił osobiście, albo zlecał to swoim wspólnikom. W końcu mieszkańcy Villaconejos solidarnie podłożyli ogień oraz zablokowali drogę policji i straży pożarnej. Ich wróg wraz z rodziną salwował się ucieczką na piechotę. Policja nie mogła oczywiście przejść do porządku dziennego nad takim samosądem i przystąpiła do przesłuchiwania wieśniaków. Natknęła się jednak na mur milczenia. Jedna z mieszkanek Villaconejos powiedziała mediom, że winę za to, co się stało ponoszą sądy, które wielokrotnie okazywały nadmierną łagodność, pozwalając temu człowiekowi pozostawać na wolności, mimo że dopuszczał się łamania prawa. Wypisz, wymaluj jak jeden polski senatorek, któremu żaden polski sąd nie może dać rady. Hiszpanie pokazali, że nie potrzeba żadnych sądów. Vox populi - vox Dei.
+
+---
+
+Komunistyczna Polska to moja Polska! **•** Generał Kiszczak jest człowiekiem honoru.  
+Odpier....... się od generała! (Jaruzelskiego) - Adam Michnik
+
+---
+
+**T**
+
+omasz Terlikowski (Polskapresse) - My wiemy skądinąd, że były osoby, które nie rozmawiały i mimo wszystko uprawiały naukę, czasem im odmawiano paszportu, ale wyjeżdżały za granicę. Sugestia, że wszyscy rozmawiali, jest nieprawdziwa. \[...\] Mimo, że ksiądz arcybiskup twierdzi, że nikogo nie skrzywdził, to mam poczucie że nikt nie może być sędzią we własnej sprawie. Może się okazać, że ksiądz arcybiskup skrzywdził i nawet nie do końca świadomie. \[...\] Jeśli oficerowie chcieli się z nim spotykać wielokrotnie przez wiele lat to wynika z tego, że jakieś korzyści z tych rozmów jednak mieli, nawet jeżeli ksiądz arcybiskup uważał, że te rozmowy były bezwartościowe. Jest to komentarz w odniesieniu do wypowiedzi abp. Wielgusa.
+
+---
+
+**N**
+
+iemiecka prasa ostrzega, że podwyżka cen gazu dla Białorusi może mieć fatalne następstwa w postaci zrzucenia z tronu dyktatora Kałaszenki i wchłonięcie dawnej republiki w obszar Wielikoj Rasiji. Dziwne, że nasi "stratedzy" z Ministerstwa Obrony Narodowej nie zauważają tego niebezpieczeństwa. Marzenia komuchów - Drawicza i Cioska o zbliżeniu Rosji do Polski mogą się spełnić w krótkim czasie, tym bardziej że ciężkie uzbrojenie "Made in CCCP" jest już tam od dawna. Po Okręgu Kaliningradzkim będzie to następny wojskowy przyczółek i chyba nie "na wszelki wypadek". My za to będziemy mieli głębokie odwody w Iraku i Afganistanie, które (w razie czego) poprowadzi do walki sam wódz Sikorski, choć niestety nie Władysław i nawet nie jego namiastka.
+
+---
+
+**S**
+
+ąd administracyjny Kalifatu Francuskiego orzekł we wtorek, że powiązana ze skrajną prawicą organizacja charytatywna może żywić bezdomnych zupą na wieprzowinie - czego niedawno zabroniła policja jako praktyki rasistowskiej. Zakaz wydawania zupy ogłoszono w ubiegłym miesiącu, argumentując, iż było to dyskryminowanie żydów i muzułmanów, nie jedzących wieprzowiny ze względów religijnych. W Polsce nie było takich problemów, nawet ze słynną polewką Kuronia, bo u nas to właśnie bogaci Żydzi dokarmiali polską biedotę, a tej jak wiadomo, można dać wszystko, czego Żyd nie przełknie.
+
+---
+
+Polak musi być świnią, ponieważ się Polakiem urodził - Czesław Miłosz.
+
+---
+
+**N**
+
+iezależna prasa zajęła się sprawą, która być może jest najważniejszą dla kraju i narodu, a kto wie czy nie dla polskiej racji stanu. W letnim folwarku w województwie warmińsko-murzyńskim zaatakowano psa znanego producenta filmowego (znanego z afery "przyszedł Żyd do Żyda"). Nieznani sprawcy strzelili do psa z przedmiotu przypominającego wiatrówkę. Oczywiście pomocy natychmiast udzielił oddział weterynaryjny najbliższego szpitala MSWiA. Pies czuje się dobrze, a intensywne śledztwo jest w toku. Badane są wszystkie wątki, bo istnieje przypuszczenie, że jest to zapowiedź dalszej eskalacji przemocy wobec znanego producenta szajs-biznesu. Najpierw pies, a potem lew?
+
+---
+
+**N**
+
+ajbardziej wykształcony minister dzisiejszego rządu ma otrzymać trzeci już doktorat, tym razem Moskiewskiej Państwowej Akademii Precyzyjnej Techniki Chemicznej im. Łomonosowa. Endriu posiada już dwa tytuły, tyle że ukraińskie. Pierwszy za osiągnięcia w zbliżaniu we wzajemnych kontaktach między narodami, a drugi od Ukraińskiej Akademii Technologicznej. W Polsce dorobił się tylko tytułu "omc. technik-rolnik" (podobnie jak "omc. mgr" były prezio wszystkich pijaków), ale to przecież jest mało ważne. Następnym krokiem w naukowej karierze ma być profesura nadana przez KC Komunistycznej Partii Chin za... no właśnie za co. Chyba za wybitne osiągnięcia w hodowli świń rasy czerwonej.
+
+---
+
+**T**
+
+rwa walka o stołek prezesa Narodowego (już tylko z nazwy) Banku Polskiego i z tego co widać, najmniej ważne jest, co kandydat sobą reprezentuje, a ważne z jakiego ugrupowania pochodzi. Najważniejszym argumentem są tu tzw. "kwalifikacje". Dla tych co nie pamiętają - Balcerowicz uzyskał "kwalifikacje" dopiero po wizycie w USA (u Sorosa i Sachsa), bo przedtem był nieznanym nikomu doktorem z SGPiS, a "bufetowa" miała taką sama praktykę w bankowości, jak elektryk w hodowli susłów moręgowych. Pierwszy kandydat miał skazę PZPR (przy Balcerowiczu nikomu to nie przeszkadzało), a drugiemu brak ponoć praktyki, a przede wszystkim chyba nazwiska i co ważniejsze - rodzice nie nazywali się Bucholz albo Grundbaum. Wydaje się, że stanowisko prezesa jest tak chronione ze względu na mroczne tajemnice polskiej bankowości, gdyż może się okazać, że największy "polski" bank był (i jeszcze jest) największą polską pralnią, co mnie osobiście wcale by nie zdziwiło, bo pod latarnią jest najciemniej.
+
+---
+
+**W**
+
+sprawie kandydatury na prezesa zabrał też głos dyżurny klakson Partii Obrażonych - senator "Leopold". Jako wybitny znawca polskiego robactwa, okazał się nie mniej wybitnym znawcą od spraw bankowych (u nich wszyscy się znają na wszystkim). Według niego szukanie kandydata, to zwykłe "frymarczenie" Polską, ale to nie nowość, bo zwykle punkt widzenia zależy od punktu finansowania. Ciekaw jestem, co na to wszystko powiedziałoby jego drugie ja - Aaron Nusselbaum. Pryncypał "Leopolda" jest natomiast zdania, że najważniejsze jest uchronienie NBP od politycznych wpływów, dlatego też "platformer's" nie dopuszczą do takiego stanu rzeczy, czyli bank narodowy może być zależny od wszystkich, byle nie od Polaków.
+
+---
+
+**S**
+
+prawy lustracji dotknęły już bezpośrednio kościoła. To już nie zwykły ksiądz Isakowicz-Zaleski, którego można zakneblować i zablokować wydanie książki (ani nieboszczyk Czajkowski, co wystawił bezpiece ks. Popiełuszkę), bo sprawa dotyczy najwyższego urzędu kościelnego w państwie. Bez względu na zakończenie sprawy (a ta nie będzie miała zakończenia), cel osiągnięto. Znowu skłócono naród, zasiano wątpliwości i podejrzenia, ale nie łudźmy się, że otrzymamy rzetelną odpowiedź. Na tym właśnie polega zasada działania czekiszczakistów - nic nie udowodnić, a tylko zasiać zwątpienie. Z teczki wiadomo tylko, że coś było i to bezpiece wystarcza (bo najważniejszego, czego nie ma w IPN, z pewnością nie zniszczono, a znajduje się w innym, dziś prywatnym IPN-bis pewnego generała). Jeśli arcybiskup nic nie miał wspólnego z bezpieką, ze zwykłej uczciwości winien sam zrezygnować ze stanowiska. Jeśli natomiast świadomie współpracował dla kariery, to przyjęcie stanowiska może świadczyć o jej "ukoronowaniu".
+
+---
+
+**J**
+
+esteśmy chyba jedynym krajem na świecie, gdzie kabaret kwitnie nawet w zwykłej codziennej prasie. Z Księstwa Mazowieckiego "Gazeta Wyrodna" donosi - Wiceprezydent Siedlec na Mazowszu, Marcin Kulicki z PO służył w ZOMO i nie powinien sprawować tej funkcji - uważa Ogólnopolskie Stowarzyszenie Internowanych i Represjonowanych oraz siedlecki obwód Światowego Związku Żołnierzy Armii Krajowej. Siedlecki magistrat zapewnił, że Kulicki nie uczestniczył w brutalnych akcjach ZOMO. Okazuje się więc, że Zdziczałe Oddziały Milicji Obywatelskiej, brały nie tylko udział w pacyfikacyjnych mordobiciach ale i w "pokojowych misjach", w których nie bito, a tylko perswadowano "bananami". Podobno wrażliwi na krew i ludzką krzywdę Niemcy nie służyli w SS tylko w Wermachcie, który jak wiemy był bardziej "humanitarnie" nastawiony do okupowanej ludności. ![](../../zrodlo/webacja/usmiech.gif) A ten "biedny" ZOMOwiec, chcąc utrzymać rodzinę nie "chciał ale musiał" być u nich kierowcą i wcale nie bił, tylko podwoził tych co biją. Uczciwy (hehehe) bandyta.
+
+---
+
+**S**
+
+ondaż wśród kilku tysięcy internautów wykazuje, że ponad 70% respondentów jest za ustąpieniem arcybiskupa Wielgusa, natomiast sondaż komuszej GfK Polonia wykazuje "tylko" 23% spośród pół tysiąca respondentów. Błąd statystyczny? ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**O**
+
+patrzność jednak czuwa nad Polską i dzięki niej nie doszło do największego skandalu i to w skali międzynarodowej. Okazuje się, że Papież nic nie wiedział o prawdziwej przeszłości arcybiskupa, co świadczy o następnym "minięciu się z prawdą" w głoszonym przez arcybiskupa "usprawiedliwieniu". Kościół Polski został uratowany i być może to dopiero Benedykt XVI dokona prawdziwej lustracji w polskim kościele, skoro on sam przez tyle lat nie może się na to zdobyć. Zdziwiła mnie bardzo mowa obronna Prymasa, który w rzeczy samej wystąpił przeciwko Papieżowi. A za progiem następna "nowina" o nieżyjącym już biskupie Dąbrowskim, tym który brał udział w obradach Okrągłego Stołu. I niestety nie radosna.
+
+---
+
+**O**
+
+statnie tygodnie charakteryzowały się - Kometa McNaught. Wielkie sztormy słoneczne. Caldera Mary Lake w Yellowston zaczęła się wybrzuszać. Góra i wulkan Mt Hood (Oregon) wybrzusza się. Wulkan Mt St Helens uaktywnił się. Wzrost liczby trzęsień ziemi w tym dużych trzęsień. Duża liczba uaktywniających się wulkanów na kuli ziemskiej. Anomalie pogodowe na całej kuli ziemskiej. Dzisiaj rozpoczęcie wydobywania się trujących gazów ziemnych (metan) na kuli ziemskiej (USA, Wielka Brytania, Pakistan, Meksyk, dna mórz i oceanów) - to jak dotąd największe zagrożenie dla życia. Właśnie zaczynają napływać doniesienia o rozpoczęciu erupcji przez wulkan Monseratt. W tej chwili słup popiołu i dymu wzbija się na wysokość około 10 km. Co będzie następne? Czego jeszcze trzeba, aby przekonać sceptyków, że rozpoczął się czas zmian na ziemi? (źródło - Jakub - "Kod Czasu" - forum zamknięte [![](../../zrodlo/webacja/info.jpg)](http://kodczasu.ronus.pl/forum/index.php) )
+
+---
+
+**W**
+
+polskich mediach panuje zadziwiająca cisza na temat tajemniczych wypadków na świecie. Poza dwiema drobnymi wzmiankami o "dziwnym zapachu na Manhattanie" oraz śmierci kilkudziesięciu ptaków w stolicy Teksasu, które można łączyć z wydostawaniem się gazów z głębi ziemi, nie ma dosłownie nic. Tymczasem zachodnie media donoszą o zwiększonym wydobywaniu się metanu spod powierzchni ziemi oraz z głębin mórz i oceanów. W Australii kilka tysięcy martwych ptaków spadło na ziemię przed "dziwną burzą". O martwych ptakach donoszą z Egiptu, Nigerii, Wietnamu i Chin, i nie jest to ptasia grypa, a zatrucia "czymś". Hipoteza, którą lansuje się na zachodzie, mówi o uwalnianiu się wielkich ilości metanu z tzw, klatratów zalegających na dnie mórz i oceanów spowodowanych wzrostem temperatury wody. Bagna rosyjskiej Syberii zaczynają się rozmrażać, co sprzyja "obudzeniu" się bakterii produkujących metan (prognozy mówią o uwolnieniu 400 mld ton do atmosfery). Jak prognozuje John Stokes do roku 2012 może nie dożyć ponad 4,5 miliarda (!) ludzi. [![](../../zrodlo/webacja/info.jpg)](http://www.agoracosmopolitan.com/home/Frontpage/2007/01/08/01291.html) Dość ciekawa mapa znajduje się na węgierskiej stronie, która na bieżąco pokazuje większe katastrofy i kataklizmy na kuli ziemskiej. [![](../../zrodlo/webacja/info.jpg)](http://hisz.rsoe.hu/alertmap/woalert.php?cid=9249) Nawet nie znając węgierskiego czy angielskiego można się wiele domyśleć.
+
+---
+
+**P**
+
+olska naukowa medycyna ma problem. Szpitale dziecięce na Pomorzu pękają w szwach. W regionie szerzy się trudna do leczenia w domach odmiana zapalenia płuc. W większości przypadków nie da się jej leczyć popularnymi antybiotykami. [![](../../zrodlo/webacja/info.jpg)](http://wiadomosci.wp.pl/kat,1342,wid,8684225,wiadomosc.html) Skoro nie daje się leczyć, to być może nie jest to zapalenie płuc, a znowu "nieznany" zespół chorobowy? Na zachodzie już był przypadek, że chorowali na zapalenie płuc, które nim nie było i nazwali je "nietypowe". U nas, żeby stwierdzić obecność "chlamydii" należy wykonać specjalistyczne badania, ale jest bida i nie wszędzie się wykonuje, bo NFZ nie daje pieniędzy. Jak na razie dzieci się leczy antybiotykami, co skutecznie i na wiele miesięcy osłabia ich naturalną odporność, ale naukowa medycyna nic innego nie potrafi. Jak można już zauważyć, cała wina to nasze "popieprzone" geny i szybko "mutujące się" bakterie lub wirusy, co absolutnie nie jest winą lekarzy, a darwinowskiej ewolucji. Przypomnę fragment wywiadu Davida Hudsona - "Wyleczanie ludzi z raka niewiele ich obchodzi, ich zadaniem jest leczenie raka, a nie wyleczenie z niego". Podobnie jest i u nas i dotyczy nie tylko raka. "Lekarzu pamiętaj, że każdy wyleczony pacjent, to utrata twojego źródła dochodu", a już po wejściu do UE możemy tylko zaśpiewać "Dziś prawdziwych lekarzy już nie ma...". Aha... i nie biorą "w łapę" tylko "wyrównują dochody". ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**G**
+
+azeta Wyrodna wpada w czarną rozpacz, bo Liga Pana Romana chce zabrać przywileje wyborcze dla mniejszości narodowych. W trąbę "jesteśmy przeciw" wspólnie dmuchają lewacy i liberałowie z frakcji Donalda Duck'a, co nie dziwi, bo od wielu lat są zgodnym małżeństwem. Problem jest o wiele większy i nie chodzi tu o Niemców w Knesejmie, a o mniejszośc żydowską. Usunięcie jej z "organu", to paraliż władzy, bo zostałaby tylko garstka Polaków, a ci jak wiadomo są niezdolni do rządzenia. ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+"... moja Polska, naród, który czerpie z katolicyzmu, nie umie przebaczać i nie zna litości" - Tadeusz Mazowiecki (dla "Avenire")
+
+---
+
+**N**
+
+o i już jesteśmy "zachodem" pełną gębą, choć pełna gęba nie oznacza bogactwa. Dołączamy do zachodu w wykrywanych chorobach. Mamy już własny AIDS, BSE i ostatnio doczekaliśmy się choroby legionistów. Cieszmy się, bo w ten sposób doganiamy zachodnią cywilizację. Smutne tylko, że u nas "specyficzne" choroby diagnozuje się dopiero podczas sekcji zwłok, bo na badania dla żywych ludzi szkoda pieniędzy z takim trudem ciułanych przez NFZ i zawsze ktoś musi umrzeć by pchnąć naszą medycynę na odkrywcze tory. Niestety, nowoczesna medycyna wymaga ofiar i bez nich nie ma postępu. ![](../../zrodlo/webacja/usmiech.gif) Uważaj na siebie.
+
+---
+
+**E**
+
+nergetyka polska wpada w kłopoty przy każdej zmianie kategorii wiatru z męskiego (podmuchuje) na damski (piździ). O ile na zachodzie Europy wiatry o sile powyżej 100 km/godz czynią szkody przeważnie w sile żywej i transporcie kołowym, to u nas już pozbawiają prądu dziesiątki tysięcy odbiorców. Dowiedziałem się ostatnio, że nawet naprawy nie mogą być szybkie, bo Polska cierpi na brak specjalistycznych brygad uprawnionych do napraw sieci elektrycznej przy silnym wietrze. ![](../../zrodlo/webacja/usmiech.gif) Posiadamy za to specjalistyczne brygady do błyskawicznego wycinania drzew typu "topola". Na zachodzie już dawno udowodniono, że topole są jednymi z nielicznych drzew, które asymilują więcej dwutlenku węgla niż pozostałe, ale nasze decyzyjne ćwoki albo nie potrafią czytać, albo opierają się na ekspertyzach stołecznych ćwoków, które stwierdziły, że drzewo to jest kruche i przy damskich wiatrach stwarza zagrożenie dla życia. Na zachodzie się je sadzi na potęgę, a u nas wycina. Ma się to "pawlakowe" własne zdanie... Sondażownia pod wezwaniem płk Kwiatkowskiego puściła balona, że polskie społeczeństwo dorosło do własnej elektrowni atomowej i ponad 50% już chce "atomówki". Zaglądam do "Eurosondażu", a tam o dziwo - Polacy są przeciwko energii atomowej. Komu wierzyć? Masonom czy komuchom? Najlepiej nikomu i kupić karton świeczek...
+
+---
+
+**Z**
+
+nowu na czoło dyskusji wysuwa się problem życia (na)poczętego. Problem nierozwiązalny, bowiem nikt jeszcze nie napisał pracy doktorskiej "Jak plemnik stał się człowiekiem" albo "Myślenie abstrakcyjne u zygoty". Problem nierozwiązalny, bo wbrew pozorom nie jest to problem ludzki, a problem natury prawnej. Ponad dwa wieki nowoczesna nauka nie dała odpowiedzi na pytanie o początek życia człowieka. Problem nierozwiązalny, bo prawnicy czekają na naukowców, a naukowcy na prawo. Jak lekarz może badać, gdy nie jest pewny do jakiego momentu może prowadzić badania? Koło się zamyka i toczy się dalej. Jedno w tym wszystkim jest zastanawiające. Trwa batalia o początek życia, a więc o punkt od którego należy go chronić. Druga batalia to walka o śmierć. Jedni walczą o prawo do naturalnej, a inni chcą śmierci jako kary. Nikomu jeszcze nie przyszło do głowy, by walczyć o godne życie dla każdego pomiędzy narodzeniem a śmiercią.
+
+---
+
+"Zwiększenie pieniędzy na hospicja, to zwiększanie się liczby osób umierających" - Andrzej Sośnierz (NFZ)
+
+---
+
+**C**
+
+hciała być Bardotką, została idiotką. Miała wzorem "BB" walczyć o prawa zwierząt, a sprowadziła do rodzinnej wioski bród, smród i ubóstwo. Widocznie nie wzięła pod uwagę tego, że francuska gwiazda miała na to pieniędzy jak "diabeł gwoździ", a oprócz tego założyła fundację "pieniądze bez barier" dla swoich psów i kotów. Prasa też oczadziała. Raz mówi o dobrowolnym poddaniu się leczeniu w wariatkowie, a na drugi dzień jej adwokat twierdzi, że zwabiono ją podstępem i trzyma wbrew własnej woli jak w ruskiej psychuszce. Prasa znowu gada o dobrowolności i czeka na ripostę adwokata. Interes się kręci, bo po co pisać o lustracji i nędzy. Na wszystkim zyskała tylko wieś, która przestała obawiać się wścieklizny.
+
+---
+
+**N**
+
+ajsłynniejsza fundacja muzyczna "Owsiak Band" po raz 15-ty rozpoczęła zbiórkę pieniędzy na ratowanie ludzkiego życia, czego permanentnie niewykonuje instytucja powołana do tego przez rząd czerwonego księcia. Po raz 15-ty zagra się na uczuciach narodu, zwalniając z obowiązku nierobów, którzy winni łożyć z urzędu na leczenie narodu. Polak ma dobrą duszę i na szczytny cel zawsze odda ostatni grosz. 15 rocznicę urodzin obchodzi także "sex-orkiestra" ministra Endriu. Z tej okazji przewodniczący zwołał nadzwyczajne plenum, na którym oznajmiono, że "jeszcze nie zgineła, póki weksle w ręku". Wszyscy obowiązkowo pod szyją założyli policyjne taśmy od oznaczania wypadków. Znajoma Annana Kofana bredziła coś o "szwadronach śmierci" czyhających na przewodniczącego i jego dwór. To nie członkowie Sam00brony zapładniali, oni mieli pobierane przez UFO, a te przenosiło spermę tam gdzie chciało. Partia Endriu od 15-tu lat walczy ze złem i będzie walczyć dalej o ile moce zła jej na to pozwolą. W sumie "miodzio z malinką". Jutro się okaże, co było po części oficjalnej i ile podatnik wybulił na "część artystyczną" u Endriu, zamiast na orkiestrę światecznej pomocy.
+
+---
+
+**T**
+
+ygodnik "Wprost" znalazł szparę, przez którą przeciekają "przecieki". Okazuje się, że "pokrzywdzony" tow. Szymon nie jest znów taki pokrzywdzony, bo współpracował z wywiadem cywilnym PRL (podobnie jak jeden z założycieli Partii Obrażonych). Ponoć tak wywnioskowano z zapytania bezpieki - "czy tow. Szymon może być ichnim TW". Okazało się, że nie może, bo już się był załapał w wywiadzie cywilnym. Ciekawe, ilu jeszcze "pokrzywdzonych" wyprodukował poprzedni, kieresowy IPN?
+
+---
+
+"W SB pracowało wielu porządnych ludzi, którzy robili dużo dobrego dla Polski" - Wojciech Olejniczak (SLD)
+
+---
+
+**D**
+
+o katowickiej Kliniki Hematologii trafiły trzy osoby z uszkodzeniem szpiku po zażyciu ogólnodostępnych leków przeciwbólowych. Jeden zmarł. (szef kliniki prof. Jerzy Hołowiecki). \[...\] Tu chodzi o pojedyncze przypadki, a przecież te leki zażywają miliony ludzi. Podobne podejrzenia jak w przypadku ibuprofenu pojawiały się w odniesieniu do pyralginy czy paracetamolu. (prof. Wiesław Jędrzejczak, krajowy konsultant w dziedzinie hematologii). \[...\] Dziennie ze świata otrzymujemy kilkaset raportów na temat skutków ubocznych leków. To tyle co z Polski przez cały rok. Polscy lekarze niechętnie zgłaszają takie sprawy. Może boją się posądzenia o błąd w sztuce lekarskiej albo o walkę z wielkimi koncernami? (Agata Maciejczyk z URPL). Masowe wytruwanie ludzi trwa nadal.
+
+---
+
+**Z**
+
+eszłoroczna susza, a przede wszystkim "wielka dbałość" komuchów i liberałów o polskie rolnictwo, doprowadziły do tego, że zboże musimy skupować za granicą. Już wykupiliśmy Czechy i Słowację i jeśli Niemcy "nie dopiszą", to już w tym roku odczujemy braki chleba. W styczniu gwałtownie podskoczyły ceny mąki, co się przedłoży za parę dni na chleb i wszystko, co związane z piekarnictwem i cukiernictwem. Brak zimy w tym roku spowoduje dalszy regres, i jeszcze jedna tylko susza i będziemy zmuszeni do zmiany jadłospisu, gdzie chleb zacznie być luksusem. I będzie jak zwykle - zdrożeje chleb, ale potanieją lokomotywy i ciężarówki. ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**P**
+
+onad partyjne porozumienie "3×L" (lewactwo, liberałowie i libertyni) szukając poparcia dla swojej polityki tolerancji, wygrzebali ze "wstydliwych" prac naukowych dzieło geja-biologa pod tytułem "Biologiczna bujność: zwierzęcy homoseksualizm i naturalna różnorodność". Czyli jak zwierzaki mogą, to i my - dzieło ewolucji - tym bardziej. Sprawa się jednak komplikuje po upublicznieniu wiadomości o tym, że 235 genów u człowieka nie występuje u gatunków niższych w tym i naczelnych, czyli przodków Darwina i Engelsa, a więc w teorii ewolucji coś zaczyna iskrzyć. "3×L" będą mieli twardy orzech do zgryzienia, bo teraz nie wiadomo czy tę "tolerancję" należy zaliczyć do "opieki zdrowotnej" czy podciągnąć pod "tydzień dobroci dla zwierząt". ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**G**
+
+azeta z miasta Łodzi (dziś Pavulon City) donosi, że za ministrem Endriu włóczy się cały wydział operacyjny ds. specjalnych. Jak piszą, są to wiadomości ze "źródeł zbliżonych do organów ścigania" (a jakie to żródło można się domyśleć, zważywszy że organami ścigania u ludzi są nogi, u których zakończenia tryska to źródło ![](../../zrodlo/webacja/usmiech.gif) ). Specjalna jednostka zbiera DNA z talerzy, szklanek, widelców i łyżeczek, których używał przewodniczący (z noży nie zbierają, bo Endriu po pierwszej kadencji już nie oblizuje). Jak widać działa tu tylko "wydział gastronomiczny". A co z wydziałem "ekologicznym" zeskrobującym pieczołowicie pozostałości z sedesów i odsysających resztki moczu"? "Organ zbliżony" nie zapodał, bo to niesmaczne? Czemu to wszystko ma służyć? Wszystko po to, by udowodnić wersję "Rzepy", że Endriu jest ojcem dziecięcia Anety K., a Anetka ze swoją "defensor hymen" opracowują nową już wersję zdarzeń - "Siewnik 2".
+
+---
+
+**P**
+
+olskojęzyczny tygodnik wziął się za poprawę przyrostu naturalnego w Poland i co jakiś czas rodzi nowego kapusia. Ostatnią sensacją XXI wieku jest ta, że z SB współpracował ten, co tworzył "sensacje XX wieku". Podobno ochotnik, ale on sam twierdzi, że jest nieumoczony i będzie wszystkich naookoło podawał do sądu. Wychodzi na to, że wszyscy, którzy porobili kariery za czasów PRL mieli jednego i tego samego mecenasa i to w każdej dziedzinie. Kościół już się zastanawia czy nie utworzyć zamkniętego zakonu pokutnego dla Braci Kapujących. A co z resztą? Ile takich zakonów cywilnych musiałoby powstać? Należałoby utworzyć dwie Rzeczypospolite. Jedna dla esbecji, druga dla normalnych i jeszcze czyściec dla "pokrzywdzonych" za kieresowego IPN. Nie ma tylko pieniędzy na ogrodzenie. PiS ponoć chce "deratyzacji" narodu, ale jakoś idzie to opornie, by nie powiedzieć syzyfowo. Wygląda na to, że im też nie zależy na prawdzie, a tylko na wielkiej pozoracji, by jakoś utrzymać się na fali. Działania są obliczone tylko na to, by "naszych" wymienić na "swoich", a nie na sprawiedliwość. Być może wychodzą z założenia, że przy gwałtownej "deubekizacji" Polski mogłoby w jednej chwili zabraknąć elit politycznych, medialnych, naukowych, gospodarczych i czort wie jakich jeszcze. Będzie więc tak jak było, a partia zmieni tylko nazwę na "Prawo i Ewentualnie Sprawiedliwość".
+
+---
+
+"Ja też marzę o czymś takim. Oddam ostatni grosz, żeby uwolnić świat od partyjnych sukinsynów" - Internauta. Przeczytaj [![](../../zrodlo/webacja/info.jpg)](http://fakty.interia.pl/felietony/zarzeczny/news/zarzeczny-zdelegalizujmy-partie-polityczne,859253)
+
+---
+
+**P**
+
+rąd podrożał, wyższe ceny chleba w drodze, podobnie jak paliwa i gazu, emerytury i renty w rozsypce, a minister kardiolog już funduje nam nowa składkę na zdrowie. - Ministerstwo Zdrowia chce wprowadzić dodatkowe ubezpieczenia zdrowotne. Pacjent, płacąc za tego typu usługę od 7 do 10 złotych miesięcznie, będzie mógł liczyć na wyższy standard leczenia. Dodatkowe ubezpieczenie nie oznacza otrzymywania lepszych leków, czy przyjęcia poza kolejnością do placówki zdrowia. Nowe przepisy nie będą wprowadzały podziału na lepszych i gorszych pacjentów. Wyraził on też przekonanie, że cały projekt będzie zgodny z konstytucją. Tworząc nowy system - ministerstwo opierało się na standardach panujących w australijskiej i irlandzkiej służbie zdrowia. Zapomniał dodać, że z XIX wieku. Przeczytałem to od przodu do tyłu, potem od tyłu do przodu i w dalszym ciągu zachodze w głowę, za co właściwie mam płacić. Mamy więc nową i już obowiązkową Wielką Orkiestrę Medycznej Pomocy. Niedługo wejdzie przepis, że chorzy powyżej 70 roku życia będą musieli stawiać się do szpitala z workiem węgla, drewnem na podpałkę, zapałkami i własną puszką na to, co pozostanie po leczeniu.
+
+---
+
+**D**
+
+orobiliśmy się nowego zabytku. Został nim Pałac Kołtunów i Nierobów im. Józefa Stalina. Dar od narodu radzieckiego, który spłacaliśmy przez całą PRL w ramach RWPG. Ma on przypominać wszystkim Polakom kto tu rządził, rządzi i będzie rządzić przez następne półwiecze, a może i dłużej... ![](../../zrodlo/webacja/usmiech.gif)
+
+---
+
+**R**
+
+zecznik Praw Obywatelskich będzie skarżył do Trybunału Konstytucyjnego możliwość ukarania tych, co będą publicznie pomawiać Naród Polski o udział w zbrodniach komunistycznych. Uzasadnienie - curiosum - przepis może doprowadzić do ograniczenia debaty publicznej na temat najnowszej historii Polski. Czyli pan rzecznik (z wykształcenia komuch) z góry założył, że Polacy musieli brać udział w zbrodniach komunistycznych i brak możliwości opluwania Polaków zniweczy poznawanie naszej najnowszej historii. Czy chodzi tu o polski czy jewrejo-bolszewicki punkt widzenia?
+
+---
+
+**D**
+
+oczekaliśmy się nowej fali emigracji. Teraz dla odmiany za granicę uciekają najwięksi złodzieje RP, którzy jak sądzę najpierw wysłali to, co najbardziej kochają czyli swoje złodziejskie fortuny. Kierunek przed laty wytyczyli hitlerowcy, nawet nie przypuszczając, że wraz z ich dziećmi i wnukami zamieszkają kiedyś obok siebie znienawidzeni przez nich Polacy. Oczywiście to Ameryka Południowa, raj dla europejskich złodziei i bandytów, gdzie do dziś można zakładać prywatne obozy koncentracyjne, z czego zapewne skorzysta i nasz były senator. Możliwe, że spotka tam rodzinkę Fidela Castro, która też ma zamiar założyć tam farmę za pieniądze Kubańczyków. Miliardy, które ukradziono Polakom, będą inwestowane za oceanem i jakoś nie słychać, by służby do tego powołane zaczęły odnajdywać i blokować zagraniczne konta tzw. polskich businessmanów o wiadomych partyjnych rodowodach. A są to setki miliardów złotych. Czekam na następne wieści o "prawdziwych" Polakach zmuszonych do emigracji przez represyjny rząd bliźniaków.
+
+---
+
+Polski doktor jądrowy i dziennikarz naukowy Tomasz Rożek, bezapelacyjnie odwołuje koniec świata na rok 2012. Przeczytaj [![](../../zrodlo/webacja/info.jpg)](http://fakty.interia.pl/nauka/news/za-5-lat-koniec-swiata-to-bzdury,859761,14)
+
+---
+
+**Ź**
+
+le się dzieje w państwie Polan. "La Stampa" doniosła, że w Polsce panuje terroryzm i zanosi się na dyktaturę. A wszystko przez to, że zaczęto czytać przepisy prawne i stosować je w życiu. Darmozjady myślały, że do rządzenia wystarczy podstawówka lub kupiony magister, a tu masz, trzeba jeszcze znać albo umieć czytać przepisy prawa. Niektórzy "zapomnieli" podać wielkość swego majątku i przez to mogą potracić ciepłe posadki, nierzadko kupione za ostatni grosz. Prawo dotknęło nawet pierwszą bufetową stolicy, której broni już nawet nie Partia Obrażonych, ale sam przedstawiciel lewactwa cierpiący na bulimię. I jak tu Włosi nie mają pisać o dyktaturze i terrorze?

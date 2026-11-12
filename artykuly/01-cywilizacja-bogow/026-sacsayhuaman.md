@@ -1,0 +1,166 @@
+---
+id: "ameryka/sacsay"
+tytul: "Sacsayhuaman"
+dzial: "Cywilizacja Bogów"
+adres_oryginalny: "http://www.uleszka.net/webacja/ameryka/sacsay.htm"
+plik_zrodlowy: "zrodlo/webacja/ameryka/sacsay.htm"
+liczba_obrazow: 45
+---
+
+**Sacsayhuaman**
+
+**Kto budował "Jastrzębie skały"?**
+
+Najbardziej tajemnicze ruiny świata, tak tajemnicze, że nawet oficjalna nauka woli pomijać ten temat wymownym milczeniem. W encyklopediach mozna przeczytać, że twierdza stanowiła schronienie dla mieszkańców Cusco oraz to, że jest badana już od lat trzydziestych ubiegłego wieku. W tym miejscu badania archeologiczne polegają przede wszystkim na obejściu kompleksu, wyrzuceniu z siebie wszystkich "oh", "ach" i "wow" oraz stwierdzeniu, że nic się nie da powiedzieć o budowniczych.
+
+![](../../zrodlo/webacja/ameryka/schemat.jpg)
+
+Peru jest chyba jednym z biedniejszych krajów Ameryki Południowej i jako państwo nie może sobie pozwolić na szerokie badania archeologiczne. Głodny człowiek nie odczuwa głodu wiedzy. Paraliżuje to wszystko także wszechwładna korupcja zjadająca wszelkie fundusze przeznaczane na ten cel, a żadne bogate państwo nie ma zamiaru wyrzucać pieniędzy w błoto czy raczej w kieszenie urzędasów. Nadto oprócz pieniędzy na badania potrzeba wiele czasu.
+
+Obserwując dzisiejszych archeologów odnoszę wrażenie, że jest to najlepsza profesja na świecie. Zawód ten przez swą naukową "drobiazgowość" zapewnia stałą pracę nawet wnukom badacza i to na jednym i tym samym stanowisku. Czy wyobrażasz sobie ile czasu trwać może zamiatanie pędzelkiem do golenia całego Sacsayhuaman? Przecież oni muszą każde ziarenko zbadać pod lupą. A nuż kryje sie w nim jakaś sensacja. Archeologię "spychacza" zastąpiono archeologią "aptekarza", co według mnie jest znów zwykłym "przegięciem pały". Dzisiaj "opracowanie" znaleziska i przekazanie wiadomości opinii publicznej trwa kilkanaście lub kilkadziesiąt lat i nierzadko o wynikach dziadka-archeologa informują jego wnuki. Czy nie jest to celowe działanie?
+
+Sacsayhuaman leży nieopodal Cusco i wyżej na północ. Obok znajduje się Qenko, miejsce jeszcze bardziej tajemnicze ze względu na pozostałości wymyślnej obróbki kamienia. Jest niemal pewne, że stanowi pewną całość z innymi ośrodkami tego regionu. Nazwa pochodzi z języka tubylców, co oznacza "jastrzębie skały", choć spotkałem jeszcze nazwę "zęby pumy". Też ładnie, choć widok z góry przypomina bardziej piłę ogrodnika do "prześwietlania" drzewek. Ponieważ oficjalna nauka nie chce wypowiadać się na ten temat, pozwolisz, że zajmę się tym ja, ale wsparciem będzie moja hipoteza "dwóch cywilizacji".
+
+![](../../zrodlo/webacja/ameryka/zgory1.jpg)
+
+Pierwsze moje wrażenie, to takie, że sama "twierdza" stanowi część kompleksu położonego na trzech-czterech wzgórzach, które być może stanowią twór sztuczny. Każde wzgórze jest umocnione terasami, które zabezpieczały je przed osunięciem podczas trzęsienia ziemi bądź ulewnych deszczów. Terasy posiadają system odwadniający, który jak zwykle naprowadza archeologów na "Boga wody". Sądzę, że do tego systemu włączone są także ciągi kamiennych schodów stanowiące jakby "zawór bezpieczeństwa" przy nadmiernych opadach. Na fotografii obok można dokładnie zobaczyć podział całego kompleksu.
+
+Drugie wrażenie już przy oglądaniu z bliska, to ogrom elementów, który wprawia w osłupienie wszystkich bez względu na wykształcenie, pochodzenie czy wyznanie. Największe elementy dochodzą do kilkuset ton wagi i pierwsza myśl to "kto to mógł udźwignąć?". Następna refleksja to w jaki sposób obrabiano te gigantyczne bloki. Są do siebie tak ściśle dopasowane, że zrezygnowano z jakielkolwiek zaprawy łączącej. Wymyślne kształty nieodparcie podsuwają wniosek, że ktoś bawił się kamieniem jak plasteliną. Człowiek nie mógłby zrobić czegoś takiego szczególnie w dawnych czasach. Nie posiadał przecież ani sił ani środków.
+
+Trzecie wrażenie to myśl, że "twierdza" miała zadanie chronić przed "kimś" lub "czymś" coś, co było na niej zbudowane lub znajdowało się w środku wzgórza. Zygzakowate mury stwarzają wrażenie, jakby miały zadanie rozbijać jakieś potężne fale huraganu albo fali uderzeniowej. Do wnętrza "twierdzy" z najniższego poziomu prowadziła tylko jedna brama przypominająca cyklopowe bramy Machu Picchu lub Myken, lecz w wydaniu dużo potężniejszym. Mury stanowiły ścianę o wysokości około 6-8 metrów, nie do przejścia dla człowieka. Po co takie zabezpieczenia?
+
+Pobawmy się zatem w zgadywankę. Po pierwsze z czego budowano i skąd wzięto materiał do budowy? Jest w Sacsayhuaman bardzo ciekawe miejsce, które być może rzuca pewne światło na pochodzenie materiału do budowy. Jest nim dziwna skała, podobna do wylanej lawy. Łagodne stoki nie wskazują na gwałtowną erupcję z głębi ziemi. Nie ma tu zresztą żadnych wskazówek, że w zamierzchłych czasach działał tu wulkan. Cała okolica zapewne wyglądała by inaczej.
+
+![](../../zrodlo/webacja/ameryka/magma1.jpg)
+
+![](../../zrodlo/webacja/ameryka/magma3.jpg)
+
+![](../../zrodlo/webacja/ameryka/magma4.jpg)
+
+![](../../zrodlo/webacja/ameryka/magma5.jpg)
+
+Skała ta leży na przeciwległym "twierdzy" wzgórzu i wygląda jak wyciśnięta z tubki. Z ogromnej tubki. Czy mamy tu do czynienia z resztką budulca, z którą nie wiadomo było co zrobić? To, że go wykorzystywano świadczą ślady po przeciwnej stronie, gdzie precyjnie wycięto w tej skale coś w rodzaju szerokich schodów. Dzisiaj służy za atrakcyjną zjeżdżalnię. Aby sprawdzić, czy to niej jest resztka budulca należałoby porównać go z próbkami muru, ale takich badań zapewne nie przeprowadzono. Czy mamy tutaj do czynienia z budową z czasów cywilizacji Bogów? Bardzo możliwe, skoro powątpiewamy w to, że budowniczym jest człowiek. Przemawia za nimi wielkość elementów, rozmach budowy oraz technika. Ale czy możemy wyobrazić sobie betoniarkę takiej wielkości?
+
+Przejdźmy do "twierdzy". Jest najbardziej znaną atrakcją turystyczną, pokazywaną na zasadzie "a u was nie ma takich wielkich kamieni". Nic poza tym. Przewodnicy na pamięć znają wielkość kamieni i ich wagę lecz nie warto pytać o ich pochodzenie. Nie wiedzą i opowiadają oklepane legendy o diabłach czy złych demonach. Organizuje się także spektakle w rodzaju "triumfalny wjazd inkaskiego króla, ziemskiego wcielenia Boga Słońca", które niby mają uwiarygodnić jej inkaskie pochodzenie. Turyści zwiedzając to miejsce doświadczają tylko ogromu budowli, bólu nóg po obejściu prawie 2 km² terenu oraz bólu głowy od myślenia, kto jest tego twórcą.
+
+![](../../zrodlo/webacja/ameryka/mur1.jpg)
+
+![](../../zrodlo/webacja/ameryka/mur2.jpg)
+
+![](../../zrodlo/webacja/ameryka/mur3.jpg)
+
+![](../../zrodlo/webacja/ameryka/mur4.jpg)
+
+Sam zadaję sobie wiele pytań. Dlaczego budowa jest tak oszczędna i surowa w wyrazie. Brak najmniejszego choćby ornamentu czy znaku wskazującego na budowniczych. Czy dlatego, że budowlę potraktowano jako coś w rodzaju bazy do prac nad pozostałymi i dlatego nie miała być piękna, ale praktyczna?
+
+![](../../zrodlo/webacja/ameryka/wejscie1.jpg)
+
+![](../../zrodlo/webacja/ameryka/wejscie2.jpg)
+
+![](../../zrodlo/webacja/ameryka/wejscie3.jpg)
+
+![](../../zrodlo/webacja/ameryka/wejscie4.jpg)
+
+![](../../zrodlo/webacja/ameryka/wejscie5.jpg)
+
+![](../../zrodlo/webacja/ameryka/wejscie6.jpg)
+
+W jaki sposób ją zbudowano? Czy jest całkowicie sztuczna, budowana od podstaw po "splantowaniu" wierzchołka góry? Jeśli tak, to co zawiera jej środek? Badano przecież tylko to, co widać. Nie przeprowadzono żadnych badań sięgających w głąb. Czy to było coś, co ja nazywam "centrum energetycznym"? Przynajmniej dla pobliskiego Cusco, gdzie widać tę samą "rękę" budowniczych. W samym Cusco trudno jest coś znaleźć, bo zaślepienie zdobywców całkowicie zmieniło jego pierwotny kształt. To co było można, wykorzystano do budowy miejsc nowego dla Indian kultu. To czego nie można było rozbić obudowano wątpliwej piękności budowlami.
+
+![](../../zrodlo/webacja/ameryka/gora1.jpg)
+
+Na szczycie "fortecy" odnajdujemy wyrównany i spoziomowany teren, na którym zachowały się nieliczne kamienne pozostałości. Do najciekawszych należy okrągła budowla zaszufladkowana jako ołtarz (na zdjęciu obok jest położona powyżej prostokątnego placu na lewo od widocznych ludzi). Ciekawe, że podobny "ołtarz" odnaleziono po drugiej stronie globu, w Chinach (Feng Xiao Tang).
+
+Jakie zastosowanie miał ów "ołtarz" pozostanie na zawsze w sferze domysłów. Trzy koncentryczne kamienne okręgi, z których środkowy był najwyższy. Widać kamienny rowek do odprowadzania wody albo do nieznanej nam cieczy, gdyż woda i tak wsiąkała by w ziemię. Czy to już całość budowli czy tylko jej fundamenty? Czy "ołtarz" posiadał zadaszenie? Czy budowla była przeznaczona do celów technicznych czy jak chcą archeolodzy do wznoszenia modłów? Osobiście opowiadam się za technicznym przeznaczeniem, gdyż na taki charakter wskazuje całość budowli.
+
+Na zdjęciach niżej trzy podobne do siebie kręgi. Pierwszy z lewej to Sacsayhuaman, środkowy przedstawiany jako "ołtarz ognia" z Chin, a po prawej ruiny azjatyckiej stupy. Wszystkie łączy tylko kolisty kształt, czy łączyła je także funkcja, tego się chyba nie dowiemy.
+
+![](../../zrodlo/webacja/ameryka/gora2.jpg)
+
+![](../../zrodlo/webacja/ameryka/gora3.jpg)
+
+![](../../zrodlo/webacja/ameryka/gora4.jpg)
+
+Co stało na prostokątnym placu, nie wiadomo. Nie znaleziono żadnych śladów po budowlach. Być może były drewniane lub tak małe, że można było je zabrać i użyć do jakiejś innej współczesnej budowli Indian czy Hiszpanów. Trudno wyrokować. Minął przecież długi okres czasu od najazdu konkwistadorów, a i nie wiadomo od jakiego czasu "buszowali" tam miejscowi Indianie.
+
+Po lewej stronie widać też pozostałości umocnień od strony południowej, a u samej góry widoczne są zabudowania północno-wschodnich peryferii Cusco.
+
+![](../../zrodlo/webacja/ameryka/slady11.jpg)
+
+![](../../zrodlo/webacja/ameryka/slady12.jpg)
+
+![](../../zrodlo/webacja/ameryka/slady13.jpg)
+
+![](../../zrodlo/webacja/ameryka/slady14.jpg)
+
+![](../../zrodlo/webacja/ameryka/slady6.jpg)
+
+Na niektórych kamiennych elementach widać tajemnicze ślady. Czym mogą być? Czy to ślady "palców Bogów" czy ślady "łap" jakiejś maszyny? Zakładając zastosowanie techniki umożliwiającej doprowadzanie kamienia do stanu plastycznego, ślady można odczytać, że ktoś lub coś przenosiło kamień, który był jeszcze zbyt miękki. Taką techniką można też wyjaśnić, dlaczego tak ściśle zdołano dopasować poszczególne kamienie do siebie. Tłumaczyło by to także tak różnorodne formy kamiennych elementów, wśród których w zasadzie nie można znaleźć dwóch identycznych.
+
+![](../../zrodlo/webacja/ameryka/latka1.jpg)
+
+![](../../zrodlo/webacja/ameryka/latka2.jpg)
+
+Czy budowniczowie tamtych czasów poprzestali tylko na zbudowaniu Sacsayhuaman? Sądzę, że nie. Sądząc po stylu, a przede wszystkim po zastosowaniu ogromnych kamiennych elementów jest prawdopodobne, że zbudowali także Cusco, Ollantaytambo, Machu Picchu, że wspomnę te najbardziej znane. Czy zbudowali także Tiahuanaco? Tu stanowczo się sprzeciwiam. Zupełnie inny styl budowy (podobny styl zauważyłem w Chavin de Huantar) i zapewne trochę inna technika obróbki kamienia. Jeśli widziałeś pogruchotane płyty z Akapany to przypominają one raczej doskonałe kamienne odlewy. Może korzystali z podobnej techniki "zmiękczania" kamieni, ale możliwe jest także, że tak doskonale potrafili dobrać składniki, że ich "cement" po zastygnięciu w niczym nie różnił się od kamienia.
+
+Na zdjęciach obok forma łatania przerw pomiędzy kamieniami - u góry w Sacsayhuaman, u dołu w ścianie muru w Ollantaytambo (dwie łatki). Z wyglądu przypomina mi dzisiejsze wypełnianie szpar za pomocą pianki poliuretanowej.
+
+Zobacz teraz podobieństwa między Sacsayhuaman a niektórymi budowlami w pobliskim Cusco. Są pewne różnice i to widoczne na pierwszy rzut oka w postaci wypustek na kamieniach i to też nie wszystkich. Być może pochodzą z innej metody "chwytania" kamieni, a może zastosowano tu metodę wtrysku i są to ślady po dyszach? Mam fantazję, nieprawdaż? Nie dziw się, bo próbuję zastosować dzisiejszą ludzką wiedzę do nieznanej technologii i stąd takie skojarzenia.
+
+![](../../zrodlo/webacja/ameryka/porownaj1.jpg)
+
+![](../../zrodlo/webacja/ameryka/porownaj2.jpg)
+
+![](../../zrodlo/webacja/ameryka/porownaj3.jpg)
+
+![](../../zrodlo/webacja/ameryka/porownaj4.jpg)
+
+Dwa pierwsze zdjęcia przedstawiają mury Sacsayhuaman, dwa następne Cusco. Podobieństwo jest widoczne. W Cusco istnieje cała dzielnica zbudowana na takich fundamentach. Ciekawie wyglądają te domy, gdyż dopiero pierwsze piętra mają współczesny charakter. Sądzę, że można to wytłumaczyć. Nowe Cusco zbudowano na ruinach tego, co pozostało po jakimś wielkim trzęsieniu ziemi, być może po "wielkim uskoku skorupy ziemskiej". Przetrwały tylko niskie budowle, zbudowane z murów antysejsmicznych, które po adaptacji nadawały się do dalszego zamieszkiwania. Według mnie jest to doskonały przykład budowy w miejscach aktywnych sejsmicznie, ale też i przestroga przed budowaniem wysokich budynków.
+
+Pisałem już, że Sacsayhuaman wygląda jak budowla, którą miano zbudować szybko i za wszelką cenę jako pierwszą. Z tego też powodu uważam je za jakieś centrum przemysłowe, które pozwalało budowanie już coraz doskonalszych obiektów. Za drugi, podobny obiekt uważam, położoną na wzgórzu, budowlę w Ollantaytambo. Cechy wręcz podobne do Sacsayhuaman: Usytuowana na wzgórzu, obwarowana i trudnodostępna, posiadająca jedno dojście i jedno wejście do głównego obiektu. Część centralna to też potężne bloki kamienia podobnej wielkości, lecz o większej staranności wykonania. Zobacz sam.
+
+![](../../zrodlo/webacja/ameryka/ollan1.jpg)
+
+![](../../zrodlo/webacja/ameryka/ollan2.jpg)
+
+![](../../zrodlo/webacja/ameryka/ollan3.jpg)
+
+Czy zbudowanie Sacsayhuaman przyczyniło się do wykonywania doskonalszych tworów? Sądzę, że tak i tego dowodem są być może perły roboty kamieniarskiej zachowane w Cusco. Nie zdołali rozebrać ich Hiszpanie i być może dlatego dotrwały do naszych czasów. Poniżej pokazuję budowle znajdujące się w Corichanchy w Cusco.
+
+![](../../zrodlo/webacja/ameryka/cusco1.jpg)
+
+![](../../zrodlo/webacja/ameryka/cusco2.jpg)
+
+![](../../zrodlo/webacja/ameryka/cusco3.jpg)
+
+![](../../zrodlo/webacja/ameryka/cusco4.jpg)
+
+Co jeszcze łączy te miejsca, a w zasadzie wszystkie miejsca tego "inkaskiego kręgu"? Jest to zasadnicza rzecz ignorowana przez większość naukowców badających te starożytne ruiny. Jest to nieopisany bałagan. Porozrzucane na dużym obszarze ogromne kamienne bloki. Niektóre całe, inne porozbijane, jeszcze inne znajdowane aż u podnóży wzgórz (zobacz na zdjęciu poniżej). To jest widok kataklizmu, który unicestwił wszystkie te obiekty. Sądzę, że był to jeden i ten sam kataklizm. Nauka nie zabiera na ten temat głosu, gdyż nie leży to w planie badań. A szkoda.
+
+![](../../zrodlo/webacja/ameryka/ollin.jpg)
+
+Czy w Sacsayhuaman znaleziono jeszcze inne ciekawe artefakty? Owszem, chociaż inne i bardziej zadziwiające można znaleźć w pobliżu "twierdzy". Teren ten nie jest badany z powodów, które opisałem na początku. Postawiono na turystykę, odkładając badania na dalszy plan. Może to i dobrze, bo zajmą się nimi naprawdę mądrzy archeolodzy o szerszych horyzontach niż dzisiejsi.
+
+![](../../zrodlo/webacja/ameryka/ciekaw1.jpg)
+
+![](../../zrodlo/webacja/ameryka/ciekaw2.jpg)
+
+![](../../zrodlo/webacja/ameryka/ciekaw3.jpg)
+
+![](../../zrodlo/webacja/ameryka/ciekaw4.jpg)
+
+![](../../zrodlo/webacja/ameryka/ciekaw6.jpg)
+
+![](../../zrodlo/webacja/ameryka/ciekaw7.jpg)
+
+Na zdjęciach wyżej "zabawy" w kamieniu tamtej cywilizacji. Pierwszy "fotel" znajduje się na terenie Sacsayhuaman, pozostałe artefakty w blisko położonym Qenko. Zwróć uwagę na proste, i równe cięcia w skale oraz łatwość w wykonywaniu owalnych kształtów. Tego nie można zrobić kamiennym dłutkiem.
+
+Wypada kończyć, choć wiem, że nie pokazałem wszystkiego, co jest godne uwagi. Cieszę się, jeśli wykazałeś choć odrobinę zainteresowania oraz poznałeś nowe, tajemnicze miejsce. Chcę jeszcze przedstawić moja hipotezę na temat Sacsayhuaman, lecz ostrzegam, że nie jest to naukowa hipoteza, choć jak sądzę nie pozbawiona logiki.
+
+• Określenie wieku powstania Sacsayhuaman jest na razie niemożliwe, ze względu na brak odpowiednich metod określania wieku kamienia, a w zasadzie jego obróbki, podobnie jak na podstawie określenia wieku warstwy geologicznej, gdyż brak jest pewności czy warstwy te przez cały czas pozostały nienaruszone.
+
+• Technika wykonania jak i wielkość elementów w żadnym wypadku nie wskazuje na człowieka jako twórcę. W zgodzie z moją hipotezą "dwóch cywilizacji", twórcami są istoty z cywilizacji Bogów, a jeśli tak, to wiek budowli jest nie mniejszy niż 12,5 tysięcy lat. Biorąc pod uwagę powszechność i wielkość zniszczeń, przy założeniu zaistnienia "wielkiego uskoku skorupy ziemskiej" około 12,5 tysięcy lat temu, wiek powstania obiektu należy przesunąć jeszcze głębiej.
+
+• Obiekt powstał w całości jako "centrum" do produkcji elementów budowlanych, choć nie można powiedzieć kategorycznie, że tylko. "Twierdza" była swojego rodzaju "centrum energetycznym" bądź miejscem wytwarzania bardzo niebezpiecznych materiałów. Wskazują na to zabezpieczenia jakich nie spotyka się w obiektach w pobliżu "twierdzy" (grubość i wysokość murów, jedno wejście główne, całość jako osobny obiekt). Z tego też względu sądzę, że cały obiekt mógł powstać jako pierwszy ze wszystkich w tym rejonie.
+
+• Wszystkie ośrodki budowane w tym rejonie, takie jak Sacsayhuaman, Cusco (najstarsza jego część), Tambomachay, Tipon, Pisaq, Ollantaytambo czy Machu Picchu nie mogą być brane pod uwagę jako miejsca zamieszkania ludzi, ze względu na mały, zajmowany rejon. W żadnym z tych ośrodków nie znaleziono nekropolii, kanalizacji miejskiej do odprowadzania ścieków organicznych, a odnajdywane kanały, źródełka czy baseny są częścią systemu odwadniającego. Terasy nie są świadectwem agrokultury, a służyły przede wszystkim jako zabezpieczenie przed osuwaniem się ziemi, a także stanowiły utrudnienie dla ludzi w przedostawaniu się do tych ośrodków.

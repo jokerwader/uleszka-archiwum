@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# oryginalne pliki strony zostają bajt w bajt (kodowanie ISO-8859-2, oryginalne końce linii)
+zrodlo/** -text linguist-vendored

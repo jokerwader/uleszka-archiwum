@@ -1,0 +1,57 @@
+---
+id: "medalt/plomby"
+tytul: "Toksyczne plomby"
+dzial: "Zapomniana medycyna"
+adres_oryginalny: "http://www.uleszka.net/webacja/medalt/plomby.htm"
+plik_zrodlowy: "zrodlo/webacja/medalt/plomby.htm"
+liczba_obrazow: 1
+---
+
+**Toksyczne plomby**  
+Wokół kilku artykułów
+
+**Gazy powstające podczas żucia w jamie ustnej z amalgamatem przekraczają około 500-krotnie normę zakładów produkcyjnych używająch rtęć podczas produkcji (dane z USA). Stąd nie należy zwlekać z usunięciem plomb amalgamatowych**.
+
+**Sprawdź, czy masz toksyczne plomby**  
+Jolanta Gromadzka-Anzelewicz
+
+Resort zdrowia chce, by za 4-5 lat Polacy nie mieli już w zębach amalgamatowych wypełnień, gdyż zawierają one szkodliwą dla organizmu rtęć. Projekt stanowiska w tej sprawie przyjęło ministerstwo pod koniec marca. Jest ono odpowiedzią na dyrektywę Parlamentu Europejskiego z lutego br., w której namawia on kraje członkowskie do stopniowego wycofywania wyrobów z rtęcią ze względu na ich szkodliwość dla zdrowia. Wraz z plombami zniknąć mają z przychodni, szpitali i aptek również rtęciowe termometry i ciśnieniomierze.
+
+![](../../zrodlo/webacja/medalt/plomba2.gif)
+
+Wypełnienia amalgamatowe, stosowane od 150 lat, mają kilka zalet; są przede wszystkim tanie, ale i twarde, więc nie ścierają się, gdy człowiek przeżuwa czy gryzie pokarmy - tłumaczy dr Krzysztof Chmielewski, stomatolog z Gdańska. - Są jednak mało estetyczne, zwiększają swoją objętość, potrafią rozsadzić ząb. W Polsce wykorzystuje się je tylko w przychodniach publicznej służby zdrowia.
+
+O wiele gorsze jest jednak to, że jak coraz częściej wskazują badania - plomby amalgamatowe są niebezpieczne dla zdrowia; mogą powodować migrenowe bóle głowy, uczulenia, uszkadzać nerki, szkodzić kobietom w ciąży. Może się z nich uwalniać toksyczna rtęć. Tymczasem takie plomby nosi w zębach większość Polaków, bo koszt amalgamatów pokrywa nam Narodowy Fundusz Zdrowia w ramach zdrowotnego ubezpieczenia.
+
+Wygląda na to, że troszcząc się o własne zdrowie będziemy starali się zrobić to na własny koszt. Problem w tym, że większość Polaków na to nie stać. - W stosunku do tego, co oferuje dziś nowoczesna stomatologia, amalgamatowe wypełnienia są na pewno anachronizmem - twierdzi dr Krzysztof Chmelewski, jeden z gdańskich stomatologów. - Pacjenci nie chcą takich plomb, gdyż są nieestetyczne. Nikt nie chce przecież przy ziewaniu wyglądać jak dalmatyńczyk. Doktor Krzysztof Chmielewski, który praktykuje również we Frankfurcie, twierdzi, że w krajach Unii Europejskiej nie rekomenduje się zakładania amalgamatów. Pacjenci, którzy się na nie decydują, robią to na własną odpowiedzialność.
+
+Jak bumerang powraca bowiem problem szkodliwości amalgamatu. - To związek srebra i innych metali z rtęcią, a jak wiadomo rtęć to trucizna - kwituje dr Chmielewski. - Nawet zwolennicy amalgamatu twierdzą, że człowiek nie powinien mieć więcej niż 6-7 takich plomb, bo mogą one powodować, między innymi, migrenowe bóle głowy - dodaje dr Edyta Gasperowicz. Na amalgamatowe plomby skazuje nas jednak Narodowy Fundusz Zdrowia. - Za amalgamatowe wypełnienia, zakładane do zębów przedtrzonowych i trzonowych, czyli od "czwórki" do "ósemki" pacjent nie płaci - tłumaczy dr Krystyna Erecińska, dyrektor Wojewódzkiej Przychodni Stomatologicznej w Gdańsku.
+
+Pacjenci się ich wprawdzie nie boją, ale ich nie lubią, bo są "czarne". Czasem rodzice fundują swoim dzieciom, szczególnie dziewczynkom, lepsze plomby w zębach trzonowych. Większości pacjentów jest jednak na nie skazana. Za lepszą plombę trzeba zapłacić minimum 60 -90 zł. Na co szkodzi rtęć Najwięcej rtęci dostaje się do naszego organizmu wraz z zanieczyszczoną żywnością i wdychanym powietrzem. Z krwią rtęć wędruje do układu nerwowego, odkłada się w mózgu, komórkach płodu i nerkach, w których kumuluje się ponad 90 proc. tego związku. M. in. uszkadza on nerki i mózg, powoduje schorzenia układu nerwowego, w tym encefalopatię.
+
+**Plomby, które wywołują depresję**  
+Dorota Landsberger, BBC News
+
+Mary Stephenson zaczęła cierpieć na depresję krótko po urodzeniu swego pierwszego dziecka. Był to początek czterech dekad udręki. Wypróbowany został każdy lek antydepresyjny i każda metoda terapii, jednak jej stan cały czas się pogarszał. Kiedy dwa lata temu zaczęła się okaleczać, została zawieziona do szpitala psychiatrycznego i umieszczona na oddziale zamkniętym. Lekarze byli zdezorientowani, określili ją jako "dziwny przypadek". Dopiero przypadkowa uwaga przyjaciela rodziny doprowadziła do niespotykanej terapii i, jak wierzy Mary, do wyleczenia. Rodzina Mary uważa, że cierpiała ona na zatrucie rtęcią z amalgamatowych plomb w zębach.
+
+Jak często bywa u ciężarnych kobiet, Mary podczas swojej pierwszej ciąży miała bardzo duże niedobory wapnia, w związku z czym założono jej wtedy 19 plomb. Krótko po narodzinach syna Mary wpadła w depresję, jednak na początku przypisywała ją huśtawkom nastrojów, jakie występują u kobiet zaraz po urodzeniu dziecka. Jednak z czasem Mary stawała się innym człowiekiem. Kiedy w styczniu 2004 r. rodzina usłyszała o zatruciu rtęcią, przekonała szpital, aby pozwolił Mary odwiedzić dentystę. Na przestrzeni trzech miesięcy usunięte zostały wszystkie amalgamatowe plomby, a w ich miejsce wstawiono plomby z plastycznego kompozytu. Jednocześnie rozpoczęto detoksykację - Mary przyjmowała 45 tabletek dziennie, aby oczyścić swój organizm z rtęci.
+
+Na początku nic się nie działo, ale potem stan Mary zaczął ulegać poprawie. W sierpniu mogła opuszczać szpital na krótkie wyprawy po zakupy, a 21 października została wypisana ze szpitala. "W dniu, kiedy wyszłam ze szpitala, poszliśmy do teatru. Kiedy podczas przerwy chodziliśmy po teatrze pomyślałam, że w końcu jestem wolnym człowiekiem i to było wspaniałe". Lekarz, który kierował zespołem leczącym Mary stwierdził, że starali się być otwarci na nowe propozycje leczenia Mary - dlatego też zgodzili się na przyjmowanie przez nią tabletek odtruwających. W rezultacie jej choroba cofnęła się.
+
+Plomby amalgamatowe zostały wycofane już w wielu krajach europejskich, a rząd brytyjski zaleca, aby nie stosować ich u ciężarnych kobiet. Jednak brytyjskie Ministerstwo Zdrowia stwierdza, że miliardy takich plomb używa się na całym świecie i nie ma żadnych dowodów potwierdzających, że plomby oparte na rtęci stanowią poważne zagrożenie dla zdrowia. Rzeczniczka Brytyjskiego Towarzystwa Dentystycznego powiedziała, że jedynie niewielki procent ludzi jest uczulonych na rtęć.
+
+**Musimy usuwać trujące plomby**  
+Głos Szczeciński
+
+Z naszych zębów powinny zniknąć amalgamatowe wypełnienia, które zawierają rtęć - alarmuje "Głos Szczeciński". Zbyt duża ilość amalgamatów (6-8 sztuk) w ustach może powodować bóle głowy i stany zapalne dziąseł - przestrzega szczeciński stomatolog Tomasz Cegielski. Jeśli pod jasną plombą zaczyna się coś dziać, zwykle to zauważymy. W przypadku amalgamatu tak nie jest, bo jego kolor maskuje rozwój próchnicy. Efekt? Pacjent zgłasza się do stomatologa z bolącym i mocno zepsutym zębem. Dodatkowo amalgamaty, tak jak każdy metal, kurczą się i rozszerzają pod wpływem temperatury (zimne lody, gorąca kawa), co prowadzi często do odłamania ściany zęba na zasadzie rozsadzenia - wylicza Cegielski.
+
+Zdaniem Tomasza Cegielskiego, amalgamaty nie mają racji bytu. Nie są szczelne, ponieważ stomatolog tylko wciska je do opracowanego w zębie ubytku. Nowoczesne wypełnienia mocowane są za pomocą specjalnych systemów uszczelniających, które uniemożliwiają przeciek bakterii do zęba - wyjaśnia stomatolog.
+
+Parlament Europejski domaga się, by zrezygnować ze stosowania plomb zawierających rtęć. Odwołuje się do badań, które pokazują, że rtęć jest toksyczna: powoduje bóle głowy i uczulenia, uszkadza nerki i mózg. Źle działa także na kobiety w ciąży, bo odkłada się w komórkach płodu - podaje dziennik. Jak pisze "Głos Szczeciński" większość pacjentów chętnie zrezygnowałaby z amalgamatowych plomb, bo są nieestetyczne. Powstrzymują ich finanse. Za plombę z rtęcią płaci Narodowy Fundusz Zdrowia. Za plomby lepszej jakości Fundusz nie płaci, a taka plomba to koszt 60-90 zł.
+
+**Srebrne plomby nie są groźne**  
+Gall Anonim (he, he, he)
+
+Seria opublikowanych w tym tygodniu artykułów naukowych rozwiała obawy, że zawarta w popularnych wypełnieniach amalgamatowych rtęć może szkodzić dzieciom. Czy niesłusznie srebrne plomby straciły popularność? Jednym z powodów odejścia do lamusa plomb amalgamatowych są względy kosmetyczne, białe plomby wyglądają bowiem lepiej niż srebrne. Jednak obawy, że zawarta w amalgamacie rtęć może mieć negatywny wpływ na układ nerwowy dzieci, wydają się być nieuzasadnione.
+
+W kilku krajach przeprowadzono badania na kilkusetosobowych grupach dzieci. Wyniki pokazują, że u dzieci, którym założono amalgamatowe plomby nie zauważono żadnych objawów zmniejszenia poziomu inteligencji czy osłabienia zdolności poznawczych w porównaniu z osobami, u których do wypełnienia ubytków użyto innego typu plomb. Naukowcy oczywiście powinni dalej zajmować się badaniem plomb stomatologicznych, ale już widać, że dość powszechne ostatnio obawy w sprawie amalgamatu nie były uzasadnione.

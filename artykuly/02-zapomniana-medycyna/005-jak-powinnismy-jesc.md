@@ -1,0 +1,1123 @@
+---
+id: "medalt/jedzenie"
+tytul: "Jak powinniśmy jeść"
+dzial: "Zapomniana medycyna"
+adres_oryginalny: "http://www.uleszka.net/webacja/medalt/jedzenie.htm"
+plik_zrodlowy: "zrodlo/webacja/medalt/jedzenie.htm"
+liczba_obrazow: 3
+---
+
+**Jak powinniśmy jeść**  
+Jeśli wstałeś od stołu i jesteś głodny - to się najadłeś.  
+Jeśli wstałeś od stołu i jesteś najedzony - to się zatrułeś.  
+Hipokrates
+
+Prawie wszyscy piszący o leczeniu naturalnym na pierwszym miejscu stawiając codzienne żywienie. Od jego jakości, a przede wszystkim składu posiłku zależy nasze samopoczucie, a przede wszystkim zdrowie. Wszyscy lekarze naturaliści traktują człowieka jako jeden biologiczny "silnik", który by pracować dobrze i bez zakłóceń musi mieć dostarczane "paliwo" i to doskonałej jakości i odpowiednim składzie. Zła jakość czy choćby brak choćby jednego składnika będzie powodował awarie czyli choroby. Jedna choroba będzie przyczyną następnej i tak do zatrzymania pracy całości fachowo nazywanego zejściem śmiertelnym. Przeczytanie tego, o czym będzie poniżej, spowoduje zapewne u niektórych szok, a u niektórych olśnienie. Okaże się bowiem, że wszystko, co robiliśmy z pożywieniem do tej pory było niewłaściwe. Nie mamy jednak wyboru, albo zaczniemy stosować się do rad i zaczniemy żyć pełnią życia, albo pozostaniemy przy starych nawykach i będziemy stałymi klientami przychodni i szpitali, co w dobie panowania NFZ-tu jest czynnością bardzo stresującą.
+
+**PIERWSZYM LEKARZEM MUSI BYĆ MATKA I ŻONA, A ICH APTEKĄ - KUCHNIA.**
+
+Staropolskie przysłowie mówi - "Tak się chłop czuje, jak baba gotuje" i jest w tym wiele racji. Dotyczy to zresztą nie tylko mężów, ale także i dzieci. Wszystkie gotujące panie muszą wiedzieć, co robią. Muszą wiedzieć, że przyprawy służą nie tylko do poprawienia smaku potraw, ale przede wszystkim dla polepszenia trawienia, a dobre trawienie, to pełne wykorzystanie pokarmu do budowy i odbudowy organizmu, to dobre samopoczucie bez jakichkolwiek "sensacji" układu pokarmowego. Japończycy mówią - "Jeśli małżeństwo się kłóci, to niech się zastanowi, co zjadło poprzedniego dnia".  
+(*na początku przepisu podaję znaczek autora, z którego książki zaczerpnąłem przepis* - **•** Tombak, **•** Gumowska, **•** Schulz, Überhuber,  
+**•** Grande, **•** Tuszyńska)
+
+**Co i gdzie trawimy**
+
+Na początek mała powtórka ze szkoły, z lekcji nauki o człowieku. Wszyscy lub prawie wszyscy wiedzą do czego służy układ pokarmowy człowieka i z czego się składa. Wbrew powszechnemu mniemaniu, żołądek nie jest najważniejszym organem służącym do trawienia pokarmów. Właściwe trawienie rozpoczyna się dopiero tuż za nim. Problemy mogą się zacząć przy pytaniach jak to się dzieje ale w tej czytance nie znajdziemy skomplikowanych nazw biologicznych i chemicznych, nie będziemy też liczyć żadnych kalorii, bo jest to niepotrzebne. Zostawiamy to nauce. Nas będą interesować tylko części układu pokarmowego i ich zadania, a także co się w nich dzieje po spożyciu pokarmu. Gdy zrozumiemy o co w tym wszystkim chodzi i zaczniemy się stosować do wskazówek, to w stosunkowo krótkim czasie dojdziemy i do zdrowia i do właściwej sylwetki. W opracowaniu opierałem się przede wszystkim na dwóch autorach - pani Jadwidze Górnickiej (lekarz) oraz prof. Michale Tombaku (lekarz i biolog), którzy w prosty i jasny sposób tłumaczą związki pomiędzy jedzeniem a zdrowiem.
+
+Trawienie rozpoczyna się w zasadzie już z uczuciem głodu. Następnie do gry wchodzą bodźce zewnętrzne - wygląd, zapach, które zapoczątkowują wydzielanie enzymów do konkretnego produktu. Dlatego tak ważne jest skupienie się na jedzeniu, a nie na jednoczesnym oglądaniu telewizji czy czytaniu gazety. Jaki enzym ma wytworzyć organizm, gdy oglądamy samochód gnieciony przez czołg? Ludzki organizm, to biologiczny "silnik", który by dobrze pracować musi mieć dostarczane "paliwo" o określonym składzie i w określonej ilości. Trawienie, to nic innego jak rozłożenie produktu na proste składniki, które może wchłonąć organizm, by zaopatrzyć komórki w energetyczne paliwo.
+
+Nasz zakład energetyczny rozpoczyna produkcję już w "wydziale nawilżania, rozdrabniania i miażdżenia" - w jamie gębowej. Wszyscy bez wyjątku zwracają uwagę na to, by pokarm był jak najdokładniej pogryziony i przeżuty, bo im dokładniejsze rozdrobienie, tym mniej energii straci nasz organizm na dalszą "obróbkę". Wydzielana przez ślinianki ślina (ślinianki wytwarzają jej około 1,5 litra na dobę) jest pierwszą barierą obrony organizmu i ma silne własności bakteriobójcze. Tu także przy pomocy enzymów skrobia zostaje rozłożona na maltozę i glikozę. Stąd wniosek - jak pić. Każdy łyk płynu należy chwilę potrzymać w ustach, by ślina zdążyła rozłożyć (lub przynajmniej zaczęła rozkładać) skrobię i cukier.
+
+Następnie kęsy pokarmu poprzez przełyk przedostają się do żołądka. Przełyk jest umięśnioną 25 centymetrową rurką, w której nie zachodzą żadne procesy trawienne (lub nic o nich nie wiemy). W żołądku do "pracy" przystępuje sok żołądkowy w skład którego wchodzą enzymy i kwas solny. Żołądek w ciągu doby wytwarza około 2,5 litra soku żołądkowego. Tu następuje nadtrawienie białek i tłuszczy. Żołądek w celu ochrony swych ścianek wydziela pewną ilość śluzu. Śluz ten niszczy kwas acetylosalicylowy (aspiryna i pochodne), alkohol etylowy i żółć, która czasem przedostaje się z dwunastnicy do żołądka (przy uszkodzeniu odźwiernika).
+
+Nadtrawione w żołądku białka i tłuszcze przechodzą z kolei do dwunastnicy i tu dopiero następuje ich strawienie. Dwunastnica to nic innego jak pierwsze 25 cm jelita cienkiego. Pomiędzy żołądkiem a dwunastnicą do nadtrawionego pokarmu zostają wstrzyknięte sok żółciowy z wątroby i sok trzustkowy z trzustki. Obie substancje wraz z sokiem jelitowym i dzięki ruchom jelita są mieszane z pokarmem tworząc tzw. mleczko pokarmowe, w którym zachodzą procesy trawienne. To w pierwszej części jelita cienkiego do organizmu zostają wchłonięte - woda, sole mineralne, cukry, aminokwasy, witaminy, żelazo i kwasy tłuszczowe. W końcowej części wchłonięte zostają witamina B12 i sole kwasów żółciowych.
+
+Po przejściu resztek niestrawionego w jelicie cienkim pokarmu do jelita grubego następuje w nim wchłonięcie reszty produktów przydatnych organizmowi, a przede wszystkim wody i uprzednio wydzielonych soków. Reszta zostaje uformowana w masy kałowe, które zostają wydalone na zewnątrz. W kale znajdują się bakterie rozmnożone w jelicie grubym, złuszczony nabłonek błony śluzowej i wody, a kolor tego wszystkiego jest zależny od barwników żółciowych. Zatrzymajmy się na chwilę. Skoro w jelicie grubym wchłaniane są resztki przydatnych produktów, wody i płynów to wniosek jest jeden. Jelito grube musi być biologicznie czyste. Jeśli jego ścianki są oblepione starymi, gnijącymi resztkami pokarmu (kamienie kałowe), to do organizmu przenikają wszystkie toksyny z gnijących resztek. Jest to żródło większości chorób na które zapadamy i dlatego jelito grube otrzymało przydomek "bezpiecznika zdrowia".
+
+**Warto zapamiętać**
+
+•  Nie jedzmy i nie pijmy pokarmów, które "parzą nas w usta". Spożywanie gorących potraw, oprócz poparzenia narządów jamy ustnej, może powodować anemię, bóle kręgosłupa, stawów, miednicy i mięśni nóg.  
+•  W żadnym wypadku nie łączmy cukru z białkami. Żółtko jajka utarte z cukrem ulubiony przez dzieci "kogel-mogel", to słodziutki "morderca".  
+•  Jeśli pijemy świeże mleko, to pijmy je samo, bez żadnych dodatków. Mleko, to przyjazny wróg. "Szklanka mleka dla ucznia" - to propaganda jak zwykle niczego nieświadomych polityków i "hodowla" chorego społeczeństwa.  
+•  Temperatura około 100°C "zabija" witaminy, powyżej 47°C czynne biologicznie enzymy, a związki organiczne zamienia w nieorganiczne, trudno przyswajalne przez organizm człowieka.  
+•  Jedzmy tylko świeże potrawy, przyrządzane "na jeden raz". Odsmażane i przygrzewane na drugi dzień, nie posiadają swych pierwotnych właścowości i są szkodliwe dla układu pokarmowego  
+•  Nie przesalajmy. Wszystkie potrawy są już "osolone" przez naturę. Sól tylko poprawia smak, a jej przedawkowanie narusza drastycznie stosunek sodu do potasu i jest główną przyczyną wysokiego nadciśnienia, zaś nadciśnienie to "łabędzi śpiew" naszych nerek.
+
+**Rady doktor Górnickiej**
+
+**Racjonalne zasady żywienia**:
+
+•  Najlepiej, ze względu na dobre trawienie, spożywać posiłek składający się z jednego produktu spożywczego.  
+•  Jeśli nie chcemy przestrzegać powyższej reguły, układamy posiłki według zasad prawidłowego łączenia zestawów.  
+•  Łączyć nie więcej niż cztery produkty jednej grupy.  
+•  Posiłek nie powinien zawierać więcej niż jeden produkt białkowy.  
+•  Tłuszcze (oleje) spowalniają trawienie. Najlepiej są przyswajane z jarzynami i owocami, natomiast źle ze skrobią i białkami.  
+•  Pomidory powinny być spożywane na surowo.  
+•  Świeży ogórek nie powinien być łączony z pomidorem.  
+
+**O mleku**. Należy obalić mit o doskonałości mleka jako pokarmu. Według najnowszych badań mleko jest produktem wręcz niestrawnym. Żaden ssak, oprócz człowieka i kota (mleka nauczył go pić człowiek) po wyjściu z okresu niemowlęcego nie pije żadnego mleka. Mleko zawiera dużo kazeiny, która jest potrzebna tylko do budowy włosów i paznokci. Organizm dziecka w wieku 1-2 lat przestaje wydzielać podpuszczkę, która jako jedyna jest zdolna trawić kazeinę. Mit o przywajalnym wapniu można sprawdzić u chorych na osteoporozę, gdzie picie mleka wcale nie leczy choroby, a wręcz ją pogłębia. Mleko spożywane z innymi pokarmami zostaje natychmiast ścięte w żołądku i oblepia inny pokarm utrudniając jego trawienie. Jako pokarm zaczyna być nadtrawiane w ostatniej kolejności. Jeśli ktoś nie chce z niego zrezygnować to niech spożywa go osobno i nie w dużych ilościach. Zaleca się natomiast spożywanie mleka przetworzonego - jogurt, kefir, kwaśne mleko, twarogi, żółte sery leżakujące (ale nie polski "trotyl", którego czas leżakowania jest uzależniony tylko od długości trwania transportu do sklepu).  
+
+•  Jogurt można spożywać z dojrzałymi półkwaśnymi owocami, warzywami liściastymi i kiełkującymi nasionami, ziarnami.  
+•  Jeśli, co jest bardzo wskazane, spożywa się owoce osobno, zaleca się ich dobór według rodzaju pestek (brzoskwinie, mirabelki, oliwki, czereśnie, wiśnie); owoce cytrusowe; owoce mające blaszki gniazd pestkowych (jabłka, gruszki); melony; owoce suszone. Prof. Tombak zaleca spożywanie całych jabłek, oprócz części, których nie można pogryźć. W 6 ziarnkach jabłka jest zawarta dzienna dawka jodu.  
+•  Mleko (oprócz twarogu), ziemniaki, groch, fasola, owoce i warzywa są **zasadotwórcze**, zawierają bowiem dużo pierwiastków alkalicznych. Zasadotwórcze są również kawa, piwo, cola, wino, mleko, soki owocowe.  
+•  Wszystkie mięsa, wędliny, podroby, jaja, wszystkie ryby, masło, drożdże, orzechy, skrobia, czekolada, kakao, tłuszcze, oleje, majonez, sery, twarogi i pieczywo - są **kwasotwórcze**.  
+•  Banany można jadać z owocami półkwaśnymi.  
+•  Nie należy zjadać zbyt dużo orzechów arachidowych. Są ciężkostrawne.  
+•  Do wszystkich produktów ciężkostrawnych można dodawać zmielony kminek z majerankiem, co ułatwia proces trawienia.  
+•  Stosować, ale z umiarem, przyprawy trawienne - pieprz naturalny i ziołowy, mielony kminek z majerankiem, cynamon, imbir (dodawać niewielkie ilości!), por, czosnek, cebula, natka pietruszki, kolendra, cząber itp.  
+•  Nie pić gorących płynów, nie spożywać gorących potraw. Mające temperaturę powyżej 45°C mogą spowodować anemię, bóle kręgosłupa, stawów, miednicy i mięśni nóg.  
+
+**oraz jej inne rady dotyczące spożywania pokarmów**:
+
+•  do posiłku należy wybierać takie produkty spożywcze, które smakują najbardziej,  
+•  waga posiłku nie powinna przekraczać 600 g. Nie objadać się, zwłaszcza przed rozpoczęciem cięższej pracy,  
+•  główny posiłek winny być spożywany w południe, gdy promienie słoneczne działają najsilniej. Promieniowanie słoneczne ma wpływ na trawienie, dlatego też do ostatniego posiłku należy siadać przed zachodem słońca,  
+•  pojadanie między posiłkami jest szkodliwe,  
+•  nie należy jeść, gdy odczuwa się ból, w zdenerwowaniu, po wyczerpującej pracy, w zmęczeniu,  
+•  przy trudnościach trawiennych dobrze jest przed posiłkiem odpocząć 10 minut,  
+•  nie popijać w czasie jedzenia, pragnienie można zaspokoić pół godziny przed posiłkiem lub 1 godzinę po jedzeniu,  
+•  do sałatek, surówek, cebuli dodawać olej słonecznikowy, sojowy lub oliwkowy, do potraw gotowanych dodawać olej już po wyłączeniu ognia lub nawet na talerzu,  
+•  do chleba przyrządzać pasty serowo-jarzynowe, biały ser jeść najlepiej sam bez chleba, gdy czujemy głód,  
+•  kasze, ryż, makaron jadać z dodatkiem jaj, sera, mleka, roślin strączkowych (fasoli, grochu), zupy gotować z wywarem z jarzyn z dodatkiem grzybów lub ziół przyprawowych,  
+•  umiarkowanie używać cukru i słodyczy, stopniowo zastępując je miodem, słodkimi owocami (świeżymi lub suszonymi),  
+•  kasze i ryż gotowany na sypko jeść z dodatkiem jajka, twarożku, fasoli lub z sosem grzybowym, pomidorowym, koperkowym,  
+•  raz dziennie zjadać posiłek z samych jarzyn (nawet jednej) gotowanych z dodatkiem ziemniaków,  
+•  spożywać pokarmy w stanie naturalnym, nie smażyć tego co można ugotować, nie gotować tego co można zjeść na surowo,  
+•  ostatni posiłek zjadać w zasadzie trzy godziny przed snem i nie zapominać, że żołądek śpi razem z człowiekiem,  
+•  picie wody rano i wieczorem służy przepłukaniu przewodu pokarmowego,  
+•  soki owocowe należy chwilę trzymać w ustach, by mogły wymieszać się ze śliną,  
+•  uwaga dla osób mających ogródki warzywne: należy zwracać uwagę na odpowiednie rozmieszczenie roślin, by mogły się dobrze rozwijać oraz wzajemnie ochraniać i wspomagać. Pietruszka chroni pomidora, marchew i fasolę. Tymianek i mięta chronią kapustę. Dęby zabezpieczają przed ślimakami. Leszczyna odstrasza muchy. Fasola rozwija się niedobrze w sąsiedztwie cebuli.
+
+**Rady antycholesterolowe**:
+
+**2/3 cholesterolu wytwarza sam organizm, a 1/3 pochodzi z żywności**
+
+•  Stosować lecytynę, siemię lniane, czosnek, jabłka (zjadać przynajmniej 2 dziennie), błonnik.  
+•  Jadać mniej tłuszczów nasyconych - masło, słonina, smalec i inne tłuszcze zwierzęce.  
+•  Do pieczywa stosować tylko 3-4 dag masła dziennie.  
+•  Unikać tłustych mięs, serów, ciasta, sosów, zup zaprawianych tłuszczem, śmietaną.  
+•  Jadać oleje roślinne, najlepiej słonecznikowy i sojowy (tłoczone na zimno), pieczywo razowe, pszenne i żytnie, które zawiera 4 razy więcej witaminy E niż pieczywo białe, a ponadto posiada żelazo i wszelkie makro i mikroelementy, witaminy i błonnik.  
+•  Stosować mleko przetworzone (kefir, jogurt, mleko zsiadłe) przynajmniej 2 szklanki dziennie.  
+•  Zjadać warzywa i nasiona do 1 kg dziennie. Im większe ich urozmaicenie, tym lepiej byle bez tłuszczów, lub z niewielkim dodatkiem oleju, szczególnie do tych warzyw, które są źródłem karotenów (witaminy A) lub kiełków zawierających witaminę E, gdyż te jako rozpuszczalne w tłuszczach, bez nich nie będą przyswajane.  
+•  Skrobię i białko zjadać osobno. W przeciwnym wypadku pokarm zalega zbyt długo w żołądku i nie jest strawiony.  
+•  Jadać jedną jarzynę ugotowaną, a inne na surowo.  
+•  Jadać wszystko świeże. Szczególnie oleje powinny być świeże. Nie lubią światła, słońca i mrozu. Na świetle jełczeją, a witamina A rozkłada się. Są kaloryczne, ale obniżają poziom cholesterolu we krwi. W trakcie podgrzewania oleju uważać na spalenie. Przypalony olej (podobnie jak pozostałe tłuszcze) zawiera trującą akroleinę, która jest rakotwórcza.  
+•  Czosnek obniża poziom cholesterolu.  
+•  Zapobiegając nadmiarowi cholesterolu należy jadać siemię lniane zawierające najwięcej lecytyny rozpuszczającej cholesterol.
+
+**Co radzi prof. Tombak**
+
+Dieta prof. Tombaka jest dietą "skromną" i skłaniającą się bardziej w kierunku wegetarianizmu, gdyż preferuje spożywanie większej ilości produktów roślinnych. Nie ma w niej miejsca na "przepych" i "wykwintne" potrawy czy "raj dla podniebienia". Jego podstawowym założeniem jest "jeść po to aby żyć, a nie żyć po to by jeść". Pierwszą i zasadniczą sprawą jest sposób łączenia potraw i to jest szokiem dla wszystkich od lat nauczonych innego sposobu jedzenia.
+
+Drugą zasadą jest sam sposób jedzenia. Prof. Tombak proponuje wypracować nawyk jedzenia dwa razy dziennie. Pierwszy posiłek miedzy 8-ma a 9-ta rano oraz po południu między 17-tą a 20-tą. W przerwie między posiłkami jeść należy tylko warzywa i owoce lub pić soki owocowe lub warzywne (świeżo przygotowane) lub wodę mineralną ( w cyklu 2 tygodnie picia - miesiąc przerwy). Do picia najlepsza jest zielona herbata lub herbaty ziołowe (rumianek, pokrzywa, melisa). Nie pić w czasie jedzenia, jeśli po jedzeniu odczuwamy pragnienie możemy kilka razy przepłukać gardło. Kolejność przyjmowania posiłków: soki, herbata, woda mineralna - sałatki - podstawowy posiłek (rano z węglowodanów, wieczorem białkowy). Pokarm należy jeść powoli, dokładnie przeżuwając (każdy kęs gryźć 25-50 razy), gdyż od rozdrobnienia pokarmu zależy dokładność i szybkość trawienia pokarmu.
+
+**Jak łączyć pokarm**:
+
+Prof. Tombak podzielił produkty żywnościowe na trzy grupy. Podobnego podziału dokonuje także doktor Górnicka. Dlaczego? Spowodowane jest to jakością enzymów potrzebnych do trawienia. Każdy jednorodny pokarm trawi inny enzym i często przy wymieszanym pokarmie enzym zasadowy i kwaśny wzajemnie się neutralizują, co w konsekwencji doprowadza do niestrawienia żadnego z pokarmów. Dlatego dieta optymalna nakazuje spożywanie w jednym posiłku tylko jednego produktu, który jest trawiony całkowicie. Przykładowo węglowodany są trawione w ciągu 20-30 minut, zaś białka w ciągu 2-4 godzin i takie przerwy powinny być między zjedzeniem jednego a drugiego.
+
+**POKARM WĘGLOWODANOWY (można łączyć)**
+
+**BIAŁKO**
+
+---
+
+mięso, wędliny, ryby,  
+boczek surowy i wędzony,  
+podroby, dziczyzna,  
+wszystkie jaja,  
+rosoły, bakłażany,  
+fasola, bób, soja  
+wszystkie nasiona,  
+wszystkie orzechy,  
+ziarna słonecznika,  
+produkty mleczno-kwaśne,  
+twarogi, sery białe,  
+sery żółte i topione,  
+mleko, jogurt, kefir,  
+żelatyna
+
+  
+**TŁUSZCZE  
+i produkty "żywe"**
+
+---
+
+tran, słonina, smalec,  
+masło świeże i topione,  
+oleje, margaryny,  
+orzechy laskowe i włoskie,  
+migdały, gorzka czekolada,  
+
+---
+
+zielenina, owoce suszone,  
+soki z warzyw i owoców  
+warzywa (oprócz ziemniaków),  
+jagody, arbuzy, grzyby,  
+wino wytrawne, mleko,  
+melon i banan najlepiej  
+spożywać osobno nie łącząc  
+z innymi produktami  
+dodatki smakowe i przyprawy
+
+**WĘGLOWODANY  
+(skrobia)**
+
+---
+
+mąki, kasze, ryż, płatki,  
+wszelkie pieczywa, sucharki  
+ziemniaki, kukurydza,  
+wyroby mączne,  
+makarony, naleśniki  
+cukier, miód  
+suszone owoce,  
+wyroby zawierające cukier  
+dżemy, marmolady, konfitury  
+cukierki, ciasta,  
+syropy owocowe,  
+kakao w proszku,  
+fasola i strączkowe (suche)  
+soczewica, orzeszki ziemne
+
+**POKARM BIAŁKOWY (można łączyć)**
+
+Jeśli zasłonimy lewą tabelę (białko), to otrzymamy listę artykułów spożywczych, które tworzą pokarm węglowodanowy, a artykuły można mieszać ze sobą w dowolnych proporcjach. Jeśli zasłonimy prawą tabelę (węglowodany) otrzymujemy artykuły spożywcze pokarmu białkowego. Przerwa między spożywaniem jednego i drugiego posiłku powinna być nie mniejsza niż 3-4 godziny. Dziwi też zapewne umieszczenie orzechów i w tłuszczach i w białkach. Wynika to z tego, że orzechy są w połowie białkami, a w połowie tłuszczami i na wszelki wypadek jedzmy je osobno. Przykładowo orzechy laskowe i włoskie zawierają powyżej 50% tłuszczu, a ziemne - tłuszczu powyżej 45%, a białka i węglowodanów powyżej 20%. To samo dotyczy boczku. Chudy boczek zaliczamy do mięs (białko), a tłusty do tłuszczy. Czy będziemy go jedli z chlebem, to już nasz wybór. Umiar na pewno nie zaszkodzi, ale jeśli ktoś za jednym "posiedzeniem" potrafi zjeść pół bochenka chleba z kilogramem boczku, to musi się liczyć z jakimiś konsekwencjami.
+
+Na początku taki podział wydaje się trudny lub wręcz niemożliwy do zaakceptowania. Wiele osób denerwuje to, że muszą zrezygnować z pieczywa, ziemniaków lub kaszy, jeśli zachciało się im zjeść mięsa. Więc jeśli chcemy być zdrowi, to nie mamy innego wyboru i musimy zwalczyć to przyzwyczajenie.
+
+A oto inna wersja łączenia produktów:
+
+**NAJGORSZE POŁĄCZENIE**
+
+**NAJLEPSZE POŁĄCZENIE**
+
+**Mięso (wszystkie rodzaje)**
+
+zielone warzywa
+
+mleko, skrobia, słodycze, inne białka, kwaśne owoce, olej masło śmietankowe, śmietana
+
+**Skrobia (chleb, ziemniaki)**
+
+zielone warzywa, tłuszcze roślinne i zwierzęce
+
+wszystkie białka, wszystkie owoce, cukry, kwasy
+
+**Zielone warzywa**
+
+wszystkie białka, wszystkie produkty zbożowe
+
+mleko
+
+**Orzechy (większość rodzajów)**
+
+zielone warzywa, kwaśne owoce
+
+mleko, skrobia, słodycze, inne białka, masło śmietankowe, olej roślinny
+
+**Jaja**
+
+zielone warzywa
+
+mleko, skrobia, słodycze, inne białka, kwaśne produkty, olej roślinny
+
+**Mleko**
+
+spożywać oddzielnie, można z kwaśnymi owocami
+
+wszystkie białka, zielone warzywa, produkty skrobiowe
+
+**Tłuszcze zwierzęce**
+
+wszystkie rośliny zbożowe
+
+wszystkie białka
+
+**Melon (wszystkie rodzaje)**
+
+zawsze spożywać oddzielnie
+
+wszystkie produkty
+
+**Rośliny zbożowe (pszenica, żyto, owies)**
+
+zielone warzywa
+
+kwaśne owoce, wszystkie białka, wszystkie słodycze, mleko
+
+**Rośliny strączkowe**
+
+zielone warzywa
+
+wszystkie białka, wszystkie słodycze, owoce (wszystkie rodzaje), masło śmietankowe, śmietanka
+
+**Owoce niekwaśne i półkwaśne**
+
+kwaśne mleko
+
+kwaśne owoce, skrobia, białka, mleko
+
+**Owoce kwaśne**
+
+orzechy, kwaśne mleko i inne kwaśne owoce
+
+wszystkie słodycze, skrobia (pieczywo, zboża), białka z wyjątkiem orzechów
+
+**NAJLEPSZE POŁĄCZENIE**
+
+**NAJGORSZE POŁĄCZENIE**
+
+I trzecia wersja tabeli:
+
+**NAZWA PRODUKTU (numer)**
+
+**1**
+
+**2**
+
+**3**
+
+**4**
+
+**5**
+
+**6**
+
+**7**
+
+**8**
+
+**9**
+
+  Ziemniaki, buraki, marchew, dynia, kukurydza
+
+**1**
+
+  Chleb, wyroby mączne, nie oczyszczone kasze, pieczywo cukiernicze  
+
+**2**
+
+  Warzywa zielone, żółte, czerwone, białe
+
+**3**
+
+  Rzepa, korzeń pietruszki, seler, czerwona i zielona papryka
+
+**4**
+
+  Mięso, jaja, twaróg, żółty ser, groch, soja, fasola, drób, ryby
+
+**5**
+
+  Ziarna zbóż, oczyszczone kasze
+
+**6**
+
+  Tłuszcze roślinne, olej słonecznikowy, oliwa z oliwek itd.
+
+**7**
+
+  Świeże figi, słodkie wiśnie, jabłka, truskawki, maliny
+
+**8**
+
+  Pomarańcze, grapefruity, cytryny, kwaśne śliwy, pomidory
+
+**9**
+
+---
+
+\- korzystne połączenie produktów
+
+\- możliwe ale nie zalecane łączenie
+
+\- nie należy łączyć
+
+Całość prof. Tombak ujął w jedenastu punktach, które nazwał jedenastoma prawdami zdrowego życia.
+
+1.
+
+Nie jedz szybko.
+
+2.
+
+Nie popijaj podczas posiłku.
+
+3.
+
+Nie jedz często i nie żuj ciągle (dotyczy też gumy do żucia).
+
+4.
+
+Nie oglądaj telewizji podczas jedzenia.
+
+5.
+
+Nie jedz jak jesteś zdenerwowany.
+
+6.
+
+Nie leż po jedzeniu.
+
+7.
+
+Nie jedz przed snem i nie podjadaj w nocy.
+
+8.
+
+Prawidłowo łącz produkty, które spożywasz.
+
+9.
+
+Unikaj siedzącego trybu życia.
+
+10.
+
+Ogranicz do minimum spożycie produktów mącznych i słodyczy.
+
+11.
+
+Ogranicz do minimum spożycie produktów rafinowanych i gotowanych.
+
+Kto dokładnie przeczytał powyższe, zrozumiał że nadszedł "czas apokalipsy". Żegnajcie chrupiące bułeczki z masełkiem i szynką. Żegnaj schaboszczaku z odsmażanymi ziemniaczkami. Żegnaj żurku z kiełbasą. Taka jest cena naszego zdrowia. Jesli ktoś uważa inaczej, to siłą rzeczy bedzie musiał wejść w większą zażyłość z lekarzem pierwszego kontaktu, a ten jak zwykle zaaplikuje antybiotyki, aspirynę lub inne chemiczne "nowości". Każdy wie, że żywność dzielimy na zdrową i smaczną - wybór zależy od nas.
+
+**ZASADY SPOŻYWANIA PRODUKTÓW Z PRZEWAGĄ BIAŁKA**
+
+**1.**
+
+**Jeśli spożywacie tłuszcz z białkiem (mięso usmażone na oleju roślinnym), to należy jeść mięso z dużą ilością warzyw. Obfitość warzyw neutralizuje szkodliwą działalność tłuszczów.**
+
+**2.**
+
+**Białek najlepiej nie mieszać z innymi białkami. Każde białko należy jeść oddzielnie, jeden rodzaj białka każdorazowo, np. tylko mięso lub tylko groch, lub tylko ryby.**
+
+**3.**
+
+**Produkty białkowe lepiej spożywać na kolację, nie później niż dwie godziny przed snem, ponieważ nocną porą organizm zajmuje się regeneracją i potrzebuje substancji białkowych. Sałatka warzywna musi się znaleźć przed każdym pożywieniem białkowym.**
+
+Pożyteczne rady odnośnie spożywania produktów z przewagą białek:
+
+• 
+
+Najlepiej jeść mięso zapiekane w piekarniku lub na grillu. Nie smażyć na oleju i nie gotować.
+
+• 
+
+Rosoły mięsne (buliony) - na strawienie mięsnego bulionu organizm zużywa 30 razy więcej energii niż na trawienie mięsa. Produkty mięsne zawierają ponad 20 różnych, trujących substancji i podczas gotowania przechodzą one do bulionu. W ten sposób rosół na mięsie to "skondensowany wyciąg z martwego zwierzęcia". Z bulionów mięsnych najlepiej zrezygnować.
+
+• 
+
+Ponieważ białka nie są potrzebne człowiekowi w dużych ilościach wystarczy spożywać mięso, ryby, drób - 2 razy w tygodniu. 100 g orzechów całkowicie zaspokajają dobowe zapotrzebowanie na białko. 200g mięsa lub 300 g ryby najlepiej zamienić na 120 g roślin strączkowych.
+
+• 
+
+Mięso i ryby należy zawsze spożywać świeżo przygotowane, nie pozostawiając ich na następny dzień.
+
+• 
+
+Jeśli gotujecie mięso, to na 10 minut przed końcem gotowania należy dodać kawałek jabłka. Mięso będzie soczyste. Ryba będzie smaczniejsza, jeśli w trakcie gotowania będziemy kilka razy dolewali zimną wodę.
+
+Fragment wywiadu z dr Lorraine Day
+
+Rozmowa z 21 lipca 2006 r. została zamieszczona na angielskiej [stronie](http://www.uleszka.net/webacja/medalt/www.iamthewitness.com). Jej wydawca, a zarazem prezenter radiowy Daryl Bradford Smith jest znany z kontrowersyjnych audycji krytycznych dla syjonistów i Izraela. Tym razem gościem programu French Connection jest Dr Lorraine Day, która przez wiele lat pełniła m.in. funkcję wiceprezydenta Departamentu Ortopedii na uniwersytecie oraz była głównym chirurgiem ortopedą w szpitalu San Francisco. Tekst wywiadu po polsku zamieszczono na [stronie](http://www.raportnowaka.pl/news.php?typ=news&id=227). Wywiad poświęcono syjonizmowi w USA, nie mniej fragment jest ciekawy z punktu widzenia medycyny i żywienia.
+
+**Daryl Bradford Smith** - Kiedy byłem na studiach mówiło się, żeby nie jeść wołowiny przed egaminami, nie wiedziałem że ma to podstawy naukowe, wygląda jednak na to, że jest to racja.  
+**Dr Lorraine Day** - Jest jeszcze jedna przyczyna. Po zjedzeniu produktów zwierzęcych, niezależnie czy jest to wołowina czy kurczaki, potrzeba olbrzymiej ilości energii na ich strawienie, gdyż produkty te zawierają 40% tłuszczu i 40% białka - jest tak zarówno w przypadku mięsa jak i ryb czy drobiu. Taka ilość trawionych białek powoduje spowolnienie pracy mózgu, a tłuszczu pobranie ogromnych ilości energii z ciała. Dodatkowo powoduje to odwodnienie ciała, gdyż trawienie produktów zwierzęcych wymaga dużej ilości wody. Mózg, który w 85% składa się z wody, poprzez jej utratę na skutek trawienia też nie pracuje normalnie.
+
+Gotowane białko wywołuje w przewodzie pokarmowym procesy gnilne, podczas których wytwarzają produkty toksyczne. Cżęść z nich zostaje wydalona z kałem, ale część jest wchłaniana przez tkanki nciała, by tworzyć źródła ognisk zapalnych i złogi. Głównym miejscem ich odkładania jest tkanka tłuszczowa. Zatrucia białkowe powodują otępienie uczuciowe, osłabienie aktywności, zamknięcie się w sobie, zaburzenia procesów myślenia. Jedną z metod usuwania tych zatruć jest głodówka, która również pomaga w przypadkach zaburzeń przemiany materii, co dotyczy także egzemy, astmy oskrzelowej, nadciśnienia, kamicy żółciowej, stwardnienia żył. (Górnicka)
+
+**ZASADY SPOŻYWANIA PRODUKTÓW Z WĘGLOWODANÓW I SKROBI**
+
+**1.**
+
+**Skrobię należy spożywać jednego rodzaju (kasza bez chleba, groch bez chleba). Kilka rodzajów skrobi zjedzonych jednocześnie spowoduje wzrost apetytu, czego skutkiem będzie zwiększona ilość zjedzonego pokarmu.**
+
+**2.**
+
+**Nie jedzcie chleba, wyrobów mącznych i kasz z dżemami lub cukrem, ponieważ zmieszanie ich z sobą spowoduje fermentację w żołądku. Dlatego też często po zjedzeniu bułek drożdżowych, pączków z powidłami lub dżemem odczuwamy zgagę. Z tych przyczyn proszę nie jeść razem skrobi i cukrów. Na przykład, nie dodawać cukru do wszelkiego rodzaju kasz (owsianek). Chleb można smarować miodem, ale korzystniej dla zdrowia jest rozpuścić miód w przegotowanej wodzie i wypić.**
+
+**3.**
+
+**Słodkie i suszone owoce można łączyć ze skrobiami - chleben, kaszami, ryżem.**
+
+**4.**
+
+**Kasze, chleb, ziemniaki i inne skrobie powinny być spożywane oddzielnie od mięsa, ryb, jaj, żółtego sera, twarogu, tzn. pokarmu białkowego. Przerwa między spożywaniem węglowodanów i białek powinna wynosić przynajmniej 2-3 godziny.**
+
+**5.**
+
+**Pokarm skrobiowy zaleca się spożywać w dzień, w okresie pomiędzy godziną 9.00 a 13.00, ponieważ przy trawieniu węglowodanów organizm otrzymuje najwięcej energii. Ta energia będzie całkowicie spalona w czasie zajęć, w ciągu całego dnia. Ta uwaga jest szczególnie cenna dla osób skłonnych do nadwagi.**
+
+**6.**
+
+**Przed spożyciem skrobi koniecznie zjeść należy sałatkę warzywną.**
+
+**7.**
+
+**Najlepiej przyrządzić sałatki z nastepujących warzyw: kapusty, marchwi, buraków, kopru, pietruszki, soli i przypraw. Enzymy, znajdujące się w warzywach pomagają strawić skrobię.**
+
+Pożyteczne rady:
+
+• 
+
+Trawienie skrobii rozpoczyna się już w ustach, dlatego pożywienie skrobiowe należy szczególnie dokładnie żuć.
+
+• 
+
+Gatunki bezdrożdżowego pieczywa i kasze posiadają włókna roślinne, które oczyszczają układ pokarmowy. Spożywanie tych produktów codziennie jest najcenniejszą profilaktyką pracy układu pokarmowego.
+
+• 
+
+Korzystne dla zdrowia są kasze - gryczana, pszenna, kukurydziana, jęczmienna, ryż (dziki, nieoczyszczony). Kasze powinny byc ugotowane na "gęsto", bez dużej ilości wody. Powinny też stanowić 1/3 naszego codziennego posiłku.
+
+Spożywanie nadmiaru produktów mącznych, cukru, białka powoduje ogólne zatrucie organizmu, stany zapalne oczu, zapalenie spojówek, zapalenie tęczówki, zapalenie rogówki. Wady wzroku mające przyczynę w zatruciu pokarmowym, można wyleczyć stosując głodówkę. Wówczas następuje wydalenie produktów spalania blokujących mięsnie i naczynia krwionośne otaczające oczy, co doprowadza do odprężenia i rozluźnienia mięśni i poprawy wzroku. (Górnicka)
+
+**ZASADY SPOŻYWANIA TŁUSZCZÓW**
+
+**1.**
+
+**Tłuszcze zwierzęce to masło, śmietana, śmietana, smalec. Tłuszcze roślinne - oleje roślinne i większość orzechów.**
+
+**2.**
+
+**Tłuszcze możemy mieszać z węglowodanami i warzywami.**
+
+**3.**
+
+**Tłuszcze należy spożywać w ograniczonej ilości - 25-30 g oleju roślinnego dziennie, 10-15 g masła śmietankowego (2 łyżki stołowe).**
+
+Pożyteczne rady:
+
+• 
+
+Szczególnie szkodliwe jest smażenie tłuszczów w temperaturze 150°C (taka temperatura jest na patelni podczas smażenia). W takiej temperaturze wszystkie tłuszcze, w tym oleje roślinne, ulegają rozkładowi, zamieniając się w związki toksyczne, rakotwórcze. Na smażonych produktach tworzy się "skórka" przypominająca polietylen. W szczególności znajdują się tam substancje rakotwórcze. Spożywanie takich produktów zwiększa ryzyko zachorowania na raka i choroby wątroby. Dlatego też najlepiej tłuszcze spożywać w postaci nieogrzanej, bezpośrednio przed użyciem.
+
+• 
+
+W trakcie produkowania masła używa się sporo domieszek "ukrytych konserwantów", dzięki którym termin przydatności przedłuża się o kilka miesięcy. Żeby zlikwidować szkodliwość różnych domieszek zaleca się oczyszczanie masła śmietankowego (przetapianie go lub przegotowanie). Takie masło nie podwyższa cholesterolu, nie jełczeje i może być bardzo długo przechowywane bez dodawania konserwantów.
+
+**•** 250 g masła (kostka) włożyć do garnka, zalać ciepłą, przegotowaną wodą 250 ml (szklanka) i gotować na małym ogniu przez godzinę. Następnie ostudzić i wstawić do lodówki. Po zastygnięciu masła wylać wodę. W tej wodzie znajdują się wszelkiego rodzaju domieszki.
+
+**•** Drugi sposób, to przetopienie. Kostkę masła śmietankowego położyć na patelni i topić go przy niskiej temperaturze (na bardzo małym ogniu) aż do uzyskania gęstej masy o oliwkowym kolorze. Potem ostudzić.
+
+**Uwaga na polskie masło!** ([Fakty.interia.pl](http://fakty.interia.pl/kraj/news?inf=717775)) "Fałszowanie masła na masową skalę potwierdzają też wyniki kontroli przeprowadzonej przez Inspekcję Handlową. Po sprawdzeniu 81 próbek masła okazało się, że ponad połowa jest sfałszowana! Inspekcja Handlowa ustaliła, że lewe smarowidło robi aż 12 producentów. \[...\] niektóre masła i osełki **dr Milk** firmy **Laktopol z Łosic**. Producent nie wspomina ani słowem na opakowaniu, że dodał do nich - jak wykazała uczelnia - także tłuszcz roślinny. \[...\] Po co producenci podrabiają masła? Bo chcą zarobić. W Polsce olej palmowy (najczęściej sprowadzany z Malezji) jest tani. W hurcie kosztuje ok. 2,30 zł za kg. Za kilogram masła - także w hurcie - zapłacimy prawie pięć razy więcej. Jeśli producent zrobi mix i sprzeda go jako prawdziwe masło, może na tym nieźle zarobić."
+
+**ZASADY SPOŻYWANIA OWOCÓW**
+
+**1.**
+
+**Owoce jeść w niedużej ilości na 20-30 minut przed posiłkiem.**
+
+**2.**
+
+**Nie dodawać cukru do surowych owoców. Starać się spożywać owoce sezonowe. Owoce oczyszczają krew (odkwaszają ją). Dodając cukier otrzymujemy efekt odwrotny.**
+
+**ZASADY SPOŻYWANIA WARZYW**
+
+**1.**
+
+**Zimą i wiosną nie spożywać nadmiernie pomidorów i ogórków. Wymienione warzywa są hodowane sztucznie, albo zrywane niedojrzałe, dlatego też szybko gniją i psują się. Żeby zwiększyć termin przechowywania poddawane są działaniu różnorodnych środków.**
+
+![](../../zrodlo/webacja/medalt/marchewy.jpg)
+
+**2.**
+
+**Wiele osób narzeka, że nie może spożywać surowych warzyw. Tak się dzieje dlatego, wszystkie artykuły pochodzenia roślinnego powinny być bardzo dokładnie przeżuwane, ponieważ ich trawienie zaczyna odbywać się w jamie ustnej. Jeżeli tego nie zrobicie, to niedobrze pogryziony pokarm przedostaje się do żołądka, gdzie będzie fermentować, a to powoduje obfite gazy i wzdęcia. Radziłbym, aby osoby, którym brakuje więcej niż czterech zębów, używały tarki do przygotowania pokarmu roślinnego, najlepiej plastikowej.**
+
+**3.**
+
+**Wiele warzyw zawiera nukleidy promieniotwórcze, dlatego też sałatki należy przyrządzać z warzyw wyhodowanych na własnej działce lub warzyw czystych ekologicznie. Jesli nie mamy takich możliwości, promieniotwórczych nukleidów możemy się pozbyć w następujący sposób: przed spożyciem należy warzywa wymoczyć w słonej wodzie przez 3 godziny bez dostępu światła. W ten sposób około 40% radionukleidów ulega zniszczeniu.**
+
+**3.**
+
+**W zimne pory roku źródłem witamin oraz makro i mikroelementów powinny być warzywa kiszone, suszone, owoce i ich przetwory.**
+
+Pożyteczne rady w spożywaniu warzyw i owoców:
+
+• 
+
+Najlepiej odżywiać się produktami wyhodowanymi w miejscu zamieszkania i najlepiej zgodnie z sezonem. Chodzi o to, że każda roślina (owoce i warzywa) zawiera w sobie "informację", która tworzy się w roślinie pod wpływem klimatu.
+
+• 
+
+Latem należy spożywać więcej warzyw i owoców, które ochładzają organizm (arbuzy, cytryny, pomarańcze, mandarynki) oraz owoce rosnące w naszym regionie. Zimą więcej rozgrzewających organizm - kasz i owoców suszonych, orzechów, pestek słonecznika, dyni i roślin korzeniowych.
+
+• 
+
+W porze letniej śniadania lepiej przygotowywać z owoców, ponieważ są one bogate we wszystkie niezbędne dla organizmu pierwiastki, czyniąc krew zasadową, daja olbrzymią ilość energii i nie potrzebują jej wiele do strawienia pokarmu.
+
+• 
+
+Proporcja sodu i potasu w organizmie musi wynosić 1:20 i dlatego jeśli stwierdzacie, że puchniecie, odczuwacie nadmiar wody w organizmie powinniście spożywać produkty z dużą zawartością potasu (groch, kabaczki, zielony groszek). Jeśli na odwrót, to starajcie się spożywać produkty zatrzymujące wodę w organizmie (oliwa, dynia, gruszki, maliny, porzeczki, marchew, jabłka, morele, pomidory, kasza jaglana, gryczana, owies). Idealną proporcję sodu i potasu posiadają ziemniaki, czereśnie, ogórki i kapusta.
+
+Teresa Tuszyńska w swojej książce "Zdrowie nie ma ceny" pisze między innymi:
+
+**•** **Ziemniaki** powinny stanowić podstwowy składnik codziennego pożywienia. Zawierają sporo skrobii, białka, soli mineralnych, witamin i rzadko spotykany czynnik "U". Witaminy i sole mineralne wypłukują się z ziemniaków podczas gotowania, dlatego najzdrowsze są gotowane w "mundurkach" (razem ze skórką) lub pieczone, a także ugotowane w zupie. Kiełkowanie ziemniaków powoduje wytwarzanie się solaniny, która jest bardzo szkodliwa dla zdrowia. Takie ziemniaki trzeba koniecznie grubiej obierać i wyłuskiwać kiełki. Jeśli gotujemy obierane, należy je w całości opłukać i wrzucić do wrzącej, osolonej wody i gotować pod przykryciem na małym ogniu. Woda po gotowanych ziemniakach zawiera dużo soli mineralnych, a także witamin, dlatego nie powinniśmy jej wylewać. Trzeba ją zużyć do sosu albo do zupy, może też być cennym lekarstwem w wielu chorobach np. w kamicy układu moczowego. Jeśli jednak chcemy ją wypić, należy ziemniaki gotować bez soli. Można je osolić dopiero po odcedzeniu wody. Opary z gotujących się ziemniaków pomagają w katarach i chrypce. Ziemniaki są też pomocne w leczeniu chorób nowotworowych, a wyciśnięty sok z utartych ziemniaków stosuje się w leczeniu wrzodów żołądka i dwunastnicy (wypijać codziennie od 1/2 do 3/4 szklanki przez 6-7 tygodni). Spożycie placków ziemniaczanych należy ograniczać, gdyż są ciężkostrawne.
+
+**•** **Rośliny strączkowe suche** np. fasola lub groch, zawierają składnik unieczynniający trypsynę (enzym trzustki), spożycie więc potraw z tych roślin powoduje wzdęcia. Potrawy te są ciężkostrawne. Aby bpoprawić ich smak i jednoczesnie trawienie, powinno się do grochówki dodawać majeranek oraz kminek, a do zupy fasolowej cząber (zapobiega wzdęciom). Wszystkie potrawy z roślin strączkowych należy jadać w niewielkich ilościach, aby uniknąć wzdęć brzucha, ale nie można zapominać, że są one wartościowe. Na przykład soja (oczywiście nie ta zmodyfikowana genetycznie) dorównuje wartością białka w mleku i zabezpiecza przed rakiem odbytu, a także przed innymi nowotworami. Dzięki niej można się nawet, w początkowym stadium choroby, wyleczyć z raka. Fasola szparagowa z wody może być spożywana w dowolnych ilościach, jeśli jednak polejemy ją rozgrzanym masłem z przyrumienioną tartą bułką, może zaszkodzić. Podobnie jest z kalafiorem i innymi warzywami.
+
+**•** **Świeży ogórek** zawiera enzym askorbinazę, który niszczy witaminę "C". Jeżeli więc ogórek dodamy do innych surówek, pozbawiamy je tej witaminy. Najlepiej do ogórków dodać koper, gdyż wiąże on askorbinazę i chroni witaminę "C".
+
+**PRODUKTY KWASOTWÓRCZE, OBOJĘTNE I ZASADOTWÓRCZE**
+
+Dr Hay w swych obserwacjach stwierdził, że ludzie których krew ma odczyn kwaśny są podatniejsi na wszelkie choroby i częściej chorują. Według niego dobry stan zdrowia określa pH krwi w granicach 7,4-7,5. Ludzie z nadmiarem kwasów w organizmie należą do zrzędliwych, wrażliwych, łatwo meczących się, skłonnych do odczuwania dolegliwości bólowych, migren, zaburzeń snu i nadkwasoty żołądka. Palący mają wysoki poziom kwasu w moczu. Zasadowość organizmu hamuje także nadmierny apetyt. Proszę także nie mylić kwasowości z kwaśnością smaku. Przykładowo kwaśna cytryna w żołądku jest zasadotwórcza.
+
+**PRODUKTY KWASOTWÓRCZE**
+
+**PRODUKTY ZASADOTWÓRCZE**
+
+**wysoko**
+
+**średnio**
+
+**OBOJĘTNE**
+
+**średnio**
+
+**wysoko**
+
+ser edamski  
+jajka  
+majonez  
+ryby  
+bekon  
+wołowina  
+kurczak  
+wątroba  
+baranina  
+cielęcina
+
+orzechy włoskie  
+orzechy laskowe  
+ser cheddar  
+sery pleśniowe  
+śledzie  
+makrela  
+żyto  
+owies  
+pszenica  
+ryż  
+śliwki  
+borówki  
+oliwki
+
+masło  
+margaryna  
+kawa  
+herbata  
+cukier  
+syropy
+
+mleko  
+migdały  
+orzechy kokosowe  
+warzywa liściaste  
+warzywa korzeniowe  
+seler  
+grzyby  
+cebula  
+pomidory  
+owoce pestkowe  
+owoce cytrusowe  
+banany  
+winogrona  
+melon  
+maliny
+
+awocado  
+buraki  
+marchew  
+ziemniaki  
+szpinak  
+rabarbar  
+owoce suszone  
+
+**Procentowy skład zdrowej diety:**
+
+**20%**
+
+**80%**
+
+**Warto zapamiętać**
+
+•  Ogranicz spożycie słodkiego mleka na korzyść jego przetworów - mleka zsiadłego, kefiru, jogurtu, twarogów i białych oraz żółtych serów.  
+•  Spożywaj produkty nieprzetworzone i unikaj produktów oczyszczonych (rafinowanych), białych i rozgotowanych.  
+•  Nigdy nie łącz białek z węglowodanami. W trawieniu te produkty się wykluczają i w efekcie nie strawione gniją i fermentują w jelitach.  
+•  Posiłki przygotowuj świeże i "na raz", nie zostawiaj na drugi dzień, nie podgrzewaj i nie odsmażaj.  
+•  Wszelkie owoce staraj się jeść osobno, a w szczególności melony i banany. Jedz je najlepiej na przekąskę pomiędzy posiłkami. Nigdy nie łącz pomidora z surowym ogórkiem, ich naturalne enzymy "zwalczają" się na wzajem.  
+
+**Warto spróbować**
+
+**Zjedz normalny obiad - schabowy, ziemniaki i surówkę i zapamiętaj odczucie po obiedzie. Na drugi raz zjedz schabowy z podwójną surówką ale bez ziemniaków i sprawdź, czy nie czujesz się lepiej (jesteś najedzony i nie odczuwasz ciężaru w brzuchu)**.
+
+**Co pić i jak pić**
+
+**Woda**
+
+Człowiek w dwóch trzecich składa się z wody i dlatego jest ona dla nas najważniejszym składnikiem odżywczym. W ciągu jednego dnia człowiek traci 1,5 litra wody wydalanej przez skórę, płuca i przez nerki, co zapewnia usunięcie substancji toksycznych. Podczas spalania glukozy wytwarzana jest jedna trzecia litra wody, dlatego powinniśmy sobie zapewnić w ciągu dnia około 2 litrów płynów pochodzących z pokarmów stałych jak i płynnych. W pokarmie najwięcej wody jest w świeżych warzywach i owocach, które zawierają jej około 90%. Cztery owoce i cztery porcje warzyw (około 1,1 kg) zapewniają około 1 litra wody i pozostały litr należy wypić w postaci rozcienczonych soków owocowych lub herbatek ziołowych czy owocowych. Alkohol, kawa i herbata nie są zalecane, gdyż powodują "ucieczkę" wodu i substancji mineralnych z organizmu.
+
+Popularna "kranówka", na którą jesteśmy w zasadzie skazani, zawiera w sobie nierozpuszczalne sole wapnia i żelaza, które odkładają się w naszym organizmie w formie szkodliwych osadów. Woda prosto z kranu zawiera też szkodliwy dla zdrowia chlor i jego związki oraz domieszki związków promieniotwórczych, które nie są usuwane podczas gotowania. Dlatego przed użyciem wody (nawet do podlewania kwiatów) należy odstawić ją na 2-3 godziny, by pozbyć się chloru. Podczas gotowania wody zmienia się jej naturalna struktura czyniąc ją "martwą".
+
+**Woda mineralna**
+
+Woda mineralna - w Polsce, pod wpływem lobbingu producentów wód mineralnych, zmieniono przepisy dotyczące wody mineralnej (zmniejszono normę zawartości soli mineralnych w 1 litrze wody z 1000 mg na minimum 300 mg), co spowodowało, że sprzedawane wody prawie się nie różnią od zwykłej wodociągowej. Woda "wydobywana z głębokości 800 m" jest chwytem reklamowym polegającym na zamianie słów "z odległości" na "z głębokości", co doskonale oddaje jakość wody. Pomimo wszystko używając wody mineralnej (do picia czy gotowania) przez 2-4 tygodnie należy koniecznie zrobić przerwę na 3-4 miesiące. Ciągłe picie wody mineralnej przez dzieci jest szczególnie nie wskazane.
+
+**Woda strukturowana**
+
+Woda "strukturowana" - najlepsza do spożycia i najkorzystniejsza dla zdrowia. Tego rodzaju woda zawarta jest w sokach owoców i warzyw oraz w roztopionym lodzie (oczywiście nie naszym, który zawiera wszystkie zanieczyszczenia unoszące się w atmosferze). Najbardziej widocznymi zmianami wynikającymi ze stosowania "złej" wody są zmarszczki, spowodowane wysychaniem wody w naszych komórkach. Jak zrobić wodę "strukturowaną":
+
+**•** Zwykłą wodę wodociągową wlać do garnka o dowolnej wielkości (wysokość zależy od wymiarów zamrażalnika lodówki), zagotować, przykryć pokrywką, ostudzić. Wstawić do zamrażalnika na 2-3 godziny. Po wyjęciu przebić warstwę lodu i zlać wodę do innego pojemnika. Woda ta ma taką samą strukturę, jak woda w naszych komórkach. W zimie jest to dużo prostsze, ale zamarzniętej wody nie podgrzewać, ale czekać jak się roztopi sama.
+
+Jedna szklanka takiej wody na czczo poprawia samopoczucie i wygląd zewnętrzny. Pić należy małymi łyczkami, a jeśli ktoś nie potrafi, to należy pić przez słomkę, która sama "wymusza" małe łyki. Picie takiej wody poleca się szczególnie ludziom w podeszłym wieku, ponieważ wymywa ona nie tylko złogi, ale też martwe i stare komórki, co stanowi doskonałą profilaktykę.
+
+Podobny przepis na wodę do picia podaje Ojciec Grande:
+
+**•** Zwykłą wodę wodociągową wlać wodę do garnka (w zależności od potrzeb) i trzymać odkryty przez całą noc, żeby uleciał chlor. Potem gotujemy przez 10 minut, studzimy i rozlewamy do plastikowych butelek po wodzie mineralnej. Układamy je w zamrażalniku na kilka godzin. Uważać należy by woda całkowicie nie zamarzła, bo otrzymamy efekt wybuchu granatu. Wyjmujemy, gdy częściowo przemieni się w lód. Po przemrożeniu, woda nabiera smaku i charakteru wody pierwotnej, szybciej gasi pragnienie, nie działa przeziębiająco, nawet jeśli jeszcze lód stoi w butelce. W czasie przemrożenia podlega procesowi zbliżonemu do oczyszczającej destylacji i świetnie nadaje się do bezpośredniego spożycia.
+
+oraz na wodę krzemionkową:
+
+**•** Kto chce mieć w domu dobrą krzemionkową wodę, którą orzeźwi się o każdej porze roku, niech zrobi tak: pół kilograma suszonego skrzypu pokruszyć, wsypać do emaliowanego garnka, zalać przefiltrowaną wodą, zostawić na noc. Rano pogotować 20 minut, odstawić. Kiedy ustoi się, przecedzić przez niezbyt gęste sitko, wlać do kamiennego wyziębionego garnka. Garnek paruje i nie pozwoli, by woda się nagrzała i w ten sposób pozyskujemy krzemionkę - wyśmienitą, twardą wodę wprost do picia, do herbaty, do mycia zębów, do gotowania zup.
+
+**Kawa czy herbata?**
+
+Picie 1-2 szklanek kawy lub herbaty dziennie jest nawet korzystne, gdyż w takiej ilości wpływają korzystnie na układ krążenia, odżywiają nasz mięsień sercowy i mózg. Z herbat najlepsza dla zdrowia jest herbata zielona (zawiera 80 niezbędnych dla zdrowia elementów). Wzmacnia zęby, oczyszcza krew, oczyszcza pory naszej skóry, profilaktycznie przeciwdziała tworzeniu się kamieni w wątrobie, nerkach, pęcherzu moczowym i posiada właściwości bakteriobójcze. Pić należy słabo zaparzoną, gdyż mocna podrażnia układ pokarmowy. Czarne herbaty są mniej korzystne z uwagi na zawartość substancji garbnikowych, które wysuszają układ pokarmowy. Można to usunąć dodając do herbaty podczas jej parzenia listek laurowy. Herbata nabiera delikatniejszego aromatu, a szkodliwe substancje zanikają. Herbatę należy pić tylko świeżo zaparzoną. Ta, która "odstała" kilka godzin już zawiera szkodliwe dla organizmu substancje.
+
+**•** Picie podczas spożywania pokarmów jest nie wskazane, gdyż płyny rozcieńczają soki żołądkowe, co zaburza proces trawienia. Płyny przyjmować na 15-20 minut przed posiłkiem. Jeśli po posiłku odczuwamy pragnienie należy kilkakrotnie przepłukać usta. Jeśli suchość się utrzymuje należy zjeść jedno jabłko. Umyte jabłko jemy całe - ze skórką oraz nasionami i komora nasienną, wypluwając tylko to, czego nie można przeżuć. W 6 nasionkach jabłka znajduje się dobowa dawka jodu.
+
+Parzenie herbaty według ojca Grande:
+
+**•** Do gotowania herbaty przeznaczamy osobny wyparzony, emaliowany czajnik. Suchą herbatę zalewamy wodą, doprowadzamy do wrzenia, gotujemy przez 2 minuty i odstawiamy na pół godziny by "naciągnęła". Z tak przygotowanej esencji robimy herbatę. Dobrze zaparzona, mocna herbata zabezpiecza przed chorobami krążenia, serca, niewydolnością mózgu, kłopotami z zapaleniem śluzówki na tle ataku szczepów wirusowych, a nawet przed grypą.
+
+**Soki warzywne i owocowe**
+
+Najlepiej pić soki przygotowane ze świeżych produktów. Prof. Tombak twierdzi, że podczas przyrządzania soków ze świeżych produktów związki chemiczne dodawane do gleby podczas uprawy pozostają w wytłokach. Soki przygotowujemy tylko ze świeżych i zdrowych owoców i warzyw. Soki należy przecedzać przez podwójne sitko, które też zatrzymuje niepożądane substancje chemiczne. Soki wypłukują stare, martwe komórki, sprzyjają rozpuszczaniu nagromadzonych soli, rozpuszczają kamienie wątrobowe i nerkowe, zapobiegają powstawaniu chorób nowotworowych. Zawierają tylko wodę "strukturowaną" oraz zawarte w niej witaminy i sole mineralne.
+
+Sok należy pić na 20 minut przed jedzeniem, małymi łykami, przytrzymując każdy łyk na kilka sekund, by dać czas enzymom na rozpoczęcie trawienia węglowodanów (w żołądku nie trawimy węglowodanów, dochodzi tam tylko do fermentacji). Soków nie wolno słodzić białym cukrem. Cukier zmienia zasadowy odczyn soku na kwaśny, co powoduje jego fermentację w jelitach.
+
+Świeże soki zachowują swoje składniki przez określoną ilość czasu, dlatego zaleca się ich picie (oprócz soku z buraków) zaraz po ich przyrządzeniu. Soki zostają przyswojone przez organizm w ciągu 30 minut. Nie przechowywać soków w lodówce, bo nawet krótkotrwałe przyspiesza ich psucie i fermentację. Soki owocowe zachowują wartość przez 4 godziny, warzywne przez 10 godzin. Wszystkie soki, które kupujemy w sklepach zawierają tylko 60% pierwotnej wartości. Soki możemy "produkować" w sokowirówce, maszynce do mielenia mięsa lub ścierając warzywo lub owoc na drobnej tarce (najlepiej szklanej lub plastikowej).
+
+**SOK Z BURAKA**
+
+**•** Sok z buraka jest korzystny przy wytwarzaniu czerwonych ciałek krwi, polepsza skład krwi, wstrzymuje następowanie menopauzy u kobiet, likwiduje choroby układu krążenia, układu pokarmowego, jelita grubego, rozpuszcza kamienie w wątrobie, nerkach i pęcherzu moczowym. Najlepiej działa w połączeniu z sokiem marchwiowym w proporcji 4 części soku marchwiowego i 1 część soku z buraków. Pijemy 2 razy dziennie po 1 szklance mieszanki. Uwaga! Sok z buraka zaraz po przyrządzeniu jest bardzo energetyczny, dlatego należy odstawić go w ciemne miejsce na 2-3 godziny.
+
+**SOK Z MARCHWI**
+
+**•** Zawiera witaminy - A, B (1,2,12), PP, K, E i inne. Polepsza strukturę włosów, zębów, paznokci, likwiduje wrzody żołądka i dwunastnicy, zwiększa odporność organizmu na infekcję, zdrowy dla oczu i gardła. Szklanka soku pita raz na dobę zawiera wszystkie witaminy i mikroelementy potrzebne na taki okres czasu. Sok z marchwi ma strukturę i skład podobny do naszej krwi (różnica polega na atomie magnezu zamiast żelaza). Przy spożywaniu soku z marchwi odbywa się oczyszczanie organizmu, w wyniku czego duże ilości toksyn (nie utylizowane przez wątrobę z braku jednorazowej możliwości) przechodzą do układu limfatycznego i są wydalane z potem. W wyniku tego nasza skóra może zabarwić się na kolor żółtawy. Kiedy organizm wydali wszystkie trujące substancje barwa skóry wróci do normy.
+
+**SOK ZE ŚWIEŻEJ KAPUSTY**
+
+**•** Zawiera witaminy - C, z grupy B, K i PP. Sok z kapusty leczy cukrzycę, nieżyty żołądka, wrzody dwunastnicy, hemoroidy, nadciśnienie, miażdżycę, otyłość, tarczycę. Oczyszcza organizm. Substancje zawarte w soku powodują intensywny rozkład tkanki tłuszczowej. Pić należy dwie szklanki soku rano i wieczorem. Warunkiem niezbędnym jest wcześniejsze oczyszczenie jelit. Jeśli jelita nie funkcjonują normalnie sok z kapusty powoduje powstawanie dużej ilości gazów. Jedna szklanka soku z kapusty rano i wieczorem pomaga stracić nadwagę, ponieważ substancje w chodzące w skład soku intensywnie rozkładają tkankę tłuszczową. Sok należy przyrządzać tuż przed spożyciem, bo nie może długo stać gdyż traci swoje właściwości.
+
+**•** Rozcieńczony wodą sok świeżej kapusty jest doskonałym środkiem gojącym przy owrzodzeniach żołądka i dwunastnicy (witamina U), niedokwaśności i nadkwaśności (w stanie początkowym), chorobach dróg oddechowych i strun głosowych, zapaleniach pęcherzyka żółciowego, chorobach wątroby i sledziony, cukrzycy, atonii jelit, zapaleniach okrężnicy i niedoczynności tarczycy.Zwykle rozpoczyna się kurację od podania w 1 tygodniu - 1-2 szklanki soku rozcieńczonego ciepłą wodą dziennie na 30 minut przed jedzeniem, w 2 tygodniu - 2-3 szklanki, w 3 tygodniu - 3-4 szklanki, w 4 tygodniu - 4-6 szklanek. Następnie stopniowy powrót do 1 szklanki.
+
+**SOK Z ZIEMNIAKÓW**
+
+**•** Zawiera witaminy - C, z grupy B oraz siarkę, potas, fosfor i inne śladowe. Oczyszcza organizm z bakterii, normalizuje proces trawienia, funkcjonowanie tarczycy, oczyszcza skórę ciała z wyprysków i plam. Czasem pomaga przy silnych bólach głowy. Leczenie wrzodów żołądka lub układu pokarmowego. Rano na czczo wypijamy 100 g świeżego soku z surowego ziemniaka. Kładziemy się na 30 minut i ogrzewamy żołądek termoforem lub poduszką elektryczną. Kuracja trwa 10-14 dni. W trakcie kuracji nie można robić przerwy. Jeśli nastąpi przerwa, kurację należy zaczynać od nowa.
+
+**SOK ZE ŚWIEŻYCH OGÓRKÓW**
+
+**•** Zawiera - krzem, siarkę, potas, sód, wapń, fosfor, chlor. Ze względu na potas jest szczególnie polecany osobom cierpiącym na wysokie nadciśnienie. poprawia jakość włosów i paznokci. Pić należy sam sok pół szklanki dziennie lub w koktajlach sokowych.
+
+**•** Sok ten reguluje trawienie, oczyszcza organizm ze złogów przemiany materii, a tym samym działa oczyszczająco na skórę, usuwając z niej wypryski. Wywiera także działanie moczopędne. Ogórki posiadają najwyższą ze wszystkich warzyw zawartość składników alkalizujących, witaminy A, C, B i różne sole mineralne oraz czynnik insulinopodobny, obniżający zawartość cukru we krwi, dlatego jest szczególnie zalecany dla chorych na cukrzycę. Zaleca się 4-5 łyżek soku z dodatkiem zielonego kopru, odrobiny roztartego czosnku i ewentualnie miodu. Koktail ten przyjmować na pół godziny przed posiłkami 3-4 razy dziennie przez cały sezon ogórkowy.
+
+**SOK Z ZIELONEJ PAPRYKI**
+
+**•** Zawiera duże ilości krzemu, co poprawia jakość włosów i paznokci. Pić należy 1 szklankę soku na czczo. Przynosi ulgę w różnego rodzaju kolkach i skurczach jelit a także przy nadmiarze powstałych gazów.
+
+**SOK ZE SZCZAWIU**
+
+**•** Zawiera dużą ilość szczawianu potasu przyswajalnego przez organizm (gotowanie szczawiu zmienia szczawian w formę nieorganiczna, nieprzyswajalną). Ponadto sok ze świeżego szczawiu zawiera żelazo, magnez, fosfor, siarkę i krzem. Można go pić w czystej formie, ale zaleca się podawanie go w sałatkach i surówkach warzywnych.
+
+**SOK ZE SZPINAKU**
+
+**•** Regeneruje funkcje jelit, a w zasadzie całego układu trawiennego. Doskonale oddziaływuje na zęby i dziąsła. Pomaga pozbyć się najcięższych zaparć w ciągu kilku dni lub tygodni. Pijemy codziennie po 0,5 litra. Picie soku z marchwi i szpinaku pozwala na uzupełnienie niedoboru pierwiastków, które są odpowiedzialne za wrzody jelit, złośliwą anemię, rozstrój nerwowy, zaburzenia nadnerczy i tarczycy, zapalenie nerek, zapalenie stawów, czyraczność, obrzęki kończyn, częste krwotoki, utrata sił, reumatyzm, zaburzenia funkcjonowania serca, niskie i wysokie ciśnienie tętnicze krwi, zaburzenia wzroku, bóle głowy (w tym migrenowe).
+
+**SOK Z KONICZYNY**
+
+**•** Przyrządza się z liści. Szczególnie polecany dla kobiet. Sok zawiera fitoestrogeny (analogi żeńskich hormonów płciowych), które wzmacniają organizm, regulują cykl miesiączkowy, zapobiegają przedwczesnemu procesowi niszczenia organizmu kobiety.
+
+**SOK Z DYNI**
+
+**•** Posiada właściwości moczopędne przy obrzękach spowodowanych schorzeniami serca i nerek, wzmacnia wątrobę (pobudzając wydzielanie żółci), uspokaja system nerwowy i działa przeciwgorączkowo. Pijemy po 1 szklanki dziennie. Używa się go w czasie kuracji hormonalnej (zastępczej) w okresie menopauzy u kobiet po 1 szklanki 2 razy dziennie przez minimum 2 miesiące.
+
+**•** Sok ten wyciśnięty przy pomocy sokowirówki z miąższu i pestek ma zbawienny wpływ przy stanach zapalnych gruczołu krokowego (prostata), ułatwia wydalanie moczu przy obrzekach i łagodnych guzach prostaty. Jednakże, jak każdą kurację ziołową, przeprowadzać ja trzeba przynajmniej przez 6 tygodni, by efekt leczniczy był widoczny. W celach profilaktycznych zaleca się 3-4 łyżki soku 3 razy dziennie w 1/2 szklance wody. Sok ten mogą pić również chorzy na cukrzycę.
+
+**SOK Z POMIDORÓW**
+
+**•** Sok ze świeżych pomidorów posiada silnie działające fitocydy, które hamują w jelitach procesy fermentacyjne i gnilne. Duża zawartość potasu poprawia pracę serca. Kwas jabłkowy zawarty w soku aktywizuje przemianę materii i zwiększa zasadowy odczyn krwi. Pod względem ilości witaminy A i C nie ustępuje owocom cytrusowym. Pić po 1 szklance soku dziennie osobno lub w koktajlach warzywnych. 1 szklanka soku pomidorowego zaspokaja połowę dziennego zapotrzebowania na witaminę A i C.
+
+**SOK Z CZOSNKU**
+
+**•** Sok z czosnku pobudza apetyt, poprawia trawienie, pomaga przy chorobach układu pokarmowego, zapobiega przeziębieniom, likwiduje bóle głowy i bezsenność, posiada właściwości moczopędne, wykrztuśne i uśmierzające ból. Zawiera co najmniej dwa naturalne antybiotyki pomagające w niszczeniu około 30 rodzajów bakterii. Zawarte fitocydy likwidują procesy gnilne i fermentacyjne w jelitach. Obecność germanu pomaga zwalczać choroby serca i naczyń krwionośnych.
+
+---
+
+Chroniczna bezsenność - pić przez kilka dni po 100 g przegotowanej wody z dodatkiem łyżeczki miodu i soku z 1 ząbka czosnku.  
+Silny ból zęba - na nadgarstek lewej ręki położyć rozdrobniony na miazgę 1 ząbek czosnku, zabandażować.  
+Dysbakterioza - zwyrodnienie mikroflory jelita grubego, pić sok z czosnku przez 2 tygodnie.
+
+**SOK Z ARBUZA**
+
+**•** Stosuje się jako środek moczopędny przy obrzękach, przy miażdżycy tętnic, jako środek aseptyczny przy obfitych krwawieniach. Wypłukuje sole z organizmu przy kamicy nerkowej lub żółciowej. Oczyszcza i wzmacnia wątrobę i nerki. Z uwagi na dużą zawartość cukru jest środkiem wzmacniającym. Pić do 2 szklanek dziennie.
+
+**SOK Z WINIGRON**
+
+**•** Sok winogronowy posiada działanie orzeźwiające, wzmacniające, przeczyszczające, napotne, bakteriobójcze i moczopędne. Obniża poziom cholesterolu, obniża ciśnienie tętnicze. Pić 1 do 1 szklanki dziennie na 1 godzinę przed jedzeniem. Przy systematycznym spożywaniu soku nie należy pić mleka i spożywać surowych owoców, by nie powodować fermentacji w jelitach. Osoby chore na cukrzycę, otyłość, wrzody żołądka i dwunastnicy nie powinny pić soku w dużych ilościach.
+
+**SOK Z CYTRYNY**
+
+**•** Jest bogaty w witaminę C, mikroelementy i hormony. Oczyszcza organizm z nierozpuszczalnych soli i śluzu. Jeśli chcemy wyglądać młodo należy pić sok z 1 cytryny dziennie. Szczególnie pożyteczny jest sok dla kobiet w starszym wieku. Profilaktycznie wczesną wiosną i późną jesienią powinniśmy pić sok z cytryny według schematu (kolejny dzień/sok z ilości cytryn) - 1/1, 2/2, 3/3, 4/4, 5/5, 6/5, 7/4, 8/3, 9/2, 10/1. W sumie w ciągu 10 dni należy wypić sok z 30 cytryn. Sok z cytryny oczyszcza organizm z kwasu moczowego.
+
+---
+
+Uwaga! Nie wyrzucać skórek po wyciśnięciu soku ! Żółta skórka wraz z białym miąższem jest doskonałym lekiem na nadciśnienie. Można ją spożywać zamiast czosnku.
+
+**SOK Z ZIELONEGO OWSA**
+
+**•** Ściąć zielony owies przed owocowaniem i wycisnąć sok. 3-4 łyżki soku dopełnić 1/2 szklanki wody. Dodać można dla urozmaicenia 2 łyżki soku z ogórecznika. Dla osób nerwowych, źle sypiających, dla reumatyków i dla osób mających kłopoty z przewodem moczowym (piasek nerkowy) zaleca sie picie koktajlu z soku z zielonego owsa 3 razy dziennie przez 6 tygodni.
+
+**SOK Z LIŚCI MNISZKA LEKARSKIEGO**
+
+**•** W postaci napoju regulującego przemianę materii przyjmować należy go 3 razy dziennie po 3-4 łyżki (lub więcej) rozcieńczając w 1/2 szklanki wody lub herbaty ziołowej. Pić przez 6 tygodni. Sok ten leczy najdoskonalej choroby układu krwionośnego, zalecany jest przy anemii, białaczce złośliwej, nowotworach, anemii złośliwej jako środek hamujący wzrost komórek nowowtworowych. Zalecany jest także przy chorobach wątroby, początkach cukrzycy, zaburzeniach trawienia.
+
+**SOK Z JARMUŻU**
+
+**•** Jarmuż (*Brassica oleracea acephala var. laciniata*) zajmuje wśród jarzyn kapustnych pierwszoplanowe miejsce, a to ze względu na zawarte w nim bogactwo składników odzywczych. Jarmuż jest "supergwiazdą" wśród roslin kapustnych. Choć jako jarzynka lub jako surówka nie jest chętnie zjadany ze względu na specyficzny smak i twarde liście, to jednak powinno się korzystać z jego walorów odżywczych, zwłaszcza zimą. Jest to bowiem roślina mrozoodporna i można ją hodować w ogródku. Zachowuje ponadto swe zielone liście nawet pod pokrywą snieżną. Jarmuż zawiera, obok białka pełnowartosciowego (4,4%) duże ilości potasu (490 mg), magnezu (230 mg), fosforu i wiele innych mikroelementów oraz witaminy A, C, E, B1, B2, B6 i innych w śladowych ilościach. Duża zawartość potasu może byc dietetycznie wykorzystywana przy niedomaganiach krążenia, opuchliznach i obrzękach. Jarmuż daje nieocenione przysługi przy owrzodzeniu zołądka i dwunastnicy na tle nadkwaśności. Miesza się go wówczas z sokiem z białej kapusty w stosunku 1:1. Jarmuz leczy także zapalenie okrężnicy, atonie jelit i zaparcie, ma także zastosowanie przy braku witamin. W celach profilaktycznych zażywa się przez 4-6 tygodni 3 razy dziennie 5-6 łyżek soku rozcieńczonego wodą w stosunku 1:1 na 30 minut przed posiłkami.
+
+**SOK CHRZANOWO-BURACZANY**
+
+**•** Sok ten zaleca się szczególnie reumatykom, w celu odwodnienia opuchniętych stawów, pobudza on również apetyt i reguluje przemianę materii. Przyjmować trzeba 3-4 razy dziennie 1/2 łyżki soku chrzanowego z 2 łyżkami soku z czerwonych buraków w 1/2 szklanki wody. W celach profilaktycznych 2 razy dziennie.
+
+**SOK Z CZARNEJ RZODKWI I SUROWYCH ZIEMNIAKÓW**
+
+**•** Napój ten skuteczny jest przy dolegliwościach żołądkowych, kwaśnym odbijaniu, zgadze, wzdęciach i schorzeniach wątroby. Zmieszać 1 łyżkę soku z czarnej rzodkwi i 3 łyżki soku z surowych ziemniaków w 1/2 szklance wody. Pić 3 razy dziennie na 30 minut przed posiłkami w ciągu 4-6 tygodni.
+
+**Alkohol**
+
+Alkohol dostarcza 7 kcal w każdym gramie i spala się w organizmie z prędkością 60 mg/1 kg wagi ciała. Pół litra alkoholu 40% to 200 g czystego alkoholu, człowiek o wadze 90 kg spali go w ciągu 37 godzin.
+
+•  1 kieliszek wódki (whisky) 30 g to 10-12 g czystego alkoholu,  
+•  1 kieliszek koniaku (gin/rum) 30 g to 10-15 g czystego alkoholu,  
+•  1 kieliszek wina 100 g to 13-15 g czystego alkoholu,  
+•  1 szklanka piwa 250 g to 7-14 g czystego alkoholu.
+
+Michael Garner, uczony amerykański badający wpływ alkoholu na człowieka określa "umiarkowane" dawki alkoholu dla ludzi dorosłych:
+
+•  wino białe lub czerwone - 2 g na 1 kg wagi ciała na dobę,  
+•  mocne trunki (do 40%) - 0,5 g na 1 kg wagi ciała na dobę.
+
+![](../../zrodlo/webacja/medalt/ruski.jpg)
+
+Białe wino oczyszcza nerki, lekko pobudza układ nerwowy i sprzyja lepszemu trawieniu. Czerwone wino poprawia pracę wątroby, zwiększa apetyt, oczyszcza krew, tonizuje układ hormonalny, uspakaja system nerwowy, poprawia procesy oddechowe, obniża ryzyko zachorowań na serce u ludzi z wysokim poziomem cholesterolu. Wino jest korzystne dla osób starszych cierpiących na anemię i mających osłabiony organizm. Burgundczycy wino nazywają "mlekiem starców".
+
+**NIE PIJ JAK PROWADZISZ - ZA DUŻO SIĘ ROZLEWA**
+
+Proszę nie korzystać z opracowań prac uczonych pracujących na wschód od Bugu z uwagi na inne miary i przeliczniki. Tam podstawową jednostką przyjmowaną do przeliczeń jest 1 litr alkoholu o stężeniu 98%, a dzienna "zdrowotna" dawka wynosi pół litra na statystyczną głowę i pozwala na zdrowy sen nawet w pozycji orbitalnej nieważkości (zdjęcie obok). Aha, jeszcze jedno - alkohol strąca pepsynę i uniemożliwia strawienie każdego białka. Zakąszanie więc śledzikiem, schabowym czy jajeczkiem w majonezie zatruwa nam organizm i to za własne pieniądze. :-))
+
+**Jak zmienić sposób żywienia**
+
+Przejście na zdrowy tryb życia, który proponuje prof. Tombak wymaga trochę czasu, a przede wszystkim naszego nastawienia. Jeśli nie "dojrzejemy" do twardego postanowienia zmiany w dotychczasowym sposobie odżywiania, to wszelkie nasze wysiłki spalą na panewce. To jest jak z "rzucaniem" palenia. Jeśli my sami nie postanowimy skończyć z nałogiem, to nie pomogą żadne leki wspomagające, plasterki, akupunktura czy hipnozy. Bez silnego postanowienia wcześniej czy później wrócimy do starego nałogu. Świadomym tego jest i prof. Tombak, który pisze, że przejście na prawidłowy sposób odżywiania powinno odbywać się stopniowo.
+
+• 
+
+**Zaczynamy od soków warzywnych (dwa razy dziennie po szklance) nie zmieniając dotychczasowego sposobu odżywiania. Tak postępujemy przez pierwsze 1-1,5 miesiąca.**
+
+• 
+
+**Przez następne 1,5-2 miesięcy dodajemy do jadłospisu więcej sałatek i warzyw, tak by 30-40% danego pożywienia stanowiły surowe, gotowane lub duszone warzywa.**
+
+• 
+
+**Zmieniamy proporcje między surowym a gotowanym jedzeniem. Surowe - 60%, gotowane - 40%.**
+
+• 
+
+**Przy zestawianiu codziennego menu powinno się kierować prostą zasadą - jeść co rośnie na ziemi, pod ziemią, na drzewach oraz miód, jajka, produkty mleczno-kwaśne, pić herbaty z ziół i świeżo przygotowane soki z owoców i warzyw.**
+
+• 
+
+**Należy zmienić kolejność spożywanych artykułów - płyny spożywać 20 minut przed jedzeniem, owoce przed jedzeniem, pierwsze danie surówka, drugie danie - węglowodany (kasze, ziemniaki itp.) lub białka (mięso, ryby, groch, jaja itp.)**
+
+• 
+
+**Ograniczyć do minimum spożycie sztucznie hodowanych, rafinowanych i wędzonych produktów.**
+
+Kiedy poczujemy, że taki sposób odżywiania "wszedł nam w krew" wystarczy dalej przestrzegać zasad zdrowego odżywiania:
+
+• 
+
+**Spożywajmy produkty wyhodowane w regionie, w którym mieszkamy.**
+
+• 
+
+**Spożywajmy warzywa, owoce, orzechy ściśle według sezonów ich dojrzewania.**
+
+• 
+
+**Każdy posiłek powinien zawierać surowe latem, a duszone lub kiszone warzywa zimą.**
+
+• 
+
+**Rezygnujmy ze spożywania pieczywa drożdżowego, jedzmy chleb pieczony z mąki gruboziarnistej.**
+
+• 
+
+**Przygotowujmy posiłki zgodnie z tabelą łączenia produktów.**
+
+• 
+
+**Dokładnie przeżuwajmy pokarm.**
+
+• 
+
+**Przyrządzajmy posiłki bezpośrednio przed jedzeniem i starajmy się je zjadać zaraz po przyrządzeniu.**
+
+• 
+
+**Nie odgrzewajmy wielokrotnie posiłków i nie jedzmy posiłków przygotowanych wczorajszego dnia.**
+
+• 
+
+**Zmniejszajmy spożywanie posiłków sztucznych, rafinowanych i wędzonych.**
+
+• 
+
+**Rezygnujmy w miarę możliwości z potraw gotowych i produktów konserwowanych.**
+
+• 
+
+**Zmniejszajmy spożywanie kawy i herbaty.**
+
+• 
+
+**Dodawajmy do potraw przyprawy (szczególnie zimą).**
+
+• 
+
+**W porze letniej i jesiennej róbmy dzień "truskawkowy", "czereśniowy", "jabłkowy" itp. nic więcej nie jedząc.**
+
+• 
+
+**Raz w tygodniu przeprowadzajmy "post" trwający 16-24 godzin, pijąc w tym czasie tylko przegotowaną wodę.**
+
+• 
+
+**Gdy pojawi się świeża marchew, buraki, jabłka pijmy świeżo przygotowane soki nawet do 1 litra dziennie.**
+
+• 
+
+**Walczmy z zaparciami - to główny wróg zdrowia i główna przyczyna starzenia się organizmu.**
+
+• 
+
+**Od poniedziałku do piątku odżywiajmy się skromnie.**
+
+• 
+
+**Natomiast w soboty i w niedzielę róbmy sobie święto i jedzmy wszystko, co chcemy, zgodnie z zasadą starożytnych lekarzy - nawet trucizna w małych ilościach może być lekarstwem.**
+
+Na zakończenie pierwsze dziesiątki witaminowo-pierwiastkowej listy przebojów:
+
+**Witamina A**
+
+**Witamina B1**
+
+**Witamina B2**
+
+**Witamina PP**
+
+**Witamina C**
+
+Tran  
+Wątroba cielęca  
+Wątroba wołowa  
+Wątroba wieprzowa  
+Marchew  
+Szpinak  
+Nać pietruszki  
+Morele suszone  
+Botwina  
+Dynia
+
+Orzechy laskowe  
+Groch suchy  
+Szynka chuda  
+Wieprzowina chuda  
+Fasola sucha  
+Płatki owsiane  
+Kiełbasa sucha  
+Kasza gryczana  
+Węgorz wędzony  
+Orzechy włoskie
+
+Wątroba cielęca  
+Wątroba wołowa  
+Wątroba wieprzowa  
+Migdały  
+Węgorz wędzony  
+Makrela wędzona  
+Ser twarogowy  
+Pieczarki świeże  
+Ser edamski  
+Ser tylżycki
+
+Wątroba cielęca  
+Wątroba wołowa  
+Wątroba wieprzowa  
+Orzeszki ziemne  
+Węgorz wędzony  
+Makrela wędzona  
+Kura, kurczak  
+Makrela świeża  
+Indyk  
+Łosoś wędzony
+
+Chrzan  
+Czarna porzeczka  
+Nać pietruszki  
+Papryka  
+Brukselka  
+Koperek  
+Kalafior  
+Poziomki, Truskawki  
+Szpinak  
+Cytryna
+
+**Wapń**
+
+**Fosfor**
+
+**Żelazo**
+
+Mak  
+Ser edamski  
+Ser tylżycki  
+Szprot wędzony  
+Migdały  
+Czekolada mleczna  
+Nać pietruszki  
+Figi  
+Orzechy laskowe  
+Fasola sucha  
+
+Kakao w proszku  
+Orzechy laskowe  
+Mak  
+Żółtka jaj świeże  
+Ser edamski  
+Ser tylżycki  
+Migdały  
+Kasza gryczana  
+Czekolada gorzka  
+Fasola sucha
+
+Wątroba wieprzowa  
+Mak  
+Kakao w proszku  
+Wątroba cielęca  
+Żółtka jaj świeże  
+Fasola sucha  
+Wątroba wołowa  
+Kasza gryczana  
+Kaszo jaglana  
+Kiełbasa sucha
+
+Lista została opracowana na podstawie wydawnictw z lat 60 i 70-tych. Być może do tej pory zaszły jakieś zmiany. Należy tylko uważać na produkty zwędzone, które nie są zalecane.
+
+**Ważne dla młodych matek**
+
+**Są to rady dr Jadwigi Górnickiej z książki "Apteka natury - poradnik zdrowia". Proszę zwrócić uwagę, że p. Górnicka jest zwolennikiem "starej szkoły" żywienia, a więc używania dużych ilości mleka i łączenia białek z węglowodanami. Proszę o tym pamiętać i postępować zgodnie z własną wiedzą, doświadczeniem i rozsądkiem**.
+
+**ODŻYWIANIE W CZASIE CIĄŻY**
+
+Kiedyś uważano, że kobieta w ciąży powinna jeść za dwoje, czyli za siebie i za mające się urodzić dziecko. Jest to oczywiście z gruntu fałszywy pogląd. Podobnie zresztą jak inny, że należy ograniczyć kaloryczne oraz białkowe racje żywieniowe kobiet w ciąży. Liczne badania wykazały bowiem, że nieprawidłowe żywienie w tym okresie może doprowadzić do wielu zaburzeń, włącznie z przedwczesnym porodem i zwiększoną śmiertelnością noworodków. Ważna jest jakość pożywienia a nie jego ilość.
+
+Kobieta w okresie ciąży powinna przede wszystkim odżywiać się racjonalnie, czyli tak, by dostarczyć organizmowi wszystkich niezbędnych składników, jakie są potrzebne jej i dziecku. Należy do nich przede wszystkim białko, ważny budulec rozwijającego się organizmu. A więc mięso, zwłaszcza chuda wołowina, cielęcina i wieprzowina, przynajmniej raz w tygodniu wątróbka, a poza tym mleko, jaja, twaróg oraz wszelkie przetwory mleczne. Oprócz tego masło, tłuszcz w postaci oleju, najlepiej sojowego lub słonecznikowego, a także kasze, owoce i warzywa. Uważam za bardzo cenne pożywienie mielony pszczeli pyłek kwiatowy zmieszany z miodem (10 dag pyłku mieszamy w szklance miodu i zażywamy 3-4 łyżeczki po jedzeniu).
+
+Zaleca się natomiast ograniczenie słodyczy, tłuszczów zwierzęcych, ziemniaków, potraw mącznych, takich jak kluski i pieczywo oraz soli.
+
+W sumie zdrowa kobieta, przy prawidłowym przebiegu ciąży, powinna jeść z umiarem, nie ulegając absolutnie wilczemu apetytowi, jak to nieraz bywa, ale za to częściej. Powiedzmy nie trzy razy, ale pięć niezbyt obfitych posiłków w ciągu dnia. Ponieważ u większości ciężarnych procesy przemiany materii toczą się dużo wolniej niż w pozostałych okresach ich życia, warto zwrócić uwagę na produkty sprzyjające prawidłowemu trawieniu. Najlepszym lekarstwem jest odpowiednia dieta zawierająca soki owocowe, warzywa, owoce, chleb razowy, otręby.
+
+W tym okresie trzeba unikać wszelkich środków przeczyszczających. A jeśli się je przyjmuje, to tylko za zgodą lekarza.
+
+Obliczono, że w czasie 9 miesięcy kobieta winna spożyć dodatkowo 80 tysięcy kalorii, czyli 300 kalorii dziennie. Daje to dziennie 2500 kalorii, czyli niewiele więcej niż wynosi normalna ilość. Ważne jest również, aby tego zwiększonego zapotrzebowania na dodatkowe kalorie nie pokrywać tłuszczami, słodyczami, ale raczej warzywami i owocami.
+
+Trzeba również systematycznie sprawdzać wagę ciała. Ważyć się trzeba co miesiąc, a jeśli występuje tendencja do tycia, co dwa tygodnie. Warto też wiedzieć, że przez 14 pierwszych tygodni ciąży, wskazówka wagi powinna stać w miejscu. Od 14 do 20 tygodnia może się podnieść o 2,5 kg. Od 20 do 30 tygodnia o dalsze 5 kg. Od 30 do 36 tygodnia o 2,5 kg i wreszcie do 40 tygodnia mogą występować pewne niewielkie wahania.
+
+W okresie ciąży należy unikać przyjmowania jakichkolwiek silnych leków. Wyjątek od tej reguły stanowią leki przepisane przez lekarza położnika, np. wapno typu Calcium Granulatum i Falvit i przyjmowane ściśle według jego wskazówek. Samowolne przyjmowanie leków przez przyszłą matkę może doprowadzić do uszkodzenia płodu i urodzenia ułomnego dziecka. Również leki ziołowe przeczyszczające uważane za bezpieczne, podlegają tym samym zasadom.
+
+Na działanie dymu tytoniowego narażony jest szczególnie układ nerwowy płodu, co prowadzi nieraz do ciężkich i niestety nieodwracalnych skutków. Poza tym dzieci matek palących są zwykle niedotlenione i gorzej odżywione w łonie matki. Przychodzą na świat z niższą waga urodzeniową, są podatne na napady drgawek i omdlenia oraz posiadają mniejszą odporność na zakażenia. Dzieci matek pijących alkohol w ciąży mogą urodzić się z wadami ośrodkowego układu nerwowego, a także z uszkodzoną wątrobą i trzustką.
+
+Przyszłą matkę obowiązuje również okresowe badanie moczu, aby w porę uchwycić ewentualną niewydolność nerek, nadciśnienie tętnicze a nawet zatrucia ciążowe. Niezbędne jest również uprawianie gimnastyki przez cały okres ciąży, co ma dodatni wpływ na przebieg porodu. Ćwiczenia oddechowe poprawiają natomiast przyswajanie tlenu, co korzystnie wpływa na stan zdrowia i przyczynia się do urodzenia zdrowego dziecka.
+
+**ODŻYWIANIE MATKI KARMIĄCEJ**
+
+Od chwili poczęcia, przez całą ciążę, matka z dzieckiem tworzą jedność. Organizm matki chroni i żywi dziecko. Karmienie piersią jest zatem naturalnym przedłużeniem i dopełnieniem okresu ciąży. Jest to zdrowie wyssane z mlekiem matki. Dlatego też, właśnie ze względu na swe szczególne właściwości, pokarm matki bywa nazywany białą krwią. Dostarcza on niemowlęciu w wystarczających ilościach wszystkie niezbędne składniki odżywcze, budulcowe, energetyczne, a także witaminy, mikroelementy, tłuszcze, wreszcie ciała odpornościowe, chroniące dziecko przed chorobami. Mleko kobiece jest zatem najbardziej wartościowym pokarmem. Tych cech nie posiada żadne, najlepsze nawet mleko krowie czy w proszku.
+
+Sposób odżywiania karmiącej matki ma istotny wpływ zarówno na jej zdrowie, jak również na zdrowie dziecka. W tym okresie jej zapotrzebowanie energetyczne zwiększa się około 500-800 kalorii na dobę. Nie znaczy to oczywiście, że trzeba się przejadać. Potrzeby te zaspokaja właściwie jeden dodatkowy posiłek np. drugie śniadanie. Ważne jest przestrzeganie przez kobietę karmiącą zasad racjonalnego żywienia. Jej dieta powinna być lekka, urozmaicona, uwzględniająca w codziennych posiłkach mięso, ryby, sery, jaja owoce i warzywa oraz przynajmniej litr mleka dziennie. Od ilości płynów, wbrew niektórym stwierdzeniom, nie zależy bynajmniej ilość pokarmu. Sprawę picia, powinno zatem regulować pragnienie. Można pić lekką herbatę, kompoty, wodę z sokiem, najlepiej mało słodzone.
+
+Przesądem jest również stwierdzenie, że picie piwa wzmaga laktację. To przecież również alkohol, a tego kobieta karmiąca musi się absolutnie wystrzegać. A już w żadnym wypadku nie wolno palić papierosów. Dziecko odżywia się wtedy pokarmem matki, który zawiera trujące substancje oraz wdycha dym, czyli staje się niejako biernym palaczem. Odbija się to niekorzystnie na jego układzie nerwowym i ogólnym rozwoju, w przyszłości także intelektualnym. Dzieci matek palących są przy tym mniejsze i mniej odporne na wszelkie infekcje, częściej więc chorują.
+
+Istnieje przesąd, że w okresie karmienia nie jada się potraw kwaśnych. Jest to opinia błędna, gdyz zarówno kwaszona kapusta, jak też sok z kwaszonych buraków, kwaśne owoce i surówki nie mają szkodliwych właściwości. Można również jadać niewielkie ilości chrzanu z cytryną. Unikać natomiast należy czosnku, który nadaje pokarmowi niemiły zapach oraz wykluczyć warzywa mające właściwości wzdymające, takie jak groch, fasola, bób, tłusta gotowana kapusta, a w niektórych wypadkach nawet świeży gruboziarnisty chleb razowy, by nie powodowały kolki u niemowlęcia. Oczywiście wszystkie te warzywa można i trzeba zastąpić innymi o podobnych właściwościach odżywczych. Kobieta karmiąca powinna używać kminku z majerankiem jako przyprawy, wtedy pokarm nie powoduje kolki i wzdęć u niemowlęcia.
+
+Zdarza się, że w pierwszych dniach po porodzie dziecko niechętnie ssie pierś matki. Trzeba wówczas wykazać cierpliwość i nie zrażać się początkowymi trudnościami. Ssanie zwiększa laktację, trzeba zatem przystawiać je do piersi aż do skutku. Karmimy tak często, jak tego domaga się dziecko, czyli na żądanie. Popularne nie tak dawno przekonanie o konieczności sztywnego ustalania godzin karmienia i przestrzegania przerwy nocnej, okazało sie mylne. Pediatrzy wycofali się z tego stwierdzenia. Pierwszy okres od urodzenia, zwykle jest to pierwszy tydzień, wymaga kilkunastu karmień na dobę, w tym także w nocy, póki samoistnie po kilku dniach, nie wytworzy się przerwa nocna. Pokarm matki całkowicie zaspokaja pragnienie i głód. Nie trzeba zatem podawać dziecku żadnych innych napojów. W drugim tygodniu sytuacja zazwyczaj na jakiś czas stabilizuje się i potrzeby noworodka ograniczają się do 6-8 karmień na dobę.
+
+**CZYM KARMIĆ MALUCHY**
+
+W pierwszych tygodniach życia potrzeby żywieniowe niemowlęcia są zwykle zaspokajane przez pokarm matki. Dowodem tego jest odpowiedni przyrost wagi. Noworodek karmiony piersią wymaga uzupełnienia diety w jedną tylko witaminę, a mianowicie w witaminę "D", czyli przeciwkrzywiczną, mającą niezwykle ważny udział w metabolizmie szybko rozwijającego się organizmu. Ile kropelek tej witaminy potrzebuje dziecko, decyduje zawsze lekarz pediatra, ponieważ zależy to nie tylko od indywidualnych potrzeb niemowlęcia, ale w pewnym stopniu również od pory roku.
+
+**W drugim miesiącu** życia dietę niemowlęcia karmionego piersią wzbogaca się soczkami z jarzyn i owoców, początkowo z marchewki i jabłka. Soki te podaje się w stanie surowym, dlatego też bardzo ważną sprawą jest sposób ich przygotowania. Należy zachować idealną czystość wszystkich naczyń i przyborów kuchennych oraz samych produktów. Ilość soczków zwiększa się stopniowo od 1 do 4-6 łyżeczek dziennie.
+
+**Kleik ryżowy** - na 100 ml wody daje się 1/2 łyżeczki masła, 1/2 łyżeczki cukru i 1 łyżeczkę kleiku ryżowego w proszku, bądź też ryż, który wcześniej trzeba ugotować i przetrzeć.
+
+  
+**W trzecim miesiącu** podajemy dziecku tarte jabłko, a także soczki z owoców jagodowych, jeżeli naturalnie pora roku na to pozwala. Z sokami z cytrusów i truskawek radzę jednak uważać, gdyż bywają dzieci skłonne do uczuleń na te owoce.  
+**W piątym miesiącu** wprowadzamy do jadłospisu zupkę jarzynową. W jej skład powinny wejść marchewka, seler, trochę pietruszki, a po kilkunastu dniach również ziemniak i burak. Warzywa gotujemy do miękkości i przecieramy. Po dwóch tygodniach do zupki dodajemy pół żółtka. Skład warzyw można nieco zmienić bądź też zmniejszyć udział jednych na rzecz drugich. Podajemy początkowo dziecku tylko kilka łyżeczek zupki, by przywykło ono do nowego smaku i konsystencji pokarmu. Posiłek ten trzeba jednak uzupełnić, karmiąc dziecko piersią. Z czasem do zupki dodajemy trochę drobniutko pokrojonego mięsa. Najlepsze jest mięso cielęce, kurczak czy młoda wołowina. Niemowlęciu można również podawać kleik ryżowy.  
+**W siódmym i ósmym miesiącu** do jadłospisu można wprowadzać nowe warzywa np. kapustę włoską, kalafior, cebulę itp. Wskazane jest podawać przy każdym nowym posiłku kleik z siemienia lnianego oraz herbatkę z dziurawca (po herbatce bezwzględnie unikać słońca).  
+**Od 10-12 miesiąca** życia można podawać dziecku posiekaną drobniutko polędwicę, parówki oraz gotowane mięso np. w postaci pulpetów. W tym czasie dziecko jada również kompoty, kisiele, herbatniki itp.
+
+Zdarza się jednak, że matka z różnych względów nie jest w stanie karmić dziecka piersią i od początku musi je karmić sztucznie. Na rynku jest specjalnie spreparowane mleko w proszku oraz różne mieszanki, dostosowane do wieku dziecka. Jeśli trzeba z nich korzystać, najlepiej poradzić się lekarza, który ustali najodpowiedniejszy sposób żywienia. By uniknąć nieustannego przygotowywania mieszanek, można od razu przyrządzić wiekszą ilość, na cały dzień, rozlać do butelek, przykryć czystym gazikiem i pasteryzować (nie gotować) przez 10 minut pod przykryciem. Po wystudzeniu buteleczki przechowuje się w lodówce, na dnie.
+
+Początkowo karmi się dziecko 7 razy dziennie, a następnie 6 razy. Od piątego miesiąca przechodzi się zwykle na 5 karmień. Jeśli jednak dziecko jest głodne i płacze, trzeba je nakarmi wcześniej. Ale gdy śpi, lepiej go nie budzić. Pół godziny różnicy nie jest problemem.
+
+Wiadomo, że idealna czystość wszystkiego, z czym styka się niemowlę, jest podstawowym obowiązkiem matki. Ale w wypadku sztucznego karmienia jest to szczególny obowiązek. Niemowlę nie otrzymujące naturalnego pokarmu, jest bowiem pozbawione bariery ochronnej, jakiej mu on dostarcza, czyli jest bardziej podatne na wszelkie infekcje i zarazki. Dzieciom karmionym sztucznie, w odpowiednim czasie również podaje się soczki, przeciery, zupki jarzynowe, a często także witaminy, oczywiście tylko te, które zaleci lekarz.
+
+![](../../zrodlo/webacja/medalt/futer.jpg)
+
+Żywienie dziecka we wczesnym dzieciństwie, czyli w 2 i 3 roku życia, jest już inne niż w wieku niemowlęcym. Jego waga ulega potrojeniu. Jednocześnie wzrost zwiększa się zwykle o 25 cm. Natomiast malec w okresie wczesnego dzieciństwa przybywa zwykle 2 kg na wadze, a jednocześnie rośnie około 9 cm. W związku z tym jego zapotrzebowanie na kalorie jest niższe niż zapotrzebowanie niemowlęcia. Dziecko w tym wieku powinno wypijać przynajmniej 1/2 litra mleka dziennie, jeść ser, masło, mięso, chude ryby, a także warzywa i owoce. Wystarczają mu zwykle cztery posiłki, w przypadku tzw. "niejadków" można wprowadzić pięć posiłków ale mniej obfitych. W zasadzie dziecko jada to, co wszyscy domownicy, tyle że potrawy przyprawia się nieco inaczej. I jeszcze jedno. Nie wolno zmuszać dziecka do jedzenia i nie karmić go na siłę.
+
+**JAK ŻYWIĆ UCZNIA**
+
+Obserwacje zebrane przez lekarzy i nauczycieli wykazują, że po trzech godzinach, często nawet wcześniej, dzieci szczególnie z najmłodszych klas stają się ospałe, zaczynają ziewać, są mniej uważne i nie potrafią skoncentrować uwagi. Jest to dowód, że u tych dzieci nastąpił ubytek energii, który trzeba uzupełnic solidnym posiłkiem. Samopoczucie ucznia w szkole, wyniki w nauce zależą nie tylko od jego indywidualnych cech, zdolności i predyspozycji, ale również od właściwego odżywiania.
+
+Potrzebną dziecku energię dostarczają węglowodany i tłuszcze. Białko, niezbędne do budowy nowych i odbudowy starych tkanek oraz innych czynności fizjologicznych znajduje się w produktach pochodzenia zwierzęcego (mleku, mięsie, rybach, jajach, serach) oraz pochodzenia roślinnego (warzywach strączkowych, ziemniakach). Wapń niezbędny do normalnego wzrostu, rozwoju kośćca i zębów, a także zapewnienia właściwej krzepliwości krwi znajduje się przede wszystkim w mleku i jego przetworach, a także natce pietruszki, jarmużu, szprotach i sardynkach. Żelazo jest w mięsie, wątrobie, jajach, szpinaku, rabarbarze. Składniki mineralne w owocach i warzywach. Witaminy, podobnie jak składniki mineralne, reguluja procesy życiowe organizmu. Każda z nich spełnia odmienną rolę i dlatego każda jest ważna i potrzebna. Te wszystkie składniki trzeba koniecznie zapewnić dziecku, racjonalnie dzieląc je między poszczególne posiłki. I tak pierwsze śniadanie powinno zawierać około 20-25% tych składników, obiad około 50% i kolacja również około 20-25%.
+
+Jeśli nie zapewni się dziecku odpowiedniego porannego posiłku, nie będzie ono w stanie skupić się na lekcjach. Po powrocie ze szkoły również należy uzupełnić niedobory pożywienia. Nie zastąpi tego obfita obiado-kolacja, która zresztą nie jest wcale najzdrowsza. Czasem błędem jest niedocenianie przez rodziców tego pierwszego posiłku. Bywa, że dziecko późno wstaje, bo poprzedniego dnia zbyt długo oglądało telewizję i w ostatniej chwili, głodne, pędzi do szkoły. Jest to absolutnie niedopuszczalne. Dziecko musi się kłaść spać o właściwej porze i wstawać dostatecznie wcześnie, by mogło spokojnie zjeść śniadanie. Jego podstawą powinno być mleko w różnych postaciach, pieczywo ciemne i jasne, z masłem, serem, wędliną, jajkiem, do tego jakiś owoc i warzywo. Bardzo wskazany jest również dodatek miodu i dźemu. W żadnym jednak wypadku pierwsze śniadanie nie może ograniczyć się wyłącznie do zupy mlecznej.
+
+Między pierwszym śniadaniem a obiadem dziecko koniecznie powinno zjeść drugie śniadanie. Jeśli jada obiady w szkole, może być ono mniej obfite. Wystarczy kanapka z wędliną czy z serem i listkiem sałaty, do tego jakieś warzywo czy owoc. Jeśli jednak dziecko je obiady dopiero w domu, również drugie śniadanie winno być solidne. Dwie kanapki z wędliną, serem, smaczną pastą, przełożone liściem sałaty, do tego jakieś warzywo i owoce plus kubek jogurtu lub kefiru.
+
+Na obiad dziecko powinno zjeść zupę na wywarze z warzyw i mięsa oraz drugie danie uzupełnione warzywami sezonowymi np. marchewką z jabłkiem, kwaszoną kapustą z tartym jabłkiem i marchewką itp. Na kolacje oprócz kanapek - moim zdaniem - dobrze jest podać coś ciepłego np. barszczyk i surówki. Oczywiście również między obiadem i kolacją można podać dziecku coś do zjedzenia: budyń czy kisiel, herbatniki i sok owocowy albo kawałek drożdżowego ciasta z lekką herbatą.
+
+I jeszcze jedno. Dzieci jedzą za dużo słodyczy, powodujących nie tylko próchnicę zębów, ale również spadek łaknienia. Trzeba ograniczyć słodycze, zastępując je owocami, sokiem owocowym i warzywami.
+
+**CO ROBIĆ Z "NIEJADKIEM"**
+
+Niemowlęta jedzą na ogół chętnie i dużo. W drugim roku życia natomiast dziecko zachłannie poznaje świat i jedzenie schodzi na dalszy plan. Okazuje się wtedy, że Kasia nie ma ochoty na zupkę jarzynową, którą poprzednio chętnie jadła, a Krzysio nie znosi mleka. Tymczasem rodzice wiedzą, że dziecko musi jeść zupkę i twarożek, pić mleko, jeść wędlinę, mięso, ryby, jaja, warzywa, owoce, czyli wszystko to, co jest mu potrzebne do normalnego rozwoju. Zaczyna się rodzinne karmienie malucha. Mama wtyka mu do buzi łyżkę z zupą, tata go zabawia, wyczyniając różne dziwne rzeczy, babcia opowiada bajeczkę. Wszyscy są zdenerwowani, a dziecko wyczuwa to doskonale. Odtąd posiłek bedzie mu się kojarzył z przymusem, z czymś nieprzyjemnym. Rodzice znajdują się na straconych pozycjach także wówczas, gdy za zjedzoną zupkę obiecują dziecku ulubione słodycze.
+
+Aby maluch jadł z apetytem i dobrze trawił, trzeba od wczesnego dzieciństwa przestrzegać regularności karmienia i przerwy nocnej. Jeżeli bowiem w pierwszych tygodniach karmimy noworodka "na życzenie", to już w następnych uruchamia się normalny zegar biologiczny, ustalający niejako samoistne przerwy. Są one konieczne po to, by organizm miał dostatecznie dużo czasu na strawienie pokarmu i by zjawić się mogło naturalne uczucie głodu. W czasie przerwy nie wolno dziecku podawać nic do jedzenia, a zwłaszcza słodyczy, które powoduja spadek łaknienia i przyhamowania procesu wydzielania soków trawiennych, a także chleba szczególnie z tłuszczem, wędliną czy mięsem. Jeśli dziecko gwałtownie domaga się jedzenia, można mu podać co najwyżej jakiś owoc czy warzywo, chociażby obraną marchewkę, a gdy ma pragnienie - lekko osłodzony kompot. Lepiej jednak nieco wcześniej podać obiad czy kolację.
+
+Malec dokarmiany między posiłkami często nie chce jeść właściwego pożywienia albo je bardzo mało, co powoduje zdenerwowanie troskliwej mamy. Rodzice widząc, że dziecko zjadło mało, podają mu potem coś do zjedzenia i w ten sposób regularność posiłków zostaje całkowicie zakłócona i zachwiana, co prowadzi nieraz do trwałej niechęci dziecka do jedzenia.
+
+Ważną sprawą jest stworzenie odpowiedniej atmosfery w czasie posiłków dziecka. Absolutnie nie wolno mu zakłócać spokoju innymi zabiegami np. mierzeniem temperatury, wymówkami, naganami. Zwrócić należy uwagę na odpowiednią temperaturę pożywienia, czyli unikać potraw zbyt gorących, jak też wystudzonych. Nie wolno zapominać, iż ładnie i kolorowo podana potrawa pobudza apetyt. Dziecko powinno mieć swoje własne nakrycia, wesołe i kolorowe, zachęcające do jedzenia, a same potrawy powinny być powinny być podane z zielonym liściem sałaty czy czerwonym plastrem pomidora.
+
+Niejadków można podzielić na dwie grupy. Do jednej z nich należą zwykle jedynacy i dzieci dokarmiane między posiłkami, do drugiej te, które nie lubią pewnych określonych potraw, często również nie jadanych przez innych domowników. Dobrym sposobem na grymaszących jedynaków jest towarzystwo innych dzieci np. w przedszkolu. W innych przypadkach - zaprzestanie dokarmiania między posiłkami. Natomiast w stosunku do nie lubiących tej czy innej potrawy potrzebna jest... dyplomacja. Jeżeli dziecko nie chce pić mleka czy jeść zupy mlecznej, należy podsunąć mu kakao, bydyń z owocami, kefir czy jogurt na słodko lub na ostro. Nie chce jeść twarożku, można spróbować przyrządzić z niego jakiś deser bądź dodać nieco czosnku, pietruszki czy ziół. A przede wszystkim pozostali domownicy nie powinni wyrażać głośno przy dzieciach swojej opinii na temat tej czy innej potrawy. W drastycznych przypadkach, gdy dziecko stanowczo nie chce pić mleka i jeść jego przetworów, warto poradzić się lekarza, który ewentualnie przepisze wapno w tabletkach.
+
+W każdym bądź razie nie wolno wymuszać na dziecku jedzenia. Trzeba pamiętać, że podobnie jak dorośli, ma ono również swoje ulubione potrawy i takie, za którymi nie przepada. Instynktownie wyczuwa, co jest mu potrzebne, jeżeli naturalnie jest zdrowe. Chęć jedzenia takich a nie innych potraw może oznaczać, że jego organizmowi brakuje pewnych zawartych w tych potrawach składników. Widuje się przecież dzieci liżące ścianę, co świadczy o niedoborze wapnia w organizmie. Trzeba więc pozwolić mu jeść to, co chce i tyle ile chce. Nic się nie stanie, jeśli jednego dnia zje mało lub nawet całkiem się przegłodzi.
+
+**Chińska Księga Przemian • Wyrocznia I-Cing • interpretacja Wojciech Jóźwiak**
+
+---
+
+Źródłem waszych uwikłań, przyprawiających was o śmiertelne wyczerpanie, są wasze nawyki żywieniowe,  
+a także wasze zamiłowanie do jedzenia wbrew naturze.

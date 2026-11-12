@@ -1,0 +1,45 @@
+{
+  "name": "uleszka-archiwum",
+  "version": "1.0.0",
+  "description": "Archiwum serwisu uleszka.net (teksty bez zmian) z serwerem MCP do rozmowy z AI",
+  "type": "module",
+  "bin": {
+    "uleszka-mcp": "dist/server.js"
+  },
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "tsx scripts/test-mcp.ts",
+    "konwertuj": "tsx scripts/konwertuj.ts",
+    "sprawdz": "tsx scripts/sprawdz.ts",
+    "build": "tsc -p .",
+    "start": "node dist/server.js",
+    "prepare": "tsc -p ."
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "archiwum",
+    "uleszka"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jokerwader/uleszka-archiwum.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "minisearch": "^7.2.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/turndown": "^5.0.6",
+    "cheerio": "^1.2.0",
+    "tsx": "^4.23.15",
+    "turndown": "^7.2.5",
+    "typescript": "^7.0.2"
+  }
+}

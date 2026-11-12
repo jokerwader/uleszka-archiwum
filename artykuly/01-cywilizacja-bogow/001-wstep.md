@@ -1,0 +1,52 @@
+---
+id: "cybog/wstepcb"
+tytul: "Wstęp"
+dzial: "Cywilizacja Bogów"
+adres_oryginalny: "http://www.uleszka.net/webacja/cybog/wstepcb.htm"
+plik_zrodlowy: "zrodlo/webacja/cybog/wstepcb.htm"
+liczba_obrazow: 1
+---
+
+**O czym będzie?**  
+Nauka, która nikomu i niczemu nie służy,  
+do niczego się nie nadaje. *prof. A. Lasota*
+
+Dlaczego dla początków naszych dziejów większość historycznych hipotez przeczy rzeczywistości? Dlaczego od ponad wieku lat usiłuje się wmówić wszystkim, że pochodzimy od małpy, nie dając najmniejszego dowodu? Dlaczego od wielu lat nie można znaleźć odpowiedzi na zasadnicze pytania dotyczące zarania naszej cywilizacji?
+
+![](../../zrodlo/webacja/tsunami.jpg)
+
+Nadchodzi przeszłość ...
+
+Dlatego, że o tym wszystkim decyduje garstka arogantów mających przemożny wpływ na światową naukę, politykę i media. Pomagają im w tym tysiące wykształconych kontynuatorów, którzy powielając stare dogmaty i dokładając czasem coś od siebie, baczą pilnie by nie wprowadzić nic nowego, co mogło by zachwiać istniejącym monopolem na "najprawdziwszą prawdę". Z nauki uczynili obowiązującą ideologię, by nie powiedzieć religię. Kontrolują wszystko. Używając wszelkich sposobów, tłamszą w zarodku inaczej myślących nie dopuszczając ich do głosu, wyśmiewając, niszcząc psychicznie, a nierzadko i fizycznie wyrzucając ich ze swego środowiska. To towarzystwo wzajemnej adoracji jest świadome, że prawda dla nich oznacza koniec. Koniec sławy, zaszczytów, tytułów, prestiżu, a przede wszystkim pieniędzy.
+
+Zwykła, robocza hipoteza o ewolucji człowieka, która nie wiedzieć czemu stała się obowiązującą naukową "religią", zaowocowała gadającą małpą i człowiekiem jaskiniowym uczącym się wszystkiego od podstaw, choć nie wskazano nauczyciela, a najzwyczajniejsze życie podpowiada, że jeszcze nikt sam jeszcze się niczego nie nauczył. Zaowocowała epokami kamiennymi, w których pierwotny człowiek wykazał się ogromnymi zdolnościami naukowymi i technicznymi, przeważnie przerastającymi dzisiejsze. To, że teoria ewolucji jest skłócona z drugą teorią mówiącą o liniowości postępu, jakoś nikomu nie przeszkadza.
+
+Nie ma ludzi nieomylnych i nie ma ludzi, którzy znają prawdę. To nie jest winą zwykłych śmiertelników, że historia naszej cywilizacji jest sklecona z fantazyjnych hipotez opartych do tego na błędnym założeniu. Gdyby gmach historii był zbudowany na solidnych podstawach, to wyjęcie z jego fundamentu jednej zmurszałej cegły nie stanowiło by problemu, ale nasza najstarsza historia jest domkiem z kart i wyjęcie jednej karty, poruszenie jej czy nawet delikatne dmuchnięcie grozi jego zawaleniem. To właśnie dlatego nie wolno niczego zmieniać, bo nikt nie ma odwagi, a jeśli już, to i tak nie otrzyma żadnych sił i środków, by zbudować wszystko od nowa.
+
+Nie mam zamiaru wywracać historii do góry nogami ale chcę pokazać, że zwykli ludzie padli ofiarą naukowego oszustwa, którego celem jest pominięcie prawdy. To prawdopodobnie dlatego antagonizuje się światowe religie oraz ignoruje lub ukrywa przekazy z przeszłości. Chcę pokazać, że prawdopodobnie było inaczej, prościej i logiczniej niż głoszą to dziś bardowie nauki. Odcięcie nauce korzeni starożytnej mądrości zaowocowało złym założeniem, nieprawdziwymi hipotezami i oszukańczymi dowodami. Mój pogląd na historię cywilizacji jest zupełnie inny i chcąc zasiać ziarno zwątpienia w przekazywaną dziś najstarszą historię, twierdzę że:
+
+**•** Na Ziemi w przeszłości istniała wielka techniczna cywilizacja - cywilizacja Bogów, której my ludzie zawdzięczamy swoje istnienie. Cywilizacja, która pozostawiła po sobie wiedzę i wyraźne materialne ślady, a które dzisiejsza historia przypisuje "na siłę" słabemu człowiekowi.
+
+**•** Ziemia co jakiś czas doznawała ogólnoświatowych kataklizmów - "wielkich uskoków skorupy ziemskiej" - niszczących zarówno dorobek cywilizacji Bogów jak i ludzkości. Widoczne ślady, które zostawił ostatni kataklizm są celowo niezauważane i lekceważone, a w zamian serwuje się nam historyjki o "gniewie ludu" czy lokalnym, stosunkowo niedawnym trzęsieniu ziemi.
+
+**•** Atlantyda istniała naprawdę, ale nikt nie kwapi się z jej odszukaniem, gdyż stanowi to ogromne zagrożenie dla dzisiejszej, tak wypieszczonej lecz kłamliwej historii o pochodzeniu człowieka oraz całej naszej historii cywilizacji.
+
+**•** Wprowadzenie do historii super cywilizacji Egiptu, Rzymu czy Chin, nie bacząc że przeczy to głoszonej teorii liniowego postępu oraz przypisanie im budowli nigdy przez nich nie zbudowanych, uważam za oszustwo i bezprzykładne historyczne kłamstwo.
+
+"Od najwcześniejszej młodości przyzwyczajani jesteśmy do tego, by słuchać zafałszowanych wieści, a nasz umysł od stuleci tak bardzo przesiąknięty jest uprzedzeniami, że strzeże fantastycznych kłamstw niby skarbu, tak iż w końcu prawda zaczyna się wydawać niewiarygodna a fałsz prawdziwy." Powiedział to Sanchoniathon - fenicki dziejopisarz, już ponad 3 tysiące lat temu.
+
+Dzisiejsza wizja historii cywilizacji propagowana w mediach i nauczana w szkołach już ma katastrofalne skutki dla całej naszej cywilizacji i cała ludzkość zapłaci za to najwyższą cenę. "Arki Noego" tym razem nie ma i nie będzie. Czy chcemy tego czy nie, następny ogólnoświatowy kataklizm zbliża się i jest tylko kwestią czasu. Ziemia już pokazała czego się można spodziewać dając "drobny" przykład na oceanie Indyjskim w grudniu 2004 r. oraz pokazała wielkość, pośpiech, a przede wszystkim możliwości niesionej pomocy. Kto i komu udzieli pomocy gdy klęska dotknie bez wyjątku wszystkich?
+
+Trzęsienia ziemi zaczęły występować w miejscach spokojnych od stuleci. Sami stworzyliśmy warunki do drastycznych zmian w ziemskiej przyrodzie. Człowiek, jako teoretycznie najdoskonalszy produkt "małpiej ewolucji" zaczął zmieniać naturę nie mając pojęcia o konsekwencjach. Wyciął już ponad połowę lasów tropikalnych dających tlen, niszcząc przy okazji siedliska zwierząt i ludzi. Nie licząc się z niczym nadal zatruwa własne środowisko zapoczątkowując już widoczną zmianę klimatu. W końcu zaczął nieudolnie naśladować Boga nie przewidując ani korzyści ani zagrożeń.
+
+Poprzez manipulację, a także ignorancję, arogancję, a przede wszystkim przez niedowiarstwo wielkich tego świata straciliśmy kilka wieków, które należało wykorzystać na przygotowania ludzkiej cywilizacji do rzeczy najważniejszej - do przetrwania. Czy jesteśmy przygotowani na światowy kataklizm? Absolutnie nie. Przez ostatnie dwa wieki technika uczyniła wielki krok do przodu, lecz władcy i "szamani" nauki cofnęli nas w duchową ciemność. Czy możemy jeszcze coś naprawić? Być może, choć nie ma pewności. Zabraknie zapewne tych kilkuset lat przygotowań, które zmarnotrawiono szerząc kłamstwa o nas i o naszej przeszłości, wymazując przy okazji z naszej pamięci realną możliwość zagłady. Swój koniec będziemy zawdzięczać małej grupie zarozumialców z naukowymi tytułami oraz tym decydentom, którzy wciąż myślą, że władza automatycznie daje im rozum.
+
+Moja teoria jest bardzo prosta. Oddzielmy w historii wszystko to, co potrafimy wyjaśnić od niewyjaśnionego. Oddzielmy historię cywilizacji człowieka od "cywilizacji Bogów". Oddzielmy budowle, które mógł zbudować człowiek od tych, których zbudować nie mógł, bo nie miał ani siły ani techniki. Uwierzmy w to, że człowiek to nie ewolucja, a tylko stworzenie i to zamierzone stworzenie. Uwierzmy w to, że nasza Ziemia-Matka jest w stanie zniszczyć wszystko, co się na niej znajduje bez żadnego ostrzeżenia. Jeżeli pójdziemy tym tropem, to może zrozumiemy bardzo wiele niewyjaśnionych spraw i to w sposób logiczny i prosty.
+
+I jeszcze jedno wyjaśnienie. Dzisiejsza historia twardo stoi przy założeniu, że linia brzegowa kontynentów jest niezmienna od tysięcy lat, a jeśli zmiany zachodzą, to tylko w nieznacznym stopniu, powodowane zmiennym stanem poziomu wód światowych. Jeśli jednak uzwględnić hipotezę Hapgooda o możliwości zaistnienia wielkiego uskoku skorupy ziemskiej i przyjąć, że taki zaistniał w przeszłości i to niejednokrotnie, to zmiany w ukształtowaniu terenu mogą być bardzo znaczne, a co za tym idzie, wiele "rzeczy" opisywanych przez starożytnych może znajdować się pod wodą, a niektóre zniknęły pod ziemią naniesioną przez wielkie tsunami.
+
+Określeń "cywilizacja Bogów" czy "Atlantydzi" proszę nie traktować dosłownie, gdyż pod tym pojęciem rozumiem cywilizacje wiodące, o wysokim lub bardzo wysokim stopniu rozwoju nauki i techniki, zdecydowanie przewyższające dzisiejszą. Ziemia, zarówno dzisiaj jak i w przeszłości, nie była zlepkiem odosobnionych ognisk "wybuchających" cywilizacji, a konglomeratem żyjącym we wzajemnej symbiozie i zapewne na różnych poziomach rozwoju. Cywilizacje ginęły i upadały, lecz na ich gruzach, póki istniało życie, zawsze zakwitały nowe nie zawsze dorównujące poprzednim, a nasza jest doskonałym tego przykładem.
+
+Niektóre moje wnioski moga wydawać się niedorzeczne czy wręcz obrazoburcze, dlatego można je przyjąć lub nie, ale są one logiczną konsekwencją uwzględnienia cyklicznych kataklizmów. Końcowe wnioski zawsze zależą od przyjętego podstawowego założenia.
+
+**OSTRZEŻENIE !   PRZECZYTANIE NIEKTÓRYCH ARTYKUŁÓW MOŻE PROWADZIĆ DO GWAŁTOWNEJ ZMIANY SAMOPOCZUCIA !**

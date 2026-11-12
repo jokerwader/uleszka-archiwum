@@ -1,0 +1,1565 @@
+---
+id: "uklad/wstep1"
+tytul: "Tiamat i komety"
+dzial: "Cywilizacja Bogów"
+adres_oryginalny: "http://www.uleszka.net/webacja/uklad/wstep1.htm"
+plik_zrodlowy: "zrodlo/webacja/uklad/wstep1.htm"
+liczba_obrazow: 49
+---
+
+![](../../zrodlo/webacja/uklad/marduktiamat2.gif)  
+**KRAJOBRAZ  
+PO KOSMICZNEJ BITWIE**
+
+  **N**asza współczesna, "wyzwolona" nauka podjęła się trudu wytłumaczenia nam maluczkim jak powstał Wszechświat, a niejako przy okazji nasz Układ Słoneczny i nasza Ziemia. Obowiązujacą teorię Ptolemeusza, że Ziemia jest centrum Wszechświata, uznawaną przez Kościół, zaczęto głośno podważać już u schyłku średniowiecza. Wschodząca hipoteza od początku naznaczona była piętnem śmierci. Święta Inkwizycja, strażnik nauki kościoła, tropiła nieprawomyślnych i w przyspieszonym trybie wysyłała ich do Stwórcy. Autor nowego, heliocentrycznego układu Mikołaj Kopernik uszedł z życiem żandarmom Torquemady tylko dlatego, że odszedł wcześniej z tego świata w naturalny sposób.  
+  **N**owa raczkująca nauka postawiła sobie ambitny cel rozpoczęcia wszystkiego od nowa. Odrzucono wszystkie obowiązujące kanony, wyrzucono na śmietnik wszystkie przekazy starożytnych jako napiętnowane religią i skażone imieniem Boga, nawet nie wnikając w szczegóły. W XIX wieku nieistnienie Boga potwierdził sam Karol Darwin uważając, że do powstania rozumnego człowieka nie potrzeba nikogo, a tylko ogromnej ilości czasu na przepoczwarzenie się bakterii w rozumnego człowieka. Dostosowując się do wspomnianej teorii współczesna nauka też podlega ewolucji. Hipotezy powstają jak piana na wodzie, z tą tylko różnicą, że stare i nieaktualne miast pękać i znikać, istnieją nadal tworząc wspólnie mało przejrzystą breję, w której doskonale czują się tylko naukowcy. Nikt bowiem z poza tego grona nie jest w stanie dokonać rzeczowej weryfikacji tej radosnej twórczości.  
+  **W** drugiej połowie ubiegłego wieku Zecharia Sitchin czytając i tłumacząc starożytne tabliczki pokryte pismem klinowym wysunął hipotezę, że pod opisem walki Marduka z Tiamat kryje się opis katastrofy kosmicznej w naszym Układzie Słonecznym i zupełnie inna historia powstania naszej planety. Według niego, teksty sumeryjskie liczące bez mała 6 tysięcy lat opisują kolejność powstawania planet, ich zewnętrzny wygląd, a także genezę planetoid. Opisał to w swojej książce "Genesis jeszcze raz. Czy współczesna nauka dościga stan wiedzy starozytności.", porównując opisy starożytnych z obrazami przekazanymi przez sondy kosmiczne. Jak było do przewidzenia, nauka zignorowała jego "rewelacje" zaliczając go do grona nieszkodliwych bakterii typu "denikenitis".  
+  **M**nie, zwykłemu śmiertelnikowi nieobeznanemu z neutrinami, bozonami, kwantami, kwarkami i(bardzo długo)td. pozostaje wierzyć tej elicie światłości i mozolnie budować swój zrozumiały obraz otaczającego Kosmosu. Jak dowodzimy prawdy zauważył pewien fizyk - "o nieskończoności można mówić w nieskończoność, co jest jednocześnie dowodem na jej istnienie". To, o czym mówi nauka, pisane jest radosnym niebieskim tekstem, starożytni - w szlachetnym brązie, zaś moje narratorstwo w ponurej czerni.
+
+  **P**onad 4,5 miliarda lat temu, w jednym z licznych galaktycznych obłoków materii międzygwiazdowej, zaczęło się tworzyć zgęszczenie. W chaosie pojawił się ruch o charakterze swobodnego spadku ku gęstszemu obszarowi. Byc może przyczyną był wybuch supernowej. W pierwotnym obłoku istniał wodór, hel i niewielkie ilości atomów cięższych pierwiastków w postaci pyłu. Z bezkształtnego obłoku materii międzygwiazdowej zaczął tworzyć się kulisty twór - Protosłońce.  
+  **K**urczenie się Protosłońca powodowało szybki wzrost temperatury w jego wnętrzu wskutek zamiany energii grawitacyjnej na energię cieplną. Energia nie wydostawała się już za pomocą promieniowania lecz drogą konwekcji, czyli przenikania się mas gazu. Gdy powierzchnia została ogrzana do temperatury 1000-10000°K, Protosłońce zaczęło świecić. Proces kurczenia się trwał nadal, ale wolniej. Pod wpływem grawitacji Protosłońce wciąż się kurczyło, wzrastały gęstość i temperatura w jego wnętrzu. Kiedy temperatura centralna osiągnęła wartość ponad miliona stopni Kelvina, zaczęły zachodzić reakcje jądrowe przemiany wodoru w hel.  
+  **P**o pewnym czasie gęstość i temperatura w centrum wzrosły na tyle, że energia reakcji jądrowych przewyższyła dominującą dotychczas energię zapadania grawitacyjnego i kurczenie się Protosłońca ustało. Obiekt, jaki powstał, miał promień około 700 tys. km, a jego średnia gęstość wynosiła 1,4 g/cm³. Proces ten trwał kilkadziesiąt milionów lat.
+
+  **D**ziwne jest dla mnie to, dlaczego pomija się całą grupę pierwiatków ciężkich w tym pierwiastki radioaktywne. Nie było ich wcale? Powstały dużo później? Czy pomija się je, bo nie pasują do hipotezy? Skoro Słońce było ośrodkiem grawitacji, dlaczego złożone jest tylko z najlżejszych pierwiastków? Jak się ma siła grawitacji atomu wodoru do grawitacji atomu uranu czy toru? W jakim momencie na Ziemi pojawiły się pierwiastki ciężkie? Jeśli nasz Wszechświat uważamy za jednorodną materię uwolnioną w Wiekim Wybuchu, to skąd takie "dziury" w teorii?
+
+![](../../zrodlo/webacja/uklad/uklad.jpg)
+
+  **U**kład Słoneczny zaczął się tworzyć z **mgławicy gazowo-pyłowej**, kondensowanej coraz szybszym obrotem dookoła Protosłońca. Towarzyszyło temu skupianie się ziaren pyłu, które zderzając się zlepiały w coraz większe bryłki. Ich skład chemiczny zależał od miejsca powstania. Najbliżej Protosłońca, gdzie panowała najwyższa temperatura w ziarnach dominowały trudno topliwe metale i krzemiany. Dalej lód i dwutlenek węgla, najdalej metan i amoniak.  
+  **S**iły przyciągania tworzyły kolejne zagęszczenia i wzrost coraz większych brył. Równocześnie ze Słońcem utworzyło się więc w ten sposób wiele tzw. planetozymali. Ich ruchy były niestabilne, co prowadziło do zderzeń. Powstawały też skupiska planetozymali, które wzajemnie się przenikając tworzyły coraz większe obiekty co doprowadziło do powstania protoplanet.  
+  **W** wewnętrznych rejonach tworzącego się Układu Słonecznego, czyli blisko Protosłońca, wyłoniły się cztery protoplanety, z których powstały planety grupy ziemskiej o największej gęstości. W bardziej odległych od Protosłońca, znacznie chłodniejszych obszarach utworzyły się cztery protoplanety, prekursorki planet-olbrzymów, złożone z pierwiastków lekkich.  
+  **O**statni etap formowania się Układu Słonecznego to tzw. "wielkie sprzątanie". Tak prawdopodobnie powstał Pas Kuipera. Wtórnym efektem tego działania było tzw. wielkie bombardowanie, czego ślady widać do dziś na wszystkich prawie obiektach układu. Mniej więcej 4 miliardy lat temu te gwałtowne procesy powoli ustały.
+
+  **D**ość intrygujące stwierdzenia. Skoro nasz Układ Słoneczny powstawał w jednorodnej chmurze pyłu kosmicznego, to skąd w nim bryły skalne wielkości od ziaren piasku po elektrownie atomowe i większe? Dlaczego mają nieregularne kształty, choć od dawna wiadomo, że w warunkach nieważkości powstające twory przybierają kształt tylko kulisty?
+
+  **D**laczego proces powstawania planet zakończył się tak niespodziewanie, skoro budulca w tzw. pasie Kuipera może być na kilka jeszcze planet? Skąd przy planetach gazowych wzięły się księżyce o większym ciężarze właściwym? Skąd się wziął "budulec planetarny" w pasie między Marsem i Jowiszem zamiast znaleźć się w Pasie Kuipera, a nawet w słynnej chmurze O'orta?
+
+  **S**umerowie Słońce nazywali Apsu, czyli ten, który istniał zawsze. Nie wdawali się w dywagacje na temat jego powstania (widocznie ta wiedza nie została im dana). Według ich kosmogonii planety Układu Słonecznego nie powstały jednocześnie. Planety powstawały parami. ![](../../zrodlo/webacja/uklad/10planeta.jpg) Na początku istniało tylko Słońce (Apsu). Jako pierwsze powstały Merkury (Mummu) i Tiamat (hipotetyczna praZiemia), następnie Wenus (Lahamu) i Mars (Lahmu). W późniejszym okresie powstały dwie największe planety Jowisz (Kishar) i Saturn (Anshar). Na samym końcu powstały "bliźniaki" Uran (Anu) i Neptun (Ea).  
+  **N**a fragmencie glinianej tabliczki (VA/243), której fragment zamieściłem obok, widać 11 ciał niebieskich. Mamy więc cztery pary i trzy osobne ciała. Są to: Kingu, nasz księżyc w pobliżu Tiamat; Pluton (Gaga), który według Sumerów był księżycem Saturna oraz planeta, która według Sumerów jest winna całego zamieszania w początkach powstawania Układu Słonecznego. To Nibiru, "planeta przejścia" lub "planeta krzyżująca się".  
+  **P**o wielkiej bitwie Bogów-planet w Układzie Słonecznym zaszły wielkie zmiany. Tiamat została przepołowiona na pół. Rozbita połowa utworzyła pas planetoid i komety, druga, w jednym kawałku, została zepchnięta na inną orbitę wraz ze swym satelitą, tworząc dzisiejszą Ziemię i jej księżyc. Pluton zyskał status niezależnej planety. (wg. Z. Sitchina)
+
+  **O**dbądźmy więc przejażdżkę po naszym najbliższym osiedlu zwanym Układem Słonecznym. Zalecałbym dużą rozwagę i sceptycyzm podczas zapoznawania się z naukowymi "pewnikami". Są to hipotezy w ogromnym stopniu wymyślone i nie sprawdzone, a tylko niektóre weryfikowane za pomocą nielicznej armii próbników, z którymi udało się nawiązać łączność. Pamiętać też należy, że hierarchia hipotezy jest wprost proporcjonalna do tytułów naukowych, siły przebicia głoszącego je oraz wkładu w jej public relation.  
+  **W**iększość z nich to hipotezy życzeniowe, oparte na słowach "prawdopodobnie" i "przypuszczalnie". Do prawdopodobnie najbardziej wiarygodnych informacji należy zaliczyć odległości od Słońca, średnice wielkich obiektów i prędkości podróży przez kosmos, jako że te można już obliczać z dość dużą dokładnością. Reszta danych jest tak dokładna jak mierniki je określające. Wszystkie hipotezy odnoszą się do porównań z naszym globem. Ponieważ znajomość budowy Ziemi i procesów na niej lub w niej zachodzących jest niewiele większa niż na początku naukowej rewolucji, stąd moja prośba zamieszczona powyżej.
+
+  **P**roszę się nie dziwić małą ilością opisów księżyców. Opisuję tylko te największe, kuliste, jedyne lub ciekawe. To mój mini protest przeciw rozrzutności i nonszalancji astronomów w ich określaniu. Dosłownie byle gówno, które tylko okrąża planetę, natychmiast dostępuje zaszczytnego miana księżyca. Stąd te dziwolągi w rodzaju K13/cosiktam/XXI-s500. Łatwo zapamiętać prawda? Jak już dojdziemy do opisu okazuje się, że to tylko 500-metrowy nieforemny, skalisty kawałek kosmicznego "ziemniaka" w dodatku niewiadomego pochodzenia. Strach pomyśleć, ile tego będzie, gdy nowocześniejsze sondy kosmiczne czy super teleskopy zaczną wykrywać obiekty wielkości ziarnka piasku.
+
+**MERKURY**  
+
+![](../../zrodlo/webacja/uklad/planety/merkury.jpg)
+
+Minimalna odległość od Słońca (w mln km)  
+Maksymalna odległość od Słońca (w mln km)  
+Średnia odległość od Słońca (w mln km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła Słońca  
+Okres obrotu wokół własnej osi  
+Średnica równika (km)  
+Promień równikowy (km)  
+Promień biegunowy (km)  
+Kąt nachylenia osi obrotu  
+Masa planety (Ziemia=1)  
+Objętość planety (Ziemia=1)  
+Gęstość planety (Woda=1)  
+Średnia temperatura na powierzchni chmur (°C)  
+Ciśnienie atmosferyczne na powierzchni (mB)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne  
+Liczba znanych księżyców
+
+\- 45,9  
+\- 69,7  
+\- 57,9  
+\- 47,9  
+\- 88 dni  
+\- 59 dni  
+\- 4880  
+\- 2440  
+\- 2440  
+\- poniżej 1°  
+\- 0,055  
+\- 0,06  
+\- 5,4  
+\- +427(D),-183(N)  
+\- nieznaczne  
+\- 0,37  
+\- ?  
+\- nie  
+\- tak  
+\- nie, nie  
+\- 0
+
+**P**laneta najbliższa Słońcu. Amerykańska sonda kosmiczna Mariner 10 wykazała obecność pola magnetycznego o sile 1% ziemskiego. Powierzchnię planety gęsto pokrywają kratery. Jest to prawdopodobnie cena jaką płaci Merkury za bliskie sąsiedztwo Słońca, które jest centrum grawitacyjnym całego Układu Słonecznego. Mariner 10 wykrył też obszar nazwany Coloris Planitia (Równina żaru). Jest to największy krater spowodowany upadkiem innego ciała niebieskiego. Ma on średnicę 1300 km. Uderzenie, dzięki któremu powstał było tak silne, że dokładnie po przeciwnej stronie planety powstało niewielkie wzniesienie! Około 78% Merkurego stanowi kora, złożona praktycznie wyłącznie z żelaza. Ma ona promień 1800-1900 km. Zewnętrzna skorupa ma grubość 500-600 km. W niektórych kraterach bieguna północnego, chroniona przez cienie, występuje zamarznięta woda.
+
+**D**ość ciekawe przypuszczenie. Prawie żelazna kula, na której na dodatek nie dochodzi do żadnej reakcji żelaza z wodą. Istnienie słabego pola magnetycznego wskazuje być może na jego tworzenie się we wnętrzu planety. Nie znamy jednak składu jądra planety ani jego wielkości.
+
+**WENUS**  
+
+![](../../zrodlo/webacja/uklad/planety/wenus.jpg)
+
+Minimalna odległość od Słońca (w mln km)  
+Maksymalna odległość od Słońca (w mln km)  
+Średnia odległość od Słońca (w mln km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła Słońca  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Promień równikowy (km)  
+Promień biegunowy (km)  
+Kąt nachylenia osi obrotu  
+Masa planety (Ziemia=1)  
+Objętość planety (Ziemia=1)  
+Gęstość planety (Woda=1)  
+Średnia temperatura na powierzchni chmur (°C)  
+Ciśnienie atmosferyczne na powierzchni (mB)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna  
+Liczba znanych księżyców
+
+\- 107,4  
+\- 109  
+\- 108,2  
+\- 35,02  
+\- 224,7 dni  
+\- -243 dni (wstecz)  
+\- 12104  
+\- 6052  
+\- 6052  
+\- 3,39°  
+\- 0,815  
+\- 0,88  
+\- 5,2  
+\- +480(D),-33(N)  
+\- 90000  
+\- 0,88  
+\- tak  
+\- ?  
+\- nie  
+\- ?, ?  
+\- 0
+
+**P**osiada gęstą atmosferę złożoną z dwutlenku węgla, azotu i dwutlenku siarki. Ciśnienie na powierzchni jest 90-krotnie wyższe niż na Ziemi. Mapy sporządzone za pomocą radarów wykazały zróżnicowanie powierzchni (góry do 11 km). Obserwację optyczną powierzchni planety uniemożliwia gruba warstwa chmur. Najwyższą warstwę tworzą chmury kwasu siarkowego przemieszczające się z prędkością około 350 km/godz. Atmosfera składa się prawie wyłącznie z dwutlenku węgla (96%) i azotu (4%). Wykryto słabą działalność tektoniczną.
+
+**P**laneta - ewenement w układzie. Obrót wsteczny wokół własnej osi (regułą w układzie jest ruch obrotowy przeciwny do ruchu wskazówek zegara) może wskazywać na to, że cała planeta została obrócona o 180°. Obrót wokół własnej osi jest najwolniejszym w całym Układzie Słonecznym.
+
+**MARS**  
+
+![](../../zrodlo/webacja/uklad/planety/mars.jpg)
+
+Minimalna odległość od Słońca (w mln km)  
+Maksymalna odległość od Słońca (w mln km)  
+Średnia odległość od Słońca (w mln km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła Słońca  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Promień równikowy (km)  
+Promień biegunowy (km)  
+Kąt nachylenia osi obrotu  
+Masa planety (Ziemia=1)  
+Objętość planety (Ziemia=1)  
+Gęstość planety (Woda=1)  
+Średnia temperatura na powierzchni chmur (°C)  
+Ciśnienie atmosferyczne na powierzchni (mB)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne  
+Liczba znanych księżyców
+
+\- 206,7  
+\- 249,1  
+\- 227,9  
+\- 24,1  
+\- 687 dni  
+\- 24h 37m 23s  
+\- 6787  
+\- ?  
+\- ?  
+\- 23°59'  
+\- 0,108  
+\- 0,15  
+\- 3,9  
+\- -23  
+\- około 8-9  
+\- 0,38  
+\- tak  
+\- ?  
+\- nie  
+\- ?, tak  
+\- 2
+
+;**N**ajintensywniej i najnieszczęśliwiej badana planeta naszego układu. Próbnik serii Viking wykrył w atmosferze Marsa dwutlenek węgla (95,3%), niewielką ilość azotu (2,7%), argonu (1,6%) i tlenku węgla oraz śladowe ilości tlenu (0,15%) i pary wodnej (0,03%). Wykryto także obecność metanu. Ciśnienie na powierzchni jest 14-krotnie mniejsze niż na Ziemi (7 mB). Temperatura na Marsie zmienia się w zależności od pór roku. Średnia temperatura na powierzchni waha się od -120°C do +22°C. Kolor planecie nadają związki żelaza zawarte w skałach. Zaobserwowano burze piaskowe, powodowane zapewne różnicą ciśnień (1-9 mB). Najwyższa góra na Marsie Olympus Mons (stożek wygasłego wulkanu) ma ponad 24 km wysokości i średnicę podstawy około 550 km. Sam krater ma średnicę około 90 km. System kanionów Valles Marineris ma 4000 km długości i 2-7 km głębokości. Jest też głęboki na 6 km krater uderzeniowy Hellas Planitia o średnicy 2000 km. Budowa wewnętrzna nie jest znana. Brak pola magnetycznego tłumaczy się zbyt małą zawartością żelaza w jądrze, a samo jądro zbudowane jest z siarki (???). Okresowe białe czapy na biegunach przypisuje się zestalonemu dwutlenkowi węgla. Sonda Viking 2 zarejestrowała wstrząsy sejsmiczne.
+
+**P**rzygladając się powierzchni planety nie sposób nie zauważyć podobieństwa do naszego Księżyca. Czy ciemne powierzchnie to zastygłe oceany lawy? Czy Mars podobnie jak Księżyc nie doświadczył potężnego uderzenia, które upłynniło skorupę? Czy to uderzenie spowodowało zanik pola magnetycznego? Tego na razie się nie dowiemy. Badania Marsa są tak powierzchowne, że jeszcze długo nie pozwolą na wyciągnięcie podstawowych choćby wniosków.
+
+**Fobos**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Wymiary bryły (długość × szerokość × wysokość w km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 9,38  
+\- ?  
+\- 0,319 dni  
+\- ?  
+\- 27 × 21 × 19  
+\- 1,08°  
+\- 1,9  
+\- ?  
+\- ?  
+\- nie  
+\- nie  
+\- nie  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/fobos.jpg)
+
+**P**o grecku - Strach (stąd wszystkie fobie). Większy z księżyców Marsa. Odkryty 12.08.1877 r. przez A. Halla. Jeden z najmniejszych naturalnych satelitów w Układzie Słonecznym, znajduje się najbliżej powierzchni planety. Ponieważ jego okres obiegu jest szybszy niż obrót Marsa, wschodzi na zachodzie, a zachodzi na wschodzie. Budową przypomina węgliste chondryty i prawdopodobnie jest przechwyconą przez Marsa planetoidą. Największy krater Stickney ma 10 km średnicy. Rosjanie wykryli gaz ulatniający się stale w bardzo małych ilościach. Zanim jednak ustalono skład gazu próbnik uległ uszkodzeniu (słynne fatum?).
+
+**Z**astanawiający jest wygląd krateru Fobosa. Szkoda, że nie ma zdjęcia ukazującego wnętrza krateru, bo na widocznym stwarza wrażenie głębszego niż szerszego i nie wygląda na krater uderzeniowy. Tak wygląda lej po wybuchu! Czy tak silne uderzenie nie rozbiło by Fobosa w drobny mak? A może mamy do czynienia ze świadomą ingerencją podczas sprowadzania planetoidy na orbitę Marsa, a może to efekt wybuchu nadającego mu tą zadziwiającą prędkość orbitalną, uniemożliwiającą upadek na powierzchnię planety? Oczywiście na tak stawiane pytania nie otrzymamy odpowiedzi od żadnego naukowca. Ten zanim zrozumie pytanie natychmiast odpowie, że to niemożliwe.
+
+**Deimos**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Wymiary bryły (długość × szerokość × wysokość w km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 23,46  
+\- 1,35  
+\- 1,262 dni  
+\- ?  
+\- 15 × 12 × 10  
+\- 1,79°  
+\- 1,75  
+\- ?  
+\- ?  
+\- nie  
+\- nie  
+\- nie  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/deimos.jpg)
+
+**P**o grecku - Trwoga. Został odkryty przez A. Halla w roku 1877. Jest ponad 3 razy mniejszy od góry Giewont! Obraca się wokół osi w tym samym tempie co obiega planetę, a więc synchronicznie! Orbita jest umiejscowiona w okolicach równika planety. W skład materii, z której jest zbudowany wchodzi duża ilość węgla.
+
+![](../../zrodlo/webacja/uklad/ksiezyce/cienmars.jpg)
+
+**W** roku 1989 sondy radzieckie Phobos 1 i Phobos 2 mające dokonać badań mniejszego księżyca Marsa nie wykonały misji. Pierwszy utracono przez błędną komendę radiową (co uważam za mało prawdopodobne, gdyż w radzieckim komunizmie nie było miejsca na błędy :-)), a dramat drugiego rozpoczął się przy zbliżeniu do Fobosa, na którym miał posadowić dwa pojemniki z przyrządami naukowymi. Zanim utracono próbnik, zdążył on wykonać zdjęcie dziwnego cienia na powierzchni Marsa (w kształcie cygara o długości 20-30 km). Podobno zostały wykonane jeszcze inne zdjęcia, ale strona radziecka nie udostępniła ich ani nie zezwoliła na ich opublikowanie nawet w swojej prasie. Takiego cienia nie mógł rzucić ani Dejmos ani Fobos ani tym bardziej maleńka kosmiczna sonda.
+
+***Mars fantasy ?***
+
+  
+  
+  
+
+![](../../zrodlo/webacja/uklad/planety/cydonia1.jpg)
+
+![](../../zrodlo/webacja/uklad/planety/cydonia2.jpg)
+
+**O**bszar Marsa nazywany - Cydonia. Amerykańska sonda marsjańska rutynowo fotografowała teren przesuwający się pod jej obiektywem i przesyłała na Ziemię.  
+**Z**djęcie (po lewej) odnalezione przypadkowo w archiwum NASA poruszyło opinię publiczną, a szczególnie zwolenników obcych cywilizacji. Po prawej stronie widać coś, co do złudzenia przypomina ludzką twarz. W miejscach po lewej stronie dopatrzono się piramid. Nie rozstrzygnięto także, czym jest ciemny okręg znajdujący się z lewej i powyżej "twarzy". Czy to przypadkowy twór geologiczny czy też ręka inteligentnego twórcy nie zostało definitywnie rozstrzygnięte i chyba długo nie będzie z uwagi na to, że trudno z odległości kilometra definitywnie stwierdzić czy główka szpilki jest okrągła czy kanciasta. Do pomocy zaprzęgnięto nawet wysokiej klasy specjalistów od komputerowej obróbki zdjęć. Zdjęcie obok, to już taka obróbka. Nie widać na nim "inteligentnej dłoni" twórcy, ale też nie mamy pewności co do intencji specjalisty. Czy był to zwolennik teorii "obcych" czy jej zażarty przeciwnik.  
+**C**óż można dodać? Kair po arabsku brzmi Al-Kahira, co w jezyku mieszkańców oznacza właśnie Marsa. Co Arabowie mają wspólnego z Marsem do dzisiaj nie stwierdzono.
+
+**PLANETA X**  
+
+![](../../zrodlo/webacja/uklad/planety/planetax.jpg)
+
+Minimalna odległość od Słońca (w mln km)  
+Maksymalna odległość od Słońca (w mln km)  
+Średnia odległość od Słońca (w mln km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła Słońca  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Promień równikowy (km)  
+Promień biegunowy (km)  
+Kąt nachylenia osi obrotu  
+Masa planety (Ziemia=1)  
+Objętość planety (Ziemia=1)  
+Gęstość planety (Woda=1)  
+Średnia temperatura na powierzchni chmur (°C)  
+Ciśnienie atmosferyczne na powierzchni (mB)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne  
+Liczba znanych księżyców
+
+\- ?  
+\- ?  
+\- 448,7 (?)  
+\- ?  
+\- 5,2 lat (?)  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- 2 (?)  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?
+
+**N**auka kategorycznie zaprzecza istnieniu w przeszłości i w tym miejscu planety. Hipotezę oparto na wyliczeniu, że masa wszystkich planetoid nie przekracza 2% masy Ziemi.
+
+**J**ak na naukę bardzo ciekawie zawężone założenie. Skąd pewność, że to co widzimy, to wszystko po hipotetycznej planecie? Zakładając, że planeta została rozbita, lub jak chcą niektórzy wybuchła, co mogło z niej pozostać? Czy ktoś próbował oszacować w przybliżeniu ile takich odłamków mogło ulecieć bezpowrotnie w kosmos? Ile mogło opaść na Słońce? Ile mogło opaść na Jowisza, Saturna, Neptuna czy Urana? Ile spadło na pozostałe planety? Ile mogło stać się "księżycami" planet-olbrzymów? Ile krąży poza pasem planetoid? Ile z nich znajduje się w tzw. Pas Kuipera czy chmurze O'orta? Niemożliwe? Za trudne? Niewskazane?  
+**J**eśli w tym miejscu nie została rozbita planeta, to za przeproszeniem, skąd tyle gruzu? Dlaczego akurat w tym miejscu zgrupowało się tyle "kosmicznych kamieni", że z powodzeniem utworzyły obręcz wokół Słońca?
+
+**T**iamat (dziewica życia) zwana też "wodnym potworem". Powstała w pierwszej fazie tworzenia się układu wraz z Merkurym. Krążyła po orbicie między dzisiejszym Marsem i Jowiszem, w miejscu gdzie dziś rozciąga się pas planetoid. Pierwotnie cała powierzchnia pokryta była wodą. W dalekiej przeszłości została rozbita na dwie części. Z pierwszej rozbitej na drobne kawałki powstał pas planetoid i komety, druga w całości została zepchnięta na orbitę bliższą Słońcu stając się dzisiejszą Ziemią.
+
+**Planetoidy**
+
+  
+  
+  
+
+**G**rupa ciał Układu Słonecznego. Jej liczbę ocenia się na około 400 tys. Pierwszą planetoidę odkryto w roku 1801 r (Piazzi). Nazwano ją Ceres. Jej średnica wynosi 913 km. Orbity planetoid położone są w większości pomiędzy Marsem i Jowiszem. Istnieje kilka znanych obiektów na ekscentrycznych orbitach przechodzących bliżej Słońca niż Merkury. Są to planetoidy grupy Apollo. Jedna z nich Eros (średnica około 35 km) mijała już Ziemię w roku 1931 w odległości 23 mln km. Apollo ( 1,2 × 1,8 km) w roku 1980 w odległości 0,055 j.a. Następne zbliżenia to 6.11.2006 r. i 8.05.2007 r. W samym roku 1983 satelita IRAS wykrył ponad 20 000 planetoid i innych źródeł promieniowania podczerwonego. Ocenia się, że istnieje około 1 miliarda planetoid o średnicy powyżej 1 kilometra. Czas obiegu wokół Słońca ocenia się na 3-6 lat.  
+**O**ficjalnie jest to stary magazyn materiałów budowlanych jaki pozostał po budowie Układu Słonecznego. Dość osobliwy. Nauka wyróżnia planetoidy węglowe, kamienne lub metaliczne.
+
+![](../../zrodlo/webacja/uklad/planetki/ceres.jpg)
+
+![](../../zrodlo/webacja/uklad/planetki/westa.jpg)
+
+![](../../zrodlo/webacja/uklad/planetki/gaspra.jpg)
+
+![](../../zrodlo/webacja/uklad/planetki/ida.jpg)
+
+![](../../zrodlo/webacja/uklad/planetki/juno.jpg)
+
+![](../../zrodlo/webacja/uklad/planetki/matylda.jpg)
+
+Ceres
+
+Westa
+
+Gaspra
+
+Ida
+
+Juno
+
+Matylda
+
+**P**rzykłady kształtu planetoid chyba nie pozostawiają wątpliwości. Sądzę, że dwa ich rodzaje mogą świadczyć o dwóch rodzajach narodzin planetoid. Jedne mogły powstawać jako planetki bądź "prawdziwe" księżyce planet, drugie mogą być efektem kosmicznej katastrofy. Czy Ceres i Westa nie mogą być księżycami byłej Tiamat? Miała ich ponoć 11. Sądzę ponadto, że kształt kulisty mogą przybierać tylko ciała niebieskie, które w stadium tworzenia były w stanie płynnym lub półpłynnym.  
+**N**ie potrafię sobie natomiast wyobrazić, w jaki sposób zbiór luźnych kamiennych brył może w pewnym momencie zestalić się w jedną, niepodzielną całość. Skąd energia do stopienia tych skał w jedno??? Ze zderzeń? Wolne żarty! Duży obiekt i silne zderzenie zamiast łączyć rozbiłoby grupę. Żadne też zderzenie nie rozgrzałoby całości do temperatury topnienia skał.
+
+**Komety**
+
+  
+  
+  
+
+**C**iała niebieskie obiegające Słońce zwykle po mocno spłaszczonej orbicie eliptycznej (komety okresowe) lub orbicie bardzo zbliżonej do paraboli (komety jednopojawieniowe). Kometa staje się widoczna dopiero wtedy gdy zbliży się do Ziemi i Słońca na odległość około kilku jednostek astronomicznych (zwykle po minięciu pasa planetoid) i rozwinie swój warkocz. W miarę zbliżania się do Słońca kometa staje się coraz jaśniejszym ciałem niebieskim rozwijając coraz dłuższy i jaśniejszy warkocz skierowany zawsze od Słońca. Warkocze komet osiągają czasem długości nawet setek milionów kilometrów. Kometa podczas każdego przelotu w pobliżu Słońca traci część swojej masy. Prawie połowa z nich porusza się ruchem wstecznym.  
+![](../../zrodlo/webacja/uklad/halley.jpg) **O**statnie badania wskazują, że komety są budowy skalisto-lodowej. Wzrastająca temperatura i bardzo niskie ciśnienie powodują parowanie wody już w temperaturze 30°C, która tworzy warkocz odpychany wiatrem słonecznym w głąb Układu Słonecznego. Prędkość komet jest prawie dwukrotnie większa od meteroidów, co przy jednakowej masie daje czterokrotnie większą energię podczas uderzenia. Najbardziej znana jest kometa okresowa Halley'a pojawiajaca się co 76 lat. W roku 1986 dokonano istnej "inwazji" na kometę przy pomocy kilku próbników z całego świata. Na zdjęciu obok sfotografowane przez sondę Giotto jądro komety Halley'a. Widać nieregularną bryłę wielkości połowy Manhattan'u i co najmniej trzy (podobno zaobserwowano ich pięć) źródła pary wodnej tryskające z pod powierzchni. Spektrometr sondy Pioneer-Venus (krąży dookoła Wenus) określił, że w perihelium jądro komety traciło 30-70 ton wody na sekundę.
+
+**Meteoroidy - Meteory - Meteoryty**
+
+  
+  
+  
+
+**D**o ziemi dociera rocznie ponad 3000 szt. różnej wielkości "śmieci" z kosmosu o masie z reguły przekraczającej 1 kg. Teoretycznie 2/3 winno spaść do oceanów, pozostałe na ląd stały. Odnajduje się co roku około 6 egzemplarzy, pod warunkiem, że widzimy ich upadek. Reszta znalezisk jest dziełem przypadku. Istnieją trzy zasadnicze typy: meteoryty kamienne, meteoryty metaliczne oraz meteoryty kamienno-metaliczne. Wpadając w atmosferę ziemską nazwa ich ulega metamorfozie według schematu:
+
+**M E T E O R O I D**  
+(wejście w atmosferę)
+
+![](../../zrodlo/webacja/uklad/strzala_p.gif)
+
+**M E T E O R**  
+(świecąca smuga)
+
+![](../../zrodlo/webacja/uklad/strzala_p.gif)
+
+**M E T E O R Y T**  
+(udany upadek)
+
+**M**eteoroidy to pył i odłamki skalne, występujące w kosmosie. Pochodzą z komet, a w zasadzie z ich warkocza (w badaniach zauważono nawet odłamki wielkości małego Fiata) lub stanowią pozostałość po zderzeniach planetoid. Rocznie spala się w naszej atmosferze około 220 megaton meteoroidów. Spalanie zachodzi na wysokości 90-120 km nad ziemią w ciągu kilku sekund. Są to z reguły ciała niebieskie nie większe od ziarnka piasku. Ich prędkość to rząd 2-72 km/sek.
+
+**P**rędkość zależy od tego, czy meteoroid dogania Ziemię czy też się z nią zderza. Meteoroid o masie 0,25 g wpadający do atmosfery z prędkością 60 km/s, stanie się meteorem dorównującym jasnością najjaśniejszym gwiazdom.  
+![](../../zrodlo/webacja/uklad/meteoryt.jpg) **J**eśli masa meteoroidu nie przekracza 1 tony, prędkość, z jaką wchodzi on w atmosferę ziemską, znacznie się zmniejsza wskutek oporu powietrza. Na wysokości mniej więcej 20 kilometrów zaczyna swobodnie spadać w polu grawitacyjnym Ziemi. Gdy siła ciążenia, działająca na meteoroid, zrówna się z siłą oporu powietrza, przestaje on poruszać się ruchem przyśpieszonym i leci z tzw. prędkością graniczną około 100 m/s. Jeśli masa początkowa przekracza 1000 ton, atmosfera nie jest w stanie spowolnić jego prędkości, a sam upadek powoduje ogromne zniszczenia. Największym ze znalezionych dotychczas meteorytów był meteoryt żelazny Hoba, o masie około 60 ton, który nadal tkwi w miejscu swego upadku - w Namibii. Na zdjęciu obok - meteoryt kamienny znaleziony obok wsi Baszkówka w Polsce, obecnie w muzeum Kopernika we Fromborku.  
+**Z**iemia w ciągu rocznego obiegu dookoła Słońca przecina trasy kilkudziesięciu tzw. rojów meteroid. Nazwa pochodzi od punktu (z reguły gwiazdozbiór), z którego jakby wchodzą w atmosferę Ziemi. Jednym z nich są Leonidy, z której to nazwy najbardziej był dumny były radziecki sekretarz generalny KPZR Leonid Breżniew, który uznał to za hołd złożony jego osobie :-). Poniżej zasadniczy podział znalezionych meteorytów.
+
+**Rodzaj meteorytu**
+
+**Skala znalezisk**
+
+**Gęstość**
+
+**Skład**
+
+Kamienne  
+Żelazne  
+Żelazno-kamienne
+
+95%          
+4%          
+1%        
+
+3 g/cm³  
+8 g/cm³  
+?
+
+Krzemiany, żelazo niklonośne  
+Stop żelaza metalicznego, nikiel, kobalt  
+Krzemiany, stop niklowo-żelazny
+
+  **R**easumując, jest to najtańszy sposób na badanie materii, z której składa się najbliższy kosmos, mogący rzucić światło na początki Układu Słonecznego.
+
+  
+
+  **M**ój pogląd na powstanie planetoid czy komet jest diametralnie różny. W pierwotnej chmurze wirującego pyłu, z której uformował się cały nasz układ, nie było miejsca na wielkie nieforemne, skaliste obiekty. Powstały układ planet był "czysty". Jak twierdzą Sumerowie oprócz ośmiu planet, Księżyca i Plutona nie było nic więcej.  
+  **P**lanety stopniowo stygnąc tworzyły twarde skorupy w tempie (jak można bardzo orientacyjnie obliczyć) 1 km na około 120 milionów lat. Być może na niektórych lub na wszystkich tworzyła się warstwa wody. Oblicza planet były gładkie i nic nie zakłócało spokojnego dojrzewania.  
+  **S**pokój prysł wraz z wtargnięciem obcej planety, której jedno przejście przez cały układ zaowocowało gigantycznymi zderzeniami i deformacjami. To prawdopodobnie w tym okresie narodziły się "księżyce" z wyrwanych siłą grawitacji części z macierzystych planet. Jako płynne "odłamki" zdołały przyjąć kuliste formy. To prawdopodobnie w tym okresie Uran utracił część masy i skierował swą oś obrotu w kierunku Słońca. To prawdopodobnie wtedy legendarna Tiamat została rozbita na dwie części, gdzie jedna połowa stała się dzisiejszą Ziemią, druga zaś potrzaskana na drobne utworzyła pas planetoid, komety i pomniejszy gruz kosmiczny.
+
+**T**o prawdopodobnie wtedy Wenus zmieniła kierunek obrotu wokół własnej osi. To był koniec spokoju w Układzie Słonecznym. Rozpoczęło się bombardowanie planet i księżyców odłamkami rozbitej Tiamat krążącymi w całym układzie planetarnym. Efekty są aż nadzbyt widoczne.  
+**J**eśli to założenie jest prawdziwe, skutki tej apokalipsy zmuszają do postawienia hipotez diametralnie różnych od powszechnie dziś przyjętych przez naukę.
+
+• to nie komety naniosły wodę na Ziemię, to w kometach znajduje się woda z mitycznej praZiemi - Tiamat.  
+• "kule brudnego śniegu" jak nazywa się czasem komety, to tylko zamarznięta woda wyrzucona w kosmos z powierzchni Tiamat w efekcie potężnego zderzenia z księżycem Marduka.  
+• planetoidy to nie świadkowie genesis, to świadkowie katastrofy kosmicznej, których skład jest składem skorupy jaką posiadała dawna i dzisiejsza Ziemia.  
+• planetoidy, których konsystencja sprawia wrażenie porowatości mogły powstać z fragmentów płynnego płaszcza Tiamat, z których gwałtownie uszły zawarte w nich substancje gazowe.  
+• meteoryt z Marsa nie musi wcale z niego pochodzić. Jest bardziej prawdopodobne, że to maleńki fragment naszej praZiemi, który odnalazł "matkę" po wielu latach tułaczki przez Kosmos.  
+• jeśli już w tym czasie na Tiamat istniało prymitywne życie, to nie będzie nic dziwnego w tym, że w niektórych meteorytach odnajdziemy jego ślady i prawdopodobnie będą to nanoby lub nawet bakterie.  
+
+**M**ieliśmy, lecz straciliśmy niepowtarzalną szansę na popchnięcie do przodu naszych badań nad Układem Słonecznym. Zamiast wysłać sondę z robotem, który "złowiłby" maleńką planetoidę i przetransportował na Ziemię, woleliśmy oddać bardzo drogi strzał do komety Tempel-1, który oprócz samozadowolenia i okazji do wypicia szampana nie przyniósł żadnych innych korzyści. Astronomowie zafundowali nam efektowny błysk, kupę kurzu i niepewność, czy przypadkiem tym trafieniem nie zapoczątkowaliśmy łańcucha zdarzeń o nieprzewidzianych skutkach. Kilka dni trzeba było czekać zanim opadnie kurz i kamery pokażą jakiś ślad na trafionej komecie oraz na stwierdzenia, które nic nie wniosły do naszej wiedzy. Co z tego, że okazała się porowata? Co z tego, że w środku ma lód? Taki wniosek mogli wyciągnąć nawet Sumerowie i to bez żadnych rakiet i niebotycznych kosztów.  
+**Z** udanego trafienia można wysnuć jeszcze jeden ciekawy wniosek. W pasie planetoid nie dochodzi wcale do zderzeń, a co najwyżej do szturchańców. Gdyby takowe zachodziły, to co noc pas planetoid winien błyskać jak niebiańska bransoleta wysadzana diamentami.
+
+**JOWISZ**  
+
+![](../../zrodlo/webacja/uklad/planety/jowisz.jpg)
+
+Minimalna odległość od Słońca (w mln km)  
+Maksymalna odległość od Słońca (w mln km)  
+Średnia odległość od Słońca (w mln km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła Słońca  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Promień równikowy (km)  
+Promień biegunowy (km)  
+Kąt nachylenia osi obrotu  
+Masa planety (Ziemia=1)  
+Objętość planety (Ziemia=1)  
+Gęstość planety (Woda=1)  
+Średnia temperatura na powierzchni chmur (°C)  
+Ciśnienie atmosferyczne na powierzchni (mB)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne  
+Liczba znanych księżyców
+
+\- 740,9  
+\- 815,7  
+\- 778,3  
+\- 13,1  
+\- 11,86 lat  
+\- 9h 50m 30s  
+\- 142800  
+\- ?  
+\- ?  
+\- 3°05'  
+\- 317,9  
+\- 1316  
+\- 1,3  
+\- -150  
+\- ?  
+\- 2,64  
+\- tak  
+\- tak  
+\- tak  
+\- ?, tak  
+\- 14
+
+  **N**ajwiększa planeta układu. Uważana za planetę gazową, bez twardej powierzchni ze skalistym jądrem o masie 10-15 mas Ziemi. Jądro oblewa masa płynnego, metalicznego wodoru. Teoretyczna temperatura jądra to +40000°C. Naukowy skład: 90% wodoru i 10% helu z domieszkami metanu, wody i amoniaku. Zewnętrzna powierzchnia atmosfery podzielona na równoleżnikowe pasy. Poniżej równika olbrzymi wir - czerwona plama (25000×12000 km). Obserwuje się go nieprzerwanie od 300 lat. Geneza czerwonej plamy jest nieznana. Grubość atmosfery ocenia się na kilka tysięcy kilometrów. W roku 1979 sonda Voyager wykryła cienki pierścień w odległości 60 000 km od planety. Najwięcej danych o planecie zebrała sonda Galileo. Pole magnetyczne Jowisza sięga kilku milionów kilometrów w stronę Słońca i 650 mln km w przeciwną (za orbitę Saturna). Jowisz wypromieniowuje znacznie więcej energii niż otrzymuje od Słońca. Nauka wyklucza reakcje nuklearne i tłumaczy to powstawaniem ciepła w wyniku konwekcji ciepła (ciekawe, co to skaliste jądro tak rozgrzewa???). W lipcu 1994 r. w Jowisza uderzyły odłamki komety Shoemaker-Levy 9, rozerwanej przez niego samego podczas jej poprzedniego przejścia w jego pobliżu. Niektóre widoczne ślady były wielkości Ziemi.
+
+  **S**umerowie - Kishar (główny na stałym gruncie).
+
+  **S**wego czasu hipoteza, że Jowisz jest gwiazdą "której nie wyszło", zaowocowało hipotezą, że jądro planety może tworzyć reaktor atomowy, który nie działa jednak na zasadzie syntezy. Ja jednak sądzę, że jest jak najbardziej prawdopodobne, że jądro Jowisza to działający, na zasadzie rozpadu ciężkich pierwiastków radioaktywnych, reaktor atomowy. To, że Jowisz nie został gwiazdą jest również do wytłumaczenia. W pyle kosmicznym, który był jego budulcem, były już znikome ilości wodoru. Prawie wszystek wodór (ponoć 98%) opadł na Słońce. Obecnie przyjęto [hipotezę](http://www.wiw.pl/astronomia/0607-us.asp), że "jądro Jowisza to ciekły wodór metaliczny, otoczony grubą warstwą ciekłego wodoru molekularnego. Tylko w samym środku ma on przypuszczalnie niewielkie, ale skupiające około 13% masy, stałe jądro żelazowo-krzemianowe. Niewykluczone więc, że Jowisz posiada jeszcze w swym wnętrzu zapas ciepła pochodzącego z okresu kondensacji planety z pierwotnej mgławicy słonecznej".
+
+  **T**o już chyba paranoja. Dlaczego inne ciała Układu Słonecznego nie posiadają takiego zapasu? Nadto, jeżeli jądro żelazowo-krzemianowe wytwarza pole magnetyczne kilkanaście razy większe od ziemskiego, to dlaczego naukowcy nie zbudowali jeszcze tak taniego generatora na Ziemi? Bardzo proste. Model nie działa w warunkach ziemskich, nawet w słynnym JPL. Badanie Jowisza przypomina badanie jajka z odległości kilkudziesięciu metrów. Przyrządy wykazały, że składa się przeważnie z wapnia, a że posiada temperaturę wyższą od otoczenia skłoniło naukowców do stwierdzenia, że wypromieniowuje ciepło pobrane od kury.
+
+  **N**astępną intrygującą sprawą jest wielki wir obserwowany na powierzchni Jowisza od ponad trzech wieków. Sugeruje się, że jest to wir wytwarzany w górnych warstwach atmosfery Jowisza, ale przyczyna jego powstania, a tym bardziej utrzymywania się go przez kilka wieków nie jest znana. Przypuszcza się, że grubość atmosfery osiąga grubość około 2000 km, natomiast materia w stanie płynnym sięga głębokości 570000 km. Prawdopodobnie..., chyba..., możliwe, że..., itd. ![](../../zrodlo/webacja/uklad/planety/impact.jpg) Skąd pewność, jak wygląda powierzchnia Jowisza, Saturna, Neptuna czy Urana. Brak odpowiednich przyrządów nie upoważnia do takich stwierdzeń. Tendencją w całym naszym układzie planetarnym jest wytwarzanie twardych skorup na powierzchniach ciał kulistych, na skutek stopniowego ochładzania się powierzchni obiektów. Stąd i prawdopodobieństwo posiadania takich przez największe planety naszego układu.
+
+  **W**ir w układzie gazowym może tworzyć wysoka przeszkoda terenowa stojąca na przeszkodzie strumienia powietrza, albo różnica ciśnień, na którą ma wpływ znaczna różnica temperatur. Przyjmując, że powierzchnia Jowisza jest stosunkowo gładka wykluczyć należy wpływ jakichkolwiek przeszków terenowych. Sądzę, że za istniejący wir odpowiada ogromna dziura wybita w powierzchni planety przez upadek gigantycznego meteorytu lub nieznanego nam księżyca Jowisza przed tym, jak zaczęliśmy obserwować jego powierzchnię. Wydobywająca się przez nią magma tworzy ośrodek o wysokiej temperaturze unoszący atmosferę ku górze, dając początek wirowi, który jest jeszcze skręcany przez obrót Jowisza dookoła własnej osi. Fantazja? Może nie. Na zdjęciu Jowisza w podczerwieni wykonanego przez teleskop Hubble podczas uderzenia w Jowisza odłamków komety Shoemaker-Levy. Widoczna po prawej plama, to właśnie "Czerwona plama". Wyraźnie odcina się od zimniejszej atmosfery. U dołu po lewej widać gorące miejsca dwóch eksplozji odłamków komety.
+
+  **C**zy podobną genezę może mieć plama na powierzchni Neptuna? Bardzo możliwe.
+
+**Io**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 421,6  
+\- 17,37  
+\- 1,769 dni  
+\- ?  
+\- 3630  
+\- 0,04°  
+\- 3,57  
+\- -143  
+\- ?  
+\- nie  
+\- ?  
+\- tak  
+\- tak, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/io.jpg)
+
+  **D**rugi w kolejności od planety satelita. Odkryty została przez Galileusza i Mariusa w 1610. Twierdzi się, że nie posiada gęstego, żelaznego jądra. Powierzchnia księżyca usiana jest kraterami wulkanów, z których niektóre wykazują aktywność. Materia wulkaniczna tryska na wysokość 300 km. Materiał erupcyjny to prawdopodobnie związki siarki i dwutlenek siarki, ale badania w podczerwieni wykazały że temperatura jest za wysoka jak dla gorącej siarki i przemianowano ją na lawę krzemianową. Wewnętrzna energia powodowana jest siłami pływowymi bliskiego Jowisza (do 100 m) i pobliskimi, dużymi księżycami. Io posiada cienką atmosferę złożoną z dwutlenku siarki i domieszek. Nie wykryto wody.
+
+  **P**rzykład rzetelnej naukowej dedukcji. Skoro coś w takim kolorze i tak wielkiego nie może być ze złota, więc może być tylko z siarki. Jak zwodny jest wzrok przekonał się mój niedowidzący kolega. Idę, mówi, patrzę ... leży złotówka, pochylam się ... widzę 50 groszy, chciałem podnieść, a to ktoś napluł.
+
+**Europa**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 670,96  
+\- 13,74  
+\- 3,551 dni  
+\- ?  
+\- 3192  
+\- 0,47°  
+\- 3,01  
+\- -160  
+\- ?  
+\- tak  
+\- tak  
+\- tak  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/europa.jpg)
+
+  **T**rzeci według oddalenia od planety. Księżyc Galileuszowy. Brak gęstego, żelaznego jądra. Powierzchnia Europy jest gładka, nie zaobserwowano form wyższych niż kilkaset metrów. Zaobserwowano trzy kratery o średnicy większej niż 5 km. Jest prawdopodobne, że pod lodową powierzchnią Europy znajduję się warstwa ciekłej słonej wody, być może o głębokości 50 km. Ciemne rysy przecinające cały glob są prawdopodobnie pęknięciami skorupy lodowej. Księżyc posiada bardzo cienką warstwę atmosfery.
+
+  **J**eśli zdjęcie nie jest kompilacją kilku fotografii, to czym wytłumaczyć różnice w barwie pokrywy lodowej? Czy te rodzaje skorupy różnią się wiekiem? Jeśli tak, to czy zróżnicowanie spowodowała kolizja czy jest to wynik działalności wewnętrznej? Skorupa musiała ustalić się dawniej, bo jednolite pęknięcia skorupy przebiegają przez wszystkie obszary o różnych kolorach.
+
+**Gannimedes**
+
+  
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 1070  
+\- 10,88  
+\- 7,155 dni  
+\- ?  
+\- 5262  
+\- 0,21°  
+\- 1,94  
+\- ?  
+\- ?  
+\- tak  
+\- ?  
+\- tak  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/ganimedes.jpg)
+
+  **C**zwarty w kolejności od planety. Odkryty w 1610 przez Galileusza. Największy księżyc w Układzie Słonecznym. Posiada skaliste jądro otoczone płaszczem wody lub lodu. Powierzchnia pokryta kraterami. Gęstość występowania kraterów wskazuje na wiek od 3 do 3,5 miliardów lat (?). Cienka atmosfera zawiera tlen.
+
+  **S**trasznie dziwny kolor tego lodu. Brak charakterystycznych pęknięć jak na Europie, za to wyraźne kratery uderzeniowe. Ogromna, ciemniejsza plama przypomina zastygniętą płynną lawę (podobnie jak na naszym Księżycu)
+
+**Callisto**
+
+  
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 1883  
+\- 8,21  
+\- 16,689 dni  
+\- ?  
+\- 4800  
+\- 0,28°  
+\- 1,86  
+\- ?  
+\- ?  
+\- nie  
+\- ?  
+\- nie  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/calisto.jpg)
+
+  **P**iąty z kolei od Jowisza i czwarty księżyc odkryty przez Galileusza. Posiada skalne jądro, płaszcz złożony z wody i lodu i pokrywę lodową na powierzchni. Cała powierzchnia Callisto pokryta jest kraterami. Większe z nich są otoczone przez serię koncentrycznych okręgów. Największy krater został nazwany Valhalla. Inną ciekawą formą jest Gipul Catena, seria kraterów uderzeniowych ułożonych w bliskiej od siebie odległości w prostej linii o długości 40 km. Brak dowodów na działalność tektoniczną.
+
+  **C**hodzę tyle lat do okulisty i nie stwierdził u mnie daltonizmu. Czytając jednak naukowe twierdzenia o pokrywach lodowych na Europie, Gannimedesie i Callisto zaczynam w to wątpić. Czy lód może przybierać tak różne barwy, czy ktoś mnie robi w balona? Czy ciemne powierzchnie na powierzchni Europy i Gannimedesa nie świadczą o jakiejś kolizji z innym ciałem niebieskim?
+
+**SATURN**  
+
+![](../../zrodlo/webacja/uklad/planety/saturn.jpg)
+
+Minimalna odległość od Słońca (w mln km)  
+Maksymalna odległość od Słońca (w mln km)  
+Średnia odległość od Słońca (w mln km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła Słońca  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Promień równikowy (km)  
+Promień biegunowy (km)  
+Kąt nachylenia osi obrotu  
+Masa planety (Ziemia=1)  
+Objętość planety (Ziemia=1)  
+Gęstość planety (Woda=1)  
+Średnia temperatura na powierzchni chmur (°C)  
+Ciśnienie atmosferyczne na powierzchni (mB)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne  
+Liczba znanych księżyców
+
+\- 1347  
+\- 1507  
+\- 1427  
+\- 9,6  
+\- 29,46 lat  
+\- 10h 14m 00s  
+\- 120000  
+\- ?  
+\- ?  
+\- 26°44'  
+\- 95,2  
+\- 755  
+\- 0,7  
+\- -180  
+\- ?  
+\- 1,15  
+\- tak  
+\- tak  
+\- ?  
+\- ?, tak  
+\- 17-23
+
+  **P**laneta wyróżniająca się największym pierścieniem zbudowanym z wielkiej ilości brył lodu i skał, w zbliżeniu podobnego do płyty gramofonowej. Jest to głównie sześć oddzielnych pierścieni o grubości 1-2 km (tu uczeni są podzieleni - mówią o grubości minimum 10 metrów). Pochodzenie pierścieni jest przedmiotem spekulacji naukowych. Podobnie jak Jowisza uważa się Saturna za planetę gazową. Skład naukowy: 75% wodoru i 25% helu z domieszkami wody, metanu, amoniaku oraz okruchów skalnych. Temperatura we wnętrzu planety osiąga 12 tys.°K. Planeta, podobnie jak Jowisz, emituje w przestrzeń kosmiczną więcej energii aniżeli otrzymuje od Słońca. Według nauki pod grubą warstwą atmosfery znajduje się ocean płynnego, metalicznego wodoru i helu. Różnica temperatury między oświetloną i nieoświetloną częścią planety wynosi tylko 5°C. Wiatry na równiku osiągają prędkość 1450 km/godz.
+
+  **S**umerowie - Anshar (główny na niebie).
+
+**Mimas**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 185,54  
+\- 14,32  
+\- 0,942 dni  
+\- ?  
+\- 392  
+\- 1,52°  
+\- 1,17  
+\- -200  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/mimas.jpg)
+
+  **Z**łożony głównie z lodu oraz małych ilości skał. Dużą część powierzchni Mimasa zajmuje krater uderzeniowy nazwany Herschel o średnicy 130 km. Wysokość ścian krateru - średnio 5 km. Głębokość 10 km. Wysokość centralnego wierzchołka - 6 km powyżej dna. Pęknięcia widoczne na przeciwnej stronie Mimasa mogły powstać podczas tego samego zderzenia. Powierzchnia księżyca jest pokryta wieloma mniejszymi kraterami.
+
+**Enceladus**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 238,04  
+\- 12,64  
+\- 1,37 dni  
+\- ?  
+\- 500  
+\- 0,02°  
+\- 1,24  
+\- -201  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/enceladus.jpg)
+
+  **O**dkrył go w 1789 Herschel. Skorupa lodowa, podobno świeża i czysta. Kratery, płaskie równiny i rozległe systemy prostych rys i pęknięć. Część powierzchni jest względnie młoda, prawdopodobnie młodsza niż 100 milionów lat. Możliwe, że działa tam jakiś "wodny wulkanizm". Enceladus jest o wiele za mały by być nadal ogrzewanym przez rozpad materiałów radioaktywnych w jego wnętrzu (całe ciepło rozproszyłoby się dawno temu). Enceladus może więc być zbudowany nie z wody a z jakiejś substancji o niskiej temperaturze topnienia. Tyle nauka.
+
+**Tetyda**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 294,67  
+\- 11,36  
+\- 1,89 dni  
+\- ?  
+\- 1060  
+\- 1,09°  
+\- 1,21  
+\- ?  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/tetyda.jpg)
+
+  **O**dkrył ją Cassini w 1684. Mała gęstość Tetydy pozwala przypuszczać, że składa się ona prawie w całości z lodu wodnego, podobnie jak Dione i Rhea. Zachodnia półkula jest w większości zajmowana przez potężny krater, nazywany Odyseusz, którego średnica wynosi 400 km. Potężne uderzenie nie rozerwało Tetydy na kawałki gdyż hipotetycznie w momencie uderzenia była ona w stanie płynnym lub półpłynnym. Drugi charakterystyczny element to wielka doliną (nazywana Ithaca Chasma) szeroka na 100 km, głęboka na 3-5 km i długa na 2000 km.
+
+**Dione**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 377,42  
+\- 10,03  
+\- 2,74 dni  
+\- ?  
+\- 1120  
+\- 0,02°  
+\- 1,43  
+\- -186,56  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?
+
+![](../../zrodlo/webacja/uklad/ksiezyce/dione.jpg)
+
+  **O**dkryty w 1684 roku Cassiniego. Krąży na jednej orbicie z innym księżycem Helene, który wyprzedza ją o 60°.
+
+**Rea**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 527,04  
+\- 8,49  
+\- 4,518 dni  
+\- ?  
+\- 1530  
+\- 0,35°  
+\- 1,33  
+\- -220  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/rea.jpg)
+
+  **O**dkrywca - Cassini w 1672 r. Rhea jest bardzo podobna do Dione, chociaż jest troszkę większa. Rhea jest złożona głównie z lodu wodnego oraz skał, które stanowią mniej niż 1/3 jej masy. Na półkuli tylnej znajduję się sieć jasnych pasów na ciemnym tle oraz kilka widocznych kraterów. Półkula przednia jest gęsto pokryta kraterami i jednolicie jasna. Kratery nie posiadają wysokich piersciemi, jak te na Księżycu lub Merkurym. Temperatura na powierzchni waha się od -220°C do -174°C.
+
+**Tytan**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 1221,8  
+\- 5,58  
+\- 15,945 dni  
+\- ?  
+\- 5150  
+\- 0,33°  
+\- 1,88  
+\- -179  
+\- ?  
+\- tak  
+\- ?  
+\- nie  
+\- nie, ?
+
+![](../../zrodlo/webacja/uklad/ksiezyce/titan.jpg)
+
+  **O**dkrył go Huygens w roku 1655. Gruba atmosfera, Voyager 1 przeszedł w odległości 4000 km od powierzchni. Titan jest otoczony grubą, nieprzejrzystą atmosferą. Powierzchnia jest niewidoczna w paśmie światła widzialnego. Titan jest w połowie złożony z lodu wodnego a w połowie ze skał. Skaliste jądro o średnicy 3400 km. Na powierzchni ciśnienie wynosi 1,5 mB. Atmosferą jest złożoną głównie z cząsteczkowego azotu (97%) oraz argonu w ilości nie przekraczającej 6% i kilku procent metanu. Śladowe ilości etanu i dwutlenku węgla. Stwierdzono ruch chmur. Prędkość wiatru do około 200 km/s. Titan nie posiada pola magnetycznego i czasami znajduje się poza magnetosferą Saturna. Na powierzchni panuje temperatura około 95°K. Zdjęcia Hubble'a sugerują, że na Titanie istnieje olbrzymi, jasny "kontynent".
+
+**Japetus**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 3561,3  
+\- 3,27  
+\- 79,331 dni  
+\- ?  
+\- 1460  
+\- 14,72°  
+\- 1,21  
+\- ?  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/iapetus.jpg)
+
+  **O**dkrył go Cassini w 1671. Przy małej gęstości Japetus musi być prawie w całości złożony z lodu (wody). Japetus obiega Saturna tak, że jedna jego półkula jest zawsze skierowana w stronę planety. Półkule są radykalnie różne.
+
+**Hyperion i Phoebe**
+
+  
+  
+
+Sonda Cassini wykonała najdokładniejsze do tej pory zdjęcia Hyperiona - jednego z mniejszych księżyców Saturna. Już na pierwszy rzut oka widać, że z Hyperionem jest coś nie tak - z jakiegoś powodu nie przybrał kulistego kształtu. Na dodatek ten olbrzymi ziemniak (w najszerszym miejscu ma 360 km średnicy, w najwęższym - 225 km) bezładnie koziołkuje, jest też porowaty i trochę zaczerwieniony. Jego dziwny wygląd zaczynamy rozumieć, gdy przyjrzymy się dwóm sąsiednim księżycom - Japetusowi i Phoebe. Ten pierwszy ma bowiem jedną półkulę przybrudzoną ciemnym materiałem, natomiast Phoebe nie pochodzi wcale z układu Saturna. Najwyraźniej w tym rejonie kosmosu doszło kiedyś do wielkiego kataklizmu. Naukowcy mają nadzieję, że dzięki sondzie Cassini uda się ustalić, co naprawdę tam się stało. Może się okazać, że Hyperion jest zlepkiem luźnych kawałków materii pozostałych po dawnej katastrofie. (Karol Pankowski 29-09-2005)
+
+![](../../zrodlo/webacja/uklad/ksiezyce/hyperion.jpg)
+
+  ![](../../zrodlo/webacja/uklad/ksiezyce/phoebe.jpg)
+
+  **F**ragment "czegoś" wielkości połowy Polski, który dostąpił zaszczytnego miana "księżyca". Dane z lat 70-tych podają wymiary 175x117x100 km. Czy pochodzi z Saturna, czy też jak Phoebe (zdjęcie obok) o średnicy 110 km, jest przybłędą trudno powiedzieć. Oba kawałki bardzo różnią się od siebie. Phoebe ma wygląd kawałka nadtopionej skały, pooranej małymi kraterami, natomiast Hyperion wygląda jak wielkie skupisko dużych kryształów lodu o strukturze gąbki.  
+  **N**ie wiem, czy wyciąganie jakichkolwiek wniosków z sąsiedztwa Hyperiona ma jakiś sens, ponieważ nie wiadomo skąd i w jakim czasie te fragmenty zaistniały w okolicy Saturna. Można z powodzeniem wnioskować także, że są przechwyconymi przez pole grawitacyjne Saturna odłamkami rozbitej Tiamat.  
+  **I** jeszcze jedno. Sonda Cassini na pewno nie ustali, co tam się stało.
+
+**URAN**  
+
+![](../../zrodlo/webacja/uklad/planety/uran.jpg)
+
+Minimalna odległość od Słońca (w mln km)  
+Maksymalna odległość od Słońca (w mln km)  
+Średnia odległość od Słońca (w mln km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła Słońca  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Promień równikowy (km)  
+Promień biegunowy (km)  
+Kąt nachylenia osi obrotu  
+Masa planety (Ziemia=1)  
+Objętość planety (Ziemia=1)  
+Gęstość planety (Woda=1)  
+Średnia temperatura na powierzchni chmur (°C)  
+Ciśnienie atmosferyczne na powierzchni (mB)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne  
+Liczba znanych księżyców
+
+\- 2735  
+\- 3004  
+\- 2869,6  
+\- 6,8  
+\- 84,01 lat  
+\- -11h (wstecz)  
+\- 51800  
+\- ?  
+\- ?  
+\- 82°05'  
+\- 14,6  
+\- 67  
+\- 1,2  
+\- -210  
+\- ?  
+\- 1,17  
+\- tak  
+\- tak  
+\- ?  
+\- ?, tak  
+\- 5
+
+  **O**dkryty w roku 1781 przez Williama Herschela. Posiada system pierścieni odkryty w roku 1977. Pierścienie wirują dwukrotnie szybciej niż obrót planety dookoła własnej osi. Planeta "leżąca na boku". Teoretycznie zalicza się go do planet gazowych, choć według nauki składa się w 85% ze skał i lodu, a w 15% z wodoru z domieszką helu. Nie posiada jądra (?). Atmosfera to 83% wodoru, 15% helu i 2% metanu. Cechą Urana, nie spotykaną w układzie Słonecznym, jest równoległe w stosunku do płaszczyzny orbity położenie osi obrotu. Wraz z księżycami stanowi jakby tarczę skierowaną w stronę Słońca. Bilans energii planety jest dodatni. Więcej oddaje niż otrzymuje od Słońca. Uczeni jak zwykle mają istotny problem - który z biegunów nazwać północnym? Voyager 2 wykrył na jego powierzchni ocean przegrzanej wody (+4427°C) o grubości 10000 km.
+
+  **S**umerowie - Anu. Planeta o jasnym, zielonkawo-niebieskim kolorze, wodnista. Gdy Nibiru przechodził obok Anu, ten zrodził i wyprowadził cztery wichry (tłumaczone jako ci, którzy są u boku).
+
+  "**U**ran, to kolejny po Wenus, niewytłumaczalny "dziwoląg" w naszym układzie planetarnym. Oś obrotu planety wokół własnej osi "patrzy" w kierunku Słońca. Po stronie przeciwnej Słońcu stwierdzono duży ubytek masy. Planeta według astronomów, podobnie jak Wenus, obraca się wokół własnej osi ruchem wstecznym, lecz jest to jak sądzę rzeczą dyskusyjną, gdyż nie wiadomo, który z biegunów planety przyjęto umownie za "północny".
+
+**Miranda**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 129,4  
+\- ?  
+\- 1,414 dni  
+\- ?  
+\- 471  
+\- 4,34°  
+\- ?  
+\- ?  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/miranda.jpg)
+
+  **C**harakterystyczny szewron - prostokątny płaskowyż o 16 km skarpach.
+
+![](../../zrodlo/webacja/uklad/ksiezyce/szewron1.jpg)
+
+![](../../zrodlo/webacja/uklad/ksiezyce/szewron2.jpg)
+
+  "**O**rzech włoski" Układu Słonecznego. Nikt nie jest w stanie odpowiedzieć na pytanie, co jest powodem tak głębokich i dziwnych zniekształceń powierzchni. Na zdjęciach obok przedstawione sa widoki animacji komputerowej pokazującej czworokątny wąwóz o stromych wysokich na 16 km skarpach. Wygląda to jak ślad łyżki gigantycznej koparki, ale czym jest dokładnie nikt nie jest w stanie odpowiedzieć. Poniżej szewronu widać jakby gigantyczne nacięcia w skorupie księżyca, a może to gigantyczne pęknięcia. Rzecz nie mająca odpowiednika w całym Układzie Słonecznym.
+
+**Umbriel**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 266,3  
+\- ?  
+\- 4,144 dni  
+\- ?  
+\- 1169  
+\- 0,13°  
+\- ?  
+\- ?  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/umbriel.jpg)
+
+  **Z**ostał odkryty wraz z Arielem 24 października 1851 roku przez W. Lassella. Zdjęcia sondy Voyager 2 wykazały, że Umbriel jest ciemnym obiektem - najsłabszym i najtrudniejszym do obserwacji z czwórki największych satelitów Urana.
+
+**Titania**
+
+  
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 435,9  
+\- ?  
+\- 8,71 dni  
+\- ?  
+\- 1578  
+\- 0,08°  
+\- ?  
+\- ?  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/titania.jpg)
+
+  **O**dkryty wraz z Oberonem 11 stycznia 1787 roku przez W. Herschela. Skład: 50% lód, 50% skały.
+
+**Oberon**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 583,5  
+\- ?  
+\- 13,463 dni  
+\- ?  
+\- 1522  
+\- 0,1°  
+\- ?  
+\- ?  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/oberon.jpg)
+
+  **O**dkryty 11 stycznia 1787 r. przez W. Herschela.
+
+**NEPTUN**  
+
+![](../../zrodlo/webacja/uklad/planety/neptun.jpg)
+
+Minimalna odległość od Słońca (w mln km)  
+Maksymalna odległość od Słońca (w mln km)  
+Średnia odległość od Słońca (w mln km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła Słońca  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Promień równikowy (km)  
+Promień biegunowy (km)  
+Kąt nachylenia osi obrotu  
+Masa planety (Ziemia=1)  
+Objętość planety (Ziemia=1)  
+Gęstość planety (Woda=1)  
+Średnia temperatura na powierzchni chmur (°C)  
+Ciśnienie atmosferyczne na powierzchni (mB)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne  
+Liczba znanych księżyców
+
+\- 4456  
+\- 4537  
+\- 4496,6  
+\- 5,4  
+\- 164,8 lat  
+\- 16h  
+\- 49500  
+\- ?  
+\- ?  
+\- 28°48'  
+\- 17,2  
+\- 57  
+\- 1,7  
+\- -220  
+\- ?  
+\- 1,18  
+\- tak  
+\- tak  
+\- tak  
+\- ?, tak  
+\- 2
+
+  **O**dkryty w roku 1846. W latach 1979-1999 był najdalszą planetą naszego układu. Czwarta z planet "gazowych", podobna do Urana ale mniejsza i cięższa od niego. Podobno posiada jądro wielkości Ziemi. 85% skał i lodu i 15% wodoru i helu. Atmosfera to wodór, hel i metan. Wiatry na planecie osiągają prędkość 2000 km/godz. W atmosferze pojawia się i znika wielka plama podobna do tej z Jowisza lecz dwukrotnie mniejsza. Planeta posiada pierścień. Według JPL mieszanina kry lodowej obracajaca się wokół skalistego jądra wytwarza silne pole magnetyczne.
+
+  **S**umerowie - Ea (ten, którego domem jest woda). Określali ją jako planetę błękitno-zieloną, wodnistą z plamami o kolorze "bagnistej wegetacji".
+
+  **C**zegoś nie rozumiem. JPL mając tak doskonały model uzyskiwania silnego pola magnetycznego jeszcze go nie opatentowało? Mam doskonały pomysł. Pręt kamienny, wokół niego rurka do chłodzenia bimbru. Puszczamy "na pełny gaz" wodę z kranu i mamy doskonały elektromagnes. Stąd już tylko krok do supertanich elektrowni.
+
+**Tryton**
+
+  
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 355,3  
+\- ?  
+\- -5,887 dni (wstecz)  
+\- ?  
+\- 2706  
+\- 15,9°  
+\- ?  
+\- -235  
+\- ?  
+\- tak  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/tryton.jpg)
+
+  **O**dkryty 10 października 1846 r. przez W. Lassella. Ruch wsteczny księżyca tłumaczy się katastrofą lub przechwyceniem go z Pasa Kuipera. Jeden z najzimniejszych obiektów w Układzie Słonecznym (-235°C). Odkryto na nim gejzery wyrzucające ciekły azot (?). Atmosfera z metanu.
+
+**PLUTON**  
+
+![](../../zrodlo/webacja/uklad/planety/pluton.jpg)
+
+Minimalna odległość od Słońca (w mln km)  
+Maksymalna odległość od Słońca (w mln km)  
+Średnia odległość od Słońca (w mln km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła Słońca  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Promień równikowy (km)  
+Promień biegunowy (km)  
+Kąt nachylenia osi obrotu  
+Masa planety (Ziemia=1)  
+Objętość planety (Ziemia=1)  
+Gęstość planety (Woda=1)  
+Średnia temperatura na powierzchni chmur (°C)  
+Ciśnienie atmosferyczne na powierzchni (mB)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne  
+Liczba znanych księżyców
+
+\- 4425  
+\- 7375  
+\- 5900  
+\- 4,7  
+\- 11,86 lat  
+\- 6 dni 9h  
+\- 6000  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- -230  
+\- ?  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- ?, ?  
+\- 1
+
+  **P**laneta odkryta w 1930 roku. Porusza się po bardzo wydłużonej orbicie, przechodzącej pomiędzy Uranem i Neptunem. Przez każde 20 lat obiegu wokół Słońca Pluton znajduje się bliżej Słońca niż Neptun. Planeta mniejsza od naszego Księżyca. Bliskość obiegu Charona skłania niektórych uczonych do uznania Plutona za planetę podwójną.
+
+  **S**umerowie - Gaga. Twierdzili, że początkowo był księżycem Saturna. W wielkiej, kosmicznej bitwie wyrzucony "w nieznane miejsce" otchłani. Wtedy otrzymał nowe imię Usmi (ten, który wskazuje drogę).
+
+  **W**ygląda, jakby coś dużego "przeorało" go w połowie lub przetoczyło się po powierzchni, odsłaniając płynne wnętrze, które zastygło już w innym kolorze.
+
+**Charon**
+
+  
+  
+
+Minimalna odległość od planety (w tys km)  
+Maksymalna odległość od planety (w tys km)  
+Średnia odległość od planety (w tys km)  
+Prędkość orbitalna (km/sek)  
+Okres obiegu dookoła planety  
+Okres Obrotu wokół własnej osi  
+Średnica równika (km)  
+Nachylenie orbity  
+Gęstość księżyca (g/cm³)  
+Średnia temperatura na powierzchni (°C)  
+Przyspieszenie siły ciężkości (Ziemia=1)  
+Atmosfera  
+Wewnętrzne źródło ciepła  
+Własne pole magnetyczne  
+Działalność wulkaniczna, burze atmosferyczne
+
+\- ?  
+\- ?  
+\- 19,7  
+\- ?  
+\- 6,387 dni  
+\- ?  
+\- 1000  
+\- ?  
+\- ?  
+\- ?  
+\- ?  
+\- nie  
+\- ?  
+\- ?  
+\- nie, nie
+
+![](../../zrodlo/webacja/uklad/ksiezyce/charon.jpg)
+
+  **Z**ostał odkryty w lipcu 1978 roku przez J. Christy'ego. Jedyny w układzie księżyc stacjonarny. Powierzchnię księżyca tworzy zamarznięta woda (albo wg niektórych metan). Powstanie tandemu Pluton-Charon wiąże się z hipotezą wielkiego zderzenia w początkach historii Układu Słonecznego.
+
+  **Z**nów problem koloru zamarzniętej wody. Migdałowe kratery wyglądają na "zgniecione" falą sejsmiczną rozchodzącą się od dużego uderzenia, którego krater widoczny jest z prawej strony.
+
+**GŁĘBINY KOSMOSU**  
+
+**Pas Kuipera**
+
+  
+  
+
+  **J**est to rejon poza orbitą Neptuna w przyblizeniu w odleglosci 30 do 100 AU (jednostek astronomicznych) od Słońca składający się z małych lodowych brył. Uczeni sądzą, że jest to źródło komet krótko i średniookresowych. Wyróżnia się sześć obiektów typu Centaurus, o orbitach pomiędzy Jowiszem a Neptunem (np. Chiron i Pholus). Orbity ich nie są stabilne. Uważa się je za "zbiegów" z pasa Kuipera. Liczbę obiektów o średnicy powyżej 100 km ocenia się na około 35 tys. Niektorzy uczeni sądzą, że Tryton, Pluton i jego księżyc Charon sa przykładami największych obiektów Pasa Kuipera. Obecnie jest znanych ponad 80 obiektów tego pasa (całość szacuje się na 10 mld obiektów). Siły grawitacyjne związane z najbliższymi planetami i gwiazdami powodują, że co 2-3 lata jeden z takich obiektów staje się krążącą wokół Słońca kometą.
+
+**Chmura Oorta**
+
+  
+  
+
+  **T**eoretyczne źródło komet długookresowych i jednopojawieniowych. Hipoteza wyliczona w roku 1950 przez Jana O'orta, jak sam autor przyznał po to, by uwiarygodnić inną swoją hipotezę. Ma postać kulistej sfery, a jej "łącznikiem" z Układem Słonecznym ma być Pas Kuipera. Chmura ta składać się ma z około biliona lub więcej obiektów, które krążą wokół Słońca w odległości od 30000 AU do 1 roku świetlnego. Co kilka lat siły grawitacyjne "wyrywają" z niej obiekty, które zaczynają podróż w kierunku naszego Słońca.
+
+**T**ypowe hipotezy w rodzaju "zakrzywianie przestrzeni". Zakładamy, że coś takiego powinno być i staramy się to udowodnić przy pomocy rozumu nie mając żadnych możliwości przeprowadzenia dowodu. Jednak o ile istnienia "czarnej dziury" w żaden sposób nie jesteśmy w stanie stwierdzić ani zmysłami ani przyrządami, to przecież możemy obejrzeć obiekty z pasa Kuipera czy chmury O'orta. Wystarczy wysłać sondę na odległość tych drobnych 100-30000 jednostek astronomicznych i czekać na wiadomości. Wiadomość odbiorą już prawdopodobnie dzieci albo wnuki ale niestety nie przekażą wieści protoplastom, że pieniądze wyrzucono w błoto, bo sonda odnalazła "wielkie nic".  
+**N**ie będzie też żadnego skandalu. Po decydentach nie będzie śladu, a potomstwo nie jest winne. Może tylko odczuwać wstyd i żal, że miało tak głupich przodków.
+
+  **T**o co przedstawiłem można nazwać zaledwie "liźnięciem" problemu lub spojrzeniem z bardzo, bardzo dalekiej perspektywy. Nie mnie, laikowi, wyciągać daleko idące wnioski, skoro nawet wnioski niektórych wysokiej klasy specjalistów kłócą się ze zdrowym rozsądkiem, że wspomnę tylko super elektromagnes z kamienia i wody "made in JPL". Ile w przedstawionych zdjęciach jest "ziemskiego" retuszu, a ile fantazji obsługującego komputer też nie umiem powiedzieć. Wszystko to skłania mnie do poglądu "niewiernotomaszowskiego": nie zobaczę, nie dotknę - nie uwierzę.  
+  **T**wierdzę ponadto, że nie potrafimy badać otaczającego nas kosmosu. Nie mamy nawet podstawowego założenia co i w jakim celu badać. Brak podstawowej definicji co można nazwać planetą powoduje chaos w badaniach. Nie mamy zielonego pojęcia jak powstał Układ Słoneczny, nie możemy uzgodnić genezy komet czy planetoid. Nie wiemy co badać i przypadkowe przyrządy, na dodatek w każdym inne, umieszczamy w próbnikach wysyłanych w przypadkowych kierunkach. Szukamy życia w kosmosie nie mając nawet określonej jego definicji. Nie wiemy zatem czego szukać i wszelkie odkrycia są dziełem zwykłego przypadku. Naukowy chaos, marnowanie czasu i energii.  
+  **P**o co wybierać się na Marsa skoro nie znamy Księżyca, nie mówiąc już o samej Ziemi. Czego będziemy tam szukać? Uranu, węgla, ropy, wody? Po co, skoro i tak nie przewieziemy tego na Ziemię. Chcemy eksplorować kosmos, ale dokładnie nie wiemy po co. Chcemy zostać cywilizacją gwiazd nie mając uporządkowanych spraw na Ziemi. Zaspokojenie wygórowanych ambicji czy wyświechtanego "odwiecznego pragnienia ludzkości"? Przecież to jest czysta pycha, bezdenna głupota i kowbojszczyzna, a przede wszystkim brak odpowiedzialności za ludzkość. Wniosek nasuwa się sam. Kosmosu nie zdobędziemy i nie zdołamy uchronić życia na Ziemi. Bez pomocy z "zewnątrz" zabraknie nam czasu na stworzenie cywilizacji zdolnej to uczynić.  
+  **C**zy nie lepiej porzucić tę hipokryzję i zacząć od sprawdzenia czy starożytni nie mówili prawdy? Dowodów, że mówili prawdę jest wiele. My zaś skrzętnie je pomijamy i ambitnie wyważamy dawno otwarte drzwi.
+
+  **Spróbuję zwrócić uwagę na kilka problemów.**
+
+  **N**auka twierdzi, że nasz układ planetarny powstał z wirującej chmury pyłu. W środku wiru rzecz jasna musiał znajdować się ośrodek grawitacyjny, w którym powstało i zapłonęło nasze Słońce. Pominę okres czasu, w jakim to się działo, gdyż jak sądzę na ten temat można prowadzić tylko bezpłodną dyskusję i marnować niepotrzebnie czas. Można natomiast postawić pytanie - czy planety powstały równocześnie, czy jak przekazują Sumerowie powstawały w pewnej, określonej kolejności.  
+  **T**u jestem skłonny przyznać rację Sumerom. W momencie "zapalenia" się Słońca zaistniał też "wiatr słoneczny", którego pierwszym i ciągłym działaniem było odpychanie pyłu w głąb przestrzeni kosmicznej, który ulegał kondensacji na czole fali. Oddalanie się czoła tej fali było z pewnością rozłożone w czasie i być może stąd sumeryjska kolejność. Czy wielkość kondensacji była spowodowana gromadzeniem się pyłu w węzłach fali grawitacyjnej Słońca, czy kolejnymi "wybuchami" z jednoczesną intensyfikacją wiatru słonecznego trudno mi powiedzieć, jednak można przypuszczać, że mogło to wpływać na kolejności powstawania planet.  
+  **Z** tego wynika kolejny ważny wniosek. Układ Słoneczny powstawał jako układ "czysty". Powstawał z pyłu i nie było w nim miejsca na żadne odłamki skalne, planetoidy czy komety. Drugi wniosek, to ten, że w kosmicznej próżni powstające ciała przyjmowały kształt kuli. Hipotezę, że Ziemia powstawała w wyniku kolejnych zderzeń brył skalnych możemy spokojnie odłożyć na półkę. Żadne zderzenie odłamków skalnych nie ma wystarczającej energii, by stopić ze sobą dwie bryły w jedną całość, a zderzenie czołowe może doprowadzić tylko do ich rozbicia na mniejsze. Przykładem może być pas planetoid, gdzie przez miliardy lat jakoś nie powstał żaden większy obiekt.
+
+  **N**aukowcy w naszym układzie planetarnym odkrywają coraz więcej śladów istnienia metanu. Czy to ważne? Owszem. Ziemska nauka mówi o metanie:
+
+  **M**etan (CH4), znany także jako gaz błotny i gaz kopalniany, to najprostszy węglowodór nasycony. W temperaturze pokojowej jest bezwonnym i bezbarwnym gazem. Metan powstaje w przyrodzie w wyniku rozkładu szczątek roślinnych (gnicie celulozy bez dostępu tlenu). Stanowi też główny składnik gazu ziemnego. Jednak największym jego producentem są wszystkie organizmy trawiące pokarm. Poza organicznym pochodzeniem można otrzymywać metan sztucznie w wyniku prażenia octanu sodu z wodorotlenkiem sodu oraz za pomocą hydrolizy węgliku glinu w temperaturze 500°C lub bezpośrednio z węgla i wodoru w temperaturze 1200°C. Metan jest gazem cieplarnianym, którego wpływ na to zjawisko jest 22 razy większy niż dwutlenku węgla, a średnia zawartość w atmosferze w ciągu minionych dwustu lat wzrosła ponad dwukrotnie.
+
+  **T**o stąd między innymi australijski pomysł na poszukiwania leku zmniejszającego "wiatry" u owiec, który już wszedł w fazę realizacji.
+
+  **C**zy na powierzchniach planet notujemy temperatury rzędu 1200°C? Nie. Ziemska magma wypływająca z głębi planety nie osiąga 1000°C. Czy w ziemskiej magmie stwierdzono obecność octanu sodu, wodorotlenku sodu czy węgliku glinu? Nie. Jeśli zatem na innych ciałach niebieskich nie jest możliwe otrzymanie metanu w wyniku nieorganicznych reakcji, logiczny wniosek nasuwa się sam. Jakie zatem żywe organizmy mogą brać udział w jego wytwarzaniu na innych niż Ziemia obiektach? Z pewnością możemy wykluczyć organizmy wyższe i rośliny. Pozostają nam bakterie, ale czy takie badania były prowadzone? Czy zaproszono do nich bakteriologów? Była pewna szansa na zbadanie tego, jednak została zaprzepaszczona. W meteorycie (rzekomo z Marsa) odnaleziono coś, co przypominało najprostsze formy życia, jednak dużo mniejsze od najmniejszej bakterii.  
+  **N**a drugim końcu świata podczas badań skał w warstwach roponośnych, australijska naukowiec odkryła podobne formy życia i nazwała je nanobami. Podobno zdołano nawet wyizolować DNA. Jednak dalsze badania przerwano z powodu wstrzymania dotacji. Dlaczego? Czy to krecia robota współczesnej nauki? Chyba tak. Okazać się bowiem mogło, że albo meteoryt nie przyleciał z Marsa albo należało by zacząć wierzyć, że planety zostały "obsiane" bardzo dawno i przez kogoś, kto nie ma prawa istnieć.  
+  **N**a marginesie chciałbym postawić pytanie - skąd pewność, że znaleziony na Grenlandii meteoryt faktycznie przyleciał z Marsa? Czy ktoś pokusił się o obliczenie, jaką energią musiał dysponować uderzający w powierzchnię Marsa obiekt, zdolny wyrzucić jego odłamek poza grawitację planety? Z jaką prędkością i pod jakim kątem musiał uderzyć? Jaka była niezbędna masa obiektu by zaistniało takie zdarzenie? Jaką energię musiał posiadać sam odłamek, skoro był zdolny do pokonania sił grawitacji Jowisza? Jak to się stało, że bez przeszkód pokonał pas planetoid? Dziwny splot okoliczności, czy dlatego z Marsa bo jest rudy?
+
+  **W** kosmicznej próżni, jak zapewne wiadomo, panuje temperatura -273°C, która jest tylko o 0,16°C wyższa od temperatuty zera bezwzględnego, w której teoretycznie rozpadają się nawet atomy. Definitywny kres wszystkiego. Niżej w tabelce podaję temperatury wrzenia i topnienia dla niektórych pierwiastków i związków najczęściej wykrywanych przez ziemskie sondy w kosmosie.
+
+**Pierwiastek (związek)**
+
+**Temperatura wrzenia**
+
+**Temperatura topnienia**
+
+            Wodór  
+            Hel  
+            Tlen  
+            Azot  
+            Metan
+
+\-252,88°C  
+\-268,93°C  
+\-182,97°C  
+\-195,80°C  
+\-164,00°C
+
+\-259,13°C  
+\-272,20°C  
+\-222,80°C  
+\-210,01°C  
+\-182,60°C
+
+  **W**ymienione pierwiastki czy związki, poniżej temperatury topnienia winny stanowić ciała stałe, powyżej temperatury topnienia, a poniżej temperatury wrzenia winny osiągnąć konsystencję płynu, powyżej temperatury wrzenia powinny unosić się ponad powierzchnią. Jest tylko jeden problem. Żeby tak było, taka temperatura musi zaistnieć na powierzchni obiektu i musi być utrzymywana. I tu dotykamy problemu zasadniczego.  
+  **C**o powoduje, że niektóre ciała niebieskie emitują z wnętrza ciepło, które przez cały czas pozwala na utrzymanie temperatury na ich powierzchni? Czy źródłem ciepła mogą być żelazne jądra pod bardzo wysokim ciśnieniem? Czy ciśnienie działające na jądro, które jest wielkością stałą dla określonej, stałej masy ciała niebieskiego, jest zdolne wytwarzać w jądrze wysoką temperaturę przez okres ponad 4 mld lat? A co z ciałami, w których dopuszcza się tylko skaliste, skalisto-lodowe a nawet siarkowe jądra? Czy nie można odnieść wrażenia, że nasza współczesna nauka nie ma zielonego pojęcia z czego jest zbudowane jądro obiektów kulistych, w tym szczególnie Ziemi i Księżyca? Nawet małolaty wiedzą, że takiej energii i przez tak długi okres czasu może dostarczyć tylko jedna energia - energia jądrowa. Osobiście sądzę, że istnieje triada: \[reaktor jądrowy (jądro) - temperatura - pole magnetyczne\] i w tym kierunku winny iść badania.
+
+  **A** co z generowaniem pola magnetycznego? Czy żelazne, skaliste, lodowe lub siarkowe jądra są w stanie je wytwarzać? Czy jest możliwe, że jądra planet obracają się z inną prędkością niż pozostała część? Czy okres liczony w miliardach lat, nie jest wystarczający by zrównać te prędkości? Dlaczego, mając tak doskonałe wzorce, do tej pory żadna ziemska firma nie wyprodukowała jeszcze takiego elektromagnesu? Z bardzo prostego powodu - to nie działa, bo nie ma prawa działać!
+
+  **W** Układzie Słonecznym spotykamy tylko dwa rodzaje ciał niebieskich - kuliste i nieforemne. Badania prowadzone w kosmosie jasno dowiodły, że ciała płynne w warunkach nieważkości formują się w doskonałą kulę, przy czym pierwiastki o większym ciężarze właściwym zajmują miejsce bliżej geometrycznego środka nie tworząc przy tym żadnego stopu. Ile znamy ciał kulistych? Planety - 9, księżyców - 18 i 2 planetoidy. Doliczając Sednę i ostatnio odkrytą planetę zwaną Xena (lub 2003UB313) mamy razem 31 ciał. Reszta to większy lub mniejszy kosmiczny gruz w najrozmaitszych kształtach.  
+  **W**edług Sumerów księżyce planet zostały przez nie "zrodzone" gdy podchodził do nich Nibiru. Nasz Układ Słoneczny liczył sobie wtedy około 500 mln lat. "Świeżutkie" planety miały już być może parokilometrowe skorupy zewnętrzne, ale pod nimi gotowała się płynna masa. Być może ta właściwość powodowała, że powstałe księżyce szybko nabierały kulistego kształtu. Tiamat miała ich 11, Uran "zrodził" ich cztery, Neptun prawdopodobnie 1. Nibiru miał ich 7. Razem w układzie, oprócz planet, winny być w tym okresie 23 kuliste księżyce. Ciekawe, że razem też daje to 31 kulistych ciał.
+
+  **O**czywiście, że takiego rachunku nie można brać pod uwagę, bo przecież nie wiemy ile mogło zostać rozbitych, ile zamieniło się w pierścienie otaczające np. Saturna, a ile "zabrał" ze sobą Nibiru. Uważasz zapewne, że mieszam wzniosłą i czystą naukę z mitami starożytnych. A może staram się mieszać dzisiejszą wiedzę z "mądrością" starożytnych Sumerów? Dlaczego uparcie twierdzimy, że Sumerowie pisali bajki?
+
+  **W** Układzie Słonecznym nie ma ani jednego ciała niebieskiego, które nie miałoby blizn po uderzeniach z kosmosu. Zapewne mają je także Jowisz, Saturn, Uran i Neptun, choć nie możemy tego stwierdzić. Możemy się jednak domyślać po uderzeniu w Jowisza odłamków komety Shoemaker-Levy. To wszystko jest efektem straszliwej katastrofy kosmicznej sprzed 4 miliardów lat. Bombardowanie trwa nadal i prawdopodobieństwo uderzenia dużego obiektu w Ziemię wynosi 100%. Nie znamy tylko dnia i godziny.
+
+  **Z**akończmy weselszym akcentem. Czy nasza nauka zdołała już obliczyć o ile wcześniej od planet powstało Słońce? Oczywiście. Wynika to ze wzoru:
+
+**(ponad 4,5 mld) - (około 4,5 mld) = (ponad-około)**
+
+gdzie: wiek Słońca - ponad 4,5 mld lat, a wiek Ziemi - około 4,5 mld lat.
