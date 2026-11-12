@@ -8,6 +8,8 @@ import { dirname, extname, join, resolve, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
+import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/streamableHttp.js";
+import { createServer } from "node:http";
 import { z } from "zod";
 import { Archiwum, type Artykul } from "./archiwum.js";
 
@@ -15,7 +17,7 @@ const KATALOG_GLOWNY = process.env.ULESZKA_KATALOG ?? resolve(dirname(fileURLToP
 const ROZMIAR_CZESCI = 15000;
 const archiwum = new Archiwum(KATALOG_GLOWNY);
 
-const INSTRUKCJE = `To jest archiwum serwisu uleszka.net – prywatnej polskiej strony internetowej (ok. 2004–2007) autorstwa „Uleszki”.
+const INSTRUKCJE = `To jest archiwum serwisu uleszka.net („Uwierz we własny rozum”) – prywatnej polskiej strony internetowej z lat ok. 2004–2007, której autorem był Leszek Klimek.
 Zawiera ${archiwum.artykuly.length} stron w działach: ${archiwum.dzialy.join(", ")}.
 Tematy: dawne cywilizacje, Atlantyda, piramidy, potop, kalendarze, katastrofy kosmiczne, medycyna naturalna, zdrowie i żywność, publicystyka.
 Teksty są przeniesione bez żadnych zmian względem oryginału.
@@ -29,7 +31,9 @@ Jak pracować:
   i zawierają wiele hipotez niezgodnych z dzisiejszą nauką (szczególnie w dziale medycznym) – omawiaj je rzetelnie,
   a przy porównaniu z obecną wiedzą korzystaj z wyszukiwarki, jeśli jest dostępna, i podawaj źródła.`;
 
-const server = new McpServer({ name: "uleszka-archiwum", version: "1.0.0" }, { instructions: INSTRUKCJE });
+/** Tworzy serwer MCP z narzędziami archiwum (jeden na połączenie; archiwum jest wczytane raz, wspólne). */
+function utworzSerwer(): McpServer {
+const server = new McpServer({ name: "uleszka-archiwum", version: "1.1.0" }, { instructions: INSTRUKCJE });
 
 const tekst = (t: string) => ({ content: [{ type: "text" as const, text: t }] });
 const blad = (t: string) => ({ content: [{ type: "text" as const, text: t }], isError: true });
@@ -252,4 +256,52 @@ Wyraźnie oddzielaj zdanie autora od swojej oceny.`,
   }),
 );
 
-await server.connect(new StdioServerTransport());
+return server;
+}
+
+// ---------------- uruchomienie ----------------
+// Bez parametrów: tryb lokalny (stdio) – dla Claude Desktop / Claude Code.
+// Z PORT w zmiennych środowiskowych albo z --http: tryb internetowy (Streamable HTTP pod adresem /mcp)
+// – dla ChatGPT, Claude.ai i innych klientów łączących się przez adres URL.
+const port = process.env.PORT ?? (process.argv.includes("--http") ? "3000" : undefined);
+
+if (!port) {
+  await utworzSerwer().connect(new StdioServerTransport());
+} else {
+  const STRONA = `Serwer MCP archiwum uleszka.net (${archiwum.artykuly.length} artykułów).
+Adres dla asystenta AI: <ten adres>/mcp
+Kod i instrukcja: https://github.com/jokerwader/uleszka-archiwum
+`;
+  createServer(async (req, res) => {
+    const sciezka = new URL(req.url ?? "/", "http://localhost").pathname;
+    try {
+      if (sciezka === "/mcp") {
+        if (req.method !== "POST") {
+          res.writeHead(405, { Allow: "POST", "Content-Type": "application/json" });
+          res.end(JSON.stringify({ jsonrpc: "2.0", error: { code: -32000, message: "Method not allowed" }, id: null }));
+          return;
+        }
+        // tryb bezstanowy: każde zapytanie dostaje własny serwer i transport
+        const server = utworzSerwer();
+        const transport = new StreamableHTTPServerTransport({ sessionIdGenerator: undefined, enableJsonResponse: true });
+        res.on("close", () => {
+          void transport.close();
+          void server.close();
+        });
+        await server.connect(transport);
+        await transport.handleRequest(req, res);
+        return;
+      }
+      if (sciezka === "/" || sciezka === "/health") {
+        res.writeHead(200, { "Content-Type": "text/plain; charset=utf-8" });
+        res.end(STRONA);
+        return;
+      }
+      res.writeHead(404, { "Content-Type": "text/plain; charset=utf-8" });
+      res.end("Nie znaleziono. Serwer MCP działa pod adresem /mcp\n");
+    } catch (e) {
+      console.error(e);
+      if (!res.headersSent) res.writeHead(500).end();
+    }
+  }).listen(Number(port), "0.0.0.0", () => console.error(`Serwer MCP uleszka (HTTP) nasłuchuje na porcie ${port}, adres /mcp`));
+}

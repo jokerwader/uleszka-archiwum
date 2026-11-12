@@ -5,9 +5,27 @@
 import assert from "node:assert/strict";
 import { Client } from "@modelcontextprotocol/sdk/client/index.js";
 import { StdioClientTransport } from "@modelcontextprotocol/sdk/client/stdio.js";
+import { StreamableHTTPClientTransport } from "@modelcontextprotocol/sdk/client/streamableHttp.js";
+import { spawn, type ChildProcess } from "node:child_process";
 
+const HTTP = process.argv.includes("--http");
 const client = new Client({ name: "test", version: "1.0.0" });
-await client.connect(new StdioClientTransport({ command: process.execPath, args: ["dist/server.js"] }));
+let proces: ChildProcess | undefined;
+if (HTTP) {
+  // tryb internetowy: uruchamiamy serwer na porcie i łączymy się przez adres URL, jak ChatGPT / Claude.ai
+  const PORT = 3917;
+  proces = spawn(process.execPath, ["dist/server.js"], { env: { ...process.env, PORT: String(PORT) }, stdio: ["ignore", "ignore", "pipe"] });
+  await new Promise<void>((ok, blad) => {
+    proces!.stderr!.on("data", (d) => String(d).includes("nasłuchuje") && ok());
+    proces!.on("exit", (c) => blad(new Error(`serwer zakończył się kodem ${c}`)));
+  });
+  const strona = await fetch(`http://localhost:${PORT}/`).then((r) => r.text());
+  assert.match(strona, /Serwer MCP archiwum uleszka\.net/);
+  await client.connect(new StreamableHTTPClientTransport(new URL(`http://localhost:${PORT}/mcp`)));
+} else {
+  await client.connect(new StdioClientTransport({ command: process.execPath, args: ["dist/server.js"] }));
+}
+console.log(`Tryb: ${HTTP ? "HTTP (adres URL)" : "lokalny (stdio)"}`);
 
 type Wynik = { content: { type: string; text?: string; data?: string; mimeType?: string }[]; isError?: boolean };
 const wywolaj = async (name: string, args: Record<string, unknown>) => (await client.callTool({ name, arguments: args })) as Wynik;
@@ -89,4 +107,5 @@ await sprawdz("prompty i zasób katalogu są dostępne", async () => {
 });
 
 await client.close();
+proces?.kill();
 console.log(`\nWszystkie testy przeszły (${ok}).`);
