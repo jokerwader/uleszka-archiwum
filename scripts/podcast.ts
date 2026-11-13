@@ -20,7 +20,7 @@ import { polaczInicjaly } from "./lib/inicjaly.js";
 
 const NAZWA = "Uwierz we własny rozum – teksty Leszka Klimka";
 /** Zdanie o tym, kto przygotował podcast (czytane na końcu odcinka); puste = bez podpisu. */
-const PRZYGOTOWAL = "Podcast przygotował Mateusz Małek.";
+const PRZYGOTOWAL = "Podcast przygotował jokerwader.";
 const LIMIT = 9500; // ElevenLabs przyjmuje do 10 000 znaków naraz – zostawiamy zapas
 const slug = (s: string) =>
   s.toLowerCase().replace(/ł/g, "l").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -232,7 +232,7 @@ ${poprawki.join("\n")}
 
 ${streszczenia.join("\n\n")}
 
-Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum i podcast powstały w hołdzie śp. Leszkowi Wiktorowi Klimkowi. Podcast przygotował Mateusz Małek (jokerwader).
+Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum i podcast powstały w hołdzie śp. Leszkowi Wiktorowi Klimkowi. Podcast przygotował jokerwader.
 
 Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zastępują porady lekarza.
 
