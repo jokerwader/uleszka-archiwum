@@ -32,15 +32,19 @@ Wybierz sposób, który ci pasuje:
 |---|---|---|
 | [A. Własny GPT w ChatGPT](#a-chatgpt--własny-gpt) | użytkownicy ChatGPT | nie, tylko wgranie plików |
 | [B. Projekt w Claude](#b-claude--projekt) | użytkownicy Claude.ai | nie, tylko wgranie plików |
-| [C. Serwer MCP w Claude Desktop lub Claude Code](#c-claude-desktop--claude-code-serwer-mcp) | najlepsza jakość: AI samo przeszukuje archiwum i czyta całe artykuły | tak, Node.js |
-| [D. Serwer MCP pod adresem internetowym](#d-serwer-mcp-pod-adresem-internetowym) | ChatGPT i Claude.ai przez adres URL | nie dla użytkownika; serwer trzeba uruchomić w sieci |
+| [C. Serwer MCP w Claude Desktop lub Claude Code](#c-claude-desktop--claude-code-serwer-mcp) | działa bez internetu, na własnym komputerze | tak, Node.js |
+| [D. Serwer MCP pod adresem internetowym](#d-serwer-mcp-pod-adresem-internetowym) | **najprościej i najpełniej:** Claude.ai i ChatGPT, wszystkie narzędzia | nie, wystarczy wkleić adres |
+
+> **Najszybciej:** w Claude.ai dodaj konektor z adresem `https://uleszka-mcp-production.up.railway.app/mcp` (szczegóły w [punkcie D](#d-serwer-mcp-pod-adresem-internetowym)).
 
 ### A. ChatGPT – własny GPT
 
-1. Pobierz pliki z folderu [`dla-ai/`](dla-ai): kliknij plik, a potem *Download raw file*. Każdy dział to jeden plik, a `06-opracowania.md` zawiera streszczenia i tezy wszystkich artykułów. Całość ma ok. 5,5 MB.
+1. Pobierz pliki z folderu [`dla-ai/`](dla-ai): kliknij plik, a potem *Download raw file*.
+   - `00`–`06`: archiwum strony. Każdy dział to jeden plik, a `06-opracowania.md` zawiera streszczenia i tezy wszystkich artykułów. Razem ok. 5 MB.
+   - `07`–`17`: biblioteka, czyli pełne teksty 30 dawnych dzieł, na które powołuje się autor (Platon, Herodot, Księga Henocha, Popol Vuh, Mahabharata…). Są potrzebne, gdy AI ma sprawdzać, co naprawdę mówi źródło. Razem ok. 32 MB.
 2. W ChatGPT: **Odkrywaj GPT → Utwórz → Konfiguruj**.
 3. W polu **Instrukcje** wklej tekst z [docs/instrukcje-asystenta.md](docs/instrukcje-asystenta.md).
-4. W sekcji **Wiedza** wgraj pliki z `dla-ai/`.
+4. W sekcji **Wiedza** wgraj pliki z `dla-ai/`. Wszystkie 18 mieszczą się w limicie ChatGPT (20 plików). Jeśli chcesz, wgraj tylko część biblioteki.
 5. Włącz **Wyszukiwanie w sieci**, żeby GPT mógł porównywać tezy z dzisiejszą wiedzą.
 6. Zapisz. Jeśli wybierzesz *Każdy, kto ma link*, możesz udostępnić rozmowę z archiwum innym.
 
@@ -48,7 +52,7 @@ Wybierz sposób, który ci pasuje:
 
 1. Na [claude.ai](https://claude.ai) utwórz **nowy projekt**.
 2. W **Instrukcjach projektu** wklej tekst z [docs/instrukcje-asystenta.md](docs/instrukcje-asystenta.md).
-3. W **Wiedzy projektu** dodaj pliki z [`dla-ai/`](dla-ai). Możesz je wgrać ręcznie albo przez *Dodaj z GitHub* wybrać to repozytorium i folder `dla-ai`.
+3. W **Wiedzy projektu** dodaj pliki z [`dla-ai/`](dla-ai). Możesz je wgrać ręcznie albo przez *Dodaj z GitHub* wybrać to repozytorium i folder `dla-ai`. Jeśli projekt nie przyjmie wszystkiego, wgraj pliki `00`–`06` (archiwum) i tylko te książki z `07`–`17`, których potrzebujesz. Pełną bibliotekę bez limitu daje konektor z punktu D.
 4. Rozmawiaj w tym projekcie.
 
 ### C. Claude Desktop / Claude Code (serwer MCP)
@@ -105,20 +109,27 @@ Gotowe polecenia (prompty) dostępne w Claude:
 
 ### D. Serwer MCP pod adresem internetowym
 
-Ten sam serwer może działać w internecie. Wtedy wystarczy wkleić jego adres:
+Serwer archiwum działa publicznie w internecie, bezpłatnie dla użytkowników i bez logowania. Ma te same 11 narzędzi i 3 gotowe polecenia co w punkcie C.
 
-- w **Claude.ai**: *Ustawienia → Konektory → Dodaj własny konektor*,
-- w **ChatGPT** (plany płatne): *Ustawienia → Aplikacje i konektory → tryb deweloperski → Utwórz konektor*.
+**Adres serwera:**
 
-Publiczny adres: *jeszcze nie uruchomiony*.
+```
+https://uleszka-mcp-production.up.railway.app/mcp
+```
 
-Każdy może uruchomić własny serwer, np. na Railway, Render albo własnym serwerze:
+- **Claude.ai** (także w aplikacji na telefon): *Ustawienia → Konektory → Dodaj własny konektor*. Nazwa: `uleszka`, adres jak wyżej. Potem w rozmowie włącz konektor ikoną narzędzi pod polem wiadomości.
+- **ChatGPT** (plany płatne): *Ustawienia → Aplikacje i konektory → Zaawansowane → tryb deweloperski*, potem *Utwórz*. Wklej adres i wybierz uwierzytelnianie *Brak*.
+- **Inne programy obsługujące MCP** (Cursor, VS Code, LM Studio…): dodaj serwer typu „HTTP” / „Streamable HTTP” z tym adresem.
+
+Serwer ma limit 120 zapytań na minutę z jednego adresu, żeby nikt go nie przeciążył. Zwykła rozmowa nie zbliża się do tego limitu.
+
+Możesz też uruchomić własną kopię, np. na Railway (plik [`railway.json`](railway.json) jest gotowy), Render albo własnym serwerze. Serwer potrzebuje ok. 1 GB pamięci.
 
 ```bash
 PORT=3000 npm start
 ```
 
-Serwer odpowiada pod adresem `/mcp` (protokół MCP Streamable HTTP).
+Serwer odpowiada pod adresem `/mcp` (protokół MCP Streamable HTTP). Pod adresem `/health` zwraca krótki opis. Działanie serwera zdalnego sprawdza `npx tsx scripts/test-mcp.ts --url <adres>`.
 
 ---
 
@@ -156,7 +167,7 @@ To repozytorium zachowuje stronę w pierwotnym układzie działów, razem ze zdj
 |---|---|
 | [`KATALOG.md`](KATALOG.md) | Spis treści: 148 stron w kolejności z menu strony, w działach |
 | [`artykuly/`](artykuly) | Każda strona jako osobny plik Markdown, z opisem (tytuł, dział, adres oryginału) i zdjęciami |
-| [`dla-ai/`](dla-ai) | Całe archiwum w kilku plikach do wgrania do ChatGPT lub Claude (sposoby A i B) |
+| [`dla-ai/`](dla-ai) | Całe archiwum i biblioteka w 18 plikach do wgrania do ChatGPT lub Claude (sposoby A i B) |
 | [`zrodlo/`](zrodlo) | Oryginalna kopia strony: pliki HTML i ok. 1500 zdjęć, bajt w bajt |
 | [`opracowania/`](opracowania) | Opracowania AI każdego artykułu (JSON) i [ich spis](opracowania/README.md) |
 | [`biblioteka/`](biblioteka) | 30 dawnych dzieł z domeny publicznej, na które powołuje się autor ([spis](biblioteka/README.md)) |

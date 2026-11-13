@@ -10,9 +10,15 @@ import { spawn, type ChildProcess } from "node:child_process";
 import { existsSync } from "node:fs";
 
 const HTTP = process.argv.includes("--http");
+// --url <adres>: testuje działający już serwer w internecie, np. --url https://uleszka-mcp-production.up.railway.app
+const URL_ZDALNY = process.argv.includes("--url") ? process.argv[process.argv.indexOf("--url") + 1] : undefined;
 const client = new Client({ name: "test", version: "1.0.0" });
 let proces: ChildProcess | undefined;
-if (HTTP) {
+if (URL_ZDALNY) {
+  const baza = URL_ZDALNY.replace(/\/(mcp)?$/, "");
+  assert.match(await fetch(`${baza}/health`).then((r) => r.text()), /Serwer MCP archiwum uleszka\.net/);
+  await client.connect(new StreamableHTTPClientTransport(new URL(`${baza}/mcp`)));
+} else if (HTTP) {
   // tryb internetowy: uruchamiamy serwer na porcie i łączymy się przez adres URL, jak ChatGPT / Claude.ai
   const PORT = 3917;
   proces = spawn(process.execPath, ["dist/server.js"], { env: { ...process.env, PORT: String(PORT) }, stdio: ["ignore", "ignore", "pipe"] });
@@ -26,7 +32,7 @@ if (HTTP) {
 } else {
   await client.connect(new StdioClientTransport({ command: process.execPath, args: ["dist/server.js"] }));
 }
-console.log(`Tryb: ${HTTP ? "HTTP (adres URL)" : "lokalny (stdio)"}`);
+console.log(`Tryb: ${URL_ZDALNY ? `serwer zdalny ${URL_ZDALNY}` : HTTP ? "HTTP (adres URL)" : "lokalny (stdio)"}`);
 
 type Wynik = { content: { type: string; text?: string; data?: string; mimeType?: string }[]; isError?: boolean };
 const wywolaj = async (name: string, args: Record<string, unknown>) => (await client.callTool({ name, arguments: args })) as Wynik;
