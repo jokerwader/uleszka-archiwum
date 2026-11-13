@@ -155,47 +155,11 @@ A co sądzisz o ostatnim zdjęciu? Postacie ludzkie z przyczepionymi brodami, al
 
 Nie mniej ciekawe są oznaczenia graficzne występujące często na głowach Bogów lub tuż nad nimi. Niekiedy powtarzają się przy różnych Bogach, a także mogą występować po kilka przy jednym. Sądzę, że tak starożytni oznaczali "specjalności" poszczególnych Bóstw. Nie wiem czemu, ale kojarzy mi się to ze specjalnościami wojskowymi lub z przynależnością do danego korpusu specjalistów. Najczęściej spotykanym znakiem jest krzyż życia - Ankh oznaczający chyba, że Bóg żyje wiecznie. Był z pewnością zarezerwowany tylko dla Bogów, a spotkanie go w ręku faraona jest zapewne świętokradztwem i chyba stosowane było już w czasach współczesnych w celu dodania splendoru królowi.
 
-![](../../zrodlo/webacja/insygnia/atrybut1.gif)  
-Hathor
-
-![](../../zrodlo/webacja/insygnia/atrybut9.gif)  
-Honsu
-
-![](../../zrodlo/webacja/insygnia/atrybut3.gif)  
-Neftyda
-
-![](../../zrodlo/webacja/insygnia/atrybut4.gif)  
-Izyda
-
-![](../../zrodlo/webacja/insygnia/atrybut5.gif)  
-Seshat
-
-![](../../zrodlo/webacja/insygnia/atrybut6.gif)  
-Maat
-
-![](../../zrodlo/webacja/insygnia/atrybut7.gif)  
-Ra
-
-![](../../zrodlo/webacja/insygnia/atrybut16.gif)  
-Neith
-
-![](../../zrodlo/webacja/insygnia/atrybut15.gif)  
-Thot
-
-![](../../zrodlo/webacja/insygnia/atrybut10.gif)  
-Meret
-
-![](../../zrodlo/webacja/insygnia/atrybut11.gif)  
-Nut
-
-![](../../zrodlo/webacja/insygnia/atrybut12.gif)  
-Anat
-
-![](../../zrodlo/webacja/insygnia/atrybut13.gif)  
-Hathor
-
-![](../../zrodlo/webacja/insygnia/atrybut14.gif)  
-Sopdet
+| ![](../../zrodlo/webacja/insygnia/atrybut1.gif) | ![](../../zrodlo/webacja/insygnia/atrybut9.gif) | ![](../../zrodlo/webacja/insygnia/atrybut3.gif) | ![](../../zrodlo/webacja/insygnia/atrybut4.gif) | ![](../../zrodlo/webacja/insygnia/atrybut5.gif) | ![](../../zrodlo/webacja/insygnia/atrybut6.gif) | ![](../../zrodlo/webacja/insygnia/atrybut7.gif) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Hathor | Honsu | Neftyda | Izyda | Seshat | Maat | Ra |
+| ![](../../zrodlo/webacja/insygnia/atrybut16.gif) | ![](../../zrodlo/webacja/insygnia/atrybut15.gif) | ![](../../zrodlo/webacja/insygnia/atrybut10.gif) | ![](../../zrodlo/webacja/insygnia/atrybut11.gif) | ![](../../zrodlo/webacja/insygnia/atrybut12.gif) | ![](../../zrodlo/webacja/insygnia/atrybut13.gif) | ![](../../zrodlo/webacja/insygnia/atrybut14.gif) |
+| Neith | Thot | Meret | Nut | Anat | Hathor | Sopdet |
 
 U góry pokazałem kilkanaście takich oznaczeń z imieniem Boga, który takiego atrybutu używał. Muszę przyznać, że spotkałem się z przypadkiem używania niektórych "odznak" przez kilku Bogów jednocześnie. Niektóre wizerunki kojarzą mi się z techniką, niektóre z rolnictwem.
 

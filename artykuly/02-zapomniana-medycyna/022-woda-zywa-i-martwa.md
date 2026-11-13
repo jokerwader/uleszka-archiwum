@@ -84,72 +84,39 @@ Wiele osób zadaje pytanie, czy w kuracji wodą "żywą" i "martwą" można rów
 
 **Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.**
 
-| --- |   |
-| --- | --- |
 | 🟩 **Angina** | 🟩 **•** Co 4 godziny płukać gardło "martwą" wodą, po każdym płukaniu pić 1/2 szklanki wody "żywej" w ciągu 4 dni. Gorączka obniża się po jednym dniu a wyleczenie w 3 dniu. |
-| --- |   |
+| --- | --- |
 | 🟩 **Choroby kobiece**<br>(zapalenie, swędzenie, upławy) | 🟩 **•** Przez 4 dni, 2 razy dziennie pić po 1/2 szklanki wody "martwej". Podmywać się rano i wieczorem ciepłą wodą "martwą" przez 7 dni. Następnie przez 4 dni pić wodę "żywą" 1/2 szklanki dziennie. |
-| --- |   |
-| 🟩 **Ciśnienie krwi - przywrócenie normalnego** | 🟩 **•** Co 8 godzin przed posiłkiem pić 3/4 szklanki wody "żywej".<br>---<br>**•** 2 razy dziennie pić 1/2 szklanki wody "żywej" z 3 łyżkami soku z buraka czerwonego. |
-| --- |   |
+| 🟩 **Ciśnienie krwi - przywrócenie normalnego** | 🟩 **•** Co 8 godzin przed posiłkiem pić 3/4 szklanki wody "żywej".<br>**•** 2 razy dziennie pić 1/2 szklanki wody "żywej" z 3 łyżkami soku z buraka czerwonego. |
 | 🟩 **Depresja, stany lękowe, ból głowy** | 🟩 **•** Sól litu rozprowadzić w 1/2 litra wody "żywej". Pić 2 razy dziennie przez 6 tygodni, 1 łyżeczkę na 20 minut przed posiłkiem. |
-| --- |   |
 | 🟩 **Dziąsła - ropne zapalenie** | 🟩 **•** Co 3 godziny płukać gardło i dziąsła wodą "martwą". Pić 3 razy dziennie po 1/2 szklanki wody "żywej". Choroba ustępuje w ciągu 2-3 dni. |
-| --- |   |
 | 🟩 **Gardło - zapalenie (chrypka)** | 🟩 **•** Co 3 godziny płukać gardło wodą "martwą", pić 2 razy dziennie po 1/2 szklanki wody "żywej". Poprawa następuje po 2 dniach. |
-| --- |   |
 | 🟩 **Głowa - ból przewlekły** | 🟩 **•** Wypić jeden raz 1/2 szklanki wody "martwej" i po 30 minutach 1/2 szklanki wody "żywej". Ból ustępuje po 60 minutach. |
-| --- |   |
 | 🟩 **Gruczoł krokowy - obrzęk** | 🟩 **•** Co 4 godziny w ciągu 9 dni na 30 minut przed posiłkiem pić 1/2 szklanki wody "żywej". Po kilku dniach wydziela się śluz, następuje częste oddawanie moczu, w ciągu 9 dni wyzdrowienie. |
-| --- |   |
 | 🟩 **Grypa** | 🟩 **•** 6 razy dziennie płukać gardło i wnętrze nosa wodą "martwą". Pić 2 razy dziennie po 1/2 szklanki wodę "żywą". Grypa ustępuje w ciągu doby. |
-| --- |   |
 | 🟩 **Hemoroidy** | 🟩 **•** Pęknięcia przemywać przez 2 dni rano i wieczorem wodą "martwą", po wyschnięciu przykładać tampony zwilżone wodą "żywą" co 3 godziny. Pić przez 1 dzień 2 razy po 1/2 szklanki wody "martwej". Ustępuje krwawienie, a po 2-4 dniach następuje zagojenie. |
-| --- |   |
 | 🟩 **Jelita - nieżyt** | 🟩 **•** Zrobić okład na podbrzusze z wody "martwej" o temperaturze 37-40°C. Po 15 minutach obmyć "żywą" wodą. Zabieg można powtarzać. |
-| --- |   |
 | 🟩 **Jelito cienkie - zaburzenia** | 🟩 **•** Płótno zwilżyć ciepłą "żywą" wodą i zrobić okład na 30 minut przed snem, wypić 1/2 szklanki wody "martwej". Okłady można stosować przez 3-4 dni. |
-| --- |   |
 | 🟩 **Kolana opuchnięte** | 🟩 **•** Rano i wieczorem - okłady z wody "martwej". Pić wodę "żywą" 2 razy dziennie po 1/2 szklanki przez 4-7 dni. |
-| --- |   |
 | 🟩 **Korzonki nerwowe - zapalenie** | 🟩 **•** W ciągu 7 dni, 3 razy dziennie, na 20 minut przed posiłkiem pić 3/4 szklanki wody "żywej". Bóle powinny ustąpić już w drugim dniu. |
-| --- |   |
 | 🟩 **Liszaj** | 🟩 **•** Rano obmyć chore miejsca ciepłą "martwą" wodą. Na noc zrobić okłady z wody "żywej". Pić 2 razy dziennie 1/2 szklanki wody "żywej" przez 3-6 dni. Choroba zanika powoli. |
-| --- |   |
 | 🟩 **Nogi - obrzęk** | 🟩 **•** Co 4 godziny pić 1/2 szklanki wody "żywej" przed posiłkiem przez 4 dni. |
-| --- |   |
 | 🟩 **Nogi - potliwość** | 🟩 **•** Przez 15 minut wymoczyć nogi w krochmalu. Po wyschnięciu moczyć nogi przez 20 minut w wodzie "martwej". Przemyć wewnątrz obuwie "martwą" wodą, Zabieg powtarzać co 2 dni do skutku. |
-| --- |   |
 | 🟩 **Oparzenie** | 🟩 **•** Jeżeli są pęcherze - przekłuć, przemyć "martwą" wodą. Po wyschnięciu (po około 10 minutach) zwilżać wodą "żywą" 4-8 razy w ciągu dnia. Po 24 godzinach ustępuje zaczerwienienie i szybko się goi nie pozostawiając blizn. |
-| --- |   |
 | 🟩 **Rana ropiejąca** | 🟩 **•** Ranę obłożyć lnianym płótnem zwilżonym wodą "martwą". Płótna nie odrywać, a zwilżać. Po wyschnięciu obłożyc płótnem zwilżonym wodą "żywą" i po wyschnięciu zwilżać przez 2 dni. Nastepnie zdjąć opatrunek i przemywać tylko "żywą" wodą. Rana goi się w ciągu 2-3 dni. |
-| --- |   |
-| 🟩 **Samopoczucie - polepszenie** | 🟩 **•** Rano i wieczorem pić po 1/2 szklanki wody "żywej" z 1 łyżeczką miodu spadziowego.<br>---<br>**•** 2 razy dziennie płukać jamę ustną martwą "wodą", raz dziennie wypić 1/2 szklanki wody "żywej". |
-| --- |   |
+| 🟩 **Samopoczucie - polepszenie** | 🟩 **•** Rano i wieczorem pić po 1/2 szklanki wody "żywej" z 1 łyżeczką miodu spadziowego.<br>**•** 2 razy dziennie płukać jamę ustną martwą "wodą", raz dziennie wypić 1/2 szklanki wody "żywej". |
 | 🟩 **Skaleczenie** | 🟩 **•** Miejsce skaleczenia przemyć "żywą" wodą i założyć opatrunek. |
-| --- |   |
 | 🟩 **Stawy - ból** | 🟩 **•** Co 4 godziny pić 1/2 szklanki wody "martwej" w ciągu 2-3 dni przed jedzeniem. Ból ustępuje po 2 dniach. |
-| --- |   |
 | 🟩 **Sterylizacja** | 🟩 **•** Przedmioty skażone przemyć wodą "martwą" i osuszyć. Ciało również obmywać wodą "martwą" Można myć ręce i owoce. Woda "martwa" niszczy bakterie. |
-| --- |   |
 | 🟩 **Stopy - zgrubienie skóry** | 🟩 **•** Nogi moczyć w krochmalu około 15-20 minut i osuszyć. Następnie przez 20 minut moczyć w gorącej "martwej" wodzie, pocierając pumeksem zgrubienie. Po kilku kąpielach zgrubienia zostaną usunięte. |
-| --- |   |
 | 🟩 **Szyja - zaziębienie** | 🟩 **•** Lniane płótno zwilżone w ciepłej wodzie "martwej" nałożyć na ciało i okręcić wełnianym szalikiem. Okład zmieniać co 3 godziny. Pić 2 razy dziennie po 1/2 szklanki wody "żywej". Choroba ustępuje w ciągu 2 dni. |
-| --- |   |
 | 🟩 **Trądzik** | 🟩 **•** Przemywać chore miejsca ciepłą wodą "martwą" przed snem. Pić 2 razy dziennie po 1/2 szklanki wody "żywej". Zrewidować odżywianie. Choroba ustępuje po 3-7 dniach. |
-| --- |   |
 | 🟩 **Twarz - higiena** | 🟩 **•** Rano i wieczorem umyć twarz wodą "martwą", a następnie nacierać wacikiem zmoczonym w wodzie "żywej. Cera staje się jasna i znikają przebarwienia. |
-| --- |   |
 | 🟩 **Watroba - zapalenie** | 🟩 **•** Co 3 godziny pić 1/2 szklanki "martwej" wody przez 3 dni. Następnie przez 2 dni pić wodę "żywą" 2 razy dziennie po 1/2 szklanki. |
-| --- |   |
 | 🟩 **Uszy - szum, swędzenie** | 🟩 **•** Waciki zwilżone w ciepłej "żywej" wodzie wkładać do uszu wieczorem. Rano przemywać "martwą" wodą przez 3-4 dni. |
-| --- |   |
 | 🟩 **Zęby - ból** | 🟩 **•** Płukać jamę ustną wodą "martwą około 10 minut. |
-| --- |   |
 | 🟩 **Żylaki** | 🟩 **•** Krwawiące pęknięcia przemyć wodą "martwą". Następnie zmoczyć wodą "żywą" lniane płótno i obłożyć chore miejsca na 3 godziny. Pić 1 raz dziennie 1/2 szklanki wody "martwej" i następnie co 6 godzin 1/2 szklanki wody "żywej". Tak postępować przez 3 dni. Następuje rozszerzenie żył i rany zaczynają się goić. |
-| --- |   |
-| 🟩 **Stany nowotworowe<br>Osłabienie organizmu<br>Niewłaściwe odżywianie<br>Brak mikroelementów** | 🟩 **•** Preparat TP1 rozprowadzić w 1/2 litra wody "żywej", pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Następnie preparat TP2 rozprowadzić w 1/2 litra wody "żywej", pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Szczególnie wskazany w stanach pooperacyjnych, nowotworach żołądka i jelit.<br>---<br>TP1 i TP2 - [preparaty](http://www.dr.podbielski.pl/index.php?go=news6) dr Tadeusza Podbielskiego. TP1 - cena 11,00 zł i<br>TP2 - cena 12,00 zł. można [kupić](http://www.sklep.podbielski.pl/index.php?categoryID=78&PHPSESSID=b80330464974a85052cfdc758158c3b1). |
-| --- |   |
+| 🟩 **Stany nowotworowe<br>Osłabienie organizmu<br>Niewłaściwe odżywianie<br>Brak mikroelementów** | 🟩 **•** Preparat TP1 rozprowadzić w 1/2 litra wody "żywej", pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Następnie preparat TP2 rozprowadzić w 1/2 litra wody "żywej", pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Szczególnie wskazany w stanach pooperacyjnych, nowotworach żołądka i jelit.<br>TP1 i TP2 - [preparaty](http://www.dr.podbielski.pl/index.php?go=news6) dr Tadeusza Podbielskiego. TP1 - cena 11,00 zł i<br>TP2 - cena 12,00 zł. można [kupić](http://www.sklep.podbielski.pl/index.php?categoryID=78&PHPSESSID=b80330464974a85052cfdc758158c3b1). |
 
 **Woda "żywa", "martwa" i zioła**
 
@@ -167,58 +134,31 @@ Bardzo mało wiem o wzajemnym oddziaływaniu człowiek-zioła-woda "żywa". Mam 
 
 **Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.**
 
-| --- |   |
+| 🟩 **Angina** | 🟩 **Zioła** - liść orzecha (10 g), majeranek (15 g), tymianek (10 g), nagietek (20 g), eukaliptus, lipa (20 g), szałwia (15 g).<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", 3-7 dni płukać gardło 2 razy dziennie jednym z ziół zalanych wodą "martwą". Pić 2 razy dziennie 1/2 szklanki wody "żywej".<br>**Efekty** - w ciągu kilku godzin gorączka obniża się, a choroba ustępuje w ciągu 3-4 dni. Z eukaliptusa można robić inhalacje. |
 | --- | --- |
-| 🟩 **Angina** | 🟩 **Zioła** - liść orzecha (10 g), majeranek (15 g), tymianek (10 g), nagietek (20 g), eukaliptus, lipa (20 g), szałwia (15 g).<br>---<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", 3-7 dni płukać gardło 2 razy dziennie jednym z ziół zalanych wodą "martwą". Pić 2 razy dziennie 1/2 szklanki wody "żywej".<br>---<br>**Efekty** - w ciągu kilku godzin gorączka obniża się, a choroba ustępuje w ciągu 3-4 dni. Z eukaliptusa można robić inhalacje. |
-| --- |   |
-| 🟩 **Anemia** | 🟩 **Zioła** - pokrzywa (20 g), wilżyna (10 g), poziewnik (5 g), tobołki posp. (10 g), świetlik łąkowy (20 g),<br>owoc róży (20 g), ogórecznik (20 g), rzepik (15 g), bukwica (15 g).<br>---<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", następnie pić napar z ziół "żywą" wodą 2 razy dziennie po 1 szklance. Dodatkowo można 1 raz dziennie zjeść 1 łyżeczkę sproszkowanej kozieradki z miodem.<br>---<br>**Efekty** - przed kuracją sprawdzić morfologie krwi, po 7 dniach powtórzyć - wyniki będą lepsze. Można przedłużyć picie ziół do 2 tygodni. |
-| --- |   |
-| 🟩 **Bezsenność** | 🟩 **Zioła** - kolendra (10 g), owoc bzu czarnego (10 g), liść jeżyny (15 g), melisa (10 g), owoc jarzębiny (15 g),<br>liść borówki (5 g).<br>---<br>**Leczenie** - przed snem pić 1 szklankę naparu "żywej" wody z ziół przez 2-4 dni. Kuracje można powtarzać.<br>---<br>**Efekty** - organizm się wycisza i wraca sen. |
-| --- |   |
-| 🟩 **Biegunka** | 🟩 **Zioła** - zielona herbata (), szyjka rakowa ().<br>---<br>**Leczenie** - wypić 1/2 szklanki wody "martwej". Co 7 godzin zażyć 1/2 łyżeczki sproszkowanej herbaty lub szyjki rakowej (do wyboru) popijając 1/2 szklanki ciepłej "żywej" wody.<br>---<br>**Efekty** - bóle ustępują, biegunka ustaje. |
-| --- |   |
-| 🟩 **Choroba<br>popromienna** | 🟩 **Zioła** - herbata zielona (15 g), pokrzywa (20 g).<br>---<br>**Leczenie** - przez 3 miesiące, 2 razy dziennie pić po 1/2 szklanki naparu wody "żywej" i ziół. Można używać naparu ze zwykłej wody w wypadku braku wody "żywej".<br>---<br>**Efekty** - wzmacnia, nie dopuszcza do powstania anemii, wzmacnia siły obronne organizmu. |
-| --- |   |
-| 🟩 **Dziąsła<br>zapalenie** | 🟩 **Zioła** - kolanchola (), propolis ().<br>---<br>**Leczenie** - w ciągu dnia płukać jamę ustną 2-6 razy wodą "martwą" a potem roztworem wody "żywej" z propolisem lub kalancholą 1-2 razy.<br>---<br>**Efekty** - brak danych. |
-| --- |   |
-| 🟩 **Głowa<br>ból** | 🟩 **Zioła** - lipa (10 g), macierzanka (30 g), bukwica (20 g).<br>---<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", pić 2 razy dziennie 1/2 szklanki naparu ziół "żywą" wodą od 2 do 3 dni.<br>---<br>**Efekty** - po 15-20 minutach ból głowy ustępuje. W razie nawrotu bólu kurację powtórzyć. |
-| --- |   |
-| 🟩 **Hemoroidy** | 🟩 **Zioła** - cebula (), kora dębu (), len (), kozieradka (), perz (), płatki róży ().<br>---<br>**Leczenie** - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody "martwej", następnie 1 raz dziennie 1/2 szklanki wody "żywej". Z naparu "żywą" wodą jednego z ziół robić przymoczki na chore miejsce lub tamponami z wody kilka razy dziennie przez 2-5 dni.<br>---<br>**Efekty** - krwawienia ustępują i zagojenie ran następuje w ciągu kilku dni. |
-| --- |   |
-| 🟩 **Menstruacja<br>bolesna** | 🟩 **Zioła** - kora kaliny (15 g), krwawnik (10 g), kwiat orlika (5 g) lub mięta pieprzowa (15 g).<br>---<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", następnie 1-2 dni przed okresem pić napar z ziół wodą "żywą" 2 razy dziennie po 1/2 szklanki.<br>---<br>**Efekty** - kuracje przeprowadzać przez okres 3 miesięcy przed okresem. |
-| --- |   |
-| 🟩 **Moczopędne** | 🟩 **Zioła** - perz (10 g), ogórecznik (20 g), wrzos (10 g), bławatek (10 g), ręcznica (15 g),<br>liść porzeczki czarnej (20 g), fiołek (10 g), liść poziomki (10 g).<br>---<br>**Leczenie** - napar z ziół "żywą" wodą" pić 2 razy dziennie po 1 szklance przez 3-4 dni.<br>---<br>**Efekty** - oczyszcza nerki. |
-| --- |   |
-| 🟩 **Nerki<br>stan zapalny** | 🟩 **Zioła** - ogórecznik ().<br>---<br>**Leczenie** - przez 1 dzień pić 3 razy po 1/2 szklanki wody "martwej" i następnie przez 3-6 dni napar z ogórecznika wodą "żywą" 2 razy dziennie po 1/2 szklanki.<br>---<br>**Efekty** - brak danych. |
-| --- |   |
-| 🟩 **Nogi<br>bóle i obrzęki** | 🟩 **Zioła** - podbiał (20 g), storczyk (10 g), rozmaryn (15 g), skrzyp (20 g), ogórecznik (20 g).<br>---<br>**Leczenie** - przez 1 dzień pić 2 razy po 1/2 szklanki wody "martwej", następnie 2 razy napar z ziół wodą "żywą" po 1/2 szklanki. Stosować 2-3 dni.<br>---<br>**Efekty** - bóle ustępują po drugim dniu kuracji, obrzęki po kilku dniach. |
-| --- |   |
-| 🟩 **Oparzenia** | 🟩 **Zioła** - kopytnik (10 g), podbiał (10 g), babka lancetowata (10 g), liść poziomki (10 g), dziewanna (10 g), mniszek (10 g), lebiodka (20 g).<br>---<br>**Leczenie** - chore miejsca przemyć wodą "martwą", potem w ciągu dnia robić okłady z naparu "żywą" wodą" jednego z podanych ziół. Okłady robić wyłącznie lnianym płótnem i po wyschnięciu powtarzać 3-4 razy dziennie.<br>---<br>**Efekty** - rany goją się bardzo szybko i nie ma blizn. |
-| --- |   |
-| 🟩 **Rana<br>ropiejąca** | 🟩 **Zioła** - aloes (20 g), żywokost (15 g), kozieradka (10 g), torfowiec (15 g).<br>---<br>**Leczenie** - przemyć ranę wodą "martwą", następnie zrobić opatrunek naparem "żywej" wody jednego z ziół. Wyschnięty opatrunek nawilżać wodą "żywą". Robić to 2-3 razy dziennie.<br>---<br>**Efekty** - brak danych. |
-| --- |   |
-| 🟩 **Serce<br>arytmia** | 🟩 **Zioła** - melisa (15 g), kwiat głogu (20 g), wrzos (10 g).<br>---<br>**Leczenie** - 2 razy dziennie wypić 1/2 szklanki naparu ziół "żywą" wodą przez 6-7 dni.<br>---<br>**Efekty** - poprawa bardzo widoczna. Kurację można powtarzać co 2 tygodnie. |
-| --- |   |
-| 🟩 **Skóra<br>liszaje** | 🟩 **Zioła** - żywokost (15 g), kozieradka (10 g), skrzyp (5 g), barwinek (10 g), konopie (20 g),<br>korzeń pokrzywy (10 g), torfowiec (10 g).<br>---<br>**Leczenie** - w ciągu 2 dni rano obmywać chore miejsca wodą "martwą", następnie sproszkowane jedno z ziół połączone z wodą "żywą" nałożyć na lniane płótno i 2 razy dziennie robić ciepły okład na 15-20 minut. Stosować 2-7 dni.<br>---<br>**Efekty** - po pierwszym dniu ognisko choroby zanika, skóra wraca do zdrowia. |
-| --- |   |
-| 🟩 **Spojówki<br>zapalenie<br>(jeczmień)** | 🟩 **Zioła** - \[1\] świetlik łąkowy (10 g), zielona herbata (10 g), bławatek (10 g),<br>\[2\] kozieradka.<br>---<br>**Leczenie** - rano przemyć oczy wodą "martwą", na noc okłady naparu wodą "żywą" jednego z ziół. Jęczmień znika po nałożeniu papki z kozieradki i "żywej" wody.<br>---<br>**Efekty** - brak danych. |
-| --- |   |
-| 🟩 **Stawy<br>ból** | 🟩 **Zioła** - liść brzozy (15 g), fiołek trójbarwny (20 g), szałwia (10 g), kwiat głogu (20 g), dziurawiec (10 g).<br>---<br>**Leczenie** - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody "martwej", następnie od 2 do 7 dni pić 2 razy dziennie po 1 szklance naparu ziół wodą żywą.<br>---<br>**Efekty** - ciało się rozgrzewa, bóle ustępują. |
-| --- |   |
-| 🟩 **Twarz<br>higiena** | 🟩 **Zioła** - bratek (20 g), lawenda (10 g), macierzanka (20 g), lilia (10 g), ogórecznik (20 g).<br>---<br>**Leczenie** - rano i wieczorem po umyciu twarzy i ciała, przemyć ciało i twarz wodą martwą. Po 10 minutach natrzeć ciało a twarz opłukać naparem z "żywej" wody i ziół dowolnie wybranych (można dodatkowo pić napar z macierzanki).<br>---<br>**Efekty** - twarz wygładza się i znikają przebarwienia. |
-| --- |   |
-| 🟩 **Upławy<br>białe** | 🟩 **Zioła** - kwiat jasnoty (30 g).<br>---<br>**Leczenie** - 1 dzień pić 2 razy 1/2 szklanki wody "martwej", następnie pić 2 razy dziennie 1 szklankę naparu wodą "żywą" przez 3-4 dni.<br>---<br>**Efekty** - upławy ustępują w drugim dniu kuracji. |
-| --- |   |
-| 🟩 **Wątroba<br>stan zapalny** | 🟩 **Zioła** - dziurawiec (10 g), rozmaryn (5 g), majeranek (15 g).<br>---<br>**Leczenie** - 1 dzień pić 3 razy po 1/2 szklanki wody "martwej" a następnie przez 3-7 dni napar "żywą" wodą z ziół 2 razy dziennie po 1 szklance.<br>---<br>**Efekty** - bóle ustępują. |
-| --- |   |
-| 🟩 **Woreczek<br>żółciowy<br>zapalenie** | 🟩 **Zioła** - kora kruszyny (10 g), tasznik (20 g), podróżnik k. (10 g), kocanka (15 g), melisa (10 g),<br>owoc róży (20 g), dziurawiec (10 g).<br>---<br>**Leczenie** - zrobić mieszankę z ziół. Pierwszego dnia pić 3 razy dziennie po 1/2 szklanki wody "martwej", następnie przez 3-7 dni napar wodą "żywą" z mieszanki ziół 2 razy dziennie po 1 szklance.<br>---<br>**Efekty** - bóle ustępują po dugim dniu kuracji. |
-| --- |   |
-| 🟩 **Zaparcia** | 🟩 **Zioła** - kwiat tarnika ().<br>---<br>**Leczenie** - napar z zioła wodą "żywą" pić 2 razy dziennie po 1 szklance.<br>---<br>**Efekty** - po kilku dniach zaparcia ustępują. |
-| --- |   |
-| 🟩 **Ząb<br>ból** | 🟩 **Zioła** - tatarak (5 g), kozieradka (5 g), podbiał (5 g).<br>---<br>**Leczenie** - najpierw kilkakrotnie przepłukać "martwą" wodą, następnie wodą "żywą" rozprowadzić jedno zioło zmielone na proszek i robić okłady. Kozieradkę można wkładać do wewnątrz do ubytku i może tam być do 3 dni.<br>---<br>**Efekty** - kozieradka tworzy naturalną plombę i działa przeciwbólowo w połączeniu z tatarakiem, leczy zapalenie okostnej. |
-| --- |   |
-| 🟩 **Zgaga** | 🟩 **Zioła** - tatarak (20 g), mięta pieprzowa (10 g), krwawnik (20 g).<br>---<br>**Leczenie** - rano i wieczorem przed posiłkiem pić napar "żywej" wody z ziół po 1/2 szklanki przez 2-3 dni.<br>---<br>**Efekty** - objawy ustępują po 1-2 godzinach. |
-| --- |   |
-| 🟩 **Żylaki** | 🟩 **Zioła** - mech leśny (30 g), rumianek (20 g), igliwie sosny (30 g), \[Cz. Klimuszko\].<br>---<br>**Leczenie** - chore miejsce przemyć wodą "martwą", następnie lniane płótno zmoczyć w naparze "żywej" wody i ziół i zrobić ciepły okład na 3-4 godziny 2 razy dziennie. Pić "żywą" wodę 2 razy dziennie po 1/2 szklanki przez 3-7 dni.<br>---<br>**Efekty** - bóle ustępują, rany goją się szybko. Kurację można przedłużyć. |
-| --- |   |
-| 🟩 **Porażenie<br>mózgowe<br>dzieci** | 🟩 **Zestaw I** - poziewnik (15 g), pokrzywa (100 g), bukwica (20 g), świetlik łąkowy (10 g), ogórecznik (20 g),<br>rdest (15 g), wrzos (10 g), liść poziomki (30 g), melisa (30 g).<br>**Zestaw II** - tymianek (10 g), kwiat tarniny (5 g), rzepik (15 g), owoc róży (25 g), serdecznik (10 g),<br>kozłek k. (15 g), krwawnik (10 g).<br>**Zestaw III (przyprawy)** - kminek, majeranek, lubczyk, magnez, wapń, żelazo, cynk.<br>**Zestaw IV (nalewka)** - korzeń żywokostu (100 g), korzeń podróżnika (100 g), 1/2 litra spirytusu, 1/2 litra wódki żytniej.<br>---<br>**Leczenie** - Przede wszystkim należy wyłączyć z jadłospisu: wieprzowinę, czekoladę, cukier, wywary na kości i wędliny. Trzeba podawać jarzyny gotowane, kaszę jęczmienną, kaszę gryczaną, owies, pszenicę, proso - pod różnymi postaciami. Zmielone kasze na mąkę służą do sporządzania ciast i naleśników. Podawać także nasiona strączkowe mielone. Jeśli podajemy mięso, to czyste i bez kości (indyk, zając, baranina, ryby). Jajko 1-2 na tydzień. Kapiele w drożdżach, zioła podawać z wodą "żywą" lub bez. Zestaw I podawać rano, zestaw II na noc. Zestaw III w różnych ilościach dodawać do potraw (likwidują zaparcia i dostarczają mikroelementów). Nalewkę (zestaw IV) po kąpieli wcierać delikatnie w kręgosłup.<br>---<br>**Efekty** - dzieci z porażeniem mózgowym wymagają osobliwej pielęgnacji. Aby przywrócić zdrowie dziecku, trzeba cierpliwie i bardzo dokładnie wykonywać zalecenia z opisu. Pierwsze oznaki poprawy można zaobserwować po 6 tygodniach. Dzieci, które mają ataki drgawkowe powoli je tracą. Dzieci starsze trudniej prowadzić, a leczenie trwa od 1 do 3 lat. |
+| 🟩 **Anemia** | 🟩 **Zioła** - pokrzywa (20 g), wilżyna (10 g), poziewnik (5 g), tobołki posp. (10 g), świetlik łąkowy (20 g),<br>owoc róży (20 g), ogórecznik (20 g), rzepik (15 g), bukwica (15 g).<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", następnie pić napar z ziół "żywą" wodą 2 razy dziennie po 1 szklance. Dodatkowo można 1 raz dziennie zjeść 1 łyżeczkę sproszkowanej kozieradki z miodem.<br>**Efekty** - przed kuracją sprawdzić morfologie krwi, po 7 dniach powtórzyć - wyniki będą lepsze. Można przedłużyć picie ziół do 2 tygodni. |
+| 🟩 **Bezsenność** | 🟩 **Zioła** - kolendra (10 g), owoc bzu czarnego (10 g), liść jeżyny (15 g), melisa (10 g), owoc jarzębiny (15 g),<br>liść borówki (5 g).<br>**Leczenie** - przed snem pić 1 szklankę naparu "żywej" wody z ziół przez 2-4 dni. Kuracje można powtarzać.<br>**Efekty** - organizm się wycisza i wraca sen. |
+| 🟩 **Biegunka** | 🟩 **Zioła** - zielona herbata (), szyjka rakowa ().<br>**Leczenie** - wypić 1/2 szklanki wody "martwej". Co 7 godzin zażyć 1/2 łyżeczki sproszkowanej herbaty lub szyjki rakowej (do wyboru) popijając 1/2 szklanki ciepłej "żywej" wody.<br>**Efekty** - bóle ustępują, biegunka ustaje. |
+| 🟩 **Choroba<br>popromienna** | 🟩 **Zioła** - herbata zielona (15 g), pokrzywa (20 g).<br>**Leczenie** - przez 3 miesiące, 2 razy dziennie pić po 1/2 szklanki naparu wody "żywej" i ziół. Można używać naparu ze zwykłej wody w wypadku braku wody "żywej".<br>**Efekty** - wzmacnia, nie dopuszcza do powstania anemii, wzmacnia siły obronne organizmu. |
+| 🟩 **Dziąsła<br>zapalenie** | 🟩 **Zioła** - kolanchola (), propolis ().<br>**Leczenie** - w ciągu dnia płukać jamę ustną 2-6 razy wodą "martwą" a potem roztworem wody "żywej" z propolisem lub kalancholą 1-2 razy.<br>**Efekty** - brak danych. |
+| 🟩 **Głowa<br>ból** | 🟩 **Zioła** - lipa (10 g), macierzanka (30 g), bukwica (20 g).<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", pić 2 razy dziennie 1/2 szklanki naparu ziół "żywą" wodą od 2 do 3 dni.<br>**Efekty** - po 15-20 minutach ból głowy ustępuje. W razie nawrotu bólu kurację powtórzyć. |
+| 🟩 **Hemoroidy** | 🟩 **Zioła** - cebula (), kora dębu (), len (), kozieradka (), perz (), płatki róży ().<br>**Leczenie** - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody "martwej", następnie 1 raz dziennie 1/2 szklanki wody "żywej". Z naparu "żywą" wodą jednego z ziół robić przymoczki na chore miejsce lub tamponami z wody kilka razy dziennie przez 2-5 dni.<br>**Efekty** - krwawienia ustępują i zagojenie ran następuje w ciągu kilku dni. |
+| 🟩 **Menstruacja<br>bolesna** | 🟩 **Zioła** - kora kaliny (15 g), krwawnik (10 g), kwiat orlika (5 g) lub mięta pieprzowa (15 g).<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", następnie 1-2 dni przed okresem pić napar z ziół wodą "żywą" 2 razy dziennie po 1/2 szklanki.<br>**Efekty** - kuracje przeprowadzać przez okres 3 miesięcy przed okresem. |
+| 🟩 **Moczopędne** | 🟩 **Zioła** - perz (10 g), ogórecznik (20 g), wrzos (10 g), bławatek (10 g), ręcznica (15 g),<br>liść porzeczki czarnej (20 g), fiołek (10 g), liść poziomki (10 g).<br>**Leczenie** - napar z ziół "żywą" wodą" pić 2 razy dziennie po 1 szklance przez 3-4 dni.<br>**Efekty** - oczyszcza nerki. |
+| 🟩 **Nerki<br>stan zapalny** | 🟩 **Zioła** - ogórecznik ().<br>**Leczenie** - przez 1 dzień pić 3 razy po 1/2 szklanki wody "martwej" i następnie przez 3-6 dni napar z ogórecznika wodą "żywą" 2 razy dziennie po 1/2 szklanki.<br>**Efekty** - brak danych. |
+| 🟩 **Nogi<br>bóle i obrzęki** | 🟩 **Zioła** - podbiał (20 g), storczyk (10 g), rozmaryn (15 g), skrzyp (20 g), ogórecznik (20 g).<br>**Leczenie** - przez 1 dzień pić 2 razy po 1/2 szklanki wody "martwej", następnie 2 razy napar z ziół wodą "żywą" po 1/2 szklanki. Stosować 2-3 dni.<br>**Efekty** - bóle ustępują po drugim dniu kuracji, obrzęki po kilku dniach. |
+| 🟩 **Oparzenia** | 🟩 **Zioła** - kopytnik (10 g), podbiał (10 g), babka lancetowata (10 g), liść poziomki (10 g), dziewanna (10 g), mniszek (10 g), lebiodka (20 g).<br>**Leczenie** - chore miejsca przemyć wodą "martwą", potem w ciągu dnia robić okłady z naparu "żywą" wodą" jednego z podanych ziół. Okłady robić wyłącznie lnianym płótnem i po wyschnięciu powtarzać 3-4 razy dziennie.<br>**Efekty** - rany goją się bardzo szybko i nie ma blizn. |
+| 🟩 **Rana<br>ropiejąca** | 🟩 **Zioła** - aloes (20 g), żywokost (15 g), kozieradka (10 g), torfowiec (15 g).<br>**Leczenie** - przemyć ranę wodą "martwą", następnie zrobić opatrunek naparem "żywej" wody jednego z ziół. Wyschnięty opatrunek nawilżać wodą "żywą". Robić to 2-3 razy dziennie.<br>**Efekty** - brak danych. |
+| 🟩 **Serce<br>arytmia** | 🟩 **Zioła** - melisa (15 g), kwiat głogu (20 g), wrzos (10 g).<br>**Leczenie** - 2 razy dziennie wypić 1/2 szklanki naparu ziół "żywą" wodą przez 6-7 dni.<br>**Efekty** - poprawa bardzo widoczna. Kurację można powtarzać co 2 tygodnie. |
+| 🟩 **Skóra<br>liszaje** | 🟩 **Zioła** - żywokost (15 g), kozieradka (10 g), skrzyp (5 g), barwinek (10 g), konopie (20 g),<br>korzeń pokrzywy (10 g), torfowiec (10 g).<br>**Leczenie** - w ciągu 2 dni rano obmywać chore miejsca wodą "martwą", następnie sproszkowane jedno z ziół połączone z wodą "żywą" nałożyć na lniane płótno i 2 razy dziennie robić ciepły okład na 15-20 minut. Stosować 2-7 dni.<br>**Efekty** - po pierwszym dniu ognisko choroby zanika, skóra wraca do zdrowia. |
+| 🟩 **Spojówki<br>zapalenie<br>(jeczmień)** | 🟩 **Zioła** - \[1\] świetlik łąkowy (10 g), zielona herbata (10 g), bławatek (10 g),<br>\[2\] kozieradka.<br>**Leczenie** - rano przemyć oczy wodą "martwą", na noc okłady naparu wodą "żywą" jednego z ziół. Jęczmień znika po nałożeniu papki z kozieradki i "żywej" wody.<br>**Efekty** - brak danych. |
+| 🟩 **Stawy<br>ból** | 🟩 **Zioła** - liść brzozy (15 g), fiołek trójbarwny (20 g), szałwia (10 g), kwiat głogu (20 g), dziurawiec (10 g).<br>**Leczenie** - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody "martwej", następnie od 2 do 7 dni pić 2 razy dziennie po 1 szklance naparu ziół wodą żywą.<br>**Efekty** - ciało się rozgrzewa, bóle ustępują. |
+| 🟩 **Twarz<br>higiena** | 🟩 **Zioła** - bratek (20 g), lawenda (10 g), macierzanka (20 g), lilia (10 g), ogórecznik (20 g).<br>**Leczenie** - rano i wieczorem po umyciu twarzy i ciała, przemyć ciało i twarz wodą martwą. Po 10 minutach natrzeć ciało a twarz opłukać naparem z "żywej" wody i ziół dowolnie wybranych (można dodatkowo pić napar z macierzanki).<br>**Efekty** - twarz wygładza się i znikają przebarwienia. |
+| 🟩 **Upławy<br>białe** | 🟩 **Zioła** - kwiat jasnoty (30 g).<br>**Leczenie** - 1 dzień pić 2 razy 1/2 szklanki wody "martwej", następnie pić 2 razy dziennie 1 szklankę naparu wodą "żywą" przez 3-4 dni.<br>**Efekty** - upławy ustępują w drugim dniu kuracji. |
+| 🟩 **Wątroba<br>stan zapalny** | 🟩 **Zioła** - dziurawiec (10 g), rozmaryn (5 g), majeranek (15 g).<br>**Leczenie** - 1 dzień pić 3 razy po 1/2 szklanki wody "martwej" a następnie przez 3-7 dni napar "żywą" wodą z ziół 2 razy dziennie po 1 szklance.<br>**Efekty** - bóle ustępują. |
+| 🟩 **Woreczek<br>żółciowy<br>zapalenie** | 🟩 **Zioła** - kora kruszyny (10 g), tasznik (20 g), podróżnik k. (10 g), kocanka (15 g), melisa (10 g),<br>owoc róży (20 g), dziurawiec (10 g).<br>**Leczenie** - zrobić mieszankę z ziół. Pierwszego dnia pić 3 razy dziennie po 1/2 szklanki wody "martwej", następnie przez 3-7 dni napar wodą "żywą" z mieszanki ziół 2 razy dziennie po 1 szklance.<br>**Efekty** - bóle ustępują po dugim dniu kuracji. |
+| 🟩 **Zaparcia** | 🟩 **Zioła** - kwiat tarnika ().<br>**Leczenie** - napar z zioła wodą "żywą" pić 2 razy dziennie po 1 szklance.<br>**Efekty** - po kilku dniach zaparcia ustępują. |
+| 🟩 **Ząb<br>ból** | 🟩 **Zioła** - tatarak (5 g), kozieradka (5 g), podbiał (5 g).<br>**Leczenie** - najpierw kilkakrotnie przepłukać "martwą" wodą, następnie wodą "żywą" rozprowadzić jedno zioło zmielone na proszek i robić okłady. Kozieradkę można wkładać do wewnątrz do ubytku i może tam być do 3 dni.<br>**Efekty** - kozieradka tworzy naturalną plombę i działa przeciwbólowo w połączeniu z tatarakiem, leczy zapalenie okostnej. |
+| 🟩 **Zgaga** | 🟩 **Zioła** - tatarak (20 g), mięta pieprzowa (10 g), krwawnik (20 g).<br>**Leczenie** - rano i wieczorem przed posiłkiem pić napar "żywej" wody z ziół po 1/2 szklanki przez 2-3 dni.<br>**Efekty** - objawy ustępują po 1-2 godzinach. |
+| 🟩 **Żylaki** | 🟩 **Zioła** - mech leśny (30 g), rumianek (20 g), igliwie sosny (30 g), \[Cz. Klimuszko\].<br>**Leczenie** - chore miejsce przemyć wodą "martwą", następnie lniane płótno zmoczyć w naparze "żywej" wody i ziół i zrobić ciepły okład na 3-4 godziny 2 razy dziennie. Pić "żywą" wodę 2 razy dziennie po 1/2 szklanki przez 3-7 dni.<br>**Efekty** - bóle ustępują, rany goją się szybko. Kurację można przedłużyć. |
+| 🟩 **Porażenie<br>mózgowe<br>dzieci** | 🟩 **Zestaw I** - poziewnik (15 g), pokrzywa (100 g), bukwica (20 g), świetlik łąkowy (10 g), ogórecznik (20 g),<br>rdest (15 g), wrzos (10 g), liść poziomki (30 g), melisa (30 g).<br>**Zestaw II** - tymianek (10 g), kwiat tarniny (5 g), rzepik (15 g), owoc róży (25 g), serdecznik (10 g),<br>kozłek k. (15 g), krwawnik (10 g).<br>**Zestaw III (przyprawy)** - kminek, majeranek, lubczyk, magnez, wapń, żelazo, cynk.<br>**Zestaw IV (nalewka)** - korzeń żywokostu (100 g), korzeń podróżnika (100 g), 1/2 litra spirytusu, 1/2 litra wódki żytniej.<br>**Leczenie** - Przede wszystkim należy wyłączyć z jadłospisu: wieprzowinę, czekoladę, cukier, wywary na kości i wędliny. Trzeba podawać jarzyny gotowane, kaszę jęczmienną, kaszę gryczaną, owies, pszenicę, proso - pod różnymi postaciami. Zmielone kasze na mąkę służą do sporządzania ciast i naleśników. Podawać także nasiona strączkowe mielone. Jeśli podajemy mięso, to czyste i bez kości (indyk, zając, baranina, ryby). Jajko 1-2 na tydzień. Kapiele w drożdżach, zioła podawać z wodą "żywą" lub bez. Zestaw I podawać rano, zestaw II na noc. Zestaw III w różnych ilościach dodawać do potraw (likwidują zaparcia i dostarczają mikroelementów). Nalewkę (zestaw IV) po kąpieli wcierać delikatnie w kręgosłup.<br>**Efekty** - dzieci z porażeniem mózgowym wymagają osobliwej pielęgnacji. Aby przywrócić zdrowie dziecku, trzeba cierpliwie i bardzo dokładnie wykonywać zalecenia z opisu. Pierwsze oznaki poprawy można zaobserwować po 6 tygodniach. Dzieci, które mają ataki drgawkowe powoli je tracą. Dzieci starsze trudniej prowadzić, a leczenie trwa od 1 do 3 lat. |

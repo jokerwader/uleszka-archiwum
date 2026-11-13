@@ -14,12 +14,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
@@ -35,8 +35,8 @@
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -83,9 +83,7 @@
 <p>Jak niemiecko-radziecki plan był dopracowany, możesz zobaczyć na mapce. Po 17 września ucieczka na Węgry czy do Rumunii była już niemożliwa. Taki stan doskonale sprzyjał wyłapaniu polskiej inteligencji oraz polskich patriotów i fizycznym ich zlikwidowaniu, co uczyniono z bolszewicką nienawiścią i niemiecką dokładnością.</p>
 <p class="rozdzial" id="r-1"><strong>Zbrodnia</strong></p>
 <p>Już 19 września 1939 r. Beria powziął decyzję o utworzeniu zarządu ds. jeńców wojennych i wydał dyrektywę do utworzenia obozów przejściowo-rozdzielczych w Juchniowie, Kozielszczyźnie, Putywlu, Orankach, Ostaszkowie, Starobielsku, Kozielsku, Juży, Griazowcu i Zonkijewie. Wszyscy policjanci byli przewożeni do obozu w Ostaszkowie.</p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/monastyr2.jpg" alt="Widok z lotu ptaka na kompleks klasztorny z białymi cerkwiami i kopułami na brzegu jeziora (prawdopodobnie klasztor w Ostaszkowie, wg kontekstu artykułu)." title="Opis AI: Widok z lotu ptaka na kompleks klasztorny z białymi cerkwiami i kopułami na brzegu jeziora (prawdopodobnie klasztor w Ostaszkowie, wg kontekstu artykułu)." loading="lazy" decoding="async"></p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/monastyr3.jpg" alt="Biała cerkiew z kopułami i dzwonnicą wśród drzew, przed nią kilka osób." title="Opis AI: Biała cerkiew z kopułami i dzwonnicą wśród drzew, przed nią kilka osób." loading="lazy" decoding="async"></p>
-<p>Monastyr Niłowa Pustyń. Dziś restaurowany. Władza postsowiecka starannie zaciera ślady.</p>
+<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/monastyr2.jpg" alt="Widok z lotu ptaka na kompleks klasztorny z białymi cerkwiami i kopułami na brzegu jeziora (prawdopodobnie klasztor w Ostaszkowie, wg kontekstu artykułu)." title="Opis AI: Widok z lotu ptaka na kompleks klasztorny z białymi cerkwiami i kopułami na brzegu jeziora (prawdopodobnie klasztor w Ostaszkowie, wg kontekstu artykułu)." loading="lazy" decoding="async"> <img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/monastyr3.jpg" alt="Biała cerkiew z kopułami i dzwonnicą wśród drzew, przed nią kilka osób." title="Opis AI: Biała cerkiew z kopułami i dzwonnicą wśród drzew, przed nią kilka osób." loading="lazy" decoding="async"><br>Monastyr Niłowa Pustyń. Dziś restaurowany. Władza postsowiecka starannie zaciera ślady.</p>
 <p>Ostaszków (obóz jeniecki nr 41) był największym obozem. Założono go w monastyrze Niłowa Pustyń, na wyspie Stołbnyj na jeziorze Seliger, gdzie uprzednio wymordowano mnichów. Zgrupowano w nim około 6500 jeńców wojennych w większości policjantów.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/peszkowski.jpg" alt="Stare czarno-białe zdjęcie: starszy człowiek w jasnym ubraniu siedzi w lesie między drzewami, za nim ogrodzenie (wg nazwy pliku Peszkowski, kapelan Katynia)." title="Opis AI: Stare czarno-białe zdjęcie: starszy człowiek w jasnym ubraniu siedzi w lesie między drzewami, za nim ogrodzenie (wg nazwy pliku Peszkowski, kapelan Katynia)." loading="lazy" decoding="async"></p>
 <p>Zaniedbane polskie groby</p>
@@ -393,9 +391,10 @@
 </tbody></table></div>
 <p class="rozdzial" id="r-3"><strong>Zadośćuczynienie</strong></p>
 <p>Jedynym zadośćuczynieniem dla rodzin ofiar było przekazanie im przez Prezydenta RP medali pamiątkowych &quot;Katyń&quot;, nadanych pośmiertnie ich bliskim, zamordowanym na wschodzie. Nie... nie przez naszego. Prezydenta RP na uchodźctwie w Londynie. Wałęsa nie kiwnął nawet małym palcem. Nie stać go nawet było, by zaprosić do siebie przedstawicieli Rodzin Katyńskich choć adres organizacji był doskonale znany. Nawet &quot;listy śmierci&quot; organizacja dostała jako ostatnia.</p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/legit2.jpg" alt="Okładka legitymacji Krzyża Kampanii Wrześniowej 1939 z rysunkiem krzyża z orłem, wydanej przez Ministerstwo Spraw Wojskowych. Napis: Ministerstwo Spraw Wojskowych; LEGITYMACJA nadania Odznaki Pamiątkowej KRZYŻ KAMPANII WRZEŚNIOWEJ 1939 r." title="Opis AI: Okładka legitymacji Krzyża Kampanii Wrześniowej 1939 z rysunkiem krzyża z orłem, wydanej przez Ministerstwo Spraw Wojskowych. Napis: Ministerstwo Spraw Wojskowych; LEGITYMACJA nadania Odznaki Pamiątkowej KRZYŻ KAMPANII WRZEŚNIOWEJ 1939 r." loading="lazy" decoding="async"></p>
+<div class="galeria"><p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/legit2.jpg" alt="Okładka legitymacji Krzyża Kampanii Wrześniowej 1939 z rysunkiem krzyża z orłem, wydanej przez Ministerstwo Spraw Wojskowych. Napis: Ministerstwo Spraw Wojskowych; LEGITYMACJA nadania Odznaki Pamiątkowej KRZYŻ KAMPANII WRZEŚNIOWEJ 1939 r." title="Opis AI: Okładka legitymacji Krzyża Kampanii Wrześniowej 1939 z rysunkiem krzyża z orłem, wydanej przez Ministerstwo Spraw Wojskowych. Napis: Ministerstwo Spraw Wojskowych; LEGITYMACJA nadania Odznaki Pamiątkowej KRZYŻ KAMPANII WRZEŚNIOWEJ 1939 r." loading="lazy" decoding="async"></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/medal2.jpg" alt="Odznaczenie Krzyż Kampanii Wrześniowej 1939 na biało-czerwonej wstążce, z orłem pośrodku krzyża." title="Opis AI: Odznaczenie Krzyż Kampanii Wrześniowej 1939 na biało-czerwonej wstążce, z orłem pośrodku krzyża." loading="lazy" decoding="async"></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/legit1.jpg" alt="Wnętrze legitymacji Krzyża Kampanii Wrześniowej 1939 wystawionej na nazwisko Cygankiewicz Edward, z pieczęcią i podpisem, Londyn, 1985. Napis: LEGITYMACJA Nr 13084; Posterunkowy P.P. Cygankiewicz Edward; Odznaka Pamiątkowa; KRZYŻ KAMPANII WRZEŚNIOWEJ 1939; Londyn dn. 15 sierpnia 1985" title="Opis AI: Wnętrze legitymacji Krzyża Kampanii Wrześniowej 1939 wystawionej na nazwisko Cygankiewicz Edward, z pieczęcią i podpisem, Londyn, 1985. Napis: LEGITYMACJA Nr 13084; Posterunkowy P.P. Cygankiewicz Edward; Odznaka Pamiątkowa; KRZYŻ KAMPANII WRZEŚNIOWEJ 1939; Londyn dn. 15 sierpnia 1985" loading="lazy" decoding="async"></p>
+</div>
 <p>Najpierw Związek Sybiraków potem Rodziny Katyńskie. Te organizacje powstały spontanicznie bez żadnej pomocy i zainteresowania ze strony państwa. Nie sposób policzyć rodzin polskich, których nie dotknęłaby tragedia Katynia, Charkowa czy Miednoje. To tylko z ich inicjatywy pojawiły się pomniki ku czci zamordowanych na wschodzie. A państwo? Państwo wykonywało i wykonuje ruchy pozorowane, żeby nie powiedzieć frykcyjne. Uroczystości są organizowane tylko po to, by &quot;wybrańcy narodu&quot; zaistnieli w telewizji. Czy wywiera się polityczny nacisk na zakończenie (jeśli jest w ogóle prowadzone) ślamazarnego śledztwa w sprawie katyńskiej prowadzonego przez nowych, demokratycznych bolszewików? Absolutnie nie. Przecież właśnie po to rządząca, polska lewica rozwiązała zespół prokuratorów, którzy mieli prowadzić to śledztwo. Bez przerwy mydli nam się oczy.</p>
 <p>Jak nasz rząd traktuje rodziny ofiar? Przeczytaj poniższy dokument.</p>
 <div class="tabela"><table>
@@ -451,20 +450,14 @@
 <p>Ostatnią partię jeńców przywieziono z Ostaszkowa do Kalinina w dniu 19 maja 1940 r. Według zeznań Tokariewa, szefa Zarządu Obwodowego NKWD w Kalininie, w więzieniu &quot;rozstrzelano 6295 Polaków i jednego bandytę&quot;.</p>
 <p class="rozdzial" id="r-6"><strong>Mordercy z pod sierpa i młota</strong></p>
 <p>Nazwiska poniżej, to tylko nieliczni mordercy polskich jeńców wojennych, których udało mi się odnaleźć w dokumentach (kolorem czerwonym - bezpośredni oprawcy jeńców z Ostaszkowa):</p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0stalin.jpg" alt="Czarno-białe zdjęcie mężczyzny z wąsami i gęstymi, zaczesanymi włosami; według nazwy pliku Stalin." title="Opis AI: Czarno-białe zdjęcie mężczyzny z wąsami i gęstymi, zaczesanymi włosami; według nazwy pliku Stalin." loading="lazy" decoding="async"></p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0woroszylow.jpg" alt="Zdjęcie starszego mężczyzny w mundurze marszałka; według nazwy pliku Woroszyłow." title="Opis AI: Zdjęcie starszego mężczyzny w mundurze marszałka; według nazwy pliku Woroszyłow." loading="lazy" decoding="async"></p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0molotow.jpg" alt="Zdjęcie mężczyzny w garniturze i krawacie, z wąsami; według nazwy pliku Mołotow." title="Opis AI: Zdjęcie mężczyzny w garniturze i krawacie, z wąsami; według nazwy pliku Mołotow." loading="lazy" decoding="async"></p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0mikojan.jpg" alt="Zdjęcie mężczyzny z wąsami, w ciemnym ubraniu; według nazwy pliku Mikojan." title="Opis AI: Zdjęcie mężczyzny z wąsami, w ciemnym ubraniu; według nazwy pliku Mikojan." loading="lazy" decoding="async"></p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0kaganowicz.jpg" alt="Zdjęcie mężczyzny z wąsami i ciemnymi włosami; według nazwy pliku Kaganowicz." title="Opis AI: Zdjęcie mężczyzny z wąsami i ciemnymi włosami; według nazwy pliku Kaganowicz." loading="lazy" decoding="async"></p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0kalinin.jpg" alt="Zdjęcie starszego mężczyzny z siwą brodą i okularami; według nazwy pliku Kalinin." title="Opis AI: Zdjęcie starszego mężczyzny z siwą brodą i okularami; według nazwy pliku Kalinin." loading="lazy" decoding="async"></p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0beria.jpg" alt="Zdjęcie łysiejącego mężczyzny w okularach i garniturze; według nazwy pliku Beria." title="Opis AI: Zdjęcie łysiejącego mężczyzny w okularach i garniturze; według nazwy pliku Beria." loading="lazy" decoding="async"></p>
-<p>Stalin</p>
-<p>Woroszyłow</p>
-<p>Mołotow</p>
-<p>Mikojan</p>
-<p>Kaganowicz</p>
-<p>Kalinin</p>
-<p>Beria</p>
+<div class="galeria"><p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0stalin.jpg" alt="Czarno-białe zdjęcie mężczyzny z wąsami i gęstymi, zaczesanymi włosami; według nazwy pliku Stalin." title="Opis AI: Czarno-białe zdjęcie mężczyzny z wąsami i gęstymi, zaczesanymi włosami; według nazwy pliku Stalin." loading="lazy" decoding="async"><br>Stalin</p>
+<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0woroszylow.jpg" alt="Zdjęcie starszego mężczyzny w mundurze marszałka; według nazwy pliku Woroszyłow." title="Opis AI: Zdjęcie starszego mężczyzny w mundurze marszałka; według nazwy pliku Woroszyłow." loading="lazy" decoding="async"><br>Woroszyłow</p>
+<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0molotow.jpg" alt="Zdjęcie mężczyzny w garniturze i krawacie, z wąsami; według nazwy pliku Mołotow." title="Opis AI: Zdjęcie mężczyzny w garniturze i krawacie, z wąsami; według nazwy pliku Mołotow." loading="lazy" decoding="async"><br>Mołotow</p>
+<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0mikojan.jpg" alt="Zdjęcie mężczyzny z wąsami, w ciemnym ubraniu; według nazwy pliku Mikojan." title="Opis AI: Zdjęcie mężczyzny z wąsami, w ciemnym ubraniu; według nazwy pliku Mikojan." loading="lazy" decoding="async"><br>Mikojan</p>
+<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0kaganowicz.jpg" alt="Zdjęcie mężczyzny z wąsami i ciemnymi włosami; według nazwy pliku Kaganowicz." title="Opis AI: Zdjęcie mężczyzny z wąsami i ciemnymi włosami; według nazwy pliku Kaganowicz." loading="lazy" decoding="async"><br>Kaganowicz</p>
+<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0kalinin.jpg" alt="Zdjęcie starszego mężczyzny z siwą brodą i okularami; według nazwy pliku Kalinin." title="Opis AI: Zdjęcie starszego mężczyzny z siwą brodą i okularami; według nazwy pliku Kalinin." loading="lazy" decoding="async"><br>Kalinin</p>
+<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0beria.jpg" alt="Zdjęcie łysiejącego mężczyzny w okularach i garniturze; według nazwy pliku Beria." title="Opis AI: Zdjęcie łysiejącego mężczyzny w okularach i garniturze; według nazwy pliku Beria." loading="lazy" decoding="async"><br>Beria</p>
+</div>
 <p><strong>Józef Wisarionowicz STALIN</strong> - główny morderca, szef pozostałych<br><strong>Kliment WOROSZYŁOW</strong> - ludowy komisarz obrony<br><strong>Wiaczesław MOŁOTOW</strong> - minister spraw zagranicznych (hr. Skriabin)<br><strong>Anastas MIKOJAN</strong> - zastępca przewodniczącego Rady Komisarzy Ludowych<br><strong>Łazar KAGANOWICZ</strong> - ludowy komisarz komunikacji, wicepremier<br><strong>Michaił KALININ</strong> - przewodniczący Prezydium Rady Najwyższej<br><strong>Ławrientij BERIA</strong> - szef NKWD (zgładzony przez Chruszczowa)</p>
 <p><strong>BASZTAKOW</strong> - naczelnik I specwydziału NKWD, jeden z &quot;trójki&quot; wydającej wyrok<br><strong>Bohdan KABUŁOW</strong> - zastępca Berii, jeden z &quot;trójki&quot; wydającej wyrok<br><strong>Wsiewołod MERKUŁOW</strong> - zastępca Berii, jeden z &quot;trójki&quot; wydającej wyrok</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/nkwd2.gif" alt="Odznaka NKWD: czerwona gwiazda z sierpem i młotem oraz sztyletem, z napisem NKWD. Napis: НКВД" title="Opis AI: Odznaka NKWD: czerwona gwiazda z sierpem i młotem oraz sztyletem, z napisem NKWD. Napis: НКВД" loading="lazy" decoding="async"></p>

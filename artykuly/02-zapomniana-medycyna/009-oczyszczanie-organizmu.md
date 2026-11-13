@@ -373,7 +373,7 @@ Po przeprowadzeniu oczyszczania musimy trochę zmienić nawyki żywieniowe. Prze
 
 Do stosowania przy chorobach - **osteoporoza, podagra, chroniczny reumatyzm, kamienie żółciowe i nerkowe, anemia, dna moczanowa, niektóre choroby nerwowe, cukrzyca, nadwaga, nadciśnienie, katar żołądka, choroby wątroby**. Kurację prowadzimy sokiem z cytryny przez 10 dni (profilaktyczna) lub 12 dni (lecznicza). Obok kuracji leczniczej podaje kuracje profilaktyczną, która należy przeprowadzać najlepiej wczesną wiosną lub późną jesienią w okresie epidemii grypy, angin i przeziębień.
 
-| 🟩 **KURACJA<br>PROFILAKTYCZNA**<br>---<br>Ilość cytryn na sok | **DZIEŃ KURACJI** | 🟧 **KURACJA<br>LECZNICZA**<br>---<br>Ilość cytryn na sok |
+| 🟩 **KURACJA<br>PROFILAKTYCZNA**<br>Ilość cytryn na sok | **DZIEŃ KURACJI** | 🟧 **KURACJA<br>LECZNICZA**<br>Ilość cytryn na sok |
 | --- | --- | --- |
 | ⬜ |   |   |
 | 🟩 **1** | **pierwszy** | 🟧 **5** |

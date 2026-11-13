@@ -3184,10 +3184,7 @@ Jak niemiecko-radziecki plan był dopracowany, możesz zobaczyć na mapce. Po 17
 
 Już 19 września 1939 r. Beria powziął decyzję o utworzeniu zarządu ds. jeńców wojennych i wydał dyrektywę do utworzenia obozów przejściowo-rozdzielczych w Juchniowie, Kozielszczyźnie, Putywlu, Orankach, Ostaszkowie, Starobielsku, Kozielsku, Juży, Griazowcu i Zonkijewie. Wszyscy policjanci byli przewożeni do obozu w Ostaszkowie.
 
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Monastyr Niłowa Pustyń. Dziś restaurowany. Władza postsowiecka starannie zaciera ślady.
 
 Ostaszków (obóz jeniecki nr 41) był największym obozem. Założono go w monastyrze Niłowa Pustyń, na wyspie Stołbnyj na jeziorze Seliger, gdzie uprzednio wymordowano mnichów. Zgrupowano w nim około 6500 jeńców wojennych w większości policjantów.
@@ -3487,32 +3484,25 @@ Ostatnią partię jeńców przywieziono z Ostaszkowa do Kalinina w dniu 19 maja 
 
 Nazwiska poniżej, to tylko nieliczni mordercy polskich jeńców wojennych, których udało mi się odnaleźć w dokumentach (kolorem czerwonym - bezpośredni oprawcy jeńców z Ostaszkowa):
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Stalin
 
+[obraz]  
 Woroszyłow
 
+[obraz]  
 Mołotow
 
+[obraz]  
 Mikojan
 
+[obraz]  
 Kaganowicz
 
+[obraz]  
 Kalinin
 
+[obraz]  
 Beria
 
 **Józef Wisarionowicz STALIN** - główny morderca, szef pozostałych  
@@ -5647,7 +5637,32 @@ id: kolasia/wstep | dział: Różności | oryginał: http://www.uleszka.net/weba
 
 [obraz]
 
-**Bobolice**
+**Bobolice**  
+[obraz] [obraz] [obraz] [obraz] [obraz]
+
+[obraz]
+
+[obraz]
+
+[obraz]
+
+[obraz]
+
+**Mirów**  
+[obraz] [obraz] [obraz] [obraz] [obraz]
+
+[obraz]
+
+[obraz]
+
+[obraz]
+
+[obraz]
+
+[obraz]
+
+**Olsztyn k/Częstochowy**  
+[obraz] [obraz] [obraz] [obraz] [obraz]
 
 [obraz]
 
@@ -5665,11 +5680,8 @@ id: kolasia/wstep | dział: Różności | oryginał: http://www.uleszka.net/weba
 
 [obraz]
 
-[obraz]
-
-**Mirów**
-
-[obraz]
+**Ostrężnik**  
+[obraz] [obraz] [obraz] [obraz] [obraz]
 
 [obraz]
 
@@ -5677,73 +5689,8 @@ id: kolasia/wstep | dział: Różności | oryginał: http://www.uleszka.net/weba
 
 [obraz]
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-**Olsztyn k/Częstochowy**
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-**Ostrężnik**
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-**Proboszczowice**
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
+**Proboszczowice**  
+[obraz] [obraz] [obraz] [obraz]
 
 z niecierpliwością czekam na następne...
 

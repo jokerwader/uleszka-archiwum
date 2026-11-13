@@ -14,12 +14,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
@@ -35,8 +35,8 @@
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -1087,278 +1087,143 @@
 <tr>
 <th><strong>Witamina A</strong><br>retinol (mięso)<br>beta-karoten (rośliny)</th>
 <th>🟧</th>
-<th><strong>Spełniana funkcja</strong> - potrzebna do utrzymania zdrowej skóry i śluzówek. Zapobiega ich zakażeniom. Jest przeciwutleniaczem. Wzmacnia układ odpornościowy. Chroni przed nowotworami. Jest niezbędna aby widzieć o zmroku.<br>---<br><strong>Objawy niedoboru</strong> - owrzodzenie ust, kurza ślepota (złe widzenie o zmroku), trądzik, częste przeziębienia i infekcje. Sucha, łuszcząca się skóra, łupież, pleśniawki, zapalenie pęcherza i biegunka.<br>---<br><strong>Źródła</strong> (co zjadać) - wątroba wołowa i cielęca, marchew, kapusta, dynia, pomidory, brokuły, morele, mandarynki, szparagi.<br>---<br><strong>Pomocne w przyswajaniu</strong> - cynk, witaminy C i E pomagają zachować zasoby.<br>---<br><strong>Co niszczy</strong> - ciepło, światło, alkohol, kawa, papierosy.<br>---<br><strong>Czy można się zatruć</strong> - tak, szczególnie po przedawkowaniu przez dzieci.</th>
+<th><strong>Spełniana funkcja</strong> - potrzebna do utrzymania zdrowej skóry i śluzówek. Zapobiega ich zakażeniom. Jest przeciwutleniaczem. Wzmacnia układ odpornościowy. Chroni przed nowotworami. Jest niezbędna aby widzieć o zmroku.<br><strong>Objawy niedoboru</strong> - owrzodzenie ust, kurza ślepota (złe widzenie o zmroku), trądzik, częste przeziębienia i infekcje. Sucha, łuszcząca się skóra, łupież, pleśniawki, zapalenie pęcherza i biegunka.<br><strong>Źródła</strong> (co zjadać) - wątroba wołowa i cielęca, marchew, kapusta, dynia, pomidory, brokuły, morele, mandarynki, szparagi.<br><strong>Pomocne w przyswajaniu</strong> - cynk, witaminy C i E pomagają zachować zasoby.<br><strong>Co niszczy</strong> - ciepło, światło, alkohol, kawa, papierosy.<br><strong>Czy można się zatruć</strong> - tak, szczególnie po przedawkowaniu przez dzieci.</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>---</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td><strong>Witamina B1</strong><br>tiamina</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - niezbędna do produkcji energii, funkcjonowania mózgu i trawienia. Pomaga organizmowi wykorzystywać białka.<br>---<br><strong>Objawy niedoboru</strong> - osłabienie mięśni, ból oczu, drażliwość, zaburzenia koncentracji, drętwienie nóg, pogorszenie pamięci, bóle żołądkowe, zatwardzenie, mrowienie w rękach, szybka czynność serca.<br>---<br><strong>Źródła</strong> (co zjadać) - dynia, baranina, mięso jagnięce, szparagi, grzyby, groch, sałata, papryka, kalafior, kapusta, pomidory, brukselka, fasola.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, magnez, mangan.<br>---<br><strong>Co niszczy</strong> - antybiotyki, herbata, kawa, stres, doustne środki antykoncepcyjne, alkohol, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.<br>---<br><strong>Czy można się zatruć</strong> - nie.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - niezbędna do produkcji energii, funkcjonowania mózgu i trawienia. Pomaga organizmowi wykorzystywać białka.<br><strong>Objawy niedoboru</strong> - osłabienie mięśni, ból oczu, drażliwość, zaburzenia koncentracji, drętwienie nóg, pogorszenie pamięci, bóle żołądkowe, zatwardzenie, mrowienie w rękach, szybka czynność serca.<br><strong>Źródła</strong> (co zjadać) - dynia, baranina, mięso jagnięce, szparagi, grzyby, groch, sałata, papryka, kalafior, kapusta, pomidory, brukselka, fasola.<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, magnez, mangan.<br><strong>Co niszczy</strong> - antybiotyki, herbata, kawa, stres, doustne środki antykoncepcyjne, alkohol, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.<br><strong>Czy można się zatruć</strong> - nie.</td>
 </tr>
 <tr>
 <td><strong>Witamina B2</strong><br>ryboflawina</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - ułatwia uzyskiwanie energii z tłuszczów, cukrów i białek. Potrzebna do naprawy i utrzymania zdrowej skóry i śluzówek. Uczestniczy w utrzymywaniu właściwego pH organizmu. Ważna dla dobrego stanu włosów, paznokci i oczu.<br>---<br><strong>Objawy niedoboru</strong> - pieczenie i swędzenie oczu, nadwrażliwość na jasne światło, stany zapalne języka, zaćma, matowe lub tłuste włosy, wypryski, zapalenie skóry, łamliwe paznokcie, pękająca górna warga.<br>---<br><strong>Źródła</strong> (co zjadać) - grzyby, kapusta, szparagi, brokuły, dynia, kiełki fasoli, makrele, pomidory, kiełki przenicy.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, selen.<br>---<br><strong>Co niszczy</strong> - alkohol, doustne środki antykoncepcyjne, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.<br>---<br><strong>Czy można się zatruć</strong> - nie, ale przy przedawkowaniu mocz zabarwia się na kolor jasnożółtozielony.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - ułatwia uzyskiwanie energii z tłuszczów, cukrów i białek. Potrzebna do naprawy i utrzymania zdrowej skóry i śluzówek. Uczestniczy w utrzymywaniu właściwego pH organizmu. Ważna dla dobrego stanu włosów, paznokci i oczu.<br><strong>Objawy niedoboru</strong> - pieczenie i swędzenie oczu, nadwrażliwość na jasne światło, stany zapalne języka, zaćma, matowe lub tłuste włosy, wypryski, zapalenie skóry, łamliwe paznokcie, pękająca górna warga.<br><strong>Źródła</strong> (co zjadać) - grzyby, kapusta, szparagi, brokuły, dynia, kiełki fasoli, makrele, pomidory, kiełki przenicy.<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, selen.<br><strong>Co niszczy</strong> - alkohol, doustne środki antykoncepcyjne, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.<br><strong>Czy można się zatruć</strong> - nie, ale przy przedawkowaniu mocz zabarwia się na kolor jasnożółtozielony.</td>
 </tr>
 <tr>
 <td><strong>Witamina B5</strong><br>kwas pantotenowy</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - uczestniczy w produkcji energii i kontroli przemiany materii. Ważna dla pracy mózgu i nerwów. Wspomaga produkcję hormonów antystresowych (steroidów). Pozwala zachować zdrową skórę i włosy.<br>---<br><strong>Objawy niedoboru</strong> - drżenie i kurczenie mięśni, osłabienie, zaburzenia koncentracji, uczucie pieczenia stóp, bolesność pięt, nudności lub wymioty, brak energii, łatwe męczenie się przy niewielkich wysiłkach, niepokój i napięcie, zgrzytanie zębami.<br>---<br><strong>Źródła</strong> (co zjadać) - grzyby, brokuły, kiełki lucerny, groch, soczewica, pomidory, kapusta, seler, truskawki jajka, dynia, awokado, pszenica nieoczyszczana.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, biotyna i kwas foliowy.<br>---<br><strong>Co niszczy</strong> - stres, alkohol, herbata, gotowanie i inna obróbka żywności.<br>---<br><strong>Czy można się zatruć</strong> - nie.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - uczestniczy w produkcji energii i kontroli przemiany materii. Ważna dla pracy mózgu i nerwów. Wspomaga produkcję hormonów antystresowych (steroidów). Pozwala zachować zdrową skórę i włosy.<br><strong>Objawy niedoboru</strong> - drżenie i kurczenie mięśni, osłabienie, zaburzenia koncentracji, uczucie pieczenia stóp, bolesność pięt, nudności lub wymioty, brak energii, łatwe męczenie się przy niewielkich wysiłkach, niepokój i napięcie, zgrzytanie zębami.<br><strong>Źródła</strong> (co zjadać) - grzyby, brokuły, kiełki lucerny, groch, soczewica, pomidory, kapusta, seler, truskawki jajka, dynia, awokado, pszenica nieoczyszczana.<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, biotyna i kwas foliowy.<br><strong>Co niszczy</strong> - stres, alkohol, herbata, gotowanie i inna obróbka żywności.<br><strong>Czy można się zatruć</strong> - nie.</td>
 </tr>
 <tr>
 <td><strong>Witamina B6</strong><br>pirodoksyna</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - ważna dla trawienia i przyswajania białek, funkcjonowania mózgu i produkcji hormonów. Pomaga utrzymać równowagę aktywności hormonów płciowych. Naturalny czynnik przeciwdepresyjny i moczopędny. Pomaga kontrolować reakcje uczuleniowe.<br>---<br><strong>Objawy niedoboru</strong> - słabe zapamiętywanie snów, zatrzymywanie wody w organizmie, mrowienie w rękach, depresja lub nerwowość, drażliwość, drżenie i kurcze mięśni, brak energii, łuszczaca się skóra.<br>---<br><strong>Źródła</strong> (co zjadać) - kalafior, kapusta, papryka, banany, dynia, brokuły, szparagi, soczewica, czerwona fasola, brukselka, cebula, różne ziarna i orzechy.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, cynk i magnez.<br>---<br><strong>Co niszczy</strong> - alkohol, papierosy, doustne środki antykoncepcyjne, dieta wysokobiałkowa, przetworzone pokarmy.<br>---<br><strong>Czy można się zatruć</strong> - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - ważna dla trawienia i przyswajania białek, funkcjonowania mózgu i produkcji hormonów. Pomaga utrzymać równowagę aktywności hormonów płciowych. Naturalny czynnik przeciwdepresyjny i moczopędny. Pomaga kontrolować reakcje uczuleniowe.<br><strong>Objawy niedoboru</strong> - słabe zapamiętywanie snów, zatrzymywanie wody w organizmie, mrowienie w rękach, depresja lub nerwowość, drażliwość, drżenie i kurcze mięśni, brak energii, łuszczaca się skóra.<br><strong>Źródła</strong> (co zjadać) - kalafior, kapusta, papryka, banany, dynia, brokuły, szparagi, soczewica, czerwona fasola, brukselka, cebula, różne ziarna i orzechy.<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, cynk i magnez.<br><strong>Co niszczy</strong> - alkohol, papierosy, doustne środki antykoncepcyjne, dieta wysokobiałkowa, przetworzone pokarmy.<br><strong>Czy można się zatruć</strong> - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.</td>
 </tr>
 <tr>
 <td><strong>Witamina B12</strong><br>cyjanokobalamina</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - ważna dla przyswajania białek. Wspomaga transport tlenu przez krew. Potrzebna do budowy DNA. Ważna dla funkcjonowania nerwów. Odgrywa rolę przy neutralizowaniu dymu tytoniowego i innych toksyn.<br>---<br><strong>Objawy niedoboru</strong> - słabe włosy, wypryski lub zapalenie skóry, nadwrażliwość na ciepło lub zimno, niepokój i napięcie, brak sił, zaparcia, nadwrażliwość mięśni lub bóle mięśniowe, blada skóra.<br>---<br><strong>Źródła</strong> (co zjadać) - sardynki, tuńczyk, mięso jagnięce (ilości śladowe), jaja, sery białe i żółte, mleko, indyk, kurczak.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, kwas foliowy.<br>---<br><strong>Co niszczy</strong> - alkohol, papierosy, niska kwaśność żołądka.<br>---<br><strong>Czy można się zatruć</strong> - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - ważna dla przyswajania białek. Wspomaga transport tlenu przez krew. Potrzebna do budowy DNA. Ważna dla funkcjonowania nerwów. Odgrywa rolę przy neutralizowaniu dymu tytoniowego i innych toksyn.<br><strong>Objawy niedoboru</strong> - słabe włosy, wypryski lub zapalenie skóry, nadwrażliwość na ciepło lub zimno, niepokój i napięcie, brak sił, zaparcia, nadwrażliwość mięśni lub bóle mięśniowe, blada skóra.<br><strong>Źródła</strong> (co zjadać) - sardynki, tuńczyk, mięso jagnięce (ilości śladowe), jaja, sery białe i żółte, mleko, indyk, kurczak.<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, kwas foliowy.<br><strong>Co niszczy</strong> - alkohol, papierosy, niska kwaśność żołądka.<br><strong>Czy można się zatruć</strong> - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.</td>
 </tr>
 <tr>
 <td><strong>Biotyna</strong></td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - szczególnie ważna u dzieci. Pomaga przy wykorzystywaniu przez organizm niezbędnych kwasów tłuszczowych oraz utrzymaniu zdrowej skóry, włosów i nerwów.<br>---<br><strong>Objawy niedoboru</strong> - sucha skóra, słabe i przedwcześnie siwiejące włosy, nadwrażliwe mięśnie lub bóle mięśniowe, słaby apetyt lub nudności, wypryski lub zapalenie skóry.<br>---<br><strong>Źródła</strong> (co zjadać) - kalafior, sałata, groch, pomidory, grapefruit, arbuz, słodka kukurydza, kapusta, kalafior, migdały, wisnie, śledzie, jaja.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, magnez, mangan.<br>---<br><strong>Co niszczy</strong> - surowe białko jaja (awidyna), pokarmy smażone.<br>---<br><strong>Czy można się zatruć</strong> - nie obserwowano.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - szczególnie ważna u dzieci. Pomaga przy wykorzystywaniu przez organizm niezbędnych kwasów tłuszczowych oraz utrzymaniu zdrowej skóry, włosów i nerwów.<br><strong>Objawy niedoboru</strong> - sucha skóra, słabe i przedwcześnie siwiejące włosy, nadwrażliwe mięśnie lub bóle mięśniowe, słaby apetyt lub nudności, wypryski lub zapalenie skóry.<br><strong>Źródła</strong> (co zjadać) - kalafior, sałata, groch, pomidory, grapefruit, arbuz, słodka kukurydza, kapusta, kalafior, migdały, wisnie, śledzie, jaja.<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, magnez, mangan.<br><strong>Co niszczy</strong> - surowe białko jaja (awidyna), pokarmy smażone.<br><strong>Czy można się zatruć</strong> - nie obserwowano.</td>
 </tr>
 <tr>
 <td><strong>Witamina C</strong><br>kwas askorbinowy</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - wspiera układ odpornościowy w walce z infekcjami. Uczestniczy w budowie kolagenu (mocne kości, zdrowe stawy i skóra). Jest przeciwutleniaczem. Dezaktywuje zanieczyszczenia organizmu. Chroni przed nowotworami i chorobami serca. Wspomaga produkcję hormonów antystresowych i przemiany pokarmu w energię.<br>---<br><strong>Objawy niedoboru</strong> - częste przeziębienia i infekcje, brak energii, wrażliwe i krwawiące dziąsła, łatwe powstawanie siniaków, krwotoki z nosa, wolne gojenie się ran, czerwone krosty na skórze.<br>---<br><strong>Źródła</strong> (co zjadać) - nać pietruszki, chrzan, papryka, kapusta, brokuły, kalafior, truskawki, cytryny, kiwi, groch, melon, pomarańcze, grapefruit, pomidory.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witaminy z grupy B, witamina E, bioflawonidy.<br>---<br><strong>Co niszczy</strong> - alkohol, papierosy, zanieczyszczenia, stres, smazone potrawy.<br>---<br><strong>Czy można się zatruć</strong> - w nadmiarze może spowodować biegunkę.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - wspiera układ odpornościowy w walce z infekcjami. Uczestniczy w budowie kolagenu (mocne kości, zdrowe stawy i skóra). Jest przeciwutleniaczem. Dezaktywuje zanieczyszczenia organizmu. Chroni przed nowotworami i chorobami serca. Wspomaga produkcję hormonów antystresowych i przemiany pokarmu w energię.<br><strong>Objawy niedoboru</strong> - częste przeziębienia i infekcje, brak energii, wrażliwe i krwawiące dziąsła, łatwe powstawanie siniaków, krwotoki z nosa, wolne gojenie się ran, czerwone krosty na skórze.<br><strong>Źródła</strong> (co zjadać) - nać pietruszki, chrzan, papryka, kapusta, brokuły, kalafior, truskawki, cytryny, kiwi, groch, melon, pomarańcze, grapefruit, pomidory.<br><strong>Pomocne w przyswajaniu</strong> - witaminy z grupy B, witamina E, bioflawonidy.<br><strong>Co niszczy</strong> - alkohol, papierosy, zanieczyszczenia, stres, smazone potrawy.<br><strong>Czy można się zatruć</strong> - w nadmiarze może spowodować biegunkę.</td>
 </tr>
 <tr>
 <td><strong>Witamina D</strong><br>ergokalcyferol<br>cholekalcyferol</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - uczestniczy w utrzymaniu zdrowych i mocnych kości przez zatrzymywanie wapnia.<br>---<br><strong>Objawy niedoboru</strong> - bóle lub sztywność stawów, bóle pleców, próchnica, kurcze mięśni, wypadanie włosów.<br>---<br><strong>Źródła</strong> (co zjadać) - śledzie, makrele, łosoś, ser biały, jaja.<br>---<br><strong>Pomocne w przyswajaniu</strong> - wystawianie się na światło słoneczne (witamina jest wtedy produkowana w skórze) i wtedy nie jest konieczne podawanie w diecie. Witaminę D chronią witaminy A, C i E.<br>---<br><strong>Co niszczy</strong> - brak światła słonecznego, smażone produkty.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1250 mikrogramów jest toksyczna.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - uczestniczy w utrzymaniu zdrowych i mocnych kości przez zatrzymywanie wapnia.<br><strong>Objawy niedoboru</strong> - bóle lub sztywność stawów, bóle pleców, próchnica, kurcze mięśni, wypadanie włosów.<br><strong>Źródła</strong> (co zjadać) - śledzie, makrele, łosoś, ser biały, jaja.<br><strong>Pomocne w przyswajaniu</strong> - wystawianie się na światło słoneczne (witamina jest wtedy produkowana w skórze) i wtedy nie jest konieczne podawanie w diecie. Witaminę D chronią witaminy A, C i E.<br><strong>Co niszczy</strong> - brak światła słonecznego, smażone produkty.<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1250 mikrogramów jest toksyczna.</td>
 </tr>
 <tr>
 <td><strong>Witamina E</strong><br>d-tokoferol</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - przeciwutleniacz, chroni komórki przed zniszczeniem, także przed rozrostem nowotworowym. Wspomaga użytkowanie tlenu przez organizm, zapobiegając krzepnięciu krwi i zatorom oraz procesom miażdżycowym. Poprawia gojenie sięran i stan skóry. Pozytywnie wpływa na płodność.<br>---<br><strong>Objawy niedoboru</strong> - brak pociągu płciowego, wyczerpanie po małym wysiłku, łatwe powstawanie siniaków, wolne gojenie się ran, żylaki, zmniejszone napięcie mięśni, niepłodność.<br>---<br><strong>Źródła</strong> (co zjadać) - nieoczyszczony olej kukurydziany, ziarna słonecznika, orzechy ziemne, ziarna sezamowe, fasola, groch, kiełki pszenicy, tuńczyk, sardynki, łosoś.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina C, selen.<br>---<br><strong>Co niszczy</strong> - wysoka temperatura przyrządzania pokarmu (zwłaszcza smażenie), zanieczyszczenie powietrza, doustne środki antykoncepcyjne, nadmierne przyjmowanie pokarmów rafinowanych (cukier, białe pieczywo) i inaczej przetwarzane tłuszcze i oleje.<br>---<br><strong>Czy można się zatruć</strong> - nie obserwowano.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - przeciwutleniacz, chroni komórki przed zniszczeniem, także przed rozrostem nowotworowym. Wspomaga użytkowanie tlenu przez organizm, zapobiegając krzepnięciu krwi i zatorom oraz procesom miażdżycowym. Poprawia gojenie sięran i stan skóry. Pozytywnie wpływa na płodność.<br><strong>Objawy niedoboru</strong> - brak pociągu płciowego, wyczerpanie po małym wysiłku, łatwe powstawanie siniaków, wolne gojenie się ran, żylaki, zmniejszone napięcie mięśni, niepłodność.<br><strong>Źródła</strong> (co zjadać) - nieoczyszczony olej kukurydziany, ziarna słonecznika, orzechy ziemne, ziarna sezamowe, fasola, groch, kiełki pszenicy, tuńczyk, sardynki, łosoś.<br><strong>Pomocne w przyswajaniu</strong> - witamina C, selen.<br><strong>Co niszczy</strong> - wysoka temperatura przyrządzania pokarmu (zwłaszcza smażenie), zanieczyszczenie powietrza, doustne środki antykoncepcyjne, nadmierne przyjmowanie pokarmów rafinowanych (cukier, białe pieczywo) i inaczej przetwarzane tłuszcze i oleje.<br><strong>Czy można się zatruć</strong> - nie obserwowano.</td>
 </tr>
 <tr>
 <td><strong>Kwas foliowy</strong></td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - u płodu warunkuje rozwój mózgu i nerwów. W późniejszym życiu ważny dla funkcjonowania układu nerwowego. Potrzebny do przyswajania białek i produkcji czerwonych krwinek.<br>---<br><strong>Objawy niedoboru</strong> - niedokrwistość (anemia), egzema, spękane usta, przedwcześnie siwiejące włosy, niepokój i napięcie, brak energii, słaby apetyt, bóle brzucha, depresje.<br>---<br><strong>Źródła</strong> (co zjadać) - kiełki pszenicy, szpinak, orzechy ziemne, szparagi, ziarna sezamowe, orzechy laskowe i włoskie, brokuły, kalafior, awokado.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witaminy grupy B, szczególnie B12.<br>---<br><strong>Co niszczy</strong> - wysoka temperatura, światło, przetwarzanie pokarmu, doustne środki antykoncepcyjne.<br>---<br><strong>Czy można się zatruć</strong> - tak, sporadycznie - przy dawce powyżej 15 mg - zaburzenia żołądkowo-jelitowe i problemy ze snem.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - u płodu warunkuje rozwój mózgu i nerwów. W późniejszym życiu ważny dla funkcjonowania układu nerwowego. Potrzebny do przyswajania białek i produkcji czerwonych krwinek.<br><strong>Objawy niedoboru</strong> - niedokrwistość (anemia), egzema, spękane usta, przedwcześnie siwiejące włosy, niepokój i napięcie, brak energii, słaby apetyt, bóle brzucha, depresje.<br><strong>Źródła</strong> (co zjadać) - kiełki pszenicy, szpinak, orzechy ziemne, szparagi, ziarna sezamowe, orzechy laskowe i włoskie, brokuły, kalafior, awokado.<br><strong>Pomocne w przyswajaniu</strong> - witaminy grupy B, szczególnie B12.<br><strong>Co niszczy</strong> - wysoka temperatura, światło, przetwarzanie pokarmu, doustne środki antykoncepcyjne.<br><strong>Czy można się zatruć</strong> - tak, sporadycznie - przy dawce powyżej 15 mg - zaburzenia żołądkowo-jelitowe i problemy ze snem.</td>
 </tr>
 <tr>
 <td><strong>Witamina K</strong><br>filochinon</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - kontroluje krzepnięcie krwi.<br>---<br><strong>Objawy niedoboru</strong> - krwotoki.<br>---<br><strong>Źródła</strong> (co zjadać) - kalafior, brukselka, sałata, kapusta, fasola, brokuły groch, szparagi, ziemniaki, olej kukurydziany, pomidory.<br>---<br><strong>Pomocne w przyswajaniu</strong> - odpowiednia flora bakteryjna, która całkowicie pokrywa zapotrzebowanie.<br>---<br><strong>Co niszczy</strong> - antybiotyki, u dzieci - karmienie nie kobiecym mlekiem z butelki.<br>---<br><strong>Czy można się zatruć</strong> - nie.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - kontroluje krzepnięcie krwi.<br><strong>Objawy niedoboru</strong> - krwotoki.<br><strong>Źródła</strong> (co zjadać) - kalafior, brukselka, sałata, kapusta, fasola, brokuły groch, szparagi, ziemniaki, olej kukurydziany, pomidory.<br><strong>Pomocne w przyswajaniu</strong> - odpowiednia flora bakteryjna, która całkowicie pokrywa zapotrzebowanie.<br><strong>Co niszczy</strong> - antybiotyki, u dzieci - karmienie nie kobiecym mlekiem z butelki.<br><strong>Czy można się zatruć</strong> - nie.</td>
 </tr>
 <tr>
 <td><strong>Witamina PP</strong><br>niacyna</td>
 <td>🟧</td>
-<td><strong>Spełniana funkcja</strong> - niezbędna do wytwarzania energii, funkcjonowania mózgu i zachowania zdrowej skóry. Pomaga utrzymać we krwi odpowiedni poziom cukru i cholesterolu. Bierze udział w łagodzeniu procesów zapalnych i wspomaga trawienie.<br>---<br><strong>Objawy niedoboru</strong> - osłabienie, biegunka, bezsenność, bóle głowy, migreny, pogorszenie pamięci, zdenerwowanie lub napięcie, depresje, rozdrażnienie, wrażliwe i krwawiące dziąsła, trądzik, egzema, zapalenie skóry.<br>---<br><strong>Źródła</strong> (co zjadać) - grzyby, tuńczyk, kurczak, łosoś, szparagi, kapusta, mięso jagnięce, makrele, indyk, pomidory, cukinia, dynia, kalafior, nieoczyszczana pszenica.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, chrom.<br>---<br><strong>Co niszczy</strong> - antybiotyki, kawa, herbata, doustne środki antykoncepcyjne, alkohol.<br>---<br><strong>Czy można się zatruć</strong> - tak, przy dawce powyżej 3000 mg.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - niezbędna do wytwarzania energii, funkcjonowania mózgu i zachowania zdrowej skóry. Pomaga utrzymać we krwi odpowiedni poziom cukru i cholesterolu. Bierze udział w łagodzeniu procesów zapalnych i wspomaga trawienie.<br><strong>Objawy niedoboru</strong> - osłabienie, biegunka, bezsenność, bóle głowy, migreny, pogorszenie pamięci, zdenerwowanie lub napięcie, depresje, rozdrażnienie, wrażliwe i krwawiące dziąsła, trądzik, egzema, zapalenie skóry.<br><strong>Źródła</strong> (co zjadać) - grzyby, tuńczyk, kurczak, łosoś, szparagi, kapusta, mięso jagnięce, makrele, indyk, pomidory, cukinia, dynia, kalafior, nieoczyszczana pszenica.<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, chrom.<br><strong>Co niszczy</strong> - antybiotyki, kawa, herbata, doustne środki antykoncepcyjne, alkohol.<br><strong>Czy można się zatruć</strong> - tak, przy dawce powyżej 3000 mg.</td>
 </tr>
 <tr>
 <td><strong>Chrom</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - jest częścią &quot;czynnika tolerancji glukozy&quot;, wspomagając regulację poziomu cukru we krwi, normalizuje poczucie głodu i zmniejsza pragnienie. Wydłuża czas życia, chroni DNA i RNA, jest niezbędny do pracy serca.<br>---<br><strong>Objawy niedoboru</strong> - obfite lub zimne poty, zawroty głowy lub drażliwość po 6 godzinach bez jedzenia, potrzeba regularnych posiłków, zimne ręce, potrzeba długiego snu i senność podczas dnia, nadmierne pragnienie, nieopanowana chęć jedzenia słodyczy.<br>---<br><strong>Źródła</strong> (co zjadać) - drożdże piwowarskie, chleb zytni i razowy, ziemniaki, kiełki pszenicy, zielona papryka, jaja, kurczak, jabłka, masło, mąka kukurydziana, mięso jagnięce, ser żółty.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne składniki czynnika tolerancji glukozy, witamina PP, trzy aminokwasy - glicyna, kwas glutaminowy i cystyna. Właściwa dieta i wysiłek fizyczny.<br>---<br><strong>Co niszczy</strong> - duże spożycie wysoko przetworzonych cukrów i mąki, otyłość, pestycydy, pochodne ropy naftowej, przetworzony pokarm, metale toksyczne.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg jest toksyczna.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - jest częścią &quot;czynnika tolerancji glukozy&quot;, wspomagając regulację poziomu cukru we krwi, normalizuje poczucie głodu i zmniejsza pragnienie. Wydłuża czas życia, chroni DNA i RNA, jest niezbędny do pracy serca.<br><strong>Objawy niedoboru</strong> - obfite lub zimne poty, zawroty głowy lub drażliwość po 6 godzinach bez jedzenia, potrzeba regularnych posiłków, zimne ręce, potrzeba długiego snu i senność podczas dnia, nadmierne pragnienie, nieopanowana chęć jedzenia słodyczy.<br><strong>Źródła</strong> (co zjadać) - drożdże piwowarskie, chleb zytni i razowy, ziemniaki, kiełki pszenicy, zielona papryka, jaja, kurczak, jabłka, masło, mąka kukurydziana, mięso jagnięce, ser żółty.<br><strong>Pomocne w przyswajaniu</strong> - inne składniki czynnika tolerancji glukozy, witamina PP, trzy aminokwasy - glicyna, kwas glutaminowy i cystyna. Właściwa dieta i wysiłek fizyczny.<br><strong>Co niszczy</strong> - duże spożycie wysoko przetworzonych cukrów i mąki, otyłość, pestycydy, pochodne ropy naftowej, przetworzony pokarm, metale toksyczne.<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg jest toksyczna.</td>
 </tr>
 <tr>
 <td><strong>Cynk</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - jest składnikiem ponad 200 enzymów w organizmie, wchodzi w skład DNA i RNA, jest niezbędny do wzrostu, wspomaga gojenie ran, kontroluje hormony produkowane w jądrach i jajnikach, wzmaga zdolność do skutecznej walki ze stresem, ma wpływ na prawidłowy rozwój układu nerwowego i mózgu (zwłaszcza u rozwijającego się płodu, wspomaga tworzenie się kości i zębów, poprawia stan i wygląd włosów, jest niezbędny do utrzymania stałego poziomu energii.<br>---<br><strong>Objawy niedoboru</strong> - osłabienie zmysłu smaku lub zapachu, białe plamy na więcej niż dwóch paznokciach, częste infekcje, rozstępy, trądzik lub przetłuszczająca się skóra, niska płodność, blada skóra, skłonność do depresji, brak apetytu.<br>---<br><strong>Źródła</strong> (co zjadać) - korzeń imbiru, mięso jagnięce, suchy groch, zielony groszek, rzepa, żółtko jaja, ziarno nieoczyszczonej pszenicy, żyto, owies, orzechy ziemne, migdały.<br>---<br><strong>Pomocne w przyswajaniu</strong> - kwas żołądkowy, witaminy A, E, B6, magnez, wapń, fosfor.<br>---<br><strong>Co niszczy</strong> - fityniany (pszenica), szczawiany (rabarbar i szpinak), wysokie spożycie wapnia, niskie spożycie białka, nadmiar cukru, stres, alkohol.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 2g może doprowadzić do zaburzeń żołądkowo-jelitowych, wymiotów, anemii, zaburzeń wzrostu, sztywności, osłabienia apetytu i śmierci.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - jest składnikiem ponad 200 enzymów w organizmie, wchodzi w skład DNA i RNA, jest niezbędny do wzrostu, wspomaga gojenie ran, kontroluje hormony produkowane w jądrach i jajnikach, wzmaga zdolność do skutecznej walki ze stresem, ma wpływ na prawidłowy rozwój układu nerwowego i mózgu (zwłaszcza u rozwijającego się płodu, wspomaga tworzenie się kości i zębów, poprawia stan i wygląd włosów, jest niezbędny do utrzymania stałego poziomu energii.<br><strong>Objawy niedoboru</strong> - osłabienie zmysłu smaku lub zapachu, białe plamy na więcej niż dwóch paznokciach, częste infekcje, rozstępy, trądzik lub przetłuszczająca się skóra, niska płodność, blada skóra, skłonność do depresji, brak apetytu.<br><strong>Źródła</strong> (co zjadać) - korzeń imbiru, mięso jagnięce, suchy groch, zielony groszek, rzepa, żółtko jaja, ziarno nieoczyszczonej pszenicy, żyto, owies, orzechy ziemne, migdały.<br><strong>Pomocne w przyswajaniu</strong> - kwas żołądkowy, witaminy A, E, B6, magnez, wapń, fosfor.<br><strong>Co niszczy</strong> - fityniany (pszenica), szczawiany (rabarbar i szpinak), wysokie spożycie wapnia, niskie spożycie białka, nadmiar cukru, stres, alkohol.<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 2g może doprowadzić do zaburzeń żołądkowo-jelitowych, wymiotów, anemii, zaburzeń wzrostu, sztywności, osłabienia apetytu i śmierci.</td>
 </tr>
 <tr>
 <td><strong>Fosfor</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - ważny w wykształceniu kości i zębów i utrzymaniu ich w dobrym stanie, niezbędny do laktacji, wchodzi w skład komórek mięśniowych i jest niezbędny do ich pracy, składnik DNA i RNA, pomaga w utrzymaniu właściwego pH płynów ustrojowych, wspomaga metabolizm i produkcję energii.<br>---<br><strong>Objawy niedoboru</strong> - mało prawdopodobne (fosfor znajduje się prawie we wszystkich pokarmach), może dojść w razie długotrwałego stosowania środków alkalizujących, w złamaniach kości lub innych urazach. Oznaki to - osłabienie mięsni, utrata apetytu, bóle kostne, krzywica, rozmiękanie kości.<br>---<br><strong>Źródła</strong> (co zjadać) - jest we wszystkich pokarmach.<br>---<br><strong>Pomocne w przyswajaniu</strong> - właściwy stosunek wapnia do fosforu, laktoza, witamina D.<br>---<br><strong>Co niszczy</strong> - żelazo, magnez, glin.<br>---<br><strong>Czy można się zatruć</strong> - nie znane są przypadki, ale może doprowadzić do niedoboru wapnia, zwiększenia pobudliwości nerwowej i konwulsji.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - ważny w wykształceniu kości i zębów i utrzymaniu ich w dobrym stanie, niezbędny do laktacji, wchodzi w skład komórek mięśniowych i jest niezbędny do ich pracy, składnik DNA i RNA, pomaga w utrzymaniu właściwego pH płynów ustrojowych, wspomaga metabolizm i produkcję energii.<br><strong>Objawy niedoboru</strong> - mało prawdopodobne (fosfor znajduje się prawie we wszystkich pokarmach), może dojść w razie długotrwałego stosowania środków alkalizujących, w złamaniach kości lub innych urazach. Oznaki to - osłabienie mięsni, utrata apetytu, bóle kostne, krzywica, rozmiękanie kości.<br><strong>Źródła</strong> (co zjadać) - jest we wszystkich pokarmach.<br><strong>Pomocne w przyswajaniu</strong> - właściwy stosunek wapnia do fosforu, laktoza, witamina D.<br><strong>Co niszczy</strong> - żelazo, magnez, glin.<br><strong>Czy można się zatruć</strong> - nie znane są przypadki, ale może doprowadzić do niedoboru wapnia, zwiększenia pobudliwości nerwowej i konwulsji.</td>
 </tr>
 <tr>
 <td><strong>Magnez</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - wzmacnia kości i zęby, utrzymuje zdrowe mięśnie, umożliwia ich rozkurczanie, wazny dla mięśnia sercowego i nerwów. Niezbędny do wytwarzania energii. Wspomaga działanie enzymów w organizmie.<br>---<br><strong>Objawy niedoboru</strong> - drżenie lub skurcze mięśni, osłabienie mięśni, bezsenność i nerwowość, wysokie ciśnienie krwi, nieregularna czynność serca, zaparcia, drgawki, wzmożona aktywność, depresja, dezorientacja, brak apetytu, odkładanie wapnia w tkankach miękkich (kamienie w nerkach).<br>---<br><strong>Źródła</strong> (co zjadać) - kiełki pszenicy, migdały, drożdże piwowarskie, mąka gryczana, orzechy ziemne, gotowana fasola, czosnek, rodzynki, zielony groszek, łupiny ziemniaków.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B1, B6, C i D, cynk, wapń i fosfor.<br>---<br><strong>Co niszczy</strong> - fityniany (otręby pszenne, chleb), tłuszcze, szczawiany (rabarbar i szpinak), wysokie spożycie wapnia (w produktach mlecznych) i białka.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg może być toksyczna.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - wzmacnia kości i zęby, utrzymuje zdrowe mięśnie, umożliwia ich rozkurczanie, wazny dla mięśnia sercowego i nerwów. Niezbędny do wytwarzania energii. Wspomaga działanie enzymów w organizmie.<br><strong>Objawy niedoboru</strong> - drżenie lub skurcze mięśni, osłabienie mięśni, bezsenność i nerwowość, wysokie ciśnienie krwi, nieregularna czynność serca, zaparcia, drgawki, wzmożona aktywność, depresja, dezorientacja, brak apetytu, odkładanie wapnia w tkankach miękkich (kamienie w nerkach).<br><strong>Źródła</strong> (co zjadać) - kiełki pszenicy, migdały, drożdże piwowarskie, mąka gryczana, orzechy ziemne, gotowana fasola, czosnek, rodzynki, zielony groszek, łupiny ziemniaków.<br><strong>Pomocne w przyswajaniu</strong> - witamina B1, B6, C i D, cynk, wapń i fosfor.<br><strong>Co niszczy</strong> - fityniany (otręby pszenne, chleb), tłuszcze, szczawiany (rabarbar i szpinak), wysokie spożycie wapnia (w produktach mlecznych) i białka.<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg może być toksyczna.</td>
 </tr>
 <tr>
 <td><strong>Mangan</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - utrzymuje w zdrowiu kości, chrząstki, tkanki i nerwy, wzmaga aktywność ponad dwudziestu układów enzymatycznych (m.in. przeciwutleniający), Wyrównuje poziom cukru we krwi. Zabezpiecza DNA i RNA. Istotny dla procesów rozrodczych, produkcji krwinek czerwonych i insuliny. Ogranicza uszkodzenia komórek. Potrzebny do funkcjonowania mózgu.<br>---<br><strong>Objawy niedoboru</strong> - skurcze mięśni, zawroty głowy lub słabe poczucie równowagi, drgawki, bóle stawów (głównie kolanowych).<br>---<br><strong>Źródła</strong> (co zjadać) - ananas, endywia, jeżyny, maliny, sałata, winogrona, truskawki, owies, burak ćwikłowy, seler.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B1, C, E i K.<br>---<br><strong>Co niszczy</strong> - antybiotyki, alkohol, produkty oczyszczane.<br>---<br><strong>Czy można się zatruć</strong> - nie występuje.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - utrzymuje w zdrowiu kości, chrząstki, tkanki i nerwy, wzmaga aktywność ponad dwudziestu układów enzymatycznych (m.in. przeciwutleniający), Wyrównuje poziom cukru we krwi. Zabezpiecza DNA i RNA. Istotny dla procesów rozrodczych, produkcji krwinek czerwonych i insuliny. Ogranicza uszkodzenia komórek. Potrzebny do funkcjonowania mózgu.<br><strong>Objawy niedoboru</strong> - skurcze mięśni, zawroty głowy lub słabe poczucie równowagi, drgawki, bóle stawów (głównie kolanowych).<br><strong>Źródła</strong> (co zjadać) - ananas, endywia, jeżyny, maliny, sałata, winogrona, truskawki, owies, burak ćwikłowy, seler.<br><strong>Pomocne w przyswajaniu</strong> - witamina B1, C, E i K.<br><strong>Co niszczy</strong> - antybiotyki, alkohol, produkty oczyszczane.<br><strong>Czy można się zatruć</strong> - nie występuje.</td>
 </tr>
 <tr>
 <td><strong>Molibden</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - wspomaga wydalanie z organizmu produktów przemiany białek (np. kwasu moczowego) oraz wolnych rodników, produktów przemiany związków chemicznych pochodzących z zanieczyszczeń i siarczanów. Wzmacnia zęby i zmniejsza ryzyko powstawania ubytków w uzębieniu.<br>---<br><strong>Objawy niedoboru</strong> - nie występują, dopóki nadmiar miedzi lub siarczanów nie ogranicza wykorzystania molibdenu (u zwierząt pojawiły się zaburzenia oddychania i problemy neurologiczne).<br>---<br><strong>Źródła</strong> (co zjadać) - pomidory, kiełki pszenicy, wieprzowina, mięso jagnięce, soczewica, fasola.<br>---<br><strong>Pomocne w przyswajaniu</strong> - białka zawierające aminokwasy siarkowe, wodorowęglany, tłuszcze.<br>---<br><strong>Co niszczy</strong> - miedź, siarczany.<br>---<br><strong>Czy można się zatruć</strong> - tak, spożycie 10-15 mg dziennie powoduje wystąpienie objawów podobnych do napadu dny moczanowej z wysokim poziomem kwasu moczowego.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - wspomaga wydalanie z organizmu produktów przemiany białek (np. kwasu moczowego) oraz wolnych rodników, produktów przemiany związków chemicznych pochodzących z zanieczyszczeń i siarczanów. Wzmacnia zęby i zmniejsza ryzyko powstawania ubytków w uzębieniu.<br><strong>Objawy niedoboru</strong> - nie występują, dopóki nadmiar miedzi lub siarczanów nie ogranicza wykorzystania molibdenu (u zwierząt pojawiły się zaburzenia oddychania i problemy neurologiczne).<br><strong>Źródła</strong> (co zjadać) - pomidory, kiełki pszenicy, wieprzowina, mięso jagnięce, soczewica, fasola.<br><strong>Pomocne w przyswajaniu</strong> - białka zawierające aminokwasy siarkowe, wodorowęglany, tłuszcze.<br><strong>Co niszczy</strong> - miedź, siarczany.<br><strong>Czy można się zatruć</strong> - tak, spożycie 10-15 mg dziennie powoduje wystąpienie objawów podobnych do napadu dny moczanowej z wysokim poziomem kwasu moczowego.</td>
 </tr>
 <tr>
 <td><strong>Potas</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - umożliwia wnikanie składników odżywczych do komórek i pozbywanie się produktów przemiany materii, zapewnia właściwe funkcjonowanie mięśni i nerwów, utrzymuje równowagę płynów w organizmie, rozkurcza mięśnie, wspomaga produkcję insuliny, bierze udział w przemianie materii, niezbędny dla pracy serca, pobudza czynność przewodu pokarmowego wspomagając prawidłowe wydalanie.<br>---<br><strong>Objawy niedoboru</strong> - szybkie i nieregularne bicie serca, osłabienie mięśni, drętwienie kończyn, drażliwość, nudności i wymioty, biegunki, wzdęcia brzucha, cellulitis, niskie ciśnienie krwi wynikające z zaburzeń równowagi potasu i sodu, splątanie, otępienie.<br>---<br><strong>Źródła</strong> (co zjadać) - kapusta, seler, pietruszka, cukinia, rzodkiewka, kalafior, grzyby, dynia, melasa.<br>---<br><strong>Pomocne w przyswajaniu</strong> - magnez (pomaga w utrzymaniu potasu wewnątrz komórek).<br>---<br><strong>Co niszczy</strong> - nadmiar sodu z soli, alkohol, cukier, leki moczopędne i przeczyszczające, kortykosterydy, stres.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1,8 g może zatrzymać pracę serca.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - umożliwia wnikanie składników odżywczych do komórek i pozbywanie się produktów przemiany materii, zapewnia właściwe funkcjonowanie mięśni i nerwów, utrzymuje równowagę płynów w organizmie, rozkurcza mięśnie, wspomaga produkcję insuliny, bierze udział w przemianie materii, niezbędny dla pracy serca, pobudza czynność przewodu pokarmowego wspomagając prawidłowe wydalanie.<br><strong>Objawy niedoboru</strong> - szybkie i nieregularne bicie serca, osłabienie mięśni, drętwienie kończyn, drażliwość, nudności i wymioty, biegunki, wzdęcia brzucha, cellulitis, niskie ciśnienie krwi wynikające z zaburzeń równowagi potasu i sodu, splątanie, otępienie.<br><strong>Źródła</strong> (co zjadać) - kapusta, seler, pietruszka, cukinia, rzodkiewka, kalafior, grzyby, dynia, melasa.<br><strong>Pomocne w przyswajaniu</strong> - magnez (pomaga w utrzymaniu potasu wewnątrz komórek).<br><strong>Co niszczy</strong> - nadmiar sodu z soli, alkohol, cukier, leki moczopędne i przeczyszczające, kortykosterydy, stres.<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1,8 g może zatrzymać pracę serca.</td>
 </tr>
 <tr>
 <td><strong>Selen</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - ma właściwości przeciwutleniające i chroni organizm przed działaniem wolnych rodników i czynników rakotwórczych, zmniejsza stan zapalny, pobudza układ odpornościowy do walki z zakażeniami, zapewnia właściwe funkcjonowanie serca i wspomaga w działaniu witaminę E, potrzebny w przemianie materii.<br>---<br><strong>Objawy niedoboru</strong> - występowanie nowotworów w rodzinie, oznaki przedwczesnego starzenia się, zaćma, wysokie ciśnienie krwi, częste zakażenia.<br>---<br><strong>Źródła</strong> (co zjadać) - tuńczyk, melasa, grzyby, śledzie, biały ser, kapusta, wątroba wołowa, cukinia, dorsz, kurczak.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina A, C i E.<br>---<br><strong>Co niszczy</strong> - produkty oczyszczone, współczesne techniki uprawy i hodowli.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 750 mikrogramów może powodować nieprawidłowości w budowie białek tworzących strukturę włosa, paznokci i skóry oraz &quot;czosnkowy&quot; oddech.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - ma właściwości przeciwutleniające i chroni organizm przed działaniem wolnych rodników i czynników rakotwórczych, zmniejsza stan zapalny, pobudza układ odpornościowy do walki z zakażeniami, zapewnia właściwe funkcjonowanie serca i wspomaga w działaniu witaminę E, potrzebny w przemianie materii.<br><strong>Objawy niedoboru</strong> - występowanie nowotworów w rodzinie, oznaki przedwczesnego starzenia się, zaćma, wysokie ciśnienie krwi, częste zakażenia.<br><strong>Źródła</strong> (co zjadać) - tuńczyk, melasa, grzyby, śledzie, biały ser, kapusta, wątroba wołowa, cukinia, dorsz, kurczak.<br><strong>Pomocne w przyswajaniu</strong> - witamina A, C i E.<br><strong>Co niszczy</strong> - produkty oczyszczone, współczesne techniki uprawy i hodowli.<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 750 mikrogramów może powodować nieprawidłowości w budowie białek tworzących strukturę włosa, paznokci i skóry oraz &quot;czosnkowy&quot; oddech.</td>
 </tr>
 <tr>
 <td><strong>Sód</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - utrzymuje równowagę płynów w organizmie, zapobiega odwodnieniu, wspomaga czynności nerwów, bierze udział w skurczu mięśni, w tym mięśnia sercowego, wykorzystywany jest do produkcji energii, ułatwia wprowadzanie składników odżywczych do wnętrza komórek.<br>---<br><strong>Objawy niedoboru</strong> - zawroty głowy, zła tolerancja wysokich temperatur, niskie ciśnienie krwi, przyspieszone tętno, apatia umysłowa, brak apetytu, kurcze mięśni, nudności i wymioty, spadek masy ciała, bóle głowy.<br>---<br><strong>Źródła</strong> (co zjadać) - kapusta kiszona, oliwki, mięso, burak ćwikłowy, szynka, seler, kapusta, ser biały, czerwona fasola.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina D.<br>---<br><strong>Co niszczy</strong> - potas i chlor równoważą działanie sodu.<br>---<br><strong>Czy można się zatruć</strong> - tak, jeśli spożywa się dużo sodu z produktów oczyszczanych i pije niewiele wody, występują obrzęki, wysokie ciśnienie krwi i choroby nerek.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - utrzymuje równowagę płynów w organizmie, zapobiega odwodnieniu, wspomaga czynności nerwów, bierze udział w skurczu mięśni, w tym mięśnia sercowego, wykorzystywany jest do produkcji energii, ułatwia wprowadzanie składników odżywczych do wnętrza komórek.<br><strong>Objawy niedoboru</strong> - zawroty głowy, zła tolerancja wysokich temperatur, niskie ciśnienie krwi, przyspieszone tętno, apatia umysłowa, brak apetytu, kurcze mięśni, nudności i wymioty, spadek masy ciała, bóle głowy.<br><strong>Źródła</strong> (co zjadać) - kapusta kiszona, oliwki, mięso, burak ćwikłowy, szynka, seler, kapusta, ser biały, czerwona fasola.<br><strong>Pomocne w przyswajaniu</strong> - witamina D.<br><strong>Co niszczy</strong> - potas i chlor równoważą działanie sodu.<br><strong>Czy można się zatruć</strong> - tak, jeśli spożywa się dużo sodu z produktów oczyszczanych i pije niewiele wody, występują obrzęki, wysokie ciśnienie krwi i choroby nerek.</td>
 </tr>
 <tr>
 <td><strong>Wapń</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - poprawia stan serca i nerwów, wspomaga procesy krzepnięcia krwi i pracy mięśni. Niezbędny w zachowaniu zdrowej skóry, kości i zębów. Usuwa bóle mięśni i kości. Utrzymuje równowagę kwasowo-zasadową. Zmniejsza napięcie i skurcze miesiączkowe.<br>---<br><strong>Objawy niedoboru</strong> - drżenie i kurcze mięśni, bezsenność i nerwowość, ból i zapalenie stawów, próchnica, wysokie ciśnienie krwi.<br>---<br><strong>Źródła</strong> (co zjadać) - żółty ser, ser cheddar, migdały, drożdże piwowarskie, pietruszka, placki kukurydziane, karczochy, suszone śliwki, ziarna dyni, gotowana suszona fasola, kapusta, zimowa pszenica.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina D, bor, wysiłek fizyczny.<br>---<br><strong>Co niszczy</strong> - rozchwianie hormonalne, alkohol, brak ruchu, kofeina, herbata, brak kwasu solnego i nadmiar tłuszczów lub fosforu obniża wchłanianie wapnia, stres zwiększa wydalanie.<br>---<br><strong>Czy można się zatruć</strong> - nie, ale prowadzi do odkładania się nadmiaru w postaci kamieni w nerkach, sercu i innych tkankach miękkich.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - poprawia stan serca i nerwów, wspomaga procesy krzepnięcia krwi i pracy mięśni. Niezbędny w zachowaniu zdrowej skóry, kości i zębów. Usuwa bóle mięśni i kości. Utrzymuje równowagę kwasowo-zasadową. Zmniejsza napięcie i skurcze miesiączkowe.<br><strong>Objawy niedoboru</strong> - drżenie i kurcze mięśni, bezsenność i nerwowość, ból i zapalenie stawów, próchnica, wysokie ciśnienie krwi.<br><strong>Źródła</strong> (co zjadać) - żółty ser, ser cheddar, migdały, drożdże piwowarskie, pietruszka, placki kukurydziane, karczochy, suszone śliwki, ziarna dyni, gotowana suszona fasola, kapusta, zimowa pszenica.<br><strong>Pomocne w przyswajaniu</strong> - witamina D, bor, wysiłek fizyczny.<br><strong>Co niszczy</strong> - rozchwianie hormonalne, alkohol, brak ruchu, kofeina, herbata, brak kwasu solnego i nadmiar tłuszczów lub fosforu obniża wchłanianie wapnia, stres zwiększa wydalanie.<br><strong>Czy można się zatruć</strong> - nie, ale prowadzi do odkładania się nadmiaru w postaci kamieni w nerkach, sercu i innych tkankach miękkich.</td>
 </tr>
 <tr>
 <td><strong>Żelazo</strong></td>
 <td>🟦</td>
-<td><strong>Spełniana funkcja</strong> - jako część hemoglobiny transportuje tlen i dwutlenek węgla do i z tkanek. Składnik enzymów niezbędny do produkcji energii.<br>---<br><strong>Objawy niedoboru</strong> - anemia, brak apetytu, obolały język, uczucie zmęczenia, apatia, nudności, wrażliwość na zimno.<br>---<br><strong>Źródła</strong> (co zjadać) - ziarna dyni, pietruszka, migdały, suszone śliwki, rodzynki, orzechy włoskie, daktyle, wieprzowina, gotowana suszona fasola, ziarna sezamowe.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B1, B6, C i D, cynk, wapń i fosfor.<br>---<br><strong>Co niszczy</strong> - kwas taninowy (herbata), fityniany (otręby pszenne, bób), szczawiany (rabarbar i szpinak), fosforany (napoje gazowane, dodatki do żywności), substancje alkalizujące, białka sojowe, spożywanie dużej ilości cynku.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg może być toksyczna.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - jako część hemoglobiny transportuje tlen i dwutlenek węgla do i z tkanek. Składnik enzymów niezbędny do produkcji energii.<br><strong>Objawy niedoboru</strong> - anemia, brak apetytu, obolały język, uczucie zmęczenia, apatia, nudności, wrażliwość na zimno.<br><strong>Źródła</strong> (co zjadać) - ziarna dyni, pietruszka, migdały, suszone śliwki, rodzynki, orzechy włoskie, daktyle, wieprzowina, gotowana suszona fasola, ziarna sezamowe.<br><strong>Pomocne w przyswajaniu</strong> - witamina B1, B6, C i D, cynk, wapń i fosfor.<br><strong>Co niszczy</strong> - kwas taninowy (herbata), fityniany (otręby pszenne, bób), szczawiany (rabarbar i szpinak), fosforany (napoje gazowane, dodatki do żywności), substancje alkalizujące, białka sojowe, spożywanie dużej ilości cynku.<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg może być toksyczna.</td>
 </tr>
 <tr>
 <td><strong>Bioflawonidy</strong></td>
 <td>🟩</td>
-<td><strong>Spełniana funkcja</strong> - wspomagają działanie witaminy C, wzmacniają naczynia włoskowate, przyspieszają gojenie się ran, a także urazów i nadwerężonych mięśni, przeciwutleniacze.<br>---<br><strong>Objawy niedoboru</strong> - łatwe powstawanie siniaków, żylaki, częste urazy i nadwerężenia.<br>---<br><strong>Źródła</strong> (co zjadać) - owoce jagodowe, wiśnie, owoce cytrusowe.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina C.<br>---<br><strong>Co niszczy</strong> - wolne rodniki.<br>---<br><strong>Czy można się zatruć</strong> - nieznane.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - wspomagają działanie witaminy C, wzmacniają naczynia włoskowate, przyspieszają gojenie się ran, a także urazów i nadwerężonych mięśni, przeciwutleniacze.<br><strong>Objawy niedoboru</strong> - łatwe powstawanie siniaków, żylaki, częste urazy i nadwerężenia.<br><strong>Źródła</strong> (co zjadać) - owoce jagodowe, wiśnie, owoce cytrusowe.<br><strong>Pomocne w przyswajaniu</strong> - witamina C.<br><strong>Co niszczy</strong> - wolne rodniki.<br><strong>Czy można się zatruć</strong> - nieznane.</td>
 </tr>
 <tr>
 <td><strong>Cholina</strong></td>
 <td>🟩</td>
-<td><strong>Spełniana funkcja</strong> - składnik lecytyny, która pomaga rozkładać tłuszcze w wątrobie, ułatwia wprowadzanie tłuszczów do komórek i syntezę błon komórkowych w układzie nerwowym, chroni tkankę płuc.<br>---<br><strong>Objawy niedoboru</strong> - wady rozwojowe u noworodków, wysoki poziom cholesterolu i tłuszczów, stłuszczenie wątroby, zwyrodnienie nerwów, wysokie ciśnienie krwi, miażdżyca naczyń, otępienie starcze, zmniejszenie odporności na choroby.<br>---<br><strong>Źródła</strong> (co zjadać) - lecytyna, jajka, ryby, wątroba, soja, orzechy ziemne, produkty pełnoziarniste, orzechy, rośliny strączkowe, owoce cytrusowe, kiełki pszenicy, drżdże piwne.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B5, lit.<br>---<br><strong>Co niszczy</strong> - alkohol, tabletki antykoncepcyjne.<br>---<br><strong>Czy można się zatruć</strong> - nieznane.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - składnik lecytyny, która pomaga rozkładać tłuszcze w wątrobie, ułatwia wprowadzanie tłuszczów do komórek i syntezę błon komórkowych w układzie nerwowym, chroni tkankę płuc.<br><strong>Objawy niedoboru</strong> - wady rozwojowe u noworodków, wysoki poziom cholesterolu i tłuszczów, stłuszczenie wątroby, zwyrodnienie nerwów, wysokie ciśnienie krwi, miażdżyca naczyń, otępienie starcze, zmniejszenie odporności na choroby.<br><strong>Źródła</strong> (co zjadać) - lecytyna, jajka, ryby, wątroba, soja, orzechy ziemne, produkty pełnoziarniste, orzechy, rośliny strączkowe, owoce cytrusowe, kiełki pszenicy, drżdże piwne.<br><strong>Pomocne w przyswajaniu</strong> - witamina B5, lit.<br><strong>Co niszczy</strong> - alkohol, tabletki antykoncepcyjne.<br><strong>Czy można się zatruć</strong> - nieznane.</td>
 </tr>
 <tr>
 <td><strong>Inozytol</strong></td>
 <td>🟩</td>
-<td><strong>Spełniana funkcja</strong> - potrzebny do wzrostu komórek, konieczny do rozwoju osłonek nerwowych oraz funkcjonowania mózgu i rdzenia kręgowego, ma niewielkie działanie uspokajające, obniża poziom cholesterolu we krwi, potrzebny do utrzymania zdrowych włosów.<br>---<br><strong>Objawy niedoboru</strong> - drazliwość, bezsenność, nerwowość, nadmierna pobudliwość, osłabienie wzrostu i regeneracji nerwów, niski poziom HDL.<br>---<br><strong>Źródła</strong> (co zjadać) - lecytyna, rosliny strączkowe, mąka sojowa, jajka, ryby, wątroba, owoce cytrusowe, melon, orzechy, kiełki pszenicy, drożdże piwne.<br>---<br><strong>Pomocne w przyswajaniu</strong> - cholina.<br>---<br><strong>Co niszczy</strong> - fityniany, antybiotyki, alkohol, herbata, kawa, tabletki antykoncepcyjne, leki moczopędne.<br>---<br><strong>Czy można się zatruć</strong> - nieznane.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
-<td></td>
+<td><strong>Spełniana funkcja</strong> - potrzebny do wzrostu komórek, konieczny do rozwoju osłonek nerwowych oraz funkcjonowania mózgu i rdzenia kręgowego, ma niewielkie działanie uspokajające, obniża poziom cholesterolu we krwi, potrzebny do utrzymania zdrowych włosów.<br><strong>Objawy niedoboru</strong> - drazliwość, bezsenność, nerwowość, nadmierna pobudliwość, osłabienie wzrostu i regeneracji nerwów, niski poziom HDL.<br><strong>Źródła</strong> (co zjadać) - lecytyna, rosliny strączkowe, mąka sojowa, jajka, ryby, wątroba, owoce cytrusowe, melon, orzechy, kiełki pszenicy, drożdże piwne.<br><strong>Pomocne w przyswajaniu</strong> - cholina.<br><strong>Co niszczy</strong> - fityniany, antybiotyki, alkohol, herbata, kawa, tabletki antykoncepcyjne, leki moczopędne.<br><strong>Czy można się zatruć</strong> - nieznane.</td>
 </tr>
 <tr>
 <td><strong>Koenzym Q10</strong></td>
 <td>🟩</td>
-<td><strong>Spełniana funkcja</strong> - przeciwutleniacz, odgrywa główną rolę w przemianie materii i metabolizmie, usprawnia pracę serca, pomaga normalizować ciśnienie krwi, zwiększa tolerancję wysiłku, wzmacnia odporność.<br>---<br><strong>Objawy niedoboru</strong> - brak energii, choroby serca, słaba tolerancja wysiłku, upośledzenie czynności układu odpornościowego.<br>---<br><strong>Źródła</strong> (co zjadać) - sardynki, makrele, wieprzowina, szpinak, olej sojowy, orzechy ziemne, ziarna sezamowe, orzechy włoskie<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B kompleks, żelazo.<br>---<br><strong>Co niszczy</strong> - używki, cukier.<br>---<br><strong>Czy można się zatruć</strong> - nieznane.</td>
+<td><strong>Spełniana funkcja</strong> - przeciwutleniacz, odgrywa główną rolę w przemianie materii i metabolizmie, usprawnia pracę serca, pomaga normalizować ciśnienie krwi, zwiększa tolerancję wysiłku, wzmacnia odporność.<br><strong>Objawy niedoboru</strong> - brak energii, choroby serca, słaba tolerancja wysiłku, upośledzenie czynności układu odpornościowego.<br><strong>Źródła</strong> (co zjadać) - sardynki, makrele, wieprzowina, szpinak, olej sojowy, orzechy ziemne, ziarna sezamowe, orzechy włoskie<br><strong>Pomocne w przyswajaniu</strong> - witamina B kompleks, żelazo.<br><strong>Co niszczy</strong> - używki, cukier.<br><strong>Czy można się zatruć</strong> - nieznane.</td>
 </tr>
 </tbody></table></div>
 <p>Jak z tego widać kilkaset lat nowoczesnej medycyny nie wniosło zbyt wiele do zrozumienia przemian zachodzących w ludzkim organizmie. Dzisiejsza wiedza medyczna, to pełzająca nauka podpatrująca ukradkiem nauki starożytnych i z pomocą bratniej chemii usiłująca rozwiązywać problemy zdrowia. Musimy szybko zrozumieć, że w tym światowym doświadczeniu my, zwykli ludzie jesteśmy tylko królikami doświadczalnymi. Żeby było ciekawiej, to wszelkie doświadczenia zdobyte na zamęczanych w imię nauki szczurach i myszach, uczniowie Paracelsusa przenoszą na ludzi wychodząc z założenia, że wszyscy jesteśmy wielką ewolucyjną rodziną.</p>

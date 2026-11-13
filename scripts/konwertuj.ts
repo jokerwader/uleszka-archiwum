@@ -242,37 +242,66 @@ function konwertuj(w: Wpis): { md: string; obrazy: { src: string; alt: string }[
   const tekstKomorki = (k: Wezel) => (k.textContent ?? "").replace(/\s+/g, " ").trim();
   const wierszeTabeli = (t: Wezel) =>
     Array.from(t.querySelectorAll("tr")).map((w) => Array.from(w.childNodes).filter((k) => k.nodeName === "TD" || k.nodeName === "TH"));
+  const tylkoObraz = (k: Wezel) => k.querySelectorAll("img").length > 0 && !tekstKomorki(k);
+  const tekstowa = (k: Wezel) => !!tekstKomorki(k) && !k.querySelectorAll("img").length;
+  const pustaKomorka = (k: Wezel) => !tekstKomorki(k) && !k.querySelectorAll("img").length;
   const czyTabelaDanych = (t: Wezel) => {
-    if (t.querySelectorAll("table").length || t.querySelectorAll("img").length) return false;
+    if (t.querySelectorAll("table").length) return false;
     const wiersze = wierszeTabeli(t);
     if (wiersze.length < 2 || Math.max(...wiersze.map((w) => w.length)) < 2) return false;
+    // tabela z obrazkami jest zestawieniem tylko wtedy, gdy ma kilka wierszy z tekstem w kilku kolumnach
+    // (np. kalendarz Henocha: miesiące, dni, rysunki, proporcje) – inaczej to galeria albo układ strony
+    if (t.querySelectorAll("img").length && wiersze.filter((r) => r.filter(tekstowa).length >= 2).length < 2) return false;
     return wiersze.every((w) => w.every((k) => tekstKomorki(k).length <= 2000));
   };
   // galerie: wiersz zdjęć, a pod nim (albo nad nim) wiersz podpisów – odtwarzamy pary „zdjęcie + jego podpis”.
+  // Uwzględniamy scalone komórki (colspan: jeden podpis pod dwoma zdjęciami), puste kolumny-odstępy i puste wiersze.
   // Zdjęcia nie mają liter, więc kolejność tekstu (i kontrola wierności) się nie zmienia.
-  const tylkoObraz = (k: Wezel) => k.querySelectorAll("img").length > 0 && !tekstKomorki(k);
+  type Pole = { k: Wezel; od: number; do: number };
+  const siatka = (t: Wezel): Pole[][] =>
+    wierszeTabeli(t)
+      .map((r) => {
+        let c = 0;
+        return r.map((k) => {
+          const n = Math.max(1, Number((k as unknown as { getAttribute(n: string): string | null }).getAttribute("colspan")) || 1);
+          const p = { k, od: c, do: c + n - 1 };
+          c += n;
+          return p;
+        });
+      })
+      .map((r) => r.filter((p) => !pustaKomorka(p.k)))
+      .filter((r) => r.length);
+  const rzadObrazow = (r?: Pole[]) => !!r && r.length > 1 && r.every((p) => tylkoObraz(p.k));
+  const rzadPodpisow = (r?: Pole[]) => !!r && r.length > 0 && r.every((p) => tekstowa(p.k) && tekstKomorki(p.k).length <= 200);
   const czyGaleria = (t: Wezel) => {
-    if (t.querySelectorAll("table").length || !t.querySelectorAll("img").length) return false;
-    const w = wierszeTabeli(t);
-    return w.some((r, i) => r.length > 1 && r.every(tylkoObraz) && ((w[i + 1]?.length === r.length && !w[i + 1].some(tylkoObraz)) || (w[i - 1]?.length === r.length && !w[i - 1].some(tylkoObraz))));
+    if (t.querySelectorAll("table").length || !t.querySelectorAll("img").length || czyTabelaDanych(t)) return false;
+    const w = siatka(t);
+    return w.some((r, i) => rzadObrazow(r) && (rzadPodpisow(w[i + 1]) || rzadPodpisow(w[i - 1])));
   };
   td.addRule("galerie", {
     filter: (node) => node.nodeName === "TABLE" && czyGaleria(node as unknown as Wezel),
     replacement: (_c, node) => {
-      const w = wierszeTabeli(node as unknown as Wezel);
+      const w = siatka(node as unknown as Wezel);
       const md = (k: Wezel) => td.turndown(k.innerHTML).trim();
-      const obrazki = (r: Wezel[]) => r.length > 1 && r.every(tylkoObraz);
+      // zdjęcia trafiają do podpisu, którego kolumny się z nimi pokrywają; reszta zostaje osobno, w kolejności
+      const paruj = (zdjecia: Pole[], podpisy: Pole[], podpisPod: boolean) => {
+        const out: string[] = [];
+        const uzyte = new Set<Pole>();
+        for (const c of podpisy) {
+          for (const z of zdjecia) if (!uzyte.has(z) && z.do < c.od) (out.push(md(z.k)), uzyte.add(z));
+          const pasujace = zdjecia.filter((z) => !uzyte.has(z) && z.od <= c.do && z.do >= c.od);
+          pasujace.forEach((z) => uzyte.add(z));
+          const obrazy = pasujace.map((z) => md(z.k)).join(" ");
+          out.push((podpisPod ? [obrazy, md(c.k)] : [md(c.k), obrazy]).filter(Boolean).join("  \n"));
+        }
+        for (const z of zdjecia) if (!uzyte.has(z)) out.push(md(z.k));
+        return out;
+      };
       const wyjscie: string[] = [];
       for (let i = 0; i < w.length; i++) {
-        const r = w[i];
-        const nast = w[i + 1];
-        if (obrazki(r) && nast && nast.length === r.length && !nast.some(tylkoObraz)) {
-          r.forEach((k, j) => wyjscie.push([md(k), md(nast[j])].filter(Boolean).join("  \n")));
-          i++;
-        } else if (!obrazki(r) && nast && obrazki(nast) && nast.length === r.length) {
-          r.forEach((k, j) => wyjscie.push([md(k), md(nast[j])].filter(Boolean).join("  \n")));
-          i++;
-        } else r.forEach((k) => wyjscie.push(md(k)));
+        if (rzadObrazow(w[i]) && rzadPodpisow(w[i + 1])) (wyjscie.push(...paruj(w[i], w[i + 1], true)), i++);
+        else if (rzadPodpisow(w[i]) && rzadObrazow(w[i + 1])) (wyjscie.push(...paruj(w[i + 1], w[i], false)), i++);
+        else w[i].forEach((p) => wyjscie.push(md(p.k)));
       }
       return `\n\n${wyjscie.filter(Boolean).join("\n\n")}\n\n`;
     },
@@ -299,6 +328,8 @@ function konwertuj(w: Wpis): { md: string; obrazy: { src: string; alt: string }[
         w.map((k) => {
           const tresc = td
             .turndown(k.innerHTML)
+            .replace(/^(?:---|\* \* \*)$/gm, "") // ozdobne linie poziome w komórkach – w tabeli wyglądałyby jak tekst
+            .trim()
             .replace(/\n{2,}/g, "<br>")
             .replace(/ {2}\n|\n/g, "<br>")
             .replace(/\|/g, "\\|")

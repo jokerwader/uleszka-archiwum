@@ -14,12 +14,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
@@ -35,8 +35,8 @@
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -79,8 +79,9 @@
 <p>Przykłady widzimy na co dzień - pomyślmy o kłótniach kierowców albo o rozmowach w kolejce do opóźnionego czy skasowanego nocnego lotu. Kokon prywatności, jaki nosimy z sobą w lotniskowych poczekalniach, zamienia się w chwilową solidarność. Zrozumienie, gdy spoglądamy ku sobie ponad płachtami gazet lub ekranami laptopów. Wspólne dawanie wyrazu złości lub ironii.</p>
 <p>Często wyrasta z tego grupowa solidarność skierowana przeciwko niewinnej obsłudze z British Airways, Air France lub American Airlines (wspólny wróg to jedyny pewny sposób na solidarność).</p>
 <p>Nagle pojawia się plotka: jest parę wolnych miejsc w locie z bramki nr 37. Solidarność pryska, anioły zamieniają się w zwierzęta. Chorzy, starcy, kobiety i dzieci zostają w tyle. Faceci w ciemnych garniturach z dyplomami z Harvardu i Oksfordu o nienagannych manierach walczą jak goryle. Kiedy przepchną się po swoje, czyli kartę pokładową, wycofują się do kątów, unikając spojrzeń. Goryl dostał banana (wierzcie, wiem, o czym mówię - sam bywałem gorylem). A wszystko po to, żeby uniknąć nocy w Holiday Inn w Des Moines.</p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/upadek/bogaci.jpg" alt="Długa kolumna ciężarówek i samochodów (m.in. pojazdy techniczne z podnośnikami) jadąca drogą szybkiego ruchu; w tle billboardy i drzewa. Napis: EXIT 69" title="Opis AI: Długa kolumna ciężarówek i samochodów (m.in. pojazdy techniczne z podnośnikami) jadąca drogą szybkiego ruchu; w tle billboardy i drzewa. Napis: EXIT 69" loading="lazy" decoding="async"><br>Bogactwo zdążyło uciec ... (foto AFP)</p>
+<div class="galeria"><p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/upadek/bogaci.jpg" alt="Długa kolumna ciężarówek i samochodów (m.in. pojazdy techniczne z podnośnikami) jadąca drogą szybkiego ruchu; w tle billboardy i drzewa. Napis: EXIT 69" title="Opis AI: Długa kolumna ciężarówek i samochodów (m.in. pojazdy techniczne z podnośnikami) jadąca drogą szybkiego ruchu; w tle billboardy i drzewa. Napis: EXIT 69" loading="lazy" decoding="async"><br>Bogactwo zdążyło uciec ... (foto AFP)</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/upadek/biedni.jpg" alt="Zalana ulica miasta; dwóch ludzi brodzi w wodzie po kolana, w tle budynki i billboardy (skutki powodzi po huraganie, wg kontekstu artykułu)." title="Opis AI: Zalana ulica miasta; dwóch ludzi brodzi w wodzie po kolana, w tle budynki i billboardy (skutki powodzi po huraganie, wg kontekstu artykułu)." loading="lazy" decoding="async"><br>... bieda pozostała (foto AFP)</p>
+</div>
 <p>&quot;Decywilizacja&quot; w Nowym Orleanie była oczywiście czymś tysiąckroć gorszym. Nie mogę pozbyć się wrażenia, że coś takiego będzie zdarzać się częściej - znacznie częściej - kiedy zagłębimy się w XXI stulecie. Po prostu zbyt wiele mogących cofnąć ludzkość w rozwoju gróźb wisi w powietrzu. Do najoczywistszych należy nasilenie się klęsk żywiołowych w następstwie zmian klimatycznych. Jeśli ten kataklizm uznany zostanie przez amerykańskich polityków w rodzaju Johna McCaina - by się posłużyć wyświechtanym frazesem, jakim oni bez wątpienia się posłużą - za sygnał alarmowy przypominający Amerykanom o konsekwencjach pompowania w atmosferę dwutlenku węgla, to okaże się, że nawet mroczna chmura huraganu &quot;Katrina&quot; miała swą jasną stronę. Ale może już być za późno.</p>
 <p>Jeśli prawdziwe są ostatnie doniesienia o tym, że topią się nie tylko polarne czapy lodowe, ale i syberyjska wieczna zmarzlina - co z kolei spowoduje dalszy wzrost emisji gazów cieplarnianych - może okazać się, że uruchomione zostały nieodwracalne procesy. Gdyby tak było - gdyby znaczne obszary świata nękać miały nieprzewidywalne burze, powodzie i wahania temperatury - wówczas to, co wydarzyło się w Nowym Orleanie, może okazać się kaszką z mleczkiem.</p>
 <p>Tornada te będą w pewnym sensie dziełem człowieka. Jednak ludzie stwarzają sami sobie bardziej bezpośrednie zagrożenia.</p>

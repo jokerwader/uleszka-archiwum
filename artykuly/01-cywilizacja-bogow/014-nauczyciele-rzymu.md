@@ -158,18 +158,13 @@ Panuje powszechne przekonanie, że kultura Celtów w najczystszej postaci zachow
 
 Jak na epokę i przysłowiową irlandzką biedę są to cuda techniki. Do budowy użyto najtrudniejszego w obróbce kamienia spajanego jakąś irlandzką "pucolaną". Budowano z płaskich kamieni, wygładzanych ze strony lica, a otwory okienne zdobiono cyzelowanymi, kamiennymi ramami. Proszę zwrócić uwagę na kształt okna. Wykonano je dla postawienia we wnęce rzeźby, która była otoczona poświatą światła padającego z zewnątrz wąską szczeliną. W środku musiał panować przyjemny półmrok podkreślający zarys rzeźb. Zaiste musiał to wymyśleć i wykonać przedstawiciel prymitywnej cywilizacji. Takich kościołów na terenie Irlandii są setki i łączy je jeszcze jedna cecha - prawie wszystkie są zniszczone.
 
-![](../../zrodlo/webacja/13celtowie/krzyze/krzyz6.jpg)
-
-![](../../zrodlo/webacja/13celtowie/krzyze/krzyz4.jpg)
-
-![](../../zrodlo/webacja/13celtowie/krzyze/krzyz2.jpg)
-
-![](../../zrodlo/webacja/13celtowie/krzyze/krzyz3.jpg)
-
+![](../../zrodlo/webacja/13celtowie/krzyze/krzyz6.jpg) ![](../../zrodlo/webacja/13celtowie/krzyze/krzyz4.jpg)  
 Irlandia
 
+![](../../zrodlo/webacja/13celtowie/krzyze/krzyz2.jpg)  
 Francja
 
+![](../../zrodlo/webacja/13celtowie/krzyze/krzyz3.jpg)  
 Polska
 
 Jedną z najbardziej zagadkowych postaci jest figura Chrystusa(?) na krzyżu celtyckim. Jak widać figura ma rozkrzyżowane ręce (na jednym nawet swobodnie stoi) i nie wygląda na dobrze nam znaną figurę Chrystusa ukrzyżowanego. Co ciekawsze taką pozę znajdujemy też we francuskiej Galii, a nawet w Polsce na portalu starej kolegiaty w Koninie. Inne podejście do męki Pańskiej czy też forma daleko starsza od rzymsko-chrześcijańskiej?
@@ -245,32 +240,25 @@ Carcassonne to już nie tylko zamek, a całe kamienne miasto leżące na połudn
 
 Innym ciekawym szczegółem, na który nie zwraca się uwagi, są szczeliny w murach zamków. Ich szerokość waha się od kilku do kilkunastu centymetrów, długość od kilkudziesięciu centymetrów do kilku metrów. Znajdują się w różnych miejscach - od przyziemia po szczyty wież. Znajdują się na ścianach wież, na murach, a nawet w ich załomkach. Jakie było ich przeznaczenie? Obserwacja, wentylacja, oświetlenie, odprowadzanie wody czy wzmocnienie obrony? Jako otwory strzelnicze nie spełniały raczej swojego zadania z uwagi na minimalny kąt ostrzału i trafienie z nich wroga było raczej dziełem przypadku. Obserwacja też nie wchodziła w rachubę z tego samego względu co ostrzał.
 
-![](../../zrodlo/webacja/13celtowie/szcz/irland.jpg)
-
-![](../../zrodlo/webacja/13celtowie/szcz/arques.jpg)
-
-![](../../zrodlo/webacja/13celtowie/szcz/carcas.jpg)
-
-![](../../zrodlo/webacja/13celtowie/szcz/delmonte.jpg)
-
-![](../../zrodlo/webacja/13celtowie/szcz/kdc.jpg)
-
-![](../../zrodlo/webacja/13celtowie/szcz/margat.jpg)
-
-![](../../zrodlo/webacja/13celtowie/szcz/montsegur.jpg)
-
+![](../../zrodlo/webacja/13celtowie/szcz/irland.jpg)  
 Irlandia
 
+![](../../zrodlo/webacja/13celtowie/szcz/arques.jpg)  
 Arques
 
+![](../../zrodlo/webacja/13celtowie/szcz/carcas.jpg)  
 Carcassonne
 
+![](../../zrodlo/webacja/13celtowie/szcz/delmonte.jpg)  
 Apulia
 
+![](../../zrodlo/webacja/13celtowie/szcz/kdc.jpg)  
 Syria
 
+![](../../zrodlo/webacja/13celtowie/szcz/margat.jpg)  
 Margat
 
+![](../../zrodlo/webacja/13celtowie/szcz/montsegur.jpg)  
 Montsegur
 
 Do czego służyły nie wiadomo, jednak musiały spełniać jakąś ważną rolę, gdyż niektóre z nich są specjalnie obudowane większymi, polerowanymi kamieniami. Musiał to być znaczący element architektoniczny, a być może i techniczny, gdyż szczeliny te występują w większości zamków średniowiecznej Europy, od Wysp Brytyjskich po Syrię i od Portugalii po Niemcy. Jeśli, jak twierdzą historycy, każde państwo rozwijało z osobna swoją kulturę, technikę i sztukę, to jak wytłumaczyć występowanie tego uniwersalnego elementu architektonicznego? Czy wnęka z zamku Montsegur rozwiązuje do końca tę zagadkę?
@@ -391,18 +379,13 @@ Rabsztyn
 
 Dlaczego tak ważna inwestycja z punktu widzenia obronności państwa, popadła w ruinę w tak krótkim czasie? Dlaczego żaden zamek (no prawie żaden) nie został odbudowany?
 
-![](../../zrodlo/webacja/13celtowie/polcelt/_babice.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/_nidzica.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/_kt1.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/_kt2.jpg)
-
+![](../../zrodlo/webacja/13celtowie/polcelt/_babice.jpg)  
 Babice
 
+![](../../zrodlo/webacja/13celtowie/polcelt/_nidzica.jpg)  
 Nidzica
 
+![](../../zrodlo/webacja/13celtowie/polcelt/_kt1.jpg) ![](../../zrodlo/webacja/13celtowie/polcelt/_kt2.jpg)  
 Ujazd. Zamek Krzyżtopór
 
 Przedstawione przeze mnie ruiny zamków (znikoma część polskich zamków) łączy wspólna cecha, podobnie jak zamki zachodniej Europy i wysp brytyjskich - są zbudowane z kamienia i są zniszczone. Gdyby ulegały zniszczeniu przez najeźców, winny być równane z ziemią tak, by nie nadawały się nawet do odbudowy, a przynajmniej zniszczonoby mury obronne i wieże. Tymczasem możemy obejrzeć skorodowane mury na skutek warunków atmosferycznych i upływu czasu. W bryle krzyżtoporskiego zamku w Ujeździe prześwitują co prawda cegły, ale proszę obejrzeć kamienne łuki i szerokie, kamienne stropy przyziemia przypominające te z Krak de Chewaliers.
@@ -438,14 +421,7 @@ To właśnie nad Polską i Czechami wyraźna linia zamienia się w kreskę nanie
 
 **Podsumujmy...**
 
-![](../../zrodlo/webacja/13celtowie/gest/irland.jpg)
-
-![](../../zrodlo/webacja/13celtowie/gest/tiahu.jpg)
-
-![](../../zrodlo/webacja/13celtowie/gest/zbrucz.jpg)
-
-![](../../zrodlo/webacja/13celtowie/gest/trogir.jpg)
-
+![](../../zrodlo/webacja/13celtowie/gest/irland.jpg) ![](../../zrodlo/webacja/13celtowie/gest/tiahu.jpg) ![](../../zrodlo/webacja/13celtowie/gest/zbrucz.jpg) ![](../../zrodlo/webacja/13celtowie/gest/trogir.jpg)  
 Irlandia - Tiahuanaco - Zbrucz - Trogir  
 Koincydencyjne ułożenie rąk?
 

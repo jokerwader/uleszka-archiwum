@@ -14,12 +14,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
@@ -35,8 +35,8 @@
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -91,7 +91,7 @@
 <td><strong>1</strong>. jelito grube, węzły pachwinowe.<br><strong>2</strong>. wyrostek robaczkowy, brzuch, udo, kątnica.<br><strong>3</strong>. narządy płciowe, jajniki (jądra), macica, pęcherz, kolano.<br><strong>4</strong>. gruczoł krokowy, mięśniówka lędźwiowej części grzbietu, nerw kulszowy.<br><strong>5</strong>. podudzia, stopy.</td>
 </tr>
 <tr>
-<td>---<br><strong>Kość krzyżowa</strong> (5 kręgów zrośniętych) - biodra, pośladki.<br><strong>Kość ogonowa</strong> (4-5 kręgów) - odbyt.</td>
+<td><strong>Kość krzyżowa</strong> (5 kręgów zrośniętych) - biodra, pośladki.<br><strong>Kość ogonowa</strong> (4-5 kręgów) - odbyt.</td>
 <td></td>
 <td></td>
 </tr>

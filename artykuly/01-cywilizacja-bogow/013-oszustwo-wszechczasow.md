@@ -16,14 +16,7 @@ Czy przeglądając historię starożytnego Rzymu znaleźć można wzmiankę o tr
 
 Znany jest też zapewne termin "pucolana". Tak nazwano słynny "rzymski" cement złożony z wapna, wody i popiołu wulkanicznego, dzięki któremu Rzym wznosił tak wspaniałe budowle, a przede wszystkim "rzymskie" łuki (tak naprawdę budowa łuku architektonicznego nie zależy wcale od cementu). Czy znany jest jego dokładny skład? Nie, bo nie podano do wiadomości. A dlaczego nie podano? Dlatego, że ten rzekomy super cement po wyschnięciu dał się skruszyć w palcach. Ponadto, skoro był tak rewelacyjny, dlaczego włoskie budownictwo nie rzuciło się na tę starożytną recepturę? Dlaczego Etny i Wezuwiusza nie wykorzystuje się dzisiaj na skalę przemysłową? Nikt nie chce darmowego surowca? Prawdopodobnie ta rzymska "pucolana" mogła służyć tylko do tynkowania budowli, co Rzymianie skwapliwie wykorzystali ukrywając pod nią nie swoje dzieła.
 
-![](../../zrodlo/webacja/12rzym/cordari.jpg)
-
-![](../../zrodlo/webacja/12rzym/cordari2.jpg)
-
-![](../../zrodlo/webacja/12rzym/cordari3.jpg)
-
-![](../../zrodlo/webacja/12rzym/cordari4.jpg)
-
+![](../../zrodlo/webacja/12rzym/cordari.jpg) ![](../../zrodlo/webacja/12rzym/cordari2.jpg) ![](../../zrodlo/webacja/12rzym/cordari3.jpg) ![](../../zrodlo/webacja/12rzym/cordari4.jpg)  
 Kto i kiedy wykuwał tę skalną grotę w Cordari na Sycylii? Grecy? Kartagińczycy? Rzymianie?
 
 Historia starożytnego Rzymu stała się dogmatem. Stała się Pismem Świętym Nowej Historii, w którym nie wolno zmienić ani słowa. Traktowana jest jak wiara, gdzie wszystko musi być uznawane pod groźbą anatemy. Historia starożytnego Rzymu jest tak lakoniczna, jak cezarowe "veni, vidi, vici" - mówi wiele i jednocześnie kompletnie nic. Dlaczego tak jest? Dlatego, że przyjęto założenie - "gdziekolwiek w Europie są kamienne ruiny i sterczy lub leży połamana kamienna kolumna, tam musieli być Rzymianie". Dobrze, że jest tych ruin mało, bo imperium rzymskie zalało by cały świat.
@@ -89,14 +82,7 @@ Rzym założono na siedmiu wzgórzach, które uczeni określają jako trzy wzgó
 
 Powędrujmy po starożytnym Rzymie. Zgodzić się należy z twierdzeniem, że zanim postawiono coś na powierzchni ziemi, musiano przeprowadzić prace podziemne. Trudno bowiem postępować odwrotnie nie narażając na zawalenie wzniesionych już budowli. Logicznie, prace te powinny być zakończone do roku 575 pne. Przypatrzmy się zatem jednej z największej kanalizacji wszechczasów, rzymskiej cloaca maxima.
 
-![](../../zrodlo/webacja/12rzym/cloaca1.jpg)
-
-![](../../zrodlo/webacja/12rzym/cloaca2.jpg)
-
-![](../../zrodlo/webacja/12rzym/cloaca2a.jpg)
-
-![](../../zrodlo/webacja/12rzym/cloaca3.jpg)
-
+![](../../zrodlo/webacja/12rzym/cloaca1.jpg) ![](../../zrodlo/webacja/12rzym/cloaca2.jpg) ![](../../zrodlo/webacja/12rzym/cloaca2a.jpg) ![](../../zrodlo/webacja/12rzym/cloaca3.jpg)  
 Największy podziemny ściek świata - rzymska cloaka maxima. Czy to zbudowali Rzymianie?
 
 Czy to zbudował ludek, który około 800 roku pne. stawiał w okolicach drewniane chaty? W jaki sposób, a przede wszystkim jakimi narzędziami, ludek ten wyciął tak olbrzymie bloki skalne? Skąd ta precyzja w dopasowaniu kamieni ułożonych bez żadnej zaprawy? Skąd i czym transportowano te olbrzymie elementy? Czym dźwigano i precyzyjnie ustawiano tak duże kamienne bloki? Czy to znów tylko ludzie i osły? Dlaczego nauka tak usilnie mydli oczy tym, którym ma służyć? Czy można sądzić, że 250 lat "ewolucji" wystarczy w pełni na taki skok technologiczny? Kto w takim razie zbudował coś podobnego w Caere 40 km od Rzymu, skoro w tym czasie Rzymianie nie wytknęli nawet czubka nosa poza "swój" Rzym?
@@ -444,18 +430,13 @@ To jeszcze nie wszystko. Rzymianie wznieśli podobny, ale już ziemny, w roku 14
 
 Archeolodzy, ci wspaniali detektywi przeszłości albo nie wiedzą wszystkiego albo nie chcą zauważać podobnych kamiennych budowli położonych poza wałem "Hadriana". Może Rzymianie zbudowali to w tajemnicy?
 
-![](../../zrodlo/webacja/12rzym/0irlandia.jpg)
-
-![](../../zrodlo/webacja/12rzym/0irlandia1.jpg)
-
-![](../../zrodlo/webacja/12rzym/0szkocja.jpg)
-
-![](../../zrodlo/webacja/12rzym/0orkady.jpg)
-
+![](../../zrodlo/webacja/12rzym/0irlandia.jpg) ![](../../zrodlo/webacja/12rzym/0irlandia1.jpg)  
 Irlandia
 
+![](../../zrodlo/webacja/12rzym/0szkocja.jpg)  
 Szkocja
 
+![](../../zrodlo/webacja/12rzym/0orkady.jpg)  
 Orkady
 
 Podobny "hadrianowy" mur, choć niższy, istnieje przecież w sąsiedniej Irlandii. Tam też są ruiny kamiennego domu z "rzymskim" cementem pomiędzy kamieniami. A kto budował w Szkocji z kamienia wzmacniając wejście ogromnymi skalnymi belkami? Kto wreszcie na Orkadach, wyspach jeszcze dalej na północ od Szkocji, wybudował tę salę z wielkich kamiennych belek? Czy tam też byli Rzymianie? Budowle rzymskie w Brytanii są tak samo wiarygodne jak czaszka człowieka z Pitdown.
@@ -490,20 +471,14 @@ Jak mało logicznie podchodzi się do badań widać na mapce. Jest to fragment "
 
 Jedną z większych zagadek rzymskiej techniki wojennej stanowi most przez Dunaj. W roku 96 ne. na rzymski tron wstępuje Marek Ulpiusz Trajan. Jest to w historii Rzymu okres krótkotrwałych zwycięstw nad państwem Daków, rządzonych przez Decebala. Jest to także okres zadziwiających osiągnięć technicznych Rzymu. W roku 101 ne. Trajan wysyła na wojnę około 100 tysięcy żołnierzy, które przeprawia po moście pontonowym na Dunaju. Twórca tej hipotezy był zapewne pod wrażeniem współczesnego wojska szybko i sprawnie przeprawiajacego się przez wodę lecz Dunaj oglądał tylko w atlasie geograficznym. Dunaj w rejonie przeprawy nie był i nie jest dziś rzeczułką, a ponad kilometrowym korytem wody z silnym nurtem pośrodku.
 
-![](../../zrodlo/webacja/12rzym/severin1.jpg)
-
-![](../../zrodlo/webacja/12rzym/severin2.jpg)
-
+![](../../zrodlo/webacja/12rzym/severin1.jpg) ![](../../zrodlo/webacja/12rzym/severin2.jpg)  
 Turnu Severin i miejsce budowy mostu na Dunaju
 
 Jak wyglądał rzymski "ponton" trudno wywnioskować, bo nawet sami Rzymianie nie pozostawili żadnego opisu. Dlatego nikt nie jest w stanie dokonać rzeczowej rekonstrukcji. Wiemy natomiast, że rzymska technika w owych czasach do dyspozycji mogła mieć tylko drewno, liny plecione z roślin i nadmuchiwane skóry baranie (na takich "baranich pontonach" przeprawiali się już starożytni Asyryjczycy przez Eufrat). Jak wielki mógł być taki odcinek pontonu? Nie sądzę, by przekraczał wymiary 5x10 m. Z pewnością też musiał być wyłożony z wierzchu drewnianymi okrąglakami, lub czymś podobnym, by żołnierz lub koń po prostu w nim w nim nie ugrzęźli.
 
 By utrzymać taki ciężar na wodzie musiał mieć przymocowane pod spodem na całej powierzchni nadmuchane skóry baranie (przymocowanie skór tylko do boków groziło załamaniem się konstrukcji w środku). Biorąc pod uwagę wymiar skóry 0,5x1 m, pod pontonem należało przymocować około 100 takich nadmuchanych elementów. Dla prostego rachunku przyjmijmy także szerokość rzeki na 1 km. Daje to nam most pontonowy złożony z minimum 100 pojedynczych pontonów oraz 10 tysięcy zabitych baranów i są to dane zdecydowanie zaniżone. Być może piszę trochę humorystycznie, ale wnioski wypływające z tego są bardzo poważne.
 
-![](../../zrodlo/webacja/12rzym/trofeum1.jpg)
-
-![](../../zrodlo/webacja/12rzym/trofeum2.jpg)
-
+![](../../zrodlo/webacja/12rzym/trofeum1.jpg) ![](../../zrodlo/webacja/12rzym/trofeum2.jpg)  
 Tropaeum Traiani
 
 Most pontonowy musiano budować z jednej strony rzeki (druga była zajęta przez wroga) układając i wiążąc pontony jeden do drugiego. Jest to czynność prosta przy brzegu, jak więc Rzymianie radzili sobie z prądem rzeki, który musiał znosić pontony grożąc rozerwaniem mostu? Dzisiaj taki most muszą utrzymywać specjalne łodzie, które mocą swych maszyn równoważą siłę rzecznego prądu. Utrzymywanie pontonu przez żołnierzy nie wchodzi w rachubę ze względu na głębokość rzeki. Rzymianie mogli mieć do dyspozycji tylko liny, a które do utrzymywania ostatniego pontonu musiały mieć grubo ponad kilometr długości. Czy wtedy już wytwarzano tak długie i aż tak wytrzymałe?
@@ -512,10 +487,7 @@ W tej samej wojnie zimą Decebal kontratakuje Rzymian przechodząc zamarzniętą
 
 Istnieje jednak możliwość powiązania przeprawy pontonowej z Tropaeum Traiani w Adamclissi. Sądzę, że Rzymianie nie zbudowali mostu, ale na pojedynczych pontonach chcieli osiągnąć drugi brzeg przepływając rzekę. Całą tę armadę prąd rzeki zniósł jednak 100 km w dół rzeki, gdzie z trudem dobili do drugiego brzegu, a pomnik nie jest żadnym pomnikiem zwycięstwa tylko Votum Traiani za cudowne ocalenie. Można także odnieść wrażenie, że pomnik ten wznieśli Trajanowi współcześni "czciciele wielkiego Rzymu" obudowując stojącą od dawna kolistą ruinę na podstawie własnego, wyimaginowanego modeliku (na zdjęciu).
 
-![](../../zrodlo/webacja/12rzym/most1.jpg)
-
-![](../../zrodlo/webacja/12rzym/most2.jpg)
-
+![](../../zrodlo/webacja/12rzym/most1.jpg) ![](../../zrodlo/webacja/12rzym/most2.jpg)  
 Szczątki mostu i jego "papierowa" rekonstrukcja
 
 Trajan doskonale wiedząc, że wojna z Dakami nie jest zakończona, sprowadza ponoć około roku 102 ne. architekta z Damaszku Apollodora, któremu powierza zadanie zbudowania mostu przez Dunaj. Jak to? W całym imperium nie ma rzymskiego specjalisty zdolnego zaprojektować i wybudować most? A jednak!
@@ -552,30 +524,22 @@ Sam most w Drobeta też wydaje się być wersją artystyczną, a nie historyczn�
 
 Jest też pewien kłopot związany ze stylami budowlanymi, a szczególnie z ornamentyką kapiteli czyli górnych zakończeń kolumn. Pamiętam ze szkoły jak wbijano w mózg, że w starożytnej architekturze występują tylko trzy style - joński, dorycki i koryncki. Najprostszy, dorycki miał u góry coś w rodzaju talerza, joński dwa rzeźbione zakrętasy, a koryncki to już było pełne bogactwo rzeźby gdzie przeważnie motywem był liść akantu.
 
-![](../../zrodlo/webacja/12rzym/karta4a.jpg)
-
-![](../../zrodlo/webacja/12rzym/agrigento.jpg)
-
-![](../../zrodlo/webacja/12rzym/pompeje.jpg)
-
-![](../../zrodlo/webacja/12rzym/evora.jpg)
-
-![](../../zrodlo/webacja/12rzym/saturn.jpg)
-
-![](../../zrodlo/webacja/12rzym/rome3.jpg)
-
-![](../../zrodlo/webacja/12rzym/chiny2.jpg)
-
+![](../../zrodlo/webacja/12rzym/karta4a.jpg)  
 Kartagina
 
+![](../../zrodlo/webacja/12rzym/agrigento.jpg)  
 Agrigento
 
+![](../../zrodlo/webacja/12rzym/pompeje.jpg)  
 Pompeje
 
+![](../../zrodlo/webacja/12rzym/evora.jpg)  
 Evora
 
+![](../../zrodlo/webacja/12rzym/saturn.jpg) ![](../../zrodlo/webacja/12rzym/rome3.jpg)  
 starożytny Rzym
 
+![](../../zrodlo/webacja/12rzym/chiny2.jpg)  
 Chiny
 
 Jak przedstawia się sprawa w imperium? W Kartaginie kolumny zwieńczano kapitelami podobnymi do stylu korynckiego. W Agrigento surowy styl dorycki podobnie jak w rzymskich Pompejach. Hiszpańska Evora skłania się do korynckiego, ale już w samym Rzymie kapitele w świątyni Saturna przypominają styl joński (podobnie jak półkolumny w rzymskim colosseum), a ostatni to już finezja z liści akantu. Oglądając budowle rzymskie, te zbudowane w stolicy i te w "uszczęśliwianych" krajach nie mogę oprzeć się wrażeniu, że Rzym albo skopiował style swojego odwiecznego wroga albo Grecy zdążyli wszystko zbudować przed Rzymianami. Czy Grecy budowali w Kartaginie lub w Evorze? Jakim cudem styl joński zawędrował do Chin? Archeolodzy nie mają natomiast żadnego problemu. Te budowle, które są bliżej Rzymu otrzymują status rzymsko-greckich a leżące bliżej Aten grecko-rzymskich.
@@ -586,18 +550,13 @@ Prawda jest taka, że gdzie nie spojrzymy - cała Europa, Azja Mniejsza i Bliski
 
 Według archeologów i historyków oraz sporządzonych przez nich map imperium rzymskiego wiemy, że cywilizacja Rzymu sięgała po sam Atlantyk. Czy brzegi dzisiejszej Portugalii zdobywali z morza czy też długim lądowym marszem zaskoczyli przeciwników, historycy wypowiadają się chyba nieoficjalnie, bo trudno coś odnaleźć. Jak w tak odległe rejony dostarczono niezbędną ilość "cementu"? Przez górzystą Hiszpanię czy przez morze Śródziemne i Atlantyk?
 
-![](../../zrodlo/webacja/12rzym/0alcobaca.jpg)
-
-![](../../zrodlo/webacja/12rzym/0batalha.jpg)
-
-![](../../zrodlo/webacja/12rzym/0catoira.jpg)
-
-![](../../zrodlo/webacja/12rzym/0catoira1.jpg)
-
+![](../../zrodlo/webacja/12rzym/0alcobaca.jpg)  
 Alcobaca
 
+![](../../zrodlo/webacja/12rzym/0batalha.jpg)  
 Batalha
 
+![](../../zrodlo/webacja/12rzym/0catoira.jpg) ![](../../zrodlo/webacja/12rzym/0catoira1.jpg)  
 Catoira
 
 Wybrałem specjalnie same rybackie wioski lub miasteczka portugalskie leżące nad samym Atlantykiem. W Alcobaca pochyły, kamienny mur zamku, przypominający piramidy zza Atlantyku, ale już w Batalha widać przepiękne "rzymskie" łuki w ruinach jakiejś zapewne "rzymskiej" willi. W Catoira natomiast mury spajane "rzymskim" cementem, ale tutaj już archeolodzy zgodnie orzekli, że to mogli zbudować... Wikingowie. Zresztą nie jest to aż tak ważne. Ważne jest to, że nad Atlantykiem panowali Rzymianie. Należy się tylko domyślać, że gdyby nie upadek imperium, Rzymianie prawdopodobnie bez trudu zdobyli by Amerykę Środkową. Szkoda, że tak się nie stało, bo "ich" budowle już tam są.
@@ -702,10 +661,7 @@ Cywilizacja starożytnego Rzymu nie była żadną super cywilizacją. Podlegała
 
 Rzymianie od samego początku mieszkali wśród starożytnych ruin i może usiłowali coś sklecać używając materiałów z już istniejących starożytnych budowli. Nie sądzę także, by postawili stopę w Conimbriga czy w Italice w Hiszpanii (najdalej w głąb Hiszpanii doszli podobno do Numancji). To historycy przypisując im "ad hoc" wszystkie kamienne drogi, mosty, akwedukty, świątynie, "colossea" i teatry musieli wyciągnąć wniosek, że tam musieli być.
 
-![](../../zrodlo/webacja/12rzym/balista.jpg)
-
-![](../../zrodlo/webacja/12rzym/katapulta.jpg)
-
+![](../../zrodlo/webacja/12rzym/balista.jpg) ![](../../zrodlo/webacja/12rzym/katapulta.jpg)  
 Jedyny spadek po imperium rzymskim !
 
 Imperium rzymskie swoją zachłannością i brutalnością zniszczyło wszystkie podbite cywilizacje nie oszczędzając nawet siebie. Czy teraz można już zrozumieć dlaczego NIE WOLNO odnaleźć Atlantydy? Odnalezienie jej wywróciło by całą starożytną historię do góry nogami, łącznie z historią starożytnej Grecji.

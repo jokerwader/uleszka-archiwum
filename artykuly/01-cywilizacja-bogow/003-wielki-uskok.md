@@ -338,7 +338,7 @@ W tabelce przedstawiłem dane, jakie uwzględniłem w swoich obliczeniach.
 
 | NAZWA MIEJSCA | Szerokość \[B\] | Długość \[L\] | Kąt zmierzony | Kąt obliczony |
 | --- | --- | --- | --- | --- |
-| Akpatok<br>Tula<br>Teotihuacan<br>Villahermosa<br>Monte Alban<br>Uxmal<br>Palenque<br>Tikal<br>Tiahuanaco<br>Machu Picchu<br>Giza<br>Abydos<br>Sakkara | 60,00° N<br>20,27° N<br>19,47° N<br>18,00° N<br>16,27° N<br>20,27° N<br>19,75° N<br>17,05° N<br>26,93° S<br>27,14° S<br>29,98° N<br>?<br>? | 70,00° W<br>99,57° W<br>94,88° W<br>92,94° W<br>96,94° W<br>87,79° W<br>90,86° W<br>87,47° W<br>67,50° W<br>72,82° W<br>31,32° E<br>?<br>? | <br>?<br>18°<br>?<br>?<br>?<br>15°<br>?<br>1,5°<br>1,5°<br>20°<br>\-<br>\- | <br>24,5°<br>19°<br>11°<br>23°<br>16°<br>19°<br>15,5°<br>2°<br>2°<br>24°<br>\-<br>\- |
+| Akpatok<br>Tula<br>Teotihuacan<br>Villahermosa<br>Monte Alban<br>Uxmal<br>Palenque<br>Tikal<br>Tiahuanaco<br>Machu Picchu<br>Giza<br>Abydos<br>Sakkara | 60,00° N<br>20,27° N<br>19,47° N<br>18,00° N<br>16,27° N<br>20,27° N<br>19,75° N<br>17,05° N<br>26,93° S<br>27,14° S<br>29,98° N<br>?<br>? | 70,00° W<br>99,57° W<br>94,88° W<br>92,94° W<br>96,94° W<br>87,79° W<br>90,86° W<br>87,47° W<br>67,50° W<br>72,82° W<br>31,32° E<br>?<br>? | ?<br>18°<br>?<br>?<br>?<br>15°<br>?<br>1,5°<br>1,5°<br>20°<br>\-<br>\- | 24,5°<br>19°<br>11°<br>23°<br>16°<br>19°<br>15,5°<br>2°<br>2°<br>24°<br>\-<br>\- |
 
 Jak widać, zawodowy geodeta mnie i moje obliczenia umieściłby w wiadomym miejscu. Zastrzegłem jednak na początku, że obliczenia te są bardzo orientacyjne. Jedno co z nich wynika, to tylko to, że zgadzają się w ogólnych zarysach. "Wielki uskok..." mógł być przyczyną przesunięć tych kardynalnych kierunków.
 

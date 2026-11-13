@@ -1,5 +1,5 @@
-/* Czytelnia archiwum uleszka.net – motywy kolorów: jasny (domyślny), sepia, ciemny, kontrast */
-:root, [data-motyw="jasny"] {
+/* Czytelnia archiwum uleszka.net – motywy kolorów: sepia (domyślna), jasny, ciemny, kontrast */
+[data-motyw="jasny"] {
   color-scheme: light;
   --tlo: #f7f4ec; --tlo-grad: rgba(226, 169, 63, .08); --karta: #ffffff; --pole: #fbf9f4;
   --tekst: #1f2430; --tekst-2: #5b6271; --tresc: #1d212b; --mocny: #0f1218; --naglowek: #1a1e27; --linia: #e2dbcc;
@@ -8,7 +8,8 @@
   --h1: linear-gradient(180deg, #3a2a10, #8a5409 70%, #a96a12);
   --czytane: rgba(226, 169, 63, .22); --tabela-glowa: #f1ebdd;
 }
-[data-motyw="sepia"] {
+/* sepia – domyślna; :root działa także bez JavaScriptu */
+:root, [data-motyw="sepia"] {
   color-scheme: light;
   --tlo: #f2e8d5; --tlo-grad: rgba(160, 110, 40, .08); --karta: #f9f2e3; --pole: #f6edda;
   --tekst: #3b2f20; --tekst-2: #6e5d45; --tresc: #3a2e1f; --mocny: #24190d; --naglowek: #2e2316; --linia: #dccaa8;
@@ -185,3 +186,37 @@ footer { margin-top: 50px; padding: 26px 0 40px; border-top: 1px solid var(--lin
   body { background: #fff; color: #000; }
   .tresc { color: #000; font-size: 12pt; }
 }
+
+/* ---------- spis artykułów: karty w siatce (komputer: 2–3 kolumny, telefon: jedna) ---------- */
+.wrap-szeroki { max-width: 1180px; margin: 0 auto; padding: 0 20px 40px; }
+.spis-narzedzia { position: sticky; top: 56px; z-index: 10; background: var(--tlo); padding: 10px 0 6px; margin: 0 0 6px; border-bottom: 1px solid var(--linia); }
+.spis-narzedzia input { margin: 0 0 10px; }
+.spis-narzedzia .dzialy-skrot { margin: 0; }
+.karty { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr)); gap: 18px; }
+.karta-art { display: flex; flex-direction: column; background: var(--karta); border: 1px solid var(--linia); border-radius: 16px; overflow: hidden;
+  box-shadow: var(--cien); transition: transform .25s, box-shadow .25s, border-color .25s; }
+.karta-art:hover { transform: translateY(-3px); border-color: var(--akcent); box-shadow: 0 16px 38px rgba(60, 40, 10, .14); }
+.karta-link { display: flex; flex-direction: column; text-decoration: none; color: var(--tekst); flex: 1; }
+.miniatura { aspect-ratio: 16 / 9; overflow: hidden; background: linear-gradient(135deg, var(--tabela-glowa), var(--pole)); display: grid; place-items: center; border-bottom: 1px solid var(--linia); }
+.miniatura img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .6s ease; }
+.karta-art:hover .miniatura img { transform: scale(1.05); }
+.miniatura span { font: 700 64px/1 Georgia, serif; color: var(--akcent); opacity: .55; }
+.karta-tresc { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.karta-tresc b { font: 700 20px/1.25 Georgia, serif; color: var(--naglowek); }
+.karta-tresc .opis { font-size: 14.5px; line-height: 1.5; color: var(--tekst-2); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.karta-tresc .meta-art { margin-top: auto; padding-top: 6px; font-size: 12.5px; color: var(--akcent-mocny); letter-spacing: .3px; }
+.czesci { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 16px 14px; align-items: center; }
+.czesci span { font-size: 12px; color: var(--tekst-2); margin-right: 2px; }
+.czesci a { font-size: 12.5px; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--linia); background: var(--pole); color: var(--tekst); text-decoration: none; }
+.czesci a:hover { border-color: var(--akcent); }
+.spis .dzial h2 { margin-top: 36px; }
+@media (max-width: 640px) {
+  .spis-narzedzia { top: 56px; }
+  .karta-tresc b { font-size: 19px; }
+}
+
+/* galerie zdjęć w artykułach (kilka zdjęć z podpisami obok siebie) */
+.tresc .galeria { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr)); gap: 14px; margin: 1.2em 0 1.4em; align-items: start; }
+.tresc .galeria p { margin: 0; font: 14px/1.4 system-ui, sans-serif; color: var(--tekst-2); text-align: center; }
+.tresc .galeria img { margin: 0 auto 6px; max-height: 240px; width: auto; object-fit: contain; }
+.tresc .galeria a img { display: block; margin: 0 auto 6px; }

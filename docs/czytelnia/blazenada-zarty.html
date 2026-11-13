@@ -14,12 +14,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
@@ -35,8 +35,8 @@
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -86,9 +86,10 @@
 <p>Z upływem lat, a wedle nauki było ich tysiące, człowiek wynalazł radło i to co zebrał to nie zjadał wszystkiego na raz, tylko wrzucał odpadki w tę zaradloną ziemię obok jaskini i czekał co wyrośnie. Były to początki rolnictwa i trybu osiadłego. Po wynalezieniu rolnictwa siłą rzeczy nastał czas udomowienia zwierzyny. To wszystko z kolei skutkowało akumulacją płodów oraz łatwym dojściem do białka, które hodowało się obok za pierwotnym ogrodzeniem. Człowiek, nie musząc już ganiać po lasach i łąkach zaczął mieć wolny czas. A wiadomo, jak się ma za dużo wolnego czasu to po głowie zaczynają chodzić najróżniejsze myśli. To właśnie ten wolny czas, według pani profesor, był bezsporną przyczyną tego, że człowiek musiał wymyśleć sztukę. Teraz wiadomo, dlaczego w naszych czasach sztuka chyli się ku upadkowi. Praca i praca, a po pracy jeszcze praca, trochę snu i znów do pracy...</p>
 <p class="rozdzial" id="r-6"><strong>Indianie a sprawa wielkich mas</strong></p>
 <p>Następny &quot;kwiat&quot; myśli technicznej homo sapiens sapiens. Pewien pan, Vincent L. (nazwiska nie podam ze względu na dobro &quot;tfurcy&quot;) doszedł do wniosku, iż sprawa ustawiania olbrzymich bloków kamienia jest niezwykle prosta. Wystarczą do tego specjalne wypusty na kamieniach, dobre jakościowo drewno oraz niewykwalifikowana, aczkolwiek bardzo silna siła robocza.</p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/blazenada/teoria1.jpg" alt="Mur z wielkich, dopasowanych bloków kamiennych z występami; obok stoją dwie osoby w kolorowych kurtkach. Prawdopodobnie Ollantaytambo (domysł)." title="Opis AI: Mur z wielkich, dopasowanych bloków kamiennych z występami; obok stoją dwie osoby w kolorowych kurtkach. Prawdopodobnie Ollantaytambo (domysł)." loading="lazy" decoding="async"></p>
+<div class="galeria"><p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/blazenada/teoria1.jpg" alt="Mur z wielkich, dopasowanych bloków kamiennych z występami; obok stoją dwie osoby w kolorowych kurtkach. Prawdopodobnie Ollantaytambo (domysł)." title="Opis AI: Mur z wielkich, dopasowanych bloków kamiennych z występami; obok stoją dwie osoby w kolorowych kurtkach. Prawdopodobnie Ollantaytambo (domysł)." loading="lazy" decoding="async"></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/blazenada/teoria2.jpg" alt="Rysunek: duży blok kamienny na platformie z wałków, przesuwany po pochylni z użyciem długich drągów; łuk strzałki pokazuje obrót." title="Opis AI: Rysunek: duży blok kamienny na platformie z wałków, przesuwany po pochylni z użyciem długich drągów; łuk strzałki pokazuje obrót." loading="lazy" decoding="async"></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/blazenada/teoria3.jpg" alt="Rysunek: blok kamienny osadzony między dwoma ukośnymi drągami opartymi o ziemię, jako schemat podnoszenia lub ustawiania bloku." title="Opis AI: Rysunek: blok kamienny osadzony między dwoma ukośnymi drągami opartymi o ziemię, jako schemat podnoszenia lub ustawiania bloku." loading="lazy" decoding="async"></p>
+</div>
 <p>Na zdjęciu pierwszym obiekty, z którymi będziemy mieli do czynienia, zaś rysunki to ilustracja pomysłu pana Vincenta do prostego wykonania banalnej czynności ustawienia ich na swoim miejscu. Bloki, które widzimy na zdjęciu w Ollantaytambo mają wagę kilku, jeśli nie kilkunastu ton. Pierwsza czynność, to wtaskanie ich na górę, bagatelka, kilkadziesiąt metrów w linii pionowej. Widoczna rampa miała spełnić to zadanie. Na dobrą sprawę, ćwiczono to już pod piramidami, do tego poziomo i jak wiemy z marnym skutkiem. Następną czynnością jest ustawienie bloku dokładnie nad miejscem posadowienia, zabezpieczenie go drewnianymi balami i stopniowe opuszczenie na miejsce. Prawda, że proste?</p>
 <p>Nie podam tu obliczeń wytrzymałościowych, żeby nie denerwować autora, ale chciałbym się tylko dowiedzieć, w jaki sposób Indianie ustawiali taki blok kamienia na drewnianych podpórkach?</p>
 <p class="rozdzial" id="r-7"><strong>Ziemia zawdzięcza wodę ... kometom</strong></p>

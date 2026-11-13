@@ -14,12 +14,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
@@ -35,8 +35,8 @@
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -365,7 +365,7 @@
 </tr>
 <tr>
 <td><strong>Czosnek</strong></td>
-<td>Obniża ciśnienie krwi i jest jednym z najsilniejszych środków bakteriobójczych (prawie zawsze wystarcza sam zapach) i w tym charakterze zażywany doustnie spisuje się jak najlepszy antybiotyk, ponadto działa wykrztuśnie i przeciwrobaczo. W zastosowaniu zewnętrznym wywołuje przekrwienie lokalne (potrzebne przy reumatyzmie) oraz działa bakteriobójczo.<br>---<br>Stara recepta na zapalenie płuc - cztery średnie ziemniaki (wydłubać oczka) skroić bez obierania, dodać 2 łyżki siemienia lnianego i 1 zgniecioną główkę czosnku. Zalać to wszystko 5 szklankami wody i gotować 20 minut. Uzyskanym wywarem robiono choremu lewatywę. Podobno jedna wystarczała.</td>
+<td>Obniża ciśnienie krwi i jest jednym z najsilniejszych środków bakteriobójczych (prawie zawsze wystarcza sam zapach) i w tym charakterze zażywany doustnie spisuje się jak najlepszy antybiotyk, ponadto działa wykrztuśnie i przeciwrobaczo. W zastosowaniu zewnętrznym wywołuje przekrwienie lokalne (potrzebne przy reumatyzmie) oraz działa bakteriobójczo.<br>Stara recepta na zapalenie płuc - cztery średnie ziemniaki (wydłubać oczka) skroić bez obierania, dodać 2 łyżki siemienia lnianego i 1 zgniecioną główkę czosnku. Zalać to wszystko 5 szklankami wody i gotować 20 minut. Uzyskanym wywarem robiono choremu lewatywę. Podobno jedna wystarczała.</td>
 </tr>
 <tr>
 <td><strong>Dynia</strong></td>

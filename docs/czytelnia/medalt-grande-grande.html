@@ -14,12 +14,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
@@ -35,8 +35,8 @@
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -204,8 +204,9 @@
 <p><strong>Dyskoteki</strong> - wynalazek diabła. Hałas i migające światła robią ogromne spustoszenie w organiźmie młodych ludzi. Dzieci 12-13 lat nie powinny chadzać na całonocne tańce. Najwyżej do północy. Mądry rodzic zanim puści dziecko na dyskotekę winien mu dać do połknięcia trzy witaminy B complex i tyleż samo po przyjściu.</p>
 <p class="rozdzial" id="r-11"><strong>Szukajcie, aż znajdziecie</strong></p>
 <p>Książki, które powinny mieć poczesne miejsce w Twojej bibliotece. Książki, które powinieneś przeczytać Ty i Twoja rodzina.</p>
-<p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/grande/grandeks1.jpg" alt="Okładka książki kucharskiej z zielenią i warzywami (kalafior, papryka); po lewej mały portret duchownego. Napis: Marzena i Tadeusz Woźniakowie Ojca Grande przepisy na zdrowe życie" title="Opis AI: Okładka książki kucharskiej z zielenią i warzywami (kalafior, papryka); po lewej mały portret duchownego. Napis: Marzena i Tadeusz Woźniakowie Ojca Grande przepisy na zdrowe życie" loading="lazy" decoding="async"></p>
+<div class="galeria"><p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/grande/grandeks1.jpg" alt="Okładka książki kucharskiej z zielenią i warzywami (kalafior, papryka); po lewej mały portret duchownego. Napis: Marzena i Tadeusz Woźniakowie Ojca Grande przepisy na zdrowe życie" title="Opis AI: Okładka książki kucharskiej z zielenią i warzywami (kalafior, papryka); po lewej mały portret duchownego. Napis: Marzena i Tadeusz Woźniakowie Ojca Grande przepisy na zdrowe życie" loading="lazy" decoding="async"></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/grande/grandeks2.jpg" alt="Okładka drugiej części książki z portretem mężczyzny w okularach, który trzyma książkę; w rogu czerwony dopisek o nakładzie. Napis: Marzena i Tadeusz Woźniakowie Ojca Grande przepisy na zdrowe życie część 2; Już ponad 400 000 osób" title="Opis AI: Okładka drugiej części książki z portretem mężczyzny w okularach, który trzyma książkę; w rogu czerwony dopisek o nakładzie. Napis: Marzena i Tadeusz Woźniakowie Ojca Grande przepisy na zdrowe życie część 2; Już ponad 400 000 osób" loading="lazy" decoding="async"></p>
+</div>
 <p>Książki, które być może, zaczną odbudowywać polską, zdrową kuchnię, sięgającą korzeni Polski przedrozbiorowej. Według ojca Grande kanon dobrego żywienia jest podstawą zdrowia każdej rodziny, bez względu na koleje losu, kapitałem na całe życie.</p>
 <p>Marzena i Tadeusz Woźniakowie <strong>Ojca Grande przepisy na zdrowe życie</strong>, Wydawnictwo &quot;Prasa Bałtycka&quot; Sp. z o.o., Targ Drzewny 3-7, 80-958 Gdańsk, 1996 r., Druk i oprawa Zakłady Graficzne w Gdańsku fax (058) 32-58-43, ISBN 83-905459-7-7, Index 307 955, s. 160, miękka oprawa.</p>
 <p>Marzena i Tadeusz Woźniakowie <strong>Ojca Grande przepisy na zdrowe życie część 2</strong>, Wydawnictwo Polskapresse Sp. z o.o., Oddział Prasa Bałtycka tel. (058) 3003-605, Wydanie pierwsze, Druk Wydawnictwo Diecezji Pelplińskiej &quot;Bernardinum&quot; ul. Ks. Biskupa Dominika 11, 83-130 Pelplin, ISBN 83-916874-0-6, Index 315 419, s. 142, miękka oprawa.</p>

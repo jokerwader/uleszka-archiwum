@@ -325,26 +325,12 @@ Anglia
 
 Dlaczego archeologowie i historycy, skądinąd narodek racjonalistów, zaprzęgają do historii legendy tam gdzie nie można znaleźć racjonalnego wytłumaczenia? Dlaczego przyjmuje się czasem niewiarygodne stwierdzenia w rodzaju - Za Wilhelma Zdobywcy w ciągu 100 lat zbudowano 900 zamków? Jaki naród był w stanie ponieść takie koszty budowy? Skąd wzięto taką ilość sił i środków, by w ciągu jednego roku wybudować 9 zamków? A jak budowano zamki w Brytanii? W średniowiecznej Anglii sprawę budowniczych załatwiano w prosty sposób. Pani na zamku obwieszczała rankiem, że miała widzenie iż aniołowie zbudowali kaplicę zamkową. Wszyscy szli do kaplicy i o dziwo faktycznie była zbudowana. Wieść szła do gminu i sprawa załatwiona. Nikt nie śmiał zaprzeczać, bo za negowanie boskich mocy można było dostać po karku... toporem. I to jest baza nowoczesnej historii.
 
-![](../../zrodlo/webacja/warownie/dziw/dz1.jpg)
-
-![](../../zrodlo/webacja/warownie/dziw/dz3.jpg)
-
-![](../../zrodlo/webacja/warownie/dziw/dz6.jpg)
-
-![](../../zrodlo/webacja/warownie/dziw/dz2.jpg)
-
-![](../../zrodlo/webacja/warownie/dziw/dz4.jpg)
-
+![](../../zrodlo/webacja/warownie/dziw/dz1.jpg) ![](../../zrodlo/webacja/warownie/dziw/dz3.jpg) ![](../../zrodlo/webacja/warownie/dziw/dz6.jpg) ![](../../zrodlo/webacja/warownie/dziw/dz2.jpg) ![](../../zrodlo/webacja/warownie/dziw/dz4.jpg)  
 Czy kształt zamku narzucały konkretne potrzeby czy ekstrawagancja władców i twórców?
 
 Inną, nie mniej intrygujaca sprawą jest faktyczne przeznaczenie "średniowiecznych" zamków. Od młodości jesteśmy karmieni wiadomościami iż były to siedziby możnych i królów. Informuje się nas, że były schronieniem dla okolicznych mieszkańców w razie niebezpieczeństwa. Owszem, zgoda. Lecz jest to opis zachowań ludzi już nam współczesnych. Tych, którzy te zamki zamieszkiwali we współczesnych nam czasach. Jaką zatem funkcję mógł pełnić zamek stojący samotnie i nie okolony murami obronnymi? W jaki sposób za murami obronnymi gromadzono żywność na wypadek oblężenia? Jaka to była żywność i w jakiej ilości? Skoro miał to być zapas na wypadek wojny, to w jaki sposób dokonywano odświeżania zapasów? Jak organizowano żywienie, gdy przeciwnik napadał znienacka? I wreszcie podstawowy warunek przeżycia - świeża, pitna woda. Dla zachowania właściwej kondycji zdrowotnej pobór wody musiał wzrastać proporcjonalnie do ilości ludzi. W jaki sposób jedna czy dwie zamkowe studnie były w stanie obsłużyć potrzeby wszystkich ludzi i zwierząt szukających w nim schronienia? A słyszeliśmy zapewne o oblężeniach trwających miesiące a nawet lata. Bez dokładnego zbadania zagadnienia dystrybucji żywności i wody takie stwierdzenia czy wnioski uważam za zbyt daleko idące.
 
-![](../../zrodlo/webacja/warownie/war_eu/czechy.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/polska1.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/corfe.jpg)
-
+![](../../zrodlo/webacja/warownie/war_eu/czechy.jpg) ![](../../zrodlo/webacja/warownie/war_eu/polska1.jpg) ![](../../zrodlo/webacja/warownie/war_eu/corfe.jpg)  
 Czy zamki Czech, Polski czy Anglii mają ze sobą coś wspólnego?
 
 Czyż nie dziwi fakt, że król Kazimierz Wielki przez okres swego panowania wzniósł kilkadziesiąt kamiennych zamków podczas gdy w sąsiednim państwie zakonnym Krzyżacy zamek w Malborku wznosili z cegły? Technika wznoszenia z cegły jest dużo bardziej ekonomiczna, nie wymagająca wymyślnej techniki, ani też nie sprawia trudności w transporcie na duże wysokości. Kilka cegieł na dużą wysokość może wnieść człowiek. A jak w Polsce transportowano na duża wysokość gotowe elementy kamienne ważące po kilkaset kilogramów czy ton? Jak to mogło być, że za panowania jednego króla, przez 37 lat zbudowano dziesiątki kamiennych zamków wymagających nie lada organizacji pracy i nakładu sił i środków, podczas gdy Krzyżacy, korzystając z łatwiejszego sposobu, zamek malborski budowali trochę ponad 100 lat (od rozpoczęcia budowy w roku 1272 do zakończenia budowy pałacu wielkiego mistrza w 1392)? Dlaczego w Polsce wybrano dużo droższą metodę budowy wymagającą na dodatek wysokiej klasy specjalistów-kamieniarzy? W Polsce budowali wolni ludzie, a zamek krzyżacki budowano wykorzystując niewolnicza pracę. Zapewne pod jarzmem krzyżackim najwięcej cierpiały kury, gdyż jak wieść niesie, Krzyżacy do zaprawy dodawali białko z jaj. No cóż, Rzymianie dodawali popiół Wezuwiusza do swojej "pucolany", Chińczycy budując Wielki Mur dodawali kleik ryżowy, czyli co kraj to... wyścig oryginałów. Dziwne jest tylko to, że tak doskonale trwałe zaprawy budowlane nie są stosowane dzisiaj.
@@ -470,12 +456,7 @@ Być może choć części wyjaśnień należy szukać gdzie indziej...
 
 Autorem sensacji jest niemiecki uczony, germanista Herbert Illig, według którego mamy dopiero rok 1703. Uważa on, że 297 lat (od września 614 do sierpnia 911 r.) w ogóle nigdy nie było. Hipotezę ujał w książce "Wer hat an der Uhr gedreht?" (Kto popchnął zegar?). Jego zdaniem autorem manipulacji jest Otton III zwany "cesarzem tysiąclecia", który dokonał tego w zmowie z papieżem Sylwestrem II i cesarzem Konstantynem VII Porfirogenetą. Według Illiga wymysłem tegoż tercetu oszustów ma być Karol Wielki, który nigdy nie istniał. Dowodami mają być architektura oraz liczne dokumenty, które miano celowo sfałszować. Illigs twierdzi że owe 297 lat istniejące na pergaminie nie mają miejsca lub potwierdzenia w znaleziskach archeologicznych, i odwrotnie - nie ma dowodów na to, że lata od 614 do 911 rzeczywiście "istniały".
 
-![](../../zrodlo/webacja/warownie/porfir.jpg)
-
-![](../../zrodlo/webacja/warownie/otton.jpg)
-
-![](../../zrodlo/webacja/warownie/sylwester.jpg)
-
+![](../../zrodlo/webacja/warownie/porfir.jpg) ![](../../zrodlo/webacja/warownie/otton.jpg) ![](../../zrodlo/webacja/warownie/sylwester.jpg)  
 Konstantyn VII - Otton III - Sylwester II  
 Trzech takich, co ukradło 300 lat...
 

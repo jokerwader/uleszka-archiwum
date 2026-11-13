@@ -14,12 +14,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
@@ -35,8 +35,8 @@
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -77,64 +77,32 @@
 </tr>
 </thead>
 <tbody><tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>B1</strong><br>tiamina</td>
 <td>Aneuryna. Bierze udział w przemianie węglowodanów i tłuszczów. W organizmie człowieka ulega fosforylacji, dając koenzym kokarboksylazę, który bierze udział we wprowadzeniu kwasu pirogronowego do cyklu Krebsa. Jest wrażliwa na działanie wysokiej temperatury i enzymów utleniających. Rozkłada się w środowisku zasadowym. Niedobór może wystąpić w przebiegu długotrwałych chorób: biegunek, chorób gorączkowych, wątroby, nadczynności tarczycy, w przewlekłym alkoholiźmie lub przy jednostronnym odżywianiu (np. beri-beri u dzieci jednostronnie odżywianych samym ryżem). Rozpuszczalna w wodzie.<br>Norma dobowa: 1-3 mg. Picie prawdziwej kawy niszczy tę witaminę w organizmie.<br>Możliwe objawy jej braku: słaba pamięć, brak apetytu, brak koordynacji ruchów, słabe mięśnie oczne, nieskoordynowane myśli.<br>Najwięcej jej zawiera: drożdże, ziarna zboża, chleb razowy, nasiona roślin strączkowych, mleko, orzechy, żółtka jaj.<br>Objawy przedawkowania: nadmiar wydalany jest z moczem.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>B2</strong><br>ryboflawina</td>
 <td>Inna nazwa laktoflawina. Odgrywa ważną rolę w procesach oksydoredukcyjnych organizmu. Niedobór występuje w przewlekłych biegunkach, w chorobach miąższu wątroby, przewlekłym alkoholiźmie, przy braku mleka i pokarmów białkowych w pożywieniu. Jest odporna na wysoką temperaturę, lecz bardzo łatwo rozpada się pod wpływem światła. Rozkłada się w środowisku zasadowym. Rozpuszczalna w wodzie.<br>Norma dodbowa: 1,5-3 mg.<br>Możliwe objawy jej braku: zaczerwienienie warg, odbarwiony język, anemia, bolesne pęknięcia w kącikach ust (zajady), łzawienie i swędzenie oczu, światłowstręt, łuszcząca się skóra, zapalenie łojotokowe skóry.<br>Najwięcej jej zawiera: wątroba, mięso, chleb pełnoziarnisty, groch, mleko (laktoflawina), sery, białko jaj (owoflawina).<br>Objawy przedawkowania: nadmiar wydalany jest z moczem.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>B3</strong><br>niacyna</td>
 <td>Amid kwasu nikotynowego, patrz witamina PP.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>B6</strong><br>pirydoksyna</td>
 <td>Inne nazwy: pirydoksal, pirydoksamina, adermina. Bierze udział w procesach syntez komórkowych układu krwiotwórczego, nerwowego i skóry. Jest konieczna do wzrostu bakterii kwasu mlekowego. Niedobór może wystapić u małych dzieci karmionych sztucznymi odżywkami oraz u alkoholików i powoduje zmiany w błonach śluzowych i szpiku kostnym. Odporna na wysoką temperaturę. Rozpuszczalna w wodzie.<br>Norma dobowa: 2 mg.<br>Możliwe objawy jej braku: zmiany na skórze. depresja, zatrzymanie wody w organiźmie, ciężka nerwowość, obrażenia skórne.<br>Najwięcej jej zawiera: drożdże, mięso, wątroba, ziemniaki i jarzyny.<br>Objawy przedawkowania: nadmiar wydalany jest z moczem.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>B11</strong><br>kwas foliowy</td>
 <td>Kwas pteriloglutaminowy, witamina M. Witamina krwiotwórcza, niezbędny czynnik wzrostu. Występuje w roślinach zielonych, wątrobie, nerkach, trzustce. Wywiera korzystny wpływ na postacie niedokrwistości. W jego obecności zachodzi synteza kwasów nukleinowych i związków pirymidynowych w jądrach komórkowych<br>Norma dobowa: 0,1-0,2 mg.<br>Możliwe objawy jej braku: zaburzenia czynności krwiotwórczej szpiku.<br>Najwięcej jej zawiera: drożdże, wątroba, jarzyny.<br>Objawy przedawkowania: brak danych.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>B12</strong><br>kobalamina</td>
 <td>Zwana także cyjanokobalaminą. Zbadana w roku 1956. W swej cząsteczce zawiera kobalt, fosfor i azot. Czynnik przeciwanemiczny. Bierze udział w syntezie kwasów nukleinowych i białek. Jest niezbędna do prawidłowego dojrzewania erytroblastów szpiku, prawidłowego metabolizmu tkanki nerwowej i błon śluzowych przewodu pokarmowego. Rozpuszczalna w wodzie.<br>Norma dla dorosłych: mężczyźni i kobiety - 3 μg.<br>Możliwe objawy jej braku: anemia z towarzyszeniem palpitacji serca, bolesny język, ogólne osłabienie, utrata uwagi.<br>Najwięcej jej zawiera: wątroba, mięso, jaja, mleko, przetwory mleczne.<br>Objawy przedawkowania: nadmiar wydalany jest z moczem.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>B14</strong><br>kwas folinowy</td>
 <td>Kwas tetrahydropteroiloglutaminowy. Witamina krwiotwórcza.<br>Norma dobowa: brak danych.<br>Możliwe objawy jej braku: niedokrwistość.<br>Najwięcej jej zawiera: wątroba.<br>Objawy przedawkowania: brak danych.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>B15</strong><br>calgam</td>
@@ -145,80 +113,40 @@
 <td>Jest związkiem niezbędnym dla organizmu. Pełni ważną rolę w procesach oksydoredukcyjnych (tworzy odwracalny układ oksydacyjno-redukcyjny: kwas askorbowynkwas dehydroaskorbowy) wpływa na przemianę aminokwasów aromatycznych, metabolizm tyroksyny oraz syntezę katecholamin, hormonów steroidowych i insuliny. Bierze udział w procesach fosforyzacji glukozy i syntezy glikogenu. Przy niedoborze witaminy C dochodzi do zaburzeń syntezy kwasu hialuronowego, zaburzeń syntezy kolagenu, nieprawidłowego funkcjonowania tkanki łącznej i procesów kostnienia. Ułatwia wchłanianie żelaza i bierze udział w syntezie hemoglobiny. Stymuluje procesy odpornościowe organizmu. Dobrze się wchłania z przewodu pokarmowego. Jest wydalana przez nerki, znacznie obniża pH moczu. Rozpuszczalna w wodzie. Niszczy ją wysoka temperatura. Rozkłada się pod wpływem promieni ultrafioletowych.<br>Norma dobowa: 50-100 mg i więcej.<br>Możliwe objawy jej braku: łatwość powstawania sińców, zaburzenia pracy przewodu pokarmowego, kłopoty z zębami, krwawienie dziąseł, chropowata skóra, powolne gojenie się ran, apatia.<br>Najwięcej jej zawiera: natka pietruszki, papryka, owoce dzikich róż<br>Objawy przedawkowania: nadmiar wydalany jest z moczem.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>D</strong></td>
 <td>Grupa witamin 1-5, z których najsilniejsze działanie wykazuje witamina D2, najsłabsze D4. Dzienne zapotrzebowanie na witaminę jest uzależnione od ilości dostarczonego wapnia, oraz od naświetlania skóry promieniami nadfioletowymi.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>D2</strong><br>kalcyferol</td>
 <td>Działająca najsilniej z grupy witamin D. Prowitaminą D2 jest ergosterol. Witamina pochodzenia roślinnego. Stymuluje wchłanianie jonów wapnia z przewodu pokarmowego oraz nasila procesy wapnienia w tkance kostnej. Bierze udział w gospodarce wapnem i fosforem w ustroju. Tworzy się tylko z prowitaminy (ergosterolu) zawartej w skórze pod wpływem promieni słonecznych (promieniowanie ultrafioletowe). Rozpuszczalna w tłuszczach.<br>Norma dla dorosłych: mężczyźni i kobiety - 200 j.m.<br>Możliwe objawy jej braku: rozmiękczenie kości (osteomalacja), bóle w kościach, łamliwość kości, tracenie zębów, krzywica.<br>Najwięcej jej zawiera: tran, jaja, mleko, masło.<br>Objawy przedawkowania: brak danych.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E</strong><br>tokoferol</td>
 <td>Występuje w trzech odmianach - α, β i γ. W organizmie magazynowana jest w płacie przednim przysadki mózgowej, w łożysku, wątrobie, mięśniu sercowym i śledzionie. Bierze udział w tworzeniu włókien mięsnych, naczyń, włókien elastycznych i kolagenowych. Odgrywa rolę czynnika ochronnego komórek przed samoutlenianiem. Reguluje procesy rozrodcze i związana jest z przemianą azotową oraz oddychaniem wewnątrzustrojowym. Wykazuje działanie ochraniające w stosunku do witaminy A. Rozpuszczalna w tłuszczach.<br>Norma dla dorosłych: mężczyźni - 15 j.m., kobiety - 12 j.m.<br>Możliwe objawy jej braku: degeneracja mięśni, anemia, dysfunkcja nerwów, nocne kurcze mięśni łydek, brak żywotności, brak sex appealu.<br>Najwięcej jej zawiera: oleje roślinne, sałata, jaja, przetwory mączne.<br>Objawy przedawkowania: brak danych.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>F</strong></td>
 <td>Zestaw kwasów tłuszczowych nienasyconych: linolowy, linolenowy i arachidowy. Pobudza wzrost.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: wypryski, łuszczyca, krwiomocz, biegunka<br>Najwięcej jej zawiera: oleje roślinne, tłuszcze zwierzęce.<br>Objawy przedawkowania: brak danych.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>H</strong><br>biotyna</td>
 <td>Odgrywa rolę przenośnika dwutlenku węgla w procesach przemiany materii. Wytwarzana jest przez bakterie żyjące w przewodzie pokarmowym. Niedobór występuje przeważnie po zniszczeniu flory bakteryjnej przy leczeniu antybiotykami. Jest odporna na wysokie temperatury, działanie kwasów i zasad.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: degeneracja mięśni, anemia, dysfunkcja nerwów, nocne kurcze mięśni łydek, brak żywotności, brak sex appealu, zanik brodawki języka, łupież, ogólne osłabienie, utrata łaknienia.<br>Najwięcej jej zawiera: wątroba, żółtka jaj, kapusta.<br>Objawy przedawkowania: brak danych.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>H1</strong><br>kwas<br>paraaminobenzoesowy</td>
 <td>Przeciwdziała siwieniu.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: brak danych.<br>Najwięcej jej zawiera: drożdże, zarodki pszenicy, chmielu, wątrobie, sercu.<br>Objawy przedawkowania: brak danych.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>K</strong><br>filochinon</td>
 <td>Inna nazwa menadion. pochodna naftochinonu. Jest niezbędna do syntezy czynników krzepnięcia w wątrobie, przede wszystkim protrombiny. U człowieka źródłem witaminy jest własna flora bakteryjna, skąd przy obecności kwasów żółciowych jest ona wchłaniana do krwi i wychwytywana w wątrobie. Niedobór może wystąpić przy leczeniu antybiotykami lub sulfonamidami. Rozpuszczalna w tłuszczach.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: opóźnienie krzepnięcia krwi, skaza krwotoczna.<br>Najwięcej jej zawiera: wątroba, szpinak, kapusta.<br>Objawy przedawkowania: brak danych.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>P</strong><br>rutyna</td>
 <td>Jedna z trzech witamin (C, K, P), które odgrywają rolę w zabezpieczeniu prawidłowej hemostazy. Współdziała z witaminą C w uszczelnianiu śródbłonków naczyń krwionośnych.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: kruchość naczyń krwionośnych, krwawe wybroczyny, obrzęki.<br>Najwięcej jej zawiera: owoce i jarzyny.<br>Objawy przedawkowania: brak danych.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>PP</strong><br>niacyna</td>
 <td>Amid kwasu nilotynowego, nikotynamid. Odgrywa rolę w procesach utleniania komórkowego i w przemianie węglowodanów, tłuszczów i białek. Odporna na gotowanie. W organizmie magazynowana jest w wątrobie. Rozpuszczalna w wodzie.<br>Norma dla dorosłych: mężczyźni - 18 mg, kobiety - 13 mg.<br>Możliwe objawy jej braku: bezsenność, bóle głowy, biegunki, demencja, zapalenie skóry (dermatitis), zakłócenia równowagi psychicznej, stany lękowe, podniecenie, w stanach ciężkich wymioty i biegunki z domieszką krwi, pelagra.<br>Najwięcej jej zawiera: wątroba, chleb pełnoziarnisty, mleko, jaja, świeże jarzyny.<br>Objawy przedawkowania: brak danych.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>Kwas<br>pantotenowy</strong></td>

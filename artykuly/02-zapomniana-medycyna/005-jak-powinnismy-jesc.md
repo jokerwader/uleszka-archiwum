@@ -117,7 +117,7 @@ Prof. Tombak podzielił produkty żywnościowe na trzy grupy. Podobnego podział
 
 |   | 🟨 **POKARM WĘGLOWODANOWY (można łączyć)** |   |   |
 | --- | --- | --- | --- |
-| **BIAŁKO**<br>---<br>mięso, wędliny, ryby,<br>boczek surowy i wędzony,<br>podroby, dziczyzna,<br>wszystkie jaja,<br>rosoły, bakłażany,<br>fasola, bób, soja<br>wszystkie nasiona,<br>wszystkie orzechy,<br>ziarna słonecznika,<br>produkty mleczno-kwaśne,<br>twarogi, sery białe,<br>sery żółte i topione,<br>mleko, jogurt, kefir,<br>żelatyna |   | 🟩 <br>**TŁUSZCZE<br>i produkty "żywe"**<br>---<br>tran, słonina, smalec,<br>masło świeże i topione,<br>oleje, margaryny,<br>orzechy laskowe i włoskie,<br>migdały, gorzka czekolada,  <br>---<br>zielenina, owoce suszone,<br>soki z warzyw i owoców<br>warzywa (oprócz ziemniaków),<br>jagody, arbuzy, grzyby,<br>wino wytrawne, mleko,<br>melon i banan najlepiej<br>spożywać osobno nie łącząc<br>z innymi produktami<br>dodatki smakowe i przyprawy | 🟨 **WĘGLOWODANY<br>(skrobia)**<br>---<br>mąki, kasze, ryż, płatki,<br>wszelkie pieczywa, sucharki<br>ziemniaki, kukurydza,<br>wyroby mączne,<br>makarony, naleśniki<br>cukier, miód<br>suszone owoce,<br>wyroby zawierające cukier<br>dżemy, marmolady, konfitury<br>cukierki, ciasta,<br>syropy owocowe,<br>kakao w proszku,<br>fasola i strączkowe (suche)<br>soczewica, orzeszki ziemne |
+| **BIAŁKO**<br>mięso, wędliny, ryby,<br>boczek surowy i wędzony,<br>podroby, dziczyzna,<br>wszystkie jaja,<br>rosoły, bakłażany,<br>fasola, bób, soja<br>wszystkie nasiona,<br>wszystkie orzechy,<br>ziarna słonecznika,<br>produkty mleczno-kwaśne,<br>twarogi, sery białe,<br>sery żółte i topione,<br>mleko, jogurt, kefir,<br>żelatyna |   | 🟩 **TŁUSZCZE<br>i produkty "żywe"**<br>tran, słonina, smalec,<br>masło świeże i topione,<br>oleje, margaryny,<br>orzechy laskowe i włoskie,<br>migdały, gorzka czekolada,  <br>zielenina, owoce suszone,<br>soki z warzyw i owoców<br>warzywa (oprócz ziemniaków),<br>jagody, arbuzy, grzyby,<br>wino wytrawne, mleko,<br>melon i banan najlepiej<br>spożywać osobno nie łącząc<br>z innymi produktami<br>dodatki smakowe i przyprawy | 🟨 **WĘGLOWODANY<br>(skrobia)**<br>mąki, kasze, ryż, płatki,<br>wszelkie pieczywa, sucharki<br>ziemniaki, kukurydza,<br>wyroby mączne,<br>makarony, naleśniki<br>cukier, miód<br>suszone owoce,<br>wyroby zawierające cukier<br>dżemy, marmolady, konfitury<br>cukierki, ciasta,<br>syropy owocowe,<br>kakao w proszku,<br>fasola i strączkowe (suche)<br>soczewica, orzeszki ziemne |
 | **POKARM BIAŁKOWY (można łączyć)** |   |   |   |
 
 Jeśli zasłonimy lewą tabelę (białko), to otrzymamy listę artykułów spożywczych, które tworzą pokarm węglowodanowy, a artykuły można mieszać ze sobą w dowolnych proporcjach. Jeśli zasłonimy prawą tabelę (węglowodany) otrzymujemy artykuły spożywcze pokarmu białkowego. Przerwa między spożywaniem jednego i drugiego posiłku powinna być nie mniejsza niż 3-4 godziny. Dziwi też zapewne umieszczenie orzechów i w tłuszczach i w białkach. Wynika to z tego, że orzechy są w połowie białkami, a w połowie tłuszczami i na wszelki wypadek jedzmy je osobno. Przykładowo orzechy laskowe i włoskie zawierają powyżej 50% tłuszczu, a ziemne - tłuszczu powyżej 45%, a białka i węglowodanów powyżej 20%. To samo dotyczy boczku. Chudy boczek zaliczamy do mięs (białko), a tłusty do tłuszczy. Czy będziemy go jedli z chlebem, to już nasz wybór. Umiar na pewno nie zaszkodzi, ale jeśli ktoś za jednym "posiedzeniem" potrafi zjeść pół bochenka chleba z kilogramem boczku, to musi się liczyć z jakimiś konsekwencjami.
@@ -251,23 +251,11 @@ Pożyteczne rady:
 
 **ZASADY SPOŻYWANIA WARZYW**
 
-**1.**
-
-**Zimą i wiosną nie spożywać nadmiernie pomidorów i ogórków. Wymienione warzywa są hodowane sztucznie, albo zrywane niedojrzałe, dlatego też szybko gniją i psują się. Żeby zwiększyć termin przechowywania poddawane są działaniu różnorodnych środków.**
-
-![](../../zrodlo/webacja/medalt/marchewy.jpg)
-
-**2.**
-
-**Wiele osób narzeka, że nie może spożywać surowych warzyw. Tak się dzieje dlatego, wszystkie artykuły pochodzenia roślinnego powinny być bardzo dokładnie przeżuwane, ponieważ ich trawienie zaczyna odbywać się w jamie ustnej. Jeżeli tego nie zrobicie, to niedobrze pogryziony pokarm przedostaje się do żołądka, gdzie będzie fermentować, a to powoduje obfite gazy i wzdęcia. Radziłbym, aby osoby, którym brakuje więcej niż czterech zębów, używały tarki do przygotowania pokarmu roślinnego, najlepiej plastikowej.**
-
-**3.**
-
-**Wiele warzyw zawiera nukleidy promieniotwórcze, dlatego też sałatki należy przyrządzać z warzyw wyhodowanych na własnej działce lub warzyw czystych ekologicznie. Jesli nie mamy takich możliwości, promieniotwórczych nukleidów możemy się pozbyć w następujący sposób: przed spożyciem należy warzywa wymoczyć w słonej wodzie przez 3 godziny bez dostępu światła. W ten sposób około 40% radionukleidów ulega zniszczeniu.**
-
-**3.**
-
-**W zimne pory roku źródłem witamin oraz makro i mikroelementów powinny być warzywa kiszone, suszone, owoce i ich przetwory.**
+| **1.** | **Zimą i wiosną nie spożywać nadmiernie pomidorów i ogórków. Wymienione warzywa są hodowane sztucznie, albo zrywane niedojrzałe, dlatego też szybko gniją i psują się. Żeby zwiększyć termin przechowywania poddawane są działaniu różnorodnych środków.** | ![](../../zrodlo/webacja/medalt/marchewy.jpg) |
+| --- | --- | --- |
+| **2.** | **Wiele osób narzeka, że nie może spożywać surowych warzyw. Tak się dzieje dlatego, wszystkie artykuły pochodzenia roślinnego powinny być bardzo dokładnie przeżuwane, ponieważ ich trawienie zaczyna odbywać się w jamie ustnej. Jeżeli tego nie zrobicie, to niedobrze pogryziony pokarm przedostaje się do żołądka, gdzie będzie fermentować, a to powoduje obfite gazy i wzdęcia. Radziłbym, aby osoby, którym brakuje więcej niż czterech zębów, używały tarki do przygotowania pokarmu roślinnego, najlepiej plastikowej.** |   |
+| **3.** | **Wiele warzyw zawiera nukleidy promieniotwórcze, dlatego też sałatki należy przyrządzać z warzyw wyhodowanych na własnej działce lub warzyw czystych ekologicznie. Jesli nie mamy takich możliwości, promieniotwórczych nukleidów możemy się pozbyć w następujący sposób: przed spożyciem należy warzywa wymoczyć w słonej wodzie przez 3 godziny bez dostępu światła. W ten sposób około 40% radionukleidów ulega zniszczeniu.** |   |
+| **3.** | **W zimne pory roku źródłem witamin oraz makro i mikroelementów powinny być warzywa kiszone, suszone, owoce i ich przetwory.** |   |
 
 Pożyteczne rady w spożywaniu warzyw i owoców:
 

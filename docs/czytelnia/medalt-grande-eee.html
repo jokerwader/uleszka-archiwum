@@ -14,12 +14,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
@@ -35,8 +35,8 @@
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -78,248 +78,124 @@
 </tr>
 </thead>
 <tbody><tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 101</strong></td>
 <td>Ryboflawina. 101a - sól sodowa fosforanu ryboflawiny. Nie ma nic wspólnego z rybami - poza biernym skojarzeniem nazwy w języku polskim. Barwnik ulubiony przez producentów przypraw, na przykład znanej u nas jugosłowiańskiej Vegety. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 102</strong></td>
 <td>Tartrazyna. Żółty barwnik produkowany głównie do celów spożywczych. Ma w związku z tym nazwę handlową Food Yellow (żółcień żywnościowa). Jest oczywiście dopuszczony przez amerykańską Food and Drug Administration (FDA). Dopuszczony w Polsce. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 104</strong></td>
 <td>Żółcień chinolinowa. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 110</strong></td>
 <td>Żółcień zachodzącego słońca, FCF. Spreparowano go w roku 1878, metabolizm w organizmie określono w roku 1962, a cechy toksykologiczne w roku 1967. LD50, a więc dawka powodująca połowę zgonów w danej populacji, dla myszy wynosi 10 g na l kg.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 120</strong></td>
 <td>Karmin. Kwas karminowy otrzymywany z insektu Coccus cacti. Wydzielony w stanie czystym przez znanego chemika polskiego Leona Marchlewskiego w roku 1894. Ostateczny wzór chemiczny poznano dopiero w roku 1965. Ma różnorodne zastosowania. Dopuszczony przez FDA. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 122</strong></td>
 <td>Azorubina. Barwnik czerwony, zwany też chromotropem FB. Stosowana szczególnie do barwienia dżemów i marmolad wiśniowych, budyni, napojów, lodów, polew cukierniczych. Większość barwników spożywczych to barwniki azowe. Przechodzą one w organizmie w aminy, a te, które mają grupę sulfonową, dają nieszkodliwe kwasy aminosulfonowe. Dlatego dopuszczono tylko te barwniki azowe, które w cząsteczce mają co najmniej jedną grupę sulfonową. Powstała w ten sposób w roku 1952 tak zwana lista A - osiemnastu bezpiecznych barwników azowych, włączona w roku 1961 do spisu środków dozwolonych w przemysłach spożywczych krajów EWG. Lista była później skracana ze względów praktycznych. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 123</strong></td>
 <td>Amarant. Barwnik czerwony. W roku 1976 został wycofany z listy FDA substancji dopuszczonych do stosowania w przemyśle spożywczym, w produktach farmaceutycznych i w kosmetykach. Duńczycy nie uznali jednak amerykańskich wyników badań za przekonujące i nie skreślili tego barwnika ze swojej listy. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 124</strong></td>
 <td>Ponceau 4R. Barwnik czerwony. Podobnie jak E 123 skreślony z listy KDA, lecz utrzymany na liście duńskiej. Jako czerwień koszenilowa oraz odmiana 6R figuruje na liście <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 127</strong></td>
 <td>Erytrozyna. &quot;Merck Index&quot; barwnik ten, nazwany zresztą odpowiednio Food Red 14, czyli czerwień żywnościowa (&quot;Indeks Mercka&quot; X-3637), jest dopuszczony do stosowania w produkcji żywności w Europie, a do roku 1990 był używany także w USA. W przypadku E 127 dawka LD50 dla człowieka o średniej wadze wynosi aż 175 g! Pod nazwą chemiczną czterojodofluoresceiny znajduje się na liście <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 131</strong></td>
 <td>Błękit patentowy FCF. Barwnik niebieski, raczej rzadko stosowany w produkcji żywności, natomiast częściej w kosmetykach.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 132</strong></td>
 <td>Indygotyna I. Preparat indyga, najstarszego środka barwiącego dozwolonego przez FDA, stosowany na przykład w opatrunkach, pieluchach jednorazowych itp. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 133</strong></td>
 <td>Błękit brylantowy FCF 1350, Food Blue 2 (błękit żywnościowy), LD50 - 4,6 g/kg. Dozwolony przez FDA do stosowania w środkach spożywczych, lekarstwach, kosmetykach, ale z wyjątkiem okolic oczu. Podobnie jak w wypadku innych barwników, dokładne badanie pod kątem działania rakotwórczego dało wynik ujemny. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 140</strong></td>
 <td>Chlorofil a i b. Zielone barwniki roślinne są kluczowymi związkami chemicznymi dla fotosyntezy, a więc wiązania dwutlenku węgla z powietrza i tym samym produkcji żywności. W przemyśle spożywczym stosowane są w postaci różnych preparatów, czasem modyfikowanych. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 141</strong></td>
 <td>Kompleks miedziowy chlorofilu lub chlorofilyny, także ich sole - sodowa i potasowa. Od niepamiętnych czasów wzmacnia się nim barwę, również w Polsce, groszku konserwowego, który inaczej byłby bardzo jasny i nieapetyczny. Jeszcze w pierwszej połowie naszego wieku były zastrzeżenia do wzbogacania groszku miedzią, zwłaszcza gdy w krwi niektórych psychicznie chorych osób stwierdzono zwiększone stężenie miedzi. Ale później nie dopatrzono się związku choroby ze spożywaniem groszku, toteż nadal lista ogłaszana przez FAO/WHO klasyfikuje chlorofil wzmacniany miedzią jako barwnik występujący w sposób naturalny w żywności, na równi z E 101, E 150 i rodziną E 160. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 150</strong></td>
 <td>Karmel, czyli podpalany cukier; podstawowy barwnik coca-coli i podobnych napojów. Występuje w dużych ilościach w każdym pieczonym słodkim cieście. Od lat używany w gospodarstwie domowym. Akcja przeciwko stosowaniu karmelu była prowadzona przez lewicę w niektórych krajach Europy (na przykład we Francji i Danii) w latach pięćdziesiątych i sześćdziesiątych w ramach walki z Ameryką, której szczególnym symbolem była coca-cola. Koncern ten zgodził się nawet na produkcję swojego napoju w postaci bezbarwnej, jasnoszarej, ale nonsensowna akcja skończyła się z chwilą odcięcia dotacji na ten cel przez przeciwników USA. Dowodów na rakotwórczość karmelu nic znaleziono. Przestano też o to podejrzewać przypalone cukry, na przykład prażone buraki cukrowe - główny składnik polskiej namiastki kawy - Inki. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 151</strong></td>
 <td>Barwnik czarny, czerń PN, stosowany na przykład do barwienia tanich odmian kawioru. Łatwy do rozpoznania, ponieważ barwnik ten jest łatwo rozpuszczalny w wodzie i czerni białko jaja ugotowanego na twardo. Oryginalny czarny lub szary kawior tego nie daje. Łatwo nawet na oficjalnym przyjęciu położyć ziarenko podejrzanego kawioru na jajku i przekonać się, czy gospodarz jest sknerą.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 153</strong></td>
 <td>Węgiel drzewny medyczny. Znalazł się na liście barwników, ponieważ stosowany jest w niektórych krajach do produkcji słodyczy i wypieków całkowicie czarnych. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 160</strong></td>
 <td>Alfa-, beta- i gamma-karoten, żółte barwniki marchewki i podobnych roślin, szeroko stosowane w gospodarstwie domowym od setek, jeżeli nie tysięcy lat do barwienia. Karotynoidy mają szczególną pozycję w świecie roślinnym, który wytwarza ich około jednego miliarda ton rocznie. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 160b</strong></td>
 <td>Ekstrakt z nasion Bixa orellana. Ulubiony barwnik producentów margaryny, olejów roślinnych, serów (żółtych, oczywiście). Hurtownik krajowy oferuje dostarczanie dowolnych ilości tego barwnika pod nazwą handlową anato. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 160c</strong></td>
 <td>Kapsantyna. Barwnik czerwony występujący w papryce. Wzór chemiczny rozwikłany ostatecznie dopiero w roku l97l. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 160d</strong></td>
 <td>Likopen. Intensywnie czerwony barwnik, z powodu skumulowanych wiązań podwójnych w łańcuchu węglowodorowym. Jest to struktura najzupełniej obca w organizmie człowieka. Gdyby ta okoliczność miała być podstawą obaw, to należałoby zrezygnować z jedzenia pomidorów, które zawierają ten związek. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 160<br>e, f</strong></td>
 <td>Beta-apo-8&#39; carotenal i ester etylowy kwasu beta-apo-8&#39;-karotenowego. Karotenoid o pogłębionej barwie czerwonej, przechodzącej niemal w brunatną.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 160<br>a-e, i, g</strong></td>
 <td>Flawoksantyna, luteina, kryptoksantyna, rubiksantyna, wiolaksantyna, rodoksantyna, kantaksantyna - to duża rodzina barwników biogennych. Różnią się niewiele wzorami chemicznymi, ale ich funkcje biologiczne mogą być zupełnie różne. Na przykład kryptoksantyna wykazuje aktywność witaminy A. Występuje w wielu roślinach i dlatego może się znaleźć w żółtkach jaj, a nawet w maśle. Rubiksantyna jest izomerom tego związku, ale nie ma aktywności witaminy A. Jest czerwonym barwnikiem różnych odmian dzikich róż. Flawoksantyna jest żółtoczerwonym barwnikiem o wzorze chemicznym rozwikłanym dopiero w roku 1978. Luteina jest zdecydowanie żółta, obficie występuje w świecie roślinnym. szczególnie w płatkach wielu żółtych kwiatów. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 162</strong></td>
 <td>Barwnik buraka czerwonego (betanina). Nieodporny na działanie światła. Stosowany do barwienia sztucznego mięsa wytwarzanego z białka soi. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 163</strong></td>
 <td>Antocyjany. Barwniki winogron oraz wielu jagód. Odpowiednie ekstrakty, lepiej lub gorzej oczyszczone, są w sprzedaży. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 170</strong></td>
 <td>To po prostu węglan wapnia, dodawany jako biały pigment. U nas dodaje się w sporych ilościach do calcipiryny, dla osłony żołądka przed kwasem acetylosalicylowym. Oprócz tego E 170 jest stosowany w starego typu pastach do zębów, w których spełnia rolę szorującą. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 171</strong></td>
 <td>Dwutlenek tytanu. Brzmi groźnie, ale nie udało się stwierdzić jego szkodliwości w produktach, które mają lśnić bielą. Jest obecny w śnieżnobiałej gumie do żucia dostępnej w całej Skandynawii. Występuje w dużych ilościach w paście do zębów Elmex. <strong>IL-PZH</strong>.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 172</strong></td>
 <td>Tlenki i wodorotlenki żelaza. Rzadko stosowany pigment, nie tylko nieszkodliwy, ale wzbogacający żywność w żelazo. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 173</strong></td>
 <td>Aluminium. Może dziwić na liście dodatków do żywności, ale jest dopuszczone do dekoracji słodyczy, na przykład w postaci słodkich kuleczek do ozdoby tortów. Metaliczny glin i jego sole były swego czasu podejrzane o sprzyjanie rozwojowi choroby Alzheimera. Dziś reklamuje się w polskiej prasie preparat zawierający ogromne ilości rozpuszczalnych soli glinu, działający uspokajająco na żołądek. Dopuszczony przez Ministerstwo Zdrowia i Opieki Społecznej.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 174</strong></td>
 <td>Srebro metaliczne. Cóż, zapewne też do produktów służących do dekoracji.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 175</strong></td>
@@ -335,128 +211,64 @@
 </tr>
 </thead>
 <tbody><tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 210-<br>i pochodne</strong></td>
 <td>Kwas benzoesowy i benzoesan sodu (E 211)- najpopularniejszy konserwant, często używany także w Polsce. Powstrzymuje rozwój wielu mikroorganizmów. Masowo stosowany we wszystkich sokach bułgarskich. Próby robienia wina z bułgarskiego soku winogronowego nie dają rezultatów, bo drożdże w tym środowisku giną. Zamiast tego rozwijają się niektóre drobnoustroje odporne na benzoesany, prowadząc do powstania obrzydliwie woniejących cieczy. Czytelnikom interesującym się chemią proponujemy porównanie działania takich prostych i podobnych związków, jak kwas salicylowy i aspiryna.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 212<br>E 213</strong></td>
 <td>Benzoesany - odpowiednio - potasu i wapnia. Działanie podobne jak w poprzednim punkcie. Odmiany różniące się sposobem dodawania do produktu.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 213<br>E 214</strong></td>
 <td>Kwas etylo-p-hydroksybenzoesowy oraz jego sól sodowa. Pochodne kwasu benzoesowego o lepszych własnościach konserwujących i zmniejszające obciążenie populacji tylko jednym związkiem E 210 i jego solami (jak to ma miejsce w Polsce). Szeroko stosowane w preparatach farmaceutycznych, a także w lepszych pastach do zębów sprzedawanych w Polsce.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 218<br>E 219</strong></td>
 <td>Jak poprzednie, ale z podstawnikiem metylowym. Spreparowany już w roku 1887. Konserwant ten szczególnie skutecznie przeciwdziała rozwojowi grzybów i pleśni wytwarzających trujące aflatoksyny.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 220</strong></td>
 <td>Dwutlenek siarki, SO2, dodawany w ogromnych ilościach (na przykład 0,5 g na litr) do czerwonego wina. Używany też w dużych ilościach w Polsce do konserwowania naturalnych soków owocowych i ich koncentratów. W ogóle używany jako konserwant wina od tysięcy lat, na szczególnie dużą skalę od czasu rozpoczęcia eksploatacji siarki w kopalniach na Sycylii, jeszcze przed Chrystusem.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 221</strong></td>
 <td>Siarczyn sodu, Na2SO3. Działanie podobne do E 220.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 222</strong></td>
 <td>Kwaśny siarczyn sodu, NaHSO3. Działanie podobne do E 220. Wszystkie siarczyny (a więc także 221,223, 224 i 226) są wygodniejsze w stosowaniu niż gazowy dwutlenek siarki (220) sprężony w butlach.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 236</strong></td>
 <td>Kwas mrówkowy, HCOOH, dobry konserwant. Otrzymany po raz pierwszy w roku 1670 w wyniku suchej destylacji martwych mrówek. Od tego czasu z mrówkami ma niewiele wspólnego. Produkowany, jak wiele związków z tej listy, syntetycznie. Silny reduktor, mało toksyczny; LD50 - l,lg/kg dla myszy.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 237<br>E 238</strong></td>
 <td>Odpowiednio - sól sodowa i wapniowa kwasu mrówkowego. Działanie konserwujące podobne do E 236.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 239</strong></td>
 <td>Heksametylenotetramina, urotropina, wykazuje silne działanie bakteriobójcze. Stosowana zwłaszcza w infekcjach dróg moczowych (w dawkach leczniczych).</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 249-<br>-252</strong></td>
 <td>Azotyny i azotany - bez nich nie byłoby szynki i innych wędlin. Szynka z niektórych zakładów ma dziwne kanaliki, przypominające zżerane przez korniki ramy obrazów. Otóż w szynce są to ślady po igłach, którymi wstrzykuje się roztwory E 249-252 w czasie peklowania przed wędzeniem. Już nie jako konserwant, ale pozostałość przy nawożeniu azotanami mogą być obecne w jarzynach, na przykład w sałacie.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 261</strong></td>
 <td>Kwas octowy. Jak zrobić bez niego marynowane śledzie, grzybki i dziesiątki innych smakowitych potraw? Irytuje mnie tylko ten zapach, zwłaszcza emanujący z sałatek.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 261-<br>-263</strong></td>
 <td>Sole - potasowa, sodowa i wapniowa kwasu octowego; dodane do kwaśnych produktów i tak wyzwolą przykrą won kwasu octowego, ale już nie tak intensywną jak E 260.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 270</strong></td>
 <td>Kwas mlekowy, znakomity konserwant. Łatwy i tani w produkcji metodą fermentacyjną z surowców bogatych w skrobię, także z cukrów, na przykład z odpadowej melasy. LD50 dla szczurów wynosi około 4 g na kilogram wagi. W Polsce robiono wszystko, żeby go nie stosować, zamknięto między innymi wytwórnię w Łodzi. Niestety droższy od octu! W naturalny sposób tworzy się w czasie kiszenia ogórków i kapusty.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 281-<br>-283</strong></td>
 <td>Sole - sodowa, wapniowa i potasowa. Bezwonne, jeżeli materiał, do którego są dodane, nie jest zbyt kwaśny.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 290</strong></td>
@@ -472,96 +284,48 @@
 </tr>
 </thead>
 <tbody><tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 301<br>E 302</strong></td>
 <td>Sole - sodowa i wapniowa kwasu 1-askorbinowego. Działanie podobne do E 300.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 304</strong></td>
 <td>Palmitynian askorbylu. Pochodna witaminy C, łatwiejsza do stosowania w produktach zawierających tłuszcze. Symbol można zauważyć na opakowaniu prażonych płatków ziemniaczanych, dających się długo przechowywać bez jełczenia i obrzydliwej woni.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 306</strong></td>
 <td>Ekstrakty wzbogacone o tokoferole, otrzymywane z produktów pochodzenia roślinnego. Tokoferol to witamina E. W stanie czystym jest oleistą cieczą, rozpuszcza się w tłuszczach. Obecny w ilościach 0,1-0,3% w nasionach pszenicy, w kukurydzy, nasionach słonecznika, oleju sojowym i w sałacie. Duże zapotrzebowanie na witaminę E oraz na środek przeciwdziałający jełczeniu tłuszczów spowodowało rozwinięcie syntezy tokoferoli na dużą skalę.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 307-<br>-309</strong></td>
 <td>Syntetyczne tokoferole alfa, gamma i delta. Pierwszy z nich jest syntetyczną witaminą E. Tokoferol działa słabiej jako witamina, ale silniej jako przeciwutlemacz.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 310-<br>-312</strong></td>
 <td>Gallusany propylu, oktylu lub dodecylu. Szczególnie pierwszy z nich wzmacnia działanie E 320 i 321, pozwalając zmniejszyć ich stężenie. LD50 - 4 g/kg. Chroni tłuszcze przed jełczeniem.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 320<br>E 321</strong></td>
 <td>Osławione przez środki masowego przekazu antyoksydanty BHA i BHT, nazywane w Polsce bezpodstawnie rakotwórczymi. Bez nich wiele produktów śmierdziałoby jak zjełczałe masło. Mało który przeciwnik antyoksydantów zwraca uwagę na fakt, że właśnie produkty utlenienia mogą być rakotwórcze. Uważa się, że przemysł żywnościowy stosuje wszystko, zwłaszcza przeciwutleniacze, dla własnej złośliwej przyjemności. Wymienione substancje dodaje się czasem też i do opakowań artykułów jełczejących. Są one pierwszą linią obrony przed tlenem.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 322</strong></td>
 <td>Lecytyna. Fosfatyd występujący w całym świecie roślinnym i zwierzęcym. Jest istotnym składnikiem tkanki nerwowej i mózgu. Występuje w jajkach, ale produkt handlowy pochodzi głównie z nasion soi. Środek powierzchniowo aktywny i emulgator - dzięki niemu mieszanki kakaowe łatwo rozprowadzają się w mleku. Oprócz tego ulubiony składnik niemieckich &quot;cudownych&quot; środków wzmacniających.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 330</strong></td>
 <td>Kwas cytrynowy. Doskonały przeciwutleniacz, też zniesławiony przez nieodpowiedzialnych dziennikarzy, którzy - powołując się na anonimowe źródła zachodnie - twierdzą, że działa rakotwórczo.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 334</strong></td>
 <td>Kwas 1-winowy. Jak sama nazwa wskazuje, znajduje się w winie. Pojawia się w nadmiarze w czasie produkcji tego napoju i jest sprzedawany jako produkt uboczny. Używany jako składnik napojów bezalkoholowych.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 335-<br>-337</strong></td>
 <td>Winiany sodu, potasu i sodowo-potasowy. Działanie przeciwutleniające podobne do E 334.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 338</strong></td>
 <td>Kwas fosforowy i cztery jego sole. Składnik coca-coli i innych napojów. Sole pożyteczne w pieczywie i w sproszkowanych produktach spożywczych, przeciwdziałające ich zbrylaniu. Jako polifosforany (E 450 a, b i c) są istotnym składnikiem tak zwanych serków topionych. Działanie w czasie produkcji polega na szybkiej dezaktywacji jonów wapnia, kazeiny oraz na stabilizacji emulsji spęczniałej kazeiny i uwolnionego tłuszczu. Fosforan dwusodowy jest zazwyczaj składnikiem mleka skondensowanego.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 375</strong></td>
@@ -577,160 +341,80 @@
 </tr>
 </thead>
 <tbody><tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 406</strong></td>
 <td>Agar, polisacharyd pochodzenia roślinnego, podobnie jak kwas alginowy wytworzony z alg. Już jego jednoprocentowy roztwór daje sztywną galaretkę. Pod wieloma względami lepszy od galaretek żelatynowych. Agar jest środkiem przeczyszczającym dla psów i kotów. Człowiekowi natomiast niczym takim nie grozi.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 407</strong></td>
 <td>Karragean. Polisacharyd (kopolimer galaktozy) z czerwonego wodorostu morskiego, występującego na brzegach Atlantyku - od Norwegii po Afrykę Północną. Nazwa pochodzi od irlandzkiego miasteczka Carragheen. Należy do grupy pektyn (E 440 a), jest polisacharydem.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 410</strong></td>
 <td>Wyciąg z nasion &quot;chleba św. Jana&quot;, rośliny Ceratonia siliqua L. rosnącej w rejonie Morza Śródziemnego. W gotującej wodzie pęcznieje. Starsze pokolenie mieszkańców Polski zachodniej pamięta ten produkt sprzedawany w sklepach &quot;kolonialnych&quot;.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 412</strong></td>
 <td>Guma guar, zwana też guaran. Pochodzi z nasion Cyamopsis tetragonolobus L., uprawianego w Indiach na paszę dla zwierząt. Lepszy zagęszczacz niż skrobia, szczególnie do sałatek, majonezów, lodów, zup i leków.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 420</strong></td>
 <td>Sorbitol lub syrop sorbitolowy. Występuje w wielu jagodach, śliwkach, jabłkach, a nawet w algach. Stosowany do produkcji słodyczy dla diabetyków, ponieważ nie powoduje tak dużego wzrostu glukozy w krwi jak cukier. Ułatwia wchłanianie witamin z preparatów farmaceutycznych. W słodyczach przeciwdziała zestalaniu się cukru. Niestety, dodatek dość kosztowny.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 421</strong></td>
 <td>Mannitol. Występuje szeroko w świecie roślinnym, jednak preparowany z cukru jest bardziej opłacalny. Ma szerokie zastosowanie w przemyśle spożywczym: nadaje właściwą konsystencję produktom i stabilizuje je, zapobiega przyleganiu do form, a jednocześnie jest środkiem słodzącym o własnościach odżywczych.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 422</strong></td>
 <td>Gliceryna, glicerol. Otrzymywany przy zmydlaniu tłuszczów, ale wobec ogromnego zastosowania także metodami fermentacyjnymi i syntetycznymi. Zastosowanie w farmacji większe niż w przemyśle spożywczym. Wymaga się ujawniania tego dodatku również w kosmetykach.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 440a<br>E 440b</strong></td>
 <td>Pektyna naturalna i modyfikowana - polisacharyd o dużym ciężarze cząsteczkowym występujący w wielu owocach. Znakomity zagęszczacz do przetworów owocowych. Bez wartości odżywczej, jednak ważny dla pracy układu trawiennego.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 450</strong></td>
 <td>a - dwufosforany, b - trójfosforan pięciosodowy, c - polifosforany. Na opakowaniach znajdujemy zwykle E 450 abc, ponieważ dokładny skład polifosforanów zależy od pH. Dodatek jest przeważnie składnikiem serków topionych. Działanie - patrz E 338.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 460</strong></td>
 <td>Celuloza czysta i w różnych modyfikacjach. Polisacharyd zbudowany z glukozy, główny składnik włókien roślinnych. Ponieważ człowiek nie jest w stanie trawić celulozy, jest ona składnikiem różnych preparatów odchudzających.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 470</strong></td>
 <td>Sole sodowe, potasowe i wapniowe tłuszczów spożywczych. Na przykład stearynian sodu jest częstym składnikiem past do zębów.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 500<br>E 501</strong></td>
 <td>Węglan sodu, węglan potasu (soda).</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 503</strong></td>
 <td>Węglan amonu, popularny proszek do pieczenia. W czasie pieczenia ulatnia się!</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 507</strong></td>
 <td>Kwas solny - stosowany szeroko do hydrolizy białek w przyprawach (w rodzaju Maggi).</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 536</strong></td>
 <td>Żelazocyjanek potasu. Mało kto wie, że jest to dodatek do wina usuwający jony żelaza psujące jego smak.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 551-<br>-559</strong></td>
 <td>Dwutlenek krzemu i krzemiany. Wymaga się bezwzględnie, by nie zawierały azbestu. <strong>IL-PZH</strong>.</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 575-<br>-579</strong></td>
 <td>Grupa glukonianów. Na przykład glukonian wapnia, dodawany do sproszkowanych, suchych środków żywnościowych w celu uniknięcia spiekania się (zbrylania).</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 620<br>E 621</strong></td>
 <td>Kwas l-glutaminowy i glutaminian jednosodowy. Powszechny dodatek wzmacniający naturalny smak wielu potraw. Podstawa kuchni chińskiej (często tam przedawkowany!).</td>
 </tr>
 <tr>
-<td>---</td>
-<td></td>
-</tr>
-<tr>
 <td><strong>E 900</strong></td>
 <td>Dwumetylopolisiloksan. Związek, którym pokrywa się formy piekarnicze i podobne urządzenia w przemyśle spożywczym, zwłaszcza w produkcji zautomatyzowanej, w celu unikania przylepiania się wypieku do formy. Pewna ilość przechodzi oczywiście do pieczywa i dlatego musi być traktowana jako dodatek do żywności. Jako ciekawostka: wymieniony silikon pochodzi z rodziny silikonów stosowanych do sztucznego powiększania biustu.</td>
-</tr>
-<tr>
-<td>---</td>
-<td></td>
 </tr>
 <tr>
 <td><strong>E 903</strong></td>

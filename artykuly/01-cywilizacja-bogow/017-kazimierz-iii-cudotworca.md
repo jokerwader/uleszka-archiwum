@@ -14,12 +14,7 @@ Zastał drewnianą, zostawił murowaną. \[slogan naukowy\]
 
 Polska, a właściwie dzisiejsze ziemie zamieszkane przez Polaków są usiane pozostałościami po przodkach je zamieszkujących. Zdołałem wyłuskać ponad czterysta obiektów noszących miana warowni, twierdz, zamków, pałaców, dworów itp, a to dzięki nietypowej publikacji wydanej bodaj w latach 80-tych ubiegłego stulecia przez Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych w formie mapy "Zamki w Polsce", gdzie część opisową opracowali panowie - Józef Matusik i Jerzy Miszalski. Zainteresowany byłem najstarszymi budowlami tego typu, a szczególnie budowanymi w wiekach od X do XV czyli polskim średniowieczem, bo przedtem nie było tu nic oprócz hord wałęsających się po lasach i mieszkających w ziemiankach. Podobno..., bo ruiny mówią, że w początkach naszej państwowości wcale nie ustępowaliśmy zachodowi i co ciekawe też potrafiliśmy budować nawet na bagnach.
 
-![](../../zrodlo/webacja/warownie/kw/chrzelice.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/swierklaniec.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/czarnybor.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/chrzelice.jpg) ![](../../zrodlo/webacja/warownie/kw/swierklaniec.jpg) ![](../../zrodlo/webacja/warownie/kw/czarnybor.jpg)  
 Próbki polskiego budownictwa "bagiennego" - Chrzelice, Świerklaniec i Czarny Bór
 
 Zacznę od suchej statystyki, jako wyznacznika naszych czasów. Otóż wedle historyków wspomaganych archeologami od XIII do XV wieku na ziemiach naszych powstało około 359 zamków, z których inwestorem 43 był Kazimierz Wielki, 51 Krzyżacy, a 75 nie posiada ani ojca ani matki czyli albo zbudowali aniołowie (wersja angielska) lub diabli nadali (wersja polska). Reszta (180), to dzieła pomniejszych lokalnych książąt lub rodów. Najpopularniejszym budulcem jest kamień - 105 obiektów, potem cegła - 76, a kamienno-ceglanych naliczyłem -39. Z czego zbudowano 139 obiektów trudno ocenić, bo z reguły są w imię rekonstrukcji zapacykowane konserwatorskim tynkiem. Z konserwacją nie ma to nic wspólnego, a raczej z odbudową na tzw. nosa, a celem jest wytrącenie argumentów zadającym "głupie" pytania. Inna statystyka dotyczy ich obecnego stanu.
@@ -56,14 +51,7 @@ Kazimierz III zwany Wielkim, który panował w latach 1333-1370, został okrzykn
 
 Problem jest w tym, że jak zwykle trudno ustalic kolejność, co było pierwsze - jajko czy kura. Wszakże już kamienne budowle istniały za Mieszka I na Ostrowie Lednickim, a przed nim budowaliśmy ponoć tylko grody ziemno-drewniane z typowo "polskimi" hakami wałowymi, jak ten w Gnieźnie. Gdzie w tym układzie umieścić przedchrześcijańską rotundę z Wawelu, Cieszyna czy Gromnika? Na Ostrowie Lednickim kamienne otoczaki, a na Wawelu surowy, łupany kamień. Czy "salomonowym" wyjściem jest ogłoszenie, że chrzest przyjął tylko Mieszko i jego drużyna, a reszta tkwiła w pogaństwie i budowała jak chciała i co chciała? Chyba nie. Rotunda jest bardzo popularną budowlą ale w kręgu chrześcijaństwa bizantyjskiego, a nie rzymskiego i to nie przypadek, że zachowały się na południu Europy, gdyż przedłużeniem polityki Rzymu na wschodzie były Niemcy nie zainteresowane tamtym rejonem. Czy nasze pogaństwo miało charakter bizantyjski? Prawdopodobnie tak. I dlatego zostało zburzone, spalone lub zamurowane. Ręce Rzymu nie zdążyły tego zrobić w Dalmacji, na wschodzie czy w samym Bizancjum i dlatego tam mają dłuższą i bogatszą historię.
 
-![](../../zrodlo/webacja/warownie/kw/kwz_bobolice.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kwz_inowlodz.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kwz_lanckorona.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kwz_olsztyn.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/kwz_bobolice.jpg) ![](../../zrodlo/webacja/warownie/kw/kwz_inowlodz.jpg) ![](../../zrodlo/webacja/warownie/kw/kwz_lanckorona.jpg) ![](../../zrodlo/webacja/warownie/kw/kwz_olsztyn.jpg)  
 Przykłady budownictwa kamiennego Kazimierza III - Bobolice, Inowłodz, Lanckorona i częstochowski Olsztyn
 
 Kazimierz III objął tron Polski w roku 1333 po śmierci ojca Władysława Łokietka w dość nieciekawej sytuacji politycznej. Oczy króla skierowane były na Ruś Halicką, gdzie opustoszał tron po śmierci Trojdenowicza z rodziny Piastów (zapora przed Tatarami). By zabezpieczyć się od strony krzyżackiej, Kazimierz zawarł z nimi pokój oddając całe Pomorze Gdańskie w zamian za Kujawy i Ziemię Dobrzyńską. Umożliwiło mu to wyprawę na Ruś Halicką, gdzie zajął Lwów, Halicz, Chełm, Brześć i Włodzimierz, co znów spowodowało konflikt z Litwą walczącą o wpływy na Rusi. Jest ciekawe, że książęta śląscy będący podówczas lennikami króla czeskiego nie wykazywali zaborczych intencji wobec Polski, a pomimo to król buduje szereg kamiennych zamków na granicy ze Śląskiem, a ze strony największego wroga - Krzyżaków - zaledwie dwa - w Złotorii pod Toruniem i w Kruszwicy. Od strony Brandenburgii Polski broni tylko gród w Poznaniu, a od Litwy żaden. Czy to nie jest co najmniej dziwne? Dlaczego, jako ponoć wybitnie dalekowzroczny strateg, nie zabezpieczył się od północy gdzie urastał w siłę największy wróg Polaków - zakon krzyżacki? Dlaczego jako strateg nie zbudował sieci zamków broniących serca królestwa w oparciu o Wisłę? Owszem zbudował, powie ktoś. Tak, ale dziwnym trafem większośc na prawym brzegu Wisły, a więc od strony potencjalnego najeźdzcy, zamiast na lewym gdzie pierwszym pasem obrony byłaby sama Wisła.
@@ -76,40 +64,19 @@ Kazimierz Wielki sygnował swym nazwiskiem (wedle historyków) budowę co najmni
 
 Geograf Bawarski w dokumencie z roku 843 opisuje, że "Dziadoszyce posiadali dwadzieścia grodów, Opolanie tyleż samo. Golęszyce 5 grodów. Ślężanie mieli piętnaście grodów, a plemię słowiańskie mieszkające nad Wartą miało dziewięćdziesiąt osiem twierdz". Co zatem u człowieka z zachodu oznaczało słowo gród czy twierdza? Drewnianą zagrodę z Biskupina czy też zamki przypominające te potężne z Niemiec czy Francji? Naiwnością jest twierdzić, że wrażenie na nim mogły zrobić drewniane grody otoczone wałami ziemnymi. Można przypuszczać, że piszący te słowa frankoński skryba doskonale znał budownictwo zachodniej Europy. Dokument lokacyjny Krakowa z roku 1257, a więc na prawie 100 lat przed królowaniem Kazimierza III wymienia w samym tylko mieście (bez Wawelu) około dwudziestu kamiennych kościołów. Paweł Jasienica pisze, że jednocześnie Poznań, Sandomierz, Gniezno, Wrocław czy Wiślica liczyły ich po kilka. Szkoda, że nie pisało się wtedy o kamiennych grodach, bo i te zapewne już istniały. Brak wzmianek o zamkach możnaby wytłumaczyć tym, że ówczesna, pisać umiejąca inteligencja skupiona była przede wszystkim w miastach, wokół panujących i dostojników kościelnych. Pisała zatem o najbliższym otoczeniu i to co widziała wokół, pozostałe zaś opisy powstawały tylko podczas wypraw czy bitew i były zupełnie przypadkowe. Nikt w ówczesnej Polsce nie myślał o systematycznych badaniach spuścizny po przodkach, a przynajmniej o spisie powszechnym w dobrach królewskich.
 
-![](../../zrodlo/webacja/warownie/kw/kwz_bochotnica.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kwz_kolo.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kwz_leczyca.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kwz_zlotoria.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/kwz_bochotnica.jpg) ![](../../zrodlo/webacja/warownie/kw/kwz_kolo.jpg) ![](../../zrodlo/webacja/warownie/kw/kwz_leczyca.jpg) ![](../../zrodlo/webacja/warownie/kw/kwz_zlotoria.jpg)  
 Przykłady budownictwa ceglanego Kazimierza III - Bochotnica, Koło, Łęczyca i Złotoria
 
 Z owych 43 zamków zbudowanych przez Kazimierza Wielkiego, 17 jest z litego kamienia, 11 zbudowanych z cegły, 7 ceglano-kamiennych, a w ośmiu nie można się dopatrzyc budulca, bo albo ziemia całkowicie pokryła ruiny albo zostały przebudowane i pokryte "ochronnym" tynkiem. Proszę się zastanowić nad pytaniem - Czy Kazimierz Wielki mógł budować co chciał i gdzie chciał? Otóż nie. Robić to mógł tylko na terenie, który nazywamy dobrami królewskimi, a więc tam gdzie miał prawo własności prywatnej. Państwo nie było jego prywatnym dobrem. Granice jego państwa wyznaczały dobra prywatne tych, którzy dobrowolnie poddali się jego zwierzchności. Chronili się w ten sposób pod skrzydła silniejszego, ale za cenę pewnych ograniczeń i powinności na rzecz króla. Jeśli król chciał zbudować warownię na terenie poddanego musiał uzyskać jego zgodę i pokryć wszystkie koszta budowy. Jeśli poddany nie wyraził zgody, król mógł przenieść budowę do sąsiada albo ogłaszał opozycjonistę buntownikiem i osadzając go w więzieniu konfiskował jego dobra, zwykle natychmiast nadając je swojemu zwolennikowi. Książęta śląscy, chociaż lennicy proniemieckiego króla Czech, nie wykazywali chęci walki z Polską. Woleli spokój i pokój, choć istniało zagrożenie wojną, gdyby zarządał tego król Czech, lecz od tej strony Kazimierz zabezpieczył się politycznymi układami. Dlaczego więc buduje warownie na pograniczu ze Śląskiem zamiast na północy (Krzyżacy) czy południowym-wschodzie (Tatarzy)? Wydaje się, że "Orle Gniazda" stały od dawna, a na budowę nowych twierdz król po prostu nie miał pieniędzy, nie miał bazy ekonomicznej, nie miał rozwiniętej struktury gospodarczej i nie miał potrzebnej techniki do budowy takiej ilości zamków i do tego na tak rozległym obszarze. Kazimierz Wielki zostawił murowaną bo urodził się w murowanej, żył w murowanej i umarł w murowanej.
 
 Stolica Kazimierzowa - Kraków, także stoi na potężnych kamiennych fundamentach i zapewne budowana była na długo przed tym nim pierwszy Piast zasiadł na wawelskim stolcu. Co ciekawsze - im sięgniemy niżej tym oglądamy większe i doskonalej obrobione bloki kamienne. Z jak wielkich zatem elementów wykonane są fundamenty wawelskich budowli? Niestety nie ma zdjęć, a miejsca, do których ma dostęp zwyczajny turysta zostały pięknie wytynkowane zasłaniając budulec. Przykładem może być krypta katedry wawelskiej, gdzie pochowano najznamienitszych Polaków. Pozostałe miejsca są skrzętnie skrywane przed obcym okiem za tabliczkami - "obiekt nie do zwiedzania", "prace konserwatorskie" itp.
 
-![](../../zrodlo/webacja/warownie/wawel/kam_wawel5.jpg)
-
-![](../../zrodlo/webacja/warownie/wawel/kam_wawel1.jpg)
-
-![](../../zrodlo/webacja/warownie/wawel/kam_wawel4.jpg)
-
-![](../../zrodlo/webacja/warownie/wawel/kam_wawel2.jpg)
-
+![](../../zrodlo/webacja/warownie/wawel/kam_wawel5.jpg) ![](../../zrodlo/webacja/warownie/wawel/kam_wawel1.jpg) ![](../../zrodlo/webacja/warownie/wawel/kam_wawel4.jpg) ![](../../zrodlo/webacja/warownie/wawel/kam_wawel2.jpg)  
 Rotunda wawelska, fundamenty starego kościoła, wejście na dziedziniec i wieża katedralna
 
 Jaka zatem nacja jest autorem podwalin Kazimierzowej stolicy? Kiedy żyli ludzie budujący na wawelskim wzgórzu i w samym Krakowie? W IX, X, XI czy XII w.? Kto w tych wiekach umiał tak doskonale obrabiać kamień, transportować go i precyzyjnie umieszczać na miejscu budowy? Jakich narzędzi używano w obróbce i przy budowie? Technika średniowiecza tego nie mogła zapewnić, bo takiej wtedy nie było.
 
-![](../../zrodlo/webacja/warownie/wawel/kam_wawel3.jpg)
-
-![](../../zrodlo/webacja/warownie/wawel/kam_krabar.jpg)
-
-![](../../zrodlo/webacja/warownie/wawel/kam_dominikanie.jpg)
-
-![](../../zrodlo/webacja/warownie/wawel/kam_wawel6.jpg)
-
+![](../../zrodlo/webacja/warownie/wawel/kam_wawel3.jpg) ![](../../zrodlo/webacja/warownie/wawel/kam_krabar.jpg) ![](../../zrodlo/webacja/warownie/wawel/kam_dominikanie.jpg) ![](../../zrodlo/webacja/warownie/wawel/kam_wawel6.jpg)  
 Mury obronne Wawelu, fundament barbakanu, kościół dominikanów i kolumna z dziedzińca
 
 Dzisiejszy wygląd Wawelu to zasługa ludzi żyjących w końcu XIX i XX w. Dopiero w roku 1880 można było zacząć myśleć o restauracji Wawelu zdewastowanego przez wojska austriackie a na dobre podjęto prace dopiero w roku 1905 po wyjściu Austriaków i to co dziś widać, to efekt stuletniej pracy historyków, archeologów i wszelkiej maści specjalistów, Czy Wawel tak wyglądał faktycznie? Z pewnością nie i nikt nie przywróci mu pierwotnego wyglądu, bo nikt nie ma pojęcia jak wyglądał. Sceptycznie także podchodzę do twierdzenia przebudowy zamku w stylu renesansowym, ponieważ przebudowa oznacza praktycznie rozebranie starego i budowanie od podstaw, bo jak wstawiać kamienne kolumny mające utrzymać ciężar ścian i budować kamienne czy ceglane łuki tak, by reszta muru nie zawaliła się na głowę?
@@ -124,14 +91,7 @@ Historycy podjęli próbę zrekonstruowania pierwotnej wersji katedry na Wawelu 
 
 Przypatrzmy się pewnej "koincydencji" elementu budowlanego występującego w ogrodzienieckim zamku i jego odpowiedników w zamku wegierskim i hiszpańskim. Do czego miał służyć otwór o tak specyficznym kształcie? Otwór strzelniczy dla broni palnej chyba nie, bo w tych czasach nikt nie mógł nawet przewidzieć jej rozwoju. Może ktoś ma jakiś sensowny pomysł? Fakt jest faktem i jeśliby zamek powstawał za czasów Kazimierza Wielkiego, mogłoby to świadczyć o szerokich kontaktach polskiego budownictwa, a przynajmniej ówczesnych projektantów. O takowych zaś jest cicho.
 
-![](../../zrodlo/webacja/warownie/kw/dz1.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/ogrodziura.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/dz2.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/dz3.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/dz1.jpg) ![](../../zrodlo/webacja/warownie/kw/ogrodziura.jpg) ![](../../zrodlo/webacja/warownie/kw/dz2.jpg) ![](../../zrodlo/webacja/warownie/kw/dz3.jpg)  
 Podobne otwory w murach zamkowych Ogrodzieńca, w zamku węgierskim i hiszpańskim. Koincydencja?
 
 Inna sprawa, to widoczne skutki zniszczeń. Aby dzisiaj zrównać z ziemią zamek wielkości zamku królewskiego w Warszawie należałoby zużyć kilka-kilkanaście tysięcy sztuk pocisków artyleryjskich średniego kalibru. Czy np. Szwedzi mieli takie możliwości? Absolutnie nie i to można wyczytać w opisie oblężenia Częstochowy, gdzie zdołali tylko zrobić wyłom w murze i trafić w dach klasztoru. Po drugie, by wydać rozkaz do niszczenia zamku należałoby mieć w tym ekonomiczny cel - zniszczenie strategicznych zapasów wojennych lub dużej liczby wojsk w obsadzie fortecy. I po trzecie, takie ostrzeliwanie fortecy musiało skutkować wielkimi pożarami, a proszę pokazać ślady pożarów na murach zamkowych kazimierzowych fortec. Jeśli nawet odnajdziemy, to zapewne niewiele ich będzie.
@@ -146,28 +106,18 @@ Jak widać Polska nie miała tu nic do powiedzenia. Wydaje mi się, że było to
 
 Budowle krzyżackie łączone są zwykle z wykorzystaniem cegły i dlatego na początek przypomnę stanowisko historyków w rzeczonej sprawie. Z cegłą mamy już do czynienia w starożytnej Mezopotamii, gdzie ponoć wytwarzano ją z mułu rzecznego i słomy, susząc następnie na słońcu. Jak taka cegła nie rozsypała się pod ciężarem wysokich murów Babilonu nie mogę zrozumieć, bo ponoć cegła wypalana to wymysł dopiero IV w. pne. Rzymianie cegłę zaczęli wytwarzać w przydomowych warsztatach w II w. ne., co nie przeszkodziło im zbudować kolosseum już wiek wcześniej. Duże ilości cegły, a więc produkcję na skalę przemysłową zaczęto dopiero w XIX w. i tu napotykamy pierwszy problem - skąd w średniowieczu pozyskiwano cegłę na budowę takiej ilości zamków? Drugim problemem jest zaprawa murarska. Otóż jak głosi legenda, a za nią powtarzają poważni historycy - siła średniowiecznej zaprawy była uzależniona od drobiu, a szczególnie od wydajności niosek, gdyż jak wiadomo Krzyżacy do zaprawy dodawali ogromne ilości kurzego białka. Nie byli w tym odosobnieni - most Karola w Pradze stoi do dziś dzięki czeskim kurom, a im dalej na zachód tym zaprawy były bardziej "specyficzne", gdyż tam oprócz białka do zaprawy dodawano nawet ludzką krew. Nikt jeszcze nie wpadł na prosty i zarazem genialny pomysł by zbadać taką zaprawę w najzwyklejszym laboratorium chemicznym oraz ogłosić jej skład światu, tym bardziej, że białko jako związek organiczny powinno dać się datować nawet niedoskonałą metodą promieniotwórczego węgla.
 
-![](../../zrodlo/webacja/warownie/kw/kammalbork3.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kammalbork2a.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kammalbork2.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/kammalbork3.jpg) ![](../../zrodlo/webacja/warownie/kw/kammalbork2a.jpg) ![](../../zrodlo/webacja/warownie/kw/kammalbork2.jpg)  
 Wbrew pozorom w malborskim zamku jest sporo elementów kamiennych i to w kluczowych punktach budowy.
 
 Wszyscy wiedzą zapewne, że Malbork jest największym kompleksem zamkowym na świecie (tak, bo co prawda francuskie Carcassonne jest większe, ale jest kompleksem miejskim i do tego zbudowanym z kamienia). Malbork stał się stolicą Krzyżaków nie od razu. Początkowo Krzyżacy budowali na ziemi dobrzyńskiej, potem jakiś czas mieszkali w Zantyrze i dopiero w roku 1272 rozpoczęli budowę zamku w Malborku i wedle historyków zamek wysoki postawili w ciągu 7 lat(sic!). Sprawa jest o tyle ciekawa, że budowano w terenie otoczonym przez bardzo nieprzychylnie nastawione Pomorze Gdańskie, Polskę, Prusów i miejscową ludność. Czy już w tym okresie nie można było uniemożliwić budowy zamku? Na ten temat historia milczy przebąkując tylko coś o skłóconych sąsiadach. Od czego zatem zaczęto? Od murów obronnych czy od razu od zamku? Jakie przedsiębiorstwo zaopatrywało budowę w setki tysięcy cegieł? Gdzie się ono znajdowało? Dziś na tym terenie prosperuje jedna cegielnia w Nadbrzeżu za Elblągiem (czyli ówcześnie w niepodbitych jeszcze Prusach), bo w okolicy Malborka nie ma surowca na cegły. A może było zupełnie inaczej? Tempo budowy i ilość surowca skłania mnie do hipotezy, że w Malborku już wtedy zamek istniał, tyle że w ruinie. W średniowieczu istniało powiedzenie, że "Mediolan jest z marmuru, Buda z kamienia, a Malbork z błota". "Błoto" nasi historycy zamienili na "cegłę" (bo cegłę wyrabia się przecież z błotnistej mazi) i przeszli nad tym do porządku dziennego. Ja sądzę, że ruiny zamku pokrywała warstwa ziemi, a cała praca Krzyżaków ograniczyła się do ich odkopania, oczyszczenia, odzyskania budulca i samej odbudowy. Stąd być może tak krótki czas budowy samego zamku wysokiego. Wskazówką, która przemawia za zasypaniem ziemią jest także to, że podziemia zamkowe są do dziś zasypane po początki łuków stropowych i nikomu się nie chce przekopać do podstaw zamkowych piwnic.
 
-![](../../zrodlo/webacja/warownie/kw/kammalbork1.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kammalbork5.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kamlidzbark.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kamswiecie.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/kammalbork1.jpg) ![](../../zrodlo/webacja/warownie/kw/kammalbork5.jpg)  
 Malbork
 
+![](../../zrodlo/webacja/warownie/kw/kamlidzbark.jpg)  
 Lidzbark Warmiński
 
+![](../../zrodlo/webacja/warownie/kw/kamswiecie.jpg)  
 Świecie
 
 Bardzo ciekawą korespondencję na temat zamku nadesłał pan Łukasz Papaj. On też ma szereg wątpliwości:
@@ -223,28 +173,12 @@ Ciekawi mnie też w jakim odstępie czasu powstały te dwa obrazy, choćby z uwa
 
 W pałacu wielkiego mistrza, w ścianę refektarza wmurowana jest armatnia kula, stanowiąca jakoby pamiątkę oblężemia zamku przez Jagiełłę w 1410 r. Sama kula nie stanowi żadnej osobliwości, ale już tłumaczenie jej wystrzelenia to istne curiosum nowożytnej myśli historycznej. Według nich kula (ponieważ miała większy kaliber niż stosowane wówczas puszki) została wystrzelona z dołka wykopanego w Kałdowie po drugiej stronie Nogatu. Kopano w ziemi dół pod odpowiednim kątem i kierunkiem, następnie od środka wykładano go gliną i po wyschnięciu (glina musiała schnąć kilka dni) "ładowano" prochem, na wierzch kładziono kulę, podpalano proch i oddawano strzał. Ręce opadają... W przebłysku "geniuszu" (być może nieświadomie) autor hipotezy zrobił z atakujących kompletnych durni. Taką hipotezę może wymyśleć tylko człowiek, który oddał być może parę strzałów z papierowej torebki po cukierkach. Możnaby wykonać taką próbę jako dowód ale jako człowiek mający w przeszłości do czynienia z materiałami miotającymi i wybuchowymi stanowczo odradzam nieprofesjonalistom, ręcząc jednocześnie, że strzał z takiego "działa" mógłby co najwyżej ogłuszyć ryby w Nogacie a już na pewno samych strzelających.
 
-![](../../zrodlo/webacja/warownie/kw/00gniew.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/00lidzbark.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/00radzynchelm.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/00golub.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/00gniew.jpg) ![](../../zrodlo/webacja/warownie/kw/00lidzbark.jpg) ![](../../zrodlo/webacja/warownie/kw/00radzynchelm.jpg) ![](../../zrodlo/webacja/warownie/kw/00golub.jpg)  
 Bliźniaczo podobne krzyżackie zamki - Gniew, Lidzbark Warmiński, Radzyń Chełmiński i Golub-Dobrzyń
 
 Jak to się stało, że "krzyżacki" gotyk był tak rozpowszechniony na terenach, gdzie Krzyżacy wogóle nie dotarli? Czy nie czas zbadać metodami bardziej naukowymi pozostałości tego "stylu budowlanego"? Dzisiejsza metoda jest podobna do najprostszego ustalania ojcostwa u dziecka - jeśli jest podobne do ojca to w porządku, a jeśli nie - zaczyna się podejrzliwie przyglądać sąsiadom. Czy nie można zmierzyć wielkości cegieł (oczywiście nie tych "powtykanych" przez konserwatorów) i sprawdzić ich wielkość? Czy nie można pobrać próbek i ustalić ich skład chemiczny? Jest to najprostszy sposób na stwierdzenie istnienia jakiegoś standardu lub nie, a także odpowiedzi na pytanie czy istniała wtedy jedna "recepta" na wytwarzanie czy też kilka ośrodków stosujących swoje metody wytwarzania cegły. Co zatem się może stać, gdyby okazało się, że cegły z Pyrzyc, Malborka, Warszawy czy Krakowa okazałyby się jednakowymi? Strach pomyśleć.
 
-![](../../zrodlo/webacja/warownie/kw/br_malbork.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/sztum.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/br_pyrzyce.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/br_wawa.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/br_krakow.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/br_malbork.jpg) ![](../../zrodlo/webacja/warownie/kw/sztum.jpg) ![](../../zrodlo/webacja/warownie/kw/br_pyrzyce.jpg) ![](../../zrodlo/webacja/warownie/kw/br_wawa.jpg) ![](../../zrodlo/webacja/warownie/kw/br_krakow.jpg)  
 Gotycka koincydencja - w Malborku (XIII w.), Sztumie (XIV w.), Pyrzycach (XIII w.), Warszawie (XIV w.) i Krakowie (XV w.)
 
 Inną, niewyjaśnioną do końca sprawą jest krzyżacki most na Nogacie, umiejscawiany pomiędzy bramą mostową a tzw. Vogelsang'iem czyli umocnionym przyczółkiem na brzegu w dzisiejszym Kałdowie. Z przyczółka nie zostało nawet śladu a to dlatego, że ponoć był ziemno-drewniany (dlaczego nie murowany?). Dziwne. Dlaczego tak biegli w sztuce budowlanej mnisi zlekceważyli sobie tak żywotny dla zamku element? Dlaczego, budując tak wspaniały zamek, pożałowali cegły na jeden z najbardziej strategicznych elementów? Jest to już nie tylko zaniedbanie a wręcz bezmyślność. Dlaczego mając do dyspozycji taką ilość budulca nie wybudowali mostu ceglanego (podobnie jak ich pobratymcy w niemieckim Heidelbergu)? Odpowiedź może być tylko jedna - sami Krzyżacy nie potrafili budować i nie mieli pod dostatkiem innego budulca jak tylko drewno i ziemię. To być może dlatego nie zrobili nic dla umocnienia swej pierwszej siedziby w Zantyrze. Most był ponoć drewniany i przy okazji każdego zagrożenia palony, czemu nie ma się co dziwić, bo ziemno-drewniany przyczółek w Kałdowie wcale go nie chronił przed regularnym wojskiem.
@@ -275,18 +209,13 @@ Którędy zatem płynął mając po lewej stronie Oland i Gotland? Czy Skonie to
 
 Ktoś zapewne pomyśli - facet dostał (dyplomatycznie to ujmując) obsesji na temat wszystkich budowli i chce udowodnić, że wszystko pochodzi sprzed jakiegoś kataklizmu. Jest w tym sporo racji, ale tym razem nie będę niczego udowadniał. Po prostu postaram się tylko głośno pomyśleć. Wybudowanie czegoś wielkiego z kamienia czy cegły, to nie praca jednostek, a całego zespołu wysokiej klasy specjalistów i wykonana w jakimś konkretnym celu, a nie dla ozdobienia krajobrazu. Każdy most ma na celu ułatwienie przedostania się ludziom i pojazdom na drugą stronę rzeki bądź głębokiego parowu. Rzecz chyba nie podlegająca dyskusji. Podjęcie inicjatywy zbudowania mostu musi mieć głęboką motywację, szczególnie ekonomiczną, gdyż pochłania znacznie więcej środków niż zwykła drewniana kładka, po której dziennie przechodzi tylko kilku ludzi. Jeśli ma służyć wielu i przez długi okres czasu musi także być wykonany z trwałych materiałów.
 
-![](../../zrodlo/webacja/warownie/kw/w_bytow.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/w_glaznoty.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/w_gradykruklaneckie.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/w_gradykruklaneckie2.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/w_bytow.jpg)  
 Bytów
 
+![](../../zrodlo/webacja/warownie/kw/w_glaznoty.jpg)  
 Głaznoty
 
+![](../../zrodlo/webacja/warownie/kw/w_gradykruklaneckie.jpg) ![](../../zrodlo/webacja/warownie/kw/w_gradykruklaneckie2.jpg)  
 Grądy Kruklaneckie
 
 Proszę przypatrzeć się zdjęciom i spróbować odpowiedzieć sobie samemu na kilka pytań. Od średniowiecza po dzień dzisiejszy człowiek do transportu używa zarówno samego siebie jak i koni i pojazdów. Każdy most ma to do siebie, że powinien zapewniać ruch w obie strony bez żadnych zakłóceń. Każdy więc, kto projektuje most, musi zaczynać od szerokości jego korony, a więc od średniowiecza - szerokość pojazdu dwukonnego pomnożonego przez dwa plus margines bezpieczeństwa. Czy tak wyglądają przedstawione przeze mnie mosty? Czy te w Bytowie i Głaznotach zbudowano dopiero w XX wieku? Dlaczego więc użyto kamieni i cegieł zamiast znanego już, "łatwiejszego" i wytrzymalszego betonu? Dlaczego "most" w Grądach Kruklanieckich zbudowano z litego, profilowanego kamienia? Widzimy tu wybitnie "jednoosobową" kładkę, na której minięcie się grozi poważnymi konsekwencjami. Przypatrzmy się dokładnie koronie "mostu" - wygląda jak rynna do przepływu wody. Resztki stalowej balustrady, to już chyba współczesne przystosowanie. Dlaczego dla tak prozaicznego celu wykorzystano tak trwały i tak doskonale obrobiony budulec? Kogo było stać na koszty budowy w takiej, za przeproszeniem, głębokiej prowincji? Nie sugerujmy się dzisiejszym ich wykorzystaniem, bo to tylko efekt przystosowania do nowej sytuacji. Sądzę, że niektóre wąskie mosty czy wiadukty były w pierwotnej wersji akweduktami. Kto zatem i kiedy naprawdę je zbudował?
@@ -312,22 +241,16 @@ Dlaczego dla tak prozaicznej czynności jaką jest wlanie wody do parowozu budow
 
 Jeszcze raz chcę zwrócić uwagę, o czym już pisałem, na sposób (metodę) budowania murów. Podstawową techniką budowlaną były grube mury z polnego kamienia, które niekiedy licowano wygładzonymi kamieniami, płytami kamiennymi lub cegłą. Wszystko to spajała mocna zaprawa, której składu nie zbadano do dzisiaj. Taką technikę spotykamy na całym świecie. Można ją zauważyć w budowie murów obronnych Rzymu, w murze Trajana a także w chińskim Wielkim Murze. Widać ją w polskich "Orlich Gniazdach", w piramidach Teotihuacan a także w megalitycznych grobach New Grande, Gawrinis czy Knowth. To nie jest żadna koincydencja, to była technologia rozpowszechniona na całym niemal świecie.
 
-![](../../zrodlo/webacja/warownie/kw/m_knowth.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/m_irlandia.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/m_maja.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/m_hammershus.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/m_ostrow.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/m_knowth.jpg) ![](../../zrodlo/webacja/warownie/kw/m_irlandia.jpg)  
 Irlandia
 
+![](../../zrodlo/webacja/warownie/kw/m_maja.jpg)  
 Majowie
 
+![](../../zrodlo/webacja/warownie/kw/m_hammershus.jpg)  
 Bornholm
 
+![](../../zrodlo/webacja/warownie/kw/m_ostrow.jpg)  
 Ostrów Lednicki
 
 Kto zatem stworzył tą technologię i kto ją rozpowszechnił po całym bez mała globie? Jak to się stało, że w użyciu była przez tak długi czas - od megalitycznych "grobów" po średniowiecze? Kiedy wreszcie jej używano? Przecież "rzymski cement" zszedł do grobu razem z Imperium, a nową, współczesną zaprawę zaczęto stosować dopiero po wynalezieniu cementu portlandzkiego w XIX wieku. Można mi zarzucić niczym nie uzasadnioną manipulację. Owszem można, ale dopiero wtedy gdy zbada się skład chemiczny zaprawy z tych wszystkich miejsc, ale tego na dziś nie można stwierdzić, bo nikt nie wpadł na tak prosty pomysł. Czy takie badanie jest zbyt drogie czy zbyt niebezpieczne... dla naszej historii?
@@ -377,22 +300,16 @@ Skąd zatem koryncki kapitel w świątyni w Evorze? Kto wykonał tem koryncko-jo
 
 Jeśli cegła ma być wyznacznikiem postępu technicznego, to należy się zastanowić nad wiekiem niektórych budowli. Jako materiał budowlany jest stosunkowo łatwa do wykonania, a co najważniejsze jest dopasowana do możliwości fizycznych człowieka. Ale cegła cegle nierówna. Dziś stosujemy cegłę standardową i jest to prawdopodobnie standard światowy jeśli chodzi o jej wymiary. Był jednak okres, gdy do budowy używano cegły płaskiej. Kiedy to było nie wiadomo, bo w takie szczegóły historycy się nie zagłębiają. Proszę obejrzeć zdjęcia.
 
-![](../../zrodlo/webacja/warownie/kw/c_pompeie.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/c_conimbriga.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/c_mystras.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/c_dankow.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/c_cieplowody.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/c_pompeie.jpg)  
 Pompeje
 
+![](../../zrodlo/webacja/warownie/kw/c_conimbriga.jpg)  
 Conimbriga
 
+![](../../zrodlo/webacja/warownie/kw/c_mystras.jpg)  
 Monastyr grecki
 
+![](../../zrodlo/webacja/warownie/kw/c_dankow.jpg) ![](../../zrodlo/webacja/warownie/kw/c_cieplowody.jpg)  
 Polska - Danków i Ciepłowody
 
 W jakim okresie używano płaskiej cegły, skoro znaleźć ją można w budowlach z okresu Imperium Rzymskiego, średniowiecznej Grecji a także w Polsce, w zamkach w Dankowie (XV w.) i Ciepłowodach (XIII/XIV w.)? Podobną płaską cegłę można odnaleźć też w budowlach Bizancjum czy w Sardes. Co zatem może zmieniać technologię budownictwa? Może to być wynalazek czegoś lepszego lub utrata już posiadanej technologii. Może też być to czynnik katastroficzny, niszczący technikę i zmuszający budowniczych do zmiany technologii.
