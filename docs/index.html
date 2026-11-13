@@ -196,20 +196,58 @@
   .wskazowka { margin-top: 20px; padding: 12px 14px; background: var(--tlo-2); border-radius: 10px; font-size: 15px; color: var(--tekst-2); }
   kbd { font: 600 14px ui-monospace, Consolas, monospace; background: var(--tlo-2); border: 1px solid var(--linia); border-radius: 6px; padding: 1px 6px; }
 
-  /* pytania */
-  .pytania { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
-  .pytanie {
-    text-align: left; background: var(--karta); border: 1px solid var(--linia); border-radius: 14px; padding: 16px 18px;
-    font: 16px/1.5 system-ui, sans-serif; color: var(--tekst); cursor: pointer; display: flex; justify-content: space-between; gap: 12px;
+  /* pytania: losowe pytanie na górze, tematy jako przełączniki, karty z rzymskimi numerami */
+  .wyrocznia {
+    position: relative; overflow: hidden; isolation: isolate; border: 1px solid rgba(232, 176, 75, .35); border-radius: 20px; padding: 28px 32px 26px; margin: 0 0 34px;
+    background: radial-gradient(ellipse 60% 100% at 100% 0%, rgba(226, 169, 63, .15), transparent 70%), linear-gradient(180deg, #131a28, #0c111b);
+    box-shadow: var(--cien), inset 0 1px 0 rgba(255, 255, 255, .05);
   }
-  .pytanie:hover { border-color: var(--akcent); }
-  .pytanie .kop { font-size: 13px; color: var(--akcent-mocny); white-space: nowrap; font-weight: 600; }
-  .kategoria { margin: 0 0 26px; }
-  .kategoria h3 { font-size: 20px; margin: 0 0 4px; display: flex; align-items: center; gap: 10px; }
-  .kategoria h3 span { font-size: 22px; }
-  .kategoria p { margin: 0 0 12px; color: var(--tekst-2); font-size: 15px; }
-  .scenariusze { background: var(--tlo-2); border-radius: 14px; padding: 14px 18px; margin: 0 0 28px; font-size: 15px; color: var(--tekst-2); }
+  .wyrocznia::before { content: "?"; position: absolute; right: 26px; top: -34px; z-index: -1; font: 700 230px/1 Georgia, serif; color: rgba(232, 176, 75, .07); pointer-events: none; }
+  .wyr-tekst {
+    font: 400 clamp(21px, 2.7vw, 28px)/1.38 Georgia, "Times New Roman", serif; color: #f4efe4; margin: 10px 0 24px; max-width: 760px; min-height: 2.76em;
+    transition: opacity .35s ease, transform .35s ease, filter .35s ease;
+  }
+  .wyr-tekst::before { content: "„"; color: var(--akcent); }
+  .wyr-tekst::after { content: "”"; color: var(--akcent); }
+  .wyr-tekst.zmiana { opacity: 0; transform: translateY(8px); filter: blur(3px); }
+  .wyr-przyciski { display: flex; gap: 10px; flex-wrap: wrap; }
+  .wyr-przyciski .btn { padding: 11px 18px; font-size: 15px; }
+
+  .tematy { display: flex; flex-wrap: wrap; gap: 8px; overflow-x: auto; padding: 2px 2px 8px; scrollbar-width: none; }
+  .tematy::-webkit-scrollbar { display: none; }
+  .temat {
+    flex: none; display: inline-flex; align-items: center; gap: 8px; padding: 9px 15px; border-radius: 999px; border: 1px solid var(--linia);
+    background: var(--tlo-2); color: var(--tekst-2); font: 600 15px system-ui, sans-serif; cursor: pointer; transition: color .25s, border-color .25s, background .25s, box-shadow .25s;
+  }
+  .temat svg { width: 17px; height: 17px; color: var(--akcent); flex: none; }
+  .temat:hover { color: var(--tekst); border-color: rgba(232, 176, 75, .5); }
+  .temat[aria-pressed="true"] { background: linear-gradient(180deg, #f3c873, #dc9f35); color: #14110a; border-color: transparent; box-shadow: 0 6px 22px rgba(232, 176, 75, .25); }
+  .temat[aria-pressed="true"] svg { color: #14110a; }
+  .temat-opis { color: var(--tekst-2); font-size: 15px; margin: 10px 0 18px; min-height: 1.6em; }
+
+  .pytania { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+  .pytanie {
+    position: relative; text-align: left; background: linear-gradient(180deg, #121826, #0e131d); border: 1px solid var(--linia); border-radius: 16px;
+    padding: 18px 20px 14px 66px; font: 17px/1.5 Georgia, "Times New Roman", serif; color: var(--tekst); cursor: pointer;
+    display: flex; flex-direction: column; gap: 12px; transition: transform .3s, border-color .3s, box-shadow .3s;
+    animation: karta-wejdz .5s cubic-bezier(.2, .7, .2, 1) backwards;
+  }
+  .pytanie .nr { position: absolute; left: 0; top: 18px; width: 58px; text-align: center; font: 700 21px/1.2 Georgia, serif; color: rgba(232, 176, 75, .55); letter-spacing: .5px; }
+  .pytanie:hover, .pytanie:focus-visible { transform: translateY(-3px); border-color: rgba(232, 176, 75, .55); box-shadow: 0 14px 34px rgba(0, 0, 0, .45), 0 0 0 1px rgba(232, 176, 75, .12); }
+  .pytanie .dol { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: auto; font: 600 13px system-ui, sans-serif; }
+  .pytanie .uwaga { color: #7f889a; font-weight: 500; }
+  .pytanie .kop { color: var(--akcent-mocny); margin-left: auto; white-space: nowrap; opacity: .75; transition: opacity .2s, color .2s; }
+  .pytanie:hover .kop, .pytanie:focus-visible .kop { opacity: 1; }
+  .pytanie.skopiowane { border-color: var(--ok); }
+  .pytanie.skopiowane .kop { color: var(--ok); opacity: 1; }
+  @keyframes karta-wejdz { from { opacity: 0; transform: translateY(12px); } }
+
+  .scenariusze { background: var(--tlo-2); border: 1px solid var(--linia); border-radius: 16px; padding: 16px 20px; margin: 30px 0 0; font-size: 15px; color: var(--tekst-2); }
   .scenariusze b { color: var(--tekst); }
+  .scenariusze p { margin: 0; }
+  .scen-lista { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; padding: 0; list-style: none; }
+  .scen-lista li { font-size: 13px; padding: 3px 11px; border-radius: 999px; border: 1px solid rgba(232, 176, 75, .3); color: var(--akcent-mocny); }
+  @media (prefers-reduced-motion: reduce) { .pytanie { animation: none; } .wyr-tekst { transition: none; } }
 
   /* historia */
   .uklon { font-family: Georgia, serif; font-size: clamp(18px, 2.2vw, 21px); line-height: 1.55; color: #e6dcc6; border-left: 3px solid var(--akcent); padding: 4px 0 4px 18px; margin: 6px 0 28px; max-width: 820px; }
@@ -258,6 +296,10 @@
     .hero::before { background: linear-gradient(180deg, rgba(5, 7, 12, .35) 0%, rgba(5, 7, 12, 0) 22%, rgba(5, 7, 12, .55) 48%, rgba(5, 7, 12, .92) 70%, var(--tlo) 100%); }
     .hero .eyebrow { font-size: 11px; letter-spacing: 2px; }
     .tasma { grid-auto-columns: 78%; padding: 6px 16px 18px; }
+    .wyrocznia { padding: 22px 18px 20px; }
+    .wyrocznia::before { font-size: 170px; right: 10px; top: -26px; }
+    .wyr-przyciski .btn { flex: 1 1 auto; justify-content: center; }
+    .tematy { flex-wrap: nowrap; margin: 0 -20px; padding: 2px 20px 8px; }
   }
 </style>
 </head>
@@ -388,13 +430,26 @@
   <section id="pytania">
     <div class="wrap">
       <h2>O co zapytać</h2>
-      <p class="pod">Kliknij pytanie, żeby je skopiować, i wklej w rozmowie z asystentem, który ma włączone archiwum. Nie wiesz, od czego zacząć? Weź pierwsze.</p>
-      <div class="scenariusze">
-        <b>Gotowe scenariusze w Claude:</b> w nowej rozmowie kliknij <b>+</b>, wybierz konektor archiwum i jeden z gotowych scenariuszy:
-        „Rozmowa z Leszkiem”, „Poznaj stronę U Leszka”, „Kim był Leszek”, „Zaskocz mnie”, „Co się sprawdziło po 20 latach”, „Świat według autora”, „Sprawdź, co naprawdę mówi źródło”.
-        Jeśli Twoja wersja Claude ich nie pokazuje, po prostu wklej pytanie poniżej.
+      <p class="pod">Kliknij pytanie, żeby je skopiować, i wklej w rozmowie z asystentem, który ma włączone archiwum. Nie wiesz, od czego zacząć? Wylosuj.</p>
+      <div class="wyrocznia">
+        <span class="etykieta-zr" id="wyr-temat">Na początek</span>
+        <p class="wyr-tekst" id="wyr-tekst" aria-live="polite"></p>
+        <div class="wyr-przyciski">
+          <button class="btn btn-glowny" type="button" id="wyr-kopiuj">Kopiuj pytanie</button>
+          <button class="btn btn-drugi" type="button" id="wyr-losuj">↻ Wylosuj inne</button>
+        </div>
       </div>
-      <div id="kategorie"></div>
+      <div class="tematy" id="tematy" role="group" aria-label="Tematy pytań"></div>
+      <p class="temat-opis" id="temat-opis"></p>
+      <div class="pytania" id="lista-pytan"></div>
+      <div class="scenariusze">
+        <p><b>Gotowe scenariusze w Claude:</b> w nowej rozmowie kliknij <b>+</b>, wybierz konektor archiwum i jeden z nich:</p>
+        <ul class="scen-lista">
+          <li>Rozmowa z Leszkiem</li><li>Poznaj stronę U Leszka</li><li>Kim był Leszek</li><li>Zaskocz mnie</li>
+          <li>Co się sprawdziło po 20 latach</li><li>Świat według autora</li><li>Sprawdź, co naprawdę mówi źródło</li>
+        </ul>
+        <p>Jeśli Twoja wersja Claude ich nie pokazuje, po prostu skopiuj pytanie powyżej.</p>
+      </div>
     </div>
   </section>
 
@@ -529,66 +584,104 @@
     }
     pokaz("Skopiowano ✓");
   };
-  // pytania do skopiowania, pogrupowane tematycznie
+  // pytania do skopiowania, pogrupowane tematycznie; „pokaz” = krótsza wersja na karcie, kopiuje się pełne „tekst”
   const KATEGORIE = [
-    { ikona: "👋", tytul: "Na początek", opis: "Dobre na pierwszą rozmowę, także dla kogoś, kto nie zna strony.", pytania: [
+    { ikona: '<path d="M12 3l2.4 6.6L21 12l-6.6 2.4L12 21l-2.4-6.6L3 12l6.6-2.4z"/>', tytul: "Na początek", opis: "Dobre na pierwszą rozmowę, także dla kogoś, kto nie zna strony.", pytania: [
       "Co możesz mi powiedzieć o stronie U Leszka? Jakie ciekawe tematy możemy razem omówić?",
       "Kim był Leszek, autor strony uleszka.net? Jak i dlaczego zaczął pisać?",
       "Przedstaw „wielki obraz”: jak łączą się w jedną opowieść główne tezy autora uleszka.net?",
       "Zaskocz mnie: pokaż mało znany, ale ciekawy tekst z archiwum U Leszka.",
     ] },
-    { ikona: "🎙️", tytul: "Rozmowa z Leszkiem", opis: "AI mówi stylem i poglądami autora, na podstawie jego tekstów i wywiadu. Leszek nie żyje; to rekonstrukcja AI, wyraźnie oznaczona.", pytania: [
-      "Chcę porozmawiać z Leszkiem z uleszka.net. Pobierz jego rys (author_profile z wywiadem) i odpowiadaj jego stylem, według zasad z rysu. Panie Leszku, skąd wziął się pomysł na stronę?",
-      "Porozmawiajmy jak z Leszkiem z uleszka.net (author_profile, zasady roli). Panie Leszku, co to jest ten „wielki uskok” i dlaczego tak Pana niepokoił?",
-      "Wciel się w Leszka z uleszka.net według jego rysu (author_profile). Opowiem Panu o odkryciach z ostatnich 20 lat. Co by Pan na to powiedział?",
+    { ikona: '<rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/>', tytul: "Rozmowa z Leszkiem", opis: "AI mówi stylem i poglądami autora, na podstawie jego tekstów i wywiadu. Leszek nie żyje; to rekonstrukcja AI, wyraźnie oznaczona.", pytania: [
+      { pokaz: "Panie Leszku, skąd wziął się pomysł na stronę?", tekst: "Chcę porozmawiać z Leszkiem z uleszka.net. Pobierz jego rys (author_profile z wywiadem) i odpowiadaj jego stylem, według zasad z rysu. Panie Leszku, skąd wziął się pomysł na stronę?" },
+      { pokaz: "Panie Leszku, co to jest ten „wielki uskok” i dlaczego tak Pana niepokoił?", tekst: "Porozmawiajmy jak z Leszkiem z uleszka.net (author_profile, zasady roli). Panie Leszku, co to jest ten „wielki uskok” i dlaczego tak Pana niepokoił?" },
+      { pokaz: "Opowiem Panu o odkryciach z ostatnich 20 lat. Co by Pan na to powiedział?", tekst: "Wciel się w Leszka z uleszka.net według jego rysu (author_profile). Opowiem Panu o odkryciach z ostatnich 20 lat. Co by Pan na to powiedział?" },
     ] },
-    { ikona: "🏛️", tytul: "Tajemnice przeszłości", opis: "Dawne cywilizacje, budowle i katastrofy, czyli serce strony.", pytania: [
+    { ikona: '<path d="M12 3L2 20h20z"/><path d="M12 3l3.5 17"/>', tytul: "Tajemnice przeszłości", opis: "Dawne cywilizacje, budowle i katastrofy, czyli serce strony.", pytania: [
       "Kto według autora uleszka.net zbudował piramidy w Gizie i dlaczego nie wierzył w oficjalną wersję?",
       "Co Leszek pisał o Atlantydzie? Zestaw jego tezy z tym, co wiadomo dziś.",
       "Czym jest „wielki uskok skorupy ziemskiej”, o którym pisał autor uleszka.net, i co mówi o tym dzisiejsza geologia?",
       "Czy potop był jeden? Co archiwum U Leszka mówi o potopie w różnych kulturach?",
     ] },
-    { ikona: "⏳", tytul: "20 lat później", opis: "Strona powstała w latach 2004–2007. Jak jej pytania wyglądają dziś?", pytania: [
+    { ikona: '<path d="M6 3h12M6 21h12M7 3c0 4 5 6 5 9s-5 5-5 9M17 3c0 4-5 6-5 9s5 5 5 9"/>', tytul: "20 lat później", opis: "Strona powstała w latach 2004–2007. Jak jej pytania wyglądają dziś?", pytania: [
       "Które pytania i przewidywania autora uleszka.net sprawdziły się po 20 latach, a które nie? Podaj źródła.",
       "Co autor uleszka.net pisał o roku 2012 i proroctwach? Jak to wygląda z perspektywy czasu?",
       "Jakie odkrycia archeologiczne z ostatnich 20 lat ucieszyłyby Leszka, a które by go zaskoczyły?",
     ] },
-    { ikona: "🌿", tytul: "Zdrowie i żywność", opis: "Dział „Zapomniana medycyna”: poglądy autora sprzed 20 lat, które nie zastępują porady lekarza.", pytania: [
+    { ikona: '<path d="M5 20c0-9 6-15 15-15 0 9-6 15-15 15z"/><path d="M5 20l9-9"/>', tytul: "Zdrowie i żywność", opis: "Dział „Zapomniana medycyna”: poglądy autora sprzed 20 lat, które nie zastępują porady lekarza.", pytania: [
       "O czym był dział „Zapomniana medycyna” na stronie U Leszka? Co z tego potwierdza dzisiejsza medycyna, a co nie?",
       "Co autor uleszka.net pisał o żywności i dodatkach do jedzenia? Porównaj z obecnymi badaniami.",
     ] },
-    { ikona: "🔍", tytul: "Dla dociekliwych", opis: "Sprawdzanie źródeł, także w językach oryginału.", pytania: [
+    { ikona: '<circle cx="11" cy="11" r="7"/><path d="M21 21l-5-5"/>', tytul: "Dla dociekliwych", opis: "Sprawdzanie źródeł, także w językach oryginału.", pytania: [
       "Co dokładnie mówi Platon w Kritiasie o zagładzie Atlantydy? Przetłumacz grecki oryginał i porównaj z przekładem oraz z tym, co pisał autor uleszka.net.",
       "Co autor uleszka.net pisał o „bogach atomowych wojen”? Czy Mahabharata naprawdę to mówi? Sprawdź tekst sanskrycki.",
       "Na jakie książki Leszek powoływał się najczęściej i które z nich można dziś przeczytać za darmo?",
       "Co Leszek pisał o najdawniejszej historii Polski i o Mieszku I?",
     ] },
   ];
-  const kontener = document.getElementById("kategorie");
-  for (const k of KATEGORIE) {
-    const blok = document.createElement("div");
-    blok.className = "kategoria";
-    const h = document.createElement("h3");
-    h.innerHTML = `<span aria-hidden="true">${k.ikona}</span>`;
-    h.append(k.tytul);
-    const p = document.createElement("p");
-    p.textContent = k.opis;
-    const siatka = document.createElement("div");
-    siatka.className = "pytania";
-    for (const t of k.pytania) {
+  for (const k of KATEGORIE) k.pytania = k.pytania.map((p) => (typeof p === "string" ? { tekst: p } : p));
+  const WSZYSTKIE = KATEGORIE.flatMap((k) => k.pytania.map((p) => ({ ...p, k })));
+  const RZYMSKIE = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"];
+  const ikona = (d) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${d}</svg>`;
+
+  // karty pytań wybranego tematu
+  const tematy = document.getElementById("tematy");
+  const lista = document.getElementById("lista-pytan");
+  const tematOpis = document.getElementById("temat-opis");
+  const pokazTemat = (k) => {
+    for (const b of tematy.children) b.setAttribute("aria-pressed", b.temat === k);
+    tematOpis.textContent = k.opis;
+    lista.replaceChildren(...k.pytania.map((p, i) => {
       const b = document.createElement("button");
+      b.type = "button";
       b.className = "pytanie";
-      b.dataset.kopiuj = t;
-      b.textContent = t;
-      const kop = document.createElement("span");
-      kop.className = "kop";
-      kop.textContent = "kopiuj";
-      b.append(kop);
-      siatka.append(b);
-    }
-    blok.append(h, p, siatka);
-    kontener.append(blok);
+      b.style.animationDelay = i * 70 + "ms";
+      b.innerHTML = '<span class="nr" aria-hidden="true"></span><span class="tresc"></span><span class="dol"><span class="uwaga"></span><span class="kop">kopiuj</span></span>';
+      b.querySelector(".nr").textContent = RZYMSKIE[i];
+      b.querySelector(".tresc").textContent = p.pokaz ?? p.tekst;
+      if (p.pokaz) b.querySelector(".uwaga").textContent = "kopiuje się z poleceniem wcielenia w rolę";
+      b.setAttribute("aria-label", "Kopiuj pytanie: " + (p.pokaz ?? p.tekst));
+      let t;
+      b.addEventListener("click", () => {
+        kopiuj(p.tekst);
+        b.classList.add("skopiowane");
+        b.querySelector(".kop").textContent = "skopiowano ✓";
+        clearTimeout(t);
+        t = setTimeout(() => { b.classList.remove("skopiowane"); b.querySelector(".kop").textContent = "kopiuj"; }, 1800);
+      });
+      return b;
+    }));
+  };
+  for (const k of KATEGORIE) {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "temat";
+    b.temat = k;
+    b.innerHTML = ikona(k.ikona);
+    b.append(k.tytul);
+    b.addEventListener("click", () => pokazTemat(k));
+    tematy.append(b);
   }
+  pokazTemat(KATEGORIE[0]);
+
+  // losowe pytanie na górze sekcji
+  const wyrTekst = document.getElementById("wyr-tekst");
+  const wyrTemat = document.getElementById("wyr-temat");
+  let biezace = WSZYSTKIE[0];
+  const ustawWyrocznie = (p) => {
+    biezace = p;
+    wyrTekst.textContent = p.pokaz ?? p.tekst;
+    wyrTemat.textContent = p.k.tytul;
+  };
+  ustawWyrocznie(biezace);
+  document.getElementById("wyr-kopiuj").addEventListener("click", () => kopiuj(biezace.tekst));
+  document.getElementById("wyr-losuj").addEventListener("click", () => {
+    let p;
+    do p = WSZYSTKIE[Math.floor(Math.random() * WSZYSTKIE.length)]; while (p === biezace);
+    if (matchMedia("(prefers-reduced-motion: reduce)").matches) return ustawWyrocznie(p);
+    wyrTekst.classList.add("zmiana");
+    setTimeout(() => { ustawWyrocznie(p); wyrTekst.classList.remove("zmiana"); }, 350);
+  });
   document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", () => kopiuj(el.dataset.kopiuj)));
 
   // zakładki
