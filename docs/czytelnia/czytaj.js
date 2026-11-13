@@ -39,10 +39,39 @@
     glosy = synt.getVoices().filter((g) => /^pl/i.test(g.lang)).sort((a, b) => ocenGlos(b) - ocenGlos(a));
     const zapamietany = pamiec.czytaj("uleszka-glos");
     wyborGlosu.innerHTML = "";
-    glosy.forEach((g, i) => { const o = document.createElement("option"); o.value = g.name; o.textContent = g.name.replace(/^Microsoft /, "").replace(/ - Polish \(Poland\)| \(Poland\)/, ""); if (g.name === zapamietany || (!zapamietany && i === 0)) o.selected = true; wyborGlosu.append(o); });
+    glosy.forEach((g, i) => {
+      const o = document.createElement("option");
+      o.value = g.name;
+      o.textContent = g.name.replace(/^Microsoft /, "").replace(/ - Polish \(Poland\)| \(Poland\)/, "").replace(/ Online \(Natural\)/, " – naturalny");
+      if (g.name === zapamietany || (!zapamietany && i === 0)) o.selected = true;
+      wyborGlosu.append(o);
+    });
     wyborGlosu.parentElement.hidden = glosy.length < 2;
-    wskazowka.hidden = glosy.length > 0;
-    if (!glosy.length) wskazowka.textContent = "Twoja przeglądarka nie ma polskiego głosu – przeczyta tekst głosem domyślnym. Najładniej brzmi w Microsoft Edge (głosy Zofia i Marek) albo na telefonie.";
+
+    // podpowiedź: najlepsze darmowe polskie głosy (Zofia, Marek – „naturalne”) ma przeglądarka Microsoft Edge
+    const naturalny = glosy.some((g) => /natural|neural|premium|enhanced/i.test(g.name));
+    const jestEdge = /Edg\//.test(navigator.userAgent);
+    const telefon = /Android|iPhone|iPad|Mobile/i.test(navigator.userAgent);
+    const windows = /Windows/i.test(navigator.userAgent);
+    wskazowka.innerHTML = "";
+    if (!glosy.length) {
+      wskazowka.textContent = "Twoja przeglądarka nie ma polskiego głosu – przeczyta tekst głosem domyślnym. Najładniej czyta Microsoft Edge (darmowe głosy Zofia i Marek).";
+    } else if (!naturalny && !jestEdge && !telefon) {
+      wskazowka.append("Ten głos brzmi sztucznie. Dużo ładniej czyta przeglądarka ");
+      const b = document.createElement("b");
+      b.textContent = "Microsoft Edge";
+      wskazowka.append(b, " – ma darmowe, naturalne głosy Zofia i Marek. ");
+      if (windows) {
+        // na Windows ten odnośnik otwiera bieżącą stronę od razu w Edge
+        const a = document.createElement("a");
+        a.href = "microsoft-edge:" + location.href;
+        a.textContent = "Otwórz tę stronę w Edge →";
+        wskazowka.append(a);
+      } else {
+        wskazowka.append("Otwórz tę stronę w Edge i kliknij „Posłuchaj”.");
+      }
+    }
+    wskazowka.hidden = !wskazowka.textContent;
   };
   wczytajGlosy();
   synt.addEventListener?.("voiceschanged", wczytajGlosy);
