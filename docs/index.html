@@ -333,9 +333,42 @@
   }
 
   /* FAQ */
-  details { background: var(--karta); border: 1px solid var(--linia); border-radius: 14px; padding: 16px 20px; margin-bottom: 10px; }
-  summary { cursor: pointer; font-weight: 600; font-size: 17px; }
-  details p { margin: 10px 0 0; color: var(--tekst-2); }
+  /* dwie kolumny: wstęp po lewej (przyklejony przy przewijaniu), lista pytań po prawej; otwarte jedno naraz */
+  .faq-uklad { display: grid; grid-template-columns: 290px 1fr; gap: 56px; align-items: start; }
+  .faq-bok { position: sticky; top: 32px; }
+  .faq-bok p { color: var(--tekst-2); margin: 0 0 22px; }
+  .faq-dalej { border-left: 2px solid var(--akcent); padding: 2px 0 2px 16px; font-size: 15px; color: var(--tekst-2); }
+  .faq-dalej b { display: block; color: var(--tekst); font-family: Georgia, serif; font-size: 17px; margin-bottom: 4px; }
+  .faq-dalej a { display: block; font-weight: 600; margin-top: 4px; }
+  .faq { border-top: 1px solid rgba(232, 176, 75, .28); }
+  .faq details { border-bottom: 1px solid rgba(232, 176, 75, .16); }
+  .faq summary {
+    list-style: none; cursor: pointer; display: grid; grid-template-columns: 1fr auto 34px; align-items: center; gap: 14px; padding: 20px 4px;
+    font: 600 19px/1.35 Georgia, "Times New Roman", serif; color: #f4efe4; transition: color .25s;
+  }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq summary:hover, .faq details[open] summary { color: var(--akcent-mocny); }
+  .faq summary:focus-visible { outline: 2px solid var(--akcent); outline-offset: 4px; border-radius: 6px; }
+  .faq .krotko { font: 700 11px system-ui, sans-serif; letter-spacing: 1.4px; text-transform: uppercase; color: var(--akcent); border: 1px solid rgba(232, 176, 75, .35); border-radius: 999px; padding: 4px 10px; white-space: nowrap; }
+  .faq .znak { width: 34px; height: 34px; border-radius: 50%; border: 1px solid rgba(232, 176, 75, .4); position: relative; transition: transform .35s, background .35s; }
+  .faq .znak::before, .faq .znak::after { content: ""; position: absolute; left: 50%; top: 50%; width: 12px; height: 1.5px; background: var(--akcent-mocny); transform: translate(-50%, -50%); transition: transform .35s; }
+  .faq .znak::after { transform: translate(-50%, -50%) rotate(90deg); }
+  .faq details[open] .znak { background: rgba(232, 176, 75, .12); transform: rotate(180deg); }
+  .faq details[open] .znak::after { transform: translate(-50%, -50%); }
+  .faq details p { margin: 0; padding: 0 64px 24px 4px; color: var(--tekst-2); font-size: 16.5px; line-height: 1.65; max-width: 680px; }
+  .faq details[open] p { animation: faq-wejdz .4s ease; }
+  @keyframes faq-wejdz { from { opacity: 0; transform: translateY(-6px); } }
+  @media (prefers-reduced-motion: reduce) { .faq details[open] p { animation: none; } .faq .znak, .faq .znak::after { transition: none; } }
+  @media (max-width: 720px) {
+    .faq-uklad { grid-template-columns: 1fr; gap: 18px; }
+    .faq-bok { position: static; }
+    .faq-bok p { margin-bottom: 0; }
+    .faq-dalej { display: none; }
+    .faq summary { font-size: 17px; gap: 10px; grid-template-columns: 1fr auto 30px; padding: 17px 0; }
+    .faq .znak { width: 30px; height: 30px; }
+    .faq details p { padding: 0 0 20px; font-size: 16px; }
+    .faq-dalej-dol { display: block !important; margin-top: 22px; }
+  }
 
   footer { margin-top: 72px; padding: 32px 0 48px; border-top: 1px solid var(--linia); color: var(--tekst-2); font-size: 15px; }
 
@@ -608,32 +641,49 @@
   </section>
 
   <section id="pytania-czeste">
-    <div class="wrap">
-      <h2>Częste pytania</h2>
-      <details>
-        <summary>Czy to coś kosztuje?</summary>
-        <p>Nie. Archiwum i serwer są bezpłatne i nie wymagają logowania. Potrzebujesz tylko konta w Claude (darmowe wystarczy) albo płatnego ChatGPT.</p>
-      </details>
-      <details>
-        <summary>Czy teksty są zmienione albo skrócone?</summary>
-        <p>Nie. Artykuły są przeniesione słowo w słowo, a zgodność z oryginałem sprawdza automat, litera po literze. Streszczenia i opisy zdjęć przygotowała AI. Są wyraźnie oznaczone i trzymane osobno od oryginału.</p>
-      </details>
-      <details>
-        <summary>Czy AI może się pomylić?</summary>
-        <p>Może. Dlatego archiwum podaje jej dosłowne teksty, a ona ma cytować i podawać tytuły artykułów. Ważne cytaty warto sprawdzić. AI ma też oddzielać poglądy autora sprzed 20 lat od dzisiejszej wiedzy.</p>
-      </details>
-      <details>
-        <summary>A teksty o zdrowiu?</summary>
-        <p>Dział „Zapomniana medycyna” to poglądy autora sprzed ok. 20 lat. Można je omawiać i porównywać, ale nie zastępują porady lekarza. Asystent przy takich tematach dopowiada, co mówi dzisiejsza medycyna.</p>
-      </details>
-      <details>
-        <summary>Czy moje rozmowy są gdzieś zapisywane?</summary>
-        <p>Serwer archiwum tylko udostępnia teksty i nie zapisuje treści rozmów. Sama rozmowa toczy się na Twoim koncie Claude lub ChatGPT, na ich zasadach.</p>
-      </details>
-      <details>
-        <summary>Znalazłem błąd albo mam pomysł</summary>
-        <p>Napisz zgłoszenie na <a href="https://github.com/jokerwader/uleszka-archiwum/issues">GitHubie (Issues)</a>.</p>
-      </details>
+    <div class="wrap faq-uklad">
+      <div class="faq-bok">
+        <h2>Częste pytania</h2>
+        <p>Krótko o kosztach, wierności tekstów, pomyłkach AI i prywatności. Kliknij pytanie, żeby zobaczyć odpowiedź.</p>
+        <div class="faq-dalej">
+          <b>Nie ma tu Twojego pytania?</b>
+          Zadaj je samemu archiwum albo napisz do nas.
+          <a href="#jak-zaczac">Porozmawiaj z archiwum →</a>
+          <a href="https://github.com/jokerwader/uleszka-archiwum/issues">Napisz na GitHubie →</a>
+        </div>
+      </div>
+      <div class="faq">
+        <details name="faq">
+          <summary><span>Czy to coś kosztuje?</span><span class="krotko">Nie</span><span class="znak" aria-hidden="true"></span></summary>
+          <p>Nie. Archiwum i serwer są bezpłatne i nie wymagają logowania. Potrzebujesz tylko konta w Claude (darmowe wystarczy) albo płatnego ChatGPT.</p>
+        </details>
+        <details name="faq">
+          <summary><span>Czy teksty są zmienione albo skrócone?</span><span class="krotko">Nie</span><span class="znak" aria-hidden="true"></span></summary>
+          <p>Nie. Artykuły są przeniesione słowo w słowo, a zgodność z oryginałem sprawdza automat, litera po literze. Streszczenia i opisy zdjęć przygotowała AI. Są wyraźnie oznaczone i trzymane osobno od oryginału.</p>
+        </details>
+        <details name="faq">
+          <summary><span>Czy AI może się pomylić?</span><span class="krotko">Może</span><span class="znak" aria-hidden="true"></span></summary>
+          <p>Może. Dlatego archiwum podaje jej dosłowne teksty, a ona ma cytować i podawać tytuły artykułów. Ważne cytaty warto sprawdzić. AI ma też oddzielać poglądy autora sprzed 20 lat od dzisiejszej wiedzy.</p>
+        </details>
+        <details name="faq">
+          <summary><span>A teksty o zdrowiu?</span><span class="krotko">Z ostrożnością</span><span class="znak" aria-hidden="true"></span></summary>
+          <p>Dział „Zapomniana medycyna” to poglądy autora sprzed ok. 20 lat. Można je omawiać i porównywać, ale nie zastępują porady lekarza. Asystent przy takich tematach dopowiada, co mówi dzisiejsza medycyna.</p>
+        </details>
+        <details name="faq">
+          <summary><span>Czy moje rozmowy są gdzieś zapisywane?</span><span class="krotko">Nie u nas</span><span class="znak" aria-hidden="true"></span></summary>
+          <p>Serwer archiwum tylko udostępnia teksty i nie zapisuje treści rozmów. Sama rozmowa toczy się na Twoim koncie Claude lub ChatGPT, na ich zasadach.</p>
+        </details>
+        <details name="faq">
+          <summary><span>Znalazłem błąd albo mam pomysł</span><span class="krotko">Napisz</span><span class="znak" aria-hidden="true"></span></summary>
+          <p>Napisz zgłoszenie na <a href="https://github.com/jokerwader/uleszka-archiwum/issues">GitHubie (Issues)</a>.</p>
+        </details>
+        <div class="faq-dalej faq-dalej-dol" hidden>
+          <b>Nie ma tu Twojego pytania?</b>
+          Zadaj je samemu archiwum albo napisz do nas.
+          <a href="#jak-zaczac">Porozmawiaj z archiwum →</a>
+          <a href="https://github.com/jokerwader/uleszka-archiwum/issues">Napisz na GitHubie →</a>
+        </div>
+      </div>
     </div>
   </section>
 </main>
