@@ -95,14 +95,25 @@ async function start() {
   korpusGeo.translate(0, ciecie / 2, 0);
   const korpus = new THREE.Mesh(
     korpusGeo,
-    new THREE.MeshStandardMaterial({ map: tex, color: 0xb9a582, roughness: 0.92, metalness: 0.05, flatShading: true }),
+    // polygonOffset odsuwa ściany o włos w głąb – świecące krawędzie nie migoczą (brak „z-fightingu”)
+    new THREE.MeshStandardMaterial({ map: tex, color: 0xb9a582, roughness: 0.92, metalness: 0.05, flatShading: true, polygonOffset: true, polygonOffsetFactor: 2, polygonOffsetUnits: 4 }),
   );
   piramida.add(korpus);
   // świecące krawędzie
-  const krawedzie = new THREE.LineSegments(
-    new THREE.EdgesGeometry(korpusGeo),
-    new THREE.LineBasicMaterial({ color: new THREE.Color(0xffc56a).multiplyScalar(1.6), transparent: true, opacity: 0.75 }),
-  );
+  // świecące krawędzie jako cienkie pręty (walce) – równa grubość i jednolity blask na całej długości
+  // (zwykłe linie WebGL mają 1 piksel i przy efekcie blasku „koralikują”)
+  const krawedzie = new THREE.Group();
+  const materialKrawedzi = new THREE.MeshBasicMaterial({ color: new THREE.Color(0xffc56a).multiplyScalar(1.35), transparent: true, opacity: 0.75 });
+  const pk = new THREE.EdgesGeometry(korpusGeo).attributes.position;
+  for (let i = 0; i < pk.count; i += 2) {
+    const a = new THREE.Vector3().fromBufferAttribute(pk, i);
+    const b = new THREE.Vector3().fromBufferAttribute(pk, i + 1);
+    const dl = a.distanceTo(b);
+    const pret = new THREE.Mesh(new THREE.CylinderGeometry(0.011, 0.011, dl, 6, 1, true), materialKrawedzi);
+    pret.position.copy(a).add(b).multiplyScalar(0.5);
+    pret.quaternion.setFromUnitVectors(new THREE.Vector3(0, 1, 0), b.clone().sub(a).normalize());
+    krawedzie.add(pret);
+  }
   piramida.add(krawedzie);
 
   // zwieńczenie (piramidion) – złote, unoszące się nad wierzchołkiem
@@ -110,7 +121,7 @@ async function start() {
   czapkaGeo.rotateY(Math.PI / 4);
   const czapka = new THREE.Mesh(
     czapkaGeo,
-    new THREE.MeshStandardMaterial({ color: 0xffc46b, emissive: 0xff9d2e, emissiveIntensity: 1.8, metalness: 0.9, roughness: 0.25, flatShading: true }),
+    new THREE.MeshStandardMaterial({ color: 0xffc46b, emissive: 0xff9d2e, emissiveIntensity: 1.8, metalness: 0.9, roughness: 0.25, flatShading: true, polygonOffset: true, polygonOffsetFactor: 2, polygonOffsetUnits: 4 }),
   );
   const czapkaKrawedzie = new THREE.LineSegments(
     new THREE.EdgesGeometry(czapkaGeo),
@@ -353,7 +364,7 @@ async function start() {
     zlote.position.set(piramida.position.x, piramida.position.y + czapka.position.y * piramida.scale.y, 0);
     zlote.intensity = 60 * ease * (0.9 + 0.1 * Math.sin(t * 3.1));
     czapka.material.emissiveIntensity = 1.8 * ease;
-    krawedzie.material.opacity = 0.75 * ease;
+    materialKrawedzi.opacity = 0.75 * ease;
     slup.material.uniforms.czas.value = t;
     teren.material.uniforms.czas.value = t;
     gwiazdyMat.uniforms.czas.value = t;

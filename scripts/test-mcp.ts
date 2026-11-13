@@ -44,10 +44,11 @@ const sprawdz = async (opis: string, fn: () => Promise<void>) => {
   console.log(`✔ ${opis}`);
 };
 
-await sprawdz("serwer podaje instrukcje i 11 narzędzi", async () => {
+await sprawdz("serwer podaje instrukcje i 12 narzędzi", async () => {
   assert.match(client.getInstructions() ?? "", /uleszka\.net/);
   const { tools } = await client.listTools();
   assert.deepEqual(tools.map((t) => t.name).sort(), [
+    "author_profile",
     "find_in_article",
     "get_article_notes",
     "get_image",
@@ -189,6 +190,7 @@ await sprawdz("prompty i zasób katalogu są dostępne", async () => {
     "omow_artykul",
     "po_20_latach",
     "poznaj_archiwum",
+    "rozmowa_z_leszkiem",
     "sprawdz_zrodlo",
     "swiat_wedlug_autora",
     "szukaj_odzwierciedlen",
@@ -196,6 +198,9 @@ await sprawdz("prompty i zasób katalogu są dostępne", async () => {
   ]);
   // identyfikatory artykułów wskazane w promptach muszą istnieć w archiwum
   for (const id of ["refleksja", "cybog/wstepcb", "medalt/wstep"]) assert.equal((await wywolaj("get_article_notes", { id })).isError, undefined, id);
+  const rys = txt(await wywolaj("author_profile", { include_interview: true }));
+  assert.match(rys, /Zasady roli/);
+  assert.match(rys, /Było paliwo, nie było zapałki/); // fragment wywiadu
   const start = await client.getPrompt({ name: "poznaj_archiwum" });
   assert.match(JSON.stringify(start.messages), /U Leszka/);
   const p = await client.getPrompt({ name: "omow_artykul", arguments: { artykul: "Potop" } });
