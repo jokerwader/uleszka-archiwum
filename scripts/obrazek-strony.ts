@@ -1,30 +1,42 @@
 /**
  * Tworzy docs/og.png – obrazek podglądu (1200×630), który pokazuje się przy udostępnianiu linku do strony
- * (Facebook, Messenger, WhatsApp, X…).
+ * (Facebook, Messenger, WhatsApp, X…). Tłem jest kadr ze sceny 3D strony (docs/img/scena.jpg),
+ * na który nakładany jest napis.
  * Uruchomienie: npx tsx scripts/obrazek-strony.ts
  */
 import sharp from "sharp";
 
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+const napisy = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
-    <radialGradient id="poswiata" cx="1" cy="0" r="0.8">
-      <stop offset="0" stop-color="#e8b04b" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#e8b04b" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="lewo" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#05070c" stop-opacity="0.94"/>
+      <stop offset="0.42" stop-color="#05070c" stop-opacity="0.7"/>
+      <stop offset="0.62" stop-color="#05070c" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dol" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0.7" stop-color="#05070c" stop-opacity="0"/>
+      <stop offset="1" stop-color="#05070c" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="zloto" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff6e0"/>
+      <stop offset="0.55" stop-color="#f0c46f"/>
+      <stop offset="1" stop-color="#b47a22"/>
+    </linearGradient>
   </defs>
-  <rect width="1200" height="630" fill="#14213d"/>
-  <rect width="1200" height="630" fill="url(#poswiata)"/>
-  <rect x="70" y="70" width="6" height="150" fill="#e8b04b"/>
-  <text x="100" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="3" fill="#e8b04b">ARCHIWUM STRONY Z LAT 2004–2007</text>
-  <text x="100" y="170" font-family="Georgia, serif" font-size="44" fill="#d7dbe4">„Uwierz we własny rozum”</text>
-  <text x="100" y="215" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#9aa3b5">Leszek Klimek · uleszka.net</text>
-  <text x="70" y="345" font-family="Georgia, serif" font-size="78" font-weight="700" fill="#ffffff">Porozmawiaj z archiwum</text>
-  <text x="70" y="435" font-family="Georgia, serif" font-size="78" font-weight="700" fill="#ffffff">uleszka.net</text>
-  <text x="70" y="520" font-family="Segoe UI, Arial, sans-serif" font-size="30" fill="#d7dbe4">148 artykułów · 1714 zdjęć · biblioteka dawnych źródeł</text>
-  <text x="70" y="568" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600" fill="#e8b04b">Przez Claude albo ChatGPT – bez instalowania</text>
+  <rect width="1200" height="630" fill="url(#lewo)"/>
+  <rect width="1200" height="630" fill="url(#dol)"/>
+  <text x="64" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="4" fill="#e8b04b">„UWIERZ WE WŁASNY ROZUM” · 2004–2007</text>
+  <text x="60" y="240" font-family="Georgia, serif" font-size="112" font-weight="700" fill="url(#zloto)">Nadchodzi</text>
+  <text x="60" y="352" font-family="Georgia, serif" font-size="112" font-weight="700" fill="url(#zloto)">przeszłość</text>
+  <text x="64" y="398" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#9aa3b5">— Leszek Klimek, uleszka.net</text>
+  <text x="64" y="480" font-family="Georgia, serif" font-size="38" fill="#ffffff">Porozmawiaj z archiwum strony</text>
+  <text x="64" y="530" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#c9cfdb">przez Claude albo ChatGPT · 148 artykułów · dawne źródła</text>
 </svg>`;
 
-await sharp(Buffer.from(svg)).png().toFile("docs/og.png");
+const tlo = await sharp("docs/img/scena.jpg")
+  .resize(1200, 630, { fit: "cover", position: "centre" })
+  .toBuffer();
+await sharp(tlo).composite([{ input: Buffer.from(napisy) }]).png().toFile("docs/og.png");
 console.log("Zapisano docs/og.png");
 
 // ikona konektora / strony (512×512): złote „U” na granatowym tle
