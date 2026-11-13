@@ -29,7 +29,8 @@ function tekstMd(md: string) {
   const bez = md
     .replace(/^---\n[\s\S]*?\n---\n/, "") // nagłówek z opisem
     .replace(/!\[([^\]]*)\]\([^)]*\)/g, "") // obrazki (alt nie jest tekstem strony)
-    .replace(/\]\([^)]*\)/g, "]"); // adresy linków
+    .replace(/\]\([^)]*\)/g, "]") // adresy linków
+    .replace(/<br>/g, " "); // łamanie linii w komórkach tabel (znacznik, nie tekst)
   return litery(bez);
 }
 

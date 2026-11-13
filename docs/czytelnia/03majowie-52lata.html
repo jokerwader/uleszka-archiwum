@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="52 lata – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Autor omawia 52-letni cykl kalendarza Majów (tzolkin i haab, data 4-Ahau 8-Cumhu) na tle interpretacji Ericha von Dänikena, według którego cykl odpowiada obiegowi hipotetycznej Pla">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/03majowie-52lata.html">
+<meta property="og:url" content="https://uleszka.net/czytelnia/03majowie-52lata.html">
 <meta property="og:image" content="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/03majowie/eros.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">O czym pisze Erich von Daeniken</a></li><li><a href="#r-2">Kłopoty z kalendarzem Majów</a></li><li><a href="#r-3">Pierścień z dużym kamiennym oczkiem</a></li><li><a href="#r-4">nasz Armagedon nazywa się 4 Ahau 8 Cumhu</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details open><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html" class="aktualny" aria-current="page">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#cywilizacja-bogow">Cywilizacja Bogów</a></p>
   <h1>52 lata</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Autor omawia 52-letni cykl kalendarza Majów (tzolkin i haab, data 4-Ahau 8-Cumhu) na tle interpretacji Ericha von Dänikena, według którego cykl odpowiada obiegowi hipotetycznej Planety X. Nie zgadza się z wnioskiem o spotkaniu z bogami i proponuje, że Majowie bali się upadku planetoid z „oczka” pierścienia szczątków dawnej planety, o czym ostrzegli ich bogowie kalendarzem. Krytykuje naukowe sposoby liczenia kalendarza i przedstawia własne, orientacyjne rachunki. Na koniec wiąże te obawy ze współczesnymi doniesieniami o planetoidach i asteroidzie 2004 MN4, sugerując, że astronomowie nie dość poważnie traktują zagrożenie.</p>
@@ -32,7 +68,7 @@
   </details>
   <article class="tresc">
 <p><strong>Strach w 52-letnim cyklu</strong><br>A imiona ich to &quot;wielu&quot; i &quot;świder ognisty&quot;.</p>
-<p><strong>O czym pisze Erich von Daeniken</strong></p>
+<p class="rozdzial" id="r-1"><strong>O czym pisze Erich von Daeniken</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/03majowie/4a8c.gif" alt="Dwa glify w stylu majańskim: kropki (cyfry) po lewej stronie każdego bloku oraz ozdobne głowy-znaki; prawdopodobnie data kalendarza majańskiego (wg nazwy pliku 4 Ahau 8 Cumku)." title="Opis AI: Dwa glify w stylu majańskim: kropki (cyfry) po lewej stronie każdego bloku oraz ozdobne głowy-znaki; prawdopodobnie data kalendarza majańskiego (wg nazwy pliku 4 Ahau 8 Cumku)." loading="lazy" decoding="async"></p>
 <p>Kalendarz Majów dostarczył nauce nie lada sensacji. Stwierdzono, że istniały równolegle dwa kalendarze tzolkin i haab. Tzolkin to rok boski liczący 260 dni (20 miesięcy po 13 dni), natomiast haab traktowano jako kalendarz &quot;roboczy&quot; liczący 18 miesięcy po 20 dni, na którego końcu dokładano 5 dni uznawanych za &quot;feralne&quot; otrzymując w sumie 365 dni. Oba kończyły jednocześnie każdy 52-letni, niezrozumiały cykl zamykający się datą 4-Ahau 8-Cumhu.</p>
 <p>Erich von Daeniken w swojej książce &quot;Dzień, w którym przybyli Bogowie&quot; opisuje swoją korespondencję z dr. Kisslingiem. Pozwolę sobie zacytować obszerny fragment jego książki.</p>
@@ -41,34 +77,52 @@
 <p>Tzolkin był kalendarzem świętym, boskim, bez jakiejkolwiek wartości praktycznej - 73 lata boskie odpowiadały 52 latom ziemskim. W okresie tych 52 lat, zgodnie z odczytanymi hieroglifami, na firmamencie dziesięć razy ukazywali się określeni bogowie o nader skomplikowanych imionach - co 52 lata obawiano się powrotu tych &quot;strasznych istot&quot;. Jeżeli w trakcie owych 52 lat (18980 dni) bogów było widać na firmamencie dziesięć razy, to logiczne jest, że w ciągu 5,2 roku (1898 dni) tylko raz.</p>
 <hr>
 <p>Dr Kiessiing zadał sobie pytanie: Co pojawiało się więc co 5,2 roku (albo co 1898 dni) na niebie? Kometa? Statek kosmiczny? Boska planeta Wenus? Zaciekawiony badacz skrupulatnie sprawdził wszystkie dane orbit planet Układu Słonecznego i poczynił zadziwiające spostrzeżenie:</p>
-<p>Nazwa planety</p>
-<p>obieg Słońca w dniach ziemskich</p>
-<p>obieg Słońca w latach ziemskich</p>
-<p>   Merkury</p>
-<p>88</p>
-<p>0,24</p>
-<p>   Wenus</p>
-<p>225</p>
-<p>0,62</p>
-<p>   Ziemia</p>
-<p>365</p>
-<p>1,00</p>
-<p>   Mars</p>
-<p>687</p>
-<p>1,88</p>
-<p>   <strong>Planeta X</strong></p>
-<p><strong>1898</strong></p>
-<p><strong>5,20</strong></p>
-<p>   Jowisz</p>
-<p>4329</p>
-<p>11,86</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>Nazwa planety</th>
+<th>obieg Słońca w dniach ziemskich</th>
+<th>obieg Słońca w latach ziemskich</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Merkury</td>
+<td>88</td>
+<td>0,24</td>
+</tr>
+<tr>
+<td>Wenus</td>
+<td>225</td>
+<td>0,62</td>
+</tr>
+<tr>
+<td>Ziemia</td>
+<td>365</td>
+<td>1,00</td>
+</tr>
+<tr>
+<td>Mars</td>
+<td>687</td>
+<td>1,88</td>
+</tr>
+<tr>
+<td><strong>Planeta X</strong></td>
+<td><strong>1898</strong></td>
+<td><strong>5,20</strong></td>
+</tr>
+<tr>
+<td>Jowisz</td>
+<td>4329</td>
+<td>11,86</td>
+</tr>
+</tbody></table></div>
 <p>Jeśli spojrzymy na schemat Układu Słonecznego, od razu rzuci nam się w oczy wielka luka między Marsem a Jowiszem. Porusza się tam dokoła Słońca zgodnie z prawami Keplera olbrzymia, widoczna tylko przez teleskop gromada niewielkich ciał niebieskich zwanych planetoidami. Jeżeli założymy, że planetoidy te są szczątkami jakiejś planety, to będzie można obliczyć, że planeta owa, w czasie kiedy stanowiła całość, wykonywała jeden obrót wokół Słońca w ciągu 1898 dni, czyli dokładnie 5,2 roku ziemskiego!</p>
 <hr>
 <p>Z tego punktu widzenia kombinacja kalendarza tzolkin i haab byłaby nieprzypadkowa - określałaby dokładny okres obiegu Planety X wokół Słońca. Określałaby zarazem nie tylko to - 1898 dni razy 10, równa się 18980 dni (52 lata), a co 52 lata Planeta X znajdowała się najbliżej naszej planety. Tego właśnie dnia dzieci Ziemi obawiały się przybycia bogów i dlatego przed upływem cyklu kalendarzowego narastało wśród Majów takie napięcie.</p>
 <hr>
 <p>Z tego powodu co każde 52 lata ze strachem i ze szczególną uwagą obserwowano niebo - oczekiwano pojawienia się boga Kukulcana albo Quetzalcoatla. Zbieganie się dat boskiego kalendarza tzolkin i ziemskiego haab w 18980 dniu zwiastowało niebezpieczeństwo. Istoty pozaziemskie i Ziemianie przygotowywali się do spotkania na najwyższym szczeblu.</p>
 <p>Tu chyba pana Daenikena trochę poniosła fantazja. Sądzę, że wyciągnął zbyt daleko idące wnioski. Dlaczego? Wydaje się, że nie chodzi o spotkanie z Bogami, a raczej o spotkanie z czymś gorszym - z kosmiczną śmiercią. Ale po kolei.</p>
-<p><strong>Kłopoty z kalendarzem Majów</strong></p>
+<p class="rozdzial" id="r-2"><strong>Kłopoty z kalendarzem Majów</strong></p>
 <p>...a właściwie z kalendarzem całej Mezoameryki, gdyż jak twierdzą uczeni, kalendarza tego używały wszystkie ludy od Meksyku po Jukatan. Odkrycie go było wielką sensacją, która niebawem zamieniła się w wielki kłopot. Jak oni go używali?</p>
 <p>Do dnia dzisiejszego zdania uczonych są podzielone. Bardzo mała, wręcz uznawana za skąpą ilość materiału spowodowana konkwistą ówczesnej Hiszpanii oraz szczególnym działaniem &quot;naziemnego personelu&quot; Najwyższego, zaowocowała zniszczeniem tubylczej &quot;bazy danych&quot; - spisanych dziejów liczących setki, jeśli nie tysiące lat. Materiały, na których opiera się dzisiejsza nauka, to kilka tzw. &quot;kodeksów&quot; oraz zapiski mnichów hiszpańskich, którzy opamiętawszy się po początkowym szale niszczenia raczyli zauważyć, że zniszczyli kulturę, która pod pewnymi względami, przewyższała nawet ich własną. Powód tej kulturowej restauracji był zapewne bardziej prozaiczny - mnisi chyba doszli do wniosku, że w orgii niszczenia mogli spalić też cenne informacje o miejscach bajecznych skarbów Indian, ale to tylko mój domysł.</p>
 <p>Co można powiedzieć o tym kalendarzu? Jest tak skomplikowany, że do dziś nie ustalono jednolitego poglądu na sposób liczenia czasu. Jego interpretacja odbywa się na wałęsowskiej zasadzie: &quot;jestem za, a nawet przeciw&quot;. Nie ustalono ani początku, ani końca kalendarza, a co za tym idzie brak jest punktu zaczepienia z naszym dzisiejszym kalendarzem i naszą chronologią. Jeśli zaś nie można tego ustalić, to wprowadza się teorię zabobonu. Mówi się, że jest to &quot;kalendarz bosko-astrologiczno-astronomiczny z elementami matematyki w systemie dwudziestkowym uwzględniającym cyfrę zero, służący do odmierzania czasu pozostałego do śmierci Matki-Ziemi ze wskazaniem terminów modlitw do Boga aktualnie dominującego na firmamencie&quot;. Żarty, żartami, ale co tak naprawdę można o nim powiedzieć. Jest kalendarzem posiadającym trzy, a właściwie cztery elementy:</p>
@@ -87,61 +141,107 @@
 <p>Wprowadzony przykład kalendarza Majów z trzema obracającymi się kołami całkowicie, według mnie, zaciemnił sprawę. Nigdzie, w żadnym miejscu Mezoameryki, nie znaleziono czegoś takiego i raczej wprowadzono go dla udowodnienia &quot;naukowości&quot; tej teorii. Majowie czy Aztekowie nie obracali kółkami, a mozolnie dzień po dniu zapisywali daty i wydarzenia z nimi związane. Co więcej, z opisów (Naród Słońca, Dawni Meksykanie) wynika, że daty zapisywano w trzech księgach: rachunku dni &quot;tonalpohualli&quot;, rachunku lat &quot;xiuhpohualli&quot; i księdze lat &quot;xiuhamatl&quot;. Ponadto nauka jest zgodna co do tego, że istniejąca ówcześnie cywilizacja tego kalendarza nie stworzyła. <strong>Ten kalendarz został im dany</strong>. Z tego względu, sądzę, musiał być prosty w użyciu i zawierać tylko niezbędne elementy pozwalające ostrzegać przed niebezpieczeństwami z przyszłości. Sprawa wplątania w to Bogów była chyba sprawą wtórną i obliczoną na łatwiejsze &quot;zapamiętanie&quot; zdarzeń przez ludzi.</p>
 <p>Nie spodziewaj się ode mnie gotowej recepty na kalendarz Majów. Gdybym ją znał, to zapewne i ty znałbyś mnie od dawna z imienia i nazwiska jako wielkiego odkrywcę. Niestety brak mi gruntownej wiedzy matematycznej i astronomicznej, a ta leży zapewne u podstaw kalendarza. Chcę tylko zwrócić uwagę na najważniejsze, moim zdaniem, elementy oraz postawić trochę kłopotliwych pytań.</p>
 <p>Na początek dwie daty odczytane w ruinach Mezoameryki i trzy odpowiedzi:</p>
-<p><strong>Autor obliczeń (rok) / Data</strong></p>
-<p><strong>13.0.0.0.0. 4-Ahau 8-Cumhu</strong></p>
-<p><strong>0.0.0.0.0. 4-Ahau 8-Cumhu</strong></p>
-<p>      Makemson (1946)</p>
-<p>11 luty 3373 r. pne      </p>
-<p>2 październik 8499 r. pne      </p>
-<p>      Spinden (1930)</p>
-<p>15 październik 3373 r. pne      </p>
-<p>5 czerwiec 8498 r. pne      </p>
-<p>      Thompson (1935)</p>
-<p>13 sierpień 3113 r. pne      </p>
-<p>2 kwiecień 8238 r. pne      </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Autor obliczeń (rok) / Data</strong></th>
+<th>🟦 <strong>13.0.0.0.0. 4-Ahau 8-Cumhu</strong></th>
+<th>🟦 <strong>0.0.0.0.0. 4-Ahau 8-Cumhu</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Makemson (1946)</td>
+<td>11 luty 3373 r. pne</td>
+<td>2 październik 8499 r. pne</td>
+</tr>
+<tr>
+<td>Spinden (1930)</td>
+<td>15 październik 3373 r. pne</td>
+<td>5 czerwiec 8498 r. pne</td>
+</tr>
+<tr>
+<td>Thompson (1935)</td>
+<td>13 sierpień 3113 r. pne</td>
+<td>2 kwiecień 8238 r. pne</td>
+</tr>
+</tbody></table></div>
 <p>Jak na ilość lat, prócz &quot;drobnych&quot; rozbieżności, można przyjąć, że nauka jest zgodna. Nie spotkałem pełnego opisu zastosowanych metod, oprócz tego, że były skomplikowane, mozolne, praco i czasochłonne. Dość ścisły i naukowy opis metody, ale nie pozwalający na sprawdzenie prawidłowości obliczeń. Czy wynika z tego, że wspomniani badacze też pisali księgi dni i lat, lecz do tyłu? Ta sama nauka przekazała nam także, że &quot;Majowie&quot; określili długość roku z zadziwiającą precyzją - 365,2422 doby. Czemu więc nie wykorzystać tej informacji do określenia upływu lat? Zbyt prostackie i mało &quot;naukowe&quot;?</p>
 <p>Zanim spróbuję coś policzyć trzeba jeszcze wspomnieć, że nauka określa zapis liczb Majów jako podobny do naszego dziesiętnego (wielkość liczby zależna jest od pozycji cyfry) ale nie jest zgodna co do mnożników, wykonam więc dwa rodzaje obliczeń dotyczące wieku początku kalendarza. Jako datę przyjmiemy - <strong>19.19.19.19.19.12-Ahau.19-Cumhu</strong> - ostatniego dnia cyklu poprzedzającego początek kalendarza przy jednoczesnym założeniu, że rok ma 365 dni i nieuwzględnieniu lat przestępnych.</p>
-<p><strong>Liczba</strong></p>
-<p><strong>Mnożnik logiczny</strong></p>
-<p><strong>Wynik I</strong></p>
-<p><strong>Mnożnik naukowy</strong></p>
-<p><strong>Wynik II</strong></p>
-<p>19</p>
-<p>20 × 20 × 20 × 20  </p>
-<p>3 040 000   </p>
-<p>baktun=144 000  </p>
-<p>2 736 000   </p>
-<p>19</p>
-<p>20 × 20 × 20  </p>
-<p>152 000   </p>
-<p>katun=7 200  </p>
-<p>136 800   </p>
-<p>19</p>
-<p>20 × 20  </p>
-<p>7 600   </p>
-<p>tun=360  </p>
-<p>6 840   </p>
-<p>19</p>
-<p>20  </p>
-<p>380   </p>
-<p>unial=20  </p>
-<p>380   </p>
-<p>19</p>
-<p>1  </p>
-<p>19   </p>
-<p>kin=1  </p>
-<p>19   </p>
-<p>12-Ahau</p>
-<p>19-Cumhu</p>
-<p>340   </p>
-<p>340   </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Liczba</strong></th>
+<th>🟦 <strong>Mnożnik logiczny</strong></th>
+<th>🟦 <strong>Wynik I</strong></th>
+<th>🟦 <strong>Mnożnik naukowy</strong></th>
+<th>🟦 <strong>Wynik II</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>19</td>
+<td>20 × 20 × 20 × 20</td>
+<td>3 040 000</td>
+<td>baktun=144 000</td>
+<td>2 736 000</td>
+</tr>
+<tr>
+<td>19</td>
+<td>20 × 20 × 20</td>
+<td>152 000</td>
+<td>katun=7 200</td>
+<td>136 800</td>
+</tr>
+<tr>
+<td>19</td>
+<td>20 × 20</td>
+<td>7 600</td>
+<td>tun=360</td>
+<td>6 840</td>
+</tr>
+<tr>
+<td>19</td>
+<td>20</td>
+<td>380</td>
+<td>unial=20</td>
+<td>380</td>
+</tr>
+<tr>
+<td>19</td>
+<td>1</td>
+<td>19</td>
+<td>kin=1</td>
+<td>19</td>
+</tr>
+<tr>
+<td>12-Ahau</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19-Cumhu</td>
+<td></td>
+<td>340</td>
+<td></td>
+<td>340</td>
+</tr>
+</tbody></table></div>
 <p>W obliczeniach nie uwzględniłem kalendarza Tzolkin, gdyż liczył on ilość dni w innym, &quot;boskim&quot; roku, a w zasadzie był chyba tylko potrzebny do utworzenia jednej niepowtarzalnej nazwy daty w cyklu 52 lat. Tak mi się przynajmniej wydaje. Policzmy zatem ilość dni i zamieńmy na lata trwające po 365,2422 dnia.</p>
-<p>Ilość dni</p>
-<p>3 200 339   </p>
-<p>2 880 626   </p>
-<p>Ilość lat</p>
-<p><strong>8762,24</strong></p>
-<p><strong>7886,89</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>Ilość dni</th>
+<th>3 200 339</th>
+<th>2 880 626</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Ilość lat</td>
+<td><strong>8762,24</strong></td>
+<td><strong>7886,89</strong></td>
+</tr>
+</tbody></table></div>
 <p>Wynik zbliżony, choć z rozrzutem szrapnela. Jedno co jest pewne - było to bardzo dawno temu. Pozostają dwa problemy: Który sposób oddaje właściwe obliczenie liczby dni, a co za tym idzie lat oraz jaką naszą datę należy przyjąć za &quot;zerową&quot;? Nadto nic nam nie wiadomo kiedy powstał ten kalendarz i jakie wydarzenie jest jego początkiem. Trudności z uzyskaniem materiału badawczego (czytaj - nie umieją odczytać hieroglifów, bo materiału badawczego jest ogromna ilość) nie posuwają sprawy naprzód.</p>
 <p>Następne pytanie, bardziej już retoryczne. Dlaczego uczeni unikają objaśnienia istoty trzeciego kalendarza zwanego &quot;ksiegą lat&quot;? Po co używano by dwóch kalendarzy mających wspólną liczbę 52? Kalendarz (tzolkin i haab) był stworzony dla 52-letniego cyklu. Maiści twierdzą, że jedna data mogła się powtórzyć najwyżej dwa razy w cyklu jednego pokolenia Indian, a i to byłby przypadek, bo ci nie żyją zbyt długo, ale zastosowanie trzeciego kalendarza w systemie &quot;bardzo długie liczenie&quot; wykluczyło by powtórzenie się daty przez okres bez mała 2700 lat. W kalendarzu tym używano 4 &quot;kwartałów&quot; podzielonych na 13 części. Były to: Acatl (trzcina), Tecpatl (krzemień), Calli (dom) i Tochtli (królik). Czy spotkano już datę zapisaną w takim formacie?:</p>
 <p><strong>13.0.0.0.0. 4-Ahau 8-Cumhu 1-Acatl</strong>.</p>
@@ -149,7 +249,7 @@
 <p>Czy przypadkiem sami naukowcy nie skomplikowali sprawy, by dodać sobie powagi? Pomyśl logicznie: skoro pierwsza część daty zawiera liczbę dni od początku kalendarza, to wystarczy podzielić ją przez 365,2422 i otrzymujemy liczbę lat z dokładnością do jednego roku. Ale stawiam pytanie: czy przypadkiem licznik ten nie &quot;przeskakiwał&quot; o 1 dopiero po upływie 52-letniego cyklu? Jeśli tak, to liczba z przodu winna wskazywać ilość cykli po 52 lata każdy i wszystkie dzisiejsze wyliczenia można spokojnie wyrzucić.</p>
 <p>Kalendarz Majów jest podobny do kalendarza egipskiego, ale tylko w miejscu gdzie jest mowa o roku składającym się z 360 dni i dodatkowych 5 dniach. Mam niejasne przeczucie, że w liczbie 360 dni zawiera się także jakaś informacja o kole i kącie pełnym. Coś w rodzaju mitologicznego - &quot;koło się zamknęło&quot; lub &quot;cykl się zakończył&quot;, bogowie udali się na 5-dniowy wypoczynek. Czy nie oznaczało to, że koło czasu należy zatrzymać i puścić w ruch ponownie dopiero po upływie 5 dni feralnych? Nie mam żadnego pomysłu.</p>
 <p>W sumie, wydaje mi się, że dla Majów naistotniejszy był kalendarz o 52-letnim cyklu oraz data 4-Ahau 8-Cumhu, która pojawiała się na 19 dni przed jego zakończeniem. Dlaczego? O tym niżej.</p>
-<p><strong>Pierścień z dużym kamiennym oczkiem</strong></p>
+<p class="rozdzial" id="r-3"><strong>Pierścień z dużym kamiennym oczkiem</strong></p>
 <p>Będąc niejako poza naukowym gremium i laikiem w dziedzinie astronomii mogę pozwolić sobie na wszystko to spojrzeć z boku i zarazem inaczej. Nie zwalnia to wszakże od jednego. Moja hipoteza nie może urągać logice. Przesłanki naukowe dopuszczają, że w miejscu, gdzie dziś rozciąga się pas planetoid, po ich orbicie kiedyś krążyła planeta. Została rozbita lub wybuchła. Z teorią wybuchu planety byłbym ostrożny więc pozostańmy przy kosmicznej katastrofie.</p>
 <p>Potężnie uderzona planeta bądź cała rozpadła się na kawałki, bądź wierząc Sumerom została rozbita na dwie części. Jedna część stała się naszą Ziemią, pozostałość krąży wokół Słońca w kawałeczkach po jej dawnej orbicie. <img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/03majowie/planetax.gif" alt="Schemat Układu Słonecznego: Słońce w środku, orbity Merkurego, Wenus, Ziemi, Marsa, pas planetoid oraz Jowisz; w pasie planetoid szary znak X oznaczający hipotetyczną Planetę X. Napis: X; Jowisz; Mars; Ziemia; Wenus; Merkury; Pas planetoid" title="Opis AI: Schemat Układu Słonecznego: Słońce w środku, orbity Merkurego, Wenus, Ziemi, Marsa, pas planetoid oraz Jowisz; w pasie planetoid szary znak X oznaczający hipotetyczną Planetę X. Napis: X; Jowisz; Mars; Ziemia; Wenus; Merkury; Pas planetoid" loading="lazy" decoding="async"> Kolizja spowodowała wyrzucenie w przestrzeń ogromną ilość gruzu kosmicznego. Część uleciała bezpowrotnie w kosmos, część zapewne opadła na Słońce, część pochłonął Jowisz, część spadła na inne planety, część oglądamy jako widowiskowe komety, a reszta zaś w postaci planetoid w dalszym ciągu okrąża naszą gwiazdę.</p>
 <p>Niektórzy wręcz twierdzą, że żadnej katastrofy nie było. Pokażcie nam &quot;winowajcę&quot;, który spowodował rozbicie! Nie ma takiego! Takie rozumowanie prowadzi do paradoksu - jeżeli jest trup, a nie ma mordercy, to czy mamy prawo twierdzić, że nieboszczyk jest żywy?</p>
@@ -159,7 +259,7 @@
 <p>Powiadano, że kiedy nadeszła noc, bardzo się bano, oczekiwano, że gdy świder ognisty nie spadnie szczęśliwie, wówczas wszystko zginie, wszystko się skończy, nastanie zupełna noc. [...] A wszyscy byli owładnięci wiarą w czary do tego stopnia, że każdy starał się mieć na baczności przed niebem, przed gwiazdami, których imiona to <strong>wielu</strong> i <strong>świder ognisty</strong>.</p>
 <p>Majowie nie bali się Bogów. Majowie obawiali się kosmicznego &quot;przybłędy&quot;, owego świdra ognistego, który może przynieść tylko śmierć wszystkim i wszystkiemu. Bogowie, wiedząc o takiej możliwości, poinformowali ich o takiej ewentualności i przekazali kalendarz, który będzie im o tym przypominał co 52 lata. Być może pouczenie brzmiało: Jeśli chcecie przeżyć, oglądajcie pilnie niebo szczególnie pod koniec cyklu, jeśli zauważycie zbliżające się niebezpieczeństwo chowajcie się pod ziemię, w grotach, ale nie pozostawajcie bierni.</p>
 <p>Widać naszym uczonym jak zwykle coś umknęło. Może popełnili błąd w tłumaczeniu lub w interpretacji tekstów. Być może jest prawdą stwierdzenie, że:</p>
-<p><strong>nasz Armagedon nazywa się 4 Ahau 8 Cumhu</strong></p>
+<p class="rozdzial" id="r-4"><strong>nasz Armagedon nazywa się 4 Ahau 8 Cumhu</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/03majowie/eros.jpg" alt="Zdjęcie wydłużonej, ciemnej, pokrytej kraterami planetoidy na czarnym tle; prawdopodobnie Eros (wg nazwy pliku)." title="Opis AI: Zdjęcie wydłużonej, ciemnej, pokrytej kraterami planetoidy na czarnym tle; prawdopodobnie Eros (wg nazwy pliku)." loading="lazy" decoding="async"> Może my, cywilizowana społeczność, także powinniśmy zacząć się obawiać i rozpocząć dokładniejsze badania pasa planetoid, a w szczególności określić położenie tej &quot;chmury&quot; odłamków, rozmiar tego &quot;oczka&quot; pierścienia i obliczyć, czy takie zdarzenie jest możliwe. Musimy jeszcze raz sprawdzić, kiedy nastapi zakończenie 52-letniego cyklu Majów i zacząć dokładniej przypatrywać się niebu.</p>
 <p>Na zdjęciu obok można zobaczyć jak wygląda jeden &quot;Bogów&quot; Majów, których tak się obawiali. To planetoida Eros, jedna z mniejszych. Ma tylko 35 km średnicy i porusza się po orbicie, której średnia odległość od Słońca wynosi około 213 mln km, a więc bliżej niż Mars! Dotychczas zidentyfikowano około 400 tys. planetoid, ale orbity tylko około 2000 są nam znane. Największe z nich mają średnicę: Ceres - 768 km, Pallas - 492 km a Juno - 204 km, ale te raczej nam nie zagrażają gdyż krążą w dalszym ciągu pomiędzy Marsem a Jowiszem. Ponadto uczeni od dawna zastanawiają się nad księżycami Marsa. Twierdzą, że Dejmos i Fobos, to przechwycone planetoidy, ale nie wiedzą jak to się stało. Czy przypadkiem Mars nie dokonał tego w dalekiej (lub nie) przeszłości przechodząc przez &quot;oczko&quot; pierścienia?</p>
 <hr>
@@ -184,12 +284,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

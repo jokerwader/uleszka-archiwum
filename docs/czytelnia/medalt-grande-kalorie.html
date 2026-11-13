@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="Białka - Tłuszcze - Węglowodany – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Strona zawiera krótkie definicje białek, tłuszczów i węglowodanów wraz z ich wartością energetyczną, tabelę dziennego zapotrzebowania na energię według grup osób oraz rozbudowaną t">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/medalt-grande-kalorie.html">
-<meta property="og:image" content="https://jokerwader.github.io/uleszka-archiwum/og.png">
+<meta property="og:url" content="https://uleszka.net/czytelnia/medalt-grande-kalorie.html">
+<meta property="og:image" content="https://uleszka.net/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">Białka - Tłuszcze - Węglowodany</a></li><li><a href="#r-2">Dzienne zapotrzebowanie na energię ustalone przez Instytut Żywności i Żywienia</a></li><li><a href="#r-3">1 kcal = 4,1858 kJ    &amp;    1 kJ = 0,2388 kcal</a></li><li><a href="#r-4">TABELA ZAWARTOŚCI SKŁADNIKÓW ODŻYWCZYCH ORAZ WARTOŚĆ ENERGETYCZNA POTRAW</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details open><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html" class="aktualny" aria-current="page">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#zapomniana-medycyna">Zapomniana medycyna</a> › <a href="medalt-grande-grande.html">O. Grande</a></p>
   <h1>Białka - Tłuszcze - Węglowodany</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Strona zawiera krótkie definicje białek, tłuszczów i węglowodanów wraz z ich wartością energetyczną, tabelę dziennego zapotrzebowania na energię według grup osób oraz rozbudowaną tabelę zawartości białek, tłuszczów, węglowodanów i kalorii w 100 g różnych produktów (pieczywo, nabiał, mięsa, warzywa, owoce, alkohol i inne). Dane pochodzą z tabel Kurowskiej. Autor zaznacza, że tabele są orientacyjne i nie zachęca do liczenia kalorii, bo żywność się zmienia, a szybkie chudnięcie jest kwestią żartu o wadze.</p>
@@ -31,7 +67,7 @@
     <p class="uwaga">Przygotowała sztuczna inteligencja; nie jest częścią oryginalnej strony. Poniżej pełny, oryginalny tekst.</p>
   </details>
   <article class="tresc">
-<p><strong>Białka - Tłuszcze - Węglowodany</strong></p>
+<p class="rozdzial" id="r-1"><strong>Białka - Tłuszcze - Węglowodany</strong></p>
 <p>B-T-W. Bractwo Trzymające Władzę... nad Twoim organizmem. W zależności od składu, ilości i jakości możesz wyglądać jak wspaniały pałac lub jak nędzna, byle jak sklecona lepianka.<br>Dane zestawione w tabelach (wg Kurowskiej) będą przydatne raczej dla tych co ustalają dietę. Ty zapewne potraktujesz to jako ciekawostkę, chyba że od tego zależy Twoje życie. Nie wyobrażam sobie abyś od jutra założył zeszyt, kupił wagę i zaczął obliczać wszystko co jesz. A propos wagi. Wiesz jak szybko można stracić wagę? Kupić za 200 zł. i sprzedać za 50.<br>Nie sposób jest umieścić w tabeli wszystkie produkty. Codziennie coś nowego, nadchodzą różne &quot;kuchnie&quot;, a z nimi składniki. W Austrii już jedzą pieczone robactwo, a to zaledwie kilkaset kilometrów od nas. Co będziemy mieli w sklepach jutro? Bardzo zdrowe są kiełki roślin, a już słychać, że pożywniejsze są larwy owadów. Tfu... Chyba, że jest to sposób na wytępienie komarów.</p>
 <p>Jeśli jesteś niecierpliwy, możesz od razu przejść do tabeli, ułożonej według grup produktów:</p>
 <p>alkohol,  cukiernicze wyroby,  jajo kurze,  koncentraty i dania mrożone,  konserwy,  mączne potrawy gotowe,  mięsa,  mleko,  owoce,  pieczywo,  produkty zbożowe,  ryby,  sery,  słodycze,  tłuszcze,  warzywa,  wędliny.</p>
@@ -41,1517 +77,2220 @@
 <p>Lipidy. Jeden z podstawowych składników organizmów żywych. Jest to niejednorodna chemicznie grupa grupa związków obejmująca: tłuszcze proste (estry kwasu tłuszczowych i glicerolu), tłuszczowce oraz inne, między innymi cholesterol i jego estry. Tłuszcze proste są rozpuszczalnikami dla niektórych witamin. Tłuszcze jadalne- mieszniny glicerydów, kwasów tłuszczowych i innych tłuszczów. Są pożywieniem wysokokalorycznym. Szczególną wartość w żywieniu mają nienasycone kwasy tłuszczowe. 1 gram tłuszczu dostarcza 9 kcal.</p>
 <p>    <strong>WĘGLOWODANY</strong></p>
 <p>Cukrowce, cukry, sacharydy. Organiczne związki chemiczne. Obok białek i tłuszczów podstawowy składnik organizmów żywych. Dzielą się na: proste (monosacharydy - glukoza, fruktoza, galaktoza) i złożone (bisacharydy i polisacharydy). popularny cukier biały, sacharoza, należy do bisacharydów. 1 gram węglowodanów dostarcza 4 kcal.</p>
-<p><strong>Dzienne zapotrzebowanie na energię ustalone przez Instytut Żywności i Żywienia</strong></p>
-<p><strong>Grupa osób</strong></p>
-<p><strong>1-3 lat</strong></p>
-<p><strong>4-6 lat</strong></p>
-<p><strong>7-9 lat</strong></p>
-<p><strong>10-12 lat</strong></p>
-<p>    Dzieci</p>
-<p>1300 kcal</p>
-<p>1700 kcal</p>
-<p>2100 kcal</p>
-<p>2600 kcal</p>
-<p><strong>13-15 lat</strong></p>
-<p><strong>16-20 lat</strong></p>
-<p>    Dziewczęta</p>
-<p>2800 kcal</p>
-<p>2700 kcal</p>
-<p>    Chłopcy</p>
-<p>3300 kcal</p>
-<p>3700 kcal</p>
-<p><strong>Mężczyźni</strong></p>
-<p><strong>Kobiety</strong></p>
-<p>    Zajęcie siedzące</p>
-<p>2600 kcal</p>
-<p>2300 kcal</p>
-<p>    Umiarkowana praca</p>
-<p>3200 kcal</p>
-<p>2800 kcal</p>
-<p>    Ciężka praca</p>
-<p>4000 kcal</p>
-<p>3200 kcal</p>
-<p>    Bardzo ciężka praca</p>
-<p>4500 kcal</p>
-<p>-</p>
-<p>    Ciężarna</p>
-<p>-</p>
-<p>2800 kcal</p>
-<p>    Karmiąca</p>
-<p>-</p>
-<p>3400 kcal</p>
-<p>    Osoba ponad 65 lat</p>
-<p>2300 kcal</p>
-<p><strong>1 kcal = 4,1858 kJ    &amp;    1 kJ = 0,2388 kcal</strong></p>
+<p class="rozdzial" id="r-2"><strong>Dzienne zapotrzebowanie na energię ustalone przez Instytut Żywności i Żywienia</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Grupa osób</strong></th>
+<th><strong>1-3 lat</strong></th>
+<th><strong>4-6 lat</strong></th>
+<th><strong>7-9 lat</strong></th>
+<th><strong>10-12 lat</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Dzieci</td>
+<td>1300 kcal</td>
+<td>1700 kcal</td>
+<td>2100 kcal</td>
+<td>2600 kcal</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th></th>
+<th><strong>13-15 lat</strong></th>
+<th><strong>16-20 lat</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Dziewczęta</td>
+<td>2800 kcal</td>
+<td>2700 kcal</td>
+</tr>
+<tr>
+<td>Chłopcy</td>
+<td>3300 kcal</td>
+<td>3700 kcal</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th></th>
+<th><strong>Mężczyźni</strong></th>
+<th><strong>Kobiety</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Zajęcie siedzące</td>
+<td>2600 kcal</td>
+<td>2300 kcal</td>
+</tr>
+<tr>
+<td>Umiarkowana praca</td>
+<td>3200 kcal</td>
+<td>2800 kcal</td>
+</tr>
+<tr>
+<td>Ciężka praca</td>
+<td>4000 kcal</td>
+<td>3200 kcal</td>
+</tr>
+<tr>
+<td>Bardzo ciężka praca</td>
+<td>4500 kcal</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Ciężarna</td>
+<td>-</td>
+<td>2800 kcal</td>
+</tr>
+<tr>
+<td>Karmiąca</td>
+<td>-</td>
+<td>3400 kcal</td>
+</tr>
+<tr>
+<td>Osoba ponad 65 lat</td>
+<td>2300 kcal</td>
+<td></td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-3"><strong>1 kcal = 4,1858 kJ    &amp;    1 kJ = 0,2388 kcal</strong></p>
 <hr>
-<p><strong>TABELA ZAWARTOŚCI SKŁADNIKÓW ODŻYWCZYCH ORAZ WARTOŚĆ ENERGETYCZNA POTRAW</strong></p>
+<p class="rozdzial" id="r-4"><strong>TABELA ZAWARTOŚCI SKŁADNIKÓW ODŻYWCZYCH ORAZ WARTOŚĆ ENERGETYCZNA POTRAW</strong></p>
 <hr>
 <p>    <strong>PIECZYWO PSZENNE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Bułka Grahama</p>
-<p>243    </p>
-<p>3,1    </p>
-<p>1,3    </p>
-<p>51,6    </p>
-<p>    Bułka zwykła</p>
-<p>258    </p>
-<p>6,8    </p>
-<p>3,0    </p>
-<p>51,0    </p>
-<p>    Bułka maślana</p>
-<p>278    </p>
-<p>6,4    </p>
-<p>4,8    </p>
-<p>52,2    </p>
-<p>    Bułka śniadaniowa</p>
-<p>320    </p>
-<p>7,6    </p>
-<p>6,2    </p>
-<p>58,6    </p>
-<p>    Chałka maślana</p>
-<p>280    </p>
-<p>6,0    </p>
-<p>5,2    </p>
-<p>52,6    </p>
-<p>    Obwarzanek</p>
-<p>246    </p>
-<p>6,6    </p>
-<p>2,8    </p>
-<p>50,8    </p>
-<p>    Rogal kruchy</p>
-<p>286    </p>
-<p>6,4    </p>
-<p>6,4    </p>
-<p>50,8    </p>
-<p>    Suchar niesłodki</p>
-<p>347    </p>
-<p>9,3    </p>
-<p>2,0    </p>
-<p>73,3    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Bułka Grahama</td>
+<td>243</td>
+<td>3,1</td>
+<td>1,3</td>
+<td>51,6</td>
+</tr>
+<tr>
+<td>Bułka zwykła</td>
+<td>258</td>
+<td>6,8</td>
+<td>3,0</td>
+<td>51,0</td>
+</tr>
+<tr>
+<td>Bułka maślana</td>
+<td>278</td>
+<td>6,4</td>
+<td>4,8</td>
+<td>52,2</td>
+</tr>
+<tr>
+<td>Bułka śniadaniowa</td>
+<td>320</td>
+<td>7,6</td>
+<td>6,2</td>
+<td>58,6</td>
+</tr>
+<tr>
+<td>Chałka maślana</td>
+<td>280</td>
+<td>6,0</td>
+<td>5,2</td>
+<td>52,6</td>
+</tr>
+<tr>
+<td>Obwarzanek</td>
+<td>246</td>
+<td>6,6</td>
+<td>2,8</td>
+<td>50,8</td>
+</tr>
+<tr>
+<td>Rogal kruchy</td>
+<td>286</td>
+<td>6,4</td>
+<td>6,4</td>
+<td>50,8</td>
+</tr>
+<tr>
+<td>Suchar niesłodki</td>
+<td>347</td>
+<td>9,3</td>
+<td>2,0</td>
+<td>73,3</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>PIECZYWO ŻYTNIE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Chleb chrupki</p>
-<p>390    </p>
-<p>11,0    </p>
-<p>1,9    </p>
-<p>83,0    </p>
-<p>    Chleb razowy</p>
-<p>232    </p>
-<p>4,6    </p>
-<p>1,6    </p>
-<p>49,0    </p>
-<p>    Chleb wytrawny</p>
-<p>232    </p>
-<p>6,2    </p>
-<p>1,6    </p>
-<p>48,4    </p>
-<p>    Pumpernikel</p>
-<p>290    </p>
-<p>5,7    </p>
-<p>2,1    </p>
-<p>61,9    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Chleb chrupki</td>
+<td>390</td>
+<td>11,0</td>
+<td>1,9</td>
+<td>83,0</td>
+</tr>
+<tr>
+<td>Chleb razowy</td>
+<td>232</td>
+<td>4,6</td>
+<td>1,6</td>
+<td>49,0</td>
+</tr>
+<tr>
+<td>Chleb wytrawny</td>
+<td>232</td>
+<td>6,2</td>
+<td>1,6</td>
+<td>48,4</td>
+</tr>
+<tr>
+<td>Pumpernikel</td>
+<td>290</td>
+<td>5,7</td>
+<td>2,1</td>
+<td>61,9</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>PIECZYWO ŻYTNIO-PSZENNE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Chleb mieszany miodowy</p>
-<p>218    </p>
-<p>4,0    </p>
-<p>1,2    </p>
-<p>48,0    </p>
-<p>    Chleb mieszany z otrębami</p>
-<p>228    </p>
-<p>6,6    </p>
-<p>1,2    </p>
-<p>48,0    </p>
-<p>    Chleb skrobiowy</p>
-<p>406    </p>
-<p>-    </p>
-<p>2,0    </p>
-<p>97,0    </p>
-<p>    Chleb słodowy</p>
-<p>206    </p>
-<p>4,0    </p>
-<p>1,0    </p>
-<p>45,4    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Chleb mieszany miodowy</td>
+<td>218</td>
+<td>4,0</td>
+<td>1,2</td>
+<td>48,0</td>
+</tr>
+<tr>
+<td>Chleb mieszany z otrębami</td>
+<td>228</td>
+<td>6,6</td>
+<td>1,2</td>
+<td>48,0</td>
+</tr>
+<tr>
+<td>Chleb skrobiowy</td>
+<td>406</td>
+<td>-</td>
+<td>2,0</td>
+<td>97,0</td>
+</tr>
+<tr>
+<td>Chleb słodowy</td>
+<td>206</td>
+<td>4,0</td>
+<td>1,0</td>
+<td>45,4</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>PRODUKTY ZBOŻOWE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Kasza gryczana</p>
-<p>353    </p>
-<p>12,6    </p>
-<p>2,5    </p>
-<p>70,1    </p>
-<p>    Kasza jaglana</p>
-<p>354    </p>
-<p>10,6    </p>
-<p>2,9    </p>
-<p>71,4    </p>
-<p>    Kasza krakowska</p>
-<p>350    </p>
-<p>6,6    </p>
-<p>2,0    </p>
-<p>76,5    </p>
-<p>    Kasza kukurydziana</p>
-<p>350    </p>
-<p>8,6    </p>
-<p>0,8    </p>
-<p>77,2    </p>
-<p>    Kasza manna</p>
-<p>352    </p>
-<p>8,9    </p>
-<p>1,3    </p>
-<p>76,2    </p>
-<p>    Kasza perłowa</p>
-<p>343    </p>
-<p>8,3    </p>
-<p>1,5    </p>
-<p>74,1    </p>
-<p>    Kasza pęczak</p>
-<p>342    </p>
-<p>8,8    </p>
-<p>1,5    </p>
-<p>73,4    </p>
-<p>    Makaron fabryczny 2-jajeczny</p>
-<p>373    </p>
-<p>13,5    </p>
-<p>3,3    </p>
-<p>72,2    </p>
-<p>    Makaron fabryczny 4-jajeczny</p>
-<p>376    </p>
-<p>14,2    </p>
-<p>4,0    </p>
-<p>70,8    </p>
-<p>    Makaron fabryczny bez jaj</p>
-<p>368    </p>
-<p>12,1    </p>
-<p>2,3    </p>
-<p>74,6    </p>
-<p>    Mąka pszenna</p>
-<p>346    </p>
-<p>8,3    </p>
-<p>1,2    </p>
-<p>75,2    </p>
-<p>    Mąka ziemniaczana</p>
-<p>339    </p>
-<p>0,6    </p>
-<p>0,1    </p>
-<p>83,0    </p>
-<p>    Mąka żytnia razowa</p>
-<p>347    </p>
-<p>7,7    </p>
-<p>2,2    </p>
-<p>74,1    </p>
-<p>    Płatki owsiane</p>
-<p>391    </p>
-<p>13,0    </p>
-<p>7,5    </p>
-<p>67,8    </p>
-<p>    Płatki ziemniaczane</p>
-<p>362    </p>
-<p>6,7    </p>
-<p>7,5    </p>
-<p>78,2    </p>
-<p>    Ryż</p>
-<p>349    </p>
-<p>6,7    </p>
-<p>0,7    </p>
-<p>78,9    </p>
-<p>    Ryż błyskawiczny (płatki)</p>
-<p>349    </p>
-<p>6,7    </p>
-<p>0,7    </p>
-<p>78,9    </p>
-<p>    Ryż preparowany</p>
-<p>360    </p>
-<p>8,0    </p>
-<p>0,4    </p>
-<p>81,0    </p>
-<p>    Ryż preparowany z glazurą</p>
-<p>477    </p>
-<p>0,9    </p>
-<p>0,5    </p>
-<p>84,2    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Kasza gryczana</td>
+<td>353</td>
+<td>12,6</td>
+<td>2,5</td>
+<td>70,1</td>
+</tr>
+<tr>
+<td>Kasza jaglana</td>
+<td>354</td>
+<td>10,6</td>
+<td>2,9</td>
+<td>71,4</td>
+</tr>
+<tr>
+<td>Kasza krakowska</td>
+<td>350</td>
+<td>6,6</td>
+<td>2,0</td>
+<td>76,5</td>
+</tr>
+<tr>
+<td>Kasza kukurydziana</td>
+<td>350</td>
+<td>8,6</td>
+<td>0,8</td>
+<td>77,2</td>
+</tr>
+<tr>
+<td>Kasza manna</td>
+<td>352</td>
+<td>8,9</td>
+<td>1,3</td>
+<td>76,2</td>
+</tr>
+<tr>
+<td>Kasza perłowa</td>
+<td>343</td>
+<td>8,3</td>
+<td>1,5</td>
+<td>74,1</td>
+</tr>
+<tr>
+<td>Kasza pęczak</td>
+<td>342</td>
+<td>8,8</td>
+<td>1,5</td>
+<td>73,4</td>
+</tr>
+<tr>
+<td>Makaron fabryczny 2-jajeczny</td>
+<td>373</td>
+<td>13,5</td>
+<td>3,3</td>
+<td>72,2</td>
+</tr>
+<tr>
+<td>Makaron fabryczny 4-jajeczny</td>
+<td>376</td>
+<td>14,2</td>
+<td>4,0</td>
+<td>70,8</td>
+</tr>
+<tr>
+<td>Makaron fabryczny bez jaj</td>
+<td>368</td>
+<td>12,1</td>
+<td>2,3</td>
+<td>74,6</td>
+</tr>
+<tr>
+<td>Mąka pszenna</td>
+<td>346</td>
+<td>8,3</td>
+<td>1,2</td>
+<td>75,2</td>
+</tr>
+<tr>
+<td>Mąka ziemniaczana</td>
+<td>339</td>
+<td>0,6</td>
+<td>0,1</td>
+<td>83,0</td>
+</tr>
+<tr>
+<td>Mąka żytnia razowa</td>
+<td>347</td>
+<td>7,7</td>
+<td>2,2</td>
+<td>74,1</td>
+</tr>
+<tr>
+<td>Płatki owsiane</td>
+<td>391</td>
+<td>13,0</td>
+<td>7,5</td>
+<td>67,8</td>
+</tr>
+<tr>
+<td>Płatki ziemniaczane</td>
+<td>362</td>
+<td>6,7</td>
+<td>7,5</td>
+<td>78,2</td>
+</tr>
+<tr>
+<td>Ryż</td>
+<td>349</td>
+<td>6,7</td>
+<td>0,7</td>
+<td>78,9</td>
+</tr>
+<tr>
+<td>Ryż błyskawiczny (płatki)</td>
+<td>349</td>
+<td>6,7</td>
+<td>0,7</td>
+<td>78,9</td>
+</tr>
+<tr>
+<td>Ryż preparowany</td>
+<td>360</td>
+<td>8,0</td>
+<td>0,4</td>
+<td>81,0</td>
+</tr>
+<tr>
+<td>Ryż preparowany z glazurą</td>
+<td>477</td>
+<td>0,9</td>
+<td>0,5</td>
+<td>84,2</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>WYROBY CUKIERNICZE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Andruty popularne</p>
-<p>503    </p>
-<p>6,9    </p>
-<p>22,8    </p>
-<p>68,5    </p>
-<p>    Babka drożdżowa</p>
-<p>329    </p>
-<p>6,3    </p>
-<p>12,3    </p>
-<p>47,3    </p>
-<p>    Babka piaskowa polewana czekoladą</p>
-<p>455    </p>
-<p>3,7    </p>
-<p>28,8    </p>
-<p>45,0    </p>
-<p>    Babka piaskowa z kakao</p>
-<p>423    </p>
-<p>4,0    </p>
-<p>23,7    </p>
-<p>48,5    </p>
-<p>    Ciastka amatorskie</p>
-<p>499    </p>
-<p>4,2    </p>
-<p>20,7    </p>
-<p>69,2    </p>
-<p>    Ciastka kokosanki</p>
-<p>495    </p>
-<p>6,9    </p>
-<p>23,8    </p>
-<p>63,4    </p>
-<p>    Ciastka Petit Beurre, inne kruche</p>
-<p>441    </p>
-<p>7,2    </p>
-<p>10,2    </p>
-<p>80,1    </p>
-<p>    Ciastka drożdżowe z jagodami</p>
-<p>239    </p>
-<p>5,5    </p>
-<p>4,3</p>
-<p>44,6    </p>
-<p>    Faworki</p>
-<p>590    </p>
-<p>4,1    </p>
-<p>55,0    </p>
-<p>19,6    </p>
-<p>    Herbatniki deserowe z cukrem</p>
-<p>486    </p>
-<p>6,3    </p>
-<p>20,2    </p>
-<p>69,8    </p>
-<p>    Keks z owocami i rodzynkami</p>
-<p>350    </p>
-<p>4,3    </p>
-<p>13,0    </p>
-<p>53,9    </p>
-<p>    Lody śmietankowo-kakaowe</p>
-<p>174    </p>
-<p>4,0    </p>
-<p>9,0    </p>
-<p>19,3    </p>
-<p>    Lody śmietankowo-owocowe</p>
-<p>193    </p>
-<p>3,0    </p>
-<p>8,2    </p>
-<p>26,7    </p>
-<p>    Markizy o smaku cytrynowym</p>
-<p>483    </p>
-<p>6,3    </p>
-<p>18,0    </p>
-<p>74,0    </p>
-<p>    Mazurek polski</p>
-<p>350    </p>
-<p>4,0    </p>
-<p>12,2    </p>
-<p>56,0    </p>
-<p>    Paluszki słone</p>
-<p>307    </p>
-<p>3,2    </p>
-<p>3,6    </p>
-<p>61,52    </p>
-<p>    Placek drożdżowy z kruszonką</p>
-<p>339    </p>
-<p>6,7    </p>
-<p>12,2    </p>
-<p>50,7    </p>
-<p>    Rurki waflowe</p>
-<p>401    </p>
-<p>7,2    </p>
-<p>2,2    </p>
-<p>88,1    </p>
-<p>    Sernik krakowski</p>
-<p>271    </p>
-<p>9,9    </p>
-<p>12,2    </p>
-<p>32,4    </p>
-<p>    Strucla z makiem</p>
-<p>336    </p>
-<p>6,0    </p>
-<p>11,7    </p>
-<p>51,7    </p>
-<p>    Tort czekoladowy</p>
-<p>334    </p>
-<p>3,5    </p>
-<p>18,7    </p>
-<p>38,0    </p>
-<p>    Tort orzechowy</p>
-<p>319    </p>
-<p>4,2    </p>
-<p>16,6    </p>
-<p>38,2    </p>
-<p>    Wafle o smaku owocowym</p>
-<p>503    </p>
-<p>4,2    </p>
-<p>25,6    </p>
-<p>64,1    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Andruty popularne</td>
+<td>503</td>
+<td>6,9</td>
+<td>22,8</td>
+<td>68,5</td>
+</tr>
+<tr>
+<td>Babka drożdżowa</td>
+<td>329</td>
+<td>6,3</td>
+<td>12,3</td>
+<td>47,3</td>
+</tr>
+<tr>
+<td>Babka piaskowa polewana czekoladą</td>
+<td>455</td>
+<td>3,7</td>
+<td>28,8</td>
+<td>45,0</td>
+</tr>
+<tr>
+<td>Babka piaskowa z kakao</td>
+<td>423</td>
+<td>4,0</td>
+<td>23,7</td>
+<td>48,5</td>
+</tr>
+<tr>
+<td>Ciastka amatorskie</td>
+<td>499</td>
+<td>4,2</td>
+<td>20,7</td>
+<td>69,2</td>
+</tr>
+<tr>
+<td>Ciastka kokosanki</td>
+<td>495</td>
+<td>6,9</td>
+<td>23,8</td>
+<td>63,4</td>
+</tr>
+<tr>
+<td>Ciastka Petit Beurre, inne kruche</td>
+<td>441</td>
+<td>7,2</td>
+<td>10,2</td>
+<td>80,1</td>
+</tr>
+<tr>
+<td>Ciastka drożdżowe z jagodami</td>
+<td>239</td>
+<td>5,5</td>
+<td>4,3</td>
+<td>44,6</td>
+</tr>
+<tr>
+<td>Faworki</td>
+<td>590</td>
+<td>4,1</td>
+<td>55,0</td>
+<td>19,6</td>
+</tr>
+<tr>
+<td>Herbatniki deserowe z cukrem</td>
+<td>486</td>
+<td>6,3</td>
+<td>20,2</td>
+<td>69,8</td>
+</tr>
+<tr>
+<td>Keks z owocami i rodzynkami</td>
+<td>350</td>
+<td>4,3</td>
+<td>13,0</td>
+<td>53,9</td>
+</tr>
+<tr>
+<td>Lody śmietankowo-kakaowe</td>
+<td>174</td>
+<td>4,0</td>
+<td>9,0</td>
+<td>19,3</td>
+</tr>
+<tr>
+<td>Lody śmietankowo-owocowe</td>
+<td>193</td>
+<td>3,0</td>
+<td>8,2</td>
+<td>26,7</td>
+</tr>
+<tr>
+<td>Markizy o smaku cytrynowym</td>
+<td>483</td>
+<td>6,3</td>
+<td>18,0</td>
+<td>74,0</td>
+</tr>
+<tr>
+<td>Mazurek polski</td>
+<td>350</td>
+<td>4,0</td>
+<td>12,2</td>
+<td>56,0</td>
+</tr>
+<tr>
+<td>Paluszki słone</td>
+<td>307</td>
+<td>3,2</td>
+<td>3,6</td>
+<td>61,52</td>
+</tr>
+<tr>
+<td>Placek drożdżowy z kruszonką</td>
+<td>339</td>
+<td>6,7</td>
+<td>12,2</td>
+<td>50,7</td>
+</tr>
+<tr>
+<td>Rurki waflowe</td>
+<td>401</td>
+<td>7,2</td>
+<td>2,2</td>
+<td>88,1</td>
+</tr>
+<tr>
+<td>Sernik krakowski</td>
+<td>271</td>
+<td>9,9</td>
+<td>12,2</td>
+<td>32,4</td>
+</tr>
+<tr>
+<td>Strucla z makiem</td>
+<td>336</td>
+<td>6,0</td>
+<td>11,7</td>
+<td>51,7</td>
+</tr>
+<tr>
+<td>Tort czekoladowy</td>
+<td>334</td>
+<td>3,5</td>
+<td>18,7</td>
+<td>38,0</td>
+</tr>
+<tr>
+<td>Tort orzechowy</td>
+<td>319</td>
+<td>4,2</td>
+<td>16,6</td>
+<td>38,2</td>
+</tr>
+<tr>
+<td>Wafle o smaku owocowym</td>
+<td>503</td>
+<td>4,2</td>
+<td>25,6</td>
+<td>64,1</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>SŁODYCZE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Batony orzechowe</p>
-<p>512    </p>
-<p>3,3    </p>
-<p>23,0    </p>
-<p>61,6    </p>
-<p>    Batony owocowe</p>
-<p>372    </p>
-<p>0,1    </p>
-<p>0,1    </p>
-<p>92,7    </p>
-<p>    Chałwa</p>
-<p>529    </p>
-<p>13,0    </p>
-<p>33,0    </p>
-<p>45,0    </p>
-<p>    Cukier</p>
-<p>400    </p>
-<p>-    </p>
-<p>-    </p>
-<p>100,0    </p>
-<p>    Czekolada gorzka</p>
-<p>584    </p>
-<p>3,0    </p>
-<p>39,0    </p>
-<p>51,2    </p>
-<p>    Czekolada mleczna</p>
-<p>574    </p>
-<p>3,1    </p>
-<p>36,3    </p>
-<p>53,7    </p>
-<p>    Dżem zwykły</p>
-<p>264    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>65,0    </p>
-<p>    Kakao 16%</p>
-<p>432    </p>
-<p>19,0    </p>
-<p>16,0    </p>
-<p>53,0    </p>
-<p>    Krówki wyborowe</p>
-<p>387    </p>
-<p>4,8    </p>
-<p>6,5    </p>
-<p>77,4    </p>
-<p>    Miód pszczeli</p>
-<p>319    </p>
-<p>0,3    </p>
-<p>-    </p>
-<p>79,5    </p>
-<p>    Ptasie mleczko</p>
-<p>473    </p>
-<p>2,3    </p>
-<p>26,6    </p>
-<p>56,2    </p>
-<p>    Wiśnie w czekoladzie</p>
-<p>416    </p>
-<p>1,9    </p>
-<p>18,0    </p>
-<p>63,0    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Batony orzechowe</td>
+<td>512</td>
+<td>3,3</td>
+<td>23,0</td>
+<td>61,6</td>
+</tr>
+<tr>
+<td>Batony owocowe</td>
+<td>372</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>92,7</td>
+</tr>
+<tr>
+<td>Chałwa</td>
+<td>529</td>
+<td>13,0</td>
+<td>33,0</td>
+<td>45,0</td>
+</tr>
+<tr>
+<td>Cukier</td>
+<td>400</td>
+<td>-</td>
+<td>-</td>
+<td>100,0</td>
+</tr>
+<tr>
+<td>Czekolada gorzka</td>
+<td>584</td>
+<td>3,0</td>
+<td>39,0</td>
+<td>51,2</td>
+</tr>
+<tr>
+<td>Czekolada mleczna</td>
+<td>574</td>
+<td>3,1</td>
+<td>36,3</td>
+<td>53,7</td>
+</tr>
+<tr>
+<td>Dżem zwykły</td>
+<td>264</td>
+<td>1,0</td>
+<td>-</td>
+<td>65,0</td>
+</tr>
+<tr>
+<td>Kakao 16%</td>
+<td>432</td>
+<td>19,0</td>
+<td>16,0</td>
+<td>53,0</td>
+</tr>
+<tr>
+<td>Krówki wyborowe</td>
+<td>387</td>
+<td>4,8</td>
+<td>6,5</td>
+<td>77,4</td>
+</tr>
+<tr>
+<td>Miód pszczeli</td>
+<td>319</td>
+<td>0,3</td>
+<td>-</td>
+<td>79,5</td>
+</tr>
+<tr>
+<td>Ptasie mleczko</td>
+<td>473</td>
+<td>2,3</td>
+<td>26,6</td>
+<td>56,2</td>
+</tr>
+<tr>
+<td>Wiśnie w czekoladzie</td>
+<td>416</td>
+<td>1,9</td>
+<td>18,0</td>
+<td>63,0</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>GOTOWE POTRAWY MĄCZNE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Frytki (przed smażeniem)</p>
-<p>350    </p>
-<p>7,0    </p>
-<p>2,0    </p>
-<p>76,0    </p>
-<p>    Kluski ruskie</p>
-<p>351    </p>
-<p>7,0    </p>
-<p>3,0    </p>
-<p>74,0    </p>
-<p>    Kluski śląskie</p>
-<p>342    </p>
-<p>6,0    </p>
-<p>2,0    </p>
-<p>75,0    </p>
-<p>    Knedle śliwkowe</p>
-<p>149    </p>
-<p>4,0    </p>
-<p>1,4    </p>
-<p>30,0    </p>
-<p>    Kopytka</p>
-<p>158    </p>
-<p>3,3    </p>
-<p>0,7    </p>
-<p>39,6    </p>
-<p>    Pierogi leniwe</p>
-<p>143    </p>
-<p>11,6    </p>
-<p>1,6    </p>
-<p>20,6    </p>
-<p>    Pierogi ruskie</p>
-<p>184    </p>
-<p>6,0    </p>
-<p>2,1    </p>
-<p>35,1    </p>
-<p>    Pierogi z kapustą i grzybami</p>
-<p>201    </p>
-<p>5,4    </p>
-<p>4,6    </p>
-<p>34,6    </p>
-<p>    Pierogi z serem</p>
-<p>192    </p>
-<p>11,3    </p>
-<p>1,8    </p>
-<p>32,3    </p>
-<p>    Placki ziemniaczane (przed smażeniem)</p>
-<p>338    </p>
-<p>6,0    </p>
-<p>2,0    </p>
-<p>75,0    </p>
-<p>    Pyzy ziemniaczane</p>
-<p>140    </p>
-<p>2,3    </p>
-<p>0,7    </p>
-<p>31,2    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Frytki (przed smażeniem)</td>
+<td>350</td>
+<td>7,0</td>
+<td>2,0</td>
+<td>76,0</td>
+</tr>
+<tr>
+<td>Kluski ruskie</td>
+<td>351</td>
+<td>7,0</td>
+<td>3,0</td>
+<td>74,0</td>
+</tr>
+<tr>
+<td>Kluski śląskie</td>
+<td>342</td>
+<td>6,0</td>
+<td>2,0</td>
+<td>75,0</td>
+</tr>
+<tr>
+<td>Knedle śliwkowe</td>
+<td>149</td>
+<td>4,0</td>
+<td>1,4</td>
+<td>30,0</td>
+</tr>
+<tr>
+<td>Kopytka</td>
+<td>158</td>
+<td>3,3</td>
+<td>0,7</td>
+<td>39,6</td>
+</tr>
+<tr>
+<td>Pierogi leniwe</td>
+<td>143</td>
+<td>11,6</td>
+<td>1,6</td>
+<td>20,6</td>
+</tr>
+<tr>
+<td>Pierogi ruskie</td>
+<td>184</td>
+<td>6,0</td>
+<td>2,1</td>
+<td>35,1</td>
+</tr>
+<tr>
+<td>Pierogi z kapustą i grzybami</td>
+<td>201</td>
+<td>5,4</td>
+<td>4,6</td>
+<td>34,6</td>
+</tr>
+<tr>
+<td>Pierogi z serem</td>
+<td>192</td>
+<td>11,3</td>
+<td>1,8</td>
+<td>32,3</td>
+</tr>
+<tr>
+<td>Placki ziemniaczane (przed smażeniem)</td>
+<td>338</td>
+<td>6,0</td>
+<td>2,0</td>
+<td>75,0</td>
+</tr>
+<tr>
+<td>Pyzy ziemniaczane</td>
+<td>140</td>
+<td>2,3</td>
+<td>0,7</td>
+<td>31,2</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>MLEKO I PRZETWORY</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Jogurt</p>
-<p>59    </p>
-<p>3,9    </p>
-<p>2,5    </p>
-<p>5,1    </p>
-<p>    Kefir półtłusty</p>
-<p>44    </p>
-<p>3,1    </p>
-<p>1,5    </p>
-<p>4,5    </p>
-<p>    Maślanka</p>
-<p>34    </p>
-<p>3,3    </p>
-<p>0,5    </p>
-<p>4,0    </p>
-<p>    Mleko chude 2%</p>
-<p>48    </p>
-<p>3,1    </p>
-<p>2,0    </p>
-<p>4,5    </p>
-<p>    Mleko tłuste 3,2%</p>
-<p>58    </p>
-<p>3,0    </p>
-<p>3,2    </p>
-<p>4,4    </p>
-<p>    Mleko w proszku pełne</p>
-<p>494    </p>
-<p>26,0    </p>
-<p>26,0    </p>
-<p>39,0    </p>
-<p>    Mleko zagęszczone niesłodzone</p>
-<p>140    </p>
-<p>7,0    </p>
-<p>8,0    </p>
-<p>10,0    </p>
-<p>    Mleko zagęszczone słodzone</p>
-<p>324    </p>
-<p>8,0    </p>
-<p>8,0    </p>
-<p>55,0    </p>
-<p>    Mleko zsiadłe chude 2%</p>
-<p>46    </p>
-<p>3,1    </p>
-<p>2,0    </p>
-<p>3,9    </p>
-<p>    Śmietana 18%</p>
-<p>190    </p>
-<p>3,0    </p>
-<p>18,0    </p>
-<p>4,0    </p>
-<p>    Śmietana 30%</p>
-<p>294    </p>
-<p>2,0    </p>
-<p>30,0    </p>
-<p>4,0    </p>
-<p>    Śmietanka do kawy 9%</p>
-<p>113    </p>
-<p>3,0    </p>
-<p>9,0    </p>
-<p>5,0    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Jogurt</td>
+<td>59</td>
+<td>3,9</td>
+<td>2,5</td>
+<td>5,1</td>
+</tr>
+<tr>
+<td>Kefir półtłusty</td>
+<td>44</td>
+<td>3,1</td>
+<td>1,5</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>Maślanka</td>
+<td>34</td>
+<td>3,3</td>
+<td>0,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>Mleko chude 2%</td>
+<td>48</td>
+<td>3,1</td>
+<td>2,0</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>Mleko tłuste 3,2%</td>
+<td>58</td>
+<td>3,0</td>
+<td>3,2</td>
+<td>4,4</td>
+</tr>
+<tr>
+<td>Mleko w proszku pełne</td>
+<td>494</td>
+<td>26,0</td>
+<td>26,0</td>
+<td>39,0</td>
+</tr>
+<tr>
+<td>Mleko zagęszczone niesłodzone</td>
+<td>140</td>
+<td>7,0</td>
+<td>8,0</td>
+<td>10,0</td>
+</tr>
+<tr>
+<td>Mleko zagęszczone słodzone</td>
+<td>324</td>
+<td>8,0</td>
+<td>8,0</td>
+<td>55,0</td>
+</tr>
+<tr>
+<td>Mleko zsiadłe chude 2%</td>
+<td>46</td>
+<td>3,1</td>
+<td>2,0</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td>Śmietana 18%</td>
+<td>190</td>
+<td>3,0</td>
+<td>18,0</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>Śmietana 30%</td>
+<td>294</td>
+<td>2,0</td>
+<td>30,0</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>Śmietanka do kawy 9%</td>
+<td>113</td>
+<td>3,0</td>
+<td>9,0</td>
+<td>5,0</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>SERY BIAŁE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Ser homogenizowany chudy</p>
-<p>150    </p>
-<p>31,5    </p>
-<p>-    </p>
-<p>-    </p>
-<p>    Ser homogenizowany tłusty</p>
-<p>275    </p>
-<p>32,5    </p>
-<p>15,0    </p>
-<p>2,5    </p>
-<p>    Ser twarogowy chudy</p>
-<p>104    </p>
-<p>21,2    </p>
-<p>1,2    </p>
-<p>2,2    </p>
-<p>    Ser twarogowy pełnotłusty</p>
-<p>183    </p>
-<p>14,5    </p>
-<p>12,6    </p>
-<p>3,0    </p>
-<p>    Ser twarogowy tłusty</p>
-<p>168    </p>
-<p>17,9    </p>
-<p>9,0    </p>
-<p>3,4    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Ser homogenizowany chudy</td>
+<td>150</td>
+<td>31,5</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Ser homogenizowany tłusty</td>
+<td>275</td>
+<td>32,5</td>
+<td>15,0</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>Ser twarogowy chudy</td>
+<td>104</td>
+<td>21,2</td>
+<td>1,2</td>
+<td>2,2</td>
+</tr>
+<tr>
+<td>Ser twarogowy pełnotłusty</td>
+<td>183</td>
+<td>14,5</td>
+<td>12,6</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>Ser twarogowy tłusty</td>
+<td>168</td>
+<td>17,9</td>
+<td>9,0</td>
+<td>3,4</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>SERY ŻÓŁTE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Ser cheddar pełnotłusty</p>
-<p>382    </p>
-<p>27,1    </p>
-<p>29,3    </p>
-<p>2,5    </p>
-<p>    Ser edamski pełnotłusty</p>
-<p>358    </p>
-<p>27,9    </p>
-<p>26,2    </p>
-<p>2,7    </p>
-<p>    Ser edamski tłusty</p>
-<p>307    </p>
-<p>28,1    </p>
-<p>19,5    </p>
-<p>4,8    </p>
-<p>    Ser gouda pełnotłusty</p>
-<p>359    </p>
-<p>28,8    </p>
-<p>26,1    </p>
-<p>1,0    </p>
-<p>    Ser salami tłusty</p>
-<p>329    </p>
-<p>29,5    </p>
-<p>22,1    </p>
-<p>3,1    </p>
-<p>    Ser tylżycki pełnotłusty</p>
-<p>346    </p>
-<p>26,1    </p>
-<p>36,0    </p>
-<p>2,0    </p>
-<p>    Ser tylżycki tłusty</p>
-<p>327    </p>
-<p>27,8    </p>
-<p>23,0    </p>
-<p>2,1    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Ser cheddar pełnotłusty</td>
+<td>382</td>
+<td>27,1</td>
+<td>29,3</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>Ser edamski pełnotłusty</td>
+<td>358</td>
+<td>27,9</td>
+<td>26,2</td>
+<td>2,7</td>
+</tr>
+<tr>
+<td>Ser edamski tłusty</td>
+<td>307</td>
+<td>28,1</td>
+<td>19,5</td>
+<td>4,8</td>
+</tr>
+<tr>
+<td>Ser gouda pełnotłusty</td>
+<td>359</td>
+<td>28,8</td>
+<td>26,1</td>
+<td>1,0</td>
+</tr>
+<tr>
+<td>Ser salami tłusty</td>
+<td>329</td>
+<td>29,5</td>
+<td>22,1</td>
+<td>3,1</td>
+</tr>
+<tr>
+<td>Ser tylżycki pełnotłusty</td>
+<td>346</td>
+<td>26,1</td>
+<td>36,0</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td>Ser tylżycki tłusty</td>
+<td>327</td>
+<td>27,8</td>
+<td>23,0</td>
+<td>2,1</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>SERY TOPIONE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Ser edamski</p>
-<p>231    </p>
-<p>18,0    </p>
-<p>17,1    </p>
-<p>1,2    </p>
-<p>    Ser ementaler</p>
-<p>286    </p>
-<p>15,5    </p>
-<p>24,3    </p>
-<p>1,3    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Ser edamski</td>
+<td>231</td>
+<td>18,0</td>
+<td>17,1</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>Ser ementaler</td>
+<td>286</td>
+<td>15,5</td>
+<td>24,3</td>
+<td>1,3</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>JAJO KURZE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Jajo całe (bez skorupki)</p>
-<p>158    </p>
-<p>12,8    </p>
-<p>11,6    </p>
-<p>0,8    </p>
-<p>    Białko jaja</p>
-<p>39    </p>
-<p>9,6    </p>
-<p>-    </p>
-<p>0,9    </p>
-<p>    Jajo całe w proszku</p>
-<p>578    </p>
-<p>47,0    </p>
-<p>42,0    </p>
-<p>3,0    </p>
-<p>    Żółtko jaja</p>
-<p>330    </p>
-<p>15,6    </p>
-<p>29,0    </p>
-<p>1,0    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Jajo całe (bez skorupki)</td>
+<td>158</td>
+<td>12,8</td>
+<td>11,6</td>
+<td>0,8</td>
+</tr>
+<tr>
+<td>Białko jaja</td>
+<td>39</td>
+<td>9,6</td>
+<td>-</td>
+<td>0,9</td>
+</tr>
+<tr>
+<td>Jajo całe w proszku</td>
+<td>578</td>
+<td>47,0</td>
+<td>42,0</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>Żółtko jaja</td>
+<td>330</td>
+<td>15,6</td>
+<td>29,0</td>
+<td>1,0</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>TŁUSZCZE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Boczek wędzony średnio tłusty</p>
-<p>475    </p>
-<p>13,0    </p>
-<p>47,0    </p>
-<p>-    </p>
-<p>    Majonez</p>
-<p>637    </p>
-<p>1,0    </p>
-<p>69,0    </p>
-<p>3,0    </p>
-<p>    Masło</p>
-<p>755    </p>
-<p>1,0    </p>
-<p>83,0    </p>
-<p>1,0    </p>
-<p>    Masło roślinne</p>
-<p>747    </p>
-<p>-    </p>
-<p>83,0    </p>
-<p>-    </p>
-<p>    Margaryna</p>
-<p>747    </p>
-<p>-    </p>
-<p>83,0    </p>
-<p>-    </p>
-<p>    Oliwa</p>
-<p>900    </p>
-<p>-    </p>
-<p>100,0    </p>
-<p>-    </p>
-<p>    Olej rzepakowy, sojowy, słonecznikowy</p>
-<p>900    </p>
-<p>-    </p>
-<p>100,0    </p>
-<p>-    </p>
-<p>    Słonina</p>
-<p>764    </p>
-<p>2,0    </p>
-<p>84,0    </p>
-<p>-    </p>
-<p>    Smalec wieprzowy</p>
-<p>900    </p>
-<p>-    </p>
-<p>100,0    </p>
-<p>-    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Boczek wędzony średnio tłusty</td>
+<td>475</td>
+<td>13,0</td>
+<td>47,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Majonez</td>
+<td>637</td>
+<td>1,0</td>
+<td>69,0</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>Masło</td>
+<td>755</td>
+<td>1,0</td>
+<td>83,0</td>
+<td>1,0</td>
+</tr>
+<tr>
+<td>Masło roślinne</td>
+<td>747</td>
+<td>-</td>
+<td>83,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Margaryna</td>
+<td>747</td>
+<td>-</td>
+<td>83,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Oliwa</td>
+<td>900</td>
+<td>-</td>
+<td>100,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Olej rzepakowy, sojowy, słonecznikowy</td>
+<td>900</td>
+<td>-</td>
+<td>100,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Słonina</td>
+<td>764</td>
+<td>2,0</td>
+<td>84,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Smalec wieprzowy</td>
+<td>900</td>
+<td>-</td>
+<td>100,0</td>
+<td>-</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>MIĘSA I PODROBY SUROWE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Cielęcina - łopatka</p>
-<p>127    </p>
-<p>16,0    </p>
-<p>7,7    </p>
-<p>-    </p>
-<p>    Cielęcina - nogi</p>
-<p>96    </p>
-<p>15,0    </p>
-<p>8,0    </p>
-<p>-    </p>
-<p>    Cielęcina - udziec</p>
-<p>86    </p>
-<p>17,0    </p>
-<p>2,4    </p>
-<p>-    </p>
-<p>    Flaki</p>
-<p>82    </p>
-<p>16,0    </p>
-<p>2,0    </p>
-<p>-    </p>
-<p>    Gęś średnio tłusta</p>
-<p>224    </p>
-<p>11,0    </p>
-<p>20,0    </p>
-<p>-    </p>
-<p>    Indyk patroszony</p>
-<p>118    </p>
-<p>16,0    </p>
-<p>6,0    </p>
-<p>-    </p>
-<p>    Kaczka patroszona</p>
-<p>179    </p>
-<p>11,0    </p>
-<p>15,0    </p>
-<p>-    </p>
-<p>    Konina</p>
-<p>48    </p>
-<p>8,0    </p>
-<p>1,8    </p>
-<p>-    </p>
-<p>    Kurczę chude patroszone</p>
-<p>124    </p>
-<p>13,0    </p>
-<p>8,0    </p>
-<p>-    </p>
-<p>    Mózg (średnio)</p>
-<p>121    </p>
-<p>10,0    </p>
-<p>9,0    </p>
-<p>-    </p>
-<p>    Nerki (średnio)</p>
-<p>118    </p>
-<p>15,0    </p>
-<p>6,0    </p>
-<p>1,0    </p>
-<p>    Serca wieprzowe</p>
-<p>168    </p>
-<p>15,0    </p>
-<p>12,0    </p>
-<p>-    </p>
-<p>    Serca wołowe</p>
-<p>109    </p>
-<p>16,0    </p>
-<p>5,0    </p>
-<p>-    </p>
-<p>    Wątroba (średnio)</p>
-<p>129    </p>
-<p>19,0    </p>
-<p>4,3    </p>
-<p>4,0    </p>
-<p>    Wieprzowina - boczek</p>
-<p>517    </p>
-<p>10,0    </p>
-<p>53,0    </p>
-<p>-    </p>
-<p>    Wieprzowina - karkówka</p>
-<p>233    </p>
-<p>13,0    </p>
-<p>19,0    </p>
-<p>-    </p>
-<p>    Wieprzowina - łopatka</p>
-<p>227    </p>
-<p>14,0    </p>
-<p>19,0    </p>
-<p>-    </p>
-<p>    Wieprzowina - nogi</p>
-<p>164    </p>
-<p>14,0    </p>
-<p>12,0    </p>
-<p>-    </p>
-<p>    Wieprzowina - schab</p>
-<p>140    </p>
-<p>17,0    </p>
-<p>8,0    </p>
-<p>-    </p>
-<p>    Wieprzowina - szynka surowa</p>
-<p>209    </p>
-<p>14,0    </p>
-<p>17,0    </p>
-<p>-    </p>
-<p>    Wieprzowina - żeberka</p>
-<p>242    </p>
-<p>11,0    </p>
-<p>22,0    </p>
-<p>-    </p>
-<p>    Wołowina - szponder</p>
-<p>184    </p>
-<p>10,0    </p>
-<p>16,0    </p>
-<p>-    </p>
-<p>    Wołowina - nogi</p>
-<p>96    </p>
-<p>15,0    </p>
-<p>4,0    </p>
-<p>-    </p>
-<p>    Wołowina - ozór</p>
-<p>178    </p>
-<p>13,0    </p>
-<p>14,0    </p>
-<p>-    </p>
-<p>    Wołowina - pieczeniowe</p>
-<p>120    </p>
-<p>21,0    </p>
-<p>4,0    </p>
-<p>-    </p>
-<p>    Wołowina - polędwica</p>
-<p>116    </p>
-<p>20,0    </p>
-<p>4,0    </p>
-<p>-    </p>
-<p>    Wołowina - rostbef</p>
-<p>122    </p>
-<p>17,0    </p>
-<p>5,9    </p>
-<p>-    </p>
-<p>    Wołowina - rozbratel</p>
-<p>124    </p>
-<p>13,0    </p>
-<p>7,8    </p>
-<p>-    </p>
-<p>    Wołowina - zrazowe</p>
-<p>120    </p>
-<p>21,0    </p>
-<p>4,0    </p>
-<p>-    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Cielęcina - łopatka</td>
+<td>127</td>
+<td>16,0</td>
+<td>7,7</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Cielęcina - nogi</td>
+<td>96</td>
+<td>15,0</td>
+<td>8,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Cielęcina - udziec</td>
+<td>86</td>
+<td>17,0</td>
+<td>2,4</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Flaki</td>
+<td>82</td>
+<td>16,0</td>
+<td>2,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Gęś średnio tłusta</td>
+<td>224</td>
+<td>11,0</td>
+<td>20,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Indyk patroszony</td>
+<td>118</td>
+<td>16,0</td>
+<td>6,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Kaczka patroszona</td>
+<td>179</td>
+<td>11,0</td>
+<td>15,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Konina</td>
+<td>48</td>
+<td>8,0</td>
+<td>1,8</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Kurczę chude patroszone</td>
+<td>124</td>
+<td>13,0</td>
+<td>8,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Mózg (średnio)</td>
+<td>121</td>
+<td>10,0</td>
+<td>9,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Nerki (średnio)</td>
+<td>118</td>
+<td>15,0</td>
+<td>6,0</td>
+<td>1,0</td>
+</tr>
+<tr>
+<td>Serca wieprzowe</td>
+<td>168</td>
+<td>15,0</td>
+<td>12,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Serca wołowe</td>
+<td>109</td>
+<td>16,0</td>
+<td>5,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wątroba (średnio)</td>
+<td>129</td>
+<td>19,0</td>
+<td>4,3</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>Wieprzowina - boczek</td>
+<td>517</td>
+<td>10,0</td>
+<td>53,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wieprzowina - karkówka</td>
+<td>233</td>
+<td>13,0</td>
+<td>19,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wieprzowina - łopatka</td>
+<td>227</td>
+<td>14,0</td>
+<td>19,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wieprzowina - nogi</td>
+<td>164</td>
+<td>14,0</td>
+<td>12,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wieprzowina - schab</td>
+<td>140</td>
+<td>17,0</td>
+<td>8,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wieprzowina - szynka surowa</td>
+<td>209</td>
+<td>14,0</td>
+<td>17,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wieprzowina - żeberka</td>
+<td>242</td>
+<td>11,0</td>
+<td>22,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wołowina - szponder</td>
+<td>184</td>
+<td>10,0</td>
+<td>16,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wołowina - nogi</td>
+<td>96</td>
+<td>15,0</td>
+<td>4,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wołowina - ozór</td>
+<td>178</td>
+<td>13,0</td>
+<td>14,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wołowina - pieczeniowe</td>
+<td>120</td>
+<td>21,0</td>
+<td>4,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wołowina - polędwica</td>
+<td>116</td>
+<td>20,0</td>
+<td>4,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wołowina - rostbef</td>
+<td>122</td>
+<td>17,0</td>
+<td>5,9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wołowina - rozbratel</td>
+<td>124</td>
+<td>13,0</td>
+<td>7,8</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wołowina - zrazowe</td>
+<td>120</td>
+<td>21,0</td>
+<td>4,0</td>
+<td>-</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>WĘDLINY, PODROBY I WYROBY GARMAŻERYJNE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Kaszanka wyborowa</p>
-<p>206    </p>
-<p>12,0    </p>
-<p>13,0    </p>
-<p>10,3    </p>
-<p>    Kiełbasa krakowska parzona</p>
-<p>229    </p>
-<p>15,3    </p>
-<p>18,6    </p>
-<p>-    </p>
-<p>    Kiełbasa mortadela</p>
-<p>225    </p>
-<p>13,3    </p>
-<p>19,1    </p>
-<p>-    </p>
-<p>    Kiełbasa serdelowa</p>
-<p>291    </p>
-<p>10,9    </p>
-<p>24,2    </p>
-<p>-    </p>
-<p>    Kiełbasa szynkowa wieprzowa</p>
-<p>157    </p>
-<p>13,5    </p>
-<p>9,3    </p>
-<p>-    </p>
-<p>    Kiełbasa szynkowa wołowa</p>
-<p>122    </p>
-<p>20,0    </p>
-<p>4,7    </p>
-<p>-    </p>
-<p>    Kiełbasa zwyczajna</p>
-<p>284    </p>
-<p>13,3    </p>
-<p>23,4    </p>
-<p>-    </p>
-<p>    Kiszka pasztetowa</p>
-<p>322    </p>
-<p>12,0    </p>
-<p>30,0    </p>
-<p>1,0    </p>
-<p>    Kiszka wątrobiana</p>
-<p>259    </p>
-<p>11,0    </p>
-<p>23,0    </p>
-<p>2,0    </p>
-<p>    Kurczak pieczony</p>
-<p>194    </p>
-<p>17,0    </p>
-<p>14,0    </p>
-<p>-    </p>
-<p>    Parówki</p>
-<p>231    </p>
-<p>11,5    </p>
-<p>25,0    </p>
-<p>-    </p>
-<p>    Pasztet mięsny</p>
-<p>317    </p>
-<p>17,0    </p>
-<p>25,0    </p>
-<p>6,0    </p>
-<p>    Polędwica wędzona</p>
-<p>133    </p>
-<p>24,5    </p>
-<p>3,9    </p>
-<p>-    </p>
-<p>    Salceson brunszwicki</p>
-<p>290    </p>
-<p>14,0    </p>
-<p>26,0    </p>
-<p>-    </p>
-<p>    Salceson czarny</p>
-<p>305    </p>
-<p>11,0    </p>
-<p>29,0    </p>
-<p>-    </p>
-<p>    Salceson włoski</p>
-<p>256    </p>
-<p>12,0    </p>
-<p>22,0    </p>
-<p>-    </p>
-<p>    Serdelki</p>
-<p>291    </p>
-<p>10,6    </p>
-<p>27,6    </p>
-<p>-    </p>
-<p>    Szynka gotowana średnio tłusta</p>
-<p>389    </p>
-<p>23,0    </p>
-<p>33,0    </p>
-<p>-    </p>
-<p>    Szynka wieprzowa konserwowa</p>
-<p>103    </p>
-<p>19,0    </p>
-<p>3,5    </p>
-<p>-    </p>
-<p>    Szynka wołowa konserwowa</p>
-<p>120    </p>
-<p>20,1    </p>
-<p>3,5    </p>
-<p>-    </p>
-<p>    Szynka z drobiu</p>
-<p>119    </p>
-<p>22,5    </p>
-<p>3,2    </p>
-<p>-    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Kaszanka wyborowa</td>
+<td>206</td>
+<td>12,0</td>
+<td>13,0</td>
+<td>10,3</td>
+</tr>
+<tr>
+<td>Kiełbasa krakowska parzona</td>
+<td>229</td>
+<td>15,3</td>
+<td>18,6</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Kiełbasa mortadela</td>
+<td>225</td>
+<td>13,3</td>
+<td>19,1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Kiełbasa serdelowa</td>
+<td>291</td>
+<td>10,9</td>
+<td>24,2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Kiełbasa szynkowa wieprzowa</td>
+<td>157</td>
+<td>13,5</td>
+<td>9,3</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Kiełbasa szynkowa wołowa</td>
+<td>122</td>
+<td>20,0</td>
+<td>4,7</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Kiełbasa zwyczajna</td>
+<td>284</td>
+<td>13,3</td>
+<td>23,4</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Kiszka pasztetowa</td>
+<td>322</td>
+<td>12,0</td>
+<td>30,0</td>
+<td>1,0</td>
+</tr>
+<tr>
+<td>Kiszka wątrobiana</td>
+<td>259</td>
+<td>11,0</td>
+<td>23,0</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td>Kurczak pieczony</td>
+<td>194</td>
+<td>17,0</td>
+<td>14,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Parówki</td>
+<td>231</td>
+<td>11,5</td>
+<td>25,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Pasztet mięsny</td>
+<td>317</td>
+<td>17,0</td>
+<td>25,0</td>
+<td>6,0</td>
+</tr>
+<tr>
+<td>Polędwica wędzona</td>
+<td>133</td>
+<td>24,5</td>
+<td>3,9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Salceson brunszwicki</td>
+<td>290</td>
+<td>14,0</td>
+<td>26,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Salceson czarny</td>
+<td>305</td>
+<td>11,0</td>
+<td>29,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Salceson włoski</td>
+<td>256</td>
+<td>12,0</td>
+<td>22,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Serdelki</td>
+<td>291</td>
+<td>10,6</td>
+<td>27,6</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Szynka gotowana średnio tłusta</td>
+<td>389</td>
+<td>23,0</td>
+<td>33,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Szynka wieprzowa konserwowa</td>
+<td>103</td>
+<td>19,0</td>
+<td>3,5</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Szynka wołowa konserwowa</td>
+<td>120</td>
+<td>20,1</td>
+<td>3,5</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Szynka z drobiu</td>
+<td>119</td>
+<td>22,5</td>
+<td>3,2</td>
+<td>-</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>RYBY WĘDZONE, WYROBY GARMAŻERYJNE Z RYB</strong>     (zawartość w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Dorsz</p>
-<p>52    </p>
-<p>13,0    </p>
-<p>0,5    </p>
-<p>-    </p>
-<p>    Flądra</p>
-<p>53    </p>
-<p>11,0    </p>
-<p>1,9    </p>
-<p>-    </p>
-<p>    Łosoś</p>
-<p>169    </p>
-<p>20,0    </p>
-<p>9,7    </p>
-<p>2,0    </p>
-<p>    Makrela</p>
-<p>155    </p>
-<p>14,0    </p>
-<p>15,5    </p>
-<p>-    </p>
-<p>    Pikling</p>
-<p>137    </p>
-<p>14,0    </p>
-<p>14,3    </p>
-<p>-    </p>
-<p>    Szprot</p>
-<p>147    </p>
-<p>12,0    </p>
-<p>18,4    </p>
-<p>-    </p>
-<p>    Śledź - rolmops z filetów</p>
-<p>102    </p>
-<p>8,0    </p>
-<p>6,0    </p>
-<p>4,0    </p>
-<p>    Węgorz</p>
-<p>231    </p>
-<p>14,0    </p>
-<p>26,4    </p>
-<p>1,0    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Dorsz</td>
+<td>52</td>
+<td>13,0</td>
+<td>0,5</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Flądra</td>
+<td>53</td>
+<td>11,0</td>
+<td>1,9</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Łosoś</td>
+<td>169</td>
+<td>20,0</td>
+<td>9,7</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td>Makrela</td>
+<td>155</td>
+<td>14,0</td>
+<td>15,5</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Pikling</td>
+<td>137</td>
+<td>14,0</td>
+<td>14,3</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Szprot</td>
+<td>147</td>
+<td>12,0</td>
+<td>18,4</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Śledź - rolmops z filetów</td>
+<td>102</td>
+<td>8,0</td>
+<td>6,0</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>Węgorz</td>
+<td>231</td>
+<td>14,0</td>
+<td>26,4</td>
+<td>1,0</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>WARZYWA, GRZYBY I PRZETWORY</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Boćwina</p>
-<p>24    </p>
-<p>2,0    </p>
-<p>-    </p>
-<p>4,0    </p>
-<p>    Bób</p>
-<p>100    </p>
-<p>-    </p>
-<p>-    </p>
-<p>25,0    </p>
-<p>    Buraki</p>
-<p>32    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>7,0    </p>
-<p>    Cebula</p>
-<p>28    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>6,0    </p>
-<p>    Chrzan</p>
-<p>100    </p>
-<p>-    </p>
-<p>-    </p>
-<p>25,0    </p>
-<p>    Czosnek</p>
-<p>100    </p>
-<p>-    </p>
-<p>-    </p>
-<p>25,0    </p>
-<p>    Dynia</p>
-<p>70    </p>
-<p>-    </p>
-<p>-    </p>
-<p>10,0    </p>
-<p>    Fasola biała</p>
-<p>350    </p>
-<p>21,0    </p>
-<p>2,0    </p>
-<p>62,0    </p>
-<p>    Fasolka szparagowa</p>
-<p>36    </p>
-<p>2,0    </p>
-<p>-    </p>
-<p>7,0    </p>
-<p>    Groch</p>
-<p>345    </p>
-<p>24,0    </p>
-<p>1,0    </p>
-<p>60,0    </p>
-<p>    Groszek zielony konserwowy bez zalewy</p>
-<p>69    </p>
-<p>5,0    </p>
-<p>1,0    </p>
-<p>10,0    </p>
-<p>    Grzyby świeże (średnio)</p>
-<p>26    </p>
-<p>1,5    </p>
-<p>-    </p>
-<p>3,0    </p>
-<p>    Grzyby suszone (borowiki)</p>
-<p>346    </p>
-<p>29,0    </p>
-<p>4,0    </p>
-<p>34,0    </p>
-<p>    Kalafior</p>
-<p>16    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>3,0    </p>
-<p>    Kapusta biała</p>
-<p>24    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>5,0    </p>
-<p>    Kapusta czerwona</p>
-<p>70    </p>
-<p>-    </p>
-<p>-    </p>
-<p>10,0    </p>
-<p>    Kapusta kiszona</p>
-<p>16    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>3,0    </p>
-<p>    Koper zielony</p>
-<p>68    </p>
-<p>3,0    </p>
-<p>-    </p>
-<p>14,0    </p>
-<p>    Marchew</p>
-<p>28    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>6,0    </p>
-<p>    Ogórek</p>
-<p>12    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>2,0    </p>
-<p>    Ogórek kiszony</p>
-<p>12    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>2,0    </p>
-<p>    Papryka</p>
-<p>70    </p>
-<p>-    </p>
-<p>-    </p>
-<p>10,0    </p>
-<p>    Pietruszka - korzeń</p>
-<p>60    </p>
-<p>2,0    </p>
-<p>-    </p>
-<p>13,0    </p>
-<p>    Pomidor</p>
-<p>33    </p>
-<p>1,0    </p>
-<p>1,0    </p>
-<p>5,0    </p>
-<p>    Rzodkiewki</p>
-<p>12    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>2,0    </p>
-<p>    Soczewica</p>
-<p>400    </p>
-<p>-    </p>
-<p>-    </p>
-<p>75,0    </p>
-<p>    Soja - ziarno</p>
-<p>442    </p>
-<p>35,0    </p>
-<p>18,0    </p>
-<p>35,0    </p>
-<p>    Ziemniaki</p>
-<p>64    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>15,0    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Boćwina</td>
+<td>24</td>
+<td>2,0</td>
+<td>-</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>Bób</td>
+<td>100</td>
+<td>-</td>
+<td>-</td>
+<td>25,0</td>
+</tr>
+<tr>
+<td>Buraki</td>
+<td>32</td>
+<td>1,0</td>
+<td>-</td>
+<td>7,0</td>
+</tr>
+<tr>
+<td>Cebula</td>
+<td>28</td>
+<td>1,0</td>
+<td>-</td>
+<td>6,0</td>
+</tr>
+<tr>
+<td>Chrzan</td>
+<td>100</td>
+<td>-</td>
+<td>-</td>
+<td>25,0</td>
+</tr>
+<tr>
+<td>Czosnek</td>
+<td>100</td>
+<td>-</td>
+<td>-</td>
+<td>25,0</td>
+</tr>
+<tr>
+<td>Dynia</td>
+<td>70</td>
+<td>-</td>
+<td>-</td>
+<td>10,0</td>
+</tr>
+<tr>
+<td>Fasola biała</td>
+<td>350</td>
+<td>21,0</td>
+<td>2,0</td>
+<td>62,0</td>
+</tr>
+<tr>
+<td>Fasolka szparagowa</td>
+<td>36</td>
+<td>2,0</td>
+<td>-</td>
+<td>7,0</td>
+</tr>
+<tr>
+<td>Groch</td>
+<td>345</td>
+<td>24,0</td>
+<td>1,0</td>
+<td>60,0</td>
+</tr>
+<tr>
+<td>Groszek zielony konserwowy bez zalewy</td>
+<td>69</td>
+<td>5,0</td>
+<td>1,0</td>
+<td>10,0</td>
+</tr>
+<tr>
+<td>Grzyby świeże (średnio)</td>
+<td>26</td>
+<td>1,5</td>
+<td>-</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>Grzyby suszone (borowiki)</td>
+<td>346</td>
+<td>29,0</td>
+<td>4,0</td>
+<td>34,0</td>
+</tr>
+<tr>
+<td>Kalafior</td>
+<td>16</td>
+<td>1,0</td>
+<td>-</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>Kapusta biała</td>
+<td>24</td>
+<td>1,0</td>
+<td>-</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td>Kapusta czerwona</td>
+<td>70</td>
+<td>-</td>
+<td>-</td>
+<td>10,0</td>
+</tr>
+<tr>
+<td>Kapusta kiszona</td>
+<td>16</td>
+<td>1,0</td>
+<td>-</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>Koper zielony</td>
+<td>68</td>
+<td>3,0</td>
+<td>-</td>
+<td>14,0</td>
+</tr>
+<tr>
+<td>Marchew</td>
+<td>28</td>
+<td>1,0</td>
+<td>-</td>
+<td>6,0</td>
+</tr>
+<tr>
+<td>Ogórek</td>
+<td>12</td>
+<td>1,0</td>
+<td>-</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td>Ogórek kiszony</td>
+<td>12</td>
+<td>1,0</td>
+<td>-</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td>Papryka</td>
+<td>70</td>
+<td>-</td>
+<td>-</td>
+<td>10,0</td>
+</tr>
+<tr>
+<td>Pietruszka - korzeń</td>
+<td>60</td>
+<td>2,0</td>
+<td>-</td>
+<td>13,0</td>
+</tr>
+<tr>
+<td>Pomidor</td>
+<td>33</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td>Rzodkiewki</td>
+<td>12</td>
+<td>1,0</td>
+<td>-</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td>Soczewica</td>
+<td>400</td>
+<td>-</td>
+<td>-</td>
+<td>75,0</td>
+</tr>
+<tr>
+<td>Soja - ziarno</td>
+<td>442</td>
+<td>35,0</td>
+<td>18,0</td>
+<td>35,0</td>
+</tr>
+<tr>
+<td>Ziemniaki</td>
+<td>64</td>
+<td>1,0</td>
+<td>-</td>
+<td>15,0</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>OWOCE ŚWIEŻE I SUSZONE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Agrest</p>
-<p>61    </p>
-<p>1,0    </p>
-<p>1,0    </p>
-<p>12,0    </p>
-<p>    Banan</p>
-<p>72    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>17,0    </p>
-<p>    Cytryna</p>
-<p>28    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>6,0    </p>
-<p>    Czereśnie</p>
-<p>57    </p>
-<p>1,0    </p>
-<p>1,0    </p>
-<p>11,0    </p>
-<p>    Grapefruit</p>
-<p>24    </p>
-<p>-    </p>
-<p>-    </p>
-<p>6,0    </p>
-<p>    Gruszka</p>
-<p>48    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>11,0    </p>
-<p>    Jabłko</p>
-<p>53    </p>
-<p>1,0    </p>
-<p>1,0    </p>
-<p>10,0    </p>
-<p>    Mandarynka</p>
-<p>70    </p>
-<p>-    </p>
-<p>-    </p>
-<p>15,0    </p>
-<p>    Orzechy laskowe</p>
-<p>349    </p>
-<p>7,0    </p>
-<p>33,0    </p>
-<p>6,0    </p>
-<p>    Orzechy włoskie</p>
-<p>303    </p>
-<p>7,0    </p>
-<p>27,0    </p>
-<p>8,0    </p>
-<p>    Orzechy ziemne</p>
-<p>432    </p>
-<p>19,0    </p>
-<p>32,0    </p>
-<p>17,0    </p>
-<p>    Pomarańcza</p>
-<p>36    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>8,0    </p>
-<p>    Porzeczka czarna</p>
-<p>85    </p>
-<p>2,0    </p>
-<p>1,0    </p>
-<p>17,0    </p>
-<p>    Porzeczka czerwona</p>
-<p>56    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>13,0    </p>
-<p>    Suszone jabłka</p>
-<p>333    </p>
-<p>2,0    </p>
-<p>1,0    </p>
-<p>79,0    </p>
-<p>    Suszone rodzynki</p>
-<p>301    </p>
-<p>2,0    </p>
-<p>1,0    </p>
-<p>71,0    </p>
-<p>    Suszone śliwki</p>
-<p>265    </p>
-<p>2,0    </p>
-<p>1,0    </p>
-<p>62,0    </p>
-<p>    Śliwki</p>
-<p>64    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>15,0    </p>
-<p>    Truskawki</p>
-<p>43    </p>
-<p>1,0    </p>
-<p>1,0    </p>
-<p>7,0    </p>
-<p>    Winogrona</p>
-<p>72    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>17,0    </p>
-<p>    Wiśnie</p>
-<p>52    </p>
-<p>1,0    </p>
-<p>-    </p>
-<p>12,0    </p>
-<p>    Żurawina</p>
-<p>53    </p>
-<p>1,0    </p>
-<p>1,0    </p>
-<p>10,0    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Agrest</td>
+<td>61</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>12,0</td>
+</tr>
+<tr>
+<td>Banan</td>
+<td>72</td>
+<td>1,0</td>
+<td>-</td>
+<td>17,0</td>
+</tr>
+<tr>
+<td>Cytryna</td>
+<td>28</td>
+<td>1,0</td>
+<td>-</td>
+<td>6,0</td>
+</tr>
+<tr>
+<td>Czereśnie</td>
+<td>57</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>11,0</td>
+</tr>
+<tr>
+<td>Grapefruit</td>
+<td>24</td>
+<td>-</td>
+<td>-</td>
+<td>6,0</td>
+</tr>
+<tr>
+<td>Gruszka</td>
+<td>48</td>
+<td>1,0</td>
+<td>-</td>
+<td>11,0</td>
+</tr>
+<tr>
+<td>Jabłko</td>
+<td>53</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>10,0</td>
+</tr>
+<tr>
+<td>Mandarynka</td>
+<td>70</td>
+<td>-</td>
+<td>-</td>
+<td>15,0</td>
+</tr>
+<tr>
+<td>Orzechy laskowe</td>
+<td>349</td>
+<td>7,0</td>
+<td>33,0</td>
+<td>6,0</td>
+</tr>
+<tr>
+<td>Orzechy włoskie</td>
+<td>303</td>
+<td>7,0</td>
+<td>27,0</td>
+<td>8,0</td>
+</tr>
+<tr>
+<td>Orzechy ziemne</td>
+<td>432</td>
+<td>19,0</td>
+<td>32,0</td>
+<td>17,0</td>
+</tr>
+<tr>
+<td>Pomarańcza</td>
+<td>36</td>
+<td>1,0</td>
+<td>-</td>
+<td>8,0</td>
+</tr>
+<tr>
+<td>Porzeczka czarna</td>
+<td>85</td>
+<td>2,0</td>
+<td>1,0</td>
+<td>17,0</td>
+</tr>
+<tr>
+<td>Porzeczka czerwona</td>
+<td>56</td>
+<td>1,0</td>
+<td>-</td>
+<td>13,0</td>
+</tr>
+<tr>
+<td>Suszone jabłka</td>
+<td>333</td>
+<td>2,0</td>
+<td>1,0</td>
+<td>79,0</td>
+</tr>
+<tr>
+<td>Suszone rodzynki</td>
+<td>301</td>
+<td>2,0</td>
+<td>1,0</td>
+<td>71,0</td>
+</tr>
+<tr>
+<td>Suszone śliwki</td>
+<td>265</td>
+<td>2,0</td>
+<td>1,0</td>
+<td>62,0</td>
+</tr>
+<tr>
+<td>Śliwki</td>
+<td>64</td>
+<td>1,0</td>
+<td>-</td>
+<td>15,0</td>
+</tr>
+<tr>
+<td>Truskawki</td>
+<td>43</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>7,0</td>
+</tr>
+<tr>
+<td>Winogrona</td>
+<td>72</td>
+<td>1,0</td>
+<td>-</td>
+<td>17,0</td>
+</tr>
+<tr>
+<td>Wiśnie</td>
+<td>52</td>
+<td>1,0</td>
+<td>-</td>
+<td>12,0</td>
+</tr>
+<tr>
+<td>Żurawina</td>
+<td>53</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>10,0</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>KONSERWY MIĘSNE, MIĘSNO-WARZYWNE I RYBNE</strong>     (zawartość w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Boczek z grochem</p>
-<p>232    </p>
-<p>9,0    </p>
-<p>16,0    </p>
-<p>13,0    </p>
-<p>    Gulasz wołowo-wieprzowy</p>
-<p>280    </p>
-<p>16,0    </p>
-<p>24,0    </p>
-<p>-    </p>
-<p>    Gulasz wołowy</p>
-<p>162    </p>
-<p>23,0    </p>
-<p>10,0    </p>
-<p>-    </p>
-<p>    Konserwa turystyczna</p>
-<p>248    </p>
-<p>17,0    </p>
-<p>20,0    </p>
-<p>-    </p>
-<p>    Makrela w sosie pomidorowym</p>
-<p>124    </p>
-<p>13,0    </p>
-<p>8,0    </p>
-<p>-    </p>
-<p>    Mielonka wieprzowa</p>
-<p>289    </p>
-<p>16,0    </p>
-<p>25,0    </p>
-<p>-    </p>
-<p>    Pasztet popularny</p>
-<p>300    </p>
-<p>12,0    </p>
-<p>28,0    </p>
-<p>-    </p>
-<p>    Pasztet z drobiu</p>
-<p>343    </p>
-<p>16,0    </p>
-<p>31,0    </p>
-<p>5,0    </p>
-<p>    Pulpety w sosie pomidorowym</p>
-<p>231    </p>
-<p>11,0    </p>
-<p>15,0    </p>
-<p>3,0    </p>
-<p>    Szprot wędzony w oleju</p>
-<p>341    </p>
-<p>11,0    </p>
-<p>33,0    </p>
-<p>-    </p>
-<p>    Szprot w sosie pomidorowym</p>
-<p>72    </p>
-<p>-    </p>
-<p>8,0    </p>
-<p>-    </p>
-<p>    Szynka mielona</p>
-<p>149    </p>
-<p>17,0    </p>
-<p>9,0    </p>
-<p>-    </p>
-<p>    Śledź marynowany</p>
-<p>255    </p>
-<p>21,0    </p>
-<p>19,0    </p>
-<p>-    </p>
-<p>    Śledź w oleju</p>
-<p>641    </p>
-<p>20,0    </p>
-<p>29,0    </p>
-<p>-    </p>
-<p>    Śledź w pomidorach</p>
-<p>173    </p>
-<p>14,0    </p>
-<p>13,0    </p>
-<p>-    </p>
-<p>    Wieprzowina w sosie własnym</p>
-<p>242    </p>
-<p>17,0    </p>
-<p>18,0    </p>
-<p>3,0    </p>
-<p>    Wieprzowina z fasolą w sosie pomidorowym</p>
-<p>151    </p>
-<p>10,0    </p>
-<p>7,0    </p>
-<p>12,0    </p>
-<p>    Wołowina w sosie własnym</p>
-<p>188    </p>
-<p>20,0    </p>
-<p>12,0    </p>
-<p>-    </p>
-<p>    Żeberka wieprzowe w kapuście</p>
-<p>207    </p>
-<p>5,0    </p>
-<p>19,0    </p>
-<p>4,0    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Boczek z grochem</td>
+<td>232</td>
+<td>9,0</td>
+<td>16,0</td>
+<td>13,0</td>
+</tr>
+<tr>
+<td>Gulasz wołowo-wieprzowy</td>
+<td>280</td>
+<td>16,0</td>
+<td>24,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Gulasz wołowy</td>
+<td>162</td>
+<td>23,0</td>
+<td>10,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Konserwa turystyczna</td>
+<td>248</td>
+<td>17,0</td>
+<td>20,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Makrela w sosie pomidorowym</td>
+<td>124</td>
+<td>13,0</td>
+<td>8,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Mielonka wieprzowa</td>
+<td>289</td>
+<td>16,0</td>
+<td>25,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Pasztet popularny</td>
+<td>300</td>
+<td>12,0</td>
+<td>28,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Pasztet z drobiu</td>
+<td>343</td>
+<td>16,0</td>
+<td>31,0</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td>Pulpety w sosie pomidorowym</td>
+<td>231</td>
+<td>11,0</td>
+<td>15,0</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>Szprot wędzony w oleju</td>
+<td>341</td>
+<td>11,0</td>
+<td>33,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Szprot w sosie pomidorowym</td>
+<td>72</td>
+<td>-</td>
+<td>8,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Szynka mielona</td>
+<td>149</td>
+<td>17,0</td>
+<td>9,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Śledź marynowany</td>
+<td>255</td>
+<td>21,0</td>
+<td>19,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Śledź w oleju</td>
+<td>641</td>
+<td>20,0</td>
+<td>29,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Śledź w pomidorach</td>
+<td>173</td>
+<td>14,0</td>
+<td>13,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Wieprzowina w sosie własnym</td>
+<td>242</td>
+<td>17,0</td>
+<td>18,0</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>Wieprzowina z fasolą w sosie pomidorowym</td>
+<td>151</td>
+<td>10,0</td>
+<td>7,0</td>
+<td>12,0</td>
+</tr>
+<tr>
+<td>Wołowina w sosie własnym</td>
+<td>188</td>
+<td>20,0</td>
+<td>12,0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Żeberka wieprzowe w kapuście</td>
+<td>207</td>
+<td>5,0</td>
+<td>19,0</td>
+<td>4,0</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>KONCENTRATY ZUP I GOTOWE DANIA MROŻONE</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Bigos popularny</p>
-<p>91    </p>
-<p>4,0    </p>
-<p>7,0    </p>
-<p>3,0    </p>
-<p>    Fasolka po bretońsku</p>
-<p>157    </p>
-<p>6,0    </p>
-<p>9,0    </p>
-<p>13,0    </p>
-<p>    Fasolowa</p>
-<p>383    </p>
-<p>20,0    </p>
-<p>11,0    </p>
-<p>51,0    </p>
-<p>    Flaki</p>
-<p>101    </p>
-<p>13,0    </p>
-<p>5,0    </p>
-<p>1,0    </p>
-<p>    Frytki</p>
-<p>240    </p>
-<p>3,0    </p>
-<p>8,0    </p>
-<p>39,0    </p>
-<p>    Gołąbki z ryżem</p>
-<p>102    </p>
-<p>4,0    </p>
-<p>6,0    </p>
-<p>8,0    </p>
-<p>    Grochowa</p>
-<p>364    </p>
-<p>21,0    </p>
-<p>8,0    </p>
-<p>52,0    </p>
-<p>    Gulasz po węgiersku z podrobów</p>
-<p>187    </p>
-<p>18,0    </p>
-<p>11,0    </p>
-<p>4,0    </p>
-<p>    Klopsiki</p>
-<p>182    </p>
-<p>17,0    </p>
-<p>16,0    </p>
-<p>21,0    </p>
-<p>    Krupnik z mięsem</p>
-<p>382    </p>
-<p>17,0    </p>
-<p>10,0    </p>
-<p>56,0    </p>
-<p>    Pieczarkowa</p>
-<p>398    </p>
-<p>19,0    </p>
-<p>18,0    </p>
-<p>40,0    </p>
-<p>    Placki ziemniaczane</p>
-<p>145    </p>
-<p>2,0    </p>
-<p>1,0    </p>
-<p>32,0    </p>
-<p>    Rosół z drobiu</p>
-<p>339    </p>
-<p>10,0    </p>
-<p>31,0    </p>
-<p>5,0    </p>
-<p>    Żurek z kiełbasą</p>
-<p>94    </p>
-<p>3,0    </p>
-<p>6,0    </p>
-<p>5,0    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Bigos popularny</td>
+<td>91</td>
+<td>4,0</td>
+<td>7,0</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>Fasolka po bretońsku</td>
+<td>157</td>
+<td>6,0</td>
+<td>9,0</td>
+<td>13,0</td>
+</tr>
+<tr>
+<td>Fasolowa</td>
+<td>383</td>
+<td>20,0</td>
+<td>11,0</td>
+<td>51,0</td>
+</tr>
+<tr>
+<td>Flaki</td>
+<td>101</td>
+<td>13,0</td>
+<td>5,0</td>
+<td>1,0</td>
+</tr>
+<tr>
+<td>Frytki</td>
+<td>240</td>
+<td>3,0</td>
+<td>8,0</td>
+<td>39,0</td>
+</tr>
+<tr>
+<td>Gołąbki z ryżem</td>
+<td>102</td>
+<td>4,0</td>
+<td>6,0</td>
+<td>8,0</td>
+</tr>
+<tr>
+<td>Grochowa</td>
+<td>364</td>
+<td>21,0</td>
+<td>8,0</td>
+<td>52,0</td>
+</tr>
+<tr>
+<td>Gulasz po węgiersku z podrobów</td>
+<td>187</td>
+<td>18,0</td>
+<td>11,0</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>Klopsiki</td>
+<td>182</td>
+<td>17,0</td>
+<td>16,0</td>
+<td>21,0</td>
+</tr>
+<tr>
+<td>Krupnik z mięsem</td>
+<td>382</td>
+<td>17,0</td>
+<td>10,0</td>
+<td>56,0</td>
+</tr>
+<tr>
+<td>Pieczarkowa</td>
+<td>398</td>
+<td>19,0</td>
+<td>18,0</td>
+<td>40,0</td>
+</tr>
+<tr>
+<td>Placki ziemniaczane</td>
+<td>145</td>
+<td>2,0</td>
+<td>1,0</td>
+<td>32,0</td>
+</tr>
+<tr>
+<td>Rosół z drobiu</td>
+<td>339</td>
+<td>10,0</td>
+<td>31,0</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td>Żurek z kiełbasą</td>
+<td>94</td>
+<td>3,0</td>
+<td>6,0</td>
+<td>5,0</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>ALKOHOL</strong>     (zawartość składników w 100 g produktu)</p>
-<p><strong>Nazwa produktu spożywczego</strong></p>
-<p><strong>kcal</strong></p>
-<p><strong>B</strong></p>
-<p><strong>T</strong></p>
-<p><strong>W</strong></p>
-<p>    Koniak</p>
-<p>280    </p>
-<p>-    </p>
-<p>-    </p>
-<p>-    </p>
-<p>    Likier wiśniowy</p>
-<p>420    </p>
-<p>-    </p>
-<p>-    </p>
-<p>35,0    </p>
-<p>    Piwo ciemne</p>
-<p>14    </p>
-<p>-    </p>
-<p>-    </p>
-<p>8,0    </p>
-<p>    Piwo jasne</p>
-<p>14    </p>
-<p>-    </p>
-<p>-    </p>
-<p>4,0    </p>
-<p>    Wino deserowe</p>
-<p>165    </p>
-<p>-    </p>
-<p>-    </p>
-<p>15,0    </p>
-<p>    Wino wytrawne</p>
-<p>91    </p>
-<p>-    </p>
-<p>-    </p>
-<p>0,1    </p>
-<p>    Wódka czysta wyborowa</p>
-<p>280    </p>
-<p>-    </p>
-<p>-    </p>
-<p>-    </p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa produktu spożywczego</strong></th>
+<th>🟦 <strong>kcal</strong></th>
+<th>🟦 <strong>B</strong></th>
+<th>🟦 <strong>T</strong></th>
+<th>🟦 <strong>W</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Koniak</td>
+<td>280</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Likier wiśniowy</td>
+<td>420</td>
+<td>-</td>
+<td>-</td>
+<td>35,0</td>
+</tr>
+<tr>
+<td>Piwo ciemne</td>
+<td>14</td>
+<td>-</td>
+<td>-</td>
+<td>8,0</td>
+</tr>
+<tr>
+<td>Piwo jasne</td>
+<td>14</td>
+<td>-</td>
+<td>-</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>Wino deserowe</td>
+<td>165</td>
+<td>-</td>
+<td>-</td>
+<td>15,0</td>
+</tr>
+<tr>
+<td>Wino wytrawne</td>
+<td>91</td>
+<td>-</td>
+<td>-</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td>Wódka czysta wyborowa</td>
+<td>280</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody></table></div>
 <p>Niektóre dane mogą różnić się od tych, które posiadasz. Wynika to z różnych wyników pomiarów różnymi metodami. Także wielu potraw lub składników nie uświadczysz już na naszym rynku. Pozmieniały się także ich nazwy. Traktuj tabelkę jako orientacyjną.</p>
 <p><a href="medalt-grande-grande.html">Powrót</a></p>
 
@@ -1572,12 +2311,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

@@ -21,20 +21,16 @@ Koincydencja (z łaciny) to jednoczesne wystąpienie kilku zjawisk lub zdarzeń.
 
 Chodzi tu tylko o ślady na obrzeżu bloków kamiennych wyglądające jak odciski opuszków palców giganta albo szczęk jakiejś maszyny. Po lewej ślady w kamieniu Sacsayhuaman, po prawej ślady na kamieniu z Chińskiego Muru (Bejing) oraz murów japońskiej Osaki i Nagoi, po drugiej stronie kuli ziemskiej. Co ciekawsze układ śladów jest prawie identyczny. Jaka zaszła tu koincydencja? Czy to koincydencja myśli czy techniki, a może jedno i drugie naraz? Archeolodzy nie zajęli stanowiska, bo albo tego nie zauważyli albo udają, że nie wiedzą o co chodzi.
 
-![](../../zrodlo/webacja/zagadki/00sacsay.jpg)
-
-![](../../zrodlo/webacja/zagadki/00chmur1.jpg)
-
-![](../../zrodlo/webacja/zagadki/nagoja1.jpg)
-
-![](../../zrodlo/webacja/zagadki/osaka9.jpg)
-
+![](../../zrodlo/webacja/zagadki/00sacsay.jpg)  
 Sacsayhuaman
 
+![](../../zrodlo/webacja/zagadki/00chmur1.jpg)  
 Bejing
 
+![](../../zrodlo/webacja/zagadki/nagoja1.jpg)  
 Nagoja
 
+![](../../zrodlo/webacja/zagadki/osaka9.jpg)  
 Osaka
 
 Połączenie tych dwóch śladów przeczyłoby teorii o budowie chińskiego muru przez współczesnych Chińczyków. Czy budowle - Sacsayhuaman, część chińskiego muru i mury obronne Nagoi i Osaki mogły powstać w mniej więcej tym samym okresie?
@@ -44,20 +40,16 @@ Połączenie tych dwóch śladów przeczyłoby teorii o budowie chińskiego muru
   
   
 
-![](../../zrodlo/webacja/zagadki/1cusco.jpg)
-
-![](../../zrodlo/webacja/zagadki/1delfy.jpg)
-
-![](../../zrodlo/webacja/zagadki/1naksos.jpg)
-
-![](../../zrodlo/webacja/zagadki/1segesta.jpg)
-
+![](../../zrodlo/webacja/zagadki/1cusco.jpg)  
 Cusco
 
+![](../../zrodlo/webacja/zagadki/1delfy.jpg)  
 Delfy
 
+![](../../zrodlo/webacja/zagadki/1naksos.jpg)  
 Naxos
 
+![](../../zrodlo/webacja/zagadki/1segesta.jpg)  
 Segesta
 
 Problem błahy ale tylko z pozoru. Na przykładzie z Naxos spróbujmy wyobrazić sobie jaki duży musiał być element przed obróbką. Czy występy te, a raczej czopy wykonywano faktycznie metodą skuwania? Do czego były potrzebne, bo na ozdobę raczej nie wyglądają? Jakich narzędzi użył tu człowiek z epoki kamiennej? Czy naprawdę można sądzić, że elementy te wykonał współczesny tym czasom człowiek? Sądzę, że to nie współcześni Grecy zbudowali Delfy, Naxos czy Segestę. Te ruiny są dużo starsze niż sądzi dzisiejsza historia.
@@ -69,24 +61,19 @@ Problem błahy ale tylko z pozoru. Na przykładzie z Naxos spróbujmy wyobrazić
 
 Następna jednomyślność dotyczy wykonywania na całym świecie dziur w kamieniu. Oczywiście wymyślenie samej dziury może nastąpić w każdym miejscu na świecie, gorzej z jej wykonaniem.
 
-![](../../zrodlo/webacja/zagadki/2abusir.jpg)
-
-![](../../zrodlo/webacja/zagadki/2sumatra.jpg)
-
-![](../../zrodlo/webacja/zagadki/2tiahu.jpg)
-
-![](../../zrodlo/webacja/zagadki/2ugarit.jpg)
-
-![](../../zrodlo/webacja/zagadki/2gozo.jpg)
-
+![](../../zrodlo/webacja/zagadki/2abusir.jpg)  
 Abusir
 
+![](../../zrodlo/webacja/zagadki/2sumatra.jpg)  
 Sumatra
 
+![](../../zrodlo/webacja/zagadki/2tiahu.jpg)  
 Tiahuanaco
 
+![](../../zrodlo/webacja/zagadki/2ugarit.jpg)  
 Ugarit
 
+![](../../zrodlo/webacja/zagadki/2gozo.jpg)  
 Malta
 
 Jak widać ze zdjęć dziury wiercono we wszystkich zakątkach świata i wszędzie wybierano najtrudniejszy surowiec - kamień. Problem polega jednak na tym, czym je wywiercono, gdyż jak wiadomo wiertło typu "Widia" wymyślili Niemcy i to dopiero w XX wieku. Ponadto pokazane dziury nie są bynajmniej małej średnicy, tak więc problem jest bardziej skomplikowany niż się wydaje. Eksponat, który widać na zdjęciu z Ugarit nauka nazwała kotwicą. Po co kotwicy trzy dziury, skoro jedna spełnia doskonale swoje zadanie? Natomiast w jednych z najstarszych kamiennych budowli na świecie w Gozo na Malcie w otworach można zmieścić ludzką dłoń.
@@ -98,12 +85,10 @@ Jak widać ze zdjęć dziury wiercono we wszystkich zakątkach świata i wszędz
 
 Przedstawiam dwa rysunki z dwóch ośrodków cywilizacyjnych oddalonych od siebie tysiącami kilometrów i głębią oceanu Atlantyckiego. Rysunki są tak podobne do siebie, że aż jednakowe. Różnica to dwa rodzaje zwierząt - lew i puma oraz w rysunku egipskim krzyż ankh. W środku między zwierzętami widzimy prawdopodobnie słoneczny dysk wschodzący między wzgórzami. Lew to zwierzę Egiptu, natomiast puma to "lew" Ameryki Środkowej, zwany inaczej lwem górskim.
 
-![](../../zrodlo/webacja/zagadki/szutefnut.jpg)
-
-![](../../zrodlo/webacja/zagadki/uxmalpumy.jpg)
-
+![](../../zrodlo/webacja/zagadki/szutefnut.jpg)  
 Szu i Tefnut. Egipt
 
+![](../../zrodlo/webacja/zagadki/uxmalpumy.jpg)  
 Pumy z Uxmal
 
 Ponieważ wschód słońca odgrywał i odgrywa w astronomii i religiach większą rolę niż jego zachód, sądzę, że chodzi tu o wschodzące słońce. Zatem coś ważnego musiało stać się ze wschodem słońca. Co spowodowało, że rysunek stał się tak ważnym dla obu cywilizacji? Moja hipoteza jest nierozerwalnie z "wielkim uskokiem skorupy ziemskiej", przyczyną kataklizmu ok. 12,5 tysięcy lat temu. Według mojej koncepcji przedstawiono tu zjawisko wschodu słońca w czasie równonocy wiosennej w "domu lwa" i to raz za razem. Znanym jest zjawisko precesji, które powoduje, że wschód słońca w dniu równonocy wiosennej zmienia się co około 2160 lat i występuje na tle coraz to innego gwiazdozbioru zodiaku. Stąd nasz podział na ery - erę ryb, erę wodnika itd.
@@ -131,24 +116,19 @@ Czy potwierdzeniem tej tezy mogą być "dziwne" rzeźby podwójnych azteckich ko
 
 Następna, dotąd jednoznacznie nie rozstrzygnięta sprawa, to sarkofagi czyli kamienne trumny dla co znamienitszych nieboszczyków. Problem jest w tym, że w ogromnej większości nie zawierały szczątków głównego bohatera. Już samo to winno postawić pytanie, czy na pewno były to "naczynia" na szczątki ludzkie. Archeologia ma na to tylko jedną odpowiedź - starożytni złodzieje. Trochę to niepokojące słyszeć ciągle, że jest się potomkiem ludzi o najniższych instynktach, ale być może jest to prawda.
 
-![](../../zrodlo/webacja/zagadki/4aksum.jpg)
-
-![](../../zrodlo/webacja/zagadki/4byblos.jpg)
-
-![](../../zrodlo/webacja/zagadki/4meidum.jpg)
-
-![](../../zrodlo/webacja/zagadki/4olbia.jpg)
-
-![](../../zrodlo/webacja/zagadki/4palenque.jpg)
-
+![](../../zrodlo/webacja/zagadki/4aksum.jpg)  
 Aksum
 
+![](../../zrodlo/webacja/zagadki/4byblos.jpg)  
 Byblos
 
+![](../../zrodlo/webacja/zagadki/4meidum.jpg)  
 Meidum
 
+![](../../zrodlo/webacja/zagadki/4olbia.jpg)  
 Olbia
 
+![](../../zrodlo/webacja/zagadki/4palenque.jpg)  
 Palenque
 
 Dlaczego jedne sarkofagi kipią wprost od ozdób, zapisano na nich imię nieboszczyka, dodano do nich złoto i srebro, a inne (pokazane na zdjęciach) są anonimowe? Dlaczego niektóre wielkością przewyższają wielkość trupa, dlaczego są tak masywnie wykonane i po co im tak ciężkie wieka? Oczywiście oficjalna wersja natychmiast umieszcza przy nich złodziei. Druga sprawa, to sposób ich wykonania. Czy były mozolnie wykuwane? Czym je szlifowane i jak wykuto wewnętrzną część? Jakich do tego używano narzędzi? Kamiennych czy brązowych dłutek? Dlaczego wszystkie wykonano z jednego bloku kamienia? Czy podstawowym kryterium miała być ich szczelność, tak by nic nie wyciekało? Jak uzyskano tak gładką powierzchnię? Powierzchnie wykuwane czy skuwane nigdy nie będą tak idealnie gładkie na całej powierzchni. O mozolnym wykuwaniu mówią tylko ci, co dłuto widzieli tylko na wystawie. Sam Flienders Petrie po zbadaniu sarkofagu w wielkiej piramidzie mówił już o użyciu diamentowych wierteł o wielkiej szybkości skrawania.
@@ -158,12 +138,10 @@ Dlaczego jedne sarkofagi kipią wprost od ozdób, zapisano na nich imię niebosz
   
   
 
-![](../../zrodlo/webacja/zagadki/weze1.jpg)
-
-![](../../zrodlo/webacja/zagadki/weze2.jpg)
-
+![](../../zrodlo/webacja/zagadki/weze1.jpg)  
 Egipt
 
+![](../../zrodlo/webacja/zagadki/weze2.jpg)  
 Ameryka Środkowa
 
 Dziwna zbieżność, która łączy dwie wielkie cywilizacje - Ameryki Środkowej i Egiptu. Oba reliefy są jakoś nie zauważane przez naukę, która z resztą nie wie co z nimi począć. Co dziwniejsze, według oficjalnej nauki obie cywilizacje dzielą tysiące lat. Skąd więc dwa, prawie identyczne reliefy? Na obu widzimy postacie ludzkie oplecione przez węża, obie postacie są otoczone przez dziwne przyrządy, obie wydają się być pilotami podróżującymi w środku węża. Latające węże są znane tylko z najstarszych przekazów i były pojazdami Bogów. Wynikało by z tego, że te cywilizacje żyły równolegle, utrzymywały ze sobą kontakty i bynajmniej nie w czasach współczesnych.
@@ -200,24 +178,19 @@ Przedstawiciele tej cywilizacji panowali w obszarze Oceanu Spokojnego i Indyjski
 
 Od pierwszych lekcji historii starożytnej wszyscy Europejczycy (ale chyba nie tylko) uczą się, że łuk architektoniczny wynaleźli Rzymianie. Zdjęcia poniżej albo przeczą temu absolutnie albo wręcz potwierdzają, że Rzymianie dotarli we wszystkie zakątki świata. Rzymianie więc czy koincydencja? Rzymian jak wiemy nie było nie było w Ameryce Środkowej czy w Chinach. Czy to Rzymianie budowali Grekom Olimpię? Czy to Rzymianie budowali na wyspie Philae w okolicach Assuanu? Kiedy? Dlaczego więc wszystkie posiadają w nazwie "romański"? Czy łuk "rzymski" to umowny wzorzec dla pozostałych budowanych na całym świecie? Dlaczego więc niektóre cywilizacje "śmiały" wyprzedzić twórców?
 
-![](../../zrodlo/webacja/zagadki/3amer.jpg)
-
-![](../../zrodlo/webacja/zagadki/chmur13.jpg)
-
-![](../../zrodlo/webacja/zagadki/3efez.jpg)
-
-![](../../zrodlo/webacja/zagadki/3olimpia.jpg)
-
-![](../../zrodlo/webacja/zagadki/philae.jpg)
-
+![](../../zrodlo/webacja/zagadki/3amer.jpg)  
 Dżibilchaltun
 
+![](../../zrodlo/webacja/zagadki/chmur13.jpg)  
 Bejing
 
+![](../../zrodlo/webacja/zagadki/3efez.jpg)  
 Efez
 
+![](../../zrodlo/webacja/zagadki/3olimpia.jpg)  
 Olimpia
 
+![](../../zrodlo/webacja/zagadki/philae.jpg)  
 Philae
 
 Łuki spotykamy w każdym prawie zakątku świata. Od Ameryki Środkowej przez Europę po Chiny. To, że Rzymianie są twórcami tego detalu budowniczego jest dla mnie nieporozumieniem, podobnie jak słynny "rzymski" cement - pucolana. Cegłę w Rzymie zaczęto wytwarzać w przydomowych warsztatach dopiero w II wieku naszej ery. Jak się to ma chińskiego muru, spajanego (jak ostatnio donoszą Chińczycy kleikiem ryżowym) Grecji czy Egiptu?
@@ -229,24 +202,19 @@ Philae
 
 Czy to następna koincydencja? Czy wszystkie te mosty zbudowali Rzymianie? Czy most w Bejing także? Tu jak sądzę nie pozwolili by na to Chińczycy. Oni też mają własnych "Rzymian" w postaci dynastii Qin, która rzekomo zbudowała Wielki Mur. A może Chińczycy podpatrzyli u Rzymian jak się buduje łuki? Chyba raczej niemożliwe. Sądzę, że zarówno Rzymianie jak i Chińczycy wszystkie wielkie kamienne budowle odziedziczyli przez "zasiedzenie", a dopomogło podstawowe założenie współczesnych archeologów i historyków, że to musieli zbudować współcześni ludzie i to kilkaset lat przed naszą erą.
 
-![](../../zrodlo/webacja/zagadki/9anglia.jpg)
-
-![](../../zrodlo/webacja/zagadki/9chiny.jpg)
-
-![](../../zrodlo/webacja/zagadki/9hiszpania.jpg)
-
-![](../../zrodlo/webacja/zagadki/9syria.jpg)
-
-![](../../zrodlo/webacja/zagadki/9turcja.jpg)
-
+![](../../zrodlo/webacja/zagadki/9anglia.jpg)  
 Brytania
 
+![](../../zrodlo/webacja/zagadki/9chiny.jpg)  
 Chiny
 
+![](../../zrodlo/webacja/zagadki/9hiszpania.jpg)  
 Hiszpania
 
+![](../../zrodlo/webacja/zagadki/9syria.jpg)  
 Syria
 
+![](../../zrodlo/webacja/zagadki/9turcja.jpg)  
 Turcja
 
 Jakimi narzędziami i jaką techniką dysponowano ponad dwa tysiące lat temu? W jaki sposób ustawiano filary w środku rzeki? W jaki sposób wykonywano prace budowlane pod wodą i to z użyciem "cementu"? Czy wtedy znano już kesony? Czym dostarczano budulec na środek rzeki? W jaki sposób ustawiano w głębokim nurcie rusztowania, by zbudować łuki z ciężkich kamiennych bloków? Dlaczego na całym świecie obowiązywał jeden i ten sam styl budowy? Na te pytania nie ma odpowiedzi. Podobnie jak nie ma nawet pisanych wzmianek o takich budowach, a jeśli już są, to słowo "odbudował" współcześni zapewne odczytali jako "zbudował", by nie komplikować i tak już skomplikowanej historii. Historycy mają zawsze jedną teorię: tysiące ludzi i niewolnicza praca przez dziesiątki, a nawet setki lat.
@@ -258,20 +226,16 @@ Jakimi narzędziami i jaką techniką dysponowano ponad dwa tysiące lat temu? W
 
 Gigantyczne naczynia spotykamy prawie na całym świecie. Komu i do czego służyły? Dlaczego wykonano je z tak trwałego materiału jakim jest kamień? Czy przechowywano w nich substancje, które z innymi materiałami wchodziły w niebezpieczne reakcje? Z jakiego materiału wykonano naczynia z Knossos, które wytrzymały trzęsienie ziemi, podczas gdy pałac rozsypał się jak domek z kart? Uczeni twierdzą, że to glina, choć nikt nie przeprowadził ekspertyzy fizyko-chemicznej a tylko organoleptyczną z uwagi na możliwość uszkodzenia zabytku.
 
-![](../../zrodlo/webacja/zagadki/3laos.jpg)
-
-![](../../zrodlo/webacja/zagadki/6knossos.jpg)
-
-![](../../zrodlo/webacja/zagadki/6ostia.jpg)
-
-![](../../zrodlo/webacja/zagadki/6ugarit.jpg)
-
+![](../../zrodlo/webacja/zagadki/3laos.jpg)  
 Laos
 
+![](../../zrodlo/webacja/zagadki/6knossos.jpg)  
 Knossos
 
+![](../../zrodlo/webacja/zagadki/6ostia.jpg)  
 Ostia
 
+![](../../zrodlo/webacja/zagadki/6ugarit.jpg)  
 Ugarit
 
 Niektórzy twierdzą, że przechowywano w nich oliwę albo zboże. Ci, którzy tak twierdzą niech sięgną do dna po ostatnią garstkę zboża, lub resztki oliwy. Kto z ludzi był w stanie przechylać te naczynia i kto ustawiał je z powrotem pionowo bez użycia dźwigu? Wszystkie te głupawe hipotezy zaczynają się chwiać, gdy tylko do głosu dochodzą ludzie z technicznym wykształceniem i zaczynają zadawać "dziwne" pytania.
@@ -283,24 +247,19 @@ Niektórzy twierdzą, że przechowywano w nich oliwę albo zboże. Ci, którzy t
 
 Terasy według nauki były polami uprawnymi. Tak przyjęto i tak obowiązuje to do dziś. Ja natomiast sądzę, że zasadniczą rolą teras było umocnienie stoków gór czy wzgórz przed obsunięciem się podczas trzęsień ziemi lub bardzo intensywnych opadów deszczu. W niektórych terasach spotyka się rozbudowany system melioracyjny, który nie tylko nie miał zadania nawadniania poletek, ale wręcz przeciwnie, jego zadaniem było natychmiastowe odprowadzanie wody z teras podczas opadów do podnóża góry, by zapobiec rozmiękczaniu i w konsekwencji osuwaniu się gruntu. Funkcje teras jako pól uprawnych nadali dopiero dzisiejsi naukowcy, którzy już w naszych czasach ujrzeli paru Indian uprawiających na nich swoje poletka. System odwadniający stał się według naukowców systemem nawadniającym poletka na skutek błędnego założenia, że terasy były przede wszystkim polami uprawnymi.
 
-![](../../zrodlo/webacja/zagadki/terasa1.jpg)
-
-![](../../zrodlo/webacja/zagadki/terasa2.jpg)
-
-![](../../zrodlo/webacja/zagadki/terasa3.jpg)
-
-![](../../zrodlo/webacja/zagadki/terasa4.jpg)
-
-![](../../zrodlo/webacja/zagadki/terasa5.jpg)
-
+![](../../zrodlo/webacja/zagadki/terasa1.jpg)  
 Egipt
 
+![](../../zrodlo/webacja/zagadki/terasa2.jpg)  
 Liban
 
+![](../../zrodlo/webacja/zagadki/terasa3.jpg)  
 Chiny
 
+![](../../zrodlo/webacja/zagadki/terasa4.jpg)  
 Izrael
 
+![](../../zrodlo/webacja/zagadki/terasa5.jpg)  
 Jemen
 
 Jako pola uprawne terasy musiały sprawiać nie lada trudność rolnikom biorąc pod uwagę, że wysokość pojedynczej terasy najczęściej przekraczała dość znacznie wysokość człowieka, a więc dostanie się na wyższe piętro zmuszało rolnika do każdorazowego korzystania ze schodów. Tych zaś nie było zbyt wiele i znajdowały się przeważnie w znacznej od siebie odległości. Musiała to być też uprawa ręczna, gdyż przemieszczanie zwierząt pociągowych po piętrach teras było uciążliwe lub wręcz niemożliwe (spróbujmy zmusić konia do wejścia na drabinę). Co uprawiano na terasach? Nauka daje odpowiedzi zdawkowe, niejasne lub wymijające. Bo jakie to mogły być rośliny, które rosły i dawały plony przy rozpiętości wysokości sięgającej kilkuset, a nawet 2000 metrów? Terasy to nie tylko specjalność Ameryki Południowej. Spotykamy je także w Europie, Afryce czy Azji, choć nie słyszałem, by w Egipcie zostały uznane za pola uprawne. Jak widać technika "umacniania zboczy" była rozpowszechniona na całym świecie.
@@ -312,24 +271,19 @@ Jako pola uprawne terasy musiały sprawiać nie lada trudność rolnikom biorąc
 
 Tu można zastosować koincydencję, bo Ziemia trzęsła się i trzęsie w każdym prawie miejscu. Jak widać w każdym z zakątków obowiązywała ta sama zasada. Różnicę widać tylko w sposobie wykończenia murów. Jak je budowano? Nikt nie przedstawił jeszcze zadowalającej teorii. Być może dlatego, że próbuje się dopasować technologie dziś istniejące do epoki kamienia. Z dzisiejszego młotka i dłuta można zrobić pięściaki czy inne siekierki kamienne, ale to nic nie daje. Śmiem twierdzić, że nawet dziś nie jesteśmy w stanie zbudować czegoś takiego. I nie chodzi mi nawet o przycięcie kamieni, ale o manipulowanie kamieniami wielkości małego samochodu. Technologia ta używała prawdopodobnie innego rodzaju energii do cięcia i ustawiania.
 
-![](../../zrodlo/webacja/zagadki/mur0.jpg)
-
-![](../../zrodlo/webacja/zagadki/mur1.jpg)
-
-![](../../zrodlo/webacja/zagadki/mur2.jpg)
-
-![](../../zrodlo/webacja/zagadki/mur3.jpg)
-
-![](../../zrodlo/webacja/zagadki/mur4.jpg)
-
+![](../../zrodlo/webacja/zagadki/mur0.jpg)  
 Bejing
 
+![](../../zrodlo/webacja/zagadki/mur1.jpg)  
 W. Wielkanocna
 
+![](../../zrodlo/webacja/zagadki/mur2.jpg)  
 Sacsayhuaman
 
+![](../../zrodlo/webacja/zagadki/mur3.jpg)  
 Cusco
 
+![](../../zrodlo/webacja/zagadki/mur4.jpg)  
 Giza
 
 ![](../../zrodlo/webacja/zagadki/osaka10.jpg)
@@ -411,12 +365,10 @@ Jak zatem pogodzić identyczność symboli w cywilizacjach oddalonych od siebie 
   
   
 
-![](../../zrodlo/webacja/zagadki/07eltain.jpg)
-
-![](../../zrodlo/webacja/zagadki/07kmer.jpg)
-
+![](../../zrodlo/webacja/zagadki/07eltain.jpg)  
 El Tajin - Ameryka Środkowa
 
+![](../../zrodlo/webacja/zagadki/07kmer.jpg)  
 Prasat Thom - Kambodża
 
 **Ciekawe i niewyjaśnione**
@@ -731,24 +683,20 @@ Na środkowym zdjęciu widać trzy kwadraty, dwa prawe o bokach około 10 kilome
 
 Na dżwięk słowa katakumby wszystkim bez wyjątku nasuwa się skojarzenie z prześladowaniem chrześcijan w starożytnym Rzymie. Jednak samo słowo łacińskie oznacza podziemny cmentarz. Jedną z "ciekawszych" hipotez na temat ich powstania jest brak miejsca na groby na powierzchni ziemi, bo ziemia w Rzymie była bardzo droga. Katakunby są spotykane nie tylko w Rzymie. Sa także na Sycylii, na Malcie, a także w Izraelu ale jakoś się je pomija w martyrologii chrześcijan. Być może dlatego, że nie pasują do hipotez dzisiejszych historyków.
 
-![](../../zrodlo/webacja/zagadki/katrzym.jpg)
-
-![](../../zrodlo/webacja/zagadki/katsycylia.jpg)
-
+![](../../zrodlo/webacja/zagadki/katrzym.jpg)  
 Rzym
 
+![](../../zrodlo/webacja/zagadki/katsycylia.jpg)  
 Sycylia
 
 Kto je zbudował? Oficjalnie chrześcijanie w I w. ne., by tam się ukrywać a także chować zmarłych. Jest to co najmniej dziwne stwierdzenie. W jaki sposób organizacja działająca w wielkiej tajemnicy i tępiona zajadle, zdołała wykuć w skale taki obiekt? Było to ogromne przedsięwzięcie inżynieryjne, które zapewne nie było dziełem jednego roku. Kto był projektantem? Pomimo, że już używano słowa pisanego, jakoś nie zachował się żaden zapisek z nazwiskiem "naczelnego inzyniera". Jakich narzędzi używano podczas prac? Jak utrzymano w tajemnicy tak ogromne przedsięwzięcie budowlane? Co się działo z tysiącami ton urobku, który musiał być usuwany w miarę postępu prac? Czy faktycznie "mądrzy" Rzymianie byli aż tak głupi? Prawdopodobnie nie. Podziemne struktury musiały istnieć na długo przed Imperium Rzymskim i Rzymianie nie mieli o nich pojęcia, co skwapliwie wykorzystali chrześcijanie, odkrywszy je przypadkowo.
 
 Podziemne struktury istnieją na całym świecie, choć odkryto zaledwie ułamek ich procenta. Nie mając żadnego pomysłu lokuje się w nich cmentarze, czego dowodem mają być szkielety ludzkie, a ponieważ szkielety są stosunkowo młode, taką datę powstania otrzymują też podziemne budowle. Taki jest współczesny system datowania i nic na to nie poradzimy. Logika w archeologii nie miała i nie ma zastosowania. Nikt nie dopuszcza nawet możliwości, że te budowle zostały "zaśmiecone" przez ludzi stosunkowo niedawno, a ponieważ oficjalną doktryną jest hipoteza "gadających małp" nie wolno wyciągnąć innych wniosków.
 
-![](../../zrodlo/webacja/zagadki/katmalta.jpg)
-
-![](../../zrodlo/webacja/zagadki/katizrael.jpg)
-
+![](../../zrodlo/webacja/zagadki/katmalta.jpg)  
 Malta
 
+![](../../zrodlo/webacja/zagadki/katizrael.jpg)  
 Izrael
 
 Inną sprawą jest materiał skalny w jakim wykuto podziemia. Skoro skała wapienne jest stosunkowo miękka, to według historyków można było kuć nawet krzemieniem. Jak zatem pogodzić człowieka z epoki kamiennej z projektowaniem i organizacją prac? Co zatem zrobić z "katakumbami" egipskimi, izraelskimi czy tureckimi? Nic, po prostu się taki aspekt pomija. Jaki cel mieli Żydzi by wykuwać swoje katakumby, bo nie słyszałem o ich prześladowaniu na miarę chrześcijan? Po co wykuwano podziemne miasta w Turcji? Czy pierwsi chrześcijanie działali też na Malcie i na Sycylii? Dwie rzeczy sa nieskończenie wielkie - wszechświat i ludzka głupota. To powiedziała Einstein i miał całkowitą rację. Na ziemi istniał wielki podziemny świat, ale ponieważ go nie widać, to nie ma prawa istnieć.

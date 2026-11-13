@@ -249,24 +249,19 @@ Czy chimera nie świadczy o tym, że Etruskom znane były hybrydy? Artefakt obok
 
 "Wielki uskok skorupy ziemskiej" zniszczył nie tylko starożytną cywilizację i zmienił bieg naszej historii. Zmienił przede wszystkim ukształtowanie linii brzegowej i to w znacznym stopniu. Wiele skupisk ludzkich zniknęło z powierzchni ziemi zalane wodami mórz i oceanów. Na to, że istniały, wskazują dziwne i niezrozumiałe ślady prowadzące w głębiny wód. Stąd właśnie drogi wprost w morze, stąd zatopione miasta odnajdywane przy okazji podwodnych badań. Wynika to z tego, że przed wielkim uskokiem, powierzchnia kontynentu europejskiego (także Bliskiego Wschodu czy północnej Afryki) położona była wyżej i czasem stanowi to wielkość nawet rzędu setek metrów. Pisałem już, że hipotetyczne miejsce położenia Atlantydy zmieniło swoją odległość od środka ziemi o około 5 km. Podobnie jest z kontynentami. Przed "wielkim uskokiem..." Europa leżała wyżej, znacznie wyżej niż w dzisiejszych czasach. Pierwszą poszlaką mogą być starożytne mapy.
 
-![](../../zrodlo/webacja/11atlantyda/mapa1e.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/mapa2e.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/mapa01.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/mapa5e.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/mapa6e.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/mapa1e.jpg)  
 Dionizjusz
 
+![](../../zrodlo/webacja/11atlantyda/mapa2e.jpg)  
 Dicaearchus
 
+![](../../zrodlo/webacja/11atlantyda/mapa01.jpg)  
 Dzisiejszy ląd (żółty)
 
+![](../../zrodlo/webacja/11atlantyda/mapa5e.jpg)  
 Rzym
 
+![](../../zrodlo/webacja/11atlantyda/mapa6e.jpg)  
 Erastotenes
 
 Zwrócić należy szczególną uwagę na północną i północno-zachodnią zachodnią granicę kontynentu. Co w rogu swojej mapy napisał Piri Reis? Pisał, że mapa powstała na podstawie starszych źródeł, do których jeszcze wtedy miał dostęp. Podobnie mapy pokazane powyżej. Prawdopodobnie autorzy mieli dostęp do map starszych niż nam się wydaje. Do map sprzed "wielkiego uskoku...". Dlaczego tak sądzę? Map nie rysuje się z głowy. Tak postępują dzieci i twórcy gier komputerowych, ale nie kartografowie. Jak te tereny mogły wyglądać przed "wielkim uskokiem..." można sobie wyobrazić oglądając zdjęcie satelitarne północnego i zachodniego skraju Europy. Zarys kontynentu wzdłuż tzw. szelfu leżącego na głębokości 200-300 metrów jakby pasuje do map starożytnych. W każdym bądź razie widać tu problem, nad którym powinno się zastanowić.
@@ -323,96 +318,75 @@ Czym mógłby być element, który znajduje się na zdjęciu obok? Znajduje się
 
 Styl budowy polegający na wznoszeniu budowli, której wypełnieniem były kamienie spajane zaprawą, spotykamy od Ameryki Środkowej po starożytną Fenicję. Od północnej Afryki po budowle w Brytanii. Spotykamy je także na Krecie i w starożytnym Rzymie. Czy to przypadek? Ciekawe jest także to, że pokrywają się z hipotetycznym królestwem Atlantydy na kontynentach.
 
-![](../../zrodlo/webacja/11atlantyda/becan.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/kartag.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/knossos.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/rzym3.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/evora.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/becan.jpg)  
 Jukatan
 
+![](../../zrodlo/webacja/11atlantyda/kartag.jpg)  
 Kartagina
 
+![](../../zrodlo/webacja/11atlantyda/knossos.jpg)  
 Kreta
 
+![](../../zrodlo/webacja/11atlantyda/rzym3.jpg)  
 Rzym
 
+![](../../zrodlo/webacja/11atlantyda/evora.jpg)  
 Hiszpania
 
 Być może nie wyglądają jednakowo, ale łączy je wspólna cecha. Ogromne elementy budowlane tworzono z drobnych kamieni spajanych zaprawą. Formy być może sporządzali Bogowie im tylko wiadomą techniką. Zauważmy jeszcze jedną charakterystyczną cechę. Mury i stropy są niesłychanie grube. Czy było to swoiste zabezpieczenie przed trzęsieniami ziemi?
 
-![](../../zrodlo/webacja/11atlantyda/canary.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/azory.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/hadrian.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/irlandia.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/ktezyfon.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/canary.jpg)  
 W-y Kanaryjskie
 
+![](../../zrodlo/webacja/11atlantyda/azory.jpg)  
 W-y Azorskie
 
+![](../../zrodlo/webacja/11atlantyda/hadrian.jpg)  
 Mur Hadriana
 
+![](../../zrodlo/webacja/11atlantyda/irlandia.jpg)  
 Irlandia
 
+![](../../zrodlo/webacja/11atlantyda/ktezyfon.jpg)  
 Ktezyfon
 
 Grube mury spajane nieznaną zaprawą, to jedno z kryteriów jakie zastosowałem do pokazania wspólnej technologii budowlanej. Na terenie dawnego królestwa Atlantydy nie brakuje też budowli z wielkich bloków kamiennych, co prawda nie wielkości Sacsayhuaman, ale też o imponujących wymiarach.
 
-![](../../zrodlo/webacja/11atlantyda/1azory.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/1syrakuzy1.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/1knidos2.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/1kartage.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/1priene.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/1tipaza.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/1azory.jpg)  
 Azory
 
+![](../../zrodlo/webacja/11atlantyda/1syrakuzy1.jpg)  
 Syrakuzy
 
+![](../../zrodlo/webacja/11atlantyda/1knidos2.jpg)  
 Knidos
 
+![](../../zrodlo/webacja/11atlantyda/1kartage.jpg)  
 Kartagina
 
+![](../../zrodlo/webacja/11atlantyda/1priene.jpg)  
 Priene
 
+![](../../zrodlo/webacja/11atlantyda/1tipaza.jpg)  
 Tipaza
 
 Na wyspach Azorskich spotkać można ruiny trochę przypominające "świątynię Księżyca" z Machu Picchu. W Syrakuzach mury jakich nie wstydzą się Mykeny. Spójrzmy na mury tureckiego Knidos. Czy takie mury był w stanie wznieść zwykły człowiek? Oczywiście, że mógł, ale musiał mieć do dyspozycji potężne wsparcie techniczne. Bloki kamienia spotykamy też w Kartaginie. Trudno powiedzieć czy to, co widzimy to pełne bloki czy też tylko kamienne okładziny. A czym przycinano i wygładzano bloki kamienia w Priene czy w Tipaza (Mauretania)? Z Priene "fachowcy" nie mają problemu. To zrobili Rzymianie, jak wszystkie "teatry" w swoim imperium. Ciekawe tylko dla kogo i dlaczego aż tak duży.
 
 Są także bardzo interesujące szczegóły, szczególnie w krajach Bliskiego Wschodu, a konkretnie w krainie dawnej Fenicji. Pierwsze zdjęcie przedstawia jeszcze kopulastą budowlę etruską z potężnych kamiennych bloków, ale już następne to same zagadki. Do czego w Pompejach mogły służyć kamienne kolumny osadzone na potężnych podstawach, przypominające obrotowe bloki do łańcuchów kotwicznych?
 
-![](../../zrodlo/webacja/11atlantyda/1caere.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/1pompeje.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/1byblos.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/1sydon.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/1ugarit.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/1caere.jpg)  
 Caere
 
+![](../../zrodlo/webacja/11atlantyda/1pompeje.jpg)  
 Pompeje
 
+![](../../zrodlo/webacja/11atlantyda/1byblos.jpg)  
 Byblos
 
+![](../../zrodlo/webacja/11atlantyda/1sydon.jpg)  
 Sydon
 
+![](../../zrodlo/webacja/11atlantyda/1ugarit.jpg)  
 Ugarit
 
 Po co w Sydonie wmurowano w ścianę kamienne walce? Są na pewno z innego materiału niż zbudowany mur. Komu lub do czego służył kamienny "sarkofag" z Byblos nie ustępujący wielkością tym z Egiptu. Czy za kamienne występy chwytał jakiś starożytny podnośnik unoszący wieko? A kto w Ugarit używał tego kamiennego "dzbanuszka" wlewając sobie śmietankę do porannej kawy? Tu naprawdę trudno przyjąć koncepcję naukowców, że takimi rzeczami operowali ludzie.
@@ -421,38 +395,30 @@ Po co w Sydonie wmurowano w ścianę kamienne walce? Są na pewno z innego mater
 
 Wspomniałem już o wodzie. W poprzednich artykułach starałem się udowodnić istnienie "Bogów wody" i nie sposób pominąć ich i tutaj. Obszar morza Śródziemnego jest wprost usiany starożytnymi wodociągami nazwanymi akweduktami. Lecz o dziwo, żaden historyk nie wspomina nic o bogach wody. Czyżby byli przypisani tylko do cywilizacji starszych niż 3000 lat? A co się stało z nimi potem? Wszystkie akwedukty jakie tylko znaleziono wokół morza Śródziemnego zgodnie okrzyknięto wyrobem imperium rzymskiego. Chyba historycy zbyt uprościli sobie proces myślowy stwarzając hipotezę, która całkowicie zaciemniiła obraz historii naszej cywilizacji.
 
-![](../../zrodlo/webacja/11atlantyda/segovia.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/tarragona.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/kartagina.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/cesarea.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/segovia.jpg)  
 Segovia
 
+![](../../zrodlo/webacja/11atlantyda/tarragona.jpg)  
 Tarragona
 
+![](../../zrodlo/webacja/11atlantyda/kartagina.jpg)  
 Kartagina
 
+![](../../zrodlo/webacja/11atlantyda/cesarea.jpg)  
 Cezarea
 
 Zapomniano przy tym przypatrzyć się samej kolebce cywilizacji rzymskiej. Czy nie jest dziwne, że w samych Włoszech akwedukty znaleźć można tylko w samym Rzymie i na północ od niego? Dlaczego nie ma ich na południu? Czy to przypadek, że akwedukty znajdują się tylko na terenie dawnej Etrurii? Chyba nie. Przykłady, które pokazuję znaleźć można na terenie dawnego królestwa Atlantydy. Czy Lesbos, tradycyjnie grecka wyspa, też należała do Atlantydy? A dlaczego nie. Skąd pewność do kogo należała ponad 12 tysięcy lat temu? Leży przecież bliżej Azji Mniejszej niż Grecji.
 
-![](../../zrodlo/webacja/11atlantyda/tyr.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/lesbos.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/salamis.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/pontdugard.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/tyr.jpg)  
 Tyr
 
+![](../../zrodlo/webacja/11atlantyda/lesbos.jpg)  
 Lesbos
 
+![](../../zrodlo/webacja/11atlantyda/salamis.jpg)  
 Salamis
 
+![](../../zrodlo/webacja/11atlantyda/pontdugard.jpg)  
 Pont du Gard
 
 Nieliczni z archeologów zwracają uwagę na to, w jaki sposób dana społeczność korzysta z wody. Gdzie są najbliższe jej źródła, jak woda jest doprowadzana do miast, w jaki sposób nawadniane są pola uprawne. Jest to w najlepszym wypadku temat uboczny i zaraz też szuka się bogów wody, by kłopot mieć z głowy. Wykazałem poprzednio, że cywilizacja Bogów problem wody uważała za pierwszorzędny i rozwiązywała go w pierwszej kolejności. Tak było i w tym przypadku.
@@ -465,12 +431,10 @@ Brak wielkich zbiorników słodkiej wody (naziemnych lub podziemnych) wymusił b
 
 Każdy akwedukt był przykrywany kamiennymi płytami uniemożliwiającymi zanieczyszczenie wody przez zwierzęta i pogodę. Jest to majstersztyk sztuki inżynierskiej, odporny na działanie warunków klimatycznych czy mniejsze trzęsienia ziemi. Nikt jednak nie zbadał skąd doprowadzano wodę i jakie rejony były jej odbiorcą. Nikt nie dopatrzył się zniszczeń spowodowanych "wielkim uskokiem...", a przecież akwedukty powinny były zachować profil ziemi sprzed 12,5 tysiąca lat.
 
-![](../../zrodlo/webacja/11atlantyda/rzym2.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/meksyk.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/rzym2.jpg)  
 Rzym
 
+![](../../zrodlo/webacja/11atlantyda/meksyk.jpg)  
 Meksyk
 
 Także budowa niektórych z nich wskazuje na technologię stosowaną w całym królestwie Atlantydy. Drobne kamienie spajane nieznaną zaprawą. Nie dziwi zatem, że akwedukt odnalazłem także w Meksyku.
@@ -481,60 +445,47 @@ Starożytne Rume także było zaopatrywane w wodę przy pomocy akweduktów, jedn
 
 Następną sporną sprawą stają się mosty, którymi rzekomo Rzymianie uszczęśliwiali wzdłuż i wszerz całą Europę i zachodnią Azję. Przejść przez most nie jest jednoznaczne z jego wybudowaniem, a tak zapewne sądzą historycy. Most jest najtrudniejszą budową także i dla naszej cywilizacji, a jak widać nie były to kładki nad strumykiem.
 
-![](../../zrodlo/webacja/11atlantyda/most3.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/anglia.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/cordoba.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/most3.jpg)  
 Kładka z litego kamienia
 
+![](../../zrodlo/webacja/11atlantyda/anglia.jpg)  
 Brytania
 
+![](../../zrodlo/webacja/11atlantyda/cordoba.jpg)  
 Hiszpania
 
 Na pierwszym zdjęciu most zbudowany całkowicie z kamiennych bloków. Przęsła to kamienne płyty ułożone na podporach. Widać na nim działanie czasu i pogody, ale nie mają one wpływu na pytanie w jaki sposób wycięto ze skały tak duże bloki, jak je przetransportowano na teren budowy i za pomocą czego ułożono. Jak zbudowano most w Brytanii? Jak posadowiono filary w rzece? Nawet gdyby Rzymianie używali pontonów, to w jaki sposób prowadzili prace pod wodą? W jaki sposób transportowali budulec na środek rzeki? Dlaczego w Hiszpanii zbudowano most na nieistniejącej rzece? Tu nie było błędu. Rzeka kiedyś istniała. To dlaczego? Czy ktoś pomyślał, że powodem mógł być wielki kataklizm sprzed 12,5 tysięcy lat, który całkowicie zmienił bieg rzeki? Czy to sprawdzono? Nie, bo po co.
 
-![](../../zrodlo/webacja/11atlantyda/azerbajdzan.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/cuenca.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/syria.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/turcja.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/bejing.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/azerbajdzan.jpg)  
 Azerbajdżan
 
+![](../../zrodlo/webacja/11atlantyda/cuenca.jpg)  
 Cuenca
 
+![](../../zrodlo/webacja/11atlantyda/syria.jpg)  
 Syria
 
+![](../../zrodlo/webacja/11atlantyda/turcja.jpg)  
 Turcja
 
+![](../../zrodlo/webacja/11atlantyda/bejing.jpg)  
 Bejing
 
 Mosty budowano w oparciu o łuki, które rzekomo po raz pierwszy wprowadzili Rzymianie. Skąd ta niezachwiana pewność? By zbudować pojedynczy łuk trzeba najpierw umieścić w rzece potężne rusztowanie, albo chwilowo zmienić jej bieg. Tu naprawdę nie trzeba wymysłów archeologów, ale wypowiedzi inżynierów budowlanych. Nie robi się tego, bo postawili by więcej pytań niż historycy zdołali by dać odpowiedzi. Porównajmy kamienne mosty z Azerbajdżanu i Bejing (Chiny). Po zdjęciu współczesnych chińskich ozdób są prawie identyczne. Nauka nazywa to koincydencją. Różne rasy, ale jeden mózg i można wymyślać identyczne rzeczy na różnych krańcach świata. Jak widać wszystko jest proste i wytłumaczalne.
 
-![](../../zrodlo/webacja/11atlantyda/ronda.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/most1.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/shaharah.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/nilo6.jpg)
-
-![](../../zrodlo/webacja/11atlantyda/maroko.jpg)
-
+![](../../zrodlo/webacja/11atlantyda/ronda.jpg)  
 Hiszpania
 
+![](../../zrodlo/webacja/11atlantyda/most1.jpg)  
 Francja (?)
 
+![](../../zrodlo/webacja/11atlantyda/shaharah.jpg)  
 Shaharah
 
+![](../../zrodlo/webacja/11atlantyda/nilo6.jpg)  
 Etiopia
 
+![](../../zrodlo/webacja/11atlantyda/maroko.jpg)  
 Maroko
 
 Na koniec majstersztyki starożytnych budowniczych. Czy Rzym posiadał fachowców do wybudowania czteropoziomowego mostu nad doliną? Skąd czerpano budulec? Jak gigantyczne rusztowania musiano zastosować by wybudować most w Ronda w Hiszpanii, a na czym posadowiono rusztowania przy budowie wiszącego mostu w Shaharah? Historię o wielkim Rzymie należy faktycznie umieścić we właściwym miejscu, w dziale baśni. Te mosty powstawały już wtedy, gdy Mars, Bóg wojny nawet nie przypuszczał, że kiedyś urodzi się Rea Sylwia, a on zostanie szczęśliwym ojcem Romulusa i Remusa.

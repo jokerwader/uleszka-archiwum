@@ -23,50 +23,9 @@ Historia Egiptu według oficjalnej nauki liczy sobie około pięciu tysięcy lat
 
 Czy astronomia Egiptu jest powiązana z Bogami? Jeżeli jest, to w sposób bardziej zakamuflowany niż gdzie indziej. Zastanawia mnie fakt, że w Egipcie Bogowie nie są utożsamiani z planetami, jak przykładowo w Sumerze czy Grecji, natomiast niektórzy egipscy Bogowie pod postacią zwierząt mają swoje odpowiedniki w znakach egipskiego Zodiaku. Czy jest to powiązane z czasem ich panowania pod odpowiednim znakiem? Niepewne to sformułowanie ale czy nieprawdziwe? Tego nie wiem. Współcześnie używamy podziału nieba ustalonego w starożytnym Babilonie i przejętego przez Greków. Co ciekawe różni się on od egipskiego.
 
-**Egipt**
-
-**Babilon**
-
-**Lata pne**
-
-Pies  
-Wąż  
-Skarabeusz  
-Osioł  
-Lew  
-Baran  
-Byk  
-Krogulec  
-Małpa  
-Ibis  
-Krokodyl  
-Kot
-
-Byk  
-Bliźnięta  
-Rak  
-Lew  
-Panna  
-Waga  
-Skorpion  
-Strzelec  
-Koziorożec  
-Wodnik  
-Ryby  
-Baran
-
-4490-2330  
-6650-4490  
-8810-6650  
-10970-8810  
-13130-10970  
-15290-13130  
-17450-15290  
-19610-17450  
-21770-19610  
-23390-21770  
-26090-23390  
-28250-26090
+| 🟦 **Egipt** | 🟦 **Babilon** | 🟦 **Lata pne** |
+| --- | --- | --- |
+| Pies<br>Wąż<br>Skarabeusz<br>Osioł<br>Lew<br>Baran<br>Byk<br>Krogulec<br>Małpa<br>Ibis<br>Krokodyl<br>Kot | Byk<br>Bliźnięta<br>Rak<br>Lew<br>Panna<br>Waga<br>Skorpion<br>Strzelec<br>Koziorożec<br>Wodnik<br>Ryby<br>Baran | 4490-2330<br>6650-4490<br>8810-6650<br>10970-8810<br>13130-10970<br>15290-13130<br>17450-15290<br>19610-17450<br>21770-19610<br>23390-21770<br>26090-23390<br>28250-26090 |
 
 Pierwsza różnica to inne nazwy gwiazdozbiorów. Druga, znacznie według mnie ważniejsza, to przesunięcie znaków egipskiego zodiaku o jeden znak do tyłu w stosunku do współczesnego. Skoro w uproszczeniu jeden znak Zodiaku zajmuje na nieboskłonie przestrzeń 30°, czy to przesunięcie może być związane z hipotetycznym uskokiem skorupy ziemskiej około 10500 lat pne? Współczesna nauka stanowczo odrzuca hipotezę "wielkiego uskoku...", co wcale nie znaczy, że go nie było, bo dowodów można zebrać sporo.
 
@@ -196,60 +155,46 @@ A co sądzisz o ostatnim zdjęciu? Postacie ludzkie z przyczepionymi brodami, al
 
 Nie mniej ciekawe są oznaczenia graficzne występujące często na głowach Bogów lub tuż nad nimi. Niekiedy powtarzają się przy różnych Bogach, a także mogą występować po kilka przy jednym. Sądzę, że tak starożytni oznaczali "specjalności" poszczególnych Bóstw. Nie wiem czemu, ale kojarzy mi się to ze specjalnościami wojskowymi lub z przynależnością do danego korpusu specjalistów. Najczęściej spotykanym znakiem jest krzyż życia - Ankh oznaczający chyba, że Bóg żyje wiecznie. Był z pewnością zarezerwowany tylko dla Bogów, a spotkanie go w ręku faraona jest zapewne świętokradztwem i chyba stosowane było już w czasach współczesnych w celu dodania splendoru królowi.
 
-![](../../zrodlo/webacja/insygnia/atrybut1.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut9.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut3.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut4.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut5.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut6.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut7.gif)
-
+![](../../zrodlo/webacja/insygnia/atrybut1.gif)  
 Hathor
 
+![](../../zrodlo/webacja/insygnia/atrybut9.gif)  
 Honsu
 
+![](../../zrodlo/webacja/insygnia/atrybut3.gif)  
 Neftyda
 
+![](../../zrodlo/webacja/insygnia/atrybut4.gif)  
 Izyda
 
+![](../../zrodlo/webacja/insygnia/atrybut5.gif)  
 Seshat
 
+![](../../zrodlo/webacja/insygnia/atrybut6.gif)  
 Maat
 
+![](../../zrodlo/webacja/insygnia/atrybut7.gif)  
 Ra
 
-![](../../zrodlo/webacja/insygnia/atrybut16.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut15.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut10.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut11.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut12.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut13.gif)
-
-![](../../zrodlo/webacja/insygnia/atrybut14.gif)
-
+![](../../zrodlo/webacja/insygnia/atrybut16.gif)  
 Neith
 
+![](../../zrodlo/webacja/insygnia/atrybut15.gif)  
 Thot
 
+![](../../zrodlo/webacja/insygnia/atrybut10.gif)  
 Meret
 
+![](../../zrodlo/webacja/insygnia/atrybut11.gif)  
 Nut
 
+![](../../zrodlo/webacja/insygnia/atrybut12.gif)  
 Anat
 
+![](../../zrodlo/webacja/insygnia/atrybut13.gif)  
 Hathor
 
+![](../../zrodlo/webacja/insygnia/atrybut14.gif)  
 Sopdet
 
 U góry pokazałem kilkanaście takich oznaczeń z imieniem Boga, który takiego atrybutu używał. Muszę przyznać, że spotkałem się z przypadkiem używania niektórych "odznak" przez kilku Bogów jednocześnie. Niektóre wizerunki kojarzą mi się z techniką, niektóre z rolnictwem.

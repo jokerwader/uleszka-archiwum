@@ -142,264 +142,75 @@ Przez ten czas sprawę tuszowano, jak tylko było można. Za Bieruta, za "prawd�
 
 6 maja 1996 r. Gazeta Wyborcza opublikowała Kalendarium Katyńskie (kolor niebieski i czerwony - moje uzupełnienia):
 
-2.X.1939
-
-Decyzja Biura Politycznego KC WKP(b) "O jeńcach wojennych".
-
-3.X.1939
-
-Rozkaz ludowego komisarza spraw wewnętrznych Ławrientija Berii o utworzeniu obozów dla polskich jeńców wojennych w Kozielsku, Ostaszkowie i Starobielsku.
-
-II-III.1940
-
-III Konferencja Metodyczna NKWD i Gestapo w Zakopanem. Narady trwały 6 tygodni. Tu dopracowano metodykę i organizację zbrodni na polskich jeńcach. W konferencji wzięli udział zaproszeni przedstawiciele [wywiadu](http://www.rodzinapolska.pl/prawdahistor/archiwum/2002/99_1.htm) brytyjskiego. Wniosek - rządy Wielkiej Brytanii i hitlerowskich Niemiec doskonale znały plany wymordowania jeńców polskich!!!  
-(Czy gen. Sikorski musiał zginąć, bo o tym wiedział?).
-
-5.III.1940
-
-Decyzja Politbiura o rozstrzelaniu 14,7 tys. polskich jeńców i 11 tys. polskich obywateli przetrzymywanych w więzieniach w zachodnich obwodach Białorusi i Ukrainy. Za rozstrzelaniem głosowali: Józef Stalin, Kliment Woroszyłow, Wiaczesław Mołotow, Anastas Mikojan, Łazar Kaganowicz, Michaił Kalinin, Ławrientij Beria. Nikt się nie wstrzymał. Nikt nie był przeciw.
-
-3.IV-19.V.1940
-
-Rozstrzelanie jeńców w Katyniu (z obozu w Kozielsku - 4421 osób), w w Twerze (z obozu w Ostaszkowie - 6311 osób) i w Charkowie (z obozu w Starobielsku - 3820 osób).
-
-wiosna-lato 1940
-
-Rozstrzelanie 7305 polskich obywateli więzionych na Białorusi i Ukrainie.
-
-16.VIII.1941
-
-Konferencja gen. Andersa z przedstawicielami władz radzieckich (Panfiłow, Żukow). Strona radziecka uchyla się od odpowiedzi na temat obozów w Kozielsku, Ostaszkowie i Starobielsku.
-
-wiosna 1942
-
-Polscy robotnicy przymusowi z załogi pociągu naprawczego Bahnzug 2005 München, poinformowani przez miejscową Polkę, odnajdują na uroczysku Kozie Góry w Lesie Katyńskim groby polskich oficerów i stawiają na nich dwa krzyże brzozowe.
-
-18.II.1943
-
-Początek rozkopywania grobów katyńskich i pierwsze ekshumacje dokonane przez Niemców.
-
-IV-VI.1943
-
-Odkrycie grobów w Katyniu (??? - panie Michnik!) i pierwsza ekshumacja dokonana przez Niemców.
-
-IV.1943
-
-Związek Patriotów Polskich (polscy komuniści) zwracają się z prośbą do rządu ZSRR o zgodę na utworzenie w ZSRR polskiej jednostki wojskowej.
-
-21.IV.1943
-
-Artykuł moskiewskiej "Prawdy" i Agencji TASS oskarżający Polaków o współpracę z Hitlerem.
-
-25-26.IV.1943
-
-Nota rządu ZSRR zrywająca stosunki z rządem polskim w Londynie.
-
-V.1943
-
-Formowanie 1 Dywizji im. Tadeusza Kościuszki, ramienia zbrojnego dla przyszłego komunistycznego polskiego rządu.
-
-4.VII.1943
-
-W lotniczym wypadku pod Gibraltarem ginie gen. Sikorski. Samolot tonie dość długo, ale cało wychodzi tylko czeski pilot. Nikt poza nim nie próbuje opuścić tonącego samolotu, bo prawdopodobnie już w chwili startu żaden z pasażerów nie był żywy. Gen. Sikorski był prawdopodobnie trzecią osobą wśród aliantów, oprócz Stalina i Churchila, która znała prawdę o Katyniu. O jedną osobę za dużo.
-
-IX.1943-I.1944
-
-Działanie komisji Nikołaja Burdenki, druga ekshumacja tym razem dokonana przez Rosjan. Zacieranie pozostałych śladów.
-
-8.X.1945
-
-Akt oskarżenia przeciwko niemieckim przestępcom wojennym odczytany w Berlinie w imieniu Wielkiej Brytanii, Francji, Stanów Zjednoczonych i Związku Radzieckiego, gdzie oskarżono Niemcy o popełnienie zbrodni katyńskiej.
-
-30.XI.1945
-
-W Egipcie ukazuje się Lista zaginionych jeńców z obozów rosyjskich Kozielsk, Ostaszków i Starobielsk, zestawiona przez Biuro Opieki nad Rodzinami Wojskowymi Dowództwa Polskich Sił Zbrojnych w ZSRR uzupełniona spisem Biura Pomocy Rodzinom Wojskowych i Jeńców Wojennych Dowództwa Wojsk Polskich na Środkowym Wschodzie (L. dz. 904/RW/45).
-
-13-14.II.1946
-
-Prokurator ZSRR płk Pokrowski oskarża Niemców w procesie norymberskim o popełnienie zbrodni katyńskiej. Wielka Brytania milczy.
-
-30.IX-1.X.1946
-
-Odczytanie wyroku w procesie norymberskim. W tekscie wyroku nie stwierdzono winy Niemców za dokonanie zbrodni katyńskiej.
-
-18.IX.1951-22.XII.1952
-
-Prace "Komisji do przeprowadzenia pełnych i całkowitych badań masakry katyńskiej" powołanej przez Kongres USA. Jej raport całkowicie obciążył ZSRR odpowiedzialnością za popełnioną zbrodnię.
-
-13.IV.1990
-
-Komunikat TASS: zbrodnia katyńska jest dziełem stalinowskiego NKWD. Tego samego dnia prezydent Michaił Gorbaczow przekazuje stronie polskiej pierwsze dokumenty katyńskie (tzw. listy śmierci).
-
-25.XII.1990
-
-Rozpoczęcie śledztwa w "sprawie katyńskiej", dochodzenie prowadzi Naczelna Prokuratura Wojskowa ZSRR we współpracy z Prokuraturą Generalną RP.
-
-lato 1991
-
-Ekshumacja w Charkowie i Miednoje prowadzone przez polskich ekspertów na potrzeby śledztwa.
-
-4.X.1992
-
-Wysłannik prezydenta Rosji Jelcyna prof. Rudolf Pichoja wręcza w Belwederze dokumenty katyńskie m.in. decyzję Politbiura KC WKP(b) z 5 marca 1940 r. oraz notatkę szefa KGB Aleksandra Szelepina z 9 marca 1959 r. do Nikity Chruszczowa z propozycją zniszczenia 21857 teczek personalnych polskich jeńców i więźniów zamordowanych w 1940 r.
-
-5.V.1994
-
-Szef Służby Bezpieczeństwa Ukrainy gen. Andriej Chomicz daje polskiemu prokuratorowi Stefanowi Śnieżko wykaz 3435 nazwisk więźniów rozstrzelanych przez NKWD na Ukrainie na mocy decyzji Politbiura z 5 marca 1949 r. (tzw. listę Cwietuchina).
-
-IX.1994
-
-Ciąg dalszy ekshumacji w Miednoje i Katyniu.
-
-21.IV.1995
-
-Szef Zarządu Zasobów Archiwalnych Federalnej Służby Bezpieczeństwa gen. Anatolij Krajuszkin oficjalnie informuje, że teczki osobowe i wyroki śmierci wydane przez trójkę NKWD ZSRR (Mierkułow, Kabułow, Basztakow) zostały spalone na Łubiance na przełomie marca i kwietnia 1959 r. na polecenie Chruszczowa.
-
-2004
-
-Śledztwo w sprawie katyńskiej trwa! Strona rosyjska nie wykazuje zainteresowania. Rząd polski też nie! Czy "starzy lewicowi przyjaciele" doszli do cichego porozumienia? Czy może czekają, aż przyschnie świeża rana na ciele niewinnej Rosji zadana przez niewdzięcznych Polaków?
+| 2.X.1939 | Decyzja Biura Politycznego KC WKP(b) "O jeńcach wojennych". |
+| --- | --- |
+| 3.X.1939 | Rozkaz ludowego komisarza spraw wewnętrznych Ławrientija Berii o utworzeniu obozów dla polskich jeńców wojennych w Kozielsku, Ostaszkowie i Starobielsku. |
+| II-III.1940 | III Konferencja Metodyczna NKWD i Gestapo w Zakopanem. Narady trwały 6 tygodni. Tu dopracowano metodykę i organizację zbrodni na polskich jeńcach. W konferencji wzięli udział zaproszeni przedstawiciele [wywiadu](http://www.rodzinapolska.pl/prawdahistor/archiwum/2002/99_1.htm) brytyjskiego. Wniosek - rządy Wielkiej Brytanii i hitlerowskich Niemiec doskonale znały plany wymordowania jeńców polskich!!!<br>(Czy gen. Sikorski musiał zginąć, bo o tym wiedział?). |
+| 5.III.1940 | Decyzja Politbiura o rozstrzelaniu 14,7 tys. polskich jeńców i 11 tys. polskich obywateli przetrzymywanych w więzieniach w zachodnich obwodach Białorusi i Ukrainy. Za rozstrzelaniem głosowali: Józef Stalin, Kliment Woroszyłow, Wiaczesław Mołotow, Anastas Mikojan, Łazar Kaganowicz, Michaił Kalinin, Ławrientij Beria. Nikt się nie wstrzymał. Nikt nie był przeciw. |
+| 3.IV-19.V.1940 | Rozstrzelanie jeńców w Katyniu (z obozu w Kozielsku - 4421 osób), w w Twerze (z obozu w Ostaszkowie - 6311 osób) i w Charkowie (z obozu w Starobielsku - 3820 osób). |
+| wiosna-lato 1940 | Rozstrzelanie 7305 polskich obywateli więzionych na Białorusi i Ukrainie. |
+| 16.VIII.1941 | Konferencja gen. Andersa z przedstawicielami władz radzieckich (Panfiłow, Żukow). Strona radziecka uchyla się od odpowiedzi na temat obozów w Kozielsku, Ostaszkowie i Starobielsku. |
+| wiosna 1942 | Polscy robotnicy przymusowi z załogi pociągu naprawczego Bahnzug 2005 München, poinformowani przez miejscową Polkę, odnajdują na uroczysku Kozie Góry w Lesie Katyńskim groby polskich oficerów i stawiają na nich dwa krzyże brzozowe. |
+| 18.II.1943 | Początek rozkopywania grobów katyńskich i pierwsze ekshumacje dokonane przez Niemców. |
+| IV-VI.1943 | Odkrycie grobów w Katyniu (??? - panie Michnik!) i pierwsza ekshumacja dokonana przez Niemców. |
+| IV.1943 | Związek Patriotów Polskich (polscy komuniści) zwracają się z prośbą do rządu ZSRR o zgodę na utworzenie w ZSRR polskiej jednostki wojskowej. |
+| 21.IV.1943 | Artykuł moskiewskiej "Prawdy" i Agencji TASS oskarżający Polaków o współpracę z Hitlerem. |
+| 25-26.IV.1943 | Nota rządu ZSRR zrywająca stosunki z rządem polskim w Londynie. |
+| V.1943 | Formowanie 1 Dywizji im. Tadeusza Kościuszki, ramienia zbrojnego dla przyszłego komunistycznego polskiego rządu. |
+| 4.VII.1943 | W lotniczym wypadku pod Gibraltarem ginie gen. Sikorski. Samolot tonie dość długo, ale cało wychodzi tylko czeski pilot. Nikt poza nim nie próbuje opuścić tonącego samolotu, bo prawdopodobnie już w chwili startu żaden z pasażerów nie był żywy. Gen. Sikorski był prawdopodobnie trzecią osobą wśród aliantów, oprócz Stalina i Churchila, która znała prawdę o Katyniu. O jedną osobę za dużo. |
+| IX.1943-I.1944 | Działanie komisji Nikołaja Burdenki, druga ekshumacja tym razem dokonana przez Rosjan. Zacieranie pozostałych śladów. |
+| 8.X.1945 | Akt oskarżenia przeciwko niemieckim przestępcom wojennym odczytany w Berlinie w imieniu Wielkiej Brytanii, Francji, Stanów Zjednoczonych i Związku Radzieckiego, gdzie oskarżono Niemcy o popełnienie zbrodni katyńskiej. |
+| 30.XI.1945 | W Egipcie ukazuje się Lista zaginionych jeńców z obozów rosyjskich Kozielsk, Ostaszków i Starobielsk, zestawiona przez Biuro Opieki nad Rodzinami Wojskowymi Dowództwa Polskich Sił Zbrojnych w ZSRR uzupełniona spisem Biura Pomocy Rodzinom Wojskowych i Jeńców Wojennych Dowództwa Wojsk Polskich na Środkowym Wschodzie (L. dz. 904/RW/45). |
+| 13-14.II.1946 | Prokurator ZSRR płk Pokrowski oskarża Niemców w procesie norymberskim o popełnienie zbrodni katyńskiej. Wielka Brytania milczy. |
+| 30.IX-1.X.1946 | Odczytanie wyroku w procesie norymberskim. W tekscie wyroku nie stwierdzono winy Niemców za dokonanie zbrodni katyńskiej. |
+| 18.IX.1951-22.XII.1952 | Prace "Komisji do przeprowadzenia pełnych i całkowitych badań masakry katyńskiej" powołanej przez Kongres USA. Jej raport całkowicie obciążył ZSRR odpowiedzialnością za popełnioną zbrodnię. |
+| 13.IV.1990 | Komunikat TASS: zbrodnia katyńska jest dziełem stalinowskiego NKWD. Tego samego dnia prezydent Michaił Gorbaczow przekazuje stronie polskiej pierwsze dokumenty katyńskie (tzw. listy śmierci). |
+| 25.XII.1990 | Rozpoczęcie śledztwa w "sprawie katyńskiej", dochodzenie prowadzi Naczelna Prokuratura Wojskowa ZSRR we współpracy z Prokuraturą Generalną RP. |
+| lato 1991 | Ekshumacja w Charkowie i Miednoje prowadzone przez polskich ekspertów na potrzeby śledztwa. |
+| 4.X.1992 | Wysłannik prezydenta Rosji Jelcyna prof. Rudolf Pichoja wręcza w Belwederze dokumenty katyńskie m.in. decyzję Politbiura KC WKP(b) z 5 marca 1940 r. oraz notatkę szefa KGB Aleksandra Szelepina z 9 marca 1959 r. do Nikity Chruszczowa z propozycją zniszczenia 21857 teczek personalnych polskich jeńców i więźniów zamordowanych w 1940 r. |
+| 5.V.1994 | Szef Służby Bezpieczeństwa Ukrainy gen. Andriej Chomicz daje polskiemu prokuratorowi Stefanowi Śnieżko wykaz 3435 nazwisk więźniów rozstrzelanych przez NKWD na Ukrainie na mocy decyzji Politbiura z 5 marca 1949 r. (tzw. listę Cwietuchina). |
+| IX.1994 | Ciąg dalszy ekshumacji w Miednoje i Katyniu. |
+| 21.IV.1995 | Szef Zarządu Zasobów Archiwalnych Federalnej Służby Bezpieczeństwa gen. Anatolij Krajuszkin oficjalnie informuje, że teczki osobowe i wyroki śmierci wydane przez trójkę NKWD ZSRR (Mierkułow, Kabułow, Basztakow) zostały spalone na Łubiance na przełomie marca i kwietnia 1959 r. na polecenie Chruszczowa. |
+| 2004 | Śledztwo w sprawie katyńskiej trwa! Strona rosyjska nie wykazuje zainteresowania. Rząd polski też nie! Czy "starzy lewicowi przyjaciele" doszli do cichego porozumienia? Czy może czekają, aż przyschnie świeża rana na ciele niewinnej Rosji zadana przez niewdzięcznych Polaków? |
 
 **Kalendarium poszukiwań "zaginionych" polskich jeńców wojennych**  
 na podstawie: Andrzej Leszek Szczesniak "Katyń - tło historyczne, fakty, dokumenty", Alfa, 1989.
 
-13-30.X.1940
-
-Rozmowy NKWD z polskimi oficerami-więźniami Butyrek i Łubianki na temat tworzenia polskiej "czerwonej" dywizji w ZSRR. Na żądanie płk. Berlinga o włączenie do dywizji polskich oficerów z Kozielska, Starobielska i Ostaszkowa. Mierkułow odpowiada: Nie, ci to nie. Zrobiliśmy z nimi wielką pomyłkę".
-
-30.VII.1941
-
-Podpisanie polsko-radzieckiego układu o współpracy.
-
-4.VIII.1941
-
-Zwolnienie gen. Andersa z radzieckiego więzienia.
-
-13.VIII.1941
-
-Rozporządzenie Prezydium Rady Najwyższej ZSRR o amnestii dla Polaków.
-
-14.VIII.1941
-
-Podpisanie polsko-radzieckiej umowy wojskowej.
-
-16.VIII.1941
-
-Pierwsza oficjalna konferencja gen. Andersa z przedstawicielami władz wojskowych (gen. Panfiłow i gen. Żukow z NKWD). Strona radziecka uchyla się od odpowiedzi na temat obozów w Kozielsku, Starobielsku i Ostaszkowie .
-
-VIII.1941
-
-Utworzenie specjalnego biura Sztabu Armii Polskiej w ZSRR pod kierownictwem rtm. Józefa Czapskiego ds. Zaginionych z Kozielska, Starobielska i Ostaszkowa.
-
-6.IX.1941
-
-Ambasador polski w ZSRR St. Kot wręcza A. Wyszyńskiemu (wtedy zastępcy przewodniczącego Rady Komisarzy Ludowych) pierwszą listę zaginionych.
-
-20.IX.1941
-
-Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.
-
-27.IX.1941
-
-Nota ambasadora St. Kota do rządu ZSRR w sprawie nierealizowania układu z 30.VII 1941 r.
-
-IX-X.1941
-
-Służby wywiadowcze Polski Walczącej na rozkaz gen. Sikorskiego poszukują w kraju i niemieckich oflagach zaginionych jeńców z Kozielska, Starobielska i Ostaszkowa rzekomo zwolnionych do Kraju. Bez rezultatu.
-
-6.X.1941
-
-Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.
-
-13.X.1941
-
-Nota Ambasady Polskiej do rządu ZSRR w sprawie niewypełnienia zobowiązań co do zwolnienia obywateli polskich.
-
-14.X.1941
-
-Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.
-
-15.X.1941
-
-Specjalna nota gen. Sikorskiego do radzieckiego ambasadora przy rządzie polskim Bogomołowa w sprawie zaginionych jeńców. Nota bez odpowiedzi.
-
-22.X.1941
-
-Interwencja St. Kota u W. Mołotowa w sprawie zaginionych jeńców wojennych.
-
-1.XI.1941
-
-Ambasador St. Kot wręcza W. Mołotowowi poufną notę, w której usiłuje skłonić rząd ZSRR do zwolnienia jeńców wojennych.
-
-2.XI.1941
-
-Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.
-
-3.XI.1941
-
-Interwencja brytyjska u władz ZSRR w sprawie zaginionych jeńców wojennych.
-
-4.XI.1941
-
-Pismo gen. Andersa do NKWD z prośbą o wyjaśnienie losu zaginionych jeńców wraz z podaniem liczby zaginionych - 8722 osób.
-
-8.XI.1941
-
-Nota W. Mołotowa do Rządu Polskiego o "pełnym wykonaniu ukazu amnestyjnego w stosunku do Polaków".
-
-12.XI.1941
-
-Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.
-
-14.XI.1941
-
-Nota ambasadora Bogomołowa do ambasadora Raczyńskiego stwierdzająca zwolnienie wszystkich jeńców. Przyjęcie St. Kota przez J. Stalina. Interwencja w sprawie zaginionych jeńców wojennych.
-
-1.XII.1941
-
-Notatka Ambasady Polskiej stwierdzająca, że brak jakichkolwiek śladów po 95% wszystkich jeńcach z Kozielska, Starobielska i Ostaszkowa.
-
-3.XII.1941
-
-Rozmowa gen. Sikorskiego ze Stalinem w obecności gen. Andersa i W. Mołotowa. Sikorski wręcza Stalinowi drugą listę 4000 zaginionych. Stalin oświadcza, że zaginieni uciekli do Mandżurii.
-
-I.1942
-
-Rtm. Józef Czapski z upoważnienia gen. Andersa interweniuje u naczelnika NKWD obwodu czkałowskiego Bzyrowa oraz u szefa Gułagu gen. Nasiedkina.
-
-28.I.1942
-
-Oficjalna interwencja Rządu Polskiego w sprawie zaginionych jeńców (nota nr 49). Bez odpowiedzi.
-
-3.II.1942
-
-Rtm. Józef Czapski interweniuje u gen. Rajchmana z NKWD.
-
-8.III.1942
-
-Cenzura radziecka zabrania ogłaszania w piśmie "Polska" poszukiwań rodzin na terenie ZSRR.
-
-18.III.1942
-
-Gen. Anders i płk Okulicki u Stalina. Kolejna interwencja. Wręcznie kolejnej listy z 4518 zaginionych.
-
-19.V.1942
-
-Ambasada Polska składa w Moskwie "Memorandum w sprawie wykonania Protokołu Dodatkowego do Układu Polsko-Sowieckiego z dnia 30.VII.1941" dotyczace sprawy zaginionych jeńców.
-
-13.VI.1942
-
-Wiadomości z północy o "zatopieniu barek z jeńcami". Kolejna nota w sprawie zaginionych jeńców.
-
-8.VII.1942
-
-Aide-memoire rządu ZSRR na memorandum polskie z 19.V.1942 wyjaśnia, że jeńcy polscy:  
-1\. wyjechali do Polski, 2. uciekli za granicę, 3. zmarli w drodze.
-
-27.VII.1942
-
-Nota polskiego ministra spraw zagranicznych w Londynie w sprawie zamknięcia przez władze radzieckie poboru do Polskich Sił Zbrojnych na terytorium ZSRR oraz w sprawie zaginionych jeńców.
-
-Prawie dokładnie rok później w dziwnych okolicznościach ginie gen. Sikorski. Wraz ze śmiercią generała, w gronie aliantów "uśmiercona" zostaje sprawa Katynia.
+| 13-30.X.1940 | Rozmowy NKWD z polskimi oficerami-więźniami Butyrek i Łubianki na temat tworzenia polskiej "czerwonej" dywizji w ZSRR. Na żądanie płk. Berlinga o włączenie do dywizji polskich oficerów z Kozielska, Starobielska i Ostaszkowa. Mierkułow odpowiada: Nie, ci to nie. Zrobiliśmy z nimi wielką pomyłkę". |
+| --- | --- |
+| 30.VII.1941 | Podpisanie polsko-radzieckiego układu o współpracy. |
+| 4.VIII.1941 | Zwolnienie gen. Andersa z radzieckiego więzienia. |
+| 13.VIII.1941 | Rozporządzenie Prezydium Rady Najwyższej ZSRR o amnestii dla Polaków. |
+| 14.VIII.1941 | Podpisanie polsko-radzieckiej umowy wojskowej. |
+| 16.VIII.1941 | Pierwsza oficjalna konferencja gen. Andersa z przedstawicielami władz wojskowych (gen. Panfiłow i gen. Żukow z NKWD). Strona radziecka uchyla się od odpowiedzi na temat obozów w Kozielsku, Starobielsku i Ostaszkowie . |
+| VIII.1941 | Utworzenie specjalnego biura Sztabu Armii Polskiej w ZSRR pod kierownictwem rtm. Józefa Czapskiego ds. Zaginionych z Kozielska, Starobielska i Ostaszkowa. |
+| 6.IX.1941 | Ambasador polski w ZSRR St. Kot wręcza A. Wyszyńskiemu (wtedy zastępcy przewodniczącego Rady Komisarzy Ludowych) pierwszą listę zaginionych. |
+| 20.IX.1941 | Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych. |
+| 27.IX.1941 | Nota ambasadora St. Kota do rządu ZSRR w sprawie nierealizowania układu z 30.VII 1941 r. |
+| IX-X.1941 | Służby wywiadowcze Polski Walczącej na rozkaz gen. Sikorskiego poszukują w kraju i niemieckich oflagach zaginionych jeńców z Kozielska, Starobielska i Ostaszkowa rzekomo zwolnionych do Kraju. Bez rezultatu. |
+| 6.X.1941 | Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych. |
+| 13.X.1941 | Nota Ambasady Polskiej do rządu ZSRR w sprawie niewypełnienia zobowiązań co do zwolnienia obywateli polskich. |
+| 14.X.1941 | Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych. |
+| 15.X.1941 | Specjalna nota gen. Sikorskiego do radzieckiego ambasadora przy rządzie polskim Bogomołowa w sprawie zaginionych jeńców. Nota bez odpowiedzi. |
+| 22.X.1941 | Interwencja St. Kota u W. Mołotowa w sprawie zaginionych jeńców wojennych. |
+| 1.XI.1941 | Ambasador St. Kot wręcza W. Mołotowowi poufną notę, w której usiłuje skłonić rząd ZSRR do zwolnienia jeńców wojennych. |
+| 2.XI.1941 | Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych. |
+| 3.XI.1941 | Interwencja brytyjska u władz ZSRR w sprawie zaginionych jeńców wojennych. |
+| 4.XI.1941 | Pismo gen. Andersa do NKWD z prośbą o wyjaśnienie losu zaginionych jeńców wraz z podaniem liczby zaginionych - 8722 osób. |
+| 8.XI.1941 | Nota W. Mołotowa do Rządu Polskiego o "pełnym wykonaniu ukazu amnestyjnego w stosunku do Polaków". |
+| 12.XI.1941 | Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych. |
+| 14.XI.1941 | Nota ambasadora Bogomołowa do ambasadora Raczyńskiego stwierdzająca zwolnienie wszystkich jeńców. Przyjęcie St. Kota przez J. Stalina. Interwencja w sprawie zaginionych jeńców wojennych. |
+| 1.XII.1941 | Notatka Ambasady Polskiej stwierdzająca, że brak jakichkolwiek śladów po 95% wszystkich jeńcach z Kozielska, Starobielska i Ostaszkowa. |
+| 3.XII.1941 | Rozmowa gen. Sikorskiego ze Stalinem w obecności gen. Andersa i W. Mołotowa. Sikorski wręcza Stalinowi drugą listę 4000 zaginionych. Stalin oświadcza, że zaginieni uciekli do Mandżurii. |
+| I.1942 | Rtm. Józef Czapski z upoważnienia gen. Andersa interweniuje u naczelnika NKWD obwodu czkałowskiego Bzyrowa oraz u szefa Gułagu gen. Nasiedkina. |
+| 28.I.1942 | Oficjalna interwencja Rządu Polskiego w sprawie zaginionych jeńców (nota nr 49). Bez odpowiedzi. |
+| 3.II.1942 | Rtm. Józef Czapski interweniuje u gen. Rajchmana z NKWD. |
+| 8.III.1942 | Cenzura radziecka zabrania ogłaszania w piśmie "Polska" poszukiwań rodzin na terenie ZSRR. |
+| 18.III.1942 | Gen. Anders i płk Okulicki u Stalina. Kolejna interwencja. Wręcznie kolejnej listy z 4518 zaginionych. |
+| 19.V.1942 | Ambasada Polska składa w Moskwie "Memorandum w sprawie wykonania Protokołu Dodatkowego do Układu Polsko-Sowieckiego z dnia 30.VII.1941" dotyczace sprawy zaginionych jeńców. |
+| 13.VI.1942 | Wiadomości z północy o "zatopieniu barek z jeńcami". Kolejna nota w sprawie zaginionych jeńców. |
+| 8.VII.1942 | Aide-memoire rządu ZSRR na memorandum polskie z 19.V.1942 wyjaśnia, że jeńcy polscy:<br>1\. wyjechali do Polski, 2. uciekli za granicę, 3. zmarli w drodze. |
+| 27.VII.1942 | Nota polskiego ministra spraw zagranicznych w Londynie w sprawie zamknięcia przez władze radzieckie poboru do Polskich Sił Zbrojnych na terytorium ZSRR oraz w sprawie zaginionych jeńców.<br>Prawie dokładnie rok później w dziwnych okolicznościach ginie gen. Sikorski. Wraz ze śmiercią generała, w gronie aliantów "uśmiercona" zostaje sprawa Katynia. |
 
 **Zadośćuczynienie**
 
@@ -415,30 +226,10 @@ Najpierw Związek Sybiraków potem Rodziny Katyńskie. Te organizacje powstały 
 
 Jak nasz rząd traktuje rodziny ofiar? Przeczytaj poniższy dokument.
 
-MINISTER SPRAWIEDLIWOŚCI  
-Warszawa  
-  
-
-List otwarty  
-  
-Dnia 10 grudnia 1991 r. Instytut Katyński w Polsce zwrócił się do Ministra Sprawiedliwości i Ministra Spraw Zagranicznych w sprawie odszkodowań za zbrodnię katyńską przysługujących rodzinom zamordowanych w r. 1940 oficerów WP, funkcjonariuszy PP oraz innych ofiar, podając proponowaną podstawę prawną takiego wystąpienia.
-
-Ministerstwo Spraw Zagranicznych pismem z dnia 8 stycznia 1992 zajęło w tej sprawie kompetentne stanowisko.  
-Minister Sprawiedliwości milczy.
-
-Minister Sprawiedliwości milczał przez lat pięćdziesiąt bez mała, a nie trzeba nikogo przekonywać, że właśnie Minister Sprawiedliwości i Prokurator Generalny ma szczególny obowiązek występowania z urzędu w poruszonej przez Instytut Katyński w Polsce sprawie.
-
-Ludzie uprawnieni do otrzymania odszkodowań - wdowy po ofiarach zbrodni katyńskiej - przekroczyły 80 rok życia, dzieci - 50 rok życia.  
-O milczeniu Ministra Sprawiedliwości i Prokuratora Generalnego zarazem, informujemy opinię publiczną, podając pod jej osąd ten fakt.
-
-Instytut Katyński w Polsce domaga się odpowiedzi na pytanie, na co jeszcze czeka Minister Sprawiedliwości i Prokurator Generalny? Czyżby na odejście z tego świata zainteresowanych, którzy nie doczekają się nawet podjęcia kroków o odszkodowanie?  
-  
-  
-
-Kraków, dnia 25 marca 1992 r.
-
-ZARZĄD  
-Instytutu Katyńskiego w Polsce
+|   | MINISTER SPRAWIEDLIWOŚCI<br>Warszawa |
+| --- | --- |
+| List otwarty<br><br>Dnia 10 grudnia 1991 r. Instytut Katyński w Polsce zwrócił się do Ministra Sprawiedliwości i Ministra Spraw Zagranicznych w sprawie odszkodowań za zbrodnię katyńską przysługujących rodzinom zamordowanych w r. 1940 oficerów WP, funkcjonariuszy PP oraz innych ofiar, podając proponowaną podstawę prawną takiego wystąpienia.<br>Ministerstwo Spraw Zagranicznych pismem z dnia 8 stycznia 1992 zajęło w tej sprawie kompetentne stanowisko.<br>Minister Sprawiedliwości milczy.<br>Minister Sprawiedliwości milczał przez lat pięćdziesiąt bez mała, a nie trzeba nikogo przekonywać, że właśnie Minister Sprawiedliwości i Prokurator Generalny ma szczególny obowiązek występowania z urzędu w poruszonej przez Instytut Katyński w Polsce sprawie.<br>Ludzie uprawnieni do otrzymania odszkodowań - wdowy po ofiarach zbrodni katyńskiej - przekroczyły 80 rok życia, dzieci - 50 rok życia.<br>O milczeniu Ministra Sprawiedliwości i Prokuratora Generalnego zarazem, informujemy opinię publiczną, podając pod jej osąd ten fakt.<br>Instytut Katyński w Polsce domaga się odpowiedzi na pytanie, na co jeszcze czeka Minister Sprawiedliwości i Prokurator Generalny? Czyżby na odejście z tego świata zainteresowanych, którzy nie doczekają się nawet podjęcia kroków o odszkodowanie? |   |
+| Kraków, dnia 25 marca 1992 r. | ZARZĄD<br>Instytutu Katyńskiego w Polsce |
 
 Napluli im w twarz. Oni odrzekli, że pada deszcz. Czy pamiętasz, kto wtedy był u władzy?  
 Kiedyś jakaś "wybranka narodu", chyba nawet zlewicowana, powiedziała, że społeczeństwo, to zbiór przypadkowych ludzi. Wychodzi na to, że ci przypadkowi wybrali jeszcze bardziej przypadkowych.  
@@ -631,141 +422,43 @@ Tego współcześni "carowie" z Moskwy nie chcą brać pod uwagę. Ich moralnoś
 
 Nie sposób nie wspomnieć tych, którym po półwieczu pierwszym dane było ujrzeć miejsce spoczynku pomordowanych. Byli to członkowie polskiej ekipy ekshumacyjnej, członkowie rosyjskiej prokuratury oraz oficerowie i żołnierze, jeszcze wtedy, Armii Radzieckiej.
 
-mgr Stefan Śnieżko
-
-zastępca Prokuratora Generalnego Ministerstwa Sprawiedliwości
-
-mgr Zbigniew Mielecki
-
-prokurator w Ministerstwie Sprawiedliwości
-
-płk dr Przemysław Tomaszewski
-
-Prokuratura Warszawskiego Okręgu Wojskowego
-
-płk mgr Andrzej Komarski
-
-szef Prokuratury Warszawskiego Okręgu Wojskowego
-
-prof. dr hab. Bronisław Młodziejowski
-
-antropolog, dyrektor Instytutu Nauk Policyjnych w Legionowie
-
-dr hab. Roman Mądro
-
-docent w Katedrze i Zakładzie Medycyny Sądowej AM w Lublinie
-
-dr Erazm Baran
-
-adiunkt w Katedrze i Zakładzie Medycyny Sądowej AM w Krakowie
-
-doc. dr hab Marian Głosek
-
-Zakład Archeologii Polski Środkowej Instytutu Historii Kultury Materialnej PAN
-
-płk w st. spocz. Zdzisław Sawicki
-
-ekspert z zakresu falerystyki
-
-mgr inż. Jarosław Rosiak
-
-komisarz Policji, Centralne Laboratorium Kryminalistyki KG Policji
-
-Aleksander Załęski
-
-aspirant Policji, ekspert fotografii w Centralnym Laboratorium Kryminalistyki KG Policji
-
-mgr inż. Jędrzej Tucholski
-
-asystent Dyrektora Instytutu Elektrotechniki w Warszawie, ekspert z zakresu historii
-
-Elżbieta Rejf
-
-kierownik Biura Informacji i Poszukiwań w Zarządzie Głównym PCK
-
-ks. Prałat Zdzisław Peszkowski
-
-kapelan Rodzin Katyńskich, jeniec Kozielska, żołnierz II Korpusu Polskiego
-
-Aleksiej Pamiatnych
-
-polska sekcja Memoriał, astronom
-
-mgr Józef Gębski
-
-reżyser w Wytwórni Filmów Dokumentalnych w Warszawie
-
-Waldemar Grodzki
-
-kamerzysta
-
-Jerzy Snoch
-
-asystent operatora
-
-mgr Stanisław Mikke
-
-zastępca redaktora naczelnego "Palestry", adwokat
-
-Waldemar Linek
-
-kierowca polskiego autokaru
-
-Paweł Czerwiński
-
-ambasada Polska w Moskwie, tłumacz
-
-gen. Wiaczesław Frołow
-
-Naczelna Prokuratura Wojskowa ZSRR
-
-gen. Władymir Kupiec
-
-Naczelna Prokuratura Wojskowa ZSRR
-
-gen. Jurij Rybakow
-
-Moskiewski Okręg Wojskowy
-
-płk Aleksander Tretiecki
-
-Naczelna Prokuratura Wojskowa ZSRR
-
-płk Mikołaj Anisimow
-
-Naczelna Prokuratura Wojskowa ZSRR
-
-płk Stefan Rodziewicz
-
-Naczelna Prokuratura Wojskowa ZSRR
-
-płk Jurij Szumiejko
-
-Sztab Generalny Armii Radzieckiej
-
-mjr Jabłokow
-
-protokolant ochotnik
-
-por. Włodzimierz Zadworniew
-
-lekarz wojskowy
-
-Sergiej Głuszkow
-
-Memoriał
-
-Nikołaj Wasilewicz Szerepier
-
-żołnierz, Mołdawianin
-
-Wasilij Waleriewicz Szerdiukow
-
-żołnierz, spod Włodzimierza
-
-Wasilij Linnik
-
-żołnierz, szeregowiec
+| mgr Stefan Śnieżko | zastępca Prokuratora Generalnego Ministerstwa Sprawiedliwości |
+| --- | --- |
+| mgr Zbigniew Mielecki | prokurator w Ministerstwie Sprawiedliwości |
+| płk dr Przemysław Tomaszewski | Prokuratura Warszawskiego Okręgu Wojskowego |
+| płk mgr Andrzej Komarski | szef Prokuratury Warszawskiego Okręgu Wojskowego |
+| prof. dr hab. Bronisław Młodziejowski | antropolog, dyrektor Instytutu Nauk Policyjnych w Legionowie |
+| dr hab. Roman Mądro | docent w Katedrze i Zakładzie Medycyny Sądowej AM w Lublinie |
+| dr Erazm Baran | adiunkt w Katedrze i Zakładzie Medycyny Sądowej AM w Krakowie |
+| doc. dr hab Marian Głosek | Zakład Archeologii Polski Środkowej Instytutu Historii Kultury Materialnej PAN |
+| płk w st. spocz. Zdzisław Sawicki | ekspert z zakresu falerystyki |
+| mgr inż. Jarosław Rosiak | komisarz Policji, Centralne Laboratorium Kryminalistyki KG Policji |
+| Aleksander Załęski | aspirant Policji, ekspert fotografii w Centralnym Laboratorium Kryminalistyki KG Policji |
+| mgr inż. Jędrzej Tucholski | asystent Dyrektora Instytutu Elektrotechniki w Warszawie, ekspert z zakresu historii |
+| Elżbieta Rejf | kierownik Biura Informacji i Poszukiwań w Zarządzie Głównym PCK |
+| ks. Prałat Zdzisław Peszkowski | kapelan Rodzin Katyńskich, jeniec Kozielska, żołnierz II Korpusu Polskiego |
+| Aleksiej Pamiatnych | polska sekcja Memoriał, astronom |
+| mgr Józef Gębski | reżyser w Wytwórni Filmów Dokumentalnych w Warszawie |
+| Waldemar Grodzki | kamerzysta |
+| Jerzy Snoch | asystent operatora |
+| mgr Stanisław Mikke | zastępca redaktora naczelnego "Palestry", adwokat |
+| Waldemar Linek | kierowca polskiego autokaru |
+| Paweł Czerwiński | ambasada Polska w Moskwie, tłumacz |
+
+| gen. Wiaczesław Frołow | Naczelna Prokuratura Wojskowa ZSRR |
+| --- | --- |
+| gen. Władymir Kupiec | Naczelna Prokuratura Wojskowa ZSRR |
+| gen. Jurij Rybakow | Moskiewski Okręg Wojskowy |
+| płk Aleksander Tretiecki | Naczelna Prokuratura Wojskowa ZSRR |
+| płk Mikołaj Anisimow | Naczelna Prokuratura Wojskowa ZSRR |
+| płk Stefan Rodziewicz | Naczelna Prokuratura Wojskowa ZSRR |
+| płk Jurij Szumiejko | Sztab Generalny Armii Radzieckiej |
+| mjr Jabłokow | protokolant ochotnik |
+| por. Włodzimierz Zadworniew | lekarz wojskowy |
+| Sergiej Głuszkow | Memoriał |
+| Nikołaj Wasilewicz Szerepier | żołnierz, Mołdawianin |
+| Wasilij Waleriewicz Szerdiukow | żołnierz, spod Włodzimierza |
+| Wasilij Linnik | żołnierz, szeregowiec |
 
 Ekshumację wspomagało 54 żołnierzy z Kantymirowskiej Dywizji Pancernej pod dowództwem ppłk Wiktora Połyncowa oraz Twerski Czerwony Krzyż.
 

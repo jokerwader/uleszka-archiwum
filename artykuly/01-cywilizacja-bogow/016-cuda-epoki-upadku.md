@@ -213,30 +213,24 @@ Sydon to nie tylko "morski zamek" ale także kamienny zamek na lądzie (zwany ta
 
 Oprócz wielkich kompleksów budowlanych zwanych powszechnie cytadelami, Bliski Wschód jest usiany setkami kamiennych zamków. Ile takich zamków lub ich ruin kryją jeszcze piski pustyń? Tego nie wiemy, bo badania tego terenu prowadzone są sporadycznie lub wcale z uwagi na wrogość świata arabskiego. Sami Arabowie się do tego nie kwapią, bo nie widzą celu, a jeśli już zaczynają coś odkopywać, to tylko po to by potwierdzać wersety Koranu. Hipotezy arabskich uczonych raczej nie przenikają do naszego świata, a jeśli nawet, to nie są w stanie zagrozić hipotezom "białych".
 
-![](../../zrodlo/webacja/warownie/war_bw/bagras1.jpg)
-
-![](../../zrodlo/webacja/warownie/war_bw/byblos1.jpg)
-
-![](../../zrodlo/webacja/warownie/war_bw/saone1.jpg)
-
+![](../../zrodlo/webacja/warownie/war_bw/bagras1.jpg)  
 Bagras
 
+![](../../zrodlo/webacja/warownie/war_bw/byblos1.jpg)  
 Byblos
 
+![](../../zrodlo/webacja/warownie/war_bw/saone1.jpg)  
 Saona
 
 Zamek w Bagras ponoć zajmowali i Rzymianie i Bizantyjczycy i Templariusze. Kto go wybudował? W zasadzie nie wiadomo, a historyczne stwierdzenia są wypełnione słowem "prawdopodobnie" i zależą od narodowości narratora. Wiekszość skłania się do tezy, że "większa część budowli jest dziełem Leona II, a templariusze zajęli się tylko jego zagospodarowaniem". Byblos przypisuje się Fenicjanom, a Saona Bizantyjczykom gdzieś w IV-V wieku ne. Kamienne mury o regularnych elementach świadcza o wysokiej znajomości sztuki obróbki kamienia. Jak w tamtych czasach wynoszono w górę elementy o tak znacznej wadze i precyzyjnie układano obok siebie?
 
-![](../../zrodlo/webacja/warownie/war_bw/azrak1.jpg)
-
-![](../../zrodlo/webacja/warownie/war_bw/safita2.jpg)
-
-![](../../zrodlo/webacja/warownie/war_bw/saladin2.jpg)
-
+![](../../zrodlo/webacja/warownie/war_bw/azrak1.jpg)  
 Azrak
 
+![](../../zrodlo/webacja/warownie/war_bw/safita2.jpg)  
 Safita
 
+![](../../zrodlo/webacja/warownie/war_bw/saladin2.jpg)  
 Zamek Saladyna (Saona)
 
 Zastanówmy się też nad technicznym rozwiązaniem budowy łuków z potężnych kamiennych elementów w przyziemiach zamków Azrak, Safita czy zamku Saladyna. Jeśli używano drewnianych rusztowań, to proszę pamiętać, że nie tylko do budowy kamiennych łuków. Rusztowania musiały podpierac także całe kamienne stropy. Dlaczego ściany i sufity nie posiadają żadnych ozdób, a przynajmniej nie sa wygładzone tynkiem? Saladyn, potężny władca wschodu mieszkał w gołych murach? A gdzie ten przysłowiowy wschodni przepych? Rozkradziony? Przez kogo?
@@ -259,94 +253,74 @@ Udajmy się teraz na "nasze" tereny. Europa to tysiące, jeśli nie więcej duż
 
 Czy w średniowieczu nie było budynków z cegły? Były, są i jest ich dużo. Problemem jest tylko kto i kiedy budował z takiego rodzaju cegły. Proszę zwrócić uwagę na kształt cegły - jest długa i płaska, czym od razu wyróżnia się wśród cegieł - współczesnej czy średniowiecznej tzw. palcówki. Cegły tego rodzaju używano od Hiszpanii poprzez Rzym aż po Grecję i dzisiejszą Turcję. Ten sam rodzaj cegły został użyty także przy budowie Hagia Sophia w Konstantynopolu. W samym Rzymie budowle z tego materiału spotykamy na Palatynacie, z niego zbudowano termy, koloseum, pałace cezarów i wiele innych budowli. Poza Rzymem cegłę taką można spotkać też w Pompejach i Bari.
 
-![](../../zrodlo/webacja/warownie/war_eu/cconimbriga.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/coloss.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/cpompeja.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/ctessaloniki.jpg)
-
+![](../../zrodlo/webacja/warownie/war_eu/cconimbriga.jpg)  
 Conimbriga
 
+![](../../zrodlo/webacja/warownie/war_eu/coloss.jpg)  
 Rzym
 
+![](../../zrodlo/webacja/warownie/war_eu/cpompeja.jpg)  
 Pompeje
 
+![](../../zrodlo/webacja/warownie/war_eu/ctessaloniki.jpg)  
 Tessaloniki
 
 Jeśli za rozpowszechnienie tej cegły "winić" Imperium Rzymskie, to pojawia się pewien problem. Budowle z niej pojawiły się na długo przed wynalezieniem przez Rzymian... właśnie cegły. Historycy twierdzą stanowczo, że cegłę wynaleźli Rzymianie ale dopiero w II w. ne, gdzie zaczęto ją wytwarzać w małych, przydomowych warsztatach razem z dachówkami. Jakim tedy "prawem" używał tej cegły Krezus budując Sardes? Krezus to przecież historia na długo przed powstaniem imperium. Skąd taka cegła w Grecji, w Tessalonikach? Jaka to "cegielnia" wyprodukowała cegły na budowę chociażby koloseum (70-82 r. ne)? Dlaczego taka cegła wyziera z murów Alhambry, zbudowanej rzekomo przez Arabów dopiero w XIII w.? Pomimo usilnych poszukiwań nie udało mi się znaleźć zdjęć budowli z tego materiału we Francji, Niemczech, Irlandii, Brytanii, Skandynawii czy poza kręgiem tureckim. Pomijając łuk w Conimbriga (cegła podobna, ale styl budowy już nie, bo jakiś mało elegancki) "ceglany krąg" można zawęzić do części Hiszpanii, środkowych i południowych Włoch, Grecji i zachodniej Turcji (oczywiście dzisiejszych).
 
-![](../../zrodlo/webacja/warownie/war_eu/alhambra.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/cpiza.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/ctur.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/csardes.jpg)
-
+![](../../zrodlo/webacja/warownie/war_eu/alhambra.jpg)  
 Hiszpania
 
+![](../../zrodlo/webacja/warownie/war_eu/cpiza.jpg)  
 Piza
 
+![](../../zrodlo/webacja/warownie/war_eu/ctur.jpg)  
 Bizancjum
 
+![](../../zrodlo/webacja/warownie/war_eu/csardes.jpg)  
 Sardes
 
 Co zatem stało się z tym elementem budowlanym? Oczywiście można powtórzyć za historykami, że zszedł do grobu z Imperium Rzymskim i jego słynnym cementem, ale byłoby to zwykłe uproszczenie sprawy. Skoro z tego rodzaju cegły nie powstało nic w późniejszej współczesnej Europie, to wniosek może być tylko jeden - ten rodzaj cegły nie jest wynalazkiem żadnej współczesnej społeczności, a jeśli nie współczesnej, to jakiej?
 
 Osobiście uważam te budowle za raczej ograniczone do pewnego terytorium i być może związane z postępem technicznym, stylem czy budowlaną "modą". Wszędzie przeważają budowle z kamienia i te znajdujemy na całym terytorium dzisiejszej Europy. Oglądając "średniowieczne" zamki bądź na fotografiach bądź w oryginale jesteśmy pod wrażeniem ich wielkości i nie zastanawiamy się nad rzeczą podstawową - jak je zbudowano. Rzadko lub wcale możemy obejrzeć podziemia - fundamenty na jakich je postawiono. Z reguły oglądamy to, co nam wolno, a więc fragmenty "odrestaurowane" i pokryte współczesnym tynkiem konserwatora. Czy zastanawialiśmy się dlaczego większość zamków budowano na podłożu skalnym? To jest wyrafinowana ekonomia ówczesnych budowniczych - skała tworzy naturalny, niesłychanie mocny fundament. Jeśli nie widzimy skalnego podłoża, to możemy założyć, że blisko 1/3 wysokości zamku stanowi jego sztucznie wybudowane podłoże, które jest zagłębione w ziemi.
 
-![](../../zrodlo/webacja/warownie/war_eu/grecja10.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/portugal.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/turcja3.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/france1.jpg)
-
+![](../../zrodlo/webacja/warownie/war_eu/grecja10.jpg)  
 Grecja
 
+![](../../zrodlo/webacja/warownie/war_eu/portugal.jpg)  
 Portugalia
 
+![](../../zrodlo/webacja/warownie/war_eu/turcja3.jpg)  
 Turcja
 
+![](../../zrodlo/webacja/warownie/war_eu/france1.jpg)  
 Francja
 
 Część podziemna, o ile nie została "upiększona" przez potomnych może powiedzieć wiele o ówczesnej technologii i zastosowanej technice. To właśnie tam znajdziemy największe elementy budowli i od tego należałoby by zacząć badanie całości. Należy bowiem przypuszczać, że ta część każdego zamku musi stanowić najstarszą jego część. Pragnę zwrócić uwagę na rzecz, która jest wręcz pomijana przy ocenie wieku tzw. "średniowiecznych" zamków. Jest to zasada budowy spotykana niemal we wszystkich tego typu obiektach. Grube mury zamkowe są zbudowane z nieociosanych kamieni lub otoczaków spajanych zaprawą, natomiast zewnętrzną warstwę stanowi kamienna okładzina, która byc może ma stwarzać wrażenie, że całość jest zbudowana z kamiennych ciosów. Poziome belki nad oknami, o ile nie zastosowano kamiennego łuku, są wykonane z jednego kamiennego bloku, natomiast ościeża okien (zachowane jeszcze gdzie niegdzie) są wykonane z kilku lub jednego, doskonale obrobionego kamiennego elementu.
 
-![](../../zrodlo/webacja/warownie/mur/bw.jpg)
-
-![](../../zrodlo/webacja/warownie/mur/anglia.jpg)
-
-![](../../zrodlo/webacja/warownie/mur/ruma.jpg)
-
-![](../../zrodlo/webacja/warownie/mur/kuelap.jpg)
-
+![](../../zrodlo/webacja/warownie/mur/bw.jpg)  
 Bliski Wschód
 
+![](../../zrodlo/webacja/warownie/mur/anglia.jpg)  
 Anglia
 
+![](../../zrodlo/webacja/warownie/mur/ruma.jpg)  
 Rzym
 
+![](../../zrodlo/webacja/warownie/mur/kuelap.jpg)  
 Ameryka Południowa
 
 Taki rodzaj budowy jest spotykany prawie wszędzie i co dziwne jest też podstawową techniką budowy piramid i kamiennych budowli Ameryk prekolumbijskich. Czy to nie rodzi pytań o wiek budowli? Owszem, ale współczesna historia nie może wyjść poza przyjęte ramy czasowe. Drugie pytanie, na które historia nie odpowiedziała jednoznacznie - dlaczego prawie wszystkie "średniowieczne" budowle są dzisiaj w ruinie? Jedyna odpowiedzią jaką możemy usłyszeć, to zniszczenia wojenne lub upływu czasu. Na pierwsze pytanie można odpowiedzieć pytaniem - jak liczne nusiały być armie i jaką dysponowały techniką, by takich zniszczeń dokonać na tak rozległym obszarze? Co do upływu czasu też można spytać - dlaczego do tej pory stoją kamienne budowle Egiptu. Inne kamienie? Czy polskie zamki uległy zniszczeniu tylko dlatego, że są zbudowane z wapienia? To dlaczego twierdzi się, że przepiękne twory krasowe (też w skałach wapiennych) powstawały dziesiątki czy setki tysięcy lat, gdzie woda oddziaływała bez przerwy, a nie w postaci okresowych deszczów? Dopóki w założeniu nie uwzględnimy "wielkiego uskoku skorupy ziemskiej", nigdy nie rozwiążemy zagadki zniszczeń tylu budowli i na tak wielkim obszarze. Nigdy nie znajdziemy odpowiedzi na pytanie - jak zbudowano zamki stojące wprost na wodzie. Nigdy nie odpowiemy na pytanie kto i kiedy zdołał zasypać podziemia ruin aż po same stropy, a tego może dokonać tylko płynne błoto.
 
-![](../../zrodlo/webacja/warownie/war_eu/wegry.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/bornholm.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/rising.jpg)
-
-![](../../zrodlo/webacja/warownie/war_eu/norwegia.jpg)
-
+![](../../zrodlo/webacja/warownie/war_eu/wegry.jpg)  
 Węgry
 
+![](../../zrodlo/webacja/warownie/war_eu/bornholm.jpg)  
 Dania
 
+![](../../zrodlo/webacja/warownie/war_eu/rising.jpg)  
 Szwecja
 
+![](../../zrodlo/webacja/warownie/war_eu/norwegia.jpg)  
 Anglia
 
 Dlaczego archeologowie i historycy, skądinąd narodek racjonalistów, zaprzęgają do historii legendy tam gdzie nie można znaleźć racjonalnego wytłumaczenia? Dlaczego przyjmuje się czasem niewiarygodne stwierdzenia w rodzaju - Za Wilhelma Zdobywcy w ciągu 100 lat zbudowano 900 zamków? Jaki naród był w stanie ponieść takie koszty budowy? Skąd wzięto taką ilość sił i środków, by w ciągu jednego roku wybudować 9 zamków? A jak budowano zamki w Brytanii? W średniowiecznej Anglii sprawę budowniczych załatwiano w prosty sposób. Pani na zamku obwieszczała rankiem, że miała widzenie iż aniołowie zbudowali kaplicę zamkową. Wszyscy szli do kaplicy i o dziwo faktycznie była zbudowana. Wieść szła do gminu i sprawa załatwiona. Nikt nie śmiał zaprzeczać, bo za negowanie boskich mocy można było dostać po karku... toporem. I to jest baza nowoczesnej historii.

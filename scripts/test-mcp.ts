@@ -10,7 +10,7 @@ import { spawn, type ChildProcess } from "node:child_process";
 import { existsSync } from "node:fs";
 
 const HTTP = process.argv.includes("--http");
-// --url <adres>: testuje działający już serwer w internecie, np. --url https://uleszka-mcp-production.up.railway.app
+// --url <adres>: testuje działający już serwer w internecie, np. --url https://mcp.uleszka.net
 const URL_ZDALNY = process.argv.includes("--url") ? process.argv[process.argv.indexOf("--url") + 1] : undefined;
 const client = new Client({ name: "test", version: "1.0.0" });
 let proces: ChildProcess | undefined;

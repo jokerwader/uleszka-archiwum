@@ -96,13 +96,9 @@ Do naczynia około 2-litrowego wsypać 750 g białego, rafinowanego cukru, 200 g
 
 Oczywiście, że nie, ale czy robimy wszystko, by się przed nim uchronić? Czy przypadkiem codziennie nie aplikujemy sobie substancji powszechnie uznawanych za rakotwórcze? Czy wspaniały smak smażonego kurczaczka czy wędzonego łososia ma już teraz wynagrodzić nam późniejsze cierpienia? Profilaktyka raka za pośrednictwem odżywiania jest możliwa przy zachowaniu dwóch podstawowych zasad:
 
-**•** 
-
-**Pokarm nie powinien zawierać substancji rakotwórczych, takich które powodują powstawanie nowotworów złośliwych.**
-
-**•** 
-
-**W pokarmie powinny znajdować się substancje, które chronią organizm przed rakiem.**
+| **•** | **Pokarm nie powinien zawierać substancji rakotwórczych, takich które powodują powstawanie nowotworów złośliwych.** |
+| --- | --- |
+| **•** | **W pokarmie powinny znajdować się substancje, które chronią organizm przed rakiem.** |
 
 Źródłem substancji rakotwórczych w naszym pożywieniu mogą być róznorodne tłuszcze, przy czym niebezpieczeństwo wielokrotnie wzrasta przy spożywaniu nieświeżych lub przesmażonych tłuszczów. Dlatego też nie powinnismy zostawiać tłuszczu na patelni i wykorzystywać go wielokrotnie. W miarę możliwości unikamy smażonych produktów na korzyść gotowanych i pieczonych. Oprócz tego, zbędny tłuszcz z mięsa zawsze lepiej wykroić. Nie należy włączać do jadłospisu zbyt dużej ilości olejów roslinnych. Dwie łyżki stołowe dziennie, to ilość całkowicie wystarczająca. Istnieją dane na temat tego, że tłuszcze niekorzystnie wpływają na system odpornościowy człowieka, ich nadmiar sprzyja przemianie komórek w komórki rakowe. Wiadomo, że w miarę wzrostu poziomu życia w krajach niegdyś biednych (Japonia, Grecja, Włochy), w wyniku zwiększenia w jadłospisie ilości tłuszczu, wzrosła tam zachorowalność na raka gruczołu mlekowego i jelita grubego.
 

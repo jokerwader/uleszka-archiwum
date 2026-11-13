@@ -235,6 +235,100 @@ function konwertuj(w: Wpis): { md: string; obrazy: { src: string; alt: string }[
     filter: ["table", "tbody", "thead", "tfoot", "tr", "td", "th", "center", "div", "form", "frameset", "frame"],
     replacement: (content) => `\n\n${content}\n\n`,
   });
+  // …ale część tabel to prawdziwe zestawienia danych (planety, normy, tabele żywieniowe) albo listy punktowane
+  // zbudowane z tabeli („•” w pierwszej kolumnie). Te odtwarzamy jako tabele Markdown lub listy.
+  // Reguły dodane później mają w Turndown pierwszeństwo, więc ta wygrywa z regułą „tabele” dla pasujących tabel.
+  type Wezel = { nodeName: string; textContent: string | null; innerHTML: string; querySelectorAll(s: string): ArrayLike<Wezel>; childNodes: ArrayLike<Wezel> };
+  const tekstKomorki = (k: Wezel) => (k.textContent ?? "").replace(/\s+/g, " ").trim();
+  const wierszeTabeli = (t: Wezel) =>
+    Array.from(t.querySelectorAll("tr")).map((w) => Array.from(w.childNodes).filter((k) => k.nodeName === "TD" || k.nodeName === "TH"));
+  const czyTabelaDanych = (t: Wezel) => {
+    if (t.querySelectorAll("table").length || t.querySelectorAll("img").length) return false;
+    const wiersze = wierszeTabeli(t);
+    if (wiersze.length < 2 || Math.max(...wiersze.map((w) => w.length)) < 2) return false;
+    return wiersze.every((w) => w.every((k) => tekstKomorki(k).length <= 2000));
+  };
+  // galerie: wiersz zdjęć, a pod nim (albo nad nim) wiersz podpisów – odtwarzamy pary „zdjęcie + jego podpis”.
+  // Zdjęcia nie mają liter, więc kolejność tekstu (i kontrola wierności) się nie zmienia.
+  const tylkoObraz = (k: Wezel) => k.querySelectorAll("img").length > 0 && !tekstKomorki(k);
+  const czyGaleria = (t: Wezel) => {
+    if (t.querySelectorAll("table").length || !t.querySelectorAll("img").length) return false;
+    const w = wierszeTabeli(t);
+    return w.some((r, i) => r.length > 1 && r.every(tylkoObraz) && ((w[i + 1]?.length === r.length && !w[i + 1].some(tylkoObraz)) || (w[i - 1]?.length === r.length && !w[i - 1].some(tylkoObraz))));
+  };
+  td.addRule("galerie", {
+    filter: (node) => node.nodeName === "TABLE" && czyGaleria(node as unknown as Wezel),
+    replacement: (_c, node) => {
+      const w = wierszeTabeli(node as unknown as Wezel);
+      const md = (k: Wezel) => td.turndown(k.innerHTML).trim();
+      const obrazki = (r: Wezel[]) => r.length > 1 && r.every(tylkoObraz);
+      const wyjscie: string[] = [];
+      for (let i = 0; i < w.length; i++) {
+        const r = w[i];
+        const nast = w[i + 1];
+        if (obrazki(r) && nast && nast.length === r.length && !nast.some(tylkoObraz)) {
+          r.forEach((k, j) => wyjscie.push([md(k), md(nast[j])].filter(Boolean).join("  \n")));
+          i++;
+        } else if (!obrazki(r) && nast && obrazki(nast) && nast.length === r.length) {
+          r.forEach((k, j) => wyjscie.push([md(k), md(nast[j])].filter(Boolean).join("  \n")));
+          i++;
+        } else r.forEach((k) => wyjscie.push(md(k)));
+      }
+      return `\n\n${wyjscie.filter(Boolean).join("\n\n")}\n\n`;
+    },
+  });
+  // kolor tła komórki niósł w kilku tabelach znaczenie (np. czerwone = „najgorsze połączenie”, zielone = „najlepsze”);
+  // Markdown nie ma kolorów, więc zamieniamy go na kolorowy znak (nie jest literą ani cyfrą – tekst autora się nie zmienia)
+  const NAZWY: Record<string, string> = { red: "#ff0000", green: "#008000", lime: "#00ff00", orange: "#ffa500", yellow: "#ffff00", gray: "#808080", grey: "#808080", silver: "#c0c0c0", blue: "#0000ff", navy: "#000080", white: "#ffffff", black: "#000000" };
+  const znakKoloru = (kolor: string | null | undefined) => {
+    const k = (kolor ?? "").trim().toLowerCase();
+    const hex = NAZWY[k] ?? (/^#?[0-9a-f]{6}$/.test(k) ? (k.startsWith("#") ? k : "#" + k) : "");
+    if (!hex) return "";
+    const [r, g, b] = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16));
+    if (Math.max(r, g, b) - Math.min(r, g, b) < 40) return Math.max(r, g, b) > 230 ? "" : "⬜";
+    if (r > g + 60 && r > b + 60) return g > 110 ? "🟧" : "🟥";
+    if (r > 180 && g > 180 && b < 120) return "🟨";
+    if (g > r && g > b) return "🟩";
+    if (b > r && b > g) return "🟦";
+    return "";
+  };
+  td.addRule("tabele-danych", {
+    filter: (node) => node.nodeName === "TABLE" && czyTabelaDanych(node as unknown as Wezel),
+    replacement: (_c, node) => {
+      const wiersze = wierszeTabeli(node as unknown as Wezel).map((w) =>
+        w.map((k) => {
+          const tresc = td
+            .turndown(k.innerHTML)
+            .replace(/\n{2,}/g, "<br>")
+            .replace(/ {2}\n|\n/g, "<br>")
+            .replace(/\|/g, "\\|")
+            .trim();
+          let znak = znakKoloru((k as unknown as { getAttribute(n: string): string | null }).getAttribute("bgcolor"));
+          if (znak === "⬜" && tresc) znak = ""; // szare tło pod tekstem to ozdoba nagłówka, nie informacja
+          return znak ? `${znak}${tresc ? " " + tresc : ""}` : tresc;
+        }),
+      );
+      const kolumn = Math.max(...wiersze.map((w) => w.length));
+      const ZNAKI = /^(?:🟥|🟩|🟧|🟨|🟦|⬜)$/u;
+      // pomijamy kolumny puste w każdym wierszu (odstępy) oraz pasy jednego koloru przez wiele wierszy (ozdobne rozdzielacze)
+      const pelne = [...Array(kolumn).keys()].filter((i) => {
+        const komorki = wiersze.map((w) => (w[i] ?? "").replace(/<br>/g, "").trim()).filter(Boolean);
+        if (!komorki.length) return false;
+        const pas = komorki.every((k) => ZNAKI.test(k)) && new Set(komorki).size === 1 && (komorki.length >= 4 || komorki[0] === "⬜");
+        return !pas;
+      });
+      const tabela = wiersze.map((w) => pelne.map((i) => w[i] ?? "")).filter((w) => w.some((k) => k.trim()));
+      if (!tabela.length) return "\n\n";
+      if (pelne.length === 1) return `\n\n${tabela.map((w) => w[0]).join("\n\n")}\n\n`;
+      // lista zbudowana z tabeli: pierwsza kolumna to same znaczniki („•”, „-”, „1.”)
+      const znacznik = /^(?:[•·\-–]|\d+\.)$/;
+      if (pelne.length === 2 && tabela.every((w) => znacznik.test(w[0].trim()))) {
+        return `\n\n${tabela.map((w) => (/^\d+\.$/.test(w[0].trim()) ? `${w[0].trim()} ${w[1]}` : `- ${w[1]}`)).join("\n")}\n\n`;
+      }
+      const linia = (w: string[]) => `| ${w.map((k) => k || " ").join(" | ")} |`;
+      return `\n\n${linia(tabela[0])}\n|${pelne.map(() => " --- ").join("|")}|\n${tabela.slice(1).map(linia).join("\n")}\n\n`;
+    },
+  });
   td.addRule("obrazy", {
     filter: "img",
     replacement: (_c, node) => {

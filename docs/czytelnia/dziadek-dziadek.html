@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="Gwiazda śmierci – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Osobisty tekst autora poświęcony jego dziadkowi Edwardowi Cygankiewiczowi, posterunkowemu Policji Państwowej, wziętemu do niewoli sowieckiej we wrześniu 1939 roku i zamordowanemu w">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/dziadek-dziadek.html">
+<meta property="og:url" content="https://uleszka.net/czytelnia/dziadek-dziadek.html">
 <meta property="og:image" content="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/dziadek3.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">Zbrodnia</a></li><li><a href="#r-2">Odkrywanie prawdy</a></li><li><a href="#r-3">Zadośćuczynienie</a></li><li><a href="#r-4">1200 km po śmierć</a></li><li><a href="#r-5">Ostatnia droga</a></li><li><a href="#r-6">Mordercy z pod sierpa i młota</a></li><li><a href="#r-7">Miejsce pochówku</a></li><li><a href="#r-8">Narodowa pamięć</a></li><li><a href="#r-9">Światowy Dzień Pamięci Ofiar Katynia</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details open><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html" class="aktualny" aria-current="page">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#roznosci">Różności</a></p>
   <h1>Gwiazda śmierci</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Osobisty tekst autora poświęcony jego dziadkowi Edwardowi Cygankiewiczowi, posterunkowemu Policji Państwowej, wziętemu do niewoli sowieckiej we wrześniu 1939 roku i zamordowanemu w kwietniu 1940 roku w Kalininie (Twer), a pochowanemu w Miednoje. Autor opisuje losy policjantów w obozie w Ostaszkowie, mechanizm egzekucji według list NKWD, kalendarium sprawy katyńskiej i zatajanie prawdy przez ZSRR i PRL. Twierdzi, że Zachód znał plany zbrodni, a współczesne państwo polskie zaniedbuje pamięć o ofiarach i prawdę historyczną. Całość kończy wierszem ku czci dziadka i listą źródeł.</p>
@@ -45,7 +81,7 @@
 <p>Oblicza się, że w pierwszych dniach wojny z Robotniczo-Chłopską Armią Czerwoną poległo lub zostało zamordowanych około 3 tys. policjantów, drugie tyle zdołało ujść za granicę, aresztowano około 12 tys. policjantów.  </p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/4rozbior.jpg" alt="Mapa agresji sowieckiej na Polskę we wrześniu 1939 r. z czerwonymi strzałkami od wschodu, datami wkroczenia i zaznaczonymi miejscami zbrodni katyńskiej oraz sierpem i młotem; dopisek 1939–1940. Napis: LITWA; NIEMCY; POŁOCK; LEPEL; WILNO; MIŃSK; DZIERŻYŃSK; SŁUCK; BIAŁYSTOK; WARSZAWA; BRZEŚĆ; ŻYTKOWICZE; 17.IX; 19.IX; 20.IX; 24.IX; KOWEL; OLEWSK; LUBLIN; ŁUCK; NOWOGRÓD WOŁ.; LWÓW; TARNOPOL; PŁOSKIRÓW; DUNAJOWCE; STANISŁAWÓW; KAMIENIEC POD.; SŁOWACJA; WĘGRY; RUMUNIA; OSTASZKÓW; MIEDNOJE; MOSKWA; SMOLEŃSK; KATYŃ; KOZIELSK; CHARKÓW; STAROBIELSK; 1939 - 1940" title="Opis AI: Mapa agresji sowieckiej na Polskę we wrześniu 1939 r. z czerwonymi strzałkami od wschodu, datami wkroczenia i zaznaczonymi miejscami zbrodni katyńskiej oraz sierpem i młotem; dopisek 1939–1940. Napis: LITWA; NIEMCY; POŁOCK; LEPEL; WILNO; MIŃSK; DZIERŻYŃSK; SŁUCK; BIAŁYSTOK; WARSZAWA; BRZEŚĆ; ŻYTKOWICZE; 17.IX; 19.IX; 20.IX; 24.IX; KOWEL; OLEWSK; LUBLIN; ŁUCK; NOWOGRÓD WOŁ.; LWÓW; TARNOPOL; PŁOSKIRÓW; DUNAJOWCE; STANISŁAWÓW; KAMIENIEC POD.; SŁOWACJA; WĘGRY; RUMUNIA; OSTASZKÓW; MIEDNOJE; MOSKWA; SMOLEŃSK; KATYŃ; KOZIELSK; CHARKÓW; STAROBIELSK; 1939 - 1940" loading="lazy" decoding="async"></p>
 <p>Jak niemiecko-radziecki plan był dopracowany, możesz zobaczyć na mapce. Po 17 września ucieczka na Węgry czy do Rumunii była już niemożliwa. Taki stan doskonale sprzyjał wyłapaniu polskiej inteligencji oraz polskich patriotów i fizycznym ich zlikwidowaniu, co uczyniono z bolszewicką nienawiścią i niemiecką dokładnością.</p>
-<p><strong>Zbrodnia</strong></p>
+<p class="rozdzial" id="r-1"><strong>Zbrodnia</strong></p>
 <p>Już 19 września 1939 r. Beria powziął decyzję o utworzeniu zarządu ds. jeńców wojennych i wydał dyrektywę do utworzenia obozów przejściowo-rozdzielczych w Juchniowie, Kozielszczyźnie, Putywlu, Orankach, Ostaszkowie, Starobielsku, Kozielsku, Juży, Griazowcu i Zonkijewie. Wszyscy policjanci byli przewożeni do obozu w Ostaszkowie.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/monastyr2.jpg" alt="Widok z lotu ptaka na kompleks klasztorny z białymi cerkwiami i kopułami na brzegu jeziora (prawdopodobnie klasztor w Ostaszkowie, wg kontekstu artykułu)." title="Opis AI: Widok z lotu ptaka na kompleks klasztorny z białymi cerkwiami i kopułami na brzegu jeziora (prawdopodobnie klasztor w Ostaszkowie, wg kontekstu artykułu)." loading="lazy" decoding="async"></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/monastyr3.jpg" alt="Biała cerkiew z kopułami i dzwonnicą wśród drzew, przed nią kilka osób." title="Opis AI: Biała cerkiew z kopułami i dzwonnicą wśród drzew, przed nią kilka osób." loading="lazy" decoding="async"></p>
@@ -82,7 +118,7 @@
 <p>Sądzę jednak, że liczba &quot;100&quot; była dobrana także ze względu na &quot;wysoką&quot; inteligencję rewolucyjnego personelu. Już Lenin doskonale rozumiał, że inteligencja jest niebezpieczna dla jego rządów i ci, którzy nie byli z nim lub przy nim zostali wymordowani. Reszta to sól ziemi, ślepo oddani, debilowaci robotnicy i chłopi dla których dostępnym liczydłem były tylko własne ręce. Ta &quot;setka&quot; to wszystkie palce u rąk tyle razy ile tych palców. Łatwo było się doliczyć, czy wszyscy dotarli do łap oprawców.</p>
 <p>Likwidacja obozu ostaszkowskiego trwała od 4 kwietnia do 19 maja 1940 r. Za przebieg fizycznej likwidacji więźniów odpowiadał funkcjonariusz centrali NKWD, niejaki Błochin i komendant twerskiego więzienia. Codziennie, jeńców wybranych według list, pędzono pieszo, przez zamarznięte jezioro (ostatnie, majowe transporty już przez Ostaszków), do stacji kolejowej Soroga, przewożono w wagonach więziennych zwanych &quot;stołpynkami&quot; do Kalinina (obecnie Twer) i ze stacji &quot;czarnymi krukami&quot; (potoczna nazwa samochodu-więźniarki) do więzienia w piwnicach NKWD. Egzekucje zaczynano o zmroku, w specjalnej sali wyłożonej materiałem dźwiękochłonnym (wojłokiem). Kończono z nastaniem świtu. Dodatkowo, aby zagłuszyć strzały, na całą noc uruchamiano wielkie wentylatory. O świcie, zakrytymi samochodami, zwłoki wywożono do lasu nad rzeką Twercą, do ośrodka wypoczynkowego NKWD we wsi Jamok koło Miednoje.  </p>
 <p>Z obozu ostaszkowskiego ocalały 124 osoby wysłane do Griazowca, przez obóz Pawliszczew Bór.</p>
-<p><strong>Odkrywanie prawdy</strong></p>
+<p class="rozdzial" id="r-2"><strong>Odkrywanie prawdy</strong></p>
 <p>Prawda o bestialskim mordzie na polskich jeńcach wojennych była skrzętnie ukrywana. Pierwsze wieści pochodzą od Niemców, którzy w kwietniu 1943 r. dokonali ekshumacji ofiar w Katyniu.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/miednoje1.jpg" alt="Uroczystość w lesie sosnowym w Miednoje: grupa ludzi pod wysokim krzyżem i wieńce z biało-czerwonymi wstążkami." title="Opis AI: Uroczystość w lesie sosnowym w Miednoje: grupa ludzi pod wysokim krzyżem i wieńce z biało-czerwonymi wstążkami." loading="lazy" decoding="async"></p>
 <p>Uroczysta msza święta w Miednoje</p>
@@ -94,150 +130,290 @@
 <p>Wszyscy wysoko postawieni funkcjonariusze państwowi ZSRR i byłego ZSRR byli doskonale poinformowani o zbrodni katyńskiej. Na dokumentach katyńskich przekazanych Polsce widnieją podpisy ludzi zapoznanych ze sprawą. Są tam między innymi podpisy Breżniewa, Kosygina, Susłowa, Andropowa, Gromyki, Rusakowa, Katuszewa, Ryżkowa, Ligaczowa, Jazowa, Dobrynina, i Gorbaczowa. Nie kto inny jak Chruszczow wydał polecenie zniszczenia 21857 teczek personalnych jeńców wojennych zamordowanych w roku 1940. Wszyscy wiedzieli i wszyscy milczeli przez 50 lat. Dlaczego nie zniszczono pozostałych, nielicznych już, dokumentów? Sądzę, że zrobiła to &quot;magiczna&quot; siła składanego podpisu. Stanowił on coś w rodzaju osobistej przysięgi o dozgonnym milczeniu. Był przysięgą na &quot;relikwie&quot; czerwonych przodków i pisemną zgodą na konsekwencje w razie zdrady.</p>
 <p>Przez ten czas sprawę tuszowano, jak tylko było można. Za Bieruta, za &quot;prawdę o Katyniu&quot; można było iść na stryczek, za Gomułki do więzienia, za Gierka skutecznie szykanowano, ale już ogólnie, aparat partyjny uważał, że mówienie o tym &quot;nie jest w dobrym tonie&quot;. W wojsku ówczesna &quot;sekta&quot; polityczna miała wyławiać &quot;wichrzycieli&quot; i wyrzucać z wojska. Ponad pół wieku ciszy i zasłony. Ponad pół wieku zmowy milczenia. Ponad pół wieku więzienia prawdy i nieśmiałej nadziei.</p>
 <p>6 maja 1996 r. Gazeta Wyborcza opublikowała Kalendarium Katyńskie (kolor niebieski i czerwony - moje uzupełnienia):</p>
-<p>2.X.1939</p>
-<p>Decyzja Biura Politycznego KC WKP(b) &quot;O jeńcach wojennych&quot;.</p>
-<p>3.X.1939</p>
-<p>Rozkaz ludowego komisarza spraw wewnętrznych Ławrientija Berii o utworzeniu obozów dla polskich jeńców wojennych w Kozielsku, Ostaszkowie i Starobielsku.</p>
-<p>II-III.1940</p>
-<p>III Konferencja Metodyczna NKWD i Gestapo w Zakopanem. Narady trwały 6 tygodni. Tu dopracowano metodykę i organizację zbrodni na polskich jeńcach. W konferencji wzięli udział zaproszeni przedstawiciele <a href="http://www.rodzinapolska.pl/prawdahistor/archiwum/2002/99_1.htm" rel="noopener" target="_blank">wywiadu</a> brytyjskiego. Wniosek - rządy Wielkiej Brytanii i hitlerowskich Niemiec doskonale znały plany wymordowania jeńców polskich!!!<br>(Czy gen. Sikorski musiał zginąć, bo o tym wiedział?).</p>
-<p>5.III.1940</p>
-<p>Decyzja Politbiura o rozstrzelaniu 14,7 tys. polskich jeńców i 11 tys. polskich obywateli przetrzymywanych w więzieniach w zachodnich obwodach Białorusi i Ukrainy. Za rozstrzelaniem głosowali: Józef Stalin, Kliment Woroszyłow, Wiaczesław Mołotow, Anastas Mikojan, Łazar Kaganowicz, Michaił Kalinin, Ławrientij Beria. Nikt się nie wstrzymał. Nikt nie był przeciw.</p>
-<p>3.IV-19.V.1940</p>
-<p>Rozstrzelanie jeńców w Katyniu (z obozu w Kozielsku - 4421 osób), w w Twerze (z obozu w Ostaszkowie - 6311 osób) i w Charkowie (z obozu w Starobielsku - 3820 osób).</p>
-<p>wiosna-lato 1940</p>
-<p>Rozstrzelanie 7305 polskich obywateli więzionych na Białorusi i Ukrainie.</p>
-<p>16.VIII.1941</p>
-<p>Konferencja gen. Andersa z przedstawicielami władz radzieckich (Panfiłow, Żukow). Strona radziecka uchyla się od odpowiedzi na temat obozów w Kozielsku, Ostaszkowie i Starobielsku.</p>
-<p>wiosna 1942</p>
-<p>Polscy robotnicy przymusowi z załogi pociągu naprawczego Bahnzug 2005 München, poinformowani przez miejscową Polkę, odnajdują na uroczysku Kozie Góry w Lesie Katyńskim groby polskich oficerów i stawiają na nich dwa krzyże brzozowe.</p>
-<p>18.II.1943</p>
-<p>Początek rozkopywania grobów katyńskich i pierwsze ekshumacje dokonane przez Niemców.</p>
-<p>IV-VI.1943</p>
-<p>Odkrycie grobów w Katyniu (??? - panie Michnik!) i pierwsza ekshumacja dokonana przez Niemców.</p>
-<p>IV.1943</p>
-<p>Związek Patriotów Polskich (polscy komuniści) zwracają się z prośbą do rządu ZSRR o zgodę na utworzenie w ZSRR polskiej jednostki wojskowej.</p>
-<p>21.IV.1943</p>
-<p>Artykuł moskiewskiej &quot;Prawdy&quot; i Agencji TASS oskarżający Polaków o współpracę z Hitlerem.</p>
-<p>25-26.IV.1943</p>
-<p>Nota rządu ZSRR zrywająca stosunki z rządem polskim w Londynie.</p>
-<p>V.1943</p>
-<p>Formowanie 1 Dywizji im. Tadeusza Kościuszki, ramienia zbrojnego dla przyszłego komunistycznego polskiego rządu.</p>
-<p>4.VII.1943</p>
-<p>W lotniczym wypadku pod Gibraltarem ginie gen. Sikorski. Samolot tonie dość długo, ale cało wychodzi tylko czeski pilot. Nikt poza nim nie próbuje opuścić tonącego samolotu, bo prawdopodobnie już w chwili startu żaden z pasażerów nie był żywy. Gen. Sikorski był prawdopodobnie trzecią osobą wśród aliantów, oprócz Stalina i Churchila, która znała prawdę o Katyniu. O jedną osobę za dużo.</p>
-<p>IX.1943-I.1944</p>
-<p>Działanie komisji Nikołaja Burdenki, druga ekshumacja tym razem dokonana przez Rosjan. Zacieranie pozostałych śladów.</p>
-<p>8.X.1945</p>
-<p>Akt oskarżenia przeciwko niemieckim przestępcom wojennym odczytany w Berlinie w imieniu Wielkiej Brytanii, Francji, Stanów Zjednoczonych i Związku Radzieckiego, gdzie oskarżono Niemcy o popełnienie zbrodni katyńskiej.</p>
-<p>30.XI.1945</p>
-<p>W Egipcie ukazuje się Lista zaginionych jeńców z obozów rosyjskich Kozielsk, Ostaszków i Starobielsk, zestawiona przez Biuro Opieki nad Rodzinami Wojskowymi Dowództwa Polskich Sił Zbrojnych w ZSRR uzupełniona spisem Biura Pomocy Rodzinom Wojskowych i Jeńców Wojennych Dowództwa Wojsk Polskich na Środkowym Wschodzie (L. dz. 904/RW/45).</p>
-<p>13-14.II.1946</p>
-<p>Prokurator ZSRR płk Pokrowski oskarża Niemców w procesie norymberskim o popełnienie zbrodni katyńskiej. Wielka Brytania milczy.</p>
-<p>30.IX-1.X.1946</p>
-<p>Odczytanie wyroku w procesie norymberskim. W tekscie wyroku nie stwierdzono winy Niemców za dokonanie zbrodni katyńskiej.</p>
-<p>18.IX.1951-22.XII.1952</p>
-<p>Prace &quot;Komisji do przeprowadzenia pełnych i całkowitych badań masakry katyńskiej&quot; powołanej przez Kongres USA. Jej raport całkowicie obciążył ZSRR odpowiedzialnością za popełnioną zbrodnię.</p>
-<p>13.IV.1990</p>
-<p>Komunikat TASS: zbrodnia katyńska jest dziełem stalinowskiego NKWD. Tego samego dnia prezydent Michaił Gorbaczow przekazuje stronie polskiej pierwsze dokumenty katyńskie (tzw. listy śmierci).</p>
-<p>25.XII.1990</p>
-<p>Rozpoczęcie śledztwa w &quot;sprawie katyńskiej&quot;, dochodzenie prowadzi Naczelna Prokuratura Wojskowa ZSRR we współpracy z Prokuraturą Generalną RP.</p>
-<p>lato 1991</p>
-<p>Ekshumacja w Charkowie i Miednoje prowadzone przez polskich ekspertów na potrzeby śledztwa.</p>
-<p>4.X.1992</p>
-<p>Wysłannik prezydenta Rosji Jelcyna prof. Rudolf Pichoja wręcza w Belwederze dokumenty katyńskie m.in. decyzję Politbiura KC WKP(b) z 5 marca 1940 r. oraz notatkę szefa KGB Aleksandra Szelepina z 9 marca 1959 r. do Nikity Chruszczowa z propozycją zniszczenia 21857 teczek personalnych polskich jeńców i więźniów zamordowanych w 1940 r.</p>
-<p>5.V.1994</p>
-<p>Szef Służby Bezpieczeństwa Ukrainy gen. Andriej Chomicz daje polskiemu prokuratorowi Stefanowi Śnieżko wykaz 3435 nazwisk więźniów rozstrzelanych przez NKWD na Ukrainie na mocy decyzji Politbiura z 5 marca 1949 r. (tzw. listę Cwietuchina).</p>
-<p>IX.1994</p>
-<p>Ciąg dalszy ekshumacji w Miednoje i Katyniu.</p>
-<p>21.IV.1995</p>
-<p>Szef Zarządu Zasobów Archiwalnych Federalnej Służby Bezpieczeństwa gen. Anatolij Krajuszkin oficjalnie informuje, że teczki osobowe i wyroki śmierci wydane przez trójkę NKWD ZSRR (Mierkułow, Kabułow, Basztakow) zostały spalone na Łubiance na przełomie marca i kwietnia 1959 r. na polecenie Chruszczowa.</p>
-<p>2004</p>
-<p>Śledztwo w sprawie katyńskiej trwa! Strona rosyjska nie wykazuje zainteresowania. Rząd polski też nie! Czy &quot;starzy lewicowi przyjaciele&quot; doszli do cichego porozumienia? Czy może czekają, aż przyschnie świeża rana na ciele niewinnej Rosji zadana przez niewdzięcznych Polaków?</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>2.X.1939</th>
+<th>Decyzja Biura Politycznego KC WKP(b) &quot;O jeńcach wojennych&quot;.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>3.X.1939</td>
+<td>Rozkaz ludowego komisarza spraw wewnętrznych Ławrientija Berii o utworzeniu obozów dla polskich jeńców wojennych w Kozielsku, Ostaszkowie i Starobielsku.</td>
+</tr>
+<tr>
+<td>II-III.1940</td>
+<td>III Konferencja Metodyczna NKWD i Gestapo w Zakopanem. Narady trwały 6 tygodni. Tu dopracowano metodykę i organizację zbrodni na polskich jeńcach. W konferencji wzięli udział zaproszeni przedstawiciele <a href="http://www.rodzinapolska.pl/prawdahistor/archiwum/2002/99_1.htm" rel="noopener" target="_blank">wywiadu</a> brytyjskiego. Wniosek - rządy Wielkiej Brytanii i hitlerowskich Niemiec doskonale znały plany wymordowania jeńców polskich!!!<br>(Czy gen. Sikorski musiał zginąć, bo o tym wiedział?).</td>
+</tr>
+<tr>
+<td>5.III.1940</td>
+<td>Decyzja Politbiura o rozstrzelaniu 14,7 tys. polskich jeńców i 11 tys. polskich obywateli przetrzymywanych w więzieniach w zachodnich obwodach Białorusi i Ukrainy. Za rozstrzelaniem głosowali: Józef Stalin, Kliment Woroszyłow, Wiaczesław Mołotow, Anastas Mikojan, Łazar Kaganowicz, Michaił Kalinin, Ławrientij Beria. Nikt się nie wstrzymał. Nikt nie był przeciw.</td>
+</tr>
+<tr>
+<td>3.IV-19.V.1940</td>
+<td>Rozstrzelanie jeńców w Katyniu (z obozu w Kozielsku - 4421 osób), w w Twerze (z obozu w Ostaszkowie - 6311 osób) i w Charkowie (z obozu w Starobielsku - 3820 osób).</td>
+</tr>
+<tr>
+<td>wiosna-lato 1940</td>
+<td>Rozstrzelanie 7305 polskich obywateli więzionych na Białorusi i Ukrainie.</td>
+</tr>
+<tr>
+<td>16.VIII.1941</td>
+<td>Konferencja gen. Andersa z przedstawicielami władz radzieckich (Panfiłow, Żukow). Strona radziecka uchyla się od odpowiedzi na temat obozów w Kozielsku, Ostaszkowie i Starobielsku.</td>
+</tr>
+<tr>
+<td>wiosna 1942</td>
+<td>Polscy robotnicy przymusowi z załogi pociągu naprawczego Bahnzug 2005 München, poinformowani przez miejscową Polkę, odnajdują na uroczysku Kozie Góry w Lesie Katyńskim groby polskich oficerów i stawiają na nich dwa krzyże brzozowe.</td>
+</tr>
+<tr>
+<td>18.II.1943</td>
+<td>Początek rozkopywania grobów katyńskich i pierwsze ekshumacje dokonane przez Niemców.</td>
+</tr>
+<tr>
+<td>IV-VI.1943</td>
+<td>Odkrycie grobów w Katyniu (??? - panie Michnik!) i pierwsza ekshumacja dokonana przez Niemców.</td>
+</tr>
+<tr>
+<td>IV.1943</td>
+<td>Związek Patriotów Polskich (polscy komuniści) zwracają się z prośbą do rządu ZSRR o zgodę na utworzenie w ZSRR polskiej jednostki wojskowej.</td>
+</tr>
+<tr>
+<td>21.IV.1943</td>
+<td>Artykuł moskiewskiej &quot;Prawdy&quot; i Agencji TASS oskarżający Polaków o współpracę z Hitlerem.</td>
+</tr>
+<tr>
+<td>25-26.IV.1943</td>
+<td>Nota rządu ZSRR zrywająca stosunki z rządem polskim w Londynie.</td>
+</tr>
+<tr>
+<td>V.1943</td>
+<td>Formowanie 1 Dywizji im. Tadeusza Kościuszki, ramienia zbrojnego dla przyszłego komunistycznego polskiego rządu.</td>
+</tr>
+<tr>
+<td>4.VII.1943</td>
+<td>W lotniczym wypadku pod Gibraltarem ginie gen. Sikorski. Samolot tonie dość długo, ale cało wychodzi tylko czeski pilot. Nikt poza nim nie próbuje opuścić tonącego samolotu, bo prawdopodobnie już w chwili startu żaden z pasażerów nie był żywy. Gen. Sikorski był prawdopodobnie trzecią osobą wśród aliantów, oprócz Stalina i Churchila, która znała prawdę o Katyniu. O jedną osobę za dużo.</td>
+</tr>
+<tr>
+<td>IX.1943-I.1944</td>
+<td>Działanie komisji Nikołaja Burdenki, druga ekshumacja tym razem dokonana przez Rosjan. Zacieranie pozostałych śladów.</td>
+</tr>
+<tr>
+<td>8.X.1945</td>
+<td>Akt oskarżenia przeciwko niemieckim przestępcom wojennym odczytany w Berlinie w imieniu Wielkiej Brytanii, Francji, Stanów Zjednoczonych i Związku Radzieckiego, gdzie oskarżono Niemcy o popełnienie zbrodni katyńskiej.</td>
+</tr>
+<tr>
+<td>30.XI.1945</td>
+<td>W Egipcie ukazuje się Lista zaginionych jeńców z obozów rosyjskich Kozielsk, Ostaszków i Starobielsk, zestawiona przez Biuro Opieki nad Rodzinami Wojskowymi Dowództwa Polskich Sił Zbrojnych w ZSRR uzupełniona spisem Biura Pomocy Rodzinom Wojskowych i Jeńców Wojennych Dowództwa Wojsk Polskich na Środkowym Wschodzie (L. dz. 904/RW/45).</td>
+</tr>
+<tr>
+<td>13-14.II.1946</td>
+<td>Prokurator ZSRR płk Pokrowski oskarża Niemców w procesie norymberskim o popełnienie zbrodni katyńskiej. Wielka Brytania milczy.</td>
+</tr>
+<tr>
+<td>30.IX-1.X.1946</td>
+<td>Odczytanie wyroku w procesie norymberskim. W tekscie wyroku nie stwierdzono winy Niemców za dokonanie zbrodni katyńskiej.</td>
+</tr>
+<tr>
+<td>18.IX.1951-22.XII.1952</td>
+<td>Prace &quot;Komisji do przeprowadzenia pełnych i całkowitych badań masakry katyńskiej&quot; powołanej przez Kongres USA. Jej raport całkowicie obciążył ZSRR odpowiedzialnością za popełnioną zbrodnię.</td>
+</tr>
+<tr>
+<td>13.IV.1990</td>
+<td>Komunikat TASS: zbrodnia katyńska jest dziełem stalinowskiego NKWD. Tego samego dnia prezydent Michaił Gorbaczow przekazuje stronie polskiej pierwsze dokumenty katyńskie (tzw. listy śmierci).</td>
+</tr>
+<tr>
+<td>25.XII.1990</td>
+<td>Rozpoczęcie śledztwa w &quot;sprawie katyńskiej&quot;, dochodzenie prowadzi Naczelna Prokuratura Wojskowa ZSRR we współpracy z Prokuraturą Generalną RP.</td>
+</tr>
+<tr>
+<td>lato 1991</td>
+<td>Ekshumacja w Charkowie i Miednoje prowadzone przez polskich ekspertów na potrzeby śledztwa.</td>
+</tr>
+<tr>
+<td>4.X.1992</td>
+<td>Wysłannik prezydenta Rosji Jelcyna prof. Rudolf Pichoja wręcza w Belwederze dokumenty katyńskie m.in. decyzję Politbiura KC WKP(b) z 5 marca 1940 r. oraz notatkę szefa KGB Aleksandra Szelepina z 9 marca 1959 r. do Nikity Chruszczowa z propozycją zniszczenia 21857 teczek personalnych polskich jeńców i więźniów zamordowanych w 1940 r.</td>
+</tr>
+<tr>
+<td>5.V.1994</td>
+<td>Szef Służby Bezpieczeństwa Ukrainy gen. Andriej Chomicz daje polskiemu prokuratorowi Stefanowi Śnieżko wykaz 3435 nazwisk więźniów rozstrzelanych przez NKWD na Ukrainie na mocy decyzji Politbiura z 5 marca 1949 r. (tzw. listę Cwietuchina).</td>
+</tr>
+<tr>
+<td>IX.1994</td>
+<td>Ciąg dalszy ekshumacji w Miednoje i Katyniu.</td>
+</tr>
+<tr>
+<td>21.IV.1995</td>
+<td>Szef Zarządu Zasobów Archiwalnych Federalnej Służby Bezpieczeństwa gen. Anatolij Krajuszkin oficjalnie informuje, że teczki osobowe i wyroki śmierci wydane przez trójkę NKWD ZSRR (Mierkułow, Kabułow, Basztakow) zostały spalone na Łubiance na przełomie marca i kwietnia 1959 r. na polecenie Chruszczowa.</td>
+</tr>
+<tr>
+<td>2004</td>
+<td>Śledztwo w sprawie katyńskiej trwa! Strona rosyjska nie wykazuje zainteresowania. Rząd polski też nie! Czy &quot;starzy lewicowi przyjaciele&quot; doszli do cichego porozumienia? Czy może czekają, aż przyschnie świeża rana na ciele niewinnej Rosji zadana przez niewdzięcznych Polaków?</td>
+</tr>
+</tbody></table></div>
 <p><strong>Kalendarium poszukiwań &quot;zaginionych&quot; polskich jeńców wojennych</strong><br>na podstawie: Andrzej Leszek Szczesniak &quot;Katyń - tło historyczne, fakty, dokumenty&quot;, Alfa, 1989.</p>
-<p>13-30.X.1940</p>
-<p>Rozmowy NKWD z polskimi oficerami-więźniami Butyrek i Łubianki na temat tworzenia polskiej &quot;czerwonej&quot; dywizji w ZSRR. Na żądanie płk. Berlinga o włączenie do dywizji polskich oficerów z Kozielska, Starobielska i Ostaszkowa. Mierkułow odpowiada: Nie, ci to nie. Zrobiliśmy z nimi wielką pomyłkę&quot;.</p>
-<p>30.VII.1941</p>
-<p>Podpisanie polsko-radzieckiego układu o współpracy.</p>
-<p>4.VIII.1941</p>
-<p>Zwolnienie gen. Andersa z radzieckiego więzienia.</p>
-<p>13.VIII.1941</p>
-<p>Rozporządzenie Prezydium Rady Najwyższej ZSRR o amnestii dla Polaków.</p>
-<p>14.VIII.1941</p>
-<p>Podpisanie polsko-radzieckiej umowy wojskowej.</p>
-<p>16.VIII.1941</p>
-<p>Pierwsza oficjalna konferencja gen. Andersa z przedstawicielami władz wojskowych (gen. Panfiłow i gen. Żukow z NKWD). Strona radziecka uchyla się od odpowiedzi na temat obozów w Kozielsku, Starobielsku i Ostaszkowie .</p>
-<p>VIII.1941</p>
-<p>Utworzenie specjalnego biura Sztabu Armii Polskiej w ZSRR pod kierownictwem rtm. Józefa Czapskiego ds. Zaginionych z Kozielska, Starobielska i Ostaszkowa.</p>
-<p>6.IX.1941</p>
-<p>Ambasador polski w ZSRR St. Kot wręcza A. Wyszyńskiemu (wtedy zastępcy przewodniczącego Rady Komisarzy Ludowych) pierwszą listę zaginionych.</p>
-<p>20.IX.1941</p>
-<p>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</p>
-<p>27.IX.1941</p>
-<p>Nota ambasadora St. Kota do rządu ZSRR w sprawie nierealizowania układu z 30.VII 1941 r.</p>
-<p>IX-X.1941</p>
-<p>Służby wywiadowcze Polski Walczącej na rozkaz gen. Sikorskiego poszukują w kraju i niemieckich oflagach zaginionych jeńców z Kozielska, Starobielska i Ostaszkowa rzekomo zwolnionych do Kraju. Bez rezultatu.</p>
-<p>6.X.1941</p>
-<p>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</p>
-<p>13.X.1941</p>
-<p>Nota Ambasady Polskiej do rządu ZSRR w sprawie niewypełnienia zobowiązań co do zwolnienia obywateli polskich.</p>
-<p>14.X.1941</p>
-<p>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</p>
-<p>15.X.1941</p>
-<p>Specjalna nota gen. Sikorskiego do radzieckiego ambasadora przy rządzie polskim Bogomołowa w sprawie zaginionych jeńców. Nota bez odpowiedzi.</p>
-<p>22.X.1941</p>
-<p>Interwencja St. Kota u W. Mołotowa w sprawie zaginionych jeńców wojennych.</p>
-<p>1.XI.1941</p>
-<p>Ambasador St. Kot wręcza W. Mołotowowi poufną notę, w której usiłuje skłonić rząd ZSRR do zwolnienia jeńców wojennych.</p>
-<p>2.XI.1941</p>
-<p>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</p>
-<p>3.XI.1941</p>
-<p>Interwencja brytyjska u władz ZSRR w sprawie zaginionych jeńców wojennych.</p>
-<p>4.XI.1941</p>
-<p>Pismo gen. Andersa do NKWD z prośbą o wyjaśnienie losu zaginionych jeńców wraz z podaniem liczby zaginionych - 8722 osób.</p>
-<p>8.XI.1941</p>
-<p>Nota W. Mołotowa do Rządu Polskiego o &quot;pełnym wykonaniu ukazu amnestyjnego w stosunku do Polaków&quot;.</p>
-<p>12.XI.1941</p>
-<p>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</p>
-<p>14.XI.1941</p>
-<p>Nota ambasadora Bogomołowa do ambasadora Raczyńskiego stwierdzająca zwolnienie wszystkich jeńców. Przyjęcie St. Kota przez J. Stalina. Interwencja w sprawie zaginionych jeńców wojennych.</p>
-<p>1.XII.1941</p>
-<p>Notatka Ambasady Polskiej stwierdzająca, że brak jakichkolwiek śladów po 95% wszystkich jeńcach z Kozielska, Starobielska i Ostaszkowa.</p>
-<p>3.XII.1941</p>
-<p>Rozmowa gen. Sikorskiego ze Stalinem w obecności gen. Andersa i W. Mołotowa. Sikorski wręcza Stalinowi drugą listę 4000 zaginionych. Stalin oświadcza, że zaginieni uciekli do Mandżurii.</p>
-<p>I.1942</p>
-<p>Rtm. Józef Czapski z upoważnienia gen. Andersa interweniuje u naczelnika NKWD obwodu czkałowskiego Bzyrowa oraz u szefa Gułagu gen. Nasiedkina.</p>
-<p>28.I.1942</p>
-<p>Oficjalna interwencja Rządu Polskiego w sprawie zaginionych jeńców (nota nr 49). Bez odpowiedzi.</p>
-<p>3.II.1942</p>
-<p>Rtm. Józef Czapski interweniuje u gen. Rajchmana z NKWD.</p>
-<p>8.III.1942</p>
-<p>Cenzura radziecka zabrania ogłaszania w piśmie &quot;Polska&quot; poszukiwań rodzin na terenie ZSRR.</p>
-<p>18.III.1942</p>
-<p>Gen. Anders i płk Okulicki u Stalina. Kolejna interwencja. Wręcznie kolejnej listy z 4518 zaginionych.</p>
-<p>19.V.1942</p>
-<p>Ambasada Polska składa w Moskwie &quot;Memorandum w sprawie wykonania Protokołu Dodatkowego do Układu Polsko-Sowieckiego z dnia 30.VII.1941&quot; dotyczace sprawy zaginionych jeńców.</p>
-<p>13.VI.1942</p>
-<p>Wiadomości z północy o &quot;zatopieniu barek z jeńcami&quot;. Kolejna nota w sprawie zaginionych jeńców.</p>
-<p>8.VII.1942</p>
-<p>Aide-memoire rządu ZSRR na memorandum polskie z 19.V.1942 wyjaśnia, że jeńcy polscy:<br>1. wyjechali do Polski, 2. uciekli za granicę, 3. zmarli w drodze.</p>
-<p>27.VII.1942</p>
-<p>Nota polskiego ministra spraw zagranicznych w Londynie w sprawie zamknięcia przez władze radzieckie poboru do Polskich Sił Zbrojnych na terytorium ZSRR oraz w sprawie zaginionych jeńców.</p>
-<p>Prawie dokładnie rok później w dziwnych okolicznościach ginie gen. Sikorski. Wraz ze śmiercią generała, w gronie aliantów &quot;uśmiercona&quot; zostaje sprawa Katynia.</p>
-<p><strong>Zadośćuczynienie</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>13-30.X.1940</th>
+<th>Rozmowy NKWD z polskimi oficerami-więźniami Butyrek i Łubianki na temat tworzenia polskiej &quot;czerwonej&quot; dywizji w ZSRR. Na żądanie płk. Berlinga o włączenie do dywizji polskich oficerów z Kozielska, Starobielska i Ostaszkowa. Mierkułow odpowiada: Nie, ci to nie. Zrobiliśmy z nimi wielką pomyłkę&quot;.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>30.VII.1941</td>
+<td>Podpisanie polsko-radzieckiego układu o współpracy.</td>
+</tr>
+<tr>
+<td>4.VIII.1941</td>
+<td>Zwolnienie gen. Andersa z radzieckiego więzienia.</td>
+</tr>
+<tr>
+<td>13.VIII.1941</td>
+<td>Rozporządzenie Prezydium Rady Najwyższej ZSRR o amnestii dla Polaków.</td>
+</tr>
+<tr>
+<td>14.VIII.1941</td>
+<td>Podpisanie polsko-radzieckiej umowy wojskowej.</td>
+</tr>
+<tr>
+<td>16.VIII.1941</td>
+<td>Pierwsza oficjalna konferencja gen. Andersa z przedstawicielami władz wojskowych (gen. Panfiłow i gen. Żukow z NKWD). Strona radziecka uchyla się od odpowiedzi na temat obozów w Kozielsku, Starobielsku i Ostaszkowie .</td>
+</tr>
+<tr>
+<td>VIII.1941</td>
+<td>Utworzenie specjalnego biura Sztabu Armii Polskiej w ZSRR pod kierownictwem rtm. Józefa Czapskiego ds. Zaginionych z Kozielska, Starobielska i Ostaszkowa.</td>
+</tr>
+<tr>
+<td>6.IX.1941</td>
+<td>Ambasador polski w ZSRR St. Kot wręcza A. Wyszyńskiemu (wtedy zastępcy przewodniczącego Rady Komisarzy Ludowych) pierwszą listę zaginionych.</td>
+</tr>
+<tr>
+<td>20.IX.1941</td>
+<td>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</td>
+</tr>
+<tr>
+<td>27.IX.1941</td>
+<td>Nota ambasadora St. Kota do rządu ZSRR w sprawie nierealizowania układu z 30.VII 1941 r.</td>
+</tr>
+<tr>
+<td>IX-X.1941</td>
+<td>Służby wywiadowcze Polski Walczącej na rozkaz gen. Sikorskiego poszukują w kraju i niemieckich oflagach zaginionych jeńców z Kozielska, Starobielska i Ostaszkowa rzekomo zwolnionych do Kraju. Bez rezultatu.</td>
+</tr>
+<tr>
+<td>6.X.1941</td>
+<td>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</td>
+</tr>
+<tr>
+<td>13.X.1941</td>
+<td>Nota Ambasady Polskiej do rządu ZSRR w sprawie niewypełnienia zobowiązań co do zwolnienia obywateli polskich.</td>
+</tr>
+<tr>
+<td>14.X.1941</td>
+<td>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</td>
+</tr>
+<tr>
+<td>15.X.1941</td>
+<td>Specjalna nota gen. Sikorskiego do radzieckiego ambasadora przy rządzie polskim Bogomołowa w sprawie zaginionych jeńców. Nota bez odpowiedzi.</td>
+</tr>
+<tr>
+<td>22.X.1941</td>
+<td>Interwencja St. Kota u W. Mołotowa w sprawie zaginionych jeńców wojennych.</td>
+</tr>
+<tr>
+<td>1.XI.1941</td>
+<td>Ambasador St. Kot wręcza W. Mołotowowi poufną notę, w której usiłuje skłonić rząd ZSRR do zwolnienia jeńców wojennych.</td>
+</tr>
+<tr>
+<td>2.XI.1941</td>
+<td>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</td>
+</tr>
+<tr>
+<td>3.XI.1941</td>
+<td>Interwencja brytyjska u władz ZSRR w sprawie zaginionych jeńców wojennych.</td>
+</tr>
+<tr>
+<td>4.XI.1941</td>
+<td>Pismo gen. Andersa do NKWD z prośbą o wyjaśnienie losu zaginionych jeńców wraz z podaniem liczby zaginionych - 8722 osób.</td>
+</tr>
+<tr>
+<td>8.XI.1941</td>
+<td>Nota W. Mołotowa do Rządu Polskiego o &quot;pełnym wykonaniu ukazu amnestyjnego w stosunku do Polaków&quot;.</td>
+</tr>
+<tr>
+<td>12.XI.1941</td>
+<td>Interwencja St. Kota u A. Wyszyńskiego w sprawie zaginionych jeńców wojennych.</td>
+</tr>
+<tr>
+<td>14.XI.1941</td>
+<td>Nota ambasadora Bogomołowa do ambasadora Raczyńskiego stwierdzająca zwolnienie wszystkich jeńców. Przyjęcie St. Kota przez J. Stalina. Interwencja w sprawie zaginionych jeńców wojennych.</td>
+</tr>
+<tr>
+<td>1.XII.1941</td>
+<td>Notatka Ambasady Polskiej stwierdzająca, że brak jakichkolwiek śladów po 95% wszystkich jeńcach z Kozielska, Starobielska i Ostaszkowa.</td>
+</tr>
+<tr>
+<td>3.XII.1941</td>
+<td>Rozmowa gen. Sikorskiego ze Stalinem w obecności gen. Andersa i W. Mołotowa. Sikorski wręcza Stalinowi drugą listę 4000 zaginionych. Stalin oświadcza, że zaginieni uciekli do Mandżurii.</td>
+</tr>
+<tr>
+<td>I.1942</td>
+<td>Rtm. Józef Czapski z upoważnienia gen. Andersa interweniuje u naczelnika NKWD obwodu czkałowskiego Bzyrowa oraz u szefa Gułagu gen. Nasiedkina.</td>
+</tr>
+<tr>
+<td>28.I.1942</td>
+<td>Oficjalna interwencja Rządu Polskiego w sprawie zaginionych jeńców (nota nr 49). Bez odpowiedzi.</td>
+</tr>
+<tr>
+<td>3.II.1942</td>
+<td>Rtm. Józef Czapski interweniuje u gen. Rajchmana z NKWD.</td>
+</tr>
+<tr>
+<td>8.III.1942</td>
+<td>Cenzura radziecka zabrania ogłaszania w piśmie &quot;Polska&quot; poszukiwań rodzin na terenie ZSRR.</td>
+</tr>
+<tr>
+<td>18.III.1942</td>
+<td>Gen. Anders i płk Okulicki u Stalina. Kolejna interwencja. Wręcznie kolejnej listy z 4518 zaginionych.</td>
+</tr>
+<tr>
+<td>19.V.1942</td>
+<td>Ambasada Polska składa w Moskwie &quot;Memorandum w sprawie wykonania Protokołu Dodatkowego do Układu Polsko-Sowieckiego z dnia 30.VII.1941&quot; dotyczace sprawy zaginionych jeńców.</td>
+</tr>
+<tr>
+<td>13.VI.1942</td>
+<td>Wiadomości z północy o &quot;zatopieniu barek z jeńcami&quot;. Kolejna nota w sprawie zaginionych jeńców.</td>
+</tr>
+<tr>
+<td>8.VII.1942</td>
+<td>Aide-memoire rządu ZSRR na memorandum polskie z 19.V.1942 wyjaśnia, że jeńcy polscy:<br>1. wyjechali do Polski, 2. uciekli za granicę, 3. zmarli w drodze.</td>
+</tr>
+<tr>
+<td>27.VII.1942</td>
+<td>Nota polskiego ministra spraw zagranicznych w Londynie w sprawie zamknięcia przez władze radzieckie poboru do Polskich Sił Zbrojnych na terytorium ZSRR oraz w sprawie zaginionych jeńców.<br>Prawie dokładnie rok później w dziwnych okolicznościach ginie gen. Sikorski. Wraz ze śmiercią generała, w gronie aliantów &quot;uśmiercona&quot; zostaje sprawa Katynia.</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-3"><strong>Zadośćuczynienie</strong></p>
 <p>Jedynym zadośćuczynieniem dla rodzin ofiar było przekazanie im przez Prezydenta RP medali pamiątkowych &quot;Katyń&quot;, nadanych pośmiertnie ich bliskim, zamordowanym na wschodzie. Nie... nie przez naszego. Prezydenta RP na uchodźctwie w Londynie. Wałęsa nie kiwnął nawet małym palcem. Nie stać go nawet było, by zaprosić do siebie przedstawicieli Rodzin Katyńskich choć adres organizacji był doskonale znany. Nawet &quot;listy śmierci&quot; organizacja dostała jako ostatnia.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/legit2.jpg" alt="Okładka legitymacji Krzyża Kampanii Wrześniowej 1939 z rysunkiem krzyża z orłem, wydanej przez Ministerstwo Spraw Wojskowych. Napis: Ministerstwo Spraw Wojskowych; LEGITYMACJA nadania Odznaki Pamiątkowej KRZYŻ KAMPANII WRZEŚNIOWEJ 1939 r." title="Opis AI: Okładka legitymacji Krzyża Kampanii Wrześniowej 1939 z rysunkiem krzyża z orłem, wydanej przez Ministerstwo Spraw Wojskowych. Napis: Ministerstwo Spraw Wojskowych; LEGITYMACJA nadania Odznaki Pamiątkowej KRZYŻ KAMPANII WRZEŚNIOWEJ 1939 r." loading="lazy" decoding="async"></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/medal2.jpg" alt="Odznaczenie Krzyż Kampanii Wrześniowej 1939 na biało-czerwonej wstążce, z orłem pośrodku krzyża." title="Opis AI: Odznaczenie Krzyż Kampanii Wrześniowej 1939 na biało-czerwonej wstążce, z orłem pośrodku krzyża." loading="lazy" decoding="async"></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/legit1.jpg" alt="Wnętrze legitymacji Krzyża Kampanii Wrześniowej 1939 wystawionej na nazwisko Cygankiewicz Edward, z pieczęcią i podpisem, Londyn, 1985. Napis: LEGITYMACJA Nr 13084; Posterunkowy P.P. Cygankiewicz Edward; Odznaka Pamiątkowa; KRZYŻ KAMPANII WRZEŚNIOWEJ 1939; Londyn dn. 15 sierpnia 1985" title="Opis AI: Wnętrze legitymacji Krzyża Kampanii Wrześniowej 1939 wystawionej na nazwisko Cygankiewicz Edward, z pieczęcią i podpisem, Londyn, 1985. Napis: LEGITYMACJA Nr 13084; Posterunkowy P.P. Cygankiewicz Edward; Odznaka Pamiątkowa; KRZYŻ KAMPANII WRZEŚNIOWEJ 1939; Londyn dn. 15 sierpnia 1985" loading="lazy" decoding="async"></p>
 <p>Najpierw Związek Sybiraków potem Rodziny Katyńskie. Te organizacje powstały spontanicznie bez żadnej pomocy i zainteresowania ze strony państwa. Nie sposób policzyć rodzin polskich, których nie dotknęłaby tragedia Katynia, Charkowa czy Miednoje. To tylko z ich inicjatywy pojawiły się pomniki ku czci zamordowanych na wschodzie. A państwo? Państwo wykonywało i wykonuje ruchy pozorowane, żeby nie powiedzieć frykcyjne. Uroczystości są organizowane tylko po to, by &quot;wybrańcy narodu&quot; zaistnieli w telewizji. Czy wywiera się polityczny nacisk na zakończenie (jeśli jest w ogóle prowadzone) ślamazarnego śledztwa w sprawie katyńskiej prowadzonego przez nowych, demokratycznych bolszewików? Absolutnie nie. Przecież właśnie po to rządząca, polska lewica rozwiązała zespół prokuratorów, którzy mieli prowadzić to śledztwo. Bez przerwy mydli nam się oczy.</p>
 <p>Jak nasz rząd traktuje rodziny ofiar? Przeczytaj poniższy dokument.</p>
-<p>MINISTER SPRAWIEDLIWOŚCI<br>Warszawa  </p>
-<p>List otwarty  </p>
-<p>Dnia 10 grudnia 1991 r. Instytut Katyński w Polsce zwrócił się do Ministra Sprawiedliwości i Ministra Spraw Zagranicznych w sprawie odszkodowań za zbrodnię katyńską przysługujących rodzinom zamordowanych w r. 1940 oficerów WP, funkcjonariuszy PP oraz innych ofiar, podając proponowaną podstawę prawną takiego wystąpienia.</p>
-<p>Ministerstwo Spraw Zagranicznych pismem z dnia 8 stycznia 1992 zajęło w tej sprawie kompetentne stanowisko.<br>Minister Sprawiedliwości milczy.</p>
-<p>Minister Sprawiedliwości milczał przez lat pięćdziesiąt bez mała, a nie trzeba nikogo przekonywać, że właśnie Minister Sprawiedliwości i Prokurator Generalny ma szczególny obowiązek występowania z urzędu w poruszonej przez Instytut Katyński w Polsce sprawie.</p>
-<p>Ludzie uprawnieni do otrzymania odszkodowań - wdowy po ofiarach zbrodni katyńskiej - przekroczyły 80 rok życia, dzieci - 50 rok życia.<br>O milczeniu Ministra Sprawiedliwości i Prokuratora Generalnego zarazem, informujemy opinię publiczną, podając pod jej osąd ten fakt.</p>
-<p>Instytut Katyński w Polsce domaga się odpowiedzi na pytanie, na co jeszcze czeka Minister Sprawiedliwości i Prokurator Generalny? Czyżby na odejście z tego świata zainteresowanych, którzy nie doczekają się nawet podjęcia kroków o odszkodowanie?  </p>
-<p>Kraków, dnia 25 marca 1992 r.</p>
-<p>ZARZĄD<br>Instytutu Katyńskiego w Polsce</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th></th>
+<th>MINISTER SPRAWIEDLIWOŚCI<br>Warszawa</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>List otwarty<br><br>Dnia 10 grudnia 1991 r. Instytut Katyński w Polsce zwrócił się do Ministra Sprawiedliwości i Ministra Spraw Zagranicznych w sprawie odszkodowań za zbrodnię katyńską przysługujących rodzinom zamordowanych w r. 1940 oficerów WP, funkcjonariuszy PP oraz innych ofiar, podając proponowaną podstawę prawną takiego wystąpienia.<br>Ministerstwo Spraw Zagranicznych pismem z dnia 8 stycznia 1992 zajęło w tej sprawie kompetentne stanowisko.<br>Minister Sprawiedliwości milczy.<br>Minister Sprawiedliwości milczał przez lat pięćdziesiąt bez mała, a nie trzeba nikogo przekonywać, że właśnie Minister Sprawiedliwości i Prokurator Generalny ma szczególny obowiązek występowania z urzędu w poruszonej przez Instytut Katyński w Polsce sprawie.<br>Ludzie uprawnieni do otrzymania odszkodowań - wdowy po ofiarach zbrodni katyńskiej - przekroczyły 80 rok życia, dzieci - 50 rok życia.<br>O milczeniu Ministra Sprawiedliwości i Prokuratora Generalnego zarazem, informujemy opinię publiczną, podając pod jej osąd ten fakt.<br>Instytut Katyński w Polsce domaga się odpowiedzi na pytanie, na co jeszcze czeka Minister Sprawiedliwości i Prokurator Generalny? Czyżby na odejście z tego świata zainteresowanych, którzy nie doczekają się nawet podjęcia kroków o odszkodowanie?</td>
+<td></td>
+</tr>
+<tr>
+<td>Kraków, dnia 25 marca 1992 r.</td>
+<td>ZARZĄD<br>Instytutu Katyńskiego w Polsce</td>
+</tr>
+</tbody></table></div>
 <p>Napluli im w twarz. Oni odrzekli, że pada deszcz. Czy pamiętasz, kto wtedy był u władzy?<br>Kiedyś jakaś &quot;wybranka narodu&quot;, chyba nawet zlewicowana, powiedziała, że społeczeństwo, to zbiór przypadkowych ludzi. Wychodzi na to, że ci przypadkowi wybrali jeszcze bardziej przypadkowych.  </p>
 <p>Na dobrą sprawę, czy Polak powinien przyjąć tę azjatycką jałmużnę, która jest niewiele większa od renty rosyjskiej babci klozetowej? Czy ma pokornie przyjąć następny policzek, tym razem od dzieci i wnuków zbrodniarzy?</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/rp1939.gif" alt="Niebieska odznaka w kształcie rombu z orłem i literami RP, z napisem dookoła (trudnym do odczytania). Napis: RP" title="Opis AI: Niebieska odznaka w kształcie rombu z orłem i literami RP, z napisem dookoła (trudnym do odczytania). Napis: RP" loading="lazy" decoding="async"></p>
@@ -263,17 +439,17 @@
 <p>Gdy wrócim z niewoli do domów i chat,<br>przez rzeki, jeziora i góry<br>pierś naszą pokryją nie wstęgi i haft,<br>lecz proste żołnierskie mundury.  </p>
 <p>Gdy zajdzie potrzeba, gdy zechce tak los,<br>niepomni na groby i rany,<br>swe życie i zdrowie oddamy na stos<br>dla Ciebie, mój Kraju Kochany.  </p>
 <p>Pieśń powstała na przełomie lat 1939/1940, autor słów - nieznany.</p>
-<p><strong>1200 km po śmierć</strong></p>
+<p class="rozdzial" id="r-4"><strong>1200 km po śmierć</strong></p>
 <p>Czy tak wyglądała droga po śmierć mojego Dziadka? Jest to możliwe. W artykule Jędrzeja Tucholskiego &quot;Dzieje zbrodni&quot; opublikowanym w specjalnym numerze historycznym Gazety Policyjnej z 1991 r. można było przeczytać: &quot;Dwa były kierunki ewakuacji policji - do Tarnopola i Brześcia nad Bugiem. [...] W Tarnopolu nastąpiła koncentracja przede wszystkim Policji Województwa Śląskiego, [...] Początkowo jeńców umieszczono w licznych obozach przejściowych m. in. w Brodach, Podwołoczyskach, Wołoczyskach, Szepietówce, Talicy, Putiwlu oraz Kozielszczyźnie pod Połtawą.&quot;</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/droga.jpg" alt="Uproszczona mapa trasy od Łodzi (1.IX.1939) przez Warszawę, Brześć, Mińsk i Smoleńsk do Ostaszkowa, a stamtąd do Miednoje i Kalinina (Twer), z datą 14.IV.1940 i krzyżem. Napis: 1.IX.1939; ŁÓDŹ; WARSZAWA; BREST; MIŃSK; SMOLEŃSK; OSTASZKÓW; 14.IV.1940; MIEDNOJE; KALININ (TWER); MOSKWA" title="Opis AI: Uproszczona mapa trasy od Łodzi (1.IX.1939) przez Warszawę, Brześć, Mińsk i Smoleńsk do Ostaszkowa, a stamtąd do Miednoje i Kalinina (Twer), z datą 14.IV.1940 i krzyżem. Napis: 1.IX.1939; ŁÓDŹ; WARSZAWA; BREST; MIŃSK; SMOLEŃSK; OSTASZKÓW; 14.IV.1940; MIEDNOJE; KALININ (TWER); MOSKWA" loading="lazy" decoding="async"></p>
 <p>Drogę jednego z transportów przebytą etapami z Włodzimierza Wołyńskiego do Ostaszkowa udało się odtworzyć z notatek znalezionych przy ekshumacji zwłok w Miednoje: Łuck - Kiwerce - Kowel - Włodzimierz - Równe - Brody - Zdołbunowo - Szepietówka - Korosteń - Żłobin - Mohylew - Witebsk - Wielkie Łuki - Ostaszków - Seligier - Niłowa Pustyń.</p>
-<p><strong>Ostatnia droga</strong></p>
+<p class="rozdzial" id="r-5"><strong>Ostatnia droga</strong></p>
 <p>W tym samym artykule: &quot;... obóz ostaszkowski - o obostrzonym reżimie - został przeznaczony dla funkcjonariuszy policji polskiej. [...] Decyzja o zagładzie jeńców zapadła na przełomie 1939/1940 r. na posiedzeniu Biura Politycznego KC WKP(b). Wywóz z Ostaszkowa rozpoczał się 4 kwietnia 1940 r. Obóz, w którym osadzono polskich policjantów, był zlokalizowany w odległości 11 km od Ostaszkowa, w monastyrze Niłowa Pustyń, na wysepce Stołbnyj na jeziorze Seligier. [...] 6295 jeńców, poczynając od 4 kwietnia 1940 r., pędzono (po skutym lodem jeziorze) dzień po dniu partiami, do przystanku kolejowego Soroga, gdzie byli ładowani do wagonów więziennych i przez Biełogoje transportowani do Kalinina (dzisiaj Twer) [...] przewożono ich &quot;czarnymi woronami&quot; ze stacji kolejowej do Zarządu Obwodowego NKWD przy ul. Sowieckiej, gdzie do wieczora byli więzieni w celach piwnicznych.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/droga2.jpg" alt="Schematyczna mapa okolic Ostaszkowa i Tweru z czerwonymi strzałkami trasy przez Soroga, Bielogoje do Twerze i Miednoje, z wstawką powiększającą rejon jeziora Seliger. Napis: BIELOGOJE; MIEDNOJE; TWER; SOROGA; OSTASZKÓW; MOSKWA; RŻEW; Pn; j. Seliger; NIŁOWA PUSTYŃ; ŚWIETLICA; SOROGA; OSTASZKÓW" title="Opis AI: Schematyczna mapa okolic Ostaszkowa i Tweru z czerwonymi strzałkami trasy przez Soroga, Bielogoje do Twerze i Miednoje, z wstawką powiększającą rejon jeziora Seliger. Napis: BIELOGOJE; MIEDNOJE; TWER; SOROGA; OSTASZKÓW; MOSKWA; RŻEW; Pn; j. Seliger; NIŁOWA PUSTYŃ; ŚWIETLICA; SOROGA; OSTASZKÓW" loading="lazy" decoding="async"></p>
 <p>Rozstrzeliwania rozpoczynały się z nastaniem nocy i trwały do świtu. Pierwszy transport, według zeznań Tokariewa, szefa Zarządu NKWD w Kalininie, liczył 300 skazanych i kaci mieli trudności z zakończeniem przed nastaniem poranka. Następne nie przekraczały 250 ludzi. Strzelano przeważnie z pistoletów niemieckich typu Walther, dostarczonych z Moskwy. Egzekucja wyglądała następująco - w jednym z pomieszczeń piwnicznych sprawdzano tożsamość jeńca, po czym był on skuwany i przeprowadzany do celi śmierci wytłumionej wykładziną wojłokową. Egzekucję wykonywano natychmiast - tu także strzelano w tył głowy - po czym zwłoki wynoszono przez przeciwległe drzwi na zewnątrz i wrzucano na oczekujące samochody ciężarowe.</p>
 <p>Przez całą noc pracowały jakieś maszyny (były to prawdopodobnie wentylatory), dodatkowo zagłuszające huk wystrzałów. O świcie kończono egzekucję i samochody odjeżdżały szosą Moskwa - Leningrad do odległej o około 30 km miejscowości Miednoje, gdzie w lesie, na terenie rekreacyjnym NKWD, znajdował się przygotowany przez koparkę dół głębokości około 5 m, mogący pomieścić 250 zwłok. Trupy zamordowanych zrzucano bezładnie z samochodów, po czym koparka przystępowała do ich zasypywania, kopiąc od razu kolejny dół. Dołów takich znajduje się na terenie tego lasu 25 do 26.</p>
 <p>Ostatnią partię jeńców przywieziono z Ostaszkowa do Kalinina w dniu 19 maja 1940 r. Według zeznań Tokariewa, szefa Zarządu Obwodowego NKWD w Kalininie, w więzieniu &quot;rozstrzelano 6295 Polaków i jednego bandytę&quot;.</p>
-<p><strong>Mordercy z pod sierpa i młota</strong></p>
+<p class="rozdzial" id="r-6"><strong>Mordercy z pod sierpa i młota</strong></p>
 <p>Nazwiska poniżej, to tylko nieliczni mordercy polskich jeńców wojennych, których udało mi się odnaleźć w dokumentach (kolorem czerwonym - bezpośredni oprawcy jeńców z Ostaszkowa):</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0stalin.jpg" alt="Czarno-białe zdjęcie mężczyzny z wąsami i gęstymi, zaczesanymi włosami; według nazwy pliku Stalin." title="Opis AI: Czarno-białe zdjęcie mężczyzny z wąsami i gęstymi, zaczesanymi włosami; według nazwy pliku Stalin." loading="lazy" decoding="async"></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/0woroszylow.jpg" alt="Zdjęcie starszego mężczyzny w mundurze marszałka; według nazwy pliku Woroszyłow." title="Opis AI: Zdjęcie starszego mężczyzny w mundurze marszałka; według nazwy pliku Woroszyłow." loading="lazy" decoding="async"></p>
@@ -300,76 +476,152 @@
 <p><strong>W obronie Polaków wystąpił Instytut Katyński, który pyta wprost - co z odszkodowaniem za</strong>:</p>
 <p>- zajęcie i okupację we wrześniu 1939 r. prawie połowy terytorium Polski,<br>- deportacji 1,5 mln Polaków, zagarnięcie ich mienia i zmuszenie do niewolniczej pracy,<br>- grabież mienia dalszych 3 mln obywateli polskich na okupowanych ziemiach,<br>- zniszczenie i grabież 80% majątku narodowego RP na zajętych ziemiach w roku 1939,<br>- wymordowanie około 26 tys. jeńców polskich na zajętych ziemiach w roku 1939,<br>- wymordowanie dalszych około 500 tys. Polaków deportowanych w głąb ZSRR,<br>- grabież narodowych dóbr kultury, majątku narodowego i prywatnego po wkroczeniu na tereny Polski w 1944 r.,<br>- mordowanie byłych żołnierzy AK, sił zbrojnych i organizacji niepodległościowych w Polsce po 1944 r.,<br>- grabienie majątku narodowego w latach 1944-1989 w ramach RWPG,<br>- koszty utrzymania Armii Czerwonej na terenie Polski, w tym olbrzymich zniszczeń ekologicznych.</p>
 <p>Tego współcześni &quot;carowie&quot; z Moskwy nie chcą brać pod uwagę. Ich moralność, to w dalszym ciągu moralność średniowiecznych Mongołów i Tatarów. Instytut Katyński wyliczył, że odszkodowanie dla rodzin zamordowanych na wschodzie tylko w zbrodni katyńskiej wynosi 453 mln dolarów! I to bez odsetek! Prosty naród rosyjski ma inne zdanie niż politycy z Moskwy i doskonale nas rozumie. Gdy Polacy odjeżdżali z Miednoje, starsza Rosjanka żegnała ich słowami - &quot;Przyjeżdżajcie tu, bo tu jest również ziemia wasza i waszych ojców&quot;.</p>
-<p><strong>Miejsce pochówku</strong></p>
+<p class="rozdzial" id="r-7"><strong>Miejsce pochówku</strong></p>
 <p>Nie sposób nie wspomnieć tych, którym po półwieczu pierwszym dane było ujrzeć miejsce spoczynku pomordowanych. Byli to członkowie polskiej ekipy ekshumacyjnej, członkowie rosyjskiej prokuratury oraz oficerowie i żołnierze, jeszcze wtedy, Armii Radzieckiej.</p>
-<p>mgr Stefan Śnieżko</p>
-<p>zastępca Prokuratora Generalnego Ministerstwa Sprawiedliwości</p>
-<p>mgr Zbigniew Mielecki</p>
-<p>prokurator w Ministerstwie Sprawiedliwości</p>
-<p>płk dr Przemysław Tomaszewski</p>
-<p>Prokuratura Warszawskiego Okręgu Wojskowego</p>
-<p>płk mgr Andrzej Komarski</p>
-<p>szef Prokuratury Warszawskiego Okręgu Wojskowego</p>
-<p>prof. dr hab. Bronisław Młodziejowski</p>
-<p>antropolog, dyrektor Instytutu Nauk Policyjnych w Legionowie</p>
-<p>dr hab. Roman Mądro</p>
-<p>docent w Katedrze i Zakładzie Medycyny Sądowej AM w Lublinie</p>
-<p>dr Erazm Baran</p>
-<p>adiunkt w Katedrze i Zakładzie Medycyny Sądowej AM w Krakowie</p>
-<p>doc. dr hab Marian Głosek</p>
-<p>Zakład Archeologii Polski Środkowej Instytutu Historii Kultury Materialnej PAN</p>
-<p>płk w st. spocz. Zdzisław Sawicki</p>
-<p>ekspert z zakresu falerystyki</p>
-<p>mgr inż. Jarosław Rosiak</p>
-<p>komisarz Policji, Centralne Laboratorium Kryminalistyki KG Policji</p>
-<p>Aleksander Załęski</p>
-<p>aspirant Policji, ekspert fotografii w Centralnym Laboratorium Kryminalistyki KG Policji</p>
-<p>mgr inż. Jędrzej Tucholski</p>
-<p>asystent Dyrektora Instytutu Elektrotechniki w Warszawie, ekspert z zakresu historii</p>
-<p>Elżbieta Rejf</p>
-<p>kierownik Biura Informacji i Poszukiwań w Zarządzie Głównym PCK</p>
-<p>ks. Prałat Zdzisław Peszkowski</p>
-<p>kapelan Rodzin Katyńskich, jeniec Kozielska, żołnierz II Korpusu Polskiego</p>
-<p>Aleksiej Pamiatnych</p>
-<p>polska sekcja Memoriał, astronom</p>
-<p>mgr Józef Gębski</p>
-<p>reżyser w Wytwórni Filmów Dokumentalnych w Warszawie</p>
-<p>Waldemar Grodzki</p>
-<p>kamerzysta</p>
-<p>Jerzy Snoch</p>
-<p>asystent operatora</p>
-<p>mgr Stanisław Mikke</p>
-<p>zastępca redaktora naczelnego &quot;Palestry&quot;, adwokat</p>
-<p>Waldemar Linek</p>
-<p>kierowca polskiego autokaru</p>
-<p>Paweł Czerwiński</p>
-<p>ambasada Polska w Moskwie, tłumacz</p>
-<p>gen. Wiaczesław Frołow</p>
-<p>Naczelna Prokuratura Wojskowa ZSRR</p>
-<p>gen. Władymir Kupiec</p>
-<p>Naczelna Prokuratura Wojskowa ZSRR</p>
-<p>gen. Jurij Rybakow</p>
-<p>Moskiewski Okręg Wojskowy</p>
-<p>płk Aleksander Tretiecki</p>
-<p>Naczelna Prokuratura Wojskowa ZSRR</p>
-<p>płk Mikołaj Anisimow</p>
-<p>Naczelna Prokuratura Wojskowa ZSRR</p>
-<p>płk Stefan Rodziewicz</p>
-<p>Naczelna Prokuratura Wojskowa ZSRR</p>
-<p>płk Jurij Szumiejko</p>
-<p>Sztab Generalny Armii Radzieckiej</p>
-<p>mjr Jabłokow</p>
-<p>protokolant ochotnik</p>
-<p>por. Włodzimierz Zadworniew</p>
-<p>lekarz wojskowy</p>
-<p>Sergiej Głuszkow</p>
-<p>Memoriał</p>
-<p>Nikołaj Wasilewicz Szerepier</p>
-<p>żołnierz, Mołdawianin</p>
-<p>Wasilij Waleriewicz Szerdiukow</p>
-<p>żołnierz, spod Włodzimierza</p>
-<p>Wasilij Linnik</p>
-<p>żołnierz, szeregowiec</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>mgr Stefan Śnieżko</th>
+<th>zastępca Prokuratora Generalnego Ministerstwa Sprawiedliwości</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>mgr Zbigniew Mielecki</td>
+<td>prokurator w Ministerstwie Sprawiedliwości</td>
+</tr>
+<tr>
+<td>płk dr Przemysław Tomaszewski</td>
+<td>Prokuratura Warszawskiego Okręgu Wojskowego</td>
+</tr>
+<tr>
+<td>płk mgr Andrzej Komarski</td>
+<td>szef Prokuratury Warszawskiego Okręgu Wojskowego</td>
+</tr>
+<tr>
+<td>prof. dr hab. Bronisław Młodziejowski</td>
+<td>antropolog, dyrektor Instytutu Nauk Policyjnych w Legionowie</td>
+</tr>
+<tr>
+<td>dr hab. Roman Mądro</td>
+<td>docent w Katedrze i Zakładzie Medycyny Sądowej AM w Lublinie</td>
+</tr>
+<tr>
+<td>dr Erazm Baran</td>
+<td>adiunkt w Katedrze i Zakładzie Medycyny Sądowej AM w Krakowie</td>
+</tr>
+<tr>
+<td>doc. dr hab Marian Głosek</td>
+<td>Zakład Archeologii Polski Środkowej Instytutu Historii Kultury Materialnej PAN</td>
+</tr>
+<tr>
+<td>płk w st. spocz. Zdzisław Sawicki</td>
+<td>ekspert z zakresu falerystyki</td>
+</tr>
+<tr>
+<td>mgr inż. Jarosław Rosiak</td>
+<td>komisarz Policji, Centralne Laboratorium Kryminalistyki KG Policji</td>
+</tr>
+<tr>
+<td>Aleksander Załęski</td>
+<td>aspirant Policji, ekspert fotografii w Centralnym Laboratorium Kryminalistyki KG Policji</td>
+</tr>
+<tr>
+<td>mgr inż. Jędrzej Tucholski</td>
+<td>asystent Dyrektora Instytutu Elektrotechniki w Warszawie, ekspert z zakresu historii</td>
+</tr>
+<tr>
+<td>Elżbieta Rejf</td>
+<td>kierownik Biura Informacji i Poszukiwań w Zarządzie Głównym PCK</td>
+</tr>
+<tr>
+<td>ks. Prałat Zdzisław Peszkowski</td>
+<td>kapelan Rodzin Katyńskich, jeniec Kozielska, żołnierz II Korpusu Polskiego</td>
+</tr>
+<tr>
+<td>Aleksiej Pamiatnych</td>
+<td>polska sekcja Memoriał, astronom</td>
+</tr>
+<tr>
+<td>mgr Józef Gębski</td>
+<td>reżyser w Wytwórni Filmów Dokumentalnych w Warszawie</td>
+</tr>
+<tr>
+<td>Waldemar Grodzki</td>
+<td>kamerzysta</td>
+</tr>
+<tr>
+<td>Jerzy Snoch</td>
+<td>asystent operatora</td>
+</tr>
+<tr>
+<td>mgr Stanisław Mikke</td>
+<td>zastępca redaktora naczelnego &quot;Palestry&quot;, adwokat</td>
+</tr>
+<tr>
+<td>Waldemar Linek</td>
+<td>kierowca polskiego autokaru</td>
+</tr>
+<tr>
+<td>Paweł Czerwiński</td>
+<td>ambasada Polska w Moskwie, tłumacz</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>gen. Wiaczesław Frołow</th>
+<th>Naczelna Prokuratura Wojskowa ZSRR</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>gen. Władymir Kupiec</td>
+<td>Naczelna Prokuratura Wojskowa ZSRR</td>
+</tr>
+<tr>
+<td>gen. Jurij Rybakow</td>
+<td>Moskiewski Okręg Wojskowy</td>
+</tr>
+<tr>
+<td>płk Aleksander Tretiecki</td>
+<td>Naczelna Prokuratura Wojskowa ZSRR</td>
+</tr>
+<tr>
+<td>płk Mikołaj Anisimow</td>
+<td>Naczelna Prokuratura Wojskowa ZSRR</td>
+</tr>
+<tr>
+<td>płk Stefan Rodziewicz</td>
+<td>Naczelna Prokuratura Wojskowa ZSRR</td>
+</tr>
+<tr>
+<td>płk Jurij Szumiejko</td>
+<td>Sztab Generalny Armii Radzieckiej</td>
+</tr>
+<tr>
+<td>mjr Jabłokow</td>
+<td>protokolant ochotnik</td>
+</tr>
+<tr>
+<td>por. Włodzimierz Zadworniew</td>
+<td>lekarz wojskowy</td>
+</tr>
+<tr>
+<td>Sergiej Głuszkow</td>
+<td>Memoriał</td>
+</tr>
+<tr>
+<td>Nikołaj Wasilewicz Szerepier</td>
+<td>żołnierz, Mołdawianin</td>
+</tr>
+<tr>
+<td>Wasilij Waleriewicz Szerdiukow</td>
+<td>żołnierz, spod Włodzimierza</td>
+</tr>
+<tr>
+<td>Wasilij Linnik</td>
+<td>żołnierz, szeregowiec</td>
+</tr>
+</tbody></table></div>
 <p>Ekshumację wspomagało 54 żołnierzy z Kantymirowskiej Dywizji Pancernej pod dowództwem ppłk Wiktora Połyncowa oraz Twerski Czerwony Krzyż.</p>
 <p>Oczywiście, nie zabrakło też funkcjonariuszy KGB, następców i spadkobierców NKWD. Co prawda nie wymordowali naszej ekipy, ale na pewno nie będą dobrze wspominani. Gotowi bardziej przeszkadzać (co robili) niż pomagać. Gen. Łakomcew, kpt. Kałasznikow, Kriwow, Skobielew, Kapitanow i inne kanalie z KGB panoszyli się podczas ekshumacji, próbowali zwalniać pracę a nawet podburzać żołnierzy. Spuścili z tonu, jak napisał Jędrzej Tucholski, dopiero po nieudanym puczu Janajewa. Jak bolszewicy i ich progenitury nienawidzili Polaków niech świadczy fakt, że na pogrzebanych zwłokach w wykopie nr 1 jeszcze w roku 1965 postawiono szambo.</p>
 <p>W dniach 15-31 sierpnia 1991 r. dokonano pierwszej, sondażowej ekshumacji, pochówku zbiorowego polskich policjantów pod Miednoje. W dniu 31 sierpnia 1991 r. po eksploracji dołu nr 1 przeprowadzono uroczysty pochówek znalezionych szczątków w osobnym grobie. Określono także, że pochowane szczątki należały do conajmniej 243 zwłok.</p>
@@ -391,7 +643,7 @@
 <p>Czy mój Dziadek spoczywa dwa doły dalej?<br>Jeśli listy numerowano na zasadzie: <em>nr kolejny listy</em>/<em>nr kolejny w danym dniu</em> (np. 025/1, 026/2, 027/3), to chyba tak było.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/miednoje2000.jpg" alt="Las sosnowy w Miednoje, w tle liczne drewniane krzyże, na pierwszym planie ludzie przy ceglanej rabatce i ścieżce." title="Opis AI: Las sosnowy w Miednoje, w tle liczne drewniane krzyże, na pierwszym planie ludzie przy ceglanej rabatce i ścieżce." loading="lazy" decoding="async"></p>
 <p>Po 60 latach, wreszcie pod polskim krzyżem i własnym imieniem. Miednoje 2000 r.</p>
-<p><strong>Narodowa pamięć</strong></p>
+<p class="rozdzial" id="r-8"><strong>Narodowa pamięć</strong></p>
 <p>W końcu lat 80-tych Stowarzyszenie &quot;Rodzina Katyńska&quot; w Łodzi rozpoczęło przygotowania do odsłonięcia pomnika pamięci Polskim Jeńcom Wojennym z Kozielska, Starobielska, Ostaszkowa i innych obozów zamordowanym w 1940 r.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/pomnik.jpg" alt="Jasny kamienny pomnik z orłem i napisem Katyń 1940, z dedykacją dla jeńców. Napis: KATYŃ 1940; ... POLSKICH OFICERÓW ... ZAMORDOWANYCH ..." title="Opis AI: Jasny kamienny pomnik z orłem i napisem Katyń 1940, z dedykacją dla jeńców. Napis: KATYŃ 1940; ... POLSKICH OFICERÓW ... ZAMORDOWANYCH ..." loading="lazy" decoding="async"></p>
 <p>w Katyniu oraz w miejscach nieujawnionych na terenie ZSRR. Wykonania pomnika podjął się mgr artysta rzeźbiarz Włodzimierz Ciesielski syn ppor. Czesława Ciesielskiego zamordowanego w Katyniu.</p>
@@ -401,7 +653,7 @@
 <p>Pięć lat później 17 września 1995 r. to samo stowarzyszenie doprowadziło do odsłonięcia tablic pamiątkowych z nazwiskami pomordowanych. Jest także tam mój Dziadek (piąty od dołu w lewej kolumnie, przysłonięty czerwoną różą).</p>
 <p>* * *</p>
 <p>W dniu <strong>13 kwietnia 1943 r.</strong> po raz pierwszy berlińskie radio hitlerowskich Niemiec nadało komunikat o odkryciu masowych grobów oficerów polskich w Katyniu pomordowanych wiosną 1940 r. przez bolszewików. Ten dzień ustanowiono jako</p>
-<p><strong>Światowy Dzień Pamięci Ofiar Katynia</strong></p>
+<p class="rozdzial" id="r-9"><strong>Światowy Dzień Pamięci Ofiar Katynia</strong></p>
 <p><strong>Kwiecień 2004 r.</strong> - Warszawa, pomnik przy placu Zamkowym. Ogólnonarodowe obchody Światowego Dnia Pamięci Ofiar Katynia. Czy zauważyłeś to ogromne zainteresowanie pana Prezydenta? Czy zauważyłeś to ogromne zainteresowanie polskiego rządu? Czy zauważyłeś to ogromne zainteresowanie tych przypadkowych &quot;wybrańców narodu&quot; pospolicie zwanych sejmem i senatem?</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/dziadek/katyn2004.jpg" alt="Grupa ludzi składa kwiaty przy ciemnej kamiennej tablicy; na pierwszym planie biało-czerwone wstęgi i kwiaty (rocznica katyńska 2004)." title="Opis AI: Grupa ludzi składa kwiaty przy ciemnej kamiennej tablicy; na pierwszym planie biało-czerwone wstęgi i kwiaty (rocznica katyńska 2004)." loading="lazy" decoding="async"></p>
 <p>Pana Prezydenta &quot;wszystkich Polaków&quot; rozumiem, gdyż ma uraz do takich uroczystości od czasu, jak uroczyste otwarcia cmentarzy pomordowanych na Wschodzie rozpoczynał od stypy, ale reszta? Na tym zdjęciu, widzisz kto pielęgnuje narodową historię. Garstka rodzin, które pamiętają, a przede wszystkim, które jeszcze żyją i które mają jeszcze szczęście mieć pieniądze, by przyjechać do Warszawy. Trudno tu zauważyć matki i żony pomordowanych. Ci co oddają hołd, to już dzieci i wnuki ofiar.</p>
@@ -437,12 +689,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

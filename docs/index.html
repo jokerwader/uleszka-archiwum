@@ -9,8 +9,8 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="Porozmawiaj z archiwum uleszka.net">
 <meta property="og:description" content="„Uwierz we własny rozum” – cała strona Leszka Klimka z lat 2004–2007. Zadawaj pytania, porównuj z dzisiejszą wiedzą i sprawdzaj dawne źródła z pomocą AI.">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/">
-<meta property="og:image" content="https://jokerwader.github.io/uleszka-archiwum/og.png">
+<meta property="og:url" content="https://uleszka.net/">
+<meta property="og:image" content="https://uleszka.net/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
@@ -101,6 +101,21 @@
   .wejscie:nth-child(5) { animation-delay: .85s; } .wejscie:nth-child(6) { animation-delay: 1.05s; }
   @keyframes wejdz { to { opacity: 1; transform: none; } }
   @media (prefers-reduced-motion: reduce) { .wejscie { animation: none; opacity: 1; transform: none; } .pytanie-autora .kursor, .przewin a::after { animation: none; } }
+
+
+  /* ---------- sekcje: na przemian odcienie tła i „mityczne” przejścia ---------- */
+  main > section { position: relative; padding: 88px 0 64px; }
+  main > section:nth-of-type(even) {
+    background: linear-gradient(180deg, rgba(13, 18, 28, 0) 0%, #0d121c 12%, #0d121c 88%, rgba(13, 18, 28, 0) 100%);
+  }
+  main > section:nth-of-type(odd):not(.slady) { background: radial-gradient(ellipse 55% 35% at 50% 0%, rgba(226, 169, 63, .06), transparent 70%); }
+  main > section + section::before {
+    content: ""; position: absolute; top: 18px; left: 50%; transform: translateX(-50%); width: min(560px, 82%); height: 24px;
+    background: url("data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20560%2024'%3E%3Cdefs%3E%3ClinearGradient%20id%3D'l'%20x1%3D'0'%20x2%3D'1'%3E%3Cstop%20offset%3D'0'%20stop-color%3D'%23e2a93f'%20stop-opacity%3D'0'%2F%3E%3Cstop%20offset%3D'1'%20stop-color%3D'%23e2a93f'%20stop-opacity%3D'.85'%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20id%3D'r'%20x1%3D'1'%20x2%3D'0'%3E%3Cstop%20offset%3D'0'%20stop-color%3D'%23e2a93f'%20stop-opacity%3D'0'%2F%3E%3Cstop%20offset%3D'1'%20stop-color%3D'%23e2a93f'%20stop-opacity%3D'.85'%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20x%3D'0'%20y%3D'15.5'%20width%3D'238'%20height%3D'1'%20fill%3D'url(%23l)'%2F%3E%3Crect%20x%3D'322'%20y%3D'15.5'%20width%3D'238'%20height%3D'1'%20fill%3D'url(%23r)'%2F%3E%3Cpath%20d%3D'M246%2016l5-5%205%205-5%205z%20M304%2016l5-5%205%205-5%205z'%20fill%3D'%23e2a93f'%20opacity%3D'.75'%2F%3E%3Cpath%20d%3D'M280%202%20L295%2022%20H265%20Z'%20fill%3D'none'%20stroke%3D'%23e2a93f'%20stroke-width%3D'1.4'%20stroke-linejoin%3D'round'%2F%3E%3Cpath%20d%3D'M273%2015.5%20q7%20-5.5%2014%200%20q-7%205.5%20-14%200z'%20fill%3D'none'%20stroke%3D'%23f0c46f'%20stroke-width%3D'1'%2F%3E%3Ccircle%20cx%3D'280'%20cy%3D'15.5'%20r%3D'1.7'%20fill%3D'%23f0c46f'%2F%3E%3C%2Fsvg%3E") center / contain no-repeat; opacity: .8; filter: drop-shadow(0 0 6px rgba(232, 176, 75, .35));
+  }
+  .odslon { opacity: 0; transform: translateY(26px); filter: blur(3px); transition: opacity 1.1s ease, transform 1.1s cubic-bezier(.2, .7, .2, 1), filter 1.1s ease; }
+  .odslon.widac { opacity: 1; transform: none; filter: none; }
+  @media (prefers-reduced-motion: reduce) { .odslon { opacity: 1; transform: none; filter: none; transition: none; } }
 
   /* ---------- Ślady: zdjęcia z archiwum ---------- */
   .slady { padding-top: 40px; }
@@ -323,8 +338,8 @@
 
       <div class="adres">
         <span class="etykieta">Adres archiwum dla asystenta AI:</span>
-        <code id="adres-mcp">https://uleszka-mcp-production.up.railway.app/mcp</code>
-        <button class="kopiuj" data-kopiuj="https://uleszka-mcp-production.up.railway.app/mcp">Kopiuj adres</button>
+        <code id="adres-mcp">https://mcp.uleszka.net/mcp</code>
+        <button class="kopiuj" data-kopiuj="https://mcp.uleszka.net/mcp">Kopiuj adres</button>
         <span class="status" id="status"><span class="kropka"></span><span id="status-tekst">sprawdzam serwer…</span></span>
       </div>
 
@@ -386,7 +401,7 @@
   <section id="o-stronie">
     <div class="wrap">
       <h2>O stronie uleszka.net</h2>
-      <p class="uklon">To archiwum jest <b>ukłonem w stronę Leszka Klimka</b> i próbą przełożenia jego pracy na język nowych technologii. Jego teksty pozostają nietknięte, słowo w słowo. Sztuczna inteligencja pozwala dziś z nimi rozmawiać, porównywać je z tym, co wiemy po 20 latach, i sprawdzać źródła, do których sięgał.</p>
+      <p class="uklon">To archiwum powstało <b>w hołdzie śp. Leszkowi Wiktorowi Klimkowi</b>: jako podziękowanie za jego pracę i próba przełożenia jej na język nowych technologii. Jego teksty pozostają nietknięte, słowo w słowo. Sztuczna inteligencja pozwala dziś z nimi rozmawiać, porównywać je z tym, co wiemy po 20 latach, i sprawdzać źródła, do których sięgał.</p>
       <div class="historia">
         <div>
           <blockquote>„Uwierz we własny rozum”</blockquote>
@@ -592,7 +607,7 @@
     const st = document.getElementById("status");
     const tekst = document.getElementById("status-tekst");
     try {
-      const r = await fetch("https://uleszka-mcp-production.up.railway.app/health", { signal: AbortSignal.timeout(8000) });
+      const r = await fetch("https://mcp.uleszka.net/health", { signal: AbortSignal.timeout(8000) });
       if (!r.ok) throw new Error();
       st.classList.add("ok");
       tekst.textContent = "serwer działa";
@@ -669,6 +684,17 @@
   })();
 </script>
 
+
+<script>
+  // treść sekcji wyłania się łagodnie przy przewijaniu
+  (() => {
+    if (matchMedia("(prefers-reduced-motion: reduce)").matches || !("IntersectionObserver" in window)) return;
+    const el = [...document.querySelectorAll("main > section > .wrap > *, main > section > .tasma")];
+    el.forEach((e) => e.classList.add("odslon"));
+    const o = new IntersectionObserver((w) => w.forEach((x) => { if (x.isIntersecting) { x.target.classList.add("widac"); o.unobserve(x.target); } }), { rootMargin: "0px 0px -8% 0px" });
+    el.forEach((e) => o.observe(e));
+  })();
+</script>
 <script type="importmap">
   { "imports": {
       "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",

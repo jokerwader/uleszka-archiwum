@@ -86,108 +86,29 @@ Czasami, po przeholowaniu kuracją antybiotykami, oczyszczanie organizmu jest d�
 
 Wszystko powinno być gotowane pod przykryciem, nic bez przykrycia. Dlatego powinniśmy mieć duże garnki, wykorzystane tylko do połowy. Nigdy nie można gotować w małym garnku. Ucieka witamina B1, której wszyscy mamy ciągły niedostatek, bo tej witaminy, podobnie jak witaminy C organizm nie kumuluje... Dlatego wszystkie garnki muszą być przykryte pokrywką i należy tak gotować, żeby z nich nic nie uciekało: pół garnka objętości i pół garnka na parę. I jeszcze jedno. Trzeba zlikwidować wszelkie aluminium w kuchni - okropnie niszczy kości i śluzówki.
 
-**Karkówka na zimno do chleba**  
-(do jedzenia zamiast wędliny)
-
-Wlewamy na dno brytfanny dwie łyżki oleju, kładziemy kilka cienkich plastrów słoniny, na nie sparzone liście kapusty i dużą karkówkę w całości. Obkładamy ją pociętymi w plastry warzywami: mmedaltwią, cebulą, ziemniakami. Można dodać jabłka obrane z łupiny, pociete na ćwiartki. Wszystko to posypać pieprzem i cynamonem, dodać jagody jałowca, wstawić pod przykrywką do piekarnika. W trakcie pieczenia wlać szklankę białego wina.
-
-**Golonka na chłodno**
-
-Przed gotowaniem golonkę należy dokładnie ogolić (nie opalamy jej), najlepiej starą maszynką do golenia. Gotujemy dość długo, tak jak na galaretę, żeby nabrała swoistej lepkości. Wyjmujemy z wywaru odejmując skórkę i mięso od kości, kroimy w kawałki i układamy warstwami, najlepiej w niewielkich, wysokich foremkach, takich jak do pieczenia pierników. Nie zalewamy wywarem, który następnego dnia możemy zużyć do ugotowania krakowskiego kapuśniaku. Golonka po schłodzeniu, a najlepiej na drugi dzień, ma ścisłą konsystencję.
-
-**Zimne nóżki**
-
-Gotujemy nóżki wieprzowe z dodatkiem jarzyn, pieprzu, owoców jałowca. Oddzielamy mięso od kości, układamy je w foremkach, zalewamy przecedzonym wywarem, do którego dodaliśmy wczesniej ząbek surowego roztartego czosnku (dake on lepszy smak i klarowność). Tłuszcz, który się zebrał po wystudzeniu, odrzucamy.
-
-**Biała kiełbasa pieczona**
-
-Białą kiełbasę nacieramy olejem słonecznikowym (żeby nie pękała) i układamy na blasze do pieczenia ciast. Następnie obkładamy warzywami według indywidualnych pomysłów, ale może to być ten sam zestaw, co przy karkówce. Pieczemy pół godziny, po czym wyjmujemy blachę z piekarnika, smarujemy kiełbasę ketschupem, na warzywa kładziemy dwie łyżki masła i ponownie zapiekamy 20 minut. Wykładamy na półmisek.
-
-**Ziemniaki po żydowsku**
-
-Ziemniaki (kupione, przyniesione z piwnicy) należy porządnie wyszczotkować pod bieżącą wodą i dopiero te czyste należy bardzo cieniutko obrać. Okazuje się, że tuż pod skórką ziemniaka są całe pokłady magnezu, kobaltu, żelaza, tych najcieższych pierwiastków, których nam ciągle brakuje.  
-Obrane ziemniaki lekko przepłukać i wrzucić do czystego garnka (najlepiej przeznaczonego tylko do gotowania ziemniaków, nie może to być garnek aluminiowy!). W garnku ziemniaków może być tylko do połowy jego wysokości.  
-Ile osób w domu, tyle główek cebuli pokrojonych w ćwiartki kładziemy na wierzchu, dodajemy szczyptę kminku, dużą łyżkę masła i dwie szklanki mleka. Nie solimy. Dopiero to wszystko zalewamy wrzącą wodą do połowy garnka, drugą połowę zostawiając na parę.  
-Przykrywamy pokrywką i gotujemy na "dobrym ogniu". Gdy stwierdzimy, że są już miękkie, solimy do smaku. Gotujemy jeszcze przez chwilę i odstawiamy. Odcedzamy do innego czystego garnka. Ziemniaki wysypujemy na półmisek, posypujemy zielonym szczypiorkiem i możemy jeść nawet bez mięsa.
-
-**Placki ziemniaczane**
-
-Ubić porządnie dwa jajka, wlać do tego pół litra przegotowanego mleka, zetrzeć na tarce dwie duże główki cebuli i dokładnie wymieszać. Jeśli ktoś lubi miękkie placki, to niech wsypie troszkę proszku do pieczenia. Dopiero teraz dodajemy do tego pięć startych ziemniaków (skrobia nigdy nie czernieje w mleku). Po wymieszaniu smażymy na oleju.  
-Jajko też ma inną strukturę, jesli jest najpierw rozbite z mlekiem. Z tak przygotowanego ciasta placki będą jasnożółte z różowym odcieniem, jak z młodych ziemniaków, łatwostrawne.
-
-**O. Grande**: jeśli zostaną na dzień następny, to wtedy należy zrobić zupę pomidorową, a zamiast ryżu dodać pokrojone w paseczki placki ziemniaczane.
-
-**Kalafior**
-
-Kalafiora nie wolno przegotować. W osolonym wrzątku, z odrobiną "Vegety" dla smaku, gotujemy kalafior około 10 minut, dolewając szklankę mleka. Następnie podbieramy go widelcami, kiedy jest jeszcze chrupki i delikatnie namaszczamy świeżutkim naturalnym masłem, zeby zrobił się aż złocisty... Uchowaj Boże "potraktować" go prażoną tartą bułką. I wątroba i trzustka jej nie tolerują.
-
-**Fasola i groch jako półprodukt**
-
-Fasolę namaczamy z dość dużą ilością kminku, który przeciwdziała wzdęciom i wytwarzaniem dużej ilości gazów. Gotujemy ją bez mięsa i bez soli dodając łyżkę masła, w tej samej wodzie, w której moczyliśmy ją z kminkiem w oddzielnym garnku. Przechowujemy w chłodnym miejscu jako półfabrykat do zupy i innych potraw np. fasolki po bretońsku.  
-Podobnie gotujemy groch (koniecznie niełuskany).
-
-**Grochówka  
-Fasolówka**
-
-Gotujemy najzwyklejszą zupę ziemniaczaną z posiekaną chudą kiełbasą, przyprawiamy majerankiem, tymiankiem i dodajemy wykonany przedtem półprodukt - fasolę lub groch.
-
-**Zupa "przeciw starości"**
-
-Siekamy trzy główki cebuli w kostkę, ścieramy na wiórki trzy mmedaltewki i pół sporego selera, kroimy w drobną kostkę trzy ziemniaki i trzy pietruszki. Wrzucamy do rondla zalewając dwoma szklankami wody. Jako przyprawa służy szczypta kminku i sól. Gotujemy do miękkości, zaprawiając na koniec pełnotłustym mlekiem. Zupa powinna mieć gęstą konsystencję.
-
-**Pieczone buraki**
-
-Kilka umytych, średniej wielkości buraków pieczemy w piekarniku na blasze (wstawiając tam kubek z wodą, żeby trochę parowało) przez około pół godziny w temperaturze 200ºC aż będą miękkie. Po ostygnięciu wkładamy do lodówki.
-
-**Kefir domowy**
-
-Mleko gotujemy na wolnym ogniu przez pół godziny, by odparowało. Pozostawiamy do ostudzenia w ciemnym garnku (najlepiej kamionkowym, tylko do kefiru). Do ostudzonego mleka dodajemy szklankę zwykłego kefiru, kupionego w sklepie, przykrywamy pokrywką i zostawiamy w ciepłym miejscu. Kefir jest gotowy do spożycia już na drugi dzień.  
-Zostawiamy szklankę tego kefiru do zakwaszenia następnego mleka.
-
-**O. Grande**: grzybki Kefira zakwaszając mleko, polują na bakterie. A ponieważ odżywiają się bakteriami gnilnymi, oczyszczaja mleko z wszelkich brudów. Poza tym wytwarzają mlekowy kwas chemiczny odwrotnie złożony, który z naszych organizmów, nawet trupi jad rakowy usuwa.
-
-**Kwas chlebowy**
-
-Trzy kilogramy sucharów z ciemnego, razowego chleba, pół kilograma miodu, dwa kilogramy cukru oraz drożdże winne. Wszystko to zalewamy wodą w dużym kamiennym garnku, przykrywamy lnianym ręcznikiem, stawiamy na dwa, trzy dni w ciepłym miejscu. Gdy zacznie fermentować, przelewamy do butelek, szczelnie zamykamy i przez kilka dni przetrzymujemy gdzieś w chłodzie. Na lato jest to znakomity, orzeźwiający i zarazem leczący napój.
-
-**Herbata**
-
-Do gotowania herbaty przeznaczamy osobny wyparzony, emaliowany czajnik. Suchą herbatę zalewamy wodą, doprowadzamy do wrzenia, gotujemy przez 2 minuty i odstawiamy na pół godziny by "naciągnęła". Z tak przygotowanej esencji robimy herbatę.  
-Dobrze zaparzona, mocna herbata zabezpiecza przed chorobami krążenia, serca, niewydolnością mózgu, kłopotami z zapaleniem śluzówki na tle ataku szczepów wirusowych, a nawet przed grypą.
-
-**Kakao**
-
-By było bez kożuchów, gotujemy kakao wieczorem na wodzie. Rano podgrzewamy i dodajemy pół na pół pełnotłustego mleka z kartonika. Napój lekko strawny, bogaty w kofeinę i tebrominę, która świetnie wpływa na pamięć, dostarcza witamin z grupy B, witaminy PP i magnezu. Kakao na mleku. Popełniamy tu podobny błąd jak przy parzeniu herbaty. Zalanie gotującym mlekiem nie wydobędzie z kakao ani właściwego zapachu ani treści odżywczych. Wystarczy zwrócić uwagę, że mleko kipi w temperaturze 85-90°C, natomiast sproszkowane kakao powyżej 100°C, jest bardziej gorące od rosołu, dłużej od niego stygnie. Prawidłowo przyrządzone przypomina płynną czekoladę, w szklance widać charakterystyczną, nie opadającą na dno zawiesinę.
-
-**Woda krzemionkowa**
-
-Kto chce mieć w domu dobrą krzemionkową wodę, którą orzeźwi się o każdej porze roku, niech zrobi tak: pół kilograma suszonego skrzypu pokruszyć, wsypać do emaliowanego garnka, zalać przefiltrowaną wodą, zostawić na noc. Rano pogotować 20 minut, odstawić. Kiedy ustoi się, przecedzić przez niezbyt gęste sitko, wlać do kamiennego wyziębionego garnka. Garnek paruje i nie pozwoli, by woda się nagrzała i w ten sposób pozyskujemy krzemionkę - wysmienitą, twardą wodę wprost do picia, do herbaty, do mycia zębów, do gotowania zup...
-
-**Woda mrożona**
-
-Kranówka zdatna do picia. Wlać wodę do garnka (w zależności od potrzeb) i trzymać odkryty przez całą noc, żeby uleciał chlor. Potem gotujemy przez 10 minut, studzimy i rozlewamy do plastikowych butelek po wodzie mineralnej. Układamy je w zamrażalniku na kilka godzin. Uważać należy by woda całkowicie nie zamarzła, bo otrzymamy efekt wybuchu granatu. Wyjmujemy, gdy częściowo przemieni się w lód. Po przemrożeniu, woda nabiera smaku i charakteru wody pierwotnej, szybciej gasi pragnienie, nie działa przeziębiająco, nawet jeśli jeszcze lód stoi w butelce. W czasie przemrożenia podlega procesowi zbliżonemu do oczyszczającej destylacji i świetnie nadaje się do bezpośredniego spożycia.
-
-**Kompot ziemniaczany**
-
-Wodę, odcedzoną po ugotowanych ziemniakach, zalewamy zimnym mlekiem w objętości 2/3 wywaru. Dodajemy siekaną rzeżuchę lub szczypiorek, mieszamy i nalewamy do kubków.
-
-**Syrop buraczany**  
-(do słodzenia)
-
-Kilkanaście buraków cukrowych myjemy i obieramy delikatnie i kroimy w drobną kostkę. Wrzucamy do sporego garnka, zalewamy wodą i zostawiamy na kilka godzin na wolnym ogniu (wodę należy uzupełniać). Po jakimś czasie z buraków zacznie wydobywać się ciecz początkowo szara, następnie koloru miodu, wreszcie właściwa - brunatna jak mocna herbata. Po ostudzeniu zlewamy do butelek lub słoików. Wygotowane buraki z garnka spożywamy po trochu, rozkoszując się naturalnym smakiem.  
-Amatorom jeszcze bardziej wyrafinowanych wrażeń smakowych polecam wzbogacenie syropu rumem (na 5 litrów syropu pół litra rumu).
-
-**Barszcz wigilijny**
-
-Bardzo dobry barszcz zrobimy z pieczonych buraków. 3-4 buraki ucieramy na tarce, zalewamy przegotowaną wodą, dodajemy ząbek czosnku, utarty z solą, trochę kwasku cytrynowego, cukier, łyżkę oleju i już jest wspaniały barszcz.
-
-**Kutia wigilijna**
-
-Przyrządza się ją z łuszczonej obtłuczonej przenicy, którą należy namoczyć, a następnie dosyć długo gotować na małym ogniu. Jałowo bez soli i cukru. Kiedy zaczyna pęcznieć dodajemy trochę świeżego masła, żeby nie pękała. Równolegle przygotowujemy mak, uprzednio dobrze wymoczony. Przepuszczamy go dwukrotnie przez maszynkę do mięsa, po czym jeszcze dobrze ucieramy w makutrze. Dodajemy do niego miód i lekko sparzone rodzynki. Przenicę formujemy w babkę, na wierzchu możemy ułożyć rozetkę z łuskanych włoskich orzechów i migdałów, a boki obkładamy makiem. Nabiera się tę potrawę dużą łyżką, po trosze wszystkiego.
-
-**Karp wigilijny**
-
-Karpia pieczemy na oleju panierując w mące i jajku na kilka godzin przed kolacją i podajemy po podgrzaniu. Organizm najlepiej toleruje rybę, która zdążyła ostygnąć i stężeć.
+| **Karkówka na zimno do chleba**<br>(do jedzenia zamiast wędliny) | Wlewamy na dno brytfanny dwie łyżki oleju, kładziemy kilka cienkich plastrów słoniny, na nie sparzone liście kapusty i dużą karkówkę w całości. Obkładamy ją pociętymi w plastry warzywami: mmedaltwią, cebulą, ziemniakami. Można dodać jabłka obrane z łupiny, pociete na ćwiartki. Wszystko to posypać pieprzem i cynamonem, dodać jagody jałowca, wstawić pod przykrywką do piekarnika. W trakcie pieczenia wlać szklankę białego wina. |
+| --- | --- |
+| **Golonka na chłodno** | Przed gotowaniem golonkę należy dokładnie ogolić (nie opalamy jej), najlepiej starą maszynką do golenia. Gotujemy dość długo, tak jak na galaretę, żeby nabrała swoistej lepkości. Wyjmujemy z wywaru odejmując skórkę i mięso od kości, kroimy w kawałki i układamy warstwami, najlepiej w niewielkich, wysokich foremkach, takich jak do pieczenia pierników. Nie zalewamy wywarem, który następnego dnia możemy zużyć do ugotowania krakowskiego kapuśniaku. Golonka po schłodzeniu, a najlepiej na drugi dzień, ma ścisłą konsystencję. |
+| **Zimne nóżki** | Gotujemy nóżki wieprzowe z dodatkiem jarzyn, pieprzu, owoców jałowca. Oddzielamy mięso od kości, układamy je w foremkach, zalewamy przecedzonym wywarem, do którego dodaliśmy wczesniej ząbek surowego roztartego czosnku (dake on lepszy smak i klarowność). Tłuszcz, który się zebrał po wystudzeniu, odrzucamy. |
+| **Biała kiełbasa pieczona** | Białą kiełbasę nacieramy olejem słonecznikowym (żeby nie pękała) i układamy na blasze do pieczenia ciast. Następnie obkładamy warzywami według indywidualnych pomysłów, ale może to być ten sam zestaw, co przy karkówce. Pieczemy pół godziny, po czym wyjmujemy blachę z piekarnika, smarujemy kiełbasę ketschupem, na warzywa kładziemy dwie łyżki masła i ponownie zapiekamy 20 minut. Wykładamy na półmisek. |
+| **Ziemniaki po żydowsku** | Ziemniaki (kupione, przyniesione z piwnicy) należy porządnie wyszczotkować pod bieżącą wodą i dopiero te czyste należy bardzo cieniutko obrać. Okazuje się, że tuż pod skórką ziemniaka są całe pokłady magnezu, kobaltu, żelaza, tych najcieższych pierwiastków, których nam ciągle brakuje.<br>Obrane ziemniaki lekko przepłukać i wrzucić do czystego garnka (najlepiej przeznaczonego tylko do gotowania ziemniaków, nie może to być garnek aluminiowy!). W garnku ziemniaków może być tylko do połowy jego wysokości.<br>Ile osób w domu, tyle główek cebuli pokrojonych w ćwiartki kładziemy na wierzchu, dodajemy szczyptę kminku, dużą łyżkę masła i dwie szklanki mleka. Nie solimy. Dopiero to wszystko zalewamy wrzącą wodą do połowy garnka, drugą połowę zostawiając na parę.<br>Przykrywamy pokrywką i gotujemy na "dobrym ogniu". Gdy stwierdzimy, że są już miękkie, solimy do smaku. Gotujemy jeszcze przez chwilę i odstawiamy. Odcedzamy do innego czystego garnka. Ziemniaki wysypujemy na półmisek, posypujemy zielonym szczypiorkiem i możemy jeść nawet bez mięsa. |
+| **Placki ziemniaczane** | Ubić porządnie dwa jajka, wlać do tego pół litra przegotowanego mleka, zetrzeć na tarce dwie duże główki cebuli i dokładnie wymieszać. Jeśli ktoś lubi miękkie placki, to niech wsypie troszkę proszku do pieczenia. Dopiero teraz dodajemy do tego pięć startych ziemniaków (skrobia nigdy nie czernieje w mleku). Po wymieszaniu smażymy na oleju.<br>Jajko też ma inną strukturę, jesli jest najpierw rozbite z mlekiem. Z tak przygotowanego ciasta placki będą jasnożółte z różowym odcieniem, jak z młodych ziemniaków, łatwostrawne.<br>**O. Grande**: jeśli zostaną na dzień następny, to wtedy należy zrobić zupę pomidorową, a zamiast ryżu dodać pokrojone w paseczki placki ziemniaczane. |
+| **Kalafior** | Kalafiora nie wolno przegotować. W osolonym wrzątku, z odrobiną "Vegety" dla smaku, gotujemy kalafior około 10 minut, dolewając szklankę mleka. Następnie podbieramy go widelcami, kiedy jest jeszcze chrupki i delikatnie namaszczamy świeżutkim naturalnym masłem, zeby zrobił się aż złocisty... Uchowaj Boże "potraktować" go prażoną tartą bułką. I wątroba i trzustka jej nie tolerują. |
+| **Fasola i groch jako półprodukt** | Fasolę namaczamy z dość dużą ilością kminku, który przeciwdziała wzdęciom i wytwarzaniem dużej ilości gazów. Gotujemy ją bez mięsa i bez soli dodając łyżkę masła, w tej samej wodzie, w której moczyliśmy ją z kminkiem w oddzielnym garnku. Przechowujemy w chłodnym miejscu jako półfabrykat do zupy i innych potraw np. fasolki po bretońsku.<br>Podobnie gotujemy groch (koniecznie niełuskany). |
+| **Grochówka<br>Fasolówka** | Gotujemy najzwyklejszą zupę ziemniaczaną z posiekaną chudą kiełbasą, przyprawiamy majerankiem, tymiankiem i dodajemy wykonany przedtem półprodukt - fasolę lub groch. |
+| **Zupa "przeciw starości"** | Siekamy trzy główki cebuli w kostkę, ścieramy na wiórki trzy mmedaltewki i pół sporego selera, kroimy w drobną kostkę trzy ziemniaki i trzy pietruszki. Wrzucamy do rondla zalewając dwoma szklankami wody. Jako przyprawa służy szczypta kminku i sól. Gotujemy do miękkości, zaprawiając na koniec pełnotłustym mlekiem. Zupa powinna mieć gęstą konsystencję. |
+| **Pieczone buraki** | Kilka umytych, średniej wielkości buraków pieczemy w piekarniku na blasze (wstawiając tam kubek z wodą, żeby trochę parowało) przez około pół godziny w temperaturze 200ºC aż będą miękkie. Po ostygnięciu wkładamy do lodówki. |
+| **Kefir domowy** | Mleko gotujemy na wolnym ogniu przez pół godziny, by odparowało. Pozostawiamy do ostudzenia w ciemnym garnku (najlepiej kamionkowym, tylko do kefiru). Do ostudzonego mleka dodajemy szklankę zwykłego kefiru, kupionego w sklepie, przykrywamy pokrywką i zostawiamy w ciepłym miejscu. Kefir jest gotowy do spożycia już na drugi dzień.<br>Zostawiamy szklankę tego kefiru do zakwaszenia następnego mleka.<br>**O. Grande**: grzybki Kefira zakwaszając mleko, polują na bakterie. A ponieważ odżywiają się bakteriami gnilnymi, oczyszczaja mleko z wszelkich brudów. Poza tym wytwarzają mlekowy kwas chemiczny odwrotnie złożony, który z naszych organizmów, nawet trupi jad rakowy usuwa. |
+| **Kwas chlebowy** | Trzy kilogramy sucharów z ciemnego, razowego chleba, pół kilograma miodu, dwa kilogramy cukru oraz drożdże winne. Wszystko to zalewamy wodą w dużym kamiennym garnku, przykrywamy lnianym ręcznikiem, stawiamy na dwa, trzy dni w ciepłym miejscu. Gdy zacznie fermentować, przelewamy do butelek, szczelnie zamykamy i przez kilka dni przetrzymujemy gdzieś w chłodzie. Na lato jest to znakomity, orzeźwiający i zarazem leczący napój. |
+| **Herbata** | Do gotowania herbaty przeznaczamy osobny wyparzony, emaliowany czajnik. Suchą herbatę zalewamy wodą, doprowadzamy do wrzenia, gotujemy przez 2 minuty i odstawiamy na pół godziny by "naciągnęła". Z tak przygotowanej esencji robimy herbatę.<br>Dobrze zaparzona, mocna herbata zabezpiecza przed chorobami krążenia, serca, niewydolnością mózgu, kłopotami z zapaleniem śluzówki na tle ataku szczepów wirusowych, a nawet przed grypą. |
+| **Kakao** | By było bez kożuchów, gotujemy kakao wieczorem na wodzie. Rano podgrzewamy i dodajemy pół na pół pełnotłustego mleka z kartonika. Napój lekko strawny, bogaty w kofeinę i tebrominę, która świetnie wpływa na pamięć, dostarcza witamin z grupy B, witaminy PP i magnezu. Kakao na mleku. Popełniamy tu podobny błąd jak przy parzeniu herbaty. Zalanie gotującym mlekiem nie wydobędzie z kakao ani właściwego zapachu ani treści odżywczych. Wystarczy zwrócić uwagę, że mleko kipi w temperaturze 85-90°C, natomiast sproszkowane kakao powyżej 100°C, jest bardziej gorące od rosołu, dłużej od niego stygnie. Prawidłowo przyrządzone przypomina płynną czekoladę, w szklance widać charakterystyczną, nie opadającą na dno zawiesinę. |
+| **Woda krzemionkowa** | Kto chce mieć w domu dobrą krzemionkową wodę, którą orzeźwi się o każdej porze roku, niech zrobi tak: pół kilograma suszonego skrzypu pokruszyć, wsypać do emaliowanego garnka, zalać przefiltrowaną wodą, zostawić na noc. Rano pogotować 20 minut, odstawić. Kiedy ustoi się, przecedzić przez niezbyt gęste sitko, wlać do kamiennego wyziębionego garnka. Garnek paruje i nie pozwoli, by woda się nagrzała i w ten sposób pozyskujemy krzemionkę - wysmienitą, twardą wodę wprost do picia, do herbaty, do mycia zębów, do gotowania zup... |
+| **Woda mrożona** | Kranówka zdatna do picia. Wlać wodę do garnka (w zależności od potrzeb) i trzymać odkryty przez całą noc, żeby uleciał chlor. Potem gotujemy przez 10 minut, studzimy i rozlewamy do plastikowych butelek po wodzie mineralnej. Układamy je w zamrażalniku na kilka godzin. Uważać należy by woda całkowicie nie zamarzła, bo otrzymamy efekt wybuchu granatu. Wyjmujemy, gdy częściowo przemieni się w lód. Po przemrożeniu, woda nabiera smaku i charakteru wody pierwotnej, szybciej gasi pragnienie, nie działa przeziębiająco, nawet jeśli jeszcze lód stoi w butelce. W czasie przemrożenia podlega procesowi zbliżonemu do oczyszczającej destylacji i świetnie nadaje się do bezpośredniego spożycia. |
+| **Kompot ziemniaczany** | Wodę, odcedzoną po ugotowanych ziemniakach, zalewamy zimnym mlekiem w objętości 2/3 wywaru. Dodajemy siekaną rzeżuchę lub szczypiorek, mieszamy i nalewamy do kubków. |
+| **Syrop buraczany**<br>(do słodzenia) | Kilkanaście buraków cukrowych myjemy i obieramy delikatnie i kroimy w drobną kostkę. Wrzucamy do sporego garnka, zalewamy wodą i zostawiamy na kilka godzin na wolnym ogniu (wodę należy uzupełniać). Po jakimś czasie z buraków zacznie wydobywać się ciecz początkowo szara, następnie koloru miodu, wreszcie właściwa - brunatna jak mocna herbata. Po ostudzeniu zlewamy do butelek lub słoików. Wygotowane buraki z garnka spożywamy po trochu, rozkoszując się naturalnym smakiem.<br>Amatorom jeszcze bardziej wyrafinowanych wrażeń smakowych polecam wzbogacenie syropu rumem (na 5 litrów syropu pół litra rumu). |
+| **Barszcz wigilijny** | Bardzo dobry barszcz zrobimy z pieczonych buraków. 3-4 buraki ucieramy na tarce, zalewamy przegotowaną wodą, dodajemy ząbek czosnku, utarty z solą, trochę kwasku cytrynowego, cukier, łyżkę oleju i już jest wspaniały barszcz. |
+| **Kutia wigilijna** | Przyrządza się ją z łuszczonej obtłuczonej przenicy, którą należy namoczyć, a następnie dosyć długo gotować na małym ogniu. Jałowo bez soli i cukru. Kiedy zaczyna pęcznieć dodajemy trochę świeżego masła, żeby nie pękała. Równolegle przygotowujemy mak, uprzednio dobrze wymoczony. Przepuszczamy go dwukrotnie przez maszynkę do mięsa, po czym jeszcze dobrze ucieramy w makutrze. Dodajemy do niego miód i lekko sparzone rodzynki. Przenicę formujemy w babkę, na wierzchu możemy ułożyć rozetkę z łuskanych włoskich orzechów i migdałów, a boki obkładamy makiem. Nabiera się tę potrawę dużą łyżką, po trosze wszystkiego. |
+| **Karp wigilijny** | Karpia pieczemy na oleju panierując w mące i jajku na kilka godzin przed kolacją i podajemy po podgrzaniu. Organizm najlepiej toleruje rybę, która zdążyła ostygnąć i stężeć. |
 
 **Poglądy prywatne**
 

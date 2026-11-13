@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="Woda żywa i martwa – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Tekst (autorstwa Tamary Marty Karpiuk, Puławy 1988) opisuje „wodę żywą” (zasadową) i „martwą” (kwaśną), powstające przy elektrolizie, które odkryto rzekomo w 1985 roku w Taszkienci">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/medalt-wodazywa.html">
+<meta property="og:url" content="https://uleszka.net/czytelnia/medalt-wodazywa.html">
 <meta property="og:image" content="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/prostownik.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.</a></li><li><a href="#r-2">Trochę danych, nie tylko technicznych</a></li><li><a href="#r-3">Uważaj, masz do czynienia z prądem o napięciu 230 V.</a></li><li><a href="#r-4">Zastosowanie</a></li><li><a href="#r-5">O żołądku</a></li><li><a href="#r-6">O wątrobie</a></li><li><a href="#r-7">O nerkach</a></li><li><a href="#r-8">Co i jak leczyć wodą &quot;żywą&quot; i &quot;martwą&quot;</a></li><li><a href="#r-9">Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.</a></li><li><a href="#r-10">Woda &quot;żywa&quot;, &quot;martwa&quot; i zioła</a></li><li><a href="#r-11">Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details open><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html" class="aktualny" aria-current="page">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#zapomniana-medycyna">Zapomniana medycyna</a></p>
   <h1>Woda żywa i martwa</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Tekst (autorstwa Tamary Marty Karpiuk, Puławy 1988) opisuje „wodę żywą” (zasadową) i „martwą” (kwaśną), powstające przy elektrolizie, które odkryto rzekomo w 1985 roku w Taszkiencie. Podaje instrukcję budowy urządzenia, wskazania dla kilkudziesięciu chorób, zalecenia dietetyczne oraz opis łączenia wody z ziołami wg faz księżyca i astrologii. Autorka powołuje się też na radiestezję i medycynę wschodnią, twierdząc, że kuracja wspiera oczyszczanie organizmu. Tekst zaczyna się i kończy zastrzeżeniem, że metoda nie jest uznawana przez medycynę naukową.</p>
@@ -33,20 +69,20 @@
   <article class="tresc">
 <p><strong>Woda &quot;żywa&quot;, &quot;martwa&quot; i zioła</strong><br>Tamara Marta Karpiuk - Puławy - styczeń 1988</p>
 <p>Polskie prawo i jedynie słuszna nauka zmusza do rozpoczęcia sloganem:</p>
-<p><strong>Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.</strong></p>
+<p class="rozdzial" id="r-1"><strong>Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.</strong></p>
 <p>Odkrycia dokonano w roku 1985 w Instytucie Złóż Naftowych w Taszkiencie, przez zespół uzbeckich uczonych, wsród których był też Polak dr nauk chemicznych Adam Mariampolski. Odkrycia dokonano przypadkowo, w czasie prac nad innym tematem trwającym ponad 20 lat. Prowadząc badania nad elektrolizą wody znaleziono dwie odmiany wody - kwaśną i alkaliczną. Wodę kwaśną nazwano &quot;martwą&quot;, a alkaliczną &quot;żywą&quot;. Wodą &quot;kwaśną&quot; podlewano nasiona bawełny - nie rosły. Powtórzono zabieg wodą &quot;żywą&quot; i rośliny zaczęły rosnąć, okazale kwitnąć, a pąki były dorodniejsze od bawełny uprawnej. Rozpoczęto więc prace badawcze. Zastosowano wodę &quot;żywą&quot; w budownictwie rozprowadzając nią cement - nie tężał przez siedem dni, ale lepiej zespalał elementy budowlane nie zmieniając ich właściwości.</p>
 <p>Potem zaczęto podlewać zioła. Okazało się, że rosły szybciej, bardziej się krzewiły, były dorodniejsze i odporne na choroby. Robotnicy chętnie pili tę wodę oraz przemywali okaleczenia rąk. Ponieważ woda była zbierana do wielkiej kadzi, a jest tam klimat gorący, więc niektórzy kąpali się w tej wodzie dla ochłody. Wówczas okazało się, że ci którzy chorowali na egzemę szybko powracali do zdrowia. Dla próby dokonano oprysków pola bawełnianego zaatakowanego grzybkiem i po kilku dniach grzybek zniknął. Tajemnicza woda czyniła cuda niezrozumiałe dla uczonych i po kilku eksperymentach zaczęto się nią interesować na poważnie. Obecnie zaczęto eksperymenty z wodą w ośrodkach medycznych. Rezultaty są zadziwiające i być może jest to &quot;woda życia&quot; na ziemi w czasie, gdy chemia nas kaleczy, a tylko niekiedy leczy.</p>
-<p><strong>Trochę danych, nie tylko technicznych</strong></p>
+<p class="rozdzial" id="r-2"><strong>Trochę danych, nie tylko technicznych</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/prostownik.jpg" alt="Schemat układu elektrolizy: dwie elektrody zanurzone w naczyniu z wodą, podłączone do mostka prostowniczego z zasilaniem 230 V; część naczynia odgrodzona przerywaną linią. Napis: ~230 V; - ; +" title="Opis AI: Schemat układu elektrolizy: dwie elektrody zanurzone w naczyniu z wodą, podłączone do mostka prostowniczego z zasilaniem 230 V; część naczynia odgrodzona przerywaną linią. Napis: ~230 V; - ; +" loading="lazy" decoding="async"></p>
 <p>Urządzenie do &quot;produkcji&quot; wody należy wykonać (najlepiej samemu gdyż jedyne, produkcji litewskiej, dostępne na rynku kosztuje <a href="http://kapela.waw.pl/sklep/product_info.php?products_id=47&amp;osCsid=bd57de0581dc6773d5757e2f0e851fcb" rel="noopener" target="_blank">380,00 zł.</a>) z następujących materiałów:</p>
 <p><strong>•</strong> elektrody ze stali nierdzewnej 190×30×1,5 mm (nie może być miedź, aluminium, stal chromowa),<br><strong>•</strong> woreczek z niefarbowanego brezentu o średnicy około 8 cm i wysokości 14 cm (mieści około 400 ml), można uszyć też woreczek z niefarbowanej bawełny, ale nie polecany gdyż jest za miękki. Wszystkie tkaniny farbowane dadzą wodę zatrutą chemikaliami stosowanymi przy barwieniu,<br><strong>•</strong> naczynie szklane o pojemności 1 litra, wysokie tak, by elektrody zanurzyć w conajmniej 80%<br><strong>•</strong> termometr o zakresie do 100°C,<br><strong>•</strong> prostownik na diodach (U&gt;300 V, I&gt;5A). Ja swego czasu użyłem &quot;BYP 680-300&quot;, odstęp między diodami nie może być mniejszy niż 40 mm.</p>
 <p><strong>Woda martwa</strong> - woda &quot;kwaśna&quot;, wytwarza się przy anodzie (+), ma odcień złocisty, element Yang, odczyn pH poniżej 4, jest bogata w tlen, ma właściwości dezynfekcyjne, odwadniające, oddziaływuje na limfę.</p>
 <p><strong>Woda żywa</strong> - woda &quot;zasadowa&quot;, wytwarza się przy katodzie (-), ma odcień mleczny, element Yin, odczyn pH powyżej 10, na działanie nawadniajace i jest wchłaniana przez tkanki.</p>
 <p>Przed przystąpieniem do &quot;produkcji&quot; należy namoczyć brezentowy woreczek. Woreczek wkładamy do szklanego naczynia i wlewamy do niego około 400 ml wody z kranu i do naczynia szklanego około 450 ml. Wkładamy elektrody, tak by jedna z nich znalazła się w brezentowym woreczku. W zależności jaką wodę chcemy wytworzyć - jeśli chcemy wytworzyć wodę &quot;żywą&quot; do woreczka wkładamy anodę (+), jeśli martwą - odwrotnie. Dlatego, że wodę z woreczka brezentowego będziemy zawsze wylewać, gdyż (nie wiem czemu) w jednym cyklu można produkować tylko jeden rodzaj wody. Wkładamy do naczynia termometr.</p>
-<p><strong>Uważaj, masz do czynienia z prądem o napięciu 230 V.</strong></p>
+<p class="rozdzial" id="r-3"><strong>Uważaj, masz do czynienia z prądem o napięciu 230 V.</strong></p>
 <p>Włączamy prostownik, zachowując największe środki ostrożności gdyż mamy do czynienia z gołymi elektrodami i czekamy aż temperatura osiągnie 72°C. Wyłączamy prostownik z sieci, wyjmujemy elektrody, wylewamy wodę z brezentowego pojemnika do zlewu a pozostałą w szklanym naczyniu do oznakowanej (woda żywa, woda martwa) butelki. Spotkałem też opracowanie, w którym wodę &quot;martwą&quot; produkuje się w ciągu 7 minut, a &quot;żywą&quot; w ciągu 9 minut. Może to być przydatne dla tych, którzy nie maja termometru ale generalnie produkcja wody winna opierać się o wskazania termometru.</p>
 <p>Wodę można podgrzewać, Zachowuje trwałość przez 7 dni a działanie wzmocnione do 7 godzin.</p>
-<p><strong>Zastosowanie</strong></p>
+<p class="rozdzial" id="r-4"><strong>Zastosowanie</strong></p>
 <p>&quot;Żywa&quot; woda nie jest panaceum na wszystkie schorzenia, ale wiele z nich wyeliminuje w krótkim czasie bez konieczności stosowania leków. Wodę &quot;żywą&quot; i &quot;martwą&quot; należy stosować według poniższych wskazań tylko w razie potrzeby lecz nie można pić jej stale. W celu stosowania wody z ziołami można ja podgrzewać. Sproszkowane zioła należy rozprowadzać ciepłą wodą i stosować okłady. Taki kompres działa szybko i skutecznie, szczególnie w bólach stawów i oczu. Skuteczne działanie wody zaobserwowano w zatruciach lekami.</p>
 <p>Pani Katarzyna nie była w stanie chodzić, pobierała leki rónocześnie od trzech lekarzy bez ich wzajemnej konsultacji. Miała opuchnięte całe ciało, niewydolność nerek i usztywnione nogi w stawach. Leczenie trwało 6 tygodni. Obecnie chora chodzi i czuje się dobrze. Zastosowano naprzemienne okłady na kończyny dolne: pierwszy dzień - okłady z wody &quot;martwej&quot;, drugi - okłady z wody &quot;żywej&quot;, trzeci - okłady z liści kapusty owinięte lnianym płótnem nawilżonym wodą &quot;żywą&quot;. I tak przez 6 tygodni. Ponadto, w pierwszym dniu piła 3 razy dziennie po 1/2 szklanki wody &quot;martwej&quot;, od drugiego dnia przez kolejne 7 dni po 1/2 szklanki wody &quot;żywej&quot; rano i wieczorem, a w południe zioła (bukwica - 50 g, melisa - 50 g i rzepik - 100 g). Po 7 dniach następowało 7 dni przerwy i znowu 7 dni picia wody &quot;żywej&quot;.</p>
 <p>Jak każda metoda, tak i ta ma swoich zwolenników i przeciwników i jest to słuszne, ponieważ nie każdemu można pomóc tą drogą. Każdy cierpiący człowiek sam w sobie jest jedyną istotą żyjącą na tym świecie i do każdego trzeba indywidualnie dobrać sposób w jaki chce się pomóc. Niektórym pomagają leki, innym zioła, a jeszcze innym &quot;żywa&quot; woda i dieta. Oczekujemy cudownych uzdrowień od tych, którzy chcą nam pomóc, jakoś nie pamiętając że latami nie dbaliśmy o własne zdrowie. Wiele osób od &quot;żywej&quot; wody oczekuje natychmiastowego działania nie przestrzegając przy tym diety.</p>
@@ -54,319 +90,511 @@
 <p>Woda &quot;żywa&quot; działa oczyszczająco na cały organizm i jest nieprawdą, że wypłukuje mikroelementy z organizmu. Usuwa zbędne trujące substancje, szczególnie dobrze działa na nerki, a jej pozytywne działanie ma odzwieciedlenie w wynikach. Nasiona moczone w &quot;żywej&quot; wodzie szybciej kiełkują, są zdrowe i odporne na choroby. Zioła podlewane wodą &quot;żywą&quot; są aktywniejsze w działaniu. Dobrze byłoby rozpoczynać kurację z ubywaniem księżyca, zgodnie z biologicznym zegarem człowieka. Dlaczego zwracam szczególną uwagę na dietę? Otóż bardzo często słyszę od chorych, że brak czasu nie pozwala na ciepłe posiłki, a to jest błąd, za który płacimy utratą zdrowia. Nasz żołądek całą dobe winien być ciepły. Jeśli nie posiada stałego ciepła zabiera je innym organom. Stajemy się wychłodzeni, mamy zimne ręce i nogi, mamy dreszcze, zakłócenia w krążeniu krwi i w tym momencie nasze ciało zaczyna być chore.</p>
 <p>Niekiedy można ogrzać się ziołami. Wiele osób popełnia błąd pijąc rumianek lub mietę. Te zioła na krótko ogrzewają nasz organizm, zioła te należy pić latem nigdy zaś jesienią czy zimą. Do ogrzanie zołądka należy pić rozmaryn, tymianek i majeranek. Można je łączyć z wodą &quot;żywą&quot;, co daje dobre efekty. Niektórzy do ogrzania piją źle połączone gatunki herbaty - zawsze do czarnej herbaty należy dodać jaśminowej, gdy występuje duża potliwość ciała należy połączyć herbate zieloną z szałwią lub pokrzywą - daje zdrowie, zmniejsza potliwość a przy okazji leczy nerki.</p>
 <p>Pytano mnie dlaczego często mówię o liczbie &quot;7&quot;. Otóż odnowa organizmu następuje co 7 lat. Nasz organizm odbudowuje się bardzo powoli i ktoś urodzony w roku 1947 obecnie zaczął 7×7 i podąża do 49 roku życia, a więc jeszcze przez 5 lat może bardzo pomóc swojemu organizmowi dbając o swoje zdrowie. W tym okresie następuje biologiczna odnowa organizmu i od nas zależy zdrowie na dalsze lata. Dlatego nie można uleczyć choroby w trzy dni, która trwa już kilka lat. Woda &quot;żywa&quot; spełnia rolę oczyszczającą, dlatego trzeba wspierać organizm dietą i ziołami. Najlepsze połączenie ziół - 2, 3, 5, 7 i 9 (nie rozumien tego, ale chyba chodzi o ilość łączonych ziół. przyp. aut.). Marzeniem byłoby, gdyby ktoś siłą woli rozpoczął kurację głodówkową 72-godzinną, szczególnie przy chorobach żołądka i wątroby. Organizm potrzebuje 72 godzin na oczyszczenie się z toksyn, a potem powoli używać &quot;żywą&quot; i &quot;martwą&quot; wodę wprowadzając lekkostrawne pożywienie.</p>
-<p><strong>O żołądku</strong></p>
+<p class="rozdzial" id="r-5"><strong>O żołądku</strong></p>
 <p>Przy wrzodach żołądka dobrze jest łączyć sok z surowego ziemniaka z wodą &quot;żywą&quot; zwiększając z dnia na dzień proporcje: <strong>1 dzień</strong> - 1 raz dziennie 1 łyżka soku i 1 łyżka wody &quot;żywej&quot;, <strong>2 dzień</strong> - 2 razy dziennie po 1/2 szklanki wody &quot;martwej&quot;, <strong>3 dzień</strong> - 2 razy dziennie po 2 łyżki soku i 2 łyżki wody &quot;żywej&quot;, <strong>4 dzień</strong> - 2 razy dziennie po 3 łyżki soku i 3 łyżki wody &quot;żywej&quot;, i tak dalej do 1 szklanki. Można również łączyć wodę &quot;żywą&quot; z sokiem z surowej kapusty białej. Dotyczy to również chorych na owrzodzenie dwunastnicy. Bardzo zastarzałe owrzodzenia możemy leczyć pijąc sproszkowany korzeń żywokostu (20 g) i kozieradki (50 g), po 1/2 łyzeczki sproszkowanego ziela 2 razy dziennie popijając wodą &quot;żywą&quot;. Można łączyć żywokost (20 g) z siemieniem lnianym (50 g).</p>
-<p><strong>O wątrobie</strong></p>
+<p class="rozdzial" id="r-6"><strong>O wątrobie</strong></p>
 <p>Jednak najważniejszym organem naszego ciała jest wątroba. Od zdrowej wątroby zależy niemal wszystko, która do odnowy biologicznej potrzebuje 3 lata (wówczas możemy mówić o zdrowej wątrobie). Medycyna Wschodu mówi, że w nagłych wypadkach należy przez 12 dni pić herbatę z natki pietruszki połączoną z wodą &quot;żywą&quot; i pić gotowaną pszenicę z hodowli biodynamicznej. Natkę pietruszki należy gotować 20 minut. Bardzo często pomiędzy godziną 13.oo a 16.oo wątroba potrzebuje &quot;snu&quot; i należy się położyć na kwadrans, by wątroba otrzymała potrzebną ilość krwi do pracy, a po kolacji należy wypić herbatę z majeranku z odrobina miodu. Najczęściej chorą wątrobę mają ludzie agresywni i znerwicowani. Agresja i złość blokują pracę wątroby.</p>
 <p>Kobiety, które mają chorą wątrobę mają kłopoty w okresie menstruacji. Oprócz &quot;żywej&quot; wody należy stosować dietę i zioła. Jeśli nie mamy dość sił aby przeprowadzić kurację pietruszką i pszenicą, dobre efekty daje także dieta zbożowa i niekiedy odżywianie białym mięsem. Należy wykluczyć wywary mięsne i wieprzowinę. Zioła leczące wątrobę - sok z mniszka połączony z wodą &quot;żywą&quot;, natka pietruszki, szałwia, estragon, rozmaryn, oman wielki, krwawnik, jasnota biała, berberys. Bardzo często &quot;wątrobowicze&quot; podczas pełni księżyca bywają agresywni i nierozważni. Trzeba ten okres przeczekać pijąc zioła.</p>
-<p><strong>O nerkach</strong></p>
+<p class="rozdzial" id="r-7"><strong>O nerkach</strong></p>
 <p>Zadawano mi pytania dlaczego tak dużo mówię o nerkach. Otóż nerki są naszymi oczyma - tak twierdzą radiesteci i nie tylko. Zdrowe nerki, to zdrowe zęby, kościec i włosy. Nerki są odpowiedzialne za odnowę szpiku kostnego i tkanki mózgowej, każda nerka ma inne funkcje do spełnienia. Jeśli czerwieni nam się prawe ucho, to znaczy że lewa nerka jest słaba, jeśli lewe to prawa. Powinniśmy dbać o to, by nigdy nie dopuścić do przemarznięcia nerek. Stany lękowe, szczególnie u kobiet, blokują pracę nerek. Chcąc do leczenia nerek używac wody &quot;żywej&quot; kurację winniśmy rozpocząć pomiędzy pełnią a nowiem księżyca. Będzie to zgodne z biologicznym zegarem, gdyż księżyc wpływa na jakość krwi w nerkach.</p>
 <p>Wiadomo, że księżyc powoduje przypływy i odpływy w morzach i oceanach, jest związany z istnieniem człowieka na ziemi. Żyjemy pod wpływem księżyca czy nam się podoba czy nie. Silniej jednak księżyc oddziaływuje na kobiety i jest ona z nim ściśle związana. Mamy cztery fazy księżyca i każda z nich niesie pewien rodzaj energii. Dlatego też leczenie chorób nerek należy z nimi synchronizować. Możnaby pokusić się o porównanie z księżycem swojej daty urodzenia i predyspozycjami do zachorowań. Jesteśmy cząstką natury i chorujemy tak jak żyjemy, od nas zależy nasze zdrowie, a stany lękowe to nie tylko choroby nerek.</p>
 <p>Bardzo często pytania dotyczą zastosowania w leczeniu jarzyn. Otóż przy kamicy nerkowej trzeba połączyć sok z zielonych strączków fasoli z wodą &quot;żywą&quot; - 1/2 szklanki soku i 1/2 szklanki wody &quot;żywej&quot;, połączyć i pić 2 szklanki dziennie. Również winogrona pobudzają działanie wątroby a leczą nerki. W ciągu dnia należy pić 2 szklanki soku między posiłkami. Oczywiście należy ograniczyć sól lub spożywać kamienną z domieszką mikroelementów. Zapomniany polski orzech laskowy jest cudownym środkiem w niewydolności nerek. Chorobom nerek towarzyszy bardzo często nadmierny zarost, szczególnie u kobiet, wówczas wskazane jest spożywanie orzechów laskowych.</p>
 <p>Bardzo często chorobom nerek towarzyszą choroby pęcherza moczowego, w tym przypadku skuteczne jest zastosowanie wody &quot;żywej&quot; i &quot;martwej&quot; ponieważ nerki i pęcherz moczowy tworzą parę. Należałoby powiedzieć, że mamy 5 par organów, a to jest 10 bardzo ważnych, od których zależy nasze zdrowie i siła. Są to pary połączone ze soba energetycznie: [1] <strong>nerki</strong> - <strong>pęcherz moczowy</strong>, [2] <strong>serce</strong> - <strong>jelito cienkie</strong>, [3] <strong>wątroba</strong> - <strong>woreczek żółciowy</strong>, [4] <strong>płuca</strong> - <strong>jelito grube</strong>, [5] <strong>żołądek</strong> - <strong>śledziona i trzustka</strong>. Wszystkie wzajemnie się uzupełniają i choroba jednego z nich osłabia następny. Byłoby dobrze, znając nasz zegar biologiczny, przestrzegać pewnych wymagań stawianych przez naturę. Gdy mówimy o żołądku musimy pamiętać o związkach między organami. Oznacza to, że choroba z jednego przechodzi na drugi, pokrewny organ. Oznacza to również, że choroby płuc możemy leczyć nie tylko lekami doustnymi, ale również wlewkami do jelita grubego z &quot;martwą&quot; i &quot;żywą&quot; wodą, ponieważ są połączone energetycznie. Mówiąc o nerkach chciałam tez zwrócić uwagę na ciepłe okłady w okolicy nerek.</p>
 <p>Wiele osób zadaje pytanie, czy w kuracji wodą &quot;żywą&quot; i &quot;martwą&quot; można również stosować masaż stóp? Oczywiście byłoby dobrze masować nie tylko stopy, bowiem na dłoniach mamy również odpowiednie receptory. Masując, pobudzamy odpowiedniki organów i następuje ich lepsze ukrwienie, a to jest warunkiem ich prawidłowego działania.</p>
-<p><strong>Co i jak leczyć wodą &quot;żywą&quot; i &quot;martwą&quot;</strong></p>
-<p><strong>Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.</strong></p>
-<hr>
-<p><strong>Angina</strong></p>
-<p><strong>•</strong> Co 4 godziny płukać gardło &quot;martwą&quot; wodą, po każdym płukaniu pić 1/2 szklanki wody &quot;żywej&quot; w ciągu 4 dni. Gorączka obniża się po jednym dniu a wyleczenie w 3 dniu.</p>
-<hr>
-<p><strong>Choroby kobiece</strong><br>(zapalenie, swędzenie, upławy)</p>
-<p><strong>•</strong> Przez 4 dni, 2 razy dziennie pić po 1/2 szklanki wody &quot;martwej&quot;. Podmywać się rano i wieczorem ciepłą wodą &quot;martwą&quot; przez 7 dni. Następnie przez 4 dni pić wodę &quot;żywą&quot; 1/2 szklanki dziennie.</p>
-<hr>
-<p><strong>Ciśnienie krwi - przywrócenie normalnego</strong></p>
-<p><strong>•</strong> Co 8 godzin przed posiłkiem pić 3/4 szklanki wody &quot;żywej&quot;.</p>
-<hr>
-<p><strong>•</strong> 2 razy dziennie pić 1/2 szklanki wody &quot;żywej&quot; z 3 łyżkami soku z buraka czerwonego.</p>
-<hr>
-<p><strong>Depresja, stany lękowe, ból głowy</strong></p>
-<p><strong>•</strong> Sól litu rozprowadzić w 1/2 litra wody &quot;żywej&quot;. Pić 2 razy dziennie przez 6 tygodni, 1 łyżeczkę na 20 minut przed posiłkiem.</p>
-<hr>
-<p><strong>Dziąsła - ropne zapalenie</strong></p>
-<p><strong>•</strong> Co 3 godziny płukać gardło i dziąsła wodą &quot;martwą&quot;. Pić 3 razy dziennie po 1/2 szklanki wody &quot;żywej&quot;. Choroba ustępuje w ciągu 2-3 dni.</p>
-<hr>
-<p><strong>Gardło - zapalenie (chrypka)</strong></p>
-<p><strong>•</strong> Co 3 godziny płukać gardło wodą &quot;martwą&quot;, pić 2 razy dziennie po 1/2 szklanki wody &quot;żywej&quot;. Poprawa następuje po 2 dniach.</p>
-<hr>
-<p><strong>Głowa - ból przewlekły</strong></p>
-<p><strong>•</strong> Wypić jeden raz 1/2 szklanki wody &quot;martwej&quot; i po 30 minutach 1/2 szklanki wody &quot;żywej&quot;. Ból ustępuje po 60 minutach.</p>
-<hr>
-<p><strong>Gruczoł krokowy - obrzęk</strong></p>
-<p><strong>•</strong> Co 4 godziny w ciągu 9 dni na 30 minut przed posiłkiem pić 1/2 szklanki wody &quot;żywej&quot;. Po kilku dniach wydziela się śluz, następuje częste oddawanie moczu, w ciągu 9 dni wyzdrowienie.</p>
-<hr>
-<p><strong>Grypa</strong></p>
-<p><strong>•</strong> 6 razy dziennie płukać gardło i wnętrze nosa wodą &quot;martwą&quot;. Pić 2 razy dziennie po 1/2 szklanki wodę &quot;żywą&quot;. Grypa ustępuje w ciągu doby.</p>
-<hr>
-<p><strong>Hemoroidy</strong></p>
-<p><strong>•</strong> Pęknięcia przemywać przez 2 dni rano i wieczorem wodą &quot;martwą&quot;, po wyschnięciu przykładać tampony zwilżone wodą &quot;żywą&quot; co 3 godziny. Pić przez 1 dzień 2 razy po 1/2 szklanki wody &quot;martwej&quot;. Ustępuje krwawienie, a po 2-4 dniach następuje zagojenie.</p>
-<hr>
-<p><strong>Jelita - nieżyt</strong></p>
-<p><strong>•</strong> Zrobić okład na podbrzusze z wody &quot;martwej&quot; o temperaturze 37-40°C. Po 15 minutach obmyć &quot;żywą&quot; wodą. Zabieg można powtarzać.</p>
-<hr>
-<p><strong>Jelito cienkie - zaburzenia</strong></p>
-<p><strong>•</strong> Płótno zwilżyć ciepłą &quot;żywą&quot; wodą i zrobić okład na 30 minut przed snem, wypić 1/2 szklanki wody &quot;martwej&quot;. Okłady można stosować przez 3-4 dni.</p>
-<hr>
-<p><strong>Kolana opuchnięte</strong></p>
-<p><strong>•</strong> Rano i wieczorem - okłady z wody &quot;martwej&quot;. Pić wodę &quot;żywą&quot; 2 razy dziennie po 1/2 szklanki przez 4-7 dni.</p>
-<hr>
-<p><strong>Korzonki nerwowe - zapalenie</strong></p>
-<p><strong>•</strong> W ciągu 7 dni, 3 razy dziennie, na 20 minut przed posiłkiem pić 3/4 szklanki wody &quot;żywej&quot;. Bóle powinny ustąpić już w drugim dniu.</p>
-<hr>
-<p><strong>Liszaj</strong></p>
-<p><strong>•</strong> Rano obmyć chore miejsca ciepłą &quot;martwą&quot; wodą. Na noc zrobić okłady z wody &quot;żywej&quot;. Pić 2 razy dziennie 1/2 szklanki wody &quot;żywej&quot; przez 3-6 dni. Choroba zanika powoli.</p>
-<hr>
-<p><strong>Nogi - obrzęk</strong></p>
-<p><strong>•</strong> Co 4 godziny pić 1/2 szklanki wody &quot;żywej&quot; przed posiłkiem przez 4 dni.</p>
-<hr>
-<p><strong>Nogi - potliwość</strong></p>
-<p><strong>•</strong> Przez 15 minut wymoczyć nogi w krochmalu. Po wyschnięciu moczyć nogi przez 20 minut w wodzie &quot;martwej&quot;. Przemyć wewnątrz obuwie &quot;martwą&quot; wodą, Zabieg powtarzać co 2 dni do skutku.</p>
-<hr>
-<p><strong>Oparzenie</strong></p>
-<p><strong>•</strong> Jeżeli są pęcherze - przekłuć, przemyć &quot;martwą&quot; wodą. Po wyschnięciu (po około 10 minutach) zwilżać wodą &quot;żywą&quot; 4-8 razy w ciągu dnia. Po 24 godzinach ustępuje zaczerwienienie i szybko się goi nie pozostawiając blizn.</p>
-<hr>
-<p><strong>Rana ropiejąca</strong></p>
-<p><strong>•</strong> Ranę obłożyć lnianym płótnem zwilżonym wodą &quot;martwą&quot;. Płótna nie odrywać, a zwilżać. Po wyschnięciu obłożyc płótnem zwilżonym wodą &quot;żywą&quot; i po wyschnięciu zwilżać przez 2 dni. Nastepnie zdjąć opatrunek i przemywać tylko &quot;żywą&quot; wodą. Rana goi się w ciągu 2-3 dni.</p>
-<hr>
-<p><strong>Samopoczucie - polepszenie</strong></p>
-<p><strong>•</strong> Rano i wieczorem pić po 1/2 szklanki wody &quot;żywej&quot; z 1 łyżeczką miodu spadziowego.</p>
-<hr>
-<p><strong>•</strong> 2 razy dziennie płukać jamę ustną martwą &quot;wodą&quot;, raz dziennie wypić 1/2 szklanki wody &quot;żywej&quot;.</p>
-<hr>
-<p><strong>Skaleczenie</strong></p>
-<p><strong>•</strong> Miejsce skaleczenia przemyć &quot;żywą&quot; wodą i założyć opatrunek.</p>
-<hr>
-<p><strong>Stawy - ból</strong></p>
-<p><strong>•</strong> Co 4 godziny pić 1/2 szklanki wody &quot;martwej&quot; w ciągu 2-3 dni przed jedzeniem. Ból ustępuje po 2 dniach.</p>
-<hr>
-<p><strong>Sterylizacja</strong></p>
-<p><strong>•</strong> Przedmioty skażone przemyć wodą &quot;martwą&quot; i osuszyć. Ciało również obmywać wodą &quot;martwą&quot; Można myć ręce i owoce. Woda &quot;martwa&quot; niszczy bakterie.</p>
-<hr>
-<p><strong>Stopy - zgrubienie skóry</strong></p>
-<p><strong>•</strong> Nogi moczyć w krochmalu około 15-20 minut i osuszyć. Następnie przez 20 minut moczyć w gorącej &quot;martwej&quot; wodzie, pocierając pumeksem zgrubienie. Po kilku kąpielach zgrubienia zostaną usunięte.</p>
-<hr>
-<p><strong>Szyja - zaziębienie</strong></p>
-<p><strong>•</strong> Lniane płótno zwilżone w ciepłej wodzie &quot;martwej&quot; nałożyć na ciało i okręcić wełnianym szalikiem. Okład zmieniać co 3 godziny. Pić 2 razy dziennie po 1/2 szklanki wody &quot;żywej&quot;. Choroba ustępuje w ciągu 2 dni.</p>
-<hr>
-<p><strong>Trądzik</strong></p>
-<p><strong>•</strong> Przemywać chore miejsca ciepłą wodą &quot;martwą&quot; przed snem. Pić 2 razy dziennie po 1/2 szklanki wody &quot;żywej&quot;. Zrewidować odżywianie. Choroba ustępuje po 3-7 dniach.</p>
-<hr>
-<p><strong>Twarz - higiena</strong></p>
-<p><strong>•</strong> Rano i wieczorem umyć twarz wodą &quot;martwą&quot;, a następnie nacierać wacikiem zmoczonym w wodzie &quot;żywej. Cera staje się jasna i znikają przebarwienia.</p>
-<hr>
-<p><strong>Watroba - zapalenie</strong></p>
-<p><strong>•</strong> Co 3 godziny pić 1/2 szklanki &quot;martwej&quot; wody przez 3 dni. Następnie przez 2 dni pić wodę &quot;żywą&quot; 2 razy dziennie po 1/2 szklanki.</p>
-<hr>
-<p><strong>Uszy - szum, swędzenie</strong></p>
-<p><strong>•</strong> Waciki zwilżone w ciepłej &quot;żywej&quot; wodzie wkładać do uszu wieczorem. Rano przemywać &quot;martwą&quot; wodą przez 3-4 dni.</p>
-<hr>
-<p><strong>Zęby - ból</strong></p>
-<p><strong>•</strong> Płukać jamę ustną wodą &quot;martwą około 10 minut.</p>
-<hr>
-<p><strong>Żylaki</strong></p>
-<p><strong>•</strong> Krwawiące pęknięcia przemyć wodą &quot;martwą&quot;. Następnie zmoczyć wodą &quot;żywą&quot; lniane płótno i obłożyć chore miejsca na 3 godziny. Pić 1 raz dziennie 1/2 szklanki wody &quot;martwej&quot; i następnie co 6 godzin 1/2 szklanki wody &quot;żywej&quot;. Tak postępować przez 3 dni. Następuje rozszerzenie żył i rany zaczynają się goić.</p>
-<hr>
-<p><strong>Stany nowotworowe<br>Osłabienie organizmu<br>Niewłaściwe odżywianie<br>Brak mikroelementów</strong></p>
-<p><strong>•</strong> Preparat TP1 rozprowadzić w 1/2 litra wody &quot;żywej&quot;, pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Następnie preparat TP2 rozprowadzić w 1/2 litra wody &quot;żywej&quot;, pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Szczególnie wskazany w stanach pooperacyjnych, nowotworach żołądka i jelit.</p>
-<hr>
-<p>TP1 i TP2 - <a href="http://www.dr.podbielski.pl/index.php?go=news6" rel="noopener" target="_blank">preparaty</a> dr Tadeusza Podbielskiego. TP1 - cena 11,00 zł i<br>TP2 - cena 12,00 zł. można <a href="http://www.sklep.podbielski.pl/index.php?categoryID=78&amp;PHPSESSID=b80330464974a85052cfdc758158c3b1" rel="noopener" target="_blank">kupić</a>.</p>
-<hr>
-<p><strong>Woda &quot;żywa&quot;, &quot;martwa&quot; i zioła</strong></p>
+<p class="rozdzial" id="r-8"><strong>Co i jak leczyć wodą &quot;żywą&quot; i &quot;martwą&quot;</strong></p>
+<p class="rozdzial" id="r-9"><strong>Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>---</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>🟩 <strong>Angina</strong></td>
+<td>🟩 <strong>•</strong> Co 4 godziny płukać gardło &quot;martwą&quot; wodą, po każdym płukaniu pić 1/2 szklanki wody &quot;żywej&quot; w ciągu 4 dni. Gorączka obniża się po jednym dniu a wyleczenie w 3 dniu.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Choroby kobiece</strong><br>(zapalenie, swędzenie, upławy)</td>
+<td>🟩 <strong>•</strong> Przez 4 dni, 2 razy dziennie pić po 1/2 szklanki wody &quot;martwej&quot;. Podmywać się rano i wieczorem ciepłą wodą &quot;martwą&quot; przez 7 dni. Następnie przez 4 dni pić wodę &quot;żywą&quot; 1/2 szklanki dziennie.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Ciśnienie krwi - przywrócenie normalnego</strong></td>
+<td>🟩 <strong>•</strong> Co 8 godzin przed posiłkiem pić 3/4 szklanki wody &quot;żywej&quot;.<br>---<br><strong>•</strong> 2 razy dziennie pić 1/2 szklanki wody &quot;żywej&quot; z 3 łyżkami soku z buraka czerwonego.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Depresja, stany lękowe, ból głowy</strong></td>
+<td>🟩 <strong>•</strong> Sól litu rozprowadzić w 1/2 litra wody &quot;żywej&quot;. Pić 2 razy dziennie przez 6 tygodni, 1 łyżeczkę na 20 minut przed posiłkiem.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Dziąsła - ropne zapalenie</strong></td>
+<td>🟩 <strong>•</strong> Co 3 godziny płukać gardło i dziąsła wodą &quot;martwą&quot;. Pić 3 razy dziennie po 1/2 szklanki wody &quot;żywej&quot;. Choroba ustępuje w ciągu 2-3 dni.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Gardło - zapalenie (chrypka)</strong></td>
+<td>🟩 <strong>•</strong> Co 3 godziny płukać gardło wodą &quot;martwą&quot;, pić 2 razy dziennie po 1/2 szklanki wody &quot;żywej&quot;. Poprawa następuje po 2 dniach.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Głowa - ból przewlekły</strong></td>
+<td>🟩 <strong>•</strong> Wypić jeden raz 1/2 szklanki wody &quot;martwej&quot; i po 30 minutach 1/2 szklanki wody &quot;żywej&quot;. Ból ustępuje po 60 minutach.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Gruczoł krokowy - obrzęk</strong></td>
+<td>🟩 <strong>•</strong> Co 4 godziny w ciągu 9 dni na 30 minut przed posiłkiem pić 1/2 szklanki wody &quot;żywej&quot;. Po kilku dniach wydziela się śluz, następuje częste oddawanie moczu, w ciągu 9 dni wyzdrowienie.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Grypa</strong></td>
+<td>🟩 <strong>•</strong> 6 razy dziennie płukać gardło i wnętrze nosa wodą &quot;martwą&quot;. Pić 2 razy dziennie po 1/2 szklanki wodę &quot;żywą&quot;. Grypa ustępuje w ciągu doby.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Hemoroidy</strong></td>
+<td>🟩 <strong>•</strong> Pęknięcia przemywać przez 2 dni rano i wieczorem wodą &quot;martwą&quot;, po wyschnięciu przykładać tampony zwilżone wodą &quot;żywą&quot; co 3 godziny. Pić przez 1 dzień 2 razy po 1/2 szklanki wody &quot;martwej&quot;. Ustępuje krwawienie, a po 2-4 dniach następuje zagojenie.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Jelita - nieżyt</strong></td>
+<td>🟩 <strong>•</strong> Zrobić okład na podbrzusze z wody &quot;martwej&quot; o temperaturze 37-40°C. Po 15 minutach obmyć &quot;żywą&quot; wodą. Zabieg można powtarzać.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Jelito cienkie - zaburzenia</strong></td>
+<td>🟩 <strong>•</strong> Płótno zwilżyć ciepłą &quot;żywą&quot; wodą i zrobić okład na 30 minut przed snem, wypić 1/2 szklanki wody &quot;martwej&quot;. Okłady można stosować przez 3-4 dni.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Kolana opuchnięte</strong></td>
+<td>🟩 <strong>•</strong> Rano i wieczorem - okłady z wody &quot;martwej&quot;. Pić wodę &quot;żywą&quot; 2 razy dziennie po 1/2 szklanki przez 4-7 dni.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Korzonki nerwowe - zapalenie</strong></td>
+<td>🟩 <strong>•</strong> W ciągu 7 dni, 3 razy dziennie, na 20 minut przed posiłkiem pić 3/4 szklanki wody &quot;żywej&quot;. Bóle powinny ustąpić już w drugim dniu.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Liszaj</strong></td>
+<td>🟩 <strong>•</strong> Rano obmyć chore miejsca ciepłą &quot;martwą&quot; wodą. Na noc zrobić okłady z wody &quot;żywej&quot;. Pić 2 razy dziennie 1/2 szklanki wody &quot;żywej&quot; przez 3-6 dni. Choroba zanika powoli.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Nogi - obrzęk</strong></td>
+<td>🟩 <strong>•</strong> Co 4 godziny pić 1/2 szklanki wody &quot;żywej&quot; przed posiłkiem przez 4 dni.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Nogi - potliwość</strong></td>
+<td>🟩 <strong>•</strong> Przez 15 minut wymoczyć nogi w krochmalu. Po wyschnięciu moczyć nogi przez 20 minut w wodzie &quot;martwej&quot;. Przemyć wewnątrz obuwie &quot;martwą&quot; wodą, Zabieg powtarzać co 2 dni do skutku.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Oparzenie</strong></td>
+<td>🟩 <strong>•</strong> Jeżeli są pęcherze - przekłuć, przemyć &quot;martwą&quot; wodą. Po wyschnięciu (po około 10 minutach) zwilżać wodą &quot;żywą&quot; 4-8 razy w ciągu dnia. Po 24 godzinach ustępuje zaczerwienienie i szybko się goi nie pozostawiając blizn.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Rana ropiejąca</strong></td>
+<td>🟩 <strong>•</strong> Ranę obłożyć lnianym płótnem zwilżonym wodą &quot;martwą&quot;. Płótna nie odrywać, a zwilżać. Po wyschnięciu obłożyc płótnem zwilżonym wodą &quot;żywą&quot; i po wyschnięciu zwilżać przez 2 dni. Nastepnie zdjąć opatrunek i przemywać tylko &quot;żywą&quot; wodą. Rana goi się w ciągu 2-3 dni.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Samopoczucie - polepszenie</strong></td>
+<td>🟩 <strong>•</strong> Rano i wieczorem pić po 1/2 szklanki wody &quot;żywej&quot; z 1 łyżeczką miodu spadziowego.<br>---<br><strong>•</strong> 2 razy dziennie płukać jamę ustną martwą &quot;wodą&quot;, raz dziennie wypić 1/2 szklanki wody &quot;żywej&quot;.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Skaleczenie</strong></td>
+<td>🟩 <strong>•</strong> Miejsce skaleczenia przemyć &quot;żywą&quot; wodą i założyć opatrunek.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Stawy - ból</strong></td>
+<td>🟩 <strong>•</strong> Co 4 godziny pić 1/2 szklanki wody &quot;martwej&quot; w ciągu 2-3 dni przed jedzeniem. Ból ustępuje po 2 dniach.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Sterylizacja</strong></td>
+<td>🟩 <strong>•</strong> Przedmioty skażone przemyć wodą &quot;martwą&quot; i osuszyć. Ciało również obmywać wodą &quot;martwą&quot; Można myć ręce i owoce. Woda &quot;martwa&quot; niszczy bakterie.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Stopy - zgrubienie skóry</strong></td>
+<td>🟩 <strong>•</strong> Nogi moczyć w krochmalu około 15-20 minut i osuszyć. Następnie przez 20 minut moczyć w gorącej &quot;martwej&quot; wodzie, pocierając pumeksem zgrubienie. Po kilku kąpielach zgrubienia zostaną usunięte.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Szyja - zaziębienie</strong></td>
+<td>🟩 <strong>•</strong> Lniane płótno zwilżone w ciepłej wodzie &quot;martwej&quot; nałożyć na ciało i okręcić wełnianym szalikiem. Okład zmieniać co 3 godziny. Pić 2 razy dziennie po 1/2 szklanki wody &quot;żywej&quot;. Choroba ustępuje w ciągu 2 dni.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Trądzik</strong></td>
+<td>🟩 <strong>•</strong> Przemywać chore miejsca ciepłą wodą &quot;martwą&quot; przed snem. Pić 2 razy dziennie po 1/2 szklanki wody &quot;żywej&quot;. Zrewidować odżywianie. Choroba ustępuje po 3-7 dniach.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Twarz - higiena</strong></td>
+<td>🟩 <strong>•</strong> Rano i wieczorem umyć twarz wodą &quot;martwą&quot;, a następnie nacierać wacikiem zmoczonym w wodzie &quot;żywej. Cera staje się jasna i znikają przebarwienia.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Watroba - zapalenie</strong></td>
+<td>🟩 <strong>•</strong> Co 3 godziny pić 1/2 szklanki &quot;martwej&quot; wody przez 3 dni. Następnie przez 2 dni pić wodę &quot;żywą&quot; 2 razy dziennie po 1/2 szklanki.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Uszy - szum, swędzenie</strong></td>
+<td>🟩 <strong>•</strong> Waciki zwilżone w ciepłej &quot;żywej&quot; wodzie wkładać do uszu wieczorem. Rano przemywać &quot;martwą&quot; wodą przez 3-4 dni.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Zęby - ból</strong></td>
+<td>🟩 <strong>•</strong> Płukać jamę ustną wodą &quot;martwą około 10 minut.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Żylaki</strong></td>
+<td>🟩 <strong>•</strong> Krwawiące pęknięcia przemyć wodą &quot;martwą&quot;. Następnie zmoczyć wodą &quot;żywą&quot; lniane płótno i obłożyć chore miejsca na 3 godziny. Pić 1 raz dziennie 1/2 szklanki wody &quot;martwej&quot; i następnie co 6 godzin 1/2 szklanki wody &quot;żywej&quot;. Tak postępować przez 3 dni. Następuje rozszerzenie żył i rany zaczynają się goić.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Stany nowotworowe<br>Osłabienie organizmu<br>Niewłaściwe odżywianie<br>Brak mikroelementów</strong></td>
+<td>🟩 <strong>•</strong> Preparat TP1 rozprowadzić w 1/2 litra wody &quot;żywej&quot;, pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Następnie preparat TP2 rozprowadzić w 1/2 litra wody &quot;żywej&quot;, pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Szczególnie wskazany w stanach pooperacyjnych, nowotworach żołądka i jelit.<br>---<br>TP1 i TP2 - <a href="http://www.dr.podbielski.pl/index.php?go=news6" rel="noopener" target="_blank">preparaty</a> dr Tadeusza Podbielskiego. TP1 - cena 11,00 zł i<br>TP2 - cena 12,00 zł. można <a href="http://www.sklep.podbielski.pl/index.php?categoryID=78&amp;PHPSESSID=b80330464974a85052cfdc758158c3b1" rel="noopener" target="_blank">kupić</a>.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-10"><strong>Woda &quot;żywa&quot;, &quot;martwa&quot; i zioła</strong></p>
 <p>Żyjemy w czasach, gdy na naszych oczach rodzi się powrót do przyrody i powrót do ziół. Przyroda dawała człowiekowi wszystko co najlepsze, jednak nie zawsze człowiek chciał przyjąć cudowne dary uzdrawiające. Gonił za chemią i naraz zrozumiał, że zawsze będzie wracał do ziół. W ostatnich latach bardzo wiele mówi się o ziołach, ich dobroczynnym działaniu na organizm człowieka. Napisano wiele prac na ten temat i każda z nich zawiera drogocenne wskazówki jak z ziół korzystać. Przecież jesteśmy cząstką przyrody i nie możemy o tym zapomnieć. Tą cząstką są też zioła, które zawsze żyją w zgodzie z nami. Dlatego chciałabym wyjaśnić jak doszło do moich spotkań z ziołami i wodą &quot;żywą&quot;, na temat której pracę oddaje tym wszystkim, którzy zechcą pomagać z życzliwością i miłością cierpiącemu człowiekowi.</p>
 <p>Wszyscy wiemy, że księżyc ma wpływ na życie naszej Matki-Ziemi i nas wszystkich. Czerwona barwa księżyca daje siłę naszym mięśniom, toń błękitnego nieba - nerwom mózgowym, złote słońce pomaga wątrobie itd. Zioła też rosną zgodnie z fazami księżyca, tak też działają na organizm ludzki. Zioła rosnące nad ziemią mobilizują siły witalne. Gdy księżyc idzie do pełni, wówczas zebrane skuteczniej działają, natomiast wszystkie zioła przeznaczone na korzeń należy sadzić i zbierać, gdy księżyc schodzi od pełni. Astrologowie powiadają, że zioła są pod wpływem planet, które nadają im siły witalne, a na ziemi tym planetom odpowiadają znaki zodiaku zawarte w czterech zywiołach: <strong>Trygon ziemi</strong> - Byk, Panna, Koziorożec - daje impuls sił kosmicznych w korzeń rośliny, <strong>Trygon wody</strong> - Rak, Skorpion, Ryba - daje wzrost liści i łodyg, <strong>Trygon powietrza</strong> - Bliźnięta, Waga, Wodnik - pobudza rozwój kwiatów, <strong>Trygon ognia</strong> - Strzelec, Baran, Lew - intensyfikuje wzrost nasion i owoców.</p>
 <p>Dawniej zielarki nazywano czarownicami. Zbierały zioła nawet o północy przy pełni księżyca, wiedziały że choroba prędzej opuści ciało, gdy kurację zaczną z ubywaniem księżyca. Ludowe przekazy dziś znajdują potwierdzenia u naukowców i to są atuty ziół. Nasze mądre babcie bardzo dokładnie układały bukiet wiankowy ziół, aby poświęcić w dzień Matki Bożej Zielnej. Poświęcony wianek cały rok emanuje dobrymi siłami w takim domu. Jemiołę zrywały tak, by nie dotknęła ona ziemi i rok działała na zasadzie odpromiennika zawieszona u sufitu. Zielarki wiedziały, że złamania otwarte dobrze jest obłożyć młodą korą lipową rozgotowaną w słodkiej śmietanie - szybko się goi i zrasta. Dziś na proste zwichnięcia zakłada się gips - szkoda. Niewiele osób zastanawia się, jak należy robić mieszanki ziół. Byłam świadkiem sypania różnych ziół jedno w drugie. Trudno się dziwić, że są tak mało skuteczne. Zioła należy łączyć tak jak rosną w naturze.</p>
 <p>Już będąc dzieckiem zastanawiałam się, dlaczego człowiek szuka pomocy u kilku zielarzy. Poznałam staruszkę w Białowieży, która mi wiele o nich opowiedziała, a do Pani - tak ja nazywano - zawiódł mnie mój ojciec, który również uczył mnie wszystkiego o ziołach. Zastanawialiśmy się, dlaczego te same zioła, zebrane w różnych miejscowościach działają różnie. Te wątpliwości pomogła mi wyjaśnić Pani z Białowieży w późniejszych latach. Każdy człowiek rodzi się pod określoną planetą i z przyznanymi mu ziołami na całe życie. To nie znaczy, że powinien chorować. Przyroda zawsze stara się naprawić błąd. Wówczas zaczęłam obserwować chorych, notować datę urodzenia oraz ich ulubione zioła. Okazało się, że człowiek często intuicyjnie lubi lub nie pewne zioła. Moje obserwacje trwają ponad 30 lat, ciągle poznaję coś nowego i czasami trzeba sięgać do ascendentu, aby dokładnie skomponować mieszankę. Dziś już wiem, dlaczego zioła są mniej lub bardziej skuteczne. Nie wszyscy pamiętają o tym, że człowiek jest cząstką przyrody i to nasz błąd.</p>
 <p>Byłoby marzeniem robić napar z ziół wodą źródlaną. Dziś o to trudno. Zastanawiałam się nad wodą &quot;żywą&quot;, o której opowiadano bajki. Od dzieciństwa odbierałam dotykiem rąk kojące lub zimne prądy idące od ziół. Tą metodą i wahadełkiem opracowałam połączenie ziół z &quot;żywą&quot; wodą wraz z tymi, którzy tę wodę zażywali. Po latach okazało się, że woda taka istnieje. Byłam ciekawa, co wyniknie. Zaczęłam na własny użytek wodą &quot;żywą&quot; podlewać kwiaty - bardzo ładnie rosły. Potem zioła w doniczkach. Jako herbatki używałam tylko ziół. Byłam zaskoczona wynikami. Herbatka z ziół podlewanych wodą &quot;żywą&quot; smakowała lepiej. Mam w domu drzewko figowe, które umierało po owocowaniu i ścięłam. Tak stało około miesiąca. Kiedy podlałam wodą &quot;żywą&quot;, po kilku dniach urosły młode pędy, drzewko rośnie bardzo ładnie i tak zaczęła się moja przygoda z wodą &quot;żywą&quot;.</p>
 <p>Bardzo mało wiem o wzajemnym oddziaływaniu człowiek-zioła-woda &quot;żywa&quot;. Mam nadzieję, że woda, źródło życia na Ziemi okaże się dobroczynną dla człowieka. Mogłam połączyć w całość wiadomości o ziołach z człowiekiem. Te opracowanie dotyczy ogólnego stosowania ziół z wodą &quot;żywą&quot; i &quot;martwą&quot;, natomiast drugą część opracowałam dla tych, którzy zechcą samodzielnie, metodami rediestezyjnymi sami łączyć zioła według dnia urodzenia z &quot;żywą&quot; i &quot;martwą&quot; wodą. Mam nadzieję, że przyniesie to wiele dobrego dla człowieka. Przecież wiemy, że najwyższe działanie ziół jest wówczas, gdy zioła zostały zebrane zgodnie z kalendarzem biodynamicznym i z tej ziemi, gdzie sami wyrośliśmy i żyjemy. Jesteśmy cząstką tego skrawka ziemi. Pamiętajmy o tym zawsze i wszędzie.</p>
-<p><strong>Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.</strong></p>
-<hr>
-<p><strong>Angina</strong></p>
-<p><strong>Zioła</strong> - liść orzecha (10 g), majeranek (15 g), tymianek (10 g), nagietek (20 g), eukaliptus, lipa (20 g), szałwia (15 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - wypić 1 raz 1/2 szklanki wody &quot;martwej&quot;, 3-7 dni płukać gardło 2 razy dziennie jednym z ziół zalanych wodą &quot;martwą&quot;. Pić 2 razy dziennie 1/2 szklanki wody &quot;żywej&quot;.</p>
-<hr>
-<p><strong>Efekty</strong> - w ciągu kilku godzin gorączka obniża się, a choroba ustępuje w ciągu 3-4 dni. Z eukaliptusa można robić inhalacje.</p>
-<hr>
-<p><strong>Anemia</strong></p>
-<p><strong>Zioła</strong> - pokrzywa (20 g), wilżyna (10 g), poziewnik (5 g), tobołki posp. (10 g), świetlik łąkowy (20 g),<br>owoc róży (20 g), ogórecznik (20 g), rzepik (15 g), bukwica (15 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - wypić 1 raz 1/2 szklanki wody &quot;martwej&quot;, następnie pić napar z ziół &quot;żywą&quot; wodą 2 razy dziennie po 1 szklance. Dodatkowo można 1 raz dziennie zjeść 1 łyżeczkę sproszkowanej kozieradki z miodem.</p>
-<hr>
-<p><strong>Efekty</strong> - przed kuracją sprawdzić morfologie krwi, po 7 dniach powtórzyć - wyniki będą lepsze. Można przedłużyć picie ziół do 2 tygodni.</p>
-<hr>
-<p><strong>Bezsenność</strong></p>
-<p><strong>Zioła</strong> - kolendra (10 g), owoc bzu czarnego (10 g), liść jeżyny (15 g), melisa (10 g), owoc jarzębiny (15 g),<br>liść borówki (5 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - przed snem pić 1 szklankę naparu &quot;żywej&quot; wody z ziół przez 2-4 dni. Kuracje można powtarzać.</p>
-<hr>
-<p><strong>Efekty</strong> - organizm się wycisza i wraca sen.</p>
-<hr>
-<p><strong>Biegunka</strong></p>
-<p><strong>Zioła</strong> - zielona herbata (), szyjka rakowa ().</p>
-<hr>
-<p><strong>Leczenie</strong> - wypić 1/2 szklanki wody &quot;martwej&quot;. Co 7 godzin zażyć 1/2 łyżeczki sproszkowanej herbaty lub szyjki rakowej (do wyboru) popijając 1/2 szklanki ciepłej &quot;żywej&quot; wody.</p>
-<hr>
-<p><strong>Efekty</strong> - bóle ustępują, biegunka ustaje.</p>
-<hr>
-<p><strong>Choroba<br>popromienna</strong></p>
-<p><strong>Zioła</strong> - herbata zielona (15 g), pokrzywa (20 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - przez 3 miesiące, 2 razy dziennie pić po 1/2 szklanki naparu wody &quot;żywej&quot; i ziół. Można używać naparu ze zwykłej wody w wypadku braku wody &quot;żywej&quot;.</p>
-<hr>
-<p><strong>Efekty</strong> - wzmacnia, nie dopuszcza do powstania anemii, wzmacnia siły obronne organizmu.</p>
-<hr>
-<p><strong>Dziąsła<br>zapalenie</strong></p>
-<p><strong>Zioła</strong> - kolanchola (), propolis ().</p>
-<hr>
-<p><strong>Leczenie</strong> - w ciągu dnia płukać jamę ustną 2-6 razy wodą &quot;martwą&quot; a potem roztworem wody &quot;żywej&quot; z propolisem lub kalancholą 1-2 razy.</p>
-<hr>
-<p><strong>Efekty</strong> - brak danych.</p>
-<hr>
-<p><strong>Głowa<br>ból</strong></p>
-<p><strong>Zioła</strong> - lipa (10 g), macierzanka (30 g), bukwica (20 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - wypić 1 raz 1/2 szklanki wody &quot;martwej&quot;, pić 2 razy dziennie 1/2 szklanki naparu ziół &quot;żywą&quot; wodą od 2 do 3 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - po 15-20 minutach ból głowy ustępuje. W razie nawrotu bólu kurację powtórzyć.</p>
-<hr>
-<p><strong>Hemoroidy</strong></p>
-<p><strong>Zioła</strong> - cebula (), kora dębu (), len (), kozieradka (), perz (), płatki róży ().</p>
-<hr>
-<p><strong>Leczenie</strong> - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody &quot;martwej&quot;, następnie 1 raz dziennie 1/2 szklanki wody &quot;żywej&quot;. Z naparu &quot;żywą&quot; wodą jednego z ziół robić przymoczki na chore miejsce lub tamponami z wody kilka razy dziennie przez 2-5 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - krwawienia ustępują i zagojenie ran następuje w ciągu kilku dni.</p>
-<hr>
-<p><strong>Menstruacja<br>bolesna</strong></p>
-<p><strong>Zioła</strong> - kora kaliny (15 g), krwawnik (10 g), kwiat orlika (5 g) lub mięta pieprzowa (15 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - wypić 1 raz 1/2 szklanki wody &quot;martwej&quot;, następnie 1-2 dni przed okresem pić napar z ziół wodą &quot;żywą&quot; 2 razy dziennie po 1/2 szklanki.</p>
-<hr>
-<p><strong>Efekty</strong> - kuracje przeprowadzać przez okres 3 miesięcy przed okresem.</p>
-<hr>
-<p><strong>Moczopędne</strong></p>
-<p><strong>Zioła</strong> - perz (10 g), ogórecznik (20 g), wrzos (10 g), bławatek (10 g), ręcznica (15 g),<br>liść porzeczki czarnej (20 g), fiołek (10 g), liść poziomki (10 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - napar z ziół &quot;żywą&quot; wodą&quot; pić 2 razy dziennie po 1 szklance przez 3-4 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - oczyszcza nerki.</p>
-<hr>
-<p><strong>Nerki<br>stan zapalny</strong></p>
-<p><strong>Zioła</strong> - ogórecznik ().</p>
-<hr>
-<p><strong>Leczenie</strong> - przez 1 dzień pić 3 razy po 1/2 szklanki wody &quot;martwej&quot; i następnie przez 3-6 dni napar z ogórecznika wodą &quot;żywą&quot; 2 razy dziennie po 1/2 szklanki.</p>
-<hr>
-<p><strong>Efekty</strong> - brak danych.</p>
-<hr>
-<p><strong>Nogi<br>bóle i obrzęki</strong></p>
-<p><strong>Zioła</strong> - podbiał (20 g), storczyk (10 g), rozmaryn (15 g), skrzyp (20 g), ogórecznik (20 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - przez 1 dzień pić 2 razy po 1/2 szklanki wody &quot;martwej&quot;, następnie 2 razy napar z ziół wodą &quot;żywą&quot; po 1/2 szklanki. Stosować 2-3 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - bóle ustępują po drugim dniu kuracji, obrzęki po kilku dniach.</p>
-<hr>
-<p><strong>Oparzenia</strong></p>
-<p><strong>Zioła</strong> - kopytnik (10 g), podbiał (10 g), babka lancetowata (10 g), liść poziomki (10 g), dziewanna (10 g), mniszek (10 g), lebiodka (20 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - chore miejsca przemyć wodą &quot;martwą&quot;, potem w ciągu dnia robić okłady z naparu &quot;żywą&quot; wodą&quot; jednego z podanych ziół. Okłady robić wyłącznie lnianym płótnem i po wyschnięciu powtarzać 3-4 razy dziennie.</p>
-<hr>
-<p><strong>Efekty</strong> - rany goją się bardzo szybko i nie ma blizn.</p>
-<hr>
-<p><strong>Rana<br>ropiejąca</strong></p>
-<p><strong>Zioła</strong> - aloes (20 g), żywokost (15 g), kozieradka (10 g), torfowiec (15 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - przemyć ranę wodą &quot;martwą&quot;, następnie zrobić opatrunek naparem &quot;żywej&quot; wody jednego z ziół. Wyschnięty opatrunek nawilżać wodą &quot;żywą&quot;. Robić to 2-3 razy dziennie.</p>
-<hr>
-<p><strong>Efekty</strong> - brak danych.</p>
-<hr>
-<p><strong>Serce<br>arytmia</strong></p>
-<p><strong>Zioła</strong> - melisa (15 g), kwiat głogu (20 g), wrzos (10 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - 2 razy dziennie wypić 1/2 szklanki naparu ziół &quot;żywą&quot; wodą przez 6-7 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - poprawa bardzo widoczna. Kurację można powtarzać co 2 tygodnie.</p>
-<hr>
-<p><strong>Skóra<br>liszaje</strong></p>
-<p><strong>Zioła</strong> - żywokost (15 g), kozieradka (10 g), skrzyp (5 g), barwinek (10 g), konopie (20 g),<br>korzeń pokrzywy (10 g), torfowiec (10 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - w ciągu 2 dni rano obmywać chore miejsca wodą &quot;martwą&quot;, następnie sproszkowane jedno z ziół połączone z wodą &quot;żywą&quot; nałożyć na lniane płótno i 2 razy dziennie robić ciepły okład na 15-20 minut. Stosować 2-7 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - po pierwszym dniu ognisko choroby zanika, skóra wraca do zdrowia.</p>
-<hr>
-<p><strong>Spojówki<br>zapalenie<br>(jeczmień)</strong></p>
-<p><strong>Zioła</strong> - [1] świetlik łąkowy (10 g), zielona herbata (10 g), bławatek (10 g),<br>[2] kozieradka.</p>
-<hr>
-<p><strong>Leczenie</strong> - rano przemyć oczy wodą &quot;martwą&quot;, na noc okłady naparu wodą &quot;żywą&quot; jednego z ziół. Jęczmień znika po nałożeniu papki z kozieradki i &quot;żywej&quot; wody.</p>
-<hr>
-<p><strong>Efekty</strong> - brak danych.</p>
-<hr>
-<p><strong>Stawy<br>ból</strong></p>
-<p><strong>Zioła</strong> - liść brzozy (15 g), fiołek trójbarwny (20 g), szałwia (10 g), kwiat głogu (20 g), dziurawiec (10 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody &quot;martwej&quot;, następnie od 2 do 7 dni pić 2 razy dziennie po 1 szklance naparu ziół wodą żywą.</p>
-<hr>
-<p><strong>Efekty</strong> - ciało się rozgrzewa, bóle ustępują.</p>
-<hr>
-<p><strong>Twarz<br>higiena</strong></p>
-<p><strong>Zioła</strong> - bratek (20 g), lawenda (10 g), macierzanka (20 g), lilia (10 g), ogórecznik (20 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - rano i wieczorem po umyciu twarzy i ciała, przemyć ciało i twarz wodą martwą. Po 10 minutach natrzeć ciało a twarz opłukać naparem z &quot;żywej&quot; wody i ziół dowolnie wybranych (można dodatkowo pić napar z macierzanki).</p>
-<hr>
-<p><strong>Efekty</strong> - twarz wygładza się i znikają przebarwienia.</p>
-<hr>
-<p><strong>Upławy<br>białe</strong></p>
-<p><strong>Zioła</strong> - kwiat jasnoty (30 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - 1 dzień pić 2 razy 1/2 szklanki wody &quot;martwej&quot;, następnie pić 2 razy dziennie 1 szklankę naparu wodą &quot;żywą&quot; przez 3-4 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - upławy ustępują w drugim dniu kuracji.</p>
-<hr>
-<p><strong>Wątroba<br>stan zapalny</strong></p>
-<p><strong>Zioła</strong> - dziurawiec (10 g), rozmaryn (5 g), majeranek (15 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - 1 dzień pić 3 razy po 1/2 szklanki wody &quot;martwej&quot; a następnie przez 3-7 dni napar &quot;żywą&quot; wodą z ziół 2 razy dziennie po 1 szklance.</p>
-<hr>
-<p><strong>Efekty</strong> - bóle ustępują.</p>
-<hr>
-<p><strong>Woreczek<br>żółciowy<br>zapalenie</strong></p>
-<p><strong>Zioła</strong> - kora kruszyny (10 g), tasznik (20 g), podróżnik k. (10 g), kocanka (15 g), melisa (10 g),<br>owoc róży (20 g), dziurawiec (10 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - zrobić mieszankę z ziół. Pierwszego dnia pić 3 razy dziennie po 1/2 szklanki wody &quot;martwej&quot;, następnie przez 3-7 dni napar wodą &quot;żywą&quot; z mieszanki ziół 2 razy dziennie po 1 szklance.</p>
-<hr>
-<p><strong>Efekty</strong> - bóle ustępują po dugim dniu kuracji.</p>
-<hr>
-<p><strong>Zaparcia</strong></p>
-<p><strong>Zioła</strong> - kwiat tarnika ().</p>
-<hr>
-<p><strong>Leczenie</strong> - napar z zioła wodą &quot;żywą&quot; pić 2 razy dziennie po 1 szklance.</p>
-<hr>
-<p><strong>Efekty</strong> - po kilku dniach zaparcia ustępują.</p>
-<hr>
-<p><strong>Ząb<br>ból</strong></p>
-<p><strong>Zioła</strong> - tatarak (5 g), kozieradka (5 g), podbiał (5 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - najpierw kilkakrotnie przepłukać &quot;martwą&quot; wodą, następnie wodą &quot;żywą&quot; rozprowadzić jedno zioło zmielone na proszek i robić okłady. Kozieradkę można wkładać do wewnątrz do ubytku i może tam być do 3 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - kozieradka tworzy naturalną plombę i działa przeciwbólowo w połączeniu z tatarakiem, leczy zapalenie okostnej.</p>
-<hr>
-<p><strong>Zgaga</strong></p>
-<p><strong>Zioła</strong> - tatarak (20 g), mięta pieprzowa (10 g), krwawnik (20 g).</p>
-<hr>
-<p><strong>Leczenie</strong> - rano i wieczorem przed posiłkiem pić napar &quot;żywej&quot; wody z ziół po 1/2 szklanki przez 2-3 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - objawy ustępują po 1-2 godzinach.</p>
-<hr>
-<p><strong>Żylaki</strong></p>
-<p><strong>Zioła</strong> - mech leśny (30 g), rumianek (20 g), igliwie sosny (30 g), [Cz. Klimuszko].</p>
-<hr>
-<p><strong>Leczenie</strong> - chore miejsce przemyć wodą &quot;martwą&quot;, następnie lniane płótno zmoczyć w naparze &quot;żywej&quot; wody i ziół i zrobić ciepły okład na 3-4 godziny 2 razy dziennie. Pić &quot;żywą&quot; wodę 2 razy dziennie po 1/2 szklanki przez 3-7 dni.</p>
-<hr>
-<p><strong>Efekty</strong> - bóle ustępują, rany goją się szybko. Kurację można przedłużyć.</p>
-<hr>
-<p><strong>Porażenie<br>mózgowe<br>dzieci</strong></p>
-<p><strong>Zestaw I</strong> - poziewnik (15 g), pokrzywa (100 g), bukwica (20 g), świetlik łąkowy (10 g), ogórecznik (20 g),<br>rdest (15 g), wrzos (10 g), liść poziomki (30 g), melisa (30 g).<br><strong>Zestaw II</strong> - tymianek (10 g), kwiat tarniny (5 g), rzepik (15 g), owoc róży (25 g), serdecznik (10 g),<br>kozłek k. (15 g), krwawnik (10 g).<br><strong>Zestaw III (przyprawy)</strong> - kminek, majeranek, lubczyk, magnez, wapń, żelazo, cynk.<br><strong>Zestaw IV (nalewka)</strong> - korzeń żywokostu (100 g), korzeń podróżnika (100 g), 1/2 litra spirytusu, 1/2 litra wódki żytniej.</p>
-<hr>
-<p><strong>Leczenie</strong> - Przede wszystkim należy wyłączyć z jadłospisu: wieprzowinę, czekoladę, cukier, wywary na kości i wędliny. Trzeba podawać jarzyny gotowane, kaszę jęczmienną, kaszę gryczaną, owies, pszenicę, proso - pod różnymi postaciami. Zmielone kasze na mąkę służą do sporządzania ciast i naleśników. Podawać także nasiona strączkowe mielone. Jeśli podajemy mięso, to czyste i bez kości (indyk, zając, baranina, ryby). Jajko 1-2 na tydzień. Kapiele w drożdżach, zioła podawać z wodą &quot;żywą&quot; lub bez. Zestaw I podawać rano, zestaw II na noc. Zestaw III w różnych ilościach dodawać do potraw (likwidują zaparcia i dostarczają mikroelementów). Nalewkę (zestaw IV) po kąpieli wcierać delikatnie w kręgosłup.</p>
-<hr>
-<p><strong>Efekty</strong> - dzieci z porażeniem mózgowym wymagają osobliwej pielęgnacji. Aby przywrócić zdrowie dziecku, trzeba cierpliwie i bardzo dokładnie wykonywać zalecenia z opisu. Pierwsze oznaki poprawy można zaobserwować po 6 tygodniach. Dzieci, które mają ataki drgawkowe powoli je tracą. Dzieci starsze trudniej prowadzić, a leczenie trwa od 1 do 3 lat.</p>
+<p class="rozdzial" id="r-11"><strong>Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>---</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>🟩 <strong>Angina</strong></td>
+<td>🟩 <strong>Zioła</strong> - liść orzecha (10 g), majeranek (15 g), tymianek (10 g), nagietek (20 g), eukaliptus, lipa (20 g), szałwia (15 g).<br>---<br><strong>Leczenie</strong> - wypić 1 raz 1/2 szklanki wody &quot;martwej&quot;, 3-7 dni płukać gardło 2 razy dziennie jednym z ziół zalanych wodą &quot;martwą&quot;. Pić 2 razy dziennie 1/2 szklanki wody &quot;żywej&quot;.<br>---<br><strong>Efekty</strong> - w ciągu kilku godzin gorączka obniża się, a choroba ustępuje w ciągu 3-4 dni. Z eukaliptusa można robić inhalacje.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Anemia</strong></td>
+<td>🟩 <strong>Zioła</strong> - pokrzywa (20 g), wilżyna (10 g), poziewnik (5 g), tobołki posp. (10 g), świetlik łąkowy (20 g),<br>owoc róży (20 g), ogórecznik (20 g), rzepik (15 g), bukwica (15 g).<br>---<br><strong>Leczenie</strong> - wypić 1 raz 1/2 szklanki wody &quot;martwej&quot;, następnie pić napar z ziół &quot;żywą&quot; wodą 2 razy dziennie po 1 szklance. Dodatkowo można 1 raz dziennie zjeść 1 łyżeczkę sproszkowanej kozieradki z miodem.<br>---<br><strong>Efekty</strong> - przed kuracją sprawdzić morfologie krwi, po 7 dniach powtórzyć - wyniki będą lepsze. Można przedłużyć picie ziół do 2 tygodni.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Bezsenność</strong></td>
+<td>🟩 <strong>Zioła</strong> - kolendra (10 g), owoc bzu czarnego (10 g), liść jeżyny (15 g), melisa (10 g), owoc jarzębiny (15 g),<br>liść borówki (5 g).<br>---<br><strong>Leczenie</strong> - przed snem pić 1 szklankę naparu &quot;żywej&quot; wody z ziół przez 2-4 dni. Kuracje można powtarzać.<br>---<br><strong>Efekty</strong> - organizm się wycisza i wraca sen.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Biegunka</strong></td>
+<td>🟩 <strong>Zioła</strong> - zielona herbata (), szyjka rakowa ().<br>---<br><strong>Leczenie</strong> - wypić 1/2 szklanki wody &quot;martwej&quot;. Co 7 godzin zażyć 1/2 łyżeczki sproszkowanej herbaty lub szyjki rakowej (do wyboru) popijając 1/2 szklanki ciepłej &quot;żywej&quot; wody.<br>---<br><strong>Efekty</strong> - bóle ustępują, biegunka ustaje.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Choroba<br>popromienna</strong></td>
+<td>🟩 <strong>Zioła</strong> - herbata zielona (15 g), pokrzywa (20 g).<br>---<br><strong>Leczenie</strong> - przez 3 miesiące, 2 razy dziennie pić po 1/2 szklanki naparu wody &quot;żywej&quot; i ziół. Można używać naparu ze zwykłej wody w wypadku braku wody &quot;żywej&quot;.<br>---<br><strong>Efekty</strong> - wzmacnia, nie dopuszcza do powstania anemii, wzmacnia siły obronne organizmu.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Dziąsła<br>zapalenie</strong></td>
+<td>🟩 <strong>Zioła</strong> - kolanchola (), propolis ().<br>---<br><strong>Leczenie</strong> - w ciągu dnia płukać jamę ustną 2-6 razy wodą &quot;martwą&quot; a potem roztworem wody &quot;żywej&quot; z propolisem lub kalancholą 1-2 razy.<br>---<br><strong>Efekty</strong> - brak danych.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Głowa<br>ból</strong></td>
+<td>🟩 <strong>Zioła</strong> - lipa (10 g), macierzanka (30 g), bukwica (20 g).<br>---<br><strong>Leczenie</strong> - wypić 1 raz 1/2 szklanki wody &quot;martwej&quot;, pić 2 razy dziennie 1/2 szklanki naparu ziół &quot;żywą&quot; wodą od 2 do 3 dni.<br>---<br><strong>Efekty</strong> - po 15-20 minutach ból głowy ustępuje. W razie nawrotu bólu kurację powtórzyć.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Hemoroidy</strong></td>
+<td>🟩 <strong>Zioła</strong> - cebula (), kora dębu (), len (), kozieradka (), perz (), płatki róży ().<br>---<br><strong>Leczenie</strong> - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody &quot;martwej&quot;, następnie 1 raz dziennie 1/2 szklanki wody &quot;żywej&quot;. Z naparu &quot;żywą&quot; wodą jednego z ziół robić przymoczki na chore miejsce lub tamponami z wody kilka razy dziennie przez 2-5 dni.<br>---<br><strong>Efekty</strong> - krwawienia ustępują i zagojenie ran następuje w ciągu kilku dni.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Menstruacja<br>bolesna</strong></td>
+<td>🟩 <strong>Zioła</strong> - kora kaliny (15 g), krwawnik (10 g), kwiat orlika (5 g) lub mięta pieprzowa (15 g).<br>---<br><strong>Leczenie</strong> - wypić 1 raz 1/2 szklanki wody &quot;martwej&quot;, następnie 1-2 dni przed okresem pić napar z ziół wodą &quot;żywą&quot; 2 razy dziennie po 1/2 szklanki.<br>---<br><strong>Efekty</strong> - kuracje przeprowadzać przez okres 3 miesięcy przed okresem.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Moczopędne</strong></td>
+<td>🟩 <strong>Zioła</strong> - perz (10 g), ogórecznik (20 g), wrzos (10 g), bławatek (10 g), ręcznica (15 g),<br>liść porzeczki czarnej (20 g), fiołek (10 g), liść poziomki (10 g).<br>---<br><strong>Leczenie</strong> - napar z ziół &quot;żywą&quot; wodą&quot; pić 2 razy dziennie po 1 szklance przez 3-4 dni.<br>---<br><strong>Efekty</strong> - oczyszcza nerki.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Nerki<br>stan zapalny</strong></td>
+<td>🟩 <strong>Zioła</strong> - ogórecznik ().<br>---<br><strong>Leczenie</strong> - przez 1 dzień pić 3 razy po 1/2 szklanki wody &quot;martwej&quot; i następnie przez 3-6 dni napar z ogórecznika wodą &quot;żywą&quot; 2 razy dziennie po 1/2 szklanki.<br>---<br><strong>Efekty</strong> - brak danych.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Nogi<br>bóle i obrzęki</strong></td>
+<td>🟩 <strong>Zioła</strong> - podbiał (20 g), storczyk (10 g), rozmaryn (15 g), skrzyp (20 g), ogórecznik (20 g).<br>---<br><strong>Leczenie</strong> - przez 1 dzień pić 2 razy po 1/2 szklanki wody &quot;martwej&quot;, następnie 2 razy napar z ziół wodą &quot;żywą&quot; po 1/2 szklanki. Stosować 2-3 dni.<br>---<br><strong>Efekty</strong> - bóle ustępują po drugim dniu kuracji, obrzęki po kilku dniach.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Oparzenia</strong></td>
+<td>🟩 <strong>Zioła</strong> - kopytnik (10 g), podbiał (10 g), babka lancetowata (10 g), liść poziomki (10 g), dziewanna (10 g), mniszek (10 g), lebiodka (20 g).<br>---<br><strong>Leczenie</strong> - chore miejsca przemyć wodą &quot;martwą&quot;, potem w ciągu dnia robić okłady z naparu &quot;żywą&quot; wodą&quot; jednego z podanych ziół. Okłady robić wyłącznie lnianym płótnem i po wyschnięciu powtarzać 3-4 razy dziennie.<br>---<br><strong>Efekty</strong> - rany goją się bardzo szybko i nie ma blizn.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Rana<br>ropiejąca</strong></td>
+<td>🟩 <strong>Zioła</strong> - aloes (20 g), żywokost (15 g), kozieradka (10 g), torfowiec (15 g).<br>---<br><strong>Leczenie</strong> - przemyć ranę wodą &quot;martwą&quot;, następnie zrobić opatrunek naparem &quot;żywej&quot; wody jednego z ziół. Wyschnięty opatrunek nawilżać wodą &quot;żywą&quot;. Robić to 2-3 razy dziennie.<br>---<br><strong>Efekty</strong> - brak danych.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Serce<br>arytmia</strong></td>
+<td>🟩 <strong>Zioła</strong> - melisa (15 g), kwiat głogu (20 g), wrzos (10 g).<br>---<br><strong>Leczenie</strong> - 2 razy dziennie wypić 1/2 szklanki naparu ziół &quot;żywą&quot; wodą przez 6-7 dni.<br>---<br><strong>Efekty</strong> - poprawa bardzo widoczna. Kurację można powtarzać co 2 tygodnie.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Skóra<br>liszaje</strong></td>
+<td>🟩 <strong>Zioła</strong> - żywokost (15 g), kozieradka (10 g), skrzyp (5 g), barwinek (10 g), konopie (20 g),<br>korzeń pokrzywy (10 g), torfowiec (10 g).<br>---<br><strong>Leczenie</strong> - w ciągu 2 dni rano obmywać chore miejsca wodą &quot;martwą&quot;, następnie sproszkowane jedno z ziół połączone z wodą &quot;żywą&quot; nałożyć na lniane płótno i 2 razy dziennie robić ciepły okład na 15-20 minut. Stosować 2-7 dni.<br>---<br><strong>Efekty</strong> - po pierwszym dniu ognisko choroby zanika, skóra wraca do zdrowia.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Spojówki<br>zapalenie<br>(jeczmień)</strong></td>
+<td>🟩 <strong>Zioła</strong> - [1] świetlik łąkowy (10 g), zielona herbata (10 g), bławatek (10 g),<br>[2] kozieradka.<br>---<br><strong>Leczenie</strong> - rano przemyć oczy wodą &quot;martwą&quot;, na noc okłady naparu wodą &quot;żywą&quot; jednego z ziół. Jęczmień znika po nałożeniu papki z kozieradki i &quot;żywej&quot; wody.<br>---<br><strong>Efekty</strong> - brak danych.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Stawy<br>ból</strong></td>
+<td>🟩 <strong>Zioła</strong> - liść brzozy (15 g), fiołek trójbarwny (20 g), szałwia (10 g), kwiat głogu (20 g), dziurawiec (10 g).<br>---<br><strong>Leczenie</strong> - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody &quot;martwej&quot;, następnie od 2 do 7 dni pić 2 razy dziennie po 1 szklance naparu ziół wodą żywą.<br>---<br><strong>Efekty</strong> - ciało się rozgrzewa, bóle ustępują.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Twarz<br>higiena</strong></td>
+<td>🟩 <strong>Zioła</strong> - bratek (20 g), lawenda (10 g), macierzanka (20 g), lilia (10 g), ogórecznik (20 g).<br>---<br><strong>Leczenie</strong> - rano i wieczorem po umyciu twarzy i ciała, przemyć ciało i twarz wodą martwą. Po 10 minutach natrzeć ciało a twarz opłukać naparem z &quot;żywej&quot; wody i ziół dowolnie wybranych (można dodatkowo pić napar z macierzanki).<br>---<br><strong>Efekty</strong> - twarz wygładza się i znikają przebarwienia.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Upławy<br>białe</strong></td>
+<td>🟩 <strong>Zioła</strong> - kwiat jasnoty (30 g).<br>---<br><strong>Leczenie</strong> - 1 dzień pić 2 razy 1/2 szklanki wody &quot;martwej&quot;, następnie pić 2 razy dziennie 1 szklankę naparu wodą &quot;żywą&quot; przez 3-4 dni.<br>---<br><strong>Efekty</strong> - upławy ustępują w drugim dniu kuracji.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Wątroba<br>stan zapalny</strong></td>
+<td>🟩 <strong>Zioła</strong> - dziurawiec (10 g), rozmaryn (5 g), majeranek (15 g).<br>---<br><strong>Leczenie</strong> - 1 dzień pić 3 razy po 1/2 szklanki wody &quot;martwej&quot; a następnie przez 3-7 dni napar &quot;żywą&quot; wodą z ziół 2 razy dziennie po 1 szklance.<br>---<br><strong>Efekty</strong> - bóle ustępują.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Woreczek<br>żółciowy<br>zapalenie</strong></td>
+<td>🟩 <strong>Zioła</strong> - kora kruszyny (10 g), tasznik (20 g), podróżnik k. (10 g), kocanka (15 g), melisa (10 g),<br>owoc róży (20 g), dziurawiec (10 g).<br>---<br><strong>Leczenie</strong> - zrobić mieszankę z ziół. Pierwszego dnia pić 3 razy dziennie po 1/2 szklanki wody &quot;martwej&quot;, następnie przez 3-7 dni napar wodą &quot;żywą&quot; z mieszanki ziół 2 razy dziennie po 1 szklance.<br>---<br><strong>Efekty</strong> - bóle ustępują po dugim dniu kuracji.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Zaparcia</strong></td>
+<td>🟩 <strong>Zioła</strong> - kwiat tarnika ().<br>---<br><strong>Leczenie</strong> - napar z zioła wodą &quot;żywą&quot; pić 2 razy dziennie po 1 szklance.<br>---<br><strong>Efekty</strong> - po kilku dniach zaparcia ustępują.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Ząb<br>ból</strong></td>
+<td>🟩 <strong>Zioła</strong> - tatarak (5 g), kozieradka (5 g), podbiał (5 g).<br>---<br><strong>Leczenie</strong> - najpierw kilkakrotnie przepłukać &quot;martwą&quot; wodą, następnie wodą &quot;żywą&quot; rozprowadzić jedno zioło zmielone na proszek i robić okłady. Kozieradkę można wkładać do wewnątrz do ubytku i może tam być do 3 dni.<br>---<br><strong>Efekty</strong> - kozieradka tworzy naturalną plombę i działa przeciwbólowo w połączeniu z tatarakiem, leczy zapalenie okostnej.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Zgaga</strong></td>
+<td>🟩 <strong>Zioła</strong> - tatarak (20 g), mięta pieprzowa (10 g), krwawnik (20 g).<br>---<br><strong>Leczenie</strong> - rano i wieczorem przed posiłkiem pić napar &quot;żywej&quot; wody z ziół po 1/2 szklanki przez 2-3 dni.<br>---<br><strong>Efekty</strong> - objawy ustępują po 1-2 godzinach.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Żylaki</strong></td>
+<td>🟩 <strong>Zioła</strong> - mech leśny (30 g), rumianek (20 g), igliwie sosny (30 g), [Cz. Klimuszko].<br>---<br><strong>Leczenie</strong> - chore miejsce przemyć wodą &quot;martwą&quot;, następnie lniane płótno zmoczyć w naparze &quot;żywej&quot; wody i ziół i zrobić ciepły okład na 3-4 godziny 2 razy dziennie. Pić &quot;żywą&quot; wodę 2 razy dziennie po 1/2 szklanki przez 3-7 dni.<br>---<br><strong>Efekty</strong> - bóle ustępują, rany goją się szybko. Kurację można przedłużyć.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>🟩 <strong>Porażenie<br>mózgowe<br>dzieci</strong></td>
+<td>🟩 <strong>Zestaw I</strong> - poziewnik (15 g), pokrzywa (100 g), bukwica (20 g), świetlik łąkowy (10 g), ogórecznik (20 g),<br>rdest (15 g), wrzos (10 g), liść poziomki (30 g), melisa (30 g).<br><strong>Zestaw II</strong> - tymianek (10 g), kwiat tarniny (5 g), rzepik (15 g), owoc róży (25 g), serdecznik (10 g),<br>kozłek k. (15 g), krwawnik (10 g).<br><strong>Zestaw III (przyprawy)</strong> - kminek, majeranek, lubczyk, magnez, wapń, żelazo, cynk.<br><strong>Zestaw IV (nalewka)</strong> - korzeń żywokostu (100 g), korzeń podróżnika (100 g), 1/2 litra spirytusu, 1/2 litra wódki żytniej.<br>---<br><strong>Leczenie</strong> - Przede wszystkim należy wyłączyć z jadłospisu: wieprzowinę, czekoladę, cukier, wywary na kości i wędliny. Trzeba podawać jarzyny gotowane, kaszę jęczmienną, kaszę gryczaną, owies, pszenicę, proso - pod różnymi postaciami. Zmielone kasze na mąkę służą do sporządzania ciast i naleśników. Podawać także nasiona strączkowe mielone. Jeśli podajemy mięso, to czyste i bez kości (indyk, zając, baranina, ryby). Jajko 1-2 na tydzień. Kapiele w drożdżach, zioła podawać z wodą &quot;żywą&quot; lub bez. Zestaw I podawać rano, zestaw II na noc. Zestaw III w różnych ilościach dodawać do potraw (likwidują zaparcia i dostarczają mikroelementów). Nalewkę (zestaw IV) po kąpieli wcierać delikatnie w kręgosłup.<br>---<br><strong>Efekty</strong> - dzieci z porażeniem mózgowym wymagają osobliwej pielęgnacji. Aby przywrócić zdrowie dziecku, trzeba cierpliwie i bardzo dokładnie wykonywać zalecenia z opisu. Pierwsze oznaki poprawy można zaobserwować po 6 tygodniach. Dzieci, które mają ataki drgawkowe powoli je tracą. Dzieci starsze trudniej prowadzić, a leczenie trwa od 1 do 3 lat.</td>
+</tr>
+</tbody></table></div>
 
   </article>
   <div class="zapytaj">
@@ -385,12 +613,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

@@ -74,7 +74,7 @@ const WIERSZE_KSIAZEK: { sekcja: string; wiersz: string }[] = (() => {
 
 /** Tworzy serwer MCP z narzędziami archiwum (jeden na połączenie; archiwum jest wczytane raz, wspólne). */
 function utworzSerwer(): McpServer {
-const STRONA_WWW = "https://jokerwader.github.io/uleszka-archiwum/";
+const STRONA_WWW = "https://uleszka.net/";
 const server = new McpServer(
   {
     name: "uleszka-archiwum",
@@ -716,7 +716,7 @@ if (!port) {
 } else {
   const STRONA = `Serwer MCP archiwum uleszka.net (${archiwum.artykuly.length} artykułów).
 Adres dla asystenta AI: <ten adres>/mcp
-Instrukcja dla każdego: https://jokerwader.github.io/uleszka-archiwum/
+Instrukcja dla każdego: https://uleszka.net/
 Kod: https://github.com/jokerwader/uleszka-archiwum
 `;
   const IKONY: Record<string, string> = {

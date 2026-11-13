@@ -310,46 +310,36 @@ Jak z tego widać granice imperium wyznaczały tylko rzymskie obozy wojskowe ora
 
 Co to jest łuk tryumfalny? Wedle archeologii jest to budowla w kształcie monumentalnej, łukowato zakończonej bramy, którą budowano specjalnie dla uczczenia zwycięstwa jakiegoś rzymskiego wodza, by po powrocie do Rzymu mógł pod nim przejść jednorazowo i pokazać swoje zdobycze. Jak planowano budowę, by zdążyć na czas nie mogę sobie tego wyobrazić, podobnie jak planowania zwycięstw czy klęsk. Dlaczego tak rozrzutnie trwoniono materiał i ludzką energię na kilkugodzinny pokaz pychy? Albo Rzymianie byli tak bezgranicznie niefrasobliwi, albo co jest bardziej prawdopodobne ich "budowa" polegała głównie na zawieszeniu paru flag, girland i transparentów na budowlach już istniejących od wieków, na których później przytwierdzali stosowną inskrypcję upamiętniającą uroczystość. Co dziwniejsze, nie dość było łuków w samym Rzymie, bo stawiano je wszędzie na świecie.
 
-![](../../zrodlo/webacja/12rzym/bukareszt.jpg)
-
-![](../../zrodlo/webacja/12rzym/tarragona.jpg)
-
-![](../../zrodlo/webacja/12rzym/delhi.jpg)
-
-![](../../zrodlo/webacja/12rzym/paris.jpg)
-
-![](../../zrodlo/webacja/12rzym/tripoli.jpg)
-
-![](../../zrodlo/webacja/12rzym/chiny.jpg)
-
+![](../../zrodlo/webacja/12rzym/bukareszt.jpg)  
 Bukareszt
 
+![](../../zrodlo/webacja/12rzym/tarragona.jpg)  
 Tarragona
 
+![](../../zrodlo/webacja/12rzym/delhi.jpg)  
 Delhi
 
+![](../../zrodlo/webacja/12rzym/paris.jpg)  
 Paryż
 
+![](../../zrodlo/webacja/12rzym/tripoli.jpg)  
 Trypolis
 
+![](../../zrodlo/webacja/12rzym/chiny.jpg)  
 Chiny
 
 I tak od lewej - w Rumunii, Hiszpanii, w Afryce, we Francji czy nawet w Indiach i Chinach, nie licząc tych stawianych w samym Rzymie. Co jest charakterystyczne, wszystkie jak jeden posiadają wspaniałe łuki architektoniczne rzekomo "wynalezione" przez rzymskich budowniczych. Jak są natomiast zbudowane trudno powiedzieć, bo zostały przez Rzymian lub współczesnych "konserwatorów" kompletnie zapacykowane i nie wolno tego tynku usunąć, bo zabytek. Na ich murach wykuto lub przymocowano tablice z inskrypcjami zawierającymi nazwiska bohaterów i zapewne dlatego dziś nazywa się wszystkie od ich imienia, a co niektórzy interpretują jako budowniczych. Same inskrypcje można zaliczyć do najstarszych przejawów "kultury turystów", którzy bez mała na wszystkim co zwiedzają pozostawiają ślady.
 
-![](../../zrodlo/webacja/12rzym/francja.jpg)
-
-![](../../zrodlo/webacja/12rzym/dougga.jpg)
-
-![](../../zrodlo/webacja/12rzym/volubilis.jpg)
-
-![](../../zrodlo/webacja/12rzym/saintes.jpg)
-
+![](../../zrodlo/webacja/12rzym/francja.jpg)  
 Francja
 
+![](../../zrodlo/webacja/12rzym/dougga.jpg)  
 Dougga
 
+![](../../zrodlo/webacja/12rzym/volubilis.jpg)  
 Volubilis
 
+![](../../zrodlo/webacja/12rzym/saintes.jpg)  
 Saintes
 
 Pewne wyobrażenie o budowie rzymskich łuków tryumfalnych można wywnioskować z tych, których nie zdążono pokryć "rzymskim" cementem, a tu już widać wielkość i precyzję poszczególnych elementów. Pod ostatnim w Saintes, mogło paradować nawet dwóch zwycięzców na raz. Czy tak zbudowane są pozostałe, tego się nie dowiemy, bo żaden konserwator zabytków nie wyrazi zgody na zdjęcie tego rzymskiego "makijażu". Mogłoby to także zagrozić tak wypieszczonej teorii o "wielkim Rzymie".

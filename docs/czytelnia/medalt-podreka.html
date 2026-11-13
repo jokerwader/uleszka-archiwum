@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="Dobrze mieć &quot;pod reką&quot; – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Tekst jest zbiorem domowych sposobów leczenia i profilaktyki, które autor proponuje jako uzupełnienie standardowej domowej apteczki. Najwięcej miejsca zajmuje ocet jabłkowy (przepi">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/medalt-podreka.html">
-<meta property="og:image" content="https://jokerwader.github.io/uleszka-archiwum/og.png">
+<meta property="og:url" content="https://uleszka.net/czytelnia/medalt-podreka.html">
+<meta property="og:image" content="https://uleszka.net/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">Ocet jabłkowy</a></li><li><a href="#r-2">Kwas buraczany</a></li><li><a href="#r-3">Domowy kefir</a></li><li><a href="#r-4">Olej słonecznikowy</a></li><li><a href="#r-5">Nie wyrzucać skorupek od jaj</a></li><li><a href="#r-6">Przyprawy to też leki</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details open><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html" class="aktualny" aria-current="page">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#zapomniana-medycyna">Zapomniana medycyna</a></p>
   <h1>Dobrze mieć &quot;pod reką&quot;</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Tekst jest zbiorem domowych sposobów leczenia i profilaktyki, które autor proponuje jako uzupełnienie standardowej domowej apteczki. Najwięcej miejsca zajmuje ocet jabłkowy (przepis na jego wykonanie i lista dolegliwości, na które ma pomagać), a dalej kwas buraczany, domowy kefir, ssanie oleju słonecznikowego, sproszkowane skorupki jaj i przegląd przypraw o właściwościach trawiennych i leczniczych. Autor twierdzi, że leki naturalne działają wolno, ale systematycznie, i mają zastępować lub wspierać chemiczne leki. Powołuje się na ludową medycynę, o. Grande, dr Górnicką i własne dobre wyniki badań kości.</p>
@@ -33,7 +69,7 @@
   <article class="tresc">
 <p><strong>Dobrze mieć zawsze &quot;pod ręką&quot;</strong><br>Natura - lekarzem, lekarz - jej sługą. Hipokrates</p>
 <p>Dzisiejszą, standardową domową aptekę powinniśmy uzupełnić lekami naturalnymi, które jest łatwo zrobić samemu. Mają one zastosowanie profilaktyczne, co ma niewątpliwy wpływ na nasz domowy budżet. Wszyscy też wiedzą, że lepiej zapobiegać niż leczyć i to nie tylko ze względy na koszty i kłopoty. Każda kobieta (oczywiście oprócz tych, co nawet wodę przypalają) odpowiada w zasadzie za zdrowie rodziny, bo tylko ona serwuje nam codzienne &quot;leki&quot; mające wpływ na nasze dobre samopoczucie. Są jednak pewne produkty, na których przygotowanie należy poświęcić trochę czasu, aby były pomocne wtedy, kiedy są naprawdę potrzebne.</p>
-<p><strong>Ocet jabłkowy</strong></p>
+<p class="rozdzial" id="r-1"><strong>Ocet jabłkowy</strong></p>
 <p>Ocet jabłkowy stosowany jest powszechnie w ludowej medycynie ze względu na dużą zawartość potasu, a ponadto fosforu, chloru, sodu, magnezu, wapnia, siarki, żelaza, fluoru, krzemu i innych śladowych pierwiastków. Ocet jabłkowy działa profilaktycznie i leczniczo w przypadku wielu chorób. Dlaczego potas jest tak ważny w naszym organizmie? Jest potrzebny dzieciom do wzrostu. Opóźnia stwardnienie naczyń krwionośnych (miażdżyca), a także działa bakteriobójczo. Jeśli stwierdzamy u siebie osłabienie świeżości psychicznej, mamy trudności w podejmowaniu decyzji czy osłabioną pamięć, jesteśmy wrażliwi na zimno, mamy zimne nogi i ręce, nasze nogi są podatne na odciski, twardnieje nam skóra na podeszwach, mamy skłonność do zaparć, jesteśmy podatni na przeziębienia i choroby infekcyjne, brakuje nam łaknienia, mamy nudności z wymiotami, nasze rany trudno się goją, często swędzi nas skóra, psują nam się zęby, wyskakują nam pryszcze na skórze, drgają nam powieki i kąciki ust, mamy częste i bolesne skurcze nóg w nocy, nie możemy wypocząć, jesteśmy w stanie stałego napięcia nerwowego, coraz gorzej śpimy, mamy bóle w stawach i rozwija się u nas artretyzm, to znaczy, że mamy niedobór potasu, a w tym może pomóc ocet jabłkowy.</p>
 <p>Jak przygotować ocet jabłkowy:</p>
 <p>Z umytych jabłek wyciąć zepsute lub robaczywe części, owoce zgnieść lub utrzeć na tarce. Można zużyć również skórki z jabłek oraz resztki pozostałe podczas sporządzania kompotu. <strong>W naczyniu ze szkła lub drewna (np. beczułka) bądź emaliowanej gliny zalać tę surową miazgę ciepłą, przegotowaną wodą w ilości 0,5 litra na 0,4 kg miazgi. Na każdy litr wody dodać 100 g miodu lub cukru, a w celu przyspieszenia fermentacji octowej - 10 g drożdży piekarniczych i 20 g suchego chleba razowego.</strong> Naczynia nie zakrywać i trzymać w pomieszczeniu o temperaturze 20-30°C w miejscu ciemnym, ponieważ promienie ultrafioletowe szkodzą przebiegowi fermentacji. Zalana miazgę należy 2-3 razy dziennie mieszać drewnianą łyżką, po 10 dniach zlać wszystko do woreczka z gazy. Otrzymany po wyciśnięciu sok przecedzić ponownie do naczynia z szerokim otworem. Na każdy litr soku można dodać 50-100 g miodu lub cukru. Dobrze wymieszać. W celu przeprowadzenia drugiego stadium fermentacji, należy zakryć naczynie gazą i trzymać je w ciepłym miejscu. Fermentacja jest zakończona, kiedy płyn uspokoi się i przybierze jasny kolor. W zależności od jakości soku ocet jabłkowy będzie gotowy do użytku po upływie 40-60 dni. Ocet przelać do butelek filtrując płyn przez lejek wyłożony gazą. Butelki szczelnie zakorkować, zalać woskiem lub lakiem i przechowywać w ciemnym i chłodnym miejscu.</p>
@@ -43,121 +79,343 @@
 <p>Ocet jabłkowy stosuje się jako przyprawę do sałatek i do innych potraw, według potrzeb organizmu pacjenta, jako kwaśny dodatek do spożywanego pokarmu. Prof. Jarwis zaleca stosować ocet jabłkowy jako produkt dietetyczny i jako środek leczniczy. Ze względu na właściwości octu jabłkowego (uodparnia na infekcje, dostarcza składników niezbędnych do utrzymania równowagi kwasowo-zasadowej w organizmie) zaleca się profilaktyczne jego zażywanie w następującej ilości:</p>
 <p>Dorośli - 2 razy dziennie 2-4 łyżeczki octu jabłkowego z 2 łyżeczkami miodu na 1/2 szklanki ciepłej, przegotowanej wody. Dobrze wymieszać.<br>Dzieci - 1 łyżeczka octu jabłkowego z 2 łyżeczkami miodu na 1/2 szklanki ciepłej, przegotowanej wody. Dobrze wymieszać.</p>
 <p><strong>Na jakie choroby i jak stosować ocet jabłkowy</strong>:</p>
-<p><strong>Angina</strong>  </p>
-<p>2 łyżeczki octu jabłkowego i 2 łyżeczki miodu wymieszać w 1/2 szklanki ciepłej, przegotowanej wody. Płukać gardło bardzo powoli, wypijając kilka łyżeczek tej mieszanki co kilka minut bardzo powoli połykając. Powtarzać płukanie 4 razy dziennie. W przypadku wrażliwego, delikatnego gardła (np. u młodzieży do 15 roku życia) zaleca się płukanie rano i wieczorem i tylko po 1 łyżeczce octu jabłkowego z dodatkiem 1 łyżeczki miodu i 3 łyżeczek ciepławej wody. Połykanie powinno być bardzo powolne.</p>
-<p><strong>Astma</strong>  </p>
-<p>Nacierać klatkę piersiową czystym octem jabłkowym, lub jeżeli naskórek jest kruchy, zmieszanym w równej części z naparem kwiatu lawendy. Płynu tego też można używać do okładów na klatke piersiową i plecy. Najlepiej do tego celu nadaje się lniana ściereczka. Stopy i golenie należy owinąć suchym ręcznikiem, szalem albo chustą wełnianą. To leczenie może być stosowane w chwilach kryzysu i na początku ataku duszności.</p>
-<p><strong>Bezsenność</strong>  </p>
-<p>Po posiłku rano i wieczorem pić 2 łyżeczki octu jabłkowego z 2 łyżeczkami miodu wymieszanymi w 1/2 szklanki ciepłej, przegotowanej wody.</p>
-<p><strong>Bóle głowy</strong>  </p>
-<p>Przyłożyć na czoło kompres z gazy namoczonej w roztworze wodnym - 1/2 szklanki zimnej wody, 2 łyżeczki octu jabłkowego i 2 łyżeczki miodu. Zmienić okład, gdy się nagrzeje. Taki kompres można również przyłożyć na kark.</p>
-<p><strong>Dermatozy</strong>  </p>
-<p>Choroby skórne suche ze złuszczaniem się lub lekko ociekające. Nie przemywać mydłem. Miejsca chore myć roztworem złożonym z 1/3 octu jabłkowego, 1/3 wywaru z korzenia łopianu i 1/3 oleju z migdałów słodkich lub oliwy z oliwek. Wszystko powinno być dobrze wymieszane. Kawałkiem gazy wklepać w chorą skórę. Po osuszeniu przyłożyc trochę kremu witaminowego. Zabieg powtarzać rano i wieczorem.</p>
-<p><strong>Kaszel</strong>  </p>
-<p>Brać co 2 godziny 1 łyżeczkę syropu o składzie - świeży sok z 1/2 cytryny z taką samą ilością octu jabłkowego, 1 łyżka miodu akacjowego i 1 łyżeczka gliceryny. Wymieszać do uzyskania syropu, który okaże się bardzo smaczny. Mieszanina taka winna zostać zużyta w ciągu 14 godzin. W przypadku silnego kaszlu należy zażywać 1 łyżkę syropu co 2 godziny w ciągu całego dnia, a w przypadku napadu kaszlu także w nocy. Dzieci powyżej lat 2 mogą zażywać ten syrop co godzinę ale w zmniejszonej ilości (1/4 łyżeczki 3 razy co godzinę rano i podobnie po południu. Syrop ten jest bardzo cenny w przypadku zapalenia tchawicy i kokluszu, gdyż uspakaja ataki kaszlu.</p>
-<p><strong>Katar sienny</strong>  </p>
-<p>Alergiczny. Profilaktycznie można używać 1 łyżeczkę miodu rozmarynowego lub tymiankowego przed posiłkami. Wieczorem przed snem wypić mieszankę 2 łyżeczek miodu akacjowego z 1 łyżeczką octu jabłkowego i odrobina wody mineralnej. Po 2,5 miesiącach zaleca się popijać codziennie 1 szklankę wody mineralnej z 2 łyżeczkami miodu i 2 łyżeczkami octu jabłkowego z dodatkiem 5-10 kropli świeżego soku cytrynowego. Kontynuować leczenie profilaktyczne. Całą kurację można przerwać po 2 tygodniach, gdyż w zasadzie groźba kataru siennego została w ten sposób oddalona.</p>
-<p><strong>Kurcze mięśni</strong>  </p>
-<p>Przyłożyć do miejsc bolesnych zimne kompresy z roztworu wody i octu jabłkowego w równych częściach. Wodę można zastąpić wywarem z melisy.</p>
-<p><strong>Liszajec</strong>  </p>
-<p>Gdy pokażą się pryszcze, na krosty stosować okłady z gazy namoczonej octem jabłkowym. Po 2-3 dniach liszajec zniknie. <strong>UWAGA !</strong> Liszajec jest zakaźną chorobą skórną.</p>
-<p><strong>Migdałki</strong>  </p>
-<p>Chore migdałki leczy się w ciągu 12 godzin płucząc co godzinę gardło roztworem 1 łyżki octu jabłkowego i 1 łyżki miodu wymieszanych w 1 szklance przegotowanej wody.</p>
-<p><strong>Na niepokój i lęki</strong>  </p>
-<p>Codziennie po przebudzeniu zażywać 2 łyżeczki octu jabłkowego z naparem z tarniny lub połową szklanki wody. Brać przez 3 tygodnie w ciągu miesiąca od dnia nowiu księżyca. Dlaczego od nowiu? Ponieważ ludowa medycyna uważa światło księżyca za powodujące lęki, w odróżnieniu od światła słonecznego powodującego zadowolenie.</p>
-<p><strong>Nudności, mdłości</strong>  </p>
-<p>Gdy zaczną się nudności, zaleca się wypić roztwór 1 łyżeczki octu jabłkowego na 1/2 szklanki przegotowanej wody. Gdy nudności są spowodowane przez ciążę, wypić rano po przebudzeniu 1 łyżeczkę octu jabłkowego z 1/2 szklanki wody mineralnej i zjeść suchy biszkopt (suchar). Jeżeli nudność występuje po każdym posiłku, należy po jedzeniu wypić 1 łyżeczkę octu jabłkowego z 1/2 szklanki naparu z melisy.</p>
-<p><strong>Oparzenia</strong>  </p>
-<p>Aby uniknąć pęcherzy, należy możliwie najszybciej nasycić oparzone miejsce czystym octem jabłkowym. Stosować także przy oparzeniach słonecznych.</p>
-<p><strong>Pęknięcia skóry</strong>  </p>
-<p>Nie zmywać mydłem. Do chorego miejsca przyłożyć mieszaninę z równych części octu jabłkowego, gliceryny i z wywaru lub soku z korzenia łopianu. Mieszaninę przygotować ponownie po 2 dniach i stosować do zabliźnienia rany.</p>
-<p><strong>Pokrzywka</strong>  </p>
-<p>Z chwilą wystąpienia objawów, popijać co godzinę przez 3 godziny 1 łyżeczkę octu jabłkowego z 1/4 szklanki wody mineralnej. Dzieciom podawać połowę tej porcji. Miejsca dotkniete pokrzywką zwilżać roztworem wywaru ze świeżych lub suszonych pokrzyw (1 litr wody na garść pokrzyw, odparować wodę) z 3 łyżkami octu jabłkowego. Ostudzić, smarować wielokrotnie.</p>
-<p><strong>Rana</strong>  </p>
-<p>Zmyć ranę roztworem z octu jabłkowego i naparu z kwiatów bzu czarnego w równych ilościach. Przyłożyć kompres z tego roztworu.</p>
-<p><strong>Rana cięta</strong>  </p>
-<p>Oczyścić ranę roztworem złozonym w 75% z octu jabłkowego i w 25% z wody solonej. Polewać powoli ranę aż do usunięcia wszystkich nieczystości. Przyłożyć do rany płatek kwiatu lilii białej nasiakniętej octem jabłkowym. Przykryć gazą i zrobić opatrunek. Zamiast płatka lilii można przyłożyć warstwę gazy nasączonej octem jabłkowym.</p>
-<p><strong>Swędzenie głowy</strong>  </p>
-<p>Czesać się grzebieniem moczonym w roztworze 1 łyżeczki octu jabłkowego na 1 szklankę wody.</p>
-<p><strong>Trawienie niedobre</strong>  </p>
-<p>Po spożyciu posiłku o dużej zawartości białka i tłuszczów zaleca się wypić 1 łyżkę octu jabłkowego z 1/4 szklanki wody gazowanej. W przypadku niestrawności spowodowanej nieświeżym produktem pić 1 łyżkę octu jabłkowego w 1/4 szklance wody.</p>
-<p><strong>Ukąszenie owada</strong>  </p>
-<p>Przyłożyć okład z octu jabłkowego. Po ulotnieniu się octu należy okład powtórzyć.</p>
-<p><strong>Wrażliwość<br>na zimno</strong>  </p>
-<p>Zaleca się hartowanie organizmu przez branie 2-3 razy w tygodniu kapieli w ciepłej wodzie z dodatkiem 1 litra octu jabłkowego i 1 kg soli morskiej. Ponadto należy codziennie rano brać prysznic naprzemian z wody ciepłej i zimnej. Natrzeć ciało octem jabłkowym i ubrać się. Po kilku dniach takiego hartowania poprawi się krążenie krwi i zniknie wrażliwość na zimno.</p>
-<p><strong>Zwichnięcia</strong>  </p>
-<p>Sporządzić mazidło z 2 łyżeczek octu jabłkowego, 2 łyżeczek wywaru z tymianku, 1 łyżeczki esencji terpentynowej i 1 żółtka. Wymieszać jak emulsję i masować zbolałe miejsce. Preparat ten może być stosowany w przypadkach bólów mięśniowych z powodu przeziębienia lub dużego wysiłku. Zalecana jest również glinka zmieszana z octem jabłkowym.</p>
-<p><strong>Żylaki</strong>  </p>
-<p>Rano masować nogi ruchem do góry, stosując roztwór z wywaru liści winogrona czerwonego (1 litr wody na garść liści) i octu jabłkowego w proporcji 1:3. Wieczorem popijać 1 łyżeczkę octu jabłkowego z 1/2 szklanki przegotowanej wody.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Angina</strong></th>
+<th>🟦</th>
+<th>2 łyżeczki octu jabłkowego i 2 łyżeczki miodu wymieszać w 1/2 szklanki ciepłej, przegotowanej wody. Płukać gardło bardzo powoli, wypijając kilka łyżeczek tej mieszanki co kilka minut bardzo powoli połykając. Powtarzać płukanie 4 razy dziennie. W przypadku wrażliwego, delikatnego gardła (np. u młodzieży do 15 roku życia) zaleca się płukanie rano i wieczorem i tylko po 1 łyżeczce octu jabłkowego z dodatkiem 1 łyżeczki miodu i 3 łyżeczek ciepławej wody. Połykanie powinno być bardzo powolne.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Astma</strong></th>
+<th>🟦</th>
+<th>Nacierać klatkę piersiową czystym octem jabłkowym, lub jeżeli naskórek jest kruchy, zmieszanym w równej części z naparem kwiatu lawendy. Płynu tego też można używać do okładów na klatke piersiową i plecy. Najlepiej do tego celu nadaje się lniana ściereczka. Stopy i golenie należy owinąć suchym ręcznikiem, szalem albo chustą wełnianą. To leczenie może być stosowane w chwilach kryzysu i na początku ataku duszności.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Bezsenność</strong></th>
+<th>🟦</th>
+<th>Po posiłku rano i wieczorem pić 2 łyżeczki octu jabłkowego z 2 łyżeczkami miodu wymieszanymi w 1/2 szklanki ciepłej, przegotowanej wody.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Bóle głowy</strong></th>
+<th>🟦</th>
+<th>Przyłożyć na czoło kompres z gazy namoczonej w roztworze wodnym - 1/2 szklanki zimnej wody, 2 łyżeczki octu jabłkowego i 2 łyżeczki miodu. Zmienić okład, gdy się nagrzeje. Taki kompres można również przyłożyć na kark.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Dermatozy</strong></th>
+<th>🟦</th>
+<th>Choroby skórne suche ze złuszczaniem się lub lekko ociekające. Nie przemywać mydłem. Miejsca chore myć roztworem złożonym z 1/3 octu jabłkowego, 1/3 wywaru z korzenia łopianu i 1/3 oleju z migdałów słodkich lub oliwy z oliwek. Wszystko powinno być dobrze wymieszane. Kawałkiem gazy wklepać w chorą skórę. Po osuszeniu przyłożyc trochę kremu witaminowego. Zabieg powtarzać rano i wieczorem.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Kaszel</strong></th>
+<th>🟦</th>
+<th>Brać co 2 godziny 1 łyżeczkę syropu o składzie - świeży sok z 1/2 cytryny z taką samą ilością octu jabłkowego, 1 łyżka miodu akacjowego i 1 łyżeczka gliceryny. Wymieszać do uzyskania syropu, który okaże się bardzo smaczny. Mieszanina taka winna zostać zużyta w ciągu 14 godzin. W przypadku silnego kaszlu należy zażywać 1 łyżkę syropu co 2 godziny w ciągu całego dnia, a w przypadku napadu kaszlu także w nocy. Dzieci powyżej lat 2 mogą zażywać ten syrop co godzinę ale w zmniejszonej ilości (1/4 łyżeczki 3 razy co godzinę rano i podobnie po południu. Syrop ten jest bardzo cenny w przypadku zapalenia tchawicy i kokluszu, gdyż uspakaja ataki kaszlu.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Katar sienny</strong></th>
+<th>🟦</th>
+<th>Alergiczny. Profilaktycznie można używać 1 łyżeczkę miodu rozmarynowego lub tymiankowego przed posiłkami. Wieczorem przed snem wypić mieszankę 2 łyżeczek miodu akacjowego z 1 łyżeczką octu jabłkowego i odrobina wody mineralnej. Po 2,5 miesiącach zaleca się popijać codziennie 1 szklankę wody mineralnej z 2 łyżeczkami miodu i 2 łyżeczkami octu jabłkowego z dodatkiem 5-10 kropli świeżego soku cytrynowego. Kontynuować leczenie profilaktyczne. Całą kurację można przerwać po 2 tygodniach, gdyż w zasadzie groźba kataru siennego została w ten sposób oddalona.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Kurcze mięśni</strong></th>
+<th>🟦</th>
+<th>Przyłożyć do miejsc bolesnych zimne kompresy z roztworu wody i octu jabłkowego w równych częściach. Wodę można zastąpić wywarem z melisy.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Liszajec</strong></th>
+<th>🟦</th>
+<th>Gdy pokażą się pryszcze, na krosty stosować okłady z gazy namoczonej octem jabłkowym. Po 2-3 dniach liszajec zniknie. <strong>UWAGA !</strong> Liszajec jest zakaźną chorobą skórną.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Migdałki</strong></th>
+<th>🟦</th>
+<th>Chore migdałki leczy się w ciągu 12 godzin płucząc co godzinę gardło roztworem 1 łyżki octu jabłkowego i 1 łyżki miodu wymieszanych w 1 szklance przegotowanej wody.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Na niepokój i lęki</strong></th>
+<th>🟦</th>
+<th>Codziennie po przebudzeniu zażywać 2 łyżeczki octu jabłkowego z naparem z tarniny lub połową szklanki wody. Brać przez 3 tygodnie w ciągu miesiąca od dnia nowiu księżyca. Dlaczego od nowiu? Ponieważ ludowa medycyna uważa światło księżyca za powodujące lęki, w odróżnieniu od światła słonecznego powodującego zadowolenie.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Nudności, mdłości</strong></th>
+<th>🟦</th>
+<th>Gdy zaczną się nudności, zaleca się wypić roztwór 1 łyżeczki octu jabłkowego na 1/2 szklanki przegotowanej wody. Gdy nudności są spowodowane przez ciążę, wypić rano po przebudzeniu 1 łyżeczkę octu jabłkowego z 1/2 szklanki wody mineralnej i zjeść suchy biszkopt (suchar). Jeżeli nudność występuje po każdym posiłku, należy po jedzeniu wypić 1 łyżeczkę octu jabłkowego z 1/2 szklanki naparu z melisy.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oparzenia</strong></th>
+<th>🟦</th>
+<th>Aby uniknąć pęcherzy, należy możliwie najszybciej nasycić oparzone miejsce czystym octem jabłkowym. Stosować także przy oparzeniach słonecznych.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Pęknięcia skóry</strong></th>
+<th>🟦</th>
+<th>Nie zmywać mydłem. Do chorego miejsca przyłożyć mieszaninę z równych części octu jabłkowego, gliceryny i z wywaru lub soku z korzenia łopianu. Mieszaninę przygotować ponownie po 2 dniach i stosować do zabliźnienia rany.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Pokrzywka</strong></th>
+<th>🟦</th>
+<th>Z chwilą wystąpienia objawów, popijać co godzinę przez 3 godziny 1 łyżeczkę octu jabłkowego z 1/4 szklanki wody mineralnej. Dzieciom podawać połowę tej porcji. Miejsca dotkniete pokrzywką zwilżać roztworem wywaru ze świeżych lub suszonych pokrzyw (1 litr wody na garść pokrzyw, odparować wodę) z 3 łyżkami octu jabłkowego. Ostudzić, smarować wielokrotnie.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Rana</strong></th>
+<th>🟦</th>
+<th>Zmyć ranę roztworem z octu jabłkowego i naparu z kwiatów bzu czarnego w równych ilościach. Przyłożyć kompres z tego roztworu.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Rana cięta</strong></th>
+<th>🟦</th>
+<th>Oczyścić ranę roztworem złozonym w 75% z octu jabłkowego i w 25% z wody solonej. Polewać powoli ranę aż do usunięcia wszystkich nieczystości. Przyłożyć do rany płatek kwiatu lilii białej nasiakniętej octem jabłkowym. Przykryć gazą i zrobić opatrunek. Zamiast płatka lilii można przyłożyć warstwę gazy nasączonej octem jabłkowym.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Swędzenie głowy</strong></th>
+<th>🟦</th>
+<th>Czesać się grzebieniem moczonym w roztworze 1 łyżeczki octu jabłkowego na 1 szklankę wody.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Trawienie niedobre</strong></th>
+<th>🟦</th>
+<th>Po spożyciu posiłku o dużej zawartości białka i tłuszczów zaleca się wypić 1 łyżkę octu jabłkowego z 1/4 szklanki wody gazowanej. W przypadku niestrawności spowodowanej nieświeżym produktem pić 1 łyżkę octu jabłkowego w 1/4 szklance wody.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Ukąszenie owada</strong></th>
+<th>🟦</th>
+<th>Przyłożyć okład z octu jabłkowego. Po ulotnieniu się octu należy okład powtórzyć.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Wrażliwość<br>na zimno</strong></th>
+<th>🟦</th>
+<th>Zaleca się hartowanie organizmu przez branie 2-3 razy w tygodniu kapieli w ciepłej wodzie z dodatkiem 1 litra octu jabłkowego i 1 kg soli morskiej. Ponadto należy codziennie rano brać prysznic naprzemian z wody ciepłej i zimnej. Natrzeć ciało octem jabłkowym i ubrać się. Po kilku dniach takiego hartowania poprawi się krążenie krwi i zniknie wrażliwość na zimno.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Zwichnięcia</strong></th>
+<th>🟦</th>
+<th>Sporządzić mazidło z 2 łyżeczek octu jabłkowego, 2 łyżeczek wywaru z tymianku, 1 łyżeczki esencji terpentynowej i 1 żółtka. Wymieszać jak emulsję i masować zbolałe miejsce. Preparat ten może być stosowany w przypadkach bólów mięśniowych z powodu przeziębienia lub dużego wysiłku. Zalecana jest również glinka zmieszana z octem jabłkowym.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Żylaki</strong></th>
+<th>🟦</th>
+<th>Rano masować nogi ruchem do góry, stosując roztwór z wywaru liści winogrona czerwonego (1 litr wody na garść liści) i octu jabłkowego w proporcji 1:3. Wieczorem popijać 1 łyżeczkę octu jabłkowego z 1/2 szklanki przegotowanej wody.</th>
+</tr>
+</thead>
+</table></div>
 <p>Inne zastosowanie dla wszystkich:</p>
-<p><strong>Napój pobudzający łaknienie</strong>  </p>
-<p>50 g octu jabłkowego, 125 g miodu tymiankowego lub lawendowego, 1 łyżeczka cynamonu, 1 łyżeczka esencji chinowej. Macerować (pozostawić do &quot;przegryzienia&quot; się) 14 godzin. Popijać 1 łyżeczkę na 1/4 szklanki wody przed każdym posiłkiem. Dzieciom podawać 1/2 łyżeczki na 1/8 szklanki wody.</p>
-<p><strong>Płyn wzmacniający</strong>  </p>
-<p>do przemywania skóry. 1/2 szklanki octu jabłkowego, 1/2 szklanki naparu z melisy, 1/2 flakonu wody kolońskiej i 1/2 szklanki wody mineralnej. Wymieszać i obmywać skórę rano. Po 10 dniach mieszanka traci właściwości lecznicze.</p>
-<p><strong>Płyn do przemywania</strong>  </p>
-<p>dla sportowców. 1 szklanka wywaru z tymianku, 1 szklanka wywaru z lawendy i 1 szklanka przegotowanej wody. Wymieszać. Lekko nacierać ciało po wysiłkach fizycznych, w szczególności w czasie upałów i nadmiernego pocenia się.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Napój pobudzający łaknienie</strong></th>
+<th>🟦</th>
+<th>50 g octu jabłkowego, 125 g miodu tymiankowego lub lawendowego, 1 łyżeczka cynamonu, 1 łyżeczka esencji chinowej. Macerować (pozostawić do &quot;przegryzienia&quot; się) 14 godzin. Popijać 1 łyżeczkę na 1/4 szklanki wody przed każdym posiłkiem. Dzieciom podawać 1/2 łyżeczki na 1/8 szklanki wody.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Płyn wzmacniający</strong></th>
+<th>🟦</th>
+<th>do przemywania skóry. 1/2 szklanki octu jabłkowego, 1/2 szklanki naparu z melisy, 1/2 flakonu wody kolońskiej i 1/2 szklanki wody mineralnej. Wymieszać i obmywać skórę rano. Po 10 dniach mieszanka traci właściwości lecznicze.</th>
+</tr>
+</thead>
+</table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Płyn do przemywania</strong></th>
+<th>🟦</th>
+<th>dla sportowców. 1 szklanka wywaru z tymianku, 1 szklanka wywaru z lawendy i 1 szklanka przegotowanej wody. Wymieszać. Lekko nacierać ciało po wysiłkach fizycznych, w szczególności w czasie upałów i nadmiernego pocenia się.</th>
+</tr>
+</thead>
+</table></div>
 <p>O czym jeszcze pisze doktor Górnicka. Człowiek starszy potrzebuje dwukrotnie więcej potasu w postaci miodu, świeżych warzyw i owoców, jabłek lub octu jabłkowego. Dzienne zapotrzebowanie na potas można pokrywać jedząc paprykę, popijając ocet jabłkowy z miodem i przegotowaną wodą, popijając soki - winogronowy, jabłkowy czy z czarnej porzeczki. Ocet jabłkowy ma wszelkie właściwości lecznicze jabłka. Dozowanie octu jabłkowego zależy od stanu chorobowego. Osoby nie znoszące octu jabłkowego mogą go zastapić moszczem z jabłek. Dobroczynny wpływ octu jabłkowego na organizm wiąże się z jego właściwościami zakwaszającymi. Ocet jabłkowy zakwasza krew i wyrównuje ciśnienie tętnicze (obniża je). Gdy zasadowość krwi rośnie staje się ona gęstsza i łatwiej robią się skrzepy. Wystepują wówczas zawroty głowy, dolegliwości żółciowe, nudności, szum w uszach i zakłócenia słuchu.</p>
 <p>Ocet jabłkowy neutralizuje szkodliwe działanie spożytego w nadmiarze białka. Przy niedoborze węglowodanów energii mięśniom dostarczają białka, dając przy tym odpady azotowe, które organizm musi wydalić. Nadmierne spożywanie białek jest toksyczne dla organizmu. nadmierne spożywanie białka powoduje również powstawanie kamieni w nerkach i pęcherzu moczowym.</p>
 <p><strong>Przeciwskazania.</strong> Ocet jabłkowy nie jest wskazany dla wrzodowców i przy zakazie stosowania produktów spożywczych kwaśnych. W takich przypadkach ewentualne dawkowanie produktu należy do decyzji lekarza.</p>
-<p><strong>Kwas buraczany</strong></p>
+<p class="rozdzial" id="r-2"><strong>Kwas buraczany</strong></p>
 <p>Przygotowujemy tuż przed okresem wzmożonych infekcji dróg oddechowych. W okresie choroby pijemy kwas w ilości 1-2 szklanek dziennie.</p>
 <p>1 kilogram buraków, obranych i opłukanych, kroimy w drobne plastry lub ćwiartki, wkładamy do kamiennego garnka i zalewamy letnią przegotowaną wodą. Dodajemy 2 łyżeczki cukru, na wierzchu kładziemy suchą kromke chleba i przyciskamy talerzykiem. Odstawiamy na 5-7 dni. Następnie zlewamy do butelek i przechowujemy w suchym i ciemnym miejscu.</p>
 <p>Jeśli zostanie nam kwasu po ustąpieniu infekcji możemy go zużyć do ugotowania doskonałego barszczu.</p>
-<p><strong>Domowy kefir</strong></p>
+<p class="rozdzial" id="r-3"><strong>Domowy kefir</strong></p>
 <p>Całkowicie zapomniany, doskonały i zdrowy napój. Jest całkowicie przyswajany przez organizm w przeciwieństwie do słodkiego mleka. Przepis na domowy kefir pochodzi od ojca Grande, zielarza i propagatora kuchni staropolskiej. Pity szklankę dziennie kefir doskonale odnawia naszą florę bakteryjną w jelitach, poprawia trawienie i jest bardzo pomocny w leczeniu owrzodzenia układu pokarmowego. Pić go mogą wszyscy. Od małego dziecka po wiekowego starca.</p>
 <p>Kupiony w sklepie zwykły kefir (jogurt) bez żadnych dodatków (cukier, owoce) o objętości szklanki (250 ml) wlewamy do kamiennego garnka. Mleko gotujemy na wolnym ogniu przez pół godziny, by odparowało. Pozostawiamy do całkowitego ostudzenia i następnie wlewamy do garnka z kefirem. Należy przy tym uważać, by nie wlewać &quot;kożucha&quot; gdyż jest to zbędny tłuszcz, a poza tym tworzyć będzie &quot;paprochy&quot; podobne do białego, cienkiego, wymoczonego papieru. Mieszamy to wszystko drewnianą łyżką. Przykrywamy talerzykiem lub pokrywką i odstawiamy pozostawiając w temperaturze pokojowej. Kefir będzie gotowy następnego dnia. Jeśli po pewnym czasie włożymy garnek do lodówki, to na drugi dzień mamy gęsty jak śmietana własny kefir. Przed użyciem całość mieszamy drewnianą &quot;firlotką&quot; lub innym przyrządem do &quot;zbełtania&quot; i rozlewamy do szklanek. Schłodzony i dobrze &quot;rozbełtany&quot; smakuje wyśmienicie, ma lekko kwaskowy smak i kto raz go spróbuje nie spojrzy więcej na śmietanę. Należy pamiętać, by w garnku pozostawić co najmniej szklankę naszego kefiru, który posłuży do produkcji następnego. Teraz wystarczy raz dziennie kupić mleko, zagotować i powtórzyć czynności.</p>
 <p>Irena Gumowska w swej książce &quot;Czy wiesz co jesz?&quot; pisze: Po jednym dniu dojrzewania kefir jest &quot;słaby&quot; (ma 0,2% alkoholu) i działa lekko przeczyszczająco. Po dwóch dniach kefir jest &quot;średni, ma do 0,4% alkoholu i... nie działa, a po 3 dniach ma 0,6% alkoholu i właściwości tak zapierające, że podaje się go chorym na przewlekłe nieżyty jelitowe (biegunki).</p>
-<p><strong>Olej słonecznikowy</strong></p>
+<p class="rozdzial" id="r-4"><strong>Olej słonecznikowy</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/slonecznik.gif" alt="Kilka kwitnących słoneczników z liśćmi." title="Opis AI: Kilka kwitnących słoneczników z liśćmi." loading="lazy" decoding="async"></p>
 <p>Tego specyfiku nie musimy wytwarzać sami, jest w sklepach. Zwrócić musimy tylko uwagę na warunki w jakich go wytworzono. Przede wszystkim musi być tłoczony na zimno i najlepiej z pierwszego tłoczenia i nie rafinowany. Oprócz doskonałych walorów smakowych ma także zastosowanie w niekonwencjonalnej medycynie do odtruwania organizmu, a konkretniej do usuwania z nas toksyn, które znajdują się w ślinie. Prawie wszyscy proponują tak zwane &quot;ssanie&quot; oleju.</p>
 <p>Jest to prosty zabieg, wykonywany &quot;na czczo&quot;, polegający na trzymaniu w ustach 1/2 łyżki oleju przez 25-30 minut. Olej należy trzymać w ustach mieszając go językiem ze śliną. Uwaga! nie wolno go połykać. Na początku olej będzie gęsty, ale już po kilku minutach stanie się rzadki i nabierze białego koloru. Po upływie 30 minut olej należy koniecznie wypluć i przepłukać usta.</p>
 <p>Toksyny znajdujące się w ślinie &quot;przechodzą&quot; do oleju i jest on skondensową mieszaniną trucizn. Profilaktycznie zabieg stosujemy raz dziennie (im dłuższy okres czasu tym lepiej), leczniczo dwa razy dziennie - na czczo i wieczorem przed snem, co najmniej 3 godziny po ostatnim posiłku. Nie jest nieprzyjemny, w ustach czujemy smak rozgryzanych ziaren słonecznika. Działanie lecznicze poznamy po zachowaniu naszego organizmu - będziemy się lepiej czuli. Przypominam, że wszelkie leczenie lekami naturalnymi wymaga od nas cierpliwości i wytrwałości, a przede wszystkim systematyczności. To nie jest &quot;chemia&quot;, która działa natychmiast. Wyniki są widoczne po miesiącach, a nawet po latach. Jak sądzę nasze zdrowie jest tego warte.</p>
-<p><strong>Nie wyrzucać skorupek od jaj</strong></p>
+<p class="rozdzial" id="r-5"><strong>Nie wyrzucać skorupek od jaj</strong></p>
 <p>W leczeniu osteoporozy pomaga skorupka jajka, traktowana bez mała przez wszystkich jako bezużyteczny śmieć. W skorupce jajka znajduje się wapń, który jest przyswajany przez organizm w 90%. Oprócz węglanu wapnia w skorupce znajdują się wszystkie niezbędne dla organizmu mikroelementy - miedź, fluor, żelazo, mangan, molibden, siarka, krzem, cynk i inne śladowe elementy, których jest w sumie 27. Skład skorupki jest podobny do składu naszych zębów i kości. Można je stosować przy łamliwości paznokci i włosów, krwawieniach dziąseł, zaparciach, pobudliwości, bezsenności, chronicznych katarach i astmie. Jak przygotować i jak stosować:</p>
 <p>Skorupki jajka zanurzyć na 5 minut we wrzątku i pozostawić do wyschnięcia. Oddzielić białą błonkę i wyrzucić. Pozostałe skorupki zmielić w młynku do kawy na proszek. Proszek jest bez smaku i bez zapachu. Używać 0,5-1,0 g (na &quot;czubku noża&quot;) dziennie. Można spożywać z sokiem z cytryny lub dodawać do kasz czy twarogów. Kurację skorupką jajka należy przeprowadzać 2 razy w roku (w styczniu i w listopadzie) przez 30 dni stosując 1-2 g dziennie.</p>
 <p>Skorupka jajka nie tylko wzmacnia tkankę kostną ale także usuwa z organizmu pierwiastki promieniotwórcze. W leczeniu i profilaktyce osteoporozy może przynieść nieoceniony pożytek, a co najważniejsze nie powoduje żadnych skutków ubocznych. W czerwcu poddałem się badaniom i lekarz nie mógł uwierzyć, że mając 57 lat, mam tylko 0,4% ubytku masy kostnej.</p>
-<p><strong>Przyprawy to też leki</strong></p>
+<p class="rozdzial" id="r-6"><strong>Przyprawy to też leki</strong></p>
 <p>Przyprawy (korzenie, kora, nasiona lub inne części roślin) mają oprócz smakowych, również właściwości trawienno-lecznicze. Ułatwiają trawienie, a zarazem odtruwają organizm, lecząc go. Należy stosować je z umiarem, gdyż przedawkowane mogą drażnić nerki, wątrobę i błonę śluzową układu pokarmowego. W naszym klimacie stosuje się ponad 50 przypraw. Dzięki przyprawom jedzenie staje się mniej monotonne, wzmagają one wydzielanie soków trawiennych, co niekiedy wywołuje już sam ich zapach i widok. Wymieniam tylko najbardziej popularne i najłatwiej dostępne.</p>
-<p><strong>Bazylia</strong>  </p>
-<p>Wzmacnia i pobudza czynności żołądka, znosi nadmierną fermentację i wzdęcia, działa rozkurczowo, moczopędnie, mlekopędnie, pobudza serce i nerwy. Stosuje się do zup rybnych, bulionów, rosołków, ale wskazane jest, by nie dodawać wówczas innych przypraw, aby nie popsuć smaku.</p>
-<p><strong>Cebula</strong>  </p>
-<p>Obniża ciśnienie krwi, działa wykrztuśnie, jest nieodzownym środkiem trawiennym przy wszystkich ciężej strawnych rodzajach mięs (zawsze z pieprzem!), również koniecznym dodatkiem do surówek. Surowa jest znakomitym środkiem do wewnętrznej dezynfekcji. Komu trawienie cebuli nastręcza trudności, powinien do niej dodawać kminek, majeranek, prawdziwy lub ziołowy pieprz i raczej leczyć żołądek niż odstawiać cebulę.</p>
-<p><strong>Chrzan</strong>  </p>
-<p>Pobudza czynności żołądka i działa przeciwbólowo, moczopędnie i przeciwreumatycznie, w okładach drażni skórę aż do bąbli, ale w kilkuminutowych okładach jest najlepszym zabiegiem przeciwreumatycznym. Chrzanu nigdy nie należy gotować, ale podawać na surowo do mięs i wędlin na zimno, do ryb i innych przystawek.</p>
-<p><strong>Cytryna</strong>  </p>
-<p>Skórka cytryny (żółta i biały miąższ) należy do nielicznej grupy środków obniżających ćiśnienie krwi w sposób leczniczy, a nie wyłącznie objawowy. Do tej grupy należą jedynie czosnej, cebula, rokitnik, żurawiny, a z ziół liście barwnika i ziele jemioły. Można bez obawy podawać nawet zniszczonym organizmom, żadnych skutków ubocznych obawiać się nie trzeba.</p>
-<p><strong>Czarnuszka</strong>  </p>
-<p>Działa trawiennie, pobudza czynności żołądka, działa mlekopędnie, odżywczo i rozpędza złogi reumatyczne. Wraz z nasieniem kopru, kminku i anyżu stanowi najlepszy środek przy wszystkich kłopotach laktacyjnych u matek karmiących.</p>
-<p><strong>Cząber</strong>  </p>
-<p>Działa trawiennie, pobudza czynności żołądka, działa ściągająco i moczopędnie. Ziele sproszkowane stosujemy do serów topionych i wędzonych oraz do sosów mięsnych, korniszonów i ogórków. Bułgarska czubryca ma takie samo działanie, ale jest znacznie mocniejsza.</p>
-<p><strong>Czosnek</strong>  </p>
-<p>Obniża ciśnienie krwi i jest jednym z najsilniejszych środków bakteriobójczych (prawie zawsze wystarcza sam zapach) i w tym charakterze zażywany doustnie spisuje się jak najlepszy antybiotyk, ponadto działa wykrztuśnie i przeciwrobaczo. W zastosowaniu zewnętrznym wywołuje przekrwienie lokalne (potrzebne przy reumatyzmie) oraz działa bakteriobójczo.</p>
-<hr>
-<p>Stara recepta na zapalenie płuc - cztery średnie ziemniaki (wydłubać oczka) skroić bez obierania, dodać 2 łyżki siemienia lnianego i 1 zgniecioną główkę czosnku. Zalać to wszystko 5 szklankami wody i gotować 20 minut. Uzyskanym wywarem robiono choremu lewatywę. Podobno jedna wystarczała.</p>
-<p><strong>Dynia</strong>  </p>
-<p>Ziarno jest najlepszym środkiem przeciwrobaczym w naszym klimacie przeciw soliterowi (tasiemcowi), tak bezpieczne, że można je podawać nawet dzieciom. Miąższ dyni starty na surowo z jabłkiem i przyprawiony octem jabłkowym i miodem leczy białkomocz i obrzęki nerczycowe u dzieci.</p>
-<p><strong>Estragon</strong>  </p>
-<p>Jest środkiem wzmacniającym żołądek, stosuje się go w naparach przy nerwicy żołądka i stanach nieżytowych dróg trawiennych. Sproszkowane suche ziele jest dobrą przyprawą trawienną do zup i sosów, a ze względu na smak można je stosować tam, gdzie zdrowie pacjenta wymaga diety bezsolnej.</p>
-<p><strong>Jałowiec</strong>  </p>
-<p>Znakomity dodatek do kapusty dla osób, którym trudno ja trawić. Dodaje się 1 łyżeczkę na osobę na 10 minut przed końcem gotowania, zanim doda się kminek lub majeranek. Żucie pojedynczych jagód (przedawkowania można się nie obawiać) kilka sztuk, kilka razy dziennie jest skuteczne przy cuchnącym oddechu, zgadze, artretyzmie, reumatyzmie i nieżytach dróg moczowych.</p>
-<p><strong>Kminek</strong>  </p>
-<p>Likwiduje wzdęcia, jest środkiem wiatrochłonnym, działa pobudzająco na serce i nerwy, z lekka moczopędnie i mlekopędnie, jest więc wskazany dla karmiących matek. Sypiemy go odważnie do serów, sosów mięsnych, do bigosu i innych potraw z kapusty, a przede wszystkim dodajemy go do razowego chleba. Zmielony z majerankiem w równych ilościach daje znakomity, doraźny środek przy wzdęciach, zgadze i podobnym sensacjom, które mogą się pojawić po jedzeniu. Bierze się wówczas pół łyżeczki takiego proszku i popija zimną wodą, a jeśli jeden taki zabieg okaże się nieskuteczny, możemy go powtórzyć dowolną ilość razy.</p>
-<p><strong>Kolendra</strong>  </p>
-<p>Dobry środek trawienny, przeciwskurczowy, odżywczy i konserwujący. W prostym użytku kuchennym wystarczy zmielić jedną łyżeczkę na osobę i dosypać do sosu mięsnego, aby daną potrawę zmienić na smaczną i lekkostrawną.</p>
-<p><strong>Koper</strong>  </p>
-<p>Nasienie działa trwawiennie, pobudza czynności żołądka, ma działanie wykrztuśne, wiatrochłonne i moczopędne. Zarówno nasienie jak i nać sa niezbędnymi dodatkami do ogórków świeżych i kiszonych.</p>
-<p><strong>Majeranek</strong>  </p>
-<p>Działa trawiennie, wykrztusnie, przeciwskurczowo, przeciwzapalnie, likwiduje wzdęcia, działa lekko rozgrzewająco. W kuchni majeranek stosujemy do sosów, grochu, grochówek, mięs pieczonych i duszonych. Dodajemy zawsze pod koniec gotowania. Napar z łyżki tego ziela na szklankę wrzątku możemy podać przy pierwszych objawach przeziębienia.</p>
-<p><strong>Papryka</strong>  </p>
-<p>Oczywiście ta w proszku tzw. ostra. Ułatwia trawienie, pobudza zołądek do wydzielania soków trawiennych, działa lekko moczopędnie i jest doskonałym dostawcą witamin A, B i C.</p>
-<p><strong>Pietruszka</strong>  </p>
-<p>Korzeń ma działanie moczopędne, napotne i trawienne, należy go koniecznie dodawać do surówek przy chorobach przewodu moczowego. Liść ma tylko działanie moczopędne i trawienne, ale jest za to po chrzanie i czarnej porzeczce największym dostawcą witaminy C.</p>
-<p><strong>Seler</strong>  </p>
-<p>Użyty wewnętrznie działa podobnie jak pietruszka. Nać selera ma bogaty wachlarz witamin i lepiej ją i korzeń jadać na surowo niż wygotowywać w rosole.</p>
-<p><strong>Śliwka węgierka</strong>  </p>
-<p>Śliwki &quot;węgierki&quot; mają znakomite działanie trawienne i rozwalniające, ale tylko suszone. Uwolnione z pestek, rozmoczone śliwki dodajemy do fasoli pod koniec gotowania, co nas zabezpieczy przed jej działaniem wzdymającym. Poza tym suszone śliwki można dodawać do każdego sosu mięsnego i bigosu pod koniec gotowania.</p>
-<p><strong>Tymianek</strong>  </p>
-<p>Pobudza działanie żołądka, serca i nerek, działa wykrztuśnie, przeciwskurczowo i ściagająco. Ziele można dodawać wszędzie, gdzie stosuje się inne dodatki zielone, a więc do rosołu, bulionu, sosów mięsnych itp.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Bazylia</strong></th>
+<th>Wzmacnia i pobudza czynności żołądka, znosi nadmierną fermentację i wzdęcia, działa rozkurczowo, moczopędnie, mlekopędnie, pobudza serce i nerwy. Stosuje się do zup rybnych, bulionów, rosołków, ale wskazane jest, by nie dodawać wówczas innych przypraw, aby nie popsuć smaku.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Cebula</strong></td>
+<td>Obniża ciśnienie krwi, działa wykrztuśnie, jest nieodzownym środkiem trawiennym przy wszystkich ciężej strawnych rodzajach mięs (zawsze z pieprzem!), również koniecznym dodatkiem do surówek. Surowa jest znakomitym środkiem do wewnętrznej dezynfekcji. Komu trawienie cebuli nastręcza trudności, powinien do niej dodawać kminek, majeranek, prawdziwy lub ziołowy pieprz i raczej leczyć żołądek niż odstawiać cebulę.</td>
+</tr>
+<tr>
+<td><strong>Chrzan</strong></td>
+<td>Pobudza czynności żołądka i działa przeciwbólowo, moczopędnie i przeciwreumatycznie, w okładach drażni skórę aż do bąbli, ale w kilkuminutowych okładach jest najlepszym zabiegiem przeciwreumatycznym. Chrzanu nigdy nie należy gotować, ale podawać na surowo do mięs i wędlin na zimno, do ryb i innych przystawek.</td>
+</tr>
+<tr>
+<td><strong>Cytryna</strong></td>
+<td>Skórka cytryny (żółta i biały miąższ) należy do nielicznej grupy środków obniżających ćiśnienie krwi w sposób leczniczy, a nie wyłącznie objawowy. Do tej grupy należą jedynie czosnej, cebula, rokitnik, żurawiny, a z ziół liście barwnika i ziele jemioły. Można bez obawy podawać nawet zniszczonym organizmom, żadnych skutków ubocznych obawiać się nie trzeba.</td>
+</tr>
+<tr>
+<td><strong>Czarnuszka</strong></td>
+<td>Działa trawiennie, pobudza czynności żołądka, działa mlekopędnie, odżywczo i rozpędza złogi reumatyczne. Wraz z nasieniem kopru, kminku i anyżu stanowi najlepszy środek przy wszystkich kłopotach laktacyjnych u matek karmiących.</td>
+</tr>
+<tr>
+<td><strong>Cząber</strong></td>
+<td>Działa trawiennie, pobudza czynności żołądka, działa ściągająco i moczopędnie. Ziele sproszkowane stosujemy do serów topionych i wędzonych oraz do sosów mięsnych, korniszonów i ogórków. Bułgarska czubryca ma takie samo działanie, ale jest znacznie mocniejsza.</td>
+</tr>
+<tr>
+<td><strong>Czosnek</strong></td>
+<td>Obniża ciśnienie krwi i jest jednym z najsilniejszych środków bakteriobójczych (prawie zawsze wystarcza sam zapach) i w tym charakterze zażywany doustnie spisuje się jak najlepszy antybiotyk, ponadto działa wykrztuśnie i przeciwrobaczo. W zastosowaniu zewnętrznym wywołuje przekrwienie lokalne (potrzebne przy reumatyzmie) oraz działa bakteriobójczo.<br>---<br>Stara recepta na zapalenie płuc - cztery średnie ziemniaki (wydłubać oczka) skroić bez obierania, dodać 2 łyżki siemienia lnianego i 1 zgniecioną główkę czosnku. Zalać to wszystko 5 szklankami wody i gotować 20 minut. Uzyskanym wywarem robiono choremu lewatywę. Podobno jedna wystarczała.</td>
+</tr>
+<tr>
+<td><strong>Dynia</strong></td>
+<td>Ziarno jest najlepszym środkiem przeciwrobaczym w naszym klimacie przeciw soliterowi (tasiemcowi), tak bezpieczne, że można je podawać nawet dzieciom. Miąższ dyni starty na surowo z jabłkiem i przyprawiony octem jabłkowym i miodem leczy białkomocz i obrzęki nerczycowe u dzieci.</td>
+</tr>
+<tr>
+<td><strong>Estragon</strong></td>
+<td>Jest środkiem wzmacniającym żołądek, stosuje się go w naparach przy nerwicy żołądka i stanach nieżytowych dróg trawiennych. Sproszkowane suche ziele jest dobrą przyprawą trawienną do zup i sosów, a ze względu na smak można je stosować tam, gdzie zdrowie pacjenta wymaga diety bezsolnej.</td>
+</tr>
+<tr>
+<td><strong>Jałowiec</strong></td>
+<td>Znakomity dodatek do kapusty dla osób, którym trudno ja trawić. Dodaje się 1 łyżeczkę na osobę na 10 minut przed końcem gotowania, zanim doda się kminek lub majeranek. Żucie pojedynczych jagód (przedawkowania można się nie obawiać) kilka sztuk, kilka razy dziennie jest skuteczne przy cuchnącym oddechu, zgadze, artretyzmie, reumatyzmie i nieżytach dróg moczowych.</td>
+</tr>
+<tr>
+<td><strong>Kminek</strong></td>
+<td>Likwiduje wzdęcia, jest środkiem wiatrochłonnym, działa pobudzająco na serce i nerwy, z lekka moczopędnie i mlekopędnie, jest więc wskazany dla karmiących matek. Sypiemy go odważnie do serów, sosów mięsnych, do bigosu i innych potraw z kapusty, a przede wszystkim dodajemy go do razowego chleba. Zmielony z majerankiem w równych ilościach daje znakomity, doraźny środek przy wzdęciach, zgadze i podobnym sensacjom, które mogą się pojawić po jedzeniu. Bierze się wówczas pół łyżeczki takiego proszku i popija zimną wodą, a jeśli jeden taki zabieg okaże się nieskuteczny, możemy go powtórzyć dowolną ilość razy.</td>
+</tr>
+<tr>
+<td><strong>Kolendra</strong></td>
+<td>Dobry środek trawienny, przeciwskurczowy, odżywczy i konserwujący. W prostym użytku kuchennym wystarczy zmielić jedną łyżeczkę na osobę i dosypać do sosu mięsnego, aby daną potrawę zmienić na smaczną i lekkostrawną.</td>
+</tr>
+<tr>
+<td><strong>Koper</strong></td>
+<td>Nasienie działa trwawiennie, pobudza czynności żołądka, ma działanie wykrztuśne, wiatrochłonne i moczopędne. Zarówno nasienie jak i nać sa niezbędnymi dodatkami do ogórków świeżych i kiszonych.</td>
+</tr>
+<tr>
+<td><strong>Majeranek</strong></td>
+<td>Działa trawiennie, wykrztusnie, przeciwskurczowo, przeciwzapalnie, likwiduje wzdęcia, działa lekko rozgrzewająco. W kuchni majeranek stosujemy do sosów, grochu, grochówek, mięs pieczonych i duszonych. Dodajemy zawsze pod koniec gotowania. Napar z łyżki tego ziela na szklankę wrzątku możemy podać przy pierwszych objawach przeziębienia.</td>
+</tr>
+<tr>
+<td><strong>Papryka</strong></td>
+<td>Oczywiście ta w proszku tzw. ostra. Ułatwia trawienie, pobudza zołądek do wydzielania soków trawiennych, działa lekko moczopędnie i jest doskonałym dostawcą witamin A, B i C.</td>
+</tr>
+<tr>
+<td><strong>Pietruszka</strong></td>
+<td>Korzeń ma działanie moczopędne, napotne i trawienne, należy go koniecznie dodawać do surówek przy chorobach przewodu moczowego. Liść ma tylko działanie moczopędne i trawienne, ale jest za to po chrzanie i czarnej porzeczce największym dostawcą witaminy C.</td>
+</tr>
+<tr>
+<td><strong>Seler</strong></td>
+<td>Użyty wewnętrznie działa podobnie jak pietruszka. Nać selera ma bogaty wachlarz witamin i lepiej ją i korzeń jadać na surowo niż wygotowywać w rosole.</td>
+</tr>
+<tr>
+<td><strong>Śliwka węgierka</strong></td>
+<td>Śliwki &quot;węgierki&quot; mają znakomite działanie trawienne i rozwalniające, ale tylko suszone. Uwolnione z pestek, rozmoczone śliwki dodajemy do fasoli pod koniec gotowania, co nas zabezpieczy przed jej działaniem wzdymającym. Poza tym suszone śliwki można dodawać do każdego sosu mięsnego i bigosu pod koniec gotowania.</td>
+</tr>
+<tr>
+<td><strong>Tymianek</strong></td>
+<td>Pobudza działanie żołądka, serca i nerek, działa wykrztuśnie, przeciwskurczowo i ściagająco. Ziele można dodawać wszędzie, gdzie stosuje się inne dodatki zielone, a więc do rosołu, bulionu, sosów mięsnych itp.</td>
+</tr>
+</tbody></table></div>
 <p>Niektóre przyprawy zostały pominięte, szczególnie te importowane jak pieprz (pobudza trawienie, ale uwaga na przedawkowanie) czy ziele angielskie (wzmacnia żołądek) gdyż mamy wiele przypraw rodzimych z powodzeniem je zastępujących. Należy je tylko poznać i stosować. Trzeba również pamiętać, że monotonne wyżywienie na równi ze złym trawieniem prowadzą do wielu chorób, których leczenie jest o wiele trudniejsze niż &quot;zwykłych&quot; spraw zakaźnych, na które oczywiście mamy antybiotyki i chemiczne leki &quot;szybkiego reagowania&quot;.</p>
 
   </article>
@@ -177,12 +435,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

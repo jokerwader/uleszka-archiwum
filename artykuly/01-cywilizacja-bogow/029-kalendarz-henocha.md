@@ -140,52 +140,40 @@ A oto kalendarz sprzed potopu przedstawiony graficznie. Różni się od naszego,
 
 **B-3**
 
-30 dni
-
-30 dni
-
-31 dni
-
-30 dni
-
-30 dni
-
-31 dni
-
-30 dni
-
-30 dni
-
-31 dni
-
-30 dni
-
-30 dni
-
-31 dni
-
+30 dni  
 ![](../../zrodlo/webacja/henoch/k01.jpg)
 
+30 dni  
 ![](../../zrodlo/webacja/henoch/k02.jpg)
 
+31 dni  
 ![](../../zrodlo/webacja/henoch/k03.jpg)
 
+30 dni  
 ![](../../zrodlo/webacja/henoch/k04.jpg)
 
+30 dni  
 ![](../../zrodlo/webacja/henoch/k05.jpg)
 
+31 dni  
 ![](../../zrodlo/webacja/henoch/k06.jpg)
 
+30 dni  
 ![](../../zrodlo/webacja/henoch/k07.jpg)
 
+30 dni  
 ![](../../zrodlo/webacja/henoch/k08.jpg)
 
+31 dni  
 ![](../../zrodlo/webacja/henoch/k09.jpg)
 
+30 dni  
 ![](../../zrodlo/webacja/henoch/k10.jpg)
 
+30 dni  
 ![](../../zrodlo/webacja/henoch/k11.jpg)
 
+31 dni  
 ![](../../zrodlo/webacja/henoch/k12.jpg)
 
 **10:8**

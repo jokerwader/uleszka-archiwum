@@ -276,49 +276,13 @@ Plotka, obmowa, polityczna taktyka, ukradkowe ataki, a nawet manipulacje sądów
 
 Poniższa tabelka zawiera nazwy materiałów potrzebnych do budowy akumulatora uznanych jako dobre i złe.
 
-**MATERIAŁY NIEMETALICZNE**
-
-**DOBRE**
-
-**SŁABE LUB TOKSYCZNE**
-
-czysta wełna,  
-surowa bawełna,  
-akryl (polimetakrylan metylu),  
-plastik w postaci styrenu,  
-celotex (sprasowana wełna mineralna),  
-panele z korka naturalnego,  
-wełna szklana (wata szklana),  
-włókno szklane (panele),  
-wełna mineralna,  
-wosk pszczeli,  
-parafina,  
-gleba (ziemia),  
-woda.
-
-drewno,  
-sklejka drewniana,  
-poliuretanowe płyty prasowane (bardzo twarde),  
-organiczne materiały zawierające formaldehydy,  
-azbest  
-i inne toksyczne chemikalia.
-
-**METALE**
-
-**DOBRE**
-
-**SŁABE LUB TOKSYCZNE**
-
-stal (arkusze, blachy),  
-żelazo stal galwanizowana,  
-wełna stalowa,  
-stal nierdzewna,  
-blacha ocynkowana,  
-pewne stopy.
-
-aluminium (arkusze, blachy),  
-ołów,  
-miedź.
+| **MATERIAŁY NIEMETALICZNE** |   |
+| --- | --- |
+| 🟩 **DOBRE** | 🟥 **SŁABE LUB TOKSYCZNE** |
+| czysta wełna,<br>surowa bawełna,<br>akryl (polimetakrylan metylu),<br>plastik w postaci styrenu,<br>celotex (sprasowana wełna mineralna),<br>panele z korka naturalnego,<br>wełna szklana (wata szklana),<br>włókno szklane (panele),<br>wełna mineralna,<br>wosk pszczeli,<br>parafina,<br>gleba (ziemia),<br>woda. | drewno,<br>sklejka drewniana,<br>poliuretanowe płyty prasowane (bardzo twarde),<br>organiczne materiały zawierające formaldehydy,<br>azbest<br>i inne toksyczne chemikalia. |
+| **METALE** |   |
+| 🟩 **DOBRE** | 🟥 **SŁABE LUB TOKSYCZNE** |
+| stal (arkusze, blachy),<br>żelazo stal galwanizowana,<br>wełna stalowa,<br>stal nierdzewna,<br>blacha ocynkowana,<br>pewne stopy. | aluminium (arkusze, blachy),<br>ołów,<br>miedź. |
 
 Były podejmowane próby budowy akumulatora wykonanego jako pudło metalowe zakopanego w żyznej czarnej glebie wolnej od herbicydów i pestycydów. Konstrukcje te przypominały podziemne piwnice lub kopce grobowe. Dlatego też niektórzy autorzy zaznajomieni ze starożytnymi archeologicznymi miejscami spekulowali na temat znajomości wykorzystania życiowej energii w starożytności. Pewne szczególne konstrukcje piwnic ze starożytności czy inne podobne konstrukcje miały charakterystyczne warstwy złożone z gliny lub kamieni o wysokim stopniu zawartości żelaza, pokryte były z zewnątrz innymi warstwami ziemi obfitującymi w związki organiczne lub torf.
 
@@ -816,69 +780,16 @@ en akumulator jest wystarczająco duży, aby w nim usiąść. Zbudowany jest z 6
 
 **A)** Przede wszystkim trzeba wyliczyć sobie rozmiary ścian akumulatora tak, aby pasowały do osobistych potrzeb użytkownika. Dodać ilość materiału niezbędną do "założenia" ścian na siebie. Ściany boczne i ściana przeznaczona na tył powinny pasować "na stojąco" rozmiarami "do wewnątrz" ściany górnej i dolnej. Ściana tylnia powinna wsuwać się między ściany boczne. Ściana przednia (drzwi) powinna również wsuwać się między ściany boczne tak, aby zamknięcie było skuteczne. Wydaje się, że taki układ jest najbardziej skuteczny i prosty ze wszystkich możliwych. Rozmiary podane dla akumulatora poniżej są dostosowane dla osób o różnych wysokościach, lecz przeciętnej wadze. W miarę jak zwiększa się odległość ciała od metalowych ścian, skuteczność działania akumulatora maleje. Wymiary powinny, więc być bardzo starannie dobrane, aby wychodziły naprzeciw osobistym potrzebom użytkownika. W dodatku jest przewidziane 1cm więcej na szerokości akumulatora (tj. 0,5 cm z każdej strony), żeby drzwi zamykały się i otwierały łatwo. Rozmiary proponowanych akumulatorów (wymiary w cm):
 
-**Akumulator duży**
-
-**Akumulator średni**
-
-**Akumulator mały**
-
-**Ściana górna i dolna**
-
-76×90
-
-68×83
-
-60×72
-
-**Ściana lewa i prawa**
-
-90×150
-
-83×140
-
-72×130
-
-**Ściana tylna**
-
-65×150
-
-57×140
-
-49×130
-
-**Drzwi**
-
-65×135
-
-57×125
-
-49×115
-
-**Wymiary wewnętrzne**
-
-**Wysokość**
-
-150
-
-140
-
-130
-
-**Szerokość**
-
-65
-
-57
-
-49
-
-**Głębokość**
-
-79
-
-72
-
-61
+|   | **Akumulator duży** | **Akumulator średni** | **Akumulator mały** |
+| --- | --- | --- | --- |
+| **Ściana górna i dolna** | 76×90 | 68×83 | 60×72 |
+| **Ściana lewa i prawa** | 90×150 | 83×140 | 72×130 |
+| **Ściana tylna** | 65×150 | 57×140 | 49×130 |
+| **Drzwi** | 65×135 | 57×125 | 49×115 |
+|   | **Wymiary wewnętrzne** |   |   |
+| **Wysokość** | 150 | 140 | 130 |
+| **Szerokość** | 65 | 57 | 49 |
+| **Głębokość** | 79 | 72 | 61 |
 
 Najkorzystniejsze wymiary dla użytkownika:
 

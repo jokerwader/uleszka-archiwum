@@ -403,16 +403,13 @@ Co może jeszcze powodować szybkie narastanie pokrywy lodowej? Skorupa Ziemi na
 
 Jest to mój punkt widzenia, a że nie jestem z wykształcenia geonaukowcem, myślę, że pewne sformułowania mogą mieć pewne braki.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Spojrzenie na biegun
 
+[obraz]  
 Rozłożenie mas (przykładowe)
 
+[obraz]  
 Deformacja powierzchni
 
 Spojrzenie na rozłożenie kontynentów od strony bieguna północnego już powinno uświadamiać, że masy kontynentalne nie są rozłożone równomiernie. Rozpatrując tę figurę jako płaskie obracające się koło widać wyraźnie, że punkt "A" nie ma przeciwwagi w punkcie "a", podobnie jak punkt "B". Już nawet bez rozpatrywania wielkości mas, mechanik stwierdziłby, że takie koło w czasie obrotu nie będzie obracało się bez wstrząsów spowodowanych tzw. "biciem". Dopiero dodanie "ciężarków" w odpowiednich miejscach może spowodować, że koło to zacznie obracać się bez wstrząsów. Niestety, nikt nie jest w stanie tego zrobić w stosunku do Ziemi.
@@ -598,12 +595,10 @@ Tiahuanaco
 
 Z Ameryki Południowej - przykład Tiahuanaco. Jest uważane przez niektórych za najstarsze miasto świata. Główny kompleks Kalasasaya, piramida ziemna Apacana i Puma Punku - każde inaczej skierowane w stosunku do głównych kierunków geograficznych. Jeśli za podstawę przyjąć kompleks główny (to ten w którym znajduje się słynna Brama Słońca), to wszystko jest w jak najlepszym porządku. Jeśli za punkt wyjścia przyjmiemy ukierunkowanie Apacany sytuacja się komplikuje i hipoteza zaczyna się chwiać. Ale to nie jest rzetelne podejście, tylko nagięcie faktu do teorii. Możliwe tłumaczenie to takie, że Tiahuanaco być może budowano w kilku etapach, o których nie mamy pojęcia. Koronnych dowodów należałoby szukać gdzie indziej, w pobliskim jeziorze Titicaca. Odnaleziono tu poprzednią linię brzegową nachyloną w stosunku do dzisiejszej. Gdyby jezioro wysychało w niezmiennych warunkach, to stara linia brzegowa byłaby równoległa do dzisiejszego lustra wody, a nie jest.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Abydos - Ozyrejon
 
+[obraz]  
 Sakkara
 
 Wykonajmy teraz skok do Afryki. Jeśli obejrzane pierwsze rysunki w miarę dokładnie oddają treść teorii, to zgodnie z nią kierunki najstarszych budowli Egiptu winny przebiegać w lewo od kierunku dzisiejszej północy, a więc w kierunku zachodnim. Moje przykłady (Ozyrejon i Sakkara) się zgadzają. W Abydos znajduje się Ozyrejon oraz świątynia Setiego II. Oś długa obydwu, przed wielkim uskokiem, skierowana była na wschód Słońca w dniu równonocy. Dlaczego? Budowano tak, by wschodzące Słońce oświetlało główne wejście do świątyni. Coś w rodzaju "wejścia boga". Takie rozumowanie narzuca kierunek północy dla jednego z boków świątyni. I tak jest przedstawione na szkicu. Inaczej rzecz się ma z piramidami. W artykule o Orionie i piramidach, założyłem, że piramidy były skierowane na północ swoimi przekątnymi i to w Sakkara z grubsza by się zgadzało.
@@ -632,85 +627,9 @@ Można też postawić pytanie - piramidy zbudowano przed potopem, ale przed któ
 
 W tabelce przedstawiłem dane, jakie uwzględniłem w swoich obliczeniach.
 
-NAZWA MIEJSCA
-
-Szerokość \[B\]
-
-Długość \[L\]
-
-Kąt zmierzony
-
-Kąt obliczony
-
-Akpatok  
-Tula  
-Teotihuacan  
-Villahermosa  
-Monte Alban  
-Uxmal  
-Palenque  
-Tikal  
-Tiahuanaco  
-Machu Picchu  
-Giza  
-Abydos  
-Sakkara
-
-60,00° N  
-20,27° N  
-19,47° N  
-18,00° N  
-16,27° N  
-20,27° N  
-19,75° N  
-17,05° N  
-26,93° S  
-27,14° S  
-29,98° N  
-?  
-?
-
-70,00° W  
-99,57° W  
-94,88° W  
-92,94° W  
-96,94° W  
-87,79° W  
-90,86° W  
-87,47° W  
-67,50° W  
-72,82° W  
-31,32° E  
-?  
-?
-
-  
-?  
-18°  
-?  
-?  
-?  
-15°  
-?  
-1,5°  
-1,5°  
-20°  
-\-  
-\-
-
-  
-24,5°  
-19°  
-11°  
-23°  
-16°  
-19°  
-15,5°  
-2°  
-2°  
-24°  
-\-  
-\-
+| NAZWA MIEJSCA | Szerokość \[B\] | Długość \[L\] | Kąt zmierzony | Kąt obliczony |
+| --- | --- | --- | --- | --- |
+| Akpatok<br>Tula<br>Teotihuacan<br>Villahermosa<br>Monte Alban<br>Uxmal<br>Palenque<br>Tikal<br>Tiahuanaco<br>Machu Picchu<br>Giza<br>Abydos<br>Sakkara | 60,00° N<br>20,27° N<br>19,47° N<br>18,00° N<br>16,27° N<br>20,27° N<br>19,75° N<br>17,05° N<br>26,93° S<br>27,14° S<br>29,98° N<br>?<br>? | 70,00° W<br>99,57° W<br>94,88° W<br>92,94° W<br>96,94° W<br>87,79° W<br>90,86° W<br>87,47° W<br>67,50° W<br>72,82° W<br>31,32° E<br>?<br>? | <br>?<br>18°<br>?<br>?<br>?<br>15°<br>?<br>1,5°<br>1,5°<br>20°<br>\-<br>\- | <br>24,5°<br>19°<br>11°<br>23°<br>16°<br>19°<br>15,5°<br>2°<br>2°<br>24°<br>\-<br>\- |
 
 Jak widać, zawodowy geodeta mnie i moje obliczenia umieściłby w wiadomym miejscu. Zastrzegłem jednak na początku, że obliczenia te są bardzo orientacyjne. Jedno co z nich wynika, to tylko to, że zgadzają się w ogólnych zarysach. "Wielki uskok..." mógł być przyczyną przesunięć tych kardynalnych kierunków.
 
@@ -804,47 +723,14 @@ Tzolkin był kalendarzem świętym, boskim, bez jakiejkolwiek wartości praktycz
 
 Dr Kiessiing zadał sobie pytanie: Co pojawiało się więc co 5,2 roku (albo co 1898 dni) na niebie? Kometa? Statek kosmiczny? Boska planeta Wenus? Zaciekawiony badacz skrupulatnie sprawdził wszystkie dane orbit planet Układu Słonecznego i poczynił zadziwiające spostrzeżenie:
 
-Nazwa planety
-
-obieg Słońca w dniach ziemskich
-
-obieg Słońca w latach ziemskich
-
-   Merkury
-
-88
-
-0,24
-
-   Wenus
-
-225
-
-0,62
-
-   Ziemia
-
-365
-
-1,00
-
-   Mars
-
-687
-
-1,88
-
-   **Planeta X**
-
-**1898**
-
-**5,20**
-
-   Jowisz
-
-4329
-
-11,86
+| Nazwa planety | obieg Słońca w dniach ziemskich | obieg Słońca w latach ziemskich |
+| --- | --- | --- |
+| Merkury | 88 | 0,24 |
+| Wenus | 225 | 0,62 |
+| Ziemia | 365 | 1,00 |
+| Mars | 687 | 1,88 |
+| **Planeta X** | **1898** | **5,20** |
+| Jowisz | 4329 | 11,86 |
 
 Jeśli spojrzymy na schemat Układu Słonecznego, od razu rzuci nam się w oczy wielka luka między Marsem a Jowiszem. Porusza się tam dokoła Słońca zgodnie z prawami Keplera olbrzymia, widoczna tylko przez teleskop gromada niewielkich ciał niebieskich zwanych planetoidami. Jeżeli założymy, że planetoidy te są szczątkami jakiejś planety, to będzie można obliczyć, że planeta owa, w czasie kiedy stanowiła całość, wykonywała jeden obrót wokół Słońca w ciągu 1898 dni, czyli dokładnie 5,2 roku ziemskiego!
 
@@ -883,115 +769,31 @@ Nie spodziewaj się ode mnie gotowej recepty na kalendarz Majów. Gdybym ją zna
 
 Na początek dwie daty odczytane w ruinach Mezoameryki i trzy odpowiedzi:
 
-**Autor obliczeń (rok) / Data**
-
-**13.0.0.0.0. 4-Ahau 8-Cumhu**
-
-**0.0.0.0.0. 4-Ahau 8-Cumhu**
-
-      Makemson (1946)
-
-11 luty 3373 r. pne      
-
-2 październik 8499 r. pne      
-
-      Spinden (1930)
-
-15 październik 3373 r. pne      
-
-5 czerwiec 8498 r. pne      
-
-      Thompson (1935)
-
-13 sierpień 3113 r. pne      
-
-2 kwiecień 8238 r. pne      
+| 🟦 **Autor obliczeń (rok) / Data** | 🟦 **13.0.0.0.0. 4-Ahau 8-Cumhu** | 🟦 **0.0.0.0.0. 4-Ahau 8-Cumhu** |
+| --- | --- | --- |
+| Makemson (1946) | 11 luty 3373 r. pne | 2 październik 8499 r. pne |
+| Spinden (1930) | 15 październik 3373 r. pne | 5 czerwiec 8498 r. pne |
+| Thompson (1935) | 13 sierpień 3113 r. pne | 2 kwiecień 8238 r. pne |
 
 Jak na ilość lat, prócz "drobnych" rozbieżności, można przyjąć, że nauka jest zgodna. Nie spotkałem pełnego opisu zastosowanych metod, oprócz tego, że były skomplikowane, mozolne, praco i czasochłonne. Dość ścisły i naukowy opis metody, ale nie pozwalający na sprawdzenie prawidłowości obliczeń. Czy wynika z tego, że wspomniani badacze też pisali księgi dni i lat, lecz do tyłu? Ta sama nauka przekazała nam także, że "Majowie" określili długość roku z zadziwiającą precyzją - 365,2422 doby. Czemu więc nie wykorzystać tej informacji do określenia upływu lat? Zbyt prostackie i mało "naukowe"?
 
 Zanim spróbuję coś policzyć trzeba jeszcze wspomnieć, że nauka określa zapis liczb Majów jako podobny do naszego dziesiętnego (wielkość liczby zależna jest od pozycji cyfry) ale nie jest zgodna co do mnożników, wykonam więc dwa rodzaje obliczeń dotyczące wieku początku kalendarza. Jako datę przyjmiemy - **19.19.19.19.19.12-Ahau.19-Cumhu** - ostatniego dnia cyklu poprzedzającego początek kalendarza przy jednoczesnym założeniu, że rok ma 365 dni i nieuwzględnieniu lat przestępnych.
 
-**Liczba**
-
-**Mnożnik logiczny**
-
-**Wynik I**
-
-**Mnożnik naukowy**
-
-**Wynik II**
-
-19
-
-20 × 20 × 20 × 20  
-
-3 040 000   
-
-baktun=144 000  
-
-2 736 000   
-
-19
-
-20 × 20 × 20  
-
-152 000   
-
-katun=7 200  
-
-136 800   
-
-19
-
-20 × 20  
-
-7 600   
-
-tun=360  
-
-6 840   
-
-19
-
-20  
-
-380   
-
-unial=20  
-
-380   
-
-19
-
-1  
-
-19   
-
-kin=1  
-
-19   
-
-12-Ahau
-
-19-Cumhu
-
-340   
-
-340   
+| 🟦 **Liczba** | 🟦 **Mnożnik logiczny** | 🟦 **Wynik I** | 🟦 **Mnożnik naukowy** | 🟦 **Wynik II** |
+| --- | --- | --- | --- | --- |
+| 19 | 20 × 20 × 20 × 20 | 3 040 000 | baktun=144 000 | 2 736 000 |
+| 19 | 20 × 20 × 20 | 152 000 | katun=7 200 | 136 800 |
+| 19 | 20 × 20 | 7 600 | tun=360 | 6 840 |
+| 19 | 20 | 380 | unial=20 | 380 |
+| 19 | 1 | 19 | kin=1 | 19 |
+| 12-Ahau |   |   |   |   |
+| 19-Cumhu |   | 340 |   | 340 |
 
 W obliczeniach nie uwzględniłem kalendarza Tzolkin, gdyż liczył on ilość dni w innym, "boskim" roku, a w zasadzie był chyba tylko potrzebny do utworzenia jednej niepowtarzalnej nazwy daty w cyklu 52 lat. Tak mi się przynajmniej wydaje. Policzmy zatem ilość dni i zamieńmy na lata trwające po 365,2422 dnia.
 
-Ilość dni
-
-3 200 339   
-
-2 880 626   
-
-Ilość lat
-
-**8762,24**
-
-**7886,89**
+| Ilość dni | 3 200 339 | 2 880 626 |
+| --- | --- | --- |
+| Ilość lat | **8762,24** | **7886,89** |
 
 Wynik zbliżony, choć z rozrzutem szrapnela. Jedno co jest pewne - było to bardzo dawno temu. Pozostają dwa problemy: Który sposób oddaje właściwe obliczenie liczby dni, a co za tym idzie lat oraz jaką naszą datę należy przyjąć za "zerową"? Nadto nic nam nie wiadomo kiedy powstał ten kalendarz i jakie wydarzenie jest jego początkiem. Trudności z uzyskaniem materiału badawczego (czytaj - nie umieją odczytać hieroglifów, bo materiału badawczego jest ogromna ilość) nie posuwają sprawy naprzód.
 
@@ -1218,29 +1020,9 @@ Tatunca Nara opowiada następnie o dwóch globalnych katastrofach, które wynisz
 
 Jeszcze większe, dużo większe liczby lat oferuje indyjska Purana dzieląc życie na Ziemi na cztery epoki, zwane Yuga. Czas podany jest w latach boskich, gdzie jeden rok boski wynosi 360 lat ludzkich. Te same dane opisuje Vymaanika-Shaastra, której zawdzięczamy opisy boskich pojazdów - Viman.
 
-**Nazwa epoki**
-
-**Ilość lat boskich**
-
-**Ilość lat ludzkich**
-
-Krita Yuga  
-Treta Yuga  
-Davpara Yuga  
-Kali Yuga  
-**Razem**
-
-4 800  
-3 600  
-2 400  
-1 200  
-**12 000**
-
-1 728 000  
-1 296 000  
-864 000  
-432 000  
-**4 320 000**
+| **Nazwa epoki** | **Ilość lat boskich** | **Ilość lat ludzkich** |
+| --- | --- | --- |
+| Krita Yuga<br>Treta Yuga<br>Davpara Yuga<br>Kali Yuga<br>**Razem** | 4 800<br>3 600<br>2 400<br>1 200<br>**12 000** | 1 728 000<br>1 296 000<br>864 000<br>432 000<br>**4 320 000** |
 
 Według hindusów cztery epoki były przedzielane katastrofami planetarnymi, ale jakimi i o jakim zasięgu tego chyba już nie można ustalić. Suma lat jest dziesięciokrotnie większa od rachuby Chaldejczyków. Szaleństwo liczb czy jeszcze bardziej niesamowita i nieznana prawda?
 
@@ -1363,56 +1145,11 @@ Stworzenie istot wyższego rzędu. Pełny łańcuch pokarmowy. Ustanowienie "wł
 
 A teraz wersja strony przeciwnej. Do lat podawanych przez naukę osobiście podchodzę bardzo sceptycznie. Wszystkie powinny zawierać przedrostek prawdopodobnie, gdyż dzisiejsza nauka w żaden sposób nie może tego udowodnić. Jest to pewnego rodzaju wirtualna rama czasowa w którą wtłacza się prawdopodobne zaistnienie zjawisk. Odrzucenie biblijnego opisu powstania Ziemi i życia na niej musiało zaowocować innym podziałem na epoki, a do samego powstania życia na Ziemi zaprzęgnięto darwinizm i teorię liniowego postępu. Jak to wygląda według nauki przedstawiam poniżej wraz z ostatnimi prawdami uznanymi przez naukę, zaznaczając je czerwonym kolorem.
 
-**Prekambr**
-
-4,6-0,6 mld lat
-
-Brak śladów życia organicznego, a odkryto jedynie bakterie kopalne, których wiek ustalono na 3,1 mld lat.  
-Pod koniec tego okresu w **Proterozoiku 1,9 mld-600 mln lat** na Ziemi pojawiają się bakterie, glony, glonowce oraz pierścienice i jamochłony.  
-4-3,8 mld lat - okno czasowe, w którym powstały pierwsze organizmy na Ziemi.  
-800 mln lat - początek rozpadu pierwszego superkontynentu (ostatnia, francuska hipoteza).
-
-**Paleozoik**
-
-600-220 mln lat
-
-**Kambr - 600-490 mln lat**:  
-zielenice, sinice, grzyby, bakterie, trylobity, archeocjały.  
-535 mln lat - wielki wybuch biologiczny, nagłe pojawienie się wielu gatunków roślin i zwierząt.  
-**Ordowik - 490-430 mln lat**:  
-paprotniki, trylobity, graptolity, koralowce.  
-**Sylur - 430-400 mln lat**:  
-psylofity, plechowce, brunatnice, liliowce, ramienionogi, wielkoraki.  
-**Dewon - 400-350 mln lat**:  
-widłaki, skrzypy, paprocie, ryby pancerne, kręgowce lądowe.  
-**Karbon - 350-270 mln lat**:  
-drzewiaste paprocie i widłaki, iglaste, owady, płazy, gady.  
-**Perm - 270-220 mln lat**:  
-iglaste, miłorzęby, sagowce, ryby promieniopłetwe, kotylozaury.  
-
-**Mezozoik**
-
-220-70 mln lat
-
-**Trias - 220-180 mln lat**:  
-nagonasienne, małże, slimaki, notozaury, tekodonty.  
-200 mln lat - rozpad Gondwany, powstanie oceanów. (???)  
-**Jura - 180-135 mln lat**:  
-nagonasienne, okrzemki, ichtiozaury, dinozaury, archeopteryks.  
-135 mln lat - ogólnoświatowa, wzmożona działalność wulkaniczna.  
-**Kreda - 135-70 mln lat**:  
-okrytonasienne, dęby, platany, otwornice, gady, ssaki łożyskowe.  
-
-**Kenozoik**
-
-70 mln lat do dziś
-
-**Trzeciorzęd - 70-1 mln lat**:  
-przewaga okrytonasiennych, drzewa liściaste, trawy, lasy wiecznie zielone, zielenice, ramienice, koralowce rafotwórcze, otwornice, mszywioły, slimaki, stawonogi, bogaty świat owadów, ptaki, ssaki, małpy człekokształtne, australopitek.  
-65 mln lat - uderzenie wielkiego meteorytu, początek zagłady dinozaurów.  
-3 mln lat - początek epok lodowcowych na Ziemi.  
-**Czwartorzęd - 1 mln lat do dzisiaj**:  
-flora lodowcowa, leśna i bagienna, fauna ery lodowcowej, człowiek rozumny.  
+| **Prekambr** | 4,6-0,6 mld lat | Brak śladów życia organicznego, a odkryto jedynie bakterie kopalne, których wiek ustalono na 3,1 mld lat.<br>Pod koniec tego okresu w **Proterozoiku 1,9 mld-600 mln lat** na Ziemi pojawiają się bakterie, glony, glonowce oraz pierścienice i jamochłony.<br>4-3,8 mld lat - okno czasowe, w którym powstały pierwsze organizmy na Ziemi.<br>800 mln lat - początek rozpadu pierwszego superkontynentu (ostatnia, francuska hipoteza). |
+| --- | --- | --- |
+| **Paleozoik** | 600-220 mln lat | **Kambr - 600-490 mln lat**:<br>zielenice, sinice, grzyby, bakterie, trylobity, archeocjały.<br>535 mln lat - wielki wybuch biologiczny, nagłe pojawienie się wielu gatunków roślin i zwierząt.<br>**Ordowik - 490-430 mln lat**:<br>paprotniki, trylobity, graptolity, koralowce.<br>**Sylur - 430-400 mln lat**:<br>psylofity, plechowce, brunatnice, liliowce, ramienionogi, wielkoraki.<br>**Dewon - 400-350 mln lat**:<br>widłaki, skrzypy, paprocie, ryby pancerne, kręgowce lądowe.<br>**Karbon - 350-270 mln lat**:<br>drzewiaste paprocie i widłaki, iglaste, owady, płazy, gady.<br>**Perm - 270-220 mln lat**:<br>iglaste, miłorzęby, sagowce, ryby promieniopłetwe, kotylozaury. |
+| **Mezozoik** | 220-70 mln lat | **Trias - 220-180 mln lat**:<br>nagonasienne, małże, slimaki, notozaury, tekodonty.<br>200 mln lat - rozpad Gondwany, powstanie oceanów. (???)<br>**Jura - 180-135 mln lat**:<br>nagonasienne, okrzemki, ichtiozaury, dinozaury, archeopteryks.<br>135 mln lat - ogólnoświatowa, wzmożona działalność wulkaniczna.<br>**Kreda - 135-70 mln lat**:<br>okrytonasienne, dęby, platany, otwornice, gady, ssaki łożyskowe. |
+| **Kenozoik** | 70 mln lat do dziś | **Trzeciorzęd - 70-1 mln lat**:<br>przewaga okrytonasiennych, drzewa liściaste, trawy, lasy wiecznie zielone, zielenice, ramienice, koralowce rafotwórcze, otwornice, mszywioły, slimaki, stawonogi, bogaty świat owadów, ptaki, ssaki, małpy człekokształtne, australopitek.<br>65 mln lat - uderzenie wielkiego meteorytu, początek zagłady dinozaurów.<br>3 mln lat - początek epok lodowcowych na Ziemi.<br>**Czwartorzęd - 1 mln lat do dzisiaj**:<br>flora lodowcowa, leśna i bagienna, fauna ery lodowcowej, człowiek rozumny. |
 
 Scenariusz ogólny pozostaje taki sam, choć są znaczne różnice. Dlaczego Biblia jest tak ogólna, a nauka tak szczegółowa? Biblia zawiera opis stworzenia Ziemi przekazany ludziom przez Bogów, którzy widocznie nie uważali za stosowne podania bardzo dokładnych danych. Ludzie zostali stworzeni do pracy i służenia Bogom, a nie do prowadzenia badań naukowych. Nauka zaś musi odpowiedzieć na zadane pytanie i to odpowiedzieć zgodnie z prawdą i szczegółowo. A co robi nauka?
 
@@ -1546,24 +1283,19 @@ Okres Renesansu i reformacji średniowiecznego Kościoła zapalił zielone świa
 
 Zastosowanie darwinizmu do historii starożytnej zaowocowało człowiekiem jaskiniowym, który po kolei musiał wynajdywać wszelkie potrzebne do rozwoju rzeczy. Najpierw uczył się chodzić, mówić, "wynalazł" ogień, koło, narzędzia oraz broń by po kilkuset tysiącach lat rozbić jądro atomu. Najważniejszym bodaj wynalazkiem człowieka jest pismo, które umożliwiło mu stworzenie bazy naukowej. Dziwne jest jednak to, że najstarsze pisma są dla nas nie do odczytania. Co jest tego powodem? Mętne wyjaśnienia nie wnoszą kompletnie nic do wytłumaczenia tego fenomenu. Kolejną zagadką są budowlane osiągnięcia starożytnych, których dzisiejsza wielka technika nie potrafi skopiować nawet w skali mikro. Naukowe teorie o ich budowie wzbudzają śmiech i politowanie dla "wybitnych" twórczych umysłów. Naukę o pochodzeniu człowieka i historię starożytną zmonopolizowali ludzie, którzy wprowadzają w błąd wszystkich na całym świecie. To nowa, współczesna "Święta Inkwizycja", która za cel postawiła sobie nie dopuszczenie do ujawnienia prawdy. Nie palą już na stosie, ale stosują indoktrynację od najmłodszych lat. Kłamstwo powtarzane przez wiele lat stało się obowiązującą prawdą.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Druidzi?
 
+[obraz]  
 Egipcjanie?
 
+[obraz]  
 Inkowie?
 
+[obraz]  
 Polinezyjczycy?
 
+[obraz]  
 Japończycy?
 
 Jakie to ludy epoki kamiennej potrafiły obrabiać tak wielkie kamienne bloki? W jaki sposób transportowano budulec na miejsce budowy? W jaki sposób unoszono te ciężary na znaczną niekiedy wysokość? Dlaczego tego rodzaju budowle spotykamy na całym świecie? W jakim celu wznoszono te budowle? Na te pytania współczesna nauka nie daje odpowiedzi. Jako odpowiedź można usłyszeć tylko bajeczki, jak ta głoszona przez Zahi Hawass'a, że piramidy zbudowano tylko po to, by uwiecznić dążenie człowieka do wieczności. Miliony ton kamienia dla "uwiecznienia" tylko jednej myśli?
@@ -1819,12 +1551,10 @@ Dlaczego nie znajdujemy grobów gigantów? Sądzę, że wyjaśnienie tej kwestii
 
 Nie tylko chrześcijanie chcą za wszelką cenę dowieść prawdy. Robią to także bracia w Allahu. Mistyfikacji dokonali nie zwolennicy Biblii a zwolennicy Mahometa.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Trzydziestometrowy Adam
 
+[obraz]  
 i mastodont z USA
 
 Jak napisano w artykule "[Gigantyczny szkielet ludzki znaleziony w Arabii Saudyjskiej](http://www.ekumenizm.pl/article.php?story=20040706004909287)" - "Wcale nie chodzi o potwierdzenie prawd biblijnych, lecz koranicznych. Mahomet twierdził, że Bóg stworzył Adama na swoje podobieństwo - posiadającego 30 metrów wzrostu. Od czasu, gdy Adam postawił swą stopę na ziemi, kolejne pokolenia malały. Cyfrowo sfałszowane zdjęcie ma na celu potwierdzenie, że Mahomet mówił prawdę. Zdaniem Faith Freedom, zgodnie z tradycyjnym nauczaniem islamskim, kłamanie w celu budowania wiary w Allaha jest jak najbardziej etyczne.". Oszustwo wytropiła Elli z Wiednia. Dzięki Elli.
@@ -2240,30 +1970,24 @@ Obejrzyjmy dzieła kamienne dokonane czyjąś ręką, mniej efektowne pod wzglę
 
 Najwięcej z nich znaleziono we Francji, Hiszpanii i Wielkiej Brytanii. Znajdują się jednak na całym świecie, choć nie wszędzie są szukane. Kraje takie jak były ZSRR czy Chiny uważają je chyba za tajemnicę państwową. W innych krajach z powodu biedy lub lekceważącego do nich stosunku poszukiwań się nie prowadzi. Nie sposób pokazać wszystkich. Wybrałem kilka najbardziej okazałych by mieć ogólne pojęcie o ich wielkości, a co za tym idzie trudnościach w ich zbudowaniu.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Menga
 
+[obraz]  
 Viera
 
+[obraz]  
 Gallardet
 
 To nie są schrony z okresu II wojny światowej ani też przeniesione na grunt europejski amerykańskie schrony przeciwatomowe. To co widać wzniósł europejski przedstawiciel "homo darvinicus" z okresu kamienia.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Menga
 
+[obraz]  
 Neksis
 
+[obraz]  
 Gallardet
 
 W budowie wnętrz widać "ludzką"(?) rękę, popartą zapewne obliczeniami wytrzymałościowymi. Zwrócić należy uwagę na wygląd narożników. Nasza cywilizacja tak nie buduje, choć można już wytwarzać tak specjalnie wykuwane narożniki. Żmudne i nieopłacalne. Dlaczego "oni" wybrali taki rodzaj narożników? Po co nieboszczykowi tak przemyślane i tak wytrzymałe rozwiązania?
@@ -2282,16 +2006,13 @@ Czy w Japonii działało to samo "megalityczne plemię"? Jak potężne są bloki
 
 Zestaw poniżej (z miejsc znanych i nieznanych) powinien skłonić do zadumy. To nie są byle jak ustawiane i przypadkowo zebrane bloki kamienne. Na niektórych widać jeszcze ślady obróbki, a niektóre są tak uszkodzone przez czas, że już tej obróbki nie widać. Przy odrobinie wyobraźni można ujrzeć, że początkowo te płyty miały wygląd doskonałych prostopadłościanów i były do siebie doskonale dopasowane. Zwrócić należy uwagę na doskonale wycięte koliste otwory oraz na wycięcia i nadcięcia (Neksis).
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Neksis
 
+[obraz]  
 Walba
 
+[obraz]  
 Djubga
 
 [obraz]
@@ -2334,12 +2055,10 @@ To co pokazałem wyżej to budowle wykonane przez człowieka bardzo pierwotnego 
 
 Na początek dwie "świątynie" starożytnego Egiptu wykonane z wielkich, kamiennych i oszlifowanych perfekcyjnie bloków w formie doskonałych prostopadłościanów. Kąty proste świadczą o używaniu jakiegoś starożytnego kątownika, którego nie znaleziono być może dlatego, że był drewniany i nie zachował się do naszych czasów. Sprawa uniesienia kilkudziesięciotonowych bloków na wysokość paru metrów też według archeologów nie sprawiała żadnych trudności. Ludzi do pracy było mnóstwo, lin i drewna też. Dodać należy kilka starożytnych wielokrążków i gotowe. I jeszcze jedno ważne spostrzeżenie - w Egipcie występował jeszcze "koordynator jednolitości wysiłku" przedstawiany na starożytnych rysunkach jako człowiek z batem.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Ozyrejon w Abydos
 
+[obraz]  
 Świątynia Chefrena w Giza
 
 Takie jak tu bloki, ale w większej skali oglądać możemy w Baalbeck i też w Egipcie (zdjęcia poniżej), gdzie w assuańskim kamieniołomie odkryto największy blok, jeszcze nie oddzielony od skały macierzystej. Miał to być (tak głosi nauka) obelisk dla królowej Hatszepsut, jednak zrezygnowano z jego oddzielenia od podłoża z powodu pęknięcia. Skąd wiadomo, że dla Hatszepsut skoro brak jakiegokolwiek napisu? Czy tylko dlatego, że wiek obelisku określono na czas jej panowania?
@@ -2508,42 +2227,33 @@ Jak już zdążyliśmy zauważyć, używanie do budowy olbrzymich kamiennych blo
 
 Na terenie Iranu stoi budowla z dużych, kamiennych bloków oczywiście ochrzczona przez naukę grobowcem. Czy takie było pierwotne przeznaczenie? Nie wiadomo. Obok piramida w greckiej Argolidzie, której wiek określa się na dużo starszy od wielkiej piramidy. Zahi Hawass z powodów czysto komercyjnych ma inne zdanie i oczywiście protestuje. Dlaczego jednak rząd Grecji zabronił przeprowadzenia tu dokładnych badań? Na trzecim zdjęciu przejście w murze zamku "Biała czapla" w Japonii. Zamek określany jako współczesny, ale skąd pewność co do fundamentów i murów?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Abydos
 
+[obraz]  
 Indie
 
+[obraz]  
 Peru
 
+[obraz]  
 Petra
 
+[obraz]  
 Qenko
 
 Jaka to cywilizacja na całym świecie używała technologii pozwalającej ciąć kamień? Oczywiście, obowiązująca teoria mówi tylko o mozolnym skuwaniu skały przez ludzi z epoki kamiennej, bo żadnemu badaczowi nie przyszło na myśl, by przyjrzeć się z bliska takim schodom i to w miejscach, gdzie najrzadziej stawia się stopy. Nikt nie zastanowił się, dlaczego w tych miejscach powierzchnie też są gładkie. Tu nie pomogą bajania o czasie i o wygładzaniu przez tysiące bosych, pielgrzymich stóp.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Mykeny
 
+[obraz]  
 Karystos
 
+[obraz]  
 Liban
 
+[obraz]  
 Sacsayhuaman
 
 Czy takie bramy wznoszono tylko przy pomocy drewnianych drągów, ziemnych nasypów, lin wykonywanych z dostępnych roślin i ludzkiej siły fizycznej? Jak przesuwano później te kamienne bloki na swoje miejsce? Dlaczego, w celu udowodnienia tej teorii nie zebrała się grupa tych naukowych geniuszy, by zbudować choć podobną bramę? Powód jest tylko jeden - łatwiej powiedzieć niż wykonać.
@@ -2564,32 +2274,26 @@ Qenko - Peru
 
 U góry rzeźba w jednym bloku kamienia, znajdująca się w pobliżu Cusco. O wielkości kamienia świadczy widoczna głowa turysty. Co ma przedstawiać? Trudno określić. Wygląda na model jakiegoś miejsca, którego nie potrafię skojarzyć. Delikatne, wężowate rowki i kaskady mogą sugerować, że płynęła w nich woda, która z kolei miała odpływy na krawędziach. Dziwne aż, że do tej pory żaden uczony nie rozpoznał w tym wszechobecnego "Boga nieskażonej wody użyźniającej nawet kamień". Zarysy schodów, budynków, fundamentów, a nawet zwierząt. Wszystko to na podstawie w formie półkuli. Interpretacja zależy od fantazji patrzącego.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Ellora - India
 
+[obraz]  
 ? - India
 
 Cztery następne fotografie przenoszą nas na subkontynent indyjski. Nie sposób nie zauważyć też, że dzieła te powstały w jednym bloku kamienia. Jak nauka tłumaczy ich powstanie? Dziesiątki pokoleń rzeźbiarzy mozolnie kuło skałę i nadawało jej kształty. Następne kilka tysięcy lat pracowite dłonie wiernych tak długo ją głaskały, aż uzyskano piękną, gładką i wypolerowaną powierzchnię. Nie ważne skąd doskonała precyzja, zachowane proporcje. Ważne, że jest wytłumaczenie.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Mahabalipuram - India
 
+[obraz]  
 Kailasa - India
 
 Petrę oficjalnie zbudowali Nabatejczycy w I w. pne, a przejęli i rozbudowali Rzymianie, by mieć kontrolę nad handlem z Azją. Oczywiste, że człowiek o zdrowych oczach nie doszuka się tutaj ręki arabskiego kamieniarza z pustynnego plemienia i wniosek może być tylko jeden. To nie Nabatejczycy wykonali te piękne budowle, te budowle już stały i to od dawna, gdy Nabatejczycy zaczęli okupować te ziemie. Rzymianie także nie przyłożyli tu ręki, bo prawdopodobnie nie mieli zielonego pojęcia, że istnieje Petra. To historia, by nie przekroczyć przyjętych ramach czasowych musiała zrobić z nich budowniczych. W Petrze nie znaleziono ani grama pozostałości "made in Roma" po rzymskim żołnierzu.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Iran
 
+[obraz]  
 Petra - Jordania
 
 Grobowce w Iranie wykonano jakby według jednego projektu. Są ogromne. Człowiek jest niewiele większy od kamienia leżącego przed nimi. Czy i to wykonał starożytny Pers? Jakimi narzędziami i w jakim czasie? Czas budowy takiego "grobowca" był przecież ograniczony wiekiem życia monarchy. Jak więc określano termin zakończenia budowy?
@@ -2604,26 +2308,21 @@ Abu Simbel - Egipt
 
 To co widać z wierzchu, nie oddaje tego co jest w środku. W litej skale wycięte są olbrzymie pomieszczenia zdobione posągami faraonów, pełne kolumn i płaskorzeźb niebywałej precyzji wykonania. Trzeba przyznać, że jak na ludzi z epoki kamienia posiadali olbrzymią wiedzę o technice jego obróbki.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Villahermosa - Jukatan
 
+[obraz]  
 Copan - Jukatan
 
 U góry "torty" pochodzące z Ameryki Środkowej, z półwyspu Jukatan. Pierwszy z lewej ochrzczono ołtarzem ofiar dziecięcych. Jak oni wdrapywali się na ten "ołtarz", żeby spowodować rytualne zejście dziecięcia nauka nie podaje. Odnoszę wrażenie, że starożytni uwielbiali wprost komplikować sobie życie. Tego pana wychylającego się z głębi w amerykańscy uczeni ochrzcili Bogiem pszczół. Drugi kamień, to oczywiście też "ołtarz ofiarny". Kłopoty kapłanów podobne jak w przypadku pierwszego.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Aramu Muru, Ameryka Południowa
 
+[obraz]  
 Yazilikaya
 
+[obraz]  
 Jordania
 
 Czy tak mogły wyglądać "wprawki" kamieniarskich czeladników tamtych czasów? Jak duże obszary skały należało wyciąć z zegarmistrzowską precyzją można sobie uprzytomnić porównując otwory wejściowe, które są mniej więcej wysokości człowieka. Gładkości ścian nie uzyskano z pewnością skuwając mozolnie centymetr po centymetrze i wygładzając potem starożytnym papierem ściernym. Nie otrzymano by idealnej, płaskiej powierzchni. Do czego miały służyć gigantyczne pochyłe linie wycięte w litej skale w Aramu Muru i dlaczego "drzwi" są ślepe?
@@ -2827,16 +2526,13 @@ Dowodzi to jednego. Żaden egiptolog nie wie do czego służyły naprawdę. Wmaw
 
 Doszukiwanie się liczb "zaklętych" w wymiarach piramid czy głębokich myśli filozoficznych w ich kształtach jest też swego rodzaju naukowym błądzeniem "po omacku". Świadczy jedynie o tym, że nasza nauka stoi już na poziomie, który pozwala na "żonglerkę" liczbami i wypowiadanie zawiłych myślowych meandrów, które jednak nie zdołały doprowadzić do najważniejszej odpowiedzi - po co zbudowano piramidy. Szukanie związków, których być może nie ma, a które występują być może przypadkiem nie zbliży nas na pewno do rozwiązania. Daje tylko satysfakcję, że potrafimy już liczyć i filozofować.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Wielka - przekrój
 
+[obraz]  
 Średnia - przekrój
 
+[obraz]  
 Mała - przekrój
 
 Jeśli przyjrzeć się rysunkom przedstawiającym przekroje piramid z ukazanymi odkrytymi korytarzami i komorami, zastanowić się należy nad celowością budowy piramid. Czy tylko po to budowano takie kolosy, aby ukryć w nich parę korytarzy i komór? Stosunek pustej przestrzeni do masy piramid jest niebywale olbrzymi. Może właśnie to miał na myśli Pliniusz Starszy pisząc o zarozumialstwie, pysze i zachciance faraonów "...inicjatorów przedsięwzięcia, tak dalece obliczonego na zaspokojenie próżnej ambicji...". Pliniusz opisał to co widział i wiedział, a widział i wiedział tyle samo co my.
@@ -4166,40 +3862,32 @@ Na zakończenie ciekawostka, która być może potwierdza wysoką wiedzę dawnyc
 
 Mezopotamia to obszar leżący w dorzeczy dwóch wielkich rzek - Eufratu i Tygrysu uchodzących do Zatoki Perskiej. Od północy i wschodu otoczony przez wysokie góry. Według nauki teren najstarszych cywilizacji świata, które na tym terenie istniały już w trzecim tysiącleciu przed naszą erą. Sumerowie, Babilończycy, Akkadyjczycy, a na północy Asyryjczycy i królestwo Mari, że wspomnieć te najstarsze. Czy najstarsze? Kto budował z ogromnych elementów Persepolis i do tego na sztucznym podwyższeniu umocnionym kamiennymi płytami? Kto pozostawił po sobie zrujnowane dziś Nemrut Dag? Antioch, Zeus, Apollo czy Herkules? Chronologia Mezopotamii i Azji Mniejszej czeka jeszcze na uporządkowanie. Nas jednak powinny zainteresować piramidy zwane zigguratami.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Agar-Quf
 
+[obraz]  
 Ashur
 
+[obraz]  
 Chogha-Zanbil
 
+[obraz]  
 Ziggurat Eanny
 
 Według badaczy ziggurat budowano wokół wysokiego, ubitego glinianego rdzenia. W około usypywano ziemną piramidę, której następnie nadawano kształt obudowując ją glinianymi cegłami. Budowano schody prowadzące na jej szczyt, który wieńczyła świątynia. Dlaczego z taką pewnością mówi się o świątyni, skoro nie odnaleziono żadnej z nich? Czy twierdzi się tak na znanej już zasadzie - "a cóż tam innego mogło być?". Teksty starożytne mówią, że na szczycie zigguratu stał dom dla Boga, do którego mógł wejść tylko on, król i główny kapłan. Dlaczego dla jednego skromnego "domu" budowano tak potężną podstawę? Dlaczego schody prowadziły tylko na górę, a nie odnaleziono żadnych prowadzących w głąb, do środka zigguratu?
 
 Odpowiedź może być tylko jedna. Nikt nie miał prawa przebywać wewnątrz zigguratu. W jego środku działo się coś bardzo niebezpiecznego dla ludzkiego życia. To właśnie stąd ogromne rozmiary, to właśnie stąd brak jakichkolwiek wejść, to właśnie stąd potężne ogrodzenia samych zigguratów nie pozwalające ludziom znaleźć się nawet w ich pobliżu.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Nimrud
 
+[obraz]  
 Suza
 
+[obraz]  
 Ur
 
+[obraz]  
 "Newim"
 
 Czy w środku zigguratów były jakieś niebezpieczne urządzenia? To można sprawdzić tylko poprzez dokopanie się do samego środka, a kto wie czy także nie poniżej poziomu. Na razie jest to niemożliwe. Dostępu broni arabska religia i panoszący się muzułmańscy ekstremiści. Cywilizowany świat może przeprowadzić tylko teoretyczne rozważania.
@@ -4508,24 +4196,19 @@ Czy chimera nie świadczy o tym, że Etruskom znane były hybrydy? Artefakt obok
 
 "Wielki uskok skorupy ziemskiej" zniszczył nie tylko starożytną cywilizację i zmienił bieg naszej historii. Zmienił przede wszystkim ukształtowanie linii brzegowej i to w znacznym stopniu. Wiele skupisk ludzkich zniknęło z powierzchni ziemi zalane wodami mórz i oceanów. Na to, że istniały, wskazują dziwne i niezrozumiałe ślady prowadzące w głębiny wód. Stąd właśnie drogi wprost w morze, stąd zatopione miasta odnajdywane przy okazji podwodnych badań. Wynika to z tego, że przed wielkim uskokiem, powierzchnia kontynentu europejskiego (także Bliskiego Wschodu czy północnej Afryki) położona była wyżej i czasem stanowi to wielkość nawet rzędu setek metrów. Pisałem już, że hipotetyczne miejsce położenia Atlantydy zmieniło swoją odległość od środka ziemi o około 5 km. Podobnie jest z kontynentami. Przed "wielkim uskokiem..." Europa leżała wyżej, znacznie wyżej niż w dzisiejszych czasach. Pierwszą poszlaką mogą być starożytne mapy.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Dionizjusz
 
+[obraz]  
 Dicaearchus
 
+[obraz]  
 Dzisiejszy ląd (żółty)
 
+[obraz]  
 Rzym
 
+[obraz]  
 Erastotenes
 
 Zwrócić należy szczególną uwagę na północną i północno-zachodnią zachodnią granicę kontynentu. Co w rogu swojej mapy napisał Piri Reis? Pisał, że mapa powstała na podstawie starszych źródeł, do których jeszcze wtedy miał dostęp. Podobnie mapy pokazane powyżej. Prawdopodobnie autorzy mieli dostęp do map starszych niż nam się wydaje. Do map sprzed "wielkiego uskoku...". Dlaczego tak sądzę? Map nie rysuje się z głowy. Tak postępują dzieci i twórcy gier komputerowych, ale nie kartografowie. Jak te tereny mogły wyglądać przed "wielkim uskokiem..." można sobie wyobrazić oglądając zdjęcie satelitarne północnego i zachodniego skraju Europy. Zarys kontynentu wzdłuż tzw. szelfu leżącego na głębokości 200-300 metrów jakby pasuje do map starożytnych. W każdym bądź razie widać tu problem, nad którym powinno się zastanowić.
@@ -4582,96 +4265,75 @@ Czym mógłby być element, który znajduje się na zdjęciu obok? Znajduje się
 
 Styl budowy polegający na wznoszeniu budowli, której wypełnieniem były kamienie spajane zaprawą, spotykamy od Ameryki Środkowej po starożytną Fenicję. Od północnej Afryki po budowle w Brytanii. Spotykamy je także na Krecie i w starożytnym Rzymie. Czy to przypadek? Ciekawe jest także to, że pokrywają się z hipotetycznym królestwem Atlantydy na kontynentach.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Jukatan
 
+[obraz]  
 Kartagina
 
+[obraz]  
 Kreta
 
+[obraz]  
 Rzym
 
+[obraz]  
 Hiszpania
 
 Być może nie wyglądają jednakowo, ale łączy je wspólna cecha. Ogromne elementy budowlane tworzono z drobnych kamieni spajanych zaprawą. Formy być może sporządzali Bogowie im tylko wiadomą techniką. Zauważmy jeszcze jedną charakterystyczną cechę. Mury i stropy są niesłychanie grube. Czy było to swoiste zabezpieczenie przed trzęsieniami ziemi?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 W-y Kanaryjskie
 
+[obraz]  
 W-y Azorskie
 
+[obraz]  
 Mur Hadriana
 
+[obraz]  
 Irlandia
 
+[obraz]  
 Ktezyfon
 
 Grube mury spajane nieznaną zaprawą, to jedno z kryteriów jakie zastosowałem do pokazania wspólnej technologii budowlanej. Na terenie dawnego królestwa Atlantydy nie brakuje też budowli z wielkich bloków kamiennych, co prawda nie wielkości Sacsayhuaman, ale też o imponujących wymiarach.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Azory
 
+[obraz]  
 Syrakuzy
 
+[obraz]  
 Knidos
 
+[obraz]  
 Kartagina
 
+[obraz]  
 Priene
 
+[obraz]  
 Tipaza
 
 Na wyspach Azorskich spotkać można ruiny trochę przypominające "świątynię Księżyca" z Machu Picchu. W Syrakuzach mury jakich nie wstydzą się Mykeny. Spójrzmy na mury tureckiego Knidos. Czy takie mury był w stanie wznieść zwykły człowiek? Oczywiście, że mógł, ale musiał mieć do dyspozycji potężne wsparcie techniczne. Bloki kamienia spotykamy też w Kartaginie. Trudno powiedzieć czy to, co widzimy to pełne bloki czy też tylko kamienne okładziny. A czym przycinano i wygładzano bloki kamienia w Priene czy w Tipaza (Mauretania)? Z Priene "fachowcy" nie mają problemu. To zrobili Rzymianie, jak wszystkie "teatry" w swoim imperium. Ciekawe tylko dla kogo i dlaczego aż tak duży.
 
 Są także bardzo interesujące szczegóły, szczególnie w krajach Bliskiego Wschodu, a konkretnie w krainie dawnej Fenicji. Pierwsze zdjęcie przedstawia jeszcze kopulastą budowlę etruską z potężnych kamiennych bloków, ale już następne to same zagadki. Do czego w Pompejach mogły służyć kamienne kolumny osadzone na potężnych podstawach, przypominające obrotowe bloki do łańcuchów kotwicznych?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Caere
 
+[obraz]  
 Pompeje
 
+[obraz]  
 Byblos
 
+[obraz]  
 Sydon
 
+[obraz]  
 Ugarit
 
 Po co w Sydonie wmurowano w ścianę kamienne walce? Są na pewno z innego materiału niż zbudowany mur. Komu lub do czego służył kamienny "sarkofag" z Byblos nie ustępujący wielkością tym z Egiptu. Czy za kamienne występy chwytał jakiś starożytny podnośnik unoszący wieko? A kto w Ugarit używał tego kamiennego "dzbanuszka" wlewając sobie śmietankę do porannej kawy? Tu naprawdę trudno przyjąć koncepcję naukowców, że takimi rzeczami operowali ludzie.
@@ -4680,38 +4342,30 @@ Po co w Sydonie wmurowano w ścianę kamienne walce? Są na pewno z innego mater
 
 Wspomniałem już o wodzie. W poprzednich artykułach starałem się udowodnić istnienie "Bogów wody" i nie sposób pominąć ich i tutaj. Obszar morza Śródziemnego jest wprost usiany starożytnymi wodociągami nazwanymi akweduktami. Lecz o dziwo, żaden historyk nie wspomina nic o bogach wody. Czyżby byli przypisani tylko do cywilizacji starszych niż 3000 lat? A co się stało z nimi potem? Wszystkie akwedukty jakie tylko znaleziono wokół morza Śródziemnego zgodnie okrzyknięto wyrobem imperium rzymskiego. Chyba historycy zbyt uprościli sobie proces myślowy stwarzając hipotezę, która całkowicie zaciemniiła obraz historii naszej cywilizacji.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Segovia
 
+[obraz]  
 Tarragona
 
+[obraz]  
 Kartagina
 
+[obraz]  
 Cezarea
 
 Zapomniano przy tym przypatrzyć się samej kolebce cywilizacji rzymskiej. Czy nie jest dziwne, że w samych Włoszech akwedukty znaleźć można tylko w samym Rzymie i na północ od niego? Dlaczego nie ma ich na południu? Czy to przypadek, że akwedukty znajdują się tylko na terenie dawnej Etrurii? Chyba nie. Przykłady, które pokazuję znaleźć można na terenie dawnego królestwa Atlantydy. Czy Lesbos, tradycyjnie grecka wyspa, też należała do Atlantydy? A dlaczego nie. Skąd pewność do kogo należała ponad 12 tysięcy lat temu? Leży przecież bliżej Azji Mniejszej niż Grecji.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Tyr
 
+[obraz]  
 Lesbos
 
+[obraz]  
 Salamis
 
+[obraz]  
 Pont du Gard
 
 Nieliczni z archeologów zwracają uwagę na to, w jaki sposób dana społeczność korzysta z wody. Gdzie są najbliższe jej źródła, jak woda jest doprowadzana do miast, w jaki sposób nawadniane są pola uprawne. Jest to w najlepszym wypadku temat uboczny i zaraz też szuka się bogów wody, by kłopot mieć z głowy. Wykazałem poprzednio, że cywilizacja Bogów problem wody uważała za pierwszorzędny i rozwiązywała go w pierwszej kolejności. Tak było i w tym przypadku.
@@ -4724,12 +4378,10 @@ Brak wielkich zbiorników słodkiej wody (naziemnych lub podziemnych) wymusił b
 
 Każdy akwedukt był przykrywany kamiennymi płytami uniemożliwiającymi zanieczyszczenie wody przez zwierzęta i pogodę. Jest to majstersztyk sztuki inżynierskiej, odporny na działanie warunków klimatycznych czy mniejsze trzęsienia ziemi. Nikt jednak nie zbadał skąd doprowadzano wodę i jakie rejony były jej odbiorcą. Nikt nie dopatrzył się zniszczeń spowodowanych "wielkim uskokiem...", a przecież akwedukty powinny były zachować profil ziemi sprzed 12,5 tysiąca lat.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Rzym
 
+[obraz]  
 Meksyk
 
 Także budowa niektórych z nich wskazuje na technologię stosowaną w całym królestwie Atlantydy. Drobne kamienie spajane nieznaną zaprawą. Nie dziwi zatem, że akwedukt odnalazłem także w Meksyku.
@@ -4740,60 +4392,47 @@ Starożytne Rume także było zaopatrywane w wodę przy pomocy akweduktów, jedn
 
 Następną sporną sprawą stają się mosty, którymi rzekomo Rzymianie uszczęśliwiali wzdłuż i wszerz całą Europę i zachodnią Azję. Przejść przez most nie jest jednoznaczne z jego wybudowaniem, a tak zapewne sądzą historycy. Most jest najtrudniejszą budową także i dla naszej cywilizacji, a jak widać nie były to kładki nad strumykiem.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Kładka z litego kamienia
 
+[obraz]  
 Brytania
 
+[obraz]  
 Hiszpania
 
 Na pierwszym zdjęciu most zbudowany całkowicie z kamiennych bloków. Przęsła to kamienne płyty ułożone na podporach. Widać na nim działanie czasu i pogody, ale nie mają one wpływu na pytanie w jaki sposób wycięto ze skały tak duże bloki, jak je przetransportowano na teren budowy i za pomocą czego ułożono. Jak zbudowano most w Brytanii? Jak posadowiono filary w rzece? Nawet gdyby Rzymianie używali pontonów, to w jaki sposób prowadzili prace pod wodą? W jaki sposób transportowali budulec na środek rzeki? Dlaczego w Hiszpanii zbudowano most na nieistniejącej rzece? Tu nie było błędu. Rzeka kiedyś istniała. To dlaczego? Czy ktoś pomyślał, że powodem mógł być wielki kataklizm sprzed 12,5 tysięcy lat, który całkowicie zmienił bieg rzeki? Czy to sprawdzono? Nie, bo po co.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Azerbajdżan
 
+[obraz]  
 Cuenca
 
+[obraz]  
 Syria
 
+[obraz]  
 Turcja
 
+[obraz]  
 Bejing
 
 Mosty budowano w oparciu o łuki, które rzekomo po raz pierwszy wprowadzili Rzymianie. Skąd ta niezachwiana pewność? By zbudować pojedynczy łuk trzeba najpierw umieścić w rzece potężne rusztowanie, albo chwilowo zmienić jej bieg. Tu naprawdę nie trzeba wymysłów archeologów, ale wypowiedzi inżynierów budowlanych. Nie robi się tego, bo postawili by więcej pytań niż historycy zdołali by dać odpowiedzi. Porównajmy kamienne mosty z Azerbajdżanu i Bejing (Chiny). Po zdjęciu współczesnych chińskich ozdób są prawie identyczne. Nauka nazywa to koincydencją. Różne rasy, ale jeden mózg i można wymyślać identyczne rzeczy na różnych krańcach świata. Jak widać wszystko jest proste i wytłumaczalne.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Hiszpania
 
+[obraz]  
 Francja (?)
 
+[obraz]  
 Shaharah
 
+[obraz]  
 Etiopia
 
+[obraz]  
 Maroko
 
 Na koniec majstersztyki starożytnych budowniczych. Czy Rzym posiadał fachowców do wybudowania czteropoziomowego mostu nad doliną? Skąd czerpano budulec? Jak gigantyczne rusztowania musiano zastosować by wybudować most w Ronda w Hiszpanii, a na czym posadowiono rusztowania przy budowie wiszącego mostu w Shaharah? Historię o wielkim Rzymie należy faktycznie umieścić we właściwym miejscu, w dziale baśni. Te mosty powstawały już wtedy, gdy Mars, Bóg wojny nawet nie przypuszczał, że kiedyś urodzi się Rea Sylwia, a on zostanie szczęśliwym ojcem Romulusa i Remusa.
@@ -5128,46 +4767,36 @@ Jak z tego widać granice imperium wyznaczały tylko rzymskie obozy wojskowe ora
 
 Co to jest łuk tryumfalny? Wedle archeologii jest to budowla w kształcie monumentalnej, łukowato zakończonej bramy, którą budowano specjalnie dla uczczenia zwycięstwa jakiegoś rzymskiego wodza, by po powrocie do Rzymu mógł pod nim przejść jednorazowo i pokazać swoje zdobycze. Jak planowano budowę, by zdążyć na czas nie mogę sobie tego wyobrazić, podobnie jak planowania zwycięstw czy klęsk. Dlaczego tak rozrzutnie trwoniono materiał i ludzką energię na kilkugodzinny pokaz pychy? Albo Rzymianie byli tak bezgranicznie niefrasobliwi, albo co jest bardziej prawdopodobne ich "budowa" polegała głównie na zawieszeniu paru flag, girland i transparentów na budowlach już istniejących od wieków, na których później przytwierdzali stosowną inskrypcję upamiętniającą uroczystość. Co dziwniejsze, nie dość było łuków w samym Rzymie, bo stawiano je wszędzie na świecie.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Bukareszt
 
+[obraz]  
 Tarragona
 
+[obraz]  
 Delhi
 
+[obraz]  
 Paryż
 
+[obraz]  
 Trypolis
 
+[obraz]  
 Chiny
 
 I tak od lewej - w Rumunii, Hiszpanii, w Afryce, we Francji czy nawet w Indiach i Chinach, nie licząc tych stawianych w samym Rzymie. Co jest charakterystyczne, wszystkie jak jeden posiadają wspaniałe łuki architektoniczne rzekomo "wynalezione" przez rzymskich budowniczych. Jak są natomiast zbudowane trudno powiedzieć, bo zostały przez Rzymian lub współczesnych "konserwatorów" kompletnie zapacykowane i nie wolno tego tynku usunąć, bo zabytek. Na ich murach wykuto lub przymocowano tablice z inskrypcjami zawierającymi nazwiska bohaterów i zapewne dlatego dziś nazywa się wszystkie od ich imienia, a co niektórzy interpretują jako budowniczych. Same inskrypcje można zaliczyć do najstarszych przejawów "kultury turystów", którzy bez mała na wszystkim co zwiedzają pozostawiają ślady.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Francja
 
+[obraz]  
 Dougga
 
+[obraz]  
 Volubilis
 
+[obraz]  
 Saintes
 
 Pewne wyobrażenie o budowie rzymskich łuków tryumfalnych można wywnioskować z tych, których nie zdążono pokryć "rzymskim" cementem, a tu już widać wielkość i precyzję poszczególnych elementów. Pod ostatnim w Saintes, mogło paradować nawet dwóch zwycięzców na raz. Czy tak zbudowane są pozostałe, tego się nie dowiemy, bo żaden konserwator zabytków nie wyrazi zgody na zdjęcie tego rzymskiego "makijażu". Mogłoby to także zagrozić tak wypieszczonej teorii o "wielkim Rzymie".
@@ -5584,40 +5213,32 @@ Czy jest możliwe odnalezienie potomków dawnej cywilizacji w czasach współcze
 
 Jedną z przesłanek obrazujących wygląd świata sprzed kataklizmu mogą być najstarsze mapy z widokiem konturów północno zachodniej Europy. Starożytni kartografowie, podobnie jak i dzisiejsi, mogli rysować mapy tylko na podstawie własnych obserwacji i pomiarów lub wykorzystywać starsze opracowania. Podkreślam, że map nie rysuje się z głowy. Tak można robić przy tworzeniu komputerowych gier. Kto twierdzi, że mapy starożytnych to czysta fantazja, jest człowiekiem nie orientującym się w realiach prac kartograficznych.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Korybes
 
+[obraz]  
 Eratostenes
 
+[obraz]  
 Dionizjusz
 
 Proszę obejrzeć kilka dzieł starożytnych kartografów. Najbardziej interesującymi są opracowania kartografów greckich gdyż, jak sądzę, są najstarszymi z istniejących map. Proszę zwrócić uwagę na zarys linii brzegowej północno-zachodniej Europy oraz na wyspy leżące u jej brzegów. Będzie to jednym z moich dowodów na prawdę starożytnych. Na mapie Korybesa dwie duże wyspy nazywają się Albion i Hibernia a powyżej nich znajduje się Thule. Na mapie Erastotenesa Albion zamienia się w Bretanię, zaś na mapie Dionizjusza widzimy dwie kiszkowate wyspy pod wspólna nazwą Britanni Issule i powyżej na obu także Thule.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Herodot
 
+[obraz]  
 Dicearchus
 
+[obraz]  
 Rzym
 
 Na mapie Herodota u wybrzeży znajdują się trzy małe wysepki o nieodczytanej przeze mnie nazwie. Na mapie Dicearchusa widzimy tylko Thule i obok wielką nieopisaną wyspę, ale już na mapie Rzymu (tu przekręconej o 90°) Znajduje się wyspa Britannia oraz Thule w znacznym oddaleniu. Sensacją (przynajmniej dla mnie) jest brak... Morza Bałtyckiego. Ktoś może powiedzieć - przecież Grecy znali tylko rejon Morza Śródziemnego. Zgoda, to skąd w takim razie wiedzieli o Morzu Kaspijskim? Skąd o Zatoce Perskiej czy Oceanie Indyjskim z Taprobaną. Skąd Erastotenes powziął wiadomość o Oceanie Północnym? Morza Bałtyckiego nie ma, bo nie było go na najstarszych mapach tych sprzed kataklizmu. Bałtyk zaistniał dopiero po kataklizmie 12,5 tysiąca lat temu, gdy wody Atlantyku zalały szelf kontynentalny i wlały się w dzisiejszą nieckę zatapiając przy okazji legendarny Jomsborg. Nieprawdopodobne? Być może, ale nie aż tak niemożliwe.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Europa przed kataklizmem (?)
 
+[obraz]  
 Ten sam rejon z kosmosu
 
 Pozwoliłem sobie na mały eksperyment. Zakładając że przed kataklizmem, który zatopił Atlantydę, kontynenty znajdowały się wyżej, "wynurzyłem" ponad wody szelf kontynentalny. Jest to oczywiście daleki od doskonałości zarys kontynentu nie uwzględniający zmian wysokości przy zmianie krzywizny geoidy w zależności od odległości od bieguna (jak wiemy różnica odległości punktu od środka ziemi na równiku i biegunie wynosi około 22 km). Daje to jednak ciekawy, zmuszający do zastanowienia efekt. Obok dla porównania zamieściłem zdjęcie satelitarne tego samego rejonu, gdzie widać ukształtowanie terenu znajdującego się pod wodą. Porównajmy zarys północno-zachodniego brzegu Europy sprzed kataklizmu z tym samym rejonem na mapach starożytnych. Widać dość duże podobieństwo, co może być dowodem, że starożytni korzystali z map wykonanych przed kataklizmem. Zarys brzegów Europy starożytnych oraz przybrzeżnych wysp nie pokrywa się idealnie z moim "eksperymentem", ale zasadnicze elementy wykazują duże podobieństwo.
@@ -5694,24 +5315,19 @@ Przypatrzmy się teraz słynnemu kociołkowi z Gundestrup w Danii. Oczywiście, 
 
 Bóg Cernunnos w prawej ręce trzyma bransoletę zwaną torquesem, a w drugiej ściska dość sporego węża lecz najbardziej chyba intrygującym fragmentem płaskorzeźby jest człowiek płynący na delfinie. Motyw delfina spotyka się przede wszystkim w sztuce minojskiej, a to są czasy na długo przed Rzymianami. Drugi bóg, to Taranis trzymający w ręku zwykłe koło od wozu, które dla historyków jest jednak atrybutem słońca (tzw. znak solarny). On sam występuje także w osobliwym otoczeniu. Na samym dole widzimy latające niby konie z ptasimi dziobami i potężnymi pazurami, po obu stronach występują tajemnicze zwierzęta o centkowanej sierści, koło zaś usiłuje mu wyrwać postać w hełmie z rogami. Za dużo tu tajemniczych postaci jak na Celtów żyjących prawie nam współcześnie.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Brigantia
 
+[obraz]  
 Kowentyna
 
+[obraz]  
 Taranis
 
+[obraz]  
 Rosmerta
 
+[obraz]  
 Esus
 
 Stelle wotywne z reliefami bogiń celtyckich. Pierwsza z lewej to Brigantia. Bogini wiedzy, poezji i wieszczbiarstwa. Jedna z najstarszych bogiń celtyckich, która przetrwała do naszych czasów, a nawet została świętą Brigit z Kildare. Ciekaw jestem w jakich to momentach wykorzystywała trzymaną przez siebie włócznię? A może celtycki bóg miłości biegał po ziemi z siekierą i dlatego do dziś nie został zidentyfikowany? Druga to Kowentyna, bogini wodna. Przyznam szczerze, że nie widzę tu żadnego atrybutu wody, chyba że w fałdach spódnicy dojrzymy falująca wodę. Stelle wotywne bardziej też przypominają mi nagrobki i bardzo możliwe, że ze znamienitych nieboszczek celtyckich uczyniono boginie, ale to już sprawa interpretatorów nagminnie lubiących gmatwać najprostsze sprawy. Bóg Taranis okrzyknięty celtyckim Zeusem chyba z powodu trzymanego w ręku "oscypka", wygląda na kołodzieja z zawieszonym na ramieniu kompletem podkładek. Tutaj też zwykłe koło do wozu awansowało do symbolu słońca. Dalej bóg o dość swojsko brzmiącym imieniu Esus (drwal, cieśla?) oraz Rosmerta, symbol śmierci i zniszczenia - to też ponoć rzeźby z grupy galo-rzymskiej.
@@ -5786,16 +5402,13 @@ Nie sposób opisać wszystkiego i wydaje się, że świadomie pominąłem warown
 
 Na poczatek pytanie. Z czego najłatwiej jest wznieść zamek - z kamienia czy cegły? Odpowiedź jest oczywista - na pewno z cegły. Dlaczego więc najstarsze budowle średniowiecznej Europy wzniesiono z kamienia? Odpowiedź jest też oczywista - bo nie znano cegły. Co prawda wypalaną cegłę wynaleźli już Babilończycy i do tego powlekaną niebieską glazurą oraz Rzymianie w II wieku ne, ale na terenie Europy widać nie była popularnym materiałem budowlanym, oczywiście do czasu. Jest też charakterystyczną rzeczą, że z końcem średniowiecza, jak nożem uciął, kończy się budowa kamiennych zamków. Dlaczego? Kamień jest najtrudniejszym w obróbce surowcem ale i najtrwalszym, mogącym przetrwać wieki. Kamienne mury mogą z powodzeniem przetrwać największy pożar i w dalszym ciągu pozostać użyteczne. Kamienne mury może zalać woda i kamienne mury będą trwać i służyć dalej. Dlaczego tak lekkomyślnie zrezygnowano z ich budowy. Dlaczego mimo upływu setek lat nikt nie podjął się odbudowy, z małymi wyjątkami, tych przepięknych budowli? Jako anegdotę można przyjąć stwierdzenie historyków, że zaprzestano budowy murów, bo nie broniły przed ogniem armat. Panowie historycy, walory obronne murów są aktualne i dzisiaj. To dlatego Francuzi wydali fortunę na linię Maginota i dlatego Hitler odpowiedział linią Zygfryda. Ale to tak na marginesie. Odpowiedź na pytanie może być tylko jedna - nikt nie potrafił. Nikt nie potrafił, nigdzie nie było odpowiednich specjalistów, nikt nie miał odpowiednich narzędzi i odpowiedniej techniki, bo nikt ze średniowiecznych ludzi tych zamków nie zbudował.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Tintagel
 
+[obraz]  
 Pendragon
 
+[obraz]  
 Kornwalia
 
 Zniszczone zamki wyspiarzy. Zamek Tintagel jest łączony z legendarnym królem Arturem i rycerzami okrągłego stołu. Ten celtycki władca został włączony do rycerzy chrześcijańskich z powodu Świętego Graala, do dziś szukanego przez entuzjastów. Jeśli Graal wogóle istnieje to sądzę, że należy go szukać w stolicy Celtów, za Słupami Heraklesa. Wielka Brytania jest wprost usiana zamkami. Historia uczy, że sam Wilhelm Zdobywca w ciągu wieku wybudował ich 900. Dziewięć potężnych zamków w ciagu roku? Kto mu pomagał - Bóg czy diabeł? Wyspiarskie zamki są zniszczone w ogromnej większości i nigdy nie zostały odbudowane. Takich spustoszeń mogło dokonać tylko trzęsienie ziemi, ale historycy wolą inne wytłumaczenie. Zamki na wschodzie Brytanii niszczyli... Wikingowie. A było to tak. Do brzegu dobijała flota kilku drakkarów, wytaczało się z nich kilkudziesięciu brodatych Wikingów i rozpoczynało oblężenie. Niemal natychmiast znajdowałuje się mnich-zdrajca albo chłopak pasący owce, który znał tajemne przejście. Wikingowie zdobywali zamek, gwałcili, mordowali i plądrowali, by w końcu go podpalić. Zamek płonął doszczętnie i musiał jeszcze ostygnąć zanim normańscy woje dokonali całkowitego zburzenia. Wtedy to przy pomocy mieczy, dzid i siekier kilkudziesięcu ludzi dosłownie roznosiło go w pył.
@@ -5898,38 +5511,30 @@ Katarowie, rycerze maltańscy, Templariusze. Dlaczego musieli zginąć i przepa�
 
 Czy my Polacy, naród z peryferii Europy, mamy się czym pochwalić? Oczywiście, że mamy. Wystarczy rozejrzeć się dobrze dookoła i chcieć ujrzeć ślady jeszcze starszej historii, niż się nam na codzień serwuje. Nasi historycy, spętani obowiązująca hipotezą, nie zauważają lub nie chcą zauważyć takich śladów. Wolą rozkopywać najstarsze wiejskie cmentarzyska, grzebać w starożytnych śmietnikach, tworząc coraz to nowsze hipotezy, niż przyjrzeć się dokładnie temu co leży dosłownie na wierzchu. Polska tak jak dzisiaj tak i w przeszłości nie była samotną wyspą. Oddziaływały na nas kultury sąsiadów i my oddziaływaliśmy na nich. Najstarsze źródła nie wymieniają nas z imienia, dla nich byliśmy Hiperborejczykami, czyli mieszkającymi poza wiatrem północnym i jak sądzę odnosiło sie to do czasów sprzed kataklizmu, gdzie nasze tereny leżały w strefie klimatycznej podobnej do klimatu śródziemnomosrkiego, a wiec takiego gdzie nie docierał arktyczny Boreasz.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Fragment kręgu w Odrach
 
+[obraz]  
 Słup milowy(?)
 
+[obraz]  
 Niedźwiedź(?)
 
+[obraz]  
 Kot, lew, pies...?
 
 Wszyscy zapewne znają nasz najsłynniejszy krąg (a właściwie krążek) kamienny w Odrach na Pomorzu. Znane sa też zapewne kamienne rzeźby z okolic Ślęży, ponoć świętej góry śląskich pogan, na której szczycie odkryto pozostałości kamiennej budowli. Teren pokrywa się z historycznym zasięgiem kultury celtyckiej (tych Celtów pokonanych przez Rzymian, którzy skierowali się w stronę Śląska a potem na Bałkany). Krąg kamienny odkryto i koniec na tym. Ponoć zbierają się tam polscy druidzi szukający odnowy duchowej. Na Ślęży rozgrzebuje się coś archeologicznie, ale jak dotąd nie opublikowano żadnych badań. W okolicy góry znajduje się też kamienny kościół, ale też nie zwraca większej uwagi archeologów.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Ślęża
 
+[obraz]  
 Kamienny kościół. Ślęża
 
+[obraz]  
 Kamienne fundamenty na Wawelu
 
+[obraz]  
 Kamienna rotunda
 
 Jeden z najstarszych polskich ośrodków administracyjnych i kultowych - wawelskie wzgórze, kryje z pewnością więcej tajemnic niż o nich wiemy. Na środku wzgórza znaleziono kamienne fundamenty budowli, a wewnątrz budowli wawelskiej obmurowaną ceglanym murem kamienną rotundę śś. Feliksa i Adaukta. Mury rotundy przypominają sposób budowy celtyckich Irów (użycie płaskich kamieni, szlifowanych na licu). Dlaczego budowli nie rozebrano (chociażby dla uzyskania budulca) a po prostu obmurowano? Czy to nie relikt pierwszych "bizantyjskich" chrześcijan. Polska z pewnością znajdowała się w zasięgu ich ewangelizacji (Cyryl i Metody), ale ślady po nich zostały starannie zniszczone (np. pisma święte pisane głagolicą). Czy początki naszego państwa są takie jak mówi oficjalna historia? Dlaczego król czeski daje za żonę córkę Dobrawę pogańskiemu Mieszkowi. Taki gest to przecież policzek dla kościoła z nieobliczalnymi politycznymi konsekwencjami. Sądzę, że Mieszko I był chrześcijaninem, ale w obrządku wschodnim a sytuacja geopolityczna postawiła go na drodze chrześcijaństwa w obrządku rzymskim. Miał więc do wyboru - albo rzymski chrzest albo krwawe nawrócenie i koniec Polski. Stąd prawdopodobnie zniszczenie wszelkich dowodów łączności z Bizancjum i zamurowanie rotundy.
@@ -5952,30 +5557,24 @@ Na terenach Polski odnaleziono wiele kamiennych krzyży. Historycy nazwali je kr
 
 Przypatrzmy się nie mniej intrygującym, chociaż ponoć młodszym, kamiennym zamkom. Większość ruin, a szczególnie tzw. orle gniazda, przypisywana jest Kazimierzowi Wielkiemu na zasadzie ogólnego stwierdzenia - "zastał drewnianą, a zostawił murowaną". Nachodzą mnie watpliwości co do twórcy tychże. Budowa nawet jednego zamku, to nie zachcianka i przedsięwzięcie miejscowego sołtysa a działalność na szczeblu państwowym.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Bydlin
 
+[obraz]  
 Czorsztyn
 
+[obraz]  
 Morsko
 
 Budowa sieci zamków wymaga strategicznego rozeznania terenu, projektowania, zebrania specjalistów, zgromadzenia materiałów i ich obróbki, nie wspominając o transporcie, wyżywieniu i zakwaterowaniu robotników. Do budowy musiano też zużyć ogromne ilości spoiwa. Jakiego? Krzyżackiego cementu na kurzych jajach? Dlaczego tak ogromne przedsięwzięcie państwowe nie ma żadnego odzwierciedlenia w królewskich dokumentach? Przecież w tym czasie Polacy (a przynajmniej królewscy urzędnicy) umieli już pisać.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Ogrodzieniec
 
+[obraz]  
 Olsztyn (małopolski)
 
+[obraz]  
 Rabsztyn
 
 Dlaczego tak ważna inwestycja z punktu widzenia obronności państwa, popadła w ruinę w tak krótkim czasie? Dlaczego żaden zamek (no prawie żaden) nie został odbudowany?
@@ -6341,30 +5940,24 @@ Sydon to nie tylko "morski zamek" ale także kamienny zamek na lądzie (zwany ta
 
 Oprócz wielkich kompleksów budowlanych zwanych powszechnie cytadelami, Bliski Wschód jest usiany setkami kamiennych zamków. Ile takich zamków lub ich ruin kryją jeszcze piski pustyń? Tego nie wiemy, bo badania tego terenu prowadzone są sporadycznie lub wcale z uwagi na wrogość świata arabskiego. Sami Arabowie się do tego nie kwapią, bo nie widzą celu, a jeśli już zaczynają coś odkopywać, to tylko po to by potwierdzać wersety Koranu. Hipotezy arabskich uczonych raczej nie przenikają do naszego świata, a jeśli nawet, to nie są w stanie zagrozić hipotezom "białych".
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Bagras
 
+[obraz]  
 Byblos
 
+[obraz]  
 Saona
 
 Zamek w Bagras ponoć zajmowali i Rzymianie i Bizantyjczycy i Templariusze. Kto go wybudował? W zasadzie nie wiadomo, a historyczne stwierdzenia są wypełnione słowem "prawdopodobnie" i zależą od narodowości narratora. Wiekszość skłania się do tezy, że "większa część budowli jest dziełem Leona II, a templariusze zajęli się tylko jego zagospodarowaniem". Byblos przypisuje się Fenicjanom, a Saona Bizantyjczykom gdzieś w IV-V wieku ne. Kamienne mury o regularnych elementach świadcza o wysokiej znajomości sztuki obróbki kamienia. Jak w tamtych czasach wynoszono w górę elementy o tak znacznej wadze i precyzyjnie układano obok siebie?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Azrak
 
+[obraz]  
 Safita
 
+[obraz]  
 Zamek Saladyna (Saona)
 
 Zastanówmy się też nad technicznym rozwiązaniem budowy łuków z potężnych kamiennych elementów w przyziemiach zamków Azrak, Safita czy zamku Saladyna. Jeśli używano drewnianych rusztowań, to proszę pamiętać, że nie tylko do budowy kamiennych łuków. Rusztowania musiały podpierac także całe kamienne stropy. Dlaczego ściany i sufity nie posiadają żadnych ozdób, a przynajmniej nie sa wygładzone tynkiem? Saladyn, potężny władca wschodu mieszkał w gołych murach? A gdzie ten przysłowiowy wschodni przepych? Rozkradziony? Przez kogo?
@@ -6387,94 +5980,74 @@ Udajmy się teraz na "nasze" tereny. Europa to tysiące, jeśli nie więcej duż
 
 Czy w średniowieczu nie było budynków z cegły? Były, są i jest ich dużo. Problemem jest tylko kto i kiedy budował z takiego rodzaju cegły. Proszę zwrócić uwagę na kształt cegły - jest długa i płaska, czym od razu wyróżnia się wśród cegieł - współczesnej czy średniowiecznej tzw. palcówki. Cegły tego rodzaju używano od Hiszpanii poprzez Rzym aż po Grecję i dzisiejszą Turcję. Ten sam rodzaj cegły został użyty także przy budowie Hagia Sophia w Konstantynopolu. W samym Rzymie budowle z tego materiału spotykamy na Palatynacie, z niego zbudowano termy, koloseum, pałace cezarów i wiele innych budowli. Poza Rzymem cegłę taką można spotkać też w Pompejach i Bari.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Conimbriga
 
+[obraz]  
 Rzym
 
+[obraz]  
 Pompeje
 
+[obraz]  
 Tessaloniki
 
 Jeśli za rozpowszechnienie tej cegły "winić" Imperium Rzymskie, to pojawia się pewien problem. Budowle z niej pojawiły się na długo przed wynalezieniem przez Rzymian... właśnie cegły. Historycy twierdzą stanowczo, że cegłę wynaleźli Rzymianie ale dopiero w II w. ne, gdzie zaczęto ją wytwarzać w małych, przydomowych warsztatach razem z dachówkami. Jakim tedy "prawem" używał tej cegły Krezus budując Sardes? Krezus to przecież historia na długo przed powstaniem imperium. Skąd taka cegła w Grecji, w Tessalonikach? Jaka to "cegielnia" wyprodukowała cegły na budowę chociażby koloseum (70-82 r. ne)? Dlaczego taka cegła wyziera z murów Alhambry, zbudowanej rzekomo przez Arabów dopiero w XIII w.? Pomimo usilnych poszukiwań nie udało mi się znaleźć zdjęć budowli z tego materiału we Francji, Niemczech, Irlandii, Brytanii, Skandynawii czy poza kręgiem tureckim. Pomijając łuk w Conimbriga (cegła podobna, ale styl budowy już nie, bo jakiś mało elegancki) "ceglany krąg" można zawęzić do części Hiszpanii, środkowych i południowych Włoch, Grecji i zachodniej Turcji (oczywiście dzisiejszych).
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Hiszpania
 
+[obraz]  
 Piza
 
+[obraz]  
 Bizancjum
 
+[obraz]  
 Sardes
 
 Co zatem stało się z tym elementem budowlanym? Oczywiście można powtórzyć za historykami, że zszedł do grobu z Imperium Rzymskim i jego słynnym cementem, ale byłoby to zwykłe uproszczenie sprawy. Skoro z tego rodzaju cegły nie powstało nic w późniejszej współczesnej Europie, to wniosek może być tylko jeden - ten rodzaj cegły nie jest wynalazkiem żadnej współczesnej społeczności, a jeśli nie współczesnej, to jakiej?
 
 Osobiście uważam te budowle za raczej ograniczone do pewnego terytorium i być może związane z postępem technicznym, stylem czy budowlaną "modą". Wszędzie przeważają budowle z kamienia i te znajdujemy na całym terytorium dzisiejszej Europy. Oglądając "średniowieczne" zamki bądź na fotografiach bądź w oryginale jesteśmy pod wrażeniem ich wielkości i nie zastanawiamy się nad rzeczą podstawową - jak je zbudowano. Rzadko lub wcale możemy obejrzeć podziemia - fundamenty na jakich je postawiono. Z reguły oglądamy to, co nam wolno, a więc fragmenty "odrestaurowane" i pokryte współczesnym tynkiem konserwatora. Czy zastanawialiśmy się dlaczego większość zamków budowano na podłożu skalnym? To jest wyrafinowana ekonomia ówczesnych budowniczych - skała tworzy naturalny, niesłychanie mocny fundament. Jeśli nie widzimy skalnego podłoża, to możemy założyć, że blisko 1/3 wysokości zamku stanowi jego sztucznie wybudowane podłoże, które jest zagłębione w ziemi.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Grecja
 
+[obraz]  
 Portugalia
 
+[obraz]  
 Turcja
 
+[obraz]  
 Francja
 
 Część podziemna, o ile nie została "upiększona" przez potomnych może powiedzieć wiele o ówczesnej technologii i zastosowanej technice. To właśnie tam znajdziemy największe elementy budowli i od tego należałoby by zacząć badanie całości. Należy bowiem przypuszczać, że ta część każdego zamku musi stanowić najstarszą jego część. Pragnę zwrócić uwagę na rzecz, która jest wręcz pomijana przy ocenie wieku tzw. "średniowiecznych" zamków. Jest to zasada budowy spotykana niemal we wszystkich tego typu obiektach. Grube mury zamkowe są zbudowane z nieociosanych kamieni lub otoczaków spajanych zaprawą, natomiast zewnętrzną warstwę stanowi kamienna okładzina, która byc może ma stwarzać wrażenie, że całość jest zbudowana z kamiennych ciosów. Poziome belki nad oknami, o ile nie zastosowano kamiennego łuku, są wykonane z jednego kamiennego bloku, natomiast ościeża okien (zachowane jeszcze gdzie niegdzie) są wykonane z kilku lub jednego, doskonale obrobionego kamiennego elementu.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Bliski Wschód
 
+[obraz]  
 Anglia
 
+[obraz]  
 Rzym
 
+[obraz]  
 Ameryka Południowa
 
 Taki rodzaj budowy jest spotykany prawie wszędzie i co dziwne jest też podstawową techniką budowy piramid i kamiennych budowli Ameryk prekolumbijskich. Czy to nie rodzi pytań o wiek budowli? Owszem, ale współczesna historia nie może wyjść poza przyjęte ramy czasowe. Drugie pytanie, na które historia nie odpowiedziała jednoznacznie - dlaczego prawie wszystkie "średniowieczne" budowle są dzisiaj w ruinie? Jedyna odpowiedzią jaką możemy usłyszeć, to zniszczenia wojenne lub upływu czasu. Na pierwsze pytanie można odpowiedzieć pytaniem - jak liczne nusiały być armie i jaką dysponowały techniką, by takich zniszczeń dokonać na tak rozległym obszarze? Co do upływu czasu też można spytać - dlaczego do tej pory stoją kamienne budowle Egiptu. Inne kamienie? Czy polskie zamki uległy zniszczeniu tylko dlatego, że są zbudowane z wapienia? To dlaczego twierdzi się, że przepiękne twory krasowe (też w skałach wapiennych) powstawały dziesiątki czy setki tysięcy lat, gdzie woda oddziaływała bez przerwy, a nie w postaci okresowych deszczów? Dopóki w założeniu nie uwzględnimy "wielkiego uskoku skorupy ziemskiej", nigdy nie rozwiążemy zagadki zniszczeń tylu budowli i na tak wielkim obszarze. Nigdy nie znajdziemy odpowiedzi na pytanie - jak zbudowano zamki stojące wprost na wodzie. Nigdy nie odpowiemy na pytanie kto i kiedy zdołał zasypać podziemia ruin aż po same stropy, a tego może dokonać tylko płynne błoto.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Węgry
 
+[obraz]  
 Dania
 
+[obraz]  
 Szwecja
 
+[obraz]  
 Anglia
 
 Dlaczego archeologowie i historycy, skądinąd narodek racjonalistów, zaprzęgają do historii legendy tam gdzie nie można znaleźć racjonalnego wytłumaczenia? Dlaczego przyjmuje się czasem niewiarygodne stwierdzenia w rodzaju - Za Wilhelma Zdobywcy w ciągu 100 lat zbudowano 900 zamków? Jaki naród był w stanie ponieść takie koszty budowy? Skąd wzięto taką ilość sił i środków, by w ciągu jednego roku wybudować 9 zamków? A jak budowano zamki w Brytanii? W średniowiecznej Anglii sprawę budowniczych załatwiano w prosty sposób. Pani na zamku obwieszczała rankiem, że miała widzenie iż aniołowie zbudowali kaplicę zamkową. Wszyscy szli do kaplicy i o dziwo faktycznie była zbudowana. Wieść szła do gminu i sprawa załatwiona. Nikt nie śmiał zaprzeczać, bo za negowanie boskich mocy można było dostać po karku... toporem. I to jest baza nowoczesnej historii.
@@ -6936,24 +6509,19 @@ Proszę przypatrzeć się zdjęciom i spróbować odpowiedzieć sobie samemu na 
 
 Czy ktoś podróżując polskimi kolejami zwracał uwagę na tzw. wieże ciśnień? Chyba bardzo rzadko, a jeśli już, to traktował je z pewnościa jako "przymusowy" element krajobrazu kolejowego. Wiek pary i rozwój kolejnictwa przypadł na dziewiętnaste stulecie znacząc swój rozwój kilometrami torów i obowiązkowymi zbiornikami na wodę dla parowozów. Jak to się jednak stało, że niektóre wieże ciśnień przypominają klejnoty architektury średniowiecznej (w odróżnieniu od niektórych obskurnych dworców)? Dlaczego tak wiele wysiłku wkładano w budowę czegoś, co miało służyć nie podróżnym, a zwyczajnej lokomotywie? Po co zwykłemu zbiornikowi na wodę romańskie okienka czy wykusze na wieżach? Oczywiście większość projektantów jest znana, ale można zapytać co właściwie zaprojektowali - budynek czy tylko zbiornik i instalację wodociągową?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Wrocław
 
+[obraz]  
 Biała
 
+[obraz]  
 Kowalewo
 
+[obraz]  
 Zawiercie
 
+[obraz]  
 Trawniki
 
 Dlaczego dla tak prozaicznej czynności jaką jest wlanie wody do parowozu budowano "cacuszka" w rodzaju zameczków czy średniowiecznych wież zamkowych? Dlaczego wkładano tyle pracy i twórczej inwencji w budowę elementu systemu, który zwykle znajduje się poza stacją kolejową, gdzie nikt go nie ogląda? Jakoś nie mogę tego zrozumieć. Kolejarzom potrzebny był tylko zbiornik na wodę położony wysoko i takie, ekonomiczne możemy jeszcze dziś oglądać na prerii za oceanem. Proszę obejrzeć kilka wybranych wież. Czy nie przypominają średniowiecznych budowli? Dlaczego w Trawnikach wybudowano ozdobny kamienny portal dla wejścia, które zabetonowano? Jest jeszcze inny aspekt tej sprawy. Wieże ciśnień nie są pod ochroną prawną. Można je sprzedawać, kupować, zamieniać na urokliwe knajpy a nawet zniszczyć (bo to własność PKP) i pies z kulawą nogą o nie się nie upomni.
@@ -6980,20 +6548,16 @@ Ostrów Lednicki
 
 Kto zatem stworzył tą technologię i kto ją rozpowszechnił po całym bez mała globie? Jak to się stało, że w użyciu była przez tak długi czas - od megalitycznych "grobów" po średniowiecze? Kiedy wreszcie jej używano? Przecież "rzymski cement" zszedł do grobu razem z Imperium, a nową, współczesną zaprawę zaczęto stosować dopiero po wynalezieniu cementu portlandzkiego w XIX wieku. Można mi zarzucić niczym nie uzasadnioną manipulację. Owszem można, ale dopiero wtedy gdy zbada się skład chemiczny zaprawy z tych wszystkich miejsc, ale tego na dziś nie można stwierdzić, bo nikt nie wpadł na tak prosty pomysł. Czy takie badanie jest zbyt drogie czy zbyt niebezpieczne... dla naszej historii?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Bolczów
 
+[obraz]  
 Nidzica
 
+[obraz]  
 Sulejów
 
+[obraz]  
 Ujazd
 
 Co może wyróżniać te piękne kamienne łuki? Na pierwszy rzut oka wydają się takie same, zbudowane podobną techniką i w tym samym stylu, ale według historyków zbudowano je w różnym czasie. Bolczów - w końcu XIV wieku, Nidzica - w drugiej połowie XIII wieku, Sulejów, początkowo klasztor cystersów - w pierwszej połowie XIII wieku, Ujazd, zamek Krzyżtopór - dopiero w XVII wieku. 400 lat niezmienionej techniki budowlanej i to w Polsce? Jeśli dołożyć do tego rotundę z Wawelu czy Cieszyna (obie z około X/XI wieku), to niezmienność stosowanej techniki wydłuża się do około 700 lat. Czyż to nie wspaniałe osiągnięcie polskiej sztuki budowlanej? Dziwi tylko dlaczego tak trwały i wspaniały sposób budowy zarzucono na rzecz betonu i wielkiej płyty.
@@ -7013,20 +6577,16 @@ Wprowadzenie stylów budowy do dzielenia historii na mniejsze jednostki czasu wp
 
 Stawia to na głowie pojęcie postępu technicznego, bo z tego co widzimy im głębiej w historię tym większe techniczne możliwości budowniczych. Podobnie za błędny uważam podział stylów kapiteli kolumn. Greckie style - dorycki, joński czy koryncki są spotykane niemal na całym świecie i w budowlach z różnych okresów czasu.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Hiszpania
 
+[obraz]  
 Chiny
 
+[obraz]  
 Francja
 
+[obraz]  
 Rzym
 
 Skąd zatem koryncki kapitel w świątyni w Evorze? Kto wykonał tem koryncko-joński kapitel w starożytnych Chinach? Jakim cudem znalażł się koryncki kapitel w średniowiecznej Notre Dame w Paryżu? Kiedy Grecy budowali w Rzymie? Z tym jak sądzę ani Grecy ani tym bardzie Rzymianie nie mają nic wspólnego.
@@ -7116,20 +6676,16 @@ Koincydencja (z łaciny) to jednoczesne wystąpienie kilku zjawisk lub zdarzeń.
 
 Chodzi tu tylko o ślady na obrzeżu bloków kamiennych wyglądające jak odciski opuszków palców giganta albo szczęk jakiejś maszyny. Po lewej ślady w kamieniu Sacsayhuaman, po prawej ślady na kamieniu z Chińskiego Muru (Bejing) oraz murów japońskiej Osaki i Nagoi, po drugiej stronie kuli ziemskiej. Co ciekawsze układ śladów jest prawie identyczny. Jaka zaszła tu koincydencja? Czy to koincydencja myśli czy techniki, a może jedno i drugie naraz? Archeolodzy nie zajęli stanowiska, bo albo tego nie zauważyli albo udają, że nie wiedzą o co chodzi.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Sacsayhuaman
 
+[obraz]  
 Bejing
 
+[obraz]  
 Nagoja
 
+[obraz]  
 Osaka
 
 Połączenie tych dwóch śladów przeczyłoby teorii o budowie chińskiego muru przez współczesnych Chińczyków. Czy budowle - Sacsayhuaman, część chińskiego muru i mury obronne Nagoi i Osaki mogły powstać w mniej więcej tym samym okresie?
@@ -7139,20 +6695,16 @@ Połączenie tych dwóch śladów przeczyłoby teorii o budowie chińskiego muru
   
   
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Cusco
 
+[obraz]  
 Delfy
 
+[obraz]  
 Naxos
 
+[obraz]  
 Segesta
 
 Problem błahy ale tylko z pozoru. Na przykładzie z Naxos spróbujmy wyobrazić sobie jaki duży musiał być element przed obróbką. Czy występy te, a raczej czopy wykonywano faktycznie metodą skuwania? Do czego były potrzebne, bo na ozdobę raczej nie wyglądają? Jakich narzędzi użył tu człowiek z epoki kamiennej? Czy naprawdę można sądzić, że elementy te wykonał współczesny tym czasom człowiek? Sądzę, że to nie współcześni Grecy zbudowali Delfy, Naxos czy Segestę. Te ruiny są dużo starsze niż sądzi dzisiejsza historia.
@@ -7164,24 +6716,19 @@ Problem błahy ale tylko z pozoru. Na przykładzie z Naxos spróbujmy wyobrazić
 
 Następna jednomyślność dotyczy wykonywania na całym świecie dziur w kamieniu. Oczywiście wymyślenie samej dziury może nastąpić w każdym miejscu na świecie, gorzej z jej wykonaniem.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Abusir
 
+[obraz]  
 Sumatra
 
+[obraz]  
 Tiahuanaco
 
+[obraz]  
 Ugarit
 
+[obraz]  
 Malta
 
 Jak widać ze zdjęć dziury wiercono we wszystkich zakątkach świata i wszędzie wybierano najtrudniejszy surowiec - kamień. Problem polega jednak na tym, czym je wywiercono, gdyż jak wiadomo wiertło typu "Widia" wymyślili Niemcy i to dopiero w XX wieku. Ponadto pokazane dziury nie są bynajmniej małej średnicy, tak więc problem jest bardziej skomplikowany niż się wydaje. Eksponat, który widać na zdjęciu z Ugarit nauka nazwała kotwicą. Po co kotwicy trzy dziury, skoro jedna spełnia doskonale swoje zadanie? Natomiast w jednych z najstarszych kamiennych budowli na świecie w Gozo na Malcie w otworach można zmieścić ludzką dłoń.
@@ -7193,12 +6740,10 @@ Jak widać ze zdjęć dziury wiercono we wszystkich zakątkach świata i wszędz
 
 Przedstawiam dwa rysunki z dwóch ośrodków cywilizacyjnych oddalonych od siebie tysiącami kilometrów i głębią oceanu Atlantyckiego. Rysunki są tak podobne do siebie, że aż jednakowe. Różnica to dwa rodzaje zwierząt - lew i puma oraz w rysunku egipskim krzyż ankh. W środku między zwierzętami widzimy prawdopodobnie słoneczny dysk wschodzący między wzgórzami. Lew to zwierzę Egiptu, natomiast puma to "lew" Ameryki Środkowej, zwany inaczej lwem górskim.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Szu i Tefnut. Egipt
 
+[obraz]  
 Pumy z Uxmal
 
 Ponieważ wschód słońca odgrywał i odgrywa w astronomii i religiach większą rolę niż jego zachód, sądzę, że chodzi tu o wschodzące słońce. Zatem coś ważnego musiało stać się ze wschodem słońca. Co spowodowało, że rysunek stał się tak ważnym dla obu cywilizacji? Moja hipoteza jest nierozerwalnie z "wielkim uskokiem skorupy ziemskiej", przyczyną kataklizmu ok. 12,5 tysięcy lat temu. Według mojej koncepcji przedstawiono tu zjawisko wschodu słońca w czasie równonocy wiosennej w "domu lwa" i to raz za razem. Znanym jest zjawisko precesji, które powoduje, że wschód słońca w dniu równonocy wiosennej zmienia się co około 2160 lat i występuje na tle coraz to innego gwiazdozbioru zodiaku. Stąd nasz podział na ery - erę ryb, erę wodnika itd.
@@ -7226,24 +6771,19 @@ Czy potwierdzeniem tej tezy mogą być "dziwne" rzeźby podwójnych azteckich ko
 
 Następna, dotąd jednoznacznie nie rozstrzygnięta sprawa, to sarkofagi czyli kamienne trumny dla co znamienitszych nieboszczyków. Problem jest w tym, że w ogromnej większości nie zawierały szczątków głównego bohatera. Już samo to winno postawić pytanie, czy na pewno były to "naczynia" na szczątki ludzkie. Archeologia ma na to tylko jedną odpowiedź - starożytni złodzieje. Trochę to niepokojące słyszeć ciągle, że jest się potomkiem ludzi o najniższych instynktach, ale być może jest to prawda.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Aksum
 
+[obraz]  
 Byblos
 
+[obraz]  
 Meidum
 
+[obraz]  
 Olbia
 
+[obraz]  
 Palenque
 
 Dlaczego jedne sarkofagi kipią wprost od ozdób, zapisano na nich imię nieboszczyka, dodano do nich złoto i srebro, a inne (pokazane na zdjęciach) są anonimowe? Dlaczego niektóre wielkością przewyższają wielkość trupa, dlaczego są tak masywnie wykonane i po co im tak ciężkie wieka? Oczywiście oficjalna wersja natychmiast umieszcza przy nich złodziei. Druga sprawa, to sposób ich wykonania. Czy były mozolnie wykuwane? Czym je szlifowane i jak wykuto wewnętrzną część? Jakich do tego używano narzędzi? Kamiennych czy brązowych dłutek? Dlaczego wszystkie wykonano z jednego bloku kamienia? Czy podstawowym kryterium miała być ich szczelność, tak by nic nie wyciekało? Jak uzyskano tak gładką powierzchnię? Powierzchnie wykuwane czy skuwane nigdy nie będą tak idealnie gładkie na całej powierzchni. O mozolnym wykuwaniu mówią tylko ci, co dłuto widzieli tylko na wystawie. Sam Flienders Petrie po zbadaniu sarkofagu w wielkiej piramidzie mówił już o użyciu diamentowych wierteł o wielkiej szybkości skrawania.
@@ -7253,12 +6793,10 @@ Dlaczego jedne sarkofagi kipią wprost od ozdób, zapisano na nich imię niebosz
   
   
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Egipt
 
+[obraz]  
 Ameryka Środkowa
 
 Dziwna zbieżność, która łączy dwie wielkie cywilizacje - Ameryki Środkowej i Egiptu. Oba reliefy są jakoś nie zauważane przez naukę, która z resztą nie wie co z nimi począć. Co dziwniejsze, według oficjalnej nauki obie cywilizacje dzielą tysiące lat. Skąd więc dwa, prawie identyczne reliefy? Na obu widzimy postacie ludzkie oplecione przez węża, obie postacie są otoczone przez dziwne przyrządy, obie wydają się być pilotami podróżującymi w środku węża. Latające węże są znane tylko z najstarszych przekazów i były pojazdami Bogów. Wynikało by z tego, że te cywilizacje żyły równolegle, utrzymywały ze sobą kontakty i bynajmniej nie w czasach współczesnych.
@@ -7295,24 +6833,19 @@ Przedstawiciele tej cywilizacji panowali w obszarze Oceanu Spokojnego i Indyjski
 
 Od pierwszych lekcji historii starożytnej wszyscy Europejczycy (ale chyba nie tylko) uczą się, że łuk architektoniczny wynaleźli Rzymianie. Zdjęcia poniżej albo przeczą temu absolutnie albo wręcz potwierdzają, że Rzymianie dotarli we wszystkie zakątki świata. Rzymianie więc czy koincydencja? Rzymian jak wiemy nie było nie było w Ameryce Środkowej czy w Chinach. Czy to Rzymianie budowali Grekom Olimpię? Czy to Rzymianie budowali na wyspie Philae w okolicach Assuanu? Kiedy? Dlaczego więc wszystkie posiadają w nazwie "romański"? Czy łuk "rzymski" to umowny wzorzec dla pozostałych budowanych na całym świecie? Dlaczego więc niektóre cywilizacje "śmiały" wyprzedzić twórców?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Dżibilchaltun
 
+[obraz]  
 Bejing
 
+[obraz]  
 Efez
 
+[obraz]  
 Olimpia
 
+[obraz]  
 Philae
 
 Łuki spotykamy w każdym prawie zakątku świata. Od Ameryki Środkowej przez Europę po Chiny. To, że Rzymianie są twórcami tego detalu budowniczego jest dla mnie nieporozumieniem, podobnie jak słynny "rzymski" cement - pucolana. Cegłę w Rzymie zaczęto wytwarzać w przydomowych warsztatach dopiero w II wieku naszej ery. Jak się to ma chińskiego muru, spajanego (jak ostatnio donoszą Chińczycy kleikiem ryżowym) Grecji czy Egiptu?
@@ -7324,24 +6857,19 @@ Philae
 
 Czy to następna koincydencja? Czy wszystkie te mosty zbudowali Rzymianie? Czy most w Bejing także? Tu jak sądzę nie pozwolili by na to Chińczycy. Oni też mają własnych "Rzymian" w postaci dynastii Qin, która rzekomo zbudowała Wielki Mur. A może Chińczycy podpatrzyli u Rzymian jak się buduje łuki? Chyba raczej niemożliwe. Sądzę, że zarówno Rzymianie jak i Chińczycy wszystkie wielkie kamienne budowle odziedziczyli przez "zasiedzenie", a dopomogło podstawowe założenie współczesnych archeologów i historyków, że to musieli zbudować współcześni ludzie i to kilkaset lat przed naszą erą.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Brytania
 
+[obraz]  
 Chiny
 
+[obraz]  
 Hiszpania
 
+[obraz]  
 Syria
 
+[obraz]  
 Turcja
 
 Jakimi narzędziami i jaką techniką dysponowano ponad dwa tysiące lat temu? W jaki sposób ustawiano filary w środku rzeki? W jaki sposób wykonywano prace budowlane pod wodą i to z użyciem "cementu"? Czy wtedy znano już kesony? Czym dostarczano budulec na środek rzeki? W jaki sposób ustawiano w głębokim nurcie rusztowania, by zbudować łuki z ciężkich kamiennych bloków? Dlaczego na całym świecie obowiązywał jeden i ten sam styl budowy? Na te pytania nie ma odpowiedzi. Podobnie jak nie ma nawet pisanych wzmianek o takich budowach, a jeśli już są, to słowo "odbudował" współcześni zapewne odczytali jako "zbudował", by nie komplikować i tak już skomplikowanej historii. Historycy mają zawsze jedną teorię: tysiące ludzi i niewolnicza praca przez dziesiątki, a nawet setki lat.
@@ -7353,20 +6881,16 @@ Jakimi narzędziami i jaką techniką dysponowano ponad dwa tysiące lat temu? W
 
 Gigantyczne naczynia spotykamy prawie na całym świecie. Komu i do czego służyły? Dlaczego wykonano je z tak trwałego materiału jakim jest kamień? Czy przechowywano w nich substancje, które z innymi materiałami wchodziły w niebezpieczne reakcje? Z jakiego materiału wykonano naczynia z Knossos, które wytrzymały trzęsienie ziemi, podczas gdy pałac rozsypał się jak domek z kart? Uczeni twierdzą, że to glina, choć nikt nie przeprowadził ekspertyzy fizyko-chemicznej a tylko organoleptyczną z uwagi na możliwość uszkodzenia zabytku.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Laos
 
+[obraz]  
 Knossos
 
+[obraz]  
 Ostia
 
+[obraz]  
 Ugarit
 
 Niektórzy twierdzą, że przechowywano w nich oliwę albo zboże. Ci, którzy tak twierdzą niech sięgną do dna po ostatnią garstkę zboża, lub resztki oliwy. Kto z ludzi był w stanie przechylać te naczynia i kto ustawiał je z powrotem pionowo bez użycia dźwigu? Wszystkie te głupawe hipotezy zaczynają się chwiać, gdy tylko do głosu dochodzą ludzie z technicznym wykształceniem i zaczynają zadawać "dziwne" pytania.
@@ -7378,24 +6902,19 @@ Niektórzy twierdzą, że przechowywano w nich oliwę albo zboże. Ci, którzy t
 
 Terasy według nauki były polami uprawnymi. Tak przyjęto i tak obowiązuje to do dziś. Ja natomiast sądzę, że zasadniczą rolą teras było umocnienie stoków gór czy wzgórz przed obsunięciem się podczas trzęsień ziemi lub bardzo intensywnych opadów deszczu. W niektórych terasach spotyka się rozbudowany system melioracyjny, który nie tylko nie miał zadania nawadniania poletek, ale wręcz przeciwnie, jego zadaniem było natychmiastowe odprowadzanie wody z teras podczas opadów do podnóża góry, by zapobiec rozmiękczaniu i w konsekwencji osuwaniu się gruntu. Funkcje teras jako pól uprawnych nadali dopiero dzisiejsi naukowcy, którzy już w naszych czasach ujrzeli paru Indian uprawiających na nich swoje poletka. System odwadniający stał się według naukowców systemem nawadniającym poletka na skutek błędnego założenia, że terasy były przede wszystkim polami uprawnymi.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Egipt
 
+[obraz]  
 Liban
 
+[obraz]  
 Chiny
 
+[obraz]  
 Izrael
 
+[obraz]  
 Jemen
 
 Jako pola uprawne terasy musiały sprawiać nie lada trudność rolnikom biorąc pod uwagę, że wysokość pojedynczej terasy najczęściej przekraczała dość znacznie wysokość człowieka, a więc dostanie się na wyższe piętro zmuszało rolnika do każdorazowego korzystania ze schodów. Tych zaś nie było zbyt wiele i znajdowały się przeważnie w znacznej od siebie odległości. Musiała to być też uprawa ręczna, gdyż przemieszczanie zwierząt pociągowych po piętrach teras było uciążliwe lub wręcz niemożliwe (spróbujmy zmusić konia do wejścia na drabinę). Co uprawiano na terasach? Nauka daje odpowiedzi zdawkowe, niejasne lub wymijające. Bo jakie to mogły być rośliny, które rosły i dawały plony przy rozpiętości wysokości sięgającej kilkuset, a nawet 2000 metrów? Terasy to nie tylko specjalność Ameryki Południowej. Spotykamy je także w Europie, Afryce czy Azji, choć nie słyszałem, by w Egipcie zostały uznane za pola uprawne. Jak widać technika "umacniania zboczy" była rozpowszechniona na całym świecie.
@@ -7407,24 +6926,19 @@ Jako pola uprawne terasy musiały sprawiać nie lada trudność rolnikom biorąc
 
 Tu można zastosować koincydencję, bo Ziemia trzęsła się i trzęsie w każdym prawie miejscu. Jak widać w każdym z zakątków obowiązywała ta sama zasada. Różnicę widać tylko w sposobie wykończenia murów. Jak je budowano? Nikt nie przedstawił jeszcze zadowalającej teorii. Być może dlatego, że próbuje się dopasować technologie dziś istniejące do epoki kamienia. Z dzisiejszego młotka i dłuta można zrobić pięściaki czy inne siekierki kamienne, ale to nic nie daje. Śmiem twierdzić, że nawet dziś nie jesteśmy w stanie zbudować czegoś takiego. I nie chodzi mi nawet o przycięcie kamieni, ale o manipulowanie kamieniami wielkości małego samochodu. Technologia ta używała prawdopodobnie innego rodzaju energii do cięcia i ustawiania.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Bejing
 
+[obraz]  
 W. Wielkanocna
 
+[obraz]  
 Sacsayhuaman
 
+[obraz]  
 Cusco
 
+[obraz]  
 Giza
 
 [obraz]
@@ -7506,12 +7020,10 @@ Jak zatem pogodzić identyczność symboli w cywilizacjach oddalonych od siebie 
   
   
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 El Tajin - Ameryka Środkowa
 
+[obraz]  
 Prasat Thom - Kambodża
 
 **Ciekawe i niewyjaśnione**
@@ -7826,24 +7338,20 @@ Na środkowym zdjęciu widać trzy kwadraty, dwa prawe o bokach około 10 kilome
 
 Na dżwięk słowa katakumby wszystkim bez wyjątku nasuwa się skojarzenie z prześladowaniem chrześcijan w starożytnym Rzymie. Jednak samo słowo łacińskie oznacza podziemny cmentarz. Jedną z "ciekawszych" hipotez na temat ich powstania jest brak miejsca na groby na powierzchni ziemi, bo ziemia w Rzymie była bardzo droga. Katakunby są spotykane nie tylko w Rzymie. Sa także na Sycylii, na Malcie, a także w Izraelu ale jakoś się je pomija w martyrologii chrześcijan. Być może dlatego, że nie pasują do hipotez dzisiejszych historyków.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Rzym
 
+[obraz]  
 Sycylia
 
 Kto je zbudował? Oficjalnie chrześcijanie w I w. ne., by tam się ukrywać a także chować zmarłych. Jest to co najmniej dziwne stwierdzenie. W jaki sposób organizacja działająca w wielkiej tajemnicy i tępiona zajadle, zdołała wykuć w skale taki obiekt? Było to ogromne przedsięwzięcie inżynieryjne, które zapewne nie było dziełem jednego roku. Kto był projektantem? Pomimo, że już używano słowa pisanego, jakoś nie zachował się żaden zapisek z nazwiskiem "naczelnego inzyniera". Jakich narzędzi używano podczas prac? Jak utrzymano w tajemnicy tak ogromne przedsięwzięcie budowlane? Co się działo z tysiącami ton urobku, który musiał być usuwany w miarę postępu prac? Czy faktycznie "mądrzy" Rzymianie byli aż tak głupi? Prawdopodobnie nie. Podziemne struktury musiały istnieć na długo przed Imperium Rzymskim i Rzymianie nie mieli o nich pojęcia, co skwapliwie wykorzystali chrześcijanie, odkrywszy je przypadkowo.
 
 Podziemne struktury istnieją na całym świecie, choć odkryto zaledwie ułamek ich procenta. Nie mając żadnego pomysłu lokuje się w nich cmentarze, czego dowodem mają być szkielety ludzkie, a ponieważ szkielety są stosunkowo młode, taką datę powstania otrzymują też podziemne budowle. Taki jest współczesny system datowania i nic na to nie poradzimy. Logika w archeologii nie miała i nie ma zastosowania. Nikt nie dopuszcza nawet możliwości, że te budowle zostały "zaśmiecone" przez ludzi stosunkowo niedawno, a ponieważ oficjalną doktryną jest hipoteza "gadających małp" nie wolno wyciągnąć innych wniosków.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Malta
 
+[obraz]  
 Izrael
 
 Inną sprawą jest materiał skalny w jakim wykuto podziemia. Skoro skała wapienne jest stosunkowo miękka, to według historyków można było kuć nawet krzemieniem. Jak zatem pogodzić człowieka z epoki kamiennej z projektowaniem i organizacją prac? Co zatem zrobić z "katakumbami" egipskimi, izraelskimi czy tureckimi? Nic, po prostu się taki aspekt pomija. Jaki cel mieli Żydzi by wykuwać swoje katakumby, bo nie słyszałem o ich prześladowaniu na miarę chrześcijan? Po co wykuwano podziemne miasta w Turcji? Czy pierwsi chrześcijanie działali też na Malcie i na Sycylii? Dwie rzeczy sa nieskończenie wielkie - wszechświat i ludzka głupota. To powiedziała Einstein i miał całkowitą rację. Na ziemi istniał wielki podziemny świat, ale ponieważ go nie widać, to nie ma prawa istnieć.
@@ -8547,61 +8055,20 @@ Systematyczną analizą starohinduskich systemów BMR od dłuższego czasu zajmu
 
 **SYSTEMY BRONI WYKORZYSTUJĄCYCH SIŁY NATURY**
 
-**Valavja**
-
-\-
-
-broń emitująca silne uderzenia wiatru - tornada - niszczące spore powierzchnie ziemi.
-
-**Varuna**
-
-\-
-
-BMR wywołująca burze i powodzie.
-
-**Vadjra**
-
-\-
-
-generator piorunów kulistych, nie mający odpowiednika we współczesnych arsenałach.
+| **Valavja** | \- | broń emitująca silne uderzenia wiatru - tornada - niszczące spore powierzchnie ziemi. |
+| --- | --- | --- |
+| **Varuna** | \- | BMR wywołująca burze i powodzie. |
+| **Vadjra** | \- | generator piorunów kulistych, nie mający odpowiednika we współczesnych arsenałach. |
 
 **SYSTEMY BRONI TECHNOGENNYCH**
 
-**Brahmashiras**
-
-\-
-
-anihilacyjna BMR, termojądrowy ładunek uwalniający ogromną ilość energii dzięki fuzji ciężkich jąder atomowych.
-
-**Brahmadanda**
-
-\-
-
-rakieta z głowicą neutronową.
-
-**Pashupata**
-
-\-
-
-wielolufowy miotacz rakietowy strzelający rakietami z konwencjonalnymi głowicami.
-
-**Chakra**
-
-\-
-
-latający dysk z siedmioma ostrymi grotami, napędzany silnikami rakietowymi na obwodzie.
-
-**Narajana**
-
-\-
-
-ówczesny odpowiednik dzisiejszej bomby kasetowej.
-
-**Anthardhana**
-
-\-
-
-broń dezorientująca wroga, łamiąca jego morale i powodująca utratę świadomości.
+| **Brahmashiras** | \- | anihilacyjna BMR, termojądrowy ładunek uwalniający ogromną ilość energii dzięki fuzji ciężkich jąder atomowych. |
+| --- | --- | --- |
+| **Brahmadanda** | \- | rakieta z głowicą neutronową. |
+| **Pashupata** | \- | wielolufowy miotacz rakietowy strzelający rakietami z konwencjonalnymi głowicami. |
+| **Chakra** | \- | latający dysk z siedmioma ostrymi grotami, napędzany silnikami rakietowymi na obwodzie. |
+| **Narajana** | \- | ówczesny odpowiednik dzisiejszej bomby kasetowej. |
+| **Anthardhana** | \- | broń dezorientująca wroga, łamiąca jego morale i powodująca utratę świadomości. |
 
 W tej wyliczance moglibyśmy dojść bardzo daleko - ich lista sięga kilku stron w książkach Diksitara i Wiesnera - a nie mówiliśmy jeszcze o zasadach użycia tych broni, co jest dziedzina wiedzy zwana Astravidia, a której opanowanie pochłaniało aż pięć lat intensywnego szkolenia! Stając twarzą w twarz z sanskryckimi tekstami możemy - według dr Władimira Rubcowa przyjąć cztery podstawowe hipotezy:
 
@@ -8840,107 +8307,24 @@ Póki będziemy zakładać, że "martwe satelity" wisiały nad cywilizacją Śre
 
 Uogólniając, można rzec, że od początku tysiąclecia spadał z nieba ogień, na niebie manewrowały dziwne ogniste pochodnie czy cylindry ogniste, a od czasu do czasu rozlegały się tajemnicze eksplozje. Już sam przegląd niektórych tylko obserwacji może być z naszego punktu widzenia bardzo zajmujący. Zobaczmy sami, co działo się na przestrzeni lat:
 
-715
-
-\-
-
-W środku lata na niebie pokazał się ciemny obłok, a potem niebo błysnęło ogniem.
-
-746-773
-
-\-
-
-Na niebie widziano ogniste smoki, szable i krzyże.
-
-919
-
-\-
-
-Nad Węgrami pokazała się tajemnicza, świecąca pochodnia.
-
-1104
-
-\-
-
-Ogniste pochodnie i latające ognie na niebie.
-
-1258
-
-\-
-
-Błyszcząca kula przeleciała nad rzeka i dwoma wioskami Szkocji, a po przebyciu 3 mil rozpadła się na popiół.
-
-1322
-
-\-
-
-4 listopada, w nocy nad Uxbridge (Anglia) pokazał się ognisty słup, który zmienił kolor, a potem z niego wydobył się czerwony płomień i posłyszano silny wybuch.
-
-1355
-
-\-
-
-W lecie, nad wieloma miastami Anglii latały czerwone i niebieskie tarcze, które jakby walczyły ze sobą.
-
-1388
-
-\-
-
-W kwietniu nad wieloma miastami Europy widziano ognistego smoka.
-
-1478
-
-\-
-
-W Szwajcarii spadały z nieba na ziemię przedmioty podobne do dzwonów i "ogniste misy", które pozostawiały ślady na niebie.
-
-1501-1503
-
-\-
-
-W całej Europie spadały z nieba misy i krzyże - w okolicy Norymbergii przez całe 26 dni!
-
-1561
-
-\-
-
-14 kwietnia przelatywały nad Norymbergą cylindry, krzyże i inne figury geometryczne, które jakby toczyły ze sobą bój!
-
-1619
-
-\-
-
-11 czerwca nad wioską Odranec i częścią wsi Vecova widziano jakiś ciemny obłok, w nim koło i jakieś dziwne znaki. Potem usłyszano straszliwy huk, jakby wybuchu i na ziemię spadły trzy kawały metalu. W tym samym roku Christopher Schere prefekt jednego ze szwajcarskich kantonów widział przelot długiego, błyszczącego obiektu nad Fluelenem.
-
-1624
-
-\-
-
-Od 7 do 17 listopada, w Czechach, zawsze o godzinie 5 po południu pokazywała się kula lecąca z zachodu ku wschodowi. Obracała się i zmieniała kolor od białej do czerwonej. Niekiedy kul było więcej.
-
-1678
-
-\-
-
-W godzinę po zachodzie Słońca, nad Dalmacją pokazał się obiekt większy od Księżyca w pełni i przeleciał nad Włochami i Korsyką z chrzęstem przesypywanych kamieni.
-
-1752
-
-\-
-
-15 kwietnia nad szwedzkim Angermanlandem przeleciała jakaś rura z fontanną ognia!
-
-1762
-
-\-
-
-9 sierpnia nad Szwajcarią przeleciał wrzecionowaty przedmiot, który zaobserwowali także dwaj astronomowie.
-
-1783
-
-\-
-
-18 sierpnia o godzinie 21:15, pewien Włoch Tiberius Cavello zaobserwował mały obłok, a pod nim owalny obiekt, który po chwili eksplodował. 30 sierpnia nad Greenwich jakiś obiekt rozpadł się na 8 satelitów, które powoli odleciały na południowy wschód.
+| 715 | \- | W środku lata na niebie pokazał się ciemny obłok, a potem niebo błysnęło ogniem. |
+| --- | --- | --- |
+| 746-773 | \- | Na niebie widziano ogniste smoki, szable i krzyże. |
+| 919 | \- | Nad Węgrami pokazała się tajemnicza, świecąca pochodnia. |
+| 1104 | \- | Ogniste pochodnie i latające ognie na niebie. |
+| 1258 | \- | Błyszcząca kula przeleciała nad rzeka i dwoma wioskami Szkocji, a po przebyciu 3 mil rozpadła się na popiół. |
+| 1322 | \- | 4 listopada, w nocy nad Uxbridge (Anglia) pokazał się ognisty słup, który zmienił kolor, a potem z niego wydobył się czerwony płomień i posłyszano silny wybuch. |
+| 1355 | \- | W lecie, nad wieloma miastami Anglii latały czerwone i niebieskie tarcze, które jakby walczyły ze sobą. |
+| 1388 | \- | W kwietniu nad wieloma miastami Europy widziano ognistego smoka. |
+| 1478 | \- | W Szwajcarii spadały z nieba na ziemię przedmioty podobne do dzwonów i "ogniste misy", które pozostawiały ślady na niebie. |
+| 1501-1503 | \- | W całej Europie spadały z nieba misy i krzyże - w okolicy Norymbergii przez całe 26 dni! |
+| 1561 | \- | 14 kwietnia przelatywały nad Norymbergą cylindry, krzyże i inne figury geometryczne, które jakby toczyły ze sobą bój! |
+| 1619 | \- | 11 czerwca nad wioską Odranec i częścią wsi Vecova widziano jakiś ciemny obłok, w nim koło i jakieś dziwne znaki. Potem usłyszano straszliwy huk, jakby wybuchu i na ziemię spadły trzy kawały metalu. W tym samym roku Christopher Schere prefekt jednego ze szwajcarskich kantonów widział przelot długiego, błyszczącego obiektu nad Fluelenem. |
+| 1624 | \- | Od 7 do 17 listopada, w Czechach, zawsze o godzinie 5 po południu pokazywała się kula lecąca z zachodu ku wschodowi. Obracała się i zmieniała kolor od białej do czerwonej. Niekiedy kul było więcej. |
+| 1678 | \- | W godzinę po zachodzie Słońca, nad Dalmacją pokazał się obiekt większy od Księżyca w pełni i przeleciał nad Włochami i Korsyką z chrzęstem przesypywanych kamieni. |
+| 1752 | \- | 15 kwietnia nad szwedzkim Angermanlandem przeleciała jakaś rura z fontanną ognia! |
+| 1762 | \- | 9 sierpnia nad Szwajcarią przeleciał wrzecionowaty przedmiot, który zaobserwowali także dwaj astronomowie. |
+| 1783 | \- | 18 sierpnia o godzinie 21:15, pewien Włoch Tiberius Cavello zaobserwował mały obłok, a pod nim owalny obiekt, który po chwili eksplodował. 30 sierpnia nad Greenwich jakiś obiekt rozpadł się na 8 satelitów, które powoli odleciały na południowy wschód. |
 
 W przeglądzie tym pominąłem dwa niezwykle ciekawe przykłady, które ilustrują naszą hipotezę w sposób niemal idealny. Autorem opisu następującego wydarzenia jest nie kto inny, jak sam francuski lekarz, król proroków Michel de Nostre Dame alias Nostradamus (1503-1566) z Salon. Poza swymi słynnymi "Centuriami" pozostawił on także zeznanie na temat obserwacji, której dokonał w dniu 10 marca 1554 roku, w godzinach 19:00-20:00 -
 
@@ -8960,197 +8344,39 @@ Dalszym efektem atomowego konfliktu jest zmiana ziemskiego pola geomagnetycznego
 
 Dowodem na destabilizację pola geomagnetycznego po użyciu broni jądrowej są - jak już to wspomniałem - burze magnetyczne i intensywne zorze polarne. Dla udowodnienia tego możemy użyć szerokiej dokumentacji i banku danych o niezwykłych fenomenach, jakimi są następujące prace: O. Seydl - "A List of 402 Northern Lights Observed in Bohemia, Moravia & Slovakia from 1013 till 1951" w "Geofizykalni sbornik" nr 17,1954; L. Křivský - "Solar Activity, Aurorae and Climate in Central Europe in the last 1000 Years" w "Travaux geopsyhiques" XXXIII, nr 6,1985. W jakiej mierze zależało to od spadku głowic, "martwych satelitów", itp. itd. atmosferycznych wybuchów BMR od połowy XVI do końca XVIII wieku - obrazuje poniższe zestawienie:
 
-1570
-
-\-
-
-A. D. 1570 zoczono nad Pragą miotły, a także kopie lecące na zachód Słońca, tak jasne, jak Księżyc, co trwało pół godziny z okładem.
-
-1571
-
-\-
-
-Około godziny trzeciej w nocy, 26 sierpnia, nad Pragą Czeską zauważono miotły (komety), a przed nimi lecące na zachód kopie jasne jako miesiąc, co po pół godzinie znikło.
-
-1572
-
-\-
-
-W nocy, która dzień 18 stycznia poprzedzała, w wielu miejscach w Czechach od godziny ósmej do godziny dziesiątej straszliwe widowisko na niebie ukazało się: między długimi białymi kreskami alebo słupami, poczerniały płomień ognisty od wschodu Słońca do strony północnej się wznosił, a potem takoż pojawił się wielki obłok krwawy i wiele tam i sam latających płomieni, które noc rozjaśniały, a lud wielce się dziwował a przestraszonym był. (Beckovsky)
-
-1572
-
-\-
-
-14 stycznia: Roku tegoż po święcie Trzech Króli w czwartek w nocy na piątek widziano widma ogniste miotające się tu i tam po niebie.
-
-1572
-
-\-
-
-Znowu ogniste zjawisko w nocy 3 marca nad Pragą i w innych miastach czeskich pojawiło się i wiele nieprzyjemnych rzeczy się stało w owych miejscach. (Beckovsky)
-
-1572
-
-\-
-
-Tegoż lata po niedzieli reminiscere widziane były słupy ogniste w nocy z czwartku na piątek, rozchodziły się one i skupiały, co trwało kilka godzin pod rząd. (Missowitz)
-
-1572
-
-\-
-
-12 czerwca: Tego lata ukazał się znowu groźny znak na niebie - przedziwne słupy, niektóre jasne, niektóre ciemne nad miastem Pragą, w czwartek na dzień św. Antonina, po szóstej godzinie w nocy, a to w miesiącu czerwcu. (Paprocky)
-
-1575
-
-\-
-
-Czternastego Februara w nocy światło wielkie pokazało się po północnej stronie...
-
-1582
-
-\-
-
-Primae Aprilis z soboty na niedzielę iudica, około óśmiu godzin aż do dnia widziano ogniste słupy podpalające. (Brzezan)
-
-1582
-
-\-
-
-A. D. 1582, w dniu 2 miesiąca lipca przy brzasku i rano pokazała się zorza na niebie, groźna i jasna, a tak nisko zawieszona, jakby na dachach domów. Kto wtedy na nią patrzył, to myślał, że się gdzieś pali...
-
-1583
-
-\-
-
-2 września: Tegoż Roku Pańskiego 1583, w poniedziałek po św. Idzim, po godzinie pierwszej w nocy ukazało się na niebie zjawisko straszne i groźne: najpierw od północy i zachodu widoczne były słupy, które się często-gęsto dzieliły, a na zachodzie niebo czerwonym jako krew było. Potem tuż przed dniem po całym niebie wszędy czarny kurz i czarny dym wstępował. Zasię z nieba jakaś wielka jasność zstępowała, jak ogień i całe niebo - jakby ogniem objęte - gorzało. I błyskało się, jakby od burzy. A potem ogień ten w jedno miejsce się zebrał, a słupy czerwone i czarne dzielić się poczęły. I działo się to noc całą aż do białego rana, a cała noc była jasna, jakby Słońce zza chmur wyjść miało...
-
-1588
-
-\-
-
-16 grudnia: W owym czasie przed Świętami Bożego Narodzenia przez kilka nocy na niebie ukazywał się taki oto znak: światłość wielka i słupy, które się potem dzieliły i walczyły ze sobą tu i tam, a także jak przed Czarnym Morem wskazywały w stronę Roudnicy. (Kneżovsky)
-
-1598
-
-\-
-
-17 listopada: Tegoż roku w piątek po św. Marcinie w nocy, o drugiej godzinie ukazało się zjawisko niebieskie: od północy gęsto słupy świetliste pojawiły się na podobieństwo świec, które w niebo wystrzelały, a potem doszło do tego, że czarne pasmo je krzyżem poprzedzielało i znikły. Trwało to aż do 7 godziny. A wielce jasnymi owe słupy były, jakby gorzał w nich wielki ogień, a potem po 7 godzinie te słupy się podzieliły, i jakoby dym z nich wychodził, co trwało aż do godziny 9. (Kneżovsky)
-
-1590
-
-\-
-
-Marzec: Tegoż roku, pod koniec mięsopustu, kometa czyli włochata gwiazda była wypatrzona, ale niewielka. Potem na początku postu znak wielki na niebie się ukazał: słupy wielce jasne z tej strony od Roudnicy. (Kneżovsky)
-
-1591
-
-\-
-
-8 września: Tegoż roku, w niedzieli dzień Narodzenia Najświętszej Maryi Panny ukazał się znak na niebie. Wszystko zaczęło się od godziny 1 w nocy. Najpierw ujrzano słupy ogniste na wschodzie i zachodzie, a wszystko to tak wyglądało, jakby niebo gorzało... (Kneżovsky)
-
-1593
-
-\-
-
-22 stycznia: Na początku roku tego widziane na niebie niezwykłe zjawiska były, o czym wiele mówiono i pisano: tak też krzyż i miecz krwawy w obłokach, przy czym grzmot i krzyk wielki w obłoczech słychać było: "biada!, biada! biada!"
-
-1598
-
-\-
-
-Tego roku w niedzielę Laetare w nocy na poniedziałek widziano trzy słupy nad Ranskou Horou, a przy nich była i gwiazda wielka, jakby te słupy się spotykały: a kiedy ta gwiazda miała do tych słupów dojść, to spadła w dół, 1 dnia miesiąca marca. (Missowitz)
-
-1598
-
-\-
-
-A. D. 1598, 13 lipca w czwartek po św. Wawrzyńcu powietrze przyszło w nocy z wielkim błyskaniem i dziw na niebie ponad zamkiem Krumlova naprzeciw Domorajcim był widziany. (Brzezan)
-
-1601
-
-\-
-
-1 września: Roku onego, po Podniesieniu Św. Krzyża, około godziny 4 po północy stało się wielkie trzęsienie ziemi z wielkim znakiem na niebie. Tego samego roku, w poniedziałek po św. Mateuszu, od godziny 2 do godziny 8 rano widoczne były słupy ogniste na niebie. (Missowitz)
-
-1602
-
-\-
-
-Tuż po ukazaniu się dekretu cesarza Rudolfa w Czechach na niebie obserwowano różne przedziwne zjawiska niebieskie, osobliwie nocami... 10 dnia miesiąca listopada... nocni dozorcy widzieli nad rynkiem zorzę wielką i myśleli, że się gdzieś pali. Potem stwierdzili, że to była tylko jasna zorza i nigdzie się nie paliło...
-
-1603
-
-\-
-
-Dnia 12 miesiąca października, z soboty na niedzielę Salus Populi, dziwy straszne widziano w Kutnych Horach na nieboskłonie - krwawe obłoki na niebie ze wszystkich stron nadciągające.
-
-1603
-
-\-
-
-Kiedy to Vaclav Budovec z Budovadnia 5 stycznia jechał do Pragi... i był blisko wsi Senczic, u góry ukazała się mu wielka zorza, tak że myślał on, jego małżonka i wszyscy przytomni, iż wielki ogień we wsi jest. A kiedy patrzali na ową zorzę, oddzielił się od niej słup ognisty i na nim też była wielka światłość. (Skala)
-
-1624
-
-\-
-
-Wrzesień: ... tego i następnego miesiąca bardzo często-gęsto na czeskiej ziemi i we wszystkich innych krainach, miastach, miasteczkach i wsiach ukazywały się czasu nocnego szatańskie znaki w postaci smoków ognistych i latających przez powietrze z niemałym przestrachem i podziwem.
-
-1630
-
-\-
-
-We wtorkową noc dnia 4 stycznia, pomiędzy 8 a 9 godziną wieczorem, w powietrzu nad Pragą widziano wielkie błyskanie i huk od niego szedł, aż lud się przeraził... (Beckovský)
-
-1630
-
-\-
-
-1-4 lutego: ... przez całą noc dziwy widać było na niebie - słupów wiele krwawych - naliczono ich aż 10.
-
-1630
-
-\-
-
-4 lutego widziano straszne, ogniste znaki na niebiesiech i obłokach nocą z poniedziałku na wtorek - a to: słupy od północnej strony przychadzające ku południowi, a ich światło długo trwało na nieboskłonie. (Bydzovsky)
-
-1633
-
-\-
-
-3 grudnia: Dnia onego... Bóg swój dziw ukazał - dwa światła, jedno na północy, drugie na południu przeciw sobie powstały, jakby się pomiędzy sobą biły. (Prokop)
-
-1647
-
-\-
-
-Marzec: ... w Żatci... nad miastem krwawe miecze się pokazały.
-
-1709
-
-\-
-
-In Martio (w marcu)... In novem drugi piątek tegoż miesiąca okoo godziny 10 w nocy jakowaś światłość się na niebie ukazała i przez 3 godziny trwała.
-
-1731
-
-\-
-
-Item tegoż roku, miesiąca Septembris (wrzesień), ukazało się na nocnym niebie jakieś zjawisko na kształt kilku wysokich, ognistych słupów.
-
-1737
-
-\-
-
-16 grudnia światło na niebie się ukazało, od 9 do 10 godziny, było ono czerwone, a niebo także czerwonym było, jakby krwią polane.
-
-1741
-
-\-
-
-Roku 1741, dnia 8-go, 9-go i 10-go ukazywała się światłość na niebie, bądź był to phaenomenon. Prawie po północy od Drażdan wychodziła światłość, jakby słońce zachodziło od godziny 9-tej do północy. Z tego światła wychodziły jasne słupy, które tak jak wymusztrowane wojsko chodziły tam i sam, a ich końce były ogniste, a to wszystko przez trzy noce... Item z tych słupów wychodził wicher, bowiem powietrze tak falowało, jakby fale na wodzie powstałe...
+| 1570 | \- | A. D. 1570 zoczono nad Pragą miotły, a także kopie lecące na zachód Słońca, tak jasne, jak Księżyc, co trwało pół godziny z okładem. |
+| --- | --- | --- |
+| 1571 | \- | Około godziny trzeciej w nocy, 26 sierpnia, nad Pragą Czeską zauważono miotły (komety), a przed nimi lecące na zachód kopie jasne jako miesiąc, co po pół godzinie znikło. |
+| 1572 | \- | W nocy, która dzień 18 stycznia poprzedzała, w wielu miejscach w Czechach od godziny ósmej do godziny dziesiątej straszliwe widowisko na niebie ukazało się: między długimi białymi kreskami alebo słupami, poczerniały płomień ognisty od wschodu Słońca do strony północnej się wznosił, a potem takoż pojawił się wielki obłok krwawy i wiele tam i sam latających płomieni, które noc rozjaśniały, a lud wielce się dziwował a przestraszonym był. (Beckovsky) |
+| 1572 | \- | 14 stycznia: Roku tegoż po święcie Trzech Króli w czwartek w nocy na piątek widziano widma ogniste miotające się tu i tam po niebie. |
+| 1572 | \- | Znowu ogniste zjawisko w nocy 3 marca nad Pragą i w innych miastach czeskich pojawiło się i wiele nieprzyjemnych rzeczy się stało w owych miejscach. (Beckovsky) |
+| 1572 | \- | Tegoż lata po niedzieli reminiscere widziane były słupy ogniste w nocy z czwartku na piątek, rozchodziły się one i skupiały, co trwało kilka godzin pod rząd. (Missowitz) |
+| 1572 | \- | 12 czerwca: Tego lata ukazał się znowu groźny znak na niebie - przedziwne słupy, niektóre jasne, niektóre ciemne nad miastem Pragą, w czwartek na dzień św. Antonina, po szóstej godzinie w nocy, a to w miesiącu czerwcu. (Paprocky) |
+| 1575 | \- | Czternastego Februara w nocy światło wielkie pokazało się po północnej stronie... |
+| 1582 | \- | Primae Aprilis z soboty na niedzielę iudica, około óśmiu godzin aż do dnia widziano ogniste słupy podpalające. (Brzezan) |
+| 1582 | \- | A. D. 1582, w dniu 2 miesiąca lipca przy brzasku i rano pokazała się zorza na niebie, groźna i jasna, a tak nisko zawieszona, jakby na dachach domów. Kto wtedy na nią patrzył, to myślał, że się gdzieś pali... |
+| 1583 | \- | 2 września: Tegoż Roku Pańskiego 1583, w poniedziałek po św. Idzim, po godzinie pierwszej w nocy ukazało się na niebie zjawisko straszne i groźne: najpierw od północy i zachodu widoczne były słupy, które się często-gęsto dzieliły, a na zachodzie niebo czerwonym jako krew było. Potem tuż przed dniem po całym niebie wszędy czarny kurz i czarny dym wstępował. Zasię z nieba jakaś wielka jasność zstępowała, jak ogień i całe niebo - jakby ogniem objęte - gorzało. I błyskało się, jakby od burzy. A potem ogień ten w jedno miejsce się zebrał, a słupy czerwone i czarne dzielić się poczęły. I działo się to noc całą aż do białego rana, a cała noc była jasna, jakby Słońce zza chmur wyjść miało... |
+| 1588 | \- | 16 grudnia: W owym czasie przed Świętami Bożego Narodzenia przez kilka nocy na niebie ukazywał się taki oto znak: światłość wielka i słupy, które się potem dzieliły i walczyły ze sobą tu i tam, a także jak przed Czarnym Morem wskazywały w stronę Roudnicy. (Kneżovsky) |
+| 1598 | \- | 17 listopada: Tegoż roku w piątek po św. Marcinie w nocy, o drugiej godzinie ukazało się zjawisko niebieskie: od północy gęsto słupy świetliste pojawiły się na podobieństwo świec, które w niebo wystrzelały, a potem doszło do tego, że czarne pasmo je krzyżem poprzedzielało i znikły. Trwało to aż do 7 godziny. A wielce jasnymi owe słupy były, jakby gorzał w nich wielki ogień, a potem po 7 godzinie te słupy się podzieliły, i jakoby dym z nich wychodził, co trwało aż do godziny 9. (Kneżovsky) |
+| 1590 | \- | Marzec: Tegoż roku, pod koniec mięsopustu, kometa czyli włochata gwiazda była wypatrzona, ale niewielka. Potem na początku postu znak wielki na niebie się ukazał: słupy wielce jasne z tej strony od Roudnicy. (Kneżovsky) |
+| 1591 | \- | 8 września: Tegoż roku, w niedzieli dzień Narodzenia Najświętszej Maryi Panny ukazał się znak na niebie. Wszystko zaczęło się od godziny 1 w nocy. Najpierw ujrzano słupy ogniste na wschodzie i zachodzie, a wszystko to tak wyglądało, jakby niebo gorzało... (Kneżovsky) |
+| 1593 | \- | 22 stycznia: Na początku roku tego widziane na niebie niezwykłe zjawiska były, o czym wiele mówiono i pisano: tak też krzyż i miecz krwawy w obłokach, przy czym grzmot i krzyk wielki w obłoczech słychać było: "biada!, biada! biada!" |
+| 1598 | \- | Tego roku w niedzielę Laetare w nocy na poniedziałek widziano trzy słupy nad Ranskou Horou, a przy nich była i gwiazda wielka, jakby te słupy się spotykały: a kiedy ta gwiazda miała do tych słupów dojść, to spadła w dół, 1 dnia miesiąca marca. (Missowitz) |
+| 1598 | \- | A. D. 1598, 13 lipca w czwartek po św. Wawrzyńcu powietrze przyszło w nocy z wielkim błyskaniem i dziw na niebie ponad zamkiem Krumlova naprzeciw Domorajcim był widziany. (Brzezan) |
+| 1601 | \- | 1 września: Roku onego, po Podniesieniu Św. Krzyża, około godziny 4 po północy stało się wielkie trzęsienie ziemi z wielkim znakiem na niebie. Tego samego roku, w poniedziałek po św. Mateuszu, od godziny 2 do godziny 8 rano widoczne były słupy ogniste na niebie. (Missowitz) |
+| 1602 | \- | Tuż po ukazaniu się dekretu cesarza Rudolfa w Czechach na niebie obserwowano różne przedziwne zjawiska niebieskie, osobliwie nocami... 10 dnia miesiąca listopada... nocni dozorcy widzieli nad rynkiem zorzę wielką i myśleli, że się gdzieś pali. Potem stwierdzili, że to była tylko jasna zorza i nigdzie się nie paliło... |
+| 1603 | \- | Dnia 12 miesiąca października, z soboty na niedzielę Salus Populi, dziwy straszne widziano w Kutnych Horach na nieboskłonie - krwawe obłoki na niebie ze wszystkich stron nadciągające. |
+| 1603 | \- | Kiedy to Vaclav Budovec z Budovadnia 5 stycznia jechał do Pragi... i był blisko wsi Senczic, u góry ukazała się mu wielka zorza, tak że myślał on, jego małżonka i wszyscy przytomni, iż wielki ogień we wsi jest. A kiedy patrzali na ową zorzę, oddzielił się od niej słup ognisty i na nim też była wielka światłość. (Skala) |
+| 1624 | \- | Wrzesień: ... tego i następnego miesiąca bardzo często-gęsto na czeskiej ziemi i we wszystkich innych krainach, miastach, miasteczkach i wsiach ukazywały się czasu nocnego szatańskie znaki w postaci smoków ognistych i latających przez powietrze z niemałym przestrachem i podziwem. |
+| 1630 | \- | We wtorkową noc dnia 4 stycznia, pomiędzy 8 a 9 godziną wieczorem, w powietrzu nad Pragą widziano wielkie błyskanie i huk od niego szedł, aż lud się przeraził... (Beckovský) |
+| 1630 | \- | 1-4 lutego: ... przez całą noc dziwy widać było na niebie - słupów wiele krwawych - naliczono ich aż 10. |
+| 1630 | \- | 4 lutego widziano straszne, ogniste znaki na niebiesiech i obłokach nocą z poniedziałku na wtorek - a to: słupy od północnej strony przychadzające ku południowi, a ich światło długo trwało na nieboskłonie. (Bydzovsky) |
+| 1633 | \- | 3 grudnia: Dnia onego... Bóg swój dziw ukazał - dwa światła, jedno na północy, drugie na południu przeciw sobie powstały, jakby się pomiędzy sobą biły. (Prokop) |
+| 1647 | \- | Marzec: ... w Żatci... nad miastem krwawe miecze się pokazały. |
+| 1709 | \- | In Martio (w marcu)... In novem drugi piątek tegoż miesiąca okoo godziny 10 w nocy jakowaś światłość się na niebie ukazała i przez 3 godziny trwała. |
+| 1731 | \- | Item tegoż roku, miesiąca Septembris (wrzesień), ukazało się na nocnym niebie jakieś zjawisko na kształt kilku wysokich, ognistych słupów. |
+| 1737 | \- | 16 grudnia światło na niebie się ukazało, od 9 do 10 godziny, było ono czerwone, a niebo także czerwonym było, jakby krwią polane. |
+| 1741 | \- | Roku 1741, dnia 8-go, 9-go i 10-go ukazywała się światłość na niebie, bądź był to phaenomenon. Prawie po północy od Drażdan wychodziła światłość, jakby słońce zachodziło od godziny 9-tej do północy. Z tego światła wychodziły jasne słupy, które tak jak wymusztrowane wojsko chodziły tam i sam, a ich końce były ogniste, a to wszystko przez trzy noce... Item z tych słupów wychodził wicher, bowiem powietrze tak falowało, jakby fale na wodzie powstałe... |
 
 To wszystko podałem jako przykład, choć kroniki roją się od takich zapisków, że mógłbym to ciągnąć i ciągnąć, ale przecież nie o to chodzi. Kiedy zorientowałem się, że przepisywanie wiekowych tekstów jest tak nudne, jak ich czytanie, to pozostało mi na koniec tego rozdziału napisać tylko jedno, jedyne łacińskie słowo - FINIS.
 
@@ -9272,65 +8498,17 @@ Informacje o kontaktach z tajemniczymi istotami przetrwały do dnia dzisiejszego
 
 Wbrew powszechnie panujacemu daenikenowskiemu poglądowi o sielskiej koegzystencji Ziemian i Pozaziemian twierdzę, że ci pierwsi musieli bronic się kopiami, mieczami i katapultami przeciwko BMR, swej wolności i niezawisłości, co jest o wiele bardziej prawdziwe, niż wizje von Dänikena. \[...\] A teraz przedstawię Czytelnikowi chronologię obserwacji Nieznanych Obiektów Latających w latach 1461-1779:
 
-1 listopada 1461
-
-\-
-
-nad Arras zaobserwowano "powietrzny statek".
-
-1520
-
-\-
-
-w Erfurcie zaobserwowano dwie ogniste kule, z których jedna wylądowała, a potem odleciała. Z innych źródeł wynika, że był to ognisty promień, który spalił kilka miejscowości.
-
-7 sierpnia 1566
-
-\-
-
-w biały dzień nad Bazyleą pojawiły się jakieś ciemne kule.
-
-13 października 1684
-
-\-
-
-nad Jachymovem latało jakieś ciemne ciało.
-
-8 stycznia 1704
-
-\-
-
-nad Anglią przeleciał klucz Nocnych Świateł w kształcie litery "V".
-
-6 marca 1716
-
-\-
-
-sir Edmund Halley zaobserwował tak silne Nocne Światło, że można przy nim było czytać druk. Zjawisko trwało 2 godziny!
-
-1718
-
-\-
-
-lekarz dr Hans Sloane obserwował w zachodniej Anglii jasne światło po zachodniej stronie nieba. Było ono jaśniejsze od Księżyca.
-
-17 marca 1735
-
-\-
-
-w czasie obserwacji Marsa, astronom John Bevis ujrzał nad Londynem obiekt, który rozdzielił się na dwie części.
-
-6 lipca 1744
-
-\-
-
-w godzinach wieczornych dwie świetliste kule przeraziły mieszkańców Hradku nad Nisou.
-
-1779
-
-\-
-
-francuski astronom Charles Messier zaobserwował przelot formacji ciemnych obiektów na tle tarczy Słońca.
+| 1 listopada 1461 | \- | nad Arras zaobserwowano "powietrzny statek". |
+| --- | --- | --- |
+| 1520 | \- | w Erfurcie zaobserwowano dwie ogniste kule, z których jedna wylądowała, a potem odleciała. Z innych źródeł wynika, że był to ognisty promień, który spalił kilka miejscowości. |
+| 7 sierpnia 1566 | \- | w biały dzień nad Bazyleą pojawiły się jakieś ciemne kule. |
+| 13 października 1684 | \- | nad Jachymovem latało jakieś ciemne ciało. |
+| 8 stycznia 1704 | \- | nad Anglią przeleciał klucz Nocnych Świateł w kształcie litery "V". |
+| 6 marca 1716 | \- | sir Edmund Halley zaobserwował tak silne Nocne Światło, że można przy nim było czytać druk. Zjawisko trwało 2 godziny! |
+| 1718 | \- | lekarz dr Hans Sloane obserwował w zachodniej Anglii jasne światło po zachodniej stronie nieba. Było ono jaśniejsze od Księżyca. |
+| 17 marca 1735 | \- | w czasie obserwacji Marsa, astronom John Bevis ujrzał nad Londynem obiekt, który rozdzielił się na dwie części. |
+| 6 lipca 1744 | \- | w godzinach wieczornych dwie świetliste kule przeraziły mieszkańców Hradku nad Nisou. |
+| 1779 | \- | francuski astronom Charles Messier zaobserwował przelot formacji ciemnych obiektów na tle tarczy Słońca. |
 
 Czy to nie wystarczy?
 
@@ -10486,28 +9664,22 @@ Liczba znanych księżyców
 **G**rupa ciał Układu Słonecznego. Jej liczbę ocenia się na około 400 tys. Pierwszą planetoidę odkryto w roku 1801 r (Piazzi). Nazwano ją Ceres. Jej średnica wynosi 913 km. Orbity planetoid położone są w większości pomiędzy Marsem i Jowiszem. Istnieje kilka znanych obiektów na ekscentrycznych orbitach przechodzących bliżej Słońca niż Merkury. Są to planetoidy grupy Apollo. Jedna z nich Eros (średnica około 35 km) mijała już Ziemię w roku 1931 w odległości 23 mln km. Apollo ( 1,2 × 1,8 km) w roku 1980 w odległości 0,055 j.a. Następne zbliżenia to 6.11.2006 r. i 8.05.2007 r. W samym roku 1983 satelita IRAS wykrył ponad 20 000 planetoid i innych źródeł promieniowania podczerwonego. Ocenia się, że istnieje około 1 miliarda planetoid o średnicy powyżej 1 kilometra. Czas obiegu wokół Słońca ocenia się na 3-6 lat.  
 **O**ficjalnie jest to stary magazyn materiałów budowlanych jaki pozostał po budowie Układu Słonecznego. Dość osobliwy. Nauka wyróżnia planetoidy węglowe, kamienne lub metaliczne.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Ceres
 
+[obraz]  
 Westa
 
+[obraz]  
 Gaspra
 
+[obraz]  
 Ida
 
+[obraz]  
 Juno
 
+[obraz]  
 Matylda
 
 **P**rzykłady kształtu planetoid chyba nie pozostawiają wątpliwości. Sądzę, że dwa ich rodzaje mogą świadczyć o dwóch rodzajach narodzin planetoid. Jedne mogły powstawać jako planetki bądź "prawdziwe" księżyce planet, drugie mogą być efektem kosmicznej katastrofy. Czy Ceres i Westa nie mogą być księżycami byłej Tiamat? Miała ich ponoć 11. Sądzę ponadto, że kształt kulisty mogą przybierać tylko ciała niebieskie, które w stadium tworzenia były w stanie płynnym lub półpłynnym.  
@@ -10549,29 +9721,9 @@ Matylda
 [obraz] **J**eśli masa meteoroidu nie przekracza 1 tony, prędkość, z jaką wchodzi on w atmosferę ziemską, znacznie się zmniejsza wskutek oporu powietrza. Na wysokości mniej więcej 20 kilometrów zaczyna swobodnie spadać w polu grawitacyjnym Ziemi. Gdy siła ciążenia, działająca na meteoroid, zrówna się z siłą oporu powietrza, przestaje on poruszać się ruchem przyśpieszonym i leci z tzw. prędkością graniczną około 100 m/s. Jeśli masa początkowa przekracza 1000 ton, atmosfera nie jest w stanie spowolnić jego prędkości, a sam upadek powoduje ogromne zniszczenia. Największym ze znalezionych dotychczas meteorytów był meteoryt żelazny Hoba, o masie około 60 ton, który nadal tkwi w miejscu swego upadku - w Namibii. Na zdjęciu obok - meteoryt kamienny znaleziony obok wsi Baszkówka w Polsce, obecnie w muzeum Kopernika we Fromborku.  
 **Z**iemia w ciągu rocznego obiegu dookoła Słońca przecina trasy kilkudziesięciu tzw. rojów meteroid. Nazwa pochodzi od punktu (z reguły gwiazdozbiór), z którego jakby wchodzą w atmosferę Ziemi. Jednym z nich są Leonidy, z której to nazwy najbardziej był dumny były radziecki sekretarz generalny KPZR Leonid Breżniew, który uznał to za hołd złożony jego osobie :-). Poniżej zasadniczy podział znalezionych meteorytów.
 
-**Rodzaj meteorytu**
-
-**Skala znalezisk**
-
-**Gęstość**
-
-**Skład**
-
-Kamienne  
-Żelazne  
-Żelazno-kamienne
-
-95%          
-4%          
-1%        
-
-3 g/cm³  
-8 g/cm³  
-?
-
-Krzemiany, żelazo niklonośne  
-Stop żelaza metalicznego, nikiel, kobalt  
-Krzemiany, stop niklowo-żelazny
+| **Rodzaj meteorytu** | **Skala znalezisk** | **Gęstość** | **Skład** |
+| --- | --- | --- | --- |
+| Kamienne<br>Żelazne<br>Żelazno-kamienne | 95%        <br>4%        <br>1% | 3 g/cm³<br>8 g/cm³<br>? | Krzemiany, żelazo niklonośne<br>Stop żelaza metalicznego, nikiel, kobalt<br>Krzemiany, stop niklowo-żelazny |
 
   **R**easumując, jest to najtańszy sposób na badanie materii, z której składa się najbliższy kosmos, mogący rzucić światło na początki Układu Słonecznego.
 
@@ -11644,29 +10796,9 @@ Działalność wulkaniczna, burze atmosferyczne
 
   **W** kosmicznej próżni, jak zapewne wiadomo, panuje temperatura -273°C, która jest tylko o 0,16°C wyższa od temperatuty zera bezwzględnego, w której teoretycznie rozpadają się nawet atomy. Definitywny kres wszystkiego. Niżej w tabelce podaję temperatury wrzenia i topnienia dla niektórych pierwiastków i związków najczęściej wykrywanych przez ziemskie sondy w kosmosie.
 
-**Pierwiastek (związek)**
-
-**Temperatura wrzenia**
-
-**Temperatura topnienia**
-
-            Wodór  
-            Hel  
-            Tlen  
-            Azot  
-            Metan
-
-\-252,88°C  
-\-268,93°C  
-\-182,97°C  
-\-195,80°C  
-\-164,00°C
-
-\-259,13°C  
-\-272,20°C  
-\-222,80°C  
-\-210,01°C  
-\-182,60°C
+| **Pierwiastek (związek)** | **Temperatura wrzenia** | **Temperatura topnienia** |
+| --- | --- | --- |
+| Wodór<br>            Hel<br>            Tlen<br>            Azot<br>            Metan | \-252,88°C<br>\-268,93°C<br>\-182,97°C<br>\-195,80°C<br>\-164,00°C | \-259,13°C<br>\-272,20°C<br>\-222,80°C<br>\-210,01°C<br>\-182,60°C |
 
   **W**ymienione pierwiastki czy związki, poniżej temperatury topnienia winny stanowić ciała stałe, powyżej temperatury topnienia, a poniżej temperatury wrzenia winny osiągnąć konsystencję płynu, powyżej temperatury wrzenia powinny unosić się ponad powierzchnią. Jest tylko jeden problem. Żeby tak było, taka temperatura musi zaistnieć na powierzchni obiektu i musi być utrzymywana. I tu dotykamy problemu zasadniczego.  
   **C**o powoduje, że niektóre ciała niebieskie emitują z wnętrza ciepło, które przez cały czas pozwala na utrzymanie temperatury na ich powierzchni? Czy źródłem ciepła mogą być żelazne jądra pod bardzo wysokim ciśnieniem? Czy ciśnienie działające na jądro, które jest wielkością stałą dla określonej, stałej masy ciała niebieskiego, jest zdolne wytwarzać w jądrze wysoką temperaturę przez okres ponad 4 mld lat? A co z ciałami, w których dopuszcza się tylko skaliste, skalisto-lodowe a nawet siarkowe jądra? Czy nie można odnieść wrażenia, że nasza współczesna nauka nie ma zielonego pojęcia z czego jest zbudowane jądro obiektów kulistych, w tym szczególnie Ziemi i Księżyca? Nawet małolaty wiedzą, że takiej energii i przez tak długi okres czasu może dostarczyć tylko jedna energia - energia jądrowa. Osobiście sądzę, że istnieje triada: \[reaktor jądrowy (jądro) - temperatura - pole magnetyczne\] i w tym kierunku winny iść badania.
@@ -11707,50 +10839,9 @@ Historia Egiptu według oficjalnej nauki liczy sobie około pięciu tysięcy lat
 
 Czy astronomia Egiptu jest powiązana z Bogami? Jeżeli jest, to w sposób bardziej zakamuflowany niż gdzie indziej. Zastanawia mnie fakt, że w Egipcie Bogowie nie są utożsamiani z planetami, jak przykładowo w Sumerze czy Grecji, natomiast niektórzy egipscy Bogowie pod postacią zwierząt mają swoje odpowiedniki w znakach egipskiego Zodiaku. Czy jest to powiązane z czasem ich panowania pod odpowiednim znakiem? Niepewne to sformułowanie ale czy nieprawdziwe? Tego nie wiem. Współcześnie używamy podziału nieba ustalonego w starożytnym Babilonie i przejętego przez Greków. Co ciekawe różni się on od egipskiego.
 
-**Egipt**
-
-**Babilon**
-
-**Lata pne**
-
-Pies  
-Wąż  
-Skarabeusz  
-Osioł  
-Lew  
-Baran  
-Byk  
-Krogulec  
-Małpa  
-Ibis  
-Krokodyl  
-Kot
-
-Byk  
-Bliźnięta  
-Rak  
-Lew  
-Panna  
-Waga  
-Skorpion  
-Strzelec  
-Koziorożec  
-Wodnik  
-Ryby  
-Baran
-
-4490-2330  
-6650-4490  
-8810-6650  
-10970-8810  
-13130-10970  
-15290-13130  
-17450-15290  
-19610-17450  
-21770-19610  
-23390-21770  
-26090-23390  
-28250-26090
+| 🟦 **Egipt** | 🟦 **Babilon** | 🟦 **Lata pne** |
+| --- | --- | --- |
+| Pies<br>Wąż<br>Skarabeusz<br>Osioł<br>Lew<br>Baran<br>Byk<br>Krogulec<br>Małpa<br>Ibis<br>Krokodyl<br>Kot | Byk<br>Bliźnięta<br>Rak<br>Lew<br>Panna<br>Waga<br>Skorpion<br>Strzelec<br>Koziorożec<br>Wodnik<br>Ryby<br>Baran | 4490-2330<br>6650-4490<br>8810-6650<br>10970-8810<br>13130-10970<br>15290-13130<br>17450-15290<br>19610-17450<br>21770-19610<br>23390-21770<br>26090-23390<br>28250-26090 |
 
 Pierwsza różnica to inne nazwy gwiazdozbiorów. Druga, znacznie według mnie ważniejsza, to przesunięcie znaków egipskiego zodiaku o jeden znak do tyłu w stosunku do współczesnego. Skoro w uproszczeniu jeden znak Zodiaku zajmuje na nieboskłonie przestrzeń 30°, czy to przesunięcie może być związane z hipotetycznym uskokiem skorupy ziemskiej około 10500 lat pne? Współczesna nauka stanowczo odrzuca hipotezę "wielkiego uskoku...", co wcale nie znaczy, że go nie było, bo dowodów można zebrać sporo.
 
@@ -11880,60 +10971,46 @@ A co sądzisz o ostatnim zdjęciu? Postacie ludzkie z przyczepionymi brodami, al
 
 Nie mniej ciekawe są oznaczenia graficzne występujące często na głowach Bogów lub tuż nad nimi. Niekiedy powtarzają się przy różnych Bogach, a także mogą występować po kilka przy jednym. Sądzę, że tak starożytni oznaczali "specjalności" poszczególnych Bóstw. Nie wiem czemu, ale kojarzy mi się to ze specjalnościami wojskowymi lub z przynależnością do danego korpusu specjalistów. Najczęściej spotykanym znakiem jest krzyż życia - Ankh oznaczający chyba, że Bóg żyje wiecznie. Był z pewnością zarezerwowany tylko dla Bogów, a spotkanie go w ręku faraona jest zapewne świętokradztwem i chyba stosowane było już w czasach współczesnych w celu dodania splendoru królowi.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Hathor
 
+[obraz]  
 Honsu
 
+[obraz]  
 Neftyda
 
+[obraz]  
 Izyda
 
+[obraz]  
 Seshat
 
+[obraz]  
 Maat
 
+[obraz]  
 Ra
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Neith
 
+[obraz]  
 Thot
 
+[obraz]  
 Meret
 
+[obraz]  
 Nut
 
+[obraz]  
 Anat
 
+[obraz]  
 Hathor
 
+[obraz]  
 Sopdet
 
 U góry pokazałem kilkanaście takich oznaczeń z imieniem Boga, który takiego atrybutu używał. Muszę przyznać, że spotkałem się z przypadkiem używania niektórych "odznak" przez kilku Bogów jednocześnie. Niektóre wizerunki kojarzą mi się z techniką, niektóre z rolnictwem.
@@ -12664,60 +11741,48 @@ Przekazy starożytnych opisują zwykłą migrację do nowego kraju i do tego prz
 
 Przejdźmy zatem do zdobyczy materialnych ludzi, których dzisiejsi spadkobiercy mieszkają w nędznych chatach krytych listowiem, z trudem uprawiają ziemię prymitywnymi narzędziami i nie mają zielonego pojęcia, kto wzniósł te wspaniałe budowle. Zacznę od piramid. Nie zżymaj się proszę na tak małą ich ilość. Każde "miasto" posiadało co najmniej jedną piramidę (zupełnie podobnie jak w Mezopotamii) i nie sposób umieścić tu wszystkie. Postarałem się jednak umieścić te najbardzie znane lub charakterystyczne.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Calakmul
 
+[obraz]  
 Teotihuacan. Piramida Księżyca
 
+[obraz]  
 Tikal
 
 Kształt piramid jest chyba jednakowy dla całego świata. Różnią się jedynie wielkością i kształtem boków. W Ameryce Środkowej nie spotkamy piramidy takiej, jak wielka piramida w Giza. Są przeważnie schodkowe, a niektóre posiadają na szczycie budynek, zwany z urzędu świątynią, choć tak naprawdę nikt nie zna ich przeznaczenia. Są także jedyne w swoim rodzaju piramidy "piętrowe", które można znaleźć między innymi w Teotihuacan.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Chichen Itza
 
+[obraz]  
 Mayapan
 
+[obraz]  
 El Tajin
 
 Zdarzają się prawie jednakowe piramidy jak w Chitzen Itza i Mayapan, co nie musi dziwić, gdyż stoją prawie po sąsiedzku. Piramida w El Tajin jest chyba najdziwniejszą na kontynencie. Wszystkie piętra posiadają nisze i jak twierdzą biegli w matematyce jest ich 365. Przypomina to liczbę dni w roku, ale przynajmniej ja nie mam 100% pewności, że chodzi właśnie o rok. Uczeni nie wiedzą jak lub czym sygnalizowano rok przestępny. Co początkowo zawierały te nisze nie wiadomo. To, że my współcześni wstawilibyśmy do nich jakieś rzeźby, wcale nie znaczy, że takie było ich przeznaczenie.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Becan
 
+[obraz]  
 Uxmal
 
+[obraz]  
 Edzna
 
 Jakie było początkowe przeznaczenie piramid nie wie nikt i chyba się nawet nie domyśla. To co serwują nam archeolodzy jest myśleniem życzeniowym. Z wysokiej katedry puszczono w obieg teorię, a ponieważ nikt nie śmiał mieć innego pomysłu, teoria stała się niepodważalną prawdą. Nikt, przynajmniej na razie, nie planuje zbadać, co mieści się w ich środku. Twierdzenia o niszczeniu zabytków jest najlepszą wymówką, chociaż nikt nie każe wysadzać ich w powietrze. Czy i tutaj ma zastosowanie hawass'iana teoria "o tęsknocie do nieśmiertelności"?
 
 Następne zdjęcia zadają kłam twierdzeniu, że łuk budowlany wynaleźli "cywilizowani" Europejczycy. Budowniczy w tej części świata potrafili wybudować wszystkie rodzaje łuków. Od trójkątnego, chyba najbardziej powszechnego, po okrągłe i półokrągłe.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Labna
 
+[obraz]  
 Dżibilchaltun
 
+[obraz]  
 Ek Balam
 
 Nie bali się przy tym rozpiętości jak widać to w Dżibilchaltun. Czy faktycznie to wszystko jest dziełem koczowników czy małorolnych indiańskich chłopów? Dziś w ruinach starożytnych budowli wypasa się bydło. Sic transit gloria mundi. Tak przemija chwała świata.
@@ -13205,52 +12270,40 @@ A oto kalendarz sprzed potopu przedstawiony graficznie. Różni się od naszego,
 
 **B-3**
 
-30 dni
-
-30 dni
-
-31 dni
-
-30 dni
-
-30 dni
-
-31 dni
-
-30 dni
-
-30 dni
-
-31 dni
-
-30 dni
-
-30 dni
-
-31 dni
-
+30 dni  
 [obraz]
 
+30 dni  
 [obraz]
 
+31 dni  
 [obraz]
 
+30 dni  
 [obraz]
 
+30 dni  
 [obraz]
 
+31 dni  
 [obraz]
 
+30 dni  
 [obraz]
 
+30 dni  
 [obraz]
 
+31 dni  
 [obraz]
 
+30 dni  
 [obraz]
 
+30 dni  
 [obraz]
 
+31 dni  
 [obraz]
 
 **10:8**
@@ -13933,388 +12986,23 @@ Niestrudzony i skuteczny tropiciel śladów, Jakub z "FPP Kod Czasu", znalazł t
 
 Skąd taka tolerancja czasu (błąd czasowy ±, d-dni, g-godzin, m-minut) od sekund do całych dni? Czy obliczenia prowadzi człowiek czy komputer? Czy faktycznie dane są określane dla tego samego fragmentu czy też się je "gubi"? Czy NASA prowadzi ciągłą obserwację komety czy też składa wyniki z wyrywkowej obserwacji? Jak odróżnia się poszczególne fragmenty, by mieć pewność, że dane dotyczą tego samego obiektu? Wydaje się, że gdyby nie cała masa astronomów-amatorów, to NASA wogóle nic by nie "widziała". Taka jest prawda - instytucja powołana do ochrony ziemskiego życia przed śmiercią z Kosmosu opiera się głównie na entuzjastach spoza jej grona. Za co więc im się płaci? Oczywiście za kosztowne "bzdety". Za piękne zdjęcia Saturna, za poszukiwanie wody na Tytanie czy za jałowe dysputy "czy na Marsie było życie?". Robią wszystko oprócz rzeczy najważniejszej - ostrzegania mieszkańców Ziemi przed zagrożeniem z Kosmosu.
 
-**Oznaczenie fragmentu**
-
-**Dzień Maja**
-
-**Godzina**
-
-**Błąd czasowy** (±)
-
-**Odległość od Ziemi** (km)
-
-**Prędkość lotu** (km/s)
-
-SW-3-AT  
-SW-3-AS  
-SW-3-AV  
-SW-3-BA  
-SW-3-AZ  
-SW-3 (matka)  
-SW-3-BD  
-SW-3-BC  
-SW-3-AP
-
-**11**
-
-03:24  
-07:51  
-13:38  
-13:49  
-16:29  
-21:12  
-21:53  
-22:22  
-22:41
-
-1m  
-‹ 1m  
-21m  
-12m  
-14m  
-1m  
-11g11m  
-‹ 1m  
-‹ 1m
-
-13 017 600  
-13 017 600  
-12 633 600  
-12 556 800  
-12 288 000  
-12 326 400  
-12 940 800  
-12 211 200  
-12 326 400
-
-15 200  
-15 380  
-15 220  
-15 020  
-14 880  
-15 150  
-14 790  
-15 070  
-15 260
-
-SW-3-BE  
-SW-3-AR  
-SW-3-AF  
-SW-3-C    
-SW-3-V    
-SW-3-BF  
-SW-3-BB
-
-**12**
-
-05:46  
-05:55  
-09:29  
-10:22  
-11:08  
-13:00  
-22:11
-
-10m  
-14m  
-4g11m  
-‹ 1m  
-1d16g25m  
-1m  
-2g14m
-
-11 750 400  
-11 980 800  
-11 712 000  
-11 750 400  
-7 872 000  
-11 520 000  
-11 520 000
-
-14 900  
-15 110  
-14 760  
-15 040  
-15 110  
-14 880  
-14 710
-
-SW-3-AM  
-
-**13**
-
-16:15  
-
-15g10m  
-
-9 100 800  
-
-14 830  
-
-SW-3-AW  
-SW-3-Q    
-SW-3-P    
-SW-3-B    
-SW-3-AQ  
-SW-3-AO  
-SW-3-G    
-SW-3-AU  
-SW-3-J    
-SW-3-R    
-SW-3-BN  
-SW-3-K    
-SW-3-M    
-SW-3-BO  
-SW-3-N    
-SW-3-H  
-
-**14**
-
-00:16  
-00:28  
-04:54  
-06:41  
-06:43  
-09:21  
-15:03  
-15:13  
-15:58  
-19:20  
-19:54  
-20:54  
-22:28  
-23:13  
-23:27  
-23:55
-
-15m  
-2g08m  
-7m  
-‹ 1m  
-‹ 1m  
-2g52m  
-‹ 1m  
-3m  
-22m  
-‹ 1m  
-1m  
-5m  
-2m  
-3m  
-‹ 1m  
-‹ 1m
-
-10 060 800  
-10 444 800  
-10 099 200  
-9 984 000  
-9 945 600  
-10 176 000  
-9 715 200  
-9 715 200  
-9 600 000  
-9 561 600  
-9 408 000  
-9 484 800  
-9 408 000  
-9 408 000  
-9 408 000  
-9 408 000
-
-14 460  
-14 810  
-14 730  
-14 690  
-14 590  
-14 640  
-14 620  
-14 610  
-14 590  
-14 600  
-14 410  
-14 580  
-14 550  
-14 540  
-14 540  
-14 560
-
-SW-3-BQ  
-SW-3-BP  
-SW-3-AK  
-SW-3-AN  
-SW-3-L    
-SW-3-AE  
-SW-3-AL  
-SW-3-Z    
-SW-3-W   
-SW-3-AI  
-SW-3-X    
-SW-3-BH  
-SW-3-BI  
-SW-3-BJ  
-SW-3-AB  
-SW-3-AC  
-SW-3-BG  
-SW-3-AY  
-SW-3-AD
-
-**15**
-
-00:10  
-00:37  
-01:36  
-01:44  
-02:44  
-03:46  
-08:17  
-09:45  
-11:18  
-11:38  
-13:39  
-13:43  
-16:28  
-18:27  
-19:46  
-19:51  
-20:55  
-22:34  
-23:40
-
-2m  
-‹ 1m  
-23g29m  
-3m  
-‹ 1m  
-18m  
-2g28m  
-7g50m  
-24m  
-1d01g37m  
-3m  
-3g31m  
-4m  
-44m  
-‹ 1m  
-1m  
-1g59m  
-1g04m  
-1d07g05m
-
-9 369 600  
-9 254 400  
-8 985 600  
-9 331 200  
-9 331 200  
-9 331 200  
-9 216 000  
-9 484 800  
-9 100 800  
-8 601 600  
-8 947 200  
-8 793 600  
-8 716 800  
-8 755 200  
-8 716 800  
-8 793 600  
-8 563 200  
-8 448 000  
-8 832 000
-
-14 540  
-14 370  
-14 540  
-14 570  
-14 560  
-14 580  
-14 600  
-14 470  
-14 540  
-14 490  
-14 470  
-14 280  
-14 260  
-14 390  
-14 380  
-14 450  
-14 270  
-14 100  
-14 380
-
-SW-3-AH  
-SW-3-BK  
-SW-3-BL  
-SW-3-Y    
-SW-3-T    
-SW-3-BM  
-SW-3-AJ  
-SW-3-U    
-SW-3-AA  
-SW-3-AG
-
-**16**
-
-04:25  
-05:17  
-05:52  
-06:39  
-07:15  
-07:42  
-10:07  
-11:04  
-12:03  
-12:34
-
-16g  
-4g16m  
-4g57m  
-1g09m  
-49m  
-5g26m  
-1g06m  
-1g21m  
-27m  
-5m
-
-9 024 000  
-8 371 200  
-8 486 400  
-9 024 000  
-8 832 000  
-8 256 000  
-10 176 000  
-8 256 000  
-8 025 600  
-8 294 400
-
-14 330  
-14 170  
-14 390  
-14 740  
-14 630  
-14 150  
-15 980  
-14 250  
-14 100  
-14 340
-
-SW-3-AX  
-SW-3-E  
-
-**17**
-
-08:24  
-16:04
-
-8g01m  
-1m
-
-7 488 000  
-7 526 400
-
-14 170  
-14 130
-
-**???**
+| 🟦 **Oznaczenie fragmentu** | 🟦 **Dzień Maja** | 🟦 **Godzina** | 🟦 **Błąd czasowy** (±) | 🟦 **Odległość od Ziemi** (km) | 🟦 **Prędkość lotu** (km/s) |
+| --- | --- | --- | --- | --- | --- |
+| SW-3-AT<br>SW-3-AS<br>SW-3-AV<br>SW-3-BA<br>SW-3-AZ<br>SW-3 (matka)<br>SW-3-BD<br>SW-3-BC<br>SW-3-AP | **11** | 03:24<br>07:51<br>13:38<br>13:49<br>16:29<br>21:12<br>21:53<br>22:22<br>22:41 | 1m<br>‹ 1m<br>21m<br>12m<br>14m<br>1m<br>11g11m<br>‹ 1m<br>‹ 1m | 13 017 600<br>13 017 600<br>12 633 600<br>12 556 800<br>12 288 000<br>12 326 400<br>12 940 800<br>12 211 200<br>12 326 400 | 15 200<br>15 380<br>15 220<br>15 020<br>14 880<br>15 150<br>14 790<br>15 070<br>15 260 |
+| 🟦 |   |   |   |   |   |
+| SW-3-BE<br>SW-3-AR<br>SW-3-AF<br>SW-3-C  <br>SW-3-V  <br>SW-3-BF<br>SW-3-BB | **12** | 05:46<br>05:55<br>09:29<br>10:22<br>11:08<br>13:00<br>22:11 | 10m<br>14m<br>4g11m<br>‹ 1m<br>1d16g25m<br>1m<br>2g14m | 11 750 400<br>11 980 800<br>11 712 000<br>11 750 400<br>7 872 000<br>11 520 000<br>11 520 000 | 14 900<br>15 110<br>14 760<br>15 040<br>15 110<br>14 880<br>14 710 |
+| 🟦 |   |   |   |   |   |
+| SW-3-AM | **13** | 16:15 | 15g10m | 9 100 800 | 14 830 |
+| 🟦 |   |   |   |   |   |
+| SW-3-AW<br>SW-3-Q  <br>SW-3-P  <br>SW-3-B  <br>SW-3-AQ<br>SW-3-AO<br>SW-3-G  <br>SW-3-AU<br>SW-3-J  <br>SW-3-R  <br>SW-3-BN<br>SW-3-K  <br>SW-3-M  <br>SW-3-BO<br>SW-3-N  <br>SW-3-H | **14** | 00:16<br>00:28<br>04:54<br>06:41<br>06:43<br>09:21<br>15:03<br>15:13<br>15:58<br>19:20<br>19:54<br>20:54<br>22:28<br>23:13<br>23:27<br>23:55 | 15m<br>2g08m<br>7m<br>‹ 1m<br>‹ 1m<br>2g52m<br>‹ 1m<br>3m<br>22m<br>‹ 1m<br>1m<br>5m<br>2m<br>3m<br>‹ 1m<br>‹ 1m | 10 060 800<br>10 444 800<br>10 099 200<br>9 984 000<br>9 945 600<br>10 176 000<br>9 715 200<br>9 715 200<br>9 600 000<br>9 561 600<br>9 408 000<br>9 484 800<br>9 408 000<br>9 408 000<br>9 408 000<br>9 408 000 | 14 460<br>14 810<br>14 730<br>14 690<br>14 590<br>14 640<br>14 620<br>14 610<br>14 590<br>14 600<br>14 410<br>14 580<br>14 550<br>14 540<br>14 540<br>14 560 |
+| 🟦 |   |   |   |   |   |
+| SW-3-BQ<br>SW-3-BP<br>SW-3-AK<br>SW-3-AN<br>SW-3-L  <br>SW-3-AE<br>SW-3-AL<br>SW-3-Z  <br>SW-3-W <br>SW-3-AI<br>SW-3-X  <br>SW-3-BH<br>SW-3-BI<br>SW-3-BJ<br>SW-3-AB<br>SW-3-AC<br>SW-3-BG<br>SW-3-AY<br>SW-3-AD | **15** | 00:10<br>00:37<br>01:36<br>01:44<br>02:44<br>03:46<br>08:17<br>09:45<br>11:18<br>11:38<br>13:39<br>13:43<br>16:28<br>18:27<br>19:46<br>19:51<br>20:55<br>22:34<br>23:40 | 2m<br>‹ 1m<br>23g29m<br>3m<br>‹ 1m<br>18m<br>2g28m<br>7g50m<br>24m<br>1d01g37m<br>3m<br>3g31m<br>4m<br>44m<br>‹ 1m<br>1m<br>1g59m<br>1g04m<br>1d07g05m | 9 369 600<br>9 254 400<br>8 985 600<br>9 331 200<br>9 331 200<br>9 331 200<br>9 216 000<br>9 484 800<br>9 100 800<br>8 601 600<br>8 947 200<br>8 793 600<br>8 716 800<br>8 755 200<br>8 716 800<br>8 793 600<br>8 563 200<br>8 448 000<br>8 832 000 | 14 540<br>14 370<br>14 540<br>14 570<br>14 560<br>14 580<br>14 600<br>14 470<br>14 540<br>14 490<br>14 470<br>14 280<br>14 260<br>14 390<br>14 380<br>14 450<br>14 270<br>14 100<br>14 380 |
+| 🟦 |   |   |   |   |   |
+| SW-3-AH<br>SW-3-BK<br>SW-3-BL<br>SW-3-Y  <br>SW-3-T  <br>SW-3-BM<br>SW-3-AJ<br>SW-3-U  <br>SW-3-AA<br>SW-3-AG | **16** | 04:25<br>05:17<br>05:52<br>06:39<br>07:15<br>07:42<br>10:07<br>11:04<br>12:03<br>12:34 | 16g<br>4g16m<br>4g57m<br>1g09m<br>49m<br>5g26m<br>1g06m<br>1g21m<br>27m<br>5m | 9 024 000<br>8 371 200<br>8 486 400<br>9 024 000<br>8 832 000<br>8 256 000<br>10 176 000<br>8 256 000<br>8 025 600<br>8 294 400 | 14 330<br>14 170<br>14 390<br>14 740<br>14 630<br>14 150<br>15 980<br>14 250<br>14 100<br>14 340 |
+| 🟦 |   |   |   |   |   |
+| SW-3-AX<br>SW-3-E | **17** | 08:24<br>16:04 | 8g01m<br>1m | 7 488 000<br>7 526 400 | 14 170<br>14 130 |
+| 🟦 |   |   |   |   |   |
+|   | **???** |   |   |   |   |
 
 Astronomowie do dziś nie wiedzą dlaczego kometa uległa rozpadowi. Wini się za to bądź siły grawitacyjne Słońca i planet albo wzrost ciśnienia wewnątrz komety lub zderzenie z innym obiektem. W pierwszym przypadku kometa musiałaby przejść poniżej granicy Roche'a któregoś z obiektów, a która wynosi około 2,5 promienia obiektu (dla Ziemi - około 16 tysięcy km, dla Jowisza - 179 tysięcy km, a dla Słońca - 1,7 mln km). Płaszczyzna orbity SW-3 jest nachylona pod kątem ok. 11° do płaszczyzny orbit układu słonecznego, a jej orbita nie przechodzi w pobliżu Słońca, więc pierwszy przypadek możnaby wykluczyć. Pierwszy rozpad komety rozpoczął się w odległości ponad 200 mln km od Ziemi, a komety zwykle zaczynają uwalniać wodę (wtedy to zwiększa się ciśnienie wewnątrz) po przekroczeniu odległości pasa planetoid od Słońca lecąc w jego kierunku. Trzeci wariant - zderzenie. Jeśli tak, to czemu fragmenty nie rozprysły się w różnych kierunkach, a tworzą "łańcuszek"? A jeśli wykluczymy te trzy możliwości?... Zostaje tylko coś lub ktoś.
 
@@ -14336,77 +13024,16 @@ post: Jakub, FPP Kod Czasu, 14 maja 2006 r. - Asteroid GY-3 minie nas dopiero w 
 
 **A co tak naprawdę stanie się około 25.V?** Nic specjalnego, oprócz tego że pod koniec maja fragmenty komety przetną płaszczyznę ekliptyki - tym samym ich szerokość ekliptyczna ß, zmieni się z dodatniej na ujemną... Oczywiście należy pamiętać, że skoro przecinają płaszczyznę ekliptyki, to nie oznacza, że tym samym przecinają orbitę Ziemi! Orbity fragmentów komety w pobliżu peryhelium znajdują się już wewnątrz orbity Ziemi (podobnie jak orbity Merkurego i Wenus, które też co jakiś czas przecinają ekliptykę!). Ponieważ orbity fragmentów komety nachylone są o kąt ok. 11°, to także z tego względu nie mogą one zbyt blisko przeciąć ziemskiej orbity... A oto daty przejścia przez węzeł zstępujący niektórych fragmentów 73P/, czyli inaczej mówiąc: przejścia ich "z nad" do "pod" płaszczyzny ekliptyki:
 
-fragment V
-
-22.V
-
-o godzinie
-
-3:30 UT
-
-fragment U
-
-23.V
-
-o godzinie
-
-6:40 UT
-
-fragment AT
-
-23.V
-
-o godzinie
-
-17:00 UT
-
-fragment T
-
-24.V
-
-o godzinie
-
-5:30 UT
-
-fragment C
-
-24.V
-
-o godzinie
-
-10:00 UT
-
-fragment B
-
-25.V
-
-o godzinie
-
-9:00 UT
-
-fragment G
-
-25.V
-
-o godzinie
-
-13:20 UT
-
-fragment AA
-
-26.V
-
-o godzinie
-
-14:20 UT
-
-fragment S
-
-6.VI
-
-o godzinie
-
-9:30 UT
+| fragment V | 22.V | o godzinie | 3:30 UT |
+| --- | --- | --- | --- |
+| fragment U | 23.V | o godzinie | 6:40 UT |
+| fragment AT | 23.V | o godzinie | 17:00 UT |
+| fragment T | 24.V | o godzinie | 5:30 UT |
+| fragment C | 24.V | o godzinie | 10:00 UT |
+| fragment B | 25.V | o godzinie | 9:00 UT |
+| fragment G | 25.V | o godzinie | 13:20 UT |
+| fragment AA | 26.V | o godzinie | 14:20 UT |
+| fragment S | 6.VI | o godzinie | 9:30 UT |
 
 A co z tymi fragmentami, które nie są jeszcze znane nauce lub jeszcze się nie oderwały od znanych fragmentów? Czy stanowią dla nas zagrożenie?! Nim zaczniemy się obawiać "kosmicznego intruza", to warto poznać go bliżej, a wtedy okazuje się, że "nie taki diabeł straszny...". Komety są zwykle dużo mniej gęste od planetoid (meteorytów), gdyż składają się z luźnych okruchów "zlepionych" lodem (niekoniecznie wodnym). Struktura komet jest poza tym bardzo porowata, pełna wolnych przestrzeni. Postępujący wciąż rozpad 73P/Schwassmann-Wachmann 3 wyraźnie o tym świadczy - niegdysiejsze jądro rozpadło się podczas jednego z ostatnich powrotów na wiele mniejszych lub większych fragmentów, które to obecnie rozsypują się w "pył"... Chociaż prócz kilkudziesięciu znanych fragmentów, są z pewnością mniejsze, których nie odkryto, to są one zbyt małe by mogły wyrządzić szkodę - przy wejściu w atmosferę ulegną prędzej rozproszeniu już w górnych warstwach atmosfery, nie stanowiąc dla nas zagrożenia...
 
@@ -14888,12 +13515,10 @@ Często wyrasta z tego grupowa solidarność skierowana przeciwko niewinnej obs�
 
 Nagle pojawia się plotka: jest parę wolnych miejsc w locie z bramki nr 37. Solidarność pryska, anioły zamieniają się w zwierzęta. Chorzy, starcy, kobiety i dzieci zostają w tyle. Faceci w ciemnych garniturach z dyplomami z Harvardu i Oksfordu o nienagannych manierach walczą jak goryle. Kiedy przepchną się po swoje, czyli kartę pokładową, wycofują się do kątów, unikając spojrzeń. Goryl dostał banana (wierzcie, wiem, o czym mówię - sam bywałem gorylem). A wszystko po to, żeby uniknąć nocy w Holiday Inn w Des Moines.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Bogactwo zdążyło uciec ... (foto AFP)
 
+[obraz]  
 ... bieda pozostała (foto AFP)
 
 "Decywilizacja" w Nowym Orleanie była oczywiście czymś tysiąckroć gorszym. Nie mogę pozbyć się wrażenia, że coś takiego będzie zdarzać się częściej - znacznie częściej - kiedy zagłębimy się w XXI stulecie. Po prostu zbyt wiele mogących cofnąć ludzkość w rozwoju gróźb wisi w powietrzu. Do najoczywistszych należy nasilenie się klęsk żywiołowych w następstwie zmian klimatycznych. Jeśli ten kataklizm uznany zostanie przez amerykańskich polityków w rodzaju Johna McCaina - by się posłużyć wyświechtanym frazesem, jakim oni bez wątpienia się posłużą - za sygnał alarmowy przypominający Amerykanom o konsekwencjach pompowania w atmosferę dwutlenku węgla, to okaże się, że nawet mroczna chmura huraganu "Katrina" miała swą jasną stronę. Ale może już być za późno.

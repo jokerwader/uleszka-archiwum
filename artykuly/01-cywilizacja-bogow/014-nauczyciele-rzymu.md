@@ -25,40 +25,32 @@ Czy jest możliwe odnalezienie potomków dawnej cywilizacji w czasach współcze
 
 Jedną z przesłanek obrazujących wygląd świata sprzed kataklizmu mogą być najstarsze mapy z widokiem konturów północno zachodniej Europy. Starożytni kartografowie, podobnie jak i dzisiejsi, mogli rysować mapy tylko na podstawie własnych obserwacji i pomiarów lub wykorzystywać starsze opracowania. Podkreślam, że map nie rysuje się z głowy. Tak można robić przy tworzeniu komputerowych gier. Kto twierdzi, że mapy starożytnych to czysta fantazja, jest człowiekiem nie orientującym się w realiach prac kartograficznych.
 
-![](../../zrodlo/webacja/13celtowie/mapy/korybes.jpg)
-
-![](../../zrodlo/webacja/13celtowie/mapy/eratostenes.jpg)
-
-![](../../zrodlo/webacja/13celtowie/mapy/dionysius.jpg)
-
+![](../../zrodlo/webacja/13celtowie/mapy/korybes.jpg)  
 Korybes
 
+![](../../zrodlo/webacja/13celtowie/mapy/eratostenes.jpg)  
 Eratostenes
 
+![](../../zrodlo/webacja/13celtowie/mapy/dionysius.jpg)  
 Dionizjusz
 
 Proszę obejrzeć kilka dzieł starożytnych kartografów. Najbardziej interesującymi są opracowania kartografów greckich gdyż, jak sądzę, są najstarszymi z istniejących map. Proszę zwrócić uwagę na zarys linii brzegowej północno-zachodniej Europy oraz na wyspy leżące u jej brzegów. Będzie to jednym z moich dowodów na prawdę starożytnych. Na mapie Korybesa dwie duże wyspy nazywają się Albion i Hibernia a powyżej nich znajduje się Thule. Na mapie Erastotenesa Albion zamienia się w Bretanię, zaś na mapie Dionizjusza widzimy dwie kiszkowate wyspy pod wspólna nazwą Britanni Issule i powyżej na obu także Thule.
 
-![](../../zrodlo/webacja/13celtowie/mapy/herodot.jpg)
-
-![](../../zrodlo/webacja/13celtowie/mapy/dicaearchus.jpg)
-
-![](../../zrodlo/webacja/13celtowie/mapy/rzym.jpg)
-
+![](../../zrodlo/webacja/13celtowie/mapy/herodot.jpg)  
 Herodot
 
+![](../../zrodlo/webacja/13celtowie/mapy/dicaearchus.jpg)  
 Dicearchus
 
+![](../../zrodlo/webacja/13celtowie/mapy/rzym.jpg)  
 Rzym
 
 Na mapie Herodota u wybrzeży znajdują się trzy małe wysepki o nieodczytanej przeze mnie nazwie. Na mapie Dicearchusa widzimy tylko Thule i obok wielką nieopisaną wyspę, ale już na mapie Rzymu (tu przekręconej o 90°) Znajduje się wyspa Britannia oraz Thule w znacznym oddaleniu. Sensacją (przynajmniej dla mnie) jest brak... Morza Bałtyckiego. Ktoś może powiedzieć - przecież Grecy znali tylko rejon Morza Śródziemnego. Zgoda, to skąd w takim razie wiedzieli o Morzu Kaspijskim? Skąd o Zatoce Perskiej czy Oceanie Indyjskim z Taprobaną. Skąd Erastotenes powziął wiadomość o Oceanie Północnym? Morza Bałtyckiego nie ma, bo nie było go na najstarszych mapach tych sprzed kataklizmu. Bałtyk zaistniał dopiero po kataklizmie 12,5 tysiąca lat temu, gdy wody Atlantyku zalały szelf kontynentalny i wlały się w dzisiejszą nieckę zatapiając przy okazji legendarny Jomsborg. Nieprawdopodobne? Być może, ale nie aż tak niemożliwe.
 
-![](../../zrodlo/webacja/13celtowie/mapy/thule.jpg)
-
-![](../../zrodlo/webacja/13celtowie/mapy/brzeg.jpg)
-
+![](../../zrodlo/webacja/13celtowie/mapy/thule.jpg)  
 Europa przed kataklizmem (?)
 
+![](../../zrodlo/webacja/13celtowie/mapy/brzeg.jpg)  
 Ten sam rejon z kosmosu
 
 Pozwoliłem sobie na mały eksperyment. Zakładając że przed kataklizmem, który zatopił Atlantydę, kontynenty znajdowały się wyżej, "wynurzyłem" ponad wody szelf kontynentalny. Jest to oczywiście daleki od doskonałości zarys kontynentu nie uwzględniający zmian wysokości przy zmianie krzywizny geoidy w zależności od odległości od bieguna (jak wiemy różnica odległości punktu od środka ziemi na równiku i biegunie wynosi około 22 km). Daje to jednak ciekawy, zmuszający do zastanowienia efekt. Obok dla porównania zamieściłem zdjęcie satelitarne tego samego rejonu, gdzie widać ukształtowanie terenu znajdującego się pod wodą. Porównajmy zarys północno-zachodniego brzegu Europy sprzed kataklizmu z tym samym rejonem na mapach starożytnych. Widać dość duże podobieństwo, co może być dowodem, że starożytni korzystali z map wykonanych przed kataklizmem. Zarys brzegów Europy starożytnych oraz przybrzeżnych wysp nie pokrywa się idealnie z moim "eksperymentem", ale zasadnicze elementy wykazują duże podobieństwo.
@@ -135,24 +127,19 @@ Przypatrzmy się teraz słynnemu kociołkowi z Gundestrup w Danii. Oczywiście, 
 
 Bóg Cernunnos w prawej ręce trzyma bransoletę zwaną torquesem, a w drugiej ściska dość sporego węża lecz najbardziej chyba intrygującym fragmentem płaskorzeźby jest człowiek płynący na delfinie. Motyw delfina spotyka się przede wszystkim w sztuce minojskiej, a to są czasy na długo przed Rzymianami. Drugi bóg, to Taranis trzymający w ręku zwykłe koło od wozu, które dla historyków jest jednak atrybutem słońca (tzw. znak solarny). On sam występuje także w osobliwym otoczeniu. Na samym dole widzimy latające niby konie z ptasimi dziobami i potężnymi pazurami, po obu stronach występują tajemnicze zwierzęta o centkowanej sierści, koło zaś usiłuje mu wyrwać postać w hełmie z rogami. Za dużo tu tajemniczych postaci jak na Celtów żyjących prawie nam współcześnie.
 
-![](../../zrodlo/webacja/13celtowie/bostwa/brigantia.jpg)
-
-![](../../zrodlo/webacja/13celtowie/bostwa/coventina.jpg)
-
-![](../../zrodlo/webacja/13celtowie/bostwa/taranis2.gif)
-
-![](../../zrodlo/webacja/13celtowie/bostwa/rosmerta.jpg)
-
-![](../../zrodlo/webacja/13celtowie/bostwa/esus.jpg)
-
+![](../../zrodlo/webacja/13celtowie/bostwa/brigantia.jpg)  
 Brigantia
 
+![](../../zrodlo/webacja/13celtowie/bostwa/coventina.jpg)  
 Kowentyna
 
+![](../../zrodlo/webacja/13celtowie/bostwa/taranis2.gif)  
 Taranis
 
+![](../../zrodlo/webacja/13celtowie/bostwa/rosmerta.jpg)  
 Rosmerta
 
+![](../../zrodlo/webacja/13celtowie/bostwa/esus.jpg)  
 Esus
 
 Stelle wotywne z reliefami bogiń celtyckich. Pierwsza z lewej to Brigantia. Bogini wiedzy, poezji i wieszczbiarstwa. Jedna z najstarszych bogiń celtyckich, która przetrwała do naszych czasów, a nawet została świętą Brigit z Kildare. Ciekaw jestem w jakich to momentach wykorzystywała trzymaną przez siebie włócznię? A może celtycki bóg miłości biegał po ziemi z siekierą i dlatego do dziś nie został zidentyfikowany? Druga to Kowentyna, bogini wodna. Przyznam szczerze, że nie widzę tu żadnego atrybutu wody, chyba że w fałdach spódnicy dojrzymy falująca wodę. Stelle wotywne bardziej też przypominają mi nagrobki i bardzo możliwe, że ze znamienitych nieboszczek celtyckich uczyniono boginie, ale to już sprawa interpretatorów nagminnie lubiących gmatwać najprostsze sprawy. Bóg Taranis okrzyknięty celtyckim Zeusem chyba z powodu trzymanego w ręku "oscypka", wygląda na kołodzieja z zawieszonym na ramieniu kompletem podkładek. Tutaj też zwykłe koło do wozu awansowało do symbolu słońca. Dalej bóg o dość swojsko brzmiącym imieniu Esus (drwal, cieśla?) oraz Rosmerta, symbol śmierci i zniszczenia - to też ponoć rzeźby z grupy galo-rzymskiej.
@@ -227,16 +214,13 @@ Nie sposób opisać wszystkiego i wydaje się, że świadomie pominąłem warown
 
 Na poczatek pytanie. Z czego najłatwiej jest wznieść zamek - z kamienia czy cegły? Odpowiedź jest oczywista - na pewno z cegły. Dlaczego więc najstarsze budowle średniowiecznej Europy wzniesiono z kamienia? Odpowiedź jest też oczywista - bo nie znano cegły. Co prawda wypalaną cegłę wynaleźli już Babilończycy i do tego powlekaną niebieską glazurą oraz Rzymianie w II wieku ne, ale na terenie Europy widać nie była popularnym materiałem budowlanym, oczywiście do czasu. Jest też charakterystyczną rzeczą, że z końcem średniowiecza, jak nożem uciął, kończy się budowa kamiennych zamków. Dlaczego? Kamień jest najtrudniejszym w obróbce surowcem ale i najtrwalszym, mogącym przetrwać wieki. Kamienne mury mogą z powodzeniem przetrwać największy pożar i w dalszym ciągu pozostać użyteczne. Kamienne mury może zalać woda i kamienne mury będą trwać i służyć dalej. Dlaczego tak lekkomyślnie zrezygnowano z ich budowy. Dlaczego mimo upływu setek lat nikt nie podjął się odbudowy, z małymi wyjątkami, tych przepięknych budowli? Jako anegdotę można przyjąć stwierdzenie historyków, że zaprzestano budowy murów, bo nie broniły przed ogniem armat. Panowie historycy, walory obronne murów są aktualne i dzisiaj. To dlatego Francuzi wydali fortunę na linię Maginota i dlatego Hitler odpowiedział linią Zygfryda. Ale to tak na marginesie. Odpowiedź na pytanie może być tylko jedna - nikt nie potrafił. Nikt nie potrafił, nigdzie nie było odpowiednich specjalistów, nikt nie miał odpowiednich narzędzi i odpowiedniej techniki, bo nikt ze średniowiecznych ludzi tych zamków nie zbudował.
 
-![](../../zrodlo/webacja/13celtowie/zamki/_tintagel.jpg)
-
-![](../../zrodlo/webacja/13celtowie/zamki/_pendragon.jpg)
-
-![](../../zrodlo/webacja/13celtowie/zamki/_kornwal.jpg)
-
+![](../../zrodlo/webacja/13celtowie/zamki/_tintagel.jpg)  
 Tintagel
 
+![](../../zrodlo/webacja/13celtowie/zamki/_pendragon.jpg)  
 Pendragon
 
+![](../../zrodlo/webacja/13celtowie/zamki/_kornwal.jpg)  
 Kornwalia
 
 Zniszczone zamki wyspiarzy. Zamek Tintagel jest łączony z legendarnym królem Arturem i rycerzami okrągłego stołu. Ten celtycki władca został włączony do rycerzy chrześcijańskich z powodu Świętego Graala, do dziś szukanego przez entuzjastów. Jeśli Graal wogóle istnieje to sądzę, że należy go szukać w stolicy Celtów, za Słupami Heraklesa. Wielka Brytania jest wprost usiana zamkami. Historia uczy, że sam Wilhelm Zdobywca w ciągu wieku wybudował ich 900. Dziewięć potężnych zamków w ciagu roku? Kto mu pomagał - Bóg czy diabeł? Wyspiarskie zamki są zniszczone w ogromnej większości i nigdy nie zostały odbudowane. Takich spustoszeń mogło dokonać tylko trzęsienie ziemi, ale historycy wolą inne wytłumaczenie. Zamki na wschodzie Brytanii niszczyli... Wikingowie. A było to tak. Do brzegu dobijała flota kilku drakkarów, wytaczało się z nich kilkudziesięciu brodatych Wikingów i rozpoczynało oblężenie. Niemal natychmiast znajdowałuje się mnich-zdrajca albo chłopak pasący owce, który znał tajemne przejście. Wikingowie zdobywali zamek, gwałcili, mordowali i plądrowali, by w końcu go podpalić. Zamek płonął doszczętnie i musiał jeszcze ostygnąć zanim normańscy woje dokonali całkowitego zburzenia. Wtedy to przy pomocy mieczy, dzid i siekier kilkudziesięcu ludzi dosłownie roznosiło go w pył.
@@ -339,38 +323,30 @@ Katarowie, rycerze maltańscy, Templariusze. Dlaczego musieli zginąć i przepa�
 
 Czy my Polacy, naród z peryferii Europy, mamy się czym pochwalić? Oczywiście, że mamy. Wystarczy rozejrzeć się dobrze dookoła i chcieć ujrzeć ślady jeszcze starszej historii, niż się nam na codzień serwuje. Nasi historycy, spętani obowiązująca hipotezą, nie zauważają lub nie chcą zauważyć takich śladów. Wolą rozkopywać najstarsze wiejskie cmentarzyska, grzebać w starożytnych śmietnikach, tworząc coraz to nowsze hipotezy, niż przyjrzeć się dokładnie temu co leży dosłownie na wierzchu. Polska tak jak dzisiaj tak i w przeszłości nie była samotną wyspą. Oddziaływały na nas kultury sąsiadów i my oddziaływaliśmy na nich. Najstarsze źródła nie wymieniają nas z imienia, dla nich byliśmy Hiperborejczykami, czyli mieszkającymi poza wiatrem północnym i jak sądzę odnosiło sie to do czasów sprzed kataklizmu, gdzie nasze tereny leżały w strefie klimatycznej podobnej do klimatu śródziemnomosrkiego, a wiec takiego gdzie nie docierał arktyczny Boreasz.
 
-![](../../zrodlo/webacja/13celtowie/polcelt/odry1.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/sleza2.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/sleza3.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/sleza1.jpg)
-
+![](../../zrodlo/webacja/13celtowie/polcelt/odry1.jpg)  
 Fragment kręgu w Odrach
 
+![](../../zrodlo/webacja/13celtowie/polcelt/sleza2.jpg)  
 Słup milowy(?)
 
+![](../../zrodlo/webacja/13celtowie/polcelt/sleza3.jpg)  
 Niedźwiedź(?)
 
+![](../../zrodlo/webacja/13celtowie/polcelt/sleza1.jpg)  
 Kot, lew, pies...?
 
 Wszyscy zapewne znają nasz najsłynniejszy krąg (a właściwie krążek) kamienny w Odrach na Pomorzu. Znane sa też zapewne kamienne rzeźby z okolic Ślęży, ponoć świętej góry śląskich pogan, na której szczycie odkryto pozostałości kamiennej budowli. Teren pokrywa się z historycznym zasięgiem kultury celtyckiej (tych Celtów pokonanych przez Rzymian, którzy skierowali się w stronę Śląska a potem na Bałkany). Krąg kamienny odkryto i koniec na tym. Ponoć zbierają się tam polscy druidzi szukający odnowy duchowej. Na Ślęży rozgrzebuje się coś archeologicznie, ale jak dotąd nie opublikowano żadnych badań. W okolicy góry znajduje się też kamienny kościół, ale też nie zwraca większej uwagi archeologów.
 
-![](../../zrodlo/webacja/13celtowie/polcelt/sleza4.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/sleza5.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/wawel1.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/rotunda.jpg)
-
+![](../../zrodlo/webacja/13celtowie/polcelt/sleza4.jpg)  
 Ślęża
 
+![](../../zrodlo/webacja/13celtowie/polcelt/sleza5.jpg)  
 Kamienny kościół. Ślęża
 
+![](../../zrodlo/webacja/13celtowie/polcelt/wawel1.jpg)  
 Kamienne fundamenty na Wawelu
 
+![](../../zrodlo/webacja/13celtowie/polcelt/rotunda.jpg)  
 Kamienna rotunda
 
 Jeden z najstarszych polskich ośrodków administracyjnych i kultowych - wawelskie wzgórze, kryje z pewnością więcej tajemnic niż o nich wiemy. Na środku wzgórza znaleziono kamienne fundamenty budowli, a wewnątrz budowli wawelskiej obmurowaną ceglanym murem kamienną rotundę śś. Feliksa i Adaukta. Mury rotundy przypominają sposób budowy celtyckich Irów (użycie płaskich kamieni, szlifowanych na licu). Dlaczego budowli nie rozebrano (chociażby dla uzyskania budulca) a po prostu obmurowano? Czy to nie relikt pierwszych "bizantyjskich" chrześcijan. Polska z pewnością znajdowała się w zasięgu ich ewangelizacji (Cyryl i Metody), ale ślady po nich zostały starannie zniszczone (np. pisma święte pisane głagolicą). Czy początki naszego państwa są takie jak mówi oficjalna historia? Dlaczego król czeski daje za żonę córkę Dobrawę pogańskiemu Mieszkowi. Taki gest to przecież policzek dla kościoła z nieobliczalnymi politycznymi konsekwencjami. Sądzę, że Mieszko I był chrześcijaninem, ale w obrządku wschodnim a sytuacja geopolityczna postawiła go na drodze chrześcijaństwa w obrządku rzymskim. Miał więc do wyboru - albo rzymski chrzest albo krwawe nawrócenie i koniec Polski. Stąd prawdopodobnie zniszczenie wszelkich dowodów łączności z Bizancjum i zamurowanie rotundy.
@@ -393,30 +369,24 @@ Na terenach Polski odnaleziono wiele kamiennych krzyży. Historycy nazwali je kr
 
 Przypatrzmy się nie mniej intrygującym, chociaż ponoć młodszym, kamiennym zamkom. Większość ruin, a szczególnie tzw. orle gniazda, przypisywana jest Kazimierzowi Wielkiemu na zasadzie ogólnego stwierdzenia - "zastał drewnianą, a zostawił murowaną". Nachodzą mnie watpliwości co do twórcy tychże. Budowa nawet jednego zamku, to nie zachcianka i przedsięwzięcie miejscowego sołtysa a działalność na szczeblu państwowym.
 
-![](../../zrodlo/webacja/13celtowie/polcelt/_bydlin.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/_czorsztyn.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/_morsko.jpg)
-
+![](../../zrodlo/webacja/13celtowie/polcelt/_bydlin.jpg)  
 Bydlin
 
+![](../../zrodlo/webacja/13celtowie/polcelt/_czorsztyn.jpg)  
 Czorsztyn
 
+![](../../zrodlo/webacja/13celtowie/polcelt/_morsko.jpg)  
 Morsko
 
 Budowa sieci zamków wymaga strategicznego rozeznania terenu, projektowania, zebrania specjalistów, zgromadzenia materiałów i ich obróbki, nie wspominając o transporcie, wyżywieniu i zakwaterowaniu robotników. Do budowy musiano też zużyć ogromne ilości spoiwa. Jakiego? Krzyżackiego cementu na kurzych jajach? Dlaczego tak ogromne przedsięwzięcie państwowe nie ma żadnego odzwierciedlenia w królewskich dokumentach? Przecież w tym czasie Polacy (a przynajmniej królewscy urzędnicy) umieli już pisać.
 
-![](../../zrodlo/webacja/13celtowie/polcelt/_ogrodz7.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/_olsztyn.jpg)
-
-![](../../zrodlo/webacja/13celtowie/polcelt/_rabsztyn.jpg)
-
+![](../../zrodlo/webacja/13celtowie/polcelt/_ogrodz7.jpg)  
 Ogrodzieniec
 
+![](../../zrodlo/webacja/13celtowie/polcelt/_olsztyn.jpg)  
 Olsztyn (małopolski)
 
+![](../../zrodlo/webacja/13celtowie/polcelt/_rabsztyn.jpg)  
 Rabsztyn
 
 Dlaczego tak ważna inwestycja z punktu widzenia obronności państwa, popadła w ruinę w tak krótkim czasie? Dlaczego żaden zamek (no prawie żaden) nie został odbudowany?

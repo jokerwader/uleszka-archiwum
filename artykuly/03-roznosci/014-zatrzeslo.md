@@ -120,95 +120,22 @@ Nigdy nie interesowałem się trzęsieniami ziemi na naszym terenie, bo uważał
 
 I co się okazuje. U nas tak spokojnie nie jest.
 
-**Rok**
-
-**Miejsce**
-
-**Skutki**
-
-1200
-
-Pieniny  
-
-Zniszczone wiele wież i warowni.
-
-1259
-
-Okolice Krakowa  
-
-Zburzone budynki.
-
-1443
-
-Południe Polski  
-
-Doszło do największego trzęsienia ziemi w historii Polski (około 6°R). Wstrząs, którego epicentrum znajdowało się prawdopodobnie na północ od Wrocławia, odczuła cała środkowa część naszego kontynentu. Wstrząsy szczególnie silnie dotknęły Wrocław, a w Krakowie zawaliło się sklepienie kościoła Św. Katarzyny. Jan Długosz, który był bezpośrednim świadkiem trzęsienia, zanotował, że "wieże i gmachy waliły się na ziemię, rzeki występowały z łożysk, a ludzie nagłym strachem zdjęci, od zmysłów i rozumu odchodzili".
-
-1662
-
-Rejon Tatr  
-
-Epicentrum wypadło w okolicy Sławkowskiego Szczytu. Jego wysokość obniżyła się wówczas o około 300 m.
-
-1774
-
-Śląsk  
-
-Brak bliższych danych
-
-1785-1786
-
-Rejon całej Polski  
-
-Seria 14 trzęsień ziemi nawiedziła ziemie polskie - od morza po góry. Co najmniej trzy z nich miały siłę 6°R. Szczególnie poważne były dwa ostatnie.
-
-1786
-
-Południe Polski  
-
-Trzęsienie z epicentrum między Cieszynem a Opawą odczuto od Wiednia po Piotrków Trybunalski i od Wrocławia po Sandomierz. W Cieszynie uszkodzone zostały murowane budynki i wybuchła panika, w Cierliczku pękło sklepienie kościoła, zaś w Mysłowie uszkodzona została wieża kościelna. Na Śląsku, w Bytomiu trzęsienie było tak silne, że dzwony kościelne zaczęły same dzwonić..
-
-12.1786
-
-Myślenice  
-
-Ostatnie z bardzo silnych trzęsień w Polsce. Epicentrum wypadło między Kętami a Myślenicami. Drgania odczuwano od Wrocławia po Lwów i od Głogowa i Kalisza po Koszyce na Słowacji. Wstrząs spowodował znaczne zniszczenia: w Krakowie burzyła się woda w Wiśle, w kościołach spadały gzymsy i tynki, samoczynnie odzywały się dzwony.
-
-1840
-
-Pieniny  
-
-Brak danych.
-
-1875
-
-Dolny Śląsk  
-
-Brak danych.
-
-1895
-
-Hrubieszów  
-
-Brak danych.
-
-02.1932
-
-Płock, Kielce, Lublin  
-
-Brak danych.
-
-1992-1993
-
-Beskid  
-
-Brak danych.
-
-1995
-
-Podhale  
-
-W nielicznych budynkach wstrząsy poczyniły zauważalne szkody.
+| **Rok** | **Miejsce** | **Skutki** |
+| --- | --- | --- |
+| 1200 | Pieniny | Zniszczone wiele wież i warowni. |
+| 1259 | Okolice Krakowa | Zburzone budynki. |
+| 1443 | Południe Polski | Doszło do największego trzęsienia ziemi w historii Polski (około 6°R). Wstrząs, którego epicentrum znajdowało się prawdopodobnie na północ od Wrocławia, odczuła cała środkowa część naszego kontynentu. Wstrząsy szczególnie silnie dotknęły Wrocław, a w Krakowie zawaliło się sklepienie kościoła Św. Katarzyny. Jan Długosz, który był bezpośrednim świadkiem trzęsienia, zanotował, że "wieże i gmachy waliły się na ziemię, rzeki występowały z łożysk, a ludzie nagłym strachem zdjęci, od zmysłów i rozumu odchodzili". |
+| 1662 | Rejon Tatr | Epicentrum wypadło w okolicy Sławkowskiego Szczytu. Jego wysokość obniżyła się wówczas o około 300 m. |
+| 1774 | Śląsk | Brak bliższych danych |
+| 1785-1786 | Rejon całej Polski | Seria 14 trzęsień ziemi nawiedziła ziemie polskie - od morza po góry. Co najmniej trzy z nich miały siłę 6°R. Szczególnie poważne były dwa ostatnie. |
+| 1786 | Południe Polski | Trzęsienie z epicentrum między Cieszynem a Opawą odczuto od Wiednia po Piotrków Trybunalski i od Wrocławia po Sandomierz. W Cieszynie uszkodzone zostały murowane budynki i wybuchła panika, w Cierliczku pękło sklepienie kościoła, zaś w Mysłowie uszkodzona została wieża kościelna. Na Śląsku, w Bytomiu trzęsienie było tak silne, że dzwony kościelne zaczęły same dzwonić.. |
+| 12.1786 | Myślenice | Ostatnie z bardzo silnych trzęsień w Polsce. Epicentrum wypadło między Kętami a Myślenicami. Drgania odczuwano od Wrocławia po Lwów i od Głogowa i Kalisza po Koszyce na Słowacji. Wstrząs spowodował znaczne zniszczenia: w Krakowie burzyła się woda w Wiśle, w kościołach spadały gzymsy i tynki, samoczynnie odzywały się dzwony. |
+| 1840 | Pieniny | Brak danych. |
+| 1875 | Dolny Śląsk | Brak danych. |
+| 1895 | Hrubieszów | Brak danych. |
+| 02.1932 | Płock, Kielce, Lublin | Brak danych. |
+| 1992-1993 | Beskid | Brak danych. |
+| 1995 | Podhale | W nielicznych budynkach wstrząsy poczyniły zauważalne szkody. |
 
 Ogółem w ciągu ostatniego tysiąclecia w Polsce zarejestrowano 76 trzęsień ziemi.
 
@@ -249,55 +176,15 @@ Zauważ także, że w Obwodzie Kaliningradzkim w ciągu tych dwudziestu lat odno
 
 Skala **Richtera** służy do określania efektów energetycznych trzęsienia ziemi w jego epicentrum. Jest to skala logarytmiczna, co oznacza, że ilekroć intensywność trzęsienia ziemi wzrasta o jedną jednostkę, grunt trzęsie się 10-krotnie silnej, a ognisko trzęsienia wyzwala 30-krotnie więcej energii.
 
-**Stopień**
-
-**Skutki**
-
-1  
-2-3  
-4-5  
-6  
-7  
-8
-
-  wykrywalne tylko za pomocą sejsmografów  
-  ledwie wyczuwalne przez ludzi  
-  może spowodować niewielkie szkody  
-  dość niszczycielskie  
-  duże trzęsienie ziemi  
-  bardzo niszczycielskie trzęsienie ziemi
+| **Stopień** | **Skutki** |
+| --- | --- |
+| 1<br>2-3<br>4-5<br>6<br>7<br>8 | wykrywalne tylko za pomocą sejsmografów<br>  ledwie wyczuwalne przez ludzi<br>  może spowodować niewielkie szkody<br>  dość niszczycielskie<br>  duże trzęsienie ziemi<br>  bardzo niszczycielskie trzęsienie ziemi |
 
 Zmodyfikowana skala **Marcallego** służy do określania intensywności drgań gruntu w danym miejscu na skutek trzęsienia ziemi. Jest to tzw. odczuwalna intensywność. Sama skala zaś jest rejestrem opisanych skutków trzęsienia ziemi.
 
-**Stopień**
-
-**Skutki**
-
-1  
-2  
-3  
-4  
-5  
-6  
-7  
-8  
-9  
-10  
-11  
-12
-
-  Nieodczuwalne dla ludzi  
-  Odczuwalne przez ludzi zamieszkujących wyższe piętra  
-  Zawieszone na ścianach przedmioty mogą się poruszać  
-  Zawieszone na ścianach przedmioty poruszają się, pojawia się drżenie okien i drzwi  
-  Odczuwalne na dworze. Małe przedmioty poruszają się  
-  Odczuwalne przez każdego. Poruszają się meble. Chwieją się drzewa i krzewy  
-  Ludzie z trudem utrzymują się na nogach. Budynki pękają  
-  Powstają duże szkody w budynkach. Łamią się gałęzie drzew  
-  W gruncie tworzą się duże pęknięcia. Niektóre domy rozpadają się  
-  Obsuwa się powierzchnia ziemi. Liczne budynki leżą w gruzach  
-  Duże przekształcenia powierzchni ziemi, wyginają się szyny kolejowe  
-  Zniszczenia są niemal całkowite
+| **Stopień** | **Skutki** |
+| --- | --- |
+| 1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12 | Nieodczuwalne dla ludzi<br>  Odczuwalne przez ludzi zamieszkujących wyższe piętra<br>  Zawieszone na ścianach przedmioty mogą się poruszać<br>  Zawieszone na ścianach przedmioty poruszają się, pojawia się drżenie okien i drzwi<br>  Odczuwalne na dworze. Małe przedmioty poruszają się<br>  Odczuwalne przez każdego. Poruszają się meble. Chwieją się drzewa i krzewy<br>  Ludzie z trudem utrzymują się na nogach. Budynki pękają<br>  Powstają duże szkody w budynkach. Łamią się gałęzie drzew<br>  W gruncie tworzą się duże pęknięcia. Niektóre domy rozpadają się<br>  Obsuwa się powierzchnia ziemi. Liczne budynki leżą w gruzach<br>  Duże przekształcenia powierzchni ziemi, wyginają się szyny kolejowe<br>  Zniszczenia są niemal całkowite |
 
 Przeżyliśmy więc trzęsienie ziemi o sile 4-5° w skali Richtera i 6-7° w skali Marcallego.
 
@@ -308,57 +195,9 @@ Przeżyliśmy więc trzęsienie ziemi o sile 4-5° w skali Richtera i 6-7° w sk
   
 Braniewo miało absolutne szczęście. Popatrz na miejsca, gdzie niektórzy nie mieli go wcale. Nie potrafię sobie czegoś takiego wyobrazić. To musiał być najprawdziwszy horror. Nie są to oczywiście wszystkie trzęsienia ziemi, a tylko te, które udało mi się odnaleźć.
 
-**Rok**
-
-**Miejsce**
-
-**Stopień**
-
-**Bilans**
-
-526  
-556  
-1775  
-1906  
-1908  
-1923  
-1950  
-1976  
-1988  
-1999
-
-Antiochia  
-Shaan-xi  
-Lizbona  
-San Francisko  
-Messyna, Reggio  
-Tokio, Jokohama  
-Assam  
-Chiny  
-Armenia  
-Tajwan
-
-?  
-?  
-?  
-?  
-?  
-?  
-8,6°R  
-?  
-7,3°R  
-?  
-
-250 000 zabitych  
-830 000 zabitych  
-30 000 do 70 000 (szacunkowo, większość ciał zmyła tsunami)  
-50 000 zabitych, zniszczone całe miasto  
-100 000 zabitych  
-250 000 zabitych  
-Najsilniejsze w ostatnim półwieczu, brak danych  
-242 000 zabitych  
-55 000 zabitych  
-ponad 2000 zabitych
+| **Rok** | **Miejsce** | **Stopień** | **Bilans** |
+| --- | --- | --- | --- |
+| 526<br>556<br>1775<br>1906<br>1908<br>1923<br>1950<br>1976<br>1988<br>1999 | Antiochia<br>Shaan-xi<br>Lizbona<br>San Francisko<br>Messyna, Reggio<br>Tokio, Jokohama<br>Assam<br>Chiny<br>Armenia<br>Tajwan | ?<br>?<br>?<br>?<br>?<br>?<br>8,6°R<br>?<br>7,3°R<br>? | 250 000 zabitych<br>830 000 zabitych<br>30 000 do 70 000 (szacunkowo, większość ciał zmyła tsunami)<br>50 000 zabitych, zniszczone całe miasto<br>100 000 zabitych<br>250 000 zabitych<br>Najsilniejsze w ostatnim półwieczu, brak danych<br>242 000 zabitych<br>55 000 zabitych<br>ponad 2000 zabitych |
 
 Znając życie, to Chiny nie podały zapewne całej prawdy. U nich jest cały czas modny współczynnik 10.
 

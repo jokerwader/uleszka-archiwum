@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="NORMY MEDYCYNY KLINICZNEJ – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Tekst jest zestawieniem norm laboratoryjnych używanych w medycynie klinicznej. Autor wyjaśnia, że lekarze często nie tłumaczą pacjentom wyników badań, więc zebrał normy z fachowych">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/medalt-grande-normy.html">
-<meta property="og:image" content="https://jokerwader.github.io/uleszka-archiwum/og.png">
+<meta property="og:url" content="https://uleszka.net/czytelnia/medalt-grande-normy.html">
+<meta property="og:image" content="https://uleszka.net/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">NORMY MEDYCYNY KLINICZNEJ</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details open><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html" class="aktualny" aria-current="page">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#zapomniana-medycyna">Zapomniana medycyna</a> › <a href="medalt-grande-grande.html">O. Grande</a></p>
   <h1>NORMY MEDYCYNY KLINICZNEJ</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Tekst jest zestawieniem norm laboratoryjnych używanych w medycynie klinicznej. Autor wyjaśnia, że lekarze często nie tłumaczą pacjentom wyników badań, więc zebrał normy z fachowych wydawnictw obowiązujące jeszcze w 2000 roku. Podaje przelicznik jednostek, a następnie tabele dla badania krwi, rozmazu, krzepnięcia, osocza, płynu mózgowo-rdzeniowego, enzymów, białek, punktatów, równowagi kwasowo-zasadowej, glukozy, moczu i hormonów.</p>
@@ -31,588 +67,950 @@
     <p class="uwaga">Przygotowała sztuczna inteligencja; nie jest częścią oryginalnej strony. Poniżej pełny, oryginalny tekst.</p>
   </details>
   <article class="tresc">
-<p><strong>NORMY MEDYCYNY KLINICZNEJ</strong></p>
+<p class="rozdzial" id="r-1"><strong>NORMY MEDYCYNY KLINICZNEJ</strong></p>
 <p>Czasami lekarz chcąc poznać bliżej chorobę kieruje nas na badania laboratoryjne. Nie wszyscy lekarze mówią jednak, co one oznaczają. Starsi z przyzwyczajenia, że kiedyś wszystko było tajemnicą, młodzi, bo nie wiedzą, że już można a nawet trzeba, a wszyscy na raz milczą, gdy chodzi o śmiertelną chorobę (bo nie umieją tego powiedzieć tak, by wyzwolić w pacjencie podświadomą chęć walki). Zebrałem tu wszystkie normy jakie mogłem znaleźć w fachowych wydawnictwach. Te normy obowiązywały jeszcze w roku 2000. Znaleziony przeze mnie przelicznik: 1 g%=0,6206 mmol/l. Jednostka mg% oznacza ilość danego ciała w 100 ml danego roztworu.</p>
 <p>Badania są podzielone na grupy:</p>
 <p>badanie krwi |  rozmaz krwi |  krzepnięcie krwi |  składniki osocza krwi |  płyn mózgowo-rdzeniowy |  enzymy |  białka |  punktaty |  równowaga kwasowo-zasadowa |  glukoza |  mocz |  hormony</p>
 <p>    <strong>BADANIE KRWI</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>Hemoglobina    </p>
-<p>Hb (HGB)</p>
-<p>−</p>
-<p>g%</p>
-<p>11-17</p>
-<p>12-17</p>
-<p>Hematokryt    </p>
-<p>Ht</p>
-<p>−</p>
-<p>%</p>
-<p>37-47</p>
-<p>40-54</p>
-<p>Erytrocyty (krwinki czerwone)    </p>
-<p>RBC</p>
-<p>−</p>
-<p>mln/mm3</p>
-<p>3,5-5,1</p>
-<p>4,5-5,9</p>
-<p>Leukocyty (krwinki białe)    </p>
-<p>WBC</p>
-<p>−</p>
-<p>tys/mm3</p>
-<p>4,8-10,8</p>
-<p>Objętość krwinki    </p>
-<p>MCV (SOK)</p>
-<p>−</p>
-<p>μ3</p>
-<p>82-93</p>
-<p>Średnia waga krwinki    </p>
-<p>MCH (SWH)</p>
-<p>−</p>
-<p>pg</p>
-<p>27-31</p>
-<p>Średnie stężenie Hb w krwince    </p>
-<p>MCHC (SSH)</p>
-<p>−</p>
-<p>%</p>
-<p>32-36</p>
-<p>Odporność osmotyczna    </p>
-<p>−</p>
-<p>początek hemolizy<br>hemoliza całkowita</p>
-<p>%NaCl</p>
-<p>0,44-0,42<br>0,34-0,30</p>
-<p>Retikulocyty    </p>
-<p>−</p>
-<p>−</p>
-<p>‰</p>
-<p>3-15</p>
-<p>Monocyty    </p>
-<p>MONO</p>
-<p>−</p>
-<p>mln/mm3</p>
-<p>0,0-0,8</p>
-<p>Limfocyty    </p>
-<p>LYMPH</p>
-<p>−</p>
-<p>ilość/mm3</p>
-<p>4000-10000</p>
-<p>Trombocyty (płytki krwi)    </p>
-<p>PLT</p>
-<p>−</p>
-<p>ilość/mm3</p>
-<p>125000-310000</p>
-<p>Bazocyty    </p>
-<p>BASO</p>
-<p>−</p>
-<p>mln/mm3</p>
-<p>0,0-0,2</p>
-<p>Eozynocyty    </p>
-<p>EOS</p>
-<p>−</p>
-<p>mln/mm3</p>
-<p>0,0-0,45</p>
-<p>OB (odczyn Biernackiego)    </p>
-<p>OB</p>
-<p>po 1 godzinie<br>po 2 godzinach</p>
-<p>mm</p>
-<p>4-10<br>6-20</p>
-<p>2-8<br>5-18</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hemoglobina</td>
+<td>Hb (HGB)</td>
+<td>−</td>
+<td>g%</td>
+<td>11-17</td>
+<td>12-17</td>
+</tr>
+<tr>
+<td>Hematokryt</td>
+<td>Ht</td>
+<td>−</td>
+<td>%</td>
+<td>37-47</td>
+<td>40-54</td>
+</tr>
+<tr>
+<td>Erytrocyty (krwinki czerwone)</td>
+<td>RBC</td>
+<td>−</td>
+<td>mln/mm3</td>
+<td>3,5-5,1</td>
+<td>4,5-5,9</td>
+</tr>
+<tr>
+<td>Leukocyty (krwinki białe)</td>
+<td>WBC</td>
+<td>−</td>
+<td>tys/mm3</td>
+<td>4,8-10,8</td>
+<td></td>
+</tr>
+<tr>
+<td>Objętość krwinki</td>
+<td>MCV (SOK)</td>
+<td>−</td>
+<td>μ3</td>
+<td>82-93</td>
+<td></td>
+</tr>
+<tr>
+<td>Średnia waga krwinki</td>
+<td>MCH (SWH)</td>
+<td>−</td>
+<td>pg</td>
+<td>27-31</td>
+<td></td>
+</tr>
+<tr>
+<td>Średnie stężenie Hb w krwince</td>
+<td>MCHC (SSH)</td>
+<td>−</td>
+<td>%</td>
+<td>32-36</td>
+<td></td>
+</tr>
+<tr>
+<td>Odporność osmotyczna</td>
+<td>−</td>
+<td>początek hemolizy<br>hemoliza całkowita</td>
+<td>%NaCl</td>
+<td>0,44-0,42<br>0,34-0,30</td>
+<td></td>
+</tr>
+<tr>
+<td>Retikulocyty</td>
+<td>−</td>
+<td>−</td>
+<td>‰</td>
+<td>3-15</td>
+<td></td>
+</tr>
+<tr>
+<td>Monocyty</td>
+<td>MONO</td>
+<td>−</td>
+<td>mln/mm3</td>
+<td>0,0-0,8</td>
+<td></td>
+</tr>
+<tr>
+<td>Limfocyty</td>
+<td>LYMPH</td>
+<td>−</td>
+<td>ilość/mm3</td>
+<td>4000-10000</td>
+<td></td>
+</tr>
+<tr>
+<td>Trombocyty (płytki krwi)</td>
+<td>PLT</td>
+<td>−</td>
+<td>ilość/mm3</td>
+<td>125000-310000</td>
+<td></td>
+</tr>
+<tr>
+<td>Bazocyty</td>
+<td>BASO</td>
+<td>−</td>
+<td>mln/mm3</td>
+<td>0,0-0,2</td>
+<td></td>
+</tr>
+<tr>
+<td>Eozynocyty</td>
+<td>EOS</td>
+<td>−</td>
+<td>mln/mm3</td>
+<td>0,0-0,45</td>
+<td></td>
+</tr>
+<tr>
+<td>OB (odczyn Biernackiego)</td>
+<td>OB</td>
+<td>po 1 godzinie<br>po 2 godzinach</td>
+<td>mm</td>
+<td>4-10<br>6-20</td>
+<td>2-8<br>5-18</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>ROZMAZ KRWI</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>Segmenty    </p>
-<p>−</p>
-<p>−</p>
-<p>%</p>
-<p>58-66</p>
-<p>Pałeczki    </p>
-<p>−</p>
-<p>−</p>
-<p>%</p>
-<p>3-6</p>
-<p>Eozynofile    </p>
-<p>−</p>
-<p>−</p>
-<p>%</p>
-<p>1-3</p>
-<p>Bazofile    </p>
-<p>−</p>
-<p>−</p>
-<p>%</p>
-<p>0-1</p>
-<p>Limfocyty    </p>
-<p>LYMPH</p>
-<p>−</p>
-<p>%</p>
-<p>20-40</p>
-<p>Monocyty    </p>
-<p>MONO</p>
-<p>−</p>
-<p>%</p>
-<p>4-8</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Segmenty</td>
+<td>−</td>
+<td>−</td>
+<td>%</td>
+<td>58-66</td>
+<td></td>
+</tr>
+<tr>
+<td>Pałeczki</td>
+<td>−</td>
+<td>−</td>
+<td>%</td>
+<td>3-6</td>
+<td></td>
+</tr>
+<tr>
+<td>Eozynofile</td>
+<td>−</td>
+<td>−</td>
+<td>%</td>
+<td>1-3</td>
+<td></td>
+</tr>
+<tr>
+<td>Bazofile</td>
+<td>−</td>
+<td>−</td>
+<td>%</td>
+<td>0-1</td>
+<td></td>
+</tr>
+<tr>
+<td>Limfocyty</td>
+<td>LYMPH</td>
+<td>−</td>
+<td>%</td>
+<td>20-40</td>
+<td></td>
+</tr>
+<tr>
+<td>Monocyty</td>
+<td>MONO</td>
+<td>−</td>
+<td>%</td>
+<td>4-8</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>    <strong>KRZEPNIĘCIE KRWI</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>Czas krwawienia    </p>
-<p>−</p>
-<p>−</p>
-<p>minuty</p>
-<p>1-4</p>
-<p>Czas krzepnięcia    </p>
-<p>−</p>
-<p>−</p>
-<p>minuty</p>
-<p>6-12</p>
-<p>Czas kaolinowo-kefalinowy    </p>
-<p>−</p>
-<p>−</p>
-<p>sekundy</p>
-<p>40-60</p>
-<p>Wskaźnik protrombiny    </p>
-<p>−</p>
-<p>−</p>
-<p>%</p>
-<p>80-120</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Czas krwawienia</td>
+<td>−</td>
+<td>−</td>
+<td>minuty</td>
+<td>1-4</td>
+<td></td>
+</tr>
+<tr>
+<td>Czas krzepnięcia</td>
+<td>−</td>
+<td>−</td>
+<td>minuty</td>
+<td>6-12</td>
+<td></td>
+</tr>
+<tr>
+<td>Czas kaolinowo-kefalinowy</td>
+<td>−</td>
+<td>−</td>
+<td>sekundy</td>
+<td>40-60</td>
+<td></td>
+</tr>
+<tr>
+<td>Wskaźnik protrombiny</td>
+<td>−</td>
+<td>−</td>
+<td>%</td>
+<td>80-120</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>    <strong>SKŁADNIKI OSOCZA KRWI</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>Sód    </p>
-<p>Na</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>138-147</p>
-<p>Potas    </p>
-<p>K</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>3,5-5,5</p>
-<p>Wapń    </p>
-<p>Ca</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>2,2-2,6</p>
-<p>Magnez    </p>
-<p>Mg</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>0,8-1,2</p>
-<p>Chlor    </p>
-<p>Cl</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>95-107</p>
-<p>Fosfor    </p>
-<p>P</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>0,8-1,1</p>
-<p>Żelazo    </p>
-<p>Fe</p>
-<p>−</p>
-<p>μmol/l</p>
-<p>10,7-25,1</p>
-<p>14,2-28,6</p>
-<p>Zdolność wiązania całkowita    </p>
-<p>Fe</p>
-<p>−</p>
-<p>μmol/l</p>
-<p>44,8-75,2</p>
-<p>Miedź    </p>
-<p>Cu</p>
-<p>−</p>
-<p>μmol/l</p>
-<p>10,2-26,0</p>
-<p>Bilirubina całkowita    </p>
-<p>−</p>
-<p>−</p>
-<p>μmol/l</p>
-<p>4-18</p>
-<p>Kwas moczowy    </p>
-<p>−</p>
-<p>−</p>
-<p>μmol/l<br>mg%</p>
-<p>180-360<br>3-6</p>
-<p>Kreatynina    </p>
-<p>−</p>
-<p>−</p>
-<p>μmol/l<br>mg%</p>
-<p>53-110<br>0,7-1,3</p>
-<p>Mocznik    </p>
-<p>−</p>
-<p>−</p>
-<p>mmol/l<br>mg%</p>
-<p>2,5-6,5<br>15-40</p>
-<p>Tłuszcze całkowicie    </p>
-<p>−</p>
-<p>−</p>
-<p>g/l</p>
-<p>3,4-9</p>
-<p>Cholesterol ogólnie    </p>
-<p>−</p>
-<p>−</p>
-<p>mmol/l<br>mg%</p>
-<p>3,6-6,5<br>150-220</p>
-<p>Cholesterol    </p>
-<p>LDL</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>4,5</p>
-<p>Cholesterol    </p>
-<p>HDL</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>1,3</p>
-<p>Wolne kwasy tłuszczowe    </p>
-<p>−</p>
-<p>−</p>
-<p>μmol/l</p>
-<p>500</p>
-<p>Fosfolipidy    </p>
-<p>−</p>
-<p>−</p>
-<p>g/l</p>
-<p>2</p>
-<p>Trójglicerydy    </p>
-<p>−</p>
-<p>−</p>
-<p>mmol/l<br>mg%</p>
-<p>1,4<br>30-15</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Sód</td>
+<td>Na</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>138-147</td>
+<td></td>
+</tr>
+<tr>
+<td>Potas</td>
+<td>K</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>3,5-5,5</td>
+<td></td>
+</tr>
+<tr>
+<td>Wapń</td>
+<td>Ca</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>2,2-2,6</td>
+<td></td>
+</tr>
+<tr>
+<td>Magnez</td>
+<td>Mg</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>0,8-1,2</td>
+<td></td>
+</tr>
+<tr>
+<td>Chlor</td>
+<td>Cl</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>95-107</td>
+<td></td>
+</tr>
+<tr>
+<td>Fosfor</td>
+<td>P</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>0,8-1,1</td>
+<td></td>
+</tr>
+<tr>
+<td>Żelazo</td>
+<td>Fe</td>
+<td>−</td>
+<td>μmol/l</td>
+<td>10,7-25,1</td>
+<td>14,2-28,6</td>
+</tr>
+<tr>
+<td>Zdolność wiązania całkowita</td>
+<td>Fe</td>
+<td>−</td>
+<td>μmol/l</td>
+<td>44,8-75,2</td>
+<td></td>
+</tr>
+<tr>
+<td>Miedź</td>
+<td>Cu</td>
+<td>−</td>
+<td>μmol/l</td>
+<td>10,2-26,0</td>
+<td></td>
+</tr>
+<tr>
+<td>Bilirubina całkowita</td>
+<td>−</td>
+<td>−</td>
+<td>μmol/l</td>
+<td>4-18</td>
+<td></td>
+</tr>
+<tr>
+<td>Kwas moczowy</td>
+<td>−</td>
+<td>−</td>
+<td>μmol/l<br>mg%</td>
+<td>180-360<br>3-6</td>
+<td></td>
+</tr>
+<tr>
+<td>Kreatynina</td>
+<td>−</td>
+<td>−</td>
+<td>μmol/l<br>mg%</td>
+<td>53-110<br>0,7-1,3</td>
+<td></td>
+</tr>
+<tr>
+<td>Mocznik</td>
+<td>−</td>
+<td>−</td>
+<td>mmol/l<br>mg%</td>
+<td>2,5-6,5<br>15-40</td>
+<td></td>
+</tr>
+<tr>
+<td>Tłuszcze całkowicie</td>
+<td>−</td>
+<td>−</td>
+<td>g/l</td>
+<td>3,4-9</td>
+<td></td>
+</tr>
+<tr>
+<td>Cholesterol ogólnie</td>
+<td>−</td>
+<td>−</td>
+<td>mmol/l<br>mg%</td>
+<td>3,6-6,5<br>150-220</td>
+<td></td>
+</tr>
+<tr>
+<td>Cholesterol</td>
+<td>LDL</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>4,5</td>
+<td></td>
+</tr>
+<tr>
+<td>Cholesterol</td>
+<td>HDL</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>1,3</td>
+<td></td>
+</tr>
+<tr>
+<td>Wolne kwasy tłuszczowe</td>
+<td>−</td>
+<td>−</td>
+<td>μmol/l</td>
+<td>500</td>
+<td></td>
+</tr>
+<tr>
+<td>Fosfolipidy</td>
+<td>−</td>
+<td>−</td>
+<td>g/l</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>Trójglicerydy</td>
+<td>−</td>
+<td>−</td>
+<td>mmol/l<br>mg%</td>
+<td>1,4<br>30-15</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>    <strong>PŁYN MÓZGOWO-RDZENIOWY</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>Glukoza    </p>
-<p>−</p>
-<p>−</p>
-<p>mmol/l<br>mg%</p>
-<p>2,5-3,5<br>40-75</p>
-<p>Białko    </p>
-<p>−</p>
-<p>−</p>
-<p>g/l<br>mg%</p>
-<p>0,1-9,5<br>15-45</p>
-<p>Chlorki    </p>
-<p>−</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>110-130</p>
-<p>Pleocytoza    </p>
-<p>−</p>
-<p>−</p>
-<p>kom. w mm3</p>
-<p>5 i mniej</p>
-<p>Ciśnienie    </p>
-<p>−</p>
-<p>leżąc</p>
-<p>mm Hg</p>
-<p>70-220</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Glukoza</td>
+<td>−</td>
+<td>−</td>
+<td>mmol/l<br>mg%</td>
+<td>2,5-3,5<br>40-75</td>
+<td></td>
+</tr>
+<tr>
+<td>Białko</td>
+<td>−</td>
+<td>−</td>
+<td>g/l<br>mg%</td>
+<td>0,1-9,5<br>15-45</td>
+<td></td>
+</tr>
+<tr>
+<td>Chlorki</td>
+<td>−</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>110-130</td>
+<td></td>
+</tr>
+<tr>
+<td>Pleocytoza</td>
+<td>−</td>
+<td>−</td>
+<td>kom. w mm3</td>
+<td>5 i mniej</td>
+<td></td>
+</tr>
+<tr>
+<td>Ciśnienie</td>
+<td>−</td>
+<td>leżąc</td>
+<td>mm Hg</td>
+<td>70-220</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>    <strong>ENZYMY</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>ASPAT</p>
-<p>−</p>
-<p>U/l</p>
-<p>15</p>
-<p>18</p>
-<p>ALAT</p>
-<p>−</p>
-<p>U/l</p>
-<p>17</p>
-<p>22</p>
-<p>Fostafaza alkaliczna    </p>
-<p>−</p>
-<p>−</p>
-<p>U/l</p>
-<p>60-170</p>
-<p>Fostafaza kwasowa    </p>
-<p>−</p>
-<p>−</p>
-<p>U/l</p>
-<p>11 i mniej</p>
-<p>Cholinoesteraza    </p>
-<p>−</p>
-<p>−</p>
-<p>U/l</p>
-<p>1900-3800</p>
-<p>Dehydrogenaza mleczanowa    </p>
-<p>−</p>
-<p>−</p>
-<p>U/l</p>
-<p>60-240</p>
-<p>GGTP krew</p>
-<p>−</p>
-<p>U/l</p>
-<p>4-18</p>
-<p>6-28</p>
-<p>GGTP mocz</p>
-<p>−</p>
-<p>U/l</p>
-<p>90 i mniej</p>
-<p>140 i mniej</p>
-<p>Amylaza    </p>
-<p>−</p>
-<p>−</p>
-<p>U/l</p>
-<p>230-2730</p>
-<p>Lipaza    </p>
-<p>−</p>
-<p>−</p>
-<p>U/l</p>
-<p>20-190</p>
-<p>CPK</p>
-<p>−</p>
-<p>U/l</p>
-<p>3-6</p>
-<p>HBDH</p>
-<p>−</p>
-<p>U/l</p>
-<p>80-140</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td>ASPAT</td>
+<td>−</td>
+<td>U/l</td>
+<td>15</td>
+<td>18</td>
+</tr>
+<tr>
+<td></td>
+<td>ALAT</td>
+<td>−</td>
+<td>U/l</td>
+<td>17</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Fostafaza alkaliczna</td>
+<td>−</td>
+<td>−</td>
+<td>U/l</td>
+<td>60-170</td>
+<td></td>
+</tr>
+<tr>
+<td>Fostafaza kwasowa</td>
+<td>−</td>
+<td>−</td>
+<td>U/l</td>
+<td>11 i mniej</td>
+<td></td>
+</tr>
+<tr>
+<td>Cholinoesteraza</td>
+<td>−</td>
+<td>−</td>
+<td>U/l</td>
+<td>1900-3800</td>
+<td></td>
+</tr>
+<tr>
+<td>Dehydrogenaza mleczanowa</td>
+<td>−</td>
+<td>−</td>
+<td>U/l</td>
+<td>60-240</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>GGTP krew</td>
+<td>−</td>
+<td>U/l</td>
+<td>4-18</td>
+<td>6-28</td>
+</tr>
+<tr>
+<td></td>
+<td>GGTP mocz</td>
+<td>−</td>
+<td>U/l</td>
+<td>90 i mniej</td>
+<td>140 i mniej</td>
+</tr>
+<tr>
+<td>Amylaza</td>
+<td>−</td>
+<td>−</td>
+<td>U/l</td>
+<td>230-2730</td>
+<td></td>
+</tr>
+<tr>
+<td>Lipaza</td>
+<td>−</td>
+<td>−</td>
+<td>U/l</td>
+<td>20-190</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>CPK</td>
+<td>−</td>
+<td>U/l</td>
+<td>3-6</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>HBDH</td>
+<td>−</td>
+<td>U/l</td>
+<td>80-140</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>    <strong>BIAŁKA</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>Białko całkowicie    </p>
-<p>−</p>
-<p>−</p>
-<p>g/l</p>
-<p>60-80</p>
-<p>Albumina    </p>
-<p>−</p>
-<p>−</p>
-<p>g/l</p>
-<p>35-55</p>
-<p>Elektroforeza - albuminy    </p>
-<p>−</p>
-<p>−</p>
-<p>%</p>
-<p>52-60</p>
-<p>Elektroforeza - globuliny α1    </p>
-<p>−</p>
-<p>−</p>
-<p>%</p>
-<p>2,4-6,2</p>
-<p>Elektroforeza - β    </p>
-<p>−</p>
-<p>−</p>
-<p>%</p>
-<p>9,1-14,7</p>
-<p>Elektroforeza - γ    </p>
-<p>−</p>
-<p>−</p>
-<p>%</p>
-<p>14-19,6</p>
-<p>    </p>
-<p>lgA</p>
-<p>−</p>
-<p>mg%</p>
-<p>90-450</p>
-<p>    </p>
-<p>lgG</p>
-<p>−</p>
-<p>mg%</p>
-<p>800-1800</p>
-<p>    </p>
-<p>lgM</p>
-<p>−</p>
-<p>mg%</p>
-<p>60-260</p>
-<p>Fibrynogen    </p>
-<p>−</p>
-<p>−</p>
-<p>g/l</p>
-<p>2,5-5,0</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Białko całkowicie</td>
+<td>−</td>
+<td>−</td>
+<td>g/l</td>
+<td>60-80</td>
+<td></td>
+</tr>
+<tr>
+<td>Albumina</td>
+<td>−</td>
+<td>−</td>
+<td>g/l</td>
+<td>35-55</td>
+<td></td>
+</tr>
+<tr>
+<td>Elektroforeza - albuminy</td>
+<td>−</td>
+<td>−</td>
+<td>%</td>
+<td>52-60</td>
+<td></td>
+</tr>
+<tr>
+<td>Elektroforeza - globuliny α1</td>
+<td>−</td>
+<td>−</td>
+<td>%</td>
+<td>2,4-6,2</td>
+<td></td>
+</tr>
+<tr>
+<td>Elektroforeza - β</td>
+<td>−</td>
+<td>−</td>
+<td>%</td>
+<td>9,1-14,7</td>
+<td></td>
+</tr>
+<tr>
+<td>Elektroforeza - γ</td>
+<td>−</td>
+<td>−</td>
+<td>%</td>
+<td>14-19,6</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>lgA</td>
+<td>−</td>
+<td>mg%</td>
+<td>90-450</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>lgG</td>
+<td>−</td>
+<td>mg%</td>
+<td>800-1800</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>lgM</td>
+<td>−</td>
+<td>mg%</td>
+<td>60-260</td>
+<td></td>
+</tr>
+<tr>
+<td>Fibrynogen</td>
+<td>−</td>
+<td>−</td>
+<td>g/l</td>
+<td>2,5-5,0</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>    <strong>PUNKTATY</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>Przesięk - białko    </p>
-<p>−</p>
-<p>−</p>
-<p>g/l</p>
-<p>30 i mniej</p>
-<p>Przesięk - ciężar właściwy    </p>
-<p>−</p>
-<p>−</p>
-<p>1018 i mniej</p>
-<p>Wysięk - białko    </p>
-<p>−</p>
-<p>−</p>
-<p>g/l</p>
-<p>30 i więcej</p>
-<p>Wysięk - ciężar właściwy    </p>
-<p>−</p>
-<p>−</p>
-<p>1018 i więcej</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Przesięk - białko</td>
+<td>−</td>
+<td>−</td>
+<td>g/l</td>
+<td>30 i mniej</td>
+<td></td>
+</tr>
+<tr>
+<td>Przesięk - ciężar właściwy</td>
+<td>−</td>
+<td>−</td>
+<td></td>
+<td>1018 i mniej</td>
+<td></td>
+</tr>
+<tr>
+<td>Wysięk - białko</td>
+<td>−</td>
+<td>−</td>
+<td>g/l</td>
+<td>30 i więcej</td>
+<td></td>
+</tr>
+<tr>
+<td>Wysięk - ciężar właściwy</td>
+<td>−</td>
+<td>−</td>
+<td></td>
+<td>1018 i więcej</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>    <strong>RÓWNOWAGA KWASOWO-ZASADOWA</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>    </p>
-<p>Ph</p>
-<p>−</p>
-<p>−</p>
-<p>7,38-7,42</p>
-<p>7,36-7,42</p>
-<p>    </p>
-<p>pO2</p>
-<p>−</p>
-<p>mm Hg/t</p>
-<p>75-95</p>
-<p>    </p>
-<p>pCO2</p>
-<p>−</p>
-<p>mm Hg/t</p>
-<p>32,5-43,7</p>
-<p>35,8-46,6</p>
-<p>    </p>
-<p>pCO3</p>
-<p>−</p>
-<p>mm Hg/ż</p>
-<p>40-48</p>
-<p>    </p>
-<p>HCO3</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>22-26</p>
-<p>    </p>
-<p>BE</p>
-<p>−</p>
-<p>mmol/l</p>
-<p>-2,3-2,3</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td>Ph</td>
+<td>−</td>
+<td>−</td>
+<td>7,38-7,42</td>
+<td>7,36-7,42</td>
+</tr>
+<tr>
+<td></td>
+<td>pO2</td>
+<td>−</td>
+<td>mm Hg/t</td>
+<td>75-95</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>pCO2</td>
+<td>−</td>
+<td>mm Hg/t</td>
+<td>32,5-43,7</td>
+<td>35,8-46,6</td>
+</tr>
+<tr>
+<td></td>
+<td>pCO3</td>
+<td>−</td>
+<td>mm Hg/ż</td>
+<td>40-48</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>HCO3</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>22-26</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>BE</td>
+<td>−</td>
+<td>mmol/l</td>
+<td>-2,3-2,3</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>    <strong>GLUKOZA</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>Poziom we krwi    </p>
-<p>−</p>
-<p>na czczo</p>
-<p>mmol/l<br>mg%</p>
-<p>3,5-5,5<br>70-110</p>
-<p>Poziom we krwi    </p>
-<p>−</p>
-<p>po 1 godzinie</p>
-<p>mg%</p>
-<p>200 i mniej</p>
-<p>Poziom we krwi    </p>
-<p>−</p>
-<p>po 2 godzinach</p>
-<p>mg%</p>
-<p>140 i mniej</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Poziom we krwi</td>
+<td>−</td>
+<td>na czczo</td>
+<td>mmol/l<br>mg%</td>
+<td>3,5-5,5<br>70-110</td>
+<td></td>
+</tr>
+<tr>
+<td>Poziom we krwi</td>
+<td>−</td>
+<td>po 1 godzinie</td>
+<td>mg%</td>
+<td>200 i mniej</td>
+<td></td>
+</tr>
+<tr>
+<td>Poziom we krwi</td>
+<td>−</td>
+<td>po 2 godzinach</td>
+<td>mg%</td>
+<td>140 i mniej</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>    <strong>MOCZ</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>Ciężar właściwy    </p>
-<p>−</p>
-<p>−</p>
-<p>−</p>
-<p>1001-1035</p>
-<p>    </p>
-<p>pH</p>
-<p>−</p>
-<p>−</p>
-<p>6,2</p>
-<p>Białko    </p>
-<p>−</p>
-<p>−</p>
-<p>mg/24 h</p>
-<p>150 i mniej</p>
-<p>Liczba Addisa - erytrocyty    </p>
-<p>−</p>
-<p>−</p>
-<p>ilość/24 h</p>
-<p>130000-2000000</p>
-<p>Liczba Addisa - leukocyty    </p>
-<p>−</p>
-<p>−</p>
-<p>ilość/24 h</p>
-<p>650000-3000000</p>
-<p>Liczba Addisa - wałeczki    </p>
-<p>−</p>
-<p>−</p>
-<p>ilość/24 h</p>
-<p>2000-5000</p>
-<p>17-ketosterydy    </p>
-<p>−</p>
-<p>−</p>
-<p>mg/24 h</p>
-<p>3,5</p>
-<p>Porfobilinogen    </p>
-<p>−</p>
-<p>−</p>
-<p>mg/24 h</p>
-<p>0,0-0,1</p>
-<p>Klirens kreatyniny    </p>
-<p>−</p>
-<p>−</p>
-<p>ml/min.</p>
-<p>80-100</p>
-<p>100-120</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Ciężar właściwy</td>
+<td>−</td>
+<td>−</td>
+<td>−</td>
+<td>1001-1035</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>pH</td>
+<td>−</td>
+<td>−</td>
+<td>6,2</td>
+<td></td>
+</tr>
+<tr>
+<td>Białko</td>
+<td>−</td>
+<td>−</td>
+<td>mg/24 h</td>
+<td>150 i mniej</td>
+<td></td>
+</tr>
+<tr>
+<td>Liczba Addisa - erytrocyty</td>
+<td>−</td>
+<td>−</td>
+<td>ilość/24 h</td>
+<td>130000-2000000</td>
+<td></td>
+</tr>
+<tr>
+<td>Liczba Addisa - leukocyty</td>
+<td>−</td>
+<td>−</td>
+<td>ilość/24 h</td>
+<td>650000-3000000</td>
+<td></td>
+</tr>
+<tr>
+<td>Liczba Addisa - wałeczki</td>
+<td>−</td>
+<td>−</td>
+<td>ilość/24 h</td>
+<td>2000-5000</td>
+<td></td>
+</tr>
+<tr>
+<td>17-ketosterydy</td>
+<td>−</td>
+<td>−</td>
+<td>mg/24 h</td>
+<td>3,5</td>
+<td></td>
+</tr>
+<tr>
+<td>Porfobilinogen</td>
+<td>−</td>
+<td>−</td>
+<td>mg/24 h</td>
+<td>0,0-0,1</td>
+<td></td>
+</tr>
+<tr>
+<td>Klirens kreatyniny</td>
+<td>−</td>
+<td>−</td>
+<td>ml/min.</td>
+<td>80-100</td>
+<td>100-120</td>
+</tr>
+</tbody></table></div>
 <p>    <strong>HORMONY</strong></p>
-<p><strong>Nazwa</strong></p>
-<p><strong>Skrót</strong></p>
-<p><strong>Warunki</strong></p>
-<p><strong>j. m.</strong></p>
-<p><strong>Kobieta</strong></p>
-<p><strong>Mężczyzna</strong></p>
-<p>    </p>
-<p>T3</p>
-<p>−</p>
-<p>μg%</p>
-<p>70-200</p>
-<p>    </p>
-<p>T4 całkowita</p>
-<p>−</p>
-<p>μg%</p>
-<p>4-11</p>
-<p>    </p>
-<p>T4 wolna</p>
-<p>−</p>
-<p>μg%</p>
-<p>0,8-2,4</p>
-<p>Kortyzol    </p>
-<p>−</p>
-<p>−</p>
-<p>μg%</p>
-<p>5-25</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Nazwa</strong></th>
+<th>🟦 <strong>Skrót</strong></th>
+<th>🟦 <strong>Warunki</strong></th>
+<th>🟦 <strong>j. m.</strong></th>
+<th>🟦 <strong>Kobieta</strong></th>
+<th>🟦 <strong>Mężczyzna</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td>T3</td>
+<td>−</td>
+<td>μg%</td>
+<td>70-200</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>T4 całkowita</td>
+<td>−</td>
+<td>μg%</td>
+<td>4-11</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>T4 wolna</td>
+<td>−</td>
+<td>μg%</td>
+<td>0,8-2,4</td>
+<td></td>
+</tr>
+<tr>
+<td>Kortyzol</td>
+<td>−</td>
+<td>−</td>
+<td>μg%</td>
+<td>5-25</td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>badanie krwi |  rozmaz krwi |  krzepnięcie krwi |  składniki osocza krwi |  płyn mózgowo-rdzeniowy |  enzymy |  białka |  punktaty |  równowaga kwasowo-zasadowa |  glukoza |  mocz |  hormony</p>
 <p><a href="medalt-grande-grande.html">Powrót</a></p>
 
@@ -633,12 +1031,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

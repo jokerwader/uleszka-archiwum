@@ -12,13 +12,9 @@ liczba_obrazow: 0
 
 Nie raz miałem okazję być świadkiem sytuacji, w których nawet silni duchem ludzie bledli, usłyszawszy straszną diagnozę - rak. Każdy przyjmował tę wiadomość jak wyrok śmierci, nie podlegający apelacji. Osoby poważnie chore doskonale rozumieją, że ich choroba jest nieuleczalna, jednak do ostatniej chwili starają się chwytać życia. Taki jest już człowiek - docenia zdrowie dopiero po jego utracie. Dzisiejsza medycyna nie może dać odpowiedzi na pytanie, jakie są przyczyny chorób nowotworowych. Jaka siła zmusza komórki naszego ciała do przekształcania się, rozmnażania z ogromną prędkością, aby później śmiertelnie wrastać w zdrowe tkanki, powodując ból i cierpienie? Lekarze i uczeni stworzyli wiele teorii, wyjaśniających mechanizm powstawania raka, ujawnili masę czynników rakotwórczych, stymulujących rozwój komórek nowotworowych. Jednak prawdziwej przyczyny nie udało się znaleźć. A nie udało się to, jak mi się wydaje, z następujących powodów:
 
-**•**
-
-dlatego, że podczas leczenia raka nie rozpatruje się organizmu jako jednego biologicznego systemu, a jako zbiór poszczególnych organów. Walka przeważnie skierowana jest na chory organ, w którym wykryto guz. Powszechnie stosowane zabiegi - rentgeno- i chemioterapia, napromieniowywanie izotopowe teoretycznie są skierowane na mobilizację sił obronnych organizmu. Niestety, organizm osłabiony chorobą nie posiada wewnętrznych rezerw, aby się bronić, jest zatruty od środka. Oprócz tego powyższe zabiegi niekorzystnie zmieniają płynne środowisko w organizmie, czyniąc je jeszcze bardziej zasadowym. Sprzyja to zwiększonemu rozwojowi bakterii chorobotwórczych, co jeszcze bardziej osłabia organizm.
-
-**•**
-
-medycyna wciąż poszukuje uniwersalnego leku lub kombinacji leków, które mogłyby skutecznie likwidować guzy (znowu skutek, a nie przyczynę choroby). Nie tędy droga. Choroba nowotworowa to porażenie całego organizmu, zaczynając od mózgu, a kończąc na jelicie grubym. "Ziarna" tej choroby tkwią w człowieku od dzieciństwa, a w ciągu życia zaczynają "kiełkować", dając stopniowo odnóża w postaci przejściowych stadiów zasadniczej choroby (czyli nowotworu). Katar, przeziębienie, reumatyzm, artretyzm, choroby oczu, uszu, gardła, nerek, wątroby, serca, układu kostnego i nerwowego - wszystko to są ogniwa jednego nowotworowego łańcucha. I dopóki "właściciel" nie pozwoli swojemu organizmowi skorzystać ze znajdujących się w nim, danych przez przyrodę sił obronnych, uruchamiających odporność, samoregulację i samoregenerację, tak długo tysiące jednostek naukowo-badawczych, miliony lekarzy nie będą w stanie stworzyć leków lub metod, które mogłyby ostatecznie wyleczyć człowieka. Na dzień dzisiejszy nawet te osoby, które pomyslnie przeszły operację i żyją, podświadomie znajdują się pod ciągłą presją nawrotu choroby.
+| **•** | dlatego, że podczas leczenia raka nie rozpatruje się organizmu jako jednego biologicznego systemu, a jako zbiór poszczególnych organów. Walka przeważnie skierowana jest na chory organ, w którym wykryto guz. Powszechnie stosowane zabiegi - rentgeno- i chemioterapia, napromieniowywanie izotopowe teoretycznie są skierowane na mobilizację sił obronnych organizmu. Niestety, organizm osłabiony chorobą nie posiada wewnętrznych rezerw, aby się bronić, jest zatruty od środka. Oprócz tego powyższe zabiegi niekorzystnie zmieniają płynne środowisko w organizmie, czyniąc je jeszcze bardziej zasadowym. Sprzyja to zwiększonemu rozwojowi bakterii chorobotwórczych, co jeszcze bardziej osłabia organizm. |
+| --- | --- |
+| **•** | medycyna wciąż poszukuje uniwersalnego leku lub kombinacji leków, które mogłyby skutecznie likwidować guzy (znowu skutek, a nie przyczynę choroby). Nie tędy droga. Choroba nowotworowa to porażenie całego organizmu, zaczynając od mózgu, a kończąc na jelicie grubym. "Ziarna" tej choroby tkwią w człowieku od dzieciństwa, a w ciągu życia zaczynają "kiełkować", dając stopniowo odnóża w postaci przejściowych stadiów zasadniczej choroby (czyli nowotworu). Katar, przeziębienie, reumatyzm, artretyzm, choroby oczu, uszu, gardła, nerek, wątroby, serca, układu kostnego i nerwowego - wszystko to są ogniwa jednego nowotworowego łańcucha. I dopóki "właściciel" nie pozwoli swojemu organizmowi skorzystać ze znajdujących się w nim, danych przez przyrodę sił obronnych, uruchamiających odporność, samoregulację i samoregenerację, tak długo tysiące jednostek naukowo-badawczych, miliony lekarzy nie będą w stanie stworzyć leków lub metod, które mogłyby ostatecznie wyleczyć człowieka. Na dzień dzisiejszy nawet te osoby, które pomyslnie przeszły operację i żyją, podświadomie znajdują się pod ciągłą presją nawrotu choroby. |
 
 Przez wiele lat miałem kontakt z chorymi na raka. Na pewno ich liczby nie można porównać z tysiącami chorych w różnych szpitalach na całym świecie. Żyją oni do dziś, chociaż wyrok na nich w większości przypadków był jeden - śmierć.
 
@@ -178,21 +174,11 @@ Błonnik przyspiesza wydalanie z organizmu toksyn i zatrzymuje w nim tak potrzeb
 
 **PODSUMUJMY**
 
-**•**
-
-Po usłyszeniu diagnozy, nie wpadajmy w panikę, depresję i odrętwienie. Wiem, że jest to jak uderzenie obuchem, ale musimy się otrząsnąć i zacząć myśleć i działać racjonalnie. Rak jest chorobą jak każda inna i jest do wyleczenia. Właśnie w takiej chwili musimy zmobilizować swój organizm do walki z nim. Rak nie powala od razu, a więc wiekszość czynności z terapii możemy i musimy wykonać sami. Przygotujmy siebie i najbliższych na długą walkę o zdrowie, wiedząc że jest do wygrania. Optymistyczne podejście jest nieodzownym warunkiem powodzenia.
-
-**•**
-
-Rozpoczynamy od oczyszczenia jelita grubego. Istota metody polega na zrobieniu choremu dużej ilości lewatyw: 6-8 na dobę. Do irygatora nalewa się 1,5 litra przegotowanej wody o temperaturze +38°C, 3-4 łyżeczki soku z cytryny i 1 szklankę soku z buraków. Ilość lewatyw zależy od stanu chorego - im jest cięższy, tym więcej zaleca się lewatyw. Później lewatywy należy robić raz na dzień lub co drugi dzień do momentu, gdy u chorego pojawi się własny stolec.
-
-**•**
-
-Co jeść? Mięso, ryby, przetwory mleczne, różne zupy, buliony nie są zalecane. Pozostają kasze, warzywa i owoce. Łączenie warzyw w postaci surowej lub gotowanej z owocami jest niemozliwe, gdyż są trawione w różnym czasie - warzywa 4 godziny, a owoce 2 godziny. Natomiast można dowolnie łączyć świeżo przygotowane z nich soki. Wchłaniane są one praktycznie jednocześnie, przy czym organizm nie traci energii na procesy trawienne, otrzymując jednocześnie mocne dawki niezbędnych witamin, soli mineralnych i enzymów.
-
-**•**
-
-Pić sok z marchwi i buraka. Najlepszym połączeniem dla osób chorych na nowotwór jest sok z marchwi i buraka w proporcji 4:1. Pić należy 1-2 litry soku dziennie w równych porcjach co 4 godziny w ciągu dnia i jeden raz o 1.00 w nocy. Niektóre osoby nie tolerują soku z buraka, co przejawia się mdłościami, osłabieniem, spowolnieniem tętna czy obniżeniem ciśnienia. W przypadku wystąpienia podobnych reakcji należy ograniczyć przyjmowanie soku z buraka do 2 stołowych łyżek na dobę i z dnia na dzień zwiększać te ilość. Zamiast soku z buraków można dodać do soku marchwiowego sok z jabłek i 2 łyżki czerwonego wina na każdy litr soku. Podzielone są opinie specjalistów, czy sok z buraka należy przyjmować od razu po przygotowaniu, czy odstawić na 1 do 1,5 godziny. W świeżo wyciśniętym soku jest 2,5 raza więcej aktywnego tlenu, a także niezbędnego dla hemoglobiny aktywnego żelaza. I dlatego osobom chorym na nowotwory proponuję pić sok z buraka od razu po przygotowaniu
+| **•** | Po usłyszeniu diagnozy, nie wpadajmy w panikę, depresję i odrętwienie. Wiem, że jest to jak uderzenie obuchem, ale musimy się otrząsnąć i zacząć myśleć i działać racjonalnie. Rak jest chorobą jak każda inna i jest do wyleczenia. Właśnie w takiej chwili musimy zmobilizować swój organizm do walki z nim. Rak nie powala od razu, a więc wiekszość czynności z terapii możemy i musimy wykonać sami. Przygotujmy siebie i najbliższych na długą walkę o zdrowie, wiedząc że jest do wygrania. Optymistyczne podejście jest nieodzownym warunkiem powodzenia. |
+| --- | --- |
+| **•** | Rozpoczynamy od oczyszczenia jelita grubego. Istota metody polega na zrobieniu choremu dużej ilości lewatyw: 6-8 na dobę. Do irygatora nalewa się 1,5 litra przegotowanej wody o temperaturze +38°C, 3-4 łyżeczki soku z cytryny i 1 szklankę soku z buraków. Ilość lewatyw zależy od stanu chorego - im jest cięższy, tym więcej zaleca się lewatyw. Później lewatywy należy robić raz na dzień lub co drugi dzień do momentu, gdy u chorego pojawi się własny stolec. |
+| **•** | Co jeść? Mięso, ryby, przetwory mleczne, różne zupy, buliony nie są zalecane. Pozostają kasze, warzywa i owoce. Łączenie warzyw w postaci surowej lub gotowanej z owocami jest niemozliwe, gdyż są trawione w różnym czasie - warzywa 4 godziny, a owoce 2 godziny. Natomiast można dowolnie łączyć świeżo przygotowane z nich soki. Wchłaniane są one praktycznie jednocześnie, przy czym organizm nie traci energii na procesy trawienne, otrzymując jednocześnie mocne dawki niezbędnych witamin, soli mineralnych i enzymów. |
+| **•** | Pić sok z marchwi i buraka. Najlepszym połączeniem dla osób chorych na nowotwór jest sok z marchwi i buraka w proporcji 4:1. Pić należy 1-2 litry soku dziennie w równych porcjach co 4 godziny w ciągu dnia i jeden raz o 1.00 w nocy. Niektóre osoby nie tolerują soku z buraka, co przejawia się mdłościami, osłabieniem, spowolnieniem tętna czy obniżeniem ciśnienia. W przypadku wystąpienia podobnych reakcji należy ograniczyć przyjmowanie soku z buraka do 2 stołowych łyżek na dobę i z dnia na dzień zwiększać te ilość. Zamiast soku z buraków można dodać do soku marchwiowego sok z jabłek i 2 łyżki czerwonego wina na każdy litr soku. Podzielone są opinie specjalistów, czy sok z buraka należy przyjmować od razu po przygotowaniu, czy odstawić na 1 do 1,5 godziny. W świeżo wyciśniętym soku jest 2,5 raza więcej aktywnego tlenu, a także niezbędnego dla hemoglobiny aktywnego żelaza. I dlatego osobom chorym na nowotwory proponuję pić sok z buraka od razu po przygotowaniu |
 
 ---
 
@@ -235,41 +221,16 @@ Dlaczego wśród innych zestawów ćwiczeń fizycznych pierwszeństwo daję wła
 
 Oprócz wymienionych wyżej zabiegów, radziłbym stosować kurację wspomagającą, która uzupełnia system:
 
-**•**
-
-ssać olej roślinny 3-4 razy dziennie,
-
-**•**
-
-codziennie pić herbatę z liści malin, porzeczek (około 1 litra),
-
-**•**
-
-codziennie spożywać sproszkowaną skorupkę z jednego jajka,
-
-**•**
-
-odżywiać się produktami zawierającymi fitoestrogeny (soja, fasola, kapusta, brokuły),
-
-**•**
-
-dodawać do posiłków czosnek, cebulę, rzodkiew, gorczycę zawierające fitoncydy - naturalne antybiotyki,
-
-**•**
-
-spożywać produkty kiszone - kapustę, ogórki - źródła witaminy "C",
-
-**•**
-
-spożywać produkty zawierające żelazo i miedź - jabłka, truskawki, maliny, buraki czarną porzeczkę, marchew,
-
-**•**
-
-spożywać produkty zawierające selen, cynk, fosfor, witaminy "E" i "B", magnez - kiełki pszenicy, owies, kasza jęczmienna, proso, otręby,
-
-**•**
-
-stosować jodynę - bardzo korzystny środek leczniczy i profilaktyczny (zwiększa odporność i aktywność leukocytów, obniża poziom cholesterolu we krwi, oczyszcza naczynia, sprzyja wzrostowi leukocytów we krwi - w 50 ml ciepłej przegotowanej wody rozpuścić 1 łyżeczkę jodyny, dokładnie rozmieszać i dodać pełną łyżkę mąki ziemniaczanej. Postawić na słabym ogniu i ciągle mieszając dodać 200 ml wrzątku, doprowadzić do wrzenia i gotować 1 minutę. Stosować 4-6 łyżeczek po jedzeniu 1 raz co drugi dzień, aż do zużycia. Potem przygotować nową porcję i znów pić.
+| **•** | ssać olej roślinny 3-4 razy dziennie, |
+| --- | --- |
+| **•** | codziennie pić herbatę z liści malin, porzeczek (około 1 litra), |
+| **•** | codziennie spożywać sproszkowaną skorupkę z jednego jajka, |
+| **•** | odżywiać się produktami zawierającymi fitoestrogeny (soja, fasola, kapusta, brokuły), |
+| **•** | dodawać do posiłków czosnek, cebulę, rzodkiew, gorczycę zawierające fitoncydy - naturalne antybiotyki, |
+| **•** | spożywać produkty kiszone - kapustę, ogórki - źródła witaminy "C", |
+| **•** | spożywać produkty zawierające żelazo i miedź - jabłka, truskawki, maliny, buraki czarną porzeczkę, marchew, |
+| **•** | spożywać produkty zawierające selen, cynk, fosfor, witaminy "E" i "B", magnez - kiełki pszenicy, owies, kasza jęczmienna, proso, otręby, |
+| **•** | stosować jodynę - bardzo korzystny środek leczniczy i profilaktyczny (zwiększa odporność i aktywność leukocytów, obniża poziom cholesterolu we krwi, oczyszcza naczynia, sprzyja wzrostowi leukocytów we krwi - w 50 ml ciepłej przegotowanej wody rozpuścić 1 łyżeczkę jodyny, dokładnie rozmieszać i dodać pełną łyżkę mąki ziemniaczanej. Postawić na słabym ogniu i ciągle mieszając dodać 200 ml wrzątku, doprowadzić do wrzenia i gotować 1 minutę. Stosować 4-6 łyżeczek po jedzeniu 1 raz co drugi dzień, aż do zużycia. Potem przygotować nową porcję i znów pić. |
 
 **Uwaga! Jeśli chorobę zdiagnozowano jako raka w trzecim lub czwartym stadium z przerzutami i lekarze nie dają żadnych szans, proszę spróbować następujacego przepisu:**
 
@@ -277,51 +238,22 @@ Zmieszać w szklance 30 ml nierafinowanego oleju słonecznikowego lub oliwy i 15
 
 Kategorycznie zabrania się:
 
-**•**
-
-jakiegokolwiek innego leczenia oprócz zaleceń lekarza,
-
-**•**
-
-przerywania leczenia w trakcie,
-
-**•**
-
-samowolnego obniżania dawki,
-
-**•**
-
-wprowadzania dożylnie glukozy,
-
-**•**
-
-picia alkoholu w dowolnej postaci i palenia tytoniu.
+| **•** | jakiegokolwiek innego leczenia oprócz zaleceń lekarza, |
+| --- | --- |
+| **•** | przerywania leczenia w trakcie, |
+| **•** | samowolnego obniżania dawki, |
+| **•** | wprowadzania dożylnie glukozy, |
+| **•** | picia alkoholu w dowolnej postaci i palenia tytoniu. |
 
 Dodatkowe rady:
 
-**•**
-
-nie należy używać wódki zamiast spirytusu,
-
-**•**
-
-leczenie można rozpocząć w każdym stadium choroby,
-
-**•**
-
-pić tylko jeden gatunek oleju od początku do końca terapii,
-
-**•**
-
-nie stosować specjalnej diety, a te opisane powyżej. Głodować nie wolno,
-
-**•**
-
-ograniczyć do minimum spożycie wszelkich tłuszczów,
-
-**•**
-
-można zażywać wszystkie środki przeciwbólowe oprócz silnych narkotyków. Wszystkie inne lekarstwa przepisane przez lekarza można przyjmować. Nie używać preparatów hormonalnych.
+| **•** | nie należy używać wódki zamiast spirytusu, |
+| --- | --- |
+| **•** | leczenie można rozpocząć w każdym stadium choroby, |
+| **•** | pić tylko jeden gatunek oleju od początku do końca terapii, |
+| **•** | nie stosować specjalnej diety, a te opisane powyżej. Głodować nie wolno, |
+| **•** | ograniczyć do minimum spożycie wszelkich tłuszczów, |
+| **•** | można zażywać wszystkie środki przeciwbólowe oprócz silnych narkotyków. Wszystkie inne lekarstwa przepisane przez lekarza można przyjmować. Nie używać preparatów hormonalnych. |
 
 Tą metodą leczy się raka żołądka pierwszego i drugiego stopnia w ciągu 3-4 miesięcy, raka trzeciego i czwartego stopnia z przerzutami w ciągu 8 miesięcy do 1,5 roku. Przez pierwsze 4-10 dni leczenia może w gardle pojawić się pieczenie, obrzęk. Jest to spowodowane zabliźnianiem się mikrowrzodów - trzeba pocierpieć. Po 14-18 dniach nieprzyjemne odczucia miną.  
 **Jeśli chory stosował urynoterapię, to wyleczenie jest niemożliwe. Picie moczu bez oczyszczenia organizmu, to samobójstwo. Po 3-4 miesiącach można dorobić się marskości wątroby.**
@@ -344,54 +276,17 @@ Po przeczytaniu tych słów Czytelnik może wpaść w panikę. Czyżbyśmy byli 
 
 Gdy analizuję przypadki wyleczenia chorych, którym miałem szczęście pomóc lub gdy czytam o wyleczeniu innych osób, chorych na raka, zauważam określoną regularność. W momencie, gdy człowiek, stojący w obliczu śmiertelnego niebezpieczeństwa, stwarza dla swojego organizmu surowe, czasem wręcz ekstremalne warunki w celu oczyszczenia organizmu (zmiana nawyków żywieniowych, głodówka, hartowanie, zmiana sposobu myslenia, postepowania, podejścia do problemów życiowych, itp.), które wielokrotnie podnoszą sprawność układu odpornościowego - choroba ustępuje.A więc nie traćmy czasu! Trzeba działać! Wszystko zależy od nas samych. Wszystkie opisane powyżej sposoby i metody dotyczą osób, które dotknęła choroba nowotworowa. Kiedy w jednej z audycji radiowych poproszono mnie o podanie sposobów ustrzeżenia się przed nowotworami, odpowiedziałem w następujący sposób:
 
-**•**
-
-**Należy jeść warzywa i owoce**, pochodzące z rejonu swojego zamieszkania oraz pić świeżo przygotowane z nich soki. Codziennie w jadłospisie powinno się znaleźć chociaż jedno jabłko, a także surowe i gotowane warzywa. Najbardziej wartościowe są warzywa i owoce o barwie intensywnie zielonej, pomarańczowej i czerwonej (szpinak, sałata, ogórek, fasola, groszek, pomidory, buraki, marchew, dynia, jabłka, gruszki itp.). Dzięki nim komórki organizmu otrzymują wszystkie niezbędne witaminy, substancje mineralne, błonnik i tlen.
-
-**•**
-
-**Należy umieć odróżnić tłuszcz od... tłuszczu**. Tłuszcze są niezbędne dla organizmu, szczególnie potrzebne są osobom w starszym wieku. Pytanie - jakie tłuszcze? W olejach roślinnych, szczególnie tych tłoczonych na zimno, znajdują się kwasy i witaminy, które wydłużają nasze życie. Codziennie rano i wieczorem należy pić 1 łyżeczkę oleju oraz dodawać 1 łyżkę do sałatek. Natomiast spożycie mięsa, mleka i margaryny należy jak najbardziej ograniczyć. Tłuszcze znajdujące się w tych produktach nie dają nic oprócz chorób, a tylko blokują działanie "dobrych" tłuszczów.
-
-**•**
-
-**Należy uczyć się ruchu i oddychania**. Powietrze, a dokładniej znajdujący się w nim tlen, jest niezbędny każdej z miliardów komórek naszego ciała, powoduje ich regenerację, tzn. zatrzymanie procesu starzenia. Ruch pomaga tlenowi dotrzeć do każdej komórki, dlatego jak najwięcej czasu spędzać w ruchu na świeżym powietrzu.
-
-**•**
-
-**Bądźcie zawsze radośni**. Wszystkie przezyte przez nas emocje zostają nie tylko "w głowie" - one kierują większością reakcji fizjologicznych naszego organizmu. Jeśli coś nas martwi lub denerwuje, nasz system immunologiczny (naturalny system obronny organizmu) przestaje wytwarzać hormony T i B, które między innymi chronią nas przed wszelkimi infekcjami i rakiem. Gdy jesteśmy szczęśliwi i radośni, cieszymy się życiem, wzmacniamy swój system odpornościowy i zdrowie.
-
-**•**
-
-**Trzeba się odprężać**. Dzisiejsze życie to ciąg nieprzyjemności i stresów. Uniknięcie ich jest niemożliwe, ale nie można ich kumulować. Trzeba znajdować czas na relaks, robić wtedy to, co się podoba - zamknąć się w pokoju i słuchać myzyki, medytować, spacerować po lesie. Kobiety niech kochają mężczyzn, a mężczyźni kobiety. Ale też codziennie trzeba pobyć trochę w samotności (3-5 minut), rozluźnić się i nie myśleć o nieprzyjemnościach.
-
-**•**
-
-**Trzeba zmuszać mózg do pracy**. Im więcej mózg pracuje, tym bardziej jest wytrzymały. W każdym wieku, ale szczególnie na starość, należy "budzić" obszary mózgu, odpowiedzialne za pamięć. Należy czytać książki, chodzić do muzeum, słuchać wykładów, grać w szachy - krócej mówiąc - pracować głową.
-
-**•**
-
-**Dłużej spać**. Dobry sen nie tylko rozjasnia myśli, ale też daje odpoczynek mięśniom, obniża cisnienie, regeneruje system wydzielania hormonalnego, podnosi odporność. Nawet rany szybciej się goją podczas snu. Człowiek, któremu przez kilka dni nie pozwala się zasnąć po prostu wariuje. Dlatego spać trzeba 6-8 godzin i ani trochę krócej.
-
-**•**
-
-**Polubić chłód**. System odpornościowy organizmu należy stale trenować. Szczególnie lubi on chłód. Należy chronić organizm przed przegrzaniem, ubierać się lekko. Temperatura powietrza w pokoju, w którym spimy powinna wynosić 16-17°C. Naprzemienny prysznic (5-10 minut) rano i wieczorem - to gwarancja niezawodnej pracy systemu immunologicznego.
-
-**•**
-
-**Należy mniej jeść**. Trzeba wypracować sobie zasadę "Jeść, aby żyć, a nie żyć, by jeść". W tym celu nauczyć się jeść powoli, a od stołu zawsze wstawać z uczuciem głodu.
-
-**•**
-
-**Trzeba się więcej śmiać**. Podczas smiechu pracuje dużo więcej mięśni niż możemy sobie wyobrazić. Śmiech to forma masażu dla naszych organów wewnętrznych oraz bodziec, stymulujący organy trawienne. Śmiech działa przeciwbólowo i przeciwzapalnie. Śmiejąc się, oddychamy szczególnie głęboko i tym samym odnawiamy zapasy tlenu w płucach. Mózg podczas smiechu wytwarza serotoninę - "hormon szczęścia". Poza tym śmiech to wspaniały sposób kontaktu.
-
-**•**
-
-**Kochajmy się**. Starożytna medycyna widziała sposób na osiągnięcie nieśmiertelności w zlaniu dwóch pierwiastków - męskiego i żeńskiego. Akt miłosny najlepiej odbudowuje harmonię ciała.
-
-**•**
-
-**Należy oczyszczać organizm**. Pamiętajmy, że to, co wewnątrz nas, to i na zewnątrz.
-
-**•**
-
-**Trzeba słuchać głosu swojego ciała**. Nasze ciało reaguje na troskę, którą mu się okazuje. Zacznijmy o siebie dbać, zanim zachorujemy, a wtedy zawsze będziemy zdrowi.
+| **•** | **Należy jeść warzywa i owoce**, pochodzące z rejonu swojego zamieszkania oraz pić świeżo przygotowane z nich soki. Codziennie w jadłospisie powinno się znaleźć chociaż jedno jabłko, a także surowe i gotowane warzywa. Najbardziej wartościowe są warzywa i owoce o barwie intensywnie zielonej, pomarańczowej i czerwonej (szpinak, sałata, ogórek, fasola, groszek, pomidory, buraki, marchew, dynia, jabłka, gruszki itp.). Dzięki nim komórki organizmu otrzymują wszystkie niezbędne witaminy, substancje mineralne, błonnik i tlen. |
+| --- | --- |
+| **•** | **Należy umieć odróżnić tłuszcz od... tłuszczu**. Tłuszcze są niezbędne dla organizmu, szczególnie potrzebne są osobom w starszym wieku. Pytanie - jakie tłuszcze? W olejach roślinnych, szczególnie tych tłoczonych na zimno, znajdują się kwasy i witaminy, które wydłużają nasze życie. Codziennie rano i wieczorem należy pić 1 łyżeczkę oleju oraz dodawać 1 łyżkę do sałatek. Natomiast spożycie mięsa, mleka i margaryny należy jak najbardziej ograniczyć. Tłuszcze znajdujące się w tych produktach nie dają nic oprócz chorób, a tylko blokują działanie "dobrych" tłuszczów. |
+| **•** | **Należy uczyć się ruchu i oddychania**. Powietrze, a dokładniej znajdujący się w nim tlen, jest niezbędny każdej z miliardów komórek naszego ciała, powoduje ich regenerację, tzn. zatrzymanie procesu starzenia. Ruch pomaga tlenowi dotrzeć do każdej komórki, dlatego jak najwięcej czasu spędzać w ruchu na świeżym powietrzu. |
+| **•** | **Bądźcie zawsze radośni**. Wszystkie przezyte przez nas emocje zostają nie tylko "w głowie" - one kierują większością reakcji fizjologicznych naszego organizmu. Jeśli coś nas martwi lub denerwuje, nasz system immunologiczny (naturalny system obronny organizmu) przestaje wytwarzać hormony T i B, które między innymi chronią nas przed wszelkimi infekcjami i rakiem. Gdy jesteśmy szczęśliwi i radośni, cieszymy się życiem, wzmacniamy swój system odpornościowy i zdrowie. |
+| **•** | **Trzeba się odprężać**. Dzisiejsze życie to ciąg nieprzyjemności i stresów. Uniknięcie ich jest niemożliwe, ale nie można ich kumulować. Trzeba znajdować czas na relaks, robić wtedy to, co się podoba - zamknąć się w pokoju i słuchać myzyki, medytować, spacerować po lesie. Kobiety niech kochają mężczyzn, a mężczyźni kobiety. Ale też codziennie trzeba pobyć trochę w samotności (3-5 minut), rozluźnić się i nie myśleć o nieprzyjemnościach. |
+| **•** | **Trzeba zmuszać mózg do pracy**. Im więcej mózg pracuje, tym bardziej jest wytrzymały. W każdym wieku, ale szczególnie na starość, należy "budzić" obszary mózgu, odpowiedzialne za pamięć. Należy czytać książki, chodzić do muzeum, słuchać wykładów, grać w szachy - krócej mówiąc - pracować głową. |
+| **•** | **Dłużej spać**. Dobry sen nie tylko rozjasnia myśli, ale też daje odpoczynek mięśniom, obniża cisnienie, regeneruje system wydzielania hormonalnego, podnosi odporność. Nawet rany szybciej się goją podczas snu. Człowiek, któremu przez kilka dni nie pozwala się zasnąć po prostu wariuje. Dlatego spać trzeba 6-8 godzin i ani trochę krócej. |
+| **•** | **Polubić chłód**. System odpornościowy organizmu należy stale trenować. Szczególnie lubi on chłód. Należy chronić organizm przed przegrzaniem, ubierać się lekko. Temperatura powietrza w pokoju, w którym spimy powinna wynosić 16-17°C. Naprzemienny prysznic (5-10 minut) rano i wieczorem - to gwarancja niezawodnej pracy systemu immunologicznego. |
+| **•** | **Należy mniej jeść**. Trzeba wypracować sobie zasadę "Jeść, aby żyć, a nie żyć, by jeść". W tym celu nauczyć się jeść powoli, a od stołu zawsze wstawać z uczuciem głodu. |
+| **•** | **Trzeba się więcej śmiać**. Podczas smiechu pracuje dużo więcej mięśni niż możemy sobie wyobrazić. Śmiech to forma masażu dla naszych organów wewnętrznych oraz bodziec, stymulujący organy trawienne. Śmiech działa przeciwbólowo i przeciwzapalnie. Śmiejąc się, oddychamy szczególnie głęboko i tym samym odnawiamy zapasy tlenu w płucach. Mózg podczas smiechu wytwarza serotoninę - "hormon szczęścia". Poza tym śmiech to wspaniały sposób kontaktu. |
+| **•** | **Kochajmy się**. Starożytna medycyna widziała sposób na osiągnięcie nieśmiertelności w zlaniu dwóch pierwiastków - męskiego i żeńskiego. Akt miłosny najlepiej odbudowuje harmonię ciała. |
+| **•** | **Należy oczyszczać organizm**. Pamiętajmy, że to, co wewnątrz nas, to i na zewnątrz. |
+| **•** | **Trzeba słuchać głosu swojego ciała**. Nasze ciało reaguje na troskę, którą mu się okazuje. Zacznijmy o siebie dbać, zanim zachorujemy, a wtedy zawsze będziemy zdrowi. |

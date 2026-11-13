@@ -181,61 +181,20 @@ Systematyczną analizą starohinduskich systemów BMR od dłuższego czasu zajmu
 
 **SYSTEMY BRONI WYKORZYSTUJĄCYCH SIŁY NATURY**
 
-**Valavja**
-
-\-
-
-broń emitująca silne uderzenia wiatru - tornada - niszczące spore powierzchnie ziemi.
-
-**Varuna**
-
-\-
-
-BMR wywołująca burze i powodzie.
-
-**Vadjra**
-
-\-
-
-generator piorunów kulistych, nie mający odpowiednika we współczesnych arsenałach.
+| **Valavja** | \- | broń emitująca silne uderzenia wiatru - tornada - niszczące spore powierzchnie ziemi. |
+| --- | --- | --- |
+| **Varuna** | \- | BMR wywołująca burze i powodzie. |
+| **Vadjra** | \- | generator piorunów kulistych, nie mający odpowiednika we współczesnych arsenałach. |
 
 **SYSTEMY BRONI TECHNOGENNYCH**
 
-**Brahmashiras**
-
-\-
-
-anihilacyjna BMR, termojądrowy ładunek uwalniający ogromną ilość energii dzięki fuzji ciężkich jąder atomowych.
-
-**Brahmadanda**
-
-\-
-
-rakieta z głowicą neutronową.
-
-**Pashupata**
-
-\-
-
-wielolufowy miotacz rakietowy strzelający rakietami z konwencjonalnymi głowicami.
-
-**Chakra**
-
-\-
-
-latający dysk z siedmioma ostrymi grotami, napędzany silnikami rakietowymi na obwodzie.
-
-**Narajana**
-
-\-
-
-ówczesny odpowiednik dzisiejszej bomby kasetowej.
-
-**Anthardhana**
-
-\-
-
-broń dezorientująca wroga, łamiąca jego morale i powodująca utratę świadomości.
+| **Brahmashiras** | \- | anihilacyjna BMR, termojądrowy ładunek uwalniający ogromną ilość energii dzięki fuzji ciężkich jąder atomowych. |
+| --- | --- | --- |
+| **Brahmadanda** | \- | rakieta z głowicą neutronową. |
+| **Pashupata** | \- | wielolufowy miotacz rakietowy strzelający rakietami z konwencjonalnymi głowicami. |
+| **Chakra** | \- | latający dysk z siedmioma ostrymi grotami, napędzany silnikami rakietowymi na obwodzie. |
+| **Narajana** | \- | ówczesny odpowiednik dzisiejszej bomby kasetowej. |
+| **Anthardhana** | \- | broń dezorientująca wroga, łamiąca jego morale i powodująca utratę świadomości. |
 
 W tej wyliczance moglibyśmy dojść bardzo daleko - ich lista sięga kilku stron w książkach Diksitara i Wiesnera - a nie mówiliśmy jeszcze o zasadach użycia tych broni, co jest dziedzina wiedzy zwana Astravidia, a której opanowanie pochłaniało aż pięć lat intensywnego szkolenia! Stając twarzą w twarz z sanskryckimi tekstami możemy - według dr Władimira Rubcowa przyjąć cztery podstawowe hipotezy:
 
@@ -474,107 +433,24 @@ Póki będziemy zakładać, że "martwe satelity" wisiały nad cywilizacją Śre
 
 Uogólniając, można rzec, że od początku tysiąclecia spadał z nieba ogień, na niebie manewrowały dziwne ogniste pochodnie czy cylindry ogniste, a od czasu do czasu rozlegały się tajemnicze eksplozje. Już sam przegląd niektórych tylko obserwacji może być z naszego punktu widzenia bardzo zajmujący. Zobaczmy sami, co działo się na przestrzeni lat:
 
-715
-
-\-
-
-W środku lata na niebie pokazał się ciemny obłok, a potem niebo błysnęło ogniem.
-
-746-773
-
-\-
-
-Na niebie widziano ogniste smoki, szable i krzyże.
-
-919
-
-\-
-
-Nad Węgrami pokazała się tajemnicza, świecąca pochodnia.
-
-1104
-
-\-
-
-Ogniste pochodnie i latające ognie na niebie.
-
-1258
-
-\-
-
-Błyszcząca kula przeleciała nad rzeka i dwoma wioskami Szkocji, a po przebyciu 3 mil rozpadła się na popiół.
-
-1322
-
-\-
-
-4 listopada, w nocy nad Uxbridge (Anglia) pokazał się ognisty słup, który zmienił kolor, a potem z niego wydobył się czerwony płomień i posłyszano silny wybuch.
-
-1355
-
-\-
-
-W lecie, nad wieloma miastami Anglii latały czerwone i niebieskie tarcze, które jakby walczyły ze sobą.
-
-1388
-
-\-
-
-W kwietniu nad wieloma miastami Europy widziano ognistego smoka.
-
-1478
-
-\-
-
-W Szwajcarii spadały z nieba na ziemię przedmioty podobne do dzwonów i "ogniste misy", które pozostawiały ślady na niebie.
-
-1501-1503
-
-\-
-
-W całej Europie spadały z nieba misy i krzyże - w okolicy Norymbergii przez całe 26 dni!
-
-1561
-
-\-
-
-14 kwietnia przelatywały nad Norymbergą cylindry, krzyże i inne figury geometryczne, które jakby toczyły ze sobą bój!
-
-1619
-
-\-
-
-11 czerwca nad wioską Odranec i częścią wsi Vecova widziano jakiś ciemny obłok, w nim koło i jakieś dziwne znaki. Potem usłyszano straszliwy huk, jakby wybuchu i na ziemię spadły trzy kawały metalu. W tym samym roku Christopher Schere prefekt jednego ze szwajcarskich kantonów widział przelot długiego, błyszczącego obiektu nad Fluelenem.
-
-1624
-
-\-
-
-Od 7 do 17 listopada, w Czechach, zawsze o godzinie 5 po południu pokazywała się kula lecąca z zachodu ku wschodowi. Obracała się i zmieniała kolor od białej do czerwonej. Niekiedy kul było więcej.
-
-1678
-
-\-
-
-W godzinę po zachodzie Słońca, nad Dalmacją pokazał się obiekt większy od Księżyca w pełni i przeleciał nad Włochami i Korsyką z chrzęstem przesypywanych kamieni.
-
-1752
-
-\-
-
-15 kwietnia nad szwedzkim Angermanlandem przeleciała jakaś rura z fontanną ognia!
-
-1762
-
-\-
-
-9 sierpnia nad Szwajcarią przeleciał wrzecionowaty przedmiot, który zaobserwowali także dwaj astronomowie.
-
-1783
-
-\-
-
-18 sierpnia o godzinie 21:15, pewien Włoch Tiberius Cavello zaobserwował mały obłok, a pod nim owalny obiekt, który po chwili eksplodował. 30 sierpnia nad Greenwich jakiś obiekt rozpadł się na 8 satelitów, które powoli odleciały na południowy wschód.
+| 715 | \- | W środku lata na niebie pokazał się ciemny obłok, a potem niebo błysnęło ogniem. |
+| --- | --- | --- |
+| 746-773 | \- | Na niebie widziano ogniste smoki, szable i krzyże. |
+| 919 | \- | Nad Węgrami pokazała się tajemnicza, świecąca pochodnia. |
+| 1104 | \- | Ogniste pochodnie i latające ognie na niebie. |
+| 1258 | \- | Błyszcząca kula przeleciała nad rzeka i dwoma wioskami Szkocji, a po przebyciu 3 mil rozpadła się na popiół. |
+| 1322 | \- | 4 listopada, w nocy nad Uxbridge (Anglia) pokazał się ognisty słup, który zmienił kolor, a potem z niego wydobył się czerwony płomień i posłyszano silny wybuch. |
+| 1355 | \- | W lecie, nad wieloma miastami Anglii latały czerwone i niebieskie tarcze, które jakby walczyły ze sobą. |
+| 1388 | \- | W kwietniu nad wieloma miastami Europy widziano ognistego smoka. |
+| 1478 | \- | W Szwajcarii spadały z nieba na ziemię przedmioty podobne do dzwonów i "ogniste misy", które pozostawiały ślady na niebie. |
+| 1501-1503 | \- | W całej Europie spadały z nieba misy i krzyże - w okolicy Norymbergii przez całe 26 dni! |
+| 1561 | \- | 14 kwietnia przelatywały nad Norymbergą cylindry, krzyże i inne figury geometryczne, które jakby toczyły ze sobą bój! |
+| 1619 | \- | 11 czerwca nad wioską Odranec i częścią wsi Vecova widziano jakiś ciemny obłok, w nim koło i jakieś dziwne znaki. Potem usłyszano straszliwy huk, jakby wybuchu i na ziemię spadły trzy kawały metalu. W tym samym roku Christopher Schere prefekt jednego ze szwajcarskich kantonów widział przelot długiego, błyszczącego obiektu nad Fluelenem. |
+| 1624 | \- | Od 7 do 17 listopada, w Czechach, zawsze o godzinie 5 po południu pokazywała się kula lecąca z zachodu ku wschodowi. Obracała się i zmieniała kolor od białej do czerwonej. Niekiedy kul było więcej. |
+| 1678 | \- | W godzinę po zachodzie Słońca, nad Dalmacją pokazał się obiekt większy od Księżyca w pełni i przeleciał nad Włochami i Korsyką z chrzęstem przesypywanych kamieni. |
+| 1752 | \- | 15 kwietnia nad szwedzkim Angermanlandem przeleciała jakaś rura z fontanną ognia! |
+| 1762 | \- | 9 sierpnia nad Szwajcarią przeleciał wrzecionowaty przedmiot, który zaobserwowali także dwaj astronomowie. |
+| 1783 | \- | 18 sierpnia o godzinie 21:15, pewien Włoch Tiberius Cavello zaobserwował mały obłok, a pod nim owalny obiekt, który po chwili eksplodował. 30 sierpnia nad Greenwich jakiś obiekt rozpadł się na 8 satelitów, które powoli odleciały na południowy wschód. |
 
 W przeglądzie tym pominąłem dwa niezwykle ciekawe przykłady, które ilustrują naszą hipotezę w sposób niemal idealny. Autorem opisu następującego wydarzenia jest nie kto inny, jak sam francuski lekarz, król proroków Michel de Nostre Dame alias Nostradamus (1503-1566) z Salon. Poza swymi słynnymi "Centuriami" pozostawił on także zeznanie na temat obserwacji, której dokonał w dniu 10 marca 1554 roku, w godzinach 19:00-20:00 -
 
@@ -594,197 +470,39 @@ Dalszym efektem atomowego konfliktu jest zmiana ziemskiego pola geomagnetycznego
 
 Dowodem na destabilizację pola geomagnetycznego po użyciu broni jądrowej są - jak już to wspomniałem - burze magnetyczne i intensywne zorze polarne. Dla udowodnienia tego możemy użyć szerokiej dokumentacji i banku danych o niezwykłych fenomenach, jakimi są następujące prace: O. Seydl - "A List of 402 Northern Lights Observed in Bohemia, Moravia & Slovakia from 1013 till 1951" w "Geofizykalni sbornik" nr 17,1954; L. Křivský - "Solar Activity, Aurorae and Climate in Central Europe in the last 1000 Years" w "Travaux geopsyhiques" XXXIII, nr 6,1985. W jakiej mierze zależało to od spadku głowic, "martwych satelitów", itp. itd. atmosferycznych wybuchów BMR od połowy XVI do końca XVIII wieku - obrazuje poniższe zestawienie:
 
-1570
-
-\-
-
-A. D. 1570 zoczono nad Pragą miotły, a także kopie lecące na zachód Słońca, tak jasne, jak Księżyc, co trwało pół godziny z okładem.
-
-1571
-
-\-
-
-Około godziny trzeciej w nocy, 26 sierpnia, nad Pragą Czeską zauważono miotły (komety), a przed nimi lecące na zachód kopie jasne jako miesiąc, co po pół godzinie znikło.
-
-1572
-
-\-
-
-W nocy, która dzień 18 stycznia poprzedzała, w wielu miejscach w Czechach od godziny ósmej do godziny dziesiątej straszliwe widowisko na niebie ukazało się: między długimi białymi kreskami alebo słupami, poczerniały płomień ognisty od wschodu Słońca do strony północnej się wznosił, a potem takoż pojawił się wielki obłok krwawy i wiele tam i sam latających płomieni, które noc rozjaśniały, a lud wielce się dziwował a przestraszonym był. (Beckovsky)
-
-1572
-
-\-
-
-14 stycznia: Roku tegoż po święcie Trzech Króli w czwartek w nocy na piątek widziano widma ogniste miotające się tu i tam po niebie.
-
-1572
-
-\-
-
-Znowu ogniste zjawisko w nocy 3 marca nad Pragą i w innych miastach czeskich pojawiło się i wiele nieprzyjemnych rzeczy się stało w owych miejscach. (Beckovsky)
-
-1572
-
-\-
-
-Tegoż lata po niedzieli reminiscere widziane były słupy ogniste w nocy z czwartku na piątek, rozchodziły się one i skupiały, co trwało kilka godzin pod rząd. (Missowitz)
-
-1572
-
-\-
-
-12 czerwca: Tego lata ukazał się znowu groźny znak na niebie - przedziwne słupy, niektóre jasne, niektóre ciemne nad miastem Pragą, w czwartek na dzień św. Antonina, po szóstej godzinie w nocy, a to w miesiącu czerwcu. (Paprocky)
-
-1575
-
-\-
-
-Czternastego Februara w nocy światło wielkie pokazało się po północnej stronie...
-
-1582
-
-\-
-
-Primae Aprilis z soboty na niedzielę iudica, około óśmiu godzin aż do dnia widziano ogniste słupy podpalające. (Brzezan)
-
-1582
-
-\-
-
-A. D. 1582, w dniu 2 miesiąca lipca przy brzasku i rano pokazała się zorza na niebie, groźna i jasna, a tak nisko zawieszona, jakby na dachach domów. Kto wtedy na nią patrzył, to myślał, że się gdzieś pali...
-
-1583
-
-\-
-
-2 września: Tegoż Roku Pańskiego 1583, w poniedziałek po św. Idzim, po godzinie pierwszej w nocy ukazało się na niebie zjawisko straszne i groźne: najpierw od północy i zachodu widoczne były słupy, które się często-gęsto dzieliły, a na zachodzie niebo czerwonym jako krew było. Potem tuż przed dniem po całym niebie wszędy czarny kurz i czarny dym wstępował. Zasię z nieba jakaś wielka jasność zstępowała, jak ogień i całe niebo - jakby ogniem objęte - gorzało. I błyskało się, jakby od burzy. A potem ogień ten w jedno miejsce się zebrał, a słupy czerwone i czarne dzielić się poczęły. I działo się to noc całą aż do białego rana, a cała noc była jasna, jakby Słońce zza chmur wyjść miało...
-
-1588
-
-\-
-
-16 grudnia: W owym czasie przed Świętami Bożego Narodzenia przez kilka nocy na niebie ukazywał się taki oto znak: światłość wielka i słupy, które się potem dzieliły i walczyły ze sobą tu i tam, a także jak przed Czarnym Morem wskazywały w stronę Roudnicy. (Kneżovsky)
-
-1598
-
-\-
-
-17 listopada: Tegoż roku w piątek po św. Marcinie w nocy, o drugiej godzinie ukazało się zjawisko niebieskie: od północy gęsto słupy świetliste pojawiły się na podobieństwo świec, które w niebo wystrzelały, a potem doszło do tego, że czarne pasmo je krzyżem poprzedzielało i znikły. Trwało to aż do 7 godziny. A wielce jasnymi owe słupy były, jakby gorzał w nich wielki ogień, a potem po 7 godzinie te słupy się podzieliły, i jakoby dym z nich wychodził, co trwało aż do godziny 9. (Kneżovsky)
-
-1590
-
-\-
-
-Marzec: Tegoż roku, pod koniec mięsopustu, kometa czyli włochata gwiazda była wypatrzona, ale niewielka. Potem na początku postu znak wielki na niebie się ukazał: słupy wielce jasne z tej strony od Roudnicy. (Kneżovsky)
-
-1591
-
-\-
-
-8 września: Tegoż roku, w niedzieli dzień Narodzenia Najświętszej Maryi Panny ukazał się znak na niebie. Wszystko zaczęło się od godziny 1 w nocy. Najpierw ujrzano słupy ogniste na wschodzie i zachodzie, a wszystko to tak wyglądało, jakby niebo gorzało... (Kneżovsky)
-
-1593
-
-\-
-
-22 stycznia: Na początku roku tego widziane na niebie niezwykłe zjawiska były, o czym wiele mówiono i pisano: tak też krzyż i miecz krwawy w obłokach, przy czym grzmot i krzyk wielki w obłoczech słychać było: "biada!, biada! biada!"
-
-1598
-
-\-
-
-Tego roku w niedzielę Laetare w nocy na poniedziałek widziano trzy słupy nad Ranskou Horou, a przy nich była i gwiazda wielka, jakby te słupy się spotykały: a kiedy ta gwiazda miała do tych słupów dojść, to spadła w dół, 1 dnia miesiąca marca. (Missowitz)
-
-1598
-
-\-
-
-A. D. 1598, 13 lipca w czwartek po św. Wawrzyńcu powietrze przyszło w nocy z wielkim błyskaniem i dziw na niebie ponad zamkiem Krumlova naprzeciw Domorajcim był widziany. (Brzezan)
-
-1601
-
-\-
-
-1 września: Roku onego, po Podniesieniu Św. Krzyża, około godziny 4 po północy stało się wielkie trzęsienie ziemi z wielkim znakiem na niebie. Tego samego roku, w poniedziałek po św. Mateuszu, od godziny 2 do godziny 8 rano widoczne były słupy ogniste na niebie. (Missowitz)
-
-1602
-
-\-
-
-Tuż po ukazaniu się dekretu cesarza Rudolfa w Czechach na niebie obserwowano różne przedziwne zjawiska niebieskie, osobliwie nocami... 10 dnia miesiąca listopada... nocni dozorcy widzieli nad rynkiem zorzę wielką i myśleli, że się gdzieś pali. Potem stwierdzili, że to była tylko jasna zorza i nigdzie się nie paliło...
-
-1603
-
-\-
-
-Dnia 12 miesiąca października, z soboty na niedzielę Salus Populi, dziwy straszne widziano w Kutnych Horach na nieboskłonie - krwawe obłoki na niebie ze wszystkich stron nadciągające.
-
-1603
-
-\-
-
-Kiedy to Vaclav Budovec z Budovadnia 5 stycznia jechał do Pragi... i był blisko wsi Senczic, u góry ukazała się mu wielka zorza, tak że myślał on, jego małżonka i wszyscy przytomni, iż wielki ogień we wsi jest. A kiedy patrzali na ową zorzę, oddzielił się od niej słup ognisty i na nim też była wielka światłość. (Skala)
-
-1624
-
-\-
-
-Wrzesień: ... tego i następnego miesiąca bardzo często-gęsto na czeskiej ziemi i we wszystkich innych krainach, miastach, miasteczkach i wsiach ukazywały się czasu nocnego szatańskie znaki w postaci smoków ognistych i latających przez powietrze z niemałym przestrachem i podziwem.
-
-1630
-
-\-
-
-We wtorkową noc dnia 4 stycznia, pomiędzy 8 a 9 godziną wieczorem, w powietrzu nad Pragą widziano wielkie błyskanie i huk od niego szedł, aż lud się przeraził... (Beckovský)
-
-1630
-
-\-
-
-1-4 lutego: ... przez całą noc dziwy widać było na niebie - słupów wiele krwawych - naliczono ich aż 10.
-
-1630
-
-\-
-
-4 lutego widziano straszne, ogniste znaki na niebiesiech i obłokach nocą z poniedziałku na wtorek - a to: słupy od północnej strony przychadzające ku południowi, a ich światło długo trwało na nieboskłonie. (Bydzovsky)
-
-1633
-
-\-
-
-3 grudnia: Dnia onego... Bóg swój dziw ukazał - dwa światła, jedno na północy, drugie na południu przeciw sobie powstały, jakby się pomiędzy sobą biły. (Prokop)
-
-1647
-
-\-
-
-Marzec: ... w Żatci... nad miastem krwawe miecze się pokazały.
-
-1709
-
-\-
-
-In Martio (w marcu)... In novem drugi piątek tegoż miesiąca okoo godziny 10 w nocy jakowaś światłość się na niebie ukazała i przez 3 godziny trwała.
-
-1731
-
-\-
-
-Item tegoż roku, miesiąca Septembris (wrzesień), ukazało się na nocnym niebie jakieś zjawisko na kształt kilku wysokich, ognistych słupów.
-
-1737
-
-\-
-
-16 grudnia światło na niebie się ukazało, od 9 do 10 godziny, było ono czerwone, a niebo także czerwonym było, jakby krwią polane.
-
-1741
-
-\-
-
-Roku 1741, dnia 8-go, 9-go i 10-go ukazywała się światłość na niebie, bądź był to phaenomenon. Prawie po północy od Drażdan wychodziła światłość, jakby słońce zachodziło od godziny 9-tej do północy. Z tego światła wychodziły jasne słupy, które tak jak wymusztrowane wojsko chodziły tam i sam, a ich końce były ogniste, a to wszystko przez trzy noce... Item z tych słupów wychodził wicher, bowiem powietrze tak falowało, jakby fale na wodzie powstałe...
+| 1570 | \- | A. D. 1570 zoczono nad Pragą miotły, a także kopie lecące na zachód Słońca, tak jasne, jak Księżyc, co trwało pół godziny z okładem. |
+| --- | --- | --- |
+| 1571 | \- | Około godziny trzeciej w nocy, 26 sierpnia, nad Pragą Czeską zauważono miotły (komety), a przed nimi lecące na zachód kopie jasne jako miesiąc, co po pół godzinie znikło. |
+| 1572 | \- | W nocy, która dzień 18 stycznia poprzedzała, w wielu miejscach w Czechach od godziny ósmej do godziny dziesiątej straszliwe widowisko na niebie ukazało się: między długimi białymi kreskami alebo słupami, poczerniały płomień ognisty od wschodu Słońca do strony północnej się wznosił, a potem takoż pojawił się wielki obłok krwawy i wiele tam i sam latających płomieni, które noc rozjaśniały, a lud wielce się dziwował a przestraszonym był. (Beckovsky) |
+| 1572 | \- | 14 stycznia: Roku tegoż po święcie Trzech Króli w czwartek w nocy na piątek widziano widma ogniste miotające się tu i tam po niebie. |
+| 1572 | \- | Znowu ogniste zjawisko w nocy 3 marca nad Pragą i w innych miastach czeskich pojawiło się i wiele nieprzyjemnych rzeczy się stało w owych miejscach. (Beckovsky) |
+| 1572 | \- | Tegoż lata po niedzieli reminiscere widziane były słupy ogniste w nocy z czwartku na piątek, rozchodziły się one i skupiały, co trwało kilka godzin pod rząd. (Missowitz) |
+| 1572 | \- | 12 czerwca: Tego lata ukazał się znowu groźny znak na niebie - przedziwne słupy, niektóre jasne, niektóre ciemne nad miastem Pragą, w czwartek na dzień św. Antonina, po szóstej godzinie w nocy, a to w miesiącu czerwcu. (Paprocky) |
+| 1575 | \- | Czternastego Februara w nocy światło wielkie pokazało się po północnej stronie... |
+| 1582 | \- | Primae Aprilis z soboty na niedzielę iudica, około óśmiu godzin aż do dnia widziano ogniste słupy podpalające. (Brzezan) |
+| 1582 | \- | A. D. 1582, w dniu 2 miesiąca lipca przy brzasku i rano pokazała się zorza na niebie, groźna i jasna, a tak nisko zawieszona, jakby na dachach domów. Kto wtedy na nią patrzył, to myślał, że się gdzieś pali... |
+| 1583 | \- | 2 września: Tegoż Roku Pańskiego 1583, w poniedziałek po św. Idzim, po godzinie pierwszej w nocy ukazało się na niebie zjawisko straszne i groźne: najpierw od północy i zachodu widoczne były słupy, które się często-gęsto dzieliły, a na zachodzie niebo czerwonym jako krew było. Potem tuż przed dniem po całym niebie wszędy czarny kurz i czarny dym wstępował. Zasię z nieba jakaś wielka jasność zstępowała, jak ogień i całe niebo - jakby ogniem objęte - gorzało. I błyskało się, jakby od burzy. A potem ogień ten w jedno miejsce się zebrał, a słupy czerwone i czarne dzielić się poczęły. I działo się to noc całą aż do białego rana, a cała noc była jasna, jakby Słońce zza chmur wyjść miało... |
+| 1588 | \- | 16 grudnia: W owym czasie przed Świętami Bożego Narodzenia przez kilka nocy na niebie ukazywał się taki oto znak: światłość wielka i słupy, które się potem dzieliły i walczyły ze sobą tu i tam, a także jak przed Czarnym Morem wskazywały w stronę Roudnicy. (Kneżovsky) |
+| 1598 | \- | 17 listopada: Tegoż roku w piątek po św. Marcinie w nocy, o drugiej godzinie ukazało się zjawisko niebieskie: od północy gęsto słupy świetliste pojawiły się na podobieństwo świec, które w niebo wystrzelały, a potem doszło do tego, że czarne pasmo je krzyżem poprzedzielało i znikły. Trwało to aż do 7 godziny. A wielce jasnymi owe słupy były, jakby gorzał w nich wielki ogień, a potem po 7 godzinie te słupy się podzieliły, i jakoby dym z nich wychodził, co trwało aż do godziny 9. (Kneżovsky) |
+| 1590 | \- | Marzec: Tegoż roku, pod koniec mięsopustu, kometa czyli włochata gwiazda była wypatrzona, ale niewielka. Potem na początku postu znak wielki na niebie się ukazał: słupy wielce jasne z tej strony od Roudnicy. (Kneżovsky) |
+| 1591 | \- | 8 września: Tegoż roku, w niedzieli dzień Narodzenia Najświętszej Maryi Panny ukazał się znak na niebie. Wszystko zaczęło się od godziny 1 w nocy. Najpierw ujrzano słupy ogniste na wschodzie i zachodzie, a wszystko to tak wyglądało, jakby niebo gorzało... (Kneżovsky) |
+| 1593 | \- | 22 stycznia: Na początku roku tego widziane na niebie niezwykłe zjawiska były, o czym wiele mówiono i pisano: tak też krzyż i miecz krwawy w obłokach, przy czym grzmot i krzyk wielki w obłoczech słychać było: "biada!, biada! biada!" |
+| 1598 | \- | Tego roku w niedzielę Laetare w nocy na poniedziałek widziano trzy słupy nad Ranskou Horou, a przy nich była i gwiazda wielka, jakby te słupy się spotykały: a kiedy ta gwiazda miała do tych słupów dojść, to spadła w dół, 1 dnia miesiąca marca. (Missowitz) |
+| 1598 | \- | A. D. 1598, 13 lipca w czwartek po św. Wawrzyńcu powietrze przyszło w nocy z wielkim błyskaniem i dziw na niebie ponad zamkiem Krumlova naprzeciw Domorajcim był widziany. (Brzezan) |
+| 1601 | \- | 1 września: Roku onego, po Podniesieniu Św. Krzyża, około godziny 4 po północy stało się wielkie trzęsienie ziemi z wielkim znakiem na niebie. Tego samego roku, w poniedziałek po św. Mateuszu, od godziny 2 do godziny 8 rano widoczne były słupy ogniste na niebie. (Missowitz) |
+| 1602 | \- | Tuż po ukazaniu się dekretu cesarza Rudolfa w Czechach na niebie obserwowano różne przedziwne zjawiska niebieskie, osobliwie nocami... 10 dnia miesiąca listopada... nocni dozorcy widzieli nad rynkiem zorzę wielką i myśleli, że się gdzieś pali. Potem stwierdzili, że to była tylko jasna zorza i nigdzie się nie paliło... |
+| 1603 | \- | Dnia 12 miesiąca października, z soboty na niedzielę Salus Populi, dziwy straszne widziano w Kutnych Horach na nieboskłonie - krwawe obłoki na niebie ze wszystkich stron nadciągające. |
+| 1603 | \- | Kiedy to Vaclav Budovec z Budovadnia 5 stycznia jechał do Pragi... i był blisko wsi Senczic, u góry ukazała się mu wielka zorza, tak że myślał on, jego małżonka i wszyscy przytomni, iż wielki ogień we wsi jest. A kiedy patrzali na ową zorzę, oddzielił się od niej słup ognisty i na nim też była wielka światłość. (Skala) |
+| 1624 | \- | Wrzesień: ... tego i następnego miesiąca bardzo często-gęsto na czeskiej ziemi i we wszystkich innych krainach, miastach, miasteczkach i wsiach ukazywały się czasu nocnego szatańskie znaki w postaci smoków ognistych i latających przez powietrze z niemałym przestrachem i podziwem. |
+| 1630 | \- | We wtorkową noc dnia 4 stycznia, pomiędzy 8 a 9 godziną wieczorem, w powietrzu nad Pragą widziano wielkie błyskanie i huk od niego szedł, aż lud się przeraził... (Beckovský) |
+| 1630 | \- | 1-4 lutego: ... przez całą noc dziwy widać było na niebie - słupów wiele krwawych - naliczono ich aż 10. |
+| 1630 | \- | 4 lutego widziano straszne, ogniste znaki na niebiesiech i obłokach nocą z poniedziałku na wtorek - a to: słupy od północnej strony przychadzające ku południowi, a ich światło długo trwało na nieboskłonie. (Bydzovsky) |
+| 1633 | \- | 3 grudnia: Dnia onego... Bóg swój dziw ukazał - dwa światła, jedno na północy, drugie na południu przeciw sobie powstały, jakby się pomiędzy sobą biły. (Prokop) |
+| 1647 | \- | Marzec: ... w Żatci... nad miastem krwawe miecze się pokazały. |
+| 1709 | \- | In Martio (w marcu)... In novem drugi piątek tegoż miesiąca okoo godziny 10 w nocy jakowaś światłość się na niebie ukazała i przez 3 godziny trwała. |
+| 1731 | \- | Item tegoż roku, miesiąca Septembris (wrzesień), ukazało się na nocnym niebie jakieś zjawisko na kształt kilku wysokich, ognistych słupów. |
+| 1737 | \- | 16 grudnia światło na niebie się ukazało, od 9 do 10 godziny, było ono czerwone, a niebo także czerwonym było, jakby krwią polane. |
+| 1741 | \- | Roku 1741, dnia 8-go, 9-go i 10-go ukazywała się światłość na niebie, bądź był to phaenomenon. Prawie po północy od Drażdan wychodziła światłość, jakby słońce zachodziło od godziny 9-tej do północy. Z tego światła wychodziły jasne słupy, które tak jak wymusztrowane wojsko chodziły tam i sam, a ich końce były ogniste, a to wszystko przez trzy noce... Item z tych słupów wychodził wicher, bowiem powietrze tak falowało, jakby fale na wodzie powstałe... |
 
 To wszystko podałem jako przykład, choć kroniki roją się od takich zapisków, że mógłbym to ciągnąć i ciągnąć, ale przecież nie o to chodzi. Kiedy zorientowałem się, że przepisywanie wiekowych tekstów jest tak nudne, jak ich czytanie, to pozostało mi na koniec tego rozdziału napisać tylko jedno, jedyne łacińskie słowo - FINIS.
 
@@ -906,65 +624,17 @@ Informacje o kontaktach z tajemniczymi istotami przetrwały do dnia dzisiejszego
 
 Wbrew powszechnie panujacemu daenikenowskiemu poglądowi o sielskiej koegzystencji Ziemian i Pozaziemian twierdzę, że ci pierwsi musieli bronic się kopiami, mieczami i katapultami przeciwko BMR, swej wolności i niezawisłości, co jest o wiele bardziej prawdziwe, niż wizje von Dänikena. \[...\] A teraz przedstawię Czytelnikowi chronologię obserwacji Nieznanych Obiektów Latających w latach 1461-1779:
 
-1 listopada 1461
-
-\-
-
-nad Arras zaobserwowano "powietrzny statek".
-
-1520
-
-\-
-
-w Erfurcie zaobserwowano dwie ogniste kule, z których jedna wylądowała, a potem odleciała. Z innych źródeł wynika, że był to ognisty promień, który spalił kilka miejscowości.
-
-7 sierpnia 1566
-
-\-
-
-w biały dzień nad Bazyleą pojawiły się jakieś ciemne kule.
-
-13 października 1684
-
-\-
-
-nad Jachymovem latało jakieś ciemne ciało.
-
-8 stycznia 1704
-
-\-
-
-nad Anglią przeleciał klucz Nocnych Świateł w kształcie litery "V".
-
-6 marca 1716
-
-\-
-
-sir Edmund Halley zaobserwował tak silne Nocne Światło, że można przy nim było czytać druk. Zjawisko trwało 2 godziny!
-
-1718
-
-\-
-
-lekarz dr Hans Sloane obserwował w zachodniej Anglii jasne światło po zachodniej stronie nieba. Było ono jaśniejsze od Księżyca.
-
-17 marca 1735
-
-\-
-
-w czasie obserwacji Marsa, astronom John Bevis ujrzał nad Londynem obiekt, który rozdzielił się na dwie części.
-
-6 lipca 1744
-
-\-
-
-w godzinach wieczornych dwie świetliste kule przeraziły mieszkańców Hradku nad Nisou.
-
-1779
-
-\-
-
-francuski astronom Charles Messier zaobserwował przelot formacji ciemnych obiektów na tle tarczy Słońca.
+| 1 listopada 1461 | \- | nad Arras zaobserwowano "powietrzny statek". |
+| --- | --- | --- |
+| 1520 | \- | w Erfurcie zaobserwowano dwie ogniste kule, z których jedna wylądowała, a potem odleciała. Z innych źródeł wynika, że był to ognisty promień, który spalił kilka miejscowości. |
+| 7 sierpnia 1566 | \- | w biały dzień nad Bazyleą pojawiły się jakieś ciemne kule. |
+| 13 października 1684 | \- | nad Jachymovem latało jakieś ciemne ciało. |
+| 8 stycznia 1704 | \- | nad Anglią przeleciał klucz Nocnych Świateł w kształcie litery "V". |
+| 6 marca 1716 | \- | sir Edmund Halley zaobserwował tak silne Nocne Światło, że można przy nim było czytać druk. Zjawisko trwało 2 godziny! |
+| 1718 | \- | lekarz dr Hans Sloane obserwował w zachodniej Anglii jasne światło po zachodniej stronie nieba. Było ono jaśniejsze od Księżyca. |
+| 17 marca 1735 | \- | w czasie obserwacji Marsa, astronom John Bevis ujrzał nad Londynem obiekt, który rozdzielił się na dwie części. |
+| 6 lipca 1744 | \- | w godzinach wieczornych dwie świetliste kule przeraziły mieszkańców Hradku nad Nisou. |
+| 1779 | \- | francuski astronom Charles Messier zaobserwował przelot formacji ciemnych obiektów na tle tarczy Słońca. |
 
 Czy to nie wystarczy?
 

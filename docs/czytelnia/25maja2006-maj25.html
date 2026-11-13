@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="26 maja 2006 – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Strona zbiera tłumaczenia artykułów Erica Juliena o przepowiedzianym przez niego na 25 maja 2006 roku uderzeniu fragmentu komety 73P Schwassmann-Wachmann 3 w Atlantyk i mega-tsunam">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/25maja2006-maj25.html">
+<meta property="og:url" content="https://uleszka.net/czytelnia/25maja2006-maj25.html">
 <meta property="og:image" content="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/25maja2006/krag1.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">25 Maja 2006 - Dniem Przeznaczenia!</a></li><li><a href="#r-2">[ 73P/Schwassmann-Wachmann 3-BD ] [ 2006-May-11 21:53 ] [ ± 11:11 ] [ 33.7/0.0867 ] [ 0.04/0.00010 ]</a></li><li><a href="#r-3">22 maja 2006</a></li><li><a href="#r-4">23 maja 2006</a></li><li><a href="#r-5">25 maja 2006</a></li><li><a href="#r-6">26 maja 2006</a></li><li><a href="#r-7">27 maja 2006</a></li><li><a href="#r-8">28 maja 2006</a></li><li><a href="#r-9">29 maja 2006</a></li><li><a href="#r-10">6 czerwca 2006</a></li><li><a href="#r-11">11 czerwca 2006</a></li><li><a href="#r-12">17 czerwca 2006</a></li><li><a href="#r-13">18 czerwca 2006</a></li><li><a href="#r-14">19 czerwca 2006</a></li><li><a href="#r-15">20 czerwca 2006</a></li><li><a href="#r-16">26 czerwca 2006</a></li><li><a href="#r-17">CZY CHCECIE ABYŚMY SIĘ UJAWNILI</a></li><li><a href="#r-18">Kim jesteśmy?</a></li><li><a href="#r-19">Dlaczego jesteśmy niewidzialni?</a></li><li><a href="#r-20">Kim Wy jesteście?</a></li><li><a href="#r-21">Jaka jest wasza sytuacja?</a></li><li><a href="#r-22">Kim jest trzecia strona?</a></li><li><a href="#r-23">Co możemy zaoferować?</a></li><li><a href="#r-24">Co będziecie z tego mieć?</a></li><li><a href="#r-25">Jakie pytanie wam zadajemy?</a></li><li><a href="#r-26">CZY CHCECIE BYŚMY SIĘ UJAWNILI ?</a></li><li><a href="#r-27">Jak odpowiedzieć na to pytanie?</a></li><li><a href="#r-28">Jaki będzie efekt?</a></li><li><a href="#r-29">Jakie będą konsekwencje decyzji na tak?</a></li><li><a href="#r-30">Po co rozpowszechniać tę wiadomość?</a></li><li><a href="#r-31">CZY CHCECIE ABYŚMY SIĘ UJAWNILI</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details open><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html" class="aktualny" aria-current="page">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#cywilizacja-bogow">Cywilizacja Bogów</a></p>
   <h1>26 maja 2006</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Strona zbiera tłumaczenia artykułów Erica Juliena o przepowiedzianym przez niego na 25 maja 2006 roku uderzeniu fragmentu komety 73P Schwassmann-Wachmann 3 w Atlantyk i mega-tsunami, a także dziennik wydarzeń prowadzony przez forum „FPP Kod Czasu” i autora strony. Julien łączy swoją wizję i telepatyczny przekaz z rozpadem komety w 1995 roku, piktogramem w zbożu i rzekomą walką istot pozaziemskich z amerykańskim programem „Gwiezdnych Wojen”. Komentarze z kolejnych dni śledzą dane NASA, doniesienia o meteorach, trzęsienie ziemi na Jawie i norweski bolid. Autor strony stwierdza, że 25 maja nic wielkiego się nie stało, ale uważa, że Julien pokazał słabość oficjalnej nauki i manipulowanie informacjami. Na końcu zamieszczono pełny tekst „Czy chcecie abyśmy się ujawnili” – rzekomej wiadomości od istot pozaziemskich.</p>
@@ -33,7 +69,7 @@
   <article class="tresc">
 <p><strong>Eric Julien</strong><br>[ Tłumaczenie • <strong>Achaja</strong> • FPP Kod Czasu ]</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/25maja2006/logoinst.jpg" alt="" loading="lazy" decoding="async"></p>
-<p><strong>25 Maja 2006 - Dniem Przeznaczenia!</strong></p>
+<p class="rozdzial" id="r-1"><strong>25 Maja 2006 - Dniem Przeznaczenia!</strong></p>
 <p>Co zdarzy się 25 maja 2006 roku? Być może planetarna katastrofa mająca swój początek w Oceanie Atlantyckim na skutek uderzenia średniego rozmiaru meteorytu. Przy takim założeniu seria gigantycznych fal, włącznie z mega-tsunami, wysokości prawie 200 metrów zrodzi się z serii podwodnych erupcji. Te wodne giganty zmniejszające się w miarę pokonywanej odległości dotkną większość wybrzeży atlantyckich leżących pomiędzy równikiem a zwrotnikiem raka. Ofiary 25 maja 2006 roku będą rzędu dziesiątków milionów. Liczba zrujnowanych ocalonych będzie stale rosła. Straty ekonomiczne będą ogromne, wykraczające poza dotychczasową skalę zniszczeń, jakie dotychczas dotknęły ludzka cywilizację. Północna Ameryka i Europa nie będą bezpieczne, lecz będą w mniejszym stopniu dotknięte rozmiarami dramatu. Zasięg obejmie inne odległe kraje.</p>
 <p>Obiekt niebieski (kosmiczny) ledwie większy niż ciężarówka, lecz napędzany przez ogromną energię kinetyczną (jego prędkość będzie bliska 40 km/sek) uderzy w Ziemię po przejściu przez atmosferę grubości 80 kilometrów, a następnie głębię oceanu na 1500 metrach w miejscu, aby osiągnąć i wstrząsnąć strefą grzbietu środkowo-atlantyckiego rowu przecinającego z północy na południe powierzchnię Atlantyku. Ogólnie rzecz biorąc, dziesiątki wulkanów będących w uśpieniu, zaczną wyrzucać bardzo duże ilości magmy powstającej w olbrzymich komorach. Będą wybuchać podgrzewając wodę do stanu wrzenia. To wizja, jaką miałem mniej więcej 3 lata temu. Powtórzyła się ona 7 kwietnia 2006 roku o godzinie 22.00, podczas medytacji na wybrzeżu Pacyfiku przy udziale jeszcze dwóch osób. Otrzymałem wówczas informacje uzupełniające te wizję - pojawiła się data 25 Maja 2006 roku!</p>
 <p>Rozmiar tego obiektu kosmicznego będzie zbyt mały dla naszych teleskopów, ponieważ będzie to mały, opóźniony fragment komety. Naukowcy będą zaskoczeni przez ten obiekt, zobaczą go w zbyt krótkim czasie, zbyt późno, zaledwie kilkadziesiąt godzin przed uderzeniem. Ten fragment prawdopodobnie pochodzi z komety 73P Schwassmann-Wachmann 3, która minie Ziemię w bardzo bliskiej odległości dnia 14 maja 2006, trochę więcej niż milion kilometrów według symulacji wykonanej przez NASA. To 25-krotna odległość Ziemi od Księżyca.</p>
@@ -76,62 +112,145 @@
 <p><strong>To nie jest koniec świata! zapewniam was, ale jest to katastrofa na skalę globalną a my musimy zminimalizować efekt i ocalić tych którzy są w zagrożeniu</strong>.</p>
 <p>Astronomowie są poinformowani o istnieniu pewnej liczby fragmentów komety ale technicznie nie są w stanie policzyć ich wszystkich. Ogromna ich liczba może drastycznie zbombardować Ziemię i nikt nie będzie przypuszczał najgorszego na pare dni lub godzin przed uderzeniem. To jest naukowy fakt. Niektórzy będą was przekonywać o nikłym prawdopodobieństwie wystąpienia kataklizmu jednak tak naprawdę szanse na uderzenie są równe szansom na to, że do niego nie dojdzie. Podobnie jak było z katastrofą dwóch promów kosmicznych - za to winę ponosi NASA która obecnie deklaruje, że fragmenty komety nie stanowią zagrożenia. Astronomowie pamiętają asteroidę 2002 MN o wielkości 100 metrów którą wykryto dopiero po tym jak minęła Ziemię w odległości 120 tysięcy km. Podobnie było z obiektem 2004 FH o średnicy 30 metrów zlokalizowanym zaledwie trzy dni przed tym zanim minął on naszą planetę w odległości ledwie 43 tysięcy km. To są fakty. Dodatkowo nikt z nas na tej planecie nie wie dlaczego kometa SW-3 rozpadła się w 1995 roku, dlatego ja ciągle będę tu przywoływał opisywane wcześniej zbożowe piktogramy jako znak tego co nas czeka [...]</p>
 <p>Nawet gdy bezpośrednio Ziemia nie otrzyma uderzenia fragmentem komety to kiedy przelatywać ona będzie po własnej ścieżce, Ziemia znajdzie się w zasięgu jej warkocza (ta sama płaszczyzna ekliptyki!) i zostaniemy zbombardowani odłamkami (meteor shower). Moje prywatne badania pozwoliły ocenić ilość tych odłamków na 64 tysiące! (być może analogią możę być zbożowy piktogram z kręgiem asteroid do okoła, których jest 65... być może wcale nie 65... a 65 tysięcy). Znajdziemy się po prostu w zasięgu czegoś na kształ chmury meteorów. [...] NASA została poinformowana aby nie upubliczniać żadnych danych mogących wywołać panikę światową. Na stronie NASA można znaleźć tabelę z obiektami potencjalnie zagrażającymi Ziemi. Ostatni obiekt w tabeli, która od paru dni nie jest aktualizowana, oznaczony jest jako 3-BD mający przelecieć w odległości 0,04 LD (czyli odległości od Ziemi do Księżyca 384000 km x 0,04). Ten fragment wydaje się przelecieć znacznie bliżej niż pozostałe co wyróżnia go na tle całej tabeli (warto dodać, że na całym świecie dyskutuje się najczęściej o tym fragmencie).</p>
-<p><strong>[ 73P/Schwassmann-Wachmann 3-BD ] [ 2006-May-11 21:53 ] [ ± 11:11 ] [ 33.7/0.0867 ] [ 0.04/0.00010 ]</strong></p>
+<p class="rozdzial" id="r-2"><strong>[ 73P/Schwassmann-Wachmann 3-BD ] [ 2006-May-11 21:53 ] [ ± 11:11 ] [ 33.7/0.0867 ] [ 0.04/0.00010 ]</strong></p>
 <p>Dwa detale wyróżniają ten wpis. Pojawił się on na pierwszym miejscu listy spośród 70 już zanotowanych obiektów. Dodatkowo opisano go, że minie Ziemię 11 maja (11) o godzinie 21:52 (2+1+5+3=11) w przybliżeniu +/- 11 godzin i 11 minut! Czy nie jest to ukryty sygnał - ostrzeżenie od osoby, która publikuje te dane mówiący &quot;TA TABELA JEST FAŁSZYWA!&quot;? Miejcie na uwadze że w pierwszych minutach po publikacji tych danych podano że obiekt SW-3BD przeleci w odległości 0.0 a więc UDERZY w planetę, potem dopisano 4 setne i aktualnie mamy w tabeli 0.04LD.</p>
 <hr>
 <p>Asteroid &quot;2006 GY-2&quot; uważa się za fragment komety Schwassmann-Wachmann 3 o wielkości od około 500 do 1000 metrów (choć raczej nim nie jest, bo ma zupełnie inną orbitę). Leci z prędkością 20000 km/sek. Jak dobrze rozumiem, to asteroid GY-2 minął nas 5 maja, 11 maja przeleci fragment SW-3BD, a 25 maja wejdziemy w chmurę meteorów z ogona komety SW-3. Mamy bardzo ciekawy miesiąc...</p>
 <p><strong>Przypatrzmy się komecie</strong> (12 maja 2006 r.)<br>tabela: Jakub - FPP Kod Czasu</p>
 <p>Niestrudzony i skuteczny tropiciel śladów, Jakub z &quot;FPP Kod Czasu&quot;, znalazł tabelę podaną przez NASA, a dotyczącą parametrów przelotu komety 73P Schwassmann-Wachmann 3 w pobliżu Ziemi w miesiącu maju 2006 r. Poniżej podaję tabelę. Jeśli przeraża ilość cyfr, można ją pominąć, choć zaręczam, że spokojne jej przestudiowanie prowadzi do ciekawych wniosków. Już Jakub w swoim poście zauważył, że brak jest danych dotyczących dwóch fragmentów - <strong>SW-3-D</strong> i <strong>SW-3-S</strong>, a ponadto tabela urywa się na dniu 17 maja. Dlaczego? Czy to koniec &quot;defilady&quot; czy NASA chce coś ukryć? Tabela zawiera dane dotyczące 55 fragmentów komety, a w oficjalnych komunikatach ilość ich określa się na ponad 60. Czy te kilka lub kilkanaście fragmentów jest nieobserwowanych, zostało &quot;zgubionych&quot; czy też obliczenia wskazują na coś, co NASA boi się ujawnić? A może ma zakaz publikacji?</p>
 <p>Skąd taka tolerancja czasu (błąd czasowy ±, d-dni, g-godzin, m-minut) od sekund do całych dni? Czy obliczenia prowadzi człowiek czy komputer? Czy faktycznie dane są określane dla tego samego fragmentu czy też się je &quot;gubi&quot;? Czy NASA prowadzi ciągłą obserwację komety czy też składa wyniki z wyrywkowej obserwacji? Jak odróżnia się poszczególne fragmenty, by mieć pewność, że dane dotyczą tego samego obiektu? Wydaje się, że gdyby nie cała masa astronomów-amatorów, to NASA wogóle nic by nie &quot;widziała&quot;. Taka jest prawda - instytucja powołana do ochrony ziemskiego życia przed śmiercią z Kosmosu opiera się głównie na entuzjastach spoza jej grona. Za co więc im się płaci? Oczywiście za kosztowne &quot;bzdety&quot;. Za piękne zdjęcia Saturna, za poszukiwanie wody na Tytanie czy za jałowe dysputy &quot;czy na Marsie było życie?&quot;. Robią wszystko oprócz rzeczy najważniejszej - ostrzegania mieszkańców Ziemi przed zagrożeniem z Kosmosu.</p>
-<p><strong>Oznaczenie fragmentu</strong></p>
-<p><strong>Dzień Maja</strong></p>
-<p><strong>Godzina</strong></p>
-<p><strong>Błąd czasowy</strong> (±)</p>
-<p><strong>Odległość od Ziemi</strong> (km)</p>
-<p><strong>Prędkość lotu</strong> (km/s)</p>
-<p>SW-3-AT<br>SW-3-AS<br>SW-3-AV<br>SW-3-BA<br>SW-3-AZ<br>SW-3 (matka)<br>SW-3-BD<br>SW-3-BC<br>SW-3-AP</p>
-<p><strong>11</strong></p>
-<p>03:24<br>07:51<br>13:38<br>13:49<br>16:29<br>21:12<br>21:53<br>22:22<br>22:41</p>
-<p>1m<br>‹ 1m<br>21m<br>12m<br>14m<br>1m<br>11g11m<br>‹ 1m<br>‹ 1m</p>
-<p>13 017 600<br>13 017 600<br>12 633 600<br>12 556 800<br>12 288 000<br>12 326 400<br>12 940 800<br>12 211 200<br>12 326 400</p>
-<p>15 200<br>15 380<br>15 220<br>15 020<br>14 880<br>15 150<br>14 790<br>15 070<br>15 260</p>
-<p>SW-3-BE<br>SW-3-AR<br>SW-3-AF<br>SW-3-C  <br>SW-3-V  <br>SW-3-BF<br>SW-3-BB</p>
-<p><strong>12</strong></p>
-<p>05:46<br>05:55<br>09:29<br>10:22<br>11:08<br>13:00<br>22:11</p>
-<p>10m<br>14m<br>4g11m<br>‹ 1m<br>1d16g25m<br>1m<br>2g14m</p>
-<p>11 750 400<br>11 980 800<br>11 712 000<br>11 750 400<br>7 872 000<br>11 520 000<br>11 520 000</p>
-<p>14 900<br>15 110<br>14 760<br>15 040<br>15 110<br>14 880<br>14 710</p>
-<p>SW-3-AM  </p>
-<p><strong>13</strong></p>
-<p>16:15  </p>
-<p>15g10m  </p>
-<p>9 100 800  </p>
-<p>14 830  </p>
-<p>SW-3-AW<br>SW-3-Q  <br>SW-3-P  <br>SW-3-B  <br>SW-3-AQ<br>SW-3-AO<br>SW-3-G  <br>SW-3-AU<br>SW-3-J  <br>SW-3-R  <br>SW-3-BN<br>SW-3-K  <br>SW-3-M  <br>SW-3-BO<br>SW-3-N  <br>SW-3-H  </p>
-<p><strong>14</strong></p>
-<p>00:16<br>00:28<br>04:54<br>06:41<br>06:43<br>09:21<br>15:03<br>15:13<br>15:58<br>19:20<br>19:54<br>20:54<br>22:28<br>23:13<br>23:27<br>23:55</p>
-<p>15m<br>2g08m<br>7m<br>‹ 1m<br>‹ 1m<br>2g52m<br>‹ 1m<br>3m<br>22m<br>‹ 1m<br>1m<br>5m<br>2m<br>3m<br>‹ 1m<br>‹ 1m</p>
-<p>10 060 800<br>10 444 800<br>10 099 200<br>9 984 000<br>9 945 600<br>10 176 000<br>9 715 200<br>9 715 200<br>9 600 000<br>9 561 600<br>9 408 000<br>9 484 800<br>9 408 000<br>9 408 000<br>9 408 000<br>9 408 000</p>
-<p>14 460<br>14 810<br>14 730<br>14 690<br>14 590<br>14 640<br>14 620<br>14 610<br>14 590<br>14 600<br>14 410<br>14 580<br>14 550<br>14 540<br>14 540<br>14 560</p>
-<p>SW-3-BQ<br>SW-3-BP<br>SW-3-AK<br>SW-3-AN<br>SW-3-L  <br>SW-3-AE<br>SW-3-AL<br>SW-3-Z  <br>SW-3-W <br>SW-3-AI<br>SW-3-X  <br>SW-3-BH<br>SW-3-BI<br>SW-3-BJ<br>SW-3-AB<br>SW-3-AC<br>SW-3-BG<br>SW-3-AY<br>SW-3-AD</p>
-<p><strong>15</strong></p>
-<p>00:10<br>00:37<br>01:36<br>01:44<br>02:44<br>03:46<br>08:17<br>09:45<br>11:18<br>11:38<br>13:39<br>13:43<br>16:28<br>18:27<br>19:46<br>19:51<br>20:55<br>22:34<br>23:40</p>
-<p>2m<br>‹ 1m<br>23g29m<br>3m<br>‹ 1m<br>18m<br>2g28m<br>7g50m<br>24m<br>1d01g37m<br>3m<br>3g31m<br>4m<br>44m<br>‹ 1m<br>1m<br>1g59m<br>1g04m<br>1d07g05m</p>
-<p>9 369 600<br>9 254 400<br>8 985 600<br>9 331 200<br>9 331 200<br>9 331 200<br>9 216 000<br>9 484 800<br>9 100 800<br>8 601 600<br>8 947 200<br>8 793 600<br>8 716 800<br>8 755 200<br>8 716 800<br>8 793 600<br>8 563 200<br>8 448 000<br>8 832 000</p>
-<p>14 540<br>14 370<br>14 540<br>14 570<br>14 560<br>14 580<br>14 600<br>14 470<br>14 540<br>14 490<br>14 470<br>14 280<br>14 260<br>14 390<br>14 380<br>14 450<br>14 270<br>14 100<br>14 380</p>
-<p>SW-3-AH<br>SW-3-BK<br>SW-3-BL<br>SW-3-Y  <br>SW-3-T  <br>SW-3-BM<br>SW-3-AJ<br>SW-3-U  <br>SW-3-AA<br>SW-3-AG</p>
-<p><strong>16</strong></p>
-<p>04:25<br>05:17<br>05:52<br>06:39<br>07:15<br>07:42<br>10:07<br>11:04<br>12:03<br>12:34</p>
-<p>16g<br>4g16m<br>4g57m<br>1g09m<br>49m<br>5g26m<br>1g06m<br>1g21m<br>27m<br>5m</p>
-<p>9 024 000<br>8 371 200<br>8 486 400<br>9 024 000<br>8 832 000<br>8 256 000<br>10 176 000<br>8 256 000<br>8 025 600<br>8 294 400</p>
-<p>14 330<br>14 170<br>14 390<br>14 740<br>14 630<br>14 150<br>15 980<br>14 250<br>14 100<br>14 340</p>
-<p>SW-3-AX<br>SW-3-E  </p>
-<p><strong>17</strong></p>
-<p>08:24<br>16:04</p>
-<p>8g01m<br>1m</p>
-<p>7 488 000<br>7 526 400</p>
-<p>14 170<br>14 130</p>
-<p><strong>???</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Oznaczenie fragmentu</strong></th>
+<th>🟦 <strong>Dzień Maja</strong></th>
+<th>🟦 <strong>Godzina</strong></th>
+<th>🟦 <strong>Błąd czasowy</strong> (±)</th>
+<th>🟦 <strong>Odległość od Ziemi</strong> (km)</th>
+<th>🟦 <strong>Prędkość lotu</strong> (km/s)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>SW-3-AT<br>SW-3-AS<br>SW-3-AV<br>SW-3-BA<br>SW-3-AZ<br>SW-3 (matka)<br>SW-3-BD<br>SW-3-BC<br>SW-3-AP</td>
+<td><strong>11</strong></td>
+<td>03:24<br>07:51<br>13:38<br>13:49<br>16:29<br>21:12<br>21:53<br>22:22<br>22:41</td>
+<td>1m<br>‹ 1m<br>21m<br>12m<br>14m<br>1m<br>11g11m<br>‹ 1m<br>‹ 1m</td>
+<td>13 017 600<br>13 017 600<br>12 633 600<br>12 556 800<br>12 288 000<br>12 326 400<br>12 940 800<br>12 211 200<br>12 326 400</td>
+<td>15 200<br>15 380<br>15 220<br>15 020<br>14 880<br>15 150<br>14 790<br>15 070<br>15 260</td>
+</tr>
+<tr>
+<td>🟦</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SW-3-BE<br>SW-3-AR<br>SW-3-AF<br>SW-3-C  <br>SW-3-V  <br>SW-3-BF<br>SW-3-BB</td>
+<td><strong>12</strong></td>
+<td>05:46<br>05:55<br>09:29<br>10:22<br>11:08<br>13:00<br>22:11</td>
+<td>10m<br>14m<br>4g11m<br>‹ 1m<br>1d16g25m<br>1m<br>2g14m</td>
+<td>11 750 400<br>11 980 800<br>11 712 000<br>11 750 400<br>7 872 000<br>11 520 000<br>11 520 000</td>
+<td>14 900<br>15 110<br>14 760<br>15 040<br>15 110<br>14 880<br>14 710</td>
+</tr>
+<tr>
+<td>🟦</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SW-3-AM</td>
+<td><strong>13</strong></td>
+<td>16:15</td>
+<td>15g10m</td>
+<td>9 100 800</td>
+<td>14 830</td>
+</tr>
+<tr>
+<td>🟦</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SW-3-AW<br>SW-3-Q  <br>SW-3-P  <br>SW-3-B  <br>SW-3-AQ<br>SW-3-AO<br>SW-3-G  <br>SW-3-AU<br>SW-3-J  <br>SW-3-R  <br>SW-3-BN<br>SW-3-K  <br>SW-3-M  <br>SW-3-BO<br>SW-3-N  <br>SW-3-H</td>
+<td><strong>14</strong></td>
+<td>00:16<br>00:28<br>04:54<br>06:41<br>06:43<br>09:21<br>15:03<br>15:13<br>15:58<br>19:20<br>19:54<br>20:54<br>22:28<br>23:13<br>23:27<br>23:55</td>
+<td>15m<br>2g08m<br>7m<br>‹ 1m<br>‹ 1m<br>2g52m<br>‹ 1m<br>3m<br>22m<br>‹ 1m<br>1m<br>5m<br>2m<br>3m<br>‹ 1m<br>‹ 1m</td>
+<td>10 060 800<br>10 444 800<br>10 099 200<br>9 984 000<br>9 945 600<br>10 176 000<br>9 715 200<br>9 715 200<br>9 600 000<br>9 561 600<br>9 408 000<br>9 484 800<br>9 408 000<br>9 408 000<br>9 408 000<br>9 408 000</td>
+<td>14 460<br>14 810<br>14 730<br>14 690<br>14 590<br>14 640<br>14 620<br>14 610<br>14 590<br>14 600<br>14 410<br>14 580<br>14 550<br>14 540<br>14 540<br>14 560</td>
+</tr>
+<tr>
+<td>🟦</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SW-3-BQ<br>SW-3-BP<br>SW-3-AK<br>SW-3-AN<br>SW-3-L  <br>SW-3-AE<br>SW-3-AL<br>SW-3-Z  <br>SW-3-W <br>SW-3-AI<br>SW-3-X  <br>SW-3-BH<br>SW-3-BI<br>SW-3-BJ<br>SW-3-AB<br>SW-3-AC<br>SW-3-BG<br>SW-3-AY<br>SW-3-AD</td>
+<td><strong>15</strong></td>
+<td>00:10<br>00:37<br>01:36<br>01:44<br>02:44<br>03:46<br>08:17<br>09:45<br>11:18<br>11:38<br>13:39<br>13:43<br>16:28<br>18:27<br>19:46<br>19:51<br>20:55<br>22:34<br>23:40</td>
+<td>2m<br>‹ 1m<br>23g29m<br>3m<br>‹ 1m<br>18m<br>2g28m<br>7g50m<br>24m<br>1d01g37m<br>3m<br>3g31m<br>4m<br>44m<br>‹ 1m<br>1m<br>1g59m<br>1g04m<br>1d07g05m</td>
+<td>9 369 600<br>9 254 400<br>8 985 600<br>9 331 200<br>9 331 200<br>9 331 200<br>9 216 000<br>9 484 800<br>9 100 800<br>8 601 600<br>8 947 200<br>8 793 600<br>8 716 800<br>8 755 200<br>8 716 800<br>8 793 600<br>8 563 200<br>8 448 000<br>8 832 000</td>
+<td>14 540<br>14 370<br>14 540<br>14 570<br>14 560<br>14 580<br>14 600<br>14 470<br>14 540<br>14 490<br>14 470<br>14 280<br>14 260<br>14 390<br>14 380<br>14 450<br>14 270<br>14 100<br>14 380</td>
+</tr>
+<tr>
+<td>🟦</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SW-3-AH<br>SW-3-BK<br>SW-3-BL<br>SW-3-Y  <br>SW-3-T  <br>SW-3-BM<br>SW-3-AJ<br>SW-3-U  <br>SW-3-AA<br>SW-3-AG</td>
+<td><strong>16</strong></td>
+<td>04:25<br>05:17<br>05:52<br>06:39<br>07:15<br>07:42<br>10:07<br>11:04<br>12:03<br>12:34</td>
+<td>16g<br>4g16m<br>4g57m<br>1g09m<br>49m<br>5g26m<br>1g06m<br>1g21m<br>27m<br>5m</td>
+<td>9 024 000<br>8 371 200<br>8 486 400<br>9 024 000<br>8 832 000<br>8 256 000<br>10 176 000<br>8 256 000<br>8 025 600<br>8 294 400</td>
+<td>14 330<br>14 170<br>14 390<br>14 740<br>14 630<br>14 150<br>15 980<br>14 250<br>14 100<br>14 340</td>
+</tr>
+<tr>
+<td>🟦</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SW-3-AX<br>SW-3-E</td>
+<td><strong>17</strong></td>
+<td>08:24<br>16:04</td>
+<td>8g01m<br>1m</td>
+<td>7 488 000<br>7 526 400</td>
+<td>14 170<br>14 130</td>
+</tr>
+<tr>
+<td>🟦</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>???</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table></div>
 <p>Astronomowie do dziś nie wiedzą dlaczego kometa uległa rozpadowi. Wini się za to bądź siły grawitacyjne Słońca i planet albo wzrost ciśnienia wewnątrz komety lub zderzenie z innym obiektem. W pierwszym przypadku kometa musiałaby przejść poniżej granicy Roche&#39;a któregoś z obiektów, a która wynosi około 2,5 promienia obiektu (dla Ziemi - około 16 tysięcy km, dla Jowisza - 179 tysięcy km, a dla Słońca - 1,7 mln km). Płaszczyzna orbity SW-3 jest nachylona pod kątem ok. 11° do płaszczyzny orbit układu słonecznego, a jej orbita nie przechodzi w pobliżu Słońca, więc pierwszy przypadek możnaby wykluczyć. Pierwszy rozpad komety rozpoczął się w odległości ponad 200 mln km od Ziemi, a komety zwykle zaczynają uwalniać wodę (wtedy to zwiększa się ciśnienie wewnątrz) po przekroczeniu odległości pasa planetoid od Słońca lecąc w jego kierunku. Trzeci wariant - zderzenie. Jeśli tak, to czemu fragmenty nie rozprysły się w różnych kierunkach, a tworzą &quot;łańcuszek&quot;? A jeśli wykluczymy te trzy możliwości?... Zostaje tylko coś lub ktoś.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/25maja2006/lancuch.gif" alt="Trzy ciemne zdjęcia podczerwone w pomarańczowej palecie, na każdym jasne głowy z warkoczami; pasek fragmentów rozpadającej się komety." title="Opis AI: Trzy ciemne zdjęcia podczerwone w pomarańczowej palecie, na każdym jasne głowy z warkoczami; pasek fragmentów rozpadającej się komety." loading="lazy" decoding="async"></p>
 <p>Porównajmy teraz prędkości fragmentów komety. Skąd się biorą takie różnice? SW-3-AY - 14100 km/sek, a SW-3-AJ - 15980 km/sek. Gdyby przeanalizować ten wyścig, to zawodnik SW-3-AJ już w pierwszej sekundzie wyprzedzi swego przeciwnika o 1880 km, w ciągu doby różnica urośnie do 162,4 mln km, a po miesiącu wyniesie już 4,8 mld km (odległość Plutona od Słońca wynosi &quot;tylko&quot; 5,9 mld km). Przecież &quot;łańcuszek&quot; SW-3 nie rozciąga się na takiej odległości, a mówimy tylko o miesiącu lotu.</p>
@@ -142,42 +261,64 @@
 <p>post: Jakub, FPP Kod Czasu, 14 maja 2006 r. - Asteroid GY-3 minie nas dopiero w dniu 16 maja 2006 r. w odległości około 2,5 mln km. Na zachodzie zaczyna brakować tzw. &quot;emergency food&quot;, czyli paczkowanej żywności na wypadek kataklizmu, wojny, a w spokojnych czasach dla turystów (coś w rodzaju naszej żołnierskiej &quot;żelaznej racji&quot;). Panika, zapobiegliwość, zbiorowa psychoza? Czy ludzie coś przeczuwają, działa swoista &quot;poczta pantoflowa&quot;, czy po prostu bardziej wierzą Julien&#39;owi niż swoim oficjalnym instytucjom?</p>
 <p><a href="http://www.astrohobby.pl/modules.php?name=News&amp;file=article&amp;sid=430" rel="noopener" target="_blank"><strong>Zdaniem fachowców:</strong></a></p>
 <p><strong>A co tak naprawdę stanie się około 25.V?</strong> Nic specjalnego, oprócz tego że pod koniec maja fragmenty komety przetną płaszczyznę ekliptyki - tym samym ich szerokość ekliptyczna ß, zmieni się z dodatniej na ujemną... Oczywiście należy pamiętać, że skoro przecinają płaszczyznę ekliptyki, to nie oznacza, że tym samym przecinają orbitę Ziemi! Orbity fragmentów komety w pobliżu peryhelium znajdują się już wewnątrz orbity Ziemi (podobnie jak orbity Merkurego i Wenus, które też co jakiś czas przecinają ekliptykę!). Ponieważ orbity fragmentów komety nachylone są o kąt ok. 11°, to także z tego względu nie mogą one zbyt blisko przeciąć ziemskiej orbity... A oto daty przejścia przez węzeł zstępujący niektórych fragmentów 73P/, czyli inaczej mówiąc: przejścia ich &quot;z nad&quot; do &quot;pod&quot; płaszczyzny ekliptyki:</p>
-<p>fragment V</p>
-<p>22.V</p>
-<p>o godzinie</p>
-<p>3:30 UT</p>
-<p>fragment U</p>
-<p>23.V</p>
-<p>o godzinie</p>
-<p>6:40 UT</p>
-<p>fragment AT</p>
-<p>23.V</p>
-<p>o godzinie</p>
-<p>17:00 UT</p>
-<p>fragment T</p>
-<p>24.V</p>
-<p>o godzinie</p>
-<p>5:30 UT</p>
-<p>fragment C</p>
-<p>24.V</p>
-<p>o godzinie</p>
-<p>10:00 UT</p>
-<p>fragment B</p>
-<p>25.V</p>
-<p>o godzinie</p>
-<p>9:00 UT</p>
-<p>fragment G</p>
-<p>25.V</p>
-<p>o godzinie</p>
-<p>13:20 UT</p>
-<p>fragment AA</p>
-<p>26.V</p>
-<p>o godzinie</p>
-<p>14:20 UT</p>
-<p>fragment S</p>
-<p>6.VI</p>
-<p>o godzinie</p>
-<p>9:30 UT</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>fragment V</th>
+<th>22.V</th>
+<th>o godzinie</th>
+<th>3:30 UT</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>fragment U</td>
+<td>23.V</td>
+<td>o godzinie</td>
+<td>6:40 UT</td>
+</tr>
+<tr>
+<td>fragment AT</td>
+<td>23.V</td>
+<td>o godzinie</td>
+<td>17:00 UT</td>
+</tr>
+<tr>
+<td>fragment T</td>
+<td>24.V</td>
+<td>o godzinie</td>
+<td>5:30 UT</td>
+</tr>
+<tr>
+<td>fragment C</td>
+<td>24.V</td>
+<td>o godzinie</td>
+<td>10:00 UT</td>
+</tr>
+<tr>
+<td>fragment B</td>
+<td>25.V</td>
+<td>o godzinie</td>
+<td>9:00 UT</td>
+</tr>
+<tr>
+<td>fragment G</td>
+<td>25.V</td>
+<td>o godzinie</td>
+<td>13:20 UT</td>
+</tr>
+<tr>
+<td>fragment AA</td>
+<td>26.V</td>
+<td>o godzinie</td>
+<td>14:20 UT</td>
+</tr>
+<tr>
+<td>fragment S</td>
+<td>6.VI</td>
+<td>o godzinie</td>
+<td>9:30 UT</td>
+</tr>
+</tbody></table></div>
 <p>A co z tymi fragmentami, które nie są jeszcze znane nauce lub jeszcze się nie oderwały od znanych fragmentów? Czy stanowią dla nas zagrożenie?! Nim zaczniemy się obawiać &quot;kosmicznego intruza&quot;, to warto poznać go bliżej, a wtedy okazuje się, że &quot;nie taki diabeł straszny...&quot;. Komety są zwykle dużo mniej gęste od planetoid (meteorytów), gdyż składają się z luźnych okruchów &quot;zlepionych&quot; lodem (niekoniecznie wodnym). Struktura komet jest poza tym bardzo porowata, pełna wolnych przestrzeni. Postępujący wciąż rozpad 73P/Schwassmann-Wachmann 3 wyraźnie o tym świadczy - niegdysiejsze jądro rozpadło się podczas jednego z ostatnich powrotów na wiele mniejszych lub większych fragmentów, które to obecnie rozsypują się w &quot;pył&quot;... Chociaż prócz kilkudziesięciu znanych fragmentów, są z pewnością mniejsze, których nie odkryto, to są one zbyt małe by mogły wyrządzić szkodę - przy wejściu w atmosferę ulegną prędzej rozproszeniu już w górnych warstwach atmosfery, nie stanowiąc dla nas zagrożenia...</p>
 <p>Natomiast orbity największych fragmentów - które mogłyby być rzeczywiście dla nas groźne - są znane bardzo dobrze i wiadomo o nich że nie są w stanie obecnie dotrzeć zbyt blisko Ziemi... Kolejny raz zbliżą się stosunkowo blisko dopiero za 16 lat, czyli w trakcie trzeciego obiegu - co oznacza, że w ciągu tak długiego czasu mogą się one rozpaść do reszty! Zamiast więc obawiania się &quot;kosmicznej katastrofy&quot;, proponuję Państwu spróbować obserwować tego niezwykłego gościa na niebie, póki jeszcze istnieje...</p>
 <p><strong>18 maja 2006</strong><br>post: Jakub - FPP Kod Czasu</p>
@@ -194,14 +335,14 @@
 <p>W Australii zaobserwowano upadek meteorytu na kontynent oraz prawdopodobnie też upadek meteorytu do oceanu (ogłoszono alarm przed tsunami, który wkrótce odwołano). Obserwuje się też stały wzrost ilości meteorytów. Rejestruje się już nie pojedyncze, a po kilka ognistych kul w atmosferze.</p>
 <hr>
 <p>Polskie i poza australijskie media milczą.</p>
-<p><strong>22 maja 2006</strong></p>
+<p class="rozdzial" id="r-3"><strong>22 maja 2006</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/25maja2006/meteo.jpg" alt="Granatowa mapa nieba z gwiazdozbiorami, kometą SW-3 i radiantem roju meteorów w Warkoczu Bereniki; na dole zarys horyzontu i napis z datą. Napis: SW-3, Korona Północna, Warkocz Bereniki, Herkules, Wolarz, Arktur, Denebola, Lew, Panna, Spica, JOWISZ, z tego punktu będą wylatywać meteoryty, 22 maja 2006 r. godz. 22:00" title="Opis AI: Granatowa mapa nieba z gwiazdozbiorami, kometą SW-3 i radiantem roju meteorów w Warkoczu Bereniki; na dole zarys horyzontu i napis z datą. Napis: SW-3, Korona Północna, Warkocz Bereniki, Herkules, Wolarz, Arktur, Denebola, Lew, Panna, Spica, JOWISZ, z tego punktu będą wylatywać meteoryty, 22 maja 2006 r. godz. 22:00" loading="lazy" decoding="async"></p>
 <p>Dzisiaj 22 maja możemy obserwować deszcz meteorów, o ile pozwoli na to bezchmurne niebo. (R - radiant, punkt z którego będą &quot;wylatywać&quot;)</p>
 <p><strong>post: Jakub - FPP Kod Czasu</strong> (tłumaczenie tekstu z amerykańskiego forum)</p>
 <p>Przez zeszłe kilka miesięcy było wiele dostaw towaru do naszego lokalnego Wal-Mart (market) tutaj gdzie mieszkam w Missiouri. Jestem menadżerem zaopatrzenia i muszę powiedzieć, że ciężarowki nie przewożą kontenerów Wal-Mart&#39;a. Powiedziano nam, żebyśmy nie rozpakowywali palet (które wygladają nieco jak wojskowe zaopatrzenie), takie same jak te z wojny w zatoce perskiej, gdzie byłem logistykiem i zaopatrzeniowcem. Nasz magazyn jest teraz pełny. Kilku z nas rozpakowało zawartość (ryzykując złapanie), i znalezliśmy paczki z żywnością długoterminową (emergency food). Zarząd firmy, zachowuje się ostatnio bardzo dziwnie, ciągle się spieszą i ciągle mają jakieś ważne spotkania. Wiem, ze mamy podpisany duży kontrakt z FEMA i nasz Wal-Mart to jedyny market w promieniu 50 mil od centrów mieszkaniowych.<br>Uznajcie tą wiadomość jak chcecie, to może nic nie znaczyć, jednak nigdy nie widzialem zaopatrzenia takiego jak obecnie, choc jestem tu zatrudniony od 5 lat. Ludzie w Stanach robią zaopatrzenie głównie: mąka, makaron, miód i masło orzechowe (duża wartość odżywcza), mleko w proszku, soki owocowe w proszku, fasola w puszkach, sól (dla smaku, do przechowywania potraw - pozwala na zachowanie swieżości), konserwy mięsne w puszkach, warzywa w puszkach (ważne ze względu na witaminy), multiwitaminy centrum (jedna tabletka dziennie), woda w butlach (popularna w kartonach 5 l, 5 lat przydatności).</p>
 <p>W dalszym ciągu Ziemia jest bombardowana z kosmosu, od wczoraj notuje się po kilka kul ognia naraz. Jak dotąd za wyjątkiem jednego przypadku z Australii nie ma potwierdzonych przypadków dotarcia do ziemi owych kawałków SW-3. Co dzieje się na bieżąco w atmosferze można śledzić pod <a href="http://www.flickr.com/photos/radiofireballs/show/" rel="noopener" target="_blank">linkiem</a>.</p>
 <p><strong><a href="http://biznes.interia.pl/news?inf=751338" rel="noopener" target="_blank">interia.pl 22.06.2006 17:42</a></strong> Globalna panika jaka dotknęła w poniedziałek wszystkie emerging markets sprowadziła wszystkie indeksy warszawskiej giełdy na pokaźnych rozmiarów minusy. [...] Pewne zaskoczenie może budzić fakt, że fali panicznej wyprzedaży na giełdowym parkiecie towarzyszyła bardzo spokojna postawa polskiej waluty oraz stabilne notowania surowców na światowych rynkach. Polski rynek kolejny raz przypomniał jednak że jest częścią globalnego rynku finansowego i nie ma możliwości oprzeć się w dłuższym czasie ogólnoświatowym trendom.</p>
-<p><strong>23 maja 2006</strong></p>
+<p class="rozdzial" id="r-4"><strong>23 maja 2006</strong></p>
 <p>Wczoraj od 22:00 do 23:00 oczekiwałem deszczu meteorów i nic..., nawet ziarnko piasku nie rozjarzyło nieba. Wysłuchałem tylko śpiewu słowików i doznałem niezapomnianych wrażeń węchowych z doskonale umieszczonego i zabezpieczonego (według braniewskich rajców) miejskiego wysypiska śmieci, a dzisiaj z oficjalnych informacji (onet.pl - nauka) można się dowiedzieć, że:</p>
 <p>Naukowcy amerykańscy obliczyli, że 13 kwietnia 2036 roku może dojść do zderzenia Ziemi z asteroidą o nazwie Apophis, której siła będzie wystarczająca do całkowitego zniszczenia małego państwa. Prawdopodobieństwo zderzenia wynosi obecnie 1 do 6250, czyli wystarczająco dużo, aby astronomowie uderzyli na alarm. Apophis jest obecnie najpoważniejszym zagrożeniem dla naszej planety, więc NASA wydaje miliony dolarów na monitoring tej i innych asteroid. Bezpośrednie uderzenie asteroidy wielkości Apophisa w rejony miejskie spowodowałoby większe zniszczenia niż huragan Katrina, azjatyckie tsunami z 2004 roku oraz słynne trzęsienie ziemi w San Francisco z 1906 roku razem wzięte.</p>
 <p>Naukowcy planują kolejne misje kosmiczne, które tak jak sonda Deep Impact, zbadają komety poprzez bliskie przeloty lub uderzenia pociskami - informują strony internetowe University od Maryland. W ciągu ostatnich pięciu lat trzy misje kosmiczne dostarczyły wielu ciekawych informacji o kometach niejako z pierwszej ręki. Były to Deep Impact, Deep Space 1 i Stardust.</p>
@@ -229,35 +370,35 @@
 <p>Ps. Może to być fałszywka, ale jeżeli nie i tekst ten okaże się autentykiem?</p>
 <hr>
 <p>Już Artur C. Clark chciał zmierzyć radarem odległość od Ziemi do Księżyca, ale mu nie wyszło. Po za tym jak pracownik jednego z najważniejszych ogniw w systemie obrony NATO może samowolnie decydować o rejonie obserwacji?</p>
-<p><strong>25 maja 2006</strong></p>
+<p class="rozdzial" id="r-5"><strong>25 maja 2006</strong></p>
 <p>Jest 11:27 i nic do tej pory się nie wydarzyło. Oby tak zostało.</p>
 <p><strong>post: Jakub - FPP Kod Czasu</strong>. Informacje te są na razie niczym nie potwierdzone, pochodzą z jednego z forów w USA. Oto tłumaczona treść jednego z postów: Jestem we wschodnim NC około 20 mil od wybrzeża. Byłem w drodze z pracy do domu i zobaczyłem coś jasnego jak słoń przecinające horyzont i lecące w stronę oceanu. Od momentu gdy to zobaczyłem minely jakieś 3 sekundy i zniknęło za horyzontem. Czy ktoś to widział? Była to najbardziej dziwna rzecz jaka kiedykolwiek widziałem! Cholernie fajna! Czy ktoś wie co to było? Czy spadają teraz meteory i czy mogą być tak jasne jak słońce? Również z Atlanty donoszą o dziwnych zjawiskach.</p>
 <hr>
 <p>Jeśli ktoś zna angielski to znajdzie wiadomość pod tym <a href="http://www.godlikeproductions.com/bbs/message.php?messageid=240222&amp;mpage=1&amp;showdate=5/25/06" rel="noopener" target="_blank">linkiem</a>.</p>
 <p>Jest 22:57. Minął dzień, jest spokojnie. Na razie nie wydarzyło się nic, co przewidywał Julien. Czy to dobrze czy źle? Sądzę, że i dobrze i źle. Dobrze, bo nie wydarzyła się tragedia o niewyobrażalnych skutkach nie tylko dla zwykłych ludzi ale i dla ludzkości. Dobrze, bo być może ludzkość uniknęła wojny (doskonała okazja do wyrównania rachunków lub do spełnienia &quot;snów o potędze&quot;). Dobrze, bo być może dotarła do niektórych polityków świadomość ludzkiej bezsilności. Źle, bo zostało już po raz kolejny nadszarpnięte zaufanie zarówno do czynników oficjalnych jak i do &quot;proroków&quot;. Źle, bo ludzkości należy się lekcja pokory przed siłami natury, ale tę lekcję przełożono na później.</p>
 <p>Sprawdziło się tylko jedno. Im bardziej niedoskonała nauka, tym szybciej w to miejsce wchodzą ludzie spoza nauki i nie zawsze o rzetelnych intencjach. Julien wcale nie przegrał, bo niejako przy okazji pokazał &quot;nędzę&quot; oficjalnej nauki, która nie potrafiła ani potwierdzić wiadomości ani im zaprzeczyć. Pokazał, że manipuluje się wiadomościami - od zmian danych po milczenie lub może nawet zakaz publikacji. Pokazał, że cele współczesnej nauki mijają się z celami zwykłych ludzi. Bądźmy jednak pewni, że dzisiejsza sytuacja nikogo i niczego nie nauczy. Julien zostanie zdeptany, a politycy i naukowcy nie zrobią nic, by poprawić istniejącą sytuację. I tak do następnego razu... Jeszcze jednak nie usypiajmy w samozadowoleniu. Ostatni wagon pociągu SW-3 minie nas dopiero 6 czerwca.</p>
-<p><strong>26 maja 2006</strong></p>
+<p class="rozdzial" id="r-6"><strong>26 maja 2006</strong></p>
 <p><strong>post: Jakub - FPP Kod Czasu</strong>. Dobrze poinformowane źródła zbliżone do CIA twierdzą, że w CIA uważa się iż należy odczekać 48 godzin, gdyż nadal istnieje duże prawdopodobieństwo trafienia odłamka komety w Atlantyk w poblizu Azorów.</p>
 <hr>
 <p>Być może obawy dotyczą fragmentu SW-3-AA, który ma minąć Ziemię 26 maja o godzinie 14:20 UT (czyli 16:20 czasu polskiego).</p>
 <p>Z zachodniego <a href="http://25mai2006.frbb.net/ftopic102.SAVE-LIVES-IN-MAY-ENGLISH-SECTION-FORUM.htmforum" rel="noopener" target="_blank">forum</a>: &quot;Społeczeństwo zostanie zaalarmowane o 6:00 pm. Pierwsze odtrzeżenie nada CNN. Następne bedą nadchodzić z Pentagonu. Rejony ewakuacji rozciągać się będą od Key West na Florydzie do Plymouth Rock w Massachusetts. Uderzenie trzech asteroidów nastąpi o 22:00. - Bob Neumann&quot;</p>
 <hr>
 <p>Jest to wiadomość z forum, a więc w żaden sposób nie poddająca się weryfikacji. Zachodnie fora zaczynają być samonakręcającą się maszyną i występuje swoista licytacja &quot;grozy&quot;. Podane czasy dotyczą USA i dopiero o północy naszego czasu mają zostać &quot;podane przez CNN&quot;, a asteroidy &quot;uderzą&quot; o 4:00 nad ranem naszego czasu. Jak sądzę (o ile nic się nie stanie) z takim stanem rzeczy będziemy mieli do czynienia aż do 6 czerwca. Najlepszym sprawdzianem będzie poranne sprawdzenie danych z trzęsień ziemi na stronie <a href="http://earthquake.usgs.gov/eqcenter/recenteqsww/" rel="noopener" target="_blank">USGS</a>. Takie uderzenia muszą zostać zarejestrowane przez sejsmografy na całym świecie. Idę więc spać.</p>
-<p><strong>27 maja 2006</strong></p>
+<p class="rozdzial" id="r-7"><strong>27 maja 2006</strong></p>
 <p>Nic nie walnęło, ale za to zatrzęsło wyspą Jawa i to z tragicznym skutkiem - ponad 1500 ofiar (na razie i to nie licząc zasypanych pod budynkami) w Yogyakarta. W pobliżu znajduje się, znów aktywny od niedawna, wulkan Merapi, u którego stwierdzono zapadające się zbocze. Na razie nie wiadomo, czy trzęsienie ziemi przyspieszy wybuch wulkanu czy też działaność wulkanu jest przyczyną trzęsienia. W każdym razie jest to śmiertelny coctail.<br>W sprawie komety amerykańskie fora jednak się nie poddają. Mówią teraz zachowujący anonimowość przedstawiciele NASA. Leci następny odłamek i choć już malutki, bo około 20 kg, za to z 3-krotną prędkością światła (savelivesinmay.com - 900000km/sek.) co daje niewyobrażalną energię. Może przewiercić Ziemię na wylot. <img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/usmiech.gif" alt="" loading="lazy" decoding="async"></p>
 <p>A jednak coś chyba spadło. W USA odnaleziono odłamek odłamka SW-3-d, który oznaczono wymownym symbolem <a href="25maja2006-sw3d.html">SW-3-D-2d</a>. <img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/usmiech.gif" alt="" loading="lazy" decoding="async"></p>
-<p><strong>28 maja 2006</strong></p>
+<p class="rozdzial" id="r-8"><strong>28 maja 2006</strong></p>
 <p>Eric Julien jeszcze się nie poddał. Jak pisze &quot;Ergorg&quot; z FPP Kod Czasu - &quot;EJ ostatnio napisał, że wszystkie przepowiednie miał w niedziele i uważa, że jest to ostatni dzień podczas którego coś się może zdarzyć&quot;. Natomiast Jakub (FPP KCz) uważa, że &quot;przekaz mógł zostać obarczony pewnymi błędami i tsunami należy spodziewać się po zwiększonej aktywności sejsmicznej w rejonie Pacyfiku&quot;.</p>
 <hr>
 <p>Liczba ofiar w rejonie Yogyakarty wzrosła do 4,3 tysiąca i zapewne nie są to jeszcze rzeczywiste dane. Trwa akcja ratunkowa i być może dlatego jeszcze nie wypada mówić o zniszczeniach w kulturze materialnej. W rejonie trzęsienia ziemi znajduja się zabytki tej klasy co Borobudur i Prambanan.</p>
 <p><strong>post: Ergorg - FPP Kod Czasu</strong>. Dzisiaj dostałem mejla od przyjaciela Erica Juliena - &quot;Uważamy, że już było znaczące uderzenie w Ocean Atlantycki, które może wzbudzić tsunami dla Atlantyckich wybrzeży. Nie sprawdzaliśmy. Mamy również sprawozdanie z wybrzeża Hiszpanii jakoby dzisiaj rano była tam fala wysoka na 253,6 stóp.</p>
 <hr>
 <p>Znaczące uderzenie w ocean powinno wzbudzić falę sejsmiczną. Odnotowano dziś tylko jedno trzęsienie ziemi około 13:50 (pow. 5°R) w rejonie wyspy Niedźwiedziej (na styku morza Grenlandzkiego i morza Barentsa) ale jest to wyżej niż północny Atlantyk. Co do wysokości fali mam pewne wątpliwości. Podana wysokość fali około 80 metrów na pewno zostałaby zauważona przez media (nie mówiąc o szkodach), a te uparcie milczą.</p>
-<p><strong>29 maja 2006</strong></p>
+<p class="rozdzial" id="r-9"><strong>29 maja 2006</strong></p>
 <p>Nic nie spadło. Oczywiście nic tak wielkiego, jak przewidywał Julien. Nie znaczy to, że niebezpieczństwo mineło. Wręcz przeciwnie trwa nadal. Ziemia cały czas przedziera się przez &quot;ogony&quot; fragmentów komety. Astronomowie przez tylko jedną godzinę ( między 6:00 a 7:00 UT) zarejestrowali opad na Ziemię około 300 okruchów SW-3. Jest to &quot;drobnica&quot; i nie jest wykluczone, że wśród niej może znaleźć się większy kawałek. Oby nie za duży...</p>
-<p><strong>6 czerwca 2006</strong></p>
+<p class="rozdzial" id="r-10"><strong>6 czerwca 2006</strong></p>
 <p>Wyglada na to, że szczęśliwie prawie wszystko przeleciało obok, bo co nieco opadło na ziemię. Nic wielkiego nie walnęło w Atlantyk, następny wizjoner poniósł klęskę, ci co powinni zabrać głos jak zwykle zaniemówili i wszystko wróciło do tzw. normy. Zatem do następnej komety.</p>
-<p><strong>11 czerwca 2006</strong></p>
+<p class="rozdzial" id="r-11"><strong>11 czerwca 2006</strong></p>
 <p>Zdaje się, że się pospieszyłem. Dość ciekawe zjawisko odnotowano w północnej Norwegii.</p>
 <p><strong>post: Blue - FPP Kod Czasu (tłumaczenie Euricide)</strong>. Około 2:05 rano 7 czerwca (w środę) mieszkańcy północnej części Troms i zachodnich obszarów Finnmark mogli zobaczyć kulę ognia przemierzającą niebo. Kilka minut później uderzenie zostało zarejestrowane przez fundację NORSAR - badającą zjawiska geofizyczne i sejsmologiczne. Głośny dźwięk i mocne sejsmiczne drgania zostały zarejestrowane na stacji pomiarowej w Karasjok o 2:13 rano.<br>Farmer Peter Bruvold był na zewnątrz na swojej farmie w Lyngseidet z kamerą ponieważ jego klacz po raz pierwszy miała spodziewać się przyjścia na świat źrebięcia. &quot;Widziałem jaskrawe błyski światła na niebie, światło to miało za sobą ogon dymu&quot; powiedział Bruvol. Sfotografował on obiekt i kontynuował poród kiedy usłyszał ogromny huk. &quot;Usłyszałem ten dźwięk 7 minut później. Brzmiało to tak jakby wybuch dynamitu w odległości około kilometra.&quot;<br>Astronomowie podekscytowali się doniesieniami. &quot;Mieliśmy drżenie gruntu, domy trzęsły się a firanki zostały wdmuchane do domów&quot; powiedział najbardziej znany astronom norweski Knut Jorgen Roed Odegaard. Powiedział on też, że nie umie sobie wyobrazić aby kiedykolwiek w czasach współczesnych doszło do tak potężnej katastrofy z udziałem meteorytu w Norwegii. Jeśli meteoryt był na tyle duży na jaki nam się wydaje, możemy samą eksplozję porównać do wybuchu bomby jądrowej tej jaka została zrzucona na Hiroshimę. Oczywiście meteoryt nie jest radioaktywny ale porównujemy samą siłę uderzenia&quot; powiedział Roed Odegaard.</p>
 <hr>
@@ -266,61 +407,61 @@
 <p>Obok zdjęcie z satelity SOHO obserwującego Słońce z dnia 10 czerwca 2006 r. Satelita ten krąży wokół Słońca w odległości 1,5 mln km od Ziemi znajdując się zawsze pomiędzy Ziemią a Słońcem.</p>
 <hr>
 <p>Obserwacje, o których pisze Jakub sa podawane i uaktualniane co minutę na stronie <a href="http://kodczasu.ronus.pl/forum/viewtopic.php?t=467&amp;start=330" rel="noopener" target="_blank">G7IZU Radio Reflection Detection</a> i jeśli ktoś chce (i rozumie te wykresy) może je na bieżąco śledzić.</p>
-<p><strong>17 czerwca 2006</strong></p>
+<p class="rozdzial" id="r-12"><strong>17 czerwca 2006</strong></p>
 <p>A już myślałem, że kometa SW-3 żegna się w wielkim stylu. Rankiem RFM-FM podało, że w Łomży meteoryt rozbił samochód. Walnął w przednią szybę i rozbił deskę rozdzielczą. Szczęściem samochód był pusty. Po oględzinach przez policję okazało się, że szczątki są metalowe i zaczęto obwiniać przelatujący wcześniej samolot pasażerski o &quot;zgubę&quot; jakiejś części. Ale nic nie jest proste. Ściągnięto ekspertów aż z Orzysza i okazało się, że jest to część silnika rakietowego i to z drugiej połowy XIX w. z rosyjskimi napisami [<a href="http://www.wprost.pl/ar/?O=91557&amp;C=71" rel="noopener" target="_blank">Wprost</a>]. No i teraz dopiero się zacznie. Skąd w Łomży silniki rakietowe? Może terroryści zaatakowali samolot, ale rakieta nie doleciała? Może to entuzjaści z tajnej Manufaktury Paliw Przyszłości, którzy nie powiadomoli policji o starcie pierwszej polskiej rakiety na eksperymentalne &quot;biopaliwo&quot;? A może to efekt ucieczki kosmitów z polskiego raju? Czas pokaże, a w każdym bądź razie kometa SW-3 pożegnała się chyba na dobre, bo liczba meteorytów zmalała do normy. Jej następne odwiedziny dopiero za ponad pięć lat.</p>
-<p><strong>18 czerwca 2006</strong></p>
+<p class="rozdzial" id="r-13"><strong>18 czerwca 2006</strong></p>
 <p>Dokonano już korekty - silnik jest z drugiej połowy XX wieku.</p>
 <p>Następne doniesienia zaczynają komplikować sprawę.<br><strong>interia.pl</strong>. - &quot;Dziwny przedmiot, który spadł w sobotę na zaparkowany w Łomży samochód to część nośna pocisku rakietowego, a nie silnik rakietowy czy, jak domniemywano, część samolotu - poinformował rzecznik łomżyńskiej policji Krzysztof Leończak. Pocisk, który utkwił w desce rozdzielczej samochodu osobowego, pochodzi najprawdopodobniej z okresu drugiej wojny światowej. Policja przypuszcza, że może to być pocisk z rosyjskiej katiuszy. - Ktoś nieodpowiedzialny musiał odpalić ten pocisk z odległości kilku kilometrów; pocisk spadł, gdy wyczerpało się wewnątrz paliwo. To szczęście, że nie doszło do większej tragedii - dodał Leończak. Pocisk ma ok. 15 centymetrów średnicy i ponad 50 centymetrów długości. Posiada rosyjskojęzyczne oznaczenia.&quot;</p>
 <hr>
 <p>Pocisk do &quot;katiuszy&quot; to prawie dwumetrowa rakieta kalibru 132 mmm o wadze około 43 kg, której nie odpali się &quot;z wolnej ręki&quot;. Głowica jest połączona z silnikiem rakietowym na stałe, a odpalenie następuje tylko za pomocą impulsu elektrycznego poprzez dwa styki umieszczone na kadłubie rakiety (prąd doprowadza się do styków umieszczonych w szynie wyrzutni). Po odpaleniu całość leci na odległość około 10 km i dopiero wybuch głowicy może oderwać silnik. W głowicy mamy około 20 kg trotylu, której wybuch powinien zmieść wszystko w okolicy, łącznie ze świadkami. Strzelałem osobiście z tego &quot;ustrojstwa&quot; i nie spotkałem tzw. pocisków ćwiczebnych, czyli z głowicami bez materiału wybuchowego. Ale skoro &quot;Polak potrafi&quot;, więc wszystko jest możliwe.</p>
-<p><strong>19 czerwca 2006</strong></p>
+<p class="rozdzial" id="r-14"><strong>19 czerwca 2006</strong></p>
 <p><strong>RMF-FM</strong>. - Silnik rakiety katiusza, którego fragment spadł w Łomży na jeden z zaparkowanych samochodów <strong>został odpalony przez pracownika złomowiska</strong> - dowiedział się reporter RMF. Policyjni pirotechnicy sprawdzają teraz na złomowiskach, czy nie ma na nich podobnych niewypałów.</p>
 <hr>
 <p>Polska już jest krajem wariatów. Tylko patrzeć jak kury zaczną znosić granaty.</p>
-<p><strong>20 czerwca 2006</strong></p>
+<p class="rozdzial" id="r-15"><strong>20 czerwca 2006</strong></p>
 <p><strong><a href="http://wiadomosci.onet.pl/1341902,16,1,0,120,686,item.html" rel="noopener" target="_blank">onet.pl</a></strong>. - 13 czerwca b.r. około godziny 19:15, nad północną Polską zaobserwowany został bolid o dużej jasności, widoczny na zupełnie jasnym jeszcze niebie (tzw. bolid dzienny). Jednocześnie na znacznym obszarze wokół Trójmiasta słychać było silny, głuchy grzmot, będący akustycznym następstwem zjawiska.</p>
 <hr>
 <p>Brak dokumentacji naukowej, bo nasz &quot;Urząd ds. Nefilim&quot; rozpoczyna pracę po zmroku i trzeba było tygodniowego &quot;dochodzenia&quot;, by ogłosić to w mediach. Polska rzeczywistość czy światowy knebel?</p>
-<p><strong>26 czerwca 2006</strong></p>
+<p class="rozdzial" id="r-16"><strong>26 czerwca 2006</strong></p>
 <p>Czy to już koniec? Nie wiadomo... W każdym bądź razie trochę się wszystko uspokoiło. Przed nami już tylko rok 2012 i jeszcze ponoć gorszy 2014. Dlaczego? Otóż, ponoć kilkadziesiąt tysięcy lat świetlnych od nas wybuchła gwiazda o masie 400 mld naszych słońc, tworząc gigantyczna falę uderzeniową. Czoło fali dotrze do Ziemi 1 września 2014 r. Jak twierdzą amerykańscy naukowcy ta &quot;chmura chaosu&quot; zmiata wszystko na swej drodze. Życzę wszystkim dobrego samopoczucia. <img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/usmiech.gif" alt="" loading="lazy" decoding="async">  </p>
-<p><strong>CZY CHCECIE ABYŚMY SIĘ UJAWNILI</strong></p>
+<p class="rozdzial" id="r-17"><strong>CZY CHCECIE ABYŚMY SIĘ UJAWNILI</strong></p>
 <p>[ Tłumaczenie • <strong>Jakub</strong> • FPP Kod Czasu ]</p>
 <p><strong>Nieważne, kto przekazał ci tę wiadomość, dla ciebie ta osoba powinna pozostać anonimowa. Ważne jest to, co zrobisz z tą informacją! Każdy z was pragnie czynić użytek ze swojej wolnej woli i doświadczać szczęścia. Nam zostały te dwie rzeczy pokazane i obecnie mamy do nich dostęp. Wasza wolna wola zależy od wiedzy o mocy, jaką posiadacie. Wasze szczęście zależy od miłości, jaką dajecie i jaką otrzymujecie. Jak wszystkie świadome rasy na tym etapie rozwoju, możecie czuć się odizolowani na swojej planecie. To wrażenie sprawia, że jesteście pewni swojego losu. Jednakże, znajdujecie się na skraju wielkiego przewrotu, z którego zaledwie garstka ludzi zdaje sobie sprawę. Nie do nas należy odpowiedzialność za zmianę waszej przyszłości, jeśli wy sami o tej zmianie nie zdecydujecie. Potraktujcie tę wiadomość jako światowe referendum a swoją odpowiedź jako głos.</strong></p>
-<p><strong>Kim jesteśmy?</strong></p>
+<p class="rozdzial" id="r-18"><strong>Kim jesteśmy?</strong></p>
 <p>Ani wasi naukowcy, ani przedstawiciele religijni nie wypowiadają się jednoznacznie na temat niewyjaśnionych zjawisk nadprzyrodzonych, jakich ludzkość była świadkami od tysięcy lat. Aby poznać prawdę, trzeba jej stawić czoło bez filtrów własnych przekonań, bez względu na to jak godne szacunku mogą być. Coraz większa liczba waszych anonimowych naukowców bada nowe ścieżki wiedzy i coraz bardziej zbliża się do rzeczywistości. Dziś wasza cywilizacja zalana jest oceanem informacji, z których tylko niewielka część, ta mniej niepokojąca, jest rozpowszechniana. To, co w waszej historii wydawało się śmieszne, bądź nieprawdopodobne, często stawało się możliwe a potem stawało się rzeczywistością, szczególnie w ciągu ostatnich 50 lat. Miejcie świadomość, że przyszłość będzie jeszcze bardziej zaskakująca. Odkryjecie rzeczy zarówno najgorsze jak i najlepsze.</p>
 <p>Podobnie jak miliardy innych istot w tej galaktyce, my również jesteśmy świadomi, niektórzy nazywają nas istotami pozaziemskimi, choć rzeczywistość jest jeszcze bardziej misterna. Nie ma żadnej większej różnicy między nami a wami, poza doświadczeniem kilku stopni ewolucji. Podobnie jak w każdej zorganizowanej strukturze, w naszych wewnętrznych relacjach także istnieje hierarchia. Nasza oparta jest na mądrości kilku ras. Zwracamy się do was za aprobatą tej hierarchii. Podobnie jak większość z was, poszukujemy Najwyższej Istoty. Dlatego też nie jesteśmy bogami ani bożkami, ale jesteśmy wam równi w Kosmicznym Braterstwie. Fizycznie nieco się od was różnimy, ale większość z nas ma postać humanoidalna. Istniejemy naprawdę, ale większość z was jeszcze tego nie dostrzega. Nie jesteśmy tylko zjawiskiem, ale świadomością, jak wy. Nie udaje się wam dostrzec nas, bo przez większość czasu pozostajemy niewidzialni dla waszych zmysłów oraz aparatury pomiarowej. W chwili obecnej pragniemy zapełnić te lukę w waszej historii. Podjęliśmy wspólną decyzję, ale to nie wystarczy. Potrzebujemy też waszej decyzji. Poprzez tę wiadomość będziecie mogli ją podjąć! Każdy z was osobiście. Nie mamy na Ziemi przedstawiciela, który mógłby pomóc wam w podjęciu decyzji.</p>
-<p><strong>Dlaczego jesteśmy niewidzialni?</strong></p>
+<p class="rozdzial" id="r-19"><strong>Dlaczego jesteśmy niewidzialni?</strong></p>
 <p>Na pewnych etapach ewolucji, kosmiczne &quot;ludzkości&quot; odkryły nowe formy nauki wykraczające poza sferę materialna. Dematerializacja i materializacja stanowi ich część. Wasza ludzkość osiągnęła to w kilku laboratoriach w ścisłej współpracy z istotami pozaziemskimi kosztem niebezpiecznych kompromisów, które celowo są ukrywane przed wami przez niektórych z waszych przedstawicieli. Poza zjawiskami i obiektami powietrznymi, znanymi waszym naukowcom jako UFO, zbudowane zostały jeszcze wielowymiarowe statki kosmiczne. Wiele osób miało kontakt wzrokowy, słuchowy, dotykowy bądź psychiczny z tymi statkami, z czego niektóre są pod wpływem sił nadprzyrodzonych, które wami rządzą. To, że tak rzadko je widujecie spowodowane jest niezwykłymi korzyściami, jakie daje stan dematerializacji tych statków. Ponieważ nie widzieliście ich na własne oczy, nie wierzycie, że istnieją. W pełni to rozumiemy. Większość obserwacji dotyczy przypadków indywidualnych, po to by móc wpłynąć na dusze jednocześnie nie zmieniając zorganizowanego systemu.</p>
 <p>Jest to celowe działanie otaczających was ras, z różnych przyczyn i ma różne rezultaty. Dyskrecja ze strony negatywnych istot wielowymiarowych, które odgrywają rolę w sprawowaniu władzy w cieniu ludzkiej oligarchii, motywowana jest ich wola, by nikt nie wiedział o ich obecności, oraz władzy jaką posiadają. Nasz dyskrecja wynika z szacunku dla wolnej woli, dzięki której ludzie mogą decydować o swoich sprawach, tak by samodzielnie osiągnąć techniczną i duchową dojrzałość. Wejście ludzkości do rodziny cywilizacji galaktycznych jest bardzo oczekiwane. Możemy pokazać się wam i pomóc wam osiągnąć to zjednoczenie. Nie zrobiliśmy tego do tej pory, ponieważ niewielu z was naprawdę tego chciało, głównie z powodu ignorancji, obojętności, lęku, oraz ponieważ sytuacja tego nie wymagała, ani nie usprawiedliwiała. Wielu z tych, którzy badają nasza obecność liczy światła nocą, ale niczemu to nie służy. Często myślą o nas jak o przedmiotach, gdy tu chodzi o świadome istoty.</p>
-<p><strong>Kim Wy jesteście?</strong></p>
+<p class="rozdzial" id="r-20"><strong>Kim Wy jesteście?</strong></p>
 <p>Jesteście spadkobiercami wielu tradycji, które przez wieki wzajemnie się wzbogacały. To samo odnosi się do innych gatunków na Ziemi. Waszym celem jest zjednoczenie się w poszanowaniu tych korzeni, by ukończyć wspólny projekt. Wydaje się, ze wygląd (aspekt zewnętrzny) waszych kultur prowadzi do podziałów między wami, ponieważ przedkładacie go nad swą głębszą istotę. Kształt jest teraz ważniejszy niż esencja waszej subtelnej natury. Ta przewaga formy jest bastionem chroniącym przed jakimkolwiek niebezpieczeństwem. Wzywamy was byście przezwyciężyli kształt a jednocześnie nadal szanowali go za jego bogactwo i piękno. Zrozumienie świadomości formy sprawia, że kochamy ludzi w całej ich różnorodności. Pokój nie znaczy, że nie ma wojny, składa się na niego stawanie się tym, czym w rzeczywistości jesteście - braterstwem podobnych sobie. Ilość rozwiązań, jakie są dla was dostępne zmniejsza się. Jedną z nich jest kontakt z inną rasą, która byłaby odbiciem tego, kim jesteście w rzeczywistości.</p>
-<p><strong>Jaka jest wasza sytuacja?</strong></p>
+<p class="rozdzial" id="r-21"><strong>Jaka jest wasza sytuacja?</strong></p>
 <p>Poza rzadkimi okazjami, nasze interwencje miały niewielki wpływ na waszą zdolność do podejmowanie zarówno indywidualnych jak i wspólnych decyzji dotyczących waszej przyszłości. Naszą motywacją była nasza znajomość waszych głębokich mechanizmów psychologicznych. Doszliśmy do wniosku, ze wolność jest budowana każdego dnia, gdy istota staje się świadomą siebie i swojego otoczenia, stopniowo pozbywając się bezwolności i ograniczeń, jakiekolwiek one są. Pomimo wielkich odważnych i pełnych zapału ludzi, ten bezwład jest sztucznie utrzymywany dla zysku, jaki ma rozwijająca się scentralizowana władza. Do niedawna ludzkość miała wystarczającą kontrole nad swoimi decyzjami. Ale stopniowo traci coraz bardziej kontrole nad własnym losem, ze względu na wzrastające wykorzystanie zaawansowanych technologii, których skutki śmiertelne dla ludzkiego i ziemskiego ekosystemu stają się nieodwracalne. Powoli, ale stale tracicie swą niezwykłą zdolność, by czynić życie czymś pożądanym. Wasza żywotność spadnie w sztuczny sposób, niezależnie od waszej własnej woli. Istnieją technologie, które maja wpływ zarówno na umysł jak i na ciało. Takie plany są już w drodze.</p>
 <p>Można to zmienić, o ile zachowacie w sobie tę twórczą siłę, nawet jeśli współistnieć będzie ona z ciemnymi intencjami, tych którzy potencjalnie mogą wami rządzić. Z tego powodu pozostajemy niewidzialni. Ta indywidualna moc zniknie, jeśli z wielka mocą nie zareagujecie wspólnie. Nadchodzi czas przełomu, jakkolwiek to rozumiecie. Ale czy macie czekać do ostatniej chwili by znaleźć rozwiązanie? Czy musicie spodziewać się lub doświadczać bólu? W waszej historii pełno jest przykładów spotkań ludów, które musiały odkryć siebie nawzajem w warunkach często konfliktowych. Podboje niemal zawsze dokonywane były ze szkodą dla innych. Ziemia stała się teraz wioską, gdzie wszyscy znają się nawzajem, ale konflikty wciąż trwają, zagrożenia różnego rodzaju narastają i są coraz silniejsze. Choć istota ludzka jako jednostka ma wiele potencjalnych umiejętności, nie umie z nich korzystać z godnością. To dotyczy zdecydowanej większości z was, głównie ze względów geopolitycznych. Jest was kilka miliardów. Wykształcenie waszych dzieci i warunki życia, jak również warunki życia wielu zwierząt i roślin są uzależnione od garstki przedstawicieli politycznych, finansowych, wojskowych i religijnych.</p>
 <p>Wasze myśli i wierzenia są tak skonstruowane, by mogły służyć interesom mniejszości, byście byli niewolnikami, lecz jednocześnie by dać wam wrażenie, że w pełni kontrolujecie swój los, generalnie tak wygląda rzeczywistość. Ale od pragnienia do faktów jest długa droga, zwłaszcza, kiedy nie zna się reguł gry. Tym razem nie jesteście zdobywcami. Podawanie stronniczych informacji to strategia stosowana od tysiącleci wobec ludzkich istot. Natychmiastowe sztuczne wywoływanie w was uczuć emocji, bądź wprowadzanie organizmów, które nie są częścią was poprzez technologie jest jeszcze starszą strategią. Obok wspaniałych możliwości rozwoju istnieje zagrożenie zniszczeniem i klęską. Te niebezpieczeństwa i możliwości istnieją teraz. Widzicie jednak tylko to, co się wam pokazuje. Wyczerpanie się zasobów naturalnych jest zaprogramowane, tymczasem nie został opracowany żaden długoterminowy wspólny projekt. Mechanizmy wyczerpania ekosystemu przekroczyły nieodwracalny limit. Brak zasobów naturalnych oraz ich niesprawiedliwy podział, a ich cena będzie rosła z dnia na dzień, spowoduje bratobójcze walki na wielką skalę, również w sercu waszych miast i wsi.</p>
 <p>Rośnie nienawiść, ale miłość także. Dzięki temu wierzycie w to, ze możecie znaleźć rozwiązanie. Ale masa krytyczna jest niewystarczająca, a sabotaż jest bardzo sprytnie przeprowadzany. Ludzkie zachowanie, uformowane w przeszłości nawyki i uwarunkowania powodują takie obezwładnienie, że ta perspektywa prowadzi was w ślepy zaułek. Powierzacie te problemy przedstawicielom, których oddanie wspólnemu, dobrze pojętemu interesowi, ustępuje interesom korporacji. Oni zawsze debatują nad formą, ale rzadko nad treścią. W momencie działania, opóźnienia skumulują się do tego stopnia, że będziecie mogli nie tyle wybierać, co poddać się. Właśnie dlatego, bardziej niż kiedykolwiek w przeszłości, wasze dzisiejsze decyzje będą miały bezpośredni i znaczący wpływ na to czy jutro przetrwacie. Co mogłoby radykalnie odmienić ten bezwład typowy dla cywilizacji? Skąd ma przyjść zbiorowa świadomość, która zjednoczy wszystkich i zatrzyma ten bieg przed siebie na oślep? Plemiona, populacje, narody zawsze stykały się ze sobą i wzajemnie na siebie oddziaływały. W obliczu zagrożeń dla całej ludzkiej rodziny, być może nadszedł czas na bliższą współpracę. Lada moment nadejdzie wielka fala. Aspekty jej pojawienia się będą zarówno bardzo pozytywne jak i bardzo negatywne.</p>
-<p><strong>Kim jest trzecia strona?</strong></p>
+<p class="rozdzial" id="r-22"><strong>Kim jest trzecia strona?</strong></p>
 <p>Są dwa sposoby by nawiązać kosmiczny kontakt z inną cywilizacją - albo przez przedstawicieli, albo bezpośrednio z poszczególnymi osobami, bez wyróżniania jakiejś konkretnej grupy. Pierwszy sposób wiąże się z konfliktem interesów, drugi sposób przynosi świadomość. Pierwszy sposób został wybrany przez grupę ras, które chcą utrzymywać ludzkość w niewolnictwie, dzięki czemu mogą kontrolować zasoby ziemskie, genotyp oraz energie ludzkich emocji. Drugi sposób został wybrany przez grupę ras zjednoczonych w duchu służby. Z naszej strony, wybraliśmy bezinteresowną służbę i kilka lat temu zwróciliśmy się do przedstawicieli władzy, którzy odrzucili nasza wyciągniętą do zgody rękę pod pretekstem, że nie jest to zgodne z interesem ich strategicznej wizji. Właśnie dlatego poszczególne osoby muszą dziś wybrać same bez wtrącania się ze strony przedstawicieli władzy. Proponujemy wam teraz to, co zaproponowaliśmy wtedy tym, którzy jak wierzyliśmy, mogli przyczynić się do waszego szczęścia! Większość z was ignoruje fakt, ze istoty pozaziemskie brały udział w sprawowaniu scentralizowanej władzy, będąc dla was niewykrywalnymi do tego stopnia, że nawet nie podejrzewacie ich istnienia. Niemalże przejęli nad wami kontrole w niezauważalny sposób. Nie muszą nawet ujawnić się na planie fizycznym, co właśnie w najbliższej przyszłości mogłoby sprawić, że będą niezwykle skuteczni i będą siać postrach. Jednakże, miejcie świadomość, ze duża liczba waszych przedstawicieli walczy z tym niebezpieczeństwem!</p>
 <p>Miejcie świadomość, ze nie wszystkie porwania przez UFO są przeciwko wam. Trudno jest rozpoznać prawdę! Jak w takich warunkach możecie korzystać z wolnej woli, gdy jesteście tak bardzo manipulowani? Od czego tak naprawdę jesteście wolni? Pokój i zjednoczenie waszych narodów byłyby pierwszym krokiem ku harmonii z cywilizacjami innymi, niż wasza. I właśnie tego ci, którzy manipulują wami z ukrycia chcą uniknąć za wszelką cenę, dzieląc - rządzą! Rządzą również tymi, którzy rządzą wami. Ich moc pochodzi z tego, że mogą zasiać w was nieufność i lęk. To bardzo szkodzi waszej kosmicznej naturze. Ta wiadomość nie miałaby sensu gdyby nie to, ze działalność istot wami manipulujących sięgnęła szczytu i gdyby nie to, że ich zwodnicze i mordercze plany mogą się stać rzeczywistością za kilka lat. Terminy ich realizacji zbliżają się ku końcowi i ludzkość doświadczy niespotykanych cierpień w ciągu kolejnych dziesięciu cykli. Aby obronić się przed tą agresją, która nie ma twarzy, musicie przynajmniej mieć wystarczająco dużo informacji o tym, co prowadzi do rozwiązania tego problemu. Tak samo jak wśród ludzi, także wśród tych, którzy chcą was zdominować istnieje opozycja. Tu nie wystarczy wygląd, by odróżnić wrogów od przyjaciół. W waszym obecnym stanie psychiki, niezwykle trudno będzie wam ich odróżnić. Oprócz intuicji, gdy przyjdzie czas, będzie wam potrzebne szkolenie. Mając świadomość jak cenna jest wolna wola, przedstawiamy wam alternatywę.</p>
-<p><strong>Co możemy zaoferować?</strong></p>
+<p class="rozdzial" id="r-23"><strong>Co możemy zaoferować?</strong></p>
 <p>Możemy wam zaoferować bardziej całościową wizję wszechświata i życia, konstruktywne współdziałanie, doświadczenie sprawiedliwych i braterskich kontaktów, wiedzę techniczną prowadzącą do wyzwolenia, zlikwidowanie cierpienia, panowanie nad własną mocą, dostęp do nowych form energii oraz lepsze pojmowanie świadomości. Nie możemy pomóc wam w przezwyciężeniu indywidualnych i zbiorowych lęków, i nie narzucimy praw, których byście sami nie wybrali.</p>
-<p><strong>Co będziecie z tego mieć?</strong></p>
+<p class="rozdzial" id="r-24"><strong>Co będziecie z tego mieć?</strong></p>
 <p>Jeśli zdecydujecie, ze taki kontakt ma nastąpić, z radością zapewnimy istnienie braterskiej równowagi w tym rejonie wszechświata, owocną współpracę dyplomatyczną, i wielką radość wynikającą ze świadomości, że zjednoczyliście się, by dokonać tego, co leży w zakresie waszych możliwości. We wszechświecie Radość jest niezwykle cenna, bowiem jej energia jest boska.</p>
-<p><strong>Jakie pytanie wam zadajemy?</strong></p>
-<p><strong>CZY CHCECIE BYŚMY SIĘ UJAWNILI ?</strong></p>
-<p><strong>Jak odpowiedzieć na to pytanie?</strong></p>
+<p class="rozdzial" id="r-25"><strong>Jakie pytanie wam zadajemy?</strong></p>
+<p class="rozdzial" id="r-26"><strong>CZY CHCECIE BYŚMY SIĘ UJAWNILI ?</strong></p>
+<p class="rozdzial" id="r-27"><strong>Jak odpowiedzieć na to pytanie?</strong></p>
 <p>Prawdę duszy można odczytać poprzez telepatię. Wystarczy, że jasno zadacie sobie to pytanie i udzielicie odpowiedzi, tak jak chcecie - indywidualnie bądź w grupie. Nieważne czy jesteście pośrodku miasta czy pustyni, to nie ma wpływu na waszą odpowiedź. TAK albo NIE, NATYCHMIAST PO ZADANIU SOBIE PYTANIA! Po prostu zróbcie to jakbyście mówili do siebie, ale myślcie o wiadomości. To uniwersalne pytanie i tych kilka słów w odpowiednim kontekście wiele znaczy. Nie pozwólcie by ogarnęła was niepewność. Właśnie dlatego powinniście przemyśleć to z pełną świadomością. Aby połączyć jak najlepiej pytanie z odpowiedzią radzimy by odpowiedzieć po ponownym przeczytaniu tej wiadomości. Nie spieszcie się z odpowiedzią. Oddychajcie głęboko i pozwólcie, by przeniknęła was moc waszej wolnej woli. Bądźcie dumni z tego, kim jesteście! Problemy, jakie macie, mogły was osłabić. Zapomnijcie o nich na kilka minut po to, byście byli sobą. Poczujcie jak siła w was rośnie. Macie władzę nad sobą! Jedna myśl, jedna odpowiedź może drastycznie zmienić waszą najbliższą przyszłość, w taki czy inny sposób. Wasza indywidualna decyzja, by zapytać siebie, czy mamy ujawnić się na planie materialnym, jest cenna i ważna dla nas. Możecie wybrać sposób, jaki najbardziej wam odpowiada. Rytuały są bezużyteczne. Szczera prośba z serca i wolnej woli zawsze dotrze do tych z nas, do których jest wysyłana. W swoich prywatnych wyborach określicie swoją przyszłość.</p>
-<p><strong>Jaki będzie efekt?</strong></p>
+<p class="rozdzial" id="r-28"><strong>Jaki będzie efekt?</strong></p>
 <p>Decyzję tę powinno podjąć jak najwięcej z was, nawet jeśli będzie się zdawało, że to tylko mniejszość. Zalecane jest jej rozpowszechnienie w każdy możliwy sposób, w tylu językach w ilu to możliwe, wśród osób was otaczających, bez względu na to, czy wydają się być otwarci czy nie na nową wizję przyszłości. Zróbcie to w humorystyczny lub ironiczny sposób, jeśli to ma wam pomóc. Możecie nawet otwarcie się naigrywać, jeśli dzięki temu będziecie się lepiej czuć, ale nie bądźcie obojętni, bo przynajmniej w taki sposób możecie uczynić użytek ze swojej wolnej woli. Zapomnijcie o fałszywych prorokach i przekazach na nasz temat, jakie otrzymaliście. Ta prośba jest jedną z najgłębszych, jakie mogą być. Samodzielne podjecie decyzji jest waszym prawem, jak również waszą odpowiedzialnością! Pasywność prowadzi jedynie do braku wolności. Podobnie, brak decyzji nigdy nie jest skuteczny. Jeśli chcecie działać w zgodzie ze swoimi przekonaniami, co jest dla nas zrozumiale, możecie powiedzieć NIE. Jeśli nie wiecie, jaka podjąć decyzje nie mówcie TAK z czystej ciekawości.</p>
 <p>To nie przedstawienie, to codzienne prawdziwe życie. MY ZYJEMY! W waszej historii pełno jest przykładów, kiedy niewielkie grupy pełnych determinacji kobiet i mężczyzn potrafiły zmienić bieg wydarzeń. Tak samo jak mała grupa może przejąć władzę na Ziemi i mieć wpływ na losy większości, tak i mała grupa może radykalnie odmienić wasz los, jako odpowiedź na niemoc w obliczu tak wielkiej bezwolności i przeszkód! Możecie ułatwić narodziny ludzkości do Braterstwa. Jeden z waszych filozofów powiedział: &quot;Dajcie mi punkt podparcia a poruszę Ziemię&quot;. Rozpowszechnienie tej wiadomości będzie punktem podparcia, staniemy się dzwignia na całe świetlne lata, w rezultacie naszego pojawienia się będziecie mogli ... poruszyć Ziemię.</p>
-<p><strong>Jakie będą konsekwencje decyzji na tak?</strong></p>
+<p class="rozdzial" id="r-29"><strong>Jakie będą konsekwencje decyzji na tak?</strong></p>
 <p>Dla nas natychmiastową konsekwencją zbiorowej decyzji na tak będzie materializacja naszych statków na waszym niebie i na Ziemi. Dla was bezpośrednim efektem będzie gwałtowne porzucenie wielu dogmatów i przekonań. Prosty kontakt wzrokowy spowodowałby wielkie reperkusje dla waszej przyszłości. Duża część nauki zostałaby zmodyfikowana na zawsze. Organizacja waszych społeczeństw na zawsze zmieniłaby się zdecydowanie na lepsze, we wszystkich dziedzinach. Moc byłaby domena jednostek, ponieważ zobaczylibyście, że istniejemy. A dokładniej, zmieniłaby się wasza skala wartości! Dla nas najważniejsze byłoby to, ze ludzkość stałaby się jedną rodziną wobec tego nieznanego, które reprezentujemy! Niebezpieczeństwo oddaliłoby się od was, ponieważ bezpośrednio zmusilibyście tych nieproszonych gości, tych których nazywamy trzecią stroną by się ujawnili i zniknęli. Wszyscy nosilibyście to samo imię i mieli te same korzenie - Ludzkość! Później możliwa byłaby pokojowa i pełna szacunku wymiana, jeśli tak byście zdecydowali. Teraz ten, kto jest głodny nie może się uśmiechać, ten kto się boi, nie może nas powitać. Smutno nam, gdy widzimy mężczyzn, kobiety i dzieci doświadczających głębokiego cierpienia ciała i duszy, podczas gdy noszą w sobie takie światło. To światło może być waszą przyszłością.</p>
 <p>Nasze stosunki mogą być postępowe. Przebiegałoby to w etapach kilku lub kilkudziesięcioletnich - pojawienie się naszych statków, fizyczne pojawienie się wśród ludzi, współpraca w zakresie rozwoju technicznego i duchowego, odkrywanie części galaktyki. Za każdym razem mielibyście nowy wybór. Moglibyście sami zdecydować czy przekroczenie kolejnego progu jest konieczne dla waszego zewnętrznego i wewnętrznego dobrobytu. Żadna decyzja nie byłaby podjęta jednostronnie. Odeszlibyśmy, gdybyście wspólnie podjęli taką decyzję. Zależnie od szybkości rozpowszechniania wiadomości minie kilka tygodni bądź miesięcy zanim się ujawnimy, jeśli taka będzie decyzja większości z tych, którzy skorzystają z możliwości wyboru i jeśli wiadomość zostanie wystarczająco rozpropagowana. Główna różnica między waszymi modlitwami do istot duchowych a waszą obecną decyzją jest bardzo prosta - my mamy możliwości techniczne do materializacji! Dlaczego jest to taki historyczny dylemat? Wiemy, ze obcy uważani są za wrogów tak długo jak są symbolem nieznanego. Na początkowym etapie emocje, jakie wywoła nasze pojawienie się, wzmocnią związki między wami na skale światową. Skąd będziecie wiedzieć, czy nasze przybycie będzie konsekwencją waszego zbiorowego wyboru? Bo inaczej bylibyśmy tu już dawno, na waszym poziomie życia! Jeśli nas jeszcze nie ma to dlatego, że nie podjęliście takiej decyzji w wyraźny sposób. Niektórzy z was mogą myśleć, ze chcemy byście uwierzyli, ze sami wybraliście, choć nie byłoby to prawda, po to byśmy mogli usprawiedliwić nasze przybycie.</p>
 <p>Jaki interes mielibyśmy w tym, by otwarcie oferować wam coś, do czego nie macie jeszcze dostępu, dla dobra większości z was? Jak możecie mieć pewność, że nie jest to jedynie kolejna subtelna manipulacja trzeciej strony, by was jeszcze bardziej zniewolić? Bo walka jest skuteczniejsza, jeśli wiemy, z czym walczymy. Czy terroryzm, który was toczy nie jest najlepszym przykładem? Cokolwiek się dzieje, wy jesteście jedynymi sędziami w swoich własnych sercach i duszach! Każdy wasz wybór będzie dobry i zostanie uszanowany! Pod nieobecność przedstawicieli ludzkości, którzy potencjalnie mogliby wprowadzić was w błąd, ignorujcie wszystko, co nas dotyczy jak również to, co pochodzi od tych, którzy wami manipulują bez waszej zgody. W sytuacji, w której się znajdujecie, zasada bezpieczeństwa mówiąca, że lepiej nie próbować nas odnaleźć już nie obowiązuje. Już jesteście w puszce Pandory, którą trzecia strona stworzyła wokół was. Jakakolwiek będzie wasza decyzja musicie się z niej wydostać. W obliczu takiego dylematu - jedna nieznana przeciw drugiej, musicie kierować się intuicją. Czy chcecie nas zobaczyć na własne oczy, czy tylko Wierzyc w to, co mówią wasi filozofowie? Oto jest prawdziwe pytanie! Po tysiącleciach ten dzień, taki wybór wcześniej czy później musiał nadejść wybór między dwoma niewiadomymi</p>
-<p><strong>Po co rozpowszechniać tę wiadomość?</strong></p>
+<p class="rozdzial" id="r-30"><strong>Po co rozpowszechniać tę wiadomość?</strong></p>
 <p>Przetłumaczcie i rozpowszechnijcie tę wiadomość. Takie działanie będzie miało nieodwracalny i historyczny wpływ na waszą przyszłość w skali tysiącleci, w przeciwnym przypadku opóźni to możliwość wyboru o kilka lat, co najmniej o jedno pokolenie, jeśli to pokolenie dożyje. Rezygnacja z wyboru oznacza poddanie się woli innych. Nie poinformowanie innych oznacza ryzyko, że wynik będzie niezgodny z oczekiwaniami. Obojętność oznacza dobrowolną rezygnację z wolnej woli. To dotyczy waszej przyszłości. Tu chodzi o wasz rozwój. Możliwe, że nie przyjmiecie tego zaproszenia oraz, że z powodu braku informacji przejdzie ono bez echa. Tak czy inaczej, we wszechświecie żadne pragnienie nie jest ignorowane. Wyobraźcie sobie, że pojawilibyśmy się jutro. Tysiące statków. Wyjątkowy szok kulturowy we współczesnej historii ludzkości. Wtedy będzie za późno, by żałować decyzji, bo niczego nie da się już wtedy odwrócić. Nalegamy, byście nie śpieszyli się z decyzja, ale przemyśleli to! I zdecydowali!</p>
 <p>Wpływowe media nieszczególnie będą zainteresowane rozpowszechnianiem tej wiadomości. Dlatego właśnie twoim zadaniem, jako anonimowej ale wyjątkowej, myślącej i kochającej istoty, jest przekazanie jej dalej. Sami budujecie własny los...</p>
-<p><strong>CZY CHCECIE ABYŚMY SIĘ UJAWNILI</strong></p>
+<p class="rozdzial" id="r-31"><strong>CZY CHCECIE ABYŚMY SIĘ UJAWNILI</strong></p>
 <p><strong>Nawet jeśli okaże się, że Julien się myli, to samo przesłanie uważam za piękne, jestem za i podpisuję się pod nim obiema rękami</strong>.</p>
 
   </article>
@@ -341,12 +482,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

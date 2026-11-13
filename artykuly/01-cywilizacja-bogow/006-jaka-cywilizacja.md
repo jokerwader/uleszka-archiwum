@@ -35,24 +35,19 @@ Okres Renesansu i reformacji średniowiecznego Kościoła zapalił zielone świa
 
 Zastosowanie darwinizmu do historii starożytnej zaowocowało człowiekiem jaskiniowym, który po kolei musiał wynajdywać wszelkie potrzebne do rozwoju rzeczy. Najpierw uczył się chodzić, mówić, "wynalazł" ogień, koło, narzędzia oraz broń by po kilkuset tysiącach lat rozbić jądro atomu. Najważniejszym bodaj wynalazkiem człowieka jest pismo, które umożliwiło mu stworzenie bazy naukowej. Dziwne jest jednak to, że najstarsze pisma są dla nas nie do odczytania. Co jest tego powodem? Mętne wyjaśnienia nie wnoszą kompletnie nic do wytłumaczenia tego fenomenu. Kolejną zagadką są budowlane osiągnięcia starożytnych, których dzisiejsza wielka technika nie potrafi skopiować nawet w skali mikro. Naukowe teorie o ich budowie wzbudzają śmiech i politowanie dla "wybitnych" twórczych umysłów. Naukę o pochodzeniu człowieka i historię starożytną zmonopolizowali ludzie, którzy wprowadzają w błąd wszystkich na całym świecie. To nowa, współczesna "Święta Inkwizycja", która za cel postawiła sobie nie dopuszczenie do ujawnienia prawdy. Nie palą już na stosie, ale stosują indoktrynację od najmłodszych lat. Kłamstwo powtarzane przez wiele lat stało się obowiązującą prawdą.
 
-![](../../zrodlo/webacja/05bogowie/0stone.jpg)
-
-![](../../zrodlo/webacja/05bogowie/0ozyrejon.jpg)
-
-![](../../zrodlo/webacja/05bogowie/0sacsay.jpg)
-
-![](../../zrodlo/webacja/05bogowie/0haamonga.jpg)
-
-![](../../zrodlo/webacja/05bogowie/0ishibutai.jpg)
-
+![](../../zrodlo/webacja/05bogowie/0stone.jpg)  
 Druidzi?
 
+![](../../zrodlo/webacja/05bogowie/0ozyrejon.jpg)  
 Egipcjanie?
 
+![](../../zrodlo/webacja/05bogowie/0sacsay.jpg)  
 Inkowie?
 
+![](../../zrodlo/webacja/05bogowie/0haamonga.jpg)  
 Polinezyjczycy?
 
+![](../../zrodlo/webacja/05bogowie/0ishibutai.jpg)  
 Japończycy?
 
 Jakie to ludy epoki kamiennej potrafiły obrabiać tak wielkie kamienne bloki? W jaki sposób transportowano budulec na miejsce budowy? W jaki sposób unoszono te ciężary na znaczną niekiedy wysokość? Dlaczego tego rodzaju budowle spotykamy na całym świecie? W jakim celu wznoszono te budowle? Na te pytania współczesna nauka nie daje odpowiedzi. Jako odpowiedź można usłyszeć tylko bajeczki, jak ta głoszona przez Zahi Hawass'a, że piramidy zbudowano tylko po to, by uwiecznić dążenie człowieka do wieczności. Miliony ton kamienia dla "uwiecznienia" tylko jednej myśli?
@@ -308,12 +303,10 @@ Dlaczego nie znajdujemy grobów gigantów? Sądzę, że wyjaśnienie tej kwestii
 
 Nie tylko chrześcijanie chcą za wszelką cenę dowieść prawdy. Robią to także bracia w Allahu. Mistyfikacji dokonali nie zwolennicy Biblii a zwolennicy Mahometa.
 
-![](../../zrodlo/webacja/05bogowie/olbrzym.jpg)
-
-![](../../zrodlo/webacja/05bogowie/olbrzym2.jpg)
-
+![](../../zrodlo/webacja/05bogowie/olbrzym.jpg)  
 Trzydziestometrowy Adam
 
+![](../../zrodlo/webacja/05bogowie/olbrzym2.jpg)  
 i mastodont z USA
 
 Jak napisano w artykule "[Gigantyczny szkielet ludzki znaleziony w Arabii Saudyjskiej](http://www.ekumenizm.pl/article.php?story=20040706004909287)" - "Wcale nie chodzi o potwierdzenie prawd biblijnych, lecz koranicznych. Mahomet twierdził, że Bóg stworzył Adama na swoje podobieństwo - posiadającego 30 metrów wzrostu. Od czasu, gdy Adam postawił swą stopę na ziemi, kolejne pokolenia malały. Cyfrowo sfałszowane zdjęcie ma na celu potwierdzenie, że Mahomet mówił prawdę. Zdaniem Faith Freedom, zgodnie z tradycyjnym nauczaniem islamskim, kłamanie w celu budowania wiary w Allaha jest jak najbardziej etyczne.". Oszustwo wytropiła Elli z Wiednia. Dzięki Elli.

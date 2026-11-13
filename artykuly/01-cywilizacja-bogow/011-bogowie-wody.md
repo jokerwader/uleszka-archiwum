@@ -238,40 +238,32 @@ Na zakończenie ciekawostka, która być może potwierdza wysoką wiedzę dawnyc
 
 Mezopotamia to obszar leżący w dorzeczy dwóch wielkich rzek - Eufratu i Tygrysu uchodzących do Zatoki Perskiej. Od północy i wschodu otoczony przez wysokie góry. Według nauki teren najstarszych cywilizacji świata, które na tym terenie istniały już w trzecim tysiącleciu przed naszą erą. Sumerowie, Babilończycy, Akkadyjczycy, a na północy Asyryjczycy i królestwo Mari, że wspomnieć te najstarsze. Czy najstarsze? Kto budował z ogromnych elementów Persepolis i do tego na sztucznym podwyższeniu umocnionym kamiennymi płytami? Kto pozostawił po sobie zrujnowane dziś Nemrut Dag? Antioch, Zeus, Apollo czy Herkules? Chronologia Mezopotamii i Azji Mniejszej czeka jeszcze na uporządkowanie. Nas jednak powinny zainteresować piramidy zwane zigguratami.
 
-![](../../zrodlo/webacja/10woda/1agar_quf.jpg)
-
-![](../../zrodlo/webacja/10woda/1ashur.jpg)
-
-![](../../zrodlo/webacja/10woda/1chogha_zanbil.jpg)
-
-![](../../zrodlo/webacja/10woda/1eanna.jpg)
-
+![](../../zrodlo/webacja/10woda/1agar_quf.jpg)  
 Agar-Quf
 
+![](../../zrodlo/webacja/10woda/1ashur.jpg)  
 Ashur
 
+![](../../zrodlo/webacja/10woda/1chogha_zanbil.jpg)  
 Chogha-Zanbil
 
+![](../../zrodlo/webacja/10woda/1eanna.jpg)  
 Ziggurat Eanny
 
 Według badaczy ziggurat budowano wokół wysokiego, ubitego glinianego rdzenia. W około usypywano ziemną piramidę, której następnie nadawano kształt obudowując ją glinianymi cegłami. Budowano schody prowadzące na jej szczyt, który wieńczyła świątynia. Dlaczego z taką pewnością mówi się o świątyni, skoro nie odnaleziono żadnej z nich? Czy twierdzi się tak na znanej już zasadzie - "a cóż tam innego mogło być?". Teksty starożytne mówią, że na szczycie zigguratu stał dom dla Boga, do którego mógł wejść tylko on, król i główny kapłan. Dlaczego dla jednego skromnego "domu" budowano tak potężną podstawę? Dlaczego schody prowadziły tylko na górę, a nie odnaleziono żadnych prowadzących w głąb, do środka zigguratu?
 
 Odpowiedź może być tylko jedna. Nikt nie miał prawa przebywać wewnątrz zigguratu. W jego środku działo się coś bardzo niebezpiecznego dla ludzkiego życia. To właśnie stąd ogromne rozmiary, to właśnie stąd brak jakichkolwiek wejść, to właśnie stąd potężne ogrodzenia samych zigguratów nie pozwalające ludziom znaleźć się nawet w ich pobliżu.
 
-![](../../zrodlo/webacja/10woda/1nimrud.jpg)
-
-![](../../zrodlo/webacja/10woda/1susa.jpg)
-
-![](../../zrodlo/webacja/10woda/1ur.jpg)
-
-![](../../zrodlo/webacja/10woda/1zig.jpg)
-
+![](../../zrodlo/webacja/10woda/1nimrud.jpg)  
 Nimrud
 
+![](../../zrodlo/webacja/10woda/1susa.jpg)  
 Suza
 
+![](../../zrodlo/webacja/10woda/1ur.jpg)  
 Ur
 
+![](../../zrodlo/webacja/10woda/1zig.jpg)  
 "Newim"
 
 Czy w środku zigguratów były jakieś niebezpieczne urządzenia? To można sprawdzić tylko poprzez dokopanie się do samego środka, a kto wie czy także nie poniżej poziomu. Na razie jest to niemożliwe. Dostępu broni arabska religia i panoszący się muzułmańscy ekstremiści. Cywilizowany świat może przeprowadzić tylko teoretyczne rozważania.

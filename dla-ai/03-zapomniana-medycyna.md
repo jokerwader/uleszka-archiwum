@@ -86,181 +86,76 @@ Prof. Tombak twierdzi, że wiele chorób wewnętrznych ma swoje odzwierciedlenie
 
 Stan włosów jest wykładnikiem naszego samopoczucia. Jeśli włosy stają się nieposłuszne, nie układają się we fryzurę, szybko się przetłuszczają, są zbyt suche, łamliwe, to znaczy, że w organizmie jest coś nie w porządku. Zwykle problemy z włosami pojawiają się przy niedostatecznej zdolności filtracyjnej wątroby, braku witamin, makro i mikroelementów.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Wypadanie włosów
-
-nadczynność tarczycy
-
-Powolny wzrost włosów
-
-osłabienie systemu nerwowego
-
-Rozdwajanie włosów
-
-nieprawidłowe żywienie, zakłócenie funkcji nerek
-
-Pojawienie się martwych włosów
-
-anemia
-
-Posiwienie większej części włosów
-
-zła praca nerek, przesunięcie kręgów szyjnych
-
-Nagłe ściemnienie włosów
-
-schorzenie pęcherzyka żółciowego (natychmiast zwrócić się do lekarza), zakłócenie krążenia, zbyt duże zużycie soli, przeciążenie organizmu
-
-Powstawanie łysiny lub łupieżu
-
-nadmierna konsumpcja tłuszczu, cukru, kawy, soli, produktów mlecznych
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Wypadanie włosów | nadczynność tarczycy |
+| Powolny wzrost włosów | osłabienie systemu nerwowego |
+| Rozdwajanie włosów | nieprawidłowe żywienie, zakłócenie funkcji nerek |
+| Pojawienie się martwych włosów | anemia |
+| Posiwienie większej części włosów | zła praca nerek, przesunięcie kręgów szyjnych |
+| Nagłe ściemnienie włosów | schorzenie pęcherzyka żółciowego (natychmiast zwrócić się do lekarza), zakłócenie krążenia, zbyt duże zużycie soli, przeciążenie organizmu |
+| Powstawanie łysiny lub łupieżu | nadmierna konsumpcja tłuszczu, cukru, kawy, soli, produktów mlecznych |
+|   | ⬜ |
 
 **Paznokcie**
 
 Stan paznokci też może wskazywać na istnienie pewnych chorób w organizmie, lub wskazywać na brak molroelementów, poszczególnych pierwiastków lub witamin. Poniższe dane nie pochodzą od prof. Tombaka, a z innych źródeł rozsianych po różnych publikacjach.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Paznokcie różowe, gładkie
-
-dobra kondycja psychiczna, odporność na stresy
-
-Paznokcie niebiesko-czerwone
-
-wewnętrzne stany zapalne
-
-Paznokcie niebiesko-białe
-
-anemia, inne choroby krwi
-
-Pionowe bruzdy
-
-brak krzemu w organizmie
-
-Paznokcie łamliwe
-
-brak magnezu w organizmie
+| 🟩 **Oznaki zewnętrzne** | 🟩 | 🟩 | 🟩 **Przyczyny ich powstawania** |
+| --- | --- | --- | --- |
+| Paznokcie różowe, gładkie |   |   | dobra kondycja psychiczna, odporność na stresy |
+| Paznokcie niebiesko-czerwone |   |   | wewnętrzne stany zapalne |
+| Paznokcie niebiesko-białe |   |   | anemia, inne choroby krwi |
+| Pionowe bruzdy |   |   | brak krzemu w organizmie |
+| Paznokcie łamliwe |   |   | brak magnezu w organizmie |
+|   | 🟩 | 🟩 | 🟩 |
 
 **Czoło**
 
 Patrząc na czoło, należy przede wszystkim zwracać uwagę na zmarszczki. O czym jeszcze należy wiedzieć, prowadząc diagnostykę na podstawie czoła? Jeśli na czole, trochę powyżej nasady nosa, tworzą się zmarszczki w kształcie krzyża, to nie jest wykluczone poważne schorzenie kręgosłupa. Oprócz tego, zmarszczki te wskazują również na skłonność do bólów migrenowych, których przyczyną jest zwyrodnienie kręgów szyjnych. Kiedy zmarszczki na czole są przerywane, faliste, to taki człowiek łatwo daje się wyprowadzić z równowagi, mogą go złamać udręki duchowe, jest skłonny do depresji z powodu niezrównoważonego systemu nerwowego. Jeśli na czole wyraźnie widać ciągłe, krzyżujące się zmarszczki, mamy do czynienia z silną osobowością, która rzadko choruje.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Gruba skóra na czole, pocięta głębokimi zmarszczkami
-
-osłabione nerki, podwyższona zawartość płynu w organizmie
-
-Zmarszczki tylko z jednej strony czoła
-
-bóle głowy
-
-Pionowe i poprzeczne zmarszczki na czole
-
-zbyt duże spożywanie pokarmów białkowych i mlecznych
-
-Obecność brązowych plam
-
-słaba wątroba, zapalenie przewodów żółciowych.
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Gruba skóra na czole, pocięta głębokimi zmarszczkami | osłabione nerki, podwyższona zawartość płynu w organizmie |
+| Zmarszczki tylko z jednej strony czoła | bóle głowy |
+| Pionowe i poprzeczne zmarszczki na czole | zbyt duże spożywanie pokarmów białkowych i mlecznych |
+| Obecność brązowych plam | słaba wątroba, zapalenie przewodów żółciowych. |
+|   | ⬜ |
 
 **Oczy**
 
 W oczach widać nie tylko rozum i inteligencję człowieka, ale również poziom jego sił witalnych. Oczy są nie tylko odbiciem stanu naszego zdrowia, mogą one też coś powiedzieć o naszym charakterze. **Zielone** - należą do ludzi wrażliwych i delikatnych. Ludzie o zielonych oczach są niezawodni, ale zielonookim zawsze brakuje miłości. Jednak temu kto ich pokocha, odpowiedzą bezgranicznym oddaniem. **Niebieskie** - nie szukajcie w nich marzycielstwa i naiwności. Ludzie z niebieskimi oczami mają silną wolę, dążą do okreslonego celu i dobrze wiedzą, czego chcą. **Czarne** - oznaka natury namiętnej. Jeśli już czegoś zechcą, nic nie powstrzyma ich pragnień. Szczególnie w sprawach miłosnych. **Szare** - oznaka dociekliwości. Tacy ludzie mają powodzenie w miłości i w innych dziedzinach życia. **Jasnopiwne** - należą do człowieka rozsądnego, pragmatycznego. **Ciemnopiwne** - charakterystyczne dla ludzi o wrażliwym temperamencie, piwnoocy nie zawsze wiedzą, czego tak naprawdę chcą i tym bardziej nie wiedzą jaką drogą osiągnąć to, czego chcą. Z tego powodu charakteryzuje ich nadmierny temperament, często są wybuchowi.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Oczy mętne
-
-infekcja w organizmie
-
-Oczy zaczerwienione
-
-zapalenie spojówek, przeziębienia
-
-Oczy zapadnięte
-
-wycieńczenie organizmu
-
-Matowe spojrzenie
-
-schorzenia serca
-
-Drżenie oczu
-
-skleroza
-
-Brak zdolności płakania
-
-niedobór witaminy A
-
-Częste mruganie
-
-wegetatywno-naczyniowe zaburzenie napięcia
-
-Czerwone żyłki w oczach
-
-zakłócenie krążenia
-
-Białkówka ma żółte zabarwienie
-
-zakłócenie funkcji wątroby
-
-Okolice oczu mają żółtawe zabarwienie
-
-schorzenia wątroby, pęcherzyka żółciowego
-
-Okolice oczu mają ciemnobrązowe zabarwienie
-
-osłabienie systemu nerwowego
-
-Okolice oczu mają brązowe zabarwienie
-
-schorzenia wątroby, zaparcia
-
-Okolice oczu mają bladoróżowe zabarwienie
-
-schorzenia pęcherza moczowego (mężczyźni - prostaty)
-
-Oczy podkrążone
-
-wycieńczenie organizmu, anemia
-
-Worki pod oczami
-
-zakłócona praca nerek
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Oczy mętne | infekcja w organizmie |
+| Oczy zaczerwienione | zapalenie spojówek, przeziębienia |
+| Oczy zapadnięte | wycieńczenie organizmu |
+| Matowe spojrzenie | schorzenia serca |
+| Drżenie oczu | skleroza |
+| Brak zdolności płakania | niedobór witaminy A |
+| Częste mruganie | wegetatywno-naczyniowe zaburzenie napięcia |
+| Czerwone żyłki w oczach | zakłócenie krążenia |
+| Białkówka ma żółte zabarwienie | zakłócenie funkcji wątroby |
+| Okolice oczu mają żółtawe zabarwienie | schorzenia wątroby, pęcherzyka żółciowego |
+| Okolice oczu mają ciemnobrązowe zabarwienie | osłabienie systemu nerwowego |
+| Okolice oczu mają brązowe zabarwienie | schorzenia wątroby, zaparcia |
+| Okolice oczu mają bladoróżowe zabarwienie | schorzenia pęcherza moczowego (mężczyźni - prostaty) |
+| Oczy podkrążone | wycieńczenie organizmu, anemia |
+| Worki pod oczami | zakłócona praca nerek |
+|   | ⬜ |
 
 **Brwi**
 
 Wykładnik pracy układu hormonalnego w organizmie.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Gęste brwi
-
-mężczyźni - silna wola, dobry bilans hormonalny, kobiety - wczesny okres przekwitania, zakłócenie funkcji gruczołów płciowych
-
-Rzadkie brwi
-
-mężczyźni - zakłócenie funkcji gruczołów płciowych, kobiety - bolesne menstruacje, niedobór estrogenów
-
-Zmarszczka między brwiami
-
-chroniczne bóle głowy
-
-Brwi zrośnięte
-
-zakłócenie mózgowego krążenia krwi, bóle głowy
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Gęste brwi | mężczyźni - silna wola, dobry bilans hormonalny, kobiety - wczesny okres przekwitania, zakłócenie funkcji gruczołów płciowych |
+| Rzadkie brwi | mężczyźni - zakłócenie funkcji gruczołów płciowych, kobiety - bolesne menstruacje, niedobór estrogenów |
+| Zmarszczka między brwiami | chroniczne bóle głowy |
+| Brwi zrośnięte | zakłócenie mózgowego krążenia krwi, bóle głowy |
+|   | ⬜ |
 
 **Powieki**
 
@@ -268,1456 +163,309 @@ Wskaźnik obciążenia systemu nerwowego. Duże powieki wskazują na normalne fu
 
 **POWIEKI GÓRNE**
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Powieki opuchnięte
-
-zaburzenia pracy serca, zaburzenia układu krążenia
-
-Powieki opuszczone
-
-choroby serca, przeciążenie serca
-
-Powieki okrągłe, wypukłe
-
-zwyrodnienie kręgów szyjnych
-
-Odcinki koloru żółto brązowego (typu maleńkich brodawek)
-
-zaburzenia bilansu hormonalnego, zaburzenia bilansu cholesterolu
-
-Rozdwojona zmarszczka na powiece
-
-niedociśnienie, wycieńczenie organizmu
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Powieki opuchnięte | zaburzenia pracy serca, zaburzenia układu krążenia |
+| Powieki opuszczone | choroby serca, przeciążenie serca |
+| Powieki okrągłe, wypukłe | zwyrodnienie kręgów szyjnych |
+| Odcinki koloru żółto brązowego (typu maleńkich brodawek) | zaburzenia bilansu hormonalnego, zaburzenia bilansu cholesterolu |
+| Rozdwojona zmarszczka na powiece | niedociśnienie, wycieńczenie organizmu |
+|   | ⬜ |
 
 **POWIEKI DOLNE**
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Powieki opuchnięte (worki)
-
-zakłócenia funkcji nerek, zastój moczu
-
-Obrzmienie w kolorze różowosinym
-
-zakłócenie funkcji pęcherza moczowego
-
-Obrzmienie w kolorze szarozielonym
-
-nadmiar kwasu moczowego
-
-Powieka sina
-
-niedobór żelaza
-
-Powieka brązowa
-
-anemia
-
-Drganie powieki
-
-niedobór magnezu
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Powieki opuchnięte (worki) | zakłócenia funkcji nerek, zastój moczu |
+| Obrzmienie w kolorze różowosinym | zakłócenie funkcji pęcherza moczowego |
+| Obrzmienie w kolorze szarozielonym | nadmiar kwasu moczowego |
+| Powieka sina | niedobór żelaza |
+| Powieka brązowa | anemia |
+| Drganie powieki | niedobór magnezu |
+|   | ⬜ |
 
 **Nos**
 
 Jest wykładnikiem cech szczególnych duchowego życia człowieka. Jeśli jest on odchylony w prawo, to lubicie zajmować się pracą fizyczną, a jeśli w lewo, to wolicie pracę umysłową.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Czerwony, guzkowaty, z żyłkami
-
-wysokie ciśnienie tętnicze, choroby serca
-
-Sinoczerwony
-
-niskie ciśnienie tętnicze
-
-Blady koniec
-
-nieżyt żołądka, skurcz żołądka, wrzód żołądka
-
-Czerwony
-
-alkoholizm
-
-Brązowy
-
-schorzenia wątroby
-
-Częste krwotoki z nosa
-
-schorzenia płuc, zaburzenia funkcji wątroby
-
-Zaczerwienienie skóry wokół nosa
-
-niedobór magnezu w organizmie
-
-Wokół nosa wyraźne naczynia krwionośne
-
-zastój krwi, mało ruchu na świeżym powietrzu, zapalenie żył
-
-Nieduże żyłki na skrzydełkach nosa
-
-schorzenia wątroby
-
-Skrzydełka zabarwione na sinoczerwono
-
-schorzenia serca
-
-Gruby koniec
-
-rozszerzony żołądek (obżartuch)
-
-Ostry koniec
-
-wrażliwy żołądek
-
-Rozdwojony koniec
-
-przewlekłe schorzenia żołądka
-
-Pobielony koniec
-
-zaburzenia krążenia, choroba wrzodowa
-
-Zbyt krótki
-
-chore serce, zakłócenia pracy narządów krążenia
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Czerwony, guzkowaty, z żyłkami | wysokie ciśnienie tętnicze, choroby serca |
+| Sinoczerwony | niskie ciśnienie tętnicze |
+| Blady koniec | nieżyt żołądka, skurcz żołądka, wrzód żołądka |
+| Czerwony | alkoholizm |
+| Brązowy | schorzenia wątroby |
+| Częste krwotoki z nosa | schorzenia płuc, zaburzenia funkcji wątroby |
+| Zaczerwienienie skóry wokół nosa | niedobór magnezu w organizmie |
+| Wokół nosa wyraźne naczynia krwionośne | zastój krwi, mało ruchu na świeżym powietrzu, zapalenie żył |
+| Nieduże żyłki na skrzydełkach nosa | schorzenia wątroby |
+| Skrzydełka zabarwione na sinoczerwono | schorzenia serca |
+| Gruby koniec | rozszerzony żołądek (obżartuch) |
+| Ostry koniec | wrażliwy żołądek |
+| Rozdwojony koniec | przewlekłe schorzenia żołądka |
+| Pobielony koniec | zaburzenia krążenia, choroba wrzodowa |
+| Zbyt krótki | chore serce, zakłócenia pracy narządów krążenia |
+|   | ⬜ |
 
 **Usta**
 
 Kształt i kolor górnej wargi wskazują na stan krwi. Kształt i kolor dolnej wargi wskazują na stan narządów położonych w dolnej części brzucha.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Nieproporcjonalnie małe
-
-zaburzenia w wydalaniu moczu, zapalenie pęcherza moczowego (namiętni obgryzacze paznokci)
-
-Wąskie, blade wargi u kobiet
-
-niedobór hormonów estrogenowych
-
-Bladość warg
-
-skłonność do choroby wrzodowej
-
-Żółtawe zabarwienie skóry wokół ust
-
-schorzenia pęcherzyka żółciowego i wątroby
-
-Brązowe zabarwienie skóry wokół ust
-
-schorzenia układu pokarmowego
-
-Zapach z ust
-
-próchnica, schorzenia układu pokarmowego, choroby nosa
-
-Wąska górna warga
-
-skłonność do cukrzycy
-
-Pionowa zmarszczka nad górną wargą
-
-osłabienie pracy gruczołów płciowych, zaburzenia hormonalne, początek okresu przekwitania
-
-Kąciki ust żółtobrązowe
-
-chora wątroba
-
-Zajady w kącikach ust
-
-anemia, brak żelaza w organizmie
-
-Maleńkie pryszczyki w kącikach ust
-
-choroby wątroby i pęcherzyka żółciowego
-
-Zgrubienie na dole dolnej wargi
-
-zapalenie dwunastnicy, przeciążona wątroba
-
-Bardzo gruba dolna warga
-
-możliwe schorzenia układu pokarmowego i wątroby
-
-Poprzeczna zmarszczka pod dolną wargą
-
-hemoroidy
-
-Popękane wargi
-
-niedobór witamin B12 i substancji mineralnych Ca, Mg
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Nieproporcjonalnie małe | zaburzenia w wydalaniu moczu, zapalenie pęcherza moczowego (namiętni obgryzacze paznokci) |
+| Wąskie, blade wargi u kobiet | niedobór hormonów estrogenowych |
+| Bladość warg | skłonność do choroby wrzodowej |
+| Żółtawe zabarwienie skóry wokół ust | schorzenia pęcherzyka żółciowego i wątroby |
+| Brązowe zabarwienie skóry wokół ust | schorzenia układu pokarmowego |
+| Zapach z ust | próchnica, schorzenia układu pokarmowego, choroby nosa |
+| Wąska górna warga | skłonność do cukrzycy |
+| Pionowa zmarszczka nad górną wargą | osłabienie pracy gruczołów płciowych, zaburzenia hormonalne, początek okresu przekwitania |
+| Kąciki ust żółtobrązowe | chora wątroba |
+| Zajady w kącikach ust | anemia, brak żelaza w organizmie |
+| Maleńkie pryszczyki w kącikach ust | choroby wątroby i pęcherzyka żółciowego |
+| Zgrubienie na dole dolnej wargi | zapalenie dwunastnicy, przeciążona wątroba |
+| Bardzo gruba dolna warga | możliwe schorzenia układu pokarmowego i wątroby |
+| Poprzeczna zmarszczka pod dolną wargą | hemoroidy |
+| Popękane wargi | niedobór witamin B12 i substancji mineralnych Ca, Mg |
+|   | ⬜ |
 
 **Zęby**
 
 Aby mieć zdrowe zęby, należy prawidłowo się odżywiać i prawidłowo czyścić zęby. Powoli przeżuwać pokarm. Nie jeść gorącego i bardzo zimnego pożywienia. Regularnie co 6 miesięcy odbywać wizyty profilaktyczne u stomatologa. Jak się okazuje, zdrowymi zębami są zęby przypominające kolorem kość słoniową (nie mylić z żółtym kolorem zębów u palaczy). Im ładniejszy jest kształt zębów i im równomierniej są one zabarwione, tym człowiek jest zdrowszy. Zniszczone zęby są sygnałem niezdrowego stanu organizmu. Podstawową przyczyną psucia się zębów w naszych czasach jest przede wszystkim spożywanie produktów poddanych obróbce termicznej (gotowanych też), produktów zawierających cukier, spożywanie w dużych ilościach kawy i słodkich napojów, lodów i produktów syntetycznych. Nieprawidłowe odżywianie, poczynając od wieku dziecięcego, prowadzi do całkowitego rozkładu przemiany wapnia w organizmie, co w końcowym rezultacie odbije się na stanie kości i zębów.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Żółte
-
-zakłócenia pracy wątroby i pęcherzyka żółciowego
-
-Brązowoczarne
-
-zakłócenia pracy układu pokarmowego, szczególnie jelita grubego
-
-Śnieżnobiałe
-
-zaburzenia bilansu substancji mineralnych w organizmie
-
-Duże odstępy między zębami
-
-ogólne osłabienie organizmu
-
-Zgrzytanie zębami
-
-choroby układu nerwowego (u dzieci - pasożyty)
-
-Wrażliwość na zimne, słodkie i kwaśne
-
-obnażenie szyjki zęba
-
-Ból ustający przy nacisku na ząb
-
-ból pochodzenia neurologicznego
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Żółte | zakłócenia pracy wątroby i pęcherzyka żółciowego |
+| Brązowoczarne | zakłócenia pracy układu pokarmowego, szczególnie jelita grubego |
+| Śnieżnobiałe | zaburzenia bilansu substancji mineralnych w organizmie |
+| Duże odstępy między zębami | ogólne osłabienie organizmu |
+| Zgrzytanie zębami | choroby układu nerwowego (u dzieci - pasożyty) |
+| Wrażliwość na zimne, słodkie i kwaśne | obnażenie szyjki zęba |
+| Ból ustający przy nacisku na ząb | ból pochodzenia neurologicznego |
+|   | ⬜ |
 
 **Język**
 
 Język jest zwierciadłem organizmu. Na podstawie stanu języka możemy bezbłędnie stwierdzić, czy człowiek jest zdrowy, czy chory. Nawet jeśli symptomy choroby zniknęły, a stan języka nie uległ zmianie, możemy z całą pewnością powiedzieć, że choroba nie ustąpiła. Szczególnie charakterystyczne są zmiany na powierzchni języka przy chorobach układu trawienia - żołądka, wątroby i jelit. Większość ludzi ma na języku białoszary nalot, który jest oznaką zaburzenia funkcji trawienia. Nieprawidłowy sposób odżywiania wiekszości ludzi prowadzi do kwasicy (kwaśnego odczyny krwi), co stwarza w organizmie korzystne warunki dla rozwoju chorobotwórczych pasożytów (grzybów, drożdży itp.). Właśnie kwaśny odczyn krwi jest przyczyną wielu chorób układu trawienia, serca, wątroby, układu nerwowego, bólów głowy. Występowanie grzybicznego białoszarego nalotu na języku jest wyraźną oznaką tego, że powinniście natychmiast zmienić tryb życia, przeprowadzić oczyszczenie organizmu, prawidłowo łączyć produkty spożywcze, spożywać więcej artykułów dających zasadowy odczyn krwi - warzyw, owoców, świeżo przygotowanych soków. Często ludzie latami leczą choroby serca, gdy dolegliwości sercowe powstają na skutek schorzeń wątroby. Kiedy tylko wyleczy się schorzenia wątroby, których symptomy można wykryć na podstawie języka, serce przstaje boleć.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Czysty, różowy, gładki, bez nalotu
-
-zdrowe organy trawienia
-
-Biały nalot na 1/3 języka
-
-nieżyt żołądka
-
-Biały nalot na 1/3 tylnej części języka
-
-procesy zapalne w układzie pokarmowym
-
-Biały nalot na całej powierzchni języka
-
-zapalenie jamy ustnej
-
-Żółty nalot na języku
-
-podrażnienie pęcherzyka żółciowego, hemoroidy
-
-Brązowy nalot na języku
-
-schorzenia jelit
-
-Czarny nalot na języku
-
-grzybiczna infekcja błony śluzowej jamy ustnej
-
-Gładki różowy język
-
-anemia, niedobór żelaza w organizmie
-
-Suchy język, czerwony pas pośrodku
-
-zapalenie jelit z wzdęciem brzucha
-
-Krwawoczerwony, pokryty pęknięciami
-
-nieżyt żołądka
-
-Paski piany z obu stron języka
-
-reumatyzm
-
-Zaczerwienienie i obrzmienie z prawej strony
-
-zapalenie wątroby i przewodów żółciowych
-
-Truskawka, pokryty czerwonymi i białymi plamami
-
-szkarlatyna
-
-Drżenie języka
-
-zapalenie mózgu, nerwowość
-
-Pieczenie języka
-
-anemia, niedobór żelaza w organizmie
-
-Suchy popękany język
-
-możliwa cukrzyca
-
-Blada dolna strona języka
-
-niedobór witamin
-
-Żółta dolna strona języka
-
-choroby wątroby
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Czysty, różowy, gładki, bez nalotu | zdrowe organy trawienia |
+| Biały nalot na 1/3 języka | nieżyt żołądka |
+| Biały nalot na 1/3 tylnej części języka | procesy zapalne w układzie pokarmowym |
+| Biały nalot na całej powierzchni języka | zapalenie jamy ustnej |
+| Żółty nalot na języku | podrażnienie pęcherzyka żółciowego, hemoroidy |
+| Brązowy nalot na języku | schorzenia jelit |
+| Czarny nalot na języku | grzybiczna infekcja błony śluzowej jamy ustnej |
+| Gładki różowy język | anemia, niedobór żelaza w organizmie |
+| Suchy język, czerwony pas pośrodku | zapalenie jelit z wzdęciem brzucha |
+| Krwawoczerwony, pokryty pęknięciami | nieżyt żołądka |
+| Paski piany z obu stron języka | reumatyzm |
+| Zaczerwienienie i obrzmienie z prawej strony | zapalenie wątroby i przewodów żółciowych |
+| Truskawka, pokryty czerwonymi i białymi plamami | szkarlatyna |
+| Drżenie języka | zapalenie mózgu, nerwowość |
+| Pieczenie języka | anemia, niedobór żelaza w organizmie |
+| Suchy popękany język | możliwa cukrzyca |
+| Blada dolna strona języka | niedobór witamin |
+| Żółta dolna strona języka | choroby wątroby |
+|   | ⬜ |
 
 **Podbródek**
 
 Podbródek jest wykładnikiem cech charakteru człowieka. Podbródek wysunięty do przodu świadczy o silnej woli, wciągnięty do wewnątrz wskazuje na słabą wolę, szybkie męczenie się, skłonność do neurastenii.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Wgłębienie pośrodku podbródka
-
-bóle kręgosłupa, hemoroidy
-
-Zwiotczała tkanka podbródka
-
-zaburzenia krążenia krwi, złe trawienie
-
-Obrzmienie podbródka
-
-zaburzenia pracy nerek
-
-Odrętwienie odcinka między podbródkiem a dolna wargą
-
-Możliwy zawał (natychmiast zwrócić się do lekarza), przeprowadzić badania serca i naczyń
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Wgłębienie pośrodku podbródka | bóle kręgosłupa, hemoroidy |
+| Zwiotczała tkanka podbródka | zaburzenia krążenia krwi, złe trawienie |
+| Obrzmienie podbródka | zaburzenia pracy nerek |
+| Odrętwienie odcinka między podbródkiem a dolna wargą | Możliwy zawał (natychmiast zwrócić się do lekarza), przeprowadzić badania serca i naczyń |
+|   | ⬜ |
 
 **Szyja**
 
 Szyja jest wykładnikiem wieku biologicznego. Szyja krótka - możliwość zaburzeń układu krążenia. Skłonność do udaru. Ludziom z krótką szyją nie wolno dopuścić do zwiększenia wagi ciała. Powinni obserwować poziom cholesterolu. Więcej być w ruchu na wolnym powietrzu. Szyja długa - skłonność do angin, zapaleń oskrzeli i płuc. Ludzie z długą szyją powinni hartować ciało, szczególnie nos. Starać się oddychać nosem. Nie dopuszczać do katarów.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Niebieskawe pasy na szyi
-
-zakłócenia działalności serca
-
-Tętnica szyjna pulsuje przy spokojnym stanie organizmu
-
-rozszerzenie serca
-
-Zwiotczała skóra pod podbródkiem
-
-przeciążenie serca zbędną masą ciała
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Niebieskawe pasy na szyi | zakłócenia działalności serca |
+| Tętnica szyjna pulsuje przy spokojnym stanie organizmu | rozszerzenie serca |
+| Zwiotczała skóra pod podbródkiem | przeciążenie serca zbędną masą ciała |
+|   | ⬜ |
 
 **Ramiona**
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Lewe ramię wyższe niż prawe
-
-skłonność do reumatyzmu
-
-Bóle w prawej łopatce
-
-schorzenia wątroby, pęcherzyka żółciowego
-
-Bóle w lewej łopatce
-
-wrzód żołądka
-
-Oba ramiona uniesione
-
-zaburzenia pracy płuc
-
-Oba ramiona wysunięte do przodu
-
-mała pojemność płuc, skrzywienie odcinka piersiowego kręgosłupa
-
-Oba ramiona cofnięte
-
-zaburzenia oddychania, możliwa astma oskrzelowa
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Lewe ramię wyższe niż prawe | skłonność do reumatyzmu |
+| Bóle w prawej łopatce | schorzenia wątroby, pęcherzyka żółciowego |
+| Bóle w lewej łopatce | wrzód żołądka |
+| Oba ramiona uniesione | zaburzenia pracy płuc |
+| Oba ramiona wysunięte do przodu | mała pojemność płuc, skrzywienie odcinka piersiowego kręgosłupa |
+| Oba ramiona cofnięte | zaburzenia oddychania, możliwa astma oskrzelowa |
+|   | ⬜ |
 
 **Skóra**
 
 Skóra jest drugim po płucach najważniejszym narządem oddychania. Aby być zdrowym należy dążyć do maksymalnego kontaktu skóry z powietrzem, wodą i, oczywiście w granicach rozsądku, ze słońcem.
 
-**Oznaki zewnętrzne**
-
-**Przyczyny ich powstawania**
-
-Twarz blada
-
-niedociśnienie, anemia, zaburzenia krążenia
-
-Skóra żółtawa
-
-zakłócenie funkcji wątroby lub pęcherzyka żółciowego
-
-Skóra czerwona
-
-nadciśnienie, zaburzenia krążenia krwi
-
-Skóra gładka, jedwabna
-
-skłonność do reumatyzmu, podagry, schorzenia nerek i układu moczowego
-
-Skóra sucha, szorstka
-
-skłonność do chorób skórnych
-
-Skóra zimna, wilgotna
-
-skłonność do schorzeń wątroby
-
-Pomarszczona, starcza skóra twarzy
-
-schorzenia trzustki, cukrzyca
-
-Skóra twarzy brązowa
-
-schorzenia gruczołu nadnerczy
-
-Skóra twarzy zielonkawa
-
-schorzenia onkologiczne
-
-Nieprzyjemny zapach skóry
-
-źle zbilansowane, nieprawidłowe żywienie
-
-Skóra sucha, łuszcząca
-
-nadmiar szlaków w organizmie
-
-Na twarzy i nosie siatka naczyń krwionośnych
-
-nadmierne spożycie białka zwierzęcego, nadmiar kwasu moczowego, chora wątroba, przejadanie się
-
-Na twarzy i nosie siatka naczyń krwionośnych
-
-nadmierne spożycie białka zwierzęcego, nadmiar kwasu moczowego, chora wątroba, przejadanie się
-
-Czerwone plamy
-
-nadmierne spożycie białka zwierzęcego i smażonych potraw
-
-Zaskórniki
-
-nieprawidłowe żywienie, zbyt duże spożycie białka zwierzęcego, skrobi, tłustych potraw, zanieczyszczenie organizmu szlakami, nadmiar toksyn
-
-Pryszcze
-
-nieprawidłowe odżywianie, przewaga potraw mącznych i zawierających cukier, toksyczny stan jelita grubego
-
-Białe zaskórniki (kaszaki)
-
-uszkodzenie błony śluzowej jamy ustnej
-
-Białe plamy na skórze
-
-niedobór w organizmie witaminy B12, oznaka cukrzycy lub schorzenia tarczycy (konieczna konsultacja lekarska)
+| **Oznaki zewnętrzne** | **Przyczyny ich powstawania** |
+| --- | --- |
+| Twarz blada | niedociśnienie, anemia, zaburzenia krążenia |
+| Skóra żółtawa | zakłócenie funkcji wątroby lub pęcherzyka żółciowego |
+| Skóra czerwona | nadciśnienie, zaburzenia krążenia krwi |
+| Skóra gładka, jedwabna | skłonność do reumatyzmu, podagry, schorzenia nerek i układu moczowego |
+| Skóra sucha, szorstka | skłonność do chorób skórnych |
+| Skóra zimna, wilgotna | skłonność do schorzeń wątroby |
+| Pomarszczona, starcza skóra twarzy | schorzenia trzustki, cukrzyca |
+| Skóra twarzy brązowa | schorzenia gruczołu nadnerczy |
+| Skóra twarzy zielonkawa | schorzenia onkologiczne |
+| Nieprzyjemny zapach skóry | źle zbilansowane, nieprawidłowe żywienie |
+| Skóra sucha, łuszcząca | nadmiar szlaków w organizmie |
+| Na twarzy i nosie siatka naczyń krwionośnych | nadmierne spożycie białka zwierzęcego, nadmiar kwasu moczowego, chora wątroba, przejadanie się |
+| Na twarzy i nosie siatka naczyń krwionośnych | nadmierne spożycie białka zwierzęcego, nadmiar kwasu moczowego, chora wątroba, przejadanie się |
+| Czerwone plamy | nadmierne spożycie białka zwierzęcego i smażonych potraw |
+| Zaskórniki | nieprawidłowe żywienie, zbyt duże spożycie białka zwierzęcego, skrobi, tłustych potraw, zanieczyszczenie organizmu szlakami, nadmiar toksyn |
+| Pryszcze | nieprawidłowe odżywianie, przewaga potraw mącznych i zawierających cukier, toksyczny stan jelita grubego |
+| Białe zaskórniki (kaszaki) | uszkodzenie błony śluzowej jamy ustnej |
+| Białe plamy na skórze | niedobór w organizmie witaminy B12, oznaka cukrzycy lub schorzenia tarczycy (konieczna konsultacja lekarska) |
+|   | ⬜ |
 
 **O kręgosłupie**
 
 Niepełny spis chorób, które są wynikiem braku należytego zainteresowania swoim kręgosłupem.
 
-**Przemieszczenie kręgów**
-
-**Dolegliwości**
-
-Szyjnych
-
-alergia, głuchota, choroby oczu, różnorodne egzemy, choroby gardła, choroby tarczycy
-
-Piersiowych
-
-astma, bóle rąk i pleców, choroby pęcherzyka żółciowego, choroby wątroby, owrzodzenie żołądka i dwunastnicy, choroby nerek, choroby skóry
-
-Lędźwiowych
-
-hemoroidy, choroby pęcherza moczowego, zaburzenia cyklu miesiączkowego, bolesna miesiączka, impotencja, bóle w kolanach, lumbago, zły krwioobieg w nogach, obrzęki kostek, "zimne" nogi, słabość w nogach, skurcze w mięśniach nóg
+| **Przemieszczenie kręgów** | **Dolegliwości** |
+| --- | --- |
+| Szyjnych | alergia, głuchota, choroby oczu, różnorodne egzemy, choroby gardła, choroby tarczycy |
+| Piersiowych | astma, bóle rąk i pleców, choroby pęcherzyka żółciowego, choroby wątroby, owrzodzenie żołądka i dwunastnicy, choroby nerek, choroby skóry |
+| Lędźwiowych | hemoroidy, choroby pęcherza moczowego, zaburzenia cyklu miesiączkowego, bolesna miesiączka, impotencja, bóle w kolanach, lumbago, zły krwioobieg w nogach, obrzęki kostek, "zimne" nogi, słabość w nogach, skurcze w mięśniach nóg |
+|   | ⬜ |
 
 **Częstsze choroby i zewnętrzne objawy**
 
 Teraz, kiedy znamy niektóre oznaki zewnetrzne wskazujące na możliwość wystąpienia choroby, powinniśmy dokonać podsumowania. Ponieważ zarówno chorób jak i ich oznak jest bardzo wiele, rozpatrzmy te, które spotykane są najczęściej.
 
-**Możliwa choroba**
-
-**Widoczne oznaki zewnętrzne**
-
-Anemia
-
-bladość twarzy, brązowe zabarwienie dolnej powieki, perłowe zabarwienie białkówki oka, perłowe zabarwienie zębów, bladość małżowin usznych, zajady w kącikach ust, uczucie pieczenia języka, język gładki i czerwony
-
-Bolesne lub rzadkie menstruacje, niedobór estrogenów u kobiet
-
-cienkie, delikatne brwi
-
-Bóle głowy
-
-zrośnięte brwi, zmarszczki z jednej strony czoła, wyraźna zmarszczka między brwiami
-
-Bóle i choroby kręgosłupa
-
-"ścięta" potylica, szeroki krok, ciągłe znoszenie na boki przy chodzeniu
-
-Chore nerki
-
-duża i mięsista górna warga, gruba skóra na czole i głębokie zmarszczki, czerwone uszy, obrzmiałe dolne powieki, długie, wąskie wypukłe paznokcie, ciągła obecność białych plam na paznokciach, powstawanie worków pod oczami
-
-Choroby pęcherza moczowego
-
-obrzmienie dolnych powiek i ich zabarwienie na różowosiny kolor, nieproporcjonalnie mały wzrost
-
-Choroby pęcherzyka żółciowego
-
-żółte zabarwienie skóry koło ust, pożółknięcie zębów, żółta skóra koło oczu, ciągłe bóle w okolicy prawej łopatki, żółte zabarwienie oczu
-
-Choroby płuc
-
-oba ramiona cofnięte, zaczerwienienie policzków, długa szyja, częste krwotoki z nosa, wypukłe paznokcie
-
-Choroby stawu kolanowego
-
-niezdolność do schodzenia po schodach
-
-Cukrzyca
-
-gładka, sucha dolna warga z sinoczerwonym zabarwieniem, pojawienie się martwych włosów, wczesna siwizna
-
-Hemoroidy
-
-zagłębienie pośrodku podbródka, powstanie żółtego nalotu na zębach
-
-Krew - objawy zastoinowe
-
-na skórze koło nosa popękane naczynia krwionośne
-
-Mała ilość erytrocytów we krwi
-
-blada dolna (wewnętrzna) część języka
-
-Nadciśnienie
-
-czerwony, guzkowaty nos z żyłkami, zrośnięte brwi, zaczerwienienie policzków
-
-Nadmierne obciążenie tarczycy
-
-wypukłe paznokcie, krótkie brwi, brak bocznych części brwi, częste mruganie, nalot na dolnych powiekach, opuchnięta szyja, wąski grzbiet nosa, górny brzeg ucha zwinięty w rurkę
-
-Neurastenia
-
-niespokojne spojrzenie
-
-Niedobór witaminy A
-
-niezdolność do płaczu, przy wchodzeniu ze światła do ciemnego pomieszczenia utrata zdolności widzenia
-
-Niedobór witaminy B
-
-obrzmiewanie języka
-
-Niedobór magnezu w organizmie
-
-drżenie dolnej powieki, przypływ energii po godzinie 20-tej, zaczerwienienie skóry koło nosa
-
-Niedobór substancji mineralnych
-
-kruche, łamliwe paznokcie
-
-Niedobór wapnia w organizmie
-
-błyszcząca skóra uszu
-
-Niedobór żelaza w organizmie
-
-zapadłe, sinawe powieki dolne, okresowe pojawianie się białych plam na paznokciach, czerwone uszy, częste zajady w kącikach ust
-
-Niedociśnienie
-
-bladość policzków, skóry czoła, twarzy, obwisłe powieki
-
-Niewydolność i choroby serca
-
-woskowe zabarwienie dolnych powiek, obrzmiałe dolne powieki, grube żyły na szyi, zbyt krótka szyja, zbyt krótki nos, trudności przy wchodzeniu po schodach
-
-Nieżyt żołądka
-
-biały nalot na środkowej trzeciej części języka, bladość małżowin nosowych
-
-Osłabienie funkcji gruczołów płciowych u kobiet
-
-włosy na górnej wardze, zakola na czole, gęste, krzaczaste brwi
-
-Początek okresu przekwitania u kobiet
-
-wiele głębokich małych zmarszczek nad górną wargą
-
-Przeciążenie organizmu, szybkie męczenie się
-
-małe uszy
-
-Reumatyzm
-
-paski piany z obu stron języka
-
-Schorzenia żołądka
-
-zmiana kształtu paznokcia na palcu środkowym, pojawienie się pęknięć
-
-Skłonność do chorób układu nerwowego
-
-lewe ramię wyższe niż prawe
-
-Skłonność do cukrzycy
-
-suchy i popękany język, wąska górna warga
-
-Skłonność do epilepsji
-
-zrośnięte brwi
-
-Skłonność do otyłości
-
-okrągłe, grube uszy, bardzo grube płatki uszu
-
-Skłonność do reumatyzmu
-
-lewe ramię wyższe niż prawe, na paznokciach wgłębienia w kształcie punktów
-
-Skłonność do wrzodów żołądka
-
-wąski, wgłębiony (rozdwojony) koniuszek nosa
-
-Skłonność do zawału serca
-
-pomarszczone płatki uszu, drętwienie przy nacisku miejsca między dolną wargą i podbródkiem
-
-Skleroza
-
-na wewnętrznej stronie dłoni wyraźnie występują żyły, przy wyprostowanej dłoni widać zagłębienie
-
-Skurcze żołądka
-
-garbienie się przy chodzeniu
-
-Spadek potencji u mężczyzn
-
-pionowe zmarszczki przed uchem
-
-Trzustka przeciążona na granicy choroby
-
-pomarszczona skóra twarzy, wąska górna warga, zgrubienia poniżej granicy oczu
-
-Twory hemoroidalne (krwawnicowe) na organach wewnętrznych
-
-plamy pigmentacyjne na dolnej wardze
-
-Wrażliwy żołądek
-
-ostry nos
-
-Wrzód żołądka
-
-bóle w lewej łopatce, biały koniuszek nosa
-
-Wyczerpany system nerwowy
-
-trudności przy wchodzeniu po schodach (szczególnie w młodym wieku)
-
-Zaburzenia funkcji trawienia
-
-podłużne bruzdki na paznokciach w połączeniu z różnymi wypryskami na skórze, powstawanie pryszczy, czerwone uszy
-
-Zaburzenie krążenia krwi
-
-zbielenie koniuszka nosa, zrośnięte brwi, wczesna siwizna, bladość twarzy, bladość warg, zgrubienie paznokci, "ścięta" potylica
-
-Zaburzenia przemiany materii
-
-nalot na dolnych powiekach, białe plamy na paznokciach
-
-Zakłócenie bilansu cholesterolu
-
-okrągłe wzgórki koloru żółtobrązowego (podobne do maleńkich brodawek) na górnej powiece
-
-Zakrzepica, powstawanie skrzepów
-
-na skórze koło nosa wyraźnie widać popękane naczynia krwionośne
-
-Zapalenie gruczołów płciowych
-
-głębokie zmarszczki na szyi, blade płatki uszu, opuchnięta górna warga
-
-Zapalenie prostaty
-
-bardzo gruba dolna warga, bladoróżowe zabarwienie wokół oczu
-
-Zapalenie wątroby
-
-żółte białkówki oczu, żółtość skóry, policzki zapadnięte z obu stron, żółte zabarwienie skóry wokół ust, nieznaczne żyłki na skrzydełkach nosa, brązowe zabarwienie skóry wokół oczu, ciągłe występowanie białych plam na paznokciach, zgrubienie dolnego brzegu wargi
-
-Zaparcia
-
-brązowa skóra wokół oczu
-
-Zwyrodnienie kręgów szyjnych
-
-wyraźna zmarszczka przy prawej brwi
+| **Możliwa choroba** | **Widoczne oznaki zewnętrzne** |
+| --- | --- |
+| Anemia | bladość twarzy, brązowe zabarwienie dolnej powieki, perłowe zabarwienie białkówki oka, perłowe zabarwienie zębów, bladość małżowin usznych, zajady w kącikach ust, uczucie pieczenia języka, język gładki i czerwony |
+| Bolesne lub rzadkie menstruacje, niedobór estrogenów u kobiet | cienkie, delikatne brwi |
+| Bóle głowy | zrośnięte brwi, zmarszczki z jednej strony czoła, wyraźna zmarszczka między brwiami |
+| Bóle i choroby kręgosłupa | "ścięta" potylica, szeroki krok, ciągłe znoszenie na boki przy chodzeniu |
+| Chore nerki | duża i mięsista górna warga, gruba skóra na czole i głębokie zmarszczki, czerwone uszy, obrzmiałe dolne powieki, długie, wąskie wypukłe paznokcie, ciągła obecność białych plam na paznokciach, powstawanie worków pod oczami |
+| Choroby pęcherza moczowego | obrzmienie dolnych powiek i ich zabarwienie na różowosiny kolor, nieproporcjonalnie mały wzrost |
+| Choroby pęcherzyka żółciowego | żółte zabarwienie skóry koło ust, pożółknięcie zębów, żółta skóra koło oczu, ciągłe bóle w okolicy prawej łopatki, żółte zabarwienie oczu |
+| Choroby płuc | oba ramiona cofnięte, zaczerwienienie policzków, długa szyja, częste krwotoki z nosa, wypukłe paznokcie |
+| Choroby stawu kolanowego | niezdolność do schodzenia po schodach |
+| Cukrzyca | gładka, sucha dolna warga z sinoczerwonym zabarwieniem, pojawienie się martwych włosów, wczesna siwizna |
+| Hemoroidy | zagłębienie pośrodku podbródka, powstanie żółtego nalotu na zębach |
+| Krew - objawy zastoinowe | na skórze koło nosa popękane naczynia krwionośne |
+| Mała ilość erytrocytów we krwi | blada dolna (wewnętrzna) część języka |
+| Nadciśnienie | czerwony, guzkowaty nos z żyłkami, zrośnięte brwi, zaczerwienienie policzków |
+| Nadmierne obciążenie tarczycy | wypukłe paznokcie, krótkie brwi, brak bocznych części brwi, częste mruganie, nalot na dolnych powiekach, opuchnięta szyja, wąski grzbiet nosa, górny brzeg ucha zwinięty w rurkę |
+| Neurastenia | niespokojne spojrzenie |
+| Niedobór witaminy A | niezdolność do płaczu, przy wchodzeniu ze światła do ciemnego pomieszczenia utrata zdolności widzenia |
+| Niedobór witaminy B | obrzmiewanie języka |
+| Niedobór magnezu w organizmie | drżenie dolnej powieki, przypływ energii po godzinie 20-tej, zaczerwienienie skóry koło nosa |
+| Niedobór substancji mineralnych | kruche, łamliwe paznokcie |
+| Niedobór wapnia w organizmie | błyszcząca skóra uszu |
+| Niedobór żelaza w organizmie | zapadłe, sinawe powieki dolne, okresowe pojawianie się białych plam na paznokciach, czerwone uszy, częste zajady w kącikach ust |
+| Niedociśnienie | bladość policzków, skóry czoła, twarzy, obwisłe powieki |
+| Niewydolność i choroby serca | woskowe zabarwienie dolnych powiek, obrzmiałe dolne powieki, grube żyły na szyi, zbyt krótka szyja, zbyt krótki nos, trudności przy wchodzeniu po schodach |
+| Nieżyt żołądka | biały nalot na środkowej trzeciej części języka, bladość małżowin nosowych |
+| Osłabienie funkcji gruczołów płciowych u kobiet | włosy na górnej wardze, zakola na czole, gęste, krzaczaste brwi |
+| Początek okresu przekwitania u kobiet | wiele głębokich małych zmarszczek nad górną wargą |
+| Przeciążenie organizmu, szybkie męczenie się | małe uszy |
+| Reumatyzm | paski piany z obu stron języka |
+| Schorzenia żołądka | zmiana kształtu paznokcia na palcu środkowym, pojawienie się pęknięć |
+| Skłonność do chorób układu nerwowego | lewe ramię wyższe niż prawe |
+| Skłonność do cukrzycy | suchy i popękany język, wąska górna warga |
+| Skłonność do epilepsji | zrośnięte brwi |
+| Skłonność do otyłości | okrągłe, grube uszy, bardzo grube płatki uszu |
+| Skłonność do reumatyzmu | lewe ramię wyższe niż prawe, na paznokciach wgłębienia w kształcie punktów |
+| Skłonność do wrzodów żołądka | wąski, wgłębiony (rozdwojony) koniuszek nosa |
+| Skłonność do zawału serca | pomarszczone płatki uszu, drętwienie przy nacisku miejsca między dolną wargą i podbródkiem |
+| Skleroza | na wewnętrznej stronie dłoni wyraźnie występują żyły, przy wyprostowanej dłoni widać zagłębienie |
+| Skurcze żołądka | garbienie się przy chodzeniu |
+| Spadek potencji u mężczyzn | pionowe zmarszczki przed uchem |
+| Trzustka przeciążona na granicy choroby | pomarszczona skóra twarzy, wąska górna warga, zgrubienia poniżej granicy oczu |
+| Twory hemoroidalne (krwawnicowe) na organach wewnętrznych | plamy pigmentacyjne na dolnej wardze |
+| Wrażliwy żołądek | ostry nos |
+| Wrzód żołądka | bóle w lewej łopatce, biały koniuszek nosa |
+| Wyczerpany system nerwowy | trudności przy wchodzeniu po schodach (szczególnie w młodym wieku) |
+| Zaburzenia funkcji trawienia | podłużne bruzdki na paznokciach w połączeniu z różnymi wypryskami na skórze, powstawanie pryszczy, czerwone uszy |
+| Zaburzenie krążenia krwi | zbielenie koniuszka nosa, zrośnięte brwi, wczesna siwizna, bladość twarzy, bladość warg, zgrubienie paznokci, "ścięta" potylica |
+| Zaburzenia przemiany materii | nalot na dolnych powiekach, białe plamy na paznokciach |
+| Zakłócenie bilansu cholesterolu | okrągłe wzgórki koloru żółtobrązowego (podobne do maleńkich brodawek) na górnej powiece |
+| Zakrzepica, powstawanie skrzepów | na skórze koło nosa wyraźnie widać popękane naczynia krwionośne |
+| Zapalenie gruczołów płciowych | głębokie zmarszczki na szyi, blade płatki uszu, opuchnięta górna warga |
+| Zapalenie prostaty | bardzo gruba dolna warga, bladoróżowe zabarwienie wokół oczu |
+| Zapalenie wątroby | żółte białkówki oczu, żółtość skóry, policzki zapadnięte z obu stron, żółte zabarwienie skóry wokół ust, nieznaczne żyłki na skrzydełkach nosa, brązowe zabarwienie skóry wokół oczu, ciągłe występowanie białych plam na paznokciach, zgrubienie dolnego brzegu wargi |
+| Zaparcia | brązowa skóra wokół oczu |
+| Zwyrodnienie kręgów szyjnych | wyraźna zmarszczka przy prawej brwi |
+|   | ⬜ |
 
 **Czego potrzebuje organizm**
 
 Nasze samopoczucie jest odzwierciedleniem tego co i jak jemy. Są jednak składniki, bez których organizm nie może prawidłowo funkcjonować. To witaminy, makro i mikroelementy czy pierwiastki, które nasz organizm musi posiadać w sobie, by funkcjonować bez zarzutu. Brak któregokolwiek może powodować choroby lub zapoczątkować łańcuch zdarzeń, który nas do nich doprowadzi. Wszystkie te elementy wprowadzamy do organizmu w pożywieniu, ale warto wiedzieć czego nam brakuje. Jedzenie, by spełniało swoją funkcję odbudowy organizmu, regulowania tych procesów i samoleczenia nie może być monotonne. Ubogość składników pokarmowych zawsze prowadzi do braku któregoś i nieprawidłowych reakcji organizmu. W rubryce "Pomocne w przyswajaniu" są podawane substancje wspomagające, które należy pobierać z pożywieniem (nigdy w chemicznych tabletkach). Zestawienie podaję na podstawie książki Patricka Holforda "Zasady prawidłowego odżywiania".
 
-**Witamina A**  
-retinol (mięso)  
-beta-karoten (rośliny)
-
-**Spełniana funkcja** - potrzebna do utrzymania zdrowej skóry i śluzówek. Zapobiega ich zakażeniom. Jest przeciwutleniaczem. Wzmacnia układ odpornościowy. Chroni przed nowotworami. Jest niezbędna aby widzieć o zmroku.
-
----
-
-**Objawy niedoboru** - owrzodzenie ust, kurza ślepota (złe widzenie o zmroku), trądzik, częste przeziębienia i infekcje. Sucha, łuszcząca się skóra, łupież, pleśniawki, zapalenie pęcherza i biegunka.
-
----
-
-**Źródła** (co zjadać) - wątroba wołowa i cielęca, marchew, kapusta, dynia, pomidory, brokuły, morele, mandarynki, szparagi.
-
----
-
-**Pomocne w przyswajaniu** - cynk, witaminy C i E pomagają zachować zasoby.
-
----
-
-**Co niszczy** - ciepło, światło, alkohol, kawa, papierosy.
-
----
-
-**Czy można się zatruć** - tak, szczególnie po przedawkowaniu przez dzieci.
-
----
-
-**Witamina B1**  
-tiamina
-
-**Spełniana funkcja** - niezbędna do produkcji energii, funkcjonowania mózgu i trawienia. Pomaga organizmowi wykorzystywać białka.
-
----
-
-**Objawy niedoboru** - osłabienie mięśni, ból oczu, drażliwość, zaburzenia koncentracji, drętwienie nóg, pogorszenie pamięci, bóle żołądkowe, zatwardzenie, mrowienie w rękach, szybka czynność serca.
-
----
-
-**Źródła** (co zjadać) - dynia, baranina, mięso jagnięce, szparagi, grzyby, groch, sałata, papryka, kalafior, kapusta, pomidory, brukselka, fasola.
-
----
-
-**Pomocne w przyswajaniu** - inne witaminy z grupy B, magnez, mangan.
-
----
-
-**Co niszczy** - antybiotyki, herbata, kawa, stres, doustne środki antykoncepcyjne, alkohol, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.
-
----
-
-**Czy można się zatruć** - nie.
-
----
-
-**Witamina B2**  
-ryboflawina
-
-**Spełniana funkcja** - ułatwia uzyskiwanie energii z tłuszczów, cukrów i białek. Potrzebna do naprawy i utrzymania zdrowej skóry i śluzówek. Uczestniczy w utrzymywaniu właściwego pH organizmu. Ważna dla dobrego stanu włosów, paznokci i oczu.
-
----
-
-**Objawy niedoboru** - pieczenie i swędzenie oczu, nadwrażliwość na jasne światło, stany zapalne języka, zaćma, matowe lub tłuste włosy, wypryski, zapalenie skóry, łamliwe paznokcie, pękająca górna warga.
-
----
-
-**Źródła** (co zjadać) - grzyby, kapusta, szparagi, brokuły, dynia, kiełki fasoli, makrele, pomidory, kiełki przenicy.
-
----
-
-**Pomocne w przyswajaniu** - inne witaminy z grupy B, selen.
-
----
-
-**Co niszczy** - alkohol, doustne środki antykoncepcyjne, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.
-
----
-
-**Czy można się zatruć** - nie, ale przy przedawkowaniu mocz zabarwia się na kolor jasnożółtozielony.
-
----
-
-**Witamina B5**  
-kwas pantotenowy
-
-**Spełniana funkcja** - uczestniczy w produkcji energii i kontroli przemiany materii. Ważna dla pracy mózgu i nerwów. Wspomaga produkcję hormonów antystresowych (steroidów). Pozwala zachować zdrową skórę i włosy.
-
----
-
-**Objawy niedoboru** - drżenie i kurczenie mięśni, osłabienie, zaburzenia koncentracji, uczucie pieczenia stóp, bolesność pięt, nudności lub wymioty, brak energii, łatwe męczenie się przy niewielkich wysiłkach, niepokój i napięcie, zgrzytanie zębami.
-
----
-
-**Źródła** (co zjadać) - grzyby, brokuły, kiełki lucerny, groch, soczewica, pomidory, kapusta, seler, truskawki jajka, dynia, awokado, pszenica nieoczyszczana.
-
----
-
-**Pomocne w przyswajaniu** - inne witaminy z grupy B, biotyna i kwas foliowy.
-
----
-
-**Co niszczy** - stres, alkohol, herbata, gotowanie i inna obróbka żywności.
-
----
-
-**Czy można się zatruć** - nie.
-
----
-
-**Witamina B6**  
-pirodoksyna
-
-**Spełniana funkcja** - ważna dla trawienia i przyswajania białek, funkcjonowania mózgu i produkcji hormonów. Pomaga utrzymać równowagę aktywności hormonów płciowych. Naturalny czynnik przeciwdepresyjny i moczopędny. Pomaga kontrolować reakcje uczuleniowe.
-
----
-
-**Objawy niedoboru** - słabe zapamiętywanie snów, zatrzymywanie wody w organizmie, mrowienie w rękach, depresja lub nerwowość, drażliwość, drżenie i kurcze mięśni, brak energii, łuszczaca się skóra.
-
----
-
-**Źródła** (co zjadać) - kalafior, kapusta, papryka, banany, dynia, brokuły, szparagi, soczewica, czerwona fasola, brukselka, cebula, różne ziarna i orzechy.
-
----
-
-**Pomocne w przyswajaniu** - inne witaminy z grupy B, cynk i magnez.
-
----
-
-**Co niszczy** - alkohol, papierosy, doustne środki antykoncepcyjne, dieta wysokobiałkowa, przetworzone pokarmy.
-
----
-
-**Czy można się zatruć** - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.
-
----
-
-**Witamina B12**  
-cyjanokobalamina
-
-**Spełniana funkcja** - ważna dla przyswajania białek. Wspomaga transport tlenu przez krew. Potrzebna do budowy DNA. Ważna dla funkcjonowania nerwów. Odgrywa rolę przy neutralizowaniu dymu tytoniowego i innych toksyn.
-
----
-
-**Objawy niedoboru** - słabe włosy, wypryski lub zapalenie skóry, nadwrażliwość na ciepło lub zimno, niepokój i napięcie, brak sił, zaparcia, nadwrażliwość mięśni lub bóle mięśniowe, blada skóra.
-
----
-
-**Źródła** (co zjadać) - sardynki, tuńczyk, mięso jagnięce (ilości śladowe), jaja, sery białe i żółte, mleko, indyk, kurczak.
-
----
-
-**Pomocne w przyswajaniu** - inne witaminy z grupy B, kwas foliowy.
-
----
-
-**Co niszczy** - alkohol, papierosy, niska kwaśność żołądka.
-
----
-
-**Czy można się zatruć** - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.
-
----
-
-**Biotyna**  
-
-**Spełniana funkcja** - szczególnie ważna u dzieci. Pomaga przy wykorzystywaniu przez organizm niezbędnych kwasów tłuszczowych oraz utrzymaniu zdrowej skóry, włosów i nerwów.
-
----
-
-**Objawy niedoboru** - sucha skóra, słabe i przedwcześnie siwiejące włosy, nadwrażliwe mięśnie lub bóle mięśniowe, słaby apetyt lub nudności, wypryski lub zapalenie skóry.
-
----
-
-**Źródła** (co zjadać) - kalafior, sałata, groch, pomidory, grapefruit, arbuz, słodka kukurydza, kapusta, kalafior, migdały, wisnie, śledzie, jaja.
-
----
-
-**Pomocne w przyswajaniu** - inne witaminy z grupy B, magnez, mangan.
-
----
-
-**Co niszczy** - surowe białko jaja (awidyna), pokarmy smażone.
-
----
-
-**Czy można się zatruć** - nie obserwowano.
-
----
-
-**Witamina C**  
-kwas askorbinowy
-
-**Spełniana funkcja** - wspiera układ odpornościowy w walce z infekcjami. Uczestniczy w budowie kolagenu (mocne kości, zdrowe stawy i skóra). Jest przeciwutleniaczem. Dezaktywuje zanieczyszczenia organizmu. Chroni przed nowotworami i chorobami serca. Wspomaga produkcję hormonów antystresowych i przemiany pokarmu w energię.
-
----
-
-**Objawy niedoboru** - częste przeziębienia i infekcje, brak energii, wrażliwe i krwawiące dziąsła, łatwe powstawanie siniaków, krwotoki z nosa, wolne gojenie się ran, czerwone krosty na skórze.
-
----
-
-**Źródła** (co zjadać) - nać pietruszki, chrzan, papryka, kapusta, brokuły, kalafior, truskawki, cytryny, kiwi, groch, melon, pomarańcze, grapefruit, pomidory.
-
----
-
-**Pomocne w przyswajaniu** - witaminy z grupy B, witamina E, bioflawonidy.
-
----
-
-**Co niszczy** - alkohol, papierosy, zanieczyszczenia, stres, smazone potrawy.
-
----
-
-**Czy można się zatruć** - w nadmiarze może spowodować biegunkę.
-
----
-
-**Witamina D**  
-ergokalcyferol  
-cholekalcyferol
-
-**Spełniana funkcja** - uczestniczy w utrzymaniu zdrowych i mocnych kości przez zatrzymywanie wapnia.
-
----
-
-**Objawy niedoboru** - bóle lub sztywność stawów, bóle pleców, próchnica, kurcze mięśni, wypadanie włosów.
-
----
-
-**Źródła** (co zjadać) - śledzie, makrele, łosoś, ser biały, jaja.
-
----
-
-**Pomocne w przyswajaniu** - wystawianie się na światło słoneczne (witamina jest wtedy produkowana w skórze) i wtedy nie jest konieczne podawanie w diecie. Witaminę D chronią witaminy A, C i E.
-
----
-
-**Co niszczy** - brak światła słonecznego, smażone produkty.
-
----
-
-**Czy można się zatruć** - tak, dawka powyżej 1250 mikrogramów jest toksyczna.
-
----
-
-**Witamina E**  
-d-tokoferol
-
-**Spełniana funkcja** - przeciwutleniacz, chroni komórki przed zniszczeniem, także przed rozrostem nowotworowym. Wspomaga użytkowanie tlenu przez organizm, zapobiegając krzepnięciu krwi i zatorom oraz procesom miażdżycowym. Poprawia gojenie sięran i stan skóry. Pozytywnie wpływa na płodność.
-
----
-
-**Objawy niedoboru** - brak pociągu płciowego, wyczerpanie po małym wysiłku, łatwe powstawanie siniaków, wolne gojenie się ran, żylaki, zmniejszone napięcie mięśni, niepłodność.
-
----
-
-**Źródła** (co zjadać) - nieoczyszczony olej kukurydziany, ziarna słonecznika, orzechy ziemne, ziarna sezamowe, fasola, groch, kiełki pszenicy, tuńczyk, sardynki, łosoś.
-
----
-
-**Pomocne w przyswajaniu** - witamina C, selen.
-
----
-
-**Co niszczy** - wysoka temperatura przyrządzania pokarmu (zwłaszcza smażenie), zanieczyszczenie powietrza, doustne środki antykoncepcyjne, nadmierne przyjmowanie pokarmów rafinowanych (cukier, białe pieczywo) i inaczej przetwarzane tłuszcze i oleje.
-
----
-
-**Czy można się zatruć** - nie obserwowano.
-
----
-
-**Kwas foliowy**  
-
-**Spełniana funkcja** - u płodu warunkuje rozwój mózgu i nerwów. W późniejszym życiu ważny dla funkcjonowania układu nerwowego. Potrzebny do przyswajania białek i produkcji czerwonych krwinek.
-
----
-
-**Objawy niedoboru** - niedokrwistość (anemia), egzema, spękane usta, przedwcześnie siwiejące włosy, niepokój i napięcie, brak energii, słaby apetyt, bóle brzucha, depresje.
-
----
-
-**Źródła** (co zjadać) - kiełki pszenicy, szpinak, orzechy ziemne, szparagi, ziarna sezamowe, orzechy laskowe i włoskie, brokuły, kalafior, awokado.
-
----
-
-**Pomocne w przyswajaniu** - witaminy grupy B, szczególnie B12.
-
----
-
-**Co niszczy** - wysoka temperatura, światło, przetwarzanie pokarmu, doustne środki antykoncepcyjne.
-
----
-
-**Czy można się zatruć** - tak, sporadycznie - przy dawce powyżej 15 mg - zaburzenia żołądkowo-jelitowe i problemy ze snem.
-
----
-
-**Witamina K**  
-filochinon
-
-**Spełniana funkcja** - kontroluje krzepnięcie krwi.
-
----
-
-**Objawy niedoboru** - krwotoki.
-
----
-
-**Źródła** (co zjadać) - kalafior, brukselka, sałata, kapusta, fasola, brokuły groch, szparagi, ziemniaki, olej kukurydziany, pomidory.
-
----
-
-**Pomocne w przyswajaniu** - odpowiednia flora bakteryjna, która całkowicie pokrywa zapotrzebowanie.
-
----
-
-**Co niszczy** - antybiotyki, u dzieci - karmienie nie kobiecym mlekiem z butelki.
-
----
-
-**Czy można się zatruć** - nie.
-
----
-
-**Witamina PP**  
-niacyna
-
-**Spełniana funkcja** - niezbędna do wytwarzania energii, funkcjonowania mózgu i zachowania zdrowej skóry. Pomaga utrzymać we krwi odpowiedni poziom cukru i cholesterolu. Bierze udział w łagodzeniu procesów zapalnych i wspomaga trawienie.
-
----
-
-**Objawy niedoboru** - osłabienie, biegunka, bezsenność, bóle głowy, migreny, pogorszenie pamięci, zdenerwowanie lub napięcie, depresje, rozdrażnienie, wrażliwe i krwawiące dziąsła, trądzik, egzema, zapalenie skóry.
-
----
-
-**Źródła** (co zjadać) - grzyby, tuńczyk, kurczak, łosoś, szparagi, kapusta, mięso jagnięce, makrele, indyk, pomidory, cukinia, dynia, kalafior, nieoczyszczana pszenica.
-
----
-
-**Pomocne w przyswajaniu** - inne witaminy z grupy B, chrom.
-
----
-
-**Co niszczy** - antybiotyki, kawa, herbata, doustne środki antykoncepcyjne, alkohol.
-
----
-
-**Czy można się zatruć** - tak, przy dawce powyżej 3000 mg.
-
----
-
-**Chrom**  
-
-**Spełniana funkcja** - jest częścią "czynnika tolerancji glukozy", wspomagając regulację poziomu cukru we krwi, normalizuje poczucie głodu i zmniejsza pragnienie. Wydłuża czas życia, chroni DNA i RNA, jest niezbędny do pracy serca.
-
----
-
-**Objawy niedoboru** - obfite lub zimne poty, zawroty głowy lub drażliwość po 6 godzinach bez jedzenia, potrzeba regularnych posiłków, zimne ręce, potrzeba długiego snu i senność podczas dnia, nadmierne pragnienie, nieopanowana chęć jedzenia słodyczy.
-
----
-
-**Źródła** (co zjadać) - drożdże piwowarskie, chleb zytni i razowy, ziemniaki, kiełki pszenicy, zielona papryka, jaja, kurczak, jabłka, masło, mąka kukurydziana, mięso jagnięce, ser żółty.
-
----
-
-**Pomocne w przyswajaniu** - inne składniki czynnika tolerancji glukozy, witamina PP, trzy aminokwasy - glicyna, kwas glutaminowy i cystyna. Właściwa dieta i wysiłek fizyczny.
-
----
-
-**Co niszczy** - duże spożycie wysoko przetworzonych cukrów i mąki, otyłość, pestycydy, pochodne ropy naftowej, przetworzony pokarm, metale toksyczne.
-
----
-
-**Czy można się zatruć** - tak, dawka powyżej 1000 mg jest toksyczna.
-
----
-
-**Cynk**  
-
-**Spełniana funkcja** - jest składnikiem ponad 200 enzymów w organizmie, wchodzi w skład DNA i RNA, jest niezbędny do wzrostu, wspomaga gojenie ran, kontroluje hormony produkowane w jądrach i jajnikach, wzmaga zdolność do skutecznej walki ze stresem, ma wpływ na prawidłowy rozwój układu nerwowego i mózgu (zwłaszcza u rozwijającego się płodu, wspomaga tworzenie się kości i zębów, poprawia stan i wygląd włosów, jest niezbędny do utrzymania stałego poziomu energii.
-
----
-
-**Objawy niedoboru** - osłabienie zmysłu smaku lub zapachu, białe plamy na więcej niż dwóch paznokciach, częste infekcje, rozstępy, trądzik lub przetłuszczająca się skóra, niska płodność, blada skóra, skłonność do depresji, brak apetytu.
-
----
-
-**Źródła** (co zjadać) - korzeń imbiru, mięso jagnięce, suchy groch, zielony groszek, rzepa, żółtko jaja, ziarno nieoczyszczonej pszenicy, żyto, owies, orzechy ziemne, migdały.
-
----
-
-**Pomocne w przyswajaniu** - kwas żołądkowy, witaminy A, E, B6, magnez, wapń, fosfor.
-
----
-
-**Co niszczy** - fityniany (pszenica), szczawiany (rabarbar i szpinak), wysokie spożycie wapnia, niskie spożycie białka, nadmiar cukru, stres, alkohol.
-
----
-
-**Czy można się zatruć** - tak, dawka powyżej 2g może doprowadzić do zaburzeń żołądkowo-jelitowych, wymiotów, anemii, zaburzeń wzrostu, sztywności, osłabienia apetytu i śmierci.
-
----
-
-**Fosfor**  
-
-**Spełniana funkcja** - ważny w wykształceniu kości i zębów i utrzymaniu ich w dobrym stanie, niezbędny do laktacji, wchodzi w skład komórek mięśniowych i jest niezbędny do ich pracy, składnik DNA i RNA, pomaga w utrzymaniu właściwego pH płynów ustrojowych, wspomaga metabolizm i produkcję energii.
-
----
-
-**Objawy niedoboru** - mało prawdopodobne (fosfor znajduje się prawie we wszystkich pokarmach), może dojść w razie długotrwałego stosowania środków alkalizujących, w złamaniach kości lub innych urazach. Oznaki to - osłabienie mięsni, utrata apetytu, bóle kostne, krzywica, rozmiękanie kości.
-
----
-
-**Źródła** (co zjadać) - jest we wszystkich pokarmach.
-
----
-
-**Pomocne w przyswajaniu** - właściwy stosunek wapnia do fosforu, laktoza, witamina D.
-
----
-
-**Co niszczy** - żelazo, magnez, glin.
-
----
-
-**Czy można się zatruć** - nie znane są przypadki, ale może doprowadzić do niedoboru wapnia, zwiększenia pobudliwości nerwowej i konwulsji.
-
----
-
-**Magnez**  
-
-**Spełniana funkcja** - wzmacnia kości i zęby, utrzymuje zdrowe mięśnie, umożliwia ich rozkurczanie, wazny dla mięśnia sercowego i nerwów. Niezbędny do wytwarzania energii. Wspomaga działanie enzymów w organizmie.
-
----
-
-**Objawy niedoboru** - drżenie lub skurcze mięśni, osłabienie mięśni, bezsenność i nerwowość, wysokie ciśnienie krwi, nieregularna czynność serca, zaparcia, drgawki, wzmożona aktywność, depresja, dezorientacja, brak apetytu, odkładanie wapnia w tkankach miękkich (kamienie w nerkach).
-
----
-
-**Źródła** (co zjadać) - kiełki pszenicy, migdały, drożdże piwowarskie, mąka gryczana, orzechy ziemne, gotowana fasola, czosnek, rodzynki, zielony groszek, łupiny ziemniaków.
-
----
-
-**Pomocne w przyswajaniu** - witamina B1, B6, C i D, cynk, wapń i fosfor.
-
----
-
-**Co niszczy** - fityniany (otręby pszenne, chleb), tłuszcze, szczawiany (rabarbar i szpinak), wysokie spożycie wapnia (w produktach mlecznych) i białka.
-
----
-
-**Czy można się zatruć** - tak, dawka powyżej 1000 mg może być toksyczna.
-
----
-
-**Mangan**  
-
-**Spełniana funkcja** - utrzymuje w zdrowiu kości, chrząstki, tkanki i nerwy, wzmaga aktywność ponad dwudziestu układów enzymatycznych (m.in. przeciwutleniający), Wyrównuje poziom cukru we krwi. Zabezpiecza DNA i RNA. Istotny dla procesów rozrodczych, produkcji krwinek czerwonych i insuliny. Ogranicza uszkodzenia komórek. Potrzebny do funkcjonowania mózgu.
-
----
-
-**Objawy niedoboru** - skurcze mięśni, zawroty głowy lub słabe poczucie równowagi, drgawki, bóle stawów (głównie kolanowych).
-
----
-
-**Źródła** (co zjadać) - ananas, endywia, jeżyny, maliny, sałata, winogrona, truskawki, owies, burak ćwikłowy, seler.
-
----
-
-**Pomocne w przyswajaniu** - witamina B1, C, E i K.
-
----
-
-**Co niszczy** - antybiotyki, alkohol, produkty oczyszczane.
-
----
-
-**Czy można się zatruć** - nie występuje.
-
----
-
-**Molibden**  
-
-**Spełniana funkcja** - wspomaga wydalanie z organizmu produktów przemiany białek (np. kwasu moczowego) oraz wolnych rodników, produktów przemiany związków chemicznych pochodzących z zanieczyszczeń i siarczanów. Wzmacnia zęby i zmniejsza ryzyko powstawania ubytków w uzębieniu.
-
----
-
-**Objawy niedoboru** - nie występują, dopóki nadmiar miedzi lub siarczanów nie ogranicza wykorzystania molibdenu (u zwierząt pojawiły się zaburzenia oddychania i problemy neurologiczne).
-
----
-
-**Źródła** (co zjadać) - pomidory, kiełki pszenicy, wieprzowina, mięso jagnięce, soczewica, fasola.
-
----
-
-**Pomocne w przyswajaniu** - białka zawierające aminokwasy siarkowe, wodorowęglany, tłuszcze.
-
----
-
-**Co niszczy** - miedź, siarczany.
-
----
-
-**Czy można się zatruć** - tak, spożycie 10-15 mg dziennie powoduje wystąpienie objawów podobnych do napadu dny moczanowej z wysokim poziomem kwasu moczowego.
-
----
-
-**Potas**  
-
-**Spełniana funkcja** - umożliwia wnikanie składników odżywczych do komórek i pozbywanie się produktów przemiany materii, zapewnia właściwe funkcjonowanie mięśni i nerwów, utrzymuje równowagę płynów w organizmie, rozkurcza mięśnie, wspomaga produkcję insuliny, bierze udział w przemianie materii, niezbędny dla pracy serca, pobudza czynność przewodu pokarmowego wspomagając prawidłowe wydalanie.
-
----
-
-**Objawy niedoboru** - szybkie i nieregularne bicie serca, osłabienie mięśni, drętwienie kończyn, drażliwość, nudności i wymioty, biegunki, wzdęcia brzucha, cellulitis, niskie ciśnienie krwi wynikające z zaburzeń równowagi potasu i sodu, splątanie, otępienie.
-
----
-
-**Źródła** (co zjadać) - kapusta, seler, pietruszka, cukinia, rzodkiewka, kalafior, grzyby, dynia, melasa.
-
----
-
-**Pomocne w przyswajaniu** - magnez (pomaga w utrzymaniu potasu wewnątrz komórek).
-
----
-
-**Co niszczy** - nadmiar sodu z soli, alkohol, cukier, leki moczopędne i przeczyszczające, kortykosterydy, stres.
-
----
-
-**Czy można się zatruć** - tak, dawka powyżej 1,8 g może zatrzymać pracę serca.
-
----
-
-**Selen**  
-
-**Spełniana funkcja** - ma właściwości przeciwutleniające i chroni organizm przed działaniem wolnych rodników i czynników rakotwórczych, zmniejsza stan zapalny, pobudza układ odpornościowy do walki z zakażeniami, zapewnia właściwe funkcjonowanie serca i wspomaga w działaniu witaminę E, potrzebny w przemianie materii.
-
----
-
-**Objawy niedoboru** - występowanie nowotworów w rodzinie, oznaki przedwczesnego starzenia się, zaćma, wysokie ciśnienie krwi, częste zakażenia.
-
----
-
-**Źródła** (co zjadać) - tuńczyk, melasa, grzyby, śledzie, biały ser, kapusta, wątroba wołowa, cukinia, dorsz, kurczak.
-
----
-
-**Pomocne w przyswajaniu** - witamina A, C i E.
-
----
-
-**Co niszczy** - produkty oczyszczone, współczesne techniki uprawy i hodowli.
-
----
-
-**Czy można się zatruć** - tak, dawka powyżej 750 mikrogramów może powodować nieprawidłowości w budowie białek tworzących strukturę włosa, paznokci i skóry oraz "czosnkowy" oddech.
-
----
-
-**Sód**  
-
-**Spełniana funkcja** - utrzymuje równowagę płynów w organizmie, zapobiega odwodnieniu, wspomaga czynności nerwów, bierze udział w skurczu mięśni, w tym mięśnia sercowego, wykorzystywany jest do produkcji energii, ułatwia wprowadzanie składników odżywczych do wnętrza komórek.
-
----
-
-**Objawy niedoboru** - zawroty głowy, zła tolerancja wysokich temperatur, niskie ciśnienie krwi, przyspieszone tętno, apatia umysłowa, brak apetytu, kurcze mięśni, nudności i wymioty, spadek masy ciała, bóle głowy.
-
----
-
-**Źródła** (co zjadać) - kapusta kiszona, oliwki, mięso, burak ćwikłowy, szynka, seler, kapusta, ser biały, czerwona fasola.
-
----
-
-**Pomocne w przyswajaniu** - witamina D.
-
----
-
-**Co niszczy** - potas i chlor równoważą działanie sodu.
-
----
-
-**Czy można się zatruć** - tak, jeśli spożywa się dużo sodu z produktów oczyszczanych i pije niewiele wody, występują obrzęki, wysokie ciśnienie krwi i choroby nerek.
-
----
-
-**Wapń**  
-
-**Spełniana funkcja** - poprawia stan serca i nerwów, wspomaga procesy krzepnięcia krwi i pracy mięśni. Niezbędny w zachowaniu zdrowej skóry, kości i zębów. Usuwa bóle mięśni i kości. Utrzymuje równowagę kwasowo-zasadową. Zmniejsza napięcie i skurcze miesiączkowe.
-
----
-
-**Objawy niedoboru** - drżenie i kurcze mięśni, bezsenność i nerwowość, ból i zapalenie stawów, próchnica, wysokie ciśnienie krwi.
-
----
-
-**Źródła** (co zjadać) - żółty ser, ser cheddar, migdały, drożdże piwowarskie, pietruszka, placki kukurydziane, karczochy, suszone śliwki, ziarna dyni, gotowana suszona fasola, kapusta, zimowa pszenica.
-
----
-
-**Pomocne w przyswajaniu** - witamina D, bor, wysiłek fizyczny.
-
----
-
-**Co niszczy** - rozchwianie hormonalne, alkohol, brak ruchu, kofeina, herbata, brak kwasu solnego i nadmiar tłuszczów lub fosforu obniża wchłanianie wapnia, stres zwiększa wydalanie.
-
----
-
-**Czy można się zatruć** - nie, ale prowadzi do odkładania się nadmiaru w postaci kamieni w nerkach, sercu i innych tkankach miękkich.
-
----
-
-**Żelazo**  
-
-**Spełniana funkcja** - jako część hemoglobiny transportuje tlen i dwutlenek węgla do i z tkanek. Składnik enzymów niezbędny do produkcji energii.
-
----
-
-**Objawy niedoboru** - anemia, brak apetytu, obolały język, uczucie zmęczenia, apatia, nudności, wrażliwość na zimno.
-
----
-
-**Źródła** (co zjadać) - ziarna dyni, pietruszka, migdały, suszone śliwki, rodzynki, orzechy włoskie, daktyle, wieprzowina, gotowana suszona fasola, ziarna sezamowe.
-
----
-
-**Pomocne w przyswajaniu** - witamina B1, B6, C i D, cynk, wapń i fosfor.
-
----
-
-**Co niszczy** - kwas taninowy (herbata), fityniany (otręby pszenne, bób), szczawiany (rabarbar i szpinak), fosforany (napoje gazowane, dodatki do żywności), substancje alkalizujące, białka sojowe, spożywanie dużej ilości cynku.
-
----
-
-**Czy można się zatruć** - tak, dawka powyżej 1000 mg może być toksyczna.
-
----
-
-**Bioflawonidy**  
-
-**Spełniana funkcja** - wspomagają działanie witaminy C, wzmacniają naczynia włoskowate, przyspieszają gojenie się ran, a także urazów i nadwerężonych mięśni, przeciwutleniacze.
-
----
-
-**Objawy niedoboru** - łatwe powstawanie siniaków, żylaki, częste urazy i nadwerężenia.
-
----
-
-**Źródła** (co zjadać) - owoce jagodowe, wiśnie, owoce cytrusowe.
-
----
-
-**Pomocne w przyswajaniu** - witamina C.
-
----
-
-**Co niszczy** - wolne rodniki.
-
----
-
-**Czy można się zatruć** - nieznane.
-
----
-
-**Cholina**  
-
-**Spełniana funkcja** - składnik lecytyny, która pomaga rozkładać tłuszcze w wątrobie, ułatwia wprowadzanie tłuszczów do komórek i syntezę błon komórkowych w układzie nerwowym, chroni tkankę płuc.
-
----
-
-**Objawy niedoboru** - wady rozwojowe u noworodków, wysoki poziom cholesterolu i tłuszczów, stłuszczenie wątroby, zwyrodnienie nerwów, wysokie ciśnienie krwi, miażdżyca naczyń, otępienie starcze, zmniejszenie odporności na choroby.
-
----
-
-**Źródła** (co zjadać) - lecytyna, jajka, ryby, wątroba, soja, orzechy ziemne, produkty pełnoziarniste, orzechy, rośliny strączkowe, owoce cytrusowe, kiełki pszenicy, drżdże piwne.
-
----
-
-**Pomocne w przyswajaniu** - witamina B5, lit.
-
----
-
-**Co niszczy** - alkohol, tabletki antykoncepcyjne.
-
----
-
-**Czy można się zatruć** - nieznane.
-
----
-
-**Inozytol**  
-
-**Spełniana funkcja** - potrzebny do wzrostu komórek, konieczny do rozwoju osłonek nerwowych oraz funkcjonowania mózgu i rdzenia kręgowego, ma niewielkie działanie uspokajające, obniża poziom cholesterolu we krwi, potrzebny do utrzymania zdrowych włosów.
-
----
-
-**Objawy niedoboru** - drazliwość, bezsenność, nerwowość, nadmierna pobudliwość, osłabienie wzrostu i regeneracji nerwów, niski poziom HDL.
-
----
-
-**Źródła** (co zjadać) - lecytyna, rosliny strączkowe, mąka sojowa, jajka, ryby, wątroba, owoce cytrusowe, melon, orzechy, kiełki pszenicy, drożdże piwne.
-
----
-
-**Pomocne w przyswajaniu** - cholina.
-
----
-
-**Co niszczy** - fityniany, antybiotyki, alkohol, herbata, kawa, tabletki antykoncepcyjne, leki moczopędne.
-
----
-
-**Czy można się zatruć** - nieznane.
-
----
-
-**Koenzym Q10**  
-
-**Spełniana funkcja** - przeciwutleniacz, odgrywa główną rolę w przemianie materii i metabolizmie, usprawnia pracę serca, pomaga normalizować ciśnienie krwi, zwiększa tolerancję wysiłku, wzmacnia odporność.
-
----
-
-**Objawy niedoboru** - brak energii, choroby serca, słaba tolerancja wysiłku, upośledzenie czynności układu odpornościowego.
-
----
-
-**Źródła** (co zjadać) - sardynki, makrele, wieprzowina, szpinak, olej sojowy, orzechy ziemne, ziarna sezamowe, orzechy włoskie
-
----
-
-**Pomocne w przyswajaniu** - witamina B kompleks, żelazo.
-
----
-
-**Co niszczy** - używki, cukier.
-
----
-
-**Czy można się zatruć** - nieznane.
+| **Witamina A**<br>retinol (mięso)<br>beta-karoten (rośliny) | 🟧 | **Spełniana funkcja** - potrzebna do utrzymania zdrowej skóry i śluzówek. Zapobiega ich zakażeniom. Jest przeciwutleniaczem. Wzmacnia układ odpornościowy. Chroni przed nowotworami. Jest niezbędna aby widzieć o zmroku.<br>---<br>**Objawy niedoboru** - owrzodzenie ust, kurza ślepota (złe widzenie o zmroku), trądzik, częste przeziębienia i infekcje. Sucha, łuszcząca się skóra, łupież, pleśniawki, zapalenie pęcherza i biegunka.<br>---<br>**Źródła** (co zjadać) - wątroba wołowa i cielęca, marchew, kapusta, dynia, pomidory, brokuły, morele, mandarynki, szparagi.<br>---<br>**Pomocne w przyswajaniu** - cynk, witaminy C i E pomagają zachować zasoby.<br>---<br>**Co niszczy** - ciepło, światło, alkohol, kawa, papierosy.<br>---<br>**Czy można się zatruć** - tak, szczególnie po przedawkowaniu przez dzieci. |
+| --- | --- | --- |
+| --- |   |   |
+| **Witamina B1**<br>tiamina | 🟧 | **Spełniana funkcja** - niezbędna do produkcji energii, funkcjonowania mózgu i trawienia. Pomaga organizmowi wykorzystywać białka.<br>---<br>**Objawy niedoboru** - osłabienie mięśni, ból oczu, drażliwość, zaburzenia koncentracji, drętwienie nóg, pogorszenie pamięci, bóle żołądkowe, zatwardzenie, mrowienie w rękach, szybka czynność serca.<br>---<br>**Źródła** (co zjadać) - dynia, baranina, mięso jagnięce, szparagi, grzyby, groch, sałata, papryka, kalafior, kapusta, pomidory, brukselka, fasola.<br>---<br>**Pomocne w przyswajaniu** - inne witaminy z grupy B, magnez, mangan.<br>---<br>**Co niszczy** - antybiotyki, herbata, kawa, stres, doustne środki antykoncepcyjne, alkohol, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.<br>---<br>**Czy można się zatruć** - nie. |
+| --- |   |   |
+| **Witamina B2**<br>ryboflawina | 🟧 | **Spełniana funkcja** - ułatwia uzyskiwanie energii z tłuszczów, cukrów i białek. Potrzebna do naprawy i utrzymania zdrowej skóry i śluzówek. Uczestniczy w utrzymywaniu właściwego pH organizmu. Ważna dla dobrego stanu włosów, paznokci i oczu.<br>---<br>**Objawy niedoboru** - pieczenie i swędzenie oczu, nadwrażliwość na jasne światło, stany zapalne języka, zaćma, matowe lub tłuste włosy, wypryski, zapalenie skóry, łamliwe paznokcie, pękająca górna warga.<br>---<br>**Źródła** (co zjadać) - grzyby, kapusta, szparagi, brokuły, dynia, kiełki fasoli, makrele, pomidory, kiełki przenicy.<br>---<br>**Pomocne w przyswajaniu** - inne witaminy z grupy B, selen.<br>---<br>**Co niszczy** - alkohol, doustne środki antykoncepcyjne, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.<br>---<br>**Czy można się zatruć** - nie, ale przy przedawkowaniu mocz zabarwia się na kolor jasnożółtozielony. |
+| --- |   |   |
+| **Witamina B5**<br>kwas pantotenowy | 🟧 | **Spełniana funkcja** - uczestniczy w produkcji energii i kontroli przemiany materii. Ważna dla pracy mózgu i nerwów. Wspomaga produkcję hormonów antystresowych (steroidów). Pozwala zachować zdrową skórę i włosy.<br>---<br>**Objawy niedoboru** - drżenie i kurczenie mięśni, osłabienie, zaburzenia koncentracji, uczucie pieczenia stóp, bolesność pięt, nudności lub wymioty, brak energii, łatwe męczenie się przy niewielkich wysiłkach, niepokój i napięcie, zgrzytanie zębami.<br>---<br>**Źródła** (co zjadać) - grzyby, brokuły, kiełki lucerny, groch, soczewica, pomidory, kapusta, seler, truskawki jajka, dynia, awokado, pszenica nieoczyszczana.<br>---<br>**Pomocne w przyswajaniu** - inne witaminy z grupy B, biotyna i kwas foliowy.<br>---<br>**Co niszczy** - stres, alkohol, herbata, gotowanie i inna obróbka żywności.<br>---<br>**Czy można się zatruć** - nie. |
+| --- |   |   |
+| **Witamina B6**<br>pirodoksyna | 🟧 | **Spełniana funkcja** - ważna dla trawienia i przyswajania białek, funkcjonowania mózgu i produkcji hormonów. Pomaga utrzymać równowagę aktywności hormonów płciowych. Naturalny czynnik przeciwdepresyjny i moczopędny. Pomaga kontrolować reakcje uczuleniowe.<br>---<br>**Objawy niedoboru** - słabe zapamiętywanie snów, zatrzymywanie wody w organizmie, mrowienie w rękach, depresja lub nerwowość, drażliwość, drżenie i kurcze mięśni, brak energii, łuszczaca się skóra.<br>---<br>**Źródła** (co zjadać) - kalafior, kapusta, papryka, banany, dynia, brokuły, szparagi, soczewica, czerwona fasola, brukselka, cebula, różne ziarna i orzechy.<br>---<br>**Pomocne w przyswajaniu** - inne witaminy z grupy B, cynk i magnez.<br>---<br>**Co niszczy** - alkohol, papierosy, doustne środki antykoncepcyjne, dieta wysokobiałkowa, przetworzone pokarmy.<br>---<br>**Czy można się zatruć** - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B. |
+| --- |   |   |
+| **Witamina B12**<br>cyjanokobalamina | 🟧 | **Spełniana funkcja** - ważna dla przyswajania białek. Wspomaga transport tlenu przez krew. Potrzebna do budowy DNA. Ważna dla funkcjonowania nerwów. Odgrywa rolę przy neutralizowaniu dymu tytoniowego i innych toksyn.<br>---<br>**Objawy niedoboru** - słabe włosy, wypryski lub zapalenie skóry, nadwrażliwość na ciepło lub zimno, niepokój i napięcie, brak sił, zaparcia, nadwrażliwość mięśni lub bóle mięśniowe, blada skóra.<br>---<br>**Źródła** (co zjadać) - sardynki, tuńczyk, mięso jagnięce (ilości śladowe), jaja, sery białe i żółte, mleko, indyk, kurczak.<br>---<br>**Pomocne w przyswajaniu** - inne witaminy z grupy B, kwas foliowy.<br>---<br>**Co niszczy** - alkohol, papierosy, niska kwaśność żołądka.<br>---<br>**Czy można się zatruć** - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B. |
+| --- |   |   |
+| **Biotyna** | 🟧 | **Spełniana funkcja** - szczególnie ważna u dzieci. Pomaga przy wykorzystywaniu przez organizm niezbędnych kwasów tłuszczowych oraz utrzymaniu zdrowej skóry, włosów i nerwów.<br>---<br>**Objawy niedoboru** - sucha skóra, słabe i przedwcześnie siwiejące włosy, nadwrażliwe mięśnie lub bóle mięśniowe, słaby apetyt lub nudności, wypryski lub zapalenie skóry.<br>---<br>**Źródła** (co zjadać) - kalafior, sałata, groch, pomidory, grapefruit, arbuz, słodka kukurydza, kapusta, kalafior, migdały, wisnie, śledzie, jaja.<br>---<br>**Pomocne w przyswajaniu** - inne witaminy z grupy B, magnez, mangan.<br>---<br>**Co niszczy** - surowe białko jaja (awidyna), pokarmy smażone.<br>---<br>**Czy można się zatruć** - nie obserwowano. |
+| --- |   |   |
+| **Witamina C**<br>kwas askorbinowy | 🟧 | **Spełniana funkcja** - wspiera układ odpornościowy w walce z infekcjami. Uczestniczy w budowie kolagenu (mocne kości, zdrowe stawy i skóra). Jest przeciwutleniaczem. Dezaktywuje zanieczyszczenia organizmu. Chroni przed nowotworami i chorobami serca. Wspomaga produkcję hormonów antystresowych i przemiany pokarmu w energię.<br>---<br>**Objawy niedoboru** - częste przeziębienia i infekcje, brak energii, wrażliwe i krwawiące dziąsła, łatwe powstawanie siniaków, krwotoki z nosa, wolne gojenie się ran, czerwone krosty na skórze.<br>---<br>**Źródła** (co zjadać) - nać pietruszki, chrzan, papryka, kapusta, brokuły, kalafior, truskawki, cytryny, kiwi, groch, melon, pomarańcze, grapefruit, pomidory.<br>---<br>**Pomocne w przyswajaniu** - witaminy z grupy B, witamina E, bioflawonidy.<br>---<br>**Co niszczy** - alkohol, papierosy, zanieczyszczenia, stres, smazone potrawy.<br>---<br>**Czy można się zatruć** - w nadmiarze może spowodować biegunkę. |
+| --- |   |   |
+| **Witamina D**<br>ergokalcyferol<br>cholekalcyferol | 🟧 | **Spełniana funkcja** - uczestniczy w utrzymaniu zdrowych i mocnych kości przez zatrzymywanie wapnia.<br>---<br>**Objawy niedoboru** - bóle lub sztywność stawów, bóle pleców, próchnica, kurcze mięśni, wypadanie włosów.<br>---<br>**Źródła** (co zjadać) - śledzie, makrele, łosoś, ser biały, jaja.<br>---<br>**Pomocne w przyswajaniu** - wystawianie się na światło słoneczne (witamina jest wtedy produkowana w skórze) i wtedy nie jest konieczne podawanie w diecie. Witaminę D chronią witaminy A, C i E.<br>---<br>**Co niszczy** - brak światła słonecznego, smażone produkty.<br>---<br>**Czy można się zatruć** - tak, dawka powyżej 1250 mikrogramów jest toksyczna. |
+| --- |   |   |
+| **Witamina E**<br>d-tokoferol | 🟧 | **Spełniana funkcja** - przeciwutleniacz, chroni komórki przed zniszczeniem, także przed rozrostem nowotworowym. Wspomaga użytkowanie tlenu przez organizm, zapobiegając krzepnięciu krwi i zatorom oraz procesom miażdżycowym. Poprawia gojenie sięran i stan skóry. Pozytywnie wpływa na płodność.<br>---<br>**Objawy niedoboru** - brak pociągu płciowego, wyczerpanie po małym wysiłku, łatwe powstawanie siniaków, wolne gojenie się ran, żylaki, zmniejszone napięcie mięśni, niepłodność.<br>---<br>**Źródła** (co zjadać) - nieoczyszczony olej kukurydziany, ziarna słonecznika, orzechy ziemne, ziarna sezamowe, fasola, groch, kiełki pszenicy, tuńczyk, sardynki, łosoś.<br>---<br>**Pomocne w przyswajaniu** - witamina C, selen.<br>---<br>**Co niszczy** - wysoka temperatura przyrządzania pokarmu (zwłaszcza smażenie), zanieczyszczenie powietrza, doustne środki antykoncepcyjne, nadmierne przyjmowanie pokarmów rafinowanych (cukier, białe pieczywo) i inaczej przetwarzane tłuszcze i oleje.<br>---<br>**Czy można się zatruć** - nie obserwowano. |
+| --- |   |   |
+| **Kwas foliowy** | 🟧 | **Spełniana funkcja** - u płodu warunkuje rozwój mózgu i nerwów. W późniejszym życiu ważny dla funkcjonowania układu nerwowego. Potrzebny do przyswajania białek i produkcji czerwonych krwinek.<br>---<br>**Objawy niedoboru** - niedokrwistość (anemia), egzema, spękane usta, przedwcześnie siwiejące włosy, niepokój i napięcie, brak energii, słaby apetyt, bóle brzucha, depresje.<br>---<br>**Źródła** (co zjadać) - kiełki pszenicy, szpinak, orzechy ziemne, szparagi, ziarna sezamowe, orzechy laskowe i włoskie, brokuły, kalafior, awokado.<br>---<br>**Pomocne w przyswajaniu** - witaminy grupy B, szczególnie B12.<br>---<br>**Co niszczy** - wysoka temperatura, światło, przetwarzanie pokarmu, doustne środki antykoncepcyjne.<br>---<br>**Czy można się zatruć** - tak, sporadycznie - przy dawce powyżej 15 mg - zaburzenia żołądkowo-jelitowe i problemy ze snem. |
+| --- |   |   |
+| **Witamina K**<br>filochinon | 🟧 | **Spełniana funkcja** - kontroluje krzepnięcie krwi.<br>---<br>**Objawy niedoboru** - krwotoki.<br>---<br>**Źródła** (co zjadać) - kalafior, brukselka, sałata, kapusta, fasola, brokuły groch, szparagi, ziemniaki, olej kukurydziany, pomidory.<br>---<br>**Pomocne w przyswajaniu** - odpowiednia flora bakteryjna, która całkowicie pokrywa zapotrzebowanie.<br>---<br>**Co niszczy** - antybiotyki, u dzieci - karmienie nie kobiecym mlekiem z butelki.<br>---<br>**Czy można się zatruć** - nie. |
+| --- |   |   |
+| **Witamina PP**<br>niacyna | 🟧 | **Spełniana funkcja** - niezbędna do wytwarzania energii, funkcjonowania mózgu i zachowania zdrowej skóry. Pomaga utrzymać we krwi odpowiedni poziom cukru i cholesterolu. Bierze udział w łagodzeniu procesów zapalnych i wspomaga trawienie.<br>---<br>**Objawy niedoboru** - osłabienie, biegunka, bezsenność, bóle głowy, migreny, pogorszenie pamięci, zdenerwowanie lub napięcie, depresje, rozdrażnienie, wrażliwe i krwawiące dziąsła, trądzik, egzema, zapalenie skóry.<br>---<br>**Źródła** (co zjadać) - grzyby, tuńczyk, kurczak, łosoś, szparagi, kapusta, mięso jagnięce, makrele, indyk, pomidory, cukinia, dynia, kalafior, nieoczyszczana pszenica.<br>---<br>**Pomocne w przyswajaniu** - inne witaminy z grupy B, chrom.<br>---<br>**Co niszczy** - antybiotyki, kawa, herbata, doustne środki antykoncepcyjne, alkohol.<br>---<br>**Czy można się zatruć** - tak, przy dawce powyżej 3000 mg. |
+| --- |   |   |
+| **Chrom** | 🟦 | **Spełniana funkcja** - jest częścią "czynnika tolerancji glukozy", wspomagając regulację poziomu cukru we krwi, normalizuje poczucie głodu i zmniejsza pragnienie. Wydłuża czas życia, chroni DNA i RNA, jest niezbędny do pracy serca.<br>---<br>**Objawy niedoboru** - obfite lub zimne poty, zawroty głowy lub drażliwość po 6 godzinach bez jedzenia, potrzeba regularnych posiłków, zimne ręce, potrzeba długiego snu i senność podczas dnia, nadmierne pragnienie, nieopanowana chęć jedzenia słodyczy.<br>---<br>**Źródła** (co zjadać) - drożdże piwowarskie, chleb zytni i razowy, ziemniaki, kiełki pszenicy, zielona papryka, jaja, kurczak, jabłka, masło, mąka kukurydziana, mięso jagnięce, ser żółty.<br>---<br>**Pomocne w przyswajaniu** - inne składniki czynnika tolerancji glukozy, witamina PP, trzy aminokwasy - glicyna, kwas glutaminowy i cystyna. Właściwa dieta i wysiłek fizyczny.<br>---<br>**Co niszczy** - duże spożycie wysoko przetworzonych cukrów i mąki, otyłość, pestycydy, pochodne ropy naftowej, przetworzony pokarm, metale toksyczne.<br>---<br>**Czy można się zatruć** - tak, dawka powyżej 1000 mg jest toksyczna. |
+| --- |   |   |
+| **Cynk** | 🟦 | **Spełniana funkcja** - jest składnikiem ponad 200 enzymów w organizmie, wchodzi w skład DNA i RNA, jest niezbędny do wzrostu, wspomaga gojenie ran, kontroluje hormony produkowane w jądrach i jajnikach, wzmaga zdolność do skutecznej walki ze stresem, ma wpływ na prawidłowy rozwój układu nerwowego i mózgu (zwłaszcza u rozwijającego się płodu, wspomaga tworzenie się kości i zębów, poprawia stan i wygląd włosów, jest niezbędny do utrzymania stałego poziomu energii.<br>---<br>**Objawy niedoboru** - osłabienie zmysłu smaku lub zapachu, białe plamy na więcej niż dwóch paznokciach, częste infekcje, rozstępy, trądzik lub przetłuszczająca się skóra, niska płodność, blada skóra, skłonność do depresji, brak apetytu.<br>---<br>**Źródła** (co zjadać) - korzeń imbiru, mięso jagnięce, suchy groch, zielony groszek, rzepa, żółtko jaja, ziarno nieoczyszczonej pszenicy, żyto, owies, orzechy ziemne, migdały.<br>---<br>**Pomocne w przyswajaniu** - kwas żołądkowy, witaminy A, E, B6, magnez, wapń, fosfor.<br>---<br>**Co niszczy** - fityniany (pszenica), szczawiany (rabarbar i szpinak), wysokie spożycie wapnia, niskie spożycie białka, nadmiar cukru, stres, alkohol.<br>---<br>**Czy można się zatruć** - tak, dawka powyżej 2g może doprowadzić do zaburzeń żołądkowo-jelitowych, wymiotów, anemii, zaburzeń wzrostu, sztywności, osłabienia apetytu i śmierci. |
+| --- |   |   |
+| **Fosfor** | 🟦 | **Spełniana funkcja** - ważny w wykształceniu kości i zębów i utrzymaniu ich w dobrym stanie, niezbędny do laktacji, wchodzi w skład komórek mięśniowych i jest niezbędny do ich pracy, składnik DNA i RNA, pomaga w utrzymaniu właściwego pH płynów ustrojowych, wspomaga metabolizm i produkcję energii.<br>---<br>**Objawy niedoboru** - mało prawdopodobne (fosfor znajduje się prawie we wszystkich pokarmach), może dojść w razie długotrwałego stosowania środków alkalizujących, w złamaniach kości lub innych urazach. Oznaki to - osłabienie mięsni, utrata apetytu, bóle kostne, krzywica, rozmiękanie kości.<br>---<br>**Źródła** (co zjadać) - jest we wszystkich pokarmach.<br>---<br>**Pomocne w przyswajaniu** - właściwy stosunek wapnia do fosforu, laktoza, witamina D.<br>---<br>**Co niszczy** - żelazo, magnez, glin.<br>---<br>**Czy można się zatruć** - nie znane są przypadki, ale może doprowadzić do niedoboru wapnia, zwiększenia pobudliwości nerwowej i konwulsji. |
+| --- |   |   |
+| **Magnez** | 🟦 | **Spełniana funkcja** - wzmacnia kości i zęby, utrzymuje zdrowe mięśnie, umożliwia ich rozkurczanie, wazny dla mięśnia sercowego i nerwów. Niezbędny do wytwarzania energii. Wspomaga działanie enzymów w organizmie.<br>---<br>**Objawy niedoboru** - drżenie lub skurcze mięśni, osłabienie mięśni, bezsenność i nerwowość, wysokie ciśnienie krwi, nieregularna czynność serca, zaparcia, drgawki, wzmożona aktywność, depresja, dezorientacja, brak apetytu, odkładanie wapnia w tkankach miękkich (kamienie w nerkach).<br>---<br>**Źródła** (co zjadać) - kiełki pszenicy, migdały, drożdże piwowarskie, mąka gryczana, orzechy ziemne, gotowana fasola, czosnek, rodzynki, zielony groszek, łupiny ziemniaków.<br>---<br>**Pomocne w przyswajaniu** - witamina B1, B6, C i D, cynk, wapń i fosfor.<br>---<br>**Co niszczy** - fityniany (otręby pszenne, chleb), tłuszcze, szczawiany (rabarbar i szpinak), wysokie spożycie wapnia (w produktach mlecznych) i białka.<br>---<br>**Czy można się zatruć** - tak, dawka powyżej 1000 mg może być toksyczna. |
+| --- |   |   |
+| **Mangan** | 🟦 | **Spełniana funkcja** - utrzymuje w zdrowiu kości, chrząstki, tkanki i nerwy, wzmaga aktywność ponad dwudziestu układów enzymatycznych (m.in. przeciwutleniający), Wyrównuje poziom cukru we krwi. Zabezpiecza DNA i RNA. Istotny dla procesów rozrodczych, produkcji krwinek czerwonych i insuliny. Ogranicza uszkodzenia komórek. Potrzebny do funkcjonowania mózgu.<br>---<br>**Objawy niedoboru** - skurcze mięśni, zawroty głowy lub słabe poczucie równowagi, drgawki, bóle stawów (głównie kolanowych).<br>---<br>**Źródła** (co zjadać) - ananas, endywia, jeżyny, maliny, sałata, winogrona, truskawki, owies, burak ćwikłowy, seler.<br>---<br>**Pomocne w przyswajaniu** - witamina B1, C, E i K.<br>---<br>**Co niszczy** - antybiotyki, alkohol, produkty oczyszczane.<br>---<br>**Czy można się zatruć** - nie występuje. |
+| --- |   |   |
+| **Molibden** | 🟦 | **Spełniana funkcja** - wspomaga wydalanie z organizmu produktów przemiany białek (np. kwasu moczowego) oraz wolnych rodników, produktów przemiany związków chemicznych pochodzących z zanieczyszczeń i siarczanów. Wzmacnia zęby i zmniejsza ryzyko powstawania ubytków w uzębieniu.<br>---<br>**Objawy niedoboru** - nie występują, dopóki nadmiar miedzi lub siarczanów nie ogranicza wykorzystania molibdenu (u zwierząt pojawiły się zaburzenia oddychania i problemy neurologiczne).<br>---<br>**Źródła** (co zjadać) - pomidory, kiełki pszenicy, wieprzowina, mięso jagnięce, soczewica, fasola.<br>---<br>**Pomocne w przyswajaniu** - białka zawierające aminokwasy siarkowe, wodorowęglany, tłuszcze.<br>---<br>**Co niszczy** - miedź, siarczany.<br>---<br>**Czy można się zatruć** - tak, spożycie 10-15 mg dziennie powoduje wystąpienie objawów podobnych do napadu dny moczanowej z wysokim poziomem kwasu moczowego. |
+| --- |   |   |
+| **Potas** | 🟦 | **Spełniana funkcja** - umożliwia wnikanie składników odżywczych do komórek i pozbywanie się produktów przemiany materii, zapewnia właściwe funkcjonowanie mięśni i nerwów, utrzymuje równowagę płynów w organizmie, rozkurcza mięśnie, wspomaga produkcję insuliny, bierze udział w przemianie materii, niezbędny dla pracy serca, pobudza czynność przewodu pokarmowego wspomagając prawidłowe wydalanie.<br>---<br>**Objawy niedoboru** - szybkie i nieregularne bicie serca, osłabienie mięśni, drętwienie kończyn, drażliwość, nudności i wymioty, biegunki, wzdęcia brzucha, cellulitis, niskie ciśnienie krwi wynikające z zaburzeń równowagi potasu i sodu, splątanie, otępienie.<br>---<br>**Źródła** (co zjadać) - kapusta, seler, pietruszka, cukinia, rzodkiewka, kalafior, grzyby, dynia, melasa.<br>---<br>**Pomocne w przyswajaniu** - magnez (pomaga w utrzymaniu potasu wewnątrz komórek).<br>---<br>**Co niszczy** - nadmiar sodu z soli, alkohol, cukier, leki moczopędne i przeczyszczające, kortykosterydy, stres.<br>---<br>**Czy można się zatruć** - tak, dawka powyżej 1,8 g może zatrzymać pracę serca. |
+| --- |   |   |
+| **Selen** | 🟦 | **Spełniana funkcja** - ma właściwości przeciwutleniające i chroni organizm przed działaniem wolnych rodników i czynników rakotwórczych, zmniejsza stan zapalny, pobudza układ odpornościowy do walki z zakażeniami, zapewnia właściwe funkcjonowanie serca i wspomaga w działaniu witaminę E, potrzebny w przemianie materii.<br>---<br>**Objawy niedoboru** - występowanie nowotworów w rodzinie, oznaki przedwczesnego starzenia się, zaćma, wysokie ciśnienie krwi, częste zakażenia.<br>---<br>**Źródła** (co zjadać) - tuńczyk, melasa, grzyby, śledzie, biały ser, kapusta, wątroba wołowa, cukinia, dorsz, kurczak.<br>---<br>**Pomocne w przyswajaniu** - witamina A, C i E.<br>---<br>**Co niszczy** - produkty oczyszczone, współczesne techniki uprawy i hodowli.<br>---<br>**Czy można się zatruć** - tak, dawka powyżej 750 mikrogramów może powodować nieprawidłowości w budowie białek tworzących strukturę włosa, paznokci i skóry oraz "czosnkowy" oddech. |
+| --- |   |   |
+| **Sód** | 🟦 | **Spełniana funkcja** - utrzymuje równowagę płynów w organizmie, zapobiega odwodnieniu, wspomaga czynności nerwów, bierze udział w skurczu mięśni, w tym mięśnia sercowego, wykorzystywany jest do produkcji energii, ułatwia wprowadzanie składników odżywczych do wnętrza komórek.<br>---<br>**Objawy niedoboru** - zawroty głowy, zła tolerancja wysokich temperatur, niskie ciśnienie krwi, przyspieszone tętno, apatia umysłowa, brak apetytu, kurcze mięśni, nudności i wymioty, spadek masy ciała, bóle głowy.<br>---<br>**Źródła** (co zjadać) - kapusta kiszona, oliwki, mięso, burak ćwikłowy, szynka, seler, kapusta, ser biały, czerwona fasola.<br>---<br>**Pomocne w przyswajaniu** - witamina D.<br>---<br>**Co niszczy** - potas i chlor równoważą działanie sodu.<br>---<br>**Czy można się zatruć** - tak, jeśli spożywa się dużo sodu z produktów oczyszczanych i pije niewiele wody, występują obrzęki, wysokie ciśnienie krwi i choroby nerek. |
+| --- |   |   |
+| **Wapń** | 🟦 | **Spełniana funkcja** - poprawia stan serca i nerwów, wspomaga procesy krzepnięcia krwi i pracy mięśni. Niezbędny w zachowaniu zdrowej skóry, kości i zębów. Usuwa bóle mięśni i kości. Utrzymuje równowagę kwasowo-zasadową. Zmniejsza napięcie i skurcze miesiączkowe.<br>---<br>**Objawy niedoboru** - drżenie i kurcze mięśni, bezsenność i nerwowość, ból i zapalenie stawów, próchnica, wysokie ciśnienie krwi.<br>---<br>**Źródła** (co zjadać) - żółty ser, ser cheddar, migdały, drożdże piwowarskie, pietruszka, placki kukurydziane, karczochy, suszone śliwki, ziarna dyni, gotowana suszona fasola, kapusta, zimowa pszenica.<br>---<br>**Pomocne w przyswajaniu** - witamina D, bor, wysiłek fizyczny.<br>---<br>**Co niszczy** - rozchwianie hormonalne, alkohol, brak ruchu, kofeina, herbata, brak kwasu solnego i nadmiar tłuszczów lub fosforu obniża wchłanianie wapnia, stres zwiększa wydalanie.<br>---<br>**Czy można się zatruć** - nie, ale prowadzi do odkładania się nadmiaru w postaci kamieni w nerkach, sercu i innych tkankach miękkich. |
+| --- |   |   |
+| **Żelazo** | 🟦 | **Spełniana funkcja** - jako część hemoglobiny transportuje tlen i dwutlenek węgla do i z tkanek. Składnik enzymów niezbędny do produkcji energii.<br>---<br>**Objawy niedoboru** - anemia, brak apetytu, obolały język, uczucie zmęczenia, apatia, nudności, wrażliwość na zimno.<br>---<br>**Źródła** (co zjadać) - ziarna dyni, pietruszka, migdały, suszone śliwki, rodzynki, orzechy włoskie, daktyle, wieprzowina, gotowana suszona fasola, ziarna sezamowe.<br>---<br>**Pomocne w przyswajaniu** - witamina B1, B6, C i D, cynk, wapń i fosfor.<br>---<br>**Co niszczy** - kwas taninowy (herbata), fityniany (otręby pszenne, bób), szczawiany (rabarbar i szpinak), fosforany (napoje gazowane, dodatki do żywności), substancje alkalizujące, białka sojowe, spożywanie dużej ilości cynku.<br>---<br>**Czy można się zatruć** - tak, dawka powyżej 1000 mg może być toksyczna. |
+| --- |   |   |
+| **Bioflawonidy** | 🟩 | **Spełniana funkcja** - wspomagają działanie witaminy C, wzmacniają naczynia włoskowate, przyspieszają gojenie się ran, a także urazów i nadwerężonych mięśni, przeciwutleniacze.<br>---<br>**Objawy niedoboru** - łatwe powstawanie siniaków, żylaki, częste urazy i nadwerężenia.<br>---<br>**Źródła** (co zjadać) - owoce jagodowe, wiśnie, owoce cytrusowe.<br>---<br>**Pomocne w przyswajaniu** - witamina C.<br>---<br>**Co niszczy** - wolne rodniki.<br>---<br>**Czy można się zatruć** - nieznane. |
+| --- |   |   |
+| **Cholina** | 🟩 | **Spełniana funkcja** - składnik lecytyny, która pomaga rozkładać tłuszcze w wątrobie, ułatwia wprowadzanie tłuszczów do komórek i syntezę błon komórkowych w układzie nerwowym, chroni tkankę płuc.<br>---<br>**Objawy niedoboru** - wady rozwojowe u noworodków, wysoki poziom cholesterolu i tłuszczów, stłuszczenie wątroby, zwyrodnienie nerwów, wysokie ciśnienie krwi, miażdżyca naczyń, otępienie starcze, zmniejszenie odporności na choroby.<br>---<br>**Źródła** (co zjadać) - lecytyna, jajka, ryby, wątroba, soja, orzechy ziemne, produkty pełnoziarniste, orzechy, rośliny strączkowe, owoce cytrusowe, kiełki pszenicy, drżdże piwne.<br>---<br>**Pomocne w przyswajaniu** - witamina B5, lit.<br>---<br>**Co niszczy** - alkohol, tabletki antykoncepcyjne.<br>---<br>**Czy można się zatruć** - nieznane. |
+| --- |   |   |
+| **Inozytol** | 🟩 | **Spełniana funkcja** - potrzebny do wzrostu komórek, konieczny do rozwoju osłonek nerwowych oraz funkcjonowania mózgu i rdzenia kręgowego, ma niewielkie działanie uspokajające, obniża poziom cholesterolu we krwi, potrzebny do utrzymania zdrowych włosów.<br>---<br>**Objawy niedoboru** - drazliwość, bezsenność, nerwowość, nadmierna pobudliwość, osłabienie wzrostu i regeneracji nerwów, niski poziom HDL.<br>---<br>**Źródła** (co zjadać) - lecytyna, rosliny strączkowe, mąka sojowa, jajka, ryby, wątroba, owoce cytrusowe, melon, orzechy, kiełki pszenicy, drożdże piwne.<br>---<br>**Pomocne w przyswajaniu** - cholina.<br>---<br>**Co niszczy** - fityniany, antybiotyki, alkohol, herbata, kawa, tabletki antykoncepcyjne, leki moczopędne.<br>---<br>**Czy można się zatruć** - nieznane. |
+| --- |   |   |
+| **Koenzym Q10** | 🟩 | **Spełniana funkcja** - przeciwutleniacz, odgrywa główną rolę w przemianie materii i metabolizmie, usprawnia pracę serca, pomaga normalizować ciśnienie krwi, zwiększa tolerancję wysiłku, wzmacnia odporność.<br>---<br>**Objawy niedoboru** - brak energii, choroby serca, słaba tolerancja wysiłku, upośledzenie czynności układu odpornościowego.<br>---<br>**Źródła** (co zjadać) - sardynki, makrele, wieprzowina, szpinak, olej sojowy, orzechy ziemne, ziarna sezamowe, orzechy włoskie<br>---<br>**Pomocne w przyswajaniu** - witamina B kompleks, żelazo.<br>---<br>**Co niszczy** - używki, cukier.<br>---<br>**Czy można się zatruć** - nieznane. |
 
 Jak z tego widać kilkaset lat nowoczesnej medycyny nie wniosło zbyt wiele do zrozumienia przemian zachodzących w ludzkim organizmie. Dzisiejsza wiedza medyczna, to pełzająca nauka podpatrująca ukradkiem nauki starożytnych i z pomocą bratniej chemii usiłująca rozwiązywać problemy zdrowia. Musimy szybko zrozumieć, że w tym światowym doświadczeniu my, zwykli ludzie jesteśmy tylko królikami doświadczalnymi. Żeby było ciekawiej, to wszelkie doświadczenia zdobyte na zamęczanych w imię nauki szczurach i myszach, uczniowie Paracelsusa przenoszą na ludzi wychodząc z założenia, że wszyscy jesteśmy wielką ewolucyjną rodziną.
 
@@ -1815,13 +563,9 @@ Do naczynia około 2-litrowego wsypać 750 g białego, rafinowanego cukru, 200 g
 
 Oczywiście, że nie, ale czy robimy wszystko, by się przed nim uchronić? Czy przypadkiem codziennie nie aplikujemy sobie substancji powszechnie uznawanych za rakotwórcze? Czy wspaniały smak smażonego kurczaczka czy wędzonego łososia ma już teraz wynagrodzić nam późniejsze cierpienia? Profilaktyka raka za pośrednictwem odżywiania jest możliwa przy zachowaniu dwóch podstawowych zasad:
 
-**•** 
-
-**Pokarm nie powinien zawierać substancji rakotwórczych, takich które powodują powstawanie nowotworów złośliwych.**
-
-**•** 
-
-**W pokarmie powinny znajdować się substancje, które chronią organizm przed rakiem.**
+| **•** | **Pokarm nie powinien zawierać substancji rakotwórczych, takich które powodują powstawanie nowotworów złośliwych.** |
+| --- | --- |
+| **•** | **W pokarmie powinny znajdować się substancje, które chronią organizm przed rakiem.** |
 
 Źródłem substancji rakotwórczych w naszym pożywieniu mogą być róznorodne tłuszcze, przy czym niebezpieczeństwo wielokrotnie wzrasta przy spożywaniu nieświeżych lub przesmażonych tłuszczów. Dlatego też nie powinnismy zostawiać tłuszczu na patelni i wykorzystywać go wielokrotnie. W miarę możliwości unikamy smażonych produktów na korzyść gotowanych i pieczonych. Oprócz tego, zbędny tłuszcz z mięsa zawsze lepiej wykroić. Nie należy włączać do jadłospisu zbyt dużej ilości olejów roslinnych. Dwie łyżki stołowe dziennie, to ilość całkowicie wystarczająca. Istnieją dane na temat tego, że tłuszcze niekorzystnie wpływają na system odpornościowy człowieka, ich nadmiar sprzyja przemianie komórek w komórki rakowe. Wiadomo, że w miarę wzrostu poziomu życia w krajach niegdyś biednych (Japonia, Grecja, Włochy), w wyniku zwiększenia w jadłospisie ilości tłuszczu, wzrosła tam zachorowalność na raka gruczołu mlekowego i jelita grubego.
 
@@ -2001,43 +745,10 @@ Przy przemieszczeniu **kręgów lędźwiowych** - zaparcia, biegunki, skurcze w 
 
 Każdy narząd organizmu, pośrednio lub bezpośrednio jest połączony z odpowiednim segmentem rdzenia kręgowego poprzez nerwy obwodowe. Istnieje ścisły związek pomiędzy poszczególnymi kręgami kręgosłupa a chorobami. Według prof. J. Aleksandrowicza poszczególne kręgi są powiązane z następującymi organami, a co za tym idzie z chorobami tych organów.
 
-**7 kręgów szyjnych**
-
-**12 kręgów piersiowych**
-
-**5 kręgów lędźwiowych**
-
-**1**. unaczynienie głowy, przysadka, owłosiona skóra głowy, kości twarzy, mózg, ucho środkowe i wewnętrzne, układ współczulny.  
-**2**. oczy, narząd oczny, narząd słuchowy, zatoki, wyrostek sutkowaty, język, czoło.  
-**3**. policzki, ucho zewnętrzne, kości twarzoczaszki, zęby, nerw trójdzielny.  
-**4**. nos, usta, jama ustna, trąbka Eustachiusza..  
-**5**. struny głosowe, gardło.  
-**6**. mięśnie karku, ramiona, migdały.  
-**7**. tarczyca, łokcie, torebka stawu biodrowego.  
-
-**1**. przedramię, dłoń, przełyk, tchawica.  
-**2**. serce i zastawki, naczynia wieńcowe.  
-**3**. płuca, oskrzela, opłucna, sutki.  
-**4**. pęcherzyk żółciowy, przewód żółciowo-wspólny.  
-**5**. wątroba, splot słoneczny, krew.  
-**6**. żołądek.  
-**7**. trzustka, wyspy Langerhansa, dwunastnica.  
-**8**. śledziona, przepona.  
-**9**. nadnercza.  
-**10**. nerki.  
-**11**. nerki, moczowody.  
-**12**. jelito cienkie, jajowód, układ limfatyczny.  
-
-**1**. jelito grube, węzły pachwinowe.  
-**2**. wyrostek robaczkowy, brzuch, udo, kątnica.  
-**3**. narządy płciowe, jajniki (jądra), macica, pęcherz, kolano.  
-**4**. gruczoł krokowy, mięśniówka lędźwiowej części grzbietu, nerw kulszowy.  
-**5**. podudzia, stopy.  
-
----
-
-**Kość krzyżowa** (5 kręgów zrośniętych) - biodra, pośladki.  
-**Kość ogonowa** (4-5 kręgów) - odbyt.
+| 🟩 **7 kręgów szyjnych** | 🟩 **12 kręgów piersiowych** | 🟩 **5 kręgów lędźwiowych** |
+| --- | --- | --- |
+| **1**. unaczynienie głowy, przysadka, owłosiona skóra głowy, kości twarzy, mózg, ucho środkowe i wewnętrzne, układ współczulny.<br>**2**. oczy, narząd oczny, narząd słuchowy, zatoki, wyrostek sutkowaty, język, czoło.<br>**3**. policzki, ucho zewnętrzne, kości twarzoczaszki, zęby, nerw trójdzielny.<br>**4**. nos, usta, jama ustna, trąbka Eustachiusza..<br>**5**. struny głosowe, gardło.<br>**6**. mięśnie karku, ramiona, migdały.<br>**7**. tarczyca, łokcie, torebka stawu biodrowego. | **1**. przedramię, dłoń, przełyk, tchawica.<br>**2**. serce i zastawki, naczynia wieńcowe.<br>**3**. płuca, oskrzela, opłucna, sutki.<br>**4**. pęcherzyk żółciowy, przewód żółciowo-wspólny.<br>**5**. wątroba, splot słoneczny, krew.<br>**6**. żołądek.<br>**7**. trzustka, wyspy Langerhansa, dwunastnica.<br>**8**. śledziona, przepona.<br>**9**. nadnercza.<br>**10**. nerki.<br>**11**. nerki, moczowody.<br>**12**. jelito cienkie, jajowód, układ limfatyczny. | **1**. jelito grube, węzły pachwinowe.<br>**2**. wyrostek robaczkowy, brzuch, udo, kątnica.<br>**3**. narządy płciowe, jajniki (jądra), macica, pęcherz, kolano.<br>**4**. gruczoł krokowy, mięśniówka lędźwiowej części grzbietu, nerw kulszowy.<br>**5**. podudzia, stopy. |
+| ---<br>**Kość krzyżowa** (5 kręgów zrośniętych) - biodra, pośladki.<br>**Kość ogonowa** (4-5 kręgów) - odbyt. |   |   |
 
 Powyższy wykaz nie upoważnia do wykonywania jakichkolwiek eksperymentów. Nasz kręgosłup w ręku amatora lub pseudokręgarza, to w najlepszym przypadku dożywotnie kalectwo.
 
@@ -2053,214 +764,82 @@ Prof. Tombak pisze - Przez całe życie "pracujemy" na stan własnego kręgosłu
 
 i stosować działania profilaktyczne:
 
-**•** 
-
-**Należy cały czas obserwować siebie, chodzić prosto, stać prosto, siedzieć prosto, brzuch powinien być wciągnięty, plecy wyprostowane, głowa uniesiona lekko w górę.**
-
-**•** 
-
-**Siedząc nie należy nigdy zakładać nogi na nogę, ponieważ pod kolanami znajdują się dwie duże arterie (tętnice), których ucisk powoduje naruszenie ogólnego krążenia krwi.**
-
-**•** 
-
-**Przyzwyczajenie siadania z nogą założoną na nogę z wiekiem powoduje bóle w kręgosłupie i mięśniach nóg, żylaki, choroby naczyń krwionośnych kończyn dolnych.**
-
-**•** 
-
-**Nie podnoś ciężarów z pozycji stojącej. Mniej obciążasz kręgosłup jeśli uginasz kolana.**
-
-**•** 
-
-**Wzmacniaj mięśnie brzucha - odciążają kręgosłup o 20%.**
-
-**•** 
-
-**Nosząc ciężary rozkładać je równomiernie na oba ramiona.**
+| **•** | **Należy cały czas obserwować siebie, chodzić prosto, stać prosto, siedzieć prosto, brzuch powinien być wciągnięty, plecy wyprostowane, głowa uniesiona lekko w górę.** |
+| --- | --- |
+| **•** | **Siedząc nie należy nigdy zakładać nogi na nogę, ponieważ pod kolanami znajdują się dwie duże arterie (tętnice), których ucisk powoduje naruszenie ogólnego krążenia krwi.** |
+| **•** | **Przyzwyczajenie siadania z nogą założoną na nogę z wiekiem powoduje bóle w kręgosłupie i mięśniach nóg, żylaki, choroby naczyń krwionośnych kończyn dolnych.** |
+| **•** | **Nie podnoś ciężarów z pozycji stojącej. Mniej obciążasz kręgosłup jeśli uginasz kolana.** |
+| **•** | **Wzmacniaj mięśnie brzucha - odciążają kręgosłup o 20%.** |
+| **•** | **Nosząc ciężary rozkładać je równomiernie na oba ramiona.** |
 
 Zaleca też zestaw ćwiczeń, by nasz kręgosłup utrzymać w należytej kondycji. Ćwiczenia te są proste, lekkie i nie zabierają zbyt wiele czasu. Mogą je wykonywać dosłownie wszyscy, nawet ci którzy poruszają się z trudem, a także genetycznie leniwi.
 
 Zestaw nr 1 (łóżkowy)
 
-**•** 
-
-**Po przebudzeniu się należy kilka razy się przeciągnąć.**
-
-**•** 
-
-**Leżąc na placach z całej siły naciskać tyłem głowy na poduszkę przez 5 sekund i 5 sekund odpoczywać. Powtarzać 6 razy.**
-
-**•** 
-
-**Położyć poduszkę na piersi i przez 5 sekund mocno ja obejmować i 5 sekund odpoczywać. Powtórzyć 6 razy.**
-
-**•** 
-
-**Położyć poduszkę między nogami i przez 5 sekund mocno ściskać ją kolanami i 5 sekund od-poczywać. Powtórzyć 6 razy.**
-
-**•** 
-
-**Na 5 sekund podnieść nogi do góry pod katem 45° i 5 sekund odpoczywać. Powtórzyć 6 razy.**
-
-**•** 
-
-**Palcami jednej nogi ściągać na siebie palce drugiej nogi na zmianę 6 razy.**
+| **•** | **Po przebudzeniu się należy kilka razy się przeciągnąć.** |
+| --- | --- |
+| **•** | **Leżąc na placach z całej siły naciskać tyłem głowy na poduszkę przez 5 sekund i 5 sekund odpoczywać. Powtarzać 6 razy.** |
+| **•** | **Położyć poduszkę na piersi i przez 5 sekund mocno ja obejmować i 5 sekund odpoczywać. Powtórzyć 6 razy.** |
+| **•** | **Położyć poduszkę między nogami i przez 5 sekund mocno ściskać ją kolanami i 5 sekund od-poczywać. Powtórzyć 6 razy.** |
+| **•** | **Na 5 sekund podnieść nogi do góry pod katem 45° i 5 sekund odpoczywać. Powtórzyć 6 razy.** |
+| **•** | **Palcami jednej nogi ściągać na siebie palce drugiej nogi na zmianę 6 razy.** |
 
 Zestaw nr 2 (dywanowy) - japoński, doskonale regenerujący wszystkie układy organizmu, wysoki procent wyleczenia chorób kręgosłupa, przetestował go sam autor uleczając się z dolegliwości kręgosłupa.
 
-**"rybka"**
-
-**pozycja wyjściowa: leżąc na plecach podłożyć dłonie pod kark na wysokości 4 i 5 kręgu szyjnego i całym ciężarem przylgnąć do podłogi. Nogi złączyć, palce nóg "podciągnąć" w stronę głowy. Wszystkie wypukłości (potylica, ramiona, łydki, miednica) wcisnąć w podłogę.  
-wykonanie: w tej pozycji rozpocząć szybkie kołysanie z prawa na lewo i z lewa na prawo, na podobieństwo szybko płynącej rybki. Ćwiczenie należy wykonywać po 1 minucie rano i wieczorem.**
-
-**"karaluch"**
-
-**pozycja wyjściowa: pod szyję położyć twardy wałek, podnieść do góry ręce i nogi tak, aby stopy były równoległe do podłogi.  
-wykonanie: w takiej pozycji potrząsać rękami i nogami jednocześnie (podobnie jak przewrócony karaluch). Ćwiczenie należy wykonywać 1-2 minuty rano i wieczorem. Ćwiczenie daje efekt biegu, ale bez obciążania stawów i serca.**
-
-**"łączenie dłoni i stóp"**
-
-**\- położyć się na plecach. Dłonie złączyć i dociskać do siebie lekko 10 razy opuszki palców obu rąk,  
-\- złożyć dłonie równolegle do tułowia i 10 razy przemieszczać je w kierunku stóp i z powrotem jakby rozcinając ciało na pół,  
-\- złączyć stopy tak, by przylegały do siebie, w takiej pozycji podnieść nogi i 10 razy przesuwać je wprzód i w tył uginając w kolanach, wykonując przy tym te same ruchy rękoma co w punkcie wyżej,  
-\- zamknąć oczy i poleżeć ze złączonymi stopami i dłońmi przez 2-3 minuty.**
+| **"rybka"** | **pozycja wyjściowa: leżąc na plecach podłożyć dłonie pod kark na wysokości 4 i 5 kręgu szyjnego i całym ciężarem przylgnąć do podłogi. Nogi złączyć, palce nóg "podciągnąć" w stronę głowy. Wszystkie wypukłości (potylica, ramiona, łydki, miednica) wcisnąć w podłogę.<br>wykonanie: w tej pozycji rozpocząć szybkie kołysanie z prawa na lewo i z lewa na prawo, na podobieństwo szybko płynącej rybki. Ćwiczenie należy wykonywać po 1 minucie rano i wieczorem.** |
+| --- | --- |
+| **"karaluch"** | **pozycja wyjściowa: pod szyję położyć twardy wałek, podnieść do góry ręce i nogi tak, aby stopy były równoległe do podłogi.<br>wykonanie: w takiej pozycji potrząsać rękami i nogami jednocześnie (podobnie jak przewrócony karaluch). Ćwiczenie należy wykonywać 1-2 minuty rano i wieczorem. Ćwiczenie daje efekt biegu, ale bez obciążania stawów i serca.** |
+| **"łączenie dłoni i stóp"** | **\- położyć się na plecach. Dłonie złączyć i dociskać do siebie lekko 10 razy opuszki palców obu rąk,<br>\- złożyć dłonie równolegle do tułowia i 10 razy przemieszczać je w kierunku stóp i z powrotem jakby rozcinając ciało na pół,<br>\- złączyć stopy tak, by przylegały do siebie, w takiej pozycji podnieść nogi i 10 razy przesuwać je wprzód i w tył uginając w kolanach, wykonując przy tym te same ruchy rękoma co w punkcie wyżej,<br>\- zamknąć oczy i poleżeć ze złączonymi stopami i dłońmi przez 2-3 minuty.** |
 
 Zestaw nr 3 (krzesełkowy) - koryguje pracę mięśni, nerwów, wewnętrznych organów i naczyń krwionośnych, normalizuje prace układu nerwowego i pokarmowego, ma dobry wpływ na zdolności umysłowe. Jest wskazany dla osób, które prowadzą intensywny tryb życia.
 
-**•** 
-
-**Usiąść na krześle, ręce położyć na kolanach, podnosić i opuszczać ramiona 10 razy.**
-
-**•** 
-
-**W tej samej pozycji robić skłony głową w prawa i lewą stronę, po 10 razy w każdą stronę.**
-
-**•** 
-
-**Skłaniać głowę do przodu i do tyłu po 10 razy w każdą stronę.**
-
-**•** 
-
-**Skłaniać głowę w prawo 10 razy i w lewo 10 razy.**
-
-**•** 
-
-**Wyciągnąć ręce do przodu w poziomie i kręcić głową w prawo i w lewo po 5 razy.**
-
-**•** 
-
-**Podnieść ręce do góry nad głową i kręcić głową w prawo i w lewo po 5 razy.**
-
-**•** 
-
-**Położyć ręce na ramionach pod katem prostym, odchylać ręce do tyłu i jednocześnie ciągnąć podbródek do przodu i w górę.**
-
-**•** 
-
-**Ręce położyć na kolanach, zamknąć oczy i powoli kręcić głową w prawo i lewo po 5 razy, następnie z zamkniętymi oczami zrobić 3 razy głęboki wdech i wydech, otworzyć oczy.**
-
-**•** 
-
-**Po wykonaniu tych ćwiczeń należy przyjąć kontrastowy prysznic - 30 sekund ciepły i 10 sekund zimny lub chłodny.**
+| **•** | **Usiąść na krześle, ręce położyć na kolanach, podnosić i opuszczać ramiona 10 razy.** |
+| --- | --- |
+| **•** | **W tej samej pozycji robić skłony głową w prawa i lewą stronę, po 10 razy w każdą stronę.** |
+| **•** | **Skłaniać głowę do przodu i do tyłu po 10 razy w każdą stronę.** |
+| **•** | **Skłaniać głowę w prawo 10 razy i w lewo 10 razy.** |
+| **•** | **Wyciągnąć ręce do przodu w poziomie i kręcić głową w prawo i w lewo po 5 razy.** |
+| **•** | **Podnieść ręce do góry nad głową i kręcić głową w prawo i w lewo po 5 razy.** |
+| **•** | **Położyć ręce na ramionach pod katem prostym, odchylać ręce do tyłu i jednocześnie ciągnąć podbródek do przodu i w górę.** |
+| **•** | **Ręce położyć na kolanach, zamknąć oczy i powoli kręcić głową w prawo i lewo po 5 razy, następnie z zamkniętymi oczami zrobić 3 razy głęboki wdech i wydech, otworzyć oczy.** |
+| **•** | **Po wykonaniu tych ćwiczeń należy przyjąć kontrastowy prysznic - 30 sekund ciepły i 10 sekund zimny lub chłodny.** |
 
 Zestaw nr 4 (krzesełkowy) - regeneracja kręgów szyjnych i oddychanie.
 
-**•** 
-
-**siedząc na krześle unosimy i opuszczamy ramiona 10 razy,**
-
-**•** 
-
-**skłaniamy głowę w prawo i w lewo po 10 razy starając się dotknąć uchem ramienia,**
-
-**•** 
-
-**skłaniamy głowę w przód i w tył 10 razy,**
-
-**•** 
-
-**obracamy głowę w prawo i w lewo po 10 razy,**
-
-**•** 
-
-**wyciągamy ręce do przodu wnętrzami dłoni skierowanymi do siebie i kręcimy głową w lewo i w prawo po 10 razy,**
-
-**•** 
-
-**podnosimy ręce do góry wnętrzami dłoni skierowanymi do siebie i kręcimy głową w lewo i w prawo po 5 razy,**
-
-**•** 
-
-**kładziemy ręce na ramionach, odciągamy łokcie do tyłu jakbyśmy chcieli ścisnąć jabłko między łopatkami, jednocześnie wyciągając do przodu podbródek. Wykonywać rano i wieczorem po 3 minuty,**
-
-**•** 
-
-**siedząc na krześle, kładziemy ręce na kolanach, zsuwamy się na brzeg krzesła i kołyszemy ciałem w prawo i w lewo, w jego rytmie wciągamy i wypinamy brzuch. Powtarzamy 10 razy.**
+| **•** | **siedząc na krześle unosimy i opuszczamy ramiona 10 razy,** |
+| --- | --- |
+| **•** | **skłaniamy głowę w prawo i w lewo po 10 razy starając się dotknąć uchem ramienia,** |
+| **•** | **skłaniamy głowę w przód i w tył 10 razy,** |
+| **•** | **obracamy głowę w prawo i w lewo po 10 razy,** |
+| **•** | **wyciągamy ręce do przodu wnętrzami dłoni skierowanymi do siebie i kręcimy głową w lewo i w prawo po 10 razy,** |
+| **•** | **podnosimy ręce do góry wnętrzami dłoni skierowanymi do siebie i kręcimy głową w lewo i w prawo po 5 razy,** |
+| **•** | **kładziemy ręce na ramionach, odciągamy łokcie do tyłu jakbyśmy chcieli ścisnąć jabłko między łopatkami, jednocześnie wyciągając do przodu podbródek. Wykonywać rano i wieczorem po 3 minuty,** |
+| **•** | **siedząc na krześle, kładziemy ręce na kolanach, zsuwamy się na brzeg krzesła i kołyszemy ciałem w prawo i w lewo, w jego rytmie wciągamy i wypinamy brzuch. Powtarzamy 10 razy.** |
 
 Zestaw nr 5 (masaże) - ogólnowzmacniający.
 
-**•** 
-
-**kciuki obu rąk położyć za uszami, przycisnąć małżowiny obiema rękami i masować uszy od góry do dołu 30 razy palcami wskazującymi;**
-
-**•** 
-
-**prawą dłoń położyć na czole tak, aby mały palec leżał na lewej brwi. Teraz położyc na prawej dłoni lewą w taki sposób, by mały palec lewej dłoni znalazł się na prawej brwi. Przesuwać dłonie w prawo i w lewo 30 razy cały czas przyciskając je do czoła, tak by małe palce ślizgały się po brwiach;**
-
-**•** 
-
-**zwinąć dłoń w pięść, opuszkami kciuków przycisnąć gałki oczne i delikatnie, okrężnymi ruchami masować oczy 15 razy zgodnie z ruchem wskazówek zegara i 15 razy w przeciwną stronę;**
-
-**•** 
-
-**położyć prawą dłoń na brzuchu, z wierzchu przycisnąć lewą i masować okrężnym ruchem 30 razy zgodnie z kierunkiem ruchu wskazówek zegara. Potem odwrotnie - lewa ręka na brzuch, na nią prawa i 30 ruchów okrężnych w przeciwnym kierunku (można wykonywać leżąc, siedząc lub stojąc);**
-
-**•** 
-
-**wciągnąć brzuch jak najmocniej jak się da, a potem wypiąć mocno niczym balon. I tak 30 razy;**
-
-**•** 
-
-**Spleść dłonie na karku i masować go, przesuwając ręce z lewa w prawo 30 razy i z góry na dół 30 razy;**
-
-**•** 
-
-**pocierać dłoń o dłoń tak, by ręce zrobiły się gorące, położyć dłonie na oczy i policzyć do 30.**
+| **•** | **kciuki obu rąk położyć za uszami, przycisnąć małżowiny obiema rękami i masować uszy od góry do dołu 30 razy palcami wskazującymi;** |
+| --- | --- |
+| **•** | **prawą dłoń położyć na czole tak, aby mały palec leżał na lewej brwi. Teraz położyc na prawej dłoni lewą w taki sposób, by mały palec lewej dłoni znalazł się na prawej brwi. Przesuwać dłonie w prawo i w lewo 30 razy cały czas przyciskając je do czoła, tak by małe palce ślizgały się po brwiach;** |
+| **•** | **zwinąć dłoń w pięść, opuszkami kciuków przycisnąć gałki oczne i delikatnie, okrężnymi ruchami masować oczy 15 razy zgodnie z ruchem wskazówek zegara i 15 razy w przeciwną stronę;** |
+| **•** | **położyć prawą dłoń na brzuchu, z wierzchu przycisnąć lewą i masować okrężnym ruchem 30 razy zgodnie z kierunkiem ruchu wskazówek zegara. Potem odwrotnie - lewa ręka na brzuch, na nią prawa i 30 ruchów okrężnych w przeciwnym kierunku (można wykonywać leżąc, siedząc lub stojąc);** |
+| **•** | **wciągnąć brzuch jak najmocniej jak się da, a potem wypiąć mocno niczym balon. I tak 30 razy;** |
+| **•** | **Spleść dłonie na karku i masować go, przesuwając ręce z lewa w prawo 30 razy i z góry na dół 30 razy;** |
+| **•** | **pocierać dłoń o dłoń tak, by ręce zrobiły się gorące, położyć dłonie na oczy i policzyć do 30.** |
 
 Warunkiem uzyskania powodzenia jest systematyczne i codzienne wykonywanie ćwiczeń. W niedzielę możemy sobie odpuścić, ponieważ jest "dniem lenia" :-), wykonując jednak zestaw łóżkowy.
 
 Na koniec zestaw ćwiczeń dla sprawniejszych fizycznie:
 
-**ćwiczenie 1**
-
-**Położyć się na podłodze, podłożywszy miękki dywanik, ręce wzdłuż ciała dłońmi w dół. Silnie podrzucamy nogi do góry, próbując dosięgnąć czoła kolanami, po czym nogi opuścić. Powtarzać 10 razy.**
-
-**ćwiczenie 2**
-
-**Wstać. Zgiąć się w przód dotykając palcami podłogi, a najlepiej całą dłonią. Głowę skłaniać w przód i w tył w takt skłonów tułowia. Wstać, nogi na szerokość ramion. Dłonie zacisnąć w pięści.**
-
-**ćwiczenie 3**
-
-**Wykonywać jednocześnie krążenie obu rąk w stawach barkowych zakreślając koła. 10 razy do przodu i 10 razy do tyłu.**
-
-**ćwiczenie 4**
-
-**Zginanie kręgosłupa na boki. Dłonie ślizgają się po tułowiu, jedna w dół do kolana, druga podnosi się pod pachę. Jednocześnie przy skłonie w prawo głowa obraca się z prawej strony na lewą. Powtarzamy to samo w drugą stronę.**
-
-**ćwiczenie 5**
-
-**Nogi rozstawiamy na szerokość ramion. Podnosimy prawą rękę i dotykamy lewej łopatki. Potem to samo z lewą ręką dotykając prawej łopatki. Powtarzamy 10 razy.**
-
-**ćwiczenie 6**
-
-**Nogi rozstawiamy na szerokość ramion. Podnosimy ręce do góry nad głową i obracamy tułowiem na przemian w lewo i w prawo po 10 razy. Ręce i głowa obracają się razem z tułowiem.**
-
-**ćwiczenie 7**
-
-**Stajemy prosto. Nogi rozstawiamy na szerokość ramion. Podnosimy prawą nogę starając się dotknąć nogą klatki piersiowej, następnie to samo lewą nogą i powtarzamy 10 razy.**
-
-**ćwiczenie 8**
-
-**Stawiamy przed sobą krzesło. Obydwoma rękami łapiemy za oparcie i robimy przysiady minimum 10 razy.**
+| **ćwiczenie 1** | **Położyć się na podłodze, podłożywszy miękki dywanik, ręce wzdłuż ciała dłońmi w dół. Silnie podrzucamy nogi do góry, próbując dosięgnąć czoła kolanami, po czym nogi opuścić. Powtarzać 10 razy.** |
+| --- | --- |
+| **ćwiczenie 2** | **Wstać. Zgiąć się w przód dotykając palcami podłogi, a najlepiej całą dłonią. Głowę skłaniać w przód i w tył w takt skłonów tułowia. Wstać, nogi na szerokość ramion. Dłonie zacisnąć w pięści.** |
+| **ćwiczenie 3** | **Wykonywać jednocześnie krążenie obu rąk w stawach barkowych zakreślając koła. 10 razy do przodu i 10 razy do tyłu.** |
+| **ćwiczenie 4** | **Zginanie kręgosłupa na boki. Dłonie ślizgają się po tułowiu, jedna w dół do kolana, druga podnosi się pod pachę. Jednocześnie przy skłonie w prawo głowa obraca się z prawej strony na lewą. Powtarzamy to samo w drugą stronę.** |
+| **ćwiczenie 5** | **Nogi rozstawiamy na szerokość ramion. Podnosimy prawą rękę i dotykamy lewej łopatki. Potem to samo z lewą ręką dotykając prawej łopatki. Powtarzamy 10 razy.** |
+| **ćwiczenie 6** | **Nogi rozstawiamy na szerokość ramion. Podnosimy ręce do góry nad głową i obracamy tułowiem na przemian w lewo i w prawo po 10 razy. Ręce i głowa obracają się razem z tułowiem.** |
+| **ćwiczenie 7** | **Stajemy prosto. Nogi rozstawiamy na szerokość ramion. Podnosimy prawą nogę starając się dotknąć nogą klatki piersiowej, następnie to samo lewą nogą i powtarzamy 10 razy.** |
+| **ćwiczenie 8** | **Stawiamy przed sobą krzesło. Obydwoma rękami łapiemy za oparcie i robimy przysiady minimum 10 razy.** |
 
 **Ćwicz nawet w biurze**
 
@@ -2272,25 +851,16 @@ Jest to zestaw ćwiczeń rozluźniający mięśnie i likwidujący zmęczenie pod
 
 Druga grupa ćwiczeń, to tzw. zamki mięśniowe, unikalne w prostocie i niewidoczne dla otoczenia, a rozluźniające całe ciało, poprawiające krążenie krwi i profilaktyczne przeciw schorzeniom narządów rodnych kobiet i prostaty u mężczyzn.
 
-**Przedni dolny zamek**
-
-**Wykonanie go osiagamy poprzez skurczenie mięśni obejmujących ujście moczowodu. Zwykle mimowolnie kurczymy je, kiedy trzeba dobiec do toalety lub wydalić resztki moczu przy jego oddawaniu. Aby było łatwiej wykonać to ćwiczenie, proszę spróbować świadomie wstrzymać mocz w trakcie oddawania i zapamiętać to odczucie. Ćwiczymy to 3-5 razy dziennie w ilości po 10 razy.**
-
-**Tylny dolny zamek**
-
-**Podobnie jak wyżej, ale obkurczamy mięśnie odbytnicy, tak jakbyśmy chcieli wstrzymać opróżnianie jelita grubego. Ćwiczymy to, podobnie jak wyżej, 3-5 razy dziennie w ilości po 10 razy.**
-
-**Całkowity zamek**
-
-**Jest to jednoczesne wykonanie dwóch poprzednich ćwiczeń. Daje to podwójny efekt uzdrawiający. Ćwiczenie najlepiej wykonywać podczas wydechu 1 raz dziennie powtarzając je 10 razy.**
+| **Przedni dolny zamek** | **Wykonanie go osiagamy poprzez skurczenie mięśni obejmujących ujście moczowodu. Zwykle mimowolnie kurczymy je, kiedy trzeba dobiec do toalety lub wydalić resztki moczu przy jego oddawaniu. Aby było łatwiej wykonać to ćwiczenie, proszę spróbować świadomie wstrzymać mocz w trakcie oddawania i zapamiętać to odczucie. Ćwiczymy to 3-5 razy dziennie w ilości po 10 razy.** |
+| --- | --- |
+| **Tylny dolny zamek** | **Podobnie jak wyżej, ale obkurczamy mięśnie odbytnicy, tak jakbyśmy chcieli wstrzymać opróżnianie jelita grubego. Ćwiczymy to, podobnie jak wyżej, 3-5 razy dziennie w ilości po 10 razy.** |
+| **Całkowity zamek** | **Jest to jednoczesne wykonanie dwóch poprzednich ćwiczeń. Daje to podwójny efekt uzdrawiający. Ćwiczenie najlepiej wykonywać podczas wydechu 1 raz dziennie powtarzając je 10 razy.** |
 
 "Między nami po ulicy, snują się..." napisała kiedyś Agnieszka Osiecka. Dotyczy to nie tylko zamyslonych studentów. Prawie wszyscy chodzimy przygarbieni, osowiali, przytłoczeni życiem. Polacy są chyba najbardziej pesymistycznie nastawionym narodem. Wiadomo jakie państwo, taki naród. Ale to nie powód, by gorzknieć od środka. Głowa do góry, optymiści żyją dłużej, a niepalący umierają zdrowsi. Następne ćwiczenia poprawią nam chociaż sylwetkę.
 
-**Podchodzimy do ściany, przylegamy do niej jednocześnie piętami, pośladkami i potylicą i stoimy tak około 3-5 minut. Następnie wciągamy brzuch, patrzymy prosto przed siebie i myślimy pozytywnie o sobie.**  
-  
+**Podchodzimy do ściany, przylegamy do niej jednocześnie piętami, pośladkami i potylicą i stoimy tak około 3-5 minut. Następnie wciągamy brzuch, patrzymy prosto przed siebie i myślimy pozytywnie o sobie.**
 
-**Ćwiczenie pozwalające szybko zdjąć napięcie z mięśni całego ciała. Wykonujemy je stojąc. Zginamy prawą nogę w kolanie i lewą ręką przyciskamy piętę do prawego pośladka przytrzymując jednocześnie prawą reką dolną część kolana. Stoimy w tej pozycji 1-2 minuty i zmieniamy nogę.  
-Uwaga! Nie wykonywać po przedawkowaniu ulubionego napoju - siła grawitacji jest nieubłagalna.**
+**Ćwiczenie pozwalające szybko zdjąć napięcie z mięśni całego ciała. Wykonujemy je stojąc. Zginamy prawą nogę w kolanie i lewą ręką przyciskamy piętę do prawego pośladka przytrzymując jednocześnie prawą reką dolną część kolana. Stoimy w tej pozycji 1-2 minuty i zmieniamy nogę.<br>Uwaga! Nie wykonywać po przedawkowaniu ulubionego napoju - siła grawitacji jest nieubłagalna.**
 
 I proszę pamiętać. Ćwiczenia należy wykonywać systematycznie i codziennie. Wykonywanie ich w "przypływie sumienia" nie da nic. To musi wejść do codziennych obowiązków, a wtedy efekty będą widoczne. Drugą sprawą jest codzienny optymizm. Najgorszą rzeczą dla człowieka jest tylko jego śmierć. Z każdej sytuacji jest wyjście, a **Polak**, jak wszystkim wiadomo, **potrafi**.
 
@@ -2407,72 +977,10 @@ Drugą zasadą jest sam sposób jedzenia. Prof. Tombak proponuje wypracować naw
 
 Prof. Tombak podzielił produkty żywnościowe na trzy grupy. Podobnego podziału dokonuje także doktor Górnicka. Dlaczego? Spowodowane jest to jakością enzymów potrzebnych do trawienia. Każdy jednorodny pokarm trawi inny enzym i często przy wymieszanym pokarmie enzym zasadowy i kwaśny wzajemnie się neutralizują, co w konsekwencji doprowadza do niestrawienia żadnego z pokarmów. Dlatego dieta optymalna nakazuje spożywanie w jednym posiłku tylko jednego produktu, który jest trawiony całkowicie. Przykładowo węglowodany są trawione w ciągu 20-30 minut, zaś białka w ciągu 2-4 godzin i takie przerwy powinny być między zjedzeniem jednego a drugiego.
 
-**POKARM WĘGLOWODANOWY (można łączyć)**
-
-**BIAŁKO**
-
----
-
-mięso, wędliny, ryby,  
-boczek surowy i wędzony,  
-podroby, dziczyzna,  
-wszystkie jaja,  
-rosoły, bakłażany,  
-fasola, bób, soja  
-wszystkie nasiona,  
-wszystkie orzechy,  
-ziarna słonecznika,  
-produkty mleczno-kwaśne,  
-twarogi, sery białe,  
-sery żółte i topione,  
-mleko, jogurt, kefir,  
-żelatyna
-
-  
-**TŁUSZCZE  
-i produkty "żywe"**
-
----
-
-tran, słonina, smalec,  
-masło świeże i topione,  
-oleje, margaryny,  
-orzechy laskowe i włoskie,  
-migdały, gorzka czekolada,  
-
----
-
-zielenina, owoce suszone,  
-soki z warzyw i owoców  
-warzywa (oprócz ziemniaków),  
-jagody, arbuzy, grzyby,  
-wino wytrawne, mleko,  
-melon i banan najlepiej  
-spożywać osobno nie łącząc  
-z innymi produktami  
-dodatki smakowe i przyprawy
-
-**WĘGLOWODANY  
-(skrobia)**
-
----
-
-mąki, kasze, ryż, płatki,  
-wszelkie pieczywa, sucharki  
-ziemniaki, kukurydza,  
-wyroby mączne,  
-makarony, naleśniki  
-cukier, miód  
-suszone owoce,  
-wyroby zawierające cukier  
-dżemy, marmolady, konfitury  
-cukierki, ciasta,  
-syropy owocowe,  
-kakao w proszku,  
-fasola i strączkowe (suche)  
-soczewica, orzeszki ziemne
-
-**POKARM BIAŁKOWY (można łączyć)**
+|   | 🟨 **POKARM WĘGLOWODANOWY (można łączyć)** |   |   |
+| --- | --- | --- | --- |
+| **BIAŁKO**<br>---<br>mięso, wędliny, ryby,<br>boczek surowy i wędzony,<br>podroby, dziczyzna,<br>wszystkie jaja,<br>rosoły, bakłażany,<br>fasola, bób, soja<br>wszystkie nasiona,<br>wszystkie orzechy,<br>ziarna słonecznika,<br>produkty mleczno-kwaśne,<br>twarogi, sery białe,<br>sery żółte i topione,<br>mleko, jogurt, kefir,<br>żelatyna |   | 🟩 <br>**TŁUSZCZE<br>i produkty "żywe"**<br>---<br>tran, słonina, smalec,<br>masło świeże i topione,<br>oleje, margaryny,<br>orzechy laskowe i włoskie,<br>migdały, gorzka czekolada,  <br>---<br>zielenina, owoce suszone,<br>soki z warzyw i owoców<br>warzywa (oprócz ziemniaków),<br>jagody, arbuzy, grzyby,<br>wino wytrawne, mleko,<br>melon i banan najlepiej<br>spożywać osobno nie łącząc<br>z innymi produktami<br>dodatki smakowe i przyprawy | 🟨 **WĘGLOWODANY<br>(skrobia)**<br>---<br>mąki, kasze, ryż, płatki,<br>wszelkie pieczywa, sucharki<br>ziemniaki, kukurydza,<br>wyroby mączne,<br>makarony, naleśniki<br>cukier, miód<br>suszone owoce,<br>wyroby zawierające cukier<br>dżemy, marmolady, konfitury<br>cukierki, ciasta,<br>syropy owocowe,<br>kakao w proszku,<br>fasola i strączkowe (suche)<br>soczewica, orzeszki ziemne |
+| **POKARM BIAŁKOWY (można łączyć)** |   |   |   |
 
 Jeśli zasłonimy lewą tabelę (białko), to otrzymamy listę artykułów spożywczych, które tworzą pokarm węglowodanowy, a artykuły można mieszać ze sobą w dowolnych proporcjach. Jeśli zasłonimy prawą tabelę (węglowodany) otrzymujemy artykuły spożywcze pokarmu białkowego. Przerwa między spożywaniem jednego i drugiego posiłku powinna być nie mniejsza niż 3-4 godziny. Dziwi też zapewne umieszczenie orzechów i w tłuszczach i w białkach. Wynika to z tego, że orzechy są w połowie białkami, a w połowie tłuszczami i na wszelki wypadek jedzmy je osobno. Przykładowo orzechy laskowe i włoskie zawierają powyżej 50% tłuszczu, a ziemne - tłuszczu powyżej 45%, a białka i węglowodanów powyżej 20%. To samo dotyczy boczku. Chudy boczek zaliczamy do mięs (białko), a tłusty do tłuszczy. Czy będziemy go jedli z chlebem, to już nasz wybór. Umiar na pewno nie zaszkodzi, ale jeśli ktoś za jednym "posiedzeniem" potrafi zjeść pół bochenka chleba z kilogramem boczku, to musi się liczyć z jakimiś konsekwencjami.
 
@@ -2480,143 +988,37 @@ Na początku taki podział wydaje się trudny lub wręcz niemożliwy do zaakcept
 
 A oto inna wersja łączenia produktów:
 
-**NAJGORSZE POŁĄCZENIE**
-
-**NAJLEPSZE POŁĄCZENIE**
-
-**Mięso (wszystkie rodzaje)**
-
-zielone warzywa
-
-mleko, skrobia, słodycze, inne białka, kwaśne owoce, olej masło śmietankowe, śmietana
-
-**Skrobia (chleb, ziemniaki)**
-
-zielone warzywa, tłuszcze roślinne i zwierzęce
-
-wszystkie białka, wszystkie owoce, cukry, kwasy
-
-**Zielone warzywa**
-
-wszystkie białka, wszystkie produkty zbożowe
-
-mleko
-
-**Orzechy (większość rodzajów)**
-
-zielone warzywa, kwaśne owoce
-
-mleko, skrobia, słodycze, inne białka, masło śmietankowe, olej roślinny
-
-**Jaja**
-
-zielone warzywa
-
-mleko, skrobia, słodycze, inne białka, kwaśne produkty, olej roślinny
-
-**Mleko**
-
-spożywać oddzielnie, można z kwaśnymi owocami
-
-wszystkie białka, zielone warzywa, produkty skrobiowe
-
-**Tłuszcze zwierzęce**
-
-wszystkie rośliny zbożowe
-
-wszystkie białka
-
-**Melon (wszystkie rodzaje)**
-
-zawsze spożywać oddzielnie
-
-wszystkie produkty
-
-**Rośliny zbożowe (pszenica, żyto, owies)**
-
-zielone warzywa
-
-kwaśne owoce, wszystkie białka, wszystkie słodycze, mleko
-
-**Rośliny strączkowe**
-
-zielone warzywa
-
-wszystkie białka, wszystkie słodycze, owoce (wszystkie rodzaje), masło śmietankowe, śmietanka
-
-**Owoce niekwaśne i półkwaśne**
-
-kwaśne mleko
-
-kwaśne owoce, skrobia, białka, mleko
-
-**Owoce kwaśne**
-
-orzechy, kwaśne mleko i inne kwaśne owoce
-
-wszystkie słodycze, skrobia (pieczywo, zboża), białka z wyjątkiem orzechów
-
-**NAJLEPSZE POŁĄCZENIE**
-
-**NAJGORSZE POŁĄCZENIE**
+| 🟥 | **NAJGORSZE POŁĄCZENIE** | 🟥 |   |
+| --- | --- | --- | --- |
+| 🟩 **NAJLEPSZE POŁĄCZENIE** |   |   |   |
+| **Mięso (wszystkie rodzaje)** |   | zielone warzywa | mleko, skrobia, słodycze, inne białka, kwaśne owoce, olej masło śmietankowe, śmietana |
+| **Skrobia (chleb, ziemniaki)** |   | zielone warzywa, tłuszcze roślinne i zwierzęce | wszystkie białka, wszystkie owoce, cukry, kwasy |
+| **Zielone warzywa** |   | wszystkie białka, wszystkie produkty zbożowe | mleko |
+| **Orzechy (większość rodzajów)** |   | zielone warzywa, kwaśne owoce | mleko, skrobia, słodycze, inne białka, masło śmietankowe, olej roślinny |
+| **Jaja** |   | zielone warzywa | mleko, skrobia, słodycze, inne białka, kwaśne produkty, olej roślinny |
+| **Mleko** |   | spożywać oddzielnie, można z kwaśnymi owocami | wszystkie białka, zielone warzywa, produkty skrobiowe |
+| **Tłuszcze zwierzęce** |   | wszystkie rośliny zbożowe | wszystkie białka |
+| **Melon (wszystkie rodzaje)** |   | zawsze spożywać oddzielnie | wszystkie produkty |
+| **Rośliny zbożowe (pszenica, żyto, owies)** |   | zielone warzywa | kwaśne owoce, wszystkie białka, wszystkie słodycze, mleko |
+| **Rośliny strączkowe** |   | zielone warzywa | wszystkie białka, wszystkie słodycze, owoce (wszystkie rodzaje), masło śmietankowe, śmietanka |
+| **Owoce niekwaśne i półkwaśne** |   | kwaśne mleko | kwaśne owoce, skrobia, białka, mleko |
+| **Owoce kwaśne** |   | orzechy, kwaśne mleko i inne kwaśne owoce | wszystkie słodycze, skrobia (pieczywo, zboża), białka z wyjątkiem orzechów |
+| 🟩 **NAJLEPSZE POŁĄCZENIE** |   |   |   |
+| 🟥 | **NAJGORSZE POŁĄCZENIE** | 🟥 |   |
 
 I trzecia wersja tabeli:
 
-**NAZWA PRODUKTU (numer)**
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-**6**
-
-**7**
-
-**8**
-
-**9**
-
-  Ziemniaki, buraki, marchew, dynia, kukurydza
-
-**1**
-
-  Chleb, wyroby mączne, nie oczyszczone kasze, pieczywo cukiernicze  
-
-**2**
-
-  Warzywa zielone, żółte, czerwone, białe
-
-**3**
-
-  Rzepa, korzeń pietruszki, seler, czerwona i zielona papryka
-
-**4**
-
-  Mięso, jaja, twaróg, żółty ser, groch, soja, fasola, drób, ryby
-
-**5**
-
-  Ziarna zbóż, oczyszczone kasze
-
-**6**
-
-  Tłuszcze roślinne, olej słonecznikowy, oliwa z oliwek itd.
-
-**7**
-
-  Świeże figi, słodkie wiśnie, jabłka, truskawki, maliny
-
-**8**
-
-  Pomarańcze, grapefruity, cytryny, kwaśne śliwy, pomidory
-
-**9**
+| **NAZWA PRODUKTU (numer)** | ⬜ | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ziemniaki, buraki, marchew, dynia, kukurydza | **1** | ⬜ | 🟥 | 🟩 | 🟩 | 🟧 | 🟩 | 🟩 | 🟧 | 🟥 |
+| Chleb, wyroby mączne, nie oczyszczone kasze, pieczywo cukiernicze | **2** | 🟥 | ⬜ | 🟩 | 🟩 | 🟧 | 🟥 | 🟩 | 🟧 | 🟥 |
+| Warzywa zielone, żółte, czerwone, białe | **3** | 🟩 | 🟩 | ⬜ | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 |
+| Rzepa, korzeń pietruszki, seler, czerwona i zielona papryka | **4** | 🟩 | 🟩 | 🟩 | ⬜ | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 |
+| Mięso, jaja, twaróg, żółty ser, groch, soja, fasola, drób, ryby | **5** | 🟧 | 🟧 | 🟩 | 🟩 | ⬜ | 🟧 | 🟩 | 🟧 | 🟩 |
+| Ziarna zbóż, oczyszczone kasze | **6** | 🟩 | 🟥 | 🟩 | 🟩 | 🟧 | ⬜ | 🟩 | 🟥 | 🟧 |
+| Tłuszcze roślinne, olej słonecznikowy, oliwa z oliwek itd. | **7** | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | ⬜ | 🟥 | 🟧 |
+| Świeże figi, słodkie wiśnie, jabłka, truskawki, maliny | **8** | 🟧 | 🟧 | 🟩 | 🟩 | 🟧 | 🟥 | 🟥 | ⬜ | 🟧 |
+| Pomarańcze, grapefruity, cytryny, kwaśne śliwy, pomidory | **9** | 🟥 | 🟥 | 🟩 | 🟩 | 🟩 | 🟧 | 🟧 | 🟧 | ⬜ |
 
 ---
 
@@ -2628,87 +1030,34 @@ I trzecia wersja tabeli:
 
 Całość prof. Tombak ujął w jedenastu punktach, które nazwał jedenastoma prawdami zdrowego życia.
 
-1.
-
-Nie jedz szybko.
-
-2.
-
-Nie popijaj podczas posiłku.
-
-3.
-
-Nie jedz często i nie żuj ciągle (dotyczy też gumy do żucia).
-
-4.
-
-Nie oglądaj telewizji podczas jedzenia.
-
-5.
-
-Nie jedz jak jesteś zdenerwowany.
-
-6.
-
-Nie leż po jedzeniu.
-
-7.
-
-Nie jedz przed snem i nie podjadaj w nocy.
-
-8.
-
-Prawidłowo łącz produkty, które spożywasz.
-
-9.
-
-Unikaj siedzącego trybu życia.
-
-10.
-
-Ogranicz do minimum spożycie produktów mącznych i słodyczy.
-
-11.
-
-Ogranicz do minimum spożycie produktów rafinowanych i gotowanych.
+1. Nie jedz szybko.
+2. Nie popijaj podczas posiłku.
+3. Nie jedz często i nie żuj ciągle (dotyczy też gumy do żucia).
+4. Nie oglądaj telewizji podczas jedzenia.
+5. Nie jedz jak jesteś zdenerwowany.
+6. Nie leż po jedzeniu.
+7. Nie jedz przed snem i nie podjadaj w nocy.
+8. Prawidłowo łącz produkty, które spożywasz.
+9. Unikaj siedzącego trybu życia.
+10. Ogranicz do minimum spożycie produktów mącznych i słodyczy.
+11. Ogranicz do minimum spożycie produktów rafinowanych i gotowanych.
 
 Kto dokładnie przeczytał powyższe, zrozumiał że nadszedł "czas apokalipsy". Żegnajcie chrupiące bułeczki z masełkiem i szynką. Żegnaj schaboszczaku z odsmażanymi ziemniaczkami. Żegnaj żurku z kiełbasą. Taka jest cena naszego zdrowia. Jesli ktoś uważa inaczej, to siłą rzeczy bedzie musiał wejść w większą zażyłość z lekarzem pierwszego kontaktu, a ten jak zwykle zaaplikuje antybiotyki, aspirynę lub inne chemiczne "nowości". Każdy wie, że żywność dzielimy na zdrową i smaczną - wybór zależy od nas.
 
 **ZASADY SPOŻYWANIA PRODUKTÓW Z PRZEWAGĄ BIAŁKA**
 
-**1.**
-
-**Jeśli spożywacie tłuszcz z białkiem (mięso usmażone na oleju roślinnym), to należy jeść mięso z dużą ilością warzyw. Obfitość warzyw neutralizuje szkodliwą działalność tłuszczów.**
-
-**2.**
-
-**Białek najlepiej nie mieszać z innymi białkami. Każde białko należy jeść oddzielnie, jeden rodzaj białka każdorazowo, np. tylko mięso lub tylko groch, lub tylko ryby.**
-
-**3.**
-
-**Produkty białkowe lepiej spożywać na kolację, nie później niż dwie godziny przed snem, ponieważ nocną porą organizm zajmuje się regeneracją i potrzebuje substancji białkowych. Sałatka warzywna musi się znaleźć przed każdym pożywieniem białkowym.**
+| **1.** | **Jeśli spożywacie tłuszcz z białkiem (mięso usmażone na oleju roślinnym), to należy jeść mięso z dużą ilością warzyw. Obfitość warzyw neutralizuje szkodliwą działalność tłuszczów.** |
+| --- | --- |
+| **2.** | **Białek najlepiej nie mieszać z innymi białkami. Każde białko należy jeść oddzielnie, jeden rodzaj białka każdorazowo, np. tylko mięso lub tylko groch, lub tylko ryby.** |
+| **3.** | **Produkty białkowe lepiej spożywać na kolację, nie później niż dwie godziny przed snem, ponieważ nocną porą organizm zajmuje się regeneracją i potrzebuje substancji białkowych. Sałatka warzywna musi się znaleźć przed każdym pożywieniem białkowym.** |
 
 Pożyteczne rady odnośnie spożywania produktów z przewagą białek:
 
-• 
-
-Najlepiej jeść mięso zapiekane w piekarniku lub na grillu. Nie smażyć na oleju i nie gotować.
-
-• 
-
-Rosoły mięsne (buliony) - na strawienie mięsnego bulionu organizm zużywa 30 razy więcej energii niż na trawienie mięsa. Produkty mięsne zawierają ponad 20 różnych, trujących substancji i podczas gotowania przechodzą one do bulionu. W ten sposób rosół na mięsie to "skondensowany wyciąg z martwego zwierzęcia". Z bulionów mięsnych najlepiej zrezygnować.
-
-• 
-
-Ponieważ białka nie są potrzebne człowiekowi w dużych ilościach wystarczy spożywać mięso, ryby, drób - 2 razy w tygodniu. 100 g orzechów całkowicie zaspokajają dobowe zapotrzebowanie na białko. 200g mięsa lub 300 g ryby najlepiej zamienić na 120 g roślin strączkowych.
-
-• 
-
-Mięso i ryby należy zawsze spożywać świeżo przygotowane, nie pozostawiając ich na następny dzień.
-
-• 
-
-Jeśli gotujecie mięso, to na 10 minut przed końcem gotowania należy dodać kawałek jabłka. Mięso będzie soczyste. Ryba będzie smaczniejsza, jeśli w trakcie gotowania będziemy kilka razy dolewali zimną wodę.
+- Najlepiej jeść mięso zapiekane w piekarniku lub na grillu. Nie smażyć na oleju i nie gotować.
+- Rosoły mięsne (buliony) - na strawienie mięsnego bulionu organizm zużywa 30 razy więcej energii niż na trawienie mięsa. Produkty mięsne zawierają ponad 20 różnych, trujących substancji i podczas gotowania przechodzą one do bulionu. W ten sposób rosół na mięsie to "skondensowany wyciąg z martwego zwierzęcia". Z bulionów mięsnych najlepiej zrezygnować.
+- Ponieważ białka nie są potrzebne człowiekowi w dużych ilościach wystarczy spożywać mięso, ryby, drób - 2 razy w tygodniu. 100 g orzechów całkowicie zaspokajają dobowe zapotrzebowanie na białko. 200g mięsa lub 300 g ryby najlepiej zamienić na 120 g roślin strączkowych.
+- Mięso i ryby należy zawsze spożywać świeżo przygotowane, nie pozostawiając ich na następny dzień.
+- Jeśli gotujecie mięso, to na 10 minut przed końcem gotowania należy dodać kawałek jabłka. Mięso będzie soczyste. Ryba będzie smaczniejsza, jeśli w trakcie gotowania będziemy kilka razy dolewali zimną wodę.
 
 Fragment wywiadu z dr Lorraine Day
 
@@ -2721,73 +1070,34 @@ Gotowane białko wywołuje w przewodzie pokarmowym procesy gnilne, podczas któr
 
 **ZASADY SPOŻYWANIA PRODUKTÓW Z WĘGLOWODANÓW I SKROBI**
 
-**1.**
-
-**Skrobię należy spożywać jednego rodzaju (kasza bez chleba, groch bez chleba). Kilka rodzajów skrobi zjedzonych jednocześnie spowoduje wzrost apetytu, czego skutkiem będzie zwiększona ilość zjedzonego pokarmu.**
-
-**2.**
-
-**Nie jedzcie chleba, wyrobów mącznych i kasz z dżemami lub cukrem, ponieważ zmieszanie ich z sobą spowoduje fermentację w żołądku. Dlatego też często po zjedzeniu bułek drożdżowych, pączków z powidłami lub dżemem odczuwamy zgagę. Z tych przyczyn proszę nie jeść razem skrobi i cukrów. Na przykład, nie dodawać cukru do wszelkiego rodzaju kasz (owsianek). Chleb można smarować miodem, ale korzystniej dla zdrowia jest rozpuścić miód w przegotowanej wodzie i wypić.**
-
-**3.**
-
-**Słodkie i suszone owoce można łączyć ze skrobiami - chleben, kaszami, ryżem.**
-
-**4.**
-
-**Kasze, chleb, ziemniaki i inne skrobie powinny być spożywane oddzielnie od mięsa, ryb, jaj, żółtego sera, twarogu, tzn. pokarmu białkowego. Przerwa między spożywaniem węglowodanów i białek powinna wynosić przynajmniej 2-3 godziny.**
-
-**5.**
-
-**Pokarm skrobiowy zaleca się spożywać w dzień, w okresie pomiędzy godziną 9.00 a 13.00, ponieważ przy trawieniu węglowodanów organizm otrzymuje najwięcej energii. Ta energia będzie całkowicie spalona w czasie zajęć, w ciągu całego dnia. Ta uwaga jest szczególnie cenna dla osób skłonnych do nadwagi.**
-
-**6.**
-
-**Przed spożyciem skrobi koniecznie zjeść należy sałatkę warzywną.**
-
-**7.**
-
-**Najlepiej przyrządzić sałatki z nastepujących warzyw: kapusty, marchwi, buraków, kopru, pietruszki, soli i przypraw. Enzymy, znajdujące się w warzywach pomagają strawić skrobię.**
+| **1.** | **Skrobię należy spożywać jednego rodzaju (kasza bez chleba, groch bez chleba). Kilka rodzajów skrobi zjedzonych jednocześnie spowoduje wzrost apetytu, czego skutkiem będzie zwiększona ilość zjedzonego pokarmu.** |
+| --- | --- |
+| **2.** | **Nie jedzcie chleba, wyrobów mącznych i kasz z dżemami lub cukrem, ponieważ zmieszanie ich z sobą spowoduje fermentację w żołądku. Dlatego też często po zjedzeniu bułek drożdżowych, pączków z powidłami lub dżemem odczuwamy zgagę. Z tych przyczyn proszę nie jeść razem skrobi i cukrów. Na przykład, nie dodawać cukru do wszelkiego rodzaju kasz (owsianek). Chleb można smarować miodem, ale korzystniej dla zdrowia jest rozpuścić miód w przegotowanej wodzie i wypić.** |
+| **3.** | **Słodkie i suszone owoce można łączyć ze skrobiami - chleben, kaszami, ryżem.** |
+| **4.** | **Kasze, chleb, ziemniaki i inne skrobie powinny być spożywane oddzielnie od mięsa, ryb, jaj, żółtego sera, twarogu, tzn. pokarmu białkowego. Przerwa między spożywaniem węglowodanów i białek powinna wynosić przynajmniej 2-3 godziny.** |
+| **5.** | **Pokarm skrobiowy zaleca się spożywać w dzień, w okresie pomiędzy godziną 9.00 a 13.00, ponieważ przy trawieniu węglowodanów organizm otrzymuje najwięcej energii. Ta energia będzie całkowicie spalona w czasie zajęć, w ciągu całego dnia. Ta uwaga jest szczególnie cenna dla osób skłonnych do nadwagi.** |
+| **6.** | **Przed spożyciem skrobi koniecznie zjeść należy sałatkę warzywną.** |
+| **7.** | **Najlepiej przyrządzić sałatki z nastepujących warzyw: kapusty, marchwi, buraków, kopru, pietruszki, soli i przypraw. Enzymy, znajdujące się w warzywach pomagają strawić skrobię.** |
 
 Pożyteczne rady:
 
-• 
-
-Trawienie skrobii rozpoczyna się już w ustach, dlatego pożywienie skrobiowe należy szczególnie dokładnie żuć.
-
-• 
-
-Gatunki bezdrożdżowego pieczywa i kasze posiadają włókna roślinne, które oczyszczają układ pokarmowy. Spożywanie tych produktów codziennie jest najcenniejszą profilaktyką pracy układu pokarmowego.
-
-• 
-
-Korzystne dla zdrowia są kasze - gryczana, pszenna, kukurydziana, jęczmienna, ryż (dziki, nieoczyszczony). Kasze powinny byc ugotowane na "gęsto", bez dużej ilości wody. Powinny też stanowić 1/3 naszego codziennego posiłku.
+- Trawienie skrobii rozpoczyna się już w ustach, dlatego pożywienie skrobiowe należy szczególnie dokładnie żuć.
+- Gatunki bezdrożdżowego pieczywa i kasze posiadają włókna roślinne, które oczyszczają układ pokarmowy. Spożywanie tych produktów codziennie jest najcenniejszą profilaktyką pracy układu pokarmowego.
+- Korzystne dla zdrowia są kasze - gryczana, pszenna, kukurydziana, jęczmienna, ryż (dziki, nieoczyszczony). Kasze powinny byc ugotowane na "gęsto", bez dużej ilości wody. Powinny też stanowić 1/3 naszego codziennego posiłku.
 
 Spożywanie nadmiaru produktów mącznych, cukru, białka powoduje ogólne zatrucie organizmu, stany zapalne oczu, zapalenie spojówek, zapalenie tęczówki, zapalenie rogówki. Wady wzroku mające przyczynę w zatruciu pokarmowym, można wyleczyć stosując głodówkę. Wówczas następuje wydalenie produktów spalania blokujących mięsnie i naczynia krwionośne otaczające oczy, co doprowadza do odprężenia i rozluźnienia mięśni i poprawy wzroku. (Górnicka)
 
 **ZASADY SPOŻYWANIA TŁUSZCZÓW**
 
-**1.**
-
-**Tłuszcze zwierzęce to masło, śmietana, śmietana, smalec. Tłuszcze roślinne - oleje roślinne i większość orzechów.**
-
-**2.**
-
-**Tłuszcze możemy mieszać z węglowodanami i warzywami.**
-
-**3.**
-
-**Tłuszcze należy spożywać w ograniczonej ilości - 25-30 g oleju roślinnego dziennie, 10-15 g masła śmietankowego (2 łyżki stołowe).**
+| **1.** | **Tłuszcze zwierzęce to masło, śmietana, śmietana, smalec. Tłuszcze roślinne - oleje roślinne i większość orzechów.** |
+| --- | --- |
+| **2.** | **Tłuszcze możemy mieszać z węglowodanami i warzywami.** |
+| **3.** | **Tłuszcze należy spożywać w ograniczonej ilości - 25-30 g oleju roślinnego dziennie, 10-15 g masła śmietankowego (2 łyżki stołowe).** |
 
 Pożyteczne rady:
 
-• 
-
-Szczególnie szkodliwe jest smażenie tłuszczów w temperaturze 150°C (taka temperatura jest na patelni podczas smażenia). W takiej temperaturze wszystkie tłuszcze, w tym oleje roślinne, ulegają rozkładowi, zamieniając się w związki toksyczne, rakotwórcze. Na smażonych produktach tworzy się "skórka" przypominająca polietylen. W szczególności znajdują się tam substancje rakotwórcze. Spożywanie takich produktów zwiększa ryzyko zachorowania na raka i choroby wątroby. Dlatego też najlepiej tłuszcze spożywać w postaci nieogrzanej, bezpośrednio przed użyciem.
-
-• 
-
-W trakcie produkowania masła używa się sporo domieszek "ukrytych konserwantów", dzięki którym termin przydatności przedłuża się o kilka miesięcy. Żeby zlikwidować szkodliwość różnych domieszek zaleca się oczyszczanie masła śmietankowego (przetapianie go lub przegotowanie). Takie masło nie podwyższa cholesterolu, nie jełczeje i może być bardzo długo przechowywane bez dodawania konserwantów.
+- Szczególnie szkodliwe jest smażenie tłuszczów w temperaturze 150°C (taka temperatura jest na patelni podczas smażenia). W takiej temperaturze wszystkie tłuszcze, w tym oleje roślinne, ulegają rozkładowi, zamieniając się w związki toksyczne, rakotwórcze. Na smażonych produktach tworzy się "skórka" przypominająca polietylen. W szczególności znajdują się tam substancje rakotwórcze. Spożywanie takich produktów zwiększa ryzyko zachorowania na raka i choroby wątroby. Dlatego też najlepiej tłuszcze spożywać w postaci nieogrzanej, bezpośrednio przed użyciem.
+- W trakcie produkowania masła używa się sporo domieszek "ukrytych konserwantów", dzięki którym termin przydatności przedłuża się o kilka miesięcy. Żeby zlikwidować szkodliwość różnych domieszek zaleca się oczyszczanie masła śmietankowego (przetapianie go lub przegotowanie). Takie masło nie podwyższa cholesterolu, nie jełczeje i może być bardzo długo przechowywane bez dodawania konserwantów.
 
 **•** 250 g masła (kostka) włożyć do garnka, zalać ciepłą, przegotowaną wodą 250 ml (szklanka) i gotować na małym ogniu przez godzinę. Następnie ostudzić i wstawić do lodówki. Po zastygnięciu masła wylać wodę. W tej wodzie znajdują się wszelkiego rodzaju domieszki.
 
@@ -2797,13 +1107,9 @@ W trakcie produkowania masła używa się sporo domieszek "ukrytych konserwantó
 
 **ZASADY SPOŻYWANIA OWOCÓW**
 
-**1.**
-
-**Owoce jeść w niedużej ilości na 20-30 minut przed posiłkiem.**
-
-**2.**
-
-**Nie dodawać cukru do surowych owoców. Starać się spożywać owoce sezonowe. Owoce oczyszczają krew (odkwaszają ją). Dodając cukier otrzymujemy efekt odwrotny.**
+| **1.** | **Owoce jeść w niedużej ilości na 20-30 minut przed posiłkiem.** |
+| --- | --- |
+| **2.** | **Nie dodawać cukru do surowych owoców. Starać się spożywać owoce sezonowe. Owoce oczyszczają krew (odkwaszają ją). Dodając cukier otrzymujemy efekt odwrotny.** |
 
 **ZASADY SPOŻYWANIA WARZYW**
 
@@ -2827,21 +1133,10 @@ W trakcie produkowania masła używa się sporo domieszek "ukrytych konserwantó
 
 Pożyteczne rady w spożywaniu warzyw i owoców:
 
-• 
-
-Najlepiej odżywiać się produktami wyhodowanymi w miejscu zamieszkania i najlepiej zgodnie z sezonem. Chodzi o to, że każda roślina (owoce i warzywa) zawiera w sobie "informację", która tworzy się w roślinie pod wpływem klimatu.
-
-• 
-
-Latem należy spożywać więcej warzyw i owoców, które ochładzają organizm (arbuzy, cytryny, pomarańcze, mandarynki) oraz owoce rosnące w naszym regionie. Zimą więcej rozgrzewających organizm - kasz i owoców suszonych, orzechów, pestek słonecznika, dyni i roślin korzeniowych.
-
-• 
-
-W porze letniej śniadania lepiej przygotowywać z owoców, ponieważ są one bogate we wszystkie niezbędne dla organizmu pierwiastki, czyniąc krew zasadową, daja olbrzymią ilość energii i nie potrzebują jej wiele do strawienia pokarmu.
-
-• 
-
-Proporcja sodu i potasu w organizmie musi wynosić 1:20 i dlatego jeśli stwierdzacie, że puchniecie, odczuwacie nadmiar wody w organizmie powinniście spożywać produkty z dużą zawartością potasu (groch, kabaczki, zielony groszek). Jeśli na odwrót, to starajcie się spożywać produkty zatrzymujące wodę w organizmie (oliwa, dynia, gruszki, maliny, porzeczki, marchew, jabłka, morele, pomidory, kasza jaglana, gryczana, owies). Idealną proporcję sodu i potasu posiadają ziemniaki, czereśnie, ogórki i kapusta.
+- Najlepiej odżywiać się produktami wyhodowanymi w miejscu zamieszkania i najlepiej zgodnie z sezonem. Chodzi o to, że każda roślina (owoce i warzywa) zawiera w sobie "informację", która tworzy się w roślinie pod wpływem klimatu.
+- Latem należy spożywać więcej warzyw i owoców, które ochładzają organizm (arbuzy, cytryny, pomarańcze, mandarynki) oraz owoce rosnące w naszym regionie. Zimą więcej rozgrzewających organizm - kasz i owoców suszonych, orzechów, pestek słonecznika, dyni i roślin korzeniowych.
+- W porze letniej śniadania lepiej przygotowywać z owoców, ponieważ są one bogate we wszystkie niezbędne dla organizmu pierwiastki, czyniąc krew zasadową, daja olbrzymią ilość energii i nie potrzebują jej wiele do strawienia pokarmu.
+- Proporcja sodu i potasu w organizmie musi wynosić 1:20 i dlatego jeśli stwierdzacie, że puchniecie, odczuwacie nadmiar wody w organizmie powinniście spożywać produkty z dużą zawartością potasu (groch, kabaczki, zielony groszek). Jeśli na odwrót, to starajcie się spożywać produkty zatrzymujące wodę w organizmie (oliwa, dynia, gruszki, maliny, porzeczki, marchew, jabłka, morele, pomidory, kasza jaglana, gryczana, owies). Idealną proporcję sodu i potasu posiadają ziemniaki, czereśnie, ogórki i kapusta.
 
 Teresa Tuszyńska w swojej książce "Zdrowie nie ma ceny" pisze między innymi:
 
@@ -2855,81 +1150,12 @@ Teresa Tuszyńska w swojej książce "Zdrowie nie ma ceny" pisze między innymi:
 
 Dr Hay w swych obserwacjach stwierdził, że ludzie których krew ma odczyn kwaśny są podatniejsi na wszelkie choroby i częściej chorują. Według niego dobry stan zdrowia określa pH krwi w granicach 7,4-7,5. Ludzie z nadmiarem kwasów w organizmie należą do zrzędliwych, wrażliwych, łatwo meczących się, skłonnych do odczuwania dolegliwości bólowych, migren, zaburzeń snu i nadkwasoty żołądka. Palący mają wysoki poziom kwasu w moczu. Zasadowość organizmu hamuje także nadmierny apetyt. Proszę także nie mylić kwasowości z kwaśnością smaku. Przykładowo kwaśna cytryna w żołądku jest zasadotwórcza.
 
-**PRODUKTY KWASOTWÓRCZE**
-
-**PRODUKTY ZASADOTWÓRCZE**
-
-**wysoko**
-
-**średnio**
-
-**OBOJĘTNE**
-
-**średnio**
-
-**wysoko**
-
-ser edamski  
-jajka  
-majonez  
-ryby  
-bekon  
-wołowina  
-kurczak  
-wątroba  
-baranina  
-cielęcina
-
-orzechy włoskie  
-orzechy laskowe  
-ser cheddar  
-sery pleśniowe  
-śledzie  
-makrela  
-żyto  
-owies  
-pszenica  
-ryż  
-śliwki  
-borówki  
-oliwki
-
-masło  
-margaryna  
-kawa  
-herbata  
-cukier  
-syropy
-
-mleko  
-migdały  
-orzechy kokosowe  
-warzywa liściaste  
-warzywa korzeniowe  
-seler  
-grzyby  
-cebula  
-pomidory  
-owoce pestkowe  
-owoce cytrusowe  
-banany  
-winogrona  
-melon  
-maliny
-
-awocado  
-buraki  
-marchew  
-ziemniaki  
-szpinak  
-rabarbar  
-owoce suszone  
-
-**Procentowy skład zdrowej diety:**
-
-**20%**
-
-**80%**
+| 🟥 **PRODUKTY KWASOTWÓRCZE** |   | 🟩 **PRODUKTY ZASADOTWÓRCZE** |   |   |
+| --- | --- | --- | --- | --- |
+| 🟥 **wysoko** | 🟧 **średnio** | **OBOJĘTNE** | 🟩 **średnio** | 🟩 **wysoko** |
+| 🟥 ser edamski<br>jajka<br>majonez<br>ryby<br>bekon<br>wołowina<br>kurczak<br>wątroba<br>baranina<br>cielęcina | 🟧 orzechy włoskie<br>orzechy laskowe<br>ser cheddar<br>sery pleśniowe<br>śledzie<br>makrela<br>żyto<br>owies<br>pszenica<br>ryż<br>śliwki<br>borówki<br>oliwki | masło<br>margaryna<br>kawa<br>herbata<br>cukier<br>syropy | 🟩 mleko<br>migdały<br>orzechy kokosowe<br>warzywa liściaste<br>warzywa korzeniowe<br>seler<br>grzyby<br>cebula<br>pomidory<br>owoce pestkowe<br>owoce cytrusowe<br>banany<br>winogrona<br>melon<br>maliny | 🟩 awocado<br>buraki<br>marchew<br>ziemniaki<br>szpinak<br>rabarbar<br>owoce suszone |
+| **Procentowy skład zdrowej diety:** |   |   |   |   |
+| 🟥 **20%** | 🟩 **80%** |   |   |   |
 
 **Warto zapamiętać**
 
@@ -3111,209 +1337,45 @@ Proszę nie korzystać z opracowań prac uczonych pracujących na wschód od Bug
 
 Przejście na zdrowy tryb życia, który proponuje prof. Tombak wymaga trochę czasu, a przede wszystkim naszego nastawienia. Jeśli nie "dojrzejemy" do twardego postanowienia zmiany w dotychczasowym sposobie odżywiania, to wszelkie nasze wysiłki spalą na panewce. To jest jak z "rzucaniem" palenia. Jeśli my sami nie postanowimy skończyć z nałogiem, to nie pomogą żadne leki wspomagające, plasterki, akupunktura czy hipnozy. Bez silnego postanowienia wcześniej czy później wrócimy do starego nałogu. Świadomym tego jest i prof. Tombak, który pisze, że przejście na prawidłowy sposób odżywiania powinno odbywać się stopniowo.
 
-• 
-
-**Zaczynamy od soków warzywnych (dwa razy dziennie po szklance) nie zmieniając dotychczasowego sposobu odżywiania. Tak postępujemy przez pierwsze 1-1,5 miesiąca.**
-
-• 
-
-**Przez następne 1,5-2 miesięcy dodajemy do jadłospisu więcej sałatek i warzyw, tak by 30-40% danego pożywienia stanowiły surowe, gotowane lub duszone warzywa.**
-
-• 
-
-**Zmieniamy proporcje między surowym a gotowanym jedzeniem. Surowe - 60%, gotowane - 40%.**
-
-• 
-
-**Przy zestawianiu codziennego menu powinno się kierować prostą zasadą - jeść co rośnie na ziemi, pod ziemią, na drzewach oraz miód, jajka, produkty mleczno-kwaśne, pić herbaty z ziół i świeżo przygotowane soki z owoców i warzyw.**
-
-• 
-
-**Należy zmienić kolejność spożywanych artykułów - płyny spożywać 20 minut przed jedzeniem, owoce przed jedzeniem, pierwsze danie surówka, drugie danie - węglowodany (kasze, ziemniaki itp.) lub białka (mięso, ryby, groch, jaja itp.)**
-
-• 
-
-**Ograniczyć do minimum spożycie sztucznie hodowanych, rafinowanych i wędzonych produktów.**
+- **Zaczynamy od soków warzywnych (dwa razy dziennie po szklance) nie zmieniając dotychczasowego sposobu odżywiania. Tak postępujemy przez pierwsze 1-1,5 miesiąca.**
+- **Przez następne 1,5-2 miesięcy dodajemy do jadłospisu więcej sałatek i warzyw, tak by 30-40% danego pożywienia stanowiły surowe, gotowane lub duszone warzywa.**
+- **Zmieniamy proporcje między surowym a gotowanym jedzeniem. Surowe - 60%, gotowane - 40%.**
+- **Przy zestawianiu codziennego menu powinno się kierować prostą zasadą - jeść co rośnie na ziemi, pod ziemią, na drzewach oraz miód, jajka, produkty mleczno-kwaśne, pić herbaty z ziół i świeżo przygotowane soki z owoców i warzyw.**
+- **Należy zmienić kolejność spożywanych artykułów - płyny spożywać 20 minut przed jedzeniem, owoce przed jedzeniem, pierwsze danie surówka, drugie danie - węglowodany (kasze, ziemniaki itp.) lub białka (mięso, ryby, groch, jaja itp.)**
+- **Ograniczyć do minimum spożycie sztucznie hodowanych, rafinowanych i wędzonych produktów.**
 
 Kiedy poczujemy, że taki sposób odżywiania "wszedł nam w krew" wystarczy dalej przestrzegać zasad zdrowego odżywiania:
 
-• 
-
-**Spożywajmy produkty wyhodowane w regionie, w którym mieszkamy.**
-
-• 
-
-**Spożywajmy warzywa, owoce, orzechy ściśle według sezonów ich dojrzewania.**
-
-• 
-
-**Każdy posiłek powinien zawierać surowe latem, a duszone lub kiszone warzywa zimą.**
-
-• 
-
-**Rezygnujmy ze spożywania pieczywa drożdżowego, jedzmy chleb pieczony z mąki gruboziarnistej.**
-
-• 
-
-**Przygotowujmy posiłki zgodnie z tabelą łączenia produktów.**
-
-• 
-
-**Dokładnie przeżuwajmy pokarm.**
-
-• 
-
-**Przyrządzajmy posiłki bezpośrednio przed jedzeniem i starajmy się je zjadać zaraz po przyrządzeniu.**
-
-• 
-
-**Nie odgrzewajmy wielokrotnie posiłków i nie jedzmy posiłków przygotowanych wczorajszego dnia.**
-
-• 
-
-**Zmniejszajmy spożywanie posiłków sztucznych, rafinowanych i wędzonych.**
-
-• 
-
-**Rezygnujmy w miarę możliwości z potraw gotowych i produktów konserwowanych.**
-
-• 
-
-**Zmniejszajmy spożywanie kawy i herbaty.**
-
-• 
-
-**Dodawajmy do potraw przyprawy (szczególnie zimą).**
-
-• 
-
-**W porze letniej i jesiennej róbmy dzień "truskawkowy", "czereśniowy", "jabłkowy" itp. nic więcej nie jedząc.**
-
-• 
-
-**Raz w tygodniu przeprowadzajmy "post" trwający 16-24 godzin, pijąc w tym czasie tylko przegotowaną wodę.**
-
-• 
-
-**Gdy pojawi się świeża marchew, buraki, jabłka pijmy świeżo przygotowane soki nawet do 1 litra dziennie.**
-
-• 
-
-**Walczmy z zaparciami - to główny wróg zdrowia i główna przyczyna starzenia się organizmu.**
-
-• 
-
-**Od poniedziałku do piątku odżywiajmy się skromnie.**
-
-• 
-
-**Natomiast w soboty i w niedzielę róbmy sobie święto i jedzmy wszystko, co chcemy, zgodnie z zasadą starożytnych lekarzy - nawet trucizna w małych ilościach może być lekarstwem.**
+- **Spożywajmy produkty wyhodowane w regionie, w którym mieszkamy.**
+- **Spożywajmy warzywa, owoce, orzechy ściśle według sezonów ich dojrzewania.**
+- **Każdy posiłek powinien zawierać surowe latem, a duszone lub kiszone warzywa zimą.**
+- **Rezygnujmy ze spożywania pieczywa drożdżowego, jedzmy chleb pieczony z mąki gruboziarnistej.**
+- **Przygotowujmy posiłki zgodnie z tabelą łączenia produktów.**
+- **Dokładnie przeżuwajmy pokarm.**
+- **Przyrządzajmy posiłki bezpośrednio przed jedzeniem i starajmy się je zjadać zaraz po przyrządzeniu.**
+- **Nie odgrzewajmy wielokrotnie posiłków i nie jedzmy posiłków przygotowanych wczorajszego dnia.**
+- **Zmniejszajmy spożywanie posiłków sztucznych, rafinowanych i wędzonych.**
+- **Rezygnujmy w miarę możliwości z potraw gotowych i produktów konserwowanych.**
+- **Zmniejszajmy spożywanie kawy i herbaty.**
+- **Dodawajmy do potraw przyprawy (szczególnie zimą).**
+- **W porze letniej i jesiennej róbmy dzień "truskawkowy", "czereśniowy", "jabłkowy" itp. nic więcej nie jedząc.**
+- **Raz w tygodniu przeprowadzajmy "post" trwający 16-24 godzin, pijąc w tym czasie tylko przegotowaną wodę.**
+- **Gdy pojawi się świeża marchew, buraki, jabłka pijmy świeżo przygotowane soki nawet do 1 litra dziennie.**
+- **Walczmy z zaparciami - to główny wróg zdrowia i główna przyczyna starzenia się organizmu.**
+- **Od poniedziałku do piątku odżywiajmy się skromnie.**
+- **Natomiast w soboty i w niedzielę róbmy sobie święto i jedzmy wszystko, co chcemy, zgodnie z zasadą starożytnych lekarzy - nawet trucizna w małych ilościach może być lekarstwem.**
 
 Na zakończenie pierwsze dziesiątki witaminowo-pierwiastkowej listy przebojów:
 
-**Witamina A**
+| 🟩 **Witamina A** | 🟩 **Witamina B1** | 🟩 **Witamina B2** | 🟩 **Witamina PP** | 🟩 **Witamina C** |
+| --- | --- | --- | --- | --- |
+| ⬜ |   |   |   |   |
+| 🟩 Tran<br>Wątroba cielęca<br>Wątroba wołowa<br>Wątroba wieprzowa<br>Marchew<br>Szpinak<br>Nać pietruszki<br>Morele suszone<br>Botwina<br>Dynia | 🟩 Orzechy laskowe<br>Groch suchy<br>Szynka chuda<br>Wieprzowina chuda<br>Fasola sucha<br>Płatki owsiane<br>Kiełbasa sucha<br>Kasza gryczana<br>Węgorz wędzony<br>Orzechy włoskie | 🟩 Wątroba cielęca<br>Wątroba wołowa<br>Wątroba wieprzowa<br>Migdały<br>Węgorz wędzony<br>Makrela wędzona<br>Ser twarogowy<br>Pieczarki świeże<br>Ser edamski<br>Ser tylżycki | 🟩 Wątroba cielęca<br>Wątroba wołowa<br>Wątroba wieprzowa<br>Orzeszki ziemne<br>Węgorz wędzony<br>Makrela wędzona<br>Kura, kurczak<br>Makrela świeża<br>Indyk<br>Łosoś wędzony | 🟩 Chrzan<br>Czarna porzeczka<br>Nać pietruszki<br>Papryka<br>Brukselka<br>Koperek<br>Kalafior<br>Poziomki, Truskawki<br>Szpinak<br>Cytryna |
 
-**Witamina B1**
-
-**Witamina B2**
-
-**Witamina PP**
-
-**Witamina C**
-
-Tran  
-Wątroba cielęca  
-Wątroba wołowa  
-Wątroba wieprzowa  
-Marchew  
-Szpinak  
-Nać pietruszki  
-Morele suszone  
-Botwina  
-Dynia
-
-Orzechy laskowe  
-Groch suchy  
-Szynka chuda  
-Wieprzowina chuda  
-Fasola sucha  
-Płatki owsiane  
-Kiełbasa sucha  
-Kasza gryczana  
-Węgorz wędzony  
-Orzechy włoskie
-
-Wątroba cielęca  
-Wątroba wołowa  
-Wątroba wieprzowa  
-Migdały  
-Węgorz wędzony  
-Makrela wędzona  
-Ser twarogowy  
-Pieczarki świeże  
-Ser edamski  
-Ser tylżycki
-
-Wątroba cielęca  
-Wątroba wołowa  
-Wątroba wieprzowa  
-Orzeszki ziemne  
-Węgorz wędzony  
-Makrela wędzona  
-Kura, kurczak  
-Makrela świeża  
-Indyk  
-Łosoś wędzony
-
-Chrzan  
-Czarna porzeczka  
-Nać pietruszki  
-Papryka  
-Brukselka  
-Koperek  
-Kalafior  
-Poziomki, Truskawki  
-Szpinak  
-Cytryna
-
-**Wapń**
-
-**Fosfor**
-
-**Żelazo**
-
-Mak  
-Ser edamski  
-Ser tylżycki  
-Szprot wędzony  
-Migdały  
-Czekolada mleczna  
-Nać pietruszki  
-Figi  
-Orzechy laskowe  
-Fasola sucha  
-
-Kakao w proszku  
-Orzechy laskowe  
-Mak  
-Żółtka jaj świeże  
-Ser edamski  
-Ser tylżycki  
-Migdały  
-Kasza gryczana  
-Czekolada gorzka  
-Fasola sucha
-
-Wątroba wieprzowa  
-Mak  
-Kakao w proszku  
-Wątroba cielęca  
-Żółtka jaj świeże  
-Fasola sucha  
-Wątroba wołowa  
-Kasza gryczana  
-Kaszo jaglana  
-Kiełbasa sucha
+| 🟩 **Wapń** | 🟩 **Fosfor** | 🟩 **Żelazo** |
+| --- | --- | --- |
+| ⬜ |   |   |
+| 🟩 Mak<br>Ser edamski<br>Ser tylżycki<br>Szprot wędzony<br>Migdały<br>Czekolada mleczna<br>Nać pietruszki<br>Figi<br>Orzechy laskowe<br>Fasola sucha | 🟩 Kakao w proszku<br>Orzechy laskowe<br>Mak<br>Żółtka jaj świeże<br>Ser edamski<br>Ser tylżycki<br>Migdały<br>Kasza gryczana<br>Czekolada gorzka<br>Fasola sucha | 🟩 Wątroba wieprzowa<br>Mak<br>Kakao w proszku<br>Wątroba cielęca<br>Żółtka jaj świeże<br>Fasola sucha<br>Wątroba wołowa<br>Kasza gryczana<br>Kaszo jaglana<br>Kiełbasa sucha |
 
 Lista została opracowana na podstawie wydawnictw z lat 60 i 70-tych. Być może do tej pory zaszły jakieś zmiany. Należy tylko uważać na produkty zwędzone, które nie są zalecane.
 
@@ -3445,112 +1507,85 @@ Dzieci - 1 łyżeczka octu jabłkowego z 2 łyżeczkami miodu na 1/2 szklanki ci
 
 **Na jakie choroby i jak stosować ocet jabłkowy**:
 
-**Angina**  
+| **Angina** | 🟦 | 2 łyżeczki octu jabłkowego i 2 łyżeczki miodu wymieszać w 1/2 szklanki ciepłej, przegotowanej wody. Płukać gardło bardzo powoli, wypijając kilka łyżeczek tej mieszanki co kilka minut bardzo powoli połykając. Powtarzać płukanie 4 razy dziennie. W przypadku wrażliwego, delikatnego gardła (np. u młodzieży do 15 roku życia) zaleca się płukanie rano i wieczorem i tylko po 1 łyżeczce octu jabłkowego z dodatkiem 1 łyżeczki miodu i 3 łyżeczek ciepławej wody. Połykanie powinno być bardzo powolne. |
+| --- | --- | --- |
 
-2 łyżeczki octu jabłkowego i 2 łyżeczki miodu wymieszać w 1/2 szklanki ciepłej, przegotowanej wody. Płukać gardło bardzo powoli, wypijając kilka łyżeczek tej mieszanki co kilka minut bardzo powoli połykając. Powtarzać płukanie 4 razy dziennie. W przypadku wrażliwego, delikatnego gardła (np. u młodzieży do 15 roku życia) zaleca się płukanie rano i wieczorem i tylko po 1 łyżeczce octu jabłkowego z dodatkiem 1 łyżeczki miodu i 3 łyżeczek ciepławej wody. Połykanie powinno być bardzo powolne.
+| **Astma** | 🟦 | Nacierać klatkę piersiową czystym octem jabłkowym, lub jeżeli naskórek jest kruchy, zmieszanym w równej części z naparem kwiatu lawendy. Płynu tego też można używać do okładów na klatke piersiową i plecy. Najlepiej do tego celu nadaje się lniana ściereczka. Stopy i golenie należy owinąć suchym ręcznikiem, szalem albo chustą wełnianą. To leczenie może być stosowane w chwilach kryzysu i na początku ataku duszności. |
+| --- | --- | --- |
 
-**Astma**  
+| **Bezsenność** | 🟦 | Po posiłku rano i wieczorem pić 2 łyżeczki octu jabłkowego z 2 łyżeczkami miodu wymieszanymi w 1/2 szklanki ciepłej, przegotowanej wody. |
+| --- | --- | --- |
 
-Nacierać klatkę piersiową czystym octem jabłkowym, lub jeżeli naskórek jest kruchy, zmieszanym w równej części z naparem kwiatu lawendy. Płynu tego też można używać do okładów na klatke piersiową i plecy. Najlepiej do tego celu nadaje się lniana ściereczka. Stopy i golenie należy owinąć suchym ręcznikiem, szalem albo chustą wełnianą. To leczenie może być stosowane w chwilach kryzysu i na początku ataku duszności.
+| **Bóle głowy** | 🟦 | Przyłożyć na czoło kompres z gazy namoczonej w roztworze wodnym - 1/2 szklanki zimnej wody, 2 łyżeczki octu jabłkowego i 2 łyżeczki miodu. Zmienić okład, gdy się nagrzeje. Taki kompres można również przyłożyć na kark. |
+| --- | --- | --- |
 
-**Bezsenność**  
+| **Dermatozy** | 🟦 | Choroby skórne suche ze złuszczaniem się lub lekko ociekające. Nie przemywać mydłem. Miejsca chore myć roztworem złożonym z 1/3 octu jabłkowego, 1/3 wywaru z korzenia łopianu i 1/3 oleju z migdałów słodkich lub oliwy z oliwek. Wszystko powinno być dobrze wymieszane. Kawałkiem gazy wklepać w chorą skórę. Po osuszeniu przyłożyc trochę kremu witaminowego. Zabieg powtarzać rano i wieczorem. |
+| --- | --- | --- |
 
-Po posiłku rano i wieczorem pić 2 łyżeczki octu jabłkowego z 2 łyżeczkami miodu wymieszanymi w 1/2 szklanki ciepłej, przegotowanej wody.
+| **Kaszel** | 🟦 | Brać co 2 godziny 1 łyżeczkę syropu o składzie - świeży sok z 1/2 cytryny z taką samą ilością octu jabłkowego, 1 łyżka miodu akacjowego i 1 łyżeczka gliceryny. Wymieszać do uzyskania syropu, który okaże się bardzo smaczny. Mieszanina taka winna zostać zużyta w ciągu 14 godzin. W przypadku silnego kaszlu należy zażywać 1 łyżkę syropu co 2 godziny w ciągu całego dnia, a w przypadku napadu kaszlu także w nocy. Dzieci powyżej lat 2 mogą zażywać ten syrop co godzinę ale w zmniejszonej ilości (1/4 łyżeczki 3 razy co godzinę rano i podobnie po południu. Syrop ten jest bardzo cenny w przypadku zapalenia tchawicy i kokluszu, gdyż uspakaja ataki kaszlu. |
+| --- | --- | --- |
 
-**Bóle głowy**  
+| **Katar sienny** | 🟦 | Alergiczny. Profilaktycznie można używać 1 łyżeczkę miodu rozmarynowego lub tymiankowego przed posiłkami. Wieczorem przed snem wypić mieszankę 2 łyżeczek miodu akacjowego z 1 łyżeczką octu jabłkowego i odrobina wody mineralnej. Po 2,5 miesiącach zaleca się popijać codziennie 1 szklankę wody mineralnej z 2 łyżeczkami miodu i 2 łyżeczkami octu jabłkowego z dodatkiem 5-10 kropli świeżego soku cytrynowego. Kontynuować leczenie profilaktyczne. Całą kurację można przerwać po 2 tygodniach, gdyż w zasadzie groźba kataru siennego została w ten sposób oddalona. |
+| --- | --- | --- |
 
-Przyłożyć na czoło kompres z gazy namoczonej w roztworze wodnym - 1/2 szklanki zimnej wody, 2 łyżeczki octu jabłkowego i 2 łyżeczki miodu. Zmienić okład, gdy się nagrzeje. Taki kompres można również przyłożyć na kark.
+| **Kurcze mięśni** | 🟦 | Przyłożyć do miejsc bolesnych zimne kompresy z roztworu wody i octu jabłkowego w równych częściach. Wodę można zastąpić wywarem z melisy. |
+| --- | --- | --- |
 
-**Dermatozy**  
+| **Liszajec** | 🟦 | Gdy pokażą się pryszcze, na krosty stosować okłady z gazy namoczonej octem jabłkowym. Po 2-3 dniach liszajec zniknie. **UWAGA !** Liszajec jest zakaźną chorobą skórną. |
+| --- | --- | --- |
 
-Choroby skórne suche ze złuszczaniem się lub lekko ociekające. Nie przemywać mydłem. Miejsca chore myć roztworem złożonym z 1/3 octu jabłkowego, 1/3 wywaru z korzenia łopianu i 1/3 oleju z migdałów słodkich lub oliwy z oliwek. Wszystko powinno być dobrze wymieszane. Kawałkiem gazy wklepać w chorą skórę. Po osuszeniu przyłożyc trochę kremu witaminowego. Zabieg powtarzać rano i wieczorem.
+| **Migdałki** | 🟦 | Chore migdałki leczy się w ciągu 12 godzin płucząc co godzinę gardło roztworem 1 łyżki octu jabłkowego i 1 łyżki miodu wymieszanych w 1 szklance przegotowanej wody. |
+| --- | --- | --- |
 
-**Kaszel**  
+| **Na niepokój i lęki** | 🟦 | Codziennie po przebudzeniu zażywać 2 łyżeczki octu jabłkowego z naparem z tarniny lub połową szklanki wody. Brać przez 3 tygodnie w ciągu miesiąca od dnia nowiu księżyca. Dlaczego od nowiu? Ponieważ ludowa medycyna uważa światło księżyca za powodujące lęki, w odróżnieniu od światła słonecznego powodującego zadowolenie. |
+| --- | --- | --- |
 
-Brać co 2 godziny 1 łyżeczkę syropu o składzie - świeży sok z 1/2 cytryny z taką samą ilością octu jabłkowego, 1 łyżka miodu akacjowego i 1 łyżeczka gliceryny. Wymieszać do uzyskania syropu, który okaże się bardzo smaczny. Mieszanina taka winna zostać zużyta w ciągu 14 godzin. W przypadku silnego kaszlu należy zażywać 1 łyżkę syropu co 2 godziny w ciągu całego dnia, a w przypadku napadu kaszlu także w nocy. Dzieci powyżej lat 2 mogą zażywać ten syrop co godzinę ale w zmniejszonej ilości (1/4 łyżeczki 3 razy co godzinę rano i podobnie po południu. Syrop ten jest bardzo cenny w przypadku zapalenia tchawicy i kokluszu, gdyż uspakaja ataki kaszlu.
+| **Nudności, mdłości** | 🟦 | Gdy zaczną się nudności, zaleca się wypić roztwór 1 łyżeczki octu jabłkowego na 1/2 szklanki przegotowanej wody. Gdy nudności są spowodowane przez ciążę, wypić rano po przebudzeniu 1 łyżeczkę octu jabłkowego z 1/2 szklanki wody mineralnej i zjeść suchy biszkopt (suchar). Jeżeli nudność występuje po każdym posiłku, należy po jedzeniu wypić 1 łyżeczkę octu jabłkowego z 1/2 szklanki naparu z melisy. |
+| --- | --- | --- |
 
-**Katar sienny**  
+| **Oparzenia** | 🟦 | Aby uniknąć pęcherzy, należy możliwie najszybciej nasycić oparzone miejsce czystym octem jabłkowym. Stosować także przy oparzeniach słonecznych. |
+| --- | --- | --- |
 
-Alergiczny. Profilaktycznie można używać 1 łyżeczkę miodu rozmarynowego lub tymiankowego przed posiłkami. Wieczorem przed snem wypić mieszankę 2 łyżeczek miodu akacjowego z 1 łyżeczką octu jabłkowego i odrobina wody mineralnej. Po 2,5 miesiącach zaleca się popijać codziennie 1 szklankę wody mineralnej z 2 łyżeczkami miodu i 2 łyżeczkami octu jabłkowego z dodatkiem 5-10 kropli świeżego soku cytrynowego. Kontynuować leczenie profilaktyczne. Całą kurację można przerwać po 2 tygodniach, gdyż w zasadzie groźba kataru siennego została w ten sposób oddalona.
+| **Pęknięcia skóry** | 🟦 | Nie zmywać mydłem. Do chorego miejsca przyłożyć mieszaninę z równych części octu jabłkowego, gliceryny i z wywaru lub soku z korzenia łopianu. Mieszaninę przygotować ponownie po 2 dniach i stosować do zabliźnienia rany. |
+| --- | --- | --- |
 
-**Kurcze mięśni**  
+| **Pokrzywka** | 🟦 | Z chwilą wystąpienia objawów, popijać co godzinę przez 3 godziny 1 łyżeczkę octu jabłkowego z 1/4 szklanki wody mineralnej. Dzieciom podawać połowę tej porcji. Miejsca dotkniete pokrzywką zwilżać roztworem wywaru ze świeżych lub suszonych pokrzyw (1 litr wody na garść pokrzyw, odparować wodę) z 3 łyżkami octu jabłkowego. Ostudzić, smarować wielokrotnie. |
+| --- | --- | --- |
 
-Przyłożyć do miejsc bolesnych zimne kompresy z roztworu wody i octu jabłkowego w równych częściach. Wodę można zastąpić wywarem z melisy.
+| **Rana** | 🟦 | Zmyć ranę roztworem z octu jabłkowego i naparu z kwiatów bzu czarnego w równych ilościach. Przyłożyć kompres z tego roztworu. |
+| --- | --- | --- |
 
-**Liszajec**  
+| **Rana cięta** | 🟦 | Oczyścić ranę roztworem złozonym w 75% z octu jabłkowego i w 25% z wody solonej. Polewać powoli ranę aż do usunięcia wszystkich nieczystości. Przyłożyć do rany płatek kwiatu lilii białej nasiakniętej octem jabłkowym. Przykryć gazą i zrobić opatrunek. Zamiast płatka lilii można przyłożyć warstwę gazy nasączonej octem jabłkowym. |
+| --- | --- | --- |
 
-Gdy pokażą się pryszcze, na krosty stosować okłady z gazy namoczonej octem jabłkowym. Po 2-3 dniach liszajec zniknie. **UWAGA !** Liszajec jest zakaźną chorobą skórną.
+| **Swędzenie głowy** | 🟦 | Czesać się grzebieniem moczonym w roztworze 1 łyżeczki octu jabłkowego na 1 szklankę wody. |
+| --- | --- | --- |
 
-**Migdałki**  
+| **Trawienie niedobre** | 🟦 | Po spożyciu posiłku o dużej zawartości białka i tłuszczów zaleca się wypić 1 łyżkę octu jabłkowego z 1/4 szklanki wody gazowanej. W przypadku niestrawności spowodowanej nieświeżym produktem pić 1 łyżkę octu jabłkowego w 1/4 szklance wody. |
+| --- | --- | --- |
 
-Chore migdałki leczy się w ciągu 12 godzin płucząc co godzinę gardło roztworem 1 łyżki octu jabłkowego i 1 łyżki miodu wymieszanych w 1 szklance przegotowanej wody.
+| **Ukąszenie owada** | 🟦 | Przyłożyć okład z octu jabłkowego. Po ulotnieniu się octu należy okład powtórzyć. |
+| --- | --- | --- |
 
-**Na niepokój i lęki**  
+| **Wrażliwość<br>na zimno** | 🟦 | Zaleca się hartowanie organizmu przez branie 2-3 razy w tygodniu kapieli w ciepłej wodzie z dodatkiem 1 litra octu jabłkowego i 1 kg soli morskiej. Ponadto należy codziennie rano brać prysznic naprzemian z wody ciepłej i zimnej. Natrzeć ciało octem jabłkowym i ubrać się. Po kilku dniach takiego hartowania poprawi się krążenie krwi i zniknie wrażliwość na zimno. |
+| --- | --- | --- |
 
-Codziennie po przebudzeniu zażywać 2 łyżeczki octu jabłkowego z naparem z tarniny lub połową szklanki wody. Brać przez 3 tygodnie w ciągu miesiąca od dnia nowiu księżyca. Dlaczego od nowiu? Ponieważ ludowa medycyna uważa światło księżyca za powodujące lęki, w odróżnieniu od światła słonecznego powodującego zadowolenie.
+| **Zwichnięcia** | 🟦 | Sporządzić mazidło z 2 łyżeczek octu jabłkowego, 2 łyżeczek wywaru z tymianku, 1 łyżeczki esencji terpentynowej i 1 żółtka. Wymieszać jak emulsję i masować zbolałe miejsce. Preparat ten może być stosowany w przypadkach bólów mięśniowych z powodu przeziębienia lub dużego wysiłku. Zalecana jest również glinka zmieszana z octem jabłkowym. |
+| --- | --- | --- |
 
-**Nudności, mdłości**  
-
-Gdy zaczną się nudności, zaleca się wypić roztwór 1 łyżeczki octu jabłkowego na 1/2 szklanki przegotowanej wody. Gdy nudności są spowodowane przez ciążę, wypić rano po przebudzeniu 1 łyżeczkę octu jabłkowego z 1/2 szklanki wody mineralnej i zjeść suchy biszkopt (suchar). Jeżeli nudność występuje po każdym posiłku, należy po jedzeniu wypić 1 łyżeczkę octu jabłkowego z 1/2 szklanki naparu z melisy.
-
-**Oparzenia**  
-
-Aby uniknąć pęcherzy, należy możliwie najszybciej nasycić oparzone miejsce czystym octem jabłkowym. Stosować także przy oparzeniach słonecznych.
-
-**Pęknięcia skóry**  
-
-Nie zmywać mydłem. Do chorego miejsca przyłożyć mieszaninę z równych części octu jabłkowego, gliceryny i z wywaru lub soku z korzenia łopianu. Mieszaninę przygotować ponownie po 2 dniach i stosować do zabliźnienia rany.
-
-**Pokrzywka**  
-
-Z chwilą wystąpienia objawów, popijać co godzinę przez 3 godziny 1 łyżeczkę octu jabłkowego z 1/4 szklanki wody mineralnej. Dzieciom podawać połowę tej porcji. Miejsca dotkniete pokrzywką zwilżać roztworem wywaru ze świeżych lub suszonych pokrzyw (1 litr wody na garść pokrzyw, odparować wodę) z 3 łyżkami octu jabłkowego. Ostudzić, smarować wielokrotnie.
-
-**Rana**  
-
-Zmyć ranę roztworem z octu jabłkowego i naparu z kwiatów bzu czarnego w równych ilościach. Przyłożyć kompres z tego roztworu.
-
-**Rana cięta**  
-
-Oczyścić ranę roztworem złozonym w 75% z octu jabłkowego i w 25% z wody solonej. Polewać powoli ranę aż do usunięcia wszystkich nieczystości. Przyłożyć do rany płatek kwiatu lilii białej nasiakniętej octem jabłkowym. Przykryć gazą i zrobić opatrunek. Zamiast płatka lilii można przyłożyć warstwę gazy nasączonej octem jabłkowym.
-
-**Swędzenie głowy**  
-
-Czesać się grzebieniem moczonym w roztworze 1 łyżeczki octu jabłkowego na 1 szklankę wody.
-
-**Trawienie niedobre**  
-
-Po spożyciu posiłku o dużej zawartości białka i tłuszczów zaleca się wypić 1 łyżkę octu jabłkowego z 1/4 szklanki wody gazowanej. W przypadku niestrawności spowodowanej nieświeżym produktem pić 1 łyżkę octu jabłkowego w 1/4 szklance wody.
-
-**Ukąszenie owada**  
-
-Przyłożyć okład z octu jabłkowego. Po ulotnieniu się octu należy okład powtórzyć.
-
-**Wrażliwość  
-na zimno**  
-
-Zaleca się hartowanie organizmu przez branie 2-3 razy w tygodniu kapieli w ciepłej wodzie z dodatkiem 1 litra octu jabłkowego i 1 kg soli morskiej. Ponadto należy codziennie rano brać prysznic naprzemian z wody ciepłej i zimnej. Natrzeć ciało octem jabłkowym i ubrać się. Po kilku dniach takiego hartowania poprawi się krążenie krwi i zniknie wrażliwość na zimno.
-
-**Zwichnięcia**  
-
-Sporządzić mazidło z 2 łyżeczek octu jabłkowego, 2 łyżeczek wywaru z tymianku, 1 łyżeczki esencji terpentynowej i 1 żółtka. Wymieszać jak emulsję i masować zbolałe miejsce. Preparat ten może być stosowany w przypadkach bólów mięśniowych z powodu przeziębienia lub dużego wysiłku. Zalecana jest również glinka zmieszana z octem jabłkowym.
-
-**Żylaki**  
-
-Rano masować nogi ruchem do góry, stosując roztwór z wywaru liści winogrona czerwonego (1 litr wody na garść liści) i octu jabłkowego w proporcji 1:3. Wieczorem popijać 1 łyżeczkę octu jabłkowego z 1/2 szklanki przegotowanej wody.
+| **Żylaki** | 🟦 | Rano masować nogi ruchem do góry, stosując roztwór z wywaru liści winogrona czerwonego (1 litr wody na garść liści) i octu jabłkowego w proporcji 1:3. Wieczorem popijać 1 łyżeczkę octu jabłkowego z 1/2 szklanki przegotowanej wody. |
+| --- | --- | --- |
 
 Inne zastosowanie dla wszystkich:
 
-**Napój pobudzający łaknienie**  
+| **Napój pobudzający łaknienie** | 🟦 | 50 g octu jabłkowego, 125 g miodu tymiankowego lub lawendowego, 1 łyżeczka cynamonu, 1 łyżeczka esencji chinowej. Macerować (pozostawić do "przegryzienia" się) 14 godzin. Popijać 1 łyżeczkę na 1/4 szklanki wody przed każdym posiłkiem. Dzieciom podawać 1/2 łyżeczki na 1/8 szklanki wody. |
+| --- | --- | --- |
 
-50 g octu jabłkowego, 125 g miodu tymiankowego lub lawendowego, 1 łyżeczka cynamonu, 1 łyżeczka esencji chinowej. Macerować (pozostawić do "przegryzienia" się) 14 godzin. Popijać 1 łyżeczkę na 1/4 szklanki wody przed każdym posiłkiem. Dzieciom podawać 1/2 łyżeczki na 1/8 szklanki wody.
+| **Płyn wzmacniający** | 🟦 | do przemywania skóry. 1/2 szklanki octu jabłkowego, 1/2 szklanki naparu z melisy, 1/2 flakonu wody kolońskiej i 1/2 szklanki wody mineralnej. Wymieszać i obmywać skórę rano. Po 10 dniach mieszanka traci właściwości lecznicze. |
+| --- | --- | --- |
 
-**Płyn wzmacniający**  
-
-do przemywania skóry. 1/2 szklanki octu jabłkowego, 1/2 szklanki naparu z melisy, 1/2 flakonu wody kolońskiej i 1/2 szklanki wody mineralnej. Wymieszać i obmywać skórę rano. Po 10 dniach mieszanka traci właściwości lecznicze.
-
-**Płyn do przemywania**  
-
-dla sportowców. 1 szklanka wywaru z tymianku, 1 szklanka wywaru z lawendy i 1 szklanka przegotowanej wody. Wymieszać. Lekko nacierać ciało po wysiłkach fizycznych, w szczególności w czasie upałów i nadmiernego pocenia się.
+| **Płyn do przemywania** | 🟦 | dla sportowców. 1 szklanka wywaru z tymianku, 1 szklanka wywaru z lawendy i 1 szklanka przegotowanej wody. Wymieszać. Lekko nacierać ciało po wysiłkach fizycznych, w szczególności w czasie upałów i nadmiernego pocenia się. |
+| --- | --- | --- |
 
 O czym jeszcze pisze doktor Górnicka. Człowiek starszy potrzebuje dwukrotnie więcej potasu w postaci miodu, świeżych warzyw i owoców, jabłek lub octu jabłkowego. Dzienne zapotrzebowanie na potas można pokrywać jedząc paprykę, popijając ocet jabłkowy z miodem i przegotowaną wodą, popijając soki - winogronowy, jabłkowy czy z czarnej porzeczki. Ocet jabłkowy ma wszelkie właściwości lecznicze jabłka. Dozowanie octu jabłkowego zależy od stanu chorobowego. Osoby nie znoszące octu jabłkowego mogą go zastapić moszczem z jabłek. Dobroczynny wpływ octu jabłkowego na organizm wiąże się z jego właściwościami zakwaszającymi. Ocet jabłkowy zakwasza krew i wyrównuje ciśnienie tętnicze (obniża je). Gdy zasadowość krwi rośnie staje się ona gęstsza i łatwiej robią się skrzepy. Wystepują wówczas zawroty głowy, dolegliwości żółciowe, nudności, szum w uszach i zakłócenia słuchu.
 
@@ -3596,85 +1631,26 @@ Skorupka jajka nie tylko wzmacnia tkankę kostną ale także usuwa z organizmu p
 
 Przyprawy (korzenie, kora, nasiona lub inne części roślin) mają oprócz smakowych, również właściwości trawienno-lecznicze. Ułatwiają trawienie, a zarazem odtruwają organizm, lecząc go. Należy stosować je z umiarem, gdyż przedawkowane mogą drażnić nerki, wątrobę i błonę śluzową układu pokarmowego. W naszym klimacie stosuje się ponad 50 przypraw. Dzięki przyprawom jedzenie staje się mniej monotonne, wzmagają one wydzielanie soków trawiennych, co niekiedy wywołuje już sam ich zapach i widok. Wymieniam tylko najbardziej popularne i najłatwiej dostępne.
 
-**Bazylia**  
-
-Wzmacnia i pobudza czynności żołądka, znosi nadmierną fermentację i wzdęcia, działa rozkurczowo, moczopędnie, mlekopędnie, pobudza serce i nerwy. Stosuje się do zup rybnych, bulionów, rosołków, ale wskazane jest, by nie dodawać wówczas innych przypraw, aby nie popsuć smaku.
-
-**Cebula**  
-
-Obniża ciśnienie krwi, działa wykrztuśnie, jest nieodzownym środkiem trawiennym przy wszystkich ciężej strawnych rodzajach mięs (zawsze z pieprzem!), również koniecznym dodatkiem do surówek. Surowa jest znakomitym środkiem do wewnętrznej dezynfekcji. Komu trawienie cebuli nastręcza trudności, powinien do niej dodawać kminek, majeranek, prawdziwy lub ziołowy pieprz i raczej leczyć żołądek niż odstawiać cebulę.
-
-**Chrzan**  
-
-Pobudza czynności żołądka i działa przeciwbólowo, moczopędnie i przeciwreumatycznie, w okładach drażni skórę aż do bąbli, ale w kilkuminutowych okładach jest najlepszym zabiegiem przeciwreumatycznym. Chrzanu nigdy nie należy gotować, ale podawać na surowo do mięs i wędlin na zimno, do ryb i innych przystawek.
-
-**Cytryna**  
-
-Skórka cytryny (żółta i biały miąższ) należy do nielicznej grupy środków obniżających ćiśnienie krwi w sposób leczniczy, a nie wyłącznie objawowy. Do tej grupy należą jedynie czosnej, cebula, rokitnik, żurawiny, a z ziół liście barwnika i ziele jemioły. Można bez obawy podawać nawet zniszczonym organizmom, żadnych skutków ubocznych obawiać się nie trzeba.
-
-**Czarnuszka**  
-
-Działa trawiennie, pobudza czynności żołądka, działa mlekopędnie, odżywczo i rozpędza złogi reumatyczne. Wraz z nasieniem kopru, kminku i anyżu stanowi najlepszy środek przy wszystkich kłopotach laktacyjnych u matek karmiących.
-
-**Cząber**  
-
-Działa trawiennie, pobudza czynności żołądka, działa ściągająco i moczopędnie. Ziele sproszkowane stosujemy do serów topionych i wędzonych oraz do sosów mięsnych, korniszonów i ogórków. Bułgarska czubryca ma takie samo działanie, ale jest znacznie mocniejsza.
-
-**Czosnek**  
-
-Obniża ciśnienie krwi i jest jednym z najsilniejszych środków bakteriobójczych (prawie zawsze wystarcza sam zapach) i w tym charakterze zażywany doustnie spisuje się jak najlepszy antybiotyk, ponadto działa wykrztuśnie i przeciwrobaczo. W zastosowaniu zewnętrznym wywołuje przekrwienie lokalne (potrzebne przy reumatyzmie) oraz działa bakteriobójczo.
-
----
-
-Stara recepta na zapalenie płuc - cztery średnie ziemniaki (wydłubać oczka) skroić bez obierania, dodać 2 łyżki siemienia lnianego i 1 zgniecioną główkę czosnku. Zalać to wszystko 5 szklankami wody i gotować 20 minut. Uzyskanym wywarem robiono choremu lewatywę. Podobno jedna wystarczała.
-
-**Dynia**  
-
-Ziarno jest najlepszym środkiem przeciwrobaczym w naszym klimacie przeciw soliterowi (tasiemcowi), tak bezpieczne, że można je podawać nawet dzieciom. Miąższ dyni starty na surowo z jabłkiem i przyprawiony octem jabłkowym i miodem leczy białkomocz i obrzęki nerczycowe u dzieci.
-
-**Estragon**  
-
-Jest środkiem wzmacniającym żołądek, stosuje się go w naparach przy nerwicy żołądka i stanach nieżytowych dróg trawiennych. Sproszkowane suche ziele jest dobrą przyprawą trawienną do zup i sosów, a ze względu na smak można je stosować tam, gdzie zdrowie pacjenta wymaga diety bezsolnej.
-
-**Jałowiec**  
-
-Znakomity dodatek do kapusty dla osób, którym trudno ja trawić. Dodaje się 1 łyżeczkę na osobę na 10 minut przed końcem gotowania, zanim doda się kminek lub majeranek. Żucie pojedynczych jagód (przedawkowania można się nie obawiać) kilka sztuk, kilka razy dziennie jest skuteczne przy cuchnącym oddechu, zgadze, artretyzmie, reumatyzmie i nieżytach dróg moczowych.
-
-**Kminek**  
-
-Likwiduje wzdęcia, jest środkiem wiatrochłonnym, działa pobudzająco na serce i nerwy, z lekka moczopędnie i mlekopędnie, jest więc wskazany dla karmiących matek. Sypiemy go odważnie do serów, sosów mięsnych, do bigosu i innych potraw z kapusty, a przede wszystkim dodajemy go do razowego chleba. Zmielony z majerankiem w równych ilościach daje znakomity, doraźny środek przy wzdęciach, zgadze i podobnym sensacjom, które mogą się pojawić po jedzeniu. Bierze się wówczas pół łyżeczki takiego proszku i popija zimną wodą, a jeśli jeden taki zabieg okaże się nieskuteczny, możemy go powtórzyć dowolną ilość razy.
-
-**Kolendra**  
-
-Dobry środek trawienny, przeciwskurczowy, odżywczy i konserwujący. W prostym użytku kuchennym wystarczy zmielić jedną łyżeczkę na osobę i dosypać do sosu mięsnego, aby daną potrawę zmienić na smaczną i lekkostrawną.
-
-**Koper**  
-
-Nasienie działa trwawiennie, pobudza czynności żołądka, ma działanie wykrztuśne, wiatrochłonne i moczopędne. Zarówno nasienie jak i nać sa niezbędnymi dodatkami do ogórków świeżych i kiszonych.
-
-**Majeranek**  
-
-Działa trawiennie, wykrztusnie, przeciwskurczowo, przeciwzapalnie, likwiduje wzdęcia, działa lekko rozgrzewająco. W kuchni majeranek stosujemy do sosów, grochu, grochówek, mięs pieczonych i duszonych. Dodajemy zawsze pod koniec gotowania. Napar z łyżki tego ziela na szklankę wrzątku możemy podać przy pierwszych objawach przeziębienia.
-
-**Papryka**  
-
-Oczywiście ta w proszku tzw. ostra. Ułatwia trawienie, pobudza zołądek do wydzielania soków trawiennych, działa lekko moczopędnie i jest doskonałym dostawcą witamin A, B i C.
-
-**Pietruszka**  
-
-Korzeń ma działanie moczopędne, napotne i trawienne, należy go koniecznie dodawać do surówek przy chorobach przewodu moczowego. Liść ma tylko działanie moczopędne i trawienne, ale jest za to po chrzanie i czarnej porzeczce największym dostawcą witaminy C.
-
-**Seler**  
-
-Użyty wewnętrznie działa podobnie jak pietruszka. Nać selera ma bogaty wachlarz witamin i lepiej ją i korzeń jadać na surowo niż wygotowywać w rosole.
-
-**Śliwka węgierka**  
-
-Śliwki "węgierki" mają znakomite działanie trawienne i rozwalniające, ale tylko suszone. Uwolnione z pestek, rozmoczone śliwki dodajemy do fasoli pod koniec gotowania, co nas zabezpieczy przed jej działaniem wzdymającym. Poza tym suszone śliwki można dodawać do każdego sosu mięsnego i bigosu pod koniec gotowania.
-
-**Tymianek**  
-
-Pobudza działanie żołądka, serca i nerek, działa wykrztuśnie, przeciwskurczowo i ściagająco. Ziele można dodawać wszędzie, gdzie stosuje się inne dodatki zielone, a więc do rosołu, bulionu, sosów mięsnych itp.
+| **Bazylia** | Wzmacnia i pobudza czynności żołądka, znosi nadmierną fermentację i wzdęcia, działa rozkurczowo, moczopędnie, mlekopędnie, pobudza serce i nerwy. Stosuje się do zup rybnych, bulionów, rosołków, ale wskazane jest, by nie dodawać wówczas innych przypraw, aby nie popsuć smaku. |
+| --- | --- |
+| **Cebula** | Obniża ciśnienie krwi, działa wykrztuśnie, jest nieodzownym środkiem trawiennym przy wszystkich ciężej strawnych rodzajach mięs (zawsze z pieprzem!), również koniecznym dodatkiem do surówek. Surowa jest znakomitym środkiem do wewnętrznej dezynfekcji. Komu trawienie cebuli nastręcza trudności, powinien do niej dodawać kminek, majeranek, prawdziwy lub ziołowy pieprz i raczej leczyć żołądek niż odstawiać cebulę. |
+| **Chrzan** | Pobudza czynności żołądka i działa przeciwbólowo, moczopędnie i przeciwreumatycznie, w okładach drażni skórę aż do bąbli, ale w kilkuminutowych okładach jest najlepszym zabiegiem przeciwreumatycznym. Chrzanu nigdy nie należy gotować, ale podawać na surowo do mięs i wędlin na zimno, do ryb i innych przystawek. |
+| **Cytryna** | Skórka cytryny (żółta i biały miąższ) należy do nielicznej grupy środków obniżających ćiśnienie krwi w sposób leczniczy, a nie wyłącznie objawowy. Do tej grupy należą jedynie czosnej, cebula, rokitnik, żurawiny, a z ziół liście barwnika i ziele jemioły. Można bez obawy podawać nawet zniszczonym organizmom, żadnych skutków ubocznych obawiać się nie trzeba. |
+| **Czarnuszka** | Działa trawiennie, pobudza czynności żołądka, działa mlekopędnie, odżywczo i rozpędza złogi reumatyczne. Wraz z nasieniem kopru, kminku i anyżu stanowi najlepszy środek przy wszystkich kłopotach laktacyjnych u matek karmiących. |
+| **Cząber** | Działa trawiennie, pobudza czynności żołądka, działa ściągająco i moczopędnie. Ziele sproszkowane stosujemy do serów topionych i wędzonych oraz do sosów mięsnych, korniszonów i ogórków. Bułgarska czubryca ma takie samo działanie, ale jest znacznie mocniejsza. |
+| **Czosnek** | Obniża ciśnienie krwi i jest jednym z najsilniejszych środków bakteriobójczych (prawie zawsze wystarcza sam zapach) i w tym charakterze zażywany doustnie spisuje się jak najlepszy antybiotyk, ponadto działa wykrztuśnie i przeciwrobaczo. W zastosowaniu zewnętrznym wywołuje przekrwienie lokalne (potrzebne przy reumatyzmie) oraz działa bakteriobójczo.<br>---<br>Stara recepta na zapalenie płuc - cztery średnie ziemniaki (wydłubać oczka) skroić bez obierania, dodać 2 łyżki siemienia lnianego i 1 zgniecioną główkę czosnku. Zalać to wszystko 5 szklankami wody i gotować 20 minut. Uzyskanym wywarem robiono choremu lewatywę. Podobno jedna wystarczała. |
+| **Dynia** | Ziarno jest najlepszym środkiem przeciwrobaczym w naszym klimacie przeciw soliterowi (tasiemcowi), tak bezpieczne, że można je podawać nawet dzieciom. Miąższ dyni starty na surowo z jabłkiem i przyprawiony octem jabłkowym i miodem leczy białkomocz i obrzęki nerczycowe u dzieci. |
+| **Estragon** | Jest środkiem wzmacniającym żołądek, stosuje się go w naparach przy nerwicy żołądka i stanach nieżytowych dróg trawiennych. Sproszkowane suche ziele jest dobrą przyprawą trawienną do zup i sosów, a ze względu na smak można je stosować tam, gdzie zdrowie pacjenta wymaga diety bezsolnej. |
+| **Jałowiec** | Znakomity dodatek do kapusty dla osób, którym trudno ja trawić. Dodaje się 1 łyżeczkę na osobę na 10 minut przed końcem gotowania, zanim doda się kminek lub majeranek. Żucie pojedynczych jagód (przedawkowania można się nie obawiać) kilka sztuk, kilka razy dziennie jest skuteczne przy cuchnącym oddechu, zgadze, artretyzmie, reumatyzmie i nieżytach dróg moczowych. |
+| **Kminek** | Likwiduje wzdęcia, jest środkiem wiatrochłonnym, działa pobudzająco na serce i nerwy, z lekka moczopędnie i mlekopędnie, jest więc wskazany dla karmiących matek. Sypiemy go odważnie do serów, sosów mięsnych, do bigosu i innych potraw z kapusty, a przede wszystkim dodajemy go do razowego chleba. Zmielony z majerankiem w równych ilościach daje znakomity, doraźny środek przy wzdęciach, zgadze i podobnym sensacjom, które mogą się pojawić po jedzeniu. Bierze się wówczas pół łyżeczki takiego proszku i popija zimną wodą, a jeśli jeden taki zabieg okaże się nieskuteczny, możemy go powtórzyć dowolną ilość razy. |
+| **Kolendra** | Dobry środek trawienny, przeciwskurczowy, odżywczy i konserwujący. W prostym użytku kuchennym wystarczy zmielić jedną łyżeczkę na osobę i dosypać do sosu mięsnego, aby daną potrawę zmienić na smaczną i lekkostrawną. |
+| **Koper** | Nasienie działa trwawiennie, pobudza czynności żołądka, ma działanie wykrztuśne, wiatrochłonne i moczopędne. Zarówno nasienie jak i nać sa niezbędnymi dodatkami do ogórków świeżych i kiszonych. |
+| **Majeranek** | Działa trawiennie, wykrztusnie, przeciwskurczowo, przeciwzapalnie, likwiduje wzdęcia, działa lekko rozgrzewająco. W kuchni majeranek stosujemy do sosów, grochu, grochówek, mięs pieczonych i duszonych. Dodajemy zawsze pod koniec gotowania. Napar z łyżki tego ziela na szklankę wrzątku możemy podać przy pierwszych objawach przeziębienia. |
+| **Papryka** | Oczywiście ta w proszku tzw. ostra. Ułatwia trawienie, pobudza zołądek do wydzielania soków trawiennych, działa lekko moczopędnie i jest doskonałym dostawcą witamin A, B i C. |
+| **Pietruszka** | Korzeń ma działanie moczopędne, napotne i trawienne, należy go koniecznie dodawać do surówek przy chorobach przewodu moczowego. Liść ma tylko działanie moczopędne i trawienne, ale jest za to po chrzanie i czarnej porzeczce największym dostawcą witaminy C. |
+| **Seler** | Użyty wewnętrznie działa podobnie jak pietruszka. Nać selera ma bogaty wachlarz witamin i lepiej ją i korzeń jadać na surowo niż wygotowywać w rosole. |
+| **Śliwka węgierka** | Śliwki "węgierki" mają znakomite działanie trawienne i rozwalniające, ale tylko suszone. Uwolnione z pestek, rozmoczone śliwki dodajemy do fasoli pod koniec gotowania, co nas zabezpieczy przed jej działaniem wzdymającym. Poza tym suszone śliwki można dodawać do każdego sosu mięsnego i bigosu pod koniec gotowania. |
+| **Tymianek** | Pobudza działanie żołądka, serca i nerek, działa wykrztuśnie, przeciwskurczowo i ściagająco. Ziele można dodawać wszędzie, gdzie stosuje się inne dodatki zielone, a więc do rosołu, bulionu, sosów mięsnych itp. |
 
 Niektóre przyprawy zostały pominięte, szczególnie te importowane jak pieprz (pobudza trawienie, ale uwaga na przedawkowanie) czy ziele angielskie (wzmacnia żołądek) gdyż mamy wiele przypraw rodzimych z powodzeniem je zastępujących. Należy je tylko poznać i stosować. Trzeba również pamiętać, że monotonne wyżywienie na równi ze złym trawieniem prowadzą do wielu chorób, których leczenie jest o wiele trudniejsze niż "zwykłych" spraw zakaźnych, na które oczywiście mamy antybiotyki i chemiczne leki "szybkiego reagowania".
 
@@ -3713,274 +1689,74 @@ Sok z kapusty nie jest przyjemny w smaku, dlatego też zaleca się pić go z dod
 
 Doktor Górnicka podaje sposoby wykorzystania kapusty w lecznictwie zastrzegając, że pisze to na podstawie doświadczeń lekarzy francuskich.
 
-**Afonia**  
-
-Utrata głosu. Sok z kapusty z małym dodatkiem miodu do spożywania i do płukania. Spożywać surówkę z kapusty z czerwonym burakiem.
-
-**Alkoholizm**  
-
-(środki odwykowe). Spożywanie kapusty surowej lub duszonej oraz świeżego soku działa odtruwająco i odwykowo.
-
-**Anemia**  
-
-Jedna do dwóch szklanek dziennie soku z surowej kapusty.
-
-**Angina**  
-
-Liście z kapusty jako okład na szyję na noc uśmierzają bóle i pomagają w detoksykacji poprzez wydalanie trucizn z organizmu. Płukanie gardła sokiem z kapusty ma działanie czyszczące, gojące i zabliźniające.
-
-**Astenia**  
-
-**zmęczenie, słabość ogólna**. Dziennie popijać do 2 szklanek soku. Stosować reguły prawidłowych zestawów produktów spozywczych. Unikać zdenerwowania i niewłaściwej przemiany materii.
-
-**Astma**  
-
-**zapalenia oskrzeli, bronchit**, katar sienny. 3-4 liście kapusty jako okład na pierś i na szyję, u podstawy płuc lub na łopatki, według lokalizacji bólu. Zostawić na 3-4 godziny, a nastepnie całą noc. Na przewlekły bronchit stosować mieszankę - wywar z 60 g kapusty gotowanej w 1/2 litrze wody przez 1 godzinę. Pod koniec gotowania dodać 60 g miodu. Popijać do 2 szklanek soku dziennie.
-
-**Bezsenność**  
-
-Na noc przyłożyć 3 liście na kark, a niekiedy na nogi.
-
-**Biegunka**  
-
-**bóle jelitowe, bóle żołądkowe**. Stosować przez całą dobę okłady z kapusty na brzuch. Spożywać kapustę długo gotowaną i popijać wywar. Spożywać sok gotowany z borówki czarnej i pyłek kwiatowy. Przyczyną może być nieodpowiedni zestaw pokarmów albo zatrucie polekowe. O wyborze środka ziołowego decyduje lekarz. Bardzo korzystnie działa syrop z niedojrzałych orzechów włoskich drobno posiekanych i zasypanych cukrem. Zażywać 1/2 łyżeczki co godzinę.
-
-**Ból głowy**  
-
-(silny i uporczywy). Przyłożyć dwa liście do czoła i 3 liście na kark na 4 godziny lub na całą noc. Przyłożyć liście do strefy wątroby.
-
-**Ból lędźwiowy**  
-
-(postrzał). Przyłożyć 3 warstwy liści na 4 godziny lub na noc. Kontynuować aż do uśmierzenia bólu. Konsultować u lekarza.
-
-**Bóle reumatyczne**  
-
-**bóle mięśni, dna, artretyzm**. Przykładać liście kapusty. Popijać sok.
-
-**Choroba serca**  
-
-Przykładanie miejscowe liści zmniejsza przekrwienie i normalizuje krwioobieg. Zostawić 3 liście na kilka godzin. Jest to leczenie pomocnicze.
-
-**Czyrak**  
-
-**ropień, wąglik**. Przykładać surowe liście na 2-4 godzin lub na całą noc aż do eliminacji ropienia. Popijać świeży sok i jeść kapustę surową lub duszoną.
-
-**Cukrzyca**  
-
-Popijać świeży sok do 2 szklanek dziennie. Spożywać cebulę. Stosować liście pelargonii.  
-Uwaga! Tylko w stwierdzonym stadium początkowym. W chorobie rozwiniętej może być tylko działaniem wspomagającym.
-
-**Egzemy**  
-
-Stosować okłady z kapusty przez 1 miesiąc, godzinę dziennie. Jeżeli egzema jest sucha, należy uprzednio oliwić każdy liść. Jeść kapustę surową i duszoną. Popijać świeży sok.
-
-**Gangrena**  
-
-**nekroza, martwica**. Przykładać surowe liście. Patrz też **rany**.
-
-**Głuchota**  
-
-Wkraplać do uszu mieszankę soków z kapusty i cytryny (po połowie).
-
-**Gruźlica**  
-
-**zapalenie opłucnej**. Delikatne działanie rewulsyjne liścia z kapusty jest bardzo korzystne. Przykłada się 3-4 liście na miejsce dolegliwe na całą noc. Popijać do 2 szklanek soku ze świeżej kapusty dziennie.
-
-**Grypa**  
-
-Popijać do 3 szklanek soku dziennie. Popijać rozcieńczone olejki eteryczne lawenda, sosna).
-
-**Hemoroidy**  
-
-Stosować zioła Rektosan. Wkładać do odbytu liście w formie czopka na noc na 4 godziny.
-
-**Kac**  
-
-Na kaca - głód i praca. :-) Nie brać "klina", pić sok z kiszonej kapusty.
-
-**Kamienie moczowe**  
-
-Popijać 2 szklanki soku dziennie.
-
-**Katar**  
-
-Stosować 1 łyżkę syropu 3-4 razy dziennie do naparu kaszlowego. Skład syropu - 500 g soku z kapusty czerwonej, 5 g szafranu, 250 g miodu. Zagotować.
-
-**Kolka watrobowa**  
-
-**kolka żółciowa**). Do zbolałego miejsca przykładać liście. Wszystkie inne leki uspokajajace są również pochodzenia roślinnego.
-
-**Liszajec**  
-
-Popijać sok.
-
-**Łojotok**  
-
-Popijać sok.
-
-**Macica**  
-
-(**zapalenie**). Przykładać liście do dolnej części brzycha, co zmniejsza przekrwienie w pasie miednicowym. Konsultować u lekarza.
-
-**Marskość wątroby**  
-
-Popijać sok ze świeżej kapusty. Popijać glinkę.
-
-**Maseczka kosmetyczna**  
-
-Przykładanie liści ożywia tkanki i absorbuje nieczystości. Przykładanie kapusty na 1/2 godziny regeneruje i oczyszcza skórę, poprawia krwioobieg, absorbuje skupiska tłuszczu z tkanki podskórnej. Podobnie działa brzoskwinia, truskawka i ogórek.
-
-**Migrena**  
-
-Przyłożyć 2-3 warstwy liści na zbolałe miejsce, nadto na wątrobę lub na dolna część brzucha w zależności od źródła migreny.
-
-**Nadciśnienie**  
-
-Przykładać liście do łydek, na pas lędźwiowy, na kark na 2-3 godziny lub na całą noc.
-
-**Nerwowość**  
-
-Popijać 2 szklanki soku dziennie.
-
-**Nerwoból**  
-
-(zębowy, twarzowy, reumatyczny, **rwa kulszowa**). Przykładanie liści na przebiegu bolesnego nerwu uspokaja stopniowo ból. Liści nie ogrzewać. 3 warstwy liści przykłada się na 4 godziny pod koniec dnia lub na całą noc.
-
-**Nieżyt jelit**  
-
-Popijać sok. Zjadać rano 2 łyżki kapusty kiszonej.
-
-**Obrzęki**  
-
-Popijać 1-2 szklanki soku dziennie.
-
-**Oczy**  
-
-(podrażnione, łzawiące, zaczerwienione, zapalenie spojówek). Wprowadzić do oka kilka kropli świeżego soku wieczorem przed snem. Można również przemywać oczy naparem z rumianku, chabru, bławatka, płatków z róży, wody solonej (1 łyżeczka soli morskiej na 500 g wody), cytryną (1 kropla do każdego oka 2-3 razy dziennie).
-
-**Odmrożenia**  
-
-(z pęcherzykami). Przykładać liście.
-
-**Oparzenia**
-
-Jak najszybciej przyłożyć zmiażdżone liście. Uśmierza to bóle i działa gojąco. Na oparzenia I stopnia można przyłożyć gotowane obierki z ziemniaków lub tartej marchwi. W przypadku oparzeń II i III stopnia o leczeniu decyduje lekarz.
-
-**Opryszczki skórne**  
-
-Przykładać liście na noc i zmywać rano sokiem. Często potrzebna jest konsultacja lekarska.
-
-**Owrzodzenia**  
-
-**żylakowe goleni**. Jest około 34 typów owrzodzeń. Kapusta jest tutaj wyborowym lekiem. Przykładanie liści na 4 godziny dziennie lub na noc kończy się przeważnie zagojeniem rany.
-
-**Pęcherzyk żółciowy**  
-
-Przyłożyć na noc 3 liście na górną część brzucha, w razie potrzeby także w ciągu dnia.
-
-**Półpasiec**  
-
-Liście uśmierzają bóle. Stosować 3-4 razy dziennie po 4 godziny. Na pęcherzyki półpaśca pomagają lepiej olejki eteryczne. Półpasiec w początkowej fazie jest do wyleczenia w ciągu kilku dni. Jak postępować decyduje lekarz.
-
-**Prostata**  
-
-Przykładać co drugi wieczór liście na dolną część brzucha, a w wolne dni na krocze na całą dobę.
-
-**Przekrwienie mózgu**  
-
-**udar słoneczny**. Przykładać 3-4 liście na głowę i kark co 4 godziny z przerwą 2-3 godziny.
-
-**Rany zwykłe**  
-
-Oczyścić ranę z ropy i szczerniałej krwi, obmyć gotowana wodą z sola morską (1 łyżeczka na szklankę wody) Zmieniać bandaże aż do kompletnego zagojenia rany. Na początku zmienia się okład z kapusty co 2 godziny a później co 4 godziny. Bandaż wieczorny pozostawiamy na noc, jeżeli przypadek nie jest groźny. W przeciwnym wypadku zmieniać bandaż częściej i oczyszczać ranę.
-
-**Robaki jelitowe**  
-
-Popijać rano przez 3 kolejne dni szklankę soku (dla dzieci 20-30 g) dziennie. W razie potrzeby uzupełnić okładem z liści na dolną część brzucha na noc. Można również podawać choremu czosnek, nasiona kapusty, dynię zwyczajną.
-
-**Ropień zimny**  
-
-przykładać liście i popijać sok do 2 szklanek dziennie.
-
-**Skaza moczowa**  
-
-Pić 2 szklanki soku dziennie.
-
-**Skaza dnawa**  
-
-(**zapalenie**). Pić 2 szklanki soku dziennie.
-
-**Skóra popękana**  
-
-Przykładać miejscowo liście moczone w oleju słonecznikowym lub z oliwek.
-
-**Sinusitis**  
-
-**nieżyt nosa, katar**. Jest to zapalenie zatok przynosowych (jam bocznych nosa). Przyłożyć 3 warstwy liści. Rano i wieczorem wpuścić 1/2 łyżeczki soku do nozdrzy. Stosować inhalacje z mieszanki olejków eterycznych, z igliwia sosny, tymianku, lawendy, z eukaliptusa, dając 20 kropli do czaszy z gorącą wodą.
-
-**Stłuczenie**  
-
-**kontuzja**. Przykładać liście.
-
-**Stan depresji**  
-
-Popijać dziennie do 2 szklanek soku.
-
-**Skąpomocz**  
-
-Popijać dziennie do 2 szklanek soku.
-
-**Szkorbut**  
-
-Popijać dziennie do 2 szklanek soku. Jeść surówkę.
-
-**Ukąszenie owadów**  
-
-Szybko natrzeć liściem i zrobić bandaż z liści. Stosuje się również por, cebulę, czosnek, szałwię, lawendę, natkę pietruszki i inne zawierające olejki eteryczne.
-
-**Tętnica**  
-
-(**zapalenie**). Przyłożyć 3-4 liście jako okład na noc. Uśmierza to bóle i poprawia krążenie krwi.
-
-**Twarda wątroba**  
-
-Przykładać liście, które mają działanie rewulsyjne i zmniejszają przekrwienie. Działa to uspokajająco, łagodząco i uśmierzająco na bóle wątroby w przypadkach dolegliwości pęcherzyka żółciowego i niewydolności wątroby. Przykładać warstwę z 3 liści zarówno w dzień co 4 godziny, jak i na noc. Do ziół leczących wątrobę zaliczmy też czarną rzodkiew, liście karczocha, nawłoć pospolitą, ostropest plamisty, korzeń mniszka, korzeń podróżnika (leki Herbapolu - Syrimalol, Fitolizyna).
-
-**Węzły chłonne**  
-
-(**zapalenie**). Przykładanie liści uspokaja bóle i pomaga w usunięciu toksyn.
-
-**Wrzód zołądka**  
-
-Popijać 2-3 szklanki soku dziennie.
-
-**Zapalenie zatok**  
-
-Przyłożyć 2 liście na 4 godziny lub na całą noc. Rano i wieczorem wprowadzać do nozdrzy 1/2 łyżeczki świeżego soku. Stosować inhalację z olejków eterycznych.
-
-**Zapalenie okrężnicy**  
-
-Przyłożyć 3-4 liście na brzuch na noc. Popijać 1-3 szklanki soku dziennie między posiłkami. Po miesiącu zrobić kilkudniową przerwę. Zaleca się również stosowanie olejków aromatycznych i pyłku kwiatowego. Korzystny jest również sok z borówki.
-
-**Zaparcie**  
-
-Popijać wodę z gotowanej kapusty 2-4 szklanki dziennie.
-
-**Zapalenie stawów**  
-
-Pić sok. Jeść kapustę duszoną w oleju słonecznikowym z dodatkiem szczypty kminku, robić na noc okłady z liści świeżej kapusty.
-
-**Zapalenie oskrzeli**  
-
-Stosować sok z kapusty z dodatkiem soku z czarnej rzepy i kilku kropel cytryny, osłodzony cukrem lub miodem.
-
-**Zwichnięcia**  
-
-Przykładać rano i wieczorem po 3 liście, przykryć watą i delikatnie zabandażować. Sprzyja to odpływowi wysięku z uszkodzonej części kończyny. Zmniejsza przekrwienie.
-
-**Żylaki**  
-
-**zapalenie tętnic**. Okłady z liści zmniejszają przekrwienie. Dotyczy to również ciężkich nóg i sinicy skóry. Na noc przyłożyć 3 warstwy liści na powierzchnię wiekszą niż objęta dolegliwością. Przykryć watą, lekko zabandażować. Aktywuje to krwioobieg, ożywia tkanki, oczyszcza włośniczki z nieczystych substancji.
+| **Afonia** | Utrata głosu. Sok z kapusty z małym dodatkiem miodu do spożywania i do płukania. Spożywać surówkę z kapusty z czerwonym burakiem. |
+| --- | --- |
+| **Alkoholizm** | (środki odwykowe). Spożywanie kapusty surowej lub duszonej oraz świeżego soku działa odtruwająco i odwykowo. |
+| **Anemia** | Jedna do dwóch szklanek dziennie soku z surowej kapusty. |
+| **Angina** | Liście z kapusty jako okład na szyję na noc uśmierzają bóle i pomagają w detoksykacji poprzez wydalanie trucizn z organizmu. Płukanie gardła sokiem z kapusty ma działanie czyszczące, gojące i zabliźniające. |
+| **Astenia** | **zmęczenie, słabość ogólna**. Dziennie popijać do 2 szklanek soku. Stosować reguły prawidłowych zestawów produktów spozywczych. Unikać zdenerwowania i niewłaściwej przemiany materii. |
+| **Astma** | **zapalenia oskrzeli, bronchit**, katar sienny. 3-4 liście kapusty jako okład na pierś i na szyję, u podstawy płuc lub na łopatki, według lokalizacji bólu. Zostawić na 3-4 godziny, a nastepnie całą noc. Na przewlekły bronchit stosować mieszankę - wywar z 60 g kapusty gotowanej w 1/2 litrze wody przez 1 godzinę. Pod koniec gotowania dodać 60 g miodu. Popijać do 2 szklanek soku dziennie. |
+| **Bezsenność** | Na noc przyłożyć 3 liście na kark, a niekiedy na nogi. |
+| **Biegunka** | **bóle jelitowe, bóle żołądkowe**. Stosować przez całą dobę okłady z kapusty na brzuch. Spożywać kapustę długo gotowaną i popijać wywar. Spożywać sok gotowany z borówki czarnej i pyłek kwiatowy. Przyczyną może być nieodpowiedni zestaw pokarmów albo zatrucie polekowe. O wyborze środka ziołowego decyduje lekarz. Bardzo korzystnie działa syrop z niedojrzałych orzechów włoskich drobno posiekanych i zasypanych cukrem. Zażywać 1/2 łyżeczki co godzinę. |
+| **Ból głowy** | (silny i uporczywy). Przyłożyć dwa liście do czoła i 3 liście na kark na 4 godziny lub na całą noc. Przyłożyć liście do strefy wątroby. |
+| **Ból lędźwiowy** | (postrzał). Przyłożyć 3 warstwy liści na 4 godziny lub na noc. Kontynuować aż do uśmierzenia bólu. Konsultować u lekarza. |
+| **Bóle reumatyczne** | **bóle mięśni, dna, artretyzm**. Przykładać liście kapusty. Popijać sok. |
+| **Choroba serca** | Przykładanie miejscowe liści zmniejsza przekrwienie i normalizuje krwioobieg. Zostawić 3 liście na kilka godzin. Jest to leczenie pomocnicze. |
+| **Czyrak** | **ropień, wąglik**. Przykładać surowe liście na 2-4 godzin lub na całą noc aż do eliminacji ropienia. Popijać świeży sok i jeść kapustę surową lub duszoną. |
+| **Cukrzyca** | Popijać świeży sok do 2 szklanek dziennie. Spożywać cebulę. Stosować liście pelargonii.<br>Uwaga! Tylko w stwierdzonym stadium początkowym. W chorobie rozwiniętej może być tylko działaniem wspomagającym. |
+| **Egzemy** | Stosować okłady z kapusty przez 1 miesiąc, godzinę dziennie. Jeżeli egzema jest sucha, należy uprzednio oliwić każdy liść. Jeść kapustę surową i duszoną. Popijać świeży sok. |
+| **Gangrena** | **nekroza, martwica**. Przykładać surowe liście. Patrz też **rany**. |
+| **Głuchota** | Wkraplać do uszu mieszankę soków z kapusty i cytryny (po połowie). |
+| **Gruźlica** | **zapalenie opłucnej**. Delikatne działanie rewulsyjne liścia z kapusty jest bardzo korzystne. Przykłada się 3-4 liście na miejsce dolegliwe na całą noc. Popijać do 2 szklanek soku ze świeżej kapusty dziennie. |
+| **Grypa** | Popijać do 3 szklanek soku dziennie. Popijać rozcieńczone olejki eteryczne lawenda, sosna). |
+| **Hemoroidy** | Stosować zioła Rektosan. Wkładać do odbytu liście w formie czopka na noc na 4 godziny. |
+| **Kac** | Na kaca - głód i praca. :-) Nie brać "klina", pić sok z kiszonej kapusty. |
+| **Kamienie moczowe** | Popijać 2 szklanki soku dziennie. |
+| **Katar** | Stosować 1 łyżkę syropu 3-4 razy dziennie do naparu kaszlowego. Skład syropu - 500 g soku z kapusty czerwonej, 5 g szafranu, 250 g miodu. Zagotować. |
+| **Kolka watrobowa** | **kolka żółciowa**). Do zbolałego miejsca przykładać liście. Wszystkie inne leki uspokajajace są również pochodzenia roślinnego. |
+| **Liszajec** | Popijać sok. |
+| **Łojotok** | Popijać sok. |
+| **Macica** | (**zapalenie**). Przykładać liście do dolnej części brzycha, co zmniejsza przekrwienie w pasie miednicowym. Konsultować u lekarza. |
+| **Marskość wątroby** | Popijać sok ze świeżej kapusty. Popijać glinkę. |
+| **Maseczka kosmetyczna** | Przykładanie liści ożywia tkanki i absorbuje nieczystości. Przykładanie kapusty na 1/2 godziny regeneruje i oczyszcza skórę, poprawia krwioobieg, absorbuje skupiska tłuszczu z tkanki podskórnej. Podobnie działa brzoskwinia, truskawka i ogórek. |
+| **Migrena** | Przyłożyć 2-3 warstwy liści na zbolałe miejsce, nadto na wątrobę lub na dolna część brzucha w zależności od źródła migreny. |
+| **Nadciśnienie** | Przykładać liście do łydek, na pas lędźwiowy, na kark na 2-3 godziny lub na całą noc. |
+| **Nerwowość** | Popijać 2 szklanki soku dziennie. |
+| **Nerwoból** | (zębowy, twarzowy, reumatyczny, **rwa kulszowa**). Przykładanie liści na przebiegu bolesnego nerwu uspokaja stopniowo ból. Liści nie ogrzewać. 3 warstwy liści przykłada się na 4 godziny pod koniec dnia lub na całą noc. |
+| **Nieżyt jelit** | Popijać sok. Zjadać rano 2 łyżki kapusty kiszonej. |
+| **Obrzęki** | Popijać 1-2 szklanki soku dziennie. |
+| **Oczy** | (podrażnione, łzawiące, zaczerwienione, zapalenie spojówek). Wprowadzić do oka kilka kropli świeżego soku wieczorem przed snem. Można również przemywać oczy naparem z rumianku, chabru, bławatka, płatków z róży, wody solonej (1 łyżeczka soli morskiej na 500 g wody), cytryną (1 kropla do każdego oka 2-3 razy dziennie). |
+| **Odmrożenia** | (z pęcherzykami). Przykładać liście. |
+| **Oparzenia** | Jak najszybciej przyłożyć zmiażdżone liście. Uśmierza to bóle i działa gojąco. Na oparzenia I stopnia można przyłożyć gotowane obierki z ziemniaków lub tartej marchwi. W przypadku oparzeń II i III stopnia o leczeniu decyduje lekarz. |
+| **Opryszczki skórne** | Przykładać liście na noc i zmywać rano sokiem. Często potrzebna jest konsultacja lekarska. |
+| **Owrzodzenia** | **żylakowe goleni**. Jest około 34 typów owrzodzeń. Kapusta jest tutaj wyborowym lekiem. Przykładanie liści na 4 godziny dziennie lub na noc kończy się przeważnie zagojeniem rany. |
+| **Pęcherzyk żółciowy** | Przyłożyć na noc 3 liście na górną część brzucha, w razie potrzeby także w ciągu dnia. |
+| **Półpasiec** | Liście uśmierzają bóle. Stosować 3-4 razy dziennie po 4 godziny. Na pęcherzyki półpaśca pomagają lepiej olejki eteryczne. Półpasiec w początkowej fazie jest do wyleczenia w ciągu kilku dni. Jak postępować decyduje lekarz. |
+| **Prostata** | Przykładać co drugi wieczór liście na dolną część brzucha, a w wolne dni na krocze na całą dobę. |
+| **Przekrwienie mózgu** | **udar słoneczny**. Przykładać 3-4 liście na głowę i kark co 4 godziny z przerwą 2-3 godziny. |
+| **Rany zwykłe** | Oczyścić ranę z ropy i szczerniałej krwi, obmyć gotowana wodą z sola morską (1 łyżeczka na szklankę wody) Zmieniać bandaże aż do kompletnego zagojenia rany. Na początku zmienia się okład z kapusty co 2 godziny a później co 4 godziny. Bandaż wieczorny pozostawiamy na noc, jeżeli przypadek nie jest groźny. W przeciwnym wypadku zmieniać bandaż częściej i oczyszczać ranę. |
+| **Robaki jelitowe** | Popijać rano przez 3 kolejne dni szklankę soku (dla dzieci 20-30 g) dziennie. W razie potrzeby uzupełnić okładem z liści na dolną część brzucha na noc. Można również podawać choremu czosnek, nasiona kapusty, dynię zwyczajną. |
+| **Ropień zimny** | przykładać liście i popijać sok do 2 szklanek dziennie. |
+| **Skaza moczowa** | Pić 2 szklanki soku dziennie. |
+| **Skaza dnawa** | (**zapalenie**). Pić 2 szklanki soku dziennie. |
+| **Skóra popękana** | Przykładać miejscowo liście moczone w oleju słonecznikowym lub z oliwek. |
+| **Sinusitis** | **nieżyt nosa, katar**. Jest to zapalenie zatok przynosowych (jam bocznych nosa). Przyłożyć 3 warstwy liści. Rano i wieczorem wpuścić 1/2 łyżeczki soku do nozdrzy. Stosować inhalacje z mieszanki olejków eterycznych, z igliwia sosny, tymianku, lawendy, z eukaliptusa, dając 20 kropli do czaszy z gorącą wodą. |
+| **Stłuczenie** | **kontuzja**. Przykładać liście. |
+| **Stan depresji** | Popijać dziennie do 2 szklanek soku. |
+| **Skąpomocz** | Popijać dziennie do 2 szklanek soku. |
+| **Szkorbut** | Popijać dziennie do 2 szklanek soku. Jeść surówkę. |
+| **Ukąszenie owadów** | Szybko natrzeć liściem i zrobić bandaż z liści. Stosuje się również por, cebulę, czosnek, szałwię, lawendę, natkę pietruszki i inne zawierające olejki eteryczne. |
+| **Tętnica** | (**zapalenie**). Przyłożyć 3-4 liście jako okład na noc. Uśmierza to bóle i poprawia krążenie krwi. |
+| **Twarda wątroba** | Przykładać liście, które mają działanie rewulsyjne i zmniejszają przekrwienie. Działa to uspokajająco, łagodząco i uśmierzająco na bóle wątroby w przypadkach dolegliwości pęcherzyka żółciowego i niewydolności wątroby. Przykładać warstwę z 3 liści zarówno w dzień co 4 godziny, jak i na noc. Do ziół leczących wątrobę zaliczmy też czarną rzodkiew, liście karczocha, nawłoć pospolitą, ostropest plamisty, korzeń mniszka, korzeń podróżnika (leki Herbapolu - Syrimalol, Fitolizyna). |
+| **Węzły chłonne** | (**zapalenie**). Przykładanie liści uspokaja bóle i pomaga w usunięciu toksyn. |
+| **Wrzód zołądka** | Popijać 2-3 szklanki soku dziennie. |
+| **Zapalenie zatok** | Przyłożyć 2 liście na 4 godziny lub na całą noc. Rano i wieczorem wprowadzać do nozdrzy 1/2 łyżeczki świeżego soku. Stosować inhalację z olejków eterycznych. |
+| **Zapalenie okrężnicy** | Przyłożyć 3-4 liście na brzuch na noc. Popijać 1-3 szklanki soku dziennie między posiłkami. Po miesiącu zrobić kilkudniową przerwę. Zaleca się również stosowanie olejków aromatycznych i pyłku kwiatowego. Korzystny jest również sok z borówki. |
+| **Zaparcie** | Popijać wodę z gotowanej kapusty 2-4 szklanki dziennie. |
+| **Zapalenie stawów** | Pić sok. Jeść kapustę duszoną w oleju słonecznikowym z dodatkiem szczypty kminku, robić na noc okłady z liści świeżej kapusty. |
+| **Zapalenie oskrzeli** | Stosować sok z kapusty z dodatkiem soku z czarnej rzepy i kilku kropel cytryny, osłodzony cukrem lub miodem. |
+| **Zwichnięcia** | Przykładać rano i wieczorem po 3 liście, przykryć watą i delikatnie zabandażować. Sprzyja to odpływowi wysięku z uszkodzonej części kończyny. Zmniejsza przekrwienie. |
+| **Żylaki** | **zapalenie tętnic**. Okłady z liści zmniejszają przekrwienie. Dotyczy to również ciężkich nóg i sinicy skóry. Na noc przyłożyć 3 warstwy liści na powierzchnię wiekszą niż objęta dolegliwością. Przykryć watą, lekko zabandażować. Aktywuje to krwioobieg, ożywia tkanki, oczyszcza włośniczki z nieczystych substancji. |
 
 ---
 
@@ -3997,158 +1773,44 @@ Wypisane poniżej (oczywiście nie wszystkie) warzywa, owoce i zioła opatrzyłe
 
   
 
-**Burak czerwony**  
-(Beta vulgaris)
-
-Burak pobudza apetyt, jest odświeżający i lekkostrawny. W leczeniu naturalnym jest stosowany na anemię, demineralizację organizmu, nerwicę grypę, gruźlicę, nowotwory, przeciw zapaleniu nerwów i wątroby. Ćwikła (utarty gotowany burak z utartym chrzanem i kminkiem) poprawia pracę wątroby, odkwasza, ułatwia trawienie różnych mięs.
-
-**Cebula**  
-(Allium cepa)
-
-Stosowana wewnętrznie jest środkiem antyinfekcyjnym, przeciwreumatycznym, antyseptycznym, przeciwsklerotycznym, przeciwszkorbutowym i przeciwzakrzepowym, leczy skórę i jej owłosienie, wzmacnia i upiększa paznokcie, leczy gruźlicę węzłów chłonnych, jest środkiem lekko nasennym, obniża poziom cukru we krwi, osłabia napięcie jelit, pobudza popęd płciowy, wzmaga czynności nerek, jelit, wątroby, układu nerwowego, jest środkiem moczopędnym, rozpuszcza i eliminuje mocznik i chlorki, działa przeciwczerwiowo, wykrztuśnie i wydzielniczo, ułatwia trawienie produktów mącznych, utrzymuje w równowadze pracę gruczołów wydzielania wewnętrznego. Daje dobre skutki w leczeniu chorób i dolegliwości: angina, astma, awitaminoza, biegunka, cukrzyca, dolegliwości w oddychaniu, grypa, infekcje moczopłciowe, katar, kamica żółciowa, nadfermentacja jelitowa, nadmiar chlorków we krwi, niedomogi prostaty, niemoc płciowa, nieżyt nosa i pogrypowy, obecność mocznika, ogólne osłabienie fizyczne i umysłowe, obrzęki, otyłość, pasożyty jelitowe, przeziębienie, przerost układu chłonnego, puchlina brzuszna i wodna, skąpomocz, stwardnienie tętnic, wadliwa przemiana materii, zakłócenia wzrostu włosów, zapalenie krtani, opłucnej, osierdzia, oskrzeli i węzłów chłonnych, skrzepy (leczy zwężenia naczyń krwionośnych, hamuje krzepnięcie krwi rozpuszczając włóknik czyli fibrynę - nierozpuszczalne białko będące podstawą skrzepów).  
-Stosowana zewnętrznie leczy brodawki, brzęczenie w uszach, czyraki, głuchotę, migrenę, nerwoból zębowy, odmroziny, oparzenia, zapalenia opon mózgowych, wzmacnia porost włosów, leczy rany, ropień, wrzody, zastrzał, ukąszenia osy, uśmierza ból, odstrasza komary.
-
-**Chrzan**  
-(Armoracia lapathifolia)
-
-Do użytku wewnętrznego stosowanie jest wskazane przy astmie, atonii w trawieniu (nieżyty z niedoborem kwasu solnego), brak apetytu, bronchit chroniczny, gościec, gruźlica, niedobór witaminy C i alkaliów, paraliż, przerost układu chłonnego, stan limfatyczny, puchlina wodna, reumatyzm, skrofuloza, upławy białe, schorzenia wątrobowe, stany zapalne nerek, kamica nerkowa, stany zapalne korzonków nerwowych.  
-**UWAGA !** Stosowanie chrzanu winno być dawkowane ostrożnie przy zapaleniu przewodu pokarmowego, wątroby i nerek. Związki w chrzanie kolidują z węglanami pierwiastków alkalicznych, z chlorkiem rtęci i z naparem z kory chinowej.  
-Na użytek zewnętrzny stosujemy przy bólach mięśniowych w plecach i w pasie, przeziębieniach, ropiejących ranach, wrzodach, zapaleniu korzonków nerwowych, zapaleniu uszu i piegach.
-
-**Czosnek**  
-(Allium sativum)
-
-Stosuje się wewnętrznie przy takich schorzeniach jak artretyzm, astenia, ogólne osłabienie, astma, atonie układu trawiennego, biegunka, dyzenteria (czerwonka), bóle brzucha, brak apetytu, gościec stawowy, hemoroidy, kamienie nerkowe, koklusz, krztusiec, kurcze naczyniowe, nadciśnienie tętnicze krwi, niektóre częstoskurcze serca, nadmierne ukrwienie naczyń krwionośnych, niedostateczne wydzielanie soków trawiennych, obrzęk nóg, odbijanie, odtruwanie wątroby, pasożyty jelitowe, piasek moczowy, profilaktyka chorób zakaźnych, puchlina wodna, reumatyzm, ropień płuc, rzeżączka, skurcze jelitowe, skąpomocz, stwardnienie naczyń tętniczych, miażdżyca, utrudnione trawienie, wzdęcia, wiatry, bębnica, zaburzenia równowagi w pracy gruczołów wydzielania wewnętrznego, zakażenie gardła i krtani, zakażenia dróg oddechowych, zapobieganie nowotworom przez działanie przeciwgnilne w jelitach, zapalenie płuc, oskrzeli, zakłócenia krążenia krwi z powodu nadmiernej krzepliwości, zakłócenia czynności żółciotwórczych, zakłócenia czynności ukrwienia naczyń mózgowych, zmęczenie serca, zgorzel, zakaźne pochodzenie nieżytów żołądka i jelit, żylaki, zaburzenia pracy płuc, rozedma, ropień płuc.  
-Użytek zewnętrzny. Ból ucha, brodawki, modzele, twardziny, głuchota, guzy nowotworowe, grzybica woszczynowa, odciski, przetoki, źle gojące się rany, rany zakażone, ropień zimny (na tle gruźlicy stawowej lub kości), ropień skórny, bóle reumatyczne, świerzb, torbiele, cysty, ukąszenia owadów, wrzody.  
-**UWAGA !** Nie stosować przy ostrym nieżycie żołądka i jelit, niedociśnieniu tętniczym, w czasie karmienia osesków. Nie jest wskazany dla nerkowców. Nie trzeba jadać za dużo czosnku (2-3 ząbki tygodniowo) gdyż jest ciężkostrawny i drażni błony śluzowe przewodu pokarmowego.
-
-**Kapusta**  
-(Brassica oleracea)
-
-Bezapelacyjna królowa warzyw pod względem zastosowania w medycynie naturalnej. Używamy zarówno białej, czerwonej jak i włoskiej. Stosowana jest w leczeniu następujących chorób - afonia, alkoholizm, anemia, angina, astenia, zmęczenie, słabość ogólna, astma, zapalenia oskrzeli, bezsenność, ból głowy, biegunka, bronchit, bóle reumatyczne, bóle mięśni, dna, ból lędźwiowy, bóle żołądkowe i jelitowe, choroba serca, czyrak, ropień, wąglik, cukrzyca, dermatoza, egzemy, gangrena, głuchota, gruźlica, grypa, hemoroidy, choroby jelit, kamienie moczowe, katar, katar sienny, krzywica, liszajec, łojotok, martwica, migrena, nerwobóle, żylaki, zapalenie tętnic nóg, obrzęki, choroby oczu (podrażnienia, łzawienia, zaczerwienienie), odmrożenia, oparzenia, opryszczki skórne, owrzodzenia żylakowe goleni, choroby pęcherzyka żółciowego, zapalenie pęcherza moczowego, półpasiec, prostata, przekrwienie mózgu, udar słoneczny, wszelkie rany, robaki jelitowe, ropień zimny, popękana skóra, katar, stłuczenia i kontuzje, stany depresji, dolegliwości skórne, skąpomocz, szkorbut, ukąszenia owadów, utrudnione trawienie, odwapnienie, wrzód żołądka, nadciśnienie tętnicze, zastrzał, trądzik, zapalenie tętnicy, zapalenie węzłów chłonnych, twarda wątroba, poprawienie przemiany materii, poprawa pracy nerek, zapalenie macicy, zapalenie zatok chłonnych i przynosowych okrężnicy, spojówek, zaparcia, kolka wątrobowa i żółciowa, marskość wątroby, zapalenie włośniczek, zapalenie powiek, zwichnięcia, wrzody żołądka, zły stan układu nerwowego, żołądkowy nieżyt przewlekły, zapalenie stawów, zapalenie oskrzeli, zamroczenie alkoholowe, dolegliwości układu nerwowego. Została jej poświęcona cała, odrębna strona.
-
-**Marchew**  
-(Daucus carota)
-
-Na użytek wewnętrzny - astenia, anemia, biegunka u dzieci, blednica, zaburzenia trawienne, dermatozy, białaczka, demineralizacja, gruźlica, bronchit przewlekły, astma, dna, artretyzm, reumatyzm, hemoroidy, infekcje jelit, krzywica, krwawienia żołądkowo-jelitowe, łuszczyca, niedomogi wątrobowo-żółciowe, niedobór mleka u karmiących matek, nadciśnienie tętnicze, niedokrwistość, obniżona ostrość widzenia, miażdżyca, pasożyty jelitowe, pęcherzyca.  
-Na użytek zewnętrzny - rany, wrzody, oparzenia, czyraki, egzemy, łupież, liszajec twarzy, odmroziny, pęknięcia skóry, ropień, leczenie pomocnicze w nowotworze piersi, nabłoniak, nowotwór nabłonkowy, trądzik twarzy. Działania profilaktyczne - choroby zakaźne i zwyrodnieniowe, zmarszczki, skrofuloza, wrzód żołądka i dwunastnicy, stany nerwicowe, zapalenie jelita cienkiego i okrężnicy, oczyszczanie krwi zatrutej toksynami, regulacja krwawienia miesięcznego, zaparcia, żółtaczka, stwardnienie rozsiane, cukrzyca.
-
-**Pietruszka**  
-(Petroselinum sativum)
-
-Na użytek wewnętrzny - anemia, astenia, atonia pęcherzyka żółciowego brak łaknienia, dolegliwości wątrobowe, stany nowotworowe, gorączka przerywana, gościec, kamienie moczowe, bolesne miesiączkowanie, niestrawność, pasożyty jelitowe, reumatyzm, skąpomocz, stany nerwowości, wady krwi, wzdęcia, zakażenie.  
-Na użytek zewnętrzny - kontuzje, nerwobóle, piegi, rany, ukąszenia owadów, upławy, zapalenia oka, zastój mleka w sutku.  
-**UWAGA !** Stosowanie przez dłuższy czas dużych dawek wyciągu z nasion pietruszki powoduje kurcze macicy przez miristycynę, uszkodzenie błon śluzowych układu pokarmowego, pobudzenie ośrodkowego układu nerwowego (olejek). Małym dzieciom i kobietom w końcowym okresie ciąży zaleca się ostrożność przy doustnym przyjmowaniu nasion pietruszki. Olejek silnie drażni nerki i może być przyczyną poronień. Fitolizynę powinno się dawkować ostrożnie i podawać z przerwami.
-
-**Por**  
-(Allium porrum)
-
-Na użytek wewnętrzny - anemia, arterioskleroza, artretyzm, gościec, zatrucie amoniakiem, dolegliwości dróg moczowych, kamica moczowa, gruźlica, niestrawność, niewydolność nerek, otyłość, zaparcie.  
-Na użytek zewnętrzny - czyraki, hemoroidy, nagniotki, odciski, ropnie, rany, krwawienie z nosa, pielęgnacja twarzy, wrzody, ukąszenia owadów, zastój moczu.
-
-**Rzodkiewka**  
-(Raphanus sativus)
-
-Pomocna w leczeniu anemii, artretyzmu, astmie, braku łaknienia, demineralizacji organizmu, dolegliwościach oskrzelowych i wątrobowych, kamieniach nerkowych i żółciowych, krzywicy, nadfermentacji jelitowej, reumatyzmie, szkorbucie, wypadaniu włosów, zmarszczkach.
-
-**Rzodkiew czarna**  
-(Raphanus niger)
-
-Wskazana przy leczeniu astmy, artretyzmu, bronchitu chronicznego, dolegliwości płucnych, egzemy, kamicy nerkowej i żółciowej, kokluszu, krzywicy, niedomogi wydzielniczej wątroby, niestrawności, reumatyzmu, szkorbutu, uczulenia, zapalenia pęcherzyka żółciowego i dróg żółciowych.
-
-**Seler**  
-(Apium graveolens)
-
-Na użytek wewnętrzny - gościec, kamica moczowa, wzdęcia, kolki żołądkowe, łagodzenie sklerozy, schorzenia pęcherza moczowego, nieprawidłowości miesiączkowania, zapobiega szkorbutowi, reumatyzm, otyłość, przemiana materii, poprawia pracę nerek, wątroby, serca, nieżyt oskrzeli.  
-Zewnętrznie - rany, odmrożenia, zapalenie powiek, miejscowe odbarwienie skóry.
-
-**Szpinak**  
-(Spinacia oleracea)
-
-Na użytek wewnętrzny - anemia, astenia fizyczna i nerwowa, krzywica, szkorbut, łuszczyca, pęcherzyca, nowotwory, wyrzuty skórne, rekonwalescencja, starzenie się, stwardnienie rozsiane.  
-Na użytek zewnętrzny - oparzenia, liszaje, rany, wyrzuty skórne, łuszczyca, pęcherzyca.
-
-**Ziemniak**  
-(Solanum tuberosum)
-
-Sprzyja pracy jelit, jest przeciwrzodowy, ma właściwości gojące, działa zmiękczająco, uspokaja śluzówkę przewodu pokarmowego, działa przeciwskurczowo i moczopędnie, wzmacnia naczynia włosowate, działa przeciwnowotworowo, hamuje rozwój grzybów i bakterii, działa korzystnie na nerki rozpuszczając kamienie, działa przeciwszkorbutowo, leczy egzemę i inne choroby skórne, przeciwdziała rozszerzaniu się naczyń krwionośnych, mąka ziemniaczana jest dobrym pudrem na oparzenia słoneczne, a dodana do kąpieli leczy świąd i wysypki, świeży sok z surowego ziemniaka leczy przewlekłą nadkwasotę, zaparcia, cuchnięcie z ust i niedomogi wątroby, odwar z ziemniaków może być stosowany do leczniczych lewatyw odżywczych, dr Kneipp zaleca stosowanie papki z ziemniaków jako okładów do usmierzania bólów, skurczów w przewodzie pokarmowym, przy opuchliznach, odwodnieniach, zwichnięciach, zapaleniach, osłabieniu gruczołów wydzielania wewnetrznego, katarze dróg oddechowych, nieżycie przewodu pokarmowego, zapaleniu opłucnej, zapaleniu stawów, zapaleniu pochewki ścięgna, zapaleniu przymacicznym (parametrium), przy ischiasie, lumbago, zesztywniającym zapaleniu stawów międzykręgowych, dnie, artretyzmie, czyrakach, zapaleniach skórnych, otyłości.  
-**UWAGA !** Nie spożywać ziemniaków o zielonym kolorze skórki, ani z wyrastającymi kiełkami. Miejsca te należy szeroko i głęboko wykroić i wyrzucić, ponieważ zawierają trujący glikoalkaloid - solaninę. Absolutnie takich ziemniaków nie przyrządzać dla dzieci. Nawet śladowe ilości solaniny mogą zaszkodzić. Wywołują bóle artretyczne, podrażnienia sluzówki, nudności, wymioty, zapalenie nerek, pęcherzyka zółciowego, osłabienie serca, pocenie, lęki, palą w gardle.
+| **Burak czerwony**<br>(Beta vulgaris) | Burak pobudza apetyt, jest odświeżający i lekkostrawny. W leczeniu naturalnym jest stosowany na anemię, demineralizację organizmu, nerwicę grypę, gruźlicę, nowotwory, przeciw zapaleniu nerwów i wątroby. Ćwikła (utarty gotowany burak z utartym chrzanem i kminkiem) poprawia pracę wątroby, odkwasza, ułatwia trawienie różnych mięs. |
+| --- | --- |
+| **Cebula**<br>(Allium cepa) | Stosowana wewnętrznie jest środkiem antyinfekcyjnym, przeciwreumatycznym, antyseptycznym, przeciwsklerotycznym, przeciwszkorbutowym i przeciwzakrzepowym, leczy skórę i jej owłosienie, wzmacnia i upiększa paznokcie, leczy gruźlicę węzłów chłonnych, jest środkiem lekko nasennym, obniża poziom cukru we krwi, osłabia napięcie jelit, pobudza popęd płciowy, wzmaga czynności nerek, jelit, wątroby, układu nerwowego, jest środkiem moczopędnym, rozpuszcza i eliminuje mocznik i chlorki, działa przeciwczerwiowo, wykrztuśnie i wydzielniczo, ułatwia trawienie produktów mącznych, utrzymuje w równowadze pracę gruczołów wydzielania wewnętrznego. Daje dobre skutki w leczeniu chorób i dolegliwości: angina, astma, awitaminoza, biegunka, cukrzyca, dolegliwości w oddychaniu, grypa, infekcje moczopłciowe, katar, kamica żółciowa, nadfermentacja jelitowa, nadmiar chlorków we krwi, niedomogi prostaty, niemoc płciowa, nieżyt nosa i pogrypowy, obecność mocznika, ogólne osłabienie fizyczne i umysłowe, obrzęki, otyłość, pasożyty jelitowe, przeziębienie, przerost układu chłonnego, puchlina brzuszna i wodna, skąpomocz, stwardnienie tętnic, wadliwa przemiana materii, zakłócenia wzrostu włosów, zapalenie krtani, opłucnej, osierdzia, oskrzeli i węzłów chłonnych, skrzepy (leczy zwężenia naczyń krwionośnych, hamuje krzepnięcie krwi rozpuszczając włóknik czyli fibrynę - nierozpuszczalne białko będące podstawą skrzepów).<br>Stosowana zewnętrznie leczy brodawki, brzęczenie w uszach, czyraki, głuchotę, migrenę, nerwoból zębowy, odmroziny, oparzenia, zapalenia opon mózgowych, wzmacnia porost włosów, leczy rany, ropień, wrzody, zastrzał, ukąszenia osy, uśmierza ból, odstrasza komary. |
+| **Chrzan**<br>(Armoracia lapathifolia) | Do użytku wewnętrznego stosowanie jest wskazane przy astmie, atonii w trawieniu (nieżyty z niedoborem kwasu solnego), brak apetytu, bronchit chroniczny, gościec, gruźlica, niedobór witaminy C i alkaliów, paraliż, przerost układu chłonnego, stan limfatyczny, puchlina wodna, reumatyzm, skrofuloza, upławy białe, schorzenia wątrobowe, stany zapalne nerek, kamica nerkowa, stany zapalne korzonków nerwowych.<br>**UWAGA !** Stosowanie chrzanu winno być dawkowane ostrożnie przy zapaleniu przewodu pokarmowego, wątroby i nerek. Związki w chrzanie kolidują z węglanami pierwiastków alkalicznych, z chlorkiem rtęci i z naparem z kory chinowej.<br>Na użytek zewnętrzny stosujemy przy bólach mięśniowych w plecach i w pasie, przeziębieniach, ropiejących ranach, wrzodach, zapaleniu korzonków nerwowych, zapaleniu uszu i piegach. |
+| **Czosnek**<br>(Allium sativum) | Stosuje się wewnętrznie przy takich schorzeniach jak artretyzm, astenia, ogólne osłabienie, astma, atonie układu trawiennego, biegunka, dyzenteria (czerwonka), bóle brzucha, brak apetytu, gościec stawowy, hemoroidy, kamienie nerkowe, koklusz, krztusiec, kurcze naczyniowe, nadciśnienie tętnicze krwi, niektóre częstoskurcze serca, nadmierne ukrwienie naczyń krwionośnych, niedostateczne wydzielanie soków trawiennych, obrzęk nóg, odbijanie, odtruwanie wątroby, pasożyty jelitowe, piasek moczowy, profilaktyka chorób zakaźnych, puchlina wodna, reumatyzm, ropień płuc, rzeżączka, skurcze jelitowe, skąpomocz, stwardnienie naczyń tętniczych, miażdżyca, utrudnione trawienie, wzdęcia, wiatry, bębnica, zaburzenia równowagi w pracy gruczołów wydzielania wewnętrznego, zakażenie gardła i krtani, zakażenia dróg oddechowych, zapobieganie nowotworom przez działanie przeciwgnilne w jelitach, zapalenie płuc, oskrzeli, zakłócenia krążenia krwi z powodu nadmiernej krzepliwości, zakłócenia czynności żółciotwórczych, zakłócenia czynności ukrwienia naczyń mózgowych, zmęczenie serca, zgorzel, zakaźne pochodzenie nieżytów żołądka i jelit, żylaki, zaburzenia pracy płuc, rozedma, ropień płuc.<br>Użytek zewnętrzny. Ból ucha, brodawki, modzele, twardziny, głuchota, guzy nowotworowe, grzybica woszczynowa, odciski, przetoki, źle gojące się rany, rany zakażone, ropień zimny (na tle gruźlicy stawowej lub kości), ropień skórny, bóle reumatyczne, świerzb, torbiele, cysty, ukąszenia owadów, wrzody.<br>**UWAGA !** Nie stosować przy ostrym nieżycie żołądka i jelit, niedociśnieniu tętniczym, w czasie karmienia osesków. Nie jest wskazany dla nerkowców. Nie trzeba jadać za dużo czosnku (2-3 ząbki tygodniowo) gdyż jest ciężkostrawny i drażni błony śluzowe przewodu pokarmowego. |
+| **Kapusta**<br>(Brassica oleracea) | Bezapelacyjna królowa warzyw pod względem zastosowania w medycynie naturalnej. Używamy zarówno białej, czerwonej jak i włoskiej. Stosowana jest w leczeniu następujących chorób - afonia, alkoholizm, anemia, angina, astenia, zmęczenie, słabość ogólna, astma, zapalenia oskrzeli, bezsenność, ból głowy, biegunka, bronchit, bóle reumatyczne, bóle mięśni, dna, ból lędźwiowy, bóle żołądkowe i jelitowe, choroba serca, czyrak, ropień, wąglik, cukrzyca, dermatoza, egzemy, gangrena, głuchota, gruźlica, grypa, hemoroidy, choroby jelit, kamienie moczowe, katar, katar sienny, krzywica, liszajec, łojotok, martwica, migrena, nerwobóle, żylaki, zapalenie tętnic nóg, obrzęki, choroby oczu (podrażnienia, łzawienia, zaczerwienienie), odmrożenia, oparzenia, opryszczki skórne, owrzodzenia żylakowe goleni, choroby pęcherzyka żółciowego, zapalenie pęcherza moczowego, półpasiec, prostata, przekrwienie mózgu, udar słoneczny, wszelkie rany, robaki jelitowe, ropień zimny, popękana skóra, katar, stłuczenia i kontuzje, stany depresji, dolegliwości skórne, skąpomocz, szkorbut, ukąszenia owadów, utrudnione trawienie, odwapnienie, wrzód żołądka, nadciśnienie tętnicze, zastrzał, trądzik, zapalenie tętnicy, zapalenie węzłów chłonnych, twarda wątroba, poprawienie przemiany materii, poprawa pracy nerek, zapalenie macicy, zapalenie zatok chłonnych i przynosowych okrężnicy, spojówek, zaparcia, kolka wątrobowa i żółciowa, marskość wątroby, zapalenie włośniczek, zapalenie powiek, zwichnięcia, wrzody żołądka, zły stan układu nerwowego, żołądkowy nieżyt przewlekły, zapalenie stawów, zapalenie oskrzeli, zamroczenie alkoholowe, dolegliwości układu nerwowego. Została jej poświęcona cała, odrębna strona. |
+| **Marchew**<br>(Daucus carota) | Na użytek wewnętrzny - astenia, anemia, biegunka u dzieci, blednica, zaburzenia trawienne, dermatozy, białaczka, demineralizacja, gruźlica, bronchit przewlekły, astma, dna, artretyzm, reumatyzm, hemoroidy, infekcje jelit, krzywica, krwawienia żołądkowo-jelitowe, łuszczyca, niedomogi wątrobowo-żółciowe, niedobór mleka u karmiących matek, nadciśnienie tętnicze, niedokrwistość, obniżona ostrość widzenia, miażdżyca, pasożyty jelitowe, pęcherzyca.<br>Na użytek zewnętrzny - rany, wrzody, oparzenia, czyraki, egzemy, łupież, liszajec twarzy, odmroziny, pęknięcia skóry, ropień, leczenie pomocnicze w nowotworze piersi, nabłoniak, nowotwór nabłonkowy, trądzik twarzy. Działania profilaktyczne - choroby zakaźne i zwyrodnieniowe, zmarszczki, skrofuloza, wrzód żołądka i dwunastnicy, stany nerwicowe, zapalenie jelita cienkiego i okrężnicy, oczyszczanie krwi zatrutej toksynami, regulacja krwawienia miesięcznego, zaparcia, żółtaczka, stwardnienie rozsiane, cukrzyca. |
+| **Pietruszka**<br>(Petroselinum sativum) | Na użytek wewnętrzny - anemia, astenia, atonia pęcherzyka żółciowego brak łaknienia, dolegliwości wątrobowe, stany nowotworowe, gorączka przerywana, gościec, kamienie moczowe, bolesne miesiączkowanie, niestrawność, pasożyty jelitowe, reumatyzm, skąpomocz, stany nerwowości, wady krwi, wzdęcia, zakażenie.<br>Na użytek zewnętrzny - kontuzje, nerwobóle, piegi, rany, ukąszenia owadów, upławy, zapalenia oka, zastój mleka w sutku.<br>**UWAGA !** Stosowanie przez dłuższy czas dużych dawek wyciągu z nasion pietruszki powoduje kurcze macicy przez miristycynę, uszkodzenie błon śluzowych układu pokarmowego, pobudzenie ośrodkowego układu nerwowego (olejek). Małym dzieciom i kobietom w końcowym okresie ciąży zaleca się ostrożność przy doustnym przyjmowaniu nasion pietruszki. Olejek silnie drażni nerki i może być przyczyną poronień. Fitolizynę powinno się dawkować ostrożnie i podawać z przerwami. |
+| **Por**<br>(Allium porrum) | Na użytek wewnętrzny - anemia, arterioskleroza, artretyzm, gościec, zatrucie amoniakiem, dolegliwości dróg moczowych, kamica moczowa, gruźlica, niestrawność, niewydolność nerek, otyłość, zaparcie.<br>Na użytek zewnętrzny - czyraki, hemoroidy, nagniotki, odciski, ropnie, rany, krwawienie z nosa, pielęgnacja twarzy, wrzody, ukąszenia owadów, zastój moczu. |
+| **Rzodkiewka**<br>(Raphanus sativus) | Pomocna w leczeniu anemii, artretyzmu, astmie, braku łaknienia, demineralizacji organizmu, dolegliwościach oskrzelowych i wątrobowych, kamieniach nerkowych i żółciowych, krzywicy, nadfermentacji jelitowej, reumatyzmie, szkorbucie, wypadaniu włosów, zmarszczkach. |
+| **Rzodkiew czarna**<br>(Raphanus niger) | Wskazana przy leczeniu astmy, artretyzmu, bronchitu chronicznego, dolegliwości płucnych, egzemy, kamicy nerkowej i żółciowej, kokluszu, krzywicy, niedomogi wydzielniczej wątroby, niestrawności, reumatyzmu, szkorbutu, uczulenia, zapalenia pęcherzyka żółciowego i dróg żółciowych. |
+| **Seler**<br>(Apium graveolens) | Na użytek wewnętrzny - gościec, kamica moczowa, wzdęcia, kolki żołądkowe, łagodzenie sklerozy, schorzenia pęcherza moczowego, nieprawidłowości miesiączkowania, zapobiega szkorbutowi, reumatyzm, otyłość, przemiana materii, poprawia pracę nerek, wątroby, serca, nieżyt oskrzeli.<br>Zewnętrznie - rany, odmrożenia, zapalenie powiek, miejscowe odbarwienie skóry. |
+| **Szpinak**<br>(Spinacia oleracea) | Na użytek wewnętrzny - anemia, astenia fizyczna i nerwowa, krzywica, szkorbut, łuszczyca, pęcherzyca, nowotwory, wyrzuty skórne, rekonwalescencja, starzenie się, stwardnienie rozsiane.<br>Na użytek zewnętrzny - oparzenia, liszaje, rany, wyrzuty skórne, łuszczyca, pęcherzyca. |
+| **Ziemniak**<br>(Solanum tuberosum) | Sprzyja pracy jelit, jest przeciwrzodowy, ma właściwości gojące, działa zmiękczająco, uspokaja śluzówkę przewodu pokarmowego, działa przeciwskurczowo i moczopędnie, wzmacnia naczynia włosowate, działa przeciwnowotworowo, hamuje rozwój grzybów i bakterii, działa korzystnie na nerki rozpuszczając kamienie, działa przeciwszkorbutowo, leczy egzemę i inne choroby skórne, przeciwdziała rozszerzaniu się naczyń krwionośnych, mąka ziemniaczana jest dobrym pudrem na oparzenia słoneczne, a dodana do kąpieli leczy świąd i wysypki, świeży sok z surowego ziemniaka leczy przewlekłą nadkwasotę, zaparcia, cuchnięcie z ust i niedomogi wątroby, odwar z ziemniaków może być stosowany do leczniczych lewatyw odżywczych, dr Kneipp zaleca stosowanie papki z ziemniaków jako okładów do usmierzania bólów, skurczów w przewodzie pokarmowym, przy opuchliznach, odwodnieniach, zwichnięciach, zapaleniach, osłabieniu gruczołów wydzielania wewnetrznego, katarze dróg oddechowych, nieżycie przewodu pokarmowego, zapaleniu opłucnej, zapaleniu stawów, zapaleniu pochewki ścięgna, zapaleniu przymacicznym (parametrium), przy ischiasie, lumbago, zesztywniającym zapaleniu stawów międzykręgowych, dnie, artretyzmie, czyrakach, zapaleniach skórnych, otyłości.<br>**UWAGA !** Nie spożywać ziemniaków o zielonym kolorze skórki, ani z wyrastającymi kiełkami. Miejsca te należy szeroko i głęboko wykroić i wyrzucić, ponieważ zawierają trujący glikoalkaloid - solaninę. Absolutnie takich ziemniaków nie przyrządzać dla dzieci. Nawet śladowe ilości solaniny mogą zaszkodzić. Wywołują bóle artretyczne, podrażnienia sluzówki, nudności, wymioty, zapalenie nerek, pęcherzyka zółciowego, osłabienie serca, pocenie, lęki, palą w gardle. |
 
 **Zapomniane warzywa**
 
   
 
-**Jarmuż**  
-(Brassica oleracea  
-var. acephala)
-
-Dwuletnia roślina warzywna, traktowana jako odmiana kapusty bezgłowej, znana w starożytności. Wysoka na 10-150 cm, liście duże pierzastozielone, zmarszczone, fryzowane, nie tworzą główki - stanowią część jadalną (przyrządzaną jak szpinak). Świeży zawiera witaminy - C, A, B1, B2, PP oraz znaczne ilości białek i awiązków mieneralnych. Jest bardzo odporna na mróz. Wysiany w maju i uprawiany z rozsady wysadzanej w lipcu, używany jest w ciągu zimy i wczesną wiosną (nie wymaga przykrycia). Bardzo ceniony w Europie zachodniej.
-
-**Pasternak**  
-(Pastinaca sativa)
-
-"Figa z makiem, z pasternakiem" mówiło się kiedyś o czymś, co było raczej nieosiągalne. Pasternak w Polsce był powszechnie uprawiany (spożywany na równi z kaszami) jeszcze za Jagiellonów i został wyparty przez ziemniaka. Jest mało wymagający w uprawie. Początkowo rośnie wolno, ale potem nie wymaga pielęgnacji, gdyż zagłusza wszelkie chwasty. Jest odporny na szkodniki i choroby. Stonka go nie lubi. Nie wymaga oprysków i jest odporny na warunki pogodowe, a także na mróz. Jeśli ziemia nie zamarznie można go zbierać zimą. Nie jest kruchy, więc można go zbierać mechanicznie. Zakopcowany jak marchew wytrzymuje nawet do kwietnia. Może także zimować w glebie.  
-Ma dużą wartość odżywczą, jest bogaty w potas, fosfor, wapń i żelazo, zawiera witaminy A, B1, B2, B6, C, PP i jest wyraźnie zasadotwórczy. Zawiera 80% wody oraz mało białka i tłuszczu. Posiada właściwości moczopędne, odtruwające, antyreumatyczne i ogólnie poprawiające zdrowie. Leczy nerki, i pęcherz.  
-Spożywa się go w formie zup, surówek, sałatek, smażonych placków, a nawet jak szparagi (z wody). Przepisy na przygotowanie potraw z pasternaku znajdziesz w "Nietypowych przepisach". Do uprawy używa się odmiany "półdługi biały", okres wegetacji 180-210 dni, wydajność 300-400 q/ha, znosi dobrze transport nawet do 7 dni
-
-**Rzepa**  
-(Brassica campestris)
-
-Bardzo bliska krewna kapusty, zwana też kapustą polną. Warzywo bardzo popularne wśród Słowian i cenione do tego stopnia, że płacono nim daniny. Dzisiaj rzepa jest symbolem ale też i ubóstwa. Jakość rzepy zależy od gleby. Na glebach urodzajnych rzepa jest delikatnym i soczystym warzywem.  
-Rzepa jest małokaloryczna i zawiera w sobie witaminę C, B1, B2, PP i A. Z mikropierwiatków posiada wapń, fosfor, żelazo, potas, magnez siarkę i jod. Ma w sobie ponad 7% cukru. Działa wzmacniająco i moczopędnie. Leczyć można nią wrzody, ropnie i trądziki. W tym celu gotuje się ją całą do miękkości, przecina na pół i przestudzona pociera się chore miejsca. Przy zaziębieniach, katarze czy anginie pijemy syrop z rzepy. Wydrąża się ja w środku, nasypuje cukru i po paru godzinach mamy syrop.  
-Kto ma w domu stonogi, to nie ma lepszej łapki na te robactwo. Rzepę należy przeciąć, lekko zmiażdżyć i pozostawić do zagnieżdżenia się stonóg. Potem już całość zatopić we wrzącej wodzie i wyrzucić.
-
-**Rzeżucha**  
-(Cardamine)
-
-Rzeżuchę znamy przede wszystkim jako zieloną ozdobę do baranka wielkanocnego i... nic więcej. Już Persowie przed wyprawami spożywali duże jej ilości z chlebem, król francuski Ludwik poznał jej orzeźwiające właściwości, gdy zamiast wody podano mu surówkę z rzeżuchy, a medycyna ludowa uważa, że pobudza produkcję cebulek włosowych.  
-Rzeżucha jest jarzyną najbogatszą w jod łatwo przyswajalny przez organizm. Zawiera dużo żelaza, siarki i wapnia oraz witaminy C, A, B2, PP i E. Działa dezynfekująco zarówno w jamie ustnej jak i w przewodzie pokarmowym. Jest moczopędna i jadana w nadmiarze może doprowadzić u niektórych osób do zapalenia pęcherza moczowego. Rzeżucha jest polecana na dolegliwości tarczycy, kobietom w ciąży i karmiącym, chorym na cukrzycę, palaczom (na uporczywy kaszel). Pomaga w leczeniu wysypek i egzem. Poprawia wygląd cery, paznokci i włosów. Sok z rzeżuchy (zewnętrznie stosowany) rozjaśnia cerę, usuwa piegi i starcze plamy pigmentowe. Stwierdzono, że ci, co jadają rzeżuchę to bardzo trudno im... wyłysieć.  
-Rzeżucha jest doskonała do kanapek i nie trzeba ich solić, bo ona sama jest pikantna. Jak siać rzeżuchę? Kupić nasionka, wsypać je do szklanki, zalać obficie wodą i gdy powstanie papka, należy ją rozsmarować na ligninie rozłożonej na tacy. Lignina nie może pływać w wodzie, ale musi być stale wilgotna. Kiedy rzeżucha wyrośnie na 5-7 cm należy ściąć ją nożyczkami tuż nad ligniną, posiekać i zjeść. Jest pikantna, ma ostry smak i zapach. Jeść należy po kilka łyżeczek dziennie samą lub na kanapkach.
+| **Jarmuż**<br>(Brassica oleracea<br>var. acephala) | Dwuletnia roślina warzywna, traktowana jako odmiana kapusty bezgłowej, znana w starożytności. Wysoka na 10-150 cm, liście duże pierzastozielone, zmarszczone, fryzowane, nie tworzą główki - stanowią część jadalną (przyrządzaną jak szpinak). Świeży zawiera witaminy - C, A, B1, B2, PP oraz znaczne ilości białek i awiązków mieneralnych. Jest bardzo odporna na mróz. Wysiany w maju i uprawiany z rozsady wysadzanej w lipcu, używany jest w ciągu zimy i wczesną wiosną (nie wymaga przykrycia). Bardzo ceniony w Europie zachodniej. |
+| --- | --- |
+| **Pasternak**<br>(Pastinaca sativa) | "Figa z makiem, z pasternakiem" mówiło się kiedyś o czymś, co było raczej nieosiągalne. Pasternak w Polsce był powszechnie uprawiany (spożywany na równi z kaszami) jeszcze za Jagiellonów i został wyparty przez ziemniaka. Jest mało wymagający w uprawie. Początkowo rośnie wolno, ale potem nie wymaga pielęgnacji, gdyż zagłusza wszelkie chwasty. Jest odporny na szkodniki i choroby. Stonka go nie lubi. Nie wymaga oprysków i jest odporny na warunki pogodowe, a także na mróz. Jeśli ziemia nie zamarznie można go zbierać zimą. Nie jest kruchy, więc można go zbierać mechanicznie. Zakopcowany jak marchew wytrzymuje nawet do kwietnia. Może także zimować w glebie.<br>Ma dużą wartość odżywczą, jest bogaty w potas, fosfor, wapń i żelazo, zawiera witaminy A, B1, B2, B6, C, PP i jest wyraźnie zasadotwórczy. Zawiera 80% wody oraz mało białka i tłuszczu. Posiada właściwości moczopędne, odtruwające, antyreumatyczne i ogólnie poprawiające zdrowie. Leczy nerki, i pęcherz.<br>Spożywa się go w formie zup, surówek, sałatek, smażonych placków, a nawet jak szparagi (z wody). Przepisy na przygotowanie potraw z pasternaku znajdziesz w "Nietypowych przepisach". Do uprawy używa się odmiany "półdługi biały", okres wegetacji 180-210 dni, wydajność 300-400 q/ha, znosi dobrze transport nawet do 7 dni |
+| **Rzepa**<br>(Brassica campestris) | Bardzo bliska krewna kapusty, zwana też kapustą polną. Warzywo bardzo popularne wśród Słowian i cenione do tego stopnia, że płacono nim daniny. Dzisiaj rzepa jest symbolem ale też i ubóstwa. Jakość rzepy zależy od gleby. Na glebach urodzajnych rzepa jest delikatnym i soczystym warzywem.<br>Rzepa jest małokaloryczna i zawiera w sobie witaminę C, B1, B2, PP i A. Z mikropierwiatków posiada wapń, fosfor, żelazo, potas, magnez siarkę i jod. Ma w sobie ponad 7% cukru. Działa wzmacniająco i moczopędnie. Leczyć można nią wrzody, ropnie i trądziki. W tym celu gotuje się ją całą do miękkości, przecina na pół i przestudzona pociera się chore miejsca. Przy zaziębieniach, katarze czy anginie pijemy syrop z rzepy. Wydrąża się ja w środku, nasypuje cukru i po paru godzinach mamy syrop.<br>Kto ma w domu stonogi, to nie ma lepszej łapki na te robactwo. Rzepę należy przeciąć, lekko zmiażdżyć i pozostawić do zagnieżdżenia się stonóg. Potem już całość zatopić we wrzącej wodzie i wyrzucić. |
+| **Rzeżucha**<br>(Cardamine) | Rzeżuchę znamy przede wszystkim jako zieloną ozdobę do baranka wielkanocnego i... nic więcej. Już Persowie przed wyprawami spożywali duże jej ilości z chlebem, król francuski Ludwik poznał jej orzeźwiające właściwości, gdy zamiast wody podano mu surówkę z rzeżuchy, a medycyna ludowa uważa, że pobudza produkcję cebulek włosowych.<br>Rzeżucha jest jarzyną najbogatszą w jod łatwo przyswajalny przez organizm. Zawiera dużo żelaza, siarki i wapnia oraz witaminy C, A, B2, PP i E. Działa dezynfekująco zarówno w jamie ustnej jak i w przewodzie pokarmowym. Jest moczopędna i jadana w nadmiarze może doprowadzić u niektórych osób do zapalenia pęcherza moczowego. Rzeżucha jest polecana na dolegliwości tarczycy, kobietom w ciąży i karmiącym, chorym na cukrzycę, palaczom (na uporczywy kaszel). Pomaga w leczeniu wysypek i egzem. Poprawia wygląd cery, paznokci i włosów. Sok z rzeżuchy (zewnętrznie stosowany) rozjaśnia cerę, usuwa piegi i starcze plamy pigmentowe. Stwierdzono, że ci, co jadają rzeżuchę to bardzo trudno im... wyłysieć.<br>Rzeżucha jest doskonała do kanapek i nie trzeba ich solić, bo ona sama jest pikantna. Jak siać rzeżuchę? Kupić nasionka, wsypać je do szklanki, zalać obficie wodą i gdy powstanie papka, należy ją rozsmarować na ligninie rozłożonej na tacy. Lignina nie może pływać w wodzie, ale musi być stale wilgotna. Kiedy rzeżucha wyrośnie na 5-7 cm należy ściąć ją nożyczkami tuż nad ligniną, posiekać i zjeść. Jest pikantna, ma ostry smak i zapach. Jeść należy po kilka łyżeczek dziennie samą lub na kanapkach. |
 
 **Owoce**
 
   
 
-**Agrest**  
-(Grossularia reclinata)
-
-W leczeniu pod postacią soku stosowany przy artretyzmie, gośćcu, reumatyzmie, braku łaknienia, demineralizacji, dolegliwościach gorączkowych, nadmiernym ukrwieniu, przewlekłych schorzeniach wątrobowych, zapaleniu przewodu pokarmowego, zapalenia układu moczowego, zaparciach, otyłości, niedokrwistości, chorobach skórnych, dolegliwościach płucnych, stanach zapalnych jamy ustnej i gardła.
-
-**Cytryna**  
-(Citrus limon)
-
-Na użytek wewnętrzny - różne infekvje płucne i jelitowe, stany gorączkowe, malaria, astenia (osłabienie), brak łaknienia, puchlina brzuszna, wodobrzusze, artretyzm, reumatyzm, dna, kamica nerkowa i żółciowa, nadkwasota żołądkowa, wrzód żołądka, niestrawność, połykanie powietrza, szkorbut, miażdżyca naczyń, żylaki, zapalenia żył, łamliwość włośniczek, przekrwienie, nadmierna lepkość krwi, otyłość nadcisnienie, demineralizacja, anemia, żółtaczka, , wymioty, niedomogi wątroby i trzustki, przekrwienie wątroby, hemofilia, krwotoki, krwiomocz, wzdęcie jelitowe, czerwonka, biegunka, pasożyty wewnetrzne, astma, zapalenie oskrzeli, grypa, starzenie się, uporczywe bóle głowy.  
-Na użytek zewnętrzny - ostry katar i niezyt nosa, krwawienie z nosa, zapalenie zatok przynosowych, ucha, jamy ustnej i języka, angina, wykwity śluzówki w jamie ustnej, zapalenie powiek, wysypka, wykwit, rumień, czyraki, liszaje, migrena, brodawki, opryszczka, odmroziny, rany zakażone i gnijące, ukąszenia owadów, grzybica woszczynowa, świerzb, łojotok fizjologiczny twarzy, plamy, piegi, łamliwe paznokcie.
-
-**Czereśnia**  
-(Cerasus avium)
-
-Pomocna w leczeniu artretyzmu, cukrzycy, demineralizacji, dolegliwości pęcherza moczowego, gośćcu, dolegliwościach serca, kamieniach moczowych i żółciowych, nadfementacji jelitowej, przekrwieniu, miażdżycy, otyłości, przewlekłych schorzeniach wątroby, reumatyzmie, zaparciach, stałym uczuciu zmeczenia.
-
-**Jabłoń**  
-(Malus domestica)
-
-Wskazania lecznicze - anemia, artretyzm, bezsenność, bóle żołądka z obrzekiem jego błony śluzowej na tle artretycznym, dna, dolegliwości oskrzeli, infekcje jelitowe, miażdżyca, nadciśnienie tętnicze, przekrwienie, niedobór minerałów, nerwowość, opryszczka, osłabienie fizyczne i umysłowe, otyłość, przemęczenie, reumatyzm, rozwolnienie, przewlekłe schorzenia wątroby, schorzenia mięśnia sercowego, skapomocz, stany gorączkowe, uporczywy ból głowy, zaparcia, zawały. Nieocenione usługi w medycynie ludowej oddaje ocet jabłkowy.
-
-**Malina**  
-(Rubus idaeus)
-
-Zawiera kwas acetylosalicylowy (aspiryna) oraz witaminy A, C, K, E, z grupy B, a także sole mineralne żelaza, wapnia, potasu. Maliny przyspieszają krążenie krwi, zmniejszają obrzęki, pomagają przy bólach głowy, oczyszczają i rozrzedzają krew. Opisane właściwości mają nie tylko owoce, ale także liście i gałązki. Działa napotnie, moczopędnie, antyseptyczne, ogólniewzmacniająco, witaminizująco, przeciwbólowo, przeciwnowotworowo.
-
-**Porzeczka czarna**  
-(Ribes nigrum)
-
-Wskazania lecznicze - angina, artretyzm, reumatyzm, gościec, biegunka, dolegliwości wątroby, szkorbut, zmęczenie ogólne, kamica moczowa, zatrzymanie moczu, miażdżyca, migrena, nerwica żołądka, niedokrwistość, nieżyty dróg trawiennych, przyzębica, skaza krwotoczna, zaćma soczewkowa, zła krzepliwość krwi, żółtaczka, wypadanie włosów i zębów, złe trawienie, niedomoga nerek, zapalenie gruczołu krokowego, nadmiar kwasu moczowego, infekcje bakteryjne, osłabienie ogólne, zatrucia. Używamy owocu i liści.
-
-**Porzeczka czerwona**  
-(Ribes rubrum)
-
-Wskazania lecznicze - artretyzm, reumatyzm, gościec, puchlina wodna, brak łaknienia, dolegliwości gorączkowe, kamienie moczowe, niewydolność wątrobowa, przewlekłe schorzenia wątroby, schorzenia skórne, zapalenie wątrobowe, dróg moczowych, dróg trawiennych, zaparcia, miażdżyca naczyń, niezyt pęcherza, kolki, migreny, dolegliwości serca.
-
-**Truskawka**  
-(Fragaria ananasa)
-
-Surowcem leczniczym są liście i korzenie. Wskazania lecznicze - cysta, dolegliwości wątroby, krwawienia jelitowe, krwotok maciczny, zapalenie jelita cienkiego i okrężnicy, upławy białe, kamica moczowa, kolka nerkowa, reumatyzm, dna, astma, żółtaczka, angina.
+| **Agrest**<br>(Grossularia reclinata) | W leczeniu pod postacią soku stosowany przy artretyzmie, gośćcu, reumatyzmie, braku łaknienia, demineralizacji, dolegliwościach gorączkowych, nadmiernym ukrwieniu, przewlekłych schorzeniach wątrobowych, zapaleniu przewodu pokarmowego, zapalenia układu moczowego, zaparciach, otyłości, niedokrwistości, chorobach skórnych, dolegliwościach płucnych, stanach zapalnych jamy ustnej i gardła. |
+| --- | --- |
+| **Cytryna**<br>(Citrus limon) | Na użytek wewnętrzny - różne infekvje płucne i jelitowe, stany gorączkowe, malaria, astenia (osłabienie), brak łaknienia, puchlina brzuszna, wodobrzusze, artretyzm, reumatyzm, dna, kamica nerkowa i żółciowa, nadkwasota żołądkowa, wrzód żołądka, niestrawność, połykanie powietrza, szkorbut, miażdżyca naczyń, żylaki, zapalenia żył, łamliwość włośniczek, przekrwienie, nadmierna lepkość krwi, otyłość nadcisnienie, demineralizacja, anemia, żółtaczka, , wymioty, niedomogi wątroby i trzustki, przekrwienie wątroby, hemofilia, krwotoki, krwiomocz, wzdęcie jelitowe, czerwonka, biegunka, pasożyty wewnetrzne, astma, zapalenie oskrzeli, grypa, starzenie się, uporczywe bóle głowy.<br>Na użytek zewnętrzny - ostry katar i niezyt nosa, krwawienie z nosa, zapalenie zatok przynosowych, ucha, jamy ustnej i języka, angina, wykwity śluzówki w jamie ustnej, zapalenie powiek, wysypka, wykwit, rumień, czyraki, liszaje, migrena, brodawki, opryszczka, odmroziny, rany zakażone i gnijące, ukąszenia owadów, grzybica woszczynowa, świerzb, łojotok fizjologiczny twarzy, plamy, piegi, łamliwe paznokcie. |
+| **Czereśnia**<br>(Cerasus avium) | Pomocna w leczeniu artretyzmu, cukrzycy, demineralizacji, dolegliwości pęcherza moczowego, gośćcu, dolegliwościach serca, kamieniach moczowych i żółciowych, nadfementacji jelitowej, przekrwieniu, miażdżycy, otyłości, przewlekłych schorzeniach wątroby, reumatyzmie, zaparciach, stałym uczuciu zmeczenia. |
+| **Jabłoń**<br>(Malus domestica) | Wskazania lecznicze - anemia, artretyzm, bezsenność, bóle żołądka z obrzekiem jego błony śluzowej na tle artretycznym, dna, dolegliwości oskrzeli, infekcje jelitowe, miażdżyca, nadciśnienie tętnicze, przekrwienie, niedobór minerałów, nerwowość, opryszczka, osłabienie fizyczne i umysłowe, otyłość, przemęczenie, reumatyzm, rozwolnienie, przewlekłe schorzenia wątroby, schorzenia mięśnia sercowego, skapomocz, stany gorączkowe, uporczywy ból głowy, zaparcia, zawały. Nieocenione usługi w medycynie ludowej oddaje ocet jabłkowy. |
+| **Malina**<br>(Rubus idaeus) | Zawiera kwas acetylosalicylowy (aspiryna) oraz witaminy A, C, K, E, z grupy B, a także sole mineralne żelaza, wapnia, potasu. Maliny przyspieszają krążenie krwi, zmniejszają obrzęki, pomagają przy bólach głowy, oczyszczają i rozrzedzają krew. Opisane właściwości mają nie tylko owoce, ale także liście i gałązki. Działa napotnie, moczopędnie, antyseptyczne, ogólniewzmacniająco, witaminizująco, przeciwbólowo, przeciwnowotworowo. |
+| **Porzeczka czarna**<br>(Ribes nigrum) | Wskazania lecznicze - angina, artretyzm, reumatyzm, gościec, biegunka, dolegliwości wątroby, szkorbut, zmęczenie ogólne, kamica moczowa, zatrzymanie moczu, miażdżyca, migrena, nerwica żołądka, niedokrwistość, nieżyty dróg trawiennych, przyzębica, skaza krwotoczna, zaćma soczewkowa, zła krzepliwość krwi, żółtaczka, wypadanie włosów i zębów, złe trawienie, niedomoga nerek, zapalenie gruczołu krokowego, nadmiar kwasu moczowego, infekcje bakteryjne, osłabienie ogólne, zatrucia. Używamy owocu i liści. |
+| **Porzeczka czerwona**<br>(Ribes rubrum) | Wskazania lecznicze - artretyzm, reumatyzm, gościec, puchlina wodna, brak łaknienia, dolegliwości gorączkowe, kamienie moczowe, niewydolność wątrobowa, przewlekłe schorzenia wątroby, schorzenia skórne, zapalenie wątrobowe, dróg moczowych, dróg trawiennych, zaparcia, miażdżyca naczyń, niezyt pęcherza, kolki, migreny, dolegliwości serca. |
+| **Truskawka**<br>(Fragaria ananasa) | Surowcem leczniczym są liście i korzenie. Wskazania lecznicze - cysta, dolegliwości wątroby, krwawienia jelitowe, krwotok maciczny, zapalenie jelita cienkiego i okrężnicy, upławy białe, kamica moczowa, kolka nerkowa, reumatyzm, dna, astma, żółtaczka, angina. |
 
 [obraz]
 
@@ -4196,234 +1858,46 @@ Ziołolecznictwo - Witold Poprzędzki
 
 Poniżej zioła i wskazania lecznicze. Poniższy wykaz nie upoważnia do eksperymentowania w zakresie ich przyrządzania. Recepty na przyrządzanie ziół proszę konsultować z uprawnionymi zielarzami i lekarzami znającymi się na ziołach (są jeszcze tacy). Powszechne przekonanie o nieszkodliwości ziół jest nieprawdziwe. Nie każde zioło można stosować bez umiaru, a przedawkowanie niektórych może mieć nieobliczalne skutki. Proszę o tym pamiętać.
 
-**Aloes**  
-(Aloe arborescens)
-
-Na użytek wewnętrzny - niedomogi miesiączkowania, zapalenie kory mózgowej, dychawica oskrzelowa, podostry i przewlekły nieżyt jelita grubego, stany zapalne i zwyrodnienie rogówki i siatkówki, uporczywe bóle głowy, nerwobóle, wyczerpanie nerwowe, zanik nerwu wzrokowego, zmętnienie rogówki, stany zapalne przewodu pokarmowego, choroba wrzodowa, zanikowy nieżyt błony śluzowej żołądka, owrzodzenie odbytnicy i okrężnicy, zaparcia.  
-Na użytek zewnętrzny - blizny, odmroziny, uszkodzenia naskórka, owrzodzenia podudzia, nieżyt nosa, zapalenie zatok bocznych nosa, owrzodzenie, pęknięcia skóry, wysypki alergiczne i ropne, żle gojące się rany, oparzenia termiczne i promieniami rentgenowskimi, ukłucia owadów, zapalenie śuzówki jamy ustnej, paradentoza, zapalenie sromu i pochwy.  
-**Przeciwwskazania** - krwotok macicy, menstruacja, dolegliwości maciczne, różne krwotoki, powiększona prostata, zapalenie pęcherza moczowego, dyzenteria, zapalenie okrężnicy, zapalenie trzewi, niepełny skurcz serca, wiek dziecięcy, ostre lub podostre zapalenie wyrostka robaczkowego kłębuszków nerwowych, zaawansowana ciąża (od 7 miesiąca), po operacji przewodu pokarmowego, żylaki odbytu, ciężka niedomoga serca i naczyń krwionośnych, nadciśnienie.  
-**Skutki uboczne** - możliwość poronienia lub wczesnego porodu, niebezpieczne użycie w przypadku przekrwienia okrężnicy i narządów miednicy mniejszej. Przy dużych dawkach - osłabienie, spowolnienie pulsu, obniżenie temperatury ciała. Śmierć przy 8 g proszku. Antagoniści - narkotyki i kwasy. Niezgodność - garbniki, żelazo, jod, mentol, tymol, fenol.
-
-**Arcydzięgiel litwor**  
-(Archangelica officinalis)
-
-Na użytek wewnętrzny - anemia, blednica, astma nerwicowa, bronchit chroniczny, bóle i zaburzenia menstruacyjne, białe upławy, kurcze żołądka i jelit, gruźlica, migreny nerwicowe, nadkwasota, niewydolność i niedomoga wątroby, nieżyt jelit, niemoc seksualna, osłabienie ogólne, osłabienie trawienia, połykanie powietrza, spazmatyczne wymioty, wzdęcia, obrzęk stawów, szkorbut, zawroty głowy, omdlenia, zapalenie skóry, zapalenie pęcherzyka żółciowego i dróg żółciowych, przewodu trzustkowego, stres, zaparcia.  
-Na użytek zewnętrzny - wcierania przeciwbólowe, przeciwzapalne, przeciwświądowe, dolegliwości jamy ustnej, bóle reumatyczne, stłuczenia.
-
-**Arnika górska**  
-(Arnica montana)
-
-Na użytek wewnętrzny - koklusz u dorosłych, niektóre paraliże, spadek ciśnienia krwi, obniżenie czynności serca, duszności, zaburzenia krążenia wieńcowego i mózgowego, skłonności do żylaków, osłabienie serca, stany zapalne i zakrzepowe naczyń krwionosnych w dolnych kończynach.  
-Na użytek zewnętrzny - wzmacnianie ścian naczyń włosowatych, zapobieganie przenikaniu osocza, resorpcja płynu wysiekowego, zmniejszanie obrzęków i powodowanych przez nie bólów.  
-**Przeciwwskazania** - Zbyt duże dawki - bóle głowy, brzucha, wymioty, biegunka, osłabienie pracy serca, oddechu, zwężenie źrenic, zawroty głowy, drgawki nerwowe. Nie przyjmować w stanach zapalnych żołądka i jelit, krwawieniach w przewodzie pokarmowym, po zawale, leczeniu strofantyną i glikozydami naparstnicy. W stosowaniu zewnętrznym nie stosować na otwarte rany, oparzenia III stopnia, rozległe otarcia naskórka i ostre stany zapalne skóry.
-
-**Babka wąskolistna**  
-(Plantago laceolata)
-
-Na użytek wewnętrzny - biegunka, dyzenteria, białe upławy, krwotok (w tym maciczny), krwioplucie, gruźlica, chroniczne zapalenie oskrzeli, ogólne osłabienie, utrata wagi, opóźnienia rozwojowe u dzieci, zapalenie gardła i angina, zapalenie krtani, stany zapalne nerek, gorączka, nieżyt dróg oddechowych i zaflegmienie gardła, astma, koklusz, zaburzenia trawienne, uszkodzenie śluzówki żołądka, bezkwaśność żołądka i dwunastnicy, endogenne toksyny bakteryjne.  
-Na użytek zewnętrzny - uszkodzenia skóry wszelkiego pochodzenia, stany zapalne i świąd sromu, zapalenie spojówek i powiek, ukąszenia owadów i żmiji, zapalenie dziąseł, liszajec, dermatozy strupiaste, świerzb, wrzody na nogach.
-
-**Bez czarny**  
-(Sambucus nigra)
-
-Na użytek wewnętrzny - zaparcia, nerwobóle, reumatyzm, gościec, nadmiar wody w organizmie, epilepsja samoistna, zapalenie oskrzeli, gorączka z wysypką, puchlina wodna i brzuszna, zapalenie nerek, wrzody żołądka i dwunastnicy, moczenie nocne u dzieci, przewlekły nieżyt dróg oddechowych, uporczywy kaszel.  
-Na użytek zewnętrzny - łagodzące okłady i ciepłe kąpiele na odmroziny, obmywanie oczu przy egzemie powiek.  
-**Uwaga!** - istnieje groźba przedawkowania.
-
-**Bobrek trójlistny**  
-(Menyanthes trifoliata)
-
-Anemia, brak apetytu, dermatozy, gorączka naprzemienna, niestrawność, krzywica, szkorbut, dna, reumatyzm, migreny po posiłkach, nieregularne menstruacje, pasożyty jelitowe, osłabienie ogólne.
-
-**Bukwica**  
-(Betonica officinalis)
-
-Na użytek wewnętrzny - astma, bóle głowy, bezsenność, biegunka krwawa, artretyzm, reumatyzm, gościec stawowy przewlekły, dolegliwości płucne, ischias, krwioplucie, nieżyt zołądka i jelit, skąpe wydzielanie soku żołądkowego, migreny, osłabienie nerwowe, padaczka, paraliż połowiczny, zawroty głowy, żółtaczka, zaflegmienie dróg oddechowych.  
-Na użytek zewnętrzny - rany zakażone bakteriami ropotwórczymi i grzybkami, owrzodzenie skóry nóg, guzy twarde przechodzące w tkankę nowotworową.
-
-**Brzoza**  
-(Betula verrucosa)  
-(Betula pubescens)
-
-Na użytek wewnętrzny - obrzęk sercowo-nerkowy, skapomocz, zawroty głowy na tle nadmiaru związków azotowych we krwi, bóle głowy, reumatyzm, nadmiar kwasu moczowego, bóle nerkowe, puchlina wodna, otyłość, przekrwienie ogólne, kamica moczowa, artretyzm, białkomocz, nadcisnienie, pasożyty jelitowe, miażdżyca.  
-Na użytek zewnętrzny - choroby skórne, zapalenie węzłów chłonnych, rany.
-
-**Czyr brzozowy**  
-(Innotus obliquus)
-
-Wrzody i nieżyty zołądka, guzy błony śluzowej jamy ustnej, białaczka, zahamowanie chorób nowotworowych i zmniejszanie skłonności do przerzutów (rak żołądka i płuc).
-
-**Cząber ogrodowy**  
-(Satureja hortensis)
-
-Na użytek wewnętrzny - astenia, astma, biegunka przewlekła, blednica, bóle gastryczne, glista ludzka, kurcze jelitowe, nadfermentacja jelitowa, niedokwaśność soku żołądkowego, nieżyt przewodu pokarmowego, nerwice żołądka, nerwice ogólne, osłabienie ogólne, pasożyty jelitowe, zapalenie oskrzeli, wzdęcia.  
-Na użytek zewnętrzny - czyraki, guzy, osłabienie słuchu, rany, stłuczenia, ukąszenia owadów, wrzody.
-
-**Chmiel zwyczajny**  
-(Humulus lupulus)
-
-Na użytek wewnętrzny - działanie oczyszczające, moczopędne, pobudzające łaknienie, przeciwszkorbutowe, przeciwgorączkowe, przeciwrobacze, nasenne, wspomagające porost włosów, wskazany przy niedokwaśności, nadmiernej fermentacji jelitowej, wzdęciach, odbijaniu, koi układ nerwowy, zapobiega noznym zmazom.  
-Na użytek zewnętrzny - łagodzi bóle.
-
-**Dziurawiec zwyczajny**  
-(Hypericum perforatum)
-
-Na użytek wewnętrzny - działanie atyseptyczne, hamuje wzrost gronkowca złocistego i innych Gram-dodatnich, ściagające, przeciw nadkwaśne, przeciwskurczowe, moczopędne, balsamiczne, przeciwgorączkowe, robakobójcze, przeciwdepresyjne, przeciw nadcisnieniowe, pobudza łaknienie, poprawia trawienie.  
-Na użytek zewnętrzny - leczenie ropni, zakażonych ran, oparzeń II i III stopnia, wrzodów, ropnych zapaleń, zakażeń skóry, zapaleń sutka, ostrego nieżytu nosa, zapaleń gardła, owrzodzenia żylakowego, bielactwa. Działa napotnie i ściagająco.  
-**Uwaga!** - po użyciu absolutnie nie przebywać na słońcu. Grozi ciężkim udarem.
-
-**Głóg dwuszyjkowy**  
-(Cartaegus oxyacantha)
-
-Biegunka, bóle serca, bezsenność, częstoskurcz i arytmia serca, dusznica bolesna, kamica nerkowa i żółciowa, kołatanie serca, kurcze naczyniowe, miażdżyca, nadciśnienie tętnicze, nadmierna pobudliwość, niestrawność, przekrwienie narządów, zawroty głowy na tle nerwicy, szum w uszach, niepokoje.
-
-**Jałowiec pospolity**  
-(Juniperus communis)
-
-Na użytek wewnętrzny - artretyzm, białkomocz, bolesne menstruacje, cukrzyca, dna, dolegliwości dróg moczowych, kamienie moczowe, nadfermentacja jelitowa, puchlina wodna, reumatyzm, skapomocz, stwardnienie tętnic, zmęczenie ogólne i organiczne, upławy białe, nadczynność tarczycy.  
-Na użytek zewnętrzny - dermatozy, bóle zębowe, rany, owrzodzenia, trądzik, wyprysk moknący, nastepstwa paraliżu, dezynfekcja mieszkania.
-
-**Jemioła**  
-(Viscum album)
-
-Obniża ciśnienie, działanie przeciwskurczowe i przeciwkrwotoczne, wczesne stadium choroby nadcisnieniowej, miażdżyca, zaburzenia układu krążenia, krwawienia miesięczne.  
-**Uwaga!** - stosować tylko z przepisu i pod kontrolą lekarza.
-
-**Kasztanowiec zwyczajny**  
-(Aesculus hippocastanum)
-
-Hemoroidy, klimakterium, stany zapalne wątroby, gruczołu krokowego, miednicy mniejszej, żylaki nóg, żylak powrózka nasiennego, odmroziny, oparzenia, obrzęki skóry, obrzęki głośni, płuc, krwiaki, zapalenie ścięgna, zakrzepowe zapalenie żył.
-
-**Kminek**  
-(Carum carvi)
-
-Na użytek wewnętrzny - bóle brzucha, brak apetytu, słaba laktacja, skąpa menstruacja, nadfermentacja, nadmierna wrażliwość na środki pobudzające pracę serca i naczyń krwionośnych, niedomogi wątroby, niestrawność, zaburzenia trawienia, pasożyty jelitowe, skurcze żołądka, wrzody żołądka i dwunastnicy, wzdęcia brzucha, zaflegmienie górnych dróg oddechowych, zapalenie oskrzeli i płuc, zaparcia, sensacje żołądkowo-jelitowe, niewydolność pęcherzyka żółciowego.  
-Na użytek zewnętrzny - osłabienie słuchu, pasożyty, świerzb, wypryski skórne i zastoinowe, zapalenie sutka.
-
-**Kozłek lekarski**  
-(Valeriana officinalis)
-
-Astma nerwicowa, bezsenność, częstoskurcz napadowy, zaburzenia czynnościowe, przyspieszone bicie serca na tle nerwowym, bóle głowy, pulsowanie w skroniach, zaburzenia naczyniowo-ruchowe, zawroty głowy, napady padaczkowe częściowe, upośledzenie mowy, wzroku, słuchu, nerwice wegetatywne, przekwitanie, owsiki, niepokój, nadpobudliwość psychiczna i czuciowa, konwulsje dziecęce, neurastenia, histeria, przekrwienie czynne, epilepsja, nadfermentacja jelitowa, omdlenia, wzdęcia, kolka jelitowa, pokrzywka, złe wydzielanie żółci i soku trzustkowego, cukrzyca, dychawica sercowa, świerzb, wyrzuty skórne, zaburzenia układu krążenia, migrena.
-
-**Krwawnik pospolity**  
-(Achillea millefolium)
-
-Na użytek wewnętrzny - działanie gorzkie i ściągajace, żółciopędne, moczopędne, robakobójcze, wykrztusne, przeciwzapalne, pobudza czynności żołądka, poprawia przemianę materii, hamuje krwawienia.  
-Na użytek zewnętrzny - upławy, hemoroidy, bóle reumatyczne, zapalenie skóry i śluzówek, dermatozy, owrzodzenia goleni, pęknięcia sutka, przetoki, rany. Środek dezynfekujący, gojący i przeciwzapalny.
-
-**Lawenda lekarska**  
-(Lavandula officinalis)
-
-Na użytek wewnętrzny - astma, bezsenność, biegunka, blednica, choroby infekcyjne, depresja, dolegliwości dróg oddechowych, gruźlica, drgawki, dur, gorączka z wysypkami na twarzy, grypa, histeria, kaszel napadowy, migreny, nadciśnienie, nadmierna pobudliwość, pozostałość po paraliżu, pasożyty jelitowe, bolesne i skąpe miesiączkowanie, reumatyzm, robaki, skapomocz, rzeżączka, gruźlica węzłów chłonnych, skurcze mięśni, wątłość dziecięca, upławy białe, zapalenie oskrzeli, zawroty głowy, zwiotczenie żołądka i jelit, wzdęcia jelitowe, zapalenie pęcherza moczowego, zmniejszenie łaknienia, nerwice wegetatywne, pobudzenie nerwowe.  
-Na użytek zewnętrzny - rany, wrzody na nogach, przetoka odbytu, kroczowa, egzemy, upławy białe, oparzenia, dolegliwości płucne, trądzik, ukąszenia owadów, ugryzienia zwierząt, wszawica, świerzb, łysienie, przewlekłe bóle mięśniowe i stawowe, zapalenie korzonków nerwowych, nieżyt jamy ustnej, gardła, oskrzeli i przewodów nosowych.
-
-**Lipa szerokolistna**  
-(Tilia platyphyllos)
-
-Skurcze, niestrawność, bezsenność, nerwice, histeria, miażdżyca, infekcje dróg oddechowych, gorączka nosa, gardła.
-
-**Macierzanka piaskowa**  
-(Thymus serpyllum)
-
-Działanie wykrztusne, dezynfekcyjne, ściagające, przeciwzapalne. Pobudza serce i nerwy (neurastenia). Stosowana w suchym kaszlu, blednicy, niedokrwistości, puchlinie wodnej, chorobach pęcherza moczowego, nieżycie żołądka, nieżycie dróg oddechowych, kurczach jelitowych, niedomodze wątroby, biegunkach, wzdęciach, niedokwaśności.
-
-**Majeranek ogrodowy**  
-(Origanum majorana)
-
-Na użytek wewnętrzny - astma, bezsenność, migrena, kurcze mimiczne, kurcze dróg oddechowych, kurcze trawienne, leki, obawy, neurastenia, niezrównoważenie psychiczne, nieżyt żołądka i jelit, paraliż, zapalenie tętnic, zapalenie przewodów nosowych, niedrożność nosa przy oddychaniu.  
-Na użytek zewnętrzny - brak sił, nerwobóle reumatyczne, wątłość, ogólne osłabienie, wycieńczenie, przewlekły katar nosa, przewlekłe zapalenie zatok bocznych nosa.
-
-**Melisa lekarska**  
-(Melissa officinalis)
-
-Na użytek wewnętrzny - migrena wywołana złym trawieniem, nerwobóle twarzy, zębów, ucha, głowy, astma, niedokrwistość, nadmierne bicie serca, bóle serca, drgawki dziecięce, epilepsja, napady nerwowe, pobudliwość, choroby żołądka, omdlenie, zawroty głowy, szum w uszach, anemia, menstruacja bolesna, niestrawność, zaniki pamięci, malancholia, depresja, skurcze, spazmy, bezsenność, uczucie niepokoju, stany zapalne dróg żółciowych i trzyxtki, kolka jelitowa, nadmierne fermentacje i wzdęcia.  
-Na użytek zewnętrzny - ukąszenia owadów, urazy, wrzody, bóle gośćcowe i reumatyczne, rany.
-
-**Mięta pieprzowa**  
-(Mentha piperita)
-
-Na użytek wewnętrzny - bóle brzucha, wzdęcia, brak łaknienia, kolka jelitowa, zapalenie pęcherzyka żółciowego i dróg żółciowych, lekka niewydolność wątroby, kamica żółciowa, żółtaczka, skurcz mięśni jelit i przewodów żółciowych, wymioty, biegunka, opuchlizna, zaburzenia miesiączkowania, nerwice wegetatywne.  
-Na użytek zewnętrzny - nieżyt nosa i obrzęk błony sluzowej, bóle nerwowe, migrenowe, odkażanie i odświeżanie jamy ustnej, nieżyt gardła i oskrzeli, bóle neuralgiczne i mięśniowe, świąd, nieżyt jamy ustnej i oskrzeli.
-
-**Mniszek lekarski**  
-(Taraxacum officinale)
-
-Na użytek wewnętrzny - anemia, astenia, azotermia, dermatoza u wątrobowców, kamica żółciowa i nerkowa, atonia mięśni gładkich, skurcze przewodów żółciowych, nadmiar cholesterolu, zapalenie dróg żółciowych, zapalenie wątroby, niewydolność i marskość wątroby, niewydolność nerek, mocznik we krwi, otyłość, paradentoza, reumatyzm, gościec, skapomocz, szkorbut, miażdżyca tętnic, zapalenie jelita cienkiego i okrężnicy, obrzeki, zaparcia, nadfermentacja jelitowa, zakłócenia krążenia krwi, sinica, żółtaczka, żylaki goleni.  
-Na użytek zewnętrzny - bielmo rogówki i jej zmętnienie, kurzajki, brodawki, piegi.
-
-**Nagietek**  
-(Calendula officinalis)
-
-Na użytek wewnętrzny - stany lekowe, depresja, bóle miesiączkowe, przekrwienie wątroby, owrzodzenie żołądka i jelit, nerwobóle reumatyczne, bóle szyi, mięśni i pleców.  
-Na użytek zewnętrzny - odmrożenia, oparzenia, uszkodzenia skóry, wrzodzianki, brodawki, stany zapalne gardła, jamy ustnej, spojówek, trądzik, egzemy, opryszczka.
-
-**Perz**  
-(Agropyron repens)
-
-Artretyzm, egzemy, blednica, gościec stawowy, kamica żółciowa i moczowa, hemoroidy, nieżyt dróg oddechowych, niedokrwistość, podwyższony poziom cholesterolu, przekwitanie, przewlekłe schorzenia wątroby, skapomocz, żółtaczka, zapalenie dróg moczowych trawiennych, reumatyzm, niedomogi błon śluzowych, narządów wewnetrznych, naczyń krwionośnych, skóry, tkanki łącznej.
-
-**Piołun pospolity**  
-(Artemisia absynthium)
-
-Na użytek wewnętrzny - anemia, atonia żołądka i jelit, kurcze żołądka, brak apetytu, gorączkowanie, wzdęcia, opóźnienia miesiączkowania, pasożyty jelitowe, upławy białe, zaburzenia wątrobowe, zatrucie bielą ołowiową, bolesne miesiączkowanie, biegunka, żółtaczka, reumatyzm, kolka jelitowa, zaparcia, niestrawność.  
-Na użytek zewnętrzny - rany zwiotczałe, wrzody, liszaje, ukąszenia owadów.
-
-**Pokrzywa**  
-(Urtica dioica)
-
-Na użytek wewnętrzny - krwawienia, anemia, krzywica, ogólne osłabienie, wurzuty skórne, oparzenia, zapalenie skóry, klimakterium, gościec, zapelenie stawów, pęcherza, nerek, kamica wątroby, żółtaczka, wrzody żołądka, stany przedcukrzycowe, biegunki, wzdęcia, mimowolne moczenie u dzieci, nieżyt śluzowo-błoniasty jelit.  
-Na użytek zewnętrzny - łojotok skóry głowy, łupież, nadżerki, infekcja jamy ustnej, grzybice skóry, błon śluzowych, guzy, narośla, nowotwory.
-
-**Poziomka pospolita**  
-(Fragaria vesca)
-
-Dolegliwości nerek, zaparcia, bolesne miesiączkowanie, stany zapalne, niedokrwistość, niestrawność, opryszczka jamy ustnej, nieżyt dróg oddechowych, kaszel.
-
-**Róża dzika**  
-(Rosa canina)
-
-Awitaminoza, biegunka, kamica moczowa, krwawienie, osłabienie ogólne, upławy białe, zaparcia, glisty, nieżyt dróg trawiennych, nieżyt pęcherza i dróg moczowych, bezsenność, stany pobudzenia nerwowego.
-
-**Rzepik pospolity**  
-(Agrimonia eupatoria)
-
-Na użytek wewnętrzny - biegunka krwawa, krwioplucie, białkomocz, cukrzyca, astma, otyłość, schorzenia watroby, puchlina wodna, artretyzm, reumatyzm, przeziębienia, upławy białe, robaki obłe, kolka nerkowa, kamica nerkowa, hemoroidy, trądzik, zapalenie spojówek, egzemy, zatrucia pokarmowe u dzieci.  
-Na użytek zewnętrzny - zapalenie jamy ustnej, zwiotczałe rany, zwichnięcia, kontuzje, pleśniawki, rany infekcyjne.
-
-**Skrzyp polny**  
-(Equisetum arvense)
-
-Na użytek wewnętrzny - Skąpomocz, puchlina wodna, zapalenie pęcherza moczowego, infekcje nerkowe, białkomocz, dna, krwotok, krwioplucie, wymioty krwawe, krwiomocz, krwawienie z nosa, krwotok maciczny, biegunka bakteryjna, utrata soli mineralnych, dolegliwości płucne, krzywica, tężyczka, astenia, złamania, uszkodzenia i rany kostne, niewydolność miesiączkowania, nadciśnienie tętnicze, mizżdżyca tętnic, artroza, nierwowość, stany nowotworowe, łysienie, padaczka.  
-Na użytek zewnętrzny - rany, owrzodzenia nóg, nowotwór owrzodzony, afty, ciężko gojace się rany, odmroziny.
-
-**Ślaz leśny**  
-(Malva silvestris)
-
-Na użytek wewnętrzny - katar, zapalenie dróg oddechowych, nieżyt przewodu trawiennego, wrzody żołądka i dwunastnicy, nerwica żołądka.  
-Na użytek zewnętrzny - wrzody, oparzenia, zapalenie spojówek, stany zapalne jamy ustnej.
-
-**Świetlik lekarski**  
-(Euphrasia rostkoviana)
-
-Schorzenia siatkówki, zapalenie spojówek, zapalenie tęczówki, łzawienie, reguluje ciśnienie w gałce ocznej, wiosenne zapalenie spojówek, uporczywe stany zapalne brzegów i skóry powiek.
-
-**Szałwia lekarska**  
-(Salvia officinalis)
-
-Na użytek wewnętrzny - astenia, astma, biegunka, bezpłodność, brak sił, bóle i zawroty głowy, neurastenia, brak łaknienia, apopleksja z krwotokiem, dolegliwości nerkowe, drgawki, paraliż, chroniczny nieżyt oskrzeli, obfite pocenie się rąk, niedociśnienie, zaburzenia miesiączkowania, zapalenie węzłów chłonnych pachy, przerost układu chłonnego, zapalenie oskrzeli, chroniczny nieżyt żołądka, schorzenia wątroby, płuc, dróg moczowych, skurcz jelit, niedokwaśność żołądka, począki cukrzycy, nadmierna pobudliwość nerwowa, nadczynność tarczycy, zatrucia pokarmowe, dychawica oskrzelowa u starszych, kamica moczowa.  
-Na użytek zewnętrzny - angina, astma, rany i owrzodzenia, ból zęba, białe upławy, debilność dziecięca, dermatozy, swędzenie pochwy, ukąszenie osy, łysienie, zapalenie jamy ustnej, zapalenie krtani, skrofuloza, stany zapalne jamy ustnej i gardła, swędzące wypryski, stłuczenia, lekkie oparzenia, żylaki nóg, podudzi, odbytu, czyraki, drobne skaleczenia.
-
-**Tatarak zwyczajny**  
-(Acorus calamus)
-
-Na użytek wewnętrzny - atonia trawienia, zwiotczenie zołądka, zapalenie żołądka i jelit, wzdęcia, zaburzenia miesiączkowania, skąpomocz, artretyzm, dna, krzywica, skrofuloza, kaszel, reumatyzm, dolegliwości wątroby i pęcherzyka żółciowego, dolegliwości węzłów chłonnych, bóle nerek, brak łaknienia, stany wyczerpania nerwowego, niepokoju i trudności w zasypianiu.  
-Na użytek zewnętrzny - dolegliwości jamy ustnej i jej błony śluzowej, gardła, łojotokowe zapalenie skóry, wypadanie włosów, łupież.
-
-**Tymianek**  
-(Thymus vulgaris)
-
-Na użytek wewnętrzny - podwyższa ciśnienie krwi, działa moczopędnie, napotnie, wiatropędnie, lekko hipnotyzująco, przeciwrobaczo, przeciwzakrzepowo, przeciwkaszlowo, przeciwbólowo, ściągająco, przeciwwzdęciowo, ściągająco, przeciwkrwawieniowo, przeciwastmatycznie, wywołuje miesiączkowanie, pobudza leukocytozę, jest afrodyzjakiem, konserwuje żywność.  
-Na użytek zewnętrzny - środek bakteriobójczy, przeciwgnilny, przeciwreumatyczny, przeciwpasożytniczy, przyspiesza zabliźnianie się trudno gojących się ran, niszczy drożdżaki i grzybki, przeciwdziała jadowi żmiji.
+| **Aloes**<br>(Aloe arborescens) | Na użytek wewnętrzny - niedomogi miesiączkowania, zapalenie kory mózgowej, dychawica oskrzelowa, podostry i przewlekły nieżyt jelita grubego, stany zapalne i zwyrodnienie rogówki i siatkówki, uporczywe bóle głowy, nerwobóle, wyczerpanie nerwowe, zanik nerwu wzrokowego, zmętnienie rogówki, stany zapalne przewodu pokarmowego, choroba wrzodowa, zanikowy nieżyt błony śluzowej żołądka, owrzodzenie odbytnicy i okrężnicy, zaparcia.<br>Na użytek zewnętrzny - blizny, odmroziny, uszkodzenia naskórka, owrzodzenia podudzia, nieżyt nosa, zapalenie zatok bocznych nosa, owrzodzenie, pęknięcia skóry, wysypki alergiczne i ropne, żle gojące się rany, oparzenia termiczne i promieniami rentgenowskimi, ukłucia owadów, zapalenie śuzówki jamy ustnej, paradentoza, zapalenie sromu i pochwy.<br>**Przeciwwskazania** - krwotok macicy, menstruacja, dolegliwości maciczne, różne krwotoki, powiększona prostata, zapalenie pęcherza moczowego, dyzenteria, zapalenie okrężnicy, zapalenie trzewi, niepełny skurcz serca, wiek dziecięcy, ostre lub podostre zapalenie wyrostka robaczkowego kłębuszków nerwowych, zaawansowana ciąża (od 7 miesiąca), po operacji przewodu pokarmowego, żylaki odbytu, ciężka niedomoga serca i naczyń krwionośnych, nadciśnienie.<br>**Skutki uboczne** - możliwość poronienia lub wczesnego porodu, niebezpieczne użycie w przypadku przekrwienia okrężnicy i narządów miednicy mniejszej. Przy dużych dawkach - osłabienie, spowolnienie pulsu, obniżenie temperatury ciała. Śmierć przy 8 g proszku. Antagoniści - narkotyki i kwasy. Niezgodność - garbniki, żelazo, jod, mentol, tymol, fenol. |
+| --- | --- |
+| **Arcydzięgiel litwor**<br>(Archangelica officinalis) | Na użytek wewnętrzny - anemia, blednica, astma nerwicowa, bronchit chroniczny, bóle i zaburzenia menstruacyjne, białe upławy, kurcze żołądka i jelit, gruźlica, migreny nerwicowe, nadkwasota, niewydolność i niedomoga wątroby, nieżyt jelit, niemoc seksualna, osłabienie ogólne, osłabienie trawienia, połykanie powietrza, spazmatyczne wymioty, wzdęcia, obrzęk stawów, szkorbut, zawroty głowy, omdlenia, zapalenie skóry, zapalenie pęcherzyka żółciowego i dróg żółciowych, przewodu trzustkowego, stres, zaparcia.<br>Na użytek zewnętrzny - wcierania przeciwbólowe, przeciwzapalne, przeciwświądowe, dolegliwości jamy ustnej, bóle reumatyczne, stłuczenia. |
+| **Arnika górska**<br>(Arnica montana) | Na użytek wewnętrzny - koklusz u dorosłych, niektóre paraliże, spadek ciśnienia krwi, obniżenie czynności serca, duszności, zaburzenia krążenia wieńcowego i mózgowego, skłonności do żylaków, osłabienie serca, stany zapalne i zakrzepowe naczyń krwionosnych w dolnych kończynach.<br>Na użytek zewnętrzny - wzmacnianie ścian naczyń włosowatych, zapobieganie przenikaniu osocza, resorpcja płynu wysiekowego, zmniejszanie obrzęków i powodowanych przez nie bólów.<br>**Przeciwwskazania** - Zbyt duże dawki - bóle głowy, brzucha, wymioty, biegunka, osłabienie pracy serca, oddechu, zwężenie źrenic, zawroty głowy, drgawki nerwowe. Nie przyjmować w stanach zapalnych żołądka i jelit, krwawieniach w przewodzie pokarmowym, po zawale, leczeniu strofantyną i glikozydami naparstnicy. W stosowaniu zewnętrznym nie stosować na otwarte rany, oparzenia III stopnia, rozległe otarcia naskórka i ostre stany zapalne skóry. |
+| **Babka wąskolistna**<br>(Plantago laceolata) | Na użytek wewnętrzny - biegunka, dyzenteria, białe upławy, krwotok (w tym maciczny), krwioplucie, gruźlica, chroniczne zapalenie oskrzeli, ogólne osłabienie, utrata wagi, opóźnienia rozwojowe u dzieci, zapalenie gardła i angina, zapalenie krtani, stany zapalne nerek, gorączka, nieżyt dróg oddechowych i zaflegmienie gardła, astma, koklusz, zaburzenia trawienne, uszkodzenie śluzówki żołądka, bezkwaśność żołądka i dwunastnicy, endogenne toksyny bakteryjne.<br>Na użytek zewnętrzny - uszkodzenia skóry wszelkiego pochodzenia, stany zapalne i świąd sromu, zapalenie spojówek i powiek, ukąszenia owadów i żmiji, zapalenie dziąseł, liszajec, dermatozy strupiaste, świerzb, wrzody na nogach. |
+| **Bez czarny**<br>(Sambucus nigra) | Na użytek wewnętrzny - zaparcia, nerwobóle, reumatyzm, gościec, nadmiar wody w organizmie, epilepsja samoistna, zapalenie oskrzeli, gorączka z wysypką, puchlina wodna i brzuszna, zapalenie nerek, wrzody żołądka i dwunastnicy, moczenie nocne u dzieci, przewlekły nieżyt dróg oddechowych, uporczywy kaszel.<br>Na użytek zewnętrzny - łagodzące okłady i ciepłe kąpiele na odmroziny, obmywanie oczu przy egzemie powiek.<br>**Uwaga!** - istnieje groźba przedawkowania. |
+| **Bobrek trójlistny**<br>(Menyanthes trifoliata) | Anemia, brak apetytu, dermatozy, gorączka naprzemienna, niestrawność, krzywica, szkorbut, dna, reumatyzm, migreny po posiłkach, nieregularne menstruacje, pasożyty jelitowe, osłabienie ogólne. |
+| **Bukwica**<br>(Betonica officinalis) | Na użytek wewnętrzny - astma, bóle głowy, bezsenność, biegunka krwawa, artretyzm, reumatyzm, gościec stawowy przewlekły, dolegliwości płucne, ischias, krwioplucie, nieżyt zołądka i jelit, skąpe wydzielanie soku żołądkowego, migreny, osłabienie nerwowe, padaczka, paraliż połowiczny, zawroty głowy, żółtaczka, zaflegmienie dróg oddechowych.<br>Na użytek zewnętrzny - rany zakażone bakteriami ropotwórczymi i grzybkami, owrzodzenie skóry nóg, guzy twarde przechodzące w tkankę nowotworową. |
+| **Brzoza**<br>(Betula verrucosa)<br>(Betula pubescens) | Na użytek wewnętrzny - obrzęk sercowo-nerkowy, skapomocz, zawroty głowy na tle nadmiaru związków azotowych we krwi, bóle głowy, reumatyzm, nadmiar kwasu moczowego, bóle nerkowe, puchlina wodna, otyłość, przekrwienie ogólne, kamica moczowa, artretyzm, białkomocz, nadcisnienie, pasożyty jelitowe, miażdżyca.<br>Na użytek zewnętrzny - choroby skórne, zapalenie węzłów chłonnych, rany. |
+| **Czyr brzozowy**<br>(Innotus obliquus) | Wrzody i nieżyty zołądka, guzy błony śluzowej jamy ustnej, białaczka, zahamowanie chorób nowotworowych i zmniejszanie skłonności do przerzutów (rak żołądka i płuc). |
+| **Cząber ogrodowy**<br>(Satureja hortensis) | Na użytek wewnętrzny - astenia, astma, biegunka przewlekła, blednica, bóle gastryczne, glista ludzka, kurcze jelitowe, nadfermentacja jelitowa, niedokwaśność soku żołądkowego, nieżyt przewodu pokarmowego, nerwice żołądka, nerwice ogólne, osłabienie ogólne, pasożyty jelitowe, zapalenie oskrzeli, wzdęcia.<br>Na użytek zewnętrzny - czyraki, guzy, osłabienie słuchu, rany, stłuczenia, ukąszenia owadów, wrzody. |
+| **Chmiel zwyczajny**<br>(Humulus lupulus) | Na użytek wewnętrzny - działanie oczyszczające, moczopędne, pobudzające łaknienie, przeciwszkorbutowe, przeciwgorączkowe, przeciwrobacze, nasenne, wspomagające porost włosów, wskazany przy niedokwaśności, nadmiernej fermentacji jelitowej, wzdęciach, odbijaniu, koi układ nerwowy, zapobiega noznym zmazom.<br>Na użytek zewnętrzny - łagodzi bóle. |
+| **Dziurawiec zwyczajny**<br>(Hypericum perforatum) | Na użytek wewnętrzny - działanie atyseptyczne, hamuje wzrost gronkowca złocistego i innych Gram-dodatnich, ściagające, przeciw nadkwaśne, przeciwskurczowe, moczopędne, balsamiczne, przeciwgorączkowe, robakobójcze, przeciwdepresyjne, przeciw nadcisnieniowe, pobudza łaknienie, poprawia trawienie.<br>Na użytek zewnętrzny - leczenie ropni, zakażonych ran, oparzeń II i III stopnia, wrzodów, ropnych zapaleń, zakażeń skóry, zapaleń sutka, ostrego nieżytu nosa, zapaleń gardła, owrzodzenia żylakowego, bielactwa. Działa napotnie i ściagająco.<br>**Uwaga!** - po użyciu absolutnie nie przebywać na słońcu. Grozi ciężkim udarem. |
+| **Głóg dwuszyjkowy**<br>(Cartaegus oxyacantha) | Biegunka, bóle serca, bezsenność, częstoskurcz i arytmia serca, dusznica bolesna, kamica nerkowa i żółciowa, kołatanie serca, kurcze naczyniowe, miażdżyca, nadciśnienie tętnicze, nadmierna pobudliwość, niestrawność, przekrwienie narządów, zawroty głowy na tle nerwicy, szum w uszach, niepokoje. |
+| **Jałowiec pospolity**<br>(Juniperus communis) | Na użytek wewnętrzny - artretyzm, białkomocz, bolesne menstruacje, cukrzyca, dna, dolegliwości dróg moczowych, kamienie moczowe, nadfermentacja jelitowa, puchlina wodna, reumatyzm, skapomocz, stwardnienie tętnic, zmęczenie ogólne i organiczne, upławy białe, nadczynność tarczycy.<br>Na użytek zewnętrzny - dermatozy, bóle zębowe, rany, owrzodzenia, trądzik, wyprysk moknący, nastepstwa paraliżu, dezynfekcja mieszkania. |
+| **Jemioła**<br>(Viscum album) | Obniża ciśnienie, działanie przeciwskurczowe i przeciwkrwotoczne, wczesne stadium choroby nadcisnieniowej, miażdżyca, zaburzenia układu krążenia, krwawienia miesięczne.<br>**Uwaga!** - stosować tylko z przepisu i pod kontrolą lekarza. |
+| **Kasztanowiec zwyczajny**<br>(Aesculus hippocastanum) | Hemoroidy, klimakterium, stany zapalne wątroby, gruczołu krokowego, miednicy mniejszej, żylaki nóg, żylak powrózka nasiennego, odmroziny, oparzenia, obrzęki skóry, obrzęki głośni, płuc, krwiaki, zapalenie ścięgna, zakrzepowe zapalenie żył. |
+| **Kminek**<br>(Carum carvi) | Na użytek wewnętrzny - bóle brzucha, brak apetytu, słaba laktacja, skąpa menstruacja, nadfermentacja, nadmierna wrażliwość na środki pobudzające pracę serca i naczyń krwionośnych, niedomogi wątroby, niestrawność, zaburzenia trawienia, pasożyty jelitowe, skurcze żołądka, wrzody żołądka i dwunastnicy, wzdęcia brzucha, zaflegmienie górnych dróg oddechowych, zapalenie oskrzeli i płuc, zaparcia, sensacje żołądkowo-jelitowe, niewydolność pęcherzyka żółciowego.<br>Na użytek zewnętrzny - osłabienie słuchu, pasożyty, świerzb, wypryski skórne i zastoinowe, zapalenie sutka. |
+| **Kozłek lekarski**<br>(Valeriana officinalis) | Astma nerwicowa, bezsenność, częstoskurcz napadowy, zaburzenia czynnościowe, przyspieszone bicie serca na tle nerwowym, bóle głowy, pulsowanie w skroniach, zaburzenia naczyniowo-ruchowe, zawroty głowy, napady padaczkowe częściowe, upośledzenie mowy, wzroku, słuchu, nerwice wegetatywne, przekwitanie, owsiki, niepokój, nadpobudliwość psychiczna i czuciowa, konwulsje dziecęce, neurastenia, histeria, przekrwienie czynne, epilepsja, nadfermentacja jelitowa, omdlenia, wzdęcia, kolka jelitowa, pokrzywka, złe wydzielanie żółci i soku trzustkowego, cukrzyca, dychawica sercowa, świerzb, wyrzuty skórne, zaburzenia układu krążenia, migrena. |
+| **Krwawnik pospolity**<br>(Achillea millefolium) | Na użytek wewnętrzny - działanie gorzkie i ściągajace, żółciopędne, moczopędne, robakobójcze, wykrztusne, przeciwzapalne, pobudza czynności żołądka, poprawia przemianę materii, hamuje krwawienia.<br>Na użytek zewnętrzny - upławy, hemoroidy, bóle reumatyczne, zapalenie skóry i śluzówek, dermatozy, owrzodzenia goleni, pęknięcia sutka, przetoki, rany. Środek dezynfekujący, gojący i przeciwzapalny. |
+| **Lawenda lekarska**<br>(Lavandula officinalis) | Na użytek wewnętrzny - astma, bezsenność, biegunka, blednica, choroby infekcyjne, depresja, dolegliwości dróg oddechowych, gruźlica, drgawki, dur, gorączka z wysypkami na twarzy, grypa, histeria, kaszel napadowy, migreny, nadciśnienie, nadmierna pobudliwość, pozostałość po paraliżu, pasożyty jelitowe, bolesne i skąpe miesiączkowanie, reumatyzm, robaki, skapomocz, rzeżączka, gruźlica węzłów chłonnych, skurcze mięśni, wątłość dziecięca, upławy białe, zapalenie oskrzeli, zawroty głowy, zwiotczenie żołądka i jelit, wzdęcia jelitowe, zapalenie pęcherza moczowego, zmniejszenie łaknienia, nerwice wegetatywne, pobudzenie nerwowe.<br>Na użytek zewnętrzny - rany, wrzody na nogach, przetoka odbytu, kroczowa, egzemy, upławy białe, oparzenia, dolegliwości płucne, trądzik, ukąszenia owadów, ugryzienia zwierząt, wszawica, świerzb, łysienie, przewlekłe bóle mięśniowe i stawowe, zapalenie korzonków nerwowych, nieżyt jamy ustnej, gardła, oskrzeli i przewodów nosowych. |
+| **Lipa szerokolistna**<br>(Tilia platyphyllos) | Skurcze, niestrawność, bezsenność, nerwice, histeria, miażdżyca, infekcje dróg oddechowych, gorączka nosa, gardła. |
+| **Macierzanka piaskowa**<br>(Thymus serpyllum) | Działanie wykrztusne, dezynfekcyjne, ściagające, przeciwzapalne. Pobudza serce i nerwy (neurastenia). Stosowana w suchym kaszlu, blednicy, niedokrwistości, puchlinie wodnej, chorobach pęcherza moczowego, nieżycie żołądka, nieżycie dróg oddechowych, kurczach jelitowych, niedomodze wątroby, biegunkach, wzdęciach, niedokwaśności. |
+| **Majeranek ogrodowy**<br>(Origanum majorana) | Na użytek wewnętrzny - astma, bezsenność, migrena, kurcze mimiczne, kurcze dróg oddechowych, kurcze trawienne, leki, obawy, neurastenia, niezrównoważenie psychiczne, nieżyt żołądka i jelit, paraliż, zapalenie tętnic, zapalenie przewodów nosowych, niedrożność nosa przy oddychaniu.<br>Na użytek zewnętrzny - brak sił, nerwobóle reumatyczne, wątłość, ogólne osłabienie, wycieńczenie, przewlekły katar nosa, przewlekłe zapalenie zatok bocznych nosa. |
+| **Melisa lekarska**<br>(Melissa officinalis) | Na użytek wewnętrzny - migrena wywołana złym trawieniem, nerwobóle twarzy, zębów, ucha, głowy, astma, niedokrwistość, nadmierne bicie serca, bóle serca, drgawki dziecięce, epilepsja, napady nerwowe, pobudliwość, choroby żołądka, omdlenie, zawroty głowy, szum w uszach, anemia, menstruacja bolesna, niestrawność, zaniki pamięci, malancholia, depresja, skurcze, spazmy, bezsenność, uczucie niepokoju, stany zapalne dróg żółciowych i trzyxtki, kolka jelitowa, nadmierne fermentacje i wzdęcia.<br>Na użytek zewnętrzny - ukąszenia owadów, urazy, wrzody, bóle gośćcowe i reumatyczne, rany. |
+| **Mięta pieprzowa**<br>(Mentha piperita) | Na użytek wewnętrzny - bóle brzucha, wzdęcia, brak łaknienia, kolka jelitowa, zapalenie pęcherzyka żółciowego i dróg żółciowych, lekka niewydolność wątroby, kamica żółciowa, żółtaczka, skurcz mięśni jelit i przewodów żółciowych, wymioty, biegunka, opuchlizna, zaburzenia miesiączkowania, nerwice wegetatywne.<br>Na użytek zewnętrzny - nieżyt nosa i obrzęk błony sluzowej, bóle nerwowe, migrenowe, odkażanie i odświeżanie jamy ustnej, nieżyt gardła i oskrzeli, bóle neuralgiczne i mięśniowe, świąd, nieżyt jamy ustnej i oskrzeli. |
+| **Mniszek lekarski**<br>(Taraxacum officinale) | Na użytek wewnętrzny - anemia, astenia, azotermia, dermatoza u wątrobowców, kamica żółciowa i nerkowa, atonia mięśni gładkich, skurcze przewodów żółciowych, nadmiar cholesterolu, zapalenie dróg żółciowych, zapalenie wątroby, niewydolność i marskość wątroby, niewydolność nerek, mocznik we krwi, otyłość, paradentoza, reumatyzm, gościec, skapomocz, szkorbut, miażdżyca tętnic, zapalenie jelita cienkiego i okrężnicy, obrzeki, zaparcia, nadfermentacja jelitowa, zakłócenia krążenia krwi, sinica, żółtaczka, żylaki goleni.<br>Na użytek zewnętrzny - bielmo rogówki i jej zmętnienie, kurzajki, brodawki, piegi. |
+| **Nagietek**<br>(Calendula officinalis) | Na użytek wewnętrzny - stany lekowe, depresja, bóle miesiączkowe, przekrwienie wątroby, owrzodzenie żołądka i jelit, nerwobóle reumatyczne, bóle szyi, mięśni i pleców.<br>Na użytek zewnętrzny - odmrożenia, oparzenia, uszkodzenia skóry, wrzodzianki, brodawki, stany zapalne gardła, jamy ustnej, spojówek, trądzik, egzemy, opryszczka. |
+| **Perz**<br>(Agropyron repens) | Artretyzm, egzemy, blednica, gościec stawowy, kamica żółciowa i moczowa, hemoroidy, nieżyt dróg oddechowych, niedokrwistość, podwyższony poziom cholesterolu, przekwitanie, przewlekłe schorzenia wątroby, skapomocz, żółtaczka, zapalenie dróg moczowych trawiennych, reumatyzm, niedomogi błon śluzowych, narządów wewnetrznych, naczyń krwionośnych, skóry, tkanki łącznej. |
+| **Piołun pospolity**<br>(Artemisia absynthium) | Na użytek wewnętrzny - anemia, atonia żołądka i jelit, kurcze żołądka, brak apetytu, gorączkowanie, wzdęcia, opóźnienia miesiączkowania, pasożyty jelitowe, upławy białe, zaburzenia wątrobowe, zatrucie bielą ołowiową, bolesne miesiączkowanie, biegunka, żółtaczka, reumatyzm, kolka jelitowa, zaparcia, niestrawność.<br>Na użytek zewnętrzny - rany zwiotczałe, wrzody, liszaje, ukąszenia owadów. |
+| **Pokrzywa**<br>(Urtica dioica) | Na użytek wewnętrzny - krwawienia, anemia, krzywica, ogólne osłabienie, wurzuty skórne, oparzenia, zapalenie skóry, klimakterium, gościec, zapelenie stawów, pęcherza, nerek, kamica wątroby, żółtaczka, wrzody żołądka, stany przedcukrzycowe, biegunki, wzdęcia, mimowolne moczenie u dzieci, nieżyt śluzowo-błoniasty jelit.<br>Na użytek zewnętrzny - łojotok skóry głowy, łupież, nadżerki, infekcja jamy ustnej, grzybice skóry, błon śluzowych, guzy, narośla, nowotwory. |
+| **Poziomka pospolita**<br>(Fragaria vesca) | Dolegliwości nerek, zaparcia, bolesne miesiączkowanie, stany zapalne, niedokrwistość, niestrawność, opryszczka jamy ustnej, nieżyt dróg oddechowych, kaszel. |
+| **Róża dzika**<br>(Rosa canina) | Awitaminoza, biegunka, kamica moczowa, krwawienie, osłabienie ogólne, upławy białe, zaparcia, glisty, nieżyt dróg trawiennych, nieżyt pęcherza i dróg moczowych, bezsenność, stany pobudzenia nerwowego. |
+| **Rzepik pospolity**<br>(Agrimonia eupatoria) | Na użytek wewnętrzny - biegunka krwawa, krwioplucie, białkomocz, cukrzyca, astma, otyłość, schorzenia watroby, puchlina wodna, artretyzm, reumatyzm, przeziębienia, upławy białe, robaki obłe, kolka nerkowa, kamica nerkowa, hemoroidy, trądzik, zapalenie spojówek, egzemy, zatrucia pokarmowe u dzieci.<br>Na użytek zewnętrzny - zapalenie jamy ustnej, zwiotczałe rany, zwichnięcia, kontuzje, pleśniawki, rany infekcyjne. |
+| **Skrzyp polny**<br>(Equisetum arvense) | Na użytek wewnętrzny - Skąpomocz, puchlina wodna, zapalenie pęcherza moczowego, infekcje nerkowe, białkomocz, dna, krwotok, krwioplucie, wymioty krwawe, krwiomocz, krwawienie z nosa, krwotok maciczny, biegunka bakteryjna, utrata soli mineralnych, dolegliwości płucne, krzywica, tężyczka, astenia, złamania, uszkodzenia i rany kostne, niewydolność miesiączkowania, nadciśnienie tętnicze, mizżdżyca tętnic, artroza, nierwowość, stany nowotworowe, łysienie, padaczka.<br>Na użytek zewnętrzny - rany, owrzodzenia nóg, nowotwór owrzodzony, afty, ciężko gojace się rany, odmroziny. |
+| **Ślaz leśny**<br>(Malva silvestris) | Na użytek wewnętrzny - katar, zapalenie dróg oddechowych, nieżyt przewodu trawiennego, wrzody żołądka i dwunastnicy, nerwica żołądka.<br>Na użytek zewnętrzny - wrzody, oparzenia, zapalenie spojówek, stany zapalne jamy ustnej. |
+| **Świetlik lekarski**<br>(Euphrasia rostkoviana) | Schorzenia siatkówki, zapalenie spojówek, zapalenie tęczówki, łzawienie, reguluje ciśnienie w gałce ocznej, wiosenne zapalenie spojówek, uporczywe stany zapalne brzegów i skóry powiek. |
+| **Szałwia lekarska**<br>(Salvia officinalis) | Na użytek wewnętrzny - astenia, astma, biegunka, bezpłodność, brak sił, bóle i zawroty głowy, neurastenia, brak łaknienia, apopleksja z krwotokiem, dolegliwości nerkowe, drgawki, paraliż, chroniczny nieżyt oskrzeli, obfite pocenie się rąk, niedociśnienie, zaburzenia miesiączkowania, zapalenie węzłów chłonnych pachy, przerost układu chłonnego, zapalenie oskrzeli, chroniczny nieżyt żołądka, schorzenia wątroby, płuc, dróg moczowych, skurcz jelit, niedokwaśność żołądka, począki cukrzycy, nadmierna pobudliwość nerwowa, nadczynność tarczycy, zatrucia pokarmowe, dychawica oskrzelowa u starszych, kamica moczowa.<br>Na użytek zewnętrzny - angina, astma, rany i owrzodzenia, ból zęba, białe upławy, debilność dziecięca, dermatozy, swędzenie pochwy, ukąszenie osy, łysienie, zapalenie jamy ustnej, zapalenie krtani, skrofuloza, stany zapalne jamy ustnej i gardła, swędzące wypryski, stłuczenia, lekkie oparzenia, żylaki nóg, podudzi, odbytu, czyraki, drobne skaleczenia. |
+| **Tatarak zwyczajny**<br>(Acorus calamus) | Na użytek wewnętrzny - atonia trawienia, zwiotczenie zołądka, zapalenie żołądka i jelit, wzdęcia, zaburzenia miesiączkowania, skąpomocz, artretyzm, dna, krzywica, skrofuloza, kaszel, reumatyzm, dolegliwości wątroby i pęcherzyka żółciowego, dolegliwości węzłów chłonnych, bóle nerek, brak łaknienia, stany wyczerpania nerwowego, niepokoju i trudności w zasypianiu.<br>Na użytek zewnętrzny - dolegliwości jamy ustnej i jej błony śluzowej, gardła, łojotokowe zapalenie skóry, wypadanie włosów, łupież. |
+| **Tymianek**<br>(Thymus vulgaris) | Na użytek wewnętrzny - podwyższa ciśnienie krwi, działa moczopędnie, napotnie, wiatropędnie, lekko hipnotyzująco, przeciwrobaczo, przeciwzakrzepowo, przeciwkaszlowo, przeciwbólowo, ściągająco, przeciwwzdęciowo, ściągająco, przeciwkrwawieniowo, przeciwastmatycznie, wywołuje miesiączkowanie, pobudza leukocytozę, jest afrodyzjakiem, konserwuje żywność.<br>Na użytek zewnętrzny - środek bakteriobójczy, przeciwgnilny, przeciwreumatyczny, przeciwpasożytniczy, przyspiesza zabliźnianie się trudno gojących się ran, niszczy drożdżaki i grzybki, przeciwdziała jadowi żmiji. |
 
 [obraz]
 
@@ -4433,463 +1907,80 @@ Na użytek zewnętrzny - środek bakteriobójczy, przeciwgnilny, przeciwreumatyc
 
   
 
-**Cardiosan**
-
-Wskazania - osłabienie mięśnia sercowego, niwydolność układu krążenia, duszność wysiłkowa, zaburzenia krążenia na tle miażdżycy, zaburzenia układu neurowegetatywnego, migotanie i trzepotanie przedsionków.  
-Skład - ziele konwalii, ziele żarnowca, ziele jemioły, ziele skrzypu, ziele serdecznika, kwiat głogu z liśćmi, korzeń lubczyka, kłącze kozłka lekarskiego, owoc dzikiej róży.
-
-**Cholagoga I**
-
-Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy stolcu miękkim.  
-Skład - owoc jałowca, ziele dziurawca, ziele rdestu ptasiego.
-
-**Cholagoga II**
-
-Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy stolcu normalnym.  
-Skład - kwiat kocanki piaskowej, korzeń mniszka, liść mięty pieprzowej, ziele krwawnika, kora kruszyny, ziele glistnika.
-
-**Cholagoga III**
-
-Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy zaparciach.  
-Skład - owoc jałowca, ziele dziurawca, ziele rdestu ptasiego, kora kruszyny, owoc kminku, liść mięty pieprzowej.
-
-**Degrosan**
-
-Wskazania - wadliwa przemiana materii, otyłość, zaburzenia czynności gruczołów wewnętrznego wydzielania, wypryski skórne, trądzik.  
-Skład - morszczyn, korzeń mniszka, kłącze perzu, ziele krwawnika, ziele bratka, kora kruszyny, kwiat lipy.
-
-**Diabetosan**
-
-Wskazania - lżejsze postacie cukrzycy (leczenie pomocnicze), wadliwa przemiana materii, nieżyt przewodu pokarmowego.  
-Skład - ziele rutwicy, strączki fasoli, liść borówki czernicy, liść pokrzywy, liść szałwii, korzeń mniszka.
-
-**Digestosan**
-
-Wskazania - brak łaknienia, niestrawność, zgaga, nudności, wzdęcia, zaburzenia w wydzielaniu soków trawiennych, atonia żołądka.  
-Skład - ziele drapacza, liść bobrka trójlistnego, korzeń żywokostu, liść mięty pieprzowej, owoc kminku, ziele krwawnika.
-
-**Nervosan**
-
-Wskazania - nadmierna pobudliwość nerwowa, stany podniecenia, nerwice układu wegetatywnego, bezsenność, histeria, zaburzenia pokwitania i przekwitania.  
-Skład - kłącze kozłka lekarskiego, kwiat rumianku pospolitego, ziele krwawnika, ziele mięty pieprzowej, ziele melisy.
-
-**Normosan**
-
-Wskazania - zaparcia (zwłaszcza nawykowe), niestrawność, otyłość, wzdęcia, zaburzenia w trawieniu i przyswajaniu pokarmów, wadliwa przemiana materii.  
-Skład - kora kruszyny, liść senesu, kłącze perzu, owoc kminku, liść mięty pieprzowej, owoc bzu czarnego, korzeń mniszka.
-
-**Neonormosan**
-
-Wskazania - zaparcia, otyłość, zła przemiana materii.  
-Skład - kłącze rzewienia, kłącze perzu, owoc kminku, liść mięty pieprzowej, owoc bzu czarnego, korzeń mniszka.
-
-**Pektosan**
-
-Wskazania - nieżyt górnych dróg oddechowych i oskrzeli, rozedma płuc, dychawica oskrzelowa, stany astmatyczne.  
-Skład - korzeń omanu, liść szałwii, liść przwoślazu, liść podbiału, owoc kopru włoskiego.
-
-**Neopektosan**
-
-Wskazania - niezyt górnych dróg oddechowych i oskrzeli, rozedma płuc, dychawica oskrzelowa, stany astmatyczne.  
-Skład - liść szałwii, korzeń prawoślazu, liść podbiału, owoc kopru włoskiego, ziele tymianku, korzeń żywokostu, liść prawoślazu.
-
-**Pulmosan**
-
-Wskazania - środek pomocniczy przy zaburzeniach płucnych, przewlekła gruźlica, rozedma płuc z zespołem sercowo-płucnym, stany ozdrowieńcze po chorobach płuc, pylicach.  
-Skład - ziele rdestu ptasiego, ziele skrzypu, korzeń mniszka, kwiat krwawnika, kwiat słonecznika.
-
-**Pyrosan**
-
-Wskazania - Stan gorączkowy, przeziębienie, grypa, nieżyt górnych dróg oddechowych, bóle mięśniowe.  
-Skład - kwiat rumianku pospolitego, owoc maliny, pączki topoli, liść brzozy, kwiat lipy, kora brzozy, kwiat bzu czarnego.
-
-**Rektosan**
-
-Wskazania - guzy krwawnicowe, pęknięcia odbytu, ropnie okołoodbytowe.  
-Skład - kwiat krwawnika, owoc kminku, owoc jarzębiny, korzeń żywokostu, kora kruszyny, kwiat kasztanowca, nasiona kozieradki, ziele bratka polnego.
-
-**Reumosan**
-
-Wskazania - przewlekłe i ostre choroby gośćcowe, gościec stawowy i mięśniowy, newralgie.  
-Skład - liść brzozy, kora wierzby, ziele rdestu ptasiego, liść pokrzywy, kwiat tawuły łąkowej, ziele skrzypu.
-
-**Septosan**
-
-Wskazania - ostre i przewlekłe stany zapalne jamy ustnej i gardła, zapalenie dziąseł, zapalenie migdałów, angina.  
-Skład - liść miety pieprzowej, liść szałwii, ziele tymianku.
-
-**Sklerosan**
-
-Wskazania - nadciśnienie, skleroza naczyń, zaburzenia krążenia obwodowego, wadliwa przemiana materii u osób starczych, zmiany starcze.  
-Skład - Kwiat głogu z liściem, owoc głogu, owoc jarzębiny, morszczyn, ziele krwawnika, kora kruszyny, ziele jemioły, ziele rdestu ptasiego.
-
-**Tannosan**
-
-Wskazania - przewlekła biegunka, ostre i przewlekłe nieżyty jelit, bóle przewodu pokarmowego, wzdęcia, nadmierna ilość śluzu w stolcu.  
-Skład - kłącze pięciornika, owoc borówki czernicy, liść mięty pieprzowej, kwiat rumianku rzymskiego, liść szałwi.
-
-**Urosan**
-
-Wskazania - zapalenie nerek i pęcherza moczowego, skąpomocz, obrzęki, kamica nerkowa, nieżyt miedniczek nerkowych, nieżyt przewodu moczowego.  
-Skład - ziele skrzypu polnego, liść brzozy, liść borówki brusznicy, korzeń podróżnika.
-
-**Vagosan**
-
-Wskazania - irygacja i przemywanie przy upławach, stany zapalne pochwy na tle bakteryjnym.  
-Skład - ziele rdestu ptasiego, liść szałwii, liść pokrzywy, kora dębu, kwiat rumianku pospolitego, kwiat nagietka.
+| **Cardiosan** | Wskazania - osłabienie mięśnia sercowego, niwydolność układu krążenia, duszność wysiłkowa, zaburzenia krążenia na tle miażdżycy, zaburzenia układu neurowegetatywnego, migotanie i trzepotanie przedsionków.<br>Skład - ziele konwalii, ziele żarnowca, ziele jemioły, ziele skrzypu, ziele serdecznika, kwiat głogu z liśćmi, korzeń lubczyka, kłącze kozłka lekarskiego, owoc dzikiej róży. |
+| --- | --- |
+| **Cholagoga I** | Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy stolcu miękkim.<br>Skład - owoc jałowca, ziele dziurawca, ziele rdestu ptasiego. |
+| **Cholagoga II** | Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy stolcu normalnym.<br>Skład - kwiat kocanki piaskowej, korzeń mniszka, liść mięty pieprzowej, ziele krwawnika, kora kruszyny, ziele glistnika. |
+| **Cholagoga III** | Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy zaparciach.<br>Skład - owoc jałowca, ziele dziurawca, ziele rdestu ptasiego, kora kruszyny, owoc kminku, liść mięty pieprzowej. |
+| **Degrosan** | Wskazania - wadliwa przemiana materii, otyłość, zaburzenia czynności gruczołów wewnętrznego wydzielania, wypryski skórne, trądzik.<br>Skład - morszczyn, korzeń mniszka, kłącze perzu, ziele krwawnika, ziele bratka, kora kruszyny, kwiat lipy. |
+| **Diabetosan** | Wskazania - lżejsze postacie cukrzycy (leczenie pomocnicze), wadliwa przemiana materii, nieżyt przewodu pokarmowego.<br>Skład - ziele rutwicy, strączki fasoli, liść borówki czernicy, liść pokrzywy, liść szałwii, korzeń mniszka. |
+| **Digestosan** | Wskazania - brak łaknienia, niestrawność, zgaga, nudności, wzdęcia, zaburzenia w wydzielaniu soków trawiennych, atonia żołądka.<br>Skład - ziele drapacza, liść bobrka trójlistnego, korzeń żywokostu, liść mięty pieprzowej, owoc kminku, ziele krwawnika. |
+| **Nervosan** | Wskazania - nadmierna pobudliwość nerwowa, stany podniecenia, nerwice układu wegetatywnego, bezsenność, histeria, zaburzenia pokwitania i przekwitania.<br>Skład - kłącze kozłka lekarskiego, kwiat rumianku pospolitego, ziele krwawnika, ziele mięty pieprzowej, ziele melisy. |
+| **Normosan** | Wskazania - zaparcia (zwłaszcza nawykowe), niestrawność, otyłość, wzdęcia, zaburzenia w trawieniu i przyswajaniu pokarmów, wadliwa przemiana materii.<br>Skład - kora kruszyny, liść senesu, kłącze perzu, owoc kminku, liść mięty pieprzowej, owoc bzu czarnego, korzeń mniszka. |
+| **Neonormosan** | Wskazania - zaparcia, otyłość, zła przemiana materii.<br>Skład - kłącze rzewienia, kłącze perzu, owoc kminku, liść mięty pieprzowej, owoc bzu czarnego, korzeń mniszka. |
+| **Pektosan** | Wskazania - nieżyt górnych dróg oddechowych i oskrzeli, rozedma płuc, dychawica oskrzelowa, stany astmatyczne.<br>Skład - korzeń omanu, liść szałwii, liść przwoślazu, liść podbiału, owoc kopru włoskiego. |
+| **Neopektosan** | Wskazania - niezyt górnych dróg oddechowych i oskrzeli, rozedma płuc, dychawica oskrzelowa, stany astmatyczne.<br>Skład - liść szałwii, korzeń prawoślazu, liść podbiału, owoc kopru włoskiego, ziele tymianku, korzeń żywokostu, liść prawoślazu. |
+| **Pulmosan** | Wskazania - środek pomocniczy przy zaburzeniach płucnych, przewlekła gruźlica, rozedma płuc z zespołem sercowo-płucnym, stany ozdrowieńcze po chorobach płuc, pylicach.<br>Skład - ziele rdestu ptasiego, ziele skrzypu, korzeń mniszka, kwiat krwawnika, kwiat słonecznika. |
+| **Pyrosan** | Wskazania - Stan gorączkowy, przeziębienie, grypa, nieżyt górnych dróg oddechowych, bóle mięśniowe.<br>Skład - kwiat rumianku pospolitego, owoc maliny, pączki topoli, liść brzozy, kwiat lipy, kora brzozy, kwiat bzu czarnego. |
+| **Rektosan** | Wskazania - guzy krwawnicowe, pęknięcia odbytu, ropnie okołoodbytowe.<br>Skład - kwiat krwawnika, owoc kminku, owoc jarzębiny, korzeń żywokostu, kora kruszyny, kwiat kasztanowca, nasiona kozieradki, ziele bratka polnego. |
+| **Reumosan** | Wskazania - przewlekłe i ostre choroby gośćcowe, gościec stawowy i mięśniowy, newralgie.<br>Skład - liść brzozy, kora wierzby, ziele rdestu ptasiego, liść pokrzywy, kwiat tawuły łąkowej, ziele skrzypu. |
+| **Septosan** | Wskazania - ostre i przewlekłe stany zapalne jamy ustnej i gardła, zapalenie dziąseł, zapalenie migdałów, angina.<br>Skład - liść miety pieprzowej, liść szałwii, ziele tymianku. |
+| **Sklerosan** | Wskazania - nadciśnienie, skleroza naczyń, zaburzenia krążenia obwodowego, wadliwa przemiana materii u osób starczych, zmiany starcze.<br>Skład - Kwiat głogu z liściem, owoc głogu, owoc jarzębiny, morszczyn, ziele krwawnika, kora kruszyny, ziele jemioły, ziele rdestu ptasiego. |
+| **Tannosan** | Wskazania - przewlekła biegunka, ostre i przewlekłe nieżyty jelit, bóle przewodu pokarmowego, wzdęcia, nadmierna ilość śluzu w stolcu.<br>Skład - kłącze pięciornika, owoc borówki czernicy, liść mięty pieprzowej, kwiat rumianku rzymskiego, liść szałwi. |
+| **Urosan** | Wskazania - zapalenie nerek i pęcherza moczowego, skąpomocz, obrzęki, kamica nerkowa, nieżyt miedniczek nerkowych, nieżyt przewodu moczowego.<br>Skład - ziele skrzypu polnego, liść brzozy, liść borówki brusznicy, korzeń podróżnika. |
+| **Vagosan** | Wskazania - irygacja i przemywanie przy upławach, stany zapalne pochwy na tle bakteryjnym.<br>Skład - ziele rdestu ptasiego, liść szałwii, liść pokrzywy, kora dębu, kwiat rumianku pospolitego, kwiat nagietka. |
 
 **Podział ziół względem zastosowania**
 
 Zioła, warzywa i owoce, które można stosować zamiennie na dane schorzenie, podzielone na 36 zestawów objawowo-skutkowych. Jeśli chcemy zastosować specyfik działający np. bakteriobójczo, wybieramy jeden z zestawu, który akurat jest dla nas dostępny (np. kwiat rumianku **lub** liść mącznicy **lub** kora wierzby **lub**... itd.). Na podstawie "Apteki natury" Jadwigi Górnickiej.
 
-**Bakteriobójcze**  
-
-czosnek, cebula, majeranek.  
-kwiat - rumianku pospolitego, wrotyczu.  
-liść - mącznicy, borówki, owoce czarnej jagody.  
-ziele - piołunu, dziurawca, szanty, mięty, szałwii, macierzanki, tymianku.  
-kora - wierzby.  
-korzeń - omanu.  
-kłącze - kosaćca.
-
-**Gojenie ran i skaleczeń**  
-
-pączek - topoli.  
-kwiat - nagietka, jasnoty, rumianku pospolitego.  
-liść - orzecha włoskiego.  
-ziele - drapacza, dziurawca, lnicy, rdestu ptasiego, szałwii.  
-korzeń - żywokostu.
-
-**Hamowanie krwawień**  
-wewnętrznych i zewnętrznych
-
-liść - pokrzywy, barwinka.  
-ziele - krwawnika, tasznika, skrzypu, rdestu ptasiego, rdestu ostrogorzkiego.  
-kora - kaliny.  
-kłącze - pięciornika.
-
-**Oczyszczanie krwi**  
-ze złogów i pozostałości po zatruciach
-
-kwiat - stokrotki, kocanki.  
-liść - barwinka, borówki, maliny, brzozy.  
-ziele - bratka polnego, przetacznika, poziomli, bluszczyku, skrzypu, drapacza, ogórecznika.  
-korzeń - łopianu.  
-szyszka - chmielu.  
-nasiona - kozieradki.
-
-**Moczopędne**  
-czyszczą i leczą nerki, poprawiają ich pracę i znoszą parcie na mocz
-
-pączek - topoli.  
-kwiat - stokrotki, wrzosu, bławatka, kocanki, jasnoty, bzu czarnego, lipy.  
-owoc - kminku, jarzębiny, jałowca, dzikiej róży.  
-liść - mącznicy, brzozy, brusznicy, czarnej jagody.  
-ziele - połonicznika, skrzypu, poziomki, rutwicy, drapacza, rzepiku, piołunu, bylicy pospolitej, macierzanki, nawłoci, werbeny, bratka polnego, hyzopu, nostrzyka, bazulii, rdestu ptasiego, płucnika-miodunki, cząbru, pokrzywy, przetacznika.  
-korzeń - łopianu, podróżnika, lukrecji, mydlnicy, omanu, kosaćca, lubczyka, goryszu, pietruszki.  
-kłącze - perzu, tataraku.  
-szyszki - chmielu.  
-strączyny - fasoli.  
-nasiona - pietruszki, czarnuszki.  
-znamię - kukurydzy.
-
-**Mlekopędne**  
-nieodzowne dla karmiących matek we wszystkich kłopotach laktacyjnych
-
-kminek, koper włoski, anyż.  
-liść - barwinka.  
-ziele - rutwicy, bazylii.  
-nasiona - pietruszki.
-
-**Napotne**  
-wskazane przy wszystkich rodzajach przeziębień
-
-pączek - topoli.  
-kwiat - lipy, bzu czarnego, wrzosu, nawłoci.  
-owoc - maliny, bzu czarnego.  
-liść - brzozy.  
-ziele - przetacznika, rutwicy, ogórecznika, bratka polnego.  
-korzeń - łopianu, omanu, goryszu, pietruszki.  
-kłącze - tataraku.  
-nasiona - pietruszki.
-
-**Nasenne i uspokajające**  
-
-kwiat - lawendy.  
-liść - melisy, barwinka.  
-ziele - nostrzyka, macierzanki, kurzego śladu.  
-korzeń - kozłka.  
-szyszki - chmielu.
-
-**Obniżenie ciśnienia krwi**  
-
-cebula, czosnek, biała skórka cytryny, żurawiny.  
-liść - barwinka.  
-ziele - jemioły.
-
-**Działanie osłaniające**  
-przy podrażnieniach układu oddechowego i trawiennego
-
-kwiat - lipy, dziewanny.  
-liść - ślazu, babki, podbiału.  
-korzeń - ślazu, żywokostu.  
-nasiona - gorczycy, kozieradki, lnu (siemię lniane).
-
-**Pobudzenie czynności żołądka**  
-
-majeranek.  
-kwiat - lawendy, rumianku pospolitego.  
-liść - melisy, bobrka.  
-ziele - krwawnika, dziurawca, przywrotnika, drapacza, szanty, miety, bazylii, cząbru, nawłoci, przetacznika.  
-korzeń - lubczyka, goryszu, mydlnicy, mniszka.  
-kłącze - pięciornika, rzewienia.  
-nasiona - kozieradki.
-
-**Przeciwkrwawnicowo**  
-do stosowania doustnego przy jednoczesnym działaniu z zewnątrz
-
-cebula surowa, śliwki suszone.  
-ziele - krwawnika, drapacza.  
-kora - kasztanowca.  
-korzeń - żywokostu.  
-nasiona - zmielone siemię lniane.  
-**Do stosowania zewnętrznego w okładach:**  
-cebula gotowana.  
-kwiat - rumianku.
-
-**Pobudzenie serca i nerwów**  
-
-kwiat - głogu.  
-liść - rozmarynu.  
-ziele - dziurawca, hyzopu, bazylii.  
-korzeń - goryszu.
-
-**Przeciwartretyczne**  
-
-liść - czarnej porzeczki.  
-ziele - rzepiku.  
-kora - wierzby.  
-nasiona - czarnuszki.  
-gąbka słodkowodna.
-
-**Przeciwcukrzycowe**  
-profilaktyka, leczenie cukrzycy i stanów przedcukrzycowych
-
-cebula surowa i gotowana.  
-liść - pokrzywy, czarnej jagody, orzecha włoskiego.  
-ziele - rdestu ptasiego, dziurawca, krwawnika, szałwii, glistnika, rutwicy.  
-korzeń - mniszka, łopianu.  
-kłącze - perzu.  
-strączyny - fasoli.
-
-**Przeciwgorączkowe**  
-
-kwiat - lipy, bzu czarnego, rumianku rzymskiego i pospolitego, słonecznika (same płatki).  
-owoc - czarnej jagody.  
-liść - mięty, bobrka.  
-ziele - tysiącznika, drapacza.  
-kora - wierzby, kasztanowca.  
-
-**Przeciwgośćcowe**  
-
-kwiat - tawuły łąkowej.  
-liść - brzozy, czarnej porzeczki.  
-ziele - skrzypu.  
-kora - wierzby.  
-nasiona - czarnuszki, gorczycy białej (suche okłady).  
-gąbka słodkowodna.
-
-**Przeciwrobacze**  
-
-czosnek.  
-kwiat - wrotyczu.  
-owoc - czarnej jagody, borówki brusznicy.  
-ziele - piołunu, macierzanki, tymianku.  
-nasiona - dyni.
-
-**Przeciwzapalne**  
-do użytku wewnętrznego
-
-kwiat - rumianku pospolitego i rzymskiego, nagietka, bławatka.  
-ziele - srebrnika, świetlika.
-
-**Przeciwzapalne**  
-do użytku zewnętrznego (okłady z naparu)
-
-majeranek, cebula gotowana.  
-kwiat - rumianku pospolitego.  
-liść - babki.  
-ziele - hyzopu, lnicy, szałwii.  
-kłącze - pięciornika.
-
-**Przeciwskurczowe**  
-
-majeranek, anyż, kminek, koper włoski.  
-kwiat - lawendy, rumianku pospolitego, lipy, dziewanny.  
-owoc - kolendry, bzu czarnego.  
-ziele - jaskółczego ziela, połonicznika, nostrzyka, bazylii, srebrnika, szałwii, macierzanki, tymianku, werbeny.  
-kora - wierzby.  
-korzeń - goryszu.  
-znamię - kukurydzy.
-
-**Przeciwalergiczne**  
-
-kwiat - rumianku.  
-ziele - dziurawca.  
-korzeń - kozłka.  
-można stosować łącznie.
-
-**Stany zapalne jelit**  
-
-kwiat - rumianku.  
-ziele - dziurawca, krwawnika.  
-korzeń - lukrecji.
-
-**Przeczyszczające i rozwalniające**  
-
-kwiat - kocanki.  
-owoc - bzu czarnego.  
-ziele - tysiącznika, lnicy.  
-kora - kruszyny.  
-kłącze - rzewienia.  
-strączki - senesu.  
-nasiona - lnu (siemie lniane).
-
-**Przeciwszkorbutowe**  
-
-korzeń chrzanu.  
-owoc - dzikiej róży, jarzębiny.  
-liść - orzecha włoskiego.  
-ziele - bluszczyku.
-
-**Regeneracja śluzówki**  
-dróg oddechowych i trawiennych
-
-śliwki suszone.  
-liść - podbiału.  
-ziele - bukwicy, rzepiku.  
-korzeń - żywokostu.  
-nasiona - lnu (siemie lniane).
-
-**Regulacja menstruacji**  
-
-kminek, czarnuszka.  
-kwiat - nagietka, jasnoty białej, koniczyny, wrotyczu.  
-ziele - dziurawca, szanty, szałwii, tymianku.  
-korzeń - lubczyka.  
-nasiona - pietruszki.
-
-**Ściągające (przeciwbiegunkowe)**  
-
-kwiat - rumianku.  
-owoc - dzikiej róży, jarzębiny, czarnej jagody.  
-liść - orzecha włoskiego, czarnej porzeczki, maliny, pokrzywy, czarnej jagody, borówki, barwinka.  
-ziele - rzepiku, przywrotnika, świetlika, dziurawca, rdestu ptasiego, srebrnika, płucnika-miodunki, szałwii, cząbru, nawłoci, macierzanki, tymianku, werbeny, przetacznika.  
-kora - dębu, kasztanowca, wierzby.  
-korzeń - kulika, zywokostu.  
-kłącze - pięciornika.
-
-**Trawienne**  
-
-majeranek, czosnek, cebupa, kminek, kolendra, koper włoski, chrzan.  
-kwiat - rumianku, wrzosu, kocanki, lawendy.  
-owoc - jałowca.  
-liść - pokrzywy.  
-ziele - bylicy bożodrzewu, piołunu, bylicy pospolitej, macierzanki, tysiącznika, drapacza, dziurawca, hyzopu, nostrzyka, szałwii, nawłoci, przetacznika.  
-korzeń - arcydzięgiela, podróżnika.  
-kłącze - tataraku.  
-szyszki - chmielu.  
-nasiona - czarnuszki, gorczycy.
-
-**Uspokojenie układu nerwowego**  
-
-owoc - dzikiej róży.  
-ziele - bylicy pospolitej, macierzanki.  
-korzeń - kozłka, arcydzięgiela.
-
-**Uśmierzenie bólu**  
-
-kwiat - rumianku.  
-owoc - kasztanowca.  
-liść - mięty, barwinka.  
-ziele - nostrzyka.
-
-**Niedomaganie wątroby**  
-
-owoc - jałowca, dzikiej róży, bzu czarnego.  
-liść - bobrka, rozmarynu.  
-ziele - dziurawca, krwawnika, tysiącznika, glistnika, dymnicy, lawendy.  
-kora - kruszyny.  
-korzeń - podróżnika, mniszka.  
-kłącze - rzewienia.  
-znamię - kukurydzy.
-
-**Wykrztuśne i przeciwkaszlowe**  
-
-surowa i gotowana cebula, koper włoski, anyż, majeranek.  
-kwiat - kasztanowca.  
-liść - podbiału.  
-ziele - bluszczyku, połonicznika, hyzopu, szanty, płucnika-miodunki, macierzanki, tymianku, przetacznika, bratka polnego.  
-korzeń - arcydzięgiela, lukrecji, omanu, mydlnicy.  
-kłącze - tataraku, kosaćca.  
-nasiona - kozieradki.
-
-**Wzmacniające**  
-
-kminek, kolendra.  
-kwiat - stokrotki.  
-owoc - dzikiej róży.  
-liść - czarnej porzeczki, maliny, pokrzywy, barwinka.  
-ziele - rzepiku, krwawnika, bylicy bożodrzewu, piołunu, bylicy pospolitej, bukwicy, świetlika, bluszczyku, dziurawca, macierzanki, tymianku, werbeny, przetacznika, bratka polnego.  
-korzeń - podróżnika, kuklika, goryszu, mniszka.  
-szyszki - chmielu.  
-nasiona - kozieradki, lnu (siemię lniane).
-
-**Lepsza przemiana materii**  
-
-liść - orzecha włoskiego.  
-ziele - rzepiku, poziomki, dymnicy, dziurawca, krwawnika.  
-kłącze - perzu.  
-nasiona - kozieradki.  
-znamię - kukurydzy.  
-gąbka słodkowodna.
-
-**Nadmierna fermentacja i wzdęcia**  
-
-kminek, koper włoski, anyż.  
-kwiat - lawendy, rumianku pospolitego.  
-liść - mięty, maliny.  
-ziele - cząbru.  
-korzeń - arcydzięgiela, lubczyka, goryszu.  
-nasiona - pietruszki.
+| **Bakteriobójcze** | czosnek, cebula, majeranek.<br>kwiat - rumianku pospolitego, wrotyczu.<br>liść - mącznicy, borówki, owoce czarnej jagody.<br>ziele - piołunu, dziurawca, szanty, mięty, szałwii, macierzanki, tymianku.<br>kora - wierzby.<br>korzeń - omanu.<br>kłącze - kosaćca. |
+| --- | --- |
+| **Gojenie ran i skaleczeń** | pączek - topoli.<br>kwiat - nagietka, jasnoty, rumianku pospolitego.<br>liść - orzecha włoskiego.<br>ziele - drapacza, dziurawca, lnicy, rdestu ptasiego, szałwii.<br>korzeń - żywokostu. |
+| **Hamowanie krwawień**<br>wewnętrznych i zewnętrznych | liść - pokrzywy, barwinka.<br>ziele - krwawnika, tasznika, skrzypu, rdestu ptasiego, rdestu ostrogorzkiego.<br>kora - kaliny.<br>kłącze - pięciornika. |
+| **Oczyszczanie krwi**<br>ze złogów i pozostałości po zatruciach | kwiat - stokrotki, kocanki.<br>liść - barwinka, borówki, maliny, brzozy.<br>ziele - bratka polnego, przetacznika, poziomli, bluszczyku, skrzypu, drapacza, ogórecznika.<br>korzeń - łopianu.<br>szyszka - chmielu.<br>nasiona - kozieradki. |
+| **Moczopędne**<br>czyszczą i leczą nerki, poprawiają ich pracę i znoszą parcie na mocz | pączek - topoli.<br>kwiat - stokrotki, wrzosu, bławatka, kocanki, jasnoty, bzu czarnego, lipy.<br>owoc - kminku, jarzębiny, jałowca, dzikiej róży.<br>liść - mącznicy, brzozy, brusznicy, czarnej jagody.<br>ziele - połonicznika, skrzypu, poziomki, rutwicy, drapacza, rzepiku, piołunu, bylicy pospolitej, macierzanki, nawłoci, werbeny, bratka polnego, hyzopu, nostrzyka, bazulii, rdestu ptasiego, płucnika-miodunki, cząbru, pokrzywy, przetacznika.<br>korzeń - łopianu, podróżnika, lukrecji, mydlnicy, omanu, kosaćca, lubczyka, goryszu, pietruszki.<br>kłącze - perzu, tataraku.<br>szyszki - chmielu.<br>strączyny - fasoli.<br>nasiona - pietruszki, czarnuszki.<br>znamię - kukurydzy. |
+| **Mlekopędne**<br>nieodzowne dla karmiących matek we wszystkich kłopotach laktacyjnych | kminek, koper włoski, anyż.<br>liść - barwinka.<br>ziele - rutwicy, bazylii.<br>nasiona - pietruszki. |
+| **Napotne**<br>wskazane przy wszystkich rodzajach przeziębień | pączek - topoli.<br>kwiat - lipy, bzu czarnego, wrzosu, nawłoci.<br>owoc - maliny, bzu czarnego.<br>liść - brzozy.<br>ziele - przetacznika, rutwicy, ogórecznika, bratka polnego.<br>korzeń - łopianu, omanu, goryszu, pietruszki.<br>kłącze - tataraku.<br>nasiona - pietruszki. |
+| **Nasenne i uspokajające** | kwiat - lawendy.<br>liść - melisy, barwinka.<br>ziele - nostrzyka, macierzanki, kurzego śladu.<br>korzeń - kozłka.<br>szyszki - chmielu. |
+| **Obniżenie ciśnienia krwi** | cebula, czosnek, biała skórka cytryny, żurawiny.<br>liść - barwinka.<br>ziele - jemioły. |
+| **Działanie osłaniające**<br>przy podrażnieniach układu oddechowego i trawiennego | kwiat - lipy, dziewanny.<br>liść - ślazu, babki, podbiału.<br>korzeń - ślazu, żywokostu.<br>nasiona - gorczycy, kozieradki, lnu (siemię lniane). |
+| **Pobudzenie czynności żołądka** | majeranek.<br>kwiat - lawendy, rumianku pospolitego.<br>liść - melisy, bobrka.<br>ziele - krwawnika, dziurawca, przywrotnika, drapacza, szanty, miety, bazylii, cząbru, nawłoci, przetacznika.<br>korzeń - lubczyka, goryszu, mydlnicy, mniszka.<br>kłącze - pięciornika, rzewienia.<br>nasiona - kozieradki. |
+| **Przeciwkrwawnicowo**<br>do stosowania doustnego przy jednoczesnym działaniu z zewnątrz | cebula surowa, śliwki suszone.<br>ziele - krwawnika, drapacza.<br>kora - kasztanowca.<br>korzeń - żywokostu.<br>nasiona - zmielone siemię lniane.<br>**Do stosowania zewnętrznego w okładach:**<br>cebula gotowana.<br>kwiat - rumianku. |
+| **Pobudzenie serca i nerwów** | kwiat - głogu.<br>liść - rozmarynu.<br>ziele - dziurawca, hyzopu, bazylii.<br>korzeń - goryszu. |
+| **Przeciwartretyczne** | liść - czarnej porzeczki.<br>ziele - rzepiku.<br>kora - wierzby.<br>nasiona - czarnuszki.<br>gąbka słodkowodna. |
+| **Przeciwcukrzycowe**<br>profilaktyka, leczenie cukrzycy i stanów przedcukrzycowych | cebula surowa i gotowana.<br>liść - pokrzywy, czarnej jagody, orzecha włoskiego.<br>ziele - rdestu ptasiego, dziurawca, krwawnika, szałwii, glistnika, rutwicy.<br>korzeń - mniszka, łopianu.<br>kłącze - perzu.<br>strączyny - fasoli. |
+| **Przeciwgorączkowe** | kwiat - lipy, bzu czarnego, rumianku rzymskiego i pospolitego, słonecznika (same płatki).<br>owoc - czarnej jagody.<br>liść - mięty, bobrka.<br>ziele - tysiącznika, drapacza.<br>kora - wierzby, kasztanowca. |
+| **Przeciwgośćcowe** | kwiat - tawuły łąkowej.<br>liść - brzozy, czarnej porzeczki.<br>ziele - skrzypu.<br>kora - wierzby.<br>nasiona - czarnuszki, gorczycy białej (suche okłady).<br>gąbka słodkowodna. |
+| **Przeciwrobacze** | czosnek.<br>kwiat - wrotyczu.<br>owoc - czarnej jagody, borówki brusznicy.<br>ziele - piołunu, macierzanki, tymianku.<br>nasiona - dyni. |
+| **Przeciwzapalne**<br>do użytku wewnętrznego | kwiat - rumianku pospolitego i rzymskiego, nagietka, bławatka.<br>ziele - srebrnika, świetlika. |
+| **Przeciwzapalne**<br>do użytku zewnętrznego (okłady z naparu) | majeranek, cebula gotowana.<br>kwiat - rumianku pospolitego.<br>liść - babki.<br>ziele - hyzopu, lnicy, szałwii.<br>kłącze - pięciornika. |
+| **Przeciwskurczowe** | majeranek, anyż, kminek, koper włoski.<br>kwiat - lawendy, rumianku pospolitego, lipy, dziewanny.<br>owoc - kolendry, bzu czarnego.<br>ziele - jaskółczego ziela, połonicznika, nostrzyka, bazylii, srebrnika, szałwii, macierzanki, tymianku, werbeny.<br>kora - wierzby.<br>korzeń - goryszu.<br>znamię - kukurydzy. |
+| **Przeciwalergiczne** | kwiat - rumianku.<br>ziele - dziurawca.<br>korzeń - kozłka.<br>można stosować łącznie. |
+| **Stany zapalne jelit** | kwiat - rumianku.<br>ziele - dziurawca, krwawnika.<br>korzeń - lukrecji. |
+| **Przeczyszczające i rozwalniające** | kwiat - kocanki.<br>owoc - bzu czarnego.<br>ziele - tysiącznika, lnicy.<br>kora - kruszyny.<br>kłącze - rzewienia.<br>strączki - senesu.<br>nasiona - lnu (siemie lniane). |
+| **Przeciwszkorbutowe** | korzeń chrzanu.<br>owoc - dzikiej róży, jarzębiny.<br>liść - orzecha włoskiego.<br>ziele - bluszczyku. |
+| **Regeneracja śluzówki**<br>dróg oddechowych i trawiennych | śliwki suszone.<br>liść - podbiału.<br>ziele - bukwicy, rzepiku.<br>korzeń - żywokostu.<br>nasiona - lnu (siemie lniane). |
+| **Regulacja menstruacji** | kminek, czarnuszka.<br>kwiat - nagietka, jasnoty białej, koniczyny, wrotyczu.<br>ziele - dziurawca, szanty, szałwii, tymianku.<br>korzeń - lubczyka.<br>nasiona - pietruszki. |
+| **Ściągające (przeciwbiegunkowe)** | kwiat - rumianku.<br>owoc - dzikiej róży, jarzębiny, czarnej jagody.<br>liść - orzecha włoskiego, czarnej porzeczki, maliny, pokrzywy, czarnej jagody, borówki, barwinka.<br>ziele - rzepiku, przywrotnika, świetlika, dziurawca, rdestu ptasiego, srebrnika, płucnika-miodunki, szałwii, cząbru, nawłoci, macierzanki, tymianku, werbeny, przetacznika.<br>kora - dębu, kasztanowca, wierzby.<br>korzeń - kulika, zywokostu.<br>kłącze - pięciornika. |
+| **Trawienne** | majeranek, czosnek, cebupa, kminek, kolendra, koper włoski, chrzan.<br>kwiat - rumianku, wrzosu, kocanki, lawendy.<br>owoc - jałowca.<br>liść - pokrzywy.<br>ziele - bylicy bożodrzewu, piołunu, bylicy pospolitej, macierzanki, tysiącznika, drapacza, dziurawca, hyzopu, nostrzyka, szałwii, nawłoci, przetacznika.<br>korzeń - arcydzięgiela, podróżnika.<br>kłącze - tataraku.<br>szyszki - chmielu.<br>nasiona - czarnuszki, gorczycy. |
+| **Uspokojenie układu nerwowego** | owoc - dzikiej róży.<br>ziele - bylicy pospolitej, macierzanki.<br>korzeń - kozłka, arcydzięgiela. |
+| **Uśmierzenie bólu** | kwiat - rumianku.<br>owoc - kasztanowca.<br>liść - mięty, barwinka.<br>ziele - nostrzyka. |
+| **Niedomaganie wątroby** | owoc - jałowca, dzikiej róży, bzu czarnego.<br>liść - bobrka, rozmarynu.<br>ziele - dziurawca, krwawnika, tysiącznika, glistnika, dymnicy, lawendy.<br>kora - kruszyny.<br>korzeń - podróżnika, mniszka.<br>kłącze - rzewienia.<br>znamię - kukurydzy. |
+| **Wykrztuśne i przeciwkaszlowe** | surowa i gotowana cebula, koper włoski, anyż, majeranek.<br>kwiat - kasztanowca.<br>liść - podbiału.<br>ziele - bluszczyku, połonicznika, hyzopu, szanty, płucnika-miodunki, macierzanki, tymianku, przetacznika, bratka polnego.<br>korzeń - arcydzięgiela, lukrecji, omanu, mydlnicy.<br>kłącze - tataraku, kosaćca.<br>nasiona - kozieradki. |
+| **Wzmacniające** | kminek, kolendra.<br>kwiat - stokrotki.<br>owoc - dzikiej róży.<br>liść - czarnej porzeczki, maliny, pokrzywy, barwinka.<br>ziele - rzepiku, krwawnika, bylicy bożodrzewu, piołunu, bylicy pospolitej, bukwicy, świetlika, bluszczyku, dziurawca, macierzanki, tymianku, werbeny, przetacznika, bratka polnego.<br>korzeń - podróżnika, kuklika, goryszu, mniszka.<br>szyszki - chmielu.<br>nasiona - kozieradki, lnu (siemię lniane). |
+| **Lepsza przemiana materii** | liść - orzecha włoskiego.<br>ziele - rzepiku, poziomki, dymnicy, dziurawca, krwawnika.<br>kłącze - perzu.<br>nasiona - kozieradki.<br>znamię - kukurydzy.<br>gąbka słodkowodna. |
+| **Nadmierna fermentacja i wzdęcia** | kminek, koper włoski, anyż.<br>kwiat - lawendy, rumianku pospolitego.<br>liść - mięty, maliny.<br>ziele - cząbru.<br>korzeń - arcydzięgiela, lubczyka, goryszu.<br>nasiona - pietruszki. |
 
 **Kąpiele lecznicze**
 
   
 
-**Zastosowanie**  
-Bóle w plecach, krzyżu, stawach, przeciwzapalne, ogólnie wzmacniające.
-
-Czas trwania - 15-20 minut, temperatura - 35-37°C.  
-Dodać do wody - 300 g kwiatu rumianku zaparzyć w 5 litrach wrzątku i pozostawić na 2 godziny. Następnie przecedzić i wlać do wanny.
-
-**Zastosowanie**  
-Niskie ciśnienie, astma, bronchit, choroby skóry, przeciwzapalne, oczyszcza stawy.
-
-Czas trwania - 15-20 minut, temperatura - 34°C.  
-Dodać do wody - 200 g liści szałwii zaparzyć w 5 litrach wrzątku i pozostawić na 2 godziny. Następnie przecedzić i wlać do wanny.
-
-**Zastosowanie**  
-Bóle kręgosłupa, kości, obrzęki kończyn.
-
-Czas trwania - 15-20 minut, temperatura - 38°C.  
-Dodać do wody - 1,5 kg gałązek świerku gotować w 5 litrach wodu przez 30 minut. Następnie przecedzić i wlać do wanny.
-
-**Zastosowanie**  
-Uspakaja system nerwowy, oczyszcza i odmładza skórę, usuwa bóle w mięśniach i stawach, zwiększa odporność.
-
-Czas trwania - 15-20 minut, temperatura - 37-38°C.  
-Dodać do wody - 2 kg zwykłej soli jodowanej, dobrze rozmieszać.
+| **Zastosowanie**<br>Bóle w plecach, krzyżu, stawach, przeciwzapalne, ogólnie wzmacniające. | Czas trwania - 15-20 minut, temperatura - 35-37°C.<br>Dodać do wody - 300 g kwiatu rumianku zaparzyć w 5 litrach wrzątku i pozostawić na 2 godziny. Następnie przecedzić i wlać do wanny. |
+| --- | --- |
+| **Zastosowanie**<br>Niskie ciśnienie, astma, bronchit, choroby skóry, przeciwzapalne, oczyszcza stawy. | Czas trwania - 15-20 minut, temperatura - 34°C.<br>Dodać do wody - 200 g liści szałwii zaparzyć w 5 litrach wrzątku i pozostawić na 2 godziny. Następnie przecedzić i wlać do wanny. |
+| **Zastosowanie**<br>Bóle kręgosłupa, kości, obrzęki kończyn. | Czas trwania - 15-20 minut, temperatura - 38°C.<br>Dodać do wody - 1,5 kg gałązek świerku gotować w 5 litrach wodu przez 30 minut. Następnie przecedzić i wlać do wanny. |
+| **Zastosowanie**<br>Uspakaja system nerwowy, oczyszcza i odmładza skórę, usuwa bóle w mięśniach i stawach, zwiększa odporność. | Czas trwania - 15-20 minut, temperatura - 37-38°C.<br>Dodać do wody - 2 kg zwykłej soli jodowanej, dobrze rozmieszać. |
 
 ---
 
@@ -4936,25 +2027,12 @@ Zaparcia, wzdęcia brzucha, skórne egzemy, wągry, alergie, czarny nalot na zę
 
 **Profilaktyka.**
 
-**•** 
-
-Ograniczyć spożywanie następujących produktów: mięsa, czekolady, słodyczy, cukru, krowiego mleka, jaj, białego chleba.
-
-**•** 
-
-Pić rano i wieczorem po 1 szklance kefiru.
-
-**•** 
-
-Dokładnie żuć pokarmy (każdy kawałek po 35-50 razy).
-
-**•** 
-
-Nie popijać w trakcie jedzenia.
-
-**•** 
-
-Zmniejszyć spożywanie kawy i herbaty.
+| **•** | Ograniczyć spożywanie następujących produktów: mięsa, czekolady, słodyczy, cukru, krowiego mleka, jaj, białego chleba. |
+| --- | --- |
+| **•** | Pić rano i wieczorem po 1 szklance kefiru. |
+| **•** | Dokładnie żuć pokarmy (każdy kawałek po 35-50 razy). |
+| **•** | Nie popijać w trakcie jedzenia. |
+| **•** | Zmniejszyć spożywanie kawy i herbaty. |
 
 **Test na sprawdzenie prawidłowej pracy jelita grubego.**
 
@@ -4981,33 +2059,19 @@ Dla tych, dla których powyższy sposób oczyszczania jelita grubego jest nie do
 
 **OCZYSZCZENIE KEFIREM**
 
-**Pierwszy dzień**
-
-Wypić 2,5 litra kefiru w 6 dawkach wraz z sucharkami z czarnego pieczywa (nie spożywać żadnych posiłków).
-
-**Drugi dzień**
-
-wypić 1,5 do 2 litrów soku z jabłek w 6 dawkach wraz z sucharkami z czarnego pieczywa. Sok powinien być świeżo przygotowany, jabłka powinny być słodkie (nie spożywać żadnych posiłków).
-
-**Trzeci dzień**
-
-W ciągu dnia jeść tylko sałatki z gotowanych warzyw (buraki, marchew, ziemniaki, można dodać kiszone ogórki, kiszoną kapustę, cebulę, olej roślinny wraz z sucharkami z ciemnego pieczywa.
+| **Pierwszy dzień** | Wypić 2,5 litra kefiru w 6 dawkach wraz z sucharkami z czarnego pieczywa (nie spożywać żadnych posiłków). |
+| --- | --- |
+| **Drugi dzień** | wypić 1,5 do 2 litrów soku z jabłek w 6 dawkach wraz z sucharkami z czarnego pieczywa. Sok powinien być świeżo przygotowany, jabłka powinny być słodkie (nie spożywać żadnych posiłków). |
+| **Trzeci dzień** | W ciągu dnia jeść tylko sałatki z gotowanych warzyw (buraki, marchew, ziemniaki, można dodać kiszone ogórki, kiszoną kapustę, cebulę, olej roślinny wraz z sucharkami z ciemnego pieczywa. |
 
 Stosować dwa razy w miesiącu.
 
 **OCZYSZCZENIE OWOCAMI**
 
-**Sposób I**
-
-Śliwki suszone 400 g, daktyle 200 g, morele 200 g, figi 200 g - wszystko to zmielić. Do otrzymanej masy dodać 200 g miodu i wszystko razem wymieszać. Przechowywać w szklanym naczyniu w lodówce. Spożywać wieczorem przed snem po 1 stołowej łyżce, póki się nie skończy. Kurację należy stosować raz na 3 miesiące.
-
-**Sposób II**
-
-Dwie pomarańcze obrać ze skórki na 1-2 mm, tak aby na owocach pozostał biały miąższ. Razem z białym miąższem jeść pomarańcze na noc 2 godziny po ostatnim posiłku. Stosować przez 14 dni.
-
-**Sposób III**
-
-Wieczorem do szklanki zsiadłego mleka włożyć 10 suszonych śliwek, odstawić na noc. Rano na czczo wypić zsiadłe mleko, zjeść śliwki. Następnie znowu zalać 10 suszonych śliwek zsiadłym mlekiem. Odstawić do wieczora. Wieczorem, przed snem wypić zsiadłe mleko i zjeść sliwki. Kurację powtórzyć przez 10 dni. Stosować raz na 3 miesiące.
+| **Sposób I** | Śliwki suszone 400 g, daktyle 200 g, morele 200 g, figi 200 g - wszystko to zmielić. Do otrzymanej masy dodać 200 g miodu i wszystko razem wymieszać. Przechowywać w szklanym naczyniu w lodówce. Spożywać wieczorem przed snem po 1 stołowej łyżce, póki się nie skończy. Kurację należy stosować raz na 3 miesiące. |
+| --- | --- |
+| **Sposób II** | Dwie pomarańcze obrać ze skórki na 1-2 mm, tak aby na owocach pozostał biały miąższ. Razem z białym miąższem jeść pomarańcze na noc 2 godziny po ostatnim posiłku. Stosować przez 14 dni. |
+| **Sposób III** | Wieczorem do szklanki zsiadłego mleka włożyć 10 suszonych śliwek, odstawić na noc. Rano na czczo wypić zsiadłe mleko, zjeść śliwki. Następnie znowu zalać 10 suszonych śliwek zsiadłym mlekiem. Odstawić do wieczora. Wieczorem, przed snem wypić zsiadłe mleko i zjeść sliwki. Kurację powtórzyć przez 10 dni. Stosować raz na 3 miesiące. |
 
 **OCZYSZCZENIE WARZYWAMI**
 
@@ -5021,85 +2085,23 @@ Wszystkie zabiegi zdrowotne należy wykonynać w określonej kolejności. Pierws
 
 Po przeprowadzeniu cyklu oczyszczenia jelita grubego należy się nauczyć prawidłowo łączyć pokarm i zadbać o odbudowę zdrowej flory bakteryjnej jelita grubego.
 
-**NAJGORSZE POŁĄCZENIE**
-
-**NAJLEPSZE POŁĄCZENIE**
-
-**Mięso (wszystkie rodzaje)**
-
-zielone warzywa
-
-mleko, skrobia, słodycze, inne białka, kwaśne owoce, olej masło śmietankowe, śmietana
-
-**Skrobia (chleb, ziemniaki)**
-
-zielone warzywa, tłuszcze roślinne i zwierzęce
-
-wszystkie białka, wszystkie owoce, cukry, kwasy
-
-**Zielone warzywa**
-
-wszystkie białka, wszystkie produkty zbożowe
-
-mleko
-
-**Orzechy (większość rodzajów)**
-
-zielone warzywa, kwaśne owoce
-
-mleko, skrobia, słodycze, inne białka, masło śmietankowe, olej roślinny
-
-**Jaja**
-
-zielone warzywa
-
-mleko, skrobia, słodycze, inne białka, kwaśne produkty, olej roślinny
-
-**Mleko**
-
-spożywać oddzielnie, można z kwaśnymi owocami
-
-wszystkie białka, zielone warzywa, produkty skrobiowe
-
-**Tłuszcze zwierzęce**
-
-wszystkie rośliny zbożowe
-
-wszystkie białka
-
-**Melon (wszystkie rodzaje)**
-
-zawsze spożywać oddzielnie
-
-wszystkie produkty
-
-**Rośliny zbożowe (pszenica, żyto, owies)**
-
-zielone warzywa
-
-kwaśne owoce, wszystkie białka, wszystkie słodycze, mleko
-
-**Rośliny strączkowe**
-
-zielone warzywa
-
-wszystkie białka, wszystkie słodycze, owoce (wszystkie rodzaje), masło śmietankowe, śmietanka
-
-**Owoce niekwaśne i półkwaśne**
-
-kwaśne mleko
-
-kwaśne owoce, skrobia, białka, mleko
-
-**Owoce kwaśne**
-
-orzechy, kwaśne mleko i inne kwaśne owoce
-
-wszystkie słodycze, skrobia (pieczywo, zboża), białka z wyjątkiem orzechów
-
-**NAJLEPSZE POŁĄCZENIE**
-
-**NAJGORSZE POŁĄCZENIE**
+| 🟥 | **NAJGORSZE POŁĄCZENIE** | 🟥 |   |
+| --- | --- | --- | --- |
+| 🟩 **NAJLEPSZE POŁĄCZENIE** |   |   |   |
+| **Mięso (wszystkie rodzaje)** |   | zielone warzywa | mleko, skrobia, słodycze, inne białka, kwaśne owoce, olej masło śmietankowe, śmietana |
+| **Skrobia (chleb, ziemniaki)** |   | zielone warzywa, tłuszcze roślinne i zwierzęce | wszystkie białka, wszystkie owoce, cukry, kwasy |
+| **Zielone warzywa** |   | wszystkie białka, wszystkie produkty zbożowe | mleko |
+| **Orzechy (większość rodzajów)** |   | zielone warzywa, kwaśne owoce | mleko, skrobia, słodycze, inne białka, masło śmietankowe, olej roślinny |
+| **Jaja** |   | zielone warzywa | mleko, skrobia, słodycze, inne białka, kwaśne produkty, olej roślinny |
+| **Mleko** |   | spożywać oddzielnie, można z kwaśnymi owocami | wszystkie białka, zielone warzywa, produkty skrobiowe |
+| **Tłuszcze zwierzęce** |   | wszystkie rośliny zbożowe | wszystkie białka |
+| **Melon (wszystkie rodzaje)** |   | zawsze spożywać oddzielnie | wszystkie produkty |
+| **Rośliny zbożowe (pszenica, żyto, owies)** |   | zielone warzywa | kwaśne owoce, wszystkie białka, wszystkie słodycze, mleko |
+| **Rośliny strączkowe** |   | zielone warzywa | wszystkie białka, wszystkie słodycze, owoce (wszystkie rodzaje), masło śmietankowe, śmietanka |
+| **Owoce niekwaśne i półkwaśne** |   | kwaśne mleko | kwaśne owoce, skrobia, białka, mleko |
+| **Owoce kwaśne** |   | orzechy, kwaśne mleko i inne kwaśne owoce | wszystkie słodycze, skrobia (pieczywo, zboża), białka z wyjątkiem orzechów |
+| 🟩 **NAJLEPSZE POŁĄCZENIE** |   |   |   |
+| 🟥 | **NAJGORSZE POŁĄCZENIE** | 🟥 |   |
 
 **OCZYSZCZENIE JELIT I ODTWARZANIE FLORY BAKTERYJNEJ**
 
@@ -5113,53 +2115,26 @@ W czasie spożywania czosnku może się wzmóc bicie serca u osób z zaburzeniam
 
 **Niektóre objawy zanieczyszczenia wątroby.**
 
-**•** 
-
-Pojawienie się na ciele piegów, znamion brązowych i brodawek, brązowe plamy przy korzeniach włosów.
-
-**•** 
-
-Zimna i wilgotna skóra ciała i rąk, zabarwiony na żółto spód języka.
-
-**•** 
-
-Brak możliwości zrobienia prawą nogą kroku takiej samej długości jak lewą.
+| **•** | Pojawienie się na ciele piegów, znamion brązowych i brodawek, brązowe plamy przy korzeniach włosów. |
+| --- | --- |
+| **•** | Zimna i wilgotna skóra ciała i rąk, zabarwiony na żółto spód języka. |
+| **•** | Brak możliwości zrobienia prawą nogą kroku takiej samej długości jak lewą. |
 
 **Przyczyny nieprawidłowej pracy wątroby.**
 
-**•** 
-
-Nadmierne spożywanie - posiłków i płynów, cukru, produktów cukrowych, owogów i alkoholu, tłuszczów, oleju roślinnego i tłustego mięsa, posiłków gotowanych i rafinowanych, świeżego chleba i wyrobów mącznych .
-
-**•** 
-
-Przyzwyczajenie do spożywania posiłków przed snem lub w nocy.
+| **•** | Nadmierne spożywanie - posiłków i płynów, cukru, produktów cukrowych, owogów i alkoholu, tłuszczów, oleju roślinnego i tłustego mięsa, posiłków gotowanych i rafinowanych, świeżego chleba i wyrobów mącznych . |
+| --- | --- |
+| **•** | Przyzwyczajenie do spożywania posiłków przed snem lub w nocy. |
 
 **Profilaktyka.**
 
-**•** 
-
-Zmniejszyć ilość spożywanych posiłków.
-
-**•** 
-
-Nie jeść śniadania.
-
-**•** 
-
-Spożywać więcej gotowanych warzyw (do 40%) od ogólnej ilości posiłków na dobę.
-
-**•** 
-
-Zimą jeść więcej kwaszonej kapusty.
-
-**•** 
-
-Jeść więcej twarogu, pić więcej zsiadłego mleka, kefiru.
-
-**•** 
-
-Spożywać wszystko przygotowane świeżo (nie jeść odgrzewanych lub z poprzedniego dnia).
+| **•** | Zmniejszyć ilość spożywanych posiłków. |
+| --- | --- |
+| **•** | Nie jeść śniadania. |
+| **•** | Spożywać więcej gotowanych warzyw (do 40%) od ogólnej ilości posiłków na dobę. |
+| **•** | Zimą jeść więcej kwaszonej kapusty. |
+| **•** | Jeść więcej twarogu, pić więcej zsiadłego mleka, kefiru. |
+| **•** | Spożywać wszystko przygotowane świeżo (nie jeść odgrzewanych lub z poprzedniego dnia). |
 
 **Częstotliwość oczyszczania wątroby**. Pierwsze czyszczenie jest najtrudniejsze, ponieważ organizm traci dużo sił. Zwykle jest wydalane dużo starej żółci, pleśni, białych nici, zielonych "koreczków" (cholesterol) ale kamieni może nie być. To nie oznacza, że oczyszczanie się nie udało. Po prostu wątroba jest silnie zanieczyszczona i podczas kolejnych oczyszczeń pojawią się kamienie. Drugie oczyszczanie jest już łatwiej przeprowadzić. Powinno się odbyć po **3-4 tygodniach**, a następne oczyszczenia przeprowadzamy **raz na 3 miesiące**. Jeśli po 2 dniach od pierwszego oczyszczania odczuwamy ciężkość w wątrobie, zabieg oczyszczania należy powtórzyć już po 2 tygodniach. Po 5-7 oczyszczeniach kurację można przeprowadzać raz na rok.
 
@@ -5268,47 +2243,15 @@ Po przecedzeniu łączymy obydwa zestawy i mamy gotowy środek do oczyszczania w
 
 **Dawki dla dzieci**:
 
-**Wiek w latach**
-
-**Ilość**
-
-**Długość kuracji**
-
-1-3
-
-4 razy dziennie po 1 łyżeczce od herbaty
-
-2 tygodnie
-
-3-5
-
-4 razy dziennie po 2 łyżeczki od herbaty
-
-2 tygodnie
-
-5-7
-
-4 razy dziennie po 1 łyżce stołowej
-
-2 tygodnie
-
-7-10
-
-4 razy dziennie po 2 łyżki stołowe
-
-2 tygodnie
-
-10-15
-
-4 razy dziennie po 4 łyżki stołowe
-
-2 tygodnie
-
-powyżej 14
-
-4 razy dziennie po 150 ml
-
-do wyczerpania
+| 🟩 **Wiek w latach** | 🟩 **Ilość** | 🟩 **Długość kuracji** |
+| --- | --- | --- |
+| ⬜ |   |   |
+| 1-3 | 4 razy dziennie po 1 łyżeczce od herbaty | 2 tygodnie |
+| 3-5 | 4 razy dziennie po 2 łyżeczki od herbaty | 2 tygodnie |
+| 5-7 | 4 razy dziennie po 1 łyżce stołowej | 2 tygodnie |
+| 7-10 | 4 razy dziennie po 2 łyżki stołowe | 2 tygodnie |
+| 10-15 | 4 razy dziennie po 4 łyżki stołowe | 2 tygodnie |
+| powyżej 14 | 4 razy dziennie po 150 ml | do wyczerpania |
 
 Jeśli mieszankę przyrządzamy tylko dla dzieci, to składniki wyjściowe zmniejszamy proporcjonalnie dla wieku - 1-3 lat (10 razy), 3-5 (8 razy), 7-10 (6 razy), 10-15 (4 razy). Kuracje można przeprowadzać 2 razy w roku.
 
@@ -5330,35 +2273,18 @@ Pojawienie się worków pod oczami, białe kropki na paznokciach, wilgotne dłon
 
 **Niektóre przyczyny nieprawidłowej pracy nerek.**
 
-**•** 
-
-Nagromadzenie śluzu, z którego powstają kamienie.
-
-**•** 
-
-Rozszerzenie nerek od nadmiaru spożycia płynów.
-
-**•** 
-
-Zwężenie nerek od nadmiaru spożywania soli, mięsa, ryb, pieczywa, słodyczy, produktów mącznych i rafinowanych.
+| **•** | Nagromadzenie śluzu, z którego powstają kamienie. |
+| --- | --- |
+| **•** | Rozszerzenie nerek od nadmiaru spożycia płynów. |
+| **•** | Zwężenie nerek od nadmiaru spożywania soli, mięsa, ryb, pieczywa, słodyczy, produktów mącznych i rafinowanych. |
 
 **Zewnętrzne objawy złej pracy nerek.**
 
-**•** 
-
-Jeśli pod oczami pojawiają się worki, świadczy to o nadmiarze płynów i złogów tłuszczu w nerkach. Jeśli przy dotyku worek jest miękki, to świadczy o dużych ilościach spożywanych płynów. Jeśli jest twardy, jest to spowodowane nadmiarem spożywania żółtego sera, tłustych produktów mlecznych, tłustego mięsa, tłuszczu zwierzęcego i słodyczy.
-
-**•** 
-
-Jeśli powieki są zaczerwienione, jest to oznaka tworzenia się kamieni.
-
-**•** 
-
-Jeśli wokół oczu pojawiają się ciemnobrązowe koła, świadczy to o spożywaniu dużej ilości soli i produktów zawierających sole. W takich przypadkach należy przejść na dietę bez soli (zamiast soli używać różnego rodzaju przypraw np. suszonego czosnku lub pietruszki.
-
-**•** 
-
-Jeśli oddajemy mocz częściej niż 3-4 razy dziennie należy zmniejszyć ilość spożywanych płynów. Kolor moczu powinien mieć barwę jasnego piwa. Jeśli kolor jest bardzo jasny, to należy spożywać więcej soli, jeśli ciemny, to spożycie soli należy zmniejszyć.
+| **•** | Jeśli pod oczami pojawiają się worki, świadczy to o nadmiarze płynów i złogów tłuszczu w nerkach. Jeśli przy dotyku worek jest miękki, to świadczy o dużych ilościach spożywanych płynów. Jeśli jest twardy, jest to spowodowane nadmiarem spożywania żółtego sera, tłustych produktów mlecznych, tłustego mięsa, tłuszczu zwierzęcego i słodyczy. |
+| --- | --- |
+| **•** | Jeśli powieki są zaczerwienione, jest to oznaka tworzenia się kamieni. |
+| **•** | Jeśli wokół oczu pojawiają się ciemnobrązowe koła, świadczy to o spożywaniu dużej ilości soli i produktów zawierających sole. W takich przypadkach należy przejść na dietę bez soli (zamiast soli używać różnego rodzaju przypraw np. suszonego czosnku lub pietruszki. |
+| **•** | Jeśli oddajemy mocz częściej niż 3-4 razy dziennie należy zmniejszyć ilość spożywanych płynów. Kolor moczu powinien mieć barwę jasnego piwa. Jeśli kolor jest bardzo jasny, to należy spożywać więcej soli, jeśli ciemny, to spożycie soli należy zmniejszyć. |
 
 **OCZYSZCZENIE SOKAMI WARZYWNYMI (wybrać)**
 
@@ -5427,89 +2353,21 @@ Po przeprowadzeniu oczyszczania musimy trochę zmienić nawyki żywieniowe. Prze
 
 Do stosowania przy chorobach - **osteoporoza, podagra, chroniczny reumatyzm, kamienie żółciowe i nerkowe, anemia, dna moczanowa, niektóre choroby nerwowe, cukrzyca, nadwaga, nadciśnienie, katar żołądka, choroby wątroby**. Kurację prowadzimy sokiem z cytryny przez 10 dni (profilaktyczna) lub 12 dni (lecznicza). Obok kuracji leczniczej podaje kuracje profilaktyczną, która należy przeprowadzać najlepiej wczesną wiosną lub późną jesienią w okresie epidemii grypy, angin i przeziębień.
 
-**KURACJA  
-PROFILAKTYCZNA**
-
----
-
-Ilość cytryn na sok
-
-**DZIEŃ KURACJI**
-
-**KURACJA  
-LECZNICZA**
-
----
-
-Ilość cytryn na sok
-
-**1**
-
-**pierwszy**
-
-**5**
-
-**2**
-
-**drugi**
-
-**10**
-
-**3**
-
-**trzeci**
-
-**15**
-
-**4**
-
-**czwarty**
-
-**20**
-
-**5**
-
-**piąty**
-
-**25**
-
-**5**
-
-**szósty**
-
-**25**
-
-**4**
-
-**siódmy**
-
-**25**
-
-**3**
-
-**ósmy**
-
-**25**
-
-**2**
-
-**dziewiąty**
-
-**20**
-
-**1**
-
-**dziesiąty**
-
-**15**
-
-**jedenasty**
-
-**10**
-
-**dwunasty**
-
-**5**
+| 🟩 **KURACJA<br>PROFILAKTYCZNA**<br>---<br>Ilość cytryn na sok | **DZIEŃ KURACJI** | 🟧 **KURACJA<br>LECZNICZA**<br>---<br>Ilość cytryn na sok |
+| --- | --- | --- |
+| ⬜ |   |   |
+| 🟩 **1** | **pierwszy** | 🟧 **5** |
+| 🟩 **2** | **drugi** | 🟧 **10** |
+| 🟩 **3** | **trzeci** | 🟧 **15** |
+| 🟩 **4** | **czwarty** | 🟧 **20** |
+| 🟩 **5** | **piąty** | 🟧 **25** |
+| 🟩 **5** | **szósty** | 🟧 **25** |
+| 🟩 **4** | **siódmy** | 🟧 **25** |
+| 🟩 **3** | **ósmy** | 🟧 **25** |
+| 🟩 **2** | **dziewiąty** | 🟧 **20** |
+| 🟩 **1** | **dziesiąty** | 🟧 **15** |
+|   | **jedenasty** | 🟧 **10** |
+|   | **dwunasty** | 🟧 **5** |
 
 Jak przygotować sok z cytryny - cytrynę należy przekroić na pół i każdą połówkę wycisnąć. Sok pić bez dodatku cukru i bez rozcieńczania wodą (w kuracji profilaktycznej można rozcieńczyć wodą i dodać łyżeczkę miodu na szklankę soku). Wyciśniętych połówek nie wyrzucać, a drobno pokroić, przełożyć do słoika, zalać miodem lub posypać cukrem i po 10 godzinach mamy esencję, którą można pić zamiast herbaty, dodając wodę mineralna lub przegotowaną. Taką samą kurację leczniczą przeprowadzamy lecząc kamienie. Podczas leczenia mocz zmienia kolor na ciemny i pojawić się w nim może ceglany osad (są to sole moczanowe) i w pierwszej fazie leczenia może być go dużo, co świadczy o gwałtownym usuwaniu kwasu moczowego. Pod koniec kuracji kolor moczu staje się bursztynowy i nie zawiera osadów.
 
@@ -5517,25 +2375,12 @@ Kwas cytrynowy jest jedynym kwasem wiążącym wapń w organizmie tworząc sól,
 
 **OCZYSZCZENIE UKŁADU MOCZOWO-PŁCIOWEGO**
 
-**•** 
-
-W pierwszym dniu do 1/2 litrowego słoika wsypać 2 łyżki nieoczyszczonego ryżu, nalać do pełna zimnej przegotowanej wody i odstawić na 24 godziny.
-
-**•** 
-
-W drugim dniu wziąć drugi słoik, nasypać do niego ryżu, zalać wodą. Z pierwszego słoika ryż przepłukać, znów zalać wodą i odstawić na 24 godziny.
-
-**•** 
-
-W powyższy sposób codziennie dodawać po nowym słoiku, a w pozostałych przepłukiwać ryż i zalewać wodą. Po pięciu dniach będziemy mieli 5 słoików z zamoczonym ryżem.
-
-**•** 
-
-W szóstym dniu ugotować ryż, który był w słoiku numer 1. Gotować 15 minut i od razu zjeść niczym nie zagryzając. Mozna jedynie dodać niewiele masła smietankowego lub oleju roślinnego, ale w żadnym wypadku soli. Po zjedzeniu ryżu przez 3 godziny nie należy nic jeść ani pić. Do słoika nr 1 znów nasypać ryżu, zalać wodą i postawić za słoikiem numer 5.
-
-**•** 
-
-Tak postępować przez 2 miesiące, po kolei przestawiać słoiki.
+| **•** | W pierwszym dniu do 1/2 litrowego słoika wsypać 2 łyżki nieoczyszczonego ryżu, nalać do pełna zimnej przegotowanej wody i odstawić na 24 godziny. |
+| --- | --- |
+| **•** | W drugim dniu wziąć drugi słoik, nasypać do niego ryżu, zalać wodą. Z pierwszego słoika ryż przepłukać, znów zalać wodą i odstawić na 24 godziny. |
+| **•** | W powyższy sposób codziennie dodawać po nowym słoiku, a w pozostałych przepłukiwać ryż i zalewać wodą. Po pięciu dniach będziemy mieli 5 słoików z zamoczonym ryżem. |
+| **•** | W szóstym dniu ugotować ryż, który był w słoiku numer 1. Gotować 15 minut i od razu zjeść niczym nie zagryzając. Mozna jedynie dodać niewiele masła smietankowego lub oleju roślinnego, ale w żadnym wypadku soli. Po zjedzeniu ryżu przez 3 godziny nie należy nic jeść ani pić. Do słoika nr 1 znów nasypać ryżu, zalać wodą i postawić za słoikiem numer 5. |
+| **•** | Tak postępować przez 2 miesiące, po kolei przestawiać słoiki. |
 
 **OCZYSZCZENIE TARCZYCY**
 
@@ -5585,21 +2430,10 @@ Płukać nos należy rano i wieczorem. Można do płukania zastosować napar z z
 
 Higiena ucha nie jest bardzo skomplikowana, ale niezbędna dla zdrowia. Natura przewidziała okresowe czyszczenie ucha poprzez przemieszczenie woskowiny usznej, oczyszczającej ucho z zewnętrznych zanieczyszczeń. Z powodu zwiększenia ciśnienia woskowiny na błonę bębenkową możliwe są zawroty, bóle głowy i głuchota. Higiena ucha polega na prostej zasadzie - należy je gnieść, obracać w różne strony, odciągać w dół, do przodu i do tyłu. Wszystkie te ruchy zmuszają woskowinę i różne "nieczystości" do przemieszczania się w uchu i wychodzenia z niego. Masaż ucha wykonujemy w następujący sposób:
 
-• 
-
-wzgórek za uchem potrzeć w górę i w dół 8 razy,
-
-• 
-
-zagiąć małżowinę uszną do tyłu i do przodu 8 razy,
-
-• 
-
-pokręcić końce uszy zgodnie z ruchem wskazówek zagara 8 razy,
-
-• 
-
-odciągnąć płatek ucha do dołu 8 razy.
+- wzgórek za uchem potrzeć w górę i w dół 8 razy,
+- zagiąć małżowinę uszną do tyłu i do przodu 8 razy,
+- pokręcić końce uszy zgodnie z ruchem wskazówek zagara 8 razy,
+- odciągnąć płatek ucha do dołu 8 razy.
 
 Nastepnie włożyć w otwory uszu palce wskazujące obu rąk i energicznie poruszać nimi z boku na bok, po czym usunąć suche, martwe komórki, kurz i woskowinę.
 
@@ -5613,45 +2447,17 @@ Diety-cud odchudzają tylko portfele.
 
 Jeśli dokładnie przeczytałeś i zrozumiałeś o czym piszę, to nie widzę żadnych przeszkód na drodze po zdrowie. Nie musisz liczyć kalorii i stosować żadnych diet. Już po wprowadzeniu zasady pierwszego punktu będziesz szczupleć w tempie 1 kilograma na tydzień. Warto tylko zapamiętać:
 
-**1.**
-
-**Nigdy nie łącz pokarmów białkowych z węglowodanowymi.**
-
-**2.**
-
-**Nigdy nie jedz gorących potraw i nie pij gorących napojów.**
-
-**3.**
-
-**Stosuj 3-4 godzinne przerwy między posiłkami.**
-
-**4.**
-
-**Na przekąskę jedz same tylko owoce lub surówki warzywne.**
-
-**5.**
-
-**Nie popijaj podczas jedzenia. Pij pół godziny przed posiłkiem lub godzinę po posiłku.**
-
-**6.**
-
-**Ogranicz kawę i czarną herbatę. Pij soki z warzyw, owoców i ziołowe lub owocowe herbaty.**
-
-**7.**
-
-**Nie jedz smażonych potraw. Zdrowsze są gotowane lub duszone.**
-
-**8.**
-
-**Unikaj białych "zabójców" - pieczywa, cukru i słodkiego mleka.**
-
-**9.**
-
-**Codziennie pij naturalny jogurt i świeży sok z jednej cytryny.**
-
-**10.**
-
-**Najlepszym lekarstwem jest ruch. Na to tabletek nie ma i chyba nigdy nie będzie.**
+| **1.** | **Nigdy nie łącz pokarmów białkowych z węglowodanowymi.** |
+| --- | --- |
+| **2.** | **Nigdy nie jedz gorących potraw i nie pij gorących napojów.** |
+| **3.** | **Stosuj 3-4 godzinne przerwy między posiłkami.** |
+| **4.** | **Na przekąskę jedz same tylko owoce lub surówki warzywne.** |
+| **5.** | **Nie popijaj podczas jedzenia. Pij pół godziny przed posiłkiem lub godzinę po posiłku.** |
+| **6.** | **Ogranicz kawę i czarną herbatę. Pij soki z warzyw, owoców i ziołowe lub owocowe herbaty.** |
+| **7.** | **Nie jedz smażonych potraw. Zdrowsze są gotowane lub duszone.** |
+| **8.** | **Unikaj białych "zabójców" - pieczywa, cukru i słodkiego mleka.** |
+| **9.** | **Codziennie pij naturalny jogurt i świeży sok z jednej cytryny.** |
+| **10.** | **Najlepszym lekarstwem jest ruch. Na to tabletek nie ma i chyba nigdy nie będzie.** |
 
 Jeśli w pełni zastosujesz się do punktu pierwszego, a pozostałe będziesz przestrzegać przynajmniej w połowie, to lekarzy będziesz oglądać tylko w serialach telewizyjnych i z uśmiechem politowania będziesz oglądał reklamy produktów kombinatów chemicznych "dbających" o twoje zdrowie.
 
@@ -8186,108 +4992,29 @@ Czasami, po przeholowaniu kuracją antybiotykami, oczyszczanie organizmu jest d�
 
 Wszystko powinno być gotowane pod przykryciem, nic bez przykrycia. Dlatego powinniśmy mieć duże garnki, wykorzystane tylko do połowy. Nigdy nie można gotować w małym garnku. Ucieka witamina B1, której wszyscy mamy ciągły niedostatek, bo tej witaminy, podobnie jak witaminy C organizm nie kumuluje... Dlatego wszystkie garnki muszą być przykryte pokrywką i należy tak gotować, żeby z nich nic nie uciekało: pół garnka objętości i pół garnka na parę. I jeszcze jedno. Trzeba zlikwidować wszelkie aluminium w kuchni - okropnie niszczy kości i śluzówki.
 
-**Karkówka na zimno do chleba**  
-(do jedzenia zamiast wędliny)
-
-Wlewamy na dno brytfanny dwie łyżki oleju, kładziemy kilka cienkich plastrów słoniny, na nie sparzone liście kapusty i dużą karkówkę w całości. Obkładamy ją pociętymi w plastry warzywami: mmedaltwią, cebulą, ziemniakami. Można dodać jabłka obrane z łupiny, pociete na ćwiartki. Wszystko to posypać pieprzem i cynamonem, dodać jagody jałowca, wstawić pod przykrywką do piekarnika. W trakcie pieczenia wlać szklankę białego wina.
-
-**Golonka na chłodno**
-
-Przed gotowaniem golonkę należy dokładnie ogolić (nie opalamy jej), najlepiej starą maszynką do golenia. Gotujemy dość długo, tak jak na galaretę, żeby nabrała swoistej lepkości. Wyjmujemy z wywaru odejmując skórkę i mięso od kości, kroimy w kawałki i układamy warstwami, najlepiej w niewielkich, wysokich foremkach, takich jak do pieczenia pierników. Nie zalewamy wywarem, który następnego dnia możemy zużyć do ugotowania krakowskiego kapuśniaku. Golonka po schłodzeniu, a najlepiej na drugi dzień, ma ścisłą konsystencję.
-
-**Zimne nóżki**
-
-Gotujemy nóżki wieprzowe z dodatkiem jarzyn, pieprzu, owoców jałowca. Oddzielamy mięso od kości, układamy je w foremkach, zalewamy przecedzonym wywarem, do którego dodaliśmy wczesniej ząbek surowego roztartego czosnku (dake on lepszy smak i klarowność). Tłuszcz, który się zebrał po wystudzeniu, odrzucamy.
-
-**Biała kiełbasa pieczona**
-
-Białą kiełbasę nacieramy olejem słonecznikowym (żeby nie pękała) i układamy na blasze do pieczenia ciast. Następnie obkładamy warzywami według indywidualnych pomysłów, ale może to być ten sam zestaw, co przy karkówce. Pieczemy pół godziny, po czym wyjmujemy blachę z piekarnika, smarujemy kiełbasę ketschupem, na warzywa kładziemy dwie łyżki masła i ponownie zapiekamy 20 minut. Wykładamy na półmisek.
-
-**Ziemniaki po żydowsku**
-
-Ziemniaki (kupione, przyniesione z piwnicy) należy porządnie wyszczotkować pod bieżącą wodą i dopiero te czyste należy bardzo cieniutko obrać. Okazuje się, że tuż pod skórką ziemniaka są całe pokłady magnezu, kobaltu, żelaza, tych najcieższych pierwiastków, których nam ciągle brakuje.  
-Obrane ziemniaki lekko przepłukać i wrzucić do czystego garnka (najlepiej przeznaczonego tylko do gotowania ziemniaków, nie może to być garnek aluminiowy!). W garnku ziemniaków może być tylko do połowy jego wysokości.  
-Ile osób w domu, tyle główek cebuli pokrojonych w ćwiartki kładziemy na wierzchu, dodajemy szczyptę kminku, dużą łyżkę masła i dwie szklanki mleka. Nie solimy. Dopiero to wszystko zalewamy wrzącą wodą do połowy garnka, drugą połowę zostawiając na parę.  
-Przykrywamy pokrywką i gotujemy na "dobrym ogniu". Gdy stwierdzimy, że są już miękkie, solimy do smaku. Gotujemy jeszcze przez chwilę i odstawiamy. Odcedzamy do innego czystego garnka. Ziemniaki wysypujemy na półmisek, posypujemy zielonym szczypiorkiem i możemy jeść nawet bez mięsa.
-
-**Placki ziemniaczane**
-
-Ubić porządnie dwa jajka, wlać do tego pół litra przegotowanego mleka, zetrzeć na tarce dwie duże główki cebuli i dokładnie wymieszać. Jeśli ktoś lubi miękkie placki, to niech wsypie troszkę proszku do pieczenia. Dopiero teraz dodajemy do tego pięć startych ziemniaków (skrobia nigdy nie czernieje w mleku). Po wymieszaniu smażymy na oleju.  
-Jajko też ma inną strukturę, jesli jest najpierw rozbite z mlekiem. Z tak przygotowanego ciasta placki będą jasnożółte z różowym odcieniem, jak z młodych ziemniaków, łatwostrawne.
-
-**O. Grande**: jeśli zostaną na dzień następny, to wtedy należy zrobić zupę pomidorową, a zamiast ryżu dodać pokrojone w paseczki placki ziemniaczane.
-
-**Kalafior**
-
-Kalafiora nie wolno przegotować. W osolonym wrzątku, z odrobiną "Vegety" dla smaku, gotujemy kalafior około 10 minut, dolewając szklankę mleka. Następnie podbieramy go widelcami, kiedy jest jeszcze chrupki i delikatnie namaszczamy świeżutkim naturalnym masłem, zeby zrobił się aż złocisty... Uchowaj Boże "potraktować" go prażoną tartą bułką. I wątroba i trzustka jej nie tolerują.
-
-**Fasola i groch jako półprodukt**
-
-Fasolę namaczamy z dość dużą ilością kminku, który przeciwdziała wzdęciom i wytwarzaniem dużej ilości gazów. Gotujemy ją bez mięsa i bez soli dodając łyżkę masła, w tej samej wodzie, w której moczyliśmy ją z kminkiem w oddzielnym garnku. Przechowujemy w chłodnym miejscu jako półfabrykat do zupy i innych potraw np. fasolki po bretońsku.  
-Podobnie gotujemy groch (koniecznie niełuskany).
-
-**Grochówka  
-Fasolówka**
-
-Gotujemy najzwyklejszą zupę ziemniaczaną z posiekaną chudą kiełbasą, przyprawiamy majerankiem, tymiankiem i dodajemy wykonany przedtem półprodukt - fasolę lub groch.
-
-**Zupa "przeciw starości"**
-
-Siekamy trzy główki cebuli w kostkę, ścieramy na wiórki trzy mmedaltewki i pół sporego selera, kroimy w drobną kostkę trzy ziemniaki i trzy pietruszki. Wrzucamy do rondla zalewając dwoma szklankami wody. Jako przyprawa służy szczypta kminku i sól. Gotujemy do miękkości, zaprawiając na koniec pełnotłustym mlekiem. Zupa powinna mieć gęstą konsystencję.
-
-**Pieczone buraki**
-
-Kilka umytych, średniej wielkości buraków pieczemy w piekarniku na blasze (wstawiając tam kubek z wodą, żeby trochę parowało) przez około pół godziny w temperaturze 200ºC aż będą miękkie. Po ostygnięciu wkładamy do lodówki.
-
-**Kefir domowy**
-
-Mleko gotujemy na wolnym ogniu przez pół godziny, by odparowało. Pozostawiamy do ostudzenia w ciemnym garnku (najlepiej kamionkowym, tylko do kefiru). Do ostudzonego mleka dodajemy szklankę zwykłego kefiru, kupionego w sklepie, przykrywamy pokrywką i zostawiamy w ciepłym miejscu. Kefir jest gotowy do spożycia już na drugi dzień.  
-Zostawiamy szklankę tego kefiru do zakwaszenia następnego mleka.
-
-**O. Grande**: grzybki Kefira zakwaszając mleko, polują na bakterie. A ponieważ odżywiają się bakteriami gnilnymi, oczyszczaja mleko z wszelkich brudów. Poza tym wytwarzają mlekowy kwas chemiczny odwrotnie złożony, który z naszych organizmów, nawet trupi jad rakowy usuwa.
-
-**Kwas chlebowy**
-
-Trzy kilogramy sucharów z ciemnego, razowego chleba, pół kilograma miodu, dwa kilogramy cukru oraz drożdże winne. Wszystko to zalewamy wodą w dużym kamiennym garnku, przykrywamy lnianym ręcznikiem, stawiamy na dwa, trzy dni w ciepłym miejscu. Gdy zacznie fermentować, przelewamy do butelek, szczelnie zamykamy i przez kilka dni przetrzymujemy gdzieś w chłodzie. Na lato jest to znakomity, orzeźwiający i zarazem leczący napój.
-
-**Herbata**
-
-Do gotowania herbaty przeznaczamy osobny wyparzony, emaliowany czajnik. Suchą herbatę zalewamy wodą, doprowadzamy do wrzenia, gotujemy przez 2 minuty i odstawiamy na pół godziny by "naciągnęła". Z tak przygotowanej esencji robimy herbatę.  
-Dobrze zaparzona, mocna herbata zabezpiecza przed chorobami krążenia, serca, niewydolnością mózgu, kłopotami z zapaleniem śluzówki na tle ataku szczepów wirusowych, a nawet przed grypą.
-
-**Kakao**
-
-By było bez kożuchów, gotujemy kakao wieczorem na wodzie. Rano podgrzewamy i dodajemy pół na pół pełnotłustego mleka z kartonika. Napój lekko strawny, bogaty w kofeinę i tebrominę, która świetnie wpływa na pamięć, dostarcza witamin z grupy B, witaminy PP i magnezu. Kakao na mleku. Popełniamy tu podobny błąd jak przy parzeniu herbaty. Zalanie gotującym mlekiem nie wydobędzie z kakao ani właściwego zapachu ani treści odżywczych. Wystarczy zwrócić uwagę, że mleko kipi w temperaturze 85-90°C, natomiast sproszkowane kakao powyżej 100°C, jest bardziej gorące od rosołu, dłużej od niego stygnie. Prawidłowo przyrządzone przypomina płynną czekoladę, w szklance widać charakterystyczną, nie opadającą na dno zawiesinę.
-
-**Woda krzemionkowa**
-
-Kto chce mieć w domu dobrą krzemionkową wodę, którą orzeźwi się o każdej porze roku, niech zrobi tak: pół kilograma suszonego skrzypu pokruszyć, wsypać do emaliowanego garnka, zalać przefiltrowaną wodą, zostawić na noc. Rano pogotować 20 minut, odstawić. Kiedy ustoi się, przecedzić przez niezbyt gęste sitko, wlać do kamiennego wyziębionego garnka. Garnek paruje i nie pozwoli, by woda się nagrzała i w ten sposób pozyskujemy krzemionkę - wysmienitą, twardą wodę wprost do picia, do herbaty, do mycia zębów, do gotowania zup...
-
-**Woda mrożona**
-
-Kranówka zdatna do picia. Wlać wodę do garnka (w zależności od potrzeb) i trzymać odkryty przez całą noc, żeby uleciał chlor. Potem gotujemy przez 10 minut, studzimy i rozlewamy do plastikowych butelek po wodzie mineralnej. Układamy je w zamrażalniku na kilka godzin. Uważać należy by woda całkowicie nie zamarzła, bo otrzymamy efekt wybuchu granatu. Wyjmujemy, gdy częściowo przemieni się w lód. Po przemrożeniu, woda nabiera smaku i charakteru wody pierwotnej, szybciej gasi pragnienie, nie działa przeziębiająco, nawet jeśli jeszcze lód stoi w butelce. W czasie przemrożenia podlega procesowi zbliżonemu do oczyszczającej destylacji i świetnie nadaje się do bezpośredniego spożycia.
-
-**Kompot ziemniaczany**
-
-Wodę, odcedzoną po ugotowanych ziemniakach, zalewamy zimnym mlekiem w objętości 2/3 wywaru. Dodajemy siekaną rzeżuchę lub szczypiorek, mieszamy i nalewamy do kubków.
-
-**Syrop buraczany**  
-(do słodzenia)
-
-Kilkanaście buraków cukrowych myjemy i obieramy delikatnie i kroimy w drobną kostkę. Wrzucamy do sporego garnka, zalewamy wodą i zostawiamy na kilka godzin na wolnym ogniu (wodę należy uzupełniać). Po jakimś czasie z buraków zacznie wydobywać się ciecz początkowo szara, następnie koloru miodu, wreszcie właściwa - brunatna jak mocna herbata. Po ostudzeniu zlewamy do butelek lub słoików. Wygotowane buraki z garnka spożywamy po trochu, rozkoszując się naturalnym smakiem.  
-Amatorom jeszcze bardziej wyrafinowanych wrażeń smakowych polecam wzbogacenie syropu rumem (na 5 litrów syropu pół litra rumu).
-
-**Barszcz wigilijny**
-
-Bardzo dobry barszcz zrobimy z pieczonych buraków. 3-4 buraki ucieramy na tarce, zalewamy przegotowaną wodą, dodajemy ząbek czosnku, utarty z solą, trochę kwasku cytrynowego, cukier, łyżkę oleju i już jest wspaniały barszcz.
-
-**Kutia wigilijna**
-
-Przyrządza się ją z łuszczonej obtłuczonej przenicy, którą należy namoczyć, a następnie dosyć długo gotować na małym ogniu. Jałowo bez soli i cukru. Kiedy zaczyna pęcznieć dodajemy trochę świeżego masła, żeby nie pękała. Równolegle przygotowujemy mak, uprzednio dobrze wymoczony. Przepuszczamy go dwukrotnie przez maszynkę do mięsa, po czym jeszcze dobrze ucieramy w makutrze. Dodajemy do niego miód i lekko sparzone rodzynki. Przenicę formujemy w babkę, na wierzchu możemy ułożyć rozetkę z łuskanych włoskich orzechów i migdałów, a boki obkładamy makiem. Nabiera się tę potrawę dużą łyżką, po trosze wszystkiego.
-
-**Karp wigilijny**
-
-Karpia pieczemy na oleju panierując w mące i jajku na kilka godzin przed kolacją i podajemy po podgrzaniu. Organizm najlepiej toleruje rybę, która zdążyła ostygnąć i stężeć.
+| **Karkówka na zimno do chleba**<br>(do jedzenia zamiast wędliny) | Wlewamy na dno brytfanny dwie łyżki oleju, kładziemy kilka cienkich plastrów słoniny, na nie sparzone liście kapusty i dużą karkówkę w całości. Obkładamy ją pociętymi w plastry warzywami: mmedaltwią, cebulą, ziemniakami. Można dodać jabłka obrane z łupiny, pociete na ćwiartki. Wszystko to posypać pieprzem i cynamonem, dodać jagody jałowca, wstawić pod przykrywką do piekarnika. W trakcie pieczenia wlać szklankę białego wina. |
+| --- | --- |
+| **Golonka na chłodno** | Przed gotowaniem golonkę należy dokładnie ogolić (nie opalamy jej), najlepiej starą maszynką do golenia. Gotujemy dość długo, tak jak na galaretę, żeby nabrała swoistej lepkości. Wyjmujemy z wywaru odejmując skórkę i mięso od kości, kroimy w kawałki i układamy warstwami, najlepiej w niewielkich, wysokich foremkach, takich jak do pieczenia pierników. Nie zalewamy wywarem, który następnego dnia możemy zużyć do ugotowania krakowskiego kapuśniaku. Golonka po schłodzeniu, a najlepiej na drugi dzień, ma ścisłą konsystencję. |
+| **Zimne nóżki** | Gotujemy nóżki wieprzowe z dodatkiem jarzyn, pieprzu, owoców jałowca. Oddzielamy mięso od kości, układamy je w foremkach, zalewamy przecedzonym wywarem, do którego dodaliśmy wczesniej ząbek surowego roztartego czosnku (dake on lepszy smak i klarowność). Tłuszcz, który się zebrał po wystudzeniu, odrzucamy. |
+| **Biała kiełbasa pieczona** | Białą kiełbasę nacieramy olejem słonecznikowym (żeby nie pękała) i układamy na blasze do pieczenia ciast. Następnie obkładamy warzywami według indywidualnych pomysłów, ale może to być ten sam zestaw, co przy karkówce. Pieczemy pół godziny, po czym wyjmujemy blachę z piekarnika, smarujemy kiełbasę ketschupem, na warzywa kładziemy dwie łyżki masła i ponownie zapiekamy 20 minut. Wykładamy na półmisek. |
+| **Ziemniaki po żydowsku** | Ziemniaki (kupione, przyniesione z piwnicy) należy porządnie wyszczotkować pod bieżącą wodą i dopiero te czyste należy bardzo cieniutko obrać. Okazuje się, że tuż pod skórką ziemniaka są całe pokłady magnezu, kobaltu, żelaza, tych najcieższych pierwiastków, których nam ciągle brakuje.<br>Obrane ziemniaki lekko przepłukać i wrzucić do czystego garnka (najlepiej przeznaczonego tylko do gotowania ziemniaków, nie może to być garnek aluminiowy!). W garnku ziemniaków może być tylko do połowy jego wysokości.<br>Ile osób w domu, tyle główek cebuli pokrojonych w ćwiartki kładziemy na wierzchu, dodajemy szczyptę kminku, dużą łyżkę masła i dwie szklanki mleka. Nie solimy. Dopiero to wszystko zalewamy wrzącą wodą do połowy garnka, drugą połowę zostawiając na parę.<br>Przykrywamy pokrywką i gotujemy na "dobrym ogniu". Gdy stwierdzimy, że są już miękkie, solimy do smaku. Gotujemy jeszcze przez chwilę i odstawiamy. Odcedzamy do innego czystego garnka. Ziemniaki wysypujemy na półmisek, posypujemy zielonym szczypiorkiem i możemy jeść nawet bez mięsa. |
+| **Placki ziemniaczane** | Ubić porządnie dwa jajka, wlać do tego pół litra przegotowanego mleka, zetrzeć na tarce dwie duże główki cebuli i dokładnie wymieszać. Jeśli ktoś lubi miękkie placki, to niech wsypie troszkę proszku do pieczenia. Dopiero teraz dodajemy do tego pięć startych ziemniaków (skrobia nigdy nie czernieje w mleku). Po wymieszaniu smażymy na oleju.<br>Jajko też ma inną strukturę, jesli jest najpierw rozbite z mlekiem. Z tak przygotowanego ciasta placki będą jasnożółte z różowym odcieniem, jak z młodych ziemniaków, łatwostrawne.<br>**O. Grande**: jeśli zostaną na dzień następny, to wtedy należy zrobić zupę pomidorową, a zamiast ryżu dodać pokrojone w paseczki placki ziemniaczane. |
+| **Kalafior** | Kalafiora nie wolno przegotować. W osolonym wrzątku, z odrobiną "Vegety" dla smaku, gotujemy kalafior około 10 minut, dolewając szklankę mleka. Następnie podbieramy go widelcami, kiedy jest jeszcze chrupki i delikatnie namaszczamy świeżutkim naturalnym masłem, zeby zrobił się aż złocisty... Uchowaj Boże "potraktować" go prażoną tartą bułką. I wątroba i trzustka jej nie tolerują. |
+| **Fasola i groch jako półprodukt** | Fasolę namaczamy z dość dużą ilością kminku, który przeciwdziała wzdęciom i wytwarzaniem dużej ilości gazów. Gotujemy ją bez mięsa i bez soli dodając łyżkę masła, w tej samej wodzie, w której moczyliśmy ją z kminkiem w oddzielnym garnku. Przechowujemy w chłodnym miejscu jako półfabrykat do zupy i innych potraw np. fasolki po bretońsku.<br>Podobnie gotujemy groch (koniecznie niełuskany). |
+| **Grochówka<br>Fasolówka** | Gotujemy najzwyklejszą zupę ziemniaczaną z posiekaną chudą kiełbasą, przyprawiamy majerankiem, tymiankiem i dodajemy wykonany przedtem półprodukt - fasolę lub groch. |
+| **Zupa "przeciw starości"** | Siekamy trzy główki cebuli w kostkę, ścieramy na wiórki trzy mmedaltewki i pół sporego selera, kroimy w drobną kostkę trzy ziemniaki i trzy pietruszki. Wrzucamy do rondla zalewając dwoma szklankami wody. Jako przyprawa służy szczypta kminku i sól. Gotujemy do miękkości, zaprawiając na koniec pełnotłustym mlekiem. Zupa powinna mieć gęstą konsystencję. |
+| **Pieczone buraki** | Kilka umytych, średniej wielkości buraków pieczemy w piekarniku na blasze (wstawiając tam kubek z wodą, żeby trochę parowało) przez około pół godziny w temperaturze 200ºC aż będą miękkie. Po ostygnięciu wkładamy do lodówki. |
+| **Kefir domowy** | Mleko gotujemy na wolnym ogniu przez pół godziny, by odparowało. Pozostawiamy do ostudzenia w ciemnym garnku (najlepiej kamionkowym, tylko do kefiru). Do ostudzonego mleka dodajemy szklankę zwykłego kefiru, kupionego w sklepie, przykrywamy pokrywką i zostawiamy w ciepłym miejscu. Kefir jest gotowy do spożycia już na drugi dzień.<br>Zostawiamy szklankę tego kefiru do zakwaszenia następnego mleka.<br>**O. Grande**: grzybki Kefira zakwaszając mleko, polują na bakterie. A ponieważ odżywiają się bakteriami gnilnymi, oczyszczaja mleko z wszelkich brudów. Poza tym wytwarzają mlekowy kwas chemiczny odwrotnie złożony, który z naszych organizmów, nawet trupi jad rakowy usuwa. |
+| **Kwas chlebowy** | Trzy kilogramy sucharów z ciemnego, razowego chleba, pół kilograma miodu, dwa kilogramy cukru oraz drożdże winne. Wszystko to zalewamy wodą w dużym kamiennym garnku, przykrywamy lnianym ręcznikiem, stawiamy na dwa, trzy dni w ciepłym miejscu. Gdy zacznie fermentować, przelewamy do butelek, szczelnie zamykamy i przez kilka dni przetrzymujemy gdzieś w chłodzie. Na lato jest to znakomity, orzeźwiający i zarazem leczący napój. |
+| **Herbata** | Do gotowania herbaty przeznaczamy osobny wyparzony, emaliowany czajnik. Suchą herbatę zalewamy wodą, doprowadzamy do wrzenia, gotujemy przez 2 minuty i odstawiamy na pół godziny by "naciągnęła". Z tak przygotowanej esencji robimy herbatę.<br>Dobrze zaparzona, mocna herbata zabezpiecza przed chorobami krążenia, serca, niewydolnością mózgu, kłopotami z zapaleniem śluzówki na tle ataku szczepów wirusowych, a nawet przed grypą. |
+| **Kakao** | By było bez kożuchów, gotujemy kakao wieczorem na wodzie. Rano podgrzewamy i dodajemy pół na pół pełnotłustego mleka z kartonika. Napój lekko strawny, bogaty w kofeinę i tebrominę, która świetnie wpływa na pamięć, dostarcza witamin z grupy B, witaminy PP i magnezu. Kakao na mleku. Popełniamy tu podobny błąd jak przy parzeniu herbaty. Zalanie gotującym mlekiem nie wydobędzie z kakao ani właściwego zapachu ani treści odżywczych. Wystarczy zwrócić uwagę, że mleko kipi w temperaturze 85-90°C, natomiast sproszkowane kakao powyżej 100°C, jest bardziej gorące od rosołu, dłużej od niego stygnie. Prawidłowo przyrządzone przypomina płynną czekoladę, w szklance widać charakterystyczną, nie opadającą na dno zawiesinę. |
+| **Woda krzemionkowa** | Kto chce mieć w domu dobrą krzemionkową wodę, którą orzeźwi się o każdej porze roku, niech zrobi tak: pół kilograma suszonego skrzypu pokruszyć, wsypać do emaliowanego garnka, zalać przefiltrowaną wodą, zostawić na noc. Rano pogotować 20 minut, odstawić. Kiedy ustoi się, przecedzić przez niezbyt gęste sitko, wlać do kamiennego wyziębionego garnka. Garnek paruje i nie pozwoli, by woda się nagrzała i w ten sposób pozyskujemy krzemionkę - wysmienitą, twardą wodę wprost do picia, do herbaty, do mycia zębów, do gotowania zup... |
+| **Woda mrożona** | Kranówka zdatna do picia. Wlać wodę do garnka (w zależności od potrzeb) i trzymać odkryty przez całą noc, żeby uleciał chlor. Potem gotujemy przez 10 minut, studzimy i rozlewamy do plastikowych butelek po wodzie mineralnej. Układamy je w zamrażalniku na kilka godzin. Uważać należy by woda całkowicie nie zamarzła, bo otrzymamy efekt wybuchu granatu. Wyjmujemy, gdy częściowo przemieni się w lód. Po przemrożeniu, woda nabiera smaku i charakteru wody pierwotnej, szybciej gasi pragnienie, nie działa przeziębiająco, nawet jeśli jeszcze lód stoi w butelce. W czasie przemrożenia podlega procesowi zbliżonemu do oczyszczającej destylacji i świetnie nadaje się do bezpośredniego spożycia. |
+| **Kompot ziemniaczany** | Wodę, odcedzoną po ugotowanych ziemniakach, zalewamy zimnym mlekiem w objętości 2/3 wywaru. Dodajemy siekaną rzeżuchę lub szczypiorek, mieszamy i nalewamy do kubków. |
+| **Syrop buraczany**<br>(do słodzenia) | Kilkanaście buraków cukrowych myjemy i obieramy delikatnie i kroimy w drobną kostkę. Wrzucamy do sporego garnka, zalewamy wodą i zostawiamy na kilka godzin na wolnym ogniu (wodę należy uzupełniać). Po jakimś czasie z buraków zacznie wydobywać się ciecz początkowo szara, następnie koloru miodu, wreszcie właściwa - brunatna jak mocna herbata. Po ostudzeniu zlewamy do butelek lub słoików. Wygotowane buraki z garnka spożywamy po trochu, rozkoszując się naturalnym smakiem.<br>Amatorom jeszcze bardziej wyrafinowanych wrażeń smakowych polecam wzbogacenie syropu rumem (na 5 litrów syropu pół litra rumu). |
+| **Barszcz wigilijny** | Bardzo dobry barszcz zrobimy z pieczonych buraków. 3-4 buraki ucieramy na tarce, zalewamy przegotowaną wodą, dodajemy ząbek czosnku, utarty z solą, trochę kwasku cytrynowego, cukier, łyżkę oleju i już jest wspaniały barszcz. |
+| **Kutia wigilijna** | Przyrządza się ją z łuszczonej obtłuczonej przenicy, którą należy namoczyć, a następnie dosyć długo gotować na małym ogniu. Jałowo bez soli i cukru. Kiedy zaczyna pęcznieć dodajemy trochę świeżego masła, żeby nie pękała. Równolegle przygotowujemy mak, uprzednio dobrze wymoczony. Przepuszczamy go dwukrotnie przez maszynkę do mięsa, po czym jeszcze dobrze ucieramy w makutrze. Dodajemy do niego miód i lekko sparzone rodzynki. Przenicę formujemy w babkę, na wierzchu możemy ułożyć rozetkę z łuskanych włoskich orzechów i migdałów, a boki obkładamy makiem. Nabiera się tę potrawę dużą łyżką, po trosze wszystkiego. |
+| **Karp wigilijny** | Karpia pieczemy na oleju panierując w mące i jajku na kilka godzin przed kolacją i podajemy po podgrzaniu. Organizm najlepiej toleruje rybę, która zdążyła ostygnąć i stężeć. |
 
 **Poglądy prywatne**
 
@@ -8378,231 +5105,45 @@ id: medalt/grande/witaminy | dział: Zapomniana medycyna | podstrona artykułu: 
 
 Nazwę witamina zawdzięczamy polskiemu biochemikowi - Kazimierzowi Funkowi. Witaminy - związki chemiczne niezbędne do normalnego toku procesów życiowych, produkty świata roślinnego (rzadziej zwierzęcego), których organizm nie potrafi sam wytworzyć. Nie są ani źródłem energii ani materiałem budulcowym. Są dostarczane razem z pokarmami w postaci gotowej lub prowitamin. Niektóre mogą być syntezowane w jelitach przez florę bakteryjną. Są biokatalizatorami o wysokiej aktywności biologicznej. Główny podział to: rozpuszczalne w wodzie (grupa B i witamina C) oraz rozpuszczalne w tłuszczach (A, D, E, F, K). Główna ich rola to udział w regulacji metabolizmu jako koenzymy lub związki macierzyste do syntezy enzymów.
 
-**A**  
-akseroftol
-
-Jest to wspólna nazwa dla kilku związków chemicznych o podobnej budowie i działaniu biologicznym. Występuje w dwóch postaciach: retinolu (retinenu) - biologicznie czynnej witaminy oraz karotenu - prowitaminy A, którą organizm zamienia w witaminę A w przewodzie pokarmowym. Retinol znajduje się w siatkówce oka i odgrywa podstawową rolę w procesach widzenia. Jest czynnikiem wzrostowym, na wygląd i funkcje skóry, zwiększa odporność organizmu, przyczynia się do prawidłowego funkcjonowania narządów wewnętrznych. Rozpuszczalna w tłuszczach.
-
-Norma dobowa: 1-2,5 mg.  
-Możliwe objawy jej braku: tzw. kurza ślepota, zanik błon śluzowych, suchość oczu, sucha, szorstka skóra, gęsia skórka, możliwość pojawienia się chorób dróg oddechowych, zahamowanie wzrostu i rozwoju.  
-Najwięcej jej zawiera: **retinol** - tran, wątroba, żółtka jaj, masło, smietana, pełne mleko, tłuste sery; **karoten** - marchew, pomidory, papryka. W celu lepszego przyswajania karotenu warzywa należy podawać z wartościowym tłuszczem (śmietana, oleje roślinne, masło).  
-Objawy przedawkowania: cienkie, słabiutkie włosy, bolesne wargi, krwawienia z nosa, sińce, bóle głowy, bóle w stawach, opuchnięcia wzdłuż długich kości, rodzaj tężyczki.
-
----
-
-**B1**  
-tiamina
-
-Aneuryna. Bierze udział w przemianie węglowodanów i tłuszczów. W organizmie człowieka ulega fosforylacji, dając koenzym kokarboksylazę, który bierze udział we wprowadzeniu kwasu pirogronowego do cyklu Krebsa. Jest wrażliwa na działanie wysokiej temperatury i enzymów utleniających. Rozkłada się w środowisku zasadowym. Niedobór może wystąpić w przebiegu długotrwałych chorób: biegunek, chorób gorączkowych, wątroby, nadczynności tarczycy, w przewlekłym alkoholiźmie lub przy jednostronnym odżywianiu (np. beri-beri u dzieci jednostronnie odżywianych samym ryżem). Rozpuszczalna w wodzie.
-
-Norma dobowa: 1-3 mg. Picie prawdziwej kawy niszczy tę witaminę w organizmie.  
-Możliwe objawy jej braku: słaba pamięć, brak apetytu, brak koordynacji ruchów, słabe mięśnie oczne, nieskoordynowane myśli.  
-Najwięcej jej zawiera: drożdże, ziarna zboża, chleb razowy, nasiona roślin strączkowych, mleko, orzechy, żółtka jaj.  
-Objawy przedawkowania: nadmiar wydalany jest z moczem.
-
----
-
-**B2**  
-ryboflawina
-
-Inna nazwa laktoflawina. Odgrywa ważną rolę w procesach oksydoredukcyjnych organizmu. Niedobór występuje w przewlekłych biegunkach, w chorobach miąższu wątroby, przewlekłym alkoholiźmie, przy braku mleka i pokarmów białkowych w pożywieniu. Jest odporna na wysoką temperaturę, lecz bardzo łatwo rozpada się pod wpływem światła. Rozkłada się w środowisku zasadowym. Rozpuszczalna w wodzie.
-
-Norma dodbowa: 1,5-3 mg.  
-Możliwe objawy jej braku: zaczerwienienie warg, odbarwiony język, anemia, bolesne pęknięcia w kącikach ust (zajady), łzawienie i swędzenie oczu, światłowstręt, łuszcząca się skóra, zapalenie łojotokowe skóry.  
-Najwięcej jej zawiera: wątroba, mięso, chleb pełnoziarnisty, groch, mleko (laktoflawina), sery, białko jaj (owoflawina).  
-Objawy przedawkowania: nadmiar wydalany jest z moczem.
-
----
-
-**B3**  
-niacyna
-
-Amid kwasu nikotynowego, patrz witamina PP.
-
----
-
-**B6**  
-pirydoksyna
-
-Inne nazwy: pirydoksal, pirydoksamina, adermina. Bierze udział w procesach syntez komórkowych układu krwiotwórczego, nerwowego i skóry. Jest konieczna do wzrostu bakterii kwasu mlekowego. Niedobór może wystapić u małych dzieci karmionych sztucznymi odżywkami oraz u alkoholików i powoduje zmiany w błonach śluzowych i szpiku kostnym. Odporna na wysoką temperaturę. Rozpuszczalna w wodzie.
-
-Norma dobowa: 2 mg.  
-Możliwe objawy jej braku: zmiany na skórze. depresja, zatrzymanie wody w organiźmie, ciężka nerwowość, obrażenia skórne.  
-Najwięcej jej zawiera: drożdże, mięso, wątroba, ziemniaki i jarzyny.  
-Objawy przedawkowania: nadmiar wydalany jest z moczem.
-
----
-
-**B11**  
-kwas foliowy
-
-Kwas pteriloglutaminowy, witamina M. Witamina krwiotwórcza, niezbędny czynnik wzrostu. Występuje w roślinach zielonych, wątrobie, nerkach, trzustce. Wywiera korzystny wpływ na postacie niedokrwistości. W jego obecności zachodzi synteza kwasów nukleinowych i związków pirymidynowych w jądrach komórkowych
-
-Norma dobowa: 0,1-0,2 mg.  
-Możliwe objawy jej braku: zaburzenia czynności krwiotwórczej szpiku.  
-Najwięcej jej zawiera: drożdże, wątroba, jarzyny.  
-Objawy przedawkowania: brak danych.
-
----
-
-**B12**  
-kobalamina
-
-Zwana także cyjanokobalaminą. Zbadana w roku 1956. W swej cząsteczce zawiera kobalt, fosfor i azot. Czynnik przeciwanemiczny. Bierze udział w syntezie kwasów nukleinowych i białek. Jest niezbędna do prawidłowego dojrzewania erytroblastów szpiku, prawidłowego metabolizmu tkanki nerwowej i błon śluzowych przewodu pokarmowego. Rozpuszczalna w wodzie.
-
-Norma dla dorosłych: mężczyźni i kobiety - 3 μg.  
-Możliwe objawy jej braku: anemia z towarzyszeniem palpitacji serca, bolesny język, ogólne osłabienie, utrata uwagi.  
-Najwięcej jej zawiera: wątroba, mięso, jaja, mleko, przetwory mleczne.  
-Objawy przedawkowania: nadmiar wydalany jest z moczem.
-
----
-
-**B14**  
-kwas folinowy
-
-Kwas tetrahydropteroiloglutaminowy. Witamina krwiotwórcza.
-
-Norma dobowa: brak danych.  
-Możliwe objawy jej braku: niedokrwistość.  
-Najwięcej jej zawiera: wątroba.  
-Objawy przedawkowania: brak danych.
-
----
-
-**B15**  
-calgam
-
-Sól wapniowa estru kwasu glukonowego i dwumetyloglicyny. Zwiększa przyswajanie tlenu przez tkanki, usuwając objawy nieznacznego niedotlenienia. Zwiększa koncentrację umysłu i zdolność skupienia się, wzmaga aktywność życiową, polepsza samopoczucie.  
-Stosowana w miażdżycy naczyń mózgowych, wieńcowych, kończyn dolnych, w rozedmie płuc, przewlekłym zapaleniu miąższu wątroby, przewlekłym alkoholiźmie, w chorobach skóry.
-
-Norma dobowa: brak danych.  
-Możliwe objawy jej braku: brak danych.  
-Najwięcej jej zawiera: brak danych.  
-Objawy przedawkowania: brak danych.
-
-**C**  
-kwas askorbinowy
-
-Jest związkiem niezbędnym dla organizmu. Pełni ważną rolę w procesach oksydoredukcyjnych (tworzy odwracalny układ oksydacyjno-redukcyjny: kwas askorbowynkwas dehydroaskorbowy) wpływa na przemianę aminokwasów aromatycznych, metabolizm tyroksyny oraz syntezę katecholamin, hormonów steroidowych i insuliny. Bierze udział w procesach fosforyzacji glukozy i syntezy glikogenu. Przy niedoborze witaminy C dochodzi do zaburzeń syntezy kwasu hialuronowego, zaburzeń syntezy kolagenu, nieprawidłowego funkcjonowania tkanki łącznej i procesów kostnienia. Ułatwia wchłanianie żelaza i bierze udział w syntezie hemoglobiny. Stymuluje procesy odpornościowe organizmu. Dobrze się wchłania z przewodu pokarmowego. Jest wydalana przez nerki, znacznie obniża pH moczu. Rozpuszczalna w wodzie. Niszczy ją wysoka temperatura. Rozkłada się pod wpływem promieni ultrafioletowych.
-
-Norma dobowa: 50-100 mg i więcej.  
-Możliwe objawy jej braku: łatwość powstawania sińców, zaburzenia pracy przewodu pokarmowego, kłopoty z zębami, krwawienie dziąseł, chropowata skóra, powolne gojenie się ran, apatia.  
-Najwięcej jej zawiera: natka pietruszki, papryka, owoce dzikich róż  
-Objawy przedawkowania: nadmiar wydalany jest z moczem.
-
----
-
-**D**  
-
-Grupa witamin 1-5, z których najsilniejsze działanie wykazuje witamina D2, najsłabsze D4. Dzienne zapotrzebowanie na witaminę jest uzależnione od ilości dostarczonego wapnia, oraz od naświetlania skóry promieniami nadfioletowymi.
-
----
-
-**D2**  
-kalcyferol
-
-Działająca najsilniej z grupy witamin D. Prowitaminą D2 jest ergosterol. Witamina pochodzenia roślinnego. Stymuluje wchłanianie jonów wapnia z przewodu pokarmowego oraz nasila procesy wapnienia w tkance kostnej. Bierze udział w gospodarce wapnem i fosforem w ustroju. Tworzy się tylko z prowitaminy (ergosterolu) zawartej w skórze pod wpływem promieni słonecznych (promieniowanie ultrafioletowe). Rozpuszczalna w tłuszczach.
-
-Norma dla dorosłych: mężczyźni i kobiety - 200 j.m.  
-Możliwe objawy jej braku: rozmiękczenie kości (osteomalacja), bóle w kościach, łamliwość kości, tracenie zębów, krzywica.  
-Najwięcej jej zawiera: tran, jaja, mleko, masło.  
-Objawy przedawkowania: brak danych.
-
----
-
-**E**  
-tokoferol
-
-Występuje w trzech odmianach - α, β i γ. W organizmie magazynowana jest w płacie przednim przysadki mózgowej, w łożysku, wątrobie, mięśniu sercowym i śledzionie. Bierze udział w tworzeniu włókien mięsnych, naczyń, włókien elastycznych i kolagenowych. Odgrywa rolę czynnika ochronnego komórek przed samoutlenianiem. Reguluje procesy rozrodcze i związana jest z przemianą azotową oraz oddychaniem wewnątrzustrojowym. Wykazuje działanie ochraniające w stosunku do witaminy A. Rozpuszczalna w tłuszczach.
-
-Norma dla dorosłych: mężczyźni - 15 j.m., kobiety - 12 j.m.  
-Możliwe objawy jej braku: degeneracja mięśni, anemia, dysfunkcja nerwów, nocne kurcze mięśni łydek, brak żywotności, brak sex appealu.  
-Najwięcej jej zawiera: oleje roślinne, sałata, jaja, przetwory mączne.  
-Objawy przedawkowania: brak danych.
-
----
-
-**F**  
-
-Zestaw kwasów tłuszczowych nienasyconych: linolowy, linolenowy i arachidowy. Pobudza wzrost.
-
-Norma dla dorosłych: brak danych.  
-Możliwe objawy jej braku: wypryski, łuszczyca, krwiomocz, biegunka  
-Najwięcej jej zawiera: oleje roślinne, tłuszcze zwierzęce.  
-Objawy przedawkowania: brak danych.
-
----
-
-**H**  
-biotyna
-
-Odgrywa rolę przenośnika dwutlenku węgla w procesach przemiany materii. Wytwarzana jest przez bakterie żyjące w przewodzie pokarmowym. Niedobór występuje przeważnie po zniszczeniu flory bakteryjnej przy leczeniu antybiotykami. Jest odporna na wysokie temperatury, działanie kwasów i zasad.
-
-Norma dla dorosłych: brak danych.  
-Możliwe objawy jej braku: degeneracja mięśni, anemia, dysfunkcja nerwów, nocne kurcze mięśni łydek, brak żywotności, brak sex appealu, zanik brodawki języka, łupież, ogólne osłabienie, utrata łaknienia.  
-Najwięcej jej zawiera: wątroba, żółtka jaj, kapusta.  
-Objawy przedawkowania: brak danych.
-
----
-
-**H1**  
-kwas  
-paraaminobenzoesowy
-
-Przeciwdziała siwieniu.
-
-Norma dla dorosłych: brak danych.  
-Możliwe objawy jej braku: brak danych.  
-Najwięcej jej zawiera: drożdże, zarodki pszenicy, chmielu, wątrobie, sercu.  
-Objawy przedawkowania: brak danych.
-
----
-
-**K**  
-filochinon
-
-Inna nazwa menadion. pochodna naftochinonu. Jest niezbędna do syntezy czynników krzepnięcia w wątrobie, przede wszystkim protrombiny. U człowieka źródłem witaminy jest własna flora bakteryjna, skąd przy obecności kwasów żółciowych jest ona wchłaniana do krwi i wychwytywana w wątrobie. Niedobór może wystąpić przy leczeniu antybiotykami lub sulfonamidami. Rozpuszczalna w tłuszczach.
-
-Norma dla dorosłych: brak danych.  
-Możliwe objawy jej braku: opóźnienie krzepnięcia krwi, skaza krwotoczna.  
-Najwięcej jej zawiera: wątroba, szpinak, kapusta.  
-Objawy przedawkowania: brak danych.
-
----
-
-**P**  
-rutyna
-
-Jedna z trzech witamin (C, K, P), które odgrywają rolę w zabezpieczeniu prawidłowej hemostazy. Współdziała z witaminą C w uszczelnianiu śródbłonków naczyń krwionośnych.
-
-Norma dla dorosłych: brak danych.  
-Możliwe objawy jej braku: kruchość naczyń krwionośnych, krwawe wybroczyny, obrzęki.  
-Najwięcej jej zawiera: owoce i jarzyny.  
-Objawy przedawkowania: brak danych.
-
----
-
-**PP**  
-niacyna
-
-Amid kwasu nilotynowego, nikotynamid. Odgrywa rolę w procesach utleniania komórkowego i w przemianie węglowodanów, tłuszczów i białek. Odporna na gotowanie. W organizmie magazynowana jest w wątrobie. Rozpuszczalna w wodzie.
-
-Norma dla dorosłych: mężczyźni - 18 mg, kobiety - 13 mg.  
-Możliwe objawy jej braku: bezsenność, bóle głowy, biegunki, demencja, zapalenie skóry (dermatitis), zakłócenia równowagi psychicznej, stany lękowe, podniecenie, w stanach ciężkich wymioty i biegunki z domieszką krwi, pelagra.  
-Najwięcej jej zawiera: wątroba, chleb pełnoziarnisty, mleko, jaja, świeże jarzyny.  
-Objawy przedawkowania: brak danych.
-
----
-
-**Kwas  
-pantotenowy**
-
-Występuje w świecie roślinnym i zwierzęcym. Bierze udział w przemianie tłuszczowej i węglowodanowej. Jest nieodzowny do funkcjonowania kory nadnerczy. Rozpada się pod wpływem wysokiej temperatury.
-
-Norma dobowa: 10-12 mg.  
-Możliwe objawy jej braku: brak danych.  
-Najwięcej jej zawiera: brak danych.  
-Objawy przedawkowania: brak danych.
+| **A**<br>akseroftol | Jest to wspólna nazwa dla kilku związków chemicznych o podobnej budowie i działaniu biologicznym. Występuje w dwóch postaciach: retinolu (retinenu) - biologicznie czynnej witaminy oraz karotenu - prowitaminy A, którą organizm zamienia w witaminę A w przewodzie pokarmowym. Retinol znajduje się w siatkówce oka i odgrywa podstawową rolę w procesach widzenia. Jest czynnikiem wzrostowym, na wygląd i funkcje skóry, zwiększa odporność organizmu, przyczynia się do prawidłowego funkcjonowania narządów wewnętrznych. Rozpuszczalna w tłuszczach.<br>Norma dobowa: 1-2,5 mg.<br>Możliwe objawy jej braku: tzw. kurza ślepota, zanik błon śluzowych, suchość oczu, sucha, szorstka skóra, gęsia skórka, możliwość pojawienia się chorób dróg oddechowych, zahamowanie wzrostu i rozwoju.<br>Najwięcej jej zawiera: **retinol** - tran, wątroba, żółtka jaj, masło, smietana, pełne mleko, tłuste sery; **karoten** - marchew, pomidory, papryka. W celu lepszego przyswajania karotenu warzywa należy podawać z wartościowym tłuszczem (śmietana, oleje roślinne, masło).<br>Objawy przedawkowania: cienkie, słabiutkie włosy, bolesne wargi, krwawienia z nosa, sińce, bóle głowy, bóle w stawach, opuchnięcia wzdłuż długich kości, rodzaj tężyczki. |
+| --- | --- |
+| --- |   |
+| **B1**<br>tiamina | Aneuryna. Bierze udział w przemianie węglowodanów i tłuszczów. W organizmie człowieka ulega fosforylacji, dając koenzym kokarboksylazę, który bierze udział we wprowadzeniu kwasu pirogronowego do cyklu Krebsa. Jest wrażliwa na działanie wysokiej temperatury i enzymów utleniających. Rozkłada się w środowisku zasadowym. Niedobór może wystąpić w przebiegu długotrwałych chorób: biegunek, chorób gorączkowych, wątroby, nadczynności tarczycy, w przewlekłym alkoholiźmie lub przy jednostronnym odżywianiu (np. beri-beri u dzieci jednostronnie odżywianych samym ryżem). Rozpuszczalna w wodzie.<br>Norma dobowa: 1-3 mg. Picie prawdziwej kawy niszczy tę witaminę w organizmie.<br>Możliwe objawy jej braku: słaba pamięć, brak apetytu, brak koordynacji ruchów, słabe mięśnie oczne, nieskoordynowane myśli.<br>Najwięcej jej zawiera: drożdże, ziarna zboża, chleb razowy, nasiona roślin strączkowych, mleko, orzechy, żółtka jaj.<br>Objawy przedawkowania: nadmiar wydalany jest z moczem. |
+| --- |   |
+| **B2**<br>ryboflawina | Inna nazwa laktoflawina. Odgrywa ważną rolę w procesach oksydoredukcyjnych organizmu. Niedobór występuje w przewlekłych biegunkach, w chorobach miąższu wątroby, przewlekłym alkoholiźmie, przy braku mleka i pokarmów białkowych w pożywieniu. Jest odporna na wysoką temperaturę, lecz bardzo łatwo rozpada się pod wpływem światła. Rozkłada się w środowisku zasadowym. Rozpuszczalna w wodzie.<br>Norma dodbowa: 1,5-3 mg.<br>Możliwe objawy jej braku: zaczerwienienie warg, odbarwiony język, anemia, bolesne pęknięcia w kącikach ust (zajady), łzawienie i swędzenie oczu, światłowstręt, łuszcząca się skóra, zapalenie łojotokowe skóry.<br>Najwięcej jej zawiera: wątroba, mięso, chleb pełnoziarnisty, groch, mleko (laktoflawina), sery, białko jaj (owoflawina).<br>Objawy przedawkowania: nadmiar wydalany jest z moczem. |
+| --- |   |
+| **B3**<br>niacyna | Amid kwasu nikotynowego, patrz witamina PP. |
+| --- |   |
+| **B6**<br>pirydoksyna | Inne nazwy: pirydoksal, pirydoksamina, adermina. Bierze udział w procesach syntez komórkowych układu krwiotwórczego, nerwowego i skóry. Jest konieczna do wzrostu bakterii kwasu mlekowego. Niedobór może wystapić u małych dzieci karmionych sztucznymi odżywkami oraz u alkoholików i powoduje zmiany w błonach śluzowych i szpiku kostnym. Odporna na wysoką temperaturę. Rozpuszczalna w wodzie.<br>Norma dobowa: 2 mg.<br>Możliwe objawy jej braku: zmiany na skórze. depresja, zatrzymanie wody w organiźmie, ciężka nerwowość, obrażenia skórne.<br>Najwięcej jej zawiera: drożdże, mięso, wątroba, ziemniaki i jarzyny.<br>Objawy przedawkowania: nadmiar wydalany jest z moczem. |
+| --- |   |
+| **B11**<br>kwas foliowy | Kwas pteriloglutaminowy, witamina M. Witamina krwiotwórcza, niezbędny czynnik wzrostu. Występuje w roślinach zielonych, wątrobie, nerkach, trzustce. Wywiera korzystny wpływ na postacie niedokrwistości. W jego obecności zachodzi synteza kwasów nukleinowych i związków pirymidynowych w jądrach komórkowych<br>Norma dobowa: 0,1-0,2 mg.<br>Możliwe objawy jej braku: zaburzenia czynności krwiotwórczej szpiku.<br>Najwięcej jej zawiera: drożdże, wątroba, jarzyny.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **B12**<br>kobalamina | Zwana także cyjanokobalaminą. Zbadana w roku 1956. W swej cząsteczce zawiera kobalt, fosfor i azot. Czynnik przeciwanemiczny. Bierze udział w syntezie kwasów nukleinowych i białek. Jest niezbędna do prawidłowego dojrzewania erytroblastów szpiku, prawidłowego metabolizmu tkanki nerwowej i błon śluzowych przewodu pokarmowego. Rozpuszczalna w wodzie.<br>Norma dla dorosłych: mężczyźni i kobiety - 3 μg.<br>Możliwe objawy jej braku: anemia z towarzyszeniem palpitacji serca, bolesny język, ogólne osłabienie, utrata uwagi.<br>Najwięcej jej zawiera: wątroba, mięso, jaja, mleko, przetwory mleczne.<br>Objawy przedawkowania: nadmiar wydalany jest z moczem. |
+| --- |   |
+| **B14**<br>kwas folinowy | Kwas tetrahydropteroiloglutaminowy. Witamina krwiotwórcza.<br>Norma dobowa: brak danych.<br>Możliwe objawy jej braku: niedokrwistość.<br>Najwięcej jej zawiera: wątroba.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **B15**<br>calgam | Sól wapniowa estru kwasu glukonowego i dwumetyloglicyny. Zwiększa przyswajanie tlenu przez tkanki, usuwając objawy nieznacznego niedotlenienia. Zwiększa koncentrację umysłu i zdolność skupienia się, wzmaga aktywność życiową, polepsza samopoczucie.<br>Stosowana w miażdżycy naczyń mózgowych, wieńcowych, kończyn dolnych, w rozedmie płuc, przewlekłym zapaleniu miąższu wątroby, przewlekłym alkoholiźmie, w chorobach skóry.<br>Norma dobowa: brak danych.<br>Możliwe objawy jej braku: brak danych.<br>Najwięcej jej zawiera: brak danych.<br>Objawy przedawkowania: brak danych. |
+| **C**<br>kwas askorbinowy | Jest związkiem niezbędnym dla organizmu. Pełni ważną rolę w procesach oksydoredukcyjnych (tworzy odwracalny układ oksydacyjno-redukcyjny: kwas askorbowynkwas dehydroaskorbowy) wpływa na przemianę aminokwasów aromatycznych, metabolizm tyroksyny oraz syntezę katecholamin, hormonów steroidowych i insuliny. Bierze udział w procesach fosforyzacji glukozy i syntezy glikogenu. Przy niedoborze witaminy C dochodzi do zaburzeń syntezy kwasu hialuronowego, zaburzeń syntezy kolagenu, nieprawidłowego funkcjonowania tkanki łącznej i procesów kostnienia. Ułatwia wchłanianie żelaza i bierze udział w syntezie hemoglobiny. Stymuluje procesy odpornościowe organizmu. Dobrze się wchłania z przewodu pokarmowego. Jest wydalana przez nerki, znacznie obniża pH moczu. Rozpuszczalna w wodzie. Niszczy ją wysoka temperatura. Rozkłada się pod wpływem promieni ultrafioletowych.<br>Norma dobowa: 50-100 mg i więcej.<br>Możliwe objawy jej braku: łatwość powstawania sińców, zaburzenia pracy przewodu pokarmowego, kłopoty z zębami, krwawienie dziąseł, chropowata skóra, powolne gojenie się ran, apatia.<br>Najwięcej jej zawiera: natka pietruszki, papryka, owoce dzikich róż<br>Objawy przedawkowania: nadmiar wydalany jest z moczem. |
+| --- |   |
+| **D** | Grupa witamin 1-5, z których najsilniejsze działanie wykazuje witamina D2, najsłabsze D4. Dzienne zapotrzebowanie na witaminę jest uzależnione od ilości dostarczonego wapnia, oraz od naświetlania skóry promieniami nadfioletowymi. |
+| --- |   |
+| **D2**<br>kalcyferol | Działająca najsilniej z grupy witamin D. Prowitaminą D2 jest ergosterol. Witamina pochodzenia roślinnego. Stymuluje wchłanianie jonów wapnia z przewodu pokarmowego oraz nasila procesy wapnienia w tkance kostnej. Bierze udział w gospodarce wapnem i fosforem w ustroju. Tworzy się tylko z prowitaminy (ergosterolu) zawartej w skórze pod wpływem promieni słonecznych (promieniowanie ultrafioletowe). Rozpuszczalna w tłuszczach.<br>Norma dla dorosłych: mężczyźni i kobiety - 200 j.m.<br>Możliwe objawy jej braku: rozmiękczenie kości (osteomalacja), bóle w kościach, łamliwość kości, tracenie zębów, krzywica.<br>Najwięcej jej zawiera: tran, jaja, mleko, masło.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **E**<br>tokoferol | Występuje w trzech odmianach - α, β i γ. W organizmie magazynowana jest w płacie przednim przysadki mózgowej, w łożysku, wątrobie, mięśniu sercowym i śledzionie. Bierze udział w tworzeniu włókien mięsnych, naczyń, włókien elastycznych i kolagenowych. Odgrywa rolę czynnika ochronnego komórek przed samoutlenianiem. Reguluje procesy rozrodcze i związana jest z przemianą azotową oraz oddychaniem wewnątrzustrojowym. Wykazuje działanie ochraniające w stosunku do witaminy A. Rozpuszczalna w tłuszczach.<br>Norma dla dorosłych: mężczyźni - 15 j.m., kobiety - 12 j.m.<br>Możliwe objawy jej braku: degeneracja mięśni, anemia, dysfunkcja nerwów, nocne kurcze mięśni łydek, brak żywotności, brak sex appealu.<br>Najwięcej jej zawiera: oleje roślinne, sałata, jaja, przetwory mączne.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **F** | Zestaw kwasów tłuszczowych nienasyconych: linolowy, linolenowy i arachidowy. Pobudza wzrost.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: wypryski, łuszczyca, krwiomocz, biegunka<br>Najwięcej jej zawiera: oleje roślinne, tłuszcze zwierzęce.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **H**<br>biotyna | Odgrywa rolę przenośnika dwutlenku węgla w procesach przemiany materii. Wytwarzana jest przez bakterie żyjące w przewodzie pokarmowym. Niedobór występuje przeważnie po zniszczeniu flory bakteryjnej przy leczeniu antybiotykami. Jest odporna na wysokie temperatury, działanie kwasów i zasad.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: degeneracja mięśni, anemia, dysfunkcja nerwów, nocne kurcze mięśni łydek, brak żywotności, brak sex appealu, zanik brodawki języka, łupież, ogólne osłabienie, utrata łaknienia.<br>Najwięcej jej zawiera: wątroba, żółtka jaj, kapusta.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **H1**<br>kwas<br>paraaminobenzoesowy | Przeciwdziała siwieniu.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: brak danych.<br>Najwięcej jej zawiera: drożdże, zarodki pszenicy, chmielu, wątrobie, sercu.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **K**<br>filochinon | Inna nazwa menadion. pochodna naftochinonu. Jest niezbędna do syntezy czynników krzepnięcia w wątrobie, przede wszystkim protrombiny. U człowieka źródłem witaminy jest własna flora bakteryjna, skąd przy obecności kwasów żółciowych jest ona wchłaniana do krwi i wychwytywana w wątrobie. Niedobór może wystąpić przy leczeniu antybiotykami lub sulfonamidami. Rozpuszczalna w tłuszczach.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: opóźnienie krzepnięcia krwi, skaza krwotoczna.<br>Najwięcej jej zawiera: wątroba, szpinak, kapusta.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **P**<br>rutyna | Jedna z trzech witamin (C, K, P), które odgrywają rolę w zabezpieczeniu prawidłowej hemostazy. Współdziała z witaminą C w uszczelnianiu śródbłonków naczyń krwionośnych.<br>Norma dla dorosłych: brak danych.<br>Możliwe objawy jej braku: kruchość naczyń krwionośnych, krwawe wybroczyny, obrzęki.<br>Najwięcej jej zawiera: owoce i jarzyny.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **PP**<br>niacyna | Amid kwasu nilotynowego, nikotynamid. Odgrywa rolę w procesach utleniania komórkowego i w przemianie węglowodanów, tłuszczów i białek. Odporna na gotowanie. W organizmie magazynowana jest w wątrobie. Rozpuszczalna w wodzie.<br>Norma dla dorosłych: mężczyźni - 18 mg, kobiety - 13 mg.<br>Możliwe objawy jej braku: bezsenność, bóle głowy, biegunki, demencja, zapalenie skóry (dermatitis), zakłócenia równowagi psychicznej, stany lękowe, podniecenie, w stanach ciężkich wymioty i biegunki z domieszką krwi, pelagra.<br>Najwięcej jej zawiera: wątroba, chleb pełnoziarnisty, mleko, jaja, świeże jarzyny.<br>Objawy przedawkowania: brak danych. |
+| --- |   |
+| **Kwas<br>pantotenowy** | Występuje w świecie roślinnym i zwierzęcym. Bierze udział w przemianie tłuszczowej i węglowodanowej. Jest nieodzowny do funkcjonowania kory nadnerczy. Rozpada się pod wpływem wysokiej temperatury.<br>Norma dobowa: 10-12 mg.<br>Możliwe objawy jej braku: brak danych.<br>Najwięcej jej zawiera: brak danych.<br>Objawy przedawkowania: brak danych. |
 
 Powrót (→ artykuł medalt/grande/grande)
 
@@ -8615,159 +5156,48 @@ id: medalt/grande/mikro | dział: Zapomniana medycyna | podstrona artykułu: med
 
 Pierwiastki ciała człowieka dzielimy na makroelementy, stanowiące w połączeniach chemicznych przeszło 99% ciężaru ciała człowieka i mikroelementy - około 0,8% ( żelazo, miedź, mangan, jod, kobalt, cynk, fluor i inne). Makroelementy: tlen - 63%, węgiel - 20%, wodór - 10%, azot - 3%, wapń - 1,5%, fosfor - 1%, potas - 0,25%, siarka - 0,2%, chlor i sód - 0,1%, magnez - 0,04%. Wszystkie przemiany biochemiczne w organizmie przebiegają wyłącznie w środowisku wodnym. Woda stanowiąca do 86% zawartości tkanek miękkich jest rozpuszczalnikiem lub fazą rozpraszającą dla wszystkich składników komórek i przestrzeni miedzykomórkowych. Rospuszczone w niej elektrolity i nieelektrolity biorą wprawdzie różny udział w procesach biologicznych, jednak bezwzględnie ważny dla całości toczących się procesów życiowych. Woda występuje w organizmie w postaci wolnej lub związana z białkami. Obniżenie się jej poziomu na skutek np. biegunek, wymiotów, krwotoków, potów itp. powoduje poważne zaburzenia w gospodarce wodnej i mineralnej organizmu, a utrata 15% grozi śmiercią. Gospodarka wodna regulowana jest przez gruczoły dokrewne (wydzielania wewnętrznego), głównie przysadkę mózgową, nadnercza i tarczycę. Ze względu na całość toczących się w organizmie przemian na czoło wysuwają się następujące pierwiastki, które w postaci jonowej (lub grupy jonów) biorą zasadniczy udział w przemianach metabolicznych: sód, potas, wapń, żelazo, jod, arsen, kobalt, magnez, fosfor, siarka, fluor, brom, mangan, cyna, miedź, srebro, złoto, cynk i inne.
 
-**Na**  
-sód
-
-Wprowadzany jest do organizmu jako chlorek sodowy (NaCl). Dzienne zapotrzebowanie wynosi od 6 do 9 g. Obok potasu, jon sodowy stanowi podstawowy składnik płynów tkankowych miedzykomórkowych. W osoczu znajduje się go około 330 mg%. Jony sodowe wspólnie z jonami chloru odgrywają decydującą rolę w regulacji przemiany mineralnej w organizmie, utrzymywaniu ciśnienia osmotycznego, równowagi kwasowo-zasadowej. Sód zwiększa pęcznienie koloidów, stąd zatrzymanie w ustroju większych ilości jego jonów jest przyczyną obrzęków.
-
----
-
-**K**  
-potas
-
-Potas jest składnikiem komórek i bierze udział w metabolizmie tkankowym. Organizm zaopatruje się w potas z pożywieniem roślinnym. Potas jest antagonistą sodu, jest czynnikiem odwadniającym. Obecność jonów potasu zwalnia pracę serca, zwiększa pobudliwość mięśniowo-nerwową, wzmaga napięcie mięśni. Zawartość jonów potasu we krwi wynosi od 16 do 22 mg%. Gospodarkę sodem i potasem regulują hormony nadnercza. Ich niedobór jest przyczyną choroby Addisona i nadmiernego wydalania jonów sodowych oraz wzrostu jonów potasowych we krwi. Do jarzyn zwłaszcza surowych należy dodawać soli. Dzienne zapotrzebowanie na potas wynosi około 3 g.
-
-Najwięcej potasu zawierają: suszona soja, suszone morele, suszona fasola biała, kiełki jęczmienne, melasa, mleko w proszku pełne, kakao, suszony bób.
-
----
-
-**Ca**  
-wapń
-
-Wapń otrzymuje organizm z pokarmami roślinnymi i zwierzęcymi.Wchłanianie odbywa się w jelicie cienkim. Wapń spełnia w organizmie podwójną rolę: budulcową i czynnościową. Wapń jako materiał zapasowy i budulcowy odkładany jest w kościach. Odkładanie wapnia uzależnione jest od paratyreoidyny (hormon przytarczyczek), witaminy D i C oraz przyswajania fosforanów i stosunku wapnia do fosforu. W organizmie wapń zmniejsza przepuszczalność błony komórkowej, uszczelnia naczynia krwionośne. Stąd związki wapnia działają przeciwzapalnie, przeciw histaminowo. W organizmie wapń działa podobnie jak leki sympatykotoniczne oraz odgrywa podstawową rolę w procesie krzepnięcia krwi.  
-W organiźmie mamy około 16 kg (o. Grande) wapnia, z czego 1% krąży wraz krwią i zasila pracę serca. Serce, jeśli nie otrzyma dostatecznej ilości wapnia z pokarmów, zaczyna "kraść" je z kości. Wapń działa ściśle w powiązaniu z fosforem. Jest magazynowany w kościach jako fosforan wapniowy.
-
-Najlepszym źródłem wapnia są: mleko w proszku odtłuszczone i pełne, szproty (nie obierane), ser trapistów (20% tłuszczu), ser salami tłusty.
-
----
-
-**Si**  
-krzem
-
-Obok wapnia podstawowy surowiec do budowy kości i zębów. Najwięcej zawiera go kasza gryczana, ziele skrzypu oraz dobra studzienna lub źródlana woda.
-
----
-
-**Fe**  
-żelazo
-
-W organizmie znajduje się około 5 g żelaza, z czego 3 g w hemoglobinie. Występuje również w mioglobinie, cytochromie, enzymach. Organizm magazynuje żelazo w postaci ferrytyny (połączone z białkiem). Poziom żelaza we krwi wynosi 120 mg%. Niedobór jest przyczyną niedokrwistości. W organizmie jest potrzebny do budowy czerwonych krwinek, wytwarzania niektórych enzymów, transportu tlenu i oddychania komórkowego. Część żelaza magazynowana jest w wątrobie, nerkach i śledzionie. Dzienne zapotrzebowanie wynosi około 15 mg.
-
-Źródłem żelaza są żółtka jaj, watroba, płucka, nerki, mięso, salceson czarny, kaszanka, ciemne pieczywo, grube kasze, nasiona roślin strączkowych.
-
----
-
-**I**  
-jod
-
-Jod jest niezbędny do prawidłowego funkcjonowania tarczycy. Występuje w organizmie pod postacią aminokwasu o działaniu hormonalnym zwanego tyroksyną. Niedobór jodu w organizmie prowadzi do kretynizmu i występowania wola endemicznego oraz obrzęku śluzowatego, a nadmiar do choroby Graves-Basedowa. 10% roztwór alkoholowy jodu w postaci kropli stosowany jest do użytku wewnętrznego jako lek przeciwmiażdżycowy, gdyż przyspiesza spalanie cholesterolu. Wpływając równocześnie na lepkość krwi, a przez to i na ciśnienie jej w układzie naczyniowym ma jod zastosowanie jako lek obniżający ciśnienie tętnicze krwi. Ze względu na swoje działanie bakteriobójcze jod stosowany jest zewnetrznie jako antyseptyk w postaci 3% roztworu alkoholowego do odkażania pola operacyjnego.
-
----
-
-**As**  
-arsen
-
-Arsen przyspiesza przemianę materii, powoduje wzrost i odnowę tkanek. Zwiększa łaknienie, działa tucząco, gdyż zwiększa przyswajanie pokarmów. Używany jest w niedokrwistościach i leczeniu białaczki. Hamuje czynności układu leukoblastycznego aktywizując równoczesnie czynności układu erytroblastycznego. Arsen wchłania się dobrze z przewodu pokarmowego i tkanki podskórnej.
-
----
-
-**Co**  
-kobalt
-
-Kobalt wywiera pewien wpływ leczniczy w niedokrwistości złośliwej. Występuje w witaminie B12, a w organiźmie jest potrzebny do jej wytwarzania. Witamina ta jest niezbędna do syntezy hemoglobiny i czerwonych krwinek.
-
----
-
-**Mg**  
-magnez
-
-Ciało ludzkie zawiera 20-30 g magnezu. Wchodzi w skład budowy kości, zębów i mięśni, bierze udział w przemianie węglowodanów oraz innych reakcjach biochemicznych (ponad 40), wpływa na równowagę nierwową i mięśniową. Wykazuje właściwości osłaniające chromosomów przed działaniem mutagennym i teratogennym środowiska naturalnego. Dzienne zapotrzebowanie wynosi 300-400 mg. Jego źródłem są rośliny strączkowe, produkty zbożowe grubego przemiału, warzywa zielone i kakao.
-
-Brak magnezu w organizmie może wyrażać się w drganiu powieki (zwykle lewej), w nocnych skurczach łydek, nagłych zawrotach głowy z utratą równowagi, mroczkami w oczach lub mgiełką, drętwieniem kończyn, mrowieniem w nogach, bezsennością lub koszmarnymi snami, zmęczeniem po przebudzeniu, wypadaniem włosów, łamaniem paznokci. Może, bo mogą być tego też i inne przyczyny.
-
----
-
-**P**  
-fosfor
-
-Budulec kości i żebów (w nich zawarte jest 80% będącego w organizmie). Około 20% wchodzi w skład mięśni, mózgu i płynów ustrojowych. Wzmaga wydalanie wody z organizmu. Występuje powszechnie w produktach spożywczych roślinnych i zwierzęcych. Zapotrzebowanie na fosfor wyraża się stosunkiem fosforu do wapnia. U dorosłych 1:1, u dzieci i młodzieży 1:2.
-
----
-
-**S**  
-siarka
-
-Występuje w aminokwasach (metionina, cysteina, cystyna) i białkach. Wiązania siarkowe sa ważne dla utrzymania struktury przestrzennej i aktywności biologicznej białek. Końcowe produkty siarki w organizmie wydalane są na zewnątrz. Siarkowodór z kałem, a jony siarczanowe z kałem i moczem.
-
----
-
-**F**  
-fluor
-
-Składnik tkanki kostnej i szkliwa zębów. Niedobór prowadzi do próchnicy zębów. Nadmiar też jest szkodliwy. Powoduje fluorzycę zębów oraz poważne zaburzenia w organizmie. Źródłem fluoru są: herbata, ryby morskie, rośliny kapustne.
-
----
-
-**Br**  
-brom
-
-Występuje w organizmie w tych samych tkankach co chlor.
-
----
-
-**Mn**  
-mangan
-
-Jony manganu są aktywatorami wielu enzymów. Bierze także udział w funkcjach gruczołów płciowych.
-
----
-
-**Sn**  
-cyna
-
-Nie mam danych.
-
----
-
-**Cu**  
-miedź
-
-Potrzebna do wytwarzania krwinek czerwonych, bierze udział w tworzeniu kości. Jest czynnikiem nieodzownym w syntezie hemoglobiny i cytochromu. Najobficiej występuje w skórze i w centralnym układzie nerwowym. Występuje powszechnie w produktach spożywczych. Najwięcej w wątrobie, warzywach i owocach.
-
----
-
-**Ag**  
-srebro
-
-Nie mam danych.
-
----
-
-**Au**  
-złoto
-
-Nie mam danych.
-
----
-
-**Zn**  
-cynk
-
-Wchodzi w skład wielu enzymów, między innymi anhydrazy węglanowej (rozkłada kwas węglowy na dwutlenek węgla i wodę), peptydaz i urykazy (rozkład kwasu moczowego). Najwięcej zawierają go organy rozrodcze i skóra. Poza tym znajduje się w wysepkach trzustki, które produkują hormon insulinę.
-
----
-
-**Cl**  
-chlor
-
-Znajduje sie w postaci jonów w płynach ustrojowych (w soku żołądkowym, krwi, limfie, moczu). Kwas solny produkowany przez żołądek bierze udział w procesie trawienia.
-
----
-
-**&**  
-inne
-
-Nie mam danych.
+| **Na**<br>sód | Wprowadzany jest do organizmu jako chlorek sodowy (NaCl). Dzienne zapotrzebowanie wynosi od 6 do 9 g. Obok potasu, jon sodowy stanowi podstawowy składnik płynów tkankowych miedzykomórkowych. W osoczu znajduje się go około 330 mg%. Jony sodowe wspólnie z jonami chloru odgrywają decydującą rolę w regulacji przemiany mineralnej w organizmie, utrzymywaniu ciśnienia osmotycznego, równowagi kwasowo-zasadowej. Sód zwiększa pęcznienie koloidów, stąd zatrzymanie w ustroju większych ilości jego jonów jest przyczyną obrzęków. |
+| --- | --- |
+| --- |   |
+| **K**<br>potas | Potas jest składnikiem komórek i bierze udział w metabolizmie tkankowym. Organizm zaopatruje się w potas z pożywieniem roślinnym. Potas jest antagonistą sodu, jest czynnikiem odwadniającym. Obecność jonów potasu zwalnia pracę serca, zwiększa pobudliwość mięśniowo-nerwową, wzmaga napięcie mięśni. Zawartość jonów potasu we krwi wynosi od 16 do 22 mg%. Gospodarkę sodem i potasem regulują hormony nadnercza. Ich niedobór jest przyczyną choroby Addisona i nadmiernego wydalania jonów sodowych oraz wzrostu jonów potasowych we krwi. Do jarzyn zwłaszcza surowych należy dodawać soli. Dzienne zapotrzebowanie na potas wynosi około 3 g.<br>Najwięcej potasu zawierają: suszona soja, suszone morele, suszona fasola biała, kiełki jęczmienne, melasa, mleko w proszku pełne, kakao, suszony bób. |
+| --- |   |
+| **Ca**<br>wapń | Wapń otrzymuje organizm z pokarmami roślinnymi i zwierzęcymi.Wchłanianie odbywa się w jelicie cienkim. Wapń spełnia w organizmie podwójną rolę: budulcową i czynnościową. Wapń jako materiał zapasowy i budulcowy odkładany jest w kościach. Odkładanie wapnia uzależnione jest od paratyreoidyny (hormon przytarczyczek), witaminy D i C oraz przyswajania fosforanów i stosunku wapnia do fosforu. W organizmie wapń zmniejsza przepuszczalność błony komórkowej, uszczelnia naczynia krwionośne. Stąd związki wapnia działają przeciwzapalnie, przeciw histaminowo. W organizmie wapń działa podobnie jak leki sympatykotoniczne oraz odgrywa podstawową rolę w procesie krzepnięcia krwi.<br>W organiźmie mamy około 16 kg (o. Grande) wapnia, z czego 1% krąży wraz krwią i zasila pracę serca. Serce, jeśli nie otrzyma dostatecznej ilości wapnia z pokarmów, zaczyna "kraść" je z kości. Wapń działa ściśle w powiązaniu z fosforem. Jest magazynowany w kościach jako fosforan wapniowy.<br>Najlepszym źródłem wapnia są: mleko w proszku odtłuszczone i pełne, szproty (nie obierane), ser trapistów (20% tłuszczu), ser salami tłusty. |
+| --- |   |
+| **Si**<br>krzem | Obok wapnia podstawowy surowiec do budowy kości i zębów. Najwięcej zawiera go kasza gryczana, ziele skrzypu oraz dobra studzienna lub źródlana woda. |
+| --- |   |
+| **Fe**<br>żelazo | W organizmie znajduje się około 5 g żelaza, z czego 3 g w hemoglobinie. Występuje również w mioglobinie, cytochromie, enzymach. Organizm magazynuje żelazo w postaci ferrytyny (połączone z białkiem). Poziom żelaza we krwi wynosi 120 mg%. Niedobór jest przyczyną niedokrwistości. W organizmie jest potrzebny do budowy czerwonych krwinek, wytwarzania niektórych enzymów, transportu tlenu i oddychania komórkowego. Część żelaza magazynowana jest w wątrobie, nerkach i śledzionie. Dzienne zapotrzebowanie wynosi około 15 mg.<br>Źródłem żelaza są żółtka jaj, watroba, płucka, nerki, mięso, salceson czarny, kaszanka, ciemne pieczywo, grube kasze, nasiona roślin strączkowych. |
+| --- |   |
+| **I**<br>jod | Jod jest niezbędny do prawidłowego funkcjonowania tarczycy. Występuje w organizmie pod postacią aminokwasu o działaniu hormonalnym zwanego tyroksyną. Niedobór jodu w organizmie prowadzi do kretynizmu i występowania wola endemicznego oraz obrzęku śluzowatego, a nadmiar do choroby Graves-Basedowa. 10% roztwór alkoholowy jodu w postaci kropli stosowany jest do użytku wewnętrznego jako lek przeciwmiażdżycowy, gdyż przyspiesza spalanie cholesterolu. Wpływając równocześnie na lepkość krwi, a przez to i na ciśnienie jej w układzie naczyniowym ma jod zastosowanie jako lek obniżający ciśnienie tętnicze krwi. Ze względu na swoje działanie bakteriobójcze jod stosowany jest zewnetrznie jako antyseptyk w postaci 3% roztworu alkoholowego do odkażania pola operacyjnego. |
+| --- |   |
+| **As**<br>arsen | Arsen przyspiesza przemianę materii, powoduje wzrost i odnowę tkanek. Zwiększa łaknienie, działa tucząco, gdyż zwiększa przyswajanie pokarmów. Używany jest w niedokrwistościach i leczeniu białaczki. Hamuje czynności układu leukoblastycznego aktywizując równoczesnie czynności układu erytroblastycznego. Arsen wchłania się dobrze z przewodu pokarmowego i tkanki podskórnej. |
+| --- |   |
+| **Co**<br>kobalt | Kobalt wywiera pewien wpływ leczniczy w niedokrwistości złośliwej. Występuje w witaminie B12, a w organiźmie jest potrzebny do jej wytwarzania. Witamina ta jest niezbędna do syntezy hemoglobiny i czerwonych krwinek. |
+| --- |   |
+| **Mg**<br>magnez | Ciało ludzkie zawiera 20-30 g magnezu. Wchodzi w skład budowy kości, zębów i mięśni, bierze udział w przemianie węglowodanów oraz innych reakcjach biochemicznych (ponad 40), wpływa na równowagę nierwową i mięśniową. Wykazuje właściwości osłaniające chromosomów przed działaniem mutagennym i teratogennym środowiska naturalnego. Dzienne zapotrzebowanie wynosi 300-400 mg. Jego źródłem są rośliny strączkowe, produkty zbożowe grubego przemiału, warzywa zielone i kakao.<br>Brak magnezu w organizmie może wyrażać się w drganiu powieki (zwykle lewej), w nocnych skurczach łydek, nagłych zawrotach głowy z utratą równowagi, mroczkami w oczach lub mgiełką, drętwieniem kończyn, mrowieniem w nogach, bezsennością lub koszmarnymi snami, zmęczeniem po przebudzeniu, wypadaniem włosów, łamaniem paznokci. Może, bo mogą być tego też i inne przyczyny. |
+| --- |   |
+| **P**<br>fosfor | Budulec kości i żebów (w nich zawarte jest 80% będącego w organizmie). Około 20% wchodzi w skład mięśni, mózgu i płynów ustrojowych. Wzmaga wydalanie wody z organizmu. Występuje powszechnie w produktach spożywczych roślinnych i zwierzęcych. Zapotrzebowanie na fosfor wyraża się stosunkiem fosforu do wapnia. U dorosłych 1:1, u dzieci i młodzieży 1:2. |
+| --- |   |
+| **S**<br>siarka | Występuje w aminokwasach (metionina, cysteina, cystyna) i białkach. Wiązania siarkowe sa ważne dla utrzymania struktury przestrzennej i aktywności biologicznej białek. Końcowe produkty siarki w organizmie wydalane są na zewnątrz. Siarkowodór z kałem, a jony siarczanowe z kałem i moczem. |
+| --- |   |
+| **F**<br>fluor | Składnik tkanki kostnej i szkliwa zębów. Niedobór prowadzi do próchnicy zębów. Nadmiar też jest szkodliwy. Powoduje fluorzycę zębów oraz poważne zaburzenia w organizmie. Źródłem fluoru są: herbata, ryby morskie, rośliny kapustne. |
+| --- |   |
+| **Br**<br>brom | Występuje w organizmie w tych samych tkankach co chlor. |
+| --- |   |
+| **Mn**<br>mangan | Jony manganu są aktywatorami wielu enzymów. Bierze także udział w funkcjach gruczołów płciowych. |
+| --- |   |
+| **Sn**<br>cyna | Nie mam danych. |
+| --- |   |
+| **Cu**<br>miedź | Potrzebna do wytwarzania krwinek czerwonych, bierze udział w tworzeniu kości. Jest czynnikiem nieodzownym w syntezie hemoglobiny i cytochromu. Najobficiej występuje w skórze i w centralnym układzie nerwowym. Występuje powszechnie w produktach spożywczych. Najwięcej w wątrobie, warzywach i owocach. |
+| --- |   |
+| **Ag**<br>srebro | Nie mam danych. |
+| --- |   |
+| **Au**<br>złoto | Nie mam danych. |
+| --- |   |
+| **Zn**<br>cynk | Wchodzi w skład wielu enzymów, między innymi anhydrazy węglanowej (rozkłada kwas węglowy na dwutlenek węgla i wodę), peptydaz i urykazy (rozkład kwasu moczowego). Najwięcej zawierają go organy rozrodcze i skóra. Poza tym znajduje się w wysepkach trzustki, które produkują hormon insulinę. |
+| --- |   |
+| **Cl**<br>chlor | Znajduje sie w postaci jonów w płynach ustrojowych (w soku żołądkowym, krwi, limfie, moczu). Kwas solny produkowany przez żołądek bierze udział w procesie trawienia. |
+| --- |   |
+| **&**<br>inne | Nie mam danych. |
 
 Powrót (→ artykuł medalt/grande/grande)
 
@@ -8782,523 +5212,181 @@ Symbole E umieszczane na opakowaniu są deklaracjami producenta, że substancje 
 
 **BARWNIKI SPOŻYWCZE**
 
-**E 100**
-
-Kurkumina. Piękny, żółty barwnik pochodzenia roślinnego, z korzenia Curcuma conga L. Wydzielono go w stanie czystym już w roku 1842, zsyntezowano w roku 1918. W większych stężeniach ma działanie przeciwzapalne. Nie ma śladów w literaturze naukowej, by był badany pod kątem działania rakotwórczego. Nie jest wykluczone, że pojawi się, gdy ktoś będzie chciał dostawców kurkuminy wyprzeć z rynku. **IL-PZH**.
-
----
-
-**E 101**
-
-Ryboflawina. 101a - sól sodowa fosforanu ryboflawiny. Nie ma nic wspólnego z rybami - poza biernym skojarzeniem nazwy w języku polskim. Barwnik ulubiony przez producentów przypraw, na przykład znanej u nas jugosłowiańskiej Vegety. **IL-PZH**.
-
----
-
-**E 102**
-
-Tartrazyna. Żółty barwnik produkowany głównie do celów spożywczych. Ma w związku z tym nazwę handlową Food Yellow (żółcień żywnościowa). Jest oczywiście dopuszczony przez amerykańską Food and Drug Administration (FDA). Dopuszczony w Polsce. **IL-PZH**.
-
----
-
-**E 104**
-
-Żółcień chinolinowa. **IL-PZH**.
-
----
-
-**E 110**
-
-Żółcień zachodzącego słońca, FCF. Spreparowano go w roku 1878, metabolizm w organizmie określono w roku 1962, a cechy toksykologiczne w roku 1967. LD50, a więc dawka powodująca połowę zgonów w danej populacji, dla myszy wynosi 10 g na l kg.
-
----
-
-**E 120**
-
-Karmin. Kwas karminowy otrzymywany z insektu Coccus cacti. Wydzielony w stanie czystym przez znanego chemika polskiego Leona Marchlewskiego w roku 1894. Ostateczny wzór chemiczny poznano dopiero w roku 1965. Ma różnorodne zastosowania. Dopuszczony przez FDA. **IL-PZH**.
-
----
-
-**E 122**
-
-Azorubina. Barwnik czerwony, zwany też chromotropem FB. Stosowana szczególnie do barwienia dżemów i marmolad wiśniowych, budyni, napojów, lodów, polew cukierniczych. Większość barwników spożywczych to barwniki azowe. Przechodzą one w organizmie w aminy, a te, które mają grupę sulfonową, dają nieszkodliwe kwasy aminosulfonowe. Dlatego dopuszczono tylko te barwniki azowe, które w cząsteczce mają co najmniej jedną grupę sulfonową. Powstała w ten sposób w roku 1952 tak zwana lista A - osiemnastu bezpiecznych barwników azowych, włączona w roku 1961 do spisu środków dozwolonych w przemysłach spożywczych krajów EWG. Lista była później skracana ze względów praktycznych. **IL-PZH**.
-
----
-
-**E 123**
-
-Amarant. Barwnik czerwony. W roku 1976 został wycofany z listy FDA substancji dopuszczonych do stosowania w przemyśle spożywczym, w produktach farmaceutycznych i w kosmetykach. Duńczycy nie uznali jednak amerykańskich wyników badań za przekonujące i nie skreślili tego barwnika ze swojej listy. **IL-PZH**.
-
----
-
-**E 124**
-
-Ponceau 4R. Barwnik czerwony. Podobnie jak E 123 skreślony z listy KDA, lecz utrzymany na liście duńskiej. Jako czerwień koszenilowa oraz odmiana 6R figuruje na liście **IL-PZH**.
-
----
-
-**E 127**
-
-Erytrozyna. "Merck Index" barwnik ten, nazwany zresztą odpowiednio Food Red 14, czyli czerwień żywnościowa ("Indeks Mercka" X-3637), jest dopuszczony do stosowania w produkcji żywności w Europie, a do roku 1990 był używany także w USA. W przypadku E 127 dawka LD50 dla człowieka o średniej wadze wynosi aż 175 g! Pod nazwą chemiczną czterojodofluoresceiny znajduje się na liście **IL-PZH**.
-
----
-
-**E 131**
-
-Błękit patentowy FCF. Barwnik niebieski, raczej rzadko stosowany w produkcji żywności, natomiast częściej w kosmetykach.
-
----
-
-**E 132**
-
-Indygotyna I. Preparat indyga, najstarszego środka barwiącego dozwolonego przez FDA, stosowany na przykład w opatrunkach, pieluchach jednorazowych itp. **IL-PZH**.
-
----
-
-**E 133**
-
-Błękit brylantowy FCF 1350, Food Blue 2 (błękit żywnościowy), LD50 - 4,6 g/kg. Dozwolony przez FDA do stosowania w środkach spożywczych, lekarstwach, kosmetykach, ale z wyjątkiem okolic oczu. Podobnie jak w wypadku innych barwników, dokładne badanie pod kątem działania rakotwórczego dało wynik ujemny. **IL-PZH**.
-
----
-
-**E 140**
-
-Chlorofil a i b. Zielone barwniki roślinne są kluczowymi związkami chemicznymi dla fotosyntezy, a więc wiązania dwutlenku węgla z powietrza i tym samym produkcji żywności. W przemyśle spożywczym stosowane są w postaci różnych preparatów, czasem modyfikowanych. **IL-PZH**.
-
----
-
-**E 141**
-
-Kompleks miedziowy chlorofilu lub chlorofilyny, także ich sole - sodowa i potasowa. Od niepamiętnych czasów wzmacnia się nim barwę, również w Polsce, groszku konserwowego, który inaczej byłby bardzo jasny i nieapetyczny. Jeszcze w pierwszej połowie naszego wieku były zastrzeżenia do wzbogacania groszku miedzią, zwłaszcza gdy w krwi niektórych psychicznie chorych osób stwierdzono zwiększone stężenie miedzi. Ale później nie dopatrzono się związku choroby ze spożywaniem groszku, toteż nadal lista ogłaszana przez FAO/WHO klasyfikuje chlorofil wzmacniany miedzią jako barwnik występujący w sposób naturalny w żywności, na równi z E 101, E 150 i rodziną E 160. **IL-PZH**.
-
----
-
-**E 150**
-
-Karmel, czyli podpalany cukier; podstawowy barwnik coca-coli i podobnych napojów. Występuje w dużych ilościach w każdym pieczonym słodkim cieście. Od lat używany w gospodarstwie domowym. Akcja przeciwko stosowaniu karmelu była prowadzona przez lewicę w niektórych krajach Europy (na przykład we Francji i Danii) w latach pięćdziesiątych i sześćdziesiątych w ramach walki z Ameryką, której szczególnym symbolem była coca-cola. Koncern ten zgodził się nawet na produkcję swojego napoju w postaci bezbarwnej, jasnoszarej, ale nonsensowna akcja skończyła się z chwilą odcięcia dotacji na ten cel przez przeciwników USA. Dowodów na rakotwórczość karmelu nic znaleziono. Przestano też o to podejrzewać przypalone cukry, na przykład prażone buraki cukrowe - główny składnik polskiej namiastki kawy - Inki. **IL-PZH**.
-
----
-
-**E 151**
-
-Barwnik czarny, czerń PN, stosowany na przykład do barwienia tanich odmian kawioru. Łatwy do rozpoznania, ponieważ barwnik ten jest łatwo rozpuszczalny w wodzie i czerni białko jaja ugotowanego na twardo. Oryginalny czarny lub szary kawior tego nie daje. Łatwo nawet na oficjalnym przyjęciu położyć ziarenko podejrzanego kawioru na jajku i przekonać się, czy gospodarz jest sknerą.
-
----
-
-**E 153**
-
-Węgiel drzewny medyczny. Znalazł się na liście barwników, ponieważ stosowany jest w niektórych krajach do produkcji słodyczy i wypieków całkowicie czarnych. **IL-PZH**.
-
----
-
-**E 160**
-
-Alfa-, beta- i gamma-karoten, żółte barwniki marchewki i podobnych roślin, szeroko stosowane w gospodarstwie domowym od setek, jeżeli nie tysięcy lat do barwienia. Karotynoidy mają szczególną pozycję w świecie roślinnym, który wytwarza ich około jednego miliarda ton rocznie. **IL-PZH**.
-
----
-
-**E 160b**
-
-Ekstrakt z nasion Bixa orellana. Ulubiony barwnik producentów margaryny, olejów roślinnych, serów (żółtych, oczywiście). Hurtownik krajowy oferuje dostarczanie dowolnych ilości tego barwnika pod nazwą handlową anato. **IL-PZH**.
-
----
-
-**E 160c**
-
-Kapsantyna. Barwnik czerwony występujący w papryce. Wzór chemiczny rozwikłany ostatecznie dopiero w roku l97l. **IL-PZH**.
-
----
-
-**E 160d**
-
-Likopen. Intensywnie czerwony barwnik, z powodu skumulowanych wiązań podwójnych w łańcuchu węglowodorowym. Jest to struktura najzupełniej obca w organizmie człowieka. Gdyby ta okoliczność miała być podstawą obaw, to należałoby zrezygnować z jedzenia pomidorów, które zawierają ten związek. **IL-PZH**.
-
----
-
-**E 160  
-e, f**
-
-Beta-apo-8' carotenal i ester etylowy kwasu beta-apo-8'-karotenowego. Karotenoid o pogłębionej barwie czerwonej, przechodzącej niemal w brunatną.
-
----
-
-**E 160  
-a-e, i, g**
-
-Flawoksantyna, luteina, kryptoksantyna, rubiksantyna, wiolaksantyna, rodoksantyna, kantaksantyna - to duża rodzina barwników biogennych. Różnią się niewiele wzorami chemicznymi, ale ich funkcje biologiczne mogą być zupełnie różne. Na przykład kryptoksantyna wykazuje aktywność witaminy A. Występuje w wielu roślinach i dlatego może się znaleźć w żółtkach jaj, a nawet w maśle. Rubiksantyna jest izomerom tego związku, ale nie ma aktywności witaminy A. Jest czerwonym barwnikiem różnych odmian dzikich róż. Flawoksantyna jest żółtoczerwonym barwnikiem o wzorze chemicznym rozwikłanym dopiero w roku 1978. Luteina jest zdecydowanie żółta, obficie występuje w świecie roślinnym. szczególnie w płatkach wielu żółtych kwiatów. **IL-PZH**.
-
----
-
-**E 162**
-
-Barwnik buraka czerwonego (betanina). Nieodporny na działanie światła. Stosowany do barwienia sztucznego mięsa wytwarzanego z białka soi. **IL-PZH**.
-
----
-
-**E 163**
-
-Antocyjany. Barwniki winogron oraz wielu jagód. Odpowiednie ekstrakty, lepiej lub gorzej oczyszczone, są w sprzedaży. **IL-PZH**.
-
----
-
-**E 170**
-
-To po prostu węglan wapnia, dodawany jako biały pigment. U nas dodaje się w sporych ilościach do calcipiryny, dla osłony żołądka przed kwasem acetylosalicylowym. Oprócz tego E 170 jest stosowany w starego typu pastach do zębów, w których spełnia rolę szorującą. **IL-PZH**.
-
----
-
-**E 171**
-
-Dwutlenek tytanu. Brzmi groźnie, ale nie udało się stwierdzić jego szkodliwości w produktach, które mają lśnić bielą. Jest obecny w śnieżnobiałej gumie do żucia dostępnej w całej Skandynawii. Występuje w dużych ilościach w paście do zębów Elmex. **IL-PZH**.
-
----
-
-**E 172**
-
-Tlenki i wodorotlenki żelaza. Rzadko stosowany pigment, nie tylko nieszkodliwy, ale wzbogacający żywność w żelazo. **IL-PZH**.
-
----
-
-**E 173**
-
-Aluminium. Może dziwić na liście dodatków do żywności, ale jest dopuszczone do dekoracji słodyczy, na przykład w postaci słodkich kuleczek do ozdoby tortów. Metaliczny glin i jego sole były swego czasu podejrzane o sprzyjanie rozwojowi choroby Alzheimera. Dziś reklamuje się w polskiej prasie preparat zawierający ogromne ilości rozpuszczalnych soli glinu, działający uspokajająco na żołądek. Dopuszczony przez Ministerstwo Zdrowia i Opieki Społecznej.
-
----
-
-**E 174**
-
-Srebro metaliczne. Cóż, zapewne też do produktów służących do dekoracji.
-
----
-
-**E 175**
-
-Złoto (prawdziwe!). Zastrzeżeń nie ma, a cena nie jest tak wysoka, jakby się mogło wydawać, ponieważ metal ten można wytwarzać w postaci bardzo cienkiej folii. Nie spotkałem jego symbolu na produktach importowanych do Polski, natomiast właśnie w Polsce jest dodawane w postaci płatków do likieru Goldwasser! Gdy już będziemy w UE, na etykiecie znajdzie się E 175. Każdy chemik zaświadczy, że metaliczne złoto nie może przejść w organizmie w sole złota! **IL-PZH**.
+| **E 100** | Kurkumina. Piękny, żółty barwnik pochodzenia roślinnego, z korzenia Curcuma conga L. Wydzielono go w stanie czystym już w roku 1842, zsyntezowano w roku 1918. W większych stężeniach ma działanie przeciwzapalne. Nie ma śladów w literaturze naukowej, by był badany pod kątem działania rakotwórczego. Nie jest wykluczone, że pojawi się, gdy ktoś będzie chciał dostawców kurkuminy wyprzeć z rynku. **IL-PZH**. |
+| --- | --- |
+| --- |   |
+| **E 101** | Ryboflawina. 101a - sól sodowa fosforanu ryboflawiny. Nie ma nic wspólnego z rybami - poza biernym skojarzeniem nazwy w języku polskim. Barwnik ulubiony przez producentów przypraw, na przykład znanej u nas jugosłowiańskiej Vegety. **IL-PZH**. |
+| --- |   |
+| **E 102** | Tartrazyna. Żółty barwnik produkowany głównie do celów spożywczych. Ma w związku z tym nazwę handlową Food Yellow (żółcień żywnościowa). Jest oczywiście dopuszczony przez amerykańską Food and Drug Administration (FDA). Dopuszczony w Polsce. **IL-PZH**. |
+| --- |   |
+| **E 104** | Żółcień chinolinowa. **IL-PZH**. |
+| --- |   |
+| **E 110** | Żółcień zachodzącego słońca, FCF. Spreparowano go w roku 1878, metabolizm w organizmie określono w roku 1962, a cechy toksykologiczne w roku 1967. LD50, a więc dawka powodująca połowę zgonów w danej populacji, dla myszy wynosi 10 g na l kg. |
+| --- |   |
+| **E 120** | Karmin. Kwas karminowy otrzymywany z insektu Coccus cacti. Wydzielony w stanie czystym przez znanego chemika polskiego Leona Marchlewskiego w roku 1894. Ostateczny wzór chemiczny poznano dopiero w roku 1965. Ma różnorodne zastosowania. Dopuszczony przez FDA. **IL-PZH**. |
+| --- |   |
+| **E 122** | Azorubina. Barwnik czerwony, zwany też chromotropem FB. Stosowana szczególnie do barwienia dżemów i marmolad wiśniowych, budyni, napojów, lodów, polew cukierniczych. Większość barwników spożywczych to barwniki azowe. Przechodzą one w organizmie w aminy, a te, które mają grupę sulfonową, dają nieszkodliwe kwasy aminosulfonowe. Dlatego dopuszczono tylko te barwniki azowe, które w cząsteczce mają co najmniej jedną grupę sulfonową. Powstała w ten sposób w roku 1952 tak zwana lista A - osiemnastu bezpiecznych barwników azowych, włączona w roku 1961 do spisu środków dozwolonych w przemysłach spożywczych krajów EWG. Lista była później skracana ze względów praktycznych. **IL-PZH**. |
+| --- |   |
+| **E 123** | Amarant. Barwnik czerwony. W roku 1976 został wycofany z listy FDA substancji dopuszczonych do stosowania w przemyśle spożywczym, w produktach farmaceutycznych i w kosmetykach. Duńczycy nie uznali jednak amerykańskich wyników badań za przekonujące i nie skreślili tego barwnika ze swojej listy. **IL-PZH**. |
+| --- |   |
+| **E 124** | Ponceau 4R. Barwnik czerwony. Podobnie jak E 123 skreślony z listy KDA, lecz utrzymany na liście duńskiej. Jako czerwień koszenilowa oraz odmiana 6R figuruje na liście **IL-PZH**. |
+| --- |   |
+| **E 127** | Erytrozyna. "Merck Index" barwnik ten, nazwany zresztą odpowiednio Food Red 14, czyli czerwień żywnościowa ("Indeks Mercka" X-3637), jest dopuszczony do stosowania w produkcji żywności w Europie, a do roku 1990 był używany także w USA. W przypadku E 127 dawka LD50 dla człowieka o średniej wadze wynosi aż 175 g! Pod nazwą chemiczną czterojodofluoresceiny znajduje się na liście **IL-PZH**. |
+| --- |   |
+| **E 131** | Błękit patentowy FCF. Barwnik niebieski, raczej rzadko stosowany w produkcji żywności, natomiast częściej w kosmetykach. |
+| --- |   |
+| **E 132** | Indygotyna I. Preparat indyga, najstarszego środka barwiącego dozwolonego przez FDA, stosowany na przykład w opatrunkach, pieluchach jednorazowych itp. **IL-PZH**. |
+| --- |   |
+| **E 133** | Błękit brylantowy FCF 1350, Food Blue 2 (błękit żywnościowy), LD50 - 4,6 g/kg. Dozwolony przez FDA do stosowania w środkach spożywczych, lekarstwach, kosmetykach, ale z wyjątkiem okolic oczu. Podobnie jak w wypadku innych barwników, dokładne badanie pod kątem działania rakotwórczego dało wynik ujemny. **IL-PZH**. |
+| --- |   |
+| **E 140** | Chlorofil a i b. Zielone barwniki roślinne są kluczowymi związkami chemicznymi dla fotosyntezy, a więc wiązania dwutlenku węgla z powietrza i tym samym produkcji żywności. W przemyśle spożywczym stosowane są w postaci różnych preparatów, czasem modyfikowanych. **IL-PZH**. |
+| --- |   |
+| **E 141** | Kompleks miedziowy chlorofilu lub chlorofilyny, także ich sole - sodowa i potasowa. Od niepamiętnych czasów wzmacnia się nim barwę, również w Polsce, groszku konserwowego, który inaczej byłby bardzo jasny i nieapetyczny. Jeszcze w pierwszej połowie naszego wieku były zastrzeżenia do wzbogacania groszku miedzią, zwłaszcza gdy w krwi niektórych psychicznie chorych osób stwierdzono zwiększone stężenie miedzi. Ale później nie dopatrzono się związku choroby ze spożywaniem groszku, toteż nadal lista ogłaszana przez FAO/WHO klasyfikuje chlorofil wzmacniany miedzią jako barwnik występujący w sposób naturalny w żywności, na równi z E 101, E 150 i rodziną E 160. **IL-PZH**. |
+| --- |   |
+| **E 150** | Karmel, czyli podpalany cukier; podstawowy barwnik coca-coli i podobnych napojów. Występuje w dużych ilościach w każdym pieczonym słodkim cieście. Od lat używany w gospodarstwie domowym. Akcja przeciwko stosowaniu karmelu była prowadzona przez lewicę w niektórych krajach Europy (na przykład we Francji i Danii) w latach pięćdziesiątych i sześćdziesiątych w ramach walki z Ameryką, której szczególnym symbolem była coca-cola. Koncern ten zgodził się nawet na produkcję swojego napoju w postaci bezbarwnej, jasnoszarej, ale nonsensowna akcja skończyła się z chwilą odcięcia dotacji na ten cel przez przeciwników USA. Dowodów na rakotwórczość karmelu nic znaleziono. Przestano też o to podejrzewać przypalone cukry, na przykład prażone buraki cukrowe - główny składnik polskiej namiastki kawy - Inki. **IL-PZH**. |
+| --- |   |
+| **E 151** | Barwnik czarny, czerń PN, stosowany na przykład do barwienia tanich odmian kawioru. Łatwy do rozpoznania, ponieważ barwnik ten jest łatwo rozpuszczalny w wodzie i czerni białko jaja ugotowanego na twardo. Oryginalny czarny lub szary kawior tego nie daje. Łatwo nawet na oficjalnym przyjęciu położyć ziarenko podejrzanego kawioru na jajku i przekonać się, czy gospodarz jest sknerą. |
+| --- |   |
+| **E 153** | Węgiel drzewny medyczny. Znalazł się na liście barwników, ponieważ stosowany jest w niektórych krajach do produkcji słodyczy i wypieków całkowicie czarnych. **IL-PZH**. |
+| --- |   |
+| **E 160** | Alfa-, beta- i gamma-karoten, żółte barwniki marchewki i podobnych roślin, szeroko stosowane w gospodarstwie domowym od setek, jeżeli nie tysięcy lat do barwienia. Karotynoidy mają szczególną pozycję w świecie roślinnym, który wytwarza ich około jednego miliarda ton rocznie. **IL-PZH**. |
+| --- |   |
+| **E 160b** | Ekstrakt z nasion Bixa orellana. Ulubiony barwnik producentów margaryny, olejów roślinnych, serów (żółtych, oczywiście). Hurtownik krajowy oferuje dostarczanie dowolnych ilości tego barwnika pod nazwą handlową anato. **IL-PZH**. |
+| --- |   |
+| **E 160c** | Kapsantyna. Barwnik czerwony występujący w papryce. Wzór chemiczny rozwikłany ostatecznie dopiero w roku l97l. **IL-PZH**. |
+| --- |   |
+| **E 160d** | Likopen. Intensywnie czerwony barwnik, z powodu skumulowanych wiązań podwójnych w łańcuchu węglowodorowym. Jest to struktura najzupełniej obca w organizmie człowieka. Gdyby ta okoliczność miała być podstawą obaw, to należałoby zrezygnować z jedzenia pomidorów, które zawierają ten związek. **IL-PZH**. |
+| --- |   |
+| **E 160<br>e, f** | Beta-apo-8' carotenal i ester etylowy kwasu beta-apo-8'-karotenowego. Karotenoid o pogłębionej barwie czerwonej, przechodzącej niemal w brunatną. |
+| --- |   |
+| **E 160<br>a-e, i, g** | Flawoksantyna, luteina, kryptoksantyna, rubiksantyna, wiolaksantyna, rodoksantyna, kantaksantyna - to duża rodzina barwników biogennych. Różnią się niewiele wzorami chemicznymi, ale ich funkcje biologiczne mogą być zupełnie różne. Na przykład kryptoksantyna wykazuje aktywność witaminy A. Występuje w wielu roślinach i dlatego może się znaleźć w żółtkach jaj, a nawet w maśle. Rubiksantyna jest izomerom tego związku, ale nie ma aktywności witaminy A. Jest czerwonym barwnikiem różnych odmian dzikich róż. Flawoksantyna jest żółtoczerwonym barwnikiem o wzorze chemicznym rozwikłanym dopiero w roku 1978. Luteina jest zdecydowanie żółta, obficie występuje w świecie roślinnym. szczególnie w płatkach wielu żółtych kwiatów. **IL-PZH**. |
+| --- |   |
+| **E 162** | Barwnik buraka czerwonego (betanina). Nieodporny na działanie światła. Stosowany do barwienia sztucznego mięsa wytwarzanego z białka soi. **IL-PZH**. |
+| --- |   |
+| **E 163** | Antocyjany. Barwniki winogron oraz wielu jagód. Odpowiednie ekstrakty, lepiej lub gorzej oczyszczone, są w sprzedaży. **IL-PZH**. |
+| --- |   |
+| **E 170** | To po prostu węglan wapnia, dodawany jako biały pigment. U nas dodaje się w sporych ilościach do calcipiryny, dla osłony żołądka przed kwasem acetylosalicylowym. Oprócz tego E 170 jest stosowany w starego typu pastach do zębów, w których spełnia rolę szorującą. **IL-PZH**. |
+| --- |   |
+| **E 171** | Dwutlenek tytanu. Brzmi groźnie, ale nie udało się stwierdzić jego szkodliwości w produktach, które mają lśnić bielą. Jest obecny w śnieżnobiałej gumie do żucia dostępnej w całej Skandynawii. Występuje w dużych ilościach w paście do zębów Elmex. **IL-PZH**. |
+| --- |   |
+| **E 172** | Tlenki i wodorotlenki żelaza. Rzadko stosowany pigment, nie tylko nieszkodliwy, ale wzbogacający żywność w żelazo. **IL-PZH**. |
+| --- |   |
+| **E 173** | Aluminium. Może dziwić na liście dodatków do żywności, ale jest dopuszczone do dekoracji słodyczy, na przykład w postaci słodkich kuleczek do ozdoby tortów. Metaliczny glin i jego sole były swego czasu podejrzane o sprzyjanie rozwojowi choroby Alzheimera. Dziś reklamuje się w polskiej prasie preparat zawierający ogromne ilości rozpuszczalnych soli glinu, działający uspokajająco na żołądek. Dopuszczony przez Ministerstwo Zdrowia i Opieki Społecznej. |
+| --- |   |
+| **E 174** | Srebro metaliczne. Cóż, zapewne też do produktów służących do dekoracji. |
+| --- |   |
+| **E 175** | Złoto (prawdziwe!). Zastrzeżeń nie ma, a cena nie jest tak wysoka, jakby się mogło wydawać, ponieważ metal ten można wytwarzać w postaci bardzo cienkiej folii. Nie spotkałem jego symbolu na produktach importowanych do Polski, natomiast właśnie w Polsce jest dodawane w postaci płatków do likieru Goldwasser! Gdy już będziemy w UE, na etykiecie znajdzie się E 175. Każdy chemik zaświadczy, że metaliczne złoto nie może przejść w organizmie w sole złota! **IL-PZH**. |
 
 **ŚRODKI KONSERWUJĄCE**
 
-**E 200-  
-\-203**
-
-Kwas sorbinowy w postaci wolnego kwasu lub jego soli sodowej - 201, potasowej - 202 i wapniowej - 203; luksusowy, drogi konserwant. Związek ten otrzymał po raz pierwszy z jagód Sorbus Sticuparia L. chemik niemiecki Hofmann i opisał w roku 1859 w "Liebigs Annalen". Znakomite jego właściwości kazały opracować znacznie prostsze metody syntetyczne. Mało toksyczny: LD50 wynosi około 10 g na kilogram wagi ciała. Już w niewielkich stężeniach jest grzybo-, pleśnio- i drożdżobójczy. Stosuje się go tam, gdzie zachodzi niebezpieczeństwo rozwoju takich mikroorganizmów, na przykład w serze. Szkoda tylko, że jest drogi. W Polsce dodawany pod nazwą kwas sorbowy do masła roślinnego. Lepszy niż nadużywane u nas E 210 i pochodne (benzoesany). Nie ma obaw przed spożyciem nawet jednego grama dziennie, czyli dwa razy więcej niż E 210-213.
-
----
-
-**E 210-  
-i pochodne**
-
-Kwas benzoesowy i benzoesan sodu (E 211)- najpopularniejszy konserwant, często używany także w Polsce. Powstrzymuje rozwój wielu mikroorganizmów. Masowo stosowany we wszystkich sokach bułgarskich. Próby robienia wina z bułgarskiego soku winogronowego nie dają rezultatów, bo drożdże w tym środowisku giną. Zamiast tego rozwijają się niektóre drobnoustroje odporne na benzoesany, prowadząc do powstania obrzydliwie woniejących cieczy. Czytelnikom interesującym się chemią proponujemy porównanie działania takich prostych i podobnych związków, jak kwas salicylowy i aspiryna.
-
----
-
-**E 212  
-E 213**
-
-Benzoesany - odpowiednio - potasu i wapnia. Działanie podobne jak w poprzednim punkcie. Odmiany różniące się sposobem dodawania do produktu.
-
----
-
-**E 213  
-E 214**
-
-Kwas etylo-p-hydroksybenzoesowy oraz jego sól sodowa. Pochodne kwasu benzoesowego o lepszych własnościach konserwujących i zmniejszające obciążenie populacji tylko jednym związkiem E 210 i jego solami (jak to ma miejsce w Polsce). Szeroko stosowane w preparatach farmaceutycznych, a także w lepszych pastach do zębów sprzedawanych w Polsce.
-
----
-
-**E 218  
-E 219**
-
-Jak poprzednie, ale z podstawnikiem metylowym. Spreparowany już w roku 1887. Konserwant ten szczególnie skutecznie przeciwdziała rozwojowi grzybów i pleśni wytwarzających trujące aflatoksyny.
-
----
-
-**E 220**
-
-Dwutlenek siarki, SO2, dodawany w ogromnych ilościach (na przykład 0,5 g na litr) do czerwonego wina. Używany też w dużych ilościach w Polsce do konserwowania naturalnych soków owocowych i ich koncentratów. W ogóle używany jako konserwant wina od tysięcy lat, na szczególnie dużą skalę od czasu rozpoczęcia eksploatacji siarki w kopalniach na Sycylii, jeszcze przed Chrystusem.
-
----
-
-**E 221**
-
-Siarczyn sodu, Na2SO3. Działanie podobne do E 220.
-
----
-
-**E 222**
-
-Kwaśny siarczyn sodu, NaHSO3. Działanie podobne do E 220. Wszystkie siarczyny (a więc także 221,223, 224 i 226) są wygodniejsze w stosowaniu niż gazowy dwutlenek siarki (220) sprężony w butlach.
-
----
-
-**E 236**
-
-Kwas mrówkowy, HCOOH, dobry konserwant. Otrzymany po raz pierwszy w roku 1670 w wyniku suchej destylacji martwych mrówek. Od tego czasu z mrówkami ma niewiele wspólnego. Produkowany, jak wiele związków z tej listy, syntetycznie. Silny reduktor, mało toksyczny; LD50 - l,lg/kg dla myszy.
-
----
-
-**E 237  
-E 238**
-
-Odpowiednio - sól sodowa i wapniowa kwasu mrówkowego. Działanie konserwujące podobne do E 236.
-
----
-
-**E 239**
-
-Heksametylenotetramina, urotropina, wykazuje silne działanie bakteriobójcze. Stosowana zwłaszcza w infekcjach dróg moczowych (w dawkach leczniczych).
-
----
-
-**E 249-  
-\-252**
-
-Azotyny i azotany - bez nich nie byłoby szynki i innych wędlin. Szynka z niektórych zakładów ma dziwne kanaliki, przypominające zżerane przez korniki ramy obrazów. Otóż w szynce są to ślady po igłach, którymi wstrzykuje się roztwory E 249-252 w czasie peklowania przed wędzeniem. Już nie jako konserwant, ale pozostałość przy nawożeniu azotanami mogą być obecne w jarzynach, na przykład w sałacie.
-
----
-
-**E 261**
-
-Kwas octowy. Jak zrobić bez niego marynowane śledzie, grzybki i dziesiątki innych smakowitych potraw? Irytuje mnie tylko ten zapach, zwłaszcza emanujący z sałatek.
-
----
-
-**E 261-  
-\-263**
-
-Sole - potasowa, sodowa i wapniowa kwasu octowego; dodane do kwaśnych produktów i tak wyzwolą przykrą won kwasu octowego, ale już nie tak intensywną jak E 260.
-
----
-
-**E 270**
-
-Kwas mlekowy, znakomity konserwant. Łatwy i tani w produkcji metodą fermentacyjną z surowców bogatych w skrobię, także z cukrów, na przykład z odpadowej melasy. LD50 dla szczurów wynosi około 4 g na kilogram wagi. W Polsce robiono wszystko, żeby go nie stosować, zamknięto między innymi wytwórnię w Łodzi. Niestety droższy od octu! W naturalny sposób tworzy się w czasie kiszenia ogórków i kapusty.
-
----
-
-**E 281-  
-\-283**
-
-Sole - sodowa, wapniowa i potasowa. Bezwonne, jeżeli materiał, do którego są dodane, nie jest zbyt kwaśny.
-
----
-
-**E 290**
-
-Dwutlenek węgla. Znakomity środek konserwujący, jednak kłopotliwy w stosowa-niu. W oczywisty sposób zabezpiecza produkty chłodzone suchym lodem (zestalonym dwutlenkiem węgla). Niestety nie jest zbyt czynny w napojach gazowanych, chociaż przedłuża świeżość wód miernie zakażonych, jak na przykład woda oligoceńska. "Mazowszanka" i podobne wody nie powinny stać zbyt długo w temperaturze pokojowej, bo E 290 jako konserwant nie jest zbyt skuteczny.
+| **E 200-<br>\-203** | Kwas sorbinowy w postaci wolnego kwasu lub jego soli sodowej - 201, potasowej - 202 i wapniowej - 203; luksusowy, drogi konserwant. Związek ten otrzymał po raz pierwszy z jagód Sorbus Sticuparia L. chemik niemiecki Hofmann i opisał w roku 1859 w "Liebigs Annalen". Znakomite jego właściwości kazały opracować znacznie prostsze metody syntetyczne. Mało toksyczny: LD50 wynosi około 10 g na kilogram wagi ciała. Już w niewielkich stężeniach jest grzybo-, pleśnio- i drożdżobójczy. Stosuje się go tam, gdzie zachodzi niebezpieczeństwo rozwoju takich mikroorganizmów, na przykład w serze. Szkoda tylko, że jest drogi. W Polsce dodawany pod nazwą kwas sorbowy do masła roślinnego. Lepszy niż nadużywane u nas E 210 i pochodne (benzoesany). Nie ma obaw przed spożyciem nawet jednego grama dziennie, czyli dwa razy więcej niż E 210-213. |
+| --- | --- |
+| --- |   |
+| **E 210-<br>i pochodne** | Kwas benzoesowy i benzoesan sodu (E 211)- najpopularniejszy konserwant, często używany także w Polsce. Powstrzymuje rozwój wielu mikroorganizmów. Masowo stosowany we wszystkich sokach bułgarskich. Próby robienia wina z bułgarskiego soku winogronowego nie dają rezultatów, bo drożdże w tym środowisku giną. Zamiast tego rozwijają się niektóre drobnoustroje odporne na benzoesany, prowadząc do powstania obrzydliwie woniejących cieczy. Czytelnikom interesującym się chemią proponujemy porównanie działania takich prostych i podobnych związków, jak kwas salicylowy i aspiryna. |
+| --- |   |
+| **E 212<br>E 213** | Benzoesany - odpowiednio - potasu i wapnia. Działanie podobne jak w poprzednim punkcie. Odmiany różniące się sposobem dodawania do produktu. |
+| --- |   |
+| **E 213<br>E 214** | Kwas etylo-p-hydroksybenzoesowy oraz jego sól sodowa. Pochodne kwasu benzoesowego o lepszych własnościach konserwujących i zmniejszające obciążenie populacji tylko jednym związkiem E 210 i jego solami (jak to ma miejsce w Polsce). Szeroko stosowane w preparatach farmaceutycznych, a także w lepszych pastach do zębów sprzedawanych w Polsce. |
+| --- |   |
+| **E 218<br>E 219** | Jak poprzednie, ale z podstawnikiem metylowym. Spreparowany już w roku 1887. Konserwant ten szczególnie skutecznie przeciwdziała rozwojowi grzybów i pleśni wytwarzających trujące aflatoksyny. |
+| --- |   |
+| **E 220** | Dwutlenek siarki, SO2, dodawany w ogromnych ilościach (na przykład 0,5 g na litr) do czerwonego wina. Używany też w dużych ilościach w Polsce do konserwowania naturalnych soków owocowych i ich koncentratów. W ogóle używany jako konserwant wina od tysięcy lat, na szczególnie dużą skalę od czasu rozpoczęcia eksploatacji siarki w kopalniach na Sycylii, jeszcze przed Chrystusem. |
+| --- |   |
+| **E 221** | Siarczyn sodu, Na2SO3. Działanie podobne do E 220. |
+| --- |   |
+| **E 222** | Kwaśny siarczyn sodu, NaHSO3. Działanie podobne do E 220. Wszystkie siarczyny (a więc także 221,223, 224 i 226) są wygodniejsze w stosowaniu niż gazowy dwutlenek siarki (220) sprężony w butlach. |
+| --- |   |
+| **E 236** | Kwas mrówkowy, HCOOH, dobry konserwant. Otrzymany po raz pierwszy w roku 1670 w wyniku suchej destylacji martwych mrówek. Od tego czasu z mrówkami ma niewiele wspólnego. Produkowany, jak wiele związków z tej listy, syntetycznie. Silny reduktor, mało toksyczny; LD50 - l,lg/kg dla myszy. |
+| --- |   |
+| **E 237<br>E 238** | Odpowiednio - sól sodowa i wapniowa kwasu mrówkowego. Działanie konserwujące podobne do E 236. |
+| --- |   |
+| **E 239** | Heksametylenotetramina, urotropina, wykazuje silne działanie bakteriobójcze. Stosowana zwłaszcza w infekcjach dróg moczowych (w dawkach leczniczych). |
+| --- |   |
+| **E 249-<br>\-252** | Azotyny i azotany - bez nich nie byłoby szynki i innych wędlin. Szynka z niektórych zakładów ma dziwne kanaliki, przypominające zżerane przez korniki ramy obrazów. Otóż w szynce są to ślady po igłach, którymi wstrzykuje się roztwory E 249-252 w czasie peklowania przed wędzeniem. Już nie jako konserwant, ale pozostałość przy nawożeniu azotanami mogą być obecne w jarzynach, na przykład w sałacie. |
+| --- |   |
+| **E 261** | Kwas octowy. Jak zrobić bez niego marynowane śledzie, grzybki i dziesiątki innych smakowitych potraw? Irytuje mnie tylko ten zapach, zwłaszcza emanujący z sałatek. |
+| --- |   |
+| **E 261-<br>\-263** | Sole - potasowa, sodowa i wapniowa kwasu octowego; dodane do kwaśnych produktów i tak wyzwolą przykrą won kwasu octowego, ale już nie tak intensywną jak E 260. |
+| --- |   |
+| **E 270** | Kwas mlekowy, znakomity konserwant. Łatwy i tani w produkcji metodą fermentacyjną z surowców bogatych w skrobię, także z cukrów, na przykład z odpadowej melasy. LD50 dla szczurów wynosi około 4 g na kilogram wagi. W Polsce robiono wszystko, żeby go nie stosować, zamknięto między innymi wytwórnię w Łodzi. Niestety droższy od octu! W naturalny sposób tworzy się w czasie kiszenia ogórków i kapusty. |
+| --- |   |
+| **E 281-<br>\-283** | Sole - sodowa, wapniowa i potasowa. Bezwonne, jeżeli materiał, do którego są dodane, nie jest zbyt kwaśny. |
+| --- |   |
+| **E 290** | Dwutlenek węgla. Znakomity środek konserwujący, jednak kłopotliwy w stosowa-niu. W oczywisty sposób zabezpiecza produkty chłodzone suchym lodem (zestalonym dwutlenkiem węgla). Niestety nie jest zbyt czynny w napojach gazowanych, chociaż przedłuża świeżość wód miernie zakażonych, jak na przykład woda oligoceńska. "Mazowszanka" i podobne wody nie powinny stać zbyt długo w temperaturze pokojowej, bo E 290 jako konserwant nie jest zbyt skuteczny. |
 
 **PRZECIWUTLENIACZE - ANTYOKSYDANTY**
 
-**E 300**
-
-Kwas 1-askorbinowy, czyli witamina C. W roku 1986 "Indeks Mercka" wymienia 59 nazw jednego i tego samego związku. Luksusowy konserwant i przeciwutleniacz, znacznie droższy od E 220 i pochodnych, a na pewno zdrowszy.
-
----
-
-**E 301  
-E 302**
-
-Sole - sodowa i wapniowa kwasu 1-askorbinowego. Działanie podobne do E 300.
-
----
-
-**E 304**
-
-Palmitynian askorbylu. Pochodna witaminy C, łatwiejsza do stosowania w produktach zawierających tłuszcze. Symbol można zauważyć na opakowaniu prażonych płatków ziemniaczanych, dających się długo przechowywać bez jełczenia i obrzydliwej woni.
-
----
-
-**E 306**
-
-Ekstrakty wzbogacone o tokoferole, otrzymywane z produktów pochodzenia roślinnego. Tokoferol to witamina E. W stanie czystym jest oleistą cieczą, rozpuszcza się w tłuszczach. Obecny w ilościach 0,1-0,3% w nasionach pszenicy, w kukurydzy, nasionach słonecznika, oleju sojowym i w sałacie. Duże zapotrzebowanie na witaminę E oraz na środek przeciwdziałający jełczeniu tłuszczów spowodowało rozwinięcie syntezy tokoferoli na dużą skalę.
-
----
-
-**E 307-  
-\-309**
-
-Syntetyczne tokoferole alfa, gamma i delta. Pierwszy z nich jest syntetyczną witaminą E. Tokoferol działa słabiej jako witamina, ale silniej jako przeciwutlemacz.
-
----
-
-**E 310-  
-\-312**
-
-Gallusany propylu, oktylu lub dodecylu. Szczególnie pierwszy z nich wzmacnia działanie E 320 i 321, pozwalając zmniejszyć ich stężenie. LD50 - 4 g/kg. Chroni tłuszcze przed jełczeniem.
-
----
-
-**E 320  
-E 321**
-
-Osławione przez środki masowego przekazu antyoksydanty BHA i BHT, nazywane w Polsce bezpodstawnie rakotwórczymi. Bez nich wiele produktów śmierdziałoby jak zjełczałe masło. Mało który przeciwnik antyoksydantów zwraca uwagę na fakt, że właśnie produkty utlenienia mogą być rakotwórcze. Uważa się, że przemysł żywnościowy stosuje wszystko, zwłaszcza przeciwutleniacze, dla własnej złośliwej przyjemności. Wymienione substancje dodaje się czasem też i do opakowań artykułów jełczejących. Są one pierwszą linią obrony przed tlenem.
-
----
-
-**E 322**
-
-Lecytyna. Fosfatyd występujący w całym świecie roślinnym i zwierzęcym. Jest istotnym składnikiem tkanki nerwowej i mózgu. Występuje w jajkach, ale produkt handlowy pochodzi głównie z nasion soi. Środek powierzchniowo aktywny i emulgator - dzięki niemu mieszanki kakaowe łatwo rozprowadzają się w mleku. Oprócz tego ulubiony składnik niemieckich "cudownych" środków wzmacniających.
-
----
-
-**E 330**
-
-Kwas cytrynowy. Doskonały przeciwutleniacz, też zniesławiony przez nieodpowiedzialnych dziennikarzy, którzy - powołując się na anonimowe źródła zachodnie - twierdzą, że działa rakotwórczo.
-
----
-
-**E 334**
-
-Kwas 1-winowy. Jak sama nazwa wskazuje, znajduje się w winie. Pojawia się w nadmiarze w czasie produkcji tego napoju i jest sprzedawany jako produkt uboczny. Używany jako składnik napojów bezalkoholowych.
-
----
-
-**E 335-  
-\-337**
-
-Winiany sodu, potasu i sodowo-potasowy. Działanie przeciwutleniające podobne do E 334.
-
----
-
-**E 338**
-
-Kwas fosforowy i cztery jego sole. Składnik coca-coli i innych napojów. Sole pożyteczne w pieczywie i w sproszkowanych produktach spożywczych, przeciwdziałające ich zbrylaniu. Jako polifosforany (E 450 a, b i c) są istotnym składnikiem tak zwanych serków topionych. Działanie w czasie produkcji polega na szybkiej dezaktywacji jonów wapnia, kazeiny oraz na stabilizacji emulsji spęczniałej kazeiny i uwolnionego tłuszczu. Fosforan dwusodowy jest zazwyczaj składnikiem mleka skondensowanego.
-
----
-
-**E 375**
-
-Kwas nikotynowy. Nie ma nic wspólnego, poza jednym elementem wzoru chemicznego, z trującą nikotyną w liściach tytoniu oraz tym, że może być z niej otrzymany. Jest witaminą (PP). Z powodu ceny, dodatek rzadko stosowany.
+| **E 300** | Kwas 1-askorbinowy, czyli witamina C. W roku 1986 "Indeks Mercka" wymienia 59 nazw jednego i tego samego związku. Luksusowy konserwant i przeciwutleniacz, znacznie droższy od E 220 i pochodnych, a na pewno zdrowszy. |
+| --- | --- |
+| --- |   |
+| **E 301<br>E 302** | Sole - sodowa i wapniowa kwasu 1-askorbinowego. Działanie podobne do E 300. |
+| --- |   |
+| **E 304** | Palmitynian askorbylu. Pochodna witaminy C, łatwiejsza do stosowania w produktach zawierających tłuszcze. Symbol można zauważyć na opakowaniu prażonych płatków ziemniaczanych, dających się długo przechowywać bez jełczenia i obrzydliwej woni. |
+| --- |   |
+| **E 306** | Ekstrakty wzbogacone o tokoferole, otrzymywane z produktów pochodzenia roślinnego. Tokoferol to witamina E. W stanie czystym jest oleistą cieczą, rozpuszcza się w tłuszczach. Obecny w ilościach 0,1-0,3% w nasionach pszenicy, w kukurydzy, nasionach słonecznika, oleju sojowym i w sałacie. Duże zapotrzebowanie na witaminę E oraz na środek przeciwdziałający jełczeniu tłuszczów spowodowało rozwinięcie syntezy tokoferoli na dużą skalę. |
+| --- |   |
+| **E 307-<br>\-309** | Syntetyczne tokoferole alfa, gamma i delta. Pierwszy z nich jest syntetyczną witaminą E. Tokoferol działa słabiej jako witamina, ale silniej jako przeciwutlemacz. |
+| --- |   |
+| **E 310-<br>\-312** | Gallusany propylu, oktylu lub dodecylu. Szczególnie pierwszy z nich wzmacnia działanie E 320 i 321, pozwalając zmniejszyć ich stężenie. LD50 - 4 g/kg. Chroni tłuszcze przed jełczeniem. |
+| --- |   |
+| **E 320<br>E 321** | Osławione przez środki masowego przekazu antyoksydanty BHA i BHT, nazywane w Polsce bezpodstawnie rakotwórczymi. Bez nich wiele produktów śmierdziałoby jak zjełczałe masło. Mało który przeciwnik antyoksydantów zwraca uwagę na fakt, że właśnie produkty utlenienia mogą być rakotwórcze. Uważa się, że przemysł żywnościowy stosuje wszystko, zwłaszcza przeciwutleniacze, dla własnej złośliwej przyjemności. Wymienione substancje dodaje się czasem też i do opakowań artykułów jełczejących. Są one pierwszą linią obrony przed tlenem. |
+| --- |   |
+| **E 322** | Lecytyna. Fosfatyd występujący w całym świecie roślinnym i zwierzęcym. Jest istotnym składnikiem tkanki nerwowej i mózgu. Występuje w jajkach, ale produkt handlowy pochodzi głównie z nasion soi. Środek powierzchniowo aktywny i emulgator - dzięki niemu mieszanki kakaowe łatwo rozprowadzają się w mleku. Oprócz tego ulubiony składnik niemieckich "cudownych" środków wzmacniających. |
+| --- |   |
+| **E 330** | Kwas cytrynowy. Doskonały przeciwutleniacz, też zniesławiony przez nieodpowiedzialnych dziennikarzy, którzy - powołując się na anonimowe źródła zachodnie - twierdzą, że działa rakotwórczo. |
+| --- |   |
+| **E 334** | Kwas 1-winowy. Jak sama nazwa wskazuje, znajduje się w winie. Pojawia się w nadmiarze w czasie produkcji tego napoju i jest sprzedawany jako produkt uboczny. Używany jako składnik napojów bezalkoholowych. |
+| --- |   |
+| **E 335-<br>\-337** | Winiany sodu, potasu i sodowo-potasowy. Działanie przeciwutleniające podobne do E 334. |
+| --- |   |
+| **E 338** | Kwas fosforowy i cztery jego sole. Składnik coca-coli i innych napojów. Sole pożyteczne w pieczywie i w sproszkowanych produktach spożywczych, przeciwdziałające ich zbrylaniu. Jako polifosforany (E 450 a, b i c) są istotnym składnikiem tak zwanych serków topionych. Działanie w czasie produkcji polega na szybkiej dezaktywacji jonów wapnia, kazeiny oraz na stabilizacji emulsji spęczniałej kazeiny i uwolnionego tłuszczu. Fosforan dwusodowy jest zazwyczaj składnikiem mleka skondensowanego. |
+| --- |   |
+| **E 375** | Kwas nikotynowy. Nie ma nic wspólnego, poza jednym elementem wzoru chemicznego, z trującą nikotyną w liściach tytoniu oraz tym, że może być z niej otrzymany. Jest witaminą (PP). Z powodu ceny, dodatek rzadko stosowany. |
 
 **ZAGĘSZCZACZE**
 
-**E 400-  
-\-404**
-
-Kwas alginowy i pochodne sole - sodowa, potasowa, amonowa i wapniowa. Stosowany jako zagęszczacz do lodów. Chemicznie mało reaktywny, bez smaku. Produkt otrzymywany z wodorostów morskich. Alginiany są ciągle jednym z głównych składników mieszanek odchudzających, ponieważ pęcznieją w żołądku powodując uczucie sytości, a nawet wstrętu do jedzenia.
-
----
-
-**E 406**
-
-Agar, polisacharyd pochodzenia roślinnego, podobnie jak kwas alginowy wytworzony z alg. Już jego jednoprocentowy roztwór daje sztywną galaretkę. Pod wieloma względami lepszy od galaretek żelatynowych. Agar jest środkiem przeczyszczającym dla psów i kotów. Człowiekowi natomiast niczym takim nie grozi.
-
----
-
-**E 407**
-
-Karragean. Polisacharyd (kopolimer galaktozy) z czerwonego wodorostu morskiego, występującego na brzegach Atlantyku - od Norwegii po Afrykę Północną. Nazwa pochodzi od irlandzkiego miasteczka Carragheen. Należy do grupy pektyn (E 440 a), jest polisacharydem.
-
----
-
-**E 410**
-
-Wyciąg z nasion "chleba św. Jana", rośliny Ceratonia siliqua L. rosnącej w rejonie Morza Śródziemnego. W gotującej wodzie pęcznieje. Starsze pokolenie mieszkańców Polski zachodniej pamięta ten produkt sprzedawany w sklepach "kolonialnych".
-
----
-
-**E 412**
-
-Guma guar, zwana też guaran. Pochodzi z nasion Cyamopsis tetragonolobus L., uprawianego w Indiach na paszę dla zwierząt. Lepszy zagęszczacz niż skrobia, szczególnie do sałatek, majonezów, lodów, zup i leków.
-
----
-
-**E 420**
-
-Sorbitol lub syrop sorbitolowy. Występuje w wielu jagodach, śliwkach, jabłkach, a nawet w algach. Stosowany do produkcji słodyczy dla diabetyków, ponieważ nie powoduje tak dużego wzrostu glukozy w krwi jak cukier. Ułatwia wchłanianie witamin z preparatów farmaceutycznych. W słodyczach przeciwdziała zestalaniu się cukru. Niestety, dodatek dość kosztowny.
-
----
-
-**E 421**
-
-Mannitol. Występuje szeroko w świecie roślinnym, jednak preparowany z cukru jest bardziej opłacalny. Ma szerokie zastosowanie w przemyśle spożywczym: nadaje właściwą konsystencję produktom i stabilizuje je, zapobiega przyleganiu do form, a jednocześnie jest środkiem słodzącym o własnościach odżywczych.
-
----
-
-**E 422**
-
-Gliceryna, glicerol. Otrzymywany przy zmydlaniu tłuszczów, ale wobec ogromnego zastosowania także metodami fermentacyjnymi i syntetycznymi. Zastosowanie w farmacji większe niż w przemyśle spożywczym. Wymaga się ujawniania tego dodatku również w kosmetykach.
-
----
-
-**E 440a  
-E 440b**
-
-Pektyna naturalna i modyfikowana - polisacharyd o dużym ciężarze cząsteczkowym występujący w wielu owocach. Znakomity zagęszczacz do przetworów owocowych. Bez wartości odżywczej, jednak ważny dla pracy układu trawiennego.
-
----
-
-**E 450**
-
-a - dwufosforany, b - trójfosforan pięciosodowy, c - polifosforany. Na opakowaniach znajdujemy zwykle E 450 abc, ponieważ dokładny skład polifosforanów zależy od pH. Dodatek jest przeważnie składnikiem serków topionych. Działanie - patrz E 338.
-
----
-
-**E 460**
-
-Celuloza czysta i w różnych modyfikacjach. Polisacharyd zbudowany z glukozy, główny składnik włókien roślinnych. Ponieważ człowiek nie jest w stanie trawić celulozy, jest ona składnikiem różnych preparatów odchudzających.
-
----
-
-**E 470**
-
-Sole sodowe, potasowe i wapniowe tłuszczów spożywczych. Na przykład stearynian sodu jest częstym składnikiem past do zębów.
-
----
-
-**E 500  
-E 501**
-
-Węglan sodu, węglan potasu (soda).
-
----
-
-**E 503**
-
-Węglan amonu, popularny proszek do pieczenia. W czasie pieczenia ulatnia się!
-
----
-
-**E 507**
-
-Kwas solny - stosowany szeroko do hydrolizy białek w przyprawach (w rodzaju Maggi).
-
----
-
-**E 536**
-
-Żelazocyjanek potasu. Mało kto wie, że jest to dodatek do wina usuwający jony żelaza psujące jego smak.
-
----
-
-**E 551-  
-\-559**
-
-Dwutlenek krzemu i krzemiany. Wymaga się bezwzględnie, by nie zawierały azbestu. **IL-PZH**.
-
----
-
-**E 575-  
-\-579**
-
-Grupa glukonianów. Na przykład glukonian wapnia, dodawany do sproszkowanych, suchych środków żywnościowych w celu uniknięcia spiekania się (zbrylania).
-
----
-
-**E 620  
-E 621**
-
-Kwas l-glutaminowy i glutaminian jednosodowy. Powszechny dodatek wzmacniający naturalny smak wielu potraw. Podstawa kuchni chińskiej (często tam przedawkowany!).
-
----
-
-**E 900**
-
-Dwumetylopolisiloksan. Związek, którym pokrywa się formy piekarnicze i podobne urządzenia w przemyśle spożywczym, zwłaszcza w produkcji zautomatyzowanej, w celu unikania przylepiania się wypieku do formy. Pewna ilość przechodzi oczywiście do pieczywa i dlatego musi być traktowana jako dodatek do żywności. Jako ciekawostka: wymieniony silikon pochodzi z rodziny silikonów stosowanych do sztucznego powiększania biustu.
-
----
-
-**E 903**
-
-Wosk Karnauba, wosk z liści palmy brazylijskiej Copernicia prunifera. Stosowany w licznych kosmetykach, ale też do powlekania tabletek i w opakowaniach żywności. Nie stwierdzono żadnego zagrożenia dla zdrowia konsumenta.
+| **E 400-<br>\-404** | Kwas alginowy i pochodne sole - sodowa, potasowa, amonowa i wapniowa. Stosowany jako zagęszczacz do lodów. Chemicznie mało reaktywny, bez smaku. Produkt otrzymywany z wodorostów morskich. Alginiany są ciągle jednym z głównych składników mieszanek odchudzających, ponieważ pęcznieją w żołądku powodując uczucie sytości, a nawet wstrętu do jedzenia. |
+| --- | --- |
+| --- |   |
+| **E 406** | Agar, polisacharyd pochodzenia roślinnego, podobnie jak kwas alginowy wytworzony z alg. Już jego jednoprocentowy roztwór daje sztywną galaretkę. Pod wieloma względami lepszy od galaretek żelatynowych. Agar jest środkiem przeczyszczającym dla psów i kotów. Człowiekowi natomiast niczym takim nie grozi. |
+| --- |   |
+| **E 407** | Karragean. Polisacharyd (kopolimer galaktozy) z czerwonego wodorostu morskiego, występującego na brzegach Atlantyku - od Norwegii po Afrykę Północną. Nazwa pochodzi od irlandzkiego miasteczka Carragheen. Należy do grupy pektyn (E 440 a), jest polisacharydem. |
+| --- |   |
+| **E 410** | Wyciąg z nasion "chleba św. Jana", rośliny Ceratonia siliqua L. rosnącej w rejonie Morza Śródziemnego. W gotującej wodzie pęcznieje. Starsze pokolenie mieszkańców Polski zachodniej pamięta ten produkt sprzedawany w sklepach "kolonialnych". |
+| --- |   |
+| **E 412** | Guma guar, zwana też guaran. Pochodzi z nasion Cyamopsis tetragonolobus L., uprawianego w Indiach na paszę dla zwierząt. Lepszy zagęszczacz niż skrobia, szczególnie do sałatek, majonezów, lodów, zup i leków. |
+| --- |   |
+| **E 420** | Sorbitol lub syrop sorbitolowy. Występuje w wielu jagodach, śliwkach, jabłkach, a nawet w algach. Stosowany do produkcji słodyczy dla diabetyków, ponieważ nie powoduje tak dużego wzrostu glukozy w krwi jak cukier. Ułatwia wchłanianie witamin z preparatów farmaceutycznych. W słodyczach przeciwdziała zestalaniu się cukru. Niestety, dodatek dość kosztowny. |
+| --- |   |
+| **E 421** | Mannitol. Występuje szeroko w świecie roślinnym, jednak preparowany z cukru jest bardziej opłacalny. Ma szerokie zastosowanie w przemyśle spożywczym: nadaje właściwą konsystencję produktom i stabilizuje je, zapobiega przyleganiu do form, a jednocześnie jest środkiem słodzącym o własnościach odżywczych. |
+| --- |   |
+| **E 422** | Gliceryna, glicerol. Otrzymywany przy zmydlaniu tłuszczów, ale wobec ogromnego zastosowania także metodami fermentacyjnymi i syntetycznymi. Zastosowanie w farmacji większe niż w przemyśle spożywczym. Wymaga się ujawniania tego dodatku również w kosmetykach. |
+| --- |   |
+| **E 440a<br>E 440b** | Pektyna naturalna i modyfikowana - polisacharyd o dużym ciężarze cząsteczkowym występujący w wielu owocach. Znakomity zagęszczacz do przetworów owocowych. Bez wartości odżywczej, jednak ważny dla pracy układu trawiennego. |
+| --- |   |
+| **E 450** | a - dwufosforany, b - trójfosforan pięciosodowy, c - polifosforany. Na opakowaniach znajdujemy zwykle E 450 abc, ponieważ dokładny skład polifosforanów zależy od pH. Dodatek jest przeważnie składnikiem serków topionych. Działanie - patrz E 338. |
+| --- |   |
+| **E 460** | Celuloza czysta i w różnych modyfikacjach. Polisacharyd zbudowany z glukozy, główny składnik włókien roślinnych. Ponieważ człowiek nie jest w stanie trawić celulozy, jest ona składnikiem różnych preparatów odchudzających. |
+| --- |   |
+| **E 470** | Sole sodowe, potasowe i wapniowe tłuszczów spożywczych. Na przykład stearynian sodu jest częstym składnikiem past do zębów. |
+| --- |   |
+| **E 500<br>E 501** | Węglan sodu, węglan potasu (soda). |
+| --- |   |
+| **E 503** | Węglan amonu, popularny proszek do pieczenia. W czasie pieczenia ulatnia się! |
+| --- |   |
+| **E 507** | Kwas solny - stosowany szeroko do hydrolizy białek w przyprawach (w rodzaju Maggi). |
+| --- |   |
+| **E 536** | Żelazocyjanek potasu. Mało kto wie, że jest to dodatek do wina usuwający jony żelaza psujące jego smak. |
+| --- |   |
+| **E 551-<br>\-559** | Dwutlenek krzemu i krzemiany. Wymaga się bezwzględnie, by nie zawierały azbestu. **IL-PZH**. |
+| --- |   |
+| **E 575-<br>\-579** | Grupa glukonianów. Na przykład glukonian wapnia, dodawany do sproszkowanych, suchych środków żywnościowych w celu uniknięcia spiekania się (zbrylania). |
+| --- |   |
+| **E 620<br>E 621** | Kwas l-glutaminowy i glutaminian jednosodowy. Powszechny dodatek wzmacniający naturalny smak wielu potraw. Podstawa kuchni chińskiej (często tam przedawkowany!). |
+| --- |   |
+| **E 900** | Dwumetylopolisiloksan. Związek, którym pokrywa się formy piekarnicze i podobne urządzenia w przemyśle spożywczym, zwłaszcza w produkcji zautomatyzowanej, w celu unikania przylepiania się wypieku do formy. Pewna ilość przechodzi oczywiście do pieczywa i dlatego musi być traktowana jako dodatek do żywności. Jako ciekawostka: wymieniony silikon pochodzi z rodziny silikonów stosowanych do sztucznego powiększania biustu. |
+| --- |   |
+| **E 903** | Wosk Karnauba, wosk z liści palmy brazylijskiej Copernicia prunifera. Stosowany w licznych kosmetykach, ale też do powlekania tabletek i w opakowaniach żywności. Nie stwierdzono żadnego zagrożenia dla zdrowia konsumenta. |
 
 Powrót (→ artykuł medalt/grande/grande)
 
@@ -9331,85 +5419,24 @@ Cukrowce, cukry, sacharydy. Organiczne związki chemiczne. Obok białek i tłusz
 
 **Dzienne zapotrzebowanie na energię ustalone przez Instytut Żywności i Żywienia**
 
-**Grupa osób**
+| **Grupa osób** | **1-3 lat** | **4-6 lat** | **7-9 lat** | **10-12 lat** |
+| --- | --- | --- | --- | --- |
+| Dzieci | 1300 kcal | 1700 kcal | 2100 kcal | 2600 kcal |
 
-**1-3 lat**
+|   | **13-15 lat** | **16-20 lat** |
+| --- | --- | --- |
+| Dziewczęta | 2800 kcal | 2700 kcal |
+| Chłopcy | 3300 kcal | 3700 kcal |
 
-**4-6 lat**
-
-**7-9 lat**
-
-**10-12 lat**
-
-    Dzieci
-
-1300 kcal
-
-1700 kcal
-
-2100 kcal
-
-2600 kcal
-
-**13-15 lat**
-
-**16-20 lat**
-
-    Dziewczęta
-
-2800 kcal
-
-2700 kcal
-
-    Chłopcy
-
-3300 kcal
-
-3700 kcal
-
-**Mężczyźni**
-
-**Kobiety**
-
-    Zajęcie siedzące
-
-2600 kcal
-
-2300 kcal
-
-    Umiarkowana praca
-
-3200 kcal
-
-2800 kcal
-
-    Ciężka praca
-
-4000 kcal
-
-3200 kcal
-
-    Bardzo ciężka praca
-
-4500 kcal
-
-\-
-
-    Ciężarna
-
-\-
-
-2800 kcal
-
-    Karmiąca
-
-\-
-
-3400 kcal
-
-    Osoba ponad 65 lat
-
-2300 kcal
+|   | **Mężczyźni** | **Kobiety** |
+| --- | --- | --- |
+| Zajęcie siedzące | 2600 kcal | 2300 kcal |
+| Umiarkowana praca | 3200 kcal | 2800 kcal |
+| Ciężka praca | 4000 kcal | 3200 kcal |
+| Bardzo ciężka praca | 4500 kcal | \- |
+| Ciężarna | \- | 2800 kcal |
+| Karmiąca | \- | 3400 kcal |
+| Osoba ponad 65 lat | 2300 kcal |   |
 
 **1 kcal = 4,1858 kJ    &    1 kJ = 0,2388 kcal**
 
@@ -9421,2935 +5448,376 @@ Cukrowce, cukry, sacharydy. Organiczne związki chemiczne. Obok białek i tłusz
 
     **PIECZYWO PSZENNE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Bułka Grahama
-
-243    
-
-3,1    
-
-1,3    
-
-51,6    
-
-    Bułka zwykła
-
-258    
-
-6,8    
-
-3,0    
-
-51,0    
-
-    Bułka maślana
-
-278    
-
-6,4    
-
-4,8    
-
-52,2    
-
-    Bułka śniadaniowa
-
-320    
-
-7,6    
-
-6,2    
-
-58,6    
-
-    Chałka maślana
-
-280    
-
-6,0    
-
-5,2    
-
-52,6    
-
-    Obwarzanek
-
-246    
-
-6,6    
-
-2,8    
-
-50,8    
-
-    Rogal kruchy
-
-286    
-
-6,4    
-
-6,4    
-
-50,8    
-
-    Suchar niesłodki
-
-347    
-
-9,3    
-
-2,0    
-
-73,3    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Bułka Grahama | 243 | 3,1 | 1,3 | 51,6 |
+| Bułka zwykła | 258 | 6,8 | 3,0 | 51,0 |
+| Bułka maślana | 278 | 6,4 | 4,8 | 52,2 |
+| Bułka śniadaniowa | 320 | 7,6 | 6,2 | 58,6 |
+| Chałka maślana | 280 | 6,0 | 5,2 | 52,6 |
+| Obwarzanek | 246 | 6,6 | 2,8 | 50,8 |
+| Rogal kruchy | 286 | 6,4 | 6,4 | 50,8 |
+| Suchar niesłodki | 347 | 9,3 | 2,0 | 73,3 |
 
     **PIECZYWO ŻYTNIE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Chleb chrupki
-
-390    
-
-11,0    
-
-1,9    
-
-83,0    
-
-    Chleb razowy
-
-232    
-
-4,6    
-
-1,6    
-
-49,0    
-
-    Chleb wytrawny
-
-232    
-
-6,2    
-
-1,6    
-
-48,4    
-
-    Pumpernikel
-
-290    
-
-5,7    
-
-2,1    
-
-61,9    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Chleb chrupki | 390 | 11,0 | 1,9 | 83,0 |
+| Chleb razowy | 232 | 4,6 | 1,6 | 49,0 |
+| Chleb wytrawny | 232 | 6,2 | 1,6 | 48,4 |
+| Pumpernikel | 290 | 5,7 | 2,1 | 61,9 |
 
     **PIECZYWO ŻYTNIO-PSZENNE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Chleb mieszany miodowy
-
-218    
-
-4,0    
-
-1,2    
-
-48,0    
-
-    Chleb mieszany z otrębami
-
-228    
-
-6,6    
-
-1,2    
-
-48,0    
-
-    Chleb skrobiowy
-
-406    
-
-\-    
-
-2,0    
-
-97,0    
-
-    Chleb słodowy
-
-206    
-
-4,0    
-
-1,0    
-
-45,4    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Chleb mieszany miodowy | 218 | 4,0 | 1,2 | 48,0 |
+| Chleb mieszany z otrębami | 228 | 6,6 | 1,2 | 48,0 |
+| Chleb skrobiowy | 406 | \- | 2,0 | 97,0 |
+| Chleb słodowy | 206 | 4,0 | 1,0 | 45,4 |
 
     **PRODUKTY ZBOŻOWE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Kasza gryczana
-
-353    
-
-12,6    
-
-2,5    
-
-70,1    
-
-    Kasza jaglana
-
-354    
-
-10,6    
-
-2,9    
-
-71,4    
-
-    Kasza krakowska
-
-350    
-
-6,6    
-
-2,0    
-
-76,5    
-
-    Kasza kukurydziana
-
-350    
-
-8,6    
-
-0,8    
-
-77,2    
-
-    Kasza manna
-
-352    
-
-8,9    
-
-1,3    
-
-76,2    
-
-    Kasza perłowa
-
-343    
-
-8,3    
-
-1,5    
-
-74,1    
-
-    Kasza pęczak
-
-342    
-
-8,8    
-
-1,5    
-
-73,4    
-
-    Makaron fabryczny 2-jajeczny
-
-373    
-
-13,5    
-
-3,3    
-
-72,2    
-
-    Makaron fabryczny 4-jajeczny
-
-376    
-
-14,2    
-
-4,0    
-
-70,8    
-
-    Makaron fabryczny bez jaj
-
-368    
-
-12,1    
-
-2,3    
-
-74,6    
-
-    Mąka pszenna
-
-346    
-
-8,3    
-
-1,2    
-
-75,2    
-
-    Mąka ziemniaczana
-
-339    
-
-0,6    
-
-0,1    
-
-83,0    
-
-    Mąka żytnia razowa
-
-347    
-
-7,7    
-
-2,2    
-
-74,1    
-
-    Płatki owsiane
-
-391    
-
-13,0    
-
-7,5    
-
-67,8    
-
-    Płatki ziemniaczane
-
-362    
-
-6,7    
-
-7,5    
-
-78,2    
-
-    Ryż
-
-349    
-
-6,7    
-
-0,7    
-
-78,9    
-
-    Ryż błyskawiczny (płatki)
-
-349    
-
-6,7    
-
-0,7    
-
-78,9    
-
-    Ryż preparowany
-
-360    
-
-8,0    
-
-0,4    
-
-81,0    
-
-    Ryż preparowany z glazurą
-
-477    
-
-0,9    
-
-0,5    
-
-84,2    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Kasza gryczana | 353 | 12,6 | 2,5 | 70,1 |
+| Kasza jaglana | 354 | 10,6 | 2,9 | 71,4 |
+| Kasza krakowska | 350 | 6,6 | 2,0 | 76,5 |
+| Kasza kukurydziana | 350 | 8,6 | 0,8 | 77,2 |
+| Kasza manna | 352 | 8,9 | 1,3 | 76,2 |
+| Kasza perłowa | 343 | 8,3 | 1,5 | 74,1 |
+| Kasza pęczak | 342 | 8,8 | 1,5 | 73,4 |
+| Makaron fabryczny 2-jajeczny | 373 | 13,5 | 3,3 | 72,2 |
+| Makaron fabryczny 4-jajeczny | 376 | 14,2 | 4,0 | 70,8 |
+| Makaron fabryczny bez jaj | 368 | 12,1 | 2,3 | 74,6 |
+| Mąka pszenna | 346 | 8,3 | 1,2 | 75,2 |
+| Mąka ziemniaczana | 339 | 0,6 | 0,1 | 83,0 |
+| Mąka żytnia razowa | 347 | 7,7 | 2,2 | 74,1 |
+| Płatki owsiane | 391 | 13,0 | 7,5 | 67,8 |
+| Płatki ziemniaczane | 362 | 6,7 | 7,5 | 78,2 |
+| Ryż | 349 | 6,7 | 0,7 | 78,9 |
+| Ryż błyskawiczny (płatki) | 349 | 6,7 | 0,7 | 78,9 |
+| Ryż preparowany | 360 | 8,0 | 0,4 | 81,0 |
+| Ryż preparowany z glazurą | 477 | 0,9 | 0,5 | 84,2 |
 
     **WYROBY CUKIERNICZE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Andruty popularne
-
-503    
-
-6,9    
-
-22,8    
-
-68,5    
-
-    Babka drożdżowa
-
-329    
-
-6,3    
-
-12,3    
-
-47,3    
-
-    Babka piaskowa polewana czekoladą
-
-455    
-
-3,7    
-
-28,8    
-
-45,0    
-
-    Babka piaskowa z kakao
-
-423    
-
-4,0    
-
-23,7    
-
-48,5    
-
-    Ciastka amatorskie
-
-499    
-
-4,2    
-
-20,7    
-
-69,2    
-
-    Ciastka kokosanki
-
-495    
-
-6,9    
-
-23,8    
-
-63,4    
-
-    Ciastka Petit Beurre, inne kruche
-
-441    
-
-7,2    
-
-10,2    
-
-80,1    
-
-    Ciastka drożdżowe z jagodami
-
-239    
-
-5,5    
-
-4,3
-
-44,6    
-
-    Faworki
-
-590    
-
-4,1    
-
-55,0    
-
-19,6    
-
-    Herbatniki deserowe z cukrem
-
-486    
-
-6,3    
-
-20,2    
-
-69,8    
-
-    Keks z owocami i rodzynkami
-
-350    
-
-4,3    
-
-13,0    
-
-53,9    
-
-    Lody śmietankowo-kakaowe
-
-174    
-
-4,0    
-
-9,0    
-
-19,3    
-
-    Lody śmietankowo-owocowe
-
-193    
-
-3,0    
-
-8,2    
-
-26,7    
-
-    Markizy o smaku cytrynowym
-
-483    
-
-6,3    
-
-18,0    
-
-74,0    
-
-    Mazurek polski
-
-350    
-
-4,0    
-
-12,2    
-
-56,0    
-
-    Paluszki słone
-
-307    
-
-3,2    
-
-3,6    
-
-61,52    
-
-    Placek drożdżowy z kruszonką
-
-339    
-
-6,7    
-
-12,2    
-
-50,7    
-
-    Rurki waflowe
-
-401    
-
-7,2    
-
-2,2    
-
-88,1    
-
-    Sernik krakowski
-
-271    
-
-9,9    
-
-12,2    
-
-32,4    
-
-    Strucla z makiem
-
-336    
-
-6,0    
-
-11,7    
-
-51,7    
-
-    Tort czekoladowy
-
-334    
-
-3,5    
-
-18,7    
-
-38,0    
-
-    Tort orzechowy
-
-319    
-
-4,2    
-
-16,6    
-
-38,2    
-
-    Wafle o smaku owocowym
-
-503    
-
-4,2    
-
-25,6    
-
-64,1    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Andruty popularne | 503 | 6,9 | 22,8 | 68,5 |
+| Babka drożdżowa | 329 | 6,3 | 12,3 | 47,3 |
+| Babka piaskowa polewana czekoladą | 455 | 3,7 | 28,8 | 45,0 |
+| Babka piaskowa z kakao | 423 | 4,0 | 23,7 | 48,5 |
+| Ciastka amatorskie | 499 | 4,2 | 20,7 | 69,2 |
+| Ciastka kokosanki | 495 | 6,9 | 23,8 | 63,4 |
+| Ciastka Petit Beurre, inne kruche | 441 | 7,2 | 10,2 | 80,1 |
+| Ciastka drożdżowe z jagodami | 239 | 5,5 | 4,3 | 44,6 |
+| Faworki | 590 | 4,1 | 55,0 | 19,6 |
+| Herbatniki deserowe z cukrem | 486 | 6,3 | 20,2 | 69,8 |
+| Keks z owocami i rodzynkami | 350 | 4,3 | 13,0 | 53,9 |
+| Lody śmietankowo-kakaowe | 174 | 4,0 | 9,0 | 19,3 |
+| Lody śmietankowo-owocowe | 193 | 3,0 | 8,2 | 26,7 |
+| Markizy o smaku cytrynowym | 483 | 6,3 | 18,0 | 74,0 |
+| Mazurek polski | 350 | 4,0 | 12,2 | 56,0 |
+| Paluszki słone | 307 | 3,2 | 3,6 | 61,52 |
+| Placek drożdżowy z kruszonką | 339 | 6,7 | 12,2 | 50,7 |
+| Rurki waflowe | 401 | 7,2 | 2,2 | 88,1 |
+| Sernik krakowski | 271 | 9,9 | 12,2 | 32,4 |
+| Strucla z makiem | 336 | 6,0 | 11,7 | 51,7 |
+| Tort czekoladowy | 334 | 3,5 | 18,7 | 38,0 |
+| Tort orzechowy | 319 | 4,2 | 16,6 | 38,2 |
+| Wafle o smaku owocowym | 503 | 4,2 | 25,6 | 64,1 |
 
     **SŁODYCZE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Batony orzechowe
-
-512    
-
-3,3    
-
-23,0    
-
-61,6    
-
-    Batony owocowe
-
-372    
-
-0,1    
-
-0,1    
-
-92,7    
-
-    Chałwa
-
-529    
-
-13,0    
-
-33,0    
-
-45,0    
-
-    Cukier
-
-400    
-
-\-    
-
-\-    
-
-100,0    
-
-    Czekolada gorzka
-
-584    
-
-3,0    
-
-39,0    
-
-51,2    
-
-    Czekolada mleczna
-
-574    
-
-3,1    
-
-36,3    
-
-53,7    
-
-    Dżem zwykły
-
-264    
-
-1,0    
-
-\-    
-
-65,0    
-
-    Kakao 16%
-
-432    
-
-19,0    
-
-16,0    
-
-53,0    
-
-    Krówki wyborowe
-
-387    
-
-4,8    
-
-6,5    
-
-77,4    
-
-    Miód pszczeli
-
-319    
-
-0,3    
-
-\-    
-
-79,5    
-
-    Ptasie mleczko
-
-473    
-
-2,3    
-
-26,6    
-
-56,2    
-
-    Wiśnie w czekoladzie
-
-416    
-
-1,9    
-
-18,0    
-
-63,0    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Batony orzechowe | 512 | 3,3 | 23,0 | 61,6 |
+| Batony owocowe | 372 | 0,1 | 0,1 | 92,7 |
+| Chałwa | 529 | 13,0 | 33,0 | 45,0 |
+| Cukier | 400 | \- | \- | 100,0 |
+| Czekolada gorzka | 584 | 3,0 | 39,0 | 51,2 |
+| Czekolada mleczna | 574 | 3,1 | 36,3 | 53,7 |
+| Dżem zwykły | 264 | 1,0 | \- | 65,0 |
+| Kakao 16% | 432 | 19,0 | 16,0 | 53,0 |
+| Krówki wyborowe | 387 | 4,8 | 6,5 | 77,4 |
+| Miód pszczeli | 319 | 0,3 | \- | 79,5 |
+| Ptasie mleczko | 473 | 2,3 | 26,6 | 56,2 |
+| Wiśnie w czekoladzie | 416 | 1,9 | 18,0 | 63,0 |
 
     **GOTOWE POTRAWY MĄCZNE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Frytki (przed smażeniem)
-
-350    
-
-7,0    
-
-2,0    
-
-76,0    
-
-    Kluski ruskie
-
-351    
-
-7,0    
-
-3,0    
-
-74,0    
-
-    Kluski śląskie
-
-342    
-
-6,0    
-
-2,0    
-
-75,0    
-
-    Knedle śliwkowe
-
-149    
-
-4,0    
-
-1,4    
-
-30,0    
-
-    Kopytka
-
-158    
-
-3,3    
-
-0,7    
-
-39,6    
-
-    Pierogi leniwe
-
-143    
-
-11,6    
-
-1,6    
-
-20,6    
-
-    Pierogi ruskie
-
-184    
-
-6,0    
-
-2,1    
-
-35,1    
-
-    Pierogi z kapustą i grzybami
-
-201    
-
-5,4    
-
-4,6    
-
-34,6    
-
-    Pierogi z serem
-
-192    
-
-11,3    
-
-1,8    
-
-32,3    
-
-    Placki ziemniaczane (przed smażeniem)
-
-338    
-
-6,0    
-
-2,0    
-
-75,0    
-
-    Pyzy ziemniaczane
-
-140    
-
-2,3    
-
-0,7    
-
-31,2    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Frytki (przed smażeniem) | 350 | 7,0 | 2,0 | 76,0 |
+| Kluski ruskie | 351 | 7,0 | 3,0 | 74,0 |
+| Kluski śląskie | 342 | 6,0 | 2,0 | 75,0 |
+| Knedle śliwkowe | 149 | 4,0 | 1,4 | 30,0 |
+| Kopytka | 158 | 3,3 | 0,7 | 39,6 |
+| Pierogi leniwe | 143 | 11,6 | 1,6 | 20,6 |
+| Pierogi ruskie | 184 | 6,0 | 2,1 | 35,1 |
+| Pierogi z kapustą i grzybami | 201 | 5,4 | 4,6 | 34,6 |
+| Pierogi z serem | 192 | 11,3 | 1,8 | 32,3 |
+| Placki ziemniaczane (przed smażeniem) | 338 | 6,0 | 2,0 | 75,0 |
+| Pyzy ziemniaczane | 140 | 2,3 | 0,7 | 31,2 |
 
     **MLEKO I PRZETWORY**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Jogurt
-
-59    
-
-3,9    
-
-2,5    
-
-5,1    
-
-    Kefir półtłusty
-
-44    
-
-3,1    
-
-1,5    
-
-4,5    
-
-    Maślanka
-
-34    
-
-3,3    
-
-0,5    
-
-4,0    
-
-    Mleko chude 2%
-
-48    
-
-3,1    
-
-2,0    
-
-4,5    
-
-    Mleko tłuste 3,2%
-
-58    
-
-3,0    
-
-3,2    
-
-4,4    
-
-    Mleko w proszku pełne
-
-494    
-
-26,0    
-
-26,0    
-
-39,0    
-
-    Mleko zagęszczone niesłodzone
-
-140    
-
-7,0    
-
-8,0    
-
-10,0    
-
-    Mleko zagęszczone słodzone
-
-324    
-
-8,0    
-
-8,0    
-
-55,0    
-
-    Mleko zsiadłe chude 2%
-
-46    
-
-3,1    
-
-2,0    
-
-3,9    
-
-    Śmietana 18%
-
-190    
-
-3,0    
-
-18,0    
-
-4,0    
-
-    Śmietana 30%
-
-294    
-
-2,0    
-
-30,0    
-
-4,0    
-
-    Śmietanka do kawy 9%
-
-113    
-
-3,0    
-
-9,0    
-
-5,0    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Jogurt | 59 | 3,9 | 2,5 | 5,1 |
+| Kefir półtłusty | 44 | 3,1 | 1,5 | 4,5 |
+| Maślanka | 34 | 3,3 | 0,5 | 4,0 |
+| Mleko chude 2% | 48 | 3,1 | 2,0 | 4,5 |
+| Mleko tłuste 3,2% | 58 | 3,0 | 3,2 | 4,4 |
+| Mleko w proszku pełne | 494 | 26,0 | 26,0 | 39,0 |
+| Mleko zagęszczone niesłodzone | 140 | 7,0 | 8,0 | 10,0 |
+| Mleko zagęszczone słodzone | 324 | 8,0 | 8,0 | 55,0 |
+| Mleko zsiadłe chude 2% | 46 | 3,1 | 2,0 | 3,9 |
+| Śmietana 18% | 190 | 3,0 | 18,0 | 4,0 |
+| Śmietana 30% | 294 | 2,0 | 30,0 | 4,0 |
+| Śmietanka do kawy 9% | 113 | 3,0 | 9,0 | 5,0 |
 
     **SERY BIAŁE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Ser homogenizowany chudy
-
-150    
-
-31,5    
-
-\-    
-
-\-    
-
-    Ser homogenizowany tłusty
-
-275    
-
-32,5    
-
-15,0    
-
-2,5    
-
-    Ser twarogowy chudy
-
-104    
-
-21,2    
-
-1,2    
-
-2,2    
-
-    Ser twarogowy pełnotłusty
-
-183    
-
-14,5    
-
-12,6    
-
-3,0    
-
-    Ser twarogowy tłusty
-
-168    
-
-17,9    
-
-9,0    
-
-3,4    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Ser homogenizowany chudy | 150 | 31,5 | \- | \- |
+| Ser homogenizowany tłusty | 275 | 32,5 | 15,0 | 2,5 |
+| Ser twarogowy chudy | 104 | 21,2 | 1,2 | 2,2 |
+| Ser twarogowy pełnotłusty | 183 | 14,5 | 12,6 | 3,0 |
+| Ser twarogowy tłusty | 168 | 17,9 | 9,0 | 3,4 |
 
     **SERY ŻÓŁTE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Ser cheddar pełnotłusty
-
-382    
-
-27,1    
-
-29,3    
-
-2,5    
-
-    Ser edamski pełnotłusty
-
-358    
-
-27,9    
-
-26,2    
-
-2,7    
-
-    Ser edamski tłusty
-
-307    
-
-28,1    
-
-19,5    
-
-4,8    
-
-    Ser gouda pełnotłusty
-
-359    
-
-28,8    
-
-26,1    
-
-1,0    
-
-    Ser salami tłusty
-
-329    
-
-29,5    
-
-22,1    
-
-3,1    
-
-    Ser tylżycki pełnotłusty
-
-346    
-
-26,1    
-
-36,0    
-
-2,0    
-
-    Ser tylżycki tłusty
-
-327    
-
-27,8    
-
-23,0    
-
-2,1    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Ser cheddar pełnotłusty | 382 | 27,1 | 29,3 | 2,5 |
+| Ser edamski pełnotłusty | 358 | 27,9 | 26,2 | 2,7 |
+| Ser edamski tłusty | 307 | 28,1 | 19,5 | 4,8 |
+| Ser gouda pełnotłusty | 359 | 28,8 | 26,1 | 1,0 |
+| Ser salami tłusty | 329 | 29,5 | 22,1 | 3,1 |
+| Ser tylżycki pełnotłusty | 346 | 26,1 | 36,0 | 2,0 |
+| Ser tylżycki tłusty | 327 | 27,8 | 23,0 | 2,1 |
 
     **SERY TOPIONE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Ser edamski
-
-231    
-
-18,0    
-
-17,1    
-
-1,2    
-
-    Ser ementaler
-
-286    
-
-15,5    
-
-24,3    
-
-1,3    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Ser edamski | 231 | 18,0 | 17,1 | 1,2 |
+| Ser ementaler | 286 | 15,5 | 24,3 | 1,3 |
 
     **JAJO KURZE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Jajo całe (bez skorupki)
-
-158    
-
-12,8    
-
-11,6    
-
-0,8    
-
-    Białko jaja
-
-39    
-
-9,6    
-
-\-    
-
-0,9    
-
-    Jajo całe w proszku
-
-578    
-
-47,0    
-
-42,0    
-
-3,0    
-
-    Żółtko jaja
-
-330    
-
-15,6    
-
-29,0    
-
-1,0    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Jajo całe (bez skorupki) | 158 | 12,8 | 11,6 | 0,8 |
+| Białko jaja | 39 | 9,6 | \- | 0,9 |
+| Jajo całe w proszku | 578 | 47,0 | 42,0 | 3,0 |
+| Żółtko jaja | 330 | 15,6 | 29,0 | 1,0 |
 
     **TŁUSZCZE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Boczek wędzony średnio tłusty
-
-475    
-
-13,0    
-
-47,0    
-
-\-    
-
-    Majonez
-
-637    
-
-1,0    
-
-69,0    
-
-3,0    
-
-    Masło
-
-755    
-
-1,0    
-
-83,0    
-
-1,0    
-
-    Masło roślinne
-
-747    
-
-\-    
-
-83,0    
-
-\-    
-
-    Margaryna
-
-747    
-
-\-    
-
-83,0    
-
-\-    
-
-    Oliwa
-
-900    
-
-\-    
-
-100,0    
-
-\-    
-
-    Olej rzepakowy, sojowy, słonecznikowy
-
-900    
-
-\-    
-
-100,0    
-
-\-    
-
-    Słonina
-
-764    
-
-2,0    
-
-84,0    
-
-\-    
-
-    Smalec wieprzowy
-
-900    
-
-\-    
-
-100,0    
-
-\-    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Boczek wędzony średnio tłusty | 475 | 13,0 | 47,0 | \- |
+| Majonez | 637 | 1,0 | 69,0 | 3,0 |
+| Masło | 755 | 1,0 | 83,0 | 1,0 |
+| Masło roślinne | 747 | \- | 83,0 | \- |
+| Margaryna | 747 | \- | 83,0 | \- |
+| Oliwa | 900 | \- | 100,0 | \- |
+| Olej rzepakowy, sojowy, słonecznikowy | 900 | \- | 100,0 | \- |
+| Słonina | 764 | 2,0 | 84,0 | \- |
+| Smalec wieprzowy | 900 | \- | 100,0 | \- |
 
     **MIĘSA I PODROBY SUROWE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Cielęcina - łopatka
-
-127    
-
-16,0    
-
-7,7    
-
-\-    
-
-    Cielęcina - nogi
-
-96    
-
-15,0    
-
-8,0    
-
-\-    
-
-    Cielęcina - udziec
-
-86    
-
-17,0    
-
-2,4    
-
-\-    
-
-    Flaki
-
-82    
-
-16,0    
-
-2,0    
-
-\-    
-
-    Gęś średnio tłusta
-
-224    
-
-11,0    
-
-20,0    
-
-\-    
-
-    Indyk patroszony
-
-118    
-
-16,0    
-
-6,0    
-
-\-    
-
-    Kaczka patroszona
-
-179    
-
-11,0    
-
-15,0    
-
-\-    
-
-    Konina
-
-48    
-
-8,0    
-
-1,8    
-
-\-    
-
-    Kurczę chude patroszone
-
-124    
-
-13,0    
-
-8,0    
-
-\-    
-
-    Mózg (średnio)
-
-121    
-
-10,0    
-
-9,0    
-
-\-    
-
-    Nerki (średnio)
-
-118    
-
-15,0    
-
-6,0    
-
-1,0    
-
-    Serca wieprzowe
-
-168    
-
-15,0    
-
-12,0    
-
-\-    
-
-    Serca wołowe
-
-109    
-
-16,0    
-
-5,0    
-
-\-    
-
-    Wątroba (średnio)
-
-129    
-
-19,0    
-
-4,3    
-
-4,0    
-
-    Wieprzowina - boczek
-
-517    
-
-10,0    
-
-53,0    
-
-\-    
-
-    Wieprzowina - karkówka
-
-233    
-
-13,0    
-
-19,0    
-
-\-    
-
-    Wieprzowina - łopatka
-
-227    
-
-14,0    
-
-19,0    
-
-\-    
-
-    Wieprzowina - nogi
-
-164    
-
-14,0    
-
-12,0    
-
-\-    
-
-    Wieprzowina - schab
-
-140    
-
-17,0    
-
-8,0    
-
-\-    
-
-    Wieprzowina - szynka surowa
-
-209    
-
-14,0    
-
-17,0    
-
-\-    
-
-    Wieprzowina - żeberka
-
-242    
-
-11,0    
-
-22,0    
-
-\-    
-
-    Wołowina - szponder
-
-184    
-
-10,0    
-
-16,0    
-
-\-    
-
-    Wołowina - nogi
-
-96    
-
-15,0    
-
-4,0    
-
-\-    
-
-    Wołowina - ozór
-
-178    
-
-13,0    
-
-14,0    
-
-\-    
-
-    Wołowina - pieczeniowe
-
-120    
-
-21,0    
-
-4,0    
-
-\-    
-
-    Wołowina - polędwica
-
-116    
-
-20,0    
-
-4,0    
-
-\-    
-
-    Wołowina - rostbef
-
-122    
-
-17,0    
-
-5,9    
-
-\-    
-
-    Wołowina - rozbratel
-
-124    
-
-13,0    
-
-7,8    
-
-\-    
-
-    Wołowina - zrazowe
-
-120    
-
-21,0    
-
-4,0    
-
-\-    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Cielęcina - łopatka | 127 | 16,0 | 7,7 | \- |
+| Cielęcina - nogi | 96 | 15,0 | 8,0 | \- |
+| Cielęcina - udziec | 86 | 17,0 | 2,4 | \- |
+| Flaki | 82 | 16,0 | 2,0 | \- |
+| Gęś średnio tłusta | 224 | 11,0 | 20,0 | \- |
+| Indyk patroszony | 118 | 16,0 | 6,0 | \- |
+| Kaczka patroszona | 179 | 11,0 | 15,0 | \- |
+| Konina | 48 | 8,0 | 1,8 | \- |
+| Kurczę chude patroszone | 124 | 13,0 | 8,0 | \- |
+| Mózg (średnio) | 121 | 10,0 | 9,0 | \- |
+| Nerki (średnio) | 118 | 15,0 | 6,0 | 1,0 |
+| Serca wieprzowe | 168 | 15,0 | 12,0 | \- |
+| Serca wołowe | 109 | 16,0 | 5,0 | \- |
+| Wątroba (średnio) | 129 | 19,0 | 4,3 | 4,0 |
+| Wieprzowina - boczek | 517 | 10,0 | 53,0 | \- |
+| Wieprzowina - karkówka | 233 | 13,0 | 19,0 | \- |
+| Wieprzowina - łopatka | 227 | 14,0 | 19,0 | \- |
+| Wieprzowina - nogi | 164 | 14,0 | 12,0 | \- |
+| Wieprzowina - schab | 140 | 17,0 | 8,0 | \- |
+| Wieprzowina - szynka surowa | 209 | 14,0 | 17,0 | \- |
+| Wieprzowina - żeberka | 242 | 11,0 | 22,0 | \- |
+| Wołowina - szponder | 184 | 10,0 | 16,0 | \- |
+| Wołowina - nogi | 96 | 15,0 | 4,0 | \- |
+| Wołowina - ozór | 178 | 13,0 | 14,0 | \- |
+| Wołowina - pieczeniowe | 120 | 21,0 | 4,0 | \- |
+| Wołowina - polędwica | 116 | 20,0 | 4,0 | \- |
+| Wołowina - rostbef | 122 | 17,0 | 5,9 | \- |
+| Wołowina - rozbratel | 124 | 13,0 | 7,8 | \- |
+| Wołowina - zrazowe | 120 | 21,0 | 4,0 | \- |
 
     **WĘDLINY, PODROBY I WYROBY GARMAŻERYJNE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Kaszanka wyborowa
-
-206    
-
-12,0    
-
-13,0    
-
-10,3    
-
-    Kiełbasa krakowska parzona
-
-229    
-
-15,3    
-
-18,6    
-
-\-    
-
-    Kiełbasa mortadela
-
-225    
-
-13,3    
-
-19,1    
-
-\-    
-
-    Kiełbasa serdelowa
-
-291    
-
-10,9    
-
-24,2    
-
-\-    
-
-    Kiełbasa szynkowa wieprzowa
-
-157    
-
-13,5    
-
-9,3    
-
-\-    
-
-    Kiełbasa szynkowa wołowa
-
-122    
-
-20,0    
-
-4,7    
-
-\-    
-
-    Kiełbasa zwyczajna
-
-284    
-
-13,3    
-
-23,4    
-
-\-    
-
-    Kiszka pasztetowa
-
-322    
-
-12,0    
-
-30,0    
-
-1,0    
-
-    Kiszka wątrobiana
-
-259    
-
-11,0    
-
-23,0    
-
-2,0    
-
-    Kurczak pieczony
-
-194    
-
-17,0    
-
-14,0    
-
-\-    
-
-    Parówki
-
-231    
-
-11,5    
-
-25,0    
-
-\-    
-
-    Pasztet mięsny
-
-317    
-
-17,0    
-
-25,0    
-
-6,0    
-
-    Polędwica wędzona
-
-133    
-
-24,5    
-
-3,9    
-
-\-    
-
-    Salceson brunszwicki
-
-290    
-
-14,0    
-
-26,0    
-
-\-    
-
-    Salceson czarny
-
-305    
-
-11,0    
-
-29,0    
-
-\-    
-
-    Salceson włoski
-
-256    
-
-12,0    
-
-22,0    
-
-\-    
-
-    Serdelki
-
-291    
-
-10,6    
-
-27,6    
-
-\-    
-
-    Szynka gotowana średnio tłusta
-
-389    
-
-23,0    
-
-33,0    
-
-\-    
-
-    Szynka wieprzowa konserwowa
-
-103    
-
-19,0    
-
-3,5    
-
-\-    
-
-    Szynka wołowa konserwowa
-
-120    
-
-20,1    
-
-3,5    
-
-\-    
-
-    Szynka z drobiu
-
-119    
-
-22,5    
-
-3,2    
-
-\-    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Kaszanka wyborowa | 206 | 12,0 | 13,0 | 10,3 |
+| Kiełbasa krakowska parzona | 229 | 15,3 | 18,6 | \- |
+| Kiełbasa mortadela | 225 | 13,3 | 19,1 | \- |
+| Kiełbasa serdelowa | 291 | 10,9 | 24,2 | \- |
+| Kiełbasa szynkowa wieprzowa | 157 | 13,5 | 9,3 | \- |
+| Kiełbasa szynkowa wołowa | 122 | 20,0 | 4,7 | \- |
+| Kiełbasa zwyczajna | 284 | 13,3 | 23,4 | \- |
+| Kiszka pasztetowa | 322 | 12,0 | 30,0 | 1,0 |
+| Kiszka wątrobiana | 259 | 11,0 | 23,0 | 2,0 |
+| Kurczak pieczony | 194 | 17,0 | 14,0 | \- |
+| Parówki | 231 | 11,5 | 25,0 | \- |
+| Pasztet mięsny | 317 | 17,0 | 25,0 | 6,0 |
+| Polędwica wędzona | 133 | 24,5 | 3,9 | \- |
+| Salceson brunszwicki | 290 | 14,0 | 26,0 | \- |
+| Salceson czarny | 305 | 11,0 | 29,0 | \- |
+| Salceson włoski | 256 | 12,0 | 22,0 | \- |
+| Serdelki | 291 | 10,6 | 27,6 | \- |
+| Szynka gotowana średnio tłusta | 389 | 23,0 | 33,0 | \- |
+| Szynka wieprzowa konserwowa | 103 | 19,0 | 3,5 | \- |
+| Szynka wołowa konserwowa | 120 | 20,1 | 3,5 | \- |
+| Szynka z drobiu | 119 | 22,5 | 3,2 | \- |
 
     **RYBY WĘDZONE, WYROBY GARMAŻERYJNE Z RYB**     (zawartość w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Dorsz
-
-52    
-
-13,0    
-
-0,5    
-
-\-    
-
-    Flądra
-
-53    
-
-11,0    
-
-1,9    
-
-\-    
-
-    Łosoś
-
-169    
-
-20,0    
-
-9,7    
-
-2,0    
-
-    Makrela
-
-155    
-
-14,0    
-
-15,5    
-
-\-    
-
-    Pikling
-
-137    
-
-14,0    
-
-14,3    
-
-\-    
-
-    Szprot
-
-147    
-
-12,0    
-
-18,4    
-
-\-    
-
-    Śledź - rolmops z filetów
-
-102    
-
-8,0    
-
-6,0    
-
-4,0    
-
-    Węgorz
-
-231    
-
-14,0    
-
-26,4    
-
-1,0    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Dorsz | 52 | 13,0 | 0,5 | \- |
+| Flądra | 53 | 11,0 | 1,9 | \- |
+| Łosoś | 169 | 20,0 | 9,7 | 2,0 |
+| Makrela | 155 | 14,0 | 15,5 | \- |
+| Pikling | 137 | 14,0 | 14,3 | \- |
+| Szprot | 147 | 12,0 | 18,4 | \- |
+| Śledź - rolmops z filetów | 102 | 8,0 | 6,0 | 4,0 |
+| Węgorz | 231 | 14,0 | 26,4 | 1,0 |
 
     **WARZYWA, GRZYBY I PRZETWORY**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Boćwina
-
-24    
-
-2,0    
-
-\-    
-
-4,0    
-
-    Bób
-
-100    
-
-\-    
-
-\-    
-
-25,0    
-
-    Buraki
-
-32    
-
-1,0    
-
-\-    
-
-7,0    
-
-    Cebula
-
-28    
-
-1,0    
-
-\-    
-
-6,0    
-
-    Chrzan
-
-100    
-
-\-    
-
-\-    
-
-25,0    
-
-    Czosnek
-
-100    
-
-\-    
-
-\-    
-
-25,0    
-
-    Dynia
-
-70    
-
-\-    
-
-\-    
-
-10,0    
-
-    Fasola biała
-
-350    
-
-21,0    
-
-2,0    
-
-62,0    
-
-    Fasolka szparagowa
-
-36    
-
-2,0    
-
-\-    
-
-7,0    
-
-    Groch
-
-345    
-
-24,0    
-
-1,0    
-
-60,0    
-
-    Groszek zielony konserwowy bez zalewy
-
-69    
-
-5,0    
-
-1,0    
-
-10,0    
-
-    Grzyby świeże (średnio)
-
-26    
-
-1,5    
-
-\-    
-
-3,0    
-
-    Grzyby suszone (borowiki)
-
-346    
-
-29,0    
-
-4,0    
-
-34,0    
-
-    Kalafior
-
-16    
-
-1,0    
-
-\-    
-
-3,0    
-
-    Kapusta biała
-
-24    
-
-1,0    
-
-\-    
-
-5,0    
-
-    Kapusta czerwona
-
-70    
-
-\-    
-
-\-    
-
-10,0    
-
-    Kapusta kiszona
-
-16    
-
-1,0    
-
-\-    
-
-3,0    
-
-    Koper zielony
-
-68    
-
-3,0    
-
-\-    
-
-14,0    
-
-    Marchew
-
-28    
-
-1,0    
-
-\-    
-
-6,0    
-
-    Ogórek
-
-12    
-
-1,0    
-
-\-    
-
-2,0    
-
-    Ogórek kiszony
-
-12    
-
-1,0    
-
-\-    
-
-2,0    
-
-    Papryka
-
-70    
-
-\-    
-
-\-    
-
-10,0    
-
-    Pietruszka - korzeń
-
-60    
-
-2,0    
-
-\-    
-
-13,0    
-
-    Pomidor
-
-33    
-
-1,0    
-
-1,0    
-
-5,0    
-
-    Rzodkiewki
-
-12    
-
-1,0    
-
-\-    
-
-2,0    
-
-    Soczewica
-
-400    
-
-\-    
-
-\-    
-
-75,0    
-
-    Soja - ziarno
-
-442    
-
-35,0    
-
-18,0    
-
-35,0    
-
-    Ziemniaki
-
-64    
-
-1,0    
-
-\-    
-
-15,0    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Boćwina | 24 | 2,0 | \- | 4,0 |
+| Bób | 100 | \- | \- | 25,0 |
+| Buraki | 32 | 1,0 | \- | 7,0 |
+| Cebula | 28 | 1,0 | \- | 6,0 |
+| Chrzan | 100 | \- | \- | 25,0 |
+| Czosnek | 100 | \- | \- | 25,0 |
+| Dynia | 70 | \- | \- | 10,0 |
+| Fasola biała | 350 | 21,0 | 2,0 | 62,0 |
+| Fasolka szparagowa | 36 | 2,0 | \- | 7,0 |
+| Groch | 345 | 24,0 | 1,0 | 60,0 |
+| Groszek zielony konserwowy bez zalewy | 69 | 5,0 | 1,0 | 10,0 |
+| Grzyby świeże (średnio) | 26 | 1,5 | \- | 3,0 |
+| Grzyby suszone (borowiki) | 346 | 29,0 | 4,0 | 34,0 |
+| Kalafior | 16 | 1,0 | \- | 3,0 |
+| Kapusta biała | 24 | 1,0 | \- | 5,0 |
+| Kapusta czerwona | 70 | \- | \- | 10,0 |
+| Kapusta kiszona | 16 | 1,0 | \- | 3,0 |
+| Koper zielony | 68 | 3,0 | \- | 14,0 |
+| Marchew | 28 | 1,0 | \- | 6,0 |
+| Ogórek | 12 | 1,0 | \- | 2,0 |
+| Ogórek kiszony | 12 | 1,0 | \- | 2,0 |
+| Papryka | 70 | \- | \- | 10,0 |
+| Pietruszka - korzeń | 60 | 2,0 | \- | 13,0 |
+| Pomidor | 33 | 1,0 | 1,0 | 5,0 |
+| Rzodkiewki | 12 | 1,0 | \- | 2,0 |
+| Soczewica | 400 | \- | \- | 75,0 |
+| Soja - ziarno | 442 | 35,0 | 18,0 | 35,0 |
+| Ziemniaki | 64 | 1,0 | \- | 15,0 |
 
     **OWOCE ŚWIEŻE I SUSZONE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Agrest
-
-61    
-
-1,0    
-
-1,0    
-
-12,0    
-
-    Banan
-
-72    
-
-1,0    
-
-\-    
-
-17,0    
-
-    Cytryna
-
-28    
-
-1,0    
-
-\-    
-
-6,0    
-
-    Czereśnie
-
-57    
-
-1,0    
-
-1,0    
-
-11,0    
-
-    Grapefruit
-
-24    
-
-\-    
-
-\-    
-
-6,0    
-
-    Gruszka
-
-48    
-
-1,0    
-
-\-    
-
-11,0    
-
-    Jabłko
-
-53    
-
-1,0    
-
-1,0    
-
-10,0    
-
-    Mandarynka
-
-70    
-
-\-    
-
-\-    
-
-15,0    
-
-    Orzechy laskowe
-
-349    
-
-7,0    
-
-33,0    
-
-6,0    
-
-    Orzechy włoskie
-
-303    
-
-7,0    
-
-27,0    
-
-8,0    
-
-    Orzechy ziemne
-
-432    
-
-19,0    
-
-32,0    
-
-17,0    
-
-    Pomarańcza
-
-36    
-
-1,0    
-
-\-    
-
-8,0    
-
-    Porzeczka czarna
-
-85    
-
-2,0    
-
-1,0    
-
-17,0    
-
-    Porzeczka czerwona
-
-56    
-
-1,0    
-
-\-    
-
-13,0    
-
-    Suszone jabłka
-
-333    
-
-2,0    
-
-1,0    
-
-79,0    
-
-    Suszone rodzynki
-
-301    
-
-2,0    
-
-1,0    
-
-71,0    
-
-    Suszone śliwki
-
-265    
-
-2,0    
-
-1,0    
-
-62,0    
-
-    Śliwki
-
-64    
-
-1,0    
-
-\-    
-
-15,0    
-
-    Truskawki
-
-43    
-
-1,0    
-
-1,0    
-
-7,0    
-
-    Winogrona
-
-72    
-
-1,0    
-
-\-    
-
-17,0    
-
-    Wiśnie
-
-52    
-
-1,0    
-
-\-    
-
-12,0    
-
-    Żurawina
-
-53    
-
-1,0    
-
-1,0    
-
-10,0    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Agrest | 61 | 1,0 | 1,0 | 12,0 |
+| Banan | 72 | 1,0 | \- | 17,0 |
+| Cytryna | 28 | 1,0 | \- | 6,0 |
+| Czereśnie | 57 | 1,0 | 1,0 | 11,0 |
+| Grapefruit | 24 | \- | \- | 6,0 |
+| Gruszka | 48 | 1,0 | \- | 11,0 |
+| Jabłko | 53 | 1,0 | 1,0 | 10,0 |
+| Mandarynka | 70 | \- | \- | 15,0 |
+| Orzechy laskowe | 349 | 7,0 | 33,0 | 6,0 |
+| Orzechy włoskie | 303 | 7,0 | 27,0 | 8,0 |
+| Orzechy ziemne | 432 | 19,0 | 32,0 | 17,0 |
+| Pomarańcza | 36 | 1,0 | \- | 8,0 |
+| Porzeczka czarna | 85 | 2,0 | 1,0 | 17,0 |
+| Porzeczka czerwona | 56 | 1,0 | \- | 13,0 |
+| Suszone jabłka | 333 | 2,0 | 1,0 | 79,0 |
+| Suszone rodzynki | 301 | 2,0 | 1,0 | 71,0 |
+| Suszone śliwki | 265 | 2,0 | 1,0 | 62,0 |
+| Śliwki | 64 | 1,0 | \- | 15,0 |
+| Truskawki | 43 | 1,0 | 1,0 | 7,0 |
+| Winogrona | 72 | 1,0 | \- | 17,0 |
+| Wiśnie | 52 | 1,0 | \- | 12,0 |
+| Żurawina | 53 | 1,0 | 1,0 | 10,0 |
 
     **KONSERWY MIĘSNE, MIĘSNO-WARZYWNE I RYBNE**     (zawartość w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Boczek z grochem
-
-232    
-
-9,0    
-
-16,0    
-
-13,0    
-
-    Gulasz wołowo-wieprzowy
-
-280    
-
-16,0    
-
-24,0    
-
-\-    
-
-    Gulasz wołowy
-
-162    
-
-23,0    
-
-10,0    
-
-\-    
-
-    Konserwa turystyczna
-
-248    
-
-17,0    
-
-20,0    
-
-\-    
-
-    Makrela w sosie pomidorowym
-
-124    
-
-13,0    
-
-8,0    
-
-\-    
-
-    Mielonka wieprzowa
-
-289    
-
-16,0    
-
-25,0    
-
-\-    
-
-    Pasztet popularny
-
-300    
-
-12,0    
-
-28,0    
-
-\-    
-
-    Pasztet z drobiu
-
-343    
-
-16,0    
-
-31,0    
-
-5,0    
-
-    Pulpety w sosie pomidorowym
-
-231    
-
-11,0    
-
-15,0    
-
-3,0    
-
-    Szprot wędzony w oleju
-
-341    
-
-11,0    
-
-33,0    
-
-\-    
-
-    Szprot w sosie pomidorowym
-
-72    
-
-\-    
-
-8,0    
-
-\-    
-
-    Szynka mielona
-
-149    
-
-17,0    
-
-9,0    
-
-\-    
-
-    Śledź marynowany
-
-255    
-
-21,0    
-
-19,0    
-
-\-    
-
-    Śledź w oleju
-
-641    
-
-20,0    
-
-29,0    
-
-\-    
-
-    Śledź w pomidorach
-
-173    
-
-14,0    
-
-13,0    
-
-\-    
-
-    Wieprzowina w sosie własnym
-
-242    
-
-17,0    
-
-18,0    
-
-3,0    
-
-    Wieprzowina z fasolą w sosie pomidorowym
-
-151    
-
-10,0    
-
-7,0    
-
-12,0    
-
-    Wołowina w sosie własnym
-
-188    
-
-20,0    
-
-12,0    
-
-\-    
-
-    Żeberka wieprzowe w kapuście
-
-207    
-
-5,0    
-
-19,0    
-
-4,0    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Boczek z grochem | 232 | 9,0 | 16,0 | 13,0 |
+| Gulasz wołowo-wieprzowy | 280 | 16,0 | 24,0 | \- |
+| Gulasz wołowy | 162 | 23,0 | 10,0 | \- |
+| Konserwa turystyczna | 248 | 17,0 | 20,0 | \- |
+| Makrela w sosie pomidorowym | 124 | 13,0 | 8,0 | \- |
+| Mielonka wieprzowa | 289 | 16,0 | 25,0 | \- |
+| Pasztet popularny | 300 | 12,0 | 28,0 | \- |
+| Pasztet z drobiu | 343 | 16,0 | 31,0 | 5,0 |
+| Pulpety w sosie pomidorowym | 231 | 11,0 | 15,0 | 3,0 |
+| Szprot wędzony w oleju | 341 | 11,0 | 33,0 | \- |
+| Szprot w sosie pomidorowym | 72 | \- | 8,0 | \- |
+| Szynka mielona | 149 | 17,0 | 9,0 | \- |
+| Śledź marynowany | 255 | 21,0 | 19,0 | \- |
+| Śledź w oleju | 641 | 20,0 | 29,0 | \- |
+| Śledź w pomidorach | 173 | 14,0 | 13,0 | \- |
+| Wieprzowina w sosie własnym | 242 | 17,0 | 18,0 | 3,0 |
+| Wieprzowina z fasolą w sosie pomidorowym | 151 | 10,0 | 7,0 | 12,0 |
+| Wołowina w sosie własnym | 188 | 20,0 | 12,0 | \- |
+| Żeberka wieprzowe w kapuście | 207 | 5,0 | 19,0 | 4,0 |
 
     **KONCENTRATY ZUP I GOTOWE DANIA MROŻONE**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Bigos popularny
-
-91    
-
-4,0    
-
-7,0    
-
-3,0    
-
-    Fasolka po bretońsku
-
-157    
-
-6,0    
-
-9,0    
-
-13,0    
-
-    Fasolowa
-
-383    
-
-20,0    
-
-11,0    
-
-51,0    
-
-    Flaki
-
-101    
-
-13,0    
-
-5,0    
-
-1,0    
-
-    Frytki
-
-240    
-
-3,0    
-
-8,0    
-
-39,0    
-
-    Gołąbki z ryżem
-
-102    
-
-4,0    
-
-6,0    
-
-8,0    
-
-    Grochowa
-
-364    
-
-21,0    
-
-8,0    
-
-52,0    
-
-    Gulasz po węgiersku z podrobów
-
-187    
-
-18,0    
-
-11,0    
-
-4,0    
-
-    Klopsiki
-
-182    
-
-17,0    
-
-16,0    
-
-21,0    
-
-    Krupnik z mięsem
-
-382    
-
-17,0    
-
-10,0    
-
-56,0    
-
-    Pieczarkowa
-
-398    
-
-19,0    
-
-18,0    
-
-40,0    
-
-    Placki ziemniaczane
-
-145    
-
-2,0    
-
-1,0    
-
-32,0    
-
-    Rosół z drobiu
-
-339    
-
-10,0    
-
-31,0    
-
-5,0    
-
-    Żurek z kiełbasą
-
-94    
-
-3,0    
-
-6,0    
-
-5,0    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Bigos popularny | 91 | 4,0 | 7,0 | 3,0 |
+| Fasolka po bretońsku | 157 | 6,0 | 9,0 | 13,0 |
+| Fasolowa | 383 | 20,0 | 11,0 | 51,0 |
+| Flaki | 101 | 13,0 | 5,0 | 1,0 |
+| Frytki | 240 | 3,0 | 8,0 | 39,0 |
+| Gołąbki z ryżem | 102 | 4,0 | 6,0 | 8,0 |
+| Grochowa | 364 | 21,0 | 8,0 | 52,0 |
+| Gulasz po węgiersku z podrobów | 187 | 18,0 | 11,0 | 4,0 |
+| Klopsiki | 182 | 17,0 | 16,0 | 21,0 |
+| Krupnik z mięsem | 382 | 17,0 | 10,0 | 56,0 |
+| Pieczarkowa | 398 | 19,0 | 18,0 | 40,0 |
+| Placki ziemniaczane | 145 | 2,0 | 1,0 | 32,0 |
+| Rosół z drobiu | 339 | 10,0 | 31,0 | 5,0 |
+| Żurek z kiełbasą | 94 | 3,0 | 6,0 | 5,0 |
 
     **ALKOHOL**     (zawartość składników w 100 g produktu)
 
-**Nazwa produktu spożywczego**
-
-**kcal**
-
-**B**
-
-**T**
-
-**W**
-
-    Koniak
-
-280    
-
-\-    
-
-\-    
-
-\-    
-
-    Likier wiśniowy
-
-420    
-
-\-    
-
-\-    
-
-35,0    
-
-    Piwo ciemne
-
-14    
-
-\-    
-
-\-    
-
-8,0    
-
-    Piwo jasne
-
-14    
-
-\-    
-
-\-    
-
-4,0    
-
-    Wino deserowe
-
-165    
-
-\-    
-
-\-    
-
-15,0    
-
-    Wino wytrawne
-
-91    
-
-\-    
-
-\-    
-
-0,1    
-
-    Wódka czysta wyborowa
-
-280    
-
-\-    
-
-\-    
-
-\-    
+| 🟦 **Nazwa produktu spożywczego** | 🟦 **kcal** | 🟦 **B** | 🟦 **T** | 🟦 **W** |
+| --- | --- | --- | --- | --- |
+| Koniak | 280 | \- | \- | \- |
+| Likier wiśniowy | 420 | \- | \- | 35,0 |
+| Piwo ciemne | 14 | \- | \- | 8,0 |
+| Piwo jasne | 14 | \- | \- | 4,0 |
+| Wino deserowe | 165 | \- | \- | 15,0 |
+| Wino wytrawne | 91 | \- | \- | 0,1 |
+| Wódka czysta wyborowa | 280 | \- | \- | \- |
 
 Niektóre dane mogą różnić się od tych, które posiadasz. Wynika to z różnych wyników pomiarów różnymi metodami. Także wielu potraw lub składników nie uświadczysz już na naszym rynku. Pozmieniały się także ich nazwy. Traktuj tabelkę jako orientacyjną.
 
@@ -12370,180 +5838,23 @@ badanie krwi |  rozmaz krwi |  krzepnięcie krwi |  składniki osocza krwi
 
     **BADANIE KRWI**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-Hemoglobina    
-
-Hb (HGB)
-
-−
-
-g%
-
-11-17
-
-12-17
-
-Hematokryt    
-
-Ht
-
-−
-
-%
-
-37-47
-
-40-54
-
-Erytrocyty (krwinki czerwone)    
-
-RBC
-
-−
-
-mln/mm3
-
-3,5-5,1
-
-4,5-5,9
-
-Leukocyty (krwinki białe)    
-
-WBC
-
-−
-
-tys/mm3
-
-4,8-10,8
-
-Objętość krwinki    
-
-MCV (SOK)
-
-−
-
-μ3
-
-82-93
-
-Średnia waga krwinki    
-
-MCH (SWH)
-
-−
-
-pg
-
-27-31
-
-Średnie stężenie Hb w krwince    
-
-MCHC (SSH)
-
-−
-
-%
-
-32-36
-
-Odporność osmotyczna    
-
-−
-
-początek hemolizy  
-hemoliza całkowita
-
-%NaCl
-
-0,44-0,42  
-0,34-0,30
-
-Retikulocyty    
-
-−
-
-−
-
-‰
-
-3-15
-
-Monocyty    
-
-MONO
-
-−
-
-mln/mm3
-
-0,0-0,8
-
-Limfocyty    
-
-LYMPH
-
-−
-
-ilość/mm3
-
-4000-10000
-
-Trombocyty (płytki krwi)    
-
-PLT
-
-−
-
-ilość/mm3
-
-125000-310000
-
-Bazocyty    
-
-BASO
-
-−
-
-mln/mm3
-
-0,0-0,2
-
-Eozynocyty    
-
-EOS
-
-−
-
-mln/mm3
-
-0,0-0,45
-
-OB (odczyn Biernackiego)    
-
-OB
-
-po 1 godzinie  
-po 2 godzinach
-
-mm
-
-4-10  
-6-20
-
-2-8  
-5-18
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+| Hemoglobina | Hb (HGB) | − | g% | 11-17 | 12-17 |
+| Hematokryt | Ht | − | % | 37-47 | 40-54 |
+| Erytrocyty (krwinki czerwone) | RBC | − | mln/mm3 | 3,5-5,1 | 4,5-5,9 |
+| Leukocyty (krwinki białe) | WBC | − | tys/mm3 | 4,8-10,8 |   |
+| Objętość krwinki | MCV (SOK) | − | μ3 | 82-93 |   |
+| Średnia waga krwinki | MCH (SWH) | − | pg | 27-31 |   |
+| Średnie stężenie Hb w krwince | MCHC (SSH) | − | % | 32-36 |   |
+| Odporność osmotyczna | − | początek hemolizy<br>hemoliza całkowita | %NaCl | 0,44-0,42<br>0,34-0,30 |   |
+| Retikulocyty | − | − | ‰ | 3-15 |   |
+| Monocyty | MONO | − | mln/mm3 | 0,0-0,8 |   |
+| Limfocyty | LYMPH | − | ilość/mm3 | 4000-10000 |   |
+| Trombocyty (płytki krwi) | PLT | − | ilość/mm3 | 125000-310000 |   |
+| Bazocyty | BASO | − | mln/mm3 | 0,0-0,2 |   |
+| Eozynocyty | EOS | − | mln/mm3 | 0,0-0,45 |   |
+| OB (odczyn Biernackiego) | OB | po 1 godzinie<br>po 2 godzinach | mm | 4-10<br>6-20 | 2-8<br>5-18 |
 
   
   
@@ -12551,77 +5862,14 @@ mm
 
     **ROZMAZ KRWI**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-Segmenty    
-
-−
-
-−
-
-%
-
-58-66
-
-Pałeczki    
-
-−
-
-−
-
-%
-
-3-6
-
-Eozynofile    
-
-−
-
-−
-
-%
-
-1-3
-
-Bazofile    
-
-−
-
-−
-
-%
-
-0-1
-
-Limfocyty    
-
-LYMPH
-
-−
-
-%
-
-20-40
-
-Monocyty    
-
-MONO
-
-−
-
-%
-
-4-8
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+| Segmenty | − | − | % | 58-66 |   |
+| Pałeczki | − | − | % | 3-6 |   |
+| Eozynofile | − | − | % | 1-3 |   |
+| Bazofile | − | − | % | 0-1 |   |
+| Limfocyty | LYMPH | − | % | 20-40 |   |
+| Monocyty | MONO | − | % | 4-8 |   |
 
   
   
@@ -12629,57 +5877,12 @@ MONO
 
     **KRZEPNIĘCIE KRWI**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-Czas krwawienia    
-
-−
-
-−
-
-minuty
-
-1-4
-
-Czas krzepnięcia    
-
-−
-
-−
-
-minuty
-
-6-12
-
-Czas kaolinowo-kefalinowy    
-
-−
-
-−
-
-sekundy
-
-40-60
-
-Wskaźnik protrombiny    
-
-−
-
-−
-
-%
-
-80-120
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+| Czas krwawienia | − | − | minuty | 1-4 |   |
+| Czas krzepnięcia | − | − | minuty | 6-12 |   |
+| Czas kaolinowo-kefalinowy | − | − | sekundy | 40-60 |   |
+| Wskaźnik protrombiny | − | − | % | 80-120 |   |
 
   
   
@@ -12687,229 +5890,28 @@ Wskaźnik protrombiny    
 
     **SKŁADNIKI OSOCZA KRWI**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-Sód    
-
-Na
-
-−
-
-mmol/l
-
-138-147
-
-Potas    
-
-K
-
-−
-
-mmol/l
-
-3,5-5,5
-
-Wapń    
-
-Ca
-
-−
-
-mmol/l
-
-2,2-2,6
-
-Magnez    
-
-Mg
-
-−
-
-mmol/l
-
-0,8-1,2
-
-Chlor    
-
-Cl
-
-−
-
-mmol/l
-
-95-107
-
-Fosfor    
-
-P
-
-−
-
-mmol/l
-
-0,8-1,1
-
-Żelazo    
-
-Fe
-
-−
-
-μmol/l
-
-10,7-25,1
-
-14,2-28,6
-
-Zdolność wiązania całkowita    
-
-Fe
-
-−
-
-μmol/l
-
-44,8-75,2
-
-Miedź    
-
-Cu
-
-−
-
-μmol/l
-
-10,2-26,0
-
-Bilirubina całkowita    
-
-−
-
-−
-
-μmol/l
-
-4-18
-
-Kwas moczowy    
-
-−
-
-−
-
-μmol/l  
-mg%
-
-180-360  
-3-6
-
-Kreatynina    
-
-−
-
-−
-
-μmol/l  
-mg%
-
-53-110  
-0,7-1,3
-
-Mocznik    
-
-−
-
-−
-
-mmol/l  
-mg%
-
-2,5-6,5  
-15-40
-
-Tłuszcze całkowicie    
-
-−
-
-−
-
-g/l
-
-3,4-9
-
-Cholesterol ogólnie    
-
-−
-
-−
-
-mmol/l  
-mg%
-
-3,6-6,5  
-150-220
-
-Cholesterol    
-
-LDL
-
-−
-
-mmol/l
-
-4,5
-
-Cholesterol    
-
-HDL
-
-−
-
-mmol/l
-
-1,3
-
-Wolne kwasy tłuszczowe    
-
-−
-
-−
-
-μmol/l
-
-500
-
-Fosfolipidy    
-
-−
-
-−
-
-g/l
-
-2
-
-Trójglicerydy    
-
-−
-
-−
-
-mmol/l  
-mg%
-
-1,4  
-30-15
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+| Sód | Na | − | mmol/l | 138-147 |   |
+| Potas | K | − | mmol/l | 3,5-5,5 |   |
+| Wapń | Ca | − | mmol/l | 2,2-2,6 |   |
+| Magnez | Mg | − | mmol/l | 0,8-1,2 |   |
+| Chlor | Cl | − | mmol/l | 95-107 |   |
+| Fosfor | P | − | mmol/l | 0,8-1,1 |   |
+| Żelazo | Fe | − | μmol/l | 10,7-25,1 | 14,2-28,6 |
+| Zdolność wiązania całkowita | Fe | − | μmol/l | 44,8-75,2 |   |
+| Miedź | Cu | − | μmol/l | 10,2-26,0 |   |
+| Bilirubina całkowita | − | − | μmol/l | 4-18 |   |
+| Kwas moczowy | − | − | μmol/l<br>mg% | 180-360<br>3-6 |   |
+| Kreatynina | − | − | μmol/l<br>mg% | 53-110<br>0,7-1,3 |   |
+| Mocznik | − | − | mmol/l<br>mg% | 2,5-6,5<br>15-40 |   |
+| Tłuszcze całkowicie | − | − | g/l | 3,4-9 |   |
+| Cholesterol ogólnie | − | − | mmol/l<br>mg% | 3,6-6,5<br>150-220 |   |
+| Cholesterol | LDL | − | mmol/l | 4,5 |   |
+| Cholesterol | HDL | − | mmol/l | 1,3 |   |
+| Wolne kwasy tłuszczowe | − | − | μmol/l | 500 |   |
+| Fosfolipidy | − | − | g/l | 2 |   |
+| Trójglicerydy | − | − | mmol/l<br>mg% | 1,4<br>30-15 |   |
 
   
   
@@ -12917,71 +5919,13 @@ mg%
 
     **PŁYN MÓZGOWO-RDZENIOWY**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-Glukoza    
-
-−
-
-−
-
-mmol/l  
-mg%
-
-2,5-3,5  
-40-75
-
-Białko    
-
-−
-
-−
-
-g/l  
-mg%
-
-0,1-9,5  
-15-45
-
-Chlorki    
-
-−
-
-−
-
-mmol/l
-
-110-130
-
-Pleocytoza    
-
-−
-
-−
-
-kom. w mm3
-
-5 i mniej
-
-Ciśnienie    
-
-−
-
-leżąc
-
-mm Hg
-
-70-220
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+| Glukoza | − | − | mmol/l<br>mg% | 2,5-3,5<br>40-75 |   |
+| Białko | − | − | g/l<br>mg% | 0,1-9,5<br>15-45 |   |
+| Chlorki | − | − | mmol/l | 110-130 |   |
+| Pleocytoza | − | − | kom. w mm3 | 5 i mniej |   |
+| Ciśnienie | − | leżąc | mm Hg | 70-220 |   |
 
   
   
@@ -12989,133 +5933,20 @@ mm Hg
 
     **ENZYMY**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-ASPAT
-
-−
-
-U/l
-
-15
-
-18
-
-ALAT
-
-−
-
-U/l
-
-17
-
-22
-
-Fostafaza alkaliczna    
-
-−
-
-−
-
-U/l
-
-60-170
-
-Fostafaza kwasowa    
-
-−
-
-−
-
-U/l
-
-11 i mniej
-
-Cholinoesteraza    
-
-−
-
-−
-
-U/l
-
-1900-3800
-
-Dehydrogenaza mleczanowa    
-
-−
-
-−
-
-U/l
-
-60-240
-
-GGTP krew
-
-−
-
-U/l
-
-4-18
-
-6-28
-
-GGTP mocz
-
-−
-
-U/l
-
-90 i mniej
-
-140 i mniej
-
-Amylaza    
-
-−
-
-−
-
-U/l
-
-230-2730
-
-Lipaza    
-
-−
-
-−
-
-U/l
-
-20-190
-
-CPK
-
-−
-
-U/l
-
-3-6
-
-HBDH
-
-−
-
-U/l
-
-80-140
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+|   | ASPAT | − | U/l | 15 | 18 |
+|   | ALAT | − | U/l | 17 | 22 |
+| Fostafaza alkaliczna | − | − | U/l | 60-170 |   |
+| Fostafaza kwasowa | − | − | U/l | 11 i mniej |   |
+| Cholinoesteraza | − | − | U/l | 1900-3800 |   |
+| Dehydrogenaza mleczanowa | − | − | U/l | 60-240 |   |
+|   | GGTP krew | − | U/l | 4-18 | 6-28 |
+|   | GGTP mocz | − | U/l | 90 i mniej | 140 i mniej |
+| Amylaza | − | − | U/l | 230-2730 |   |
+| Lipaza | − | − | U/l | 20-190 |   |
+|   | CPK | − | U/l | 3-6 |   |
+|   | HBDH | − | U/l | 80-140 |   |
 
   
   
@@ -13123,117 +5954,18 @@ U/l
 
     **BIAŁKA**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-Białko całkowicie    
-
-−
-
-−
-
-g/l
-
-60-80
-
-Albumina    
-
-−
-
-−
-
-g/l
-
-35-55
-
-Elektroforeza - albuminy    
-
-−
-
-−
-
-%
-
-52-60
-
-Elektroforeza - globuliny α1    
-
-−
-
-−
-
-%
-
-2,4-6,2
-
-Elektroforeza - β    
-
-−
-
-−
-
-%
-
-9,1-14,7
-
-Elektroforeza - γ    
-
-−
-
-−
-
-%
-
-14-19,6
-
-    
-
-lgA
-
-−
-
-mg%
-
-90-450
-
-    
-
-lgG
-
-−
-
-mg%
-
-800-1800
-
-    
-
-lgM
-
-−
-
-mg%
-
-60-260
-
-Fibrynogen    
-
-−
-
-−
-
-g/l
-
-2,5-5,0
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+| Białko całkowicie | − | − | g/l | 60-80 |   |
+| Albumina | − | − | g/l | 35-55 |   |
+| Elektroforeza - albuminy | − | − | % | 52-60 |   |
+| Elektroforeza - globuliny α1 | − | − | % | 2,4-6,2 |   |
+| Elektroforeza - β | − | − | % | 9,1-14,7 |   |
+| Elektroforeza - γ | − | − | % | 14-19,6 |   |
+|   | lgA | − | mg% | 90-450 |   |
+|   | lgG | − | mg% | 800-1800 |   |
+|   | lgM | − | mg% | 60-260 |   |
+| Fibrynogen | − | − | g/l | 2,5-5,0 |   |
 
   
   
@@ -13241,53 +5973,12 @@ g/l
 
     **PUNKTATY**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-Przesięk - białko    
-
-−
-
-−
-
-g/l
-
-30 i mniej
-
-Przesięk - ciężar właściwy    
-
-−
-
-−
-
-1018 i mniej
-
-Wysięk - białko    
-
-−
-
-−
-
-g/l
-
-30 i więcej
-
-Wysięk - ciężar właściwy    
-
-−
-
-−
-
-1018 i więcej
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+| Przesięk - białko | − | − | g/l | 30 i mniej |   |
+| Przesięk - ciężar właściwy | − | − |   | 1018 i mniej |   |
+| Wysięk - białko | − | − | g/l | 30 i więcej |   |
+| Wysięk - ciężar właściwy | − | − |   | 1018 i więcej |   |
 
   
   
@@ -13295,81 +5986,14 @@ Wysięk - ciężar właściwy    
 
     **RÓWNOWAGA KWASOWO-ZASADOWA**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-    
-
-Ph
-
-−
-
-−
-
-7,38-7,42
-
-7,36-7,42
-
-    
-
-pO2
-
-−
-
-mm Hg/t
-
-75-95
-
-    
-
-pCO2
-
-−
-
-mm Hg/t
-
-32,5-43,7
-
-35,8-46,6
-
-    
-
-pCO3
-
-−
-
-mm Hg/ż
-
-40-48
-
-    
-
-HCO3
-
-−
-
-mmol/l
-
-22-26
-
-    
-
-BE
-
-−
-
-mmol/l
-
-\-2,3-2,3
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+|   | Ph | − | − | 7,38-7,42 | 7,36-7,42 |
+|   | pO2 | − | mm Hg/t | 75-95 |   |
+|   | pCO2 | − | mm Hg/t | 32,5-43,7 | 35,8-46,6 |
+|   | pCO3 | − | mm Hg/ż | 40-48 |   |
+|   | HCO3 | − | mmol/l | 22-26 |   |
+|   | BE | − | mmol/l | \-2,3-2,3 |   |
 
   
   
@@ -13377,49 +6001,11 @@ mmol/l
 
     **GLUKOZA**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-Poziom we krwi    
-
-−
-
-na czczo
-
-mmol/l  
-mg%
-
-3,5-5,5  
-70-110
-
-Poziom we krwi    
-
-−
-
-po 1 godzinie
-
-mg%
-
-200 i mniej
-
-Poziom we krwi    
-
-−
-
-po 2 godzinach
-
-mg%
-
-140 i mniej
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+| Poziom we krwi | − | na czczo | mmol/l<br>mg% | 3,5-5,5<br>70-110 |   |
+| Poziom we krwi | − | po 1 godzinie | mg% | 200 i mniej |   |
+| Poziom we krwi | − | po 2 godzinach | mg% | 140 i mniej |   |
 
   
   
@@ -13427,109 +6013,17 @@ mg%
 
     **MOCZ**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-Ciężar właściwy    
-
-−
-
-−
-
-−
-
-1001-1035
-
-    
-
-pH
-
-−
-
-−
-
-6,2
-
-Białko    
-
-−
-
-−
-
-mg/24 h
-
-150 i mniej
-
-Liczba Addisa - erytrocyty    
-
-−
-
-−
-
-ilość/24 h
-
-130000-2000000
-
-Liczba Addisa - leukocyty    
-
-−
-
-−
-
-ilość/24 h
-
-650000-3000000
-
-Liczba Addisa - wałeczki    
-
-−
-
-−
-
-ilość/24 h
-
-2000-5000
-
-17-ketosterydy    
-
-−
-
-−
-
-mg/24 h
-
-3,5
-
-Porfobilinogen    
-
-−
-
-−
-
-mg/24 h
-
-0,0-0,1
-
-Klirens kreatyniny    
-
-−
-
-−
-
-ml/min.
-
-80-100
-
-100-120
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+| Ciężar właściwy | − | − | − | 1001-1035 |   |
+|   | pH | − | − | 6,2 |   |
+| Białko | − | − | mg/24 h | 150 i mniej |   |
+| Liczba Addisa - erytrocyty | − | − | ilość/24 h | 130000-2000000 |   |
+| Liczba Addisa - leukocyty | − | − | ilość/24 h | 650000-3000000 |   |
+| Liczba Addisa - wałeczki | − | − | ilość/24 h | 2000-5000 |   |
+| 17-ketosterydy | − | − | mg/24 h | 3,5 |   |
+| Porfobilinogen | − | − | mg/24 h | 0,0-0,1 |   |
+| Klirens kreatyniny | − | − | ml/min. | 80-100 | 100-120 |
 
   
   
@@ -13537,57 +6031,12 @@ ml/min.
 
     **HORMONY**
 
-**Nazwa**
-
-**Skrót**
-
-**Warunki**
-
-**j. m.**
-
-**Kobieta**
-
-**Mężczyzna**
-
-    
-
-T3
-
-−
-
-μg%
-
-70-200
-
-    
-
-T4 całkowita
-
-−
-
-μg%
-
-4-11
-
-    
-
-T4 wolna
-
-−
-
-μg%
-
-0,8-2,4
-
-Kortyzol    
-
-−
-
-−
-
-μg%
-
-5-25
+| 🟦 **Nazwa** | 🟦 **Skrót** | 🟦 **Warunki** | 🟦 **j. m.** | 🟦 **Kobieta** | 🟦 **Mężczyzna** |
+| --- | --- | --- | --- | --- | --- |
+|   | T3 | − | μg% | 70-200 |   |
+|   | T4 całkowita | − | μg% | 4-11 |   |
+|   | T4 wolna | − | μg% | 0,8-2,4 |   |
+| Kortyzol | − | − | μg% | 5-25 |   |
 
   
   
@@ -13735,65 +6184,33 @@ Masaże przyczyniają się do lepszego ukrwienia chorych narządów i wpływają
 
 Decydując się na akupresurę profilaktyczną stóp należy bezwzględnie pamiętać, że masaże muszą być wykonywane w ściśle określonej kolejności:
 
-**•** 
-
-**Przed rozpoczęciem** masażu należy się rozprężyć, rozluźnić. Poleca się np. wziąć 20 głębokich oddechów najlepiej przy otwartym oknie.
-
-**•** 
-
-**Przed przystąpieniem** do masażu należy całą stopę rozgrzać przez intensywne wygniatanie albo przez lekkie natłuszczenie kremem czy olejkiem.
-
-**•** 
-
-Strefy refleksyjne masujemy brzuścem (opuszkiem) kciuka albo kostką zgiętego (kłykciem) palca w sposób okrężny. Miejsce masowane należy przed tym posmarować kremem kosmetycznym, lub lepiej olejem roślinnym. Pamiętać też należy, że **kierunek masażu powinien być zgodny z przepływem zawartości** - np. z jelita cienkiego do grubego, z nerki do pęcherza itp.
-
-Masując ręcznie warunkiem dobrego masażu jest dobra pozycja masażysty i masowanego. Obydwaj powinni usiąść wygodnie naprzeciw siebie w pozycji bez napięcia. Podczas masażu punktów refleksyjnych na spodzie stopy, noga masowanego powinna spocząć na kolanie masującego. Przy masażu wierzchniej strony stopy osoba masowana winna postawić nogę na kolanie masującego. Przy masowaniu pięty, kostek i nogi osoba masowana przyjmuje pozycję wygiętą i trzymając się masowanego stawia stopę bokiem na kolanie masującego.
-
-**•** 
-
-**Masaż zawsze zaczynamy od lewej nogi** (po stronie serca) i od śródstopia. U niektórych osób strefy refleksyjne mogą być lekko przesunięte. Nie należy się tym martwić. Ważne jest, by masować bolesne miejsce na stopie.
+| **•** | **Przed rozpoczęciem** masażu należy się rozprężyć, rozluźnić. Poleca się np. wziąć 20 głębokich oddechów najlepiej przy otwartym oknie. |
+| --- | --- |
+| **•** | **Przed przystąpieniem** do masażu należy całą stopę rozgrzać przez intensywne wygniatanie albo przez lekkie natłuszczenie kremem czy olejkiem. |
+| **•** | Strefy refleksyjne masujemy brzuścem (opuszkiem) kciuka albo kostką zgiętego (kłykciem) palca w sposób okrężny. Miejsce masowane należy przed tym posmarować kremem kosmetycznym, lub lepiej olejem roślinnym. Pamiętać też należy, że **kierunek masażu powinien być zgodny z przepływem zawartości** - np. z jelita cienkiego do grubego, z nerki do pęcherza itp. |
+|   | Masując ręcznie warunkiem dobrego masażu jest dobra pozycja masażysty i masowanego. Obydwaj powinni usiąść wygodnie naprzeciw siebie w pozycji bez napięcia. Podczas masażu punktów refleksyjnych na spodzie stopy, noga masowanego powinna spocząć na kolanie masującego. Przy masażu wierzchniej strony stopy osoba masowana winna postawić nogę na kolanie masującego. Przy masowaniu pięty, kostek i nogi osoba masowana przyjmuje pozycję wygiętą i trzymając się masowanego stawia stopę bokiem na kolanie masującego. |
+| **•** | **Masaż zawsze zaczynamy od lewej nogi** (po stronie serca) i od śródstopia. U niektórych osób strefy refleksyjne mogą być lekko przesunięte. Nie należy się tym martwić. Ważne jest, by masować bolesne miejsce na stopie. |
 
 Masaż każdego punktu rozpoczynamy od ruchów łagodnych, powoli i systematycznie zwiększając nacisk, jednocześnie obserwując twarz osoby masowanej. Siła nacisku ma być taka, aby osoba masowana wytrzymywała ból przy ucisku. Przeciętna siła ucisku palca masującego winna wynosić 5-10 kg (najlepiej sprawdzić to na wadze kuchennej, przyciskając szalkę). Efekt ozdrowieńczy jest tym szybszy, im większy nacisk został użyty. Przystępując po raz pierwszy do masażu osobie, która jeszcze nie była masowana, stosujemy następujący scenariusz czasowy:
 
-**•** 
-
-W **pierwszym tygodniu** stosujemy ograniczone czasy masażu - 3 razy 3 sekundowe uciski na receptor z przerwą 1-2 sekund.
-
-**•** 
-
-W **drugim tygodniu** podwajamy czas.
-
-**•** 
-
-Od **trzeciego tygodnia** stosujemy normalne czasy masażu.
+| **•** | W **pierwszym tygodniu** stosujemy ograniczone czasy masażu - 3 razy 3 sekundowe uciski na receptor z przerwą 1-2 sekund. |
+| --- | --- |
+| **•** | W **drugim tygodniu** podwajamy czas. |
+| **•** | Od **trzeciego tygodnia** stosujemy normalne czasy masażu. |
 
 **KAŻDY MASAŻ CHOREGO NARZĄDU (LECZNICZY I PROFILAKTYCZNY) MUSI KAŻDORAZOWO POPRZEDZAĆ MASAŻ WSTĘPNY**
 
-**•** 
-
-Najpierw należy poddawać masażom strefy **nerek**, **moczowodu**, **pęcherza moczowego** i **nadnercza**. Tym układom należy poświęcić najwięcej uwagi. Pomaga to rozpuszczać i usuwać z krwioobiegu trucizny (przede wszystkim kwas moczowy). Gdybyśmy zaczęli masaż od innych receptorów, moglibyśmy doprowadzić do zablokowania nerek toksynami i złogami.
-
-**•** 
-
-Następnie **głowy** w celu usprawnienia ośrodka sterującego układami i narządami,
-
-**•** 
-
-W dalszej kolejności - strefy refleksyjne **żołądka**, **jelita**, **wątroby** i **trzustki**. W tym układzie mamy organy, w których zachodzi odtruwanie i przemiana materii. Od ich sprawnego działania zależy przygotowanie materiałów do budowy i odbudowy organizmu.
-
-**•** 
-
-Na koniec **punkty limfatyczne**, które usprawniają rozkład substancji żużlowych i dostarczają organizmowi substancji o działaniu obronnym.
+| **•** | Najpierw należy poddawać masażom strefy **nerek**, **moczowodu**, **pęcherza moczowego** i **nadnercza**. Tym układom należy poświęcić najwięcej uwagi. Pomaga to rozpuszczać i usuwać z krwioobiegu trucizny (przede wszystkim kwas moczowy). Gdybyśmy zaczęli masaż od innych receptorów, moglibyśmy doprowadzić do zablokowania nerek toksynami i złogami. |
+| --- | --- |
+| **•** | Następnie **głowy** w celu usprawnienia ośrodka sterującego układami i narządami, |
+| **•** | W dalszej kolejności - strefy refleksyjne **żołądka**, **jelita**, **wątroby** i **trzustki**. W tym układzie mamy organy, w których zachodzi odtruwanie i przemiana materii. Od ich sprawnego działania zależy przygotowanie materiałów do budowy i odbudowy organizmu. |
+| **•** | Na koniec **punkty limfatyczne**, które usprawniają rozkład substancji żużlowych i dostarczają organizmowi substancji o działaniu obronnym. |
 
 Dopiero po wykonaniu masażu tych stref refleksyjnych można przejść do masowania stref refleksyjnych chorego narządu. Jeśli w masażu leczniczym powtarzają się receptory z masowania wstępnego, to masujemy je ponownie.
 
-**•** 
-
-W przypadku chorych narządów czas masowania winien wynosić 10-15 minut, a w stanach krytycznych nawet 20-25 minut. W ostatnim przypadku wskazane jest masowanie receptorów kilka razy dziennie po 5-10 minut i za każdym razem po wykonaniu masażu wstępnego.
-
-**•** 
-
-Pamiętać należy, że czas masowania receptorów kręgosłupa i wątroby zależy od sprawności nerek. W przypadku kamicy stopniowo zwiększamy czas, by złogi zaczęły się rozpuszczać a nie rozkruszać i do moczu szedł piasek, a nie kolczaste kawałki, które mogą zaczopować przewód moczowy.
+| **•** | W przypadku chorych narządów czas masowania winien wynosić 10-15 minut, a w stanach krytycznych nawet 20-25 minut. W ostatnim przypadku wskazane jest masowanie receptorów kilka razy dziennie po 5-10 minut i za każdym razem po wykonaniu masażu wstępnego. |
+| --- | --- |
+| **•** | Pamiętać należy, że czas masowania receptorów kręgosłupa i wątroby zależy od sprawności nerek. W przypadku kamicy stopniowo zwiększamy czas, by złogi zaczęły się rozpuszczać a nie rozkruszać i do moczu szedł piasek, a nie kolczaste kawałki, które mogą zaczopować przewód moczowy. |
 
 Każdy masaż rozpoczynamy od masażu **diagnostycznego**. Należy ustalić, które organy są niewydolne i jaki jest stopień ich niewydolności. Jest to bardzo trudny etap i wymaga od badającego ogromnej wiedzy (w tym medycznej) i doświadczenia. Niezbędny jest przy tym wywiad z chorym pacjentem. Przy chorym organie jego punkt refleksyjny jest czuły na dotyk, wrażliwy, a czasem jego dotyk sprawia badanemu ból. Dopiero po badaniu diagnostycznym przechodzimy do masażu profilaktycznego (lub wstępnego), którego zadaniem jest zapewnienie pełnej sprawności funkcjonalnej organizmu przy aktualnie dobrym samopoczuciu. Ostatnim etapem jest masaż leczniczy. Jego celem jest przywrócenie sprawności funkcjonalnej organowi lub organom, które jak ustalono w wyniku przeprowadzonej diagnozy, nie mają pełnej wydolności.
 
@@ -13809,33 +6226,14 @@ Jeśli nasze stopy posiadają stwardnienia, odciski i modzele, to najpierw trzeb
 
 Z powodu intensywnego podrażnienia jednego organu może (ale nie musi) występować przejściowa reakcja, która znika po pewnym czasie. Masażu nie należy przerywać, bo reakcje te są przejściowe i świadczą o tym, że organizm podjął trud wydalania substancji toksycznych. Do takich objawów należą:
 
-**1.**
-
-Opuchnięcie stawów skokowych lub nadgarstków.
-
-**2.**
-
-Nasilony obraz żylaków.
-
-**3.**
-
-Zwiększony ból w narządzie, którego receptor jest masowany.
-
-**4.**
-
-Siniaki i torbiele, które pojawiają się na ciele, a szczególnie na nogach.
-
-**5.**
-
-Stopniowe ciemnienie moczu, aż do barwy pomarańczowej, a nawet brązowej.
-
-**6.**
-
-Podwyższona temperatura ciała. Nie należy jednak zażywać środków obniżających temperaturę, ponieważ w wyższej zabijane są bakterie, wirusy i obce ciała. Powinno się ten okres przeleżeć w łóżku aż temperatura samoistnie opadnie.
-
-**7.**
-
-Niebieskie plamy, gdy gospodarka wapniem jest zdezorganizowana.
+| **1.** | Opuchnięcie stawów skokowych lub nadgarstków. |
+| --- | --- |
+| **2.** | Nasilony obraz żylaków. |
+| **3.** | Zwiększony ból w narządzie, którego receptor jest masowany. |
+| **4.** | Siniaki i torbiele, które pojawiają się na ciele, a szczególnie na nogach. |
+| **5.** | Stopniowe ciemnienie moczu, aż do barwy pomarańczowej, a nawet brązowej. |
+| **6.** | Podwyższona temperatura ciała. Nie należy jednak zażywać środków obniżających temperaturę, ponieważ w wyższej zabijane są bakterie, wirusy i obce ciała. Powinno się ten okres przeleżeć w łóżku aż temperatura samoistnie opadnie. |
+| **7.** | Niebieskie plamy, gdy gospodarka wapniem jest zdezorganizowana. |
 
 A co zrobić, gdy ktoś nie ma drugiej osoby pomocnej w masażu, a samemu jest mu bardzo trudno go wykonać? Można i należy sobie poradzić w inny sposób. Specjaliści wyliczyli, że w naszych stopach znajduje się 72 tysiące zakończeń nerwowych i dlatego powinniśmy się starać chodzić boso po drobno kamienistym podłożu. Takie podłoże możemy zrobić sobie w domu. Należy tylko nazbierać kamyczków z morskiej plaży lub poprosić kogoś z budowy by wam podarował około 1,5 kg kamieni po odsianiu przy robieniu zaprawy cementowej. Najlepsze to takie o średnicy od 1 do 3 cm i koniecznie zaokrąglone, by nie pokaleczyć stóp. W domu należy je przebrać, wypłukać i zagotować w wodzie, by usunąć możliwe bakterie i inne zanieczyszczenia organiczne. Następnie wsypujemy je do miski, nalewamy chłodnej wody i drepczemy przez około 10 minut dziennie. Jeśli dreptać będziemy w zimnej wodzie przez 1-2 minuty będziemy się od razu hartować, co sprzyja obronie organizmu przed infekcjami. Sami chodźmy i pozwólmy domownikom chodzić boso po mieszkaniu (oczywiście jeśli nikt w domu nie ma grzybicy stóp). To też hartuje. Jak mawiał Hipokrates - najlepsze obuwie, to brak obuwia.
 
@@ -13987,1307 +6385,97 @@ Na rysunkach poniżej przedstawiam rozmieszczenie najczęściej masowanych recep
 
 Poniżej wykaz najczęściej spotykanych chorób i dolegliwości, które możemy leczyć refleksoterapią. Teresa Tuszyńska podaje je za "Refleksoterapią dłoni i stóp" wydaną przez Bydgoskie Stowarzyszenie Radiestezyjne (Bydgoszcz 1988). Przypomnieć jeszcze należy, że każdy masaż leczniczy musi byc poprzedzony **masażem wstępnym** oraz to, że pomimo wystąpienia masażu receptora w masażu wstępnym, w masażu leczniczym **masujemy go powtórnie**.
 
-**BEZSENNOŚĆ**
-
-**CHOROBA WIEŃCOWA**
-
-**IMPOTENCJA**
-
-**SŁUCH (osłabienie)**
-
-  
-**masujemy receptory:**  
-**•**  głowa (**1**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  serce (**33**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  jądra (**36**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  ucho (**9**)
-
----
-
-**WZROST (zaburzenia)**
-
-**CHOROBA BASEDOWA**
-
-**GARDŁO (zapalenie)**
-
-**Nadczynność tarczycy**
-
-  
-**masujemy receptory:**  
-**•**  przysadka mózgowa (**4**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  przytarczyca (**13**)  
-**•**  przysadka mózgowa (**4**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  szczęka dolna (**46**)  
-**•**  szczęka górna (**47**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  przysadka mózgowa (**4**)  
-**•**  tarczyca (**12**)
-
----
-
-**NADKWASOTA**
-
-**PIECZENIE STÓP**
-
-**WOLE**
-
-**Wrzód dwunastnicy**
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  splot słoneczny (**20**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  masować wszystkie  
-receptory na stopie
-
----
-
-  
-**masujemy receptory:**  
-**•**  przysadka mózgowa (**4**)  
-**•**  tarczyca (**12**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)
-
----
-
-**ZEZ**
-
-**CUKRZYCA**
-
-**MOCZENIE NOCNE**
-
-**OMDLENIE**
-
-  
-**masujemy receptory:**  
-**•**  głowa (**1**)  
-**•**  oczy (**8**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  serce (**33**)  
-**•**  nadnercze (**21**)  
-**•**  głowa (**1**)
-
----
-
-**SZUM W USZACH**
-
-**DALEKOWZROCZNOŚĆ**
-
-**DNA (skaza moczanowa)**
-
-**Dolegliwości serca**
-
-  
-**masujemy receptory:**  
-**•**  głowa (**1**)  
-**•**  ucho (**9**)  
-**•**  błędnik (**42**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  oczy (**8**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  nadnercze (**21**)  
-**•**  serce (**33**)  
-**•**  kręgi lędźwiowe (**54**)
-
----
-
-**EGZEMA**
-
-**KRÓTKOWZROCZNOŚĆ**
-
-**OKRES (bolesny)**
-
-**MIGRENA**
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  przytarczyca (**13**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  oczy (**8**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  jajniki (**36**)  
-**•**  macica (**50**)  
-**•**  odprężenie podbrzusza  
-(bóle okresowe) (**37**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerw trójdzielny (**5**)  
-**•**  przytarczyca (**13**)  
-**•**  narząd równowagi (**42**)  
-**•**  ewentualnie żołądek (**15**)
-
----
-
-**NADCIŚNIENIE**
-
-**ZAPALENIE PROSTATY**
-
-**DOLEGLIWOŚCI SERCA**
-
-**STWARDNIENIE TĘTNIC**
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  móżdżek (**3**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  prostata (**50**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  serce (**33**)  
-**•**  nadnercze (**21**)  
-**•**  kręgi piersiowe (**54**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)
-
----
-
-**ALERGIA**
-
-**BÓLE GRZBIETU**
-
-**DUSZNOŚĆ**
-
-**ISCHIAS**
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  przytarczka (**13**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  kręgi szyjne (**53**)  
-**•**  kręgi piersiowe (**54**)  
-**•**  kręgi lędźwiowe (**55**)  
-**•**  kość krzyżowa i ogonowa (**56**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  głowa (**1**)  
-**•**  pień mózgu, móżdżek (**3**)  
-**•**  nos (**6**)  
-**•**  płuca (**14**)  
-**•**  serce (**33**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  kolana (**35**)
-
----
-
-**OKRES NIEREGULARNY**
-
-**NIEDOCIŚNIENIE**
-
-**PÓŁPASIEC**
-
-**Zwyr. stawu kolanowego**
-
-  
-**masujemy receptory:**  
-**•**  przysadka mózgowa (**4**)  
-**•**  jajniki (**36**)  
-**•**  odprężenie podbrzusza  
-(bóle okresowe) (**37**)  
-**•**  macica (**50**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  pień mózgu (**3**)  
-**•**  narząd równowagi (**42**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  przytarczyca (**13**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  kolano (**35**)
-
----
-
-**ANGINA PECTORIS**
-
-**JASKRA**
-
-**TRĄDZIK**
-
-**ZAĆMA**
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  żołądek (**15**)  
-**•**  nadnercze (**21**)  
-**•**  serce (**33**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  mózg (**1**)  
-**•**  oczy (**8**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  wątroba (**18**)  
-**•**  woreczek żółciowy (**19**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  oczy (**8**)  
-**•**  nadnercze (**21**)  
-**•**  głowa (**1**)  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)
-
----
-
-**BRAK APETYTU**
-
-**KOLKA**
-
-**Zapalenie migdałów**
-
-**OKO (jęczmień)**
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  jelito cienkie (**25**)  
-**•**  zastawka krętnicza (**27**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  tarczyca (**12**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  migdałki (**45**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  oko (**8**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-**OPARZENIA**
-
-**SZCZĘKI (ból)**
-
-**Zap. zatok czołowych**
-
-**ŻYLAKI**
-
-  
-**masujemy receptory:**  
-**•**  receptory oparzonych  
-narządów  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  przytarczyca (**13**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  nerw trójdzielny (**5**)  
-**•**  szczęka dolna (**46**)  
-**•**  szczęka górna (**47**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  zatoki (**2**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  kręgi piersiowe (**54**)  
-**•**  kręgi lędźwiowe (**55**)  
-**•**  kość krzyżowa i ogonowa (**56**)
-
----
-
-**ANGINA**
-
-**BÓL GARDŁA**
-
-**HEMOROIDY**
-
-**KATAR SIENNY**
-
-  
-**masujemy receptory:**  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  krtań (**48**)  
-**•**  migdały (**45**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  migdały (**45**)  
-**•**  krtań (**48**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  odbyt (**32**)  
-**•**  kiszka odchodowa  
-(hemoroidy) (**52**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  nos (**6**)  
-**•**  przytarczyca (**13**)  
-**•**  płuca i oskrzela (**14**)  
-**•**  krtań (**48**)
-
----
-
-**ŚWINKA**
-
-**Zwężenie tętnic**
-
-**UPŁAWY**
-
-**USZY (ból)**
-
-  
-**masujemy receptory:**  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  gruczoły płciowe (**36**)  
-**•**  migdały (**45**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  przytarczyca (**13**)  
-**•**  receptory narządów,  
-w których występuje  
-zwężenie tętnic
-
----
-
-  
-**masujemy receptory:**  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  pochwa (**51**)  
-**•**  macica (**50**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  głowa (**1**)  
-**•**  ucho (**9**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-**Zap. zatok nosowych**
-
-**ANEMIA**
-
-**BRONCHIT**
-
-**KAMICA ŻÓŁCIOWA**
-
-  
-**masujemy receptory:**  
-**•**  zatoki (**2**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  przytarczyca (**13**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  śledziona (**34**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  płuca i odkrzela (**14**)  
-**•**  przytarczyca (**13**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  nadnercze (**21**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  dwunastnica (**16**)  
-**•**  wątroba (**18**)  
-**•**  woreczek żółciowy (**19**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-**KASZEL**
-
-**MIĘŚNIAKI**
-
-**NIEŻYT OSKRZELI**
-
-**Zap. pęcherza moczowego**
-
-  
-**masujemy receptory:**  
-**•**  przytarczyca (**13**)  
-**•**  płuca i oskrzela (**14**)  
-**•**  nadnercze (**21**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  jajniki (**36**)  
-**•**  przysadka mózgowa (**4**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  macica (**50**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  płuca i oskrzela (**14**)  
-**•**  przytarczyca (**13**)  
-**•**  nadnercze (**21**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-**Stan zapalny organizmu**
-
-**NIEWYDOLNOŚĆ TRZUSTKI**
-
-**WYPADANIE WŁOSÓW**
-
-**ZAPARCIA**
-
-  
-**masujemy receptory:**  
-**•**  receptory zaatakowanych  
-narządów  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  przytarczyca (**13**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  wątroba (**18**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  nadnercze (**21**)  
-**•**  gruczoły płciowe (**36**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  wątroba (**18**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  kiszka odchodowa,  
-hemoroidy (**52**)
-
----
-
-**Zap. pęcherza żółciowego**
-
-**ZAPALENIE PŁUC**
-
-**ŻÓŁTACZKA**
-
-**DOLEGLIWOŚCI KOBIECE**
-
-  
-**masujemy receptory:**  
-**•**  dwunastnica (**16**)  
-**•**  wątroba (**18**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  płuca i oskrzela (**14**)  
-**•**  przytarczyca (**13**)  
-**•**  nadnercze (**21**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  dwunastnica (**16**)  
-**•**  wątroba (**18**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  przysadka mózgowa (**4**)  
-**•**  tarczyca (**12**)  
-**•**  jajniki (**36**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  nadnercze (**21**)
-
----
-
-**GRYPA**
-
-**NIEWYDOLNOŚĆ NEREK**
-
-**OBRZĘKI**
-
-**ASTMA**
-
-  
-**masujemy receptory:**  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  nos (**6**)  
-**•**  śledziona (**34**)  
-**•**  migdały (**45**)  
-**•**  i niekiedy zatoki czołowe (**2**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nadnercze (**21**)  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  płuca i oskrzela (**14**)
-
----
-
-**ZAPALENIE JAJNIKÓW**
-
-**NIEWYDOLNOŚĆ WĄTROBY**
-
-**ZŁA PRZEMIANA MATERII**
-
-**REUMATYZM**
-
-  
-**masujemy receptory:**  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  jajniki (**36**)  
-oraz niekiedy również  
-**•**  przysadka mózgowa (**4**)  
-**•**  tarczyca (**12**)  
-**•**  przytarczyca (**13**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  wątroba (**17**)  
-**•**  pęcherzyk żółciowy (**18**)  
-w przypadku infekcji również  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  serce (**33**)  
-**•**  nadnercze (**21**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  przytarczyca(**13**)  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)
-
----
-
-**WYPRYSKI**
-
-**ZAPALENIE STAWÓW**
-
-**GOŚCIEC**
-
-**LĘKI**
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  przytarczyca (**13**)  
-**•**  nadnercze (**21**)  
-**•**  żołądek (**15**)  
-**•**  wątroba (**18**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  przytarczyca (**13**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  receptory chorych stawów
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  przytarczyca (**13**)  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  głowa (**1**)  
-**•**  ewentualnie błędnik (**42**)
-
----
-
-**ZAPALENIE JELIT**
-
-**ZMĘCZENIE**
-
-**Choroba Parkinsona**
-
-**ZWICHNIĘCIE KRĘGU**
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  jelito cienkie (**25**)  
-**•**  zastawka krętnicza (**27**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  głowa (**1**)  
-**•**  przytarczyca (**13**)  
-**•**  serce (**33**)  
-**•**  żołądek (**15**)  
-**•**  wątroba (**18**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  nadnercze(**21**)  
-**•**  głowa (**1**)  
-**•**  przytarczyca (**13**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  żołądek (**15**)  
-**•**  wątroba (**18**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  kręgi szyjne (**53**)  
-**•**  kręgi piersiowe (**54**)  
-**•**  kręgi lędźwiowe (**55**)  
-**•**  kość krzyżowa i ogonowa (**56**)
-
----
-
-**BIEGUNKA**
-
-**DYSKOPATIA**
-
-**Zwyr. stawu biodrowego**
-
-**BIAŁACZKA**
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  przy silnej biegunce  
-masować dodatkowo  
-splot słoneczny (**20**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  kręgi szyjne (**53**)  
-**•**  kręgi piersiowe (**54**)  
-**•**  kręgi lędźwiowe (**55**)  
-**•**  kość krzyżowa i ogonowa (**56**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  nerka (**22**)  
-**•**  przewód moczowy (**23**)  
-**•**  pęcherz moczowy (**24**)  
-**•**  nadnercze (**21**)  
-**•**  ramię (**10**)  
-**•**  staw biodrowy (**38**)  
-**•**  kręgi lędźwiowe (**55**)
-
----
-
-  
-**masujemy receptory:**  
-**•**  żołądek (**15**)  
-**•**  dwunastnica (**16**)  
-**•**  trzustka (**17**)  
-**•**  wątroba (**18**)  
-**•**  pęcherzyk żółciowy (**19**)  
-**•**  jelito wstępujące (**28**)  
-**•**  jelito poprzeczne (**29**)  
-**•**  jelito zstępujące (**30**)  
-**•**  kiszka odchodowa (**31**)  
-**•**  gruczoły limfatyczne górnej  
-części tułowia (**39**)  
-**•**  gruczoły limfatyczne  
-podbrzusza (**40**)  
-**•**  piersiowy przewód  
-limfatyczny (**41**)  
-**•**  przytarczyca (**13**)  
-**•**  płuca i odkrzela (**14**)
-
----
+| 🟦 **BEZSENNOŚĆ** | 🟧 **CHOROBA WIEŃCOWA** | 🟩 **IMPOTENCJA** | 🟦 **SŁUCH (osłabienie)** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  głowa (**1**)<br>--- | <br>**masujemy receptory:**<br>**•**  serce (**33**)<br>--- | <br>**masujemy receptory:**<br>**•**  jądra (**36**)<br>--- | <br>**masujemy receptory:**<br>**•**  ucho (**9**)<br>--- |
+
+| **WZROST (zaburzenia)** | **CHOROBA BASEDOWA** | 🟦 **GARDŁO (zapalenie)** | 🟦 **Nadczynność tarczycy** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  przysadka mózgowa (**4**)<br>--- | <br>**masujemy receptory:**<br>**•**  przytarczyca (**13**)<br>**•**  przysadka mózgowa (**4**)<br>--- | <br>**masujemy receptory:**<br>**•**  szczęka dolna (**46**)<br>**•**  szczęka górna (**47**)<br>--- | <br>**masujemy receptory:**<br>**•**  przysadka mózgowa (**4**)<br>**•**  tarczyca (**12**)<br>--- |
+
+| **NADKWASOTA** | **PIECZENIE STÓP** | 🟦 **WOLE** | **Wrzód dwunastnicy** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  splot słoneczny (**20**)<br>--- | <br>**masujemy receptory:**<br>**•**  masować wszystkie<br>receptory na stopie<br>--- | <br>**masujemy receptory:**<br>**•**  przysadka mózgowa (**4**)<br>**•**  tarczyca (**12**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>--- |
+
+| **ZEZ** | **CUKRZYCA** | 🟩 **MOCZENIE NOCNE** | 🟦 **OMDLENIE** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  głowa (**1**)<br>**•**  oczy (**8**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>--- | <br>**masujemy receptory:**<br>**•**  serce (**33**)<br>**•**  nadnercze (**21**)<br>**•**  głowa (**1**)<br>--- |
+
+| 🟦 **SZUM W USZACH** | 🟩 **DALEKOWZROCZNOŚĆ** | **DNA (skaza moczanowa)** | 🟧 **Dolegliwości serca** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  głowa (**1**)<br>**•**  ucho (**9**)<br>**•**  błędnik (**42**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  oczy (**8**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  nadnercze (**21**)<br>**•**  serce (**33**)<br>**•**  kręgi lędźwiowe (**54**)<br>--- |
+
+| **EGZEMA** | 🟩 **KRÓTKOWZROCZNOŚĆ** | 🟩 **OKRES (bolesny)** | 🟦 **MIGRENA** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  przytarczyca (**13**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  oczy (**8**)<br>--- | <br>**masujemy receptory:**<br>**•**  jajniki (**36**)<br>**•**  macica (**50**)<br>**•**  odprężenie podbrzusza<br>(bóle okresowe) (**37**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerw trójdzielny (**5**)<br>**•**  przytarczyca (**13**)<br>**•**  narząd równowagi (**42**)<br>**•**  ewentualnie żołądek (**15**)<br>--- |
+
+| 🟧 **NADCIŚNIENIE** | 🟩 **ZAPALENIE PROSTATY** | 🟧 **DOLEGLIWOŚCI SERCA** | 🟧 **STWARDNIENIE TĘTNIC** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  móżdżek (**3**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  prostata (**50**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  serce (**33**)<br>**•**  nadnercze (**21**)<br>**•**  kręgi piersiowe (**54**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>--- |
+
+| **ALERGIA** | 🟩 **BÓLE GRZBIETU** | 🟦 **DUSZNOŚĆ** | 🟩 **ISCHIAS** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  przytarczka (**13**)<br>--- | <br>**masujemy receptory:**<br>**•**  kręgi szyjne (**53**)<br>**•**  kręgi piersiowe (**54**)<br>**•**  kręgi lędźwiowe (**55**)<br>**•**  kość krzyżowa i ogonowa (**56**)<br>--- | <br>**masujemy receptory:**<br>**•**  głowa (**1**)<br>**•**  pień mózgu, móżdżek (**3**)<br>**•**  nos (**6**)<br>**•**  płuca (**14**)<br>**•**  serce (**33**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  kolana (**35**)<br>--- |
+
+| 🟩 **OKRES NIEREGULARNY** | 🟧 **NIEDOCIŚNIENIE** | **PÓŁPASIEC** | 🟩 **Zwyr. stawu kolanowego** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  przysadka mózgowa (**4**)<br>**•**  jajniki (**36**)<br>**•**  odprężenie podbrzusza<br>(bóle okresowe) (**37**)<br>**•**  macica (**50**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  pień mózgu (**3**)<br>**•**  narząd równowagi (**42**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  przytarczyca (**13**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  kolano (**35**)<br>--- |
+
+| 🟦 **ANGINA PECTORIS** | 🟩 **JASKRA** | **TRĄDZIK** | 🟩 **ZAĆMA** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  żołądek (**15**)<br>**•**  nadnercze (**21**)<br>**•**  serce (**33**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  mózg (**1**)<br>**•**  oczy (**8**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  wątroba (**18**)<br>**•**  woreczek żółciowy (**19**)<br>--- | <br>**masujemy receptory:**<br>**•**  oczy (**8**)<br>**•**  nadnercze (**21**)<br>**•**  głowa (**1**)<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>--- |
+
+| **BRAK APETYTU** | **KOLKA** | 🟦 **Zapalenie migdałów** | 🟩 **OKO (jęczmień)** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  jelito cienkie (**25**)<br>**•**  zastawka krętnicza (**27**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  tarczyca (**12**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>--- | <br>**masujemy receptory:**<br>**•**  migdałki (**45**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  oko (**8**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- |
+
+| **OPARZENIA** | 🟩 **SZCZĘKI (ból)** | 🟦 **Zap. zatok czołowych** | 🟧 **ŻYLAKI** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  receptory oparzonych<br>narządów<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  przytarczyca (**13**)<br>--- | <br>**masujemy receptory:**<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  nerw trójdzielny (**5**)<br>**•**  szczęka dolna (**46**)<br>**•**  szczęka górna (**47**)<br>--- | <br>**masujemy receptory:**<br>**•**  zatoki (**2**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  kręgi piersiowe (**54**)<br>**•**  kręgi lędźwiowe (**55**)<br>**•**  kość krzyżowa i ogonowa (**56**)<br>--- |
+
+| 🟦 **ANGINA** | 🟦 **BÓL GARDŁA** | **HEMOROIDY** | 🟦 **KATAR SIENNY** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  krtań (**48**)<br>**•**  migdały (**45**)<br>--- | <br>**masujemy receptory:**<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  migdały (**45**)<br>**•**  krtań (**48**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  odbyt (**32**)<br>**•**  kiszka odchodowa<br>(hemoroidy) (**52**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  nos (**6**)<br>**•**  przytarczyca (**13**)<br>**•**  płuca i oskrzela (**14**)<br>**•**  krtań (**48**)<br>--- |
+
+| 🟦 **ŚWINKA** | 🟧 **Zwężenie tętnic** | 🟩 **UPŁAWY** | 🟦 **USZY (ból)** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  gruczoły płciowe (**36**)<br>**•**  migdały (**45**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  przytarczyca (**13**)<br>**•**  receptory narządów,<br>w których występuje<br>zwężenie tętnic<br>--- | <br>**masujemy receptory:**<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  pochwa (**51**)<br>**•**  macica (**50**)<br>--- | <br>**masujemy receptory:**<br>**•**  głowa (**1**)<br>**•**  ucho (**9**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- |
+
+| 🟦 **Zap. zatok nosowych** | **ANEMIA** | 🟦 **BRONCHIT** | **KAMICA ŻÓŁCIOWA** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  zatoki (**2**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  przytarczyca (**13**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  śledziona (**34**)<br>--- | <br>**masujemy receptory:**<br>**•**  płuca i odkrzela (**14**)<br>**•**  przytarczyca (**13**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  nadnercze (**21**)<br>--- | <br>**masujemy receptory:**<br>**•**  dwunastnica (**16**)<br>**•**  wątroba (**18**)<br>**•**  woreczek żółciowy (**19**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- |
+
+| 🟦 **KASZEL** | 🟩 **MIĘŚNIAKI** | 🟦 **NIEŻYT OSKRZELI** | **Zap. pęcherza moczowego** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  przytarczyca (**13**)<br>**•**  płuca i oskrzela (**14**)<br>**•**  nadnercze (**21**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  jajniki (**36**)<br>**•**  przysadka mózgowa (**4**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  macica (**50**)<br>--- | <br>**masujemy receptory:**<br>**•**  płuca i oskrzela (**14**)<br>**•**  przytarczyca (**13**)<br>**•**  nadnercze (**21**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- |
+
+| **Stan zapalny organizmu** | **NIEWYDOLNOŚĆ TRZUSTKI** | **WYPADANIE WŁOSÓW** | **ZAPARCIA** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  receptory zaatakowanych<br>narządów<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  przytarczyca (**13**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  wątroba (**18**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  nadnercze (**21**)<br>**•**  gruczoły płciowe (**36**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  wątroba (**18**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  kiszka odchodowa,<br>hemoroidy (**52**)<br>--- |
+
+| **Zap. pęcherza żółciowego** | 🟦 **ZAPALENIE PŁUC** | **ŻÓŁTACZKA** | 🟩 **DOLEGLIWOŚCI KOBIECE** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  dwunastnica (**16**)<br>**•**  wątroba (**18**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  płuca i oskrzela (**14**)<br>**•**  przytarczyca (**13**)<br>**•**  nadnercze (**21**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  dwunastnica (**16**)<br>**•**  wątroba (**18**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  przysadka mózgowa (**4**)<br>**•**  tarczyca (**12**)<br>**•**  jajniki (**36**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  nadnercze (**21**)<br>--- |
+
+| 🟦 **GRYPA** | **NIEWYDOLNOŚĆ NEREK** | **OBRZĘKI** | 🟦 **ASTMA** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  nos (**6**)<br>**•**  śledziona (**34**)<br>**•**  migdały (**45**)<br>**•**  i niekiedy zatoki czołowe (**2**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>--- | <br>**masujemy receptory:**<br>**•**  nadnercze (**21**)<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  płuca i oskrzela (**14**)<br>--- |
+
+| 🟩 **ZAPALENIE JAJNIKÓW** | **NIEWYDOLNOŚĆ WĄTROBY** | **ZŁA PRZEMIANA MATERII** | 🟩 **REUMATYZM** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  jajniki (**36**)<br>oraz niekiedy również<br>**•**  przysadka mózgowa (**4**)<br>**•**  tarczyca (**12**)<br>**•**  przytarczyca (**13**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  wątroba (**17**)<br>**•**  pęcherzyk żółciowy (**18**)<br>w przypadku infekcji również<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)  <br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  serce (**33**)<br>**•**  nadnercze (**21**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  przytarczyca(**13**)<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>--- |
+
+| **WYPRYSKI** | 🟩 **ZAPALENIE STAWÓW** | 🟩 **GOŚCIEC** | 🟦 **LĘKI** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  przytarczyca (**13**)<br>**•**  nadnercze (**21**)<br>**•**  żołądek (**15**)<br>**•**  wątroba (**18**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  przytarczyca (**13**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  receptory chorych stawów<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  przytarczyca (**13**)<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  głowa (**1**)<br>**•**  ewentualnie błędnik (**42**)<br>--- |
+
+| **ZAPALENIE JELIT** | 🟦 **ZMĘCZENIE** | **Choroba Parkinsona** | 🟩 **ZWICHNIĘCIE KRĘGU** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  jelito cienkie (**25**)<br>**•**  zastawka krętnicza (**27**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  głowa (**1**)<br>**•**  przytarczyca (**13**)<br>**•**  serce (**33**)<br>**•**  żołądek (**15**)<br>**•**  wątroba (**18**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  nadnercze(**21**)<br>**•**  głowa (**1**)<br>**•**  przytarczyca (**13**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  żołądek (**15**)<br>**•**  wątroba (**18**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  kręgi szyjne (**53**)<br>**•**  kręgi piersiowe (**54**)<br>**•**  kręgi lędźwiowe (**55**)<br>**•**  kość krzyżowa i ogonowa (**56**)<br>--- |
+
+| **BIEGUNKA** | 🟩 **DYSKOPATIA** | 🟩 **Zwyr. stawu biodrowego** | 🟧 **BIAŁACZKA** |
+| --- | --- | --- | --- |
+| <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  przy silnej biegunce<br>masować dodatkowo<br>splot słoneczny (**20**)<br>--- | <br>**masujemy receptory:**<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  kręgi szyjne (**53**)<br>**•**  kręgi piersiowe (**54**)<br>**•**  kręgi lędźwiowe (**55**)<br>**•**  kość krzyżowa i ogonowa (**56**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  nerka (**22**)<br>**•**  przewód moczowy (**23**)<br>**•**  pęcherz moczowy (**24**)<br>**•**  nadnercze (**21**)<br>**•**  ramię (**10**)<br>**•**  staw biodrowy (**38**)<br>**•**  kręgi lędźwiowe (**55**)<br>--- | <br>**masujemy receptory:**<br>**•**  żołądek (**15**)<br>**•**  dwunastnica (**16**)<br>**•**  trzustka (**17**)<br>**•**  wątroba (**18**)<br>**•**  pęcherzyk żółciowy (**19**)<br>**•**  jelito wstępujące (**28**)<br>**•**  jelito poprzeczne (**29**)<br>**•**  jelito zstępujące (**30**)<br>**•**  kiszka odchodowa (**31**)<br>**•**  gruczoły limfatyczne górnej<br>części tułowia (**39**)<br>**•**  gruczoły limfatyczne<br>podbrzusza (**40**)<br>**•**  piersiowy przewód<br>limfatyczny (**41**)<br>**•**  przytarczyca (**13**)<br>**•**  płuca i odkrzela (**14**)<br>--- |
 
 **ZANIK MIĘŚNI**
 
@@ -15599,216 +6787,72 @@ Wiele osób zadaje pytanie, czy w kuracji wodą "żywą" i "martwą" można rów
 
 **Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.**
 
----
-
-**Angina**
-
-**•** Co 4 godziny płukać gardło "martwą" wodą, po każdym płukaniu pić 1/2 szklanki wody "żywej" w ciągu 4 dni. Gorączka obniża się po jednym dniu a wyleczenie w 3 dniu.
-
----
-
-**Choroby kobiece**  
-(zapalenie, swędzenie, upławy)
-
-**•** Przez 4 dni, 2 razy dziennie pić po 1/2 szklanki wody "martwej". Podmywać się rano i wieczorem ciepłą wodą "martwą" przez 7 dni. Następnie przez 4 dni pić wodę "żywą" 1/2 szklanki dziennie.
-
----
-
-**Ciśnienie krwi - przywrócenie normalnego**
-
-**•** Co 8 godzin przed posiłkiem pić 3/4 szklanki wody "żywej".
-
----
-
-**•** 2 razy dziennie pić 1/2 szklanki wody "żywej" z 3 łyżkami soku z buraka czerwonego.
-
----
-
-**Depresja, stany lękowe, ból głowy**
-
-**•** Sól litu rozprowadzić w 1/2 litra wody "żywej". Pić 2 razy dziennie przez 6 tygodni, 1 łyżeczkę na 20 minut przed posiłkiem.
-
----
-
-**Dziąsła - ropne zapalenie**
-
-**•** Co 3 godziny płukać gardło i dziąsła wodą "martwą". Pić 3 razy dziennie po 1/2 szklanki wody "żywej". Choroba ustępuje w ciągu 2-3 dni.
-
----
-
-**Gardło - zapalenie (chrypka)**
-
-**•** Co 3 godziny płukać gardło wodą "martwą", pić 2 razy dziennie po 1/2 szklanki wody "żywej". Poprawa następuje po 2 dniach.
-
----
-
-**Głowa - ból przewlekły**
-
-**•** Wypić jeden raz 1/2 szklanki wody "martwej" i po 30 minutach 1/2 szklanki wody "żywej". Ból ustępuje po 60 minutach.
-
----
-
-**Gruczoł krokowy - obrzęk**
-
-**•** Co 4 godziny w ciągu 9 dni na 30 minut przed posiłkiem pić 1/2 szklanki wody "żywej". Po kilku dniach wydziela się śluz, następuje częste oddawanie moczu, w ciągu 9 dni wyzdrowienie.
-
----
-
-**Grypa**
-
-**•** 6 razy dziennie płukać gardło i wnętrze nosa wodą "martwą". Pić 2 razy dziennie po 1/2 szklanki wodę "żywą". Grypa ustępuje w ciągu doby.
-
----
-
-**Hemoroidy**
-
-**•** Pęknięcia przemywać przez 2 dni rano i wieczorem wodą "martwą", po wyschnięciu przykładać tampony zwilżone wodą "żywą" co 3 godziny. Pić przez 1 dzień 2 razy po 1/2 szklanki wody "martwej". Ustępuje krwawienie, a po 2-4 dniach następuje zagojenie.
-
----
-
-**Jelita - nieżyt**
-
-**•** Zrobić okład na podbrzusze z wody "martwej" o temperaturze 37-40°C. Po 15 minutach obmyć "żywą" wodą. Zabieg można powtarzać.
-
----
-
-**Jelito cienkie - zaburzenia**
-
-**•** Płótno zwilżyć ciepłą "żywą" wodą i zrobić okład na 30 minut przed snem, wypić 1/2 szklanki wody "martwej". Okłady można stosować przez 3-4 dni.
-
----
-
-**Kolana opuchnięte**
-
-**•** Rano i wieczorem - okłady z wody "martwej". Pić wodę "żywą" 2 razy dziennie po 1/2 szklanki przez 4-7 dni.
-
----
-
-**Korzonki nerwowe - zapalenie**
-
-**•** W ciągu 7 dni, 3 razy dziennie, na 20 minut przed posiłkiem pić 3/4 szklanki wody "żywej". Bóle powinny ustąpić już w drugim dniu.
-
----
-
-**Liszaj**
-
-**•** Rano obmyć chore miejsca ciepłą "martwą" wodą. Na noc zrobić okłady z wody "żywej". Pić 2 razy dziennie 1/2 szklanki wody "żywej" przez 3-6 dni. Choroba zanika powoli.
-
----
-
-**Nogi - obrzęk**
-
-**•** Co 4 godziny pić 1/2 szklanki wody "żywej" przed posiłkiem przez 4 dni.
-
----
-
-**Nogi - potliwość**
-
-**•** Przez 15 minut wymoczyć nogi w krochmalu. Po wyschnięciu moczyć nogi przez 20 minut w wodzie "martwej". Przemyć wewnątrz obuwie "martwą" wodą, Zabieg powtarzać co 2 dni do skutku.
-
----
-
-**Oparzenie**
-
-**•** Jeżeli są pęcherze - przekłuć, przemyć "martwą" wodą. Po wyschnięciu (po około 10 minutach) zwilżać wodą "żywą" 4-8 razy w ciągu dnia. Po 24 godzinach ustępuje zaczerwienienie i szybko się goi nie pozostawiając blizn.
-
----
-
-**Rana ropiejąca**
-
-**•** Ranę obłożyć lnianym płótnem zwilżonym wodą "martwą". Płótna nie odrywać, a zwilżać. Po wyschnięciu obłożyc płótnem zwilżonym wodą "żywą" i po wyschnięciu zwilżać przez 2 dni. Nastepnie zdjąć opatrunek i przemywać tylko "żywą" wodą. Rana goi się w ciągu 2-3 dni.
-
----
-
-**Samopoczucie - polepszenie**
-
-**•** Rano i wieczorem pić po 1/2 szklanki wody "żywej" z 1 łyżeczką miodu spadziowego.
-
----
-
-**•** 2 razy dziennie płukać jamę ustną martwą "wodą", raz dziennie wypić 1/2 szklanki wody "żywej".
-
----
-
-**Skaleczenie**
-
-**•** Miejsce skaleczenia przemyć "żywą" wodą i założyć opatrunek.
-
----
-
-**Stawy - ból**
-
-**•** Co 4 godziny pić 1/2 szklanki wody "martwej" w ciągu 2-3 dni przed jedzeniem. Ból ustępuje po 2 dniach.
-
----
-
-**Sterylizacja**
-
-**•** Przedmioty skażone przemyć wodą "martwą" i osuszyć. Ciało również obmywać wodą "martwą" Można myć ręce i owoce. Woda "martwa" niszczy bakterie.
-
----
-
-**Stopy - zgrubienie skóry**
-
-**•** Nogi moczyć w krochmalu około 15-20 minut i osuszyć. Następnie przez 20 minut moczyć w gorącej "martwej" wodzie, pocierając pumeksem zgrubienie. Po kilku kąpielach zgrubienia zostaną usunięte.
-
----
-
-**Szyja - zaziębienie**
-
-**•** Lniane płótno zwilżone w ciepłej wodzie "martwej" nałożyć na ciało i okręcić wełnianym szalikiem. Okład zmieniać co 3 godziny. Pić 2 razy dziennie po 1/2 szklanki wody "żywej". Choroba ustępuje w ciągu 2 dni.
-
----
-
-**Trądzik**
-
-**•** Przemywać chore miejsca ciepłą wodą "martwą" przed snem. Pić 2 razy dziennie po 1/2 szklanki wody "żywej". Zrewidować odżywianie. Choroba ustępuje po 3-7 dniach.
-
----
-
-**Twarz - higiena**
-
-**•** Rano i wieczorem umyć twarz wodą "martwą", a następnie nacierać wacikiem zmoczonym w wodzie "żywej. Cera staje się jasna i znikają przebarwienia.
-
----
-
-**Watroba - zapalenie**
-
-**•** Co 3 godziny pić 1/2 szklanki "martwej" wody przez 3 dni. Następnie przez 2 dni pić wodę "żywą" 2 razy dziennie po 1/2 szklanki.
-
----
-
-**Uszy - szum, swędzenie**
-
-**•** Waciki zwilżone w ciepłej "żywej" wodzie wkładać do uszu wieczorem. Rano przemywać "martwą" wodą przez 3-4 dni.
-
----
-
-**Zęby - ból**
-
-**•** Płukać jamę ustną wodą "martwą około 10 minut.
-
----
-
-**Żylaki**
-
-**•** Krwawiące pęknięcia przemyć wodą "martwą". Następnie zmoczyć wodą "żywą" lniane płótno i obłożyć chore miejsca na 3 godziny. Pić 1 raz dziennie 1/2 szklanki wody "martwej" i następnie co 6 godzin 1/2 szklanki wody "żywej". Tak postępować przez 3 dni. Następuje rozszerzenie żył i rany zaczynają się goić.
-
----
-
-**Stany nowotworowe  
-Osłabienie organizmu  
-Niewłaściwe odżywianie  
-Brak mikroelementów**
-
-**•** Preparat TP1 rozprowadzić w 1/2 litra wody "żywej", pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Następnie preparat TP2 rozprowadzić w 1/2 litra wody "żywej", pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Szczególnie wskazany w stanach pooperacyjnych, nowotworach żołądka i jelit.
-
----
-
-TP1 i TP2 - [preparaty](http://www.dr.podbielski.pl/index.php?go=news6) dr Tadeusza Podbielskiego. TP1 - cena 11,00 zł i  
-TP2 - cena 12,00 zł. można [kupić](http://www.sklep.podbielski.pl/index.php?categoryID=78&PHPSESSID=b80330464974a85052cfdc758158c3b1).
-
----
+| --- |   |
+| --- | --- |
+| 🟩 **Angina** | 🟩 **•** Co 4 godziny płukać gardło "martwą" wodą, po każdym płukaniu pić 1/2 szklanki wody "żywej" w ciągu 4 dni. Gorączka obniża się po jednym dniu a wyleczenie w 3 dniu. |
+| --- |   |
+| 🟩 **Choroby kobiece**<br>(zapalenie, swędzenie, upławy) | 🟩 **•** Przez 4 dni, 2 razy dziennie pić po 1/2 szklanki wody "martwej". Podmywać się rano i wieczorem ciepłą wodą "martwą" przez 7 dni. Następnie przez 4 dni pić wodę "żywą" 1/2 szklanki dziennie. |
+| --- |   |
+| 🟩 **Ciśnienie krwi - przywrócenie normalnego** | 🟩 **•** Co 8 godzin przed posiłkiem pić 3/4 szklanki wody "żywej".<br>---<br>**•** 2 razy dziennie pić 1/2 szklanki wody "żywej" z 3 łyżkami soku z buraka czerwonego. |
+| --- |   |
+| 🟩 **Depresja, stany lękowe, ból głowy** | 🟩 **•** Sól litu rozprowadzić w 1/2 litra wody "żywej". Pić 2 razy dziennie przez 6 tygodni, 1 łyżeczkę na 20 minut przed posiłkiem. |
+| --- |   |
+| 🟩 **Dziąsła - ropne zapalenie** | 🟩 **•** Co 3 godziny płukać gardło i dziąsła wodą "martwą". Pić 3 razy dziennie po 1/2 szklanki wody "żywej". Choroba ustępuje w ciągu 2-3 dni. |
+| --- |   |
+| 🟩 **Gardło - zapalenie (chrypka)** | 🟩 **•** Co 3 godziny płukać gardło wodą "martwą", pić 2 razy dziennie po 1/2 szklanki wody "żywej". Poprawa następuje po 2 dniach. |
+| --- |   |
+| 🟩 **Głowa - ból przewlekły** | 🟩 **•** Wypić jeden raz 1/2 szklanki wody "martwej" i po 30 minutach 1/2 szklanki wody "żywej". Ból ustępuje po 60 minutach. |
+| --- |   |
+| 🟩 **Gruczoł krokowy - obrzęk** | 🟩 **•** Co 4 godziny w ciągu 9 dni na 30 minut przed posiłkiem pić 1/2 szklanki wody "żywej". Po kilku dniach wydziela się śluz, następuje częste oddawanie moczu, w ciągu 9 dni wyzdrowienie. |
+| --- |   |
+| 🟩 **Grypa** | 🟩 **•** 6 razy dziennie płukać gardło i wnętrze nosa wodą "martwą". Pić 2 razy dziennie po 1/2 szklanki wodę "żywą". Grypa ustępuje w ciągu doby. |
+| --- |   |
+| 🟩 **Hemoroidy** | 🟩 **•** Pęknięcia przemywać przez 2 dni rano i wieczorem wodą "martwą", po wyschnięciu przykładać tampony zwilżone wodą "żywą" co 3 godziny. Pić przez 1 dzień 2 razy po 1/2 szklanki wody "martwej". Ustępuje krwawienie, a po 2-4 dniach następuje zagojenie. |
+| --- |   |
+| 🟩 **Jelita - nieżyt** | 🟩 **•** Zrobić okład na podbrzusze z wody "martwej" o temperaturze 37-40°C. Po 15 minutach obmyć "żywą" wodą. Zabieg można powtarzać. |
+| --- |   |
+| 🟩 **Jelito cienkie - zaburzenia** | 🟩 **•** Płótno zwilżyć ciepłą "żywą" wodą i zrobić okład na 30 minut przed snem, wypić 1/2 szklanki wody "martwej". Okłady można stosować przez 3-4 dni. |
+| --- |   |
+| 🟩 **Kolana opuchnięte** | 🟩 **•** Rano i wieczorem - okłady z wody "martwej". Pić wodę "żywą" 2 razy dziennie po 1/2 szklanki przez 4-7 dni. |
+| --- |   |
+| 🟩 **Korzonki nerwowe - zapalenie** | 🟩 **•** W ciągu 7 dni, 3 razy dziennie, na 20 minut przed posiłkiem pić 3/4 szklanki wody "żywej". Bóle powinny ustąpić już w drugim dniu. |
+| --- |   |
+| 🟩 **Liszaj** | 🟩 **•** Rano obmyć chore miejsca ciepłą "martwą" wodą. Na noc zrobić okłady z wody "żywej". Pić 2 razy dziennie 1/2 szklanki wody "żywej" przez 3-6 dni. Choroba zanika powoli. |
+| --- |   |
+| 🟩 **Nogi - obrzęk** | 🟩 **•** Co 4 godziny pić 1/2 szklanki wody "żywej" przed posiłkiem przez 4 dni. |
+| --- |   |
+| 🟩 **Nogi - potliwość** | 🟩 **•** Przez 15 minut wymoczyć nogi w krochmalu. Po wyschnięciu moczyć nogi przez 20 minut w wodzie "martwej". Przemyć wewnątrz obuwie "martwą" wodą, Zabieg powtarzać co 2 dni do skutku. |
+| --- |   |
+| 🟩 **Oparzenie** | 🟩 **•** Jeżeli są pęcherze - przekłuć, przemyć "martwą" wodą. Po wyschnięciu (po około 10 minutach) zwilżać wodą "żywą" 4-8 razy w ciągu dnia. Po 24 godzinach ustępuje zaczerwienienie i szybko się goi nie pozostawiając blizn. |
+| --- |   |
+| 🟩 **Rana ropiejąca** | 🟩 **•** Ranę obłożyć lnianym płótnem zwilżonym wodą "martwą". Płótna nie odrywać, a zwilżać. Po wyschnięciu obłożyc płótnem zwilżonym wodą "żywą" i po wyschnięciu zwilżać przez 2 dni. Nastepnie zdjąć opatrunek i przemywać tylko "żywą" wodą. Rana goi się w ciągu 2-3 dni. |
+| --- |   |
+| 🟩 **Samopoczucie - polepszenie** | 🟩 **•** Rano i wieczorem pić po 1/2 szklanki wody "żywej" z 1 łyżeczką miodu spadziowego.<br>---<br>**•** 2 razy dziennie płukać jamę ustną martwą "wodą", raz dziennie wypić 1/2 szklanki wody "żywej". |
+| --- |   |
+| 🟩 **Skaleczenie** | 🟩 **•** Miejsce skaleczenia przemyć "żywą" wodą i założyć opatrunek. |
+| --- |   |
+| 🟩 **Stawy - ból** | 🟩 **•** Co 4 godziny pić 1/2 szklanki wody "martwej" w ciągu 2-3 dni przed jedzeniem. Ból ustępuje po 2 dniach. |
+| --- |   |
+| 🟩 **Sterylizacja** | 🟩 **•** Przedmioty skażone przemyć wodą "martwą" i osuszyć. Ciało również obmywać wodą "martwą" Można myć ręce i owoce. Woda "martwa" niszczy bakterie. |
+| --- |   |
+| 🟩 **Stopy - zgrubienie skóry** | 🟩 **•** Nogi moczyć w krochmalu około 15-20 minut i osuszyć. Następnie przez 20 minut moczyć w gorącej "martwej" wodzie, pocierając pumeksem zgrubienie. Po kilku kąpielach zgrubienia zostaną usunięte. |
+| --- |   |
+| 🟩 **Szyja - zaziębienie** | 🟩 **•** Lniane płótno zwilżone w ciepłej wodzie "martwej" nałożyć na ciało i okręcić wełnianym szalikiem. Okład zmieniać co 3 godziny. Pić 2 razy dziennie po 1/2 szklanki wody "żywej". Choroba ustępuje w ciągu 2 dni. |
+| --- |   |
+| 🟩 **Trądzik** | 🟩 **•** Przemywać chore miejsca ciepłą wodą "martwą" przed snem. Pić 2 razy dziennie po 1/2 szklanki wody "żywej". Zrewidować odżywianie. Choroba ustępuje po 3-7 dniach. |
+| --- |   |
+| 🟩 **Twarz - higiena** | 🟩 **•** Rano i wieczorem umyć twarz wodą "martwą", a następnie nacierać wacikiem zmoczonym w wodzie "żywej. Cera staje się jasna i znikają przebarwienia. |
+| --- |   |
+| 🟩 **Watroba - zapalenie** | 🟩 **•** Co 3 godziny pić 1/2 szklanki "martwej" wody przez 3 dni. Następnie przez 2 dni pić wodę "żywą" 2 razy dziennie po 1/2 szklanki. |
+| --- |   |
+| 🟩 **Uszy - szum, swędzenie** | 🟩 **•** Waciki zwilżone w ciepłej "żywej" wodzie wkładać do uszu wieczorem. Rano przemywać "martwą" wodą przez 3-4 dni. |
+| --- |   |
+| 🟩 **Zęby - ból** | 🟩 **•** Płukać jamę ustną wodą "martwą około 10 minut. |
+| --- |   |
+| 🟩 **Żylaki** | 🟩 **•** Krwawiące pęknięcia przemyć wodą "martwą". Następnie zmoczyć wodą "żywą" lniane płótno i obłożyć chore miejsca na 3 godziny. Pić 1 raz dziennie 1/2 szklanki wody "martwej" i następnie co 6 godzin 1/2 szklanki wody "żywej". Tak postępować przez 3 dni. Następuje rozszerzenie żył i rany zaczynają się goić. |
+| --- |   |
+| 🟩 **Stany nowotworowe<br>Osłabienie organizmu<br>Niewłaściwe odżywianie<br>Brak mikroelementów** | 🟩 **•** Preparat TP1 rozprowadzić w 1/2 litra wody "żywej", pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Następnie preparat TP2 rozprowadzić w 1/2 litra wody "żywej", pić 2 razy dziennie łyżeczkę w czasie posiłku przez 6 tygodni. Szczególnie wskazany w stanach pooperacyjnych, nowotworach żołądka i jelit.<br>---<br>TP1 i TP2 - [preparaty](http://www.dr.podbielski.pl/index.php?go=news6) dr Tadeusza Podbielskiego. TP1 - cena 11,00 zł i<br>TP2 - cena 12,00 zł. można [kupić](http://www.sklep.podbielski.pl/index.php?categoryID=78&PHPSESSID=b80330464974a85052cfdc758158c3b1). |
+| --- |   |
 
 **Woda "żywa", "martwa" i zioła**
 
@@ -15826,414 +6870,61 @@ Bardzo mało wiem o wzajemnym oddziaływaniu człowiek-zioła-woda "żywa". Mam 
 
 **Uwaga. Leczenie nie uznawane przez medycynę naukową. Stosujesz na własną odpowiedzialność.**
 
----
-
-**Angina**
-
-**Zioła** - liść orzecha (10 g), majeranek (15 g), tymianek (10 g), nagietek (20 g), eukaliptus, lipa (20 g), szałwia (15 g).
-
----
-
-**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", 3-7 dni płukać gardło 2 razy dziennie jednym z ziół zalanych wodą "martwą". Pić 2 razy dziennie 1/2 szklanki wody "żywej".
-
----
-
-**Efekty** - w ciągu kilku godzin gorączka obniża się, a choroba ustępuje w ciągu 3-4 dni. Z eukaliptusa można robić inhalacje.
-
----
-
-**Anemia**
-
-**Zioła** - pokrzywa (20 g), wilżyna (10 g), poziewnik (5 g), tobołki posp. (10 g), świetlik łąkowy (20 g),  
-owoc róży (20 g), ogórecznik (20 g), rzepik (15 g), bukwica (15 g).
-
----
-
-**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", następnie pić napar z ziół "żywą" wodą 2 razy dziennie po 1 szklance. Dodatkowo można 1 raz dziennie zjeść 1 łyżeczkę sproszkowanej kozieradki z miodem.
-
----
-
-**Efekty** - przed kuracją sprawdzić morfologie krwi, po 7 dniach powtórzyć - wyniki będą lepsze. Można przedłużyć picie ziół do 2 tygodni.
-
----
-
-**Bezsenność**
-
-**Zioła** - kolendra (10 g), owoc bzu czarnego (10 g), liść jeżyny (15 g), melisa (10 g), owoc jarzębiny (15 g),  
-liść borówki (5 g).
-
----
-
-**Leczenie** - przed snem pić 1 szklankę naparu "żywej" wody z ziół przez 2-4 dni. Kuracje można powtarzać.
-
----
-
-**Efekty** - organizm się wycisza i wraca sen.
-
----
-
-**Biegunka**
-
-**Zioła** - zielona herbata (), szyjka rakowa ().
-
----
-
-**Leczenie** - wypić 1/2 szklanki wody "martwej". Co 7 godzin zażyć 1/2 łyżeczki sproszkowanej herbaty lub szyjki rakowej (do wyboru) popijając 1/2 szklanki ciepłej "żywej" wody.
-
----
-
-**Efekty** - bóle ustępują, biegunka ustaje.
-
----
-
-**Choroba  
-popromienna**
-
-**Zioła** - herbata zielona (15 g), pokrzywa (20 g).
-
----
-
-**Leczenie** - przez 3 miesiące, 2 razy dziennie pić po 1/2 szklanki naparu wody "żywej" i ziół. Można używać naparu ze zwykłej wody w wypadku braku wody "żywej".
-
----
-
-**Efekty** - wzmacnia, nie dopuszcza do powstania anemii, wzmacnia siły obronne organizmu.
-
----
-
-**Dziąsła  
-zapalenie**
-
-**Zioła** - kolanchola (), propolis ().
-
----
-
-**Leczenie** - w ciągu dnia płukać jamę ustną 2-6 razy wodą "martwą" a potem roztworem wody "żywej" z propolisem lub kalancholą 1-2 razy.
-
----
-
-**Efekty** - brak danych.
-
----
-
-**Głowa  
-ból**
-
-**Zioła** - lipa (10 g), macierzanka (30 g), bukwica (20 g).
-
----
-
-**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", pić 2 razy dziennie 1/2 szklanki naparu ziół "żywą" wodą od 2 do 3 dni.
-
----
-
-**Efekty** - po 15-20 minutach ból głowy ustępuje. W razie nawrotu bólu kurację powtórzyć.
-
----
-
-**Hemoroidy**
-
-**Zioła** - cebula (), kora dębu (), len (), kozieradka (), perz (), płatki róży ().
-
----
-
-**Leczenie** - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody "martwej", następnie 1 raz dziennie 1/2 szklanki wody "żywej". Z naparu "żywą" wodą jednego z ziół robić przymoczki na chore miejsce lub tamponami z wody kilka razy dziennie przez 2-5 dni.
-
----
-
-**Efekty** - krwawienia ustępują i zagojenie ran następuje w ciągu kilku dni.
-
----
-
-**Menstruacja  
-bolesna**
-
-**Zioła** - kora kaliny (15 g), krwawnik (10 g), kwiat orlika (5 g) lub mięta pieprzowa (15 g).
-
----
-
-**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", następnie 1-2 dni przed okresem pić napar z ziół wodą "żywą" 2 razy dziennie po 1/2 szklanki.
-
----
-
-**Efekty** - kuracje przeprowadzać przez okres 3 miesięcy przed okresem.
-
----
-
-**Moczopędne**
-
-**Zioła** - perz (10 g), ogórecznik (20 g), wrzos (10 g), bławatek (10 g), ręcznica (15 g),  
-liść porzeczki czarnej (20 g), fiołek (10 g), liść poziomki (10 g).
-
----
-
-**Leczenie** - napar z ziół "żywą" wodą" pić 2 razy dziennie po 1 szklance przez 3-4 dni.
-
----
-
-**Efekty** - oczyszcza nerki.
-
----
-
-**Nerki  
-stan zapalny**
-
-**Zioła** - ogórecznik ().
-
----
-
-**Leczenie** - przez 1 dzień pić 3 razy po 1/2 szklanki wody "martwej" i następnie przez 3-6 dni napar z ogórecznika wodą "żywą" 2 razy dziennie po 1/2 szklanki.
-
----
-
-**Efekty** - brak danych.
-
----
-
-**Nogi  
-bóle i obrzęki**
-
-**Zioła** - podbiał (20 g), storczyk (10 g), rozmaryn (15 g), skrzyp (20 g), ogórecznik (20 g).
-
----
-
-**Leczenie** - przez 1 dzień pić 2 razy po 1/2 szklanki wody "martwej", następnie 2 razy napar z ziół wodą "żywą" po 1/2 szklanki. Stosować 2-3 dni.
-
----
-
-**Efekty** - bóle ustępują po drugim dniu kuracji, obrzęki po kilku dniach.
-
----
-
-**Oparzenia**
-
-**Zioła** - kopytnik (10 g), podbiał (10 g), babka lancetowata (10 g), liść poziomki (10 g), dziewanna (10 g), mniszek (10 g), lebiodka (20 g).
-
----
-
-**Leczenie** - chore miejsca przemyć wodą "martwą", potem w ciągu dnia robić okłady z naparu "żywą" wodą" jednego z podanych ziół. Okłady robić wyłącznie lnianym płótnem i po wyschnięciu powtarzać 3-4 razy dziennie.
-
----
-
-**Efekty** - rany goją się bardzo szybko i nie ma blizn.
-
----
-
-**Rana  
-ropiejąca**
-
-**Zioła** - aloes (20 g), żywokost (15 g), kozieradka (10 g), torfowiec (15 g).
-
----
-
-**Leczenie** - przemyć ranę wodą "martwą", następnie zrobić opatrunek naparem "żywej" wody jednego z ziół. Wyschnięty opatrunek nawilżać wodą "żywą". Robić to 2-3 razy dziennie.
-
----
-
-**Efekty** - brak danych.
-
----
-
-**Serce  
-arytmia**
-
-**Zioła** - melisa (15 g), kwiat głogu (20 g), wrzos (10 g).
-
----
-
-**Leczenie** - 2 razy dziennie wypić 1/2 szklanki naparu ziół "żywą" wodą przez 6-7 dni.
-
----
-
-**Efekty** - poprawa bardzo widoczna. Kurację można powtarzać co 2 tygodnie.
-
----
-
-**Skóra  
-liszaje**
-
-**Zioła** - żywokost (15 g), kozieradka (10 g), skrzyp (5 g), barwinek (10 g), konopie (20 g),  
-korzeń pokrzywy (10 g), torfowiec (10 g).
-
----
-
-**Leczenie** - w ciągu 2 dni rano obmywać chore miejsca wodą "martwą", następnie sproszkowane jedno z ziół połączone z wodą "żywą" nałożyć na lniane płótno i 2 razy dziennie robić ciepły okład na 15-20 minut. Stosować 2-7 dni.
-
----
-
-**Efekty** - po pierwszym dniu ognisko choroby zanika, skóra wraca do zdrowia.
-
----
-
-**Spojówki  
-zapalenie  
-(jeczmień)**
-
-**Zioła** - \[1\] świetlik łąkowy (10 g), zielona herbata (10 g), bławatek (10 g),  
-\[2\] kozieradka.
-
----
-
-**Leczenie** - rano przemyć oczy wodą "martwą", na noc okłady naparu wodą "żywą" jednego z ziół. Jęczmień znika po nałożeniu papki z kozieradki i "żywej" wody.
-
----
-
-**Efekty** - brak danych.
-
----
-
-**Stawy  
-ból**
-
-**Zioła** - liść brzozy (15 g), fiołek trójbarwny (20 g), szałwia (10 g), kwiat głogu (20 g), dziurawiec (10 g).
-
----
-
-**Leczenie** - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody "martwej", następnie od 2 do 7 dni pić 2 razy dziennie po 1 szklance naparu ziół wodą żywą.
-
----
-
-**Efekty** - ciało się rozgrzewa, bóle ustępują.
-
----
-
-**Twarz  
-higiena**
-
-**Zioła** - bratek (20 g), lawenda (10 g), macierzanka (20 g), lilia (10 g), ogórecznik (20 g).
-
----
-
-**Leczenie** - rano i wieczorem po umyciu twarzy i ciała, przemyć ciało i twarz wodą martwą. Po 10 minutach natrzeć ciało a twarz opłukać naparem z "żywej" wody i ziół dowolnie wybranych (można dodatkowo pić napar z macierzanki).
-
----
-
-**Efekty** - twarz wygładza się i znikają przebarwienia.
-
----
-
-**Upławy  
-białe**
-
-**Zioła** - kwiat jasnoty (30 g).
-
----
-
-**Leczenie** - 1 dzień pić 2 razy 1/2 szklanki wody "martwej", następnie pić 2 razy dziennie 1 szklankę naparu wodą "żywą" przez 3-4 dni.
-
----
-
-**Efekty** - upławy ustępują w drugim dniu kuracji.
-
----
-
-**Wątroba  
-stan zapalny**
-
-**Zioła** - dziurawiec (10 g), rozmaryn (5 g), majeranek (15 g).
-
----
-
-**Leczenie** - 1 dzień pić 3 razy po 1/2 szklanki wody "martwej" a następnie przez 3-7 dni napar "żywą" wodą z ziół 2 razy dziennie po 1 szklance.
-
----
-
-**Efekty** - bóle ustępują.
-
----
-
-**Woreczek  
-żółciowy  
-zapalenie**
-
-**Zioła** - kora kruszyny (10 g), tasznik (20 g), podróżnik k. (10 g), kocanka (15 g), melisa (10 g),  
-owoc róży (20 g), dziurawiec (10 g).
-
----
-
-**Leczenie** - zrobić mieszankę z ziół. Pierwszego dnia pić 3 razy dziennie po 1/2 szklanki wody "martwej", następnie przez 3-7 dni napar wodą "żywą" z mieszanki ziół 2 razy dziennie po 1 szklance.
-
----
-
-**Efekty** - bóle ustępują po dugim dniu kuracji.
-
----
-
-**Zaparcia**
-
-**Zioła** - kwiat tarnika ().
-
----
-
-**Leczenie** - napar z zioła wodą "żywą" pić 2 razy dziennie po 1 szklance.
-
----
-
-**Efekty** - po kilku dniach zaparcia ustępują.
-
----
-
-**Ząb  
-ból**
-
-**Zioła** - tatarak (5 g), kozieradka (5 g), podbiał (5 g).
-
----
-
-**Leczenie** - najpierw kilkakrotnie przepłukać "martwą" wodą, następnie wodą "żywą" rozprowadzić jedno zioło zmielone na proszek i robić okłady. Kozieradkę można wkładać do wewnątrz do ubytku i może tam być do 3 dni.
-
----
-
-**Efekty** - kozieradka tworzy naturalną plombę i działa przeciwbólowo w połączeniu z tatarakiem, leczy zapalenie okostnej.
-
----
-
-**Zgaga**
-
-**Zioła** - tatarak (20 g), mięta pieprzowa (10 g), krwawnik (20 g).
-
----
-
-**Leczenie** - rano i wieczorem przed posiłkiem pić napar "żywej" wody z ziół po 1/2 szklanki przez 2-3 dni.
-
----
-
-**Efekty** - objawy ustępują po 1-2 godzinach.
-
----
-
-**Żylaki**
-
-**Zioła** - mech leśny (30 g), rumianek (20 g), igliwie sosny (30 g), \[Cz. Klimuszko\].
-
----
-
-**Leczenie** - chore miejsce przemyć wodą "martwą", następnie lniane płótno zmoczyć w naparze "żywej" wody i ziół i zrobić ciepły okład na 3-4 godziny 2 razy dziennie. Pić "żywą" wodę 2 razy dziennie po 1/2 szklanki przez 3-7 dni.
-
----
-
-**Efekty** - bóle ustępują, rany goją się szybko. Kurację można przedłużyć.
-
----
-
-**Porażenie  
-mózgowe  
-dzieci**
-
-**Zestaw I** - poziewnik (15 g), pokrzywa (100 g), bukwica (20 g), świetlik łąkowy (10 g), ogórecznik (20 g),  
-rdest (15 g), wrzos (10 g), liść poziomki (30 g), melisa (30 g).  
-**Zestaw II** - tymianek (10 g), kwiat tarniny (5 g), rzepik (15 g), owoc róży (25 g), serdecznik (10 g),  
-kozłek k. (15 g), krwawnik (10 g).  
-**Zestaw III (przyprawy)** - kminek, majeranek, lubczyk, magnez, wapń, żelazo, cynk.  
-**Zestaw IV (nalewka)** - korzeń żywokostu (100 g), korzeń podróżnika (100 g), 1/2 litra spirytusu, 1/2 litra wódki żytniej.
-
----
-
-**Leczenie** - Przede wszystkim należy wyłączyć z jadłospisu: wieprzowinę, czekoladę, cukier, wywary na kości i wędliny. Trzeba podawać jarzyny gotowane, kaszę jęczmienną, kaszę gryczaną, owies, pszenicę, proso - pod różnymi postaciami. Zmielone kasze na mąkę służą do sporządzania ciast i naleśników. Podawać także nasiona strączkowe mielone. Jeśli podajemy mięso, to czyste i bez kości (indyk, zając, baranina, ryby). Jajko 1-2 na tydzień. Kapiele w drożdżach, zioła podawać z wodą "żywą" lub bez. Zestaw I podawać rano, zestaw II na noc. Zestaw III w różnych ilościach dodawać do potraw (likwidują zaparcia i dostarczają mikroelementów). Nalewkę (zestaw IV) po kąpieli wcierać delikatnie w kręgosłup.
-
----
-
-**Efekty** - dzieci z porażeniem mózgowym wymagają osobliwej pielęgnacji. Aby przywrócić zdrowie dziecku, trzeba cierpliwie i bardzo dokładnie wykonywać zalecenia z opisu. Pierwsze oznaki poprawy można zaobserwować po 6 tygodniach. Dzieci, które mają ataki drgawkowe powoli je tracą. Dzieci starsze trudniej prowadzić, a leczenie trwa od 1 do 3 lat.
+| --- |   |
+| --- | --- |
+| 🟩 **Angina** | 🟩 **Zioła** - liść orzecha (10 g), majeranek (15 g), tymianek (10 g), nagietek (20 g), eukaliptus, lipa (20 g), szałwia (15 g).<br>---<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", 3-7 dni płukać gardło 2 razy dziennie jednym z ziół zalanych wodą "martwą". Pić 2 razy dziennie 1/2 szklanki wody "żywej".<br>---<br>**Efekty** - w ciągu kilku godzin gorączka obniża się, a choroba ustępuje w ciągu 3-4 dni. Z eukaliptusa można robić inhalacje. |
+| --- |   |
+| 🟩 **Anemia** | 🟩 **Zioła** - pokrzywa (20 g), wilżyna (10 g), poziewnik (5 g), tobołki posp. (10 g), świetlik łąkowy (20 g),<br>owoc róży (20 g), ogórecznik (20 g), rzepik (15 g), bukwica (15 g).<br>---<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", następnie pić napar z ziół "żywą" wodą 2 razy dziennie po 1 szklance. Dodatkowo można 1 raz dziennie zjeść 1 łyżeczkę sproszkowanej kozieradki z miodem.<br>---<br>**Efekty** - przed kuracją sprawdzić morfologie krwi, po 7 dniach powtórzyć - wyniki będą lepsze. Można przedłużyć picie ziół do 2 tygodni. |
+| --- |   |
+| 🟩 **Bezsenność** | 🟩 **Zioła** - kolendra (10 g), owoc bzu czarnego (10 g), liść jeżyny (15 g), melisa (10 g), owoc jarzębiny (15 g),<br>liść borówki (5 g).<br>---<br>**Leczenie** - przed snem pić 1 szklankę naparu "żywej" wody z ziół przez 2-4 dni. Kuracje można powtarzać.<br>---<br>**Efekty** - organizm się wycisza i wraca sen. |
+| --- |   |
+| 🟩 **Biegunka** | 🟩 **Zioła** - zielona herbata (), szyjka rakowa ().<br>---<br>**Leczenie** - wypić 1/2 szklanki wody "martwej". Co 7 godzin zażyć 1/2 łyżeczki sproszkowanej herbaty lub szyjki rakowej (do wyboru) popijając 1/2 szklanki ciepłej "żywej" wody.<br>---<br>**Efekty** - bóle ustępują, biegunka ustaje. |
+| --- |   |
+| 🟩 **Choroba<br>popromienna** | 🟩 **Zioła** - herbata zielona (15 g), pokrzywa (20 g).<br>---<br>**Leczenie** - przez 3 miesiące, 2 razy dziennie pić po 1/2 szklanki naparu wody "żywej" i ziół. Można używać naparu ze zwykłej wody w wypadku braku wody "żywej".<br>---<br>**Efekty** - wzmacnia, nie dopuszcza do powstania anemii, wzmacnia siły obronne organizmu. |
+| --- |   |
+| 🟩 **Dziąsła<br>zapalenie** | 🟩 **Zioła** - kolanchola (), propolis ().<br>---<br>**Leczenie** - w ciągu dnia płukać jamę ustną 2-6 razy wodą "martwą" a potem roztworem wody "żywej" z propolisem lub kalancholą 1-2 razy.<br>---<br>**Efekty** - brak danych. |
+| --- |   |
+| 🟩 **Głowa<br>ból** | 🟩 **Zioła** - lipa (10 g), macierzanka (30 g), bukwica (20 g).<br>---<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", pić 2 razy dziennie 1/2 szklanki naparu ziół "żywą" wodą od 2 do 3 dni.<br>---<br>**Efekty** - po 15-20 minutach ból głowy ustępuje. W razie nawrotu bólu kurację powtórzyć. |
+| --- |   |
+| 🟩 **Hemoroidy** | 🟩 **Zioła** - cebula (), kora dębu (), len (), kozieradka (), perz (), płatki róży ().<br>---<br>**Leczenie** - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody "martwej", następnie 1 raz dziennie 1/2 szklanki wody "żywej". Z naparu "żywą" wodą jednego z ziół robić przymoczki na chore miejsce lub tamponami z wody kilka razy dziennie przez 2-5 dni.<br>---<br>**Efekty** - krwawienia ustępują i zagojenie ran następuje w ciągu kilku dni. |
+| --- |   |
+| 🟩 **Menstruacja<br>bolesna** | 🟩 **Zioła** - kora kaliny (15 g), krwawnik (10 g), kwiat orlika (5 g) lub mięta pieprzowa (15 g).<br>---<br>**Leczenie** - wypić 1 raz 1/2 szklanki wody "martwej", następnie 1-2 dni przed okresem pić napar z ziół wodą "żywą" 2 razy dziennie po 1/2 szklanki.<br>---<br>**Efekty** - kuracje przeprowadzać przez okres 3 miesięcy przed okresem. |
+| --- |   |
+| 🟩 **Moczopędne** | 🟩 **Zioła** - perz (10 g), ogórecznik (20 g), wrzos (10 g), bławatek (10 g), ręcznica (15 g),<br>liść porzeczki czarnej (20 g), fiołek (10 g), liść poziomki (10 g).<br>---<br>**Leczenie** - napar z ziół "żywą" wodą" pić 2 razy dziennie po 1 szklance przez 3-4 dni.<br>---<br>**Efekty** - oczyszcza nerki. |
+| --- |   |
+| 🟩 **Nerki<br>stan zapalny** | 🟩 **Zioła** - ogórecznik ().<br>---<br>**Leczenie** - przez 1 dzień pić 3 razy po 1/2 szklanki wody "martwej" i następnie przez 3-6 dni napar z ogórecznika wodą "żywą" 2 razy dziennie po 1/2 szklanki.<br>---<br>**Efekty** - brak danych. |
+| --- |   |
+| 🟩 **Nogi<br>bóle i obrzęki** | 🟩 **Zioła** - podbiał (20 g), storczyk (10 g), rozmaryn (15 g), skrzyp (20 g), ogórecznik (20 g).<br>---<br>**Leczenie** - przez 1 dzień pić 2 razy po 1/2 szklanki wody "martwej", następnie 2 razy napar z ziół wodą "żywą" po 1/2 szklanki. Stosować 2-3 dni.<br>---<br>**Efekty** - bóle ustępują po drugim dniu kuracji, obrzęki po kilku dniach. |
+| --- |   |
+| 🟩 **Oparzenia** | 🟩 **Zioła** - kopytnik (10 g), podbiał (10 g), babka lancetowata (10 g), liść poziomki (10 g), dziewanna (10 g), mniszek (10 g), lebiodka (20 g).<br>---<br>**Leczenie** - chore miejsca przemyć wodą "martwą", potem w ciągu dnia robić okłady z naparu "żywą" wodą" jednego z podanych ziół. Okłady robić wyłącznie lnianym płótnem i po wyschnięciu powtarzać 3-4 razy dziennie.<br>---<br>**Efekty** - rany goją się bardzo szybko i nie ma blizn. |
+| --- |   |
+| 🟩 **Rana<br>ropiejąca** | 🟩 **Zioła** - aloes (20 g), żywokost (15 g), kozieradka (10 g), torfowiec (15 g).<br>---<br>**Leczenie** - przemyć ranę wodą "martwą", następnie zrobić opatrunek naparem "żywej" wody jednego z ziół. Wyschnięty opatrunek nawilżać wodą "żywą". Robić to 2-3 razy dziennie.<br>---<br>**Efekty** - brak danych. |
+| --- |   |
+| 🟩 **Serce<br>arytmia** | 🟩 **Zioła** - melisa (15 g), kwiat głogu (20 g), wrzos (10 g).<br>---<br>**Leczenie** - 2 razy dziennie wypić 1/2 szklanki naparu ziół "żywą" wodą przez 6-7 dni.<br>---<br>**Efekty** - poprawa bardzo widoczna. Kurację można powtarzać co 2 tygodnie. |
+| --- |   |
+| 🟩 **Skóra<br>liszaje** | 🟩 **Zioła** - żywokost (15 g), kozieradka (10 g), skrzyp (5 g), barwinek (10 g), konopie (20 g),<br>korzeń pokrzywy (10 g), torfowiec (10 g).<br>---<br>**Leczenie** - w ciągu 2 dni rano obmywać chore miejsca wodą "martwą", następnie sproszkowane jedno z ziół połączone z wodą "żywą" nałożyć na lniane płótno i 2 razy dziennie robić ciepły okład na 15-20 minut. Stosować 2-7 dni.<br>---<br>**Efekty** - po pierwszym dniu ognisko choroby zanika, skóra wraca do zdrowia. |
+| --- |   |
+| 🟩 **Spojówki<br>zapalenie<br>(jeczmień)** | 🟩 **Zioła** - \[1\] świetlik łąkowy (10 g), zielona herbata (10 g), bławatek (10 g),<br>\[2\] kozieradka.<br>---<br>**Leczenie** - rano przemyć oczy wodą "martwą", na noc okłady naparu wodą "żywą" jednego z ziół. Jęczmień znika po nałożeniu papki z kozieradki i "żywej" wody.<br>---<br>**Efekty** - brak danych. |
+| --- |   |
+| 🟩 **Stawy<br>ból** | 🟩 **Zioła** - liść brzozy (15 g), fiołek trójbarwny (20 g), szałwia (10 g), kwiat głogu (20 g), dziurawiec (10 g).<br>---<br>**Leczenie** - w ciągu 2 dni pić 2 razy dziennie po 1/2 szklanki wody "martwej", następnie od 2 do 7 dni pić 2 razy dziennie po 1 szklance naparu ziół wodą żywą.<br>---<br>**Efekty** - ciało się rozgrzewa, bóle ustępują. |
+| --- |   |
+| 🟩 **Twarz<br>higiena** | 🟩 **Zioła** - bratek (20 g), lawenda (10 g), macierzanka (20 g), lilia (10 g), ogórecznik (20 g).<br>---<br>**Leczenie** - rano i wieczorem po umyciu twarzy i ciała, przemyć ciało i twarz wodą martwą. Po 10 minutach natrzeć ciało a twarz opłukać naparem z "żywej" wody i ziół dowolnie wybranych (można dodatkowo pić napar z macierzanki).<br>---<br>**Efekty** - twarz wygładza się i znikają przebarwienia. |
+| --- |   |
+| 🟩 **Upławy<br>białe** | 🟩 **Zioła** - kwiat jasnoty (30 g).<br>---<br>**Leczenie** - 1 dzień pić 2 razy 1/2 szklanki wody "martwej", następnie pić 2 razy dziennie 1 szklankę naparu wodą "żywą" przez 3-4 dni.<br>---<br>**Efekty** - upławy ustępują w drugim dniu kuracji. |
+| --- |   |
+| 🟩 **Wątroba<br>stan zapalny** | 🟩 **Zioła** - dziurawiec (10 g), rozmaryn (5 g), majeranek (15 g).<br>---<br>**Leczenie** - 1 dzień pić 3 razy po 1/2 szklanki wody "martwej" a następnie przez 3-7 dni napar "żywą" wodą z ziół 2 razy dziennie po 1 szklance.<br>---<br>**Efekty** - bóle ustępują. |
+| --- |   |
+| 🟩 **Woreczek<br>żółciowy<br>zapalenie** | 🟩 **Zioła** - kora kruszyny (10 g), tasznik (20 g), podróżnik k. (10 g), kocanka (15 g), melisa (10 g),<br>owoc róży (20 g), dziurawiec (10 g).<br>---<br>**Leczenie** - zrobić mieszankę z ziół. Pierwszego dnia pić 3 razy dziennie po 1/2 szklanki wody "martwej", następnie przez 3-7 dni napar wodą "żywą" z mieszanki ziół 2 razy dziennie po 1 szklance.<br>---<br>**Efekty** - bóle ustępują po dugim dniu kuracji. |
+| --- |   |
+| 🟩 **Zaparcia** | 🟩 **Zioła** - kwiat tarnika ().<br>---<br>**Leczenie** - napar z zioła wodą "żywą" pić 2 razy dziennie po 1 szklance.<br>---<br>**Efekty** - po kilku dniach zaparcia ustępują. |
+| --- |   |
+| 🟩 **Ząb<br>ból** | 🟩 **Zioła** - tatarak (5 g), kozieradka (5 g), podbiał (5 g).<br>---<br>**Leczenie** - najpierw kilkakrotnie przepłukać "martwą" wodą, następnie wodą "żywą" rozprowadzić jedno zioło zmielone na proszek i robić okłady. Kozieradkę można wkładać do wewnątrz do ubytku i może tam być do 3 dni.<br>---<br>**Efekty** - kozieradka tworzy naturalną plombę i działa przeciwbólowo w połączeniu z tatarakiem, leczy zapalenie okostnej. |
+| --- |   |
+| 🟩 **Zgaga** | 🟩 **Zioła** - tatarak (20 g), mięta pieprzowa (10 g), krwawnik (20 g).<br>---<br>**Leczenie** - rano i wieczorem przed posiłkiem pić napar "żywej" wody z ziół po 1/2 szklanki przez 2-3 dni.<br>---<br>**Efekty** - objawy ustępują po 1-2 godzinach. |
+| --- |   |
+| 🟩 **Żylaki** | 🟩 **Zioła** - mech leśny (30 g), rumianek (20 g), igliwie sosny (30 g), \[Cz. Klimuszko\].<br>---<br>**Leczenie** - chore miejsce przemyć wodą "martwą", następnie lniane płótno zmoczyć w naparze "żywej" wody i ziół i zrobić ciepły okład na 3-4 godziny 2 razy dziennie. Pić "żywą" wodę 2 razy dziennie po 1/2 szklanki przez 3-7 dni.<br>---<br>**Efekty** - bóle ustępują, rany goją się szybko. Kurację można przedłużyć. |
+| --- |   |
+| 🟩 **Porażenie<br>mózgowe<br>dzieci** | 🟩 **Zestaw I** - poziewnik (15 g), pokrzywa (100 g), bukwica (20 g), świetlik łąkowy (10 g), ogórecznik (20 g),<br>rdest (15 g), wrzos (10 g), liść poziomki (30 g), melisa (30 g).<br>**Zestaw II** - tymianek (10 g), kwiat tarniny (5 g), rzepik (15 g), owoc róży (25 g), serdecznik (10 g),<br>kozłek k. (15 g), krwawnik (10 g).<br>**Zestaw III (przyprawy)** - kminek, majeranek, lubczyk, magnez, wapń, żelazo, cynk.<br>**Zestaw IV (nalewka)** - korzeń żywokostu (100 g), korzeń podróżnika (100 g), 1/2 litra spirytusu, 1/2 litra wódki żytniej.<br>---<br>**Leczenie** - Przede wszystkim należy wyłączyć z jadłospisu: wieprzowinę, czekoladę, cukier, wywary na kości i wędliny. Trzeba podawać jarzyny gotowane, kaszę jęczmienną, kaszę gryczaną, owies, pszenicę, proso - pod różnymi postaciami. Zmielone kasze na mąkę służą do sporządzania ciast i naleśników. Podawać także nasiona strączkowe mielone. Jeśli podajemy mięso, to czyste i bez kości (indyk, zając, baranina, ryby). Jajko 1-2 na tydzień. Kapiele w drożdżach, zioła podawać z wodą "żywą" lub bez. Zestaw I podawać rano, zestaw II na noc. Zestaw III w różnych ilościach dodawać do potraw (likwidują zaparcia i dostarczają mikroelementów). Nalewkę (zestaw IV) po kąpieli wcierać delikatnie w kręgosłup.<br>---<br>**Efekty** - dzieci z porażeniem mózgowym wymagają osobliwej pielęgnacji. Aby przywrócić zdrowie dziecku, trzeba cierpliwie i bardzo dokładnie wykonywać zalecenia z opisu. Pierwsze oznaki poprawy można zaobserwować po 6 tygodniach. Dzieci, które mają ataki drgawkowe powoli je tracą. Dzieci starsze trudniej prowadzić, a leczenie trwa od 1 do 3 lat. |
 
 ---
 
@@ -16245,13 +6936,9 @@ id: medalt/rak | dział: Zapomniana medycyna | oryginał: http://www.uleszka.net
 
 Nie raz miałem okazję być świadkiem sytuacji, w których nawet silni duchem ludzie bledli, usłyszawszy straszną diagnozę - rak. Każdy przyjmował tę wiadomość jak wyrok śmierci, nie podlegający apelacji. Osoby poważnie chore doskonale rozumieją, że ich choroba jest nieuleczalna, jednak do ostatniej chwili starają się chwytać życia. Taki jest już człowiek - docenia zdrowie dopiero po jego utracie. Dzisiejsza medycyna nie może dać odpowiedzi na pytanie, jakie są przyczyny chorób nowotworowych. Jaka siła zmusza komórki naszego ciała do przekształcania się, rozmnażania z ogromną prędkością, aby później śmiertelnie wrastać w zdrowe tkanki, powodując ból i cierpienie? Lekarze i uczeni stworzyli wiele teorii, wyjaśniających mechanizm powstawania raka, ujawnili masę czynników rakotwórczych, stymulujących rozwój komórek nowotworowych. Jednak prawdziwej przyczyny nie udało się znaleźć. A nie udało się to, jak mi się wydaje, z następujących powodów:
 
-**•**
-
-dlatego, że podczas leczenia raka nie rozpatruje się organizmu jako jednego biologicznego systemu, a jako zbiór poszczególnych organów. Walka przeważnie skierowana jest na chory organ, w którym wykryto guz. Powszechnie stosowane zabiegi - rentgeno- i chemioterapia, napromieniowywanie izotopowe teoretycznie są skierowane na mobilizację sił obronnych organizmu. Niestety, organizm osłabiony chorobą nie posiada wewnętrznych rezerw, aby się bronić, jest zatruty od środka. Oprócz tego powyższe zabiegi niekorzystnie zmieniają płynne środowisko w organizmie, czyniąc je jeszcze bardziej zasadowym. Sprzyja to zwiększonemu rozwojowi bakterii chorobotwórczych, co jeszcze bardziej osłabia organizm.
-
-**•**
-
-medycyna wciąż poszukuje uniwersalnego leku lub kombinacji leków, które mogłyby skutecznie likwidować guzy (znowu skutek, a nie przyczynę choroby). Nie tędy droga. Choroba nowotworowa to porażenie całego organizmu, zaczynając od mózgu, a kończąc na jelicie grubym. "Ziarna" tej choroby tkwią w człowieku od dzieciństwa, a w ciągu życia zaczynają "kiełkować", dając stopniowo odnóża w postaci przejściowych stadiów zasadniczej choroby (czyli nowotworu). Katar, przeziębienie, reumatyzm, artretyzm, choroby oczu, uszu, gardła, nerek, wątroby, serca, układu kostnego i nerwowego - wszystko to są ogniwa jednego nowotworowego łańcucha. I dopóki "właściciel" nie pozwoli swojemu organizmowi skorzystać ze znajdujących się w nim, danych przez przyrodę sił obronnych, uruchamiających odporność, samoregulację i samoregenerację, tak długo tysiące jednostek naukowo-badawczych, miliony lekarzy nie będą w stanie stworzyć leków lub metod, które mogłyby ostatecznie wyleczyć człowieka. Na dzień dzisiejszy nawet te osoby, które pomyslnie przeszły operację i żyją, podświadomie znajdują się pod ciągłą presją nawrotu choroby.
+| **•** | dlatego, że podczas leczenia raka nie rozpatruje się organizmu jako jednego biologicznego systemu, a jako zbiór poszczególnych organów. Walka przeważnie skierowana jest na chory organ, w którym wykryto guz. Powszechnie stosowane zabiegi - rentgeno- i chemioterapia, napromieniowywanie izotopowe teoretycznie są skierowane na mobilizację sił obronnych organizmu. Niestety, organizm osłabiony chorobą nie posiada wewnętrznych rezerw, aby się bronić, jest zatruty od środka. Oprócz tego powyższe zabiegi niekorzystnie zmieniają płynne środowisko w organizmie, czyniąc je jeszcze bardziej zasadowym. Sprzyja to zwiększonemu rozwojowi bakterii chorobotwórczych, co jeszcze bardziej osłabia organizm. |
+| --- | --- |
+| **•** | medycyna wciąż poszukuje uniwersalnego leku lub kombinacji leków, które mogłyby skutecznie likwidować guzy (znowu skutek, a nie przyczynę choroby). Nie tędy droga. Choroba nowotworowa to porażenie całego organizmu, zaczynając od mózgu, a kończąc na jelicie grubym. "Ziarna" tej choroby tkwią w człowieku od dzieciństwa, a w ciągu życia zaczynają "kiełkować", dając stopniowo odnóża w postaci przejściowych stadiów zasadniczej choroby (czyli nowotworu). Katar, przeziębienie, reumatyzm, artretyzm, choroby oczu, uszu, gardła, nerek, wątroby, serca, układu kostnego i nerwowego - wszystko to są ogniwa jednego nowotworowego łańcucha. I dopóki "właściciel" nie pozwoli swojemu organizmowi skorzystać ze znajdujących się w nim, danych przez przyrodę sił obronnych, uruchamiających odporność, samoregulację i samoregenerację, tak długo tysiące jednostek naukowo-badawczych, miliony lekarzy nie będą w stanie stworzyć leków lub metod, które mogłyby ostatecznie wyleczyć człowieka. Na dzień dzisiejszy nawet te osoby, które pomyslnie przeszły operację i żyją, podświadomie znajdują się pod ciągłą presją nawrotu choroby. |
 
 Przez wiele lat miałem kontakt z chorymi na raka. Na pewno ich liczby nie można porównać z tysiącami chorych w różnych szpitalach na całym świecie. Żyją oni do dziś, chociaż wyrok na nich w większości przypadków był jeden - śmierć.
 
@@ -16411,21 +7098,11 @@ Błonnik przyspiesza wydalanie z organizmu toksyn i zatrzymuje w nim tak potrzeb
 
 **PODSUMUJMY**
 
-**•**
-
-Po usłyszeniu diagnozy, nie wpadajmy w panikę, depresję i odrętwienie. Wiem, że jest to jak uderzenie obuchem, ale musimy się otrząsnąć i zacząć myśleć i działać racjonalnie. Rak jest chorobą jak każda inna i jest do wyleczenia. Właśnie w takiej chwili musimy zmobilizować swój organizm do walki z nim. Rak nie powala od razu, a więc wiekszość czynności z terapii możemy i musimy wykonać sami. Przygotujmy siebie i najbliższych na długą walkę o zdrowie, wiedząc że jest do wygrania. Optymistyczne podejście jest nieodzownym warunkiem powodzenia.
-
-**•**
-
-Rozpoczynamy od oczyszczenia jelita grubego. Istota metody polega na zrobieniu choremu dużej ilości lewatyw: 6-8 na dobę. Do irygatora nalewa się 1,5 litra przegotowanej wody o temperaturze +38°C, 3-4 łyżeczki soku z cytryny i 1 szklankę soku z buraków. Ilość lewatyw zależy od stanu chorego - im jest cięższy, tym więcej zaleca się lewatyw. Później lewatywy należy robić raz na dzień lub co drugi dzień do momentu, gdy u chorego pojawi się własny stolec.
-
-**•**
-
-Co jeść? Mięso, ryby, przetwory mleczne, różne zupy, buliony nie są zalecane. Pozostają kasze, warzywa i owoce. Łączenie warzyw w postaci surowej lub gotowanej z owocami jest niemozliwe, gdyż są trawione w różnym czasie - warzywa 4 godziny, a owoce 2 godziny. Natomiast można dowolnie łączyć świeżo przygotowane z nich soki. Wchłaniane są one praktycznie jednocześnie, przy czym organizm nie traci energii na procesy trawienne, otrzymując jednocześnie mocne dawki niezbędnych witamin, soli mineralnych i enzymów.
-
-**•**
-
-Pić sok z marchwi i buraka. Najlepszym połączeniem dla osób chorych na nowotwór jest sok z marchwi i buraka w proporcji 4:1. Pić należy 1-2 litry soku dziennie w równych porcjach co 4 godziny w ciągu dnia i jeden raz o 1.00 w nocy. Niektóre osoby nie tolerują soku z buraka, co przejawia się mdłościami, osłabieniem, spowolnieniem tętna czy obniżeniem ciśnienia. W przypadku wystąpienia podobnych reakcji należy ograniczyć przyjmowanie soku z buraka do 2 stołowych łyżek na dobę i z dnia na dzień zwiększać te ilość. Zamiast soku z buraków można dodać do soku marchwiowego sok z jabłek i 2 łyżki czerwonego wina na każdy litr soku. Podzielone są opinie specjalistów, czy sok z buraka należy przyjmować od razu po przygotowaniu, czy odstawić na 1 do 1,5 godziny. W świeżo wyciśniętym soku jest 2,5 raza więcej aktywnego tlenu, a także niezbędnego dla hemoglobiny aktywnego żelaza. I dlatego osobom chorym na nowotwory proponuję pić sok z buraka od razu po przygotowaniu
+| **•** | Po usłyszeniu diagnozy, nie wpadajmy w panikę, depresję i odrętwienie. Wiem, że jest to jak uderzenie obuchem, ale musimy się otrząsnąć i zacząć myśleć i działać racjonalnie. Rak jest chorobą jak każda inna i jest do wyleczenia. Właśnie w takiej chwili musimy zmobilizować swój organizm do walki z nim. Rak nie powala od razu, a więc wiekszość czynności z terapii możemy i musimy wykonać sami. Przygotujmy siebie i najbliższych na długą walkę o zdrowie, wiedząc że jest do wygrania. Optymistyczne podejście jest nieodzownym warunkiem powodzenia. |
+| --- | --- |
+| **•** | Rozpoczynamy od oczyszczenia jelita grubego. Istota metody polega na zrobieniu choremu dużej ilości lewatyw: 6-8 na dobę. Do irygatora nalewa się 1,5 litra przegotowanej wody o temperaturze +38°C, 3-4 łyżeczki soku z cytryny i 1 szklankę soku z buraków. Ilość lewatyw zależy od stanu chorego - im jest cięższy, tym więcej zaleca się lewatyw. Później lewatywy należy robić raz na dzień lub co drugi dzień do momentu, gdy u chorego pojawi się własny stolec. |
+| **•** | Co jeść? Mięso, ryby, przetwory mleczne, różne zupy, buliony nie są zalecane. Pozostają kasze, warzywa i owoce. Łączenie warzyw w postaci surowej lub gotowanej z owocami jest niemozliwe, gdyż są trawione w różnym czasie - warzywa 4 godziny, a owoce 2 godziny. Natomiast można dowolnie łączyć świeżo przygotowane z nich soki. Wchłaniane są one praktycznie jednocześnie, przy czym organizm nie traci energii na procesy trawienne, otrzymując jednocześnie mocne dawki niezbędnych witamin, soli mineralnych i enzymów. |
+| **•** | Pić sok z marchwi i buraka. Najlepszym połączeniem dla osób chorych na nowotwór jest sok z marchwi i buraka w proporcji 4:1. Pić należy 1-2 litry soku dziennie w równych porcjach co 4 godziny w ciągu dnia i jeden raz o 1.00 w nocy. Niektóre osoby nie tolerują soku z buraka, co przejawia się mdłościami, osłabieniem, spowolnieniem tętna czy obniżeniem ciśnienia. W przypadku wystąpienia podobnych reakcji należy ograniczyć przyjmowanie soku z buraka do 2 stołowych łyżek na dobę i z dnia na dzień zwiększać te ilość. Zamiast soku z buraków można dodać do soku marchwiowego sok z jabłek i 2 łyżki czerwonego wina na każdy litr soku. Podzielone są opinie specjalistów, czy sok z buraka należy przyjmować od razu po przygotowaniu, czy odstawić na 1 do 1,5 godziny. W świeżo wyciśniętym soku jest 2,5 raza więcej aktywnego tlenu, a także niezbędnego dla hemoglobiny aktywnego żelaza. I dlatego osobom chorym na nowotwory proponuję pić sok z buraka od razu po przygotowaniu |
 
 ---
 
@@ -16468,41 +7145,16 @@ Dlaczego wśród innych zestawów ćwiczeń fizycznych pierwszeństwo daję wła
 
 Oprócz wymienionych wyżej zabiegów, radziłbym stosować kurację wspomagającą, która uzupełnia system:
 
-**•**
-
-ssać olej roślinny 3-4 razy dziennie,
-
-**•**
-
-codziennie pić herbatę z liści malin, porzeczek (około 1 litra),
-
-**•**
-
-codziennie spożywać sproszkowaną skorupkę z jednego jajka,
-
-**•**
-
-odżywiać się produktami zawierającymi fitoestrogeny (soja, fasola, kapusta, brokuły),
-
-**•**
-
-dodawać do posiłków czosnek, cebulę, rzodkiew, gorczycę zawierające fitoncydy - naturalne antybiotyki,
-
-**•**
-
-spożywać produkty kiszone - kapustę, ogórki - źródła witaminy "C",
-
-**•**
-
-spożywać produkty zawierające żelazo i miedź - jabłka, truskawki, maliny, buraki czarną porzeczkę, marchew,
-
-**•**
-
-spożywać produkty zawierające selen, cynk, fosfor, witaminy "E" i "B", magnez - kiełki pszenicy, owies, kasza jęczmienna, proso, otręby,
-
-**•**
-
-stosować jodynę - bardzo korzystny środek leczniczy i profilaktyczny (zwiększa odporność i aktywność leukocytów, obniża poziom cholesterolu we krwi, oczyszcza naczynia, sprzyja wzrostowi leukocytów we krwi - w 50 ml ciepłej przegotowanej wody rozpuścić 1 łyżeczkę jodyny, dokładnie rozmieszać i dodać pełną łyżkę mąki ziemniaczanej. Postawić na słabym ogniu i ciągle mieszając dodać 200 ml wrzątku, doprowadzić do wrzenia i gotować 1 minutę. Stosować 4-6 łyżeczek po jedzeniu 1 raz co drugi dzień, aż do zużycia. Potem przygotować nową porcję i znów pić.
+| **•** | ssać olej roślinny 3-4 razy dziennie, |
+| --- | --- |
+| **•** | codziennie pić herbatę z liści malin, porzeczek (około 1 litra), |
+| **•** | codziennie spożywać sproszkowaną skorupkę z jednego jajka, |
+| **•** | odżywiać się produktami zawierającymi fitoestrogeny (soja, fasola, kapusta, brokuły), |
+| **•** | dodawać do posiłków czosnek, cebulę, rzodkiew, gorczycę zawierające fitoncydy - naturalne antybiotyki, |
+| **•** | spożywać produkty kiszone - kapustę, ogórki - źródła witaminy "C", |
+| **•** | spożywać produkty zawierające żelazo i miedź - jabłka, truskawki, maliny, buraki czarną porzeczkę, marchew, |
+| **•** | spożywać produkty zawierające selen, cynk, fosfor, witaminy "E" i "B", magnez - kiełki pszenicy, owies, kasza jęczmienna, proso, otręby, |
+| **•** | stosować jodynę - bardzo korzystny środek leczniczy i profilaktyczny (zwiększa odporność i aktywność leukocytów, obniża poziom cholesterolu we krwi, oczyszcza naczynia, sprzyja wzrostowi leukocytów we krwi - w 50 ml ciepłej przegotowanej wody rozpuścić 1 łyżeczkę jodyny, dokładnie rozmieszać i dodać pełną łyżkę mąki ziemniaczanej. Postawić na słabym ogniu i ciągle mieszając dodać 200 ml wrzątku, doprowadzić do wrzenia i gotować 1 minutę. Stosować 4-6 łyżeczek po jedzeniu 1 raz co drugi dzień, aż do zużycia. Potem przygotować nową porcję i znów pić. |
 
 **Uwaga! Jeśli chorobę zdiagnozowano jako raka w trzecim lub czwartym stadium z przerzutami i lekarze nie dają żadnych szans, proszę spróbować następujacego przepisu:**
 
@@ -16510,51 +7162,22 @@ Zmieszać w szklance 30 ml nierafinowanego oleju słonecznikowego lub oliwy i 15
 
 Kategorycznie zabrania się:
 
-**•**
-
-jakiegokolwiek innego leczenia oprócz zaleceń lekarza,
-
-**•**
-
-przerywania leczenia w trakcie,
-
-**•**
-
-samowolnego obniżania dawki,
-
-**•**
-
-wprowadzania dożylnie glukozy,
-
-**•**
-
-picia alkoholu w dowolnej postaci i palenia tytoniu.
+| **•** | jakiegokolwiek innego leczenia oprócz zaleceń lekarza, |
+| --- | --- |
+| **•** | przerywania leczenia w trakcie, |
+| **•** | samowolnego obniżania dawki, |
+| **•** | wprowadzania dożylnie glukozy, |
+| **•** | picia alkoholu w dowolnej postaci i palenia tytoniu. |
 
 Dodatkowe rady:
 
-**•**
-
-nie należy używać wódki zamiast spirytusu,
-
-**•**
-
-leczenie można rozpocząć w każdym stadium choroby,
-
-**•**
-
-pić tylko jeden gatunek oleju od początku do końca terapii,
-
-**•**
-
-nie stosować specjalnej diety, a te opisane powyżej. Głodować nie wolno,
-
-**•**
-
-ograniczyć do minimum spożycie wszelkich tłuszczów,
-
-**•**
-
-można zażywać wszystkie środki przeciwbólowe oprócz silnych narkotyków. Wszystkie inne lekarstwa przepisane przez lekarza można przyjmować. Nie używać preparatów hormonalnych.
+| **•** | nie należy używać wódki zamiast spirytusu, |
+| --- | --- |
+| **•** | leczenie można rozpocząć w każdym stadium choroby, |
+| **•** | pić tylko jeden gatunek oleju od początku do końca terapii, |
+| **•** | nie stosować specjalnej diety, a te opisane powyżej. Głodować nie wolno, |
+| **•** | ograniczyć do minimum spożycie wszelkich tłuszczów, |
+| **•** | można zażywać wszystkie środki przeciwbólowe oprócz silnych narkotyków. Wszystkie inne lekarstwa przepisane przez lekarza można przyjmować. Nie używać preparatów hormonalnych. |
 
 Tą metodą leczy się raka żołądka pierwszego i drugiego stopnia w ciągu 3-4 miesięcy, raka trzeciego i czwartego stopnia z przerzutami w ciągu 8 miesięcy do 1,5 roku. Przez pierwsze 4-10 dni leczenia może w gardle pojawić się pieczenie, obrzęk. Jest to spowodowane zabliźnianiem się mikrowrzodów - trzeba pocierpieć. Po 14-18 dniach nieprzyjemne odczucia miną.  
 **Jeśli chory stosował urynoterapię, to wyleczenie jest niemożliwe. Picie moczu bez oczyszczenia organizmu, to samobójstwo. Po 3-4 miesiącach można dorobić się marskości wątroby.**
@@ -16577,57 +7200,20 @@ Po przeczytaniu tych słów Czytelnik może wpaść w panikę. Czyżbyśmy byli 
 
 Gdy analizuję przypadki wyleczenia chorych, którym miałem szczęście pomóc lub gdy czytam o wyleczeniu innych osób, chorych na raka, zauważam określoną regularność. W momencie, gdy człowiek, stojący w obliczu śmiertelnego niebezpieczeństwa, stwarza dla swojego organizmu surowe, czasem wręcz ekstremalne warunki w celu oczyszczenia organizmu (zmiana nawyków żywieniowych, głodówka, hartowanie, zmiana sposobu myslenia, postepowania, podejścia do problemów życiowych, itp.), które wielokrotnie podnoszą sprawność układu odpornościowego - choroba ustępuje.A więc nie traćmy czasu! Trzeba działać! Wszystko zależy od nas samych. Wszystkie opisane powyżej sposoby i metody dotyczą osób, które dotknęła choroba nowotworowa. Kiedy w jednej z audycji radiowych poproszono mnie o podanie sposobów ustrzeżenia się przed nowotworami, odpowiedziałem w następujący sposób:
 
-**•**
-
-**Należy jeść warzywa i owoce**, pochodzące z rejonu swojego zamieszkania oraz pić świeżo przygotowane z nich soki. Codziennie w jadłospisie powinno się znaleźć chociaż jedno jabłko, a także surowe i gotowane warzywa. Najbardziej wartościowe są warzywa i owoce o barwie intensywnie zielonej, pomarańczowej i czerwonej (szpinak, sałata, ogórek, fasola, groszek, pomidory, buraki, marchew, dynia, jabłka, gruszki itp.). Dzięki nim komórki organizmu otrzymują wszystkie niezbędne witaminy, substancje mineralne, błonnik i tlen.
-
-**•**
-
-**Należy umieć odróżnić tłuszcz od... tłuszczu**. Tłuszcze są niezbędne dla organizmu, szczególnie potrzebne są osobom w starszym wieku. Pytanie - jakie tłuszcze? W olejach roślinnych, szczególnie tych tłoczonych na zimno, znajdują się kwasy i witaminy, które wydłużają nasze życie. Codziennie rano i wieczorem należy pić 1 łyżeczkę oleju oraz dodawać 1 łyżkę do sałatek. Natomiast spożycie mięsa, mleka i margaryny należy jak najbardziej ograniczyć. Tłuszcze znajdujące się w tych produktach nie dają nic oprócz chorób, a tylko blokują działanie "dobrych" tłuszczów.
-
-**•**
-
-**Należy uczyć się ruchu i oddychania**. Powietrze, a dokładniej znajdujący się w nim tlen, jest niezbędny każdej z miliardów komórek naszego ciała, powoduje ich regenerację, tzn. zatrzymanie procesu starzenia. Ruch pomaga tlenowi dotrzeć do każdej komórki, dlatego jak najwięcej czasu spędzać w ruchu na świeżym powietrzu.
-
-**•**
-
-**Bądźcie zawsze radośni**. Wszystkie przezyte przez nas emocje zostają nie tylko "w głowie" - one kierują większością reakcji fizjologicznych naszego organizmu. Jeśli coś nas martwi lub denerwuje, nasz system immunologiczny (naturalny system obronny organizmu) przestaje wytwarzać hormony T i B, które między innymi chronią nas przed wszelkimi infekcjami i rakiem. Gdy jesteśmy szczęśliwi i radośni, cieszymy się życiem, wzmacniamy swój system odpornościowy i zdrowie.
-
-**•**
-
-**Trzeba się odprężać**. Dzisiejsze życie to ciąg nieprzyjemności i stresów. Uniknięcie ich jest niemożliwe, ale nie można ich kumulować. Trzeba znajdować czas na relaks, robić wtedy to, co się podoba - zamknąć się w pokoju i słuchać myzyki, medytować, spacerować po lesie. Kobiety niech kochają mężczyzn, a mężczyźni kobiety. Ale też codziennie trzeba pobyć trochę w samotności (3-5 minut), rozluźnić się i nie myśleć o nieprzyjemnościach.
-
-**•**
-
-**Trzeba zmuszać mózg do pracy**. Im więcej mózg pracuje, tym bardziej jest wytrzymały. W każdym wieku, ale szczególnie na starość, należy "budzić" obszary mózgu, odpowiedzialne za pamięć. Należy czytać książki, chodzić do muzeum, słuchać wykładów, grać w szachy - krócej mówiąc - pracować głową.
-
-**•**
-
-**Dłużej spać**. Dobry sen nie tylko rozjasnia myśli, ale też daje odpoczynek mięśniom, obniża cisnienie, regeneruje system wydzielania hormonalnego, podnosi odporność. Nawet rany szybciej się goją podczas snu. Człowiek, któremu przez kilka dni nie pozwala się zasnąć po prostu wariuje. Dlatego spać trzeba 6-8 godzin i ani trochę krócej.
-
-**•**
-
-**Polubić chłód**. System odpornościowy organizmu należy stale trenować. Szczególnie lubi on chłód. Należy chronić organizm przed przegrzaniem, ubierać się lekko. Temperatura powietrza w pokoju, w którym spimy powinna wynosić 16-17°C. Naprzemienny prysznic (5-10 minut) rano i wieczorem - to gwarancja niezawodnej pracy systemu immunologicznego.
-
-**•**
-
-**Należy mniej jeść**. Trzeba wypracować sobie zasadę "Jeść, aby żyć, a nie żyć, by jeść". W tym celu nauczyć się jeść powoli, a od stołu zawsze wstawać z uczuciem głodu.
-
-**•**
-
-**Trzeba się więcej śmiać**. Podczas smiechu pracuje dużo więcej mięśni niż możemy sobie wyobrazić. Śmiech to forma masażu dla naszych organów wewnętrznych oraz bodziec, stymulujący organy trawienne. Śmiech działa przeciwbólowo i przeciwzapalnie. Śmiejąc się, oddychamy szczególnie głęboko i tym samym odnawiamy zapasy tlenu w płucach. Mózg podczas smiechu wytwarza serotoninę - "hormon szczęścia". Poza tym śmiech to wspaniały sposób kontaktu.
-
-**•**
-
-**Kochajmy się**. Starożytna medycyna widziała sposób na osiągnięcie nieśmiertelności w zlaniu dwóch pierwiastków - męskiego i żeńskiego. Akt miłosny najlepiej odbudowuje harmonię ciała.
-
-**•**
-
-**Należy oczyszczać organizm**. Pamiętajmy, że to, co wewnątrz nas, to i na zewnątrz.
-
-**•**
-
-**Trzeba słuchać głosu swojego ciała**. Nasze ciało reaguje na troskę, którą mu się okazuje. Zacznijmy o siebie dbać, zanim zachorujemy, a wtedy zawsze będziemy zdrowi.
+| **•** | **Należy jeść warzywa i owoce**, pochodzące z rejonu swojego zamieszkania oraz pić świeżo przygotowane z nich soki. Codziennie w jadłospisie powinno się znaleźć chociaż jedno jabłko, a także surowe i gotowane warzywa. Najbardziej wartościowe są warzywa i owoce o barwie intensywnie zielonej, pomarańczowej i czerwonej (szpinak, sałata, ogórek, fasola, groszek, pomidory, buraki, marchew, dynia, jabłka, gruszki itp.). Dzięki nim komórki organizmu otrzymują wszystkie niezbędne witaminy, substancje mineralne, błonnik i tlen. |
+| --- | --- |
+| **•** | **Należy umieć odróżnić tłuszcz od... tłuszczu**. Tłuszcze są niezbędne dla organizmu, szczególnie potrzebne są osobom w starszym wieku. Pytanie - jakie tłuszcze? W olejach roślinnych, szczególnie tych tłoczonych na zimno, znajdują się kwasy i witaminy, które wydłużają nasze życie. Codziennie rano i wieczorem należy pić 1 łyżeczkę oleju oraz dodawać 1 łyżkę do sałatek. Natomiast spożycie mięsa, mleka i margaryny należy jak najbardziej ograniczyć. Tłuszcze znajdujące się w tych produktach nie dają nic oprócz chorób, a tylko blokują działanie "dobrych" tłuszczów. |
+| **•** | **Należy uczyć się ruchu i oddychania**. Powietrze, a dokładniej znajdujący się w nim tlen, jest niezbędny każdej z miliardów komórek naszego ciała, powoduje ich regenerację, tzn. zatrzymanie procesu starzenia. Ruch pomaga tlenowi dotrzeć do każdej komórki, dlatego jak najwięcej czasu spędzać w ruchu na świeżym powietrzu. |
+| **•** | **Bądźcie zawsze radośni**. Wszystkie przezyte przez nas emocje zostają nie tylko "w głowie" - one kierują większością reakcji fizjologicznych naszego organizmu. Jeśli coś nas martwi lub denerwuje, nasz system immunologiczny (naturalny system obronny organizmu) przestaje wytwarzać hormony T i B, które między innymi chronią nas przed wszelkimi infekcjami i rakiem. Gdy jesteśmy szczęśliwi i radośni, cieszymy się życiem, wzmacniamy swój system odpornościowy i zdrowie. |
+| **•** | **Trzeba się odprężać**. Dzisiejsze życie to ciąg nieprzyjemności i stresów. Uniknięcie ich jest niemożliwe, ale nie można ich kumulować. Trzeba znajdować czas na relaks, robić wtedy to, co się podoba - zamknąć się w pokoju i słuchać myzyki, medytować, spacerować po lesie. Kobiety niech kochają mężczyzn, a mężczyźni kobiety. Ale też codziennie trzeba pobyć trochę w samotności (3-5 minut), rozluźnić się i nie myśleć o nieprzyjemnościach. |
+| **•** | **Trzeba zmuszać mózg do pracy**. Im więcej mózg pracuje, tym bardziej jest wytrzymały. W każdym wieku, ale szczególnie na starość, należy "budzić" obszary mózgu, odpowiedzialne za pamięć. Należy czytać książki, chodzić do muzeum, słuchać wykładów, grać w szachy - krócej mówiąc - pracować głową. |
+| **•** | **Dłużej spać**. Dobry sen nie tylko rozjasnia myśli, ale też daje odpoczynek mięśniom, obniża cisnienie, regeneruje system wydzielania hormonalnego, podnosi odporność. Nawet rany szybciej się goją podczas snu. Człowiek, któremu przez kilka dni nie pozwala się zasnąć po prostu wariuje. Dlatego spać trzeba 6-8 godzin i ani trochę krócej. |
+| **•** | **Polubić chłód**. System odpornościowy organizmu należy stale trenować. Szczególnie lubi on chłód. Należy chronić organizm przed przegrzaniem, ubierać się lekko. Temperatura powietrza w pokoju, w którym spimy powinna wynosić 16-17°C. Naprzemienny prysznic (5-10 minut) rano i wieczorem - to gwarancja niezawodnej pracy systemu immunologicznego. |
+| **•** | **Należy mniej jeść**. Trzeba wypracować sobie zasadę "Jeść, aby żyć, a nie żyć, by jeść". W tym celu nauczyć się jeść powoli, a od stołu zawsze wstawać z uczuciem głodu. |
+| **•** | **Trzeba się więcej śmiać**. Podczas smiechu pracuje dużo więcej mięśni niż możemy sobie wyobrazić. Śmiech to forma masażu dla naszych organów wewnętrznych oraz bodziec, stymulujący organy trawienne. Śmiech działa przeciwbólowo i przeciwzapalnie. Śmiejąc się, oddychamy szczególnie głęboko i tym samym odnawiamy zapasy tlenu w płucach. Mózg podczas smiechu wytwarza serotoninę - "hormon szczęścia". Poza tym śmiech to wspaniały sposób kontaktu. |
+| **•** | **Kochajmy się**. Starożytna medycyna widziała sposób na osiągnięcie nieśmiertelności w zlaniu dwóch pierwiastków - męskiego i żeńskiego. Akt miłosny najlepiej odbudowuje harmonię ciała. |
+| **•** | **Należy oczyszczać organizm**. Pamiętajmy, że to, co wewnątrz nas, to i na zewnątrz. |
+| **•** | **Trzeba słuchać głosu swojego ciała**. Nasze ciało reaguje na troskę, którą mu się okazuje. Zacznijmy o siebie dbać, zanim zachorujemy, a wtedy zawsze będziemy zdrowi. |
 
 ---
 
@@ -16903,49 +7489,13 @@ Plotka, obmowa, polityczna taktyka, ukradkowe ataki, a nawet manipulacje sądów
 
 Poniższa tabelka zawiera nazwy materiałów potrzebnych do budowy akumulatora uznanych jako dobre i złe.
 
-**MATERIAŁY NIEMETALICZNE**
-
-**DOBRE**
-
-**SŁABE LUB TOKSYCZNE**
-
-czysta wełna,  
-surowa bawełna,  
-akryl (polimetakrylan metylu),  
-plastik w postaci styrenu,  
-celotex (sprasowana wełna mineralna),  
-panele z korka naturalnego,  
-wełna szklana (wata szklana),  
-włókno szklane (panele),  
-wełna mineralna,  
-wosk pszczeli,  
-parafina,  
-gleba (ziemia),  
-woda.
-
-drewno,  
-sklejka drewniana,  
-poliuretanowe płyty prasowane (bardzo twarde),  
-organiczne materiały zawierające formaldehydy,  
-azbest  
-i inne toksyczne chemikalia.
-
-**METALE**
-
-**DOBRE**
-
-**SŁABE LUB TOKSYCZNE**
-
-stal (arkusze, blachy),  
-żelazo stal galwanizowana,  
-wełna stalowa,  
-stal nierdzewna,  
-blacha ocynkowana,  
-pewne stopy.
-
-aluminium (arkusze, blachy),  
-ołów,  
-miedź.
+| **MATERIAŁY NIEMETALICZNE** |   |
+| --- | --- |
+| 🟩 **DOBRE** | 🟥 **SŁABE LUB TOKSYCZNE** |
+| czysta wełna,<br>surowa bawełna,<br>akryl (polimetakrylan metylu),<br>plastik w postaci styrenu,<br>celotex (sprasowana wełna mineralna),<br>panele z korka naturalnego,<br>wełna szklana (wata szklana),<br>włókno szklane (panele),<br>wełna mineralna,<br>wosk pszczeli,<br>parafina,<br>gleba (ziemia),<br>woda. | drewno,<br>sklejka drewniana,<br>poliuretanowe płyty prasowane (bardzo twarde),<br>organiczne materiały zawierające formaldehydy,<br>azbest<br>i inne toksyczne chemikalia. |
+| **METALE** |   |
+| 🟩 **DOBRE** | 🟥 **SŁABE LUB TOKSYCZNE** |
+| stal (arkusze, blachy),<br>żelazo stal galwanizowana,<br>wełna stalowa,<br>stal nierdzewna,<br>blacha ocynkowana,<br>pewne stopy. | aluminium (arkusze, blachy),<br>ołów,<br>miedź. |
 
 Były podejmowane próby budowy akumulatora wykonanego jako pudło metalowe zakopanego w żyznej czarnej glebie wolnej od herbicydów i pestycydów. Konstrukcje te przypominały podziemne piwnice lub kopce grobowe. Dlatego też niektórzy autorzy zaznajomieni ze starożytnymi archeologicznymi miejscami spekulowali na temat znajomości wykorzystania życiowej energii w starożytności. Pewne szczególne konstrukcje piwnic ze starożytności czy inne podobne konstrukcje miały charakterystyczne warstwy złożone z gliny lub kamieni o wysokim stopniu zawartości żelaza, pokryte były z zewnątrz innymi warstwami ziemi obfitującymi w związki organiczne lub torf.
 
@@ -17443,69 +7993,16 @@ en akumulator jest wystarczająco duży, aby w nim usiąść. Zbudowany jest z 6
 
 **A)** Przede wszystkim trzeba wyliczyć sobie rozmiary ścian akumulatora tak, aby pasowały do osobistych potrzeb użytkownika. Dodać ilość materiału niezbędną do "założenia" ścian na siebie. Ściany boczne i ściana przeznaczona na tył powinny pasować "na stojąco" rozmiarami "do wewnątrz" ściany górnej i dolnej. Ściana tylnia powinna wsuwać się między ściany boczne. Ściana przednia (drzwi) powinna również wsuwać się między ściany boczne tak, aby zamknięcie było skuteczne. Wydaje się, że taki układ jest najbardziej skuteczny i prosty ze wszystkich możliwych. Rozmiary podane dla akumulatora poniżej są dostosowane dla osób o różnych wysokościach, lecz przeciętnej wadze. W miarę jak zwiększa się odległość ciała od metalowych ścian, skuteczność działania akumulatora maleje. Wymiary powinny, więc być bardzo starannie dobrane, aby wychodziły naprzeciw osobistym potrzebom użytkownika. W dodatku jest przewidziane 1cm więcej na szerokości akumulatora (tj. 0,5 cm z każdej strony), żeby drzwi zamykały się i otwierały łatwo. Rozmiary proponowanych akumulatorów (wymiary w cm):
 
-**Akumulator duży**
-
-**Akumulator średni**
-
-**Akumulator mały**
-
-**Ściana górna i dolna**
-
-76×90
-
-68×83
-
-60×72
-
-**Ściana lewa i prawa**
-
-90×150
-
-83×140
-
-72×130
-
-**Ściana tylna**
-
-65×150
-
-57×140
-
-49×130
-
-**Drzwi**
-
-65×135
-
-57×125
-
-49×115
-
-**Wymiary wewnętrzne**
-
-**Wysokość**
-
-150
-
-140
-
-130
-
-**Szerokość**
-
-65
-
-57
-
-49
-
-**Głębokość**
-
-79
-
-72
-
-61
+|   | **Akumulator duży** | **Akumulator średni** | **Akumulator mały** |
+| --- | --- | --- | --- |
+| **Ściana górna i dolna** | 76×90 | 68×83 | 60×72 |
+| **Ściana lewa i prawa** | 90×150 | 83×140 | 72×130 |
+| **Ściana tylna** | 65×150 | 57×140 | 49×130 |
+| **Drzwi** | 65×135 | 57×125 | 49×115 |
+|   | **Wymiary wewnętrzne** |   |   |
+| **Wysokość** | 150 | 140 | 130 |
+| **Szerokość** | 65 | 57 | 49 |
+| **Głębokość** | 79 | 72 | 61 |
 
 Najkorzystniejsze wymiary dla użytkownika:
 

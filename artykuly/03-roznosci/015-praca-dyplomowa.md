@@ -25,41 +25,16 @@ Pogłębieniu wiadomości zawartych w tym rozdziale służyć mogą takie prace 
 
 Proces pisania pracy w pewnym sensie porównać można z procesem produkcyjnym w zakładzie pracy. Na proces ten składa się ciąg operacji zmierzających do powstania produktu finalnego, stanowiącego samodzielną całość, złożoną z poszczególnych elementów, których konstrukcja decyduje o architekturze pracy. Zasadnicze operacje występujące w trakcie pisania pracy to:
 
-\-
-
-wybranie problematyki badawczej,
-
-\-
-
-określenie tematu,
-
-\-
-
-opracowanie planu pracy,
-
-\-
-
-zbieranie materiałów,
-
-\-
-
-zapoznawanie się z literaturą,
-
-\-
-
-analiza zebranych materiałów i przeczytanej literatury,
-
-\-
-
-ustalenie koncepcji rozwiązania zagadnienia,
-
-\-
-
-opracowanie wyników i ujęcie ich w ostateczny tekst,
-
-\-
-
-prace redakcyjne i wykończeniowe.
+| \- | wybranie problematyki badawczej, |
+| --- | --- |
+| \- | określenie tematu, |
+| \- | opracowanie planu pracy, |
+| \- | zbieranie materiałów, |
+| \- | zapoznawanie się z literaturą, |
+| \- | analiza zebranych materiałów i przeczytanej literatury, |
+| \- | ustalenie koncepcji rozwiązania zagadnienia, |
+| \- | opracowanie wyników i ujęcie ich w ostateczny tekst, |
+| \- | prace redakcyjne i wykończeniowe. |
 
 Nie sposób jest wybrać problematykę badawczą i zakreślić temat pracy bez zapoznania się z podstawowymi pozycjami literatury. Najistotniejsze zagadnienia i problemy są też omawiane na zajęciach seminaryjnych. Wspomniana literatura oraz odbyte dyskusje inspirują z reguły tematy prac.
 
@@ -71,21 +46,11 @@ Przyjęcie przez promotora wstępnego planu pracy i zatwierdzenie zakresu proble
 
 Można sformułować pewne zasady konstrukcji pracy, tj. jej planu jako całości i poszczególnych części składowych. Plan jest właściwy wówczas gdy:
 
-\-
-
-zapewnia najdogodniejsze formy przeprowadzenia wywodów dokumentujących tezę pracy,
-
-\-
-
-umożliwia właściwy układ hierarchiczny poszczególnych problemów, co wyraża się w istnieniu nierównorzędnych części, w konsekwencji czego praca dzieli się na rozdziały, podrozdziały, punkty, podpunkty i kwestie,
-
-\-
-
-umożliwia zachowanie odpowiednich proporscji treści pomiędzy poszczególnymi częściami, ich właściwą gradację,
-
-\-
-
-umożliwia zachowanie zwięzłości i przejrzystości tekstu.
+| \- | zapewnia najdogodniejsze formy przeprowadzenia wywodów dokumentujących tezę pracy, |
+| --- | --- |
+| \- | umożliwia właściwy układ hierarchiczny poszczególnych problemów, co wyraża się w istnieniu nierównorzędnych części, w konsekwencji czego praca dzieli się na rozdziały, podrozdziały, punkty, podpunkty i kwestie, |
+| \- | umożliwia zachowanie odpowiednich proporscji treści pomiędzy poszczególnymi częściami, ich właściwą gradację, |
+| \- | umożliwia zachowanie zwięzłości i przejrzystości tekstu. |
 
 W celu zapewnienia zwięzłości tekstu, już na etapie pierwszych wersji planu wskazane jest napisać do każdego punktu bardziej szczegółowy plan rodzaju i kolejności poruszanych w nim kwestii.
 
@@ -111,25 +76,12 @@ Zarówno rękopisy jak i maszynopisy powinny być pisane jednostronnie na papier
 
 Należy zachować marginesy:
 
-\-
-
-górny - 2,0 do 2,5 cm
-
-\-
-
-dolny - 2,0 do 2,5 cm
-
-\-
-
-prawy - 2,0 do 2,5 cm
-
-\-
-
-lewy - 3,0-4,0 cm.
-
-\-
-
-stopka - minimum 1,5 cm.
+| \- | górny - 2,0 do 2,5 cm |
+| --- | --- |
+| \- | dolny - 2,0 do 2,5 cm |
+| \- | prawy - 2,0 do 2,5 cm |
+| \- | lewy - 3,0-4,0 cm. |
+| \- | stopka - minimum 1,5 cm. |
 
 ![](../../zrodlo/webacja/magister/uwaga.gif)
 
@@ -141,13 +93,9 @@ Poszczególne kwestie tekstu opracowania winny zaczynać się od akapitu, tj. od
 
 W pracach magisterskich preferowane są dwa rodzaje czcionek w wysokości 12 pktt (punktów typograficznych). Są to czcionki:
 
-Times New Roman -
-
-Tekst pisany dla porównania wielkości i kroju czcionki.
-
-Arial -
-
-Tekst pisany dla porównania wielkości i kroju czcionki.
+| Times New Roman - | Tekst pisany dla porównania wielkości i kroju czcionki. |
+| --- | --- |
+| Arial - | Tekst pisany dla porównania wielkości i kroju czcionki. |
 
 Jak można zauważyć, czcionka "Arial" jest większa, chociaż obie są w tej samej wielkości 12 pktt. Do grupy czytelnych czcionek zaliczyć także można czcionkę Tahoma,
 
@@ -167,33 +115,14 @@ Tytularia pracy
 
 Stanowią zespół informacji niezbędnych do identyfikacji opracowania. Informacje te zamieszczane są na pierwszej stronie, tzw. stronie tytułowej. Zawierać one powinny następujące informacje:
 
-\-
-
-nazwę zakładu i instytutu, w którym pracę pisano,
-
-\-
-
-imię i nazwisko autora,
-
-\-
-
-numer albumu,
-
-\-
-
-tytuł (ewentualnie podtytuł) pracy,
-
-\-
-
-nazwę uczelni i wydziału,
-
-\-
-
-określenie charakteru pracy (seminaryjna, kontrolna, magisterska),
-
-\-
-
-rok i miejsce złożenia pracy.
+| \- | nazwę zakładu i instytutu, w którym pracę pisano, |
+| --- | --- |
+| \- | imię i nazwisko autora, |
+| \- | numer albumu, |
+| \- | tytuł (ewentualnie podtytuł) pracy, |
+| \- | nazwę uczelni i wydziału, |
+| \- | określenie charakteru pracy (seminaryjna, kontrolna, magisterska), |
+| \- | rok i miejsce złożenia pracy. |
 
 Sposób rozmieszczenie tych informacji podaję na przykładzie strony tytułowej (bez uwzględnienia marginesów i formatu strony):
 
@@ -335,41 +264,16 @@ Wstęp i zakończenie
 
 Są one integralną częścią pracy. Wstęp i zakończenie stanowią końcowy efekt pracy autora. Wstęp ma charakter metodologiczny i powinien zawierać:
 
-\-
-
-uzasadnienie wyboru tematu,
-
-\-
-
-cel pracy i zamiary autora co do sposobu jego realizacji,
-
-\-
-
-sformułowanie przedmiotu pracy i tez, które w zamiarze piszącego miały być udowodnione,
-
-\-
-
-krótką charakterystykę wyników dotychczasowych badań nad zagadnieniami stanowiącymi przedmiot pracy,
-
-\-
-
-określenie metod i omówienie technik badawczych, którymi posłużono się w trakcie opracowywania tematu,
-
-\-
-
-charakterystykę ewentualnych trudności, na jakie napotykano w trakcie opracowywania tematu,
-
-\-
-
-ocenę literatury i materiałów źródłowych z punktu widzenia ich kompletności i dostępności,
-
-\-
-
-omówienie szczególnie dyskusyjnych zagadnień terminologicznych,
-
-\-
-
-omówienie konstrukcji (planu) pracy z krótką charakterystyką treści zawartych w poszczególnych rozdziałach.
+| \- | uzasadnienie wyboru tematu, |
+| --- | --- |
+| \- | cel pracy i zamiary autora co do sposobu jego realizacji, |
+| \- | sformułowanie przedmiotu pracy i tez, które w zamiarze piszącego miały być udowodnione, |
+| \- | krótką charakterystykę wyników dotychczasowych badań nad zagadnieniami stanowiącymi przedmiot pracy, |
+| \- | określenie metod i omówienie technik badawczych, którymi posłużono się w trakcie opracowywania tematu, |
+| \- | charakterystykę ewentualnych trudności, na jakie napotykano w trakcie opracowywania tematu, |
+| \- | ocenę literatury i materiałów źródłowych z punktu widzenia ich kompletności i dostępności, |
+| \- | omówienie szczególnie dyskusyjnych zagadnień terminologicznych, |
+| \- | omówienie konstrukcji (planu) pracy z krótką charakterystyką treści zawartych w poszczególnych rozdziałach. |
 
 Zakończenie pracy nie powinno zawierać bezpośredniego powtórzenia wniosków zawartych w treści pracy. Jest to nagminny błąd prac seminaryjnych i magisterskich. Zakończenie winno być synteza pracy opartą na udowodnionych w poszczególnych rozdziałach tezach i z tej racji stanowi końcowy, nadrzędny element konstrukcji pracy.
 
@@ -407,21 +311,11 @@ Odnośniki i przypisy
 
 Są one niezmiernie ważną i pomocną częścią pracy, zarówno dla piszącego, jak i czytelnika. Brak przypisów w pracy seminaryjnej lub magisterskiej w zasadzie z góry ją dyskwalifikuje, ponieważ stanowi to dowód nieopanowania przez piszącego literatury przedmiotu, bądź też sugeruje, że przedstawione do oceny opracowanie jest plagiatem. Przypisy mogą mieć charakter:
 
-\-
-
-źródłowy,
-
-\-
-
-polemiczny,
-
-\-
-
-dygresyjny (rozszerzający),
-
-\-
-
-odsyłający.
+| \- | źródłowy, |
+| --- | --- |
+| \- | polemiczny, |
+| \- | dygresyjny (rozszerzający), |
+| \- | odsyłający. |
 
 Przypis źródłowy ma za zadanie poinformować czytającego skąd pochodzą informacje (dane liczbowe lub poglądy), które wykorzystuje autor w tekście. W przypisie tym zamieszcza się krótki cytat z materiału źródłowego albo dodatkowe omówienie rozpatrywanego zagadnienia. W przypisie obok danych źródłowych podjąć można polemikę z poglądami autora zawartymi w cytowanej pozycji.
 
@@ -463,41 +357,16 @@ Przypisy mogą być zamieszczane również na końcu poszczególnych rozdziałó
 
 Normy bibliograficzne nie ustalają ostatecznych zasad i sposobów sporządzanie notek bibliograficznych w przypisach. Poszczególne wydawnictwa mają własne zasady w tym zakresie. Jest jednak sprawą ważną ażeby w całej pracy wszystkie zapisy bibliograficzne sporządzone były w jednolity sposób. Opis bibliograficzny w przypisie powinien zawierać następujące informacje, zapisane według określonych zasad:
 
-\-
-
-inicjały imienia autora (autorów) przed nazwiskiem, a po nazwisku (podanym w mianowniku) stawia się dwukropek,
-
-\-
-
-pełny tytuł dzieła lub materiałów źródłowych, po czym stawia się kropkę,
-
-\-
-
-numer wydania, po czym stawia się kropkę. Gdy cytowane dzieło stanowi jego pierwsze wydanie, wówczas nie podaje się numeru wydania,
-
-\-
-
-numer tomu, po czym stawia się kropkę,
-
-\-
-
-nazwa wydawnictwa, po której stawia się przecinek,
-
-\-
-
-miejsce i rok wydania, po czym stawia się przecinek,
-
-\-
-
-stronę, z której pochodzi zaczerpnięty fakt, po czym stawia się przecinek,
-
-\-
-
-w przypadku informacji zaczerpniętych z tablic lub rysunków podajemy ich numery,
-
-\-
-
-całość kończymy kropką.
+| \- | inicjały imienia autora (autorów) przed nazwiskiem, a po nazwisku (podanym w mianowniku) stawia się dwukropek, |
+| --- | --- |
+| \- | pełny tytuł dzieła lub materiałów źródłowych, po czym stawia się kropkę, |
+| \- | numer wydania, po czym stawia się kropkę. Gdy cytowane dzieło stanowi jego pierwsze wydanie, wówczas nie podaje się numeru wydania, |
+| \- | numer tomu, po czym stawia się kropkę, |
+| \- | nazwa wydawnictwa, po której stawia się przecinek, |
+| \- | miejsce i rok wydania, po czym stawia się przecinek, |
+| \- | stronę, z której pochodzi zaczerpnięty fakt, po czym stawia się przecinek, |
+| \- | w przypadku informacji zaczerpniętych z tablic lub rysunków podajemy ich numery, |
+| \- | całość kończymy kropką. |
 
 ---
 
@@ -537,25 +406,12 @@ W przypadku, gdy w jednym przypisie podaje się kilka prac, wszystkie muszą by�
 
 Przy cytowaniu artykułów z czasopism podaje się:
 
-\-
-
-pierwszą literę imienia i nazwisko autora i stawia się dwukropek,
-
-\-
-
-tytuł artykułu, po którym stawia się kropkę,
-
-\-
-
-nazwę czasopisma w cudzysłowie, po czym stawia się przecinek,
-
-\-
-
-rocznik, a po nim przecinek,
-
-\-
-
-numer czasopisma i stronę, na której zaczyna się artykuł lub występuje cytowana kwestia.
+| \- | pierwszą literę imienia i nazwisko autora i stawia się dwukropek, |
+| --- | --- |
+| \- | tytuł artykułu, po którym stawia się kropkę, |
+| \- | nazwę czasopisma w cudzysłowie, po czym stawia się przecinek, |
+| \- | rocznik, a po nim przecinek, |
+| \- | numer czasopisma i stronę, na której zaczyna się artykuł lub występuje cytowana kwestia. |
 
 ---
 
@@ -593,41 +449,15 @@ Przykład:
 
 **BIBLIOGRAFIA**
 
-1.
-
-Abt S., Woźniak M.: Podstawy logistyki. UG, Gdańsk 1993.
-
-2.
-
-Abt S.: Zarządzenie logistyczne w przedsiębiorstwie PWE, Warszawa 1998.
-
-3.
-
-Beier F. J., Rutkowski K.: Logistyka. SGH, Warszawa 1995.
-
-4.
-
-Beier F. J., Rutkowski K.: Logistyka. SGH, Warszawa 1997.
-
-5.
-
-Chaberek M.: Zarządzanie logistyczne - niektóre praktyczne aspekty teorii, Poznań 1998.
-
-6.
-
-Chylak E: Kierunki rozwoju logistyki w SZ RP. "Myśl Wojskowa" 1997, nr 6.
-
-7.
-
-Cygan Z., Wojtczak J.. Funkcje i struktura logistyki. "Wojskowy Przegląd Techniczny & Logistyczny" 1997, nr 2.
-
-8.
-
-Daniluk M.: Wojsko w gospodarce rynkowej, BBW Bellona, Warszawa 1994.
-
-9.
-
-Daniluk M.: Wydatki wojskowe we współczesnym świecie. Warszawa 1980.
+1. Abt S., Woźniak M.: Podstawy logistyki. UG, Gdańsk 1993.
+2. Abt S.: Zarządzenie logistyczne w przedsiębiorstwie PWE, Warszawa 1998.
+3. Beier F. J., Rutkowski K.: Logistyka. SGH, Warszawa 1995.
+4. Beier F. J., Rutkowski K.: Logistyka. SGH, Warszawa 1997.
+5. Chaberek M.: Zarządzanie logistyczne - niektóre praktyczne aspekty teorii, Poznań 1998.
+6. Chylak E: Kierunki rozwoju logistyki w SZ RP. "Myśl Wojskowa" 1997, nr 6.
+7. Cygan Z., Wojtczak J.. Funkcje i struktura logistyki. "Wojskowy Przegląd Techniczny & Logistyczny" 1997, nr 2.
+8. Daniluk M.: Wojsko w gospodarce rynkowej, BBW Bellona, Warszawa 1994.
+9. Daniluk M.: Wydatki wojskowe we współczesnym świecie. Warszawa 1980.
 
 Tablice i rysunki
 
@@ -641,22 +471,6 @@ Tablica 1
 
 Przewozy ładunków transportem uspołecznionym w latach 1975-1980 (w mln ton)
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Jeżeli w tablicy zawarte są wielkości w różnych jednostkach miar, to powinny być odpowiednio umieszczone w nagłówku tablicy lub z boku wielkości.
 
 Każda tablica powinna być opatrzona notką dotyczącą jej źródła i odsyłaczy zawartych wewnątrz tablicy i jej tytule. Opisy te mają zwykle na celu objaśnienie zakresu niesystematyczności bądź niekompletności tablicy. Najpierw pisze się notki dotyczące odsyłaczy, a pod nim źródło całej tablicy. Źródło to może być opisane w następujący sposób:
@@ -667,22 +481,6 @@ Tablica 1
 
 Przewozy ładunków transportem uspołecznionym w latach 1975-1980 (w mln ton)
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Źródło: Rocznik Statystyczny GUS 1980, s. 228 tabl. 18 (440).
 
                • przy sporządzaniu tablicy z różnych źródeł:
@@ -691,49 +489,15 @@ Tablica 1
 
 Przewozy ładunków transportem uspołecznionym w latach 1975-1980 (w mln ton)
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 Źródło: Opracowanie własne na podstawie: Rocznik Statystyczny GUS 1975, s. 228 tabl. 18 (440); Rocznik Statystyczny GUS 1978, s. 210 tabl. 11 (400); Rocznik Statystyczny GUS 1980, s. 198 tabl. 12 (330);
 
 Wypełniając tablice liczbami, korzysta się z następujących znaków umownych:
 
-kreska (-)
-
-\-
-
-zjawisko nie wystąpiło,
-
-zero (0)
-
-\-
-
-zjawisko istniało, jednakże w ilościach mniejszych od liczb, które mogły być wyróżnione z uwagi na rząd wielkości,
-
-kropka (.)
-
-\-
-
-zupełny brak informacji albo też brak informacji wiarygodnych,
-
-znak (x)
-
-\-
-
-służy do wypełnienia tych pozycji, których wypełnienie ze względu na układ tablicy jest niemożliwe lub niecelowe.
+| kreska (-) | \- | zjawisko nie wystąpiło, |
+| --- | --- | --- |
+| zero (0) | \- | zjawisko istniało, jednakże w ilościach mniejszych od liczb, które mogły być wyróżnione z uwagi na rząd wielkości, |
+| kropka (.) | \- | zupełny brak informacji albo też brak informacji wiarygodnych, |
+| znak (x) | \- | służy do wypełnienia tych pozycji, których wypełnienie ze względu na układ tablicy jest niemożliwe lub niecelowe. |
 
 Tablice zamieszcza się bezpośrednio w tekście, który do nich nawiązuje. Komentarz do tablicy nie powinien być prostym powtórzeniem informacji w niej zawartych, lecz ich ukierunkowanym przetworzeniem w wyciągnięciem wniosków. W komentarzu powinno się powoływać się na numer tablicy, a nie pisać "(...) jak z powyższej (poniższej) tablicy wynika ...", gdyż w trakcie przepisywania tekstu na maszynie tablice mogą zmienić swoje położenie, co przy dużej ich ilości może spowodować, że nie będzie wiadomo, o którą z nich chodzi.
 
@@ -745,75 +509,17 @@ W pracach seminaryjnych i magisterskich materiałem dokumentacyjnym, oprócz tab
 
 Wykresy są graficzną ilustracją kilku zjawisk, trendów rozwojowych, porównań kilku wielkości. Najczęściej sporządza się je w układzie współrzędnych - X, Y. Jeżeli zachodzi potrzeba pokazania na wykresie zmiany wielkości określonego zjawiska w dużym przedziale liczbowym, ze szczególnym zaakcentowaniem tej zmiany dla wielkości najmniejszych, wówczas na osiach współrzędnych przyjąć należy skalę logarytmiczną. Przy sporządzaniu takiej skali posłużyć się można następującym, uproszczonym przeliczeniem:
 
-     Wartość podziałki
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-     Odstęp w cm od początku osi współrzędnych
-
-0
-
-2,4
-
-3,8
-
-4,8
-
-5,6
-
-6,2
-
-6,7
-
-7,2
-
-7,6
-
-8,0
+| Wartość podziałki | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Odstęp w cm od początku osi współrzędnych | 0 | 2,4 | 3,8 | 4,8 | 5,6 | 6,2 | 6,7 | 7,2 | 7,6 | 8,0 |
 
 Jeżeli zachodzi potrzeba przedstawienia na wykresie wielkości wyrażonych liczbami wielocyfrowymi, wówczas podziałka skali logarytmicznej jest tylokrotnym odłożeniem wyżej przedstawionych odstępów, ilocyfrowe mają być przedstawione liczby. Odległości te będą wówczas wynosiły odpowiednio:
 
-dla 20 jednostek
-
-\-
-
-8,0 cm + 2,4 cm = 10,4 cm
-
-dla 30 jednostek
-
-\-
-
-8,0 cm + 3,8 cm = 11,8 cm
-
-dla 100 jednostek
-
-\-
-
-8,0 cm + 8,0 cm = 16,0 cm
-
-dla 1000 jednostek
-
-\-
-
-16,0 cm + 8,0 cm = 24,0 cm
+| dla 20 jednostek | \- | 8,0 cm + 2,4 cm = 10,4 cm |
+| --- | --- | --- |
+| dla 30 jednostek | \- | 8,0 cm + 3,8 cm = 11,8 cm |
+| dla 100 jednostek | \- | 8,0 cm + 8,0 cm = 16,0 cm |
+| dla 1000 jednostek | \- | 16,0 cm + 8,0 cm = 24,0 cm |
 
 Początek osi współrzędnych skali logarytmicznej nie zaczyna się od zera, lecz od jedności (lub jej wielokrotności 10ąn). Ażeby było możliwe przedstawienie wielkości liczbowych w dużej rozpiętości, np. od setnych części do tysięcy jednostek, należy zmniejszyć odstępy między poszczególnymi wartościami podziałki logarytmicznej np. o połowę.
 
@@ -835,35 +541,17 @@ Tablice i rysunki powinny posiadać swoje spisy. Spisy te zamieszcza się bezpo�
 
 **SPIS TABLIC**
 
-Tabl. 1.1.
-
-Przewozy ładunków transportem uspołecznionym w latach 1970-1980 w mln ton .......................
-
-strona
-
-Tabl. 2.1.
-
-Przewozy ładunków transportem uspołecznionym według gałęzi przemysłu w latach 1970-1980 w mln ton ...........................................................................................................................
-
-strona
-
-itd.
+| Tabl. 1.1. | Przewozy ładunków transportem uspołecznionym w latach 1970-1980 w mln ton ....................... | strona |
+| --- | --- | --- |
+| Tabl. 2.1. | Przewozy ładunków transportem uspołecznionym według gałęzi przemysłu w latach 1970-1980 w mln ton ........................................................................................................................... | strona |
+|   |   | itd. |
 
 **SPIS RYSUNKÓW**
 
-Rys. 1.1.
-
-Schemat organizacyjny przedsiębiorstwa PKP ........................................................................
-
-strona
-
-Rys. 2.1.
-
-Zależność czasu podróży od odległości i środka transportu ....................................................
-
-strona
-
-itd.
+| Rys. 1.1. | Schemat organizacyjny przedsiębiorstwa PKP ........................................................................ | strona |
+| --- | --- | --- |
+| Rys. 2.1. | Zależność czasu podróży od odległości i środka transportu .................................................... | strona |
+|   |   | itd. |
 
 Załącznik (aneks)
 
@@ -889,17 +577,10 @@ Wyróżnienie pewnych wyrazów lub fragmentów pracy może mieć na celu zwróce
 
 W piśmie ręcznym i maszynowym praktycznie może mieć zastosowanie:
 
-\-
-
-s p a c j o w a n i e (do krótkich tekstów) tj. pismo rozstrzelone,
-
-\-
-
-**pogrubienie**,
-
-\-
-
-podkreślenie.
+| \- | s p a c j o w a n i e (do krótkich tekstów) tj. pismo rozstrzelone, |
+| --- | --- |
+| \- | **pogrubienie**, |
+| \- | podkreślenie. |
 
 **Wyróżnieniami należy operować bardzo oszczędnie.**
 

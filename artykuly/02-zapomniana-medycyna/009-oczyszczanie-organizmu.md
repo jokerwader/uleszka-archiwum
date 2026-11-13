@@ -47,25 +47,12 @@ Zaparcia, wzdęcia brzucha, skórne egzemy, wągry, alergie, czarny nalot na zę
 
 **Profilaktyka.**
 
-**•** 
-
-Ograniczyć spożywanie następujących produktów: mięsa, czekolady, słodyczy, cukru, krowiego mleka, jaj, białego chleba.
-
-**•** 
-
-Pić rano i wieczorem po 1 szklance kefiru.
-
-**•** 
-
-Dokładnie żuć pokarmy (każdy kawałek po 35-50 razy).
-
-**•** 
-
-Nie popijać w trakcie jedzenia.
-
-**•** 
-
-Zmniejszyć spożywanie kawy i herbaty.
+| **•** | Ograniczyć spożywanie następujących produktów: mięsa, czekolady, słodyczy, cukru, krowiego mleka, jaj, białego chleba. |
+| --- | --- |
+| **•** | Pić rano i wieczorem po 1 szklance kefiru. |
+| **•** | Dokładnie żuć pokarmy (każdy kawałek po 35-50 razy). |
+| **•** | Nie popijać w trakcie jedzenia. |
+| **•** | Zmniejszyć spożywanie kawy i herbaty. |
 
 **Test na sprawdzenie prawidłowej pracy jelita grubego.**
 
@@ -92,33 +79,19 @@ Dla tych, dla których powyższy sposób oczyszczania jelita grubego jest nie do
 
 **OCZYSZCZENIE KEFIREM**
 
-**Pierwszy dzień**
-
-Wypić 2,5 litra kefiru w 6 dawkach wraz z sucharkami z czarnego pieczywa (nie spożywać żadnych posiłków).
-
-**Drugi dzień**
-
-wypić 1,5 do 2 litrów soku z jabłek w 6 dawkach wraz z sucharkami z czarnego pieczywa. Sok powinien być świeżo przygotowany, jabłka powinny być słodkie (nie spożywać żadnych posiłków).
-
-**Trzeci dzień**
-
-W ciągu dnia jeść tylko sałatki z gotowanych warzyw (buraki, marchew, ziemniaki, można dodać kiszone ogórki, kiszoną kapustę, cebulę, olej roślinny wraz z sucharkami z ciemnego pieczywa.
+| **Pierwszy dzień** | Wypić 2,5 litra kefiru w 6 dawkach wraz z sucharkami z czarnego pieczywa (nie spożywać żadnych posiłków). |
+| --- | --- |
+| **Drugi dzień** | wypić 1,5 do 2 litrów soku z jabłek w 6 dawkach wraz z sucharkami z czarnego pieczywa. Sok powinien być świeżo przygotowany, jabłka powinny być słodkie (nie spożywać żadnych posiłków). |
+| **Trzeci dzień** | W ciągu dnia jeść tylko sałatki z gotowanych warzyw (buraki, marchew, ziemniaki, można dodać kiszone ogórki, kiszoną kapustę, cebulę, olej roślinny wraz z sucharkami z ciemnego pieczywa. |
 
 Stosować dwa razy w miesiącu.
 
 **OCZYSZCZENIE OWOCAMI**
 
-**Sposób I**
-
-Śliwki suszone 400 g, daktyle 200 g, morele 200 g, figi 200 g - wszystko to zmielić. Do otrzymanej masy dodać 200 g miodu i wszystko razem wymieszać. Przechowywać w szklanym naczyniu w lodówce. Spożywać wieczorem przed snem po 1 stołowej łyżce, póki się nie skończy. Kurację należy stosować raz na 3 miesiące.
-
-**Sposób II**
-
-Dwie pomarańcze obrać ze skórki na 1-2 mm, tak aby na owocach pozostał biały miąższ. Razem z białym miąższem jeść pomarańcze na noc 2 godziny po ostatnim posiłku. Stosować przez 14 dni.
-
-**Sposób III**
-
-Wieczorem do szklanki zsiadłego mleka włożyć 10 suszonych śliwek, odstawić na noc. Rano na czczo wypić zsiadłe mleko, zjeść śliwki. Następnie znowu zalać 10 suszonych śliwek zsiadłym mlekiem. Odstawić do wieczora. Wieczorem, przed snem wypić zsiadłe mleko i zjeść sliwki. Kurację powtórzyć przez 10 dni. Stosować raz na 3 miesiące.
+| **Sposób I** | Śliwki suszone 400 g, daktyle 200 g, morele 200 g, figi 200 g - wszystko to zmielić. Do otrzymanej masy dodać 200 g miodu i wszystko razem wymieszać. Przechowywać w szklanym naczyniu w lodówce. Spożywać wieczorem przed snem po 1 stołowej łyżce, póki się nie skończy. Kurację należy stosować raz na 3 miesiące. |
+| --- | --- |
+| **Sposób II** | Dwie pomarańcze obrać ze skórki na 1-2 mm, tak aby na owocach pozostał biały miąższ. Razem z białym miąższem jeść pomarańcze na noc 2 godziny po ostatnim posiłku. Stosować przez 14 dni. |
+| **Sposób III** | Wieczorem do szklanki zsiadłego mleka włożyć 10 suszonych śliwek, odstawić na noc. Rano na czczo wypić zsiadłe mleko, zjeść śliwki. Następnie znowu zalać 10 suszonych śliwek zsiadłym mlekiem. Odstawić do wieczora. Wieczorem, przed snem wypić zsiadłe mleko i zjeść sliwki. Kurację powtórzyć przez 10 dni. Stosować raz na 3 miesiące. |
 
 **OCZYSZCZENIE WARZYWAMI**
 
@@ -132,85 +105,23 @@ Wszystkie zabiegi zdrowotne należy wykonynać w określonej kolejności. Pierws
 
 Po przeprowadzeniu cyklu oczyszczenia jelita grubego należy się nauczyć prawidłowo łączyć pokarm i zadbać o odbudowę zdrowej flory bakteryjnej jelita grubego.
 
-**NAJGORSZE POŁĄCZENIE**
-
-**NAJLEPSZE POŁĄCZENIE**
-
-**Mięso (wszystkie rodzaje)**
-
-zielone warzywa
-
-mleko, skrobia, słodycze, inne białka, kwaśne owoce, olej masło śmietankowe, śmietana
-
-**Skrobia (chleb, ziemniaki)**
-
-zielone warzywa, tłuszcze roślinne i zwierzęce
-
-wszystkie białka, wszystkie owoce, cukry, kwasy
-
-**Zielone warzywa**
-
-wszystkie białka, wszystkie produkty zbożowe
-
-mleko
-
-**Orzechy (większość rodzajów)**
-
-zielone warzywa, kwaśne owoce
-
-mleko, skrobia, słodycze, inne białka, masło śmietankowe, olej roślinny
-
-**Jaja**
-
-zielone warzywa
-
-mleko, skrobia, słodycze, inne białka, kwaśne produkty, olej roślinny
-
-**Mleko**
-
-spożywać oddzielnie, można z kwaśnymi owocami
-
-wszystkie białka, zielone warzywa, produkty skrobiowe
-
-**Tłuszcze zwierzęce**
-
-wszystkie rośliny zbożowe
-
-wszystkie białka
-
-**Melon (wszystkie rodzaje)**
-
-zawsze spożywać oddzielnie
-
-wszystkie produkty
-
-**Rośliny zbożowe (pszenica, żyto, owies)**
-
-zielone warzywa
-
-kwaśne owoce, wszystkie białka, wszystkie słodycze, mleko
-
-**Rośliny strączkowe**
-
-zielone warzywa
-
-wszystkie białka, wszystkie słodycze, owoce (wszystkie rodzaje), masło śmietankowe, śmietanka
-
-**Owoce niekwaśne i półkwaśne**
-
-kwaśne mleko
-
-kwaśne owoce, skrobia, białka, mleko
-
-**Owoce kwaśne**
-
-orzechy, kwaśne mleko i inne kwaśne owoce
-
-wszystkie słodycze, skrobia (pieczywo, zboża), białka z wyjątkiem orzechów
-
-**NAJLEPSZE POŁĄCZENIE**
-
-**NAJGORSZE POŁĄCZENIE**
+| 🟥 | **NAJGORSZE POŁĄCZENIE** | 🟥 |   |
+| --- | --- | --- | --- |
+| 🟩 **NAJLEPSZE POŁĄCZENIE** |   |   |   |
+| **Mięso (wszystkie rodzaje)** |   | zielone warzywa | mleko, skrobia, słodycze, inne białka, kwaśne owoce, olej masło śmietankowe, śmietana |
+| **Skrobia (chleb, ziemniaki)** |   | zielone warzywa, tłuszcze roślinne i zwierzęce | wszystkie białka, wszystkie owoce, cukry, kwasy |
+| **Zielone warzywa** |   | wszystkie białka, wszystkie produkty zbożowe | mleko |
+| **Orzechy (większość rodzajów)** |   | zielone warzywa, kwaśne owoce | mleko, skrobia, słodycze, inne białka, masło śmietankowe, olej roślinny |
+| **Jaja** |   | zielone warzywa | mleko, skrobia, słodycze, inne białka, kwaśne produkty, olej roślinny |
+| **Mleko** |   | spożywać oddzielnie, można z kwaśnymi owocami | wszystkie białka, zielone warzywa, produkty skrobiowe |
+| **Tłuszcze zwierzęce** |   | wszystkie rośliny zbożowe | wszystkie białka |
+| **Melon (wszystkie rodzaje)** |   | zawsze spożywać oddzielnie | wszystkie produkty |
+| **Rośliny zbożowe (pszenica, żyto, owies)** |   | zielone warzywa | kwaśne owoce, wszystkie białka, wszystkie słodycze, mleko |
+| **Rośliny strączkowe** |   | zielone warzywa | wszystkie białka, wszystkie słodycze, owoce (wszystkie rodzaje), masło śmietankowe, śmietanka |
+| **Owoce niekwaśne i półkwaśne** |   | kwaśne mleko | kwaśne owoce, skrobia, białka, mleko |
+| **Owoce kwaśne** |   | orzechy, kwaśne mleko i inne kwaśne owoce | wszystkie słodycze, skrobia (pieczywo, zboża), białka z wyjątkiem orzechów |
+| 🟩 **NAJLEPSZE POŁĄCZENIE** |   |   |   |
+| 🟥 | **NAJGORSZE POŁĄCZENIE** | 🟥 |   |
 
 **OCZYSZCZENIE JELIT I ODTWARZANIE FLORY BAKTERYJNEJ**
 
@@ -224,53 +135,26 @@ W czasie spożywania czosnku może się wzmóc bicie serca u osób z zaburzeniam
 
 **Niektóre objawy zanieczyszczenia wątroby.**
 
-**•** 
-
-Pojawienie się na ciele piegów, znamion brązowych i brodawek, brązowe plamy przy korzeniach włosów.
-
-**•** 
-
-Zimna i wilgotna skóra ciała i rąk, zabarwiony na żółto spód języka.
-
-**•** 
-
-Brak możliwości zrobienia prawą nogą kroku takiej samej długości jak lewą.
+| **•** | Pojawienie się na ciele piegów, znamion brązowych i brodawek, brązowe plamy przy korzeniach włosów. |
+| --- | --- |
+| **•** | Zimna i wilgotna skóra ciała i rąk, zabarwiony na żółto spód języka. |
+| **•** | Brak możliwości zrobienia prawą nogą kroku takiej samej długości jak lewą. |
 
 **Przyczyny nieprawidłowej pracy wątroby.**
 
-**•** 
-
-Nadmierne spożywanie - posiłków i płynów, cukru, produktów cukrowych, owogów i alkoholu, tłuszczów, oleju roślinnego i tłustego mięsa, posiłków gotowanych i rafinowanych, świeżego chleba i wyrobów mącznych .
-
-**•** 
-
-Przyzwyczajenie do spożywania posiłków przed snem lub w nocy.
+| **•** | Nadmierne spożywanie - posiłków i płynów, cukru, produktów cukrowych, owogów i alkoholu, tłuszczów, oleju roślinnego i tłustego mięsa, posiłków gotowanych i rafinowanych, świeżego chleba i wyrobów mącznych . |
+| --- | --- |
+| **•** | Przyzwyczajenie do spożywania posiłków przed snem lub w nocy. |
 
 **Profilaktyka.**
 
-**•** 
-
-Zmniejszyć ilość spożywanych posiłków.
-
-**•** 
-
-Nie jeść śniadania.
-
-**•** 
-
-Spożywać więcej gotowanych warzyw (do 40%) od ogólnej ilości posiłków na dobę.
-
-**•** 
-
-Zimą jeść więcej kwaszonej kapusty.
-
-**•** 
-
-Jeść więcej twarogu, pić więcej zsiadłego mleka, kefiru.
-
-**•** 
-
-Spożywać wszystko przygotowane świeżo (nie jeść odgrzewanych lub z poprzedniego dnia).
+| **•** | Zmniejszyć ilość spożywanych posiłków. |
+| --- | --- |
+| **•** | Nie jeść śniadania. |
+| **•** | Spożywać więcej gotowanych warzyw (do 40%) od ogólnej ilości posiłków na dobę. |
+| **•** | Zimą jeść więcej kwaszonej kapusty. |
+| **•** | Jeść więcej twarogu, pić więcej zsiadłego mleka, kefiru. |
+| **•** | Spożywać wszystko przygotowane świeżo (nie jeść odgrzewanych lub z poprzedniego dnia). |
 
 **Częstotliwość oczyszczania wątroby**. Pierwsze czyszczenie jest najtrudniejsze, ponieważ organizm traci dużo sił. Zwykle jest wydalane dużo starej żółci, pleśni, białych nici, zielonych "koreczków" (cholesterol) ale kamieni może nie być. To nie oznacza, że oczyszczanie się nie udało. Po prostu wątroba jest silnie zanieczyszczona i podczas kolejnych oczyszczeń pojawią się kamienie. Drugie oczyszczanie jest już łatwiej przeprowadzić. Powinno się odbyć po **3-4 tygodniach**, a następne oczyszczenia przeprowadzamy **raz na 3 miesiące**. Jeśli po 2 dniach od pierwszego oczyszczania odczuwamy ciężkość w wątrobie, zabieg oczyszczania należy powtórzyć już po 2 tygodniach. Po 5-7 oczyszczeniach kurację można przeprowadzać raz na rok.
 
@@ -379,47 +263,15 @@ Po przecedzeniu łączymy obydwa zestawy i mamy gotowy środek do oczyszczania w
 
 **Dawki dla dzieci**:
 
-**Wiek w latach**
-
-**Ilość**
-
-**Długość kuracji**
-
-1-3
-
-4 razy dziennie po 1 łyżeczce od herbaty
-
-2 tygodnie
-
-3-5
-
-4 razy dziennie po 2 łyżeczki od herbaty
-
-2 tygodnie
-
-5-7
-
-4 razy dziennie po 1 łyżce stołowej
-
-2 tygodnie
-
-7-10
-
-4 razy dziennie po 2 łyżki stołowe
-
-2 tygodnie
-
-10-15
-
-4 razy dziennie po 4 łyżki stołowe
-
-2 tygodnie
-
-powyżej 14
-
-4 razy dziennie po 150 ml
-
-do wyczerpania
+| 🟩 **Wiek w latach** | 🟩 **Ilość** | 🟩 **Długość kuracji** |
+| --- | --- | --- |
+| ⬜ |   |   |
+| 1-3 | 4 razy dziennie po 1 łyżeczce od herbaty | 2 tygodnie |
+| 3-5 | 4 razy dziennie po 2 łyżeczki od herbaty | 2 tygodnie |
+| 5-7 | 4 razy dziennie po 1 łyżce stołowej | 2 tygodnie |
+| 7-10 | 4 razy dziennie po 2 łyżki stołowe | 2 tygodnie |
+| 10-15 | 4 razy dziennie po 4 łyżki stołowe | 2 tygodnie |
+| powyżej 14 | 4 razy dziennie po 150 ml | do wyczerpania |
 
 Jeśli mieszankę przyrządzamy tylko dla dzieci, to składniki wyjściowe zmniejszamy proporcjonalnie dla wieku - 1-3 lat (10 razy), 3-5 (8 razy), 7-10 (6 razy), 10-15 (4 razy). Kuracje można przeprowadzać 2 razy w roku.
 
@@ -441,35 +293,18 @@ Pojawienie się worków pod oczami, białe kropki na paznokciach, wilgotne dłon
 
 **Niektóre przyczyny nieprawidłowej pracy nerek.**
 
-**•** 
-
-Nagromadzenie śluzu, z którego powstają kamienie.
-
-**•** 
-
-Rozszerzenie nerek od nadmiaru spożycia płynów.
-
-**•** 
-
-Zwężenie nerek od nadmiaru spożywania soli, mięsa, ryb, pieczywa, słodyczy, produktów mącznych i rafinowanych.
+| **•** | Nagromadzenie śluzu, z którego powstają kamienie. |
+| --- | --- |
+| **•** | Rozszerzenie nerek od nadmiaru spożycia płynów. |
+| **•** | Zwężenie nerek od nadmiaru spożywania soli, mięsa, ryb, pieczywa, słodyczy, produktów mącznych i rafinowanych. |
 
 **Zewnętrzne objawy złej pracy nerek.**
 
-**•** 
-
-Jeśli pod oczami pojawiają się worki, świadczy to o nadmiarze płynów i złogów tłuszczu w nerkach. Jeśli przy dotyku worek jest miękki, to świadczy o dużych ilościach spożywanych płynów. Jeśli jest twardy, jest to spowodowane nadmiarem spożywania żółtego sera, tłustych produktów mlecznych, tłustego mięsa, tłuszczu zwierzęcego i słodyczy.
-
-**•** 
-
-Jeśli powieki są zaczerwienione, jest to oznaka tworzenia się kamieni.
-
-**•** 
-
-Jeśli wokół oczu pojawiają się ciemnobrązowe koła, świadczy to o spożywaniu dużej ilości soli i produktów zawierających sole. W takich przypadkach należy przejść na dietę bez soli (zamiast soli używać różnego rodzaju przypraw np. suszonego czosnku lub pietruszki.
-
-**•** 
-
-Jeśli oddajemy mocz częściej niż 3-4 razy dziennie należy zmniejszyć ilość spożywanych płynów. Kolor moczu powinien mieć barwę jasnego piwa. Jeśli kolor jest bardzo jasny, to należy spożywać więcej soli, jeśli ciemny, to spożycie soli należy zmniejszyć.
+| **•** | Jeśli pod oczami pojawiają się worki, świadczy to o nadmiarze płynów i złogów tłuszczu w nerkach. Jeśli przy dotyku worek jest miękki, to świadczy o dużych ilościach spożywanych płynów. Jeśli jest twardy, jest to spowodowane nadmiarem spożywania żółtego sera, tłustych produktów mlecznych, tłustego mięsa, tłuszczu zwierzęcego i słodyczy. |
+| --- | --- |
+| **•** | Jeśli powieki są zaczerwienione, jest to oznaka tworzenia się kamieni. |
+| **•** | Jeśli wokół oczu pojawiają się ciemnobrązowe koła, świadczy to o spożywaniu dużej ilości soli i produktów zawierających sole. W takich przypadkach należy przejść na dietę bez soli (zamiast soli używać różnego rodzaju przypraw np. suszonego czosnku lub pietruszki. |
+| **•** | Jeśli oddajemy mocz częściej niż 3-4 razy dziennie należy zmniejszyć ilość spożywanych płynów. Kolor moczu powinien mieć barwę jasnego piwa. Jeśli kolor jest bardzo jasny, to należy spożywać więcej soli, jeśli ciemny, to spożycie soli należy zmniejszyć. |
 
 **OCZYSZCZENIE SOKAMI WARZYWNYMI (wybrać)**
 
@@ -538,89 +373,21 @@ Po przeprowadzeniu oczyszczania musimy trochę zmienić nawyki żywieniowe. Prze
 
 Do stosowania przy chorobach - **osteoporoza, podagra, chroniczny reumatyzm, kamienie żółciowe i nerkowe, anemia, dna moczanowa, niektóre choroby nerwowe, cukrzyca, nadwaga, nadciśnienie, katar żołądka, choroby wątroby**. Kurację prowadzimy sokiem z cytryny przez 10 dni (profilaktyczna) lub 12 dni (lecznicza). Obok kuracji leczniczej podaje kuracje profilaktyczną, która należy przeprowadzać najlepiej wczesną wiosną lub późną jesienią w okresie epidemii grypy, angin i przeziębień.
 
-**KURACJA  
-PROFILAKTYCZNA**
-
----
-
-Ilość cytryn na sok
-
-**DZIEŃ KURACJI**
-
-**KURACJA  
-LECZNICZA**
-
----
-
-Ilość cytryn na sok
-
-**1**
-
-**pierwszy**
-
-**5**
-
-**2**
-
-**drugi**
-
-**10**
-
-**3**
-
-**trzeci**
-
-**15**
-
-**4**
-
-**czwarty**
-
-**20**
-
-**5**
-
-**piąty**
-
-**25**
-
-**5**
-
-**szósty**
-
-**25**
-
-**4**
-
-**siódmy**
-
-**25**
-
-**3**
-
-**ósmy**
-
-**25**
-
-**2**
-
-**dziewiąty**
-
-**20**
-
-**1**
-
-**dziesiąty**
-
-**15**
-
-**jedenasty**
-
-**10**
-
-**dwunasty**
-
-**5**
+| 🟩 **KURACJA<br>PROFILAKTYCZNA**<br>---<br>Ilość cytryn na sok | **DZIEŃ KURACJI** | 🟧 **KURACJA<br>LECZNICZA**<br>---<br>Ilość cytryn na sok |
+| --- | --- | --- |
+| ⬜ |   |   |
+| 🟩 **1** | **pierwszy** | 🟧 **5** |
+| 🟩 **2** | **drugi** | 🟧 **10** |
+| 🟩 **3** | **trzeci** | 🟧 **15** |
+| 🟩 **4** | **czwarty** | 🟧 **20** |
+| 🟩 **5** | **piąty** | 🟧 **25** |
+| 🟩 **5** | **szósty** | 🟧 **25** |
+| 🟩 **4** | **siódmy** | 🟧 **25** |
+| 🟩 **3** | **ósmy** | 🟧 **25** |
+| 🟩 **2** | **dziewiąty** | 🟧 **20** |
+| 🟩 **1** | **dziesiąty** | 🟧 **15** |
+|   | **jedenasty** | 🟧 **10** |
+|   | **dwunasty** | 🟧 **5** |
 
 Jak przygotować sok z cytryny - cytrynę należy przekroić na pół i każdą połówkę wycisnąć. Sok pić bez dodatku cukru i bez rozcieńczania wodą (w kuracji profilaktycznej można rozcieńczyć wodą i dodać łyżeczkę miodu na szklankę soku). Wyciśniętych połówek nie wyrzucać, a drobno pokroić, przełożyć do słoika, zalać miodem lub posypać cukrem i po 10 godzinach mamy esencję, którą można pić zamiast herbaty, dodając wodę mineralna lub przegotowaną. Taką samą kurację leczniczą przeprowadzamy lecząc kamienie. Podczas leczenia mocz zmienia kolor na ciemny i pojawić się w nim może ceglany osad (są to sole moczanowe) i w pierwszej fazie leczenia może być go dużo, co świadczy o gwałtownym usuwaniu kwasu moczowego. Pod koniec kuracji kolor moczu staje się bursztynowy i nie zawiera osadów.
 
@@ -628,25 +395,12 @@ Kwas cytrynowy jest jedynym kwasem wiążącym wapń w organizmie tworząc sól,
 
 **OCZYSZCZENIE UKŁADU MOCZOWO-PŁCIOWEGO**
 
-**•** 
-
-W pierwszym dniu do 1/2 litrowego słoika wsypać 2 łyżki nieoczyszczonego ryżu, nalać do pełna zimnej przegotowanej wody i odstawić na 24 godziny.
-
-**•** 
-
-W drugim dniu wziąć drugi słoik, nasypać do niego ryżu, zalać wodą. Z pierwszego słoika ryż przepłukać, znów zalać wodą i odstawić na 24 godziny.
-
-**•** 
-
-W powyższy sposób codziennie dodawać po nowym słoiku, a w pozostałych przepłukiwać ryż i zalewać wodą. Po pięciu dniach będziemy mieli 5 słoików z zamoczonym ryżem.
-
-**•** 
-
-W szóstym dniu ugotować ryż, który był w słoiku numer 1. Gotować 15 minut i od razu zjeść niczym nie zagryzając. Mozna jedynie dodać niewiele masła smietankowego lub oleju roślinnego, ale w żadnym wypadku soli. Po zjedzeniu ryżu przez 3 godziny nie należy nic jeść ani pić. Do słoika nr 1 znów nasypać ryżu, zalać wodą i postawić za słoikiem numer 5.
-
-**•** 
-
-Tak postępować przez 2 miesiące, po kolei przestawiać słoiki.
+| **•** | W pierwszym dniu do 1/2 litrowego słoika wsypać 2 łyżki nieoczyszczonego ryżu, nalać do pełna zimnej przegotowanej wody i odstawić na 24 godziny. |
+| --- | --- |
+| **•** | W drugim dniu wziąć drugi słoik, nasypać do niego ryżu, zalać wodą. Z pierwszego słoika ryż przepłukać, znów zalać wodą i odstawić na 24 godziny. |
+| **•** | W powyższy sposób codziennie dodawać po nowym słoiku, a w pozostałych przepłukiwać ryż i zalewać wodą. Po pięciu dniach będziemy mieli 5 słoików z zamoczonym ryżem. |
+| **•** | W szóstym dniu ugotować ryż, który był w słoiku numer 1. Gotować 15 minut i od razu zjeść niczym nie zagryzając. Mozna jedynie dodać niewiele masła smietankowego lub oleju roślinnego, ale w żadnym wypadku soli. Po zjedzeniu ryżu przez 3 godziny nie należy nic jeść ani pić. Do słoika nr 1 znów nasypać ryżu, zalać wodą i postawić za słoikiem numer 5. |
+| **•** | Tak postępować przez 2 miesiące, po kolei przestawiać słoiki. |
 
 **OCZYSZCZENIE TARCZYCY**
 
@@ -696,20 +450,9 @@ Płukać nos należy rano i wieczorem. Można do płukania zastosować napar z z
 
 Higiena ucha nie jest bardzo skomplikowana, ale niezbędna dla zdrowia. Natura przewidziała okresowe czyszczenie ucha poprzez przemieszczenie woskowiny usznej, oczyszczającej ucho z zewnętrznych zanieczyszczeń. Z powodu zwiększenia ciśnienia woskowiny na błonę bębenkową możliwe są zawroty, bóle głowy i głuchota. Higiena ucha polega na prostej zasadzie - należy je gnieść, obracać w różne strony, odciągać w dół, do przodu i do tyłu. Wszystkie te ruchy zmuszają woskowinę i różne "nieczystości" do przemieszczania się w uchu i wychodzenia z niego. Masaż ucha wykonujemy w następujący sposób:
 
-• 
-
-wzgórek za uchem potrzeć w górę i w dół 8 razy,
-
-• 
-
-zagiąć małżowinę uszną do tyłu i do przodu 8 razy,
-
-• 
-
-pokręcić końce uszy zgodnie z ruchem wskazówek zagara 8 razy,
-
-• 
-
-odciągnąć płatek ucha do dołu 8 razy.
+- wzgórek za uchem potrzeć w górę i w dół 8 razy,
+- zagiąć małżowinę uszną do tyłu i do przodu 8 razy,
+- pokręcić końce uszy zgodnie z ruchem wskazówek zagara 8 razy,
+- odciągnąć płatek ucha do dołu 8 razy.
 
 Nastepnie włożyć w otwory uszu palce wskazujące obu rąk i energicznie poruszać nimi z boku na bok, po czym usunąć suche, martwe komórki, kurz i woskowinę.

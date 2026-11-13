@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="Praca dyplomowa – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Tekst jest poradnikiem formalnym, jak pisać prace kontrolne, seminaryjne i magisterskie, na przykładzie Uniwersytetu Gdańskiego (aktualizacja 16.06.2004). Omawia planowanie i konst">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/magister-magister.html">
-<meta property="og:image" content="https://jokerwader.github.io/uleszka-archiwum/og.png">
+<meta property="og:url" content="https://uleszka.net/czytelnia/magister-magister.html">
+<meta property="og:image" content="https://uleszka.net/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">Wymogi formalne prac naukowych. Planowanie, konstrukcja i realizacja pracy</a></li><li><a href="#r-2">Szata graficzna i wymogi redakcyjne</a></li><li><a href="#r-3">1. Myśl główna pisana jako nagłówek 1.</a></li><li><a href="#r-4">1.1. Rozwinięcie wątku stanowiącego podrozdział 1 pisany jako nagłówek 2.</a></li><li><a href="#r-5">1.1.1. Wątek myślowy stanowiący objaśnienie podrozdziału 1 pisany jako nagłówek 3.</a></li><li><a href="#r-6">2. Dalsze rozwinięcie myśli głównej pisane jako nagłówek 1.</a></li><li><a href="#r-7">BIBLIOGRAFIA</a></li><li><a href="#r-8">SPIS TABLIC</a></li><li><a href="#r-9">SPIS RYSUNKÓW</a></li><li><a href="#r-10">Wyróżnieniami należy operować bardzo oszczędnie.</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details open><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html" class="aktualny" aria-current="page">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#roznosci">Różności</a></p>
   <h1>Praca dyplomowa</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Tekst jest poradnikiem formalnym, jak pisać prace kontrolne, seminaryjne i magisterskie, na przykładzie Uniwersytetu Gdańskiego (aktualizacja 16.06.2004). Omawia planowanie i konstrukcję pracy, wymogi redakcyjne (marginesy, czcionki, numeracja), stronę tytułową, spis treści, wstęp i zakończenie, przypisy, cytaty, bibliografię, tablice, rysunki, załączniki i wyróżnienia. Jako przykład cytatu użyto fragmentu Al-Makrisiego o budowie piramid przez Saurida. Autor kończy stwierdzeniem, że przestrzeganie tych zasad jest warunkiem spełnienia wymogów formalnych i podstawą oceny pracy.</p>
@@ -36,71 +72,127 @@
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/magister/logoug.gif" alt="" loading="lazy" decoding="async"></p>
 <p><strong>ZASADY FORMALNE PISANIA PRAC<br>KONTROLNYCH, SEMINARYJNYCH I MAGISTERSKICH<br>NA PRZYKŁADZIE UNIWERSYTETU GDAŃSKIEGO</strong></p>
 <p><strong>Szybkie szukanie</strong>: • wymogi formalne prac naukowych, planowanie, konstrukcja i realizacja pracy • szata graficzna i wymogi redakcyjne • maszynopis, rękopis • tytularia pracy • spis treści • wstęp i zakończenie • rozdziały i podrozdziały • odnośniki i przypisy • cytaty • wykaz literatury (bibliografia) • tablice i rysunki • załącznik (aneks) • wzory, wykaz skrótów i symboli • wyróżnienia i wyliczenia.</p>
-<p><strong>Wymogi formalne prac naukowych. Planowanie, konstrukcja i realizacja pracy</strong></p>
+<p class="rozdzial" id="r-1"><strong>Wymogi formalne prac naukowych. Planowanie, konstrukcja i realizacja pracy</strong></p>
 <p>Pogłębieniu wiadomości zawartych w tym rozdziale służyć mogą takie prace jak: K. Święcicki: Jak studiować. Jak pisać pracę magisterską? PWN, Warszawa 1969; J. Rudniański: Sprawność umysłowa, Wybór metod. Warszawa 1970.</p>
 <p>Proces pisania pracy w pewnym sensie porównać można z procesem produkcyjnym w zakładzie pracy. Na proces ten składa się ciąg operacji zmierzających do powstania produktu finalnego, stanowiącego samodzielną całość, złożoną z poszczególnych elementów, których konstrukcja decyduje o architekturze pracy. Zasadnicze operacje występujące w trakcie pisania pracy to:</p>
-<p>-</p>
-<p>wybranie problematyki badawczej,</p>
-<p>-</p>
-<p>określenie tematu,</p>
-<p>-</p>
-<p>opracowanie planu pracy,</p>
-<p>-</p>
-<p>zbieranie materiałów,</p>
-<p>-</p>
-<p>zapoznawanie się z literaturą,</p>
-<p>-</p>
-<p>analiza zebranych materiałów i przeczytanej literatury,</p>
-<p>-</p>
-<p>ustalenie koncepcji rozwiązania zagadnienia,</p>
-<p>-</p>
-<p>opracowanie wyników i ujęcie ich w ostateczny tekst,</p>
-<p>-</p>
-<p>prace redakcyjne i wykończeniowe.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>-</th>
+<th>wybranie problematyki badawczej,</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-</td>
+<td>określenie tematu,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>opracowanie planu pracy,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>zbieranie materiałów,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>zapoznawanie się z literaturą,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>analiza zebranych materiałów i przeczytanej literatury,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>ustalenie koncepcji rozwiązania zagadnienia,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>opracowanie wyników i ujęcie ich w ostateczny tekst,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>prace redakcyjne i wykończeniowe.</td>
+</tr>
+</tbody></table></div>
 <p>Nie sposób jest wybrać problematykę badawczą i zakreślić temat pracy bez zapoznania się z podstawowymi pozycjami literatury. Najistotniejsze zagadnienia i problemy są też omawiane na zajęciach seminaryjnych. Wspomniana literatura oraz odbyte dyskusje inspirują z reguły tematy prac.</p>
 <p>Temat pracy określa zatem jej przedmiot. Wskazuje on kierunek poszukiwań i formułuje ogólną tezę pracy. Tematy szeroko zakreślające wybraną problematykę zadań są trudne do zrealizowania, głównie z powodu mnogości wiążących się kwestii i problemów, co wymaga dużych umiejętności w uogólnianiu i precyzji wyciąganych wniosków. Dlatego też tematy prac seminaryjnych powinny być wąskie i konkretne. Ostatecznie na tym, aby temat był prawidłowo dobrany, czuwa promotor.</p>
 <p>Wizję przyszłej pracy odzwierciedla jej plan (dyspozycja) oraz szkic wywodów. Plan pracy w rozbiciu na jednostki tematyczne (rozdziały, podrozdziały, punkty, podpunkty) stanowi jej szkielet konstrukcyjny. Ustalenie planu pracy, przed szczegółowym zapoznaniem się z literaturą i zebraniu materiałów źródłowych ma jedynie charakter roboczy. Ułożenie takiego planu (mimo, że jest on niedoskonały) jest konieczne, gdyż przedstawia założenia konstrukcyjne pracy oraz wytycza kierunek i zakres dalszych studiów, jak również potrzeby w zakresie materiałów źródłowych. Kolejne wersje planu pracy oraz szkic wywodów powinny być przedstawiane i dyskutowane na zajęciach seminaryjnych.</p>
 <p>Przyjęcie przez promotora wstępnego planu pracy i zatwierdzenie zakresu problematyki badawczej, kończy wstępny (przygotowawczy) etap realizacji pracy. Zatwierdzony plan nie może jednak do końca ograniczać piszącego w dalszych etapach opracowywania tematu. W miarę dokładniejszego zapoznawania się z literaturą, wyłania się nowy obraz badanej problematyki. Dochodzą nowe problemy, które należy omówić lub uporządkować, aby wynikające z nich wnioski pozwoliły na sformułowanie wniosku ostatecznego, tj. danie odpowiedzi na pytanie zawarte w tytule. Dla przedstawienia tych nowych kwestii konieczna jest często nowa konstrukcja pracy. Plan pracy w trakcie jej realizacji ulega zatem ciągłym modyfikacjom, aż do ostatecznej wersji, która stanie się spisem treści w momencie jej zakończenia. Kolejne wersje planu nie przesądzają więc o treści pracy, lecz o konstrukcji, która ulega modyfikacjom wraz z potrzebą zmiany treści.</p>
 <p>Można sformułować pewne zasady konstrukcji pracy, tj. jej planu jako całości i poszczególnych części składowych. Plan jest właściwy wówczas gdy:</p>
-<p>-</p>
-<p>zapewnia najdogodniejsze formy przeprowadzenia wywodów dokumentujących tezę pracy,</p>
-<p>-</p>
-<p>umożliwia właściwy układ hierarchiczny poszczególnych problemów, co wyraża się w istnieniu nierównorzędnych części, w konsekwencji czego praca dzieli się na rozdziały, podrozdziały, punkty, podpunkty i kwestie,</p>
-<p>-</p>
-<p>umożliwia zachowanie odpowiednich proporscji treści pomiędzy poszczególnymi częściami, ich właściwą gradację,</p>
-<p>-</p>
-<p>umożliwia zachowanie zwięzłości i przejrzystości tekstu.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>-</th>
+<th>zapewnia najdogodniejsze formy przeprowadzenia wywodów dokumentujących tezę pracy,</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-</td>
+<td>umożliwia właściwy układ hierarchiczny poszczególnych problemów, co wyraża się w istnieniu nierównorzędnych części, w konsekwencji czego praca dzieli się na rozdziały, podrozdziały, punkty, podpunkty i kwestie,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>umożliwia zachowanie odpowiednich proporscji treści pomiędzy poszczególnymi częściami, ich właściwą gradację,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>umożliwia zachowanie zwięzłości i przejrzystości tekstu.</td>
+</tr>
+</tbody></table></div>
 <p>W celu zapewnienia zwięzłości tekstu, już na etapie pierwszych wersji planu wskazane jest napisać do każdego punktu bardziej szczegółowy plan rodzaju i kolejności poruszanych w nim kwestii.</p>
 <p>Plan tak zmodyfikowany wraz z planem zasadniczym, pozwoli uniknąć powtórzeń niektórych faktów w poszczególnych częściach pracy. Powtarzanie tych samych zagadnień w kilku miejscach opracowania jest niedopuszczalne i świadczy o braku logiki w całym układzie pracy. Jeżeli zachodzi konieczność przywołania wcześniejszych części pracy, można to uczynić za pomocą odnośnika i notki odsyłającej.</p>
 <p>Układ treści pracy przesądza też o jej przejrzystości. Prace opracowywane mogą być w układzie przedmiotowym lub historycznym. W pracach ekonomicznych stosowany jest z reguły przedmiotowy układ treści tj. według poszczególnych działów problemowych. W odróżnieniu, układ historyczny polega na analizie zjawisk według etapów ich rozwoju, a dopiero w poszczególnych etapach według problemów. Należy się starać aby język pracy był prosty, zdania krótkie, ujęte w formie bezosobowej. Kolejne elementy konstrukcyjne pracy powinny być kontynuacją poprzednich, a fakty w nich omówione wynikać z przedstawionych wcześniej stwierdzeń, czyli części poprzednie powinny stanowić podbudowę do następnych, te zaś kontynuację poprzednich.</p>
 <p>Kolejność realizacji przyjętego planu pracy nie musi odpowiadać kolejności występowania poszczególnych części składowych w dyspozycji. Przy niektórych tematach (z korzyścią dla całości) lepiej jest rozpocząć opracowanie od części zasadniczej. Pozwolić to może na lepsze dopasowanie części wprowadzającej, stanowiącej podbudowę do rozdziału zasadniczego.</p>
 <p>Opracowane rozdziały lub ich części powinny być prezentowane na zajęciach seminaryjnych. Prezentacja ta nie może polegać na odczytywaniu gotowych części pracy, lecz na przedstawieniu ich charakterystyki i umiejscowieniu w całości pracy, przytoczeniu zasadniczych kwestii, wyciągniętych wniosków i ich wpływu na wniosek ostateczny.</p>
-<p><strong>Szata graficzna i wymogi redakcyjne</strong></p>
+<p class="rozdzial" id="r-2"><strong>Szata graficzna i wymogi redakcyjne</strong></p>
 <p>Przedstawiona do oceny praca seminaryjna czy też magisterska winna posiadać odpowiednią szatę graficzną, w ujednoliconej formie, z zachowaniem niezbędnych wymogów redakcyjnych. Jako podstawę proponowanych w tym zakresie rozwiązań przyjęto ustalenia Polskich Norm (Zwłaszcza: PN-65/N-01173 &quot;Przepisy bibliograficzne - kompozycja wydania książki&quot;; PN-73/N-01152 &quot;Opis bibliograficzny&quot;) oraz przyjętej zwyczajowo praktyki w tym zakresie.</p>
 <p>Maszynopis, rękopis</p>
 <p>Praca seminaryjna (w odróżnieniu od pracy magisterskiej) musi być składana do oceny w maszynopisie. Czcionką &quot;udającą&quot; czcionkę maszynową podczas pisania tekstu na komputerze jest czcionka &quot;Courier New&quot;.</p>
 <p>To jest przykład napisany czcionką Courier New &quot;udającą&quot; maszynę do pisania.</p>
 <p>Zarówno rękopisy jak i maszynopisy powinny być pisane jednostronnie na papierze formatu A-4. W przypadku maszynopisu - z podwójnym odstępem, tak aby na stronie znajdowało się 30 wierszy po około 60 znaków maszynowych (łącznie z odstępami) w wierszu.</p>
 <p>Należy zachować marginesy:</p>
-<p>-</p>
-<p>górny - 2,0 do 2,5 cm</p>
-<p>-</p>
-<p>dolny - 2,0 do 2,5 cm</p>
-<p>-</p>
-<p>prawy - 2,0 do 2,5 cm</p>
-<p>-</p>
-<p>lewy - 3,0-4,0 cm.</p>
-<p>-</p>
-<p>stopka - minimum 1,5 cm.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>-</th>
+<th>górny - 2,0 do 2,5 cm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-</td>
+<td>dolny - 2,0 do 2,5 cm</td>
+</tr>
+<tr>
+<td>-</td>
+<td>prawy - 2,0 do 2,5 cm</td>
+</tr>
+<tr>
+<td>-</td>
+<td>lewy - 3,0-4,0 cm.</td>
+</tr>
+<tr>
+<td>-</td>
+<td>stopka - minimum 1,5 cm.</td>
+</tr>
+</tbody></table></div>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/magister/uwaga.gif" alt="" loading="lazy" decoding="async"></p>
 <p>Ponieważ, ze względów finansowych, większość prac drukowana jest na drukarkach atramentowych należy bezwzględnie pamiętać o tym, że marginesy minimalne dla tych drukarek z reguły wynoszą: górny - 0 cm, prawy i lewy - 0,5 cm oraz dolny - 1,5 cm. Ustawienie dolnego marginesu (oraz stopki) mniejszego niż 1,5 cm spowoduje obcięcie tekstu (lub numeru strony).</p>
 <p>W przypadku planowanej oprawy tekstu w introligatorni, należy również zachować jednocentymetrowy margines z prawej strony kartki, tak aby w trakcie wyrównywania tego obrzeża nie nastąpiło obcięcie tekstu.</p>
 <p>Poszczególne kwestie tekstu opracowania winny zaczynać się od akapitu, tj. od nowego wiersza z wcięciem trzech znaków maszynowych (0,5-1,0 cm).</p>
 <p>W pracach magisterskich preferowane są dwa rodzaje czcionek w wysokości 12 pktt (punktów typograficznych). Są to czcionki:</p>
-<p>Times New Roman -</p>
-<p>Tekst pisany dla porównania wielkości i kroju czcionki.</p>
-<p>Arial -</p>
-<p>Tekst pisany dla porównania wielkości i kroju czcionki.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>Times New Roman -</th>
+<th>Tekst pisany dla porównania wielkości i kroju czcionki.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Arial -</td>
+<td>Tekst pisany dla porównania wielkości i kroju czcionki.</td>
+</tr>
+</tbody></table></div>
 <p>Jak można zauważyć, czcionka &quot;Arial&quot; jest większa, chociaż obie są w tej samej wielkości 12 pktt. Do grupy czytelnych czcionek zaliczyć także można czcionkę Tahoma,</p>
 <p>Tahoma -</p>
 <p>Tekst pisany dla porównania wielkości i kroju czcionki.</p>
@@ -110,20 +202,38 @@
 <p>Z uwagi na to, że wstęp do pracy pisany bywa w ostatnim etapie jej opracowania, zdarza się, że całość tekstu pracy jest już przepisana bądź też jest w trakcie przepisywania i wówczas, ażeby nie przerabiać numeracji w całości, kolejnym stronom wstępu można nadać nową numerację cyframi rzymskimi.</p>
 <p>Tytularia pracy</p>
 <p>Stanowią zespół informacji niezbędnych do identyfikacji opracowania. Informacje te zamieszczane są na pierwszej stronie, tzw. stronie tytułowej. Zawierać one powinny następujące informacje:</p>
-<p>-</p>
-<p>nazwę zakładu i instytutu, w którym pracę pisano,</p>
-<p>-</p>
-<p>imię i nazwisko autora,</p>
-<p>-</p>
-<p>numer albumu,</p>
-<p>-</p>
-<p>tytuł (ewentualnie podtytuł) pracy,</p>
-<p>-</p>
-<p>nazwę uczelni i wydziału,</p>
-<p>-</p>
-<p>określenie charakteru pracy (seminaryjna, kontrolna, magisterska),</p>
-<p>-</p>
-<p>rok i miejsce złożenia pracy.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>-</th>
+<th>nazwę zakładu i instytutu, w którym pracę pisano,</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-</td>
+<td>imię i nazwisko autora,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>numer albumu,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>tytuł (ewentualnie podtytuł) pracy,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>nazwę uczelni i wydziału,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>określenie charakteru pracy (seminaryjna, kontrolna, magisterska),</td>
+</tr>
+<tr>
+<td>-</td>
+<td>rok i miejsce złożenia pracy.</td>
+</tr>
+</tbody></table></div>
 <p>Sposób rozmieszczenie tych informacji podaję na przykładzie strony tytułowej (bez uwzględnienia marginesów i formatu strony):</p>
 <p><strong>UNIWERSYTET GDAŃSKI</strong><br><strong>Wydział Ekonomiczny</strong></p>
 <hr>
@@ -200,35 +310,57 @@
 <p>Tytuły rozdziałów i podrozdziałów powinny być uwydatnione graficznie w tekście pracy. Tekst kolejnego rozdziału rozpoczyna się na nowej stronie. Tytuł rozdziału obniżony jest zwykle od podstawowego marginesu górnego o około 1,5 cm. Pisany jest pośrodku, dużymi literami. Tytuły podrozdziałów i mniejszych fragmentów pracy pisane winny być w nowym wierszu, małymi literami, zachowując podwójny odstęp pomiędzy podrozdziałami. Po cyfrach służących do oznaczania rozdziałów i podrozdziałów, zamieszczonych przed treścią tytułu stawia się kropkę. Natomiast po literach służących do oznaczania punktów, stawia się nawias. Na końcu każdego tytułu, zamieszczonego w oddzielnym wierszu nie stawia się kropki.</p>
 <p>Wstęp i zakończenie</p>
 <p>Są one integralną częścią pracy. Wstęp i zakończenie stanowią końcowy efekt pracy autora. Wstęp ma charakter metodologiczny i powinien zawierać:</p>
-<p>-</p>
-<p>uzasadnienie wyboru tematu,</p>
-<p>-</p>
-<p>cel pracy i zamiary autora co do sposobu jego realizacji,</p>
-<p>-</p>
-<p>sformułowanie przedmiotu pracy i tez, które w zamiarze piszącego miały być udowodnione,</p>
-<p>-</p>
-<p>krótką charakterystykę wyników dotychczasowych badań nad zagadnieniami stanowiącymi przedmiot pracy,</p>
-<p>-</p>
-<p>określenie metod i omówienie technik badawczych, którymi posłużono się w trakcie opracowywania tematu,</p>
-<p>-</p>
-<p>charakterystykę ewentualnych trudności, na jakie napotykano w trakcie opracowywania tematu,</p>
-<p>-</p>
-<p>ocenę literatury i materiałów źródłowych z punktu widzenia ich kompletności i dostępności,</p>
-<p>-</p>
-<p>omówienie szczególnie dyskusyjnych zagadnień terminologicznych,</p>
-<p>-</p>
-<p>omówienie konstrukcji (planu) pracy z krótką charakterystyką treści zawartych w poszczególnych rozdziałach.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>-</th>
+<th>uzasadnienie wyboru tematu,</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-</td>
+<td>cel pracy i zamiary autora co do sposobu jego realizacji,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>sformułowanie przedmiotu pracy i tez, które w zamiarze piszącego miały być udowodnione,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>krótką charakterystykę wyników dotychczasowych badań nad zagadnieniami stanowiącymi przedmiot pracy,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>określenie metod i omówienie technik badawczych, którymi posłużono się w trakcie opracowywania tematu,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>charakterystykę ewentualnych trudności, na jakie napotykano w trakcie opracowywania tematu,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>ocenę literatury i materiałów źródłowych z punktu widzenia ich kompletności i dostępności,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>omówienie szczególnie dyskusyjnych zagadnień terminologicznych,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>omówienie konstrukcji (planu) pracy z krótką charakterystyką treści zawartych w poszczególnych rozdziałach.</td>
+</tr>
+</tbody></table></div>
 <p>Zakończenie pracy nie powinno zawierać bezpośredniego powtórzenia wniosków zawartych w treści pracy. Jest to nagminny błąd prac seminaryjnych i magisterskich. Zakończenie winno być synteza pracy opartą na udowodnionych w poszczególnych rozdziałach tezach i z tej racji stanowi końcowy, nadrzędny element konstrukcji pracy.</p>
 <p>Wstęp i zakończenie są w tekście na równi z przyjętym sposobem gradacji rozdziałów (tematów pierwszego stopnia ważności). Wstęp zamieszczony jest za spisem treści pracy. Zakończenie bezpośrednio po zasadniczym tekście.</p>
 <p>Tytuły rozdziałów i podrozdziałów</p>
 <p>Poszczególne wątki pracy (skończone procesy myślowe) zawarte są w poszczególnych, odrębnych częściach, zwanych rozdziałami. Rozwinięcia wątków, jeśli kilka z nich składa się na całość głównego wątku zawieramy w podrozdziałach. Stąd też zachodzi potrzeba zasygnalizowania ich początku i końca. Zwykle czynimy to za pomocą większej, pogrubionej czcionki z odpowiednim odstępem międzywierszowym. Edytor czyni to automatycznie po ustawieniu przez użytkownika tzw. nagłówków z numeracją (1 - największy). Przykładowo:</p>
-<p><strong>1. Myśl główna pisana jako nagłówek 1.</strong></p>
+<p class="rozdzial" id="r-3"><strong>1. Myśl główna pisana jako nagłówek 1.</strong></p>
 <p>       Przykładowy tekst stanowiący zawartość rozdziału.</p>
-<p><strong>1.1. Rozwinięcie wątku stanowiącego podrozdział 1 pisany jako nagłówek 2.</strong></p>
+<p class="rozdzial" id="r-4"><strong>1.1. Rozwinięcie wątku stanowiącego podrozdział 1 pisany jako nagłówek 2.</strong></p>
 <p>       Przykładowy tekst stanowiący zawartość podrozdziału.</p>
-<p><strong>1.1.1. Wątek myślowy stanowiący objaśnienie podrozdziału 1 pisany jako nagłówek 3.</strong></p>
+<p class="rozdzial" id="r-5"><strong>1.1.1. Wątek myślowy stanowiący objaśnienie podrozdziału 1 pisany jako nagłówek 3.</strong></p>
 <p>       Przykładowy tekst stanowiący zawartość podrozdziału.</p>
-<p><strong>2. Dalsze rozwinięcie myśli głównej pisane jako nagłówek 1.</strong></p>
+<p class="rozdzial" id="r-6"><strong>2. Dalsze rozwinięcie myśli głównej pisane jako nagłówek 1.</strong></p>
 <p>       Przykładowy tekst stanowiący zawartość rozdziału.</p>
 <p>itd.</p>
 <p>Z reguły ustawiamy: Nagłówek 1 - Arial, 16 pktt, pogrubiony, Nagłówek 2 - Arial, 14 pktt, pogrubiony, Nagłówek 3 - Arial, 12 pktt, pogrubiony. Wszystkie nagłówki bez wcięcia pierwszego wiersza.</p>
@@ -236,14 +368,26 @@
 <p>Ustawienie odpowiednich nagłówków ma zasadniczy i bezpośredni wpływ na automatyczne stworzenie spisu treści. To co bedzie zawierał spis treści zależy od naszego wyboru tzw. ilości poziomów, które zostaną uwzględnione w spisie. Wybranie poziomu - 3, spowoduje wyświetlenie w spisie tytułów oznaczonych jako nagłówek od 1 do 3.</p>
 <p>Odnośniki i przypisy</p>
 <p>Są one niezmiernie ważną i pomocną częścią pracy, zarówno dla piszącego, jak i czytelnika. Brak przypisów w pracy seminaryjnej lub magisterskiej w zasadzie z góry ją dyskwalifikuje, ponieważ stanowi to dowód nieopanowania przez piszącego literatury przedmiotu, bądź też sugeruje, że przedstawione do oceny opracowanie jest plagiatem. Przypisy mogą mieć charakter:</p>
-<p>-</p>
-<p>źródłowy,</p>
-<p>-</p>
-<p>polemiczny,</p>
-<p>-</p>
-<p>dygresyjny (rozszerzający),</p>
-<p>-</p>
-<p>odsyłający.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>-</th>
+<th>źródłowy,</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-</td>
+<td>polemiczny,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>dygresyjny (rozszerzający),</td>
+</tr>
+<tr>
+<td>-</td>
+<td>odsyłający.</td>
+</tr>
+</tbody></table></div>
 <p>Przypis źródłowy ma za zadanie poinformować czytającego skąd pochodzą informacje (dane liczbowe lub poglądy), które wykorzystuje autor w tekście. W przypisie tym zamieszcza się krótki cytat z materiału źródłowego albo dodatkowe omówienie rozpatrywanego zagadnienia. W przypisie obok danych źródłowych podjąć można polemikę z poglądami autora zawartymi w cytowanej pozycji.</p>
 <p>Niezmiernie pomocne jest wykorzystanie przypisu dla zamieszczenia w nim dodatkowych uwag, które nasuwają się jak gdyby na marginesie zasadniczego toku rozumowania w tekście. Zawarcie tych uwag właśnie w przypisie dygresyjnym ułatwia czytanie tekstu.</p>
 <p>W celu uniknięcia zbędnych powtórzeń tego co zostało wcześniej stwierdzone w pracy, względnie w innych materiałach źródłowych bądź też dla zaznaczenia, że omawiana problematyka znajdzie swoje rozwinięcie w dalszej części pracy, służą przypisy odsyłające, np.:</p>
@@ -264,24 +408,46 @@
 <p>Długość kreski użytkownik edytora może ustawiać sam w zależności od własnego odczucia estetycznego, lub wskazówek prowadzącego pracę. Sposób przeniesienia przypisu, który omówiłem wyżej jest powszechnie stosowany na zachód od Odry (i tak jest domyślnie ustawiony w edytorach tekstu).</p>
 <p>Przypisy mogą być zamieszczane również na końcu poszczególnych rozdziałów czy nawet całej pracy. W tym przypadku numeracja odnośników musi być prowadzona w kolejności przez poszczególne rozdziały lub pracę. Ten sposób nie jest jednak stosowany w pracach seminaryjnych i magisterskich.</p>
 <p>Normy bibliograficzne nie ustalają ostatecznych zasad i sposobów sporządzanie notek bibliograficznych w przypisach. Poszczególne wydawnictwa mają własne zasady w tym zakresie. Jest jednak sprawą ważną ażeby w całej pracy wszystkie zapisy bibliograficzne sporządzone były w jednolity sposób. Opis bibliograficzny w przypisie powinien zawierać następujące informacje, zapisane według określonych zasad:</p>
-<p>-</p>
-<p>inicjały imienia autora (autorów) przed nazwiskiem, a po nazwisku (podanym w mianowniku) stawia się dwukropek,</p>
-<p>-</p>
-<p>pełny tytuł dzieła lub materiałów źródłowych, po czym stawia się kropkę,</p>
-<p>-</p>
-<p>numer wydania, po czym stawia się kropkę. Gdy cytowane dzieło stanowi jego pierwsze wydanie, wówczas nie podaje się numeru wydania,</p>
-<p>-</p>
-<p>numer tomu, po czym stawia się kropkę,</p>
-<p>-</p>
-<p>nazwa wydawnictwa, po której stawia się przecinek,</p>
-<p>-</p>
-<p>miejsce i rok wydania, po czym stawia się przecinek,</p>
-<p>-</p>
-<p>stronę, z której pochodzi zaczerpnięty fakt, po czym stawia się przecinek,</p>
-<p>-</p>
-<p>w przypadku informacji zaczerpniętych z tablic lub rysunków podajemy ich numery,</p>
-<p>-</p>
-<p>całość kończymy kropką.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>-</th>
+<th>inicjały imienia autora (autorów) przed nazwiskiem, a po nazwisku (podanym w mianowniku) stawia się dwukropek,</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-</td>
+<td>pełny tytuł dzieła lub materiałów źródłowych, po czym stawia się kropkę,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>numer wydania, po czym stawia się kropkę. Gdy cytowane dzieło stanowi jego pierwsze wydanie, wówczas nie podaje się numeru wydania,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>numer tomu, po czym stawia się kropkę,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>nazwa wydawnictwa, po której stawia się przecinek,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>miejsce i rok wydania, po czym stawia się przecinek,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>stronę, z której pochodzi zaczerpnięty fakt, po czym stawia się przecinek,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>w przypadku informacji zaczerpniętych z tablic lub rysunków podajemy ich numery,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>całość kończymy kropką.</td>
+</tr>
+</tbody></table></div>
 <hr>
 <p>1 B. Minc: Systemy ekonomiczne. Tom 2. PWN, Warszawa 1975, s. 215, tabl. 9.</p>
 <p>Jeżeli następny przypis pochodzi również z tego samego dzieła, to notkę sporządza się w sposób następujący:</p>
@@ -301,16 +467,30 @@
 <p>1 B. Dostatni: Drogi lotnicze świata. PZWS, Warszawa 1973, s. 41, Cyt. za: A. Piskozub: Zarys najnowszych dziejów transportu. WKiŁ, Warszawa 1979, s. 167.</p>
 <p>W przypadku, gdy w jednym przypisie podaje się kilka prac, wszystkie muszą być opisane tak, jak pokazano powyżej.</p>
 <p>Przy cytowaniu artykułów z czasopism podaje się:</p>
-<p>-</p>
-<p>pierwszą literę imienia i nazwisko autora i stawia się dwukropek,</p>
-<p>-</p>
-<p>tytuł artykułu, po którym stawia się kropkę,</p>
-<p>-</p>
-<p>nazwę czasopisma w cudzysłowie, po czym stawia się przecinek,</p>
-<p>-</p>
-<p>rocznik, a po nim przecinek,</p>
-<p>-</p>
-<p>numer czasopisma i stronę, na której zaczyna się artykuł lub występuje cytowana kwestia.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>-</th>
+<th>pierwszą literę imienia i nazwisko autora i stawia się dwukropek,</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-</td>
+<td>tytuł artykułu, po którym stawia się kropkę,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>nazwę czasopisma w cudzysłowie, po czym stawia się przecinek,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>rocznik, a po nim przecinek,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>numer czasopisma i stronę, na której zaczyna się artykuł lub występuje cytowana kwestia.</td>
+</tr>
+</tbody></table></div>
 <hr>
 <p>1 Cz. Michalski: Wpływ wolnych sobót na pracę PKP. &quot;Przegląd Komunikacyjny&quot;, 1980, nr 11-12, s. 385.</p>
 <p>Jeżeli cytowane dzieło zostało napisane alfabetem niełacińskim, opisuje się je transliterując. Dopuszcza się przy tym uwspółcześnienie pisowni.<br>Jeżeli przytaczane dzieło zostało napisane przez więcej niż trzech autorów, wówczas nie podaje się ich nazwisk, a notka rozpoczyna się od tytułu dzieła, po którym stawia się kropkę i pisze: Praca zbiorowa lub Praca zbiorowa pod red. ...<br>Jeżeli cytuje się oficjalne dokumenty, wówczas na początku przypisu podaje się nazwę autora korporatywnego:</p>
@@ -327,136 +507,119 @@
 <p>Częstym błędem w sporządzanych zestawieniach literatury, jak też w notkach bibliograficznych, jest powoływanie się na całe roczniki czasopism, np.: &quot;Przegląd Komunikacyjny&quot; 1980, nr 4. Pozycję bibliograficzną stanowi bowiem artykuł zawarty w czasopiśmie, a nie samo czasopismo.</p>
 <p>Podobnie niewłaściwe jest zamieszczanie w zestawieniu literatury przedmiotu, która była cytowana z materiałów źródłowych i aktów normatywnych. Te ostatnie należy zestawiać pod odrębnymi hasłami: &quot;Materiały źródłowe&quot;, &quot;Akty normatywne&quot;. W sporządzanych tego typu zestawieniach podaje się najpierw nazwisko autora, a potem imię lub jego pierwszą literę. W zestawieniach tych nie podaje się już stron, na których znajdowały się przytaczane kwestie.</p>
 <p>Przykład:</p>
-<p><strong>BIBLIOGRAFIA</strong></p>
+<p class="rozdzial" id="r-7"><strong>BIBLIOGRAFIA</strong></p>
 <ol>
-<li></li>
+<li>Abt S., Woźniak M.: Podstawy logistyki. UG, Gdańsk 1993.</li>
+<li>Abt S.: Zarządzenie logistyczne w przedsiębiorstwie PWE, Warszawa 1998.</li>
+<li>Beier F. J., Rutkowski K.: Logistyka. SGH, Warszawa 1995.</li>
+<li>Beier F. J., Rutkowski K.: Logistyka. SGH, Warszawa 1997.</li>
+<li>Chaberek M.: Zarządzanie logistyczne - niektóre praktyczne aspekty teorii, Poznań 1998.</li>
+<li>Chylak E: Kierunki rozwoju logistyki w SZ RP. &quot;Myśl Wojskowa&quot; 1997, nr 6.</li>
+<li>Cygan Z., Wojtczak J.. Funkcje i struktura logistyki. &quot;Wojskowy Przegląd Techniczny &amp; Logistyczny&quot; 1997, nr 2.</li>
+<li>Daniluk M.: Wojsko w gospodarce rynkowej, BBW Bellona, Warszawa 1994.</li>
+<li>Daniluk M.: Wydatki wojskowe we współczesnym świecie. Warszawa 1980.</li>
 </ol>
-<p>Abt S., Woźniak M.: Podstawy logistyki. UG, Gdańsk 1993.</p>
-<ol start="2">
-<li></li>
-</ol>
-<p>Abt S.: Zarządzenie logistyczne w przedsiębiorstwie PWE, Warszawa 1998.</p>
-<ol start="3">
-<li></li>
-</ol>
-<p>Beier F. J., Rutkowski K.: Logistyka. SGH, Warszawa 1995.</p>
-<ol start="4">
-<li></li>
-</ol>
-<p>Beier F. J., Rutkowski K.: Logistyka. SGH, Warszawa 1997.</p>
-<ol start="5">
-<li></li>
-</ol>
-<p>Chaberek M.: Zarządzanie logistyczne - niektóre praktyczne aspekty teorii, Poznań 1998.</p>
-<ol start="6">
-<li></li>
-</ol>
-<p>Chylak E: Kierunki rozwoju logistyki w SZ RP. &quot;Myśl Wojskowa&quot; 1997, nr 6.</p>
-<ol start="7">
-<li></li>
-</ol>
-<p>Cygan Z., Wojtczak J.. Funkcje i struktura logistyki. &quot;Wojskowy Przegląd Techniczny &amp; Logistyczny&quot; 1997, nr 2.</p>
-<ol start="8">
-<li></li>
-</ol>
-<p>Daniluk M.: Wojsko w gospodarce rynkowej, BBW Bellona, Warszawa 1994.</p>
-<ol start="9">
-<li></li>
-</ol>
-<p>Daniluk M.: Wydatki wojskowe we współczesnym świecie. Warszawa 1980.</p>
 <p>Tablice i rysunki</p>
 <p>Brak jest dokładnego rozgraniczenia terminologicznego pomiędzy tabelą a tablicą. W praktyce redakcyjnej takich wydawnictw jak: PWN, KAW, Ossolineum, PAN, PPWK, WSziP, GTW i innych używa się jednolicie terminu tabela. Wydawnictwa takie jak: WKiŁ, PWE, PZWS, GUS, KiW, PAX, SGPiS, Politechnika Szczecińska i Wydawnictwo UG używają jednolicie terminu tablica. Ponieważ niniejsze opracowanie jest przeznaczone dla studentów Uniwersytetu Gdańskiego, zaleca się używać tego terminu, jako przyjętego zwyczajowo w środowisku tej uczelni.</p>
 <p>Każdej tablicy przyporządkowuje się numer cyframi arabskimi, odpowiednio do kolejności ich występowania w tekście i pisze się go z prawej strony u góry tablicy, bezpośrednio nad tytułem za słowem &quot;Tablica&quot;. Nie używa się w tym zwrocie słowa &quot;numer&quot;.</p>
 <p>Tytuł tablicy ułatwia jej zrozumienie i usamodzielnia ją w tekście. Określać on winien w sposób skrótowy o czym tablica mówi. W przypadku tablic statystycznych należy podać w tytule, jakiego czasookresu dotyczą prezentowane informacje oraz jednostki miary, w jakich są wyrażone prezentowane wielkości.</p>
 <p>Tablica 1</p>
 <p>Przewozy ładunków transportem uspołecznionym w latach 1975-1980 (w mln ton)</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
 <p>Jeżeli w tablicy zawarte są wielkości w różnych jednostkach miar, to powinny być odpowiednio umieszczone w nagłówku tablicy lub z boku wielkości.</p>
 <p>Każda tablica powinna być opatrzona notką dotyczącą jej źródła i odsyłaczy zawartych wewnątrz tablicy i jej tytule. Opisy te mają zwykle na celu objaśnienie zakresu niesystematyczności bądź niekompletności tablicy. Najpierw pisze się notki dotyczące odsyłaczy, a pod nim źródło całej tablicy. Źródło to może być opisane w następujący sposób:</p>
 <p>               • przy bezpośrednim cytowaniu całej tablicy:</p>
 <p>Tablica 1</p>
 <p>Przewozy ładunków transportem uspołecznionym w latach 1975-1980 (w mln ton)</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
 <p>Źródło: Rocznik Statystyczny GUS 1980, s. 228 tabl. 18 (440).</p>
 <p>               • przy sporządzaniu tablicy z różnych źródeł:</p>
 <p>Tablica 1</p>
 <p>Przewozy ładunków transportem uspołecznionym w latach 1975-1980 (w mln ton)</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
 <p>Źródło: Opracowanie własne na podstawie: Rocznik Statystyczny GUS 1975, s. 228 tabl. 18 (440); Rocznik Statystyczny GUS 1978, s. 210 tabl. 11 (400); Rocznik Statystyczny GUS 1980, s. 198 tabl. 12 (330);</p>
 <p>Wypełniając tablice liczbami, korzysta się z następujących znaków umownych:</p>
-<p>kreska (-)</p>
-<p>-</p>
-<p>zjawisko nie wystąpiło,</p>
-<p>zero (0)</p>
-<p>-</p>
-<p>zjawisko istniało, jednakże w ilościach mniejszych od liczb, które mogły być wyróżnione z uwagi na rząd wielkości,</p>
-<p>kropka (.)</p>
-<p>-</p>
-<p>zupełny brak informacji albo też brak informacji wiarygodnych,</p>
-<p>znak (x)</p>
-<p>-</p>
-<p>służy do wypełnienia tych pozycji, których wypełnienie ze względu na układ tablicy jest niemożliwe lub niecelowe.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>kreska (-)</th>
+<th>-</th>
+<th>zjawisko nie wystąpiło,</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>zero (0)</td>
+<td>-</td>
+<td>zjawisko istniało, jednakże w ilościach mniejszych od liczb, które mogły być wyróżnione z uwagi na rząd wielkości,</td>
+</tr>
+<tr>
+<td>kropka (.)</td>
+<td>-</td>
+<td>zupełny brak informacji albo też brak informacji wiarygodnych,</td>
+</tr>
+<tr>
+<td>znak (x)</td>
+<td>-</td>
+<td>służy do wypełnienia tych pozycji, których wypełnienie ze względu na układ tablicy jest niemożliwe lub niecelowe.</td>
+</tr>
+</tbody></table></div>
 <p>Tablice zamieszcza się bezpośrednio w tekście, który do nich nawiązuje. Komentarz do tablicy nie powinien być prostym powtórzeniem informacji w niej zawartych, lecz ich ukierunkowanym przetworzeniem w wyciągnięciem wniosków. W komentarzu powinno się powoływać się na numer tablicy, a nie pisać &quot;(...) jak z powyższej (poniższej) tablicy wynika ...&quot;, gdyż w trakcie przepisywania tekstu na maszynie tablice mogą zmienić swoje położenie, co przy dużej ich ilości może spowodować, że nie będzie wiadomo, o którą z nich chodzi.</p>
 <p>Najbardziej czytelny i przejrzysty jest pionowy (stojący) układ tablic, a więc taki, jak liter tekstu na stronie formatu A-4. Jeżeli szerokość tablicy nie pozwala na jej pionowe umieszczenie, to wówczas można ją obrócić o 90° , ale zawsze nagłówkiem tablicy do lewego marginesu. Tytuł tablicy i jej numer musi być w takim przypadku umieszczony w zmienionym tak samo położeniu - nad jej nagłówkiem z odpowiednio dużym odstępem od brzegu kartki, aby po oprawieniu pracy można było ten tytuł i numer łatwo odczytać.</p>
 <p>Jeżeli tablica nie mieści się na jednej stronie, wówczas przenosi się ją na następną, powtarzając bądź cały nagłówek (gdy jest bardzo prosty), bądź też tylko (co jest łatwiejsze) drabinkę cyfrową, czyli numerację poszczególnych kolumn (cyframi arabskimi).</p>
 <p>W pracach seminaryjnych i magisterskich materiałem dokumentacyjnym, oprócz tablic, mogą być: rysunki, wykresy, ilustracje i zdjęcia. Powinny one stanowić integralną część opracowania, niezbędną dla jasności i ciągłości toku rozumowania.</p>
 <p>Wykresy są graficzną ilustracją kilku zjawisk, trendów rozwojowych, porównań kilku wielkości. Najczęściej sporządza się je w układzie współrzędnych - X, Y. Jeżeli zachodzi potrzeba pokazania na wykresie zmiany wielkości określonego zjawiska w dużym przedziale liczbowym, ze szczególnym zaakcentowaniem tej zmiany dla wielkości najmniejszych, wówczas na osiach współrzędnych przyjąć należy skalę logarytmiczną. Przy sporządzaniu takiej skali posłużyć się można następującym, uproszczonym przeliczeniem:</p>
-<p>     Wartość podziałki</p>
-<p>1</p>
-<p>2</p>
-<p>3</p>
-<p>4</p>
-<p>5</p>
-<p>6</p>
-<p>7</p>
-<p>8</p>
-<p>9</p>
-<p>10</p>
-<p>     Odstęp w cm od początku osi współrzędnych</p>
-<p>0</p>
-<p>2,4</p>
-<p>3,8</p>
-<p>4,8</p>
-<p>5,6</p>
-<p>6,2</p>
-<p>6,7</p>
-<p>7,2</p>
-<p>7,6</p>
-<p>8,0</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>Wartość podziałki</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Odstęp w cm od początku osi współrzędnych</td>
+<td>0</td>
+<td>2,4</td>
+<td>3,8</td>
+<td>4,8</td>
+<td>5,6</td>
+<td>6,2</td>
+<td>6,7</td>
+<td>7,2</td>
+<td>7,6</td>
+<td>8,0</td>
+</tr>
+</tbody></table></div>
 <p>Jeżeli zachodzi potrzeba przedstawienia na wykresie wielkości wyrażonych liczbami wielocyfrowymi, wówczas podziałka skali logarytmicznej jest tylokrotnym odłożeniem wyżej przedstawionych odstępów, ilocyfrowe mają być przedstawione liczby. Odległości te będą wówczas wynosiły odpowiednio:</p>
-<p>dla 20 jednostek</p>
-<p>-</p>
-<p>8,0 cm + 2,4 cm = 10,4 cm</p>
-<p>dla 30 jednostek</p>
-<p>-</p>
-<p>8,0 cm + 3,8 cm = 11,8 cm</p>
-<p>dla 100 jednostek</p>
-<p>-</p>
-<p>8,0 cm + 8,0 cm = 16,0 cm</p>
-<p>dla 1000 jednostek</p>
-<p>-</p>
-<p>16,0 cm + 8,0 cm = 24,0 cm</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>dla 20 jednostek</th>
+<th>-</th>
+<th>8,0 cm + 2,4 cm = 10,4 cm</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>dla 30 jednostek</td>
+<td>-</td>
+<td>8,0 cm + 3,8 cm = 11,8 cm</td>
+</tr>
+<tr>
+<td>dla 100 jednostek</td>
+<td>-</td>
+<td>8,0 cm + 8,0 cm = 16,0 cm</td>
+</tr>
+<tr>
+<td>dla 1000 jednostek</td>
+<td>-</td>
+<td>16,0 cm + 8,0 cm = 24,0 cm</td>
+</tr>
+</tbody></table></div>
 <p>Początek osi współrzędnych skali logarytmicznej nie zaczyna się od zera, lecz od jedności (lub jej wielokrotności 10ąn). Ażeby było możliwe przedstawienie wielkości liczbowych w dużej rozpiętości, np. od setnych części do tysięcy jednostek, należy zmniejszyć odstępy między poszczególnymi wartościami podziałki logarytmicznej np. o połowę.</p>
 <p>Oprócz wykresów liniowych stosowane są też wykresy powierzchniowe. Umożliwiają one bardziej poglądowe zobrazowanie zjawiska, przez odpowiedni podział powierzchni koła, kwadratu, szerokości i wysokości prostokątnych słupków - odpowiadających wielkościom analizowanych informacji. Charakter i sposób wykorzystania tego typu wykresów zależy od inwencji autora.</p>
 <p><strong>Zasadą jest aby wszystkie rysunki, schematy, wykresy,<br>mapki, szkice podpisywać jako rysunki.</strong></p>
@@ -465,22 +628,46 @@
 <p>Rysunek, wykres, schemat, mapka itp.</p>
 <p>Rys. 2.3. Wpływ zmian czasu podróży i jakości usług na dany poziom popytu.<br>Źródło: I. G. Heggie: Ekonomika inwestycji, Warszawa 1978, s. 89, rys. 4.2.</p>
 <p>Tablice i rysunki powinny posiadać swoje spisy. Spisy te zamieszcza się bezpośrednio po spisie treści (są one integralną częścią spisu treści) na oddzielnych stronach, w kolejności: spis tablic, spis rysunków, np.:</p>
-<p><strong>SPIS TABLIC</strong></p>
-<p>Tabl. 1.1.</p>
-<p>Przewozy ładunków transportem uspołecznionym w latach 1970-1980 w mln ton .......................</p>
-<p>strona</p>
-<p>Tabl. 2.1.</p>
-<p>Przewozy ładunków transportem uspołecznionym według gałęzi przemysłu w latach 1970-1980 w mln ton ...........................................................................................................................</p>
-<p>strona</p>
-<p>itd.</p>
-<p><strong>SPIS RYSUNKÓW</strong></p>
-<p>Rys. 1.1.</p>
-<p>Schemat organizacyjny przedsiębiorstwa PKP ........................................................................</p>
-<p>strona</p>
-<p>Rys. 2.1.</p>
-<p>Zależność czasu podróży od odległości i środka transportu ....................................................</p>
-<p>strona</p>
-<p>itd.</p>
+<p class="rozdzial" id="r-8"><strong>SPIS TABLIC</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>Tabl. 1.1.</th>
+<th>Przewozy ładunków transportem uspołecznionym w latach 1970-1980 w mln ton .......................</th>
+<th>strona</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Tabl. 2.1.</td>
+<td>Przewozy ładunków transportem uspołecznionym według gałęzi przemysłu w latach 1970-1980 w mln ton ...........................................................................................................................</td>
+<td>strona</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>itd.</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-9"><strong>SPIS RYSUNKÓW</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>Rys. 1.1.</th>
+<th>Schemat organizacyjny przedsiębiorstwa PKP ........................................................................</th>
+<th>strona</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Rys. 2.1.</td>
+<td>Zależność czasu podróży od odległości i środka transportu ....................................................</td>
+<td>strona</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>itd.</td>
+</tr>
+</tbody></table></div>
 <p>Załącznik (aneks)</p>
 <p>Załącznik stanowi oddzielną część pracy zamieszczoną na jej końcu, w sposób zwarty z całością pracy bądź też, przy dużych objętościowo pracach, w formie oddzielnego wolumenu. Załącznik do pracy powinien posiadać własną stronę tytułową, określającą jego zawartość. W przypadku gdy załącznik stanowi odrębny wolumen jego strona tytułowa winna być podobna do strony tytułowej pracy z dopisem:</p>
 <p>&quot;Załącznik (aneks) do pracy seminaryjnej (magisterskiej) pt. ....................&quot;</p>
@@ -493,13 +680,23 @@
 <p>Wyróżnienia i wyliczenia</p>
 <p>Wyróżnienie pewnych wyrazów lub fragmentów pracy może mieć na celu zwrócenie czytelnikowi uwagi na wyróżniony fragment bądź też może stanowić ostatni etap gradacji części składowych pracy.</p>
 <p>W piśmie ręcznym i maszynowym praktycznie może mieć zastosowanie:</p>
-<p>-</p>
-<p>s p a c j o w a n i e (do krótkich tekstów) tj. pismo rozstrzelone,</p>
-<p>-</p>
-<p><strong>pogrubienie</strong>,</p>
-<p>-</p>
-<p>podkreślenie.</p>
-<p><strong>Wyróżnieniami należy operować bardzo oszczędnie.</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>-</th>
+<th>s p a c j o w a n i e (do krótkich tekstów) tj. pismo rozstrzelone,</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>-</td>
+<td><strong>pogrubienie</strong>,</td>
+</tr>
+<tr>
+<td>-</td>
+<td>podkreślenie.</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-10"><strong>Wyróżnieniami należy operować bardzo oszczędnie.</strong></p>
 <p>Wyliczenia są to wyszczególnienia różnych wariantów danej sprawy (kwestii). Wyliczenia krótkie pisane są zwykle w jednym zdaniu po dwukropku, w ciągu, wiersz za wierszem. Dłuższe wyliczenia, również mogą być wyrażane jednym zdaniem, ale wyliczane kwestie są zamieszczane w oddzielnych wierszach jedna pod drugą, z oznaczeniem poszczególnych wariantów kolejnymi literami alfabetu lub myślnikami.</p>
 <p>Bardziej złożone wyliczenia, które trudno jest zamknąć w jednym zdaniu, pisze się od nowego wiersza z akapitem, oznaczając kwestię np. kolejnymi cyframi arabskimi. Należy jednak zaznaczyć, że oznaczenia cyfrowe winny być stosowane w przypadkach skończonej ilości wymienianych kwestii. Dlatego najbardziej neutralne jest oznaczanie poszczególnych wariantów myślnikami, jakkolwiek kolejność prezentacji poszczególnych kwestii świadczyć może również o ich randze. Na ogół stosuje się zasadę, aby po nawiasach i myślnikach pisać następujące po nich słowa małą literą, zaś po kropkach dużą.</p>
 <p>Przestrzeganie reprezentowanych zasad jest nieodzownym warunkiem spełnienia wymogów formalnych prac seminaryjnych i magisterskich, co jest również przesłanką do ostatecznej oceny pracy.</p>
@@ -522,12 +719,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>
