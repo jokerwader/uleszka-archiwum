@@ -107,6 +107,25 @@ await sprawdz("read_book, search w bibliotece i find_in_article na książce", a
   assert.match(f, /wystąpień/);
 });
 
+await sprawdz("oryginały: read_book z numeracją (Herodot 2.148, Księga Rodzaju 6:4), powiązanie z przekładem, szukanie po grecku bez akcentów", async () => {
+  const lib = txt(await wywolaj("list_library", {}));
+  assert.match(lib, /Teksty w językach oryginału/);
+  assert.match(lib, /id: mahabharata-sa/);
+  const h = txt(await wywolaj("read_book", { id: "herodot-dzieje-grc", ref: "2.148" }));
+  assert.match(h, /\[2\.148\.1\]/);
+  assert.match(h, /λαβύριν/);
+  const g = txt(await wywolaj("read_book", { id: "ksiega-rodzaju-he", ref: "6:4" }));
+  assert.match(g, /^\[6:4\] [א-ת]/m); // werset o Nefilim, tekst hebrajski
+  const n = txt(await wywolaj("search", { query: "נפלים", scope: "biblioteka", limit: 5 })); // bez samogłosek
+  assert.match(n, /ksiega-rodzaju-he/);
+  const p = txt(await wywolaj("read_book", { id: "platon-kritias" }));
+  assert.match(p, /tekst w języku oryginału: platon-kritias-grc/);
+  const s = txt(await wywolaj("search", { query: "Ατλαντις", scope: "biblioteka", limit: 5 }));
+  assert.match(s, /platon-(timajos|kritias)-grc/);
+  const zly = await wywolaj("read_book", { id: "herodot-dzieje-grc", ref: "99.99" });
+  assert.equal(zly.isError, true);
+});
+
 await sprawdz("list_articles zwraca 148 stron i wszystkie działy", async () => {
   const t = txt(await wywolaj("list_articles", {}));
   assert.match(t, /148 stron/);

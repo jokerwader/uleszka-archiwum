@@ -82,7 +82,9 @@ const GRUPY: { nazwa: string; opis: string; ids: string[] }[] = [
 ];
 const LIMIT = 4_500_000;
 const wGrupach = new Set(GRUPY.flatMap((g) => g.ids));
-const pozostale = archiwum.ksiazki.filter((k) => !wGrupach.has(k.id)).map((k) => k.id);
+// teksty w językach oryginału (greka, łacina, hebrajski, sanskryt…) nie trafiają do paczek – są zbyt duże w tokenach;
+// dostępne przez serwer MCP i w folderze biblioteka/
+const pozostale = archiwum.ksiazki.filter((k) => !wGrupach.has(k.id) && !k.meta.rodzaj_tekstu).map((k) => k.id);
 if (pozostale.length) GRUPY.push({ nazwa: "inne", opis: "pozostałe dzieła", ids: pozostale });
 
 const naglowekKsiazki = (k: (typeof archiwum.ksiazki)[number]) => {

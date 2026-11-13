@@ -12,7 +12,7 @@ import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/streamableHttp.js";
 import { createServer } from "node:http";
 import { z } from "zod";
-import { Archiwum, zloz, type Dokument } from "./archiwum.js";
+import { Archiwum, JEZYKI, zloz, type Dokument } from "./archiwum.js";
 import { Semantyka, zaladujModel, type Zbior } from "./semantyka.js";
 
 const KATALOG_GLOWNY = process.env.ULESZKA_KATALOG ?? resolve(dirname(fileURLToPath(import.meta.url)), "..");
@@ -35,6 +35,8 @@ Jak pracować:
 - Powiązane artykuły: related_articles. Konkretne miejsca w długim tekście: find_in_article.
 - Książki cytowane przez autora i gdzie są dostępne: list_books. Pełne teksty dawnych źródeł: list_library, read_book.
   Gdy autor powołuje się na Platona, Herodota, Biblię itp., sprawdź w bibliotece, co źródło naprawdę mówi.
+  Dla wielu dzieł jest też tekst w języku oryginału (greka, łacina, hebrajski, dawny francuski, sanskryt) z numeracją miejsc –
+  read_book(id, ref) otwiera wskazane miejsce. Własne tłumaczenia z oryginału oznaczaj jako przekład roboczy AI.
 - Cytując archiwum, przytaczaj tekst dosłownie i podawaj tytuł artykułu. Opracowania i opisy zdjęć są pomocą AI, nie częścią oryginału.
 - Wyraźnie oddzielaj to, co twierdzi autor strony, od aktualnej wiedzy i własnej oceny. Teksty pochodzą sprzed ok. 20 lat
   i zawierają wiele hipotez niezgodnych z dzisiejszą nauką (szczególnie w dziale medycznym) – omawiaj je rzetelnie,
@@ -55,17 +57,27 @@ const WIERSZE_KSIAZEK: { sekcja: string; wiersz: string }[] = (() => {
 
 /** Tworzy serwer MCP z narzędziami archiwum (jeden na połączenie; archiwum jest wczytane raz, wspólne). */
 function utworzSerwer(): McpServer {
-const server = new McpServer({ name: "uleszka-archiwum", version: "1.2.0" }, { instructions: INSTRUKCJE });
+const server = new McpServer({ name: "uleszka-archiwum", version: "1.3.0" }, { instructions: INSTRUKCJE });
 
 const tekst = (t: string) => ({ content: [{ type: "text" as const, text: t }] });
 const blad = (t: string) => ({ content: [{ type: "text" as const, text: t }], isError: true });
+const wersje = (k: Dokument) => {
+  const { oryginaly, przeklady } = archiwum.powiazaneWersje(k);
+  if (oryginaly.length) return `tekst w języku oryginału: ${oryginaly.map((o) => `${o.id} (${JEZYKI[String(o.meta.jezyk)]})`).join(", ")}`;
+  if (przeklady.length) return `przekład w bibliotece: ${przeklady.map((p) => p.id).join(", ")}`;
+  return "";
+};
 const naglowek = (a: Dokument) =>
   a.rodzaj === "ksiazka"
     ? [
         `# ${a.tytul}`,
-        `id: ${a.id} | autor: ${a.autor}${a.meta.tlumacz ? ` | przekład: ${a.meta.tlumacz}` : ""} | język: ${a.meta.jezyk}`,
+        `id: ${a.id} | autor: ${a.autor}${a.meta.tlumacz ? ` | przekład: ${a.meta.tlumacz}` : ""} | język: ${JEZYKI[String(a.meta.jezyk)] ?? a.meta.jezyk}${a.meta.rodzaj_tekstu ? " (ORYGINAŁ)" : ""}`,
+        a.meta.wydanie ? `wydanie: ${a.meta.wydanie}` : "",
+        wersje(a),
         `źródło: ${a.adresOryginalny} | licencja: ${a.meta.licencja}`,
-      ].join("\n")
+      ]
+        .filter(Boolean)
+        .join("\n")
     : [
         `# ${a.tytul}`,
         `id: ${a.id} | dział: ${a.dzial}${a.rodzic ? ` | podstrona artykułu: ${a.rodzic}` : ""}`,
@@ -404,37 +416,58 @@ server.registerTool(
   {
     title: "Biblioteka dawnych źródeł",
     description:
-      "Lists the built-in library: full texts of ancient and historical works cited by the author that are in the public domain (Plato's Timaeus and Critias, Herodotus, Genesis, Ovid, the Book of Enoch, Popol Vuh, Gilgamesh, Hammurabi, Book of the Dead, Strabo, Pliny, Mahabharata, Ramayana, Nostradamus, Charles Fort and more). Use read_book / find_in_article / search(scope='biblioteka') on them.",
+      "Lists the built-in library: full texts of ancient and historical works cited by the author that are in the public domain (Plato's Timaeus and Critias, Herodotus, Genesis, Ovid, the Book of Enoch, Popol Vuh, Gilgamesh, Hammurabi, Book of the Dead, Strabo, Pliny, Mahabharata, Ramayana, Nostradamus, Charles Fort and more) – translations (Polish/English) and, for many works, the ORIGINAL-LANGUAGE text (Ancient Greek, Latin, Hebrew, old French, Sanskrit) with standard citation numbering. Use read_book (optionally with ref, e.g. '24e', '2.148', '6:4') / find_in_article / search(scope='biblioteka') on them.",
     inputSchema: {},
     annotations: { readOnlyHint: true },
   },
-  async () =>
-    tekst(
-      `# Biblioteka – ${archiwum.ksiazki.length} dzieł z domeny publicznej\n\n` +
-        archiwum.ksiazki
-          .map((k) => {
-            const ile = archiwum.czesci(k, ROZMIAR_CZESCI).length;
-            const cyt = (k.meta.cytowane_w as string[] | undefined) ?? [];
-            return `- ${k.tytul} — ${k.autor}${k.meta.tlumacz ? `, przekład: ${k.meta.tlumacz}` : ""} (${k.meta.jezyk}) — id: ${k.id} (${ile} części)${k.meta.uwagi ? ` · ${k.meta.uwagi}` : ""}${cyt.length ? ` · cytowane w ${cyt.length} art.` : ""}`;
-          })
-          .join("\n"),
-    ),
+  async () => {
+    const wiersz = (k: Dokument) => {
+      const ile = archiwum.czesci(k, ROZMIAR_CZESCI).length;
+      const cyt = (k.meta.cytowane_w as string[] | undefined) ?? [];
+      const w = wersje(k);
+      return `- ${k.tytul} — ${k.autor}${k.meta.tlumacz ? `, przekład: ${k.meta.tlumacz}` : ""} (${JEZYKI[String(k.meta.jezyk)] ?? k.meta.jezyk}) — id: ${k.id} (${ile} części)${w ? ` · ${w}` : ""}${k.meta.uwagi ? ` · ${k.meta.uwagi}` : ""}${cyt.length ? ` · cytowane w ${cyt.length} art.` : ""}`;
+    };
+    const przeklady = archiwum.ksiazki.filter((k) => !k.meta.rodzaj_tekstu);
+    const oryginaly = archiwum.ksiazki.filter((k) => k.meta.rodzaj_tekstu);
+    return tekst(
+      [
+        `# Biblioteka – ${archiwum.ksiazki.length} tekstów z domeny publicznej`,
+        "",
+        `## Przekłady (${przeklady.length})`,
+        ...przeklady.map(wiersz),
+        "",
+        `## Teksty w językach oryginału (${oryginaly.length})`,
+        "Fragmenty mają standardową numerację w nawiasach, np. [24e], [2.148.1], [1.37], [6:4] – read_book(id, ref) otwiera wskazane miejsce.",
+        "Tłumacząc z oryginału, zaznacz, że to przekład roboczy AI, i porównaj go z opublikowanym przekładem z biblioteki.",
+        ...oryginaly.map(wiersz),
+      ].join("\n"),
+    );
+  },
 );
 
 server.registerTool(
   "read_book",
   {
     title: "Czytaj dzieło z biblioteki",
-    description: `Returns the text of a public-domain book from the library, in parts of ~${ROZMIAR_CZESCI} characters. Books are long – use find_in_article(id, phrase) or search(scope='biblioteka') to locate the relevant part first.`,
+    description: `Returns the text of a public-domain book from the library, in parts of ~${ROZMIAR_CZESCI} characters. Books are long – use find_in_article(id, phrase) or search(scope='biblioteka') to locate the relevant part first. For original-language texts (and translations with numbering) pass ref = standard citation to open that exact place: Plato Stephanus '24e', Herodotus/Strabo/Caesar 'book.chapter' or 'book.chapter.section' ('2.148'), poems 'book.line' ('1.37'), Pliny 'book.section' ('36.75'), Genesis 'chapter:verse' ('6:4'), Ramayana/Mahabharata 'book.chapter' ('6.5').`,
     inputSchema: {
-      id: z.string().describe("id książki z list_library, np. „platon-kritias”"),
+      id: z.string().describe("id książki z list_library, np. „platon-kritias” albo „platon-kritias-grc” (oryginał)"),
       part: z.number().int().min(1).default(1),
+      ref: z.string().optional().describe("numeracja miejsca w dziele, np. „113c”, „2.148”, „1.37”, „6:4” – zwraca fragment od tego miejsca"),
     },
     annotations: { readOnlyHint: true },
   },
-  async ({ id, part }) => {
+  async ({ id, part, ref }) => {
     const k = archiwum.znajdz(id, "ksiazka");
     if (!k) return nieZnaleziono(id, "książki");
+    if (ref) {
+      const od = archiwum.miejsce(k, ref);
+      if (od === undefined) return blad(`Nie znaleziono miejsca [${ref}] w „${k.tytul}”. Numeracja w tym tekście wygląda tak: ${(k.tresc.match(/\[[^\]\s]{1,12}\]/g) ?? []).slice(0, 5).join(" ") || "(brak – użyj find_in_article)"}.`);
+      let fragment = k.tresc.slice(od, od + ROZMIAR_CZESCI);
+      const koniec = fragment.lastIndexOf("\n");
+      if (od + ROZMIAR_CZESCI < k.tresc.length && koniec > ROZMIAR_CZESCI / 2) fragment = fragment.slice(0, koniec);
+      return tekst(`${naglowek(k)} | od miejsca [${ref}]\n\n---\n\n${fragment}\n\n---\n[Dalej: read_book(id: "${k.id}", ref: …) z następnym numerem, albo find_in_article.]`);
+    }
     const czesci = archiwum.czesci(k, ROZMIAR_CZESCI);
     if (part > czesci.length) return blad(`Książka ma tylko ${czesci.length} części.`);
     return tekst(`${naglowek(k)} | część ${part} z ${czesci.length}\n\n---\n\n${czesci[part - 1]}\n\n---\n${stopkaCzesci(k, part, czesci.length, "read_book")}`);
@@ -518,8 +551,9 @@ server.registerPrompt(
           type: "text",
           text: `Sprawdź źródło dla: „${teza}”.
 1. Znajdź w archiwum uleszka.net, co autor pisze na ten temat i na jakie źródło się powołuje (search_by_meaning, search, find_in_article). Zacytuj go dosłownie.
-2. Znajdź to źródło w bibliotece (list_library, search z scope „biblioteka”, find_in_article, read_book) i zacytuj odpowiedni fragment oryginału (z podaniem przekładu).
-3. Porównaj: czy autor oddał źródło wiernie, czy coś dodał, pominął lub zinterpretował po swojemu? Jeśli źródła nie ma w bibliotece, sprawdź list_books i powiedz, gdzie można je przeczytać.`,
+2. Znajdź to źródło w bibliotece (list_library, search z scope „biblioteka”, find_in_article, read_book) i zacytuj odpowiedni fragment przekładu (z podaniem tłumacza i numeracji miejsca).
+3. Jeśli w bibliotece jest tekst w języku oryginału (greka, łacina, hebrajski, francuski, sanskryt), otwórz to samo miejsce (read_book z ref, np. „24e”, „2.148”, „6:4”), przytocz oryginał i przetłumacz go dosłownie – oznacz to jako przekład roboczy AI. Wskaż, czy przekład lub autor strony nie zmienił sensu.
+4. Porównaj: czy autor oddał źródło wiernie, czy coś dodał, pominął lub zinterpretował po swojemu? Jeśli źródła nie ma w bibliotece, sprawdź list_books i powiedz, gdzie można je przeczytać.`,
         },
       },
     ],

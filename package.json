@@ -1,6 +1,6 @@
 {
   "name": "uleszka-archiwum",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Archiwum serwisu uleszka.net (teksty bez zmian) z serwerem MCP do rozmowy z AI",
   "type": "module",
   "bin": {

@@ -18,6 +18,7 @@ Strona zniknęła z internetu. To repozytorium zachowuje **całość jej treści
 | 🧭 **Opracowania** | dla każdego artykułu: streszczenie, tezy autora z dosłownymi cytatami, tematy, osoby, miejsca i daty ([spis](opracowania/README.md)) |
 | 🖼️ **Opisy 1714 zdjęć** | co przedstawia każde zdjęcie, mapa i rysunek, razem z przepisanymi napisami |
 | 📚 **Biblioteka 30 dawnych dzieł** | pełne teksty źródeł, na które powołuje się autor: Platon, Herodot, Księga Rodzaju, Owidiusz, Księga Henocha, Popol Vuh, Gilgamesz, Mahabharata i in. ([biblioteka](biblioteka/README.md)) |
+| 🏛️ **17 tekstów w językach oryginału** | greka (Platon, Herodot, Iliada, Strabon, Argonautyki), łacina (Owidiusz, Pliniusz, Cezar, Apulejusz, Augustyn), hebrajski (Księga Rodzaju), dawny francuski (Nostradamus, Calmet) i sanskryt (Ramajana, Mahabharata) – z numeracją miejsc, np. Platon [24e], Herodot [2.148], Księga Rodzaju [6:4]; AI może je przetłumaczyć i porównać z przekładem |
 | 🔎 **Wyszukiwanie po znaczeniu** | pytanie „katastrofy z kosmosu” znajdzie teksty o kometach i Tiamat, choć tych słów w pytaniu nie ma |
 
 Opracowania i opisy zdjęć przygotowała sztuczna inteligencja. Są oddzielone od oryginału, który pozostał nietknięty. Każdy cytat w opracowaniach jest automatycznie sprawdzany: musi występować w artykule dosłownie.
@@ -149,6 +150,10 @@ Serwer odpowiada pod adresem `/mcp` (protokół MCP Streamable HTTP). Pod adrese
 
 Leszek Klimek cytuje setki książek i dawnych tekstów: od Platona, Herodota i Księgi Henocha po Dänikena i Sitchina. Zestawienie [**docs/ksiazki.md**](docs/ksiazki.md) pokazuje, które z nich można legalnie przeczytać lub pobrać za darmo i gdzie, a także w których artykułach są cytowane.
 
+W [**bibliotece**](biblioteka/README.md) jest 30 takich dzieł w przekładach polskich i angielskich, a dla 17 z nich także tekst w języku oryginału. Dzięki temu można sprawdzić nie tylko, czy autor wiernie oddał przekład, ale i czy sam przekład oddaje oryginał. Przykładowe pytanie do AI: *„Co dokładnie mówi Platon w Kritiasie o zagładzie Atlantydy? Przetłumacz grecki oryginał i porównaj z przekładem Witwickiego”*. Tłumaczenia AI z oryginału są robocze i należy je tak traktować. Teksty w językach oryginału są dostępne przez serwer MCP (sposoby C i D); do paczki `dla-ai/` nie trafiły, bo są zbyt obszerne.
+
+Oryginałów nie ma tam, gdzie nie istnieje wolny tekst cyfrowy: Księga Henocha (gyyz), Gilgamesz i Hammurabi (pismo klinowe), Księga Umarłych (hieroglify), Popol Vuh (kicze).
+
 ## 📜 Historia strony
 
 - **Autor:** Leszek Klimek. Jak mówił w wywiadzie, tematem zajął się w 1992 roku, po przejściu na emeryturę. Inspiracją był Erich von Däniken, ale nie wszystko w jego tezach przekonywało autora, więc zaczął dociekać sam. W internecie był od 2004 roku. ([wywiad, nandi.pl](https://nandi.pl/index.php?go=art_uleszka))
@@ -170,7 +175,7 @@ To repozytorium zachowuje stronę w pierwotnym układzie działów, razem ze zdj
 | [`dla-ai/`](dla-ai) | Całe archiwum i biblioteka w 18 plikach do wgrania do ChatGPT lub Claude (sposoby A i B) |
 | [`zrodlo/`](zrodlo) | Oryginalna kopia strony: pliki HTML i ok. 1500 zdjęć, bajt w bajt |
 | [`opracowania/`](opracowania) | Opracowania AI każdego artykułu (JSON) i [ich spis](opracowania/README.md) |
-| [`biblioteka/`](biblioteka) | 30 dawnych dzieł z domeny publicznej, na które powołuje się autor ([spis](biblioteka/README.md)) |
+| [`biblioteka/`](biblioteka) | 30 dawnych dzieł z domeny publicznej, na które powołuje się autor, i 17 tekstów w językach oryginału ([spis](biblioteka/README.md)) |
 | [`dane/`](dane) | Opisy AI zdjęć (`opisy-obrazow/`) i wektory do wyszukiwania po znaczeniu (`wektory/`) |
 | [`src/`](src) | Serwer MCP |
 | [`scripts/`](scripts) | Konwersja, kontrola wierności, pliki dla AI, testy |

@@ -31,7 +31,8 @@ if (zbior === "archiwum") {
     }
   }
 } else {
-  for (const k of archiwum.ksiazki)
+  // teksty w językach oryginału (greka, sanskryt…) bez wektorów – szuka się po przekładach i numeracji cytowań
+  for (const k of archiwum.ksiazki.filter((k) => !k.meta.rodzaj_tekstu))
     for (const f of fragmentuj(k.czysty, 1200)) {
       fragmenty.push({ d: k.id, od: f.od, do: f.do, r: "tekst" });
       teksty.push(`${k.tytul}. ${k.czysty.slice(f.od, f.do)}`);

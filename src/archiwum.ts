@@ -39,6 +39,9 @@ export type Opracowanie = {
 export type OpisObrazu = { sciezka: string; typ: string; opis: string; tekst_na_obrazie: string };
 
 /** Zamienia litery na małe i bez polskich znaków, zachowując długość tekstu (1 znak -> 1 znak). */
+/** Nazwy języków tekstów w bibliotece (pole `jezyk` w nagłówku pliku). */
+export const JEZYKI: Record<string, string> = { pl: "polski", en: "angielski", grc: "greka starożytna", la: "łacina", he: "hebrajski", fr: "francuski (dawny)", sa: "sanskryt" };
+
 const ZLOZONE_ZNAKI = new Map<string, string>();
 export function zloz(s: string): string {
   // zamiana tylko znaków spoza ASCII, jednym przebiegiem – oszczędza pamięć przy długich książkach
@@ -46,11 +49,23 @@ export function zloz(s: string): string {
     let r = ZLOZONE_ZNAKI.get(ch);
     if (r === undefined) {
       const base = ch.normalize("NFD")[0];
-      r = ch === "ł" ? "l" : base.length === ch.length ? base : ch;
+      r = ch === "ł" ? "l" : ch === "ſ" ? "s" : base.length === ch.length ? base : ch; // ſ – „długie s” w dawnych drukach
       ZLOZONE_ZNAKI.set(ch, r);
     }
     return r;
   });
+}
+
+/** Znaki diakrytyczne zapisywane osobno: akcenty łacińskie/greckie oraz hebrajskie samogłoski (nikud) i znaki kantylacji. */
+const ZNAKI_DIAKR = /[̀-֑ͯ-ׇֽֿׁׂׅׄ]/g;
+const JEST_ZNAK_DIAKR = /[̀-֑ͯ-ׇֽֿׁׂׅׄ]/;
+
+/** Tekst do porównywania fraz: bez wielkich liter, polskich znaków i diakrytyków, znaki niebędące literami → spacja. */
+export function doSzukania(s: string): string {
+  // zamiany przez funkcje (a nie tekst) – V8 buduje wtedy zwarty napis; przy książkach to setki MB pamięci mniej
+  return zloz(s)
+    .replace(/[^\p{L}\p{N}\p{M}]+/gu, () => " ")
+    .replace(ZNAKI_DIAKR, () => "");
 }
 
 function frontMatter(md: string): { meta: Record<string, unknown>; body: string } {
@@ -197,9 +212,10 @@ export class Archiwum {
       fields: ["tytul", "autor", "czysty"],
       searchOptions: { boost: { tytul: 3, autor: 2 }, prefix: true, fuzzy: 0.1 },
     });
-    this.indeksBiblioteki.addAll(this.ksiazki.map((k) => ({ id: k.id, tytul: k.tytul, autor: k.autor, czysty: k.czysty })));
-    // zamiana przez funkcję (a nie tekst " ") – V8 buduje wtedy zwarty napis; przy książkach to ok. 0,5 GB pamięci mniej
-    for (const d of [...this.artykuly, ...this.ksiazki]) this.zlozone.set(d.id, ` ${zloz(d.czysty).replace(/[^\p{L}\p{N}]+/gu, () => " ")} `);
+    // teksty w językach oryginału: w indeksie tylko tytuł i autor – ich treść przeszukuje się bezpośrednio (szukajWOryginalach);
+    // pełny indeks greki i sanskrytu zajmowałby kilkaset MB pamięci i wydłużał start serwera
+    this.indeksBiblioteki.addAll(this.ksiazki.map((k) => ({ id: k.id, tytul: k.tytul, autor: k.autor, czysty: k.meta.rodzaj_tekstu ? "" : k.czysty })));
+    for (const d of [...this.artykuly, ...this.ksiazki]) this.zlozone.set(d.id, ` ${doSzukania(d.czysty)} `);
   }
 
   /** Tekst opracowania (streszczenie, tezy, tematy…) jako jeden ciąg – do wyszukiwania. */
@@ -240,10 +256,25 @@ export class Archiwum {
       wyniki = indeks.search(zapytanie, { combineWith: "OR", filter: filtr });
       tryb = "dowolne ze słów";
     }
+    if (biblioteka) {
+      // dołączamy trafienia w tekstach oryginalnych (skala wyników dopasowana do najlepszego wyniku z indeksu)
+      const tylkoTytul = new Set(wyniki.map((w) => w.id));
+      const oryg = this.szukajWOryginalach(zapytanie, tryb === "wszystkie słowa");
+      const maks = Math.max(1, ...wyniki.map((w) => w.score));
+      const maksO = Math.max(1e-9, ...oryg.map((o) => o.score));
+      const dodane = oryg.map((o) => ({ ...(wyniki.find((w) => w.id === o.id) ?? { id: o.id, terms: [] as string[], queryTerms: [], match: {} }), terms: o.terms, score: (o.score / maksO) * maks + (tylkoTytul.has(o.id) ? maks : 0) }));
+      wyniki = [...wyniki.filter((w) => !oryg.some((o) => o.id === w.id)), ...dodane] as typeof wyniki;
+      if (!wyniki.length && tryb === "wszystkie słowa") {
+        const lub = this.szukajWOryginalach(zapytanie, false);
+        wyniki = lub.map((o) => ({ id: o.id, terms: o.terms, queryTerms: [], match: {}, score: o.score })) as unknown as typeof wyniki;
+        if (wyniki.length) tryb = "dowolne ze słów";
+      }
+    }
     // premia, gdy całe zapytanie występuje w tekście jako dokładna fraza
-    const fraza = zloz(zapytanie).replace(/[^\p{L}\p{N}]+/gu, " ").trim();
+    const fraza = doSzukania(zapytanie).trim();
     if (fraza.includes(" "))
-      wyniki = wyniki.map((w) => (this.zlozone.get(w.id)!.includes(fraza) ? { ...w, score: w.score * 5 } : w)).sort((x, y) => y.score - x.score);
+      wyniki = wyniki.map((w) => (this.zlozone.get(w.id)!.includes(fraza) ? { ...w, score: w.score * 5 } : w));
+    wyniki.sort((x, y) => y.score - x.score);
     return {
       tryb,
       lacznie: wyniki.length,
@@ -251,15 +282,56 @@ export class Archiwum {
     };
   }
 
+  /**
+   * Wyszukiwanie w tekstach w języku oryginału bez indeksu: liczy słowa zaczynające się od szukanych
+   * (bez akcentów i znaków diakrytycznych – „Ατλαντις” znajdzie „Ἀτλαντίς”, „נפלים” znajdzie „הַנְּפִלִ֞ים”).
+   */
+  szukajWOryginalach(zapytanie: string, wszystkie: boolean): { id: string; score: number; terms: string[] }[] {
+    const terminy = [...new Set(doSzukania(zapytanie).split(" ").filter((t) => t.length >= 2))];
+    if (!terminy.length) return [];
+    const wynik: { id: string; score: number; terms: string[] }[] = [];
+    for (const k of this.ksiazki) {
+      if (!k.meta.rodzaj_tekstu) continue;
+      const z = this.zlozone.get(k.id)!;
+      // hebrajski (przedrostki ha-, we-, be-…) i sanskryt (sandhi) zlewają słowa – tam szukamy też wewnątrz słów
+      const przedrostek = k.meta.jezyk === "he" || k.meta.jezyk === "sa" ? "" : " ";
+      let score = 0;
+      const trafione: string[] = [];
+      for (const t of terminy) {
+        let n = 0;
+        for (let i = z.indexOf(przedrostek + t); i !== -1 && n < 2000; i = z.indexOf(przedrostek + t, i + 1)) n++;
+        if (n) {
+          score += Math.log(1 + n);
+          trafione.push(t);
+        }
+      }
+      if (trafione.length && (!wszystkie || trafione.length === terminy.length)) wynik.push({ id: k.id, score, terms: trafione });
+    }
+    return wynik;
+  }
+
   /** Fragmenty tekstu wokół wystąpień słów (bez względu na polskie znaki i wielkość liter). */
   fragmenty(a: Dokument, terminy: string[], kontekst: number, limit: number) {
     const tekst = a.czysty;
-    const zlozony = zloz(tekst);
+    let zlozony = zloz(tekst);
+    // tekst z osobnymi znakami diakrytycznymi (np. hebrajski z nikudem): szukamy w wersji bez nich, pozycje przeliczamy
+    let mapa: number[] | undefined;
+    if (JEST_ZNAK_DIAKR.test(zlozony)) {
+      mapa = [];
+      const znaki: string[] = [];
+      for (let i = 0; i < zlozony.length; i++) {
+        const c = zlozony[i];
+        if (c.charCodeAt(0) >= 0x300 && JEST_ZNAK_DIAKR.test(c)) continue;
+        znaki.push(c);
+        mapa.push(i);
+      }
+      zlozony = znaki.join("");
+    }
     const pozycje: number[] = [];
-    for (const t of new Set(terminy.map(zloz).filter((t) => t.length >= 2))) {
+    for (const t of new Set(terminy.map((t) => zloz(t).replace(ZNAKI_DIAKR, "")).filter((t) => t.length >= 2))) {
       let i = zlozony.indexOf(t);
       while (i !== -1) {
-        pozycje.push(i);
+        pozycje.push(mapa ? mapa[i] : i);
         i = zlozony.indexOf(t, i + t.length);
       }
     }
@@ -301,6 +373,33 @@ export class Archiwum {
 
   podstrony(a: Dokument) {
     return this.artykuly.filter((x) => x.rodzic === a.id);
+  }
+
+  /** Teksty w języku oryginału dla danego przekładu (i odwrotnie: przekłady danego oryginału). */
+  powiazaneWersje(k: Dokument): { oryginaly: Dokument[]; przeklady: Dokument[] } {
+    const przeklady = ((k.meta.przeklady as string[] | undefined) ?? []).map((id) => this.poId.get(id)).filter((d): d is Dokument => !!d);
+    const oryginaly = this.ksiazki.filter((o) => (o.meta.przeklady as string[] | undefined)?.includes(k.id));
+    return { oryginaly, przeklady };
+  }
+
+  /**
+   * Fragment książki od miejsca o danej numeracji cytowania, np. „24e” (Platon), „2.148” (Herodot), „1.37” (Iliada), „6:4” (Biblia).
+   * Szuka znacznika [ref] lub [ref.…]; gdy go nie ma (np. wers bez numeru), bierze najbliższy wcześniejszy numer w tej samej księdze.
+   */
+  miejsce(k: Dokument, ref: string): number | undefined {
+    const r = ref.trim().replace(/^\[|\]$/g, "");
+    const t = k.tresc;
+    for (const wzor of [`[${r}]`, `[${r}.`, `[${r}:`]) {
+      const i = t.indexOf(wzor);
+      if (i !== -1) return t.lastIndexOf("\n", i) + 1;
+    }
+    const m = r.match(/^(.*[.:])(\d+)$/);
+    if (m)
+      for (let n = Number(m[2]) - 1; n >= Math.max(0, Number(m[2]) - 60); n--) {
+        const i = t.indexOf(`[${m[1]}${n}]`);
+        if (i !== -1) return t.lastIndexOf("\n", i) + 1;
+      }
+    return undefined;
   }
 
   /** Książki z biblioteki cytowane w danym artykule. */
