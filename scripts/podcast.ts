@@ -112,6 +112,9 @@ if (polecenie === "teksty") {
   const archiwum = new Archiwum(".");
   const artykuly = idy.map((id) => archiwum.znajdz(id, "artykul") ?? (() => { throw new Error(`Brak artykułu ${id}`); })());
   const folder = join("podcast", `${nr.padStart(2, "0")}-${slug(tytul)}`);
+  // numer 0 = zwiastun (w Spotify typ „Zwiastun”, pokazywany na górze strony podcastu); zapowiedź bez numeru odcinka
+  const zwiastun = Number(nr) === 0;
+  const etykieta = zwiastun ? "Na początek" : `Odcinek ${Number(nr)}`;
   mkdirSync(folder, { recursive: true });
 
   let n = 0;
@@ -122,7 +125,7 @@ if (polecenie === "teksty") {
   const calosc: string[] = [];
   const rozdzialy: { artykul: string; tytul: string; srodtytul: boolean; akapity: string[] }[] = [];
   // zapowiedź i zakończenie nie są tekstem autora; adres strony zapisany tak, jak ma go wymówić lektor
-  const zapowiedz = `Uwierz we własny rozum. Podcast w hołdzie świętej pamięci Leszkowi Wiktorowi Klimkowi. Jego teksty ze strony uleszka kropka net, z lat dwa tysiące cztery – dwa tysiące siedem, czytane bez zmian. Odcinek ${Number(nr)}: ${tytul}${/[.?!…]$/.test(tytul) ? "" : "."} Czyta lektor wygenerowany przez sztuczną inteligencję.`;
+  const zapowiedz = `Uwierz we własny rozum. Podcast w hołdzie świętej pamięci Leszkowi Wiktorowi Klimkowi. Jego teksty ze strony uleszka kropka net, z lat dwa tysiące cztery – dwa tysiące siedem, czytane bez zmian. ${etykieta}: ${tytul}${/[.?!…]$/.test(tytul) ? "" : "."} Czyta lektor wygenerowany przez sztuczną inteligencję.`;
   const zakonczenie = `To był tekst Leszka Klimka ze strony uleszka kropka net. Pełny tekst, ze zdjęciami i źródłami, znajdziesz w czytelni na stronie uleszka kropka net. Tam możesz też porozmawiać z archiwum strony przez sztuczną inteligencję.${PRZYGOTOWAL ? ` ${PRZYGOTOWAL}` : ""} Dziękuję za wysłuchanie.`;
   writeFileSync(join(folder, "00-zapowiedz.txt"), zapowiedz + "\n", "utf8");
   spis.push(`| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | ${zapowiedz.length} |`);
@@ -195,7 +198,8 @@ if (polecenie === "teksty") {
 
   const linki = artykuly.map((a) => `https://uleszka.net/czytelnia/${slug(a.id)}.html`);
   const streszczenia = artykuly.map((a) => archiwum.opracowania.get(a.id)?.streszczenie ?? "").filter(Boolean);
-  const opis = `# Odcinek ${Number(nr)}: ${tytul}
+  const zdrowie = artykuly.some((a) => /medycyn|zdrow/i.test(a.dzial));
+  const opis = `# ${zwiastun ? "Zwiastun" : etykieta}: ${tytul}
 
 ## Do wklejenia w ElevenLabs
 
@@ -228,13 +232,13 @@ ${poprawki.join("\n")}
 ` : ""}
 ## Opis odcinka (Spotify)
 
-**Tytuł:** ${tytul} – Leszek Klimek
-
+**Tytuł:** ${tytul}
+${zwiastun ? "\n**Typ odcinka:** Zwiastun (w Spotify for Creators: typ odcinka „Zwiastun”; pokazuje się na górze strony podcastu)\n" : ""}
 ${streszczenia.join("\n\n")}
 
 Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum i podcast powstały w hołdzie śp. Leszkowi Wiktorowi Klimkowi. Podcast przygotował jokerwader.
 
-Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zastępują porady lekarza.
+Teksty wyrażają poglądy autora sprzed ok. 20 lat.${zdrowie ? " W sprawach zdrowia nie zastępują porady lekarza." : ""}
 
 Pełny tekst ze zdjęciami: ${linki.join(" · ")}
 Rozmowa z archiwum przez AI: https://uleszka.net

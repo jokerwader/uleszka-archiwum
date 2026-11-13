@@ -8,14 +8,13 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków. Teksty maj
 | Plik | Co zawiera | Znaki (≈ kredyty) |
 |---|---|---|
 | 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | 275 |
-| 01-wstep.txt | Wstęp | 8901 |
-| 02-prywatnie-cz1.txt | Prywatnie, część 1 z 4 | 9227 |
-| 03-prywatnie-cz2.txt | Prywatnie, część 2 z 4 | 9465 |
-| 04-prywatnie-cz3.txt | Prywatnie, część 3 z 4 | 9383 |
-| 05-prywatnie-cz4.txt | Prywatnie, część 4 z 4 | 5784 |
+| 01-prywatnie-cz1.txt | Prywatnie, część 1 z 4 | 9227 |
+| 02-prywatnie-cz2.txt | Prywatnie, część 2 z 4 | 9465 |
+| 03-prywatnie-cz3.txt | Prywatnie, część 3 z 4 | 9383 |
+| 04-prywatnie-cz4.txt | Prywatnie, część 4 z 4 | 5784 |
 | 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 278 |
 
-**Razem: 43313 znaków** (≈ 46 min nagrania).
+**Razem: 34412 znaków** (≈ 36 min nagrania).
 
 ## ElevenLabs Studio (rozdziały)
 
@@ -26,16 +25,15 @@ generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP
 | Plik | Rozdział | Znaki |
 |---|---|---|
 | 00-zapowiedz.txt | Zapowiedź | 275 |
-| 01-wstep.txt | Wstęp | 8901 |
-| 02-calkiem-prywatnie.txt | CAŁKIEM PRYWATNIE | 5647 |
-| 03-o-historii.txt | O HISTORII | 5329 |
-| 04-o-najdawniejszej-polsce.txt | O NAJDAWNIEJSZEJ POLSCE | 5424 |
-| 05-o-ochronie-przyrody-i-zabytkow.txt | O OCHRONIE PRZYRODY I ZABYTKÓW | 5202 |
-| 06-o-zdrowiu.txt | O ZDROWIU | 2011 |
-| 07-o-przyszlosci.txt | O PRZYSZŁOŚCI | 5626 |
-| 08-co-zrozumialem.txt | CO ZROZUMIAŁEM? | 2590 |
-| 09-co-robic.txt | CO ROBIĆ? | 1957 |
-| 10-zakonczenie.txt | Zakończenie | 278 |
+| 01-calkiem-prywatnie.txt | CAŁKIEM PRYWATNIE | 5647 |
+| 02-o-historii.txt | O HISTORII | 5329 |
+| 03-o-najdawniejszej-polsce.txt | O NAJDAWNIEJSZEJ POLSCE | 5424 |
+| 04-o-ochronie-przyrody-i-zabytkow.txt | O OCHRONIE PRZYRODY I ZABYTKÓW | 5202 |
+| 05-o-zdrowiu.txt | O ZDROWIU | 2011 |
+| 06-o-przyszlosci.txt | O PRZYSZŁOŚCI | 5626 |
+| 07-co-zrozumialem.txt | CO ZROZUMIAŁEM? | 2590 |
+| 08-co-robic.txt | CO ROBIĆ? | 1957 |
+| 09-zakonczenie.txt | Zakończenie | 278 |
 
 ### Poprawione literówki (errata)
 
@@ -43,8 +41,6 @@ W tekście dla lektora poprawiono oczywiste literówki z oryginału (lista: `dan
 
 | Artykuł | Było | Jest | Razy |
 |---|---|---|---|
-| Wstęp | moga | mogą | 1 |
-| Wstęp | uzwględnić | uwzględnić | 1 |
 | Prywatnie | artukule | artykule | 1 |
 | Prywatnie | dżwięku | dźwięku | 1 |
 | Prywatnie | indokrynacja | indoktrynacja | 1 |
@@ -62,15 +58,13 @@ W tekście dla lektora poprawiono oczywiste literówki z oryginału (lista: `dan
 
 ## Opis odcinka (Spotify)
 
-**Tytuł:** Poznaj autora – Leszek Klimek
-
-Autor przedstawia założenia całego działu. Twierdzi, że oficjalna historia i teoria ewolucji są kontrolowane przez grupę naukowców broniących swojego monopolu, a początki cywilizacji opisują błędnie. Proponuje hipotezę o dawnej wysoko rozwiniętej „cywilizacji Bogów”, cyklicznych kataklizmach (wielkich uskokach skorupy ziemskiej), realnej Atlantydzie i błędnym przypisywaniu starożytnym ludom budowli, których nie mogły zbudować. Ostrzega, że kolejny globalny kataklizm jest nieuchronny, a ludzkość jest na niego nieprzygotowana.
+**Tytuł:** Poznaj autora
 
 Autor strony żegna się z aktywnym prowadzeniem serwisu i w osobistej refleksji (wrzesień 2006) podsumowuje swoje poglądy. Pisze, że zaczął pisać w ramach rehabilitacji po wylewie z 2001 roku, a opierał się na hipotezie cyklicznych kataklizmów (Hapgood), na kwestionowaniu sposobu budowy dawnych budowli i obróbki kamienia oraz na przekonaniu, że oficjalna historia jest fałszowana, w tym historia Rzymu i Polski (Mieszko I jako marionetka rzymska). Dodaje krytyczne uwagi o ochronie przyrody i zabytków, zdrowym żywieniu, demokracji i polskiej polityce, a także o ewolucji i medycynie. Kończy radami: dbać o zdrowie i rozwój duchowy oraz poznawać prawdziwą historię.
 
 Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum i podcast powstały w hołdzie śp. Leszkowi Wiktorowi Klimkowi. Podcast przygotował jokerwader.
 
-Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zastępują porady lekarza.
+Teksty wyrażają poglądy autora sprzed ok. 20 lat.
 
-Pełny tekst ze zdjęciami: https://uleszka.net/czytelnia/cybog-wstepcb.html · https://uleszka.net/czytelnia/refleksja.html
+Pełny tekst ze zdjęciami: https://uleszka.net/czytelnia/refleksja.html
 Rozmowa z archiwum przez AI: https://uleszka.net
