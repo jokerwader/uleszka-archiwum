@@ -10,6 +10,8 @@ Dla wielu czytelników była to pierwsza strona, która pokazała, że o te spra
 
 Strona zniknęła z internetu. To repozytorium zachowuje **całość jej treści w niezmienionej formie**. Do tego daje możliwość, której wtedy nie było: **rozmowy z archiwum przez sztuczną inteligencję**. Można pytać o teksty, sprawdzać historię i porównywać tezy autora z tym, co wiemy dziś.
 
+**To archiwum jest ukłonem w stronę autora, Leszka Klimka, i próbą przełożenia jego pracy na język nowych technologii.** Jego teksty pozostają nietknięte. Sztuczna inteligencja pozwala dziś z nimi rozmawiać, porównywać je z tym, co wiemy po 20 latach, i sprawdzać źródła, do których sięgał.
+
 > „Zwrócić na coś uwagę większości, znaczy pomóc zdrowemu rozsądkowi wpaść na właściwy ślad” – G. E. Lessing, motto strony
 
 ### Co jest w archiwum
