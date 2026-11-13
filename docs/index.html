@@ -196,6 +196,22 @@
   .wskazowka { margin-top: 20px; padding: 12px 14px; background: var(--tlo-2); border-radius: 10px; font-size: 15px; color: var(--tekst-2); }
   kbd { font: 600 14px ui-monospace, Consolas, monospace; background: var(--tlo-2); border: 1px solid var(--linia); border-radius: 6px; padding: 1px 6px; }
 
+  /* podcast: odtwarzacz Spotify wczytuje się dopiero po kliknięciu */
+  .odcinek {
+    display: grid; grid-template-columns: 140px 1fr; gap: 26px; align-items: center; padding: 22px; border-radius: 20px;
+    background: radial-gradient(ellipse 60% 100% at 0% 0%, rgba(226, 169, 63, .12), transparent 70%), linear-gradient(180deg, #131a28, #0c111b);
+    border: 1px solid rgba(232, 176, 75, .3); box-shadow: var(--cien);
+  }
+  .odcinek img { width: 140px; height: 140px; border-radius: 14px; box-shadow: 0 10px 30px rgba(0, 0, 0, .5); display: block; }
+  .odcinek h3 { margin: 4px 0 6px; font-size: 24px; }
+  .odcinek p { margin: 0 0 16px; color: var(--tekst-2); }
+  .odcinek .spotify { display: flex; flex-wrap: wrap; gap: 10px; }
+  .odcinek .spotify .btn { padding: 11px 18px; font-size: 15px; }
+  .odcinek .spotify.wczytany { display: block; }
+  .odcinek iframe { display: block; width: 100%; height: 152px; border: 0; border-radius: 12px; }
+  .odcinek-tekst { display: inline-block; margin-top: 12px; font-size: 15px; font-weight: 600; }
+  @media (max-width: 720px) { .odcinek { grid-template-columns: 1fr; gap: 16px; } .odcinek img { width: 110px; height: 110px; } }
+
   /* pytania: losowe pytanie na górze, tematy jako przełączniki, karty z rzymskimi numerami */
   .wyrocznia {
     position: relative; overflow: hidden; isolation: isolate; border: 1px solid rgba(232, 176, 75, .35); border-radius: 20px; padding: 28px 32px 26px; margin: 0 0 34px;
@@ -342,6 +358,26 @@
       <p class="pod">Zdjęcia, którymi Leszek ilustrował swoje pytania. Kliknij, żeby przeczytać w czytelni artykuł, z którego pochodzą.</p>
     </div>
     <div class="tasma" id="tasma"></div>
+  </section>
+
+  <section id="podcast">
+    <div class="wrap">
+      <h2>Posłuchaj</h2>
+      <p class="pod">Podcast „Uwierz we własny rozum”: teksty Leszka czytane słowo w słowo przez lektora AI. Kolejne odcinki będą się pojawiać w Spotify.</p>
+      <div class="odcinek">
+        <img src="img/podcast.jpg" alt="Okładka podcastu „Uwierz we własny rozum”" width="140" height="140">
+        <div class="odcinek-opis">
+          <span class="etykieta-zr">Odcinek 1</span>
+          <h3>Potop – czy tylko jeden?</h3>
+          <p>Biblia, Sumerowie, Grecy i Indianie opowiadają o wielkiej wodzie. Czy potop był jeden, czy kilka, i co mogło go wywołać?</p>
+          <div class="spotify" data-odcinek="5clRnBM2pC8xnxhc0wlk8i" data-tytul="Potop – czy tylko jeden?">
+            <button class="btn btn-glowny spotify-graj" type="button">▶ Odtwórz tutaj</button>
+            <a class="btn btn-drugi" href="https://open.spotify.com/episode/5clRnBM2pC8xnxhc0wlk8i" target="_blank" rel="noopener">Otwórz w Spotify ↗</a>
+          </div>
+          <a class="odcinek-tekst" href="czytelnia/01potop-potop.html">Przeczytaj tekst ze zdjęciami →</a>
+        </div>
+      </div>
+    </div>
   </section>
 
   <section>
@@ -683,6 +719,17 @@
     setTimeout(() => { ustawWyrocznie(p); wyrTekst.classList.remove("zmiana"); }, 350);
   });
   document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", () => kopiuj(el.dataset.kopiuj)));
+
+  // podcast: odtwarzacz Spotify dopiero po kliknięciu (wcześniej strona nie łączy się ze Spotify)
+  document.querySelectorAll(".spotify-graj").forEach((b) => b.addEventListener("click", () => {
+    const box = b.closest(".spotify");
+    const f = document.createElement("iframe");
+    f.src = `https://open.spotify.com/embed/episode/${box.dataset.odcinek}?theme=0&autoplay=1`;
+    f.title = "Odtwarzacz Spotify: " + box.dataset.tytul;
+    f.allow = "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture";
+    box.replaceChildren(f);
+    box.classList.add("wczytany");
+  }));
 
   // zakładki
   const zakladki = [...document.querySelectorAll('[role="tab"]')];

@@ -28,6 +28,17 @@ const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
 const poId = new Map(archiwum.artykuly.map((a) => [a.id, a]));
 const rawUrl = (sciezka: string) => RAW + sciezka.split("/").map(encodeURIComponent).join("/");
 
+// odcinki podcastu (podcast/odcinki.json): przy artykule pojawia się odtwarzacz Spotify, wczytywany dopiero po kliknięciu
+type Odcinek = { nr: number; tytul: string; spotify: string; artykuly: string[] };
+const odcinki: Odcinek[] = existsSync("podcast/odcinki.json") ? JSON.parse(readFileSync("podcast/odcinki.json", "utf8")) : [];
+const odcinekArt = new Map(odcinki.flatMap((o) => o.artykuly.map((id) => [id, o] as const)));
+const spotifyHtml = (o: Odcinek) => `  <div class="spotify" data-odcinek="${esc(o.spotify)}" data-tytul="${esc(o.tytul)}">
+    <img src="../img/podcast.jpg" alt="" width="64" height="64">
+    <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · odcinek ${o.nr}</span><b>Posłuchaj tego artykułu</b><small>Czyta lektor AI, tekst bez zmian.</small></div>
+    <div class="spotify-przyciski"><button class="spotify-graj" type="button">▶ Odtwórz tutaj</button><a href="https://open.spotify.com/episode/${esc(o.spotify)}" target="_blank" rel="noopener">Otwórz w Spotify ↗</a></div>
+  </div>
+`;
+
 marked.setOptions({ gfm: true, breaks: false });
 
 function trescHtml(a: Dokument): { html: string; rozdzialy: { id: string; tytul: string }[] } {
@@ -168,6 +179,7 @@ lista.forEach((a, i) => {
   const oczekiwane = [...popraw(tekstBazowy(a.czysty), a.id, errata).uzyte.values()].reduce((x, y) => x + y, 0);
   poprawekRazem += ilePoprawek;
   poprawekPominietych += Math.max(0, oczekiwane - ilePoprawek);
+  const odcinek = odcinekArt.get(a.id);
   const prosba = `Omów artykuł „${a.tytul}” (id: ${a.id}) z archiwum uleszka.net: przedstaw wiernie tezy autora z cytatami, a potem porównaj je z tym, co wiadomo dziś.`;
 
   const html =
@@ -176,7 +188,11 @@ lista.forEach((a, i) => {
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#${slug(a.dzial)}">${esc(a.dzial)}</a>${rodzic ? ` › <a href="${plikArt(rodzic)}">${esc(rodzic.tytul)}</a>` : ""}</p>
   <h1>${esc(a.tytul)}</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału${ilePoprawek ? ` <span class="meta-poprawki" title="Podkreślone słowa: najedź (albo dotknij), żeby zobaczyć zapis z oryginału.">· poprawiono ${ilePoprawek} ${ilePoprawek === 1 ? "oczywistą literówkę" : ilePoprawek % 10 >= 2 && ilePoprawek % 10 <= 4 && (ilePoprawek % 100 < 10 || ilePoprawek % 100 >= 20) ? "oczywiste literówki" : "oczywistych literówek"}</span>` : ""}</p>
-  <div class="odtwarzacz" id="odtwarzacz" hidden>
+${
+  // artykuł z odcinkiem podcastu: tylko Spotify; pozostałe: czytanie syntezatorem mowy przeglądarki
+  odcinek
+    ? spotifyHtml(odcinek)
+    : `  <div class="odtwarzacz" id="odtwarzacz" hidden>
     <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
     <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
     <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
@@ -184,7 +200,8 @@ lista.forEach((a, i) => {
     <span class="postep" id="postep"></span>
     <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
   </div>
-${
+`
+}${
   o && o.streszczenie
     ? `  <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
@@ -216,7 +233,7 @@ ${
   </nav>
 </main>
 ` +
-    stopka.replace("</body>", `<script src="czytaj.js" defer></script>\n</body>`);
+    (odcinek ? stopka : stopka.replace("</body>", `<script src="czytaj.js" defer></script>\n</body>`));
   writeFileSync(`${WYJSCIE}/${plikArt(a)}`, html, "utf8");
 });
 
