@@ -14,7 +14,7 @@ liczba_obrazow: 0
 
 **D**
 
-**aryl Bradford Smith rozmawia z Dr Lorraine Day. Rozmowa została zamieszczona na [stronie](http://www.uleszka.net/webacja/zyko/www.iamthewitness.com). Jej wydawca, a zarazem prezenter radiowy Daryl Bradford Smith jest znany z kontrowersyjnych audycji krytycznych dla syjonistów Rozmowa została przeprowadzona 21 lipca 2006 r. Jej wydawca, a zarazem prezenter radiowy Daryl Bradford Smith jest znany z kontrowersyjnych audycji krytycznych dla syjonistów i Izraela. Tym razem gościem programu French Connection jest Dr Lorraine Day, która przez wiele lat pełniła m.in. funkcję wiceprezydenta Departamentu Ortopedii na uniwersytecie oraz była głównym chirurgiem ortopedą w szpitalu San Francisco. Przedstawiamy tłumaczenie obszernych fragmentów.**
+**aryl Bradford Smith rozmawia z Dr Lorraine Day. Rozmowa została zamieszczona na [stronie](http://www.iamthewitness.com). Jej wydawca, a zarazem prezenter radiowy Daryl Bradford Smith jest znany z kontrowersyjnych audycji krytycznych dla syjonistów Rozmowa została przeprowadzona 21 lipca 2006 r. Jej wydawca, a zarazem prezenter radiowy Daryl Bradford Smith jest znany z kontrowersyjnych audycji krytycznych dla syjonistów i Izraela. Tym razem gościem programu French Connection jest Dr Lorraine Day, która przez wiele lat pełniła m.in. funkcję wiceprezydenta Departamentu Ortopedii na uniwersytecie oraz była głównym chirurgiem ortopedą w szpitalu San Francisco. Przedstawiamy tłumaczenie obszernych fragmentów.**
 
 ---
 
@@ -170,7 +170,7 @@ liczba_obrazow: 0
 
 **Daryl Bradford Smith** - Nikt by tego nie napisał w książce fantastycznej...
 
-**Dr Lorraine Day** - Ale to się naprawdę dzieje, wiem o tym od prawie 20 lat. Są tacy ludzie, którzy chcą tego słuchać. Prawdopodobnie twoi słuchacze do nich należą. \[...\] Najlepszą metodą na ciemność jest zapalenie światła prawdy. Ci, którzy w to uwierzą przekażą informację dalej. Jednak pisanie do kongresmenów czy senatorów jak i marsze na Waszyngton nic nie zdziałają. Co można zrobić to po pierwsze utrzymywanie swojego ciała w higienie i dobrej formie, aby uniknąć chorób, które będą rozprzestrzeniane, po drugie nie brać żadnych szczepionek, a po trzecie nauczyć się walczyć ze stresem. Od stresu bowiem można umrzeć czy też nabawić się chorób. Na mojej [stronie](http://www.uleszka.net/webacja/zyko/www.drday.com) zamieściłam informacje jak sobie poradzić z tymi problemami i z tymi co nadejdą.
+**Dr Lorraine Day** - Ale to się naprawdę dzieje, wiem o tym od prawie 20 lat. Są tacy ludzie, którzy chcą tego słuchać. Prawdopodobnie twoi słuchacze do nich należą. \[...\] Najlepszą metodą na ciemność jest zapalenie światła prawdy. Ci, którzy w to uwierzą przekażą informację dalej. Jednak pisanie do kongresmenów czy senatorów jak i marsze na Waszyngton nic nie zdziałają. Co można zrobić to po pierwsze utrzymywanie swojego ciała w higienie i dobrej formie, aby uniknąć chorób, które będą rozprzestrzeniane, po drugie nie brać żadnych szczepionek, a po trzecie nauczyć się walczyć ze stresem. Od stresu bowiem można umrzeć czy też nabawić się chorób. Na mojej [stronie](http://www.drday.com) zamieściłam informacje jak sobie poradzić z tymi problemami i z tymi co nadejdą.
 
 ---
 
