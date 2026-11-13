@@ -33,6 +33,9 @@ Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zast
    słowa autora zostają bez zmian. Nawiasy kwadratowe autora (np. „[Henoch]”) są zamieniane na okrągłe, żeby lektor je przeczytał.
    Oczywiste literówki z oryginału (np. „moga” → „mogą”) są poprawiane według erraty `dane/poprawki/errata.json`.
    Ich lista trafia do `ODCINEK.md`. Interpunkcja zostaje bez zmian.
+   Powstaje też `calosc-do-studio.txt` (cały odcinek w jednym pliku) i folder `rozdzialy-studio/` – ten sam tekst
+   podzielony według śródtytułów autora, po jednym pliku na rozdział ElevenLabs Studio (bardzo krótkie fragmenty są
+   dołączane do sąsiednich). W Studio rozdział, który wyjdzie źle, generuje się od nowa osobno.
 2. W ElevenLabs nagraj każdy plik osobno i zapisz MP3 z tym samym numerem na początku nazwy (np. `00-zapowiedz.mp3`, `01-wstep.mp3`).
 3. Połącz części w jeden odcinek (krótka cisza między częściami, głośność −16 LUFS, okładka i opis w pliku):
    ```

@@ -17,6 +17,26 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków. Teksty maj
 
 **Razem: 43135 znaków** (≈ 45 min nagrania).
 
+## ElevenLabs Studio (rozdziały)
+
+W folderze `rozdzialy-studio/` ten sam tekst jest podzielony według śródtytułów autora: jeden plik = jeden rozdział.
+W Studio: nowy projekt → dla każdego pliku „Add chapter”, wklej tekst, nadaj tytuł z tabeli. Rozdział, który wyjdzie źle,
+generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP3. Cały odcinek w jednym pliku: `calosc-do-studio.txt`.
+
+| Plik | Rozdział | Znaki |
+|---|---|---|
+| 00-zapowiedz.txt | Zapowiedź | 203 |
+| 01-wstep.txt | Wstęp | 8901 |
+| 02-calkiem-prywatnie.txt | CAŁKIEM PRYWATNIE | 5647 |
+| 03-o-historii.txt | O HISTORII | 5329 |
+| 04-o-najdawniejszej-polsce.txt | O NAJDAWNIEJSZEJ POLSCE | 5424 |
+| 05-o-ochronie-przyrody-i-zabytkow.txt | O OCHRONIE PRZYRODY I ZABYTKÓW | 5202 |
+| 06-o-zdrowiu.txt | O ZDROWIU | 2011 |
+| 07-o-przyszlosci.txt | O PRZYSZŁOŚCI | 5626 |
+| 08-co-zrozumialem.txt | CO ZROZUMIAŁEM? | 2590 |
+| 09-co-robic.txt | CO ROBIĆ? | 1957 |
+| 10-zakonczenie.txt | Zakończenie | 172 |
+
 ### Poprawione literówki (errata)
 
 W tekście dla lektora poprawiono oczywiste literówki z oryginału (lista: `dane/poprawki/errata.json`):

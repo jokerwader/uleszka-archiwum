@@ -17,6 +17,23 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków. Teksty maj
 
 **Razem: 40922 znaków** (≈ 43 min nagrania).
 
+## ElevenLabs Studio (rozdziały)
+
+W folderze `rozdzialy-studio/` ten sam tekst jest podzielony według śródtytułów autora: jeden plik = jeden rozdział.
+W Studio: nowy projekt → dla każdego pliku „Add chapter”, wklej tekst, nadaj tytuł z tabeli. Rozdział, który wyjdzie źle,
+generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP3. Cały odcinek w jednym pliku: `calosc-do-studio.txt`.
+
+| Plik | Rozdział | Znaki |
+|---|---|---|
+| 00-zapowiedz.txt | Zapowiedź | 213 |
+| 01-zrodla-pisane-starozytni.txt | Źródła pisane - Starożytni | 11288 |
+| 02-co-wiemy-na-temat-potopu.txt | Co wiemy na temat potopu | 11147 |
+| 03-co-moglo-byc-przyczyna-potopu.txt | Co mogło być przyczyną Potopu? | 5250 |
+| 04-teoria-potopu.txt | Teoria potopu | 6189 |
+| 05-byl-taki-czlowiek.txt | Był taki człowiek | 1670 |
+| 06-cos-w-rodzaju-podsumowania.txt | Coś w rodzaju podsumowania | 4960 |
+| 07-zakonczenie.txt | Zakończenie | 172 |
+
 ### Poprawione literówki (errata)
 
 W tekście dla lektora poprawiono oczywiste literówki z oryginału (lista: `dane/poprawki/errata.json`):

@@ -12,7 +12,7 @@
  *       głośność wyrównana do standardu podcastów (-16 LUFS), opis i okładka zapisane w pliku. Wymaga ffmpeg.
  */
 import { execFileSync } from "node:child_process";
-import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { Archiwum, type Dokument } from "../src/archiwum.js";
 import { popraw, wczytajErrate } from "./lib/errata.js";
@@ -118,6 +118,7 @@ if (polecenie === "teksty") {
   const errata = wczytajErrate(".");
   const poprawki: string[] = [];
   const calosc: string[] = [];
+  const rozdzialy: { artykul: string; tytul: string; srodtytul: boolean; akapity: string[] }[] = [];
   const zapowiedz = `Uwierz we własny rozum. Teksty Leszka Klimka ze strony uleszka.net, z lat dwa tysiące cztery – dwa tysiące siedem. Odcinek ${Number(nr)}: ${tytul}${/[.?!…]$/.test(tytul) ? "" : "."} Czyta lektor, którego głos wygenerowała sztuczna inteligencja.`;
   const zakonczenie = `To był tekst Leszka Klimka ze strony uleszka.net. Pełny tekst, ze zdjęciami i źródłami, znajdziesz na uleszka.net, w czytelni. Tam możesz też porozmawiać z archiwum strony.`;
   writeFileSync(join(folder, "00-zapowiedz.txt"), zapowiedz + "\n", "utf8");
@@ -129,6 +130,19 @@ if (polecenie === "teksty") {
     for (const [k, ile] of uzyte) poprawki.push(`| ${a.tytul} | ${errata[k].zle} | ${errata[k].dobrze} | ${ile} |`);
     const tekstArt = tagi ? zTagami(poprawiony) : poprawiony;
     calosc.push(tagi && !tekstArt.startsWith("[") ? `[calm, storytelling] ${tekstArt}` : tekstArt);
+    // rozdziały do Studio: podział na śródtytułach autora (te same, co w spisie treści czytelni)
+    const srodtytuly = new Set(
+      [...a.tresc.matchAll(/^(?:#{1,4}[ \t]+(.+)|\*\*([^*\n]{3,140})\*\*)[ \t]*$/gm)]
+        .map((m) => (m[1] ?? m[2]).replace(/\*\*|__|\\/g, "").trim())
+        .filter((t) => /\p{L}/u.test(t)),
+    );
+    const bezTagow = (ak: string) => ak.replace(/^(?:\[[^\]\n]*\]\s*)+/, "").trim();
+    for (const ak of tekstArt.split(/\n\n+/)) {
+      const t = bezTagow(ak);
+      if (srodtytuly.has(t) || !rozdzialy.length || rozdzialy[rozdzialy.length - 1].artykul !== a.tytul)
+        rozdzialy.push({ artykul: a.tytul, tytul: srodtytuly.has(t) ? t : a.tytul, srodtytul: srodtytuly.has(t), akapity: [] });
+      rozdzialy[rozdzialy.length - 1].akapity.push(ak);
+    }
     const czesciArt = czesci(tekstArt);
     czesciArt.forEach((c0, i) => {
       // każda część nagrywana jest osobno – zaczyna się od wskazówki tonu, jeśli nie ma własnej
@@ -145,6 +159,36 @@ if (polecenie === "teksty") {
   // cały odcinek w jednym pliku – do ElevenLabs Studio, które samo dzieli długie teksty
   const pauza = tagi ? "[long pause]\n\n" : "";
   writeFileSync(join(folder, "calosc-do-studio.txt"), [zapowiedz, ...calosc, zakonczenie].join(`\n\n${pauza}`) + "\n", "utf8");
+  // ten sam tekst podzielony na rozdziały Studio (jeden plik = jeden rozdział; nagrywany i poprawiany osobno)
+  const folderRozdzialow = join(folder, "rozdzialy-studio");
+  rmSync(folderRozdzialow, { recursive: true, force: true });
+  mkdirSync(folderRozdzialow, { recursive: true });
+  // bardzo krótki rozdział (sam tytuł z mottem, jedno zdanie) łączymy z następnym z tego samego artykułu
+  for (let i = rozdzialy.length - 2; i >= 0; i--) {
+    const r = rozdzialy[i], nast = rozdzialy[i + 1];
+    if (r.akapity.join("\n\n").length >= 800 || r.artykul !== nast.artykul) continue;
+    rozdzialy.splice(i, 2, { ...nast, tytul: r.srodtytul ? r.tytul : nast.tytul, srodtytul: r.srodtytul || nast.srodtytul, akapity: [...r.akapity, ...nast.akapity] });
+  }
+  // … a krótki ostatni rozdział artykułu – z poprzednim
+  for (let i = rozdzialy.length - 1; i >= 1; i--) {
+    const r = rozdzialy[i], poprz = rozdzialy[i - 1];
+    if (r.akapity.join("\n\n").length >= 800 || r.artykul !== poprz.artykul) continue;
+    rozdzialy.splice(i - 1, 2, { ...poprz, akapity: [...poprz.akapity, ...r.akapity] });
+  }
+  const plikiRozdzialow = [
+    { tytul: "Zapowiedź", tekst: zapowiedz },
+    ...rozdzialy.map((r) => {
+      let t = r.akapity.join("\n\n").replace(/^\[long pause\]\s*/, ""); // pauza na początku rozdziału jest zbędna
+      if (tagi && !t.startsWith("[")) t = `[calm, storytelling] ${t}`;
+      return { tytul: r.tytul, tekst: t };
+    }),
+    { tytul: "Zakończenie", tekst: zakonczenie },
+  ];
+  const spisRozdzialow = plikiRozdzialow.map((r, i) => {
+    const plik = `${String(i).padStart(2, "0")}-${slug(r.tytul).slice(0, 50)}.txt`;
+    writeFileSync(join(folderRozdzialow, plik), r.tekst + "\n", "utf8");
+    return `| ${plik} | ${r.tytul} | ${r.tekst.length} |`;
+  });
 
   const linki = artykuly.map((a) => `https://uleszka.net/czytelnia/${slug(a.id)}.html`);
   const streszczenia = artykuly.map((a) => archiwum.opracowania.get(a.id)?.streszczenie ?? "").filter(Boolean);
@@ -160,6 +204,16 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków.${tagi ? " 
 ${spis.join("\n")}
 
 **Razem: ${razem} znaków** (≈ ${Math.round(razem / 950)} min nagrania).
+
+## ElevenLabs Studio (rozdziały)
+
+W folderze \`rozdzialy-studio/\` ten sam tekst jest podzielony według śródtytułów autora: jeden plik = jeden rozdział.
+W Studio: nowy projekt → dla każdego pliku „Add chapter”, wklej tekst, nadaj tytuł z tabeli. Rozdział, który wyjdzie źle,
+generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP3. Cały odcinek w jednym pliku: \`calosc-do-studio.txt\`.
+
+| Plik | Rozdział | Znaki |
+|---|---|---|
+${spisRozdzialow.join("\n")}
 ${poprawki.length ? `
 ### Poprawione literówki (errata)
 
