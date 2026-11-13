@@ -51,7 +51,11 @@ Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zast
 
 | Nr | Odcinek | Artykuły | Znaki |
 |---|---|---|---|
-| 1 | [Potop – czy tylko jeden?](01-potop-czy-tylko-jeden/ODCINEK.md) | Potop | 40 925 |
-| 2 | [Poznaj autora](02-poznaj-autora/ODCINEK.md) | Wstęp (Cywilizacja Bogów), Prywatnie | 43 129 |
+| zwiastun | [Wstęp](00-wstep/ODCINEK.md) | Wstęp (Cywilizacja Bogów) | 9 448 |
+| 1 | [Potop – czy tylko jeden?](01-potop-czy-tylko-jeden/ODCINEK.md) | Potop | 41 100 |
+| 2 | [Poznaj autora](02-poznaj-autora/ODCINEK.md) | Prywatnie | 34 412 |
+
+Numer `0` w poleceniu `teksty` oznacza zwiastun: zapowiedź mówi „Na początek: …” zamiast numeru odcinka,
+a w Spotify for Creators wybiera się typ odcinka „Zwiastun” (Spotify pokazuje go na górze strony podcastu).
 
 Pliki MP3 nie trafiają do repozytorium (są w `.gitignore`), żeby go nie powiększać.
