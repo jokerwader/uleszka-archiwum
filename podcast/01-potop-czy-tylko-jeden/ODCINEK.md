@@ -13,9 +13,9 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków. Teksty maj
 | 03-potop-cz3.txt | Potop, część 3 z 5 | 9496 |
 | 04-potop-cz4.txt | Potop, część 4 z 5 | 8901 |
 | 05-potop-cz5.txt | Potop, część 5 z 5 | 3959 |
-| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 281 |
+| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 278 |
 
-**Razem: 41103 znaków** (≈ 43 min nagrania).
+**Razem: 41100 znaków** (≈ 43 min nagrania).
 
 ## ElevenLabs Studio (rozdziały)
 
@@ -32,7 +32,7 @@ generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP
 | 04-teoria-potopu.txt | Teoria potopu | 6189 |
 | 05-byl-taki-czlowiek.txt | Był taki człowiek | 1670 |
 | 06-cos-w-rodzaju-podsumowania.txt | Coś w rodzaju podsumowania | 4960 |
-| 07-zakonczenie.txt | Zakończenie | 281 |
+| 07-zakonczenie.txt | Zakończenie | 278 |
 
 ### Poprawione literówki (errata)
 
@@ -52,7 +52,7 @@ W tekście dla lektora poprawiono oczywiste literówki z oryginału (lista: `dan
 
 Autor zestawia starożytne przekazy o potopie (biblijny, sumeryjski, grecki, mezoamerykańskie, Oera Linda Boek, Kronika Akakor, Indian Hopi) i dochodzi do wniosku, że potopy były co najmniej kilka, a ostatni nastąpił ok. 12,5 tys. lat temu. Odrzuca jako przyczynę zbliżenie wielkiego ciała niebieskiego i uderzenie meteorytu, a opowiada się za hipotezą Hapgooda o nagłym przesunięciu skorupy ziemskiej. Za Caseyem Wadowskim przyjmuje, że kataklizm przewidziała wysoko rozwinięta cywilizacja Bogów-Nauczycieli, która zabezpieczyła wiedzę i pomagała odbudowie. Twierdzi, że skorupa Ziemi nadal się nie ustabilizowała i kolejny kataklizm jest możliwy, a nauka tej hipotezy ignoruje.
 
-Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum i podcast powstały w hołdzie śp. Leszkowi Wiktorowi Klimkowi. Podcast przygotował Mateusz Małek (jokerwader).
+Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum i podcast powstały w hołdzie śp. Leszkowi Wiktorowi Klimkowi. Podcast przygotował jokerwader.
 
 Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zastępują porady lekarza.
 
