@@ -205,6 +205,15 @@
   .os b { font-family: Georgia, serif; }
   blockquote { margin: 0 0 14px; padding: 14px 18px; border-left: 3px solid var(--akcent); background: var(--karta); border-radius: 0 12px 12px 0; font-family: Georgia, serif; font-size: 19px; }
 
+  /* źródła */
+  .zrodla-siatka { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+  .zrodlo-karta { background: var(--karta); border: 1px solid var(--linia); border-radius: 16px; padding: 18px 20px; }
+  .zrodlo-karta h3 { margin: 4px 0 6px; font-size: 19px; }
+  .zrodlo-karta p { margin: 0 0 10px; color: var(--tekst-2); font-size: 15px; }
+  .zrodlo-karta .linki { margin: 0; font-size: 14px; }
+  .etykieta-zr { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--akcent); font-weight: 700; }
+  @media (max-width: 720px) { .zrodla-siatka { grid-template-columns: 1fr; } }
+
   /* FAQ */
   details { background: var(--karta); border: 1px solid var(--linia); border-radius: 14px; padding: 16px 20px; margin-bottom: 10px; }
   summary { cursor: pointer; font-weight: 600; font-size: 17px; }
@@ -392,6 +401,52 @@
           <li><b>2026</b> – pełne archiwum na GitHubie, z którym można rozmawiać</li>
         </ul>
       </div>
+    </div>
+  </section>
+
+  <section id="zrodla">
+    <div class="wrap">
+      <h2>Źródła i materiały</h2>
+      <p class="pod">Skąd pochodzi to, co tu jest. Wszystko można sprawdzić u źródła.</p>
+      <div class="zrodla-siatka">
+        <div class="zrodlo-karta">
+          <span class="etykieta-zr">Wywiad</span>
+          <h3>Wywiad z twórcą strony www.uleszka.net</h3>
+          <p>Leszek opowiada w nim, jak zaczął (Däniken, emerytura w 1992 r.), czym była dla niego cywilizacja Bogów, wielki uskok i potop, co sądził o roku 2012 i o „oficjalnej” nauce. Przeprowadził Aton dla nandi.pl.</p>
+          <p class="linki"><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/materialy/wywiad-nandi-pl.md">pełny tekst w archiwum</a> · <a href="https://nandi.pl/index.php?go=art_uleszka">nandi.pl</a> · <a href="http://web.archive.org/web/20240919040941/http://nandi.pl/index.php?go=art_uleszka">kopia archiwalna</a></p>
+        </div>
+        <div class="zrodlo-karta">
+          <span class="etykieta-zr">O autorze</span>
+          <h3>Czesław Białczyński o uleszka.net</h3>
+          <p>Dwa wpisy przypominające stronę i jej autora: „Leszek Wiktor Klimek to jedna z tych osób, których nikt inny nie zastąpił”. W 2023 r. także informacja, że po jego śmierci teksty przywrócił czytelnik.</p>
+          <p class="linki"><a href="https://bialczynski.pl/2017/10/10/uleszka-atlantyda-istnieje-nadal-archiwum2006/">wpis z 2017 r.</a> · <a href="https://bialczynski.pl/2023/12/29/uleszka-net-reaktywacja-uwierz-we-wlasny-rozum-archiwum-2001-2006/">wpis z 2023 r.</a></p>
+        </div>
+        <div class="zrodlo-karta">
+          <span class="etykieta-zr">Reaktywacja</span>
+          <h3>ULESZKA.NET – Reaktywacja (2014)</h3>
+          <p>Po zniknięciu strony czytelnik („Świętobor”) ponownie opublikował jej teksty na trzech blogach. Dzięki takim ludziom strona przetrwała.</p>
+          <p class="linki"><a href="https://uwierzwewlasnyrozum.wordpress.com/">Uwierz we własny rozum</a> · <a href="https://zapomnianamedycyna.wordpress.com/">Zapomniana medycyna</a> · <a href="https://uleszkaroznosci.wordpress.com/informacje/">Różności</a></p>
+        </div>
+        <div class="zrodlo-karta">
+          <span class="etykieta-zr">Oryginał</span>
+          <h3>Strona uleszka.net, bajt w bajt</h3>
+          <p>Kopia oryginalnych plików strony z 2007 r. i 148 artykułów przeniesionych słowo w słowo, z automatyczną kontrolą wierności litera po literze.</p>
+          <p class="linki"><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/KATALOG.md">katalog artykułów</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/tree/main/zrodlo">oryginalne pliki</a> · <a href="http://web.archive.org/web/20070211031151/http://www.uleszka.net:80/">Wayback Machine (2007)</a></p>
+        </div>
+        <div class="zrodlo-karta">
+          <span class="etykieta-zr">Książki</span>
+          <h3>Na co powoływał się autor</h3>
+          <p>Setki książek i dawnych tekstów, od Platona po Dänikena, z informacją, gdzie je legalnie przeczytać. 30 z nich jest w archiwum w całości, 17 także w języku oryginału.</p>
+          <p class="linki"><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/ksiazki.md">lista książek</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/README.md">biblioteka</a></p>
+        </div>
+        <div class="zrodlo-karta">
+          <span class="etykieta-zr">Opracowania AI</span>
+          <h3>Streszczenia, tezy i opisy zdjęć</h3>
+          <p>Pomoce przygotowane przez AI: streszczenie i tezy każdego artykułu (każdy cytat sprawdzony) oraz opisy 1714 zdjęć. Są oddzielone od oryginału.</p>
+          <p class="linki"><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/opracowania/README.md">opracowania</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/leszek-rys.md">rys autora</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/materialy/README.md">wszystkie materiały o autorze</a></p>
+        </div>
+      </div>
+      <p class="pod" style="margin-top:18px">Znasz inne wywiady, wpisy albo nagrania z udziałem autora? <a href="https://github.com/jokerwader/uleszka-archiwum/issues">Daj znać</a>, dołączymy je do archiwum.</p>
     </div>
   </section>
 
