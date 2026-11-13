@@ -83,3 +83,9 @@
     }),
   );
 })();
+
+// poprawione literówki: dotknięcie pokazuje zapis z oryginału (na telefonie nie ma najechania)
+document.addEventListener("click", (e) => {
+  const p = e.target.closest?.(".poprawka");
+  if (p && !p.closest(".slucha")) p.classList.toggle("pokaz");
+});

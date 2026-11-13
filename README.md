@@ -207,6 +207,12 @@ npm run sprawdz
 
 Wynik: `Sprawdzono 148 artykułów (3642740 liter i cyfr). Różnic: 0.`
 
+Oczywiste literówki z oryginału, np. „moga” zamiast „mogą” albo „ne” zamiast „nie”, mają osobną listę: [`dane/poprawki/errata.json`](dane/poprawki/errata.json). Jest w niej około 1000 poprawek, sprawdzonych przez AI w kontekście. Artykuły w `artykuly/` zostają nietknięte. Poprawki stosuje tylko czytelnia na stronie (poprawione słowo jest podkreślone, a po najechaniu widać zapis z oryginału) i tekst czytany przez lektora w podcaście. Interpunkcja i styl autora się nie zmieniają. Każda poprawka musi wskazywać istniejące miejsce w tekście i być minimalna. Sprawdza to:
+
+```bash
+npm run errata
+```
+
 Druga kontrola dotyczy warstwy AI. Sprawdza, że każdy artykuł ma opracowanie, każdy z ponad 1000 cytatów w opracowaniach występuje w artykule dosłownie i każde zdjęcie ma opis:
 
 ```bash

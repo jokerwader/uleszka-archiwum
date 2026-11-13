@@ -31,6 +31,8 @@ Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zast
    Opcja `--tagi` dodaje znaczniki dla ElevenLabs v3/v4 (`[calm, storytelling]`, `[long pause] [serious]` przed śródtytułami,
    `[solemn, reading an ancient text]` przy cytatach z dawnych źródeł, `[thoughtful]` przy pytaniach). Lektor ich nie czyta;
    słowa autora zostają bez zmian. Nawiasy kwadratowe autora (np. „[Henoch]”) są zamieniane na okrągłe, żeby lektor je przeczytał.
+   Oczywiste literówki z oryginału (np. „moga” → „mogą”) są poprawiane według erraty `dane/poprawki/errata.json`.
+   Ich lista trafia do `ODCINEK.md`. Interpunkcja zostaje bez zmian.
 2. W ElevenLabs nagraj każdy plik osobno i zapisz MP3 z tym samym numerem na początku nazwy (np. `00-zapowiedz.mp3`, `01-wstep.mp3`).
 3. Połącz części w jeden odcinek (krótka cisza między częściami, głośność −16 LUFS, okładka i opis w pliku):
    ```

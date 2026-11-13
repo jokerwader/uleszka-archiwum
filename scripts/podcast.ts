@@ -4,7 +4,8 @@
  *   npx tsx scripts/podcast.ts teksty <nr> <tytul-odcinka> <id artykułu> [<id> …]
  *       przygotowuje podcast/<nr>-<slug>/: części tekstu do wklejenia w ElevenLabs (do 9 500 znaków każda,
  *       podział na granicach akapitów), zapowiedź i zakończenie odcinka oraz opis do Spotify.
- *       Tekst autora jest wierny – usuwane są tylko obrazy, tabele, podpisy zdjęć i resztki strony.
+ *       Tekst autora jest wierny – usuwane są tylko obrazy, tabele, podpisy zdjęć i resztki strony,
+ *       a oczywiste literówki są poprawiane według erraty (dane/poprawki/errata.json).
  *
  *   npx tsx scripts/podcast.ts polacz <folder odcinka>
  *       łączy pliki MP3 z folderu (w kolejności nazw) w jeden odcinek: krótka cisza między częściami,
@@ -14,6 +15,8 @@ import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { Archiwum, type Dokument } from "../src/archiwum.js";
+import { popraw, wczytajErrate } from "./lib/errata.js";
+import { polaczInicjaly } from "./lib/inicjaly.js";
 
 const NAZWA = "Uwierz we własny rozum – teksty Leszka Klimka";
 const LIMIT = 9500; // ElevenLabs przyjmuje do 10 000 znaków naraz – zostawiamy zapas
@@ -23,9 +26,8 @@ const slug = (s: string) =>
 /** Tekst artykułu do czytania na głos – słowa autora bez zmian, bez elementów, których nie da się przeczytać. */
 export function tekstDoCzytania(a: Dokument): string {
   return (
-    a.tresc
-      // inicjał w osobnym akapicie („**P**” + „ora …”) – jedno słowo
-      .replace(/\*\*([A-ZĄĆĘŁŃÓŚŹŻ])\*\*[ \t]*\n[ \t]*\n(?=\S)/g, "$1")
+    // inicjał w osobnym akapicie („**P**” + „ora …”) – jedno słowo, chyba że to osobne słowo („**W**” + „Polsce”)
+    polaczInicjaly(a.tresc, /\*\*([A-ZĄĆĘŁŃÓŚŹŻ])\*\*[ \t]*\n[ \t]*\n(?=\S)/g, (l, osobne) => (osobne ? l + " " : l))
       .replace(/\[!\[[^\]]*\]\([^)]*\)\]\([^)]*\)/g, "") // zdjęcia z odnośnikiem
       .replace(/!\[[^\]]*\]\([^)]*\)/g, "") // zdjęcia
       .replace(/^\|.*\|$/gm, "") // tabele (dane czyta się lepiej w artykule)
@@ -113,13 +115,18 @@ if (polecenie === "teksty") {
   let n = 0;
   const spis: string[] = [];
   let razem = 0;
+  const errata = wczytajErrate(".");
+  const poprawki: string[] = [];
   const zapowiedz = `Uwierz we własny rozum. Teksty Leszka Klimka ze strony uleszka.net, z lat dwa tysiące cztery – dwa tysiące siedem. Odcinek ${Number(nr)}: ${tytul}. Czyta lektor, którego głos wygenerowała sztuczna inteligencja.`;
   const zakonczenie = `To był tekst Leszka Klimka ze strony uleszka.net. Pełny tekst, ze zdjęciami i źródłami, znajdziesz na uleszka.net, w czytelni. Tam możesz też porozmawiać z archiwum strony.`;
   writeFileSync(join(folder, "00-zapowiedz.txt"), zapowiedz + "\n", "utf8");
   spis.push(`| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | ${zapowiedz.length} |`);
   razem += zapowiedz.length;
   for (const a of artykuly) {
-    const czesciArt = czesci(tagi ? zTagami(tekstDoCzytania(a)) : tekstDoCzytania(a));
+    // oczywiste literówki poprawione według erraty (dane/poprawki/errata.json) – lektor czyta poprawną formę
+    const { tekst: poprawiony, uzyte } = popraw(tekstDoCzytania(a), a.id, errata);
+    for (const [k, ile] of uzyte) poprawki.push(`| ${a.tytul} | ${errata[k].zle} | ${errata[k].dobrze} | ${ile} |`);
+    const czesciArt = czesci(tagi ? zTagami(poprawiony) : poprawiony);
     czesciArt.forEach((c0, i) => {
       // każda część nagrywana jest osobno – zaczyna się od wskazówki tonu, jeśli nie ma własnej
       const c = tagi && !c0.startsWith("[") ? `[calm, storytelling] ${c0}` : c0;
@@ -147,14 +154,22 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków.${tagi ? " 
 ${spis.join("\n")}
 
 **Razem: ${razem} znaków** (≈ ${Math.round(razem / 950)} min nagrania).
+${poprawki.length ? `
+### Poprawione literówki (errata)
 
+W tekście dla lektora poprawiono oczywiste literówki z oryginału (lista: \`dane/poprawki/errata.json\`):
+
+| Artykuł | Było | Jest | Razy |
+|---|---|---|---|
+${poprawki.join("\n")}
+` : ""}
 ## Opis odcinka (Spotify)
 
 **Tytuł:** ${tytul} – Leszek Klimek
 
 ${streszczenia.join("\n\n")}
 
-Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian. Czyta lektor AI (ElevenLabs). Archiwum powstało w hołdzie śp. Leszkowi Wiktorowi Klimkowi.
+Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum powstało w hołdzie śp. Leszkowi Wiktorowi Klimkowi.
 
 Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zastępują porady lekarza.
 
