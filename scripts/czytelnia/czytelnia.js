@@ -22,7 +22,7 @@
     pamiec.zapisz("uleszka-rozmiar", String(px));
     if (rozmiarWart) rozmiarWart.textContent = Math.round((px / 19) * 100) + "%";
   };
-  ustawMotyw(html.dataset.motyw || "jasny");
+  ustawMotyw(html.dataset.motyw || "sepia");
   ustawRozmiar(Number(pamiec.czytaj("uleszka-rozmiar")) || 19);
   panel?.querySelectorAll("[data-motyw]").forEach((b) => b.addEventListener("click", () => ustawMotyw(b.dataset.motyw)));
   panel?.querySelectorAll("[data-rozmiar]").forEach((b) =>

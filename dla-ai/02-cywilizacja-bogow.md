@@ -629,7 +629,7 @@ W tabelce przedstawiłem dane, jakie uwzględniłem w swoich obliczeniach.
 
 | NAZWA MIEJSCA | Szerokość \[B\] | Długość \[L\] | Kąt zmierzony | Kąt obliczony |
 | --- | --- | --- | --- | --- |
-| Akpatok<br>Tula<br>Teotihuacan<br>Villahermosa<br>Monte Alban<br>Uxmal<br>Palenque<br>Tikal<br>Tiahuanaco<br>Machu Picchu<br>Giza<br>Abydos<br>Sakkara | 60,00° N<br>20,27° N<br>19,47° N<br>18,00° N<br>16,27° N<br>20,27° N<br>19,75° N<br>17,05° N<br>26,93° S<br>27,14° S<br>29,98° N<br>?<br>? | 70,00° W<br>99,57° W<br>94,88° W<br>92,94° W<br>96,94° W<br>87,79° W<br>90,86° W<br>87,47° W<br>67,50° W<br>72,82° W<br>31,32° E<br>?<br>? | <br>?<br>18°<br>?<br>?<br>?<br>15°<br>?<br>1,5°<br>1,5°<br>20°<br>\-<br>\- | <br>24,5°<br>19°<br>11°<br>23°<br>16°<br>19°<br>15,5°<br>2°<br>2°<br>24°<br>\-<br>\- |
+| Akpatok<br>Tula<br>Teotihuacan<br>Villahermosa<br>Monte Alban<br>Uxmal<br>Palenque<br>Tikal<br>Tiahuanaco<br>Machu Picchu<br>Giza<br>Abydos<br>Sakkara | 60,00° N<br>20,27° N<br>19,47° N<br>18,00° N<br>16,27° N<br>20,27° N<br>19,75° N<br>17,05° N<br>26,93° S<br>27,14° S<br>29,98° N<br>?<br>? | 70,00° W<br>99,57° W<br>94,88° W<br>92,94° W<br>96,94° W<br>87,79° W<br>90,86° W<br>87,47° W<br>67,50° W<br>72,82° W<br>31,32° E<br>?<br>? | ?<br>18°<br>?<br>?<br>?<br>15°<br>?<br>1,5°<br>1,5°<br>20°<br>\-<br>\- | 24,5°<br>19°<br>11°<br>23°<br>16°<br>19°<br>15,5°<br>2°<br>2°<br>24°<br>\-<br>\- |
 
 Jak widać, zawodowy geodeta mnie i moje obliczenia umieściłby w wiadomym miejscu. Zastrzegłem jednak na początku, że obliczenia te są bardzo orientacyjne. Jedno co z nich wynika, to tylko to, że zgadzają się w ogólnych zarysach. "Wielki uskok..." mógł być przyczyną przesunięć tych kardynalnych kierunków.
 
@@ -1217,10 +1217,7 @@ Ale jest być może pewien sposób. Ziemia posiada też swój kalendarz i o ile 
 
 Po osiągnięciu kształtu kuli, ustabilizowaniu się położenia i kształtu kontynentów, względnym uspokojeniu skorupy targanej dotychczas olbrzymimi trzęsieniami zaistniały możliwości rozwoju życia. Czas tej epoki można by ustalić na 800-535 mln. lat temu. Być może w tym okresie należy umieścić początek działania nanobów, bakterii i sinic, całego pierwotnego życia. To prawdopodobnie w tym czasie zaczyna się wielkie oczyszczanie atmosfery i wód na ziemi. Wielkie opady deszczów zmniejszają ilość chmur i do powierzchni zaczynają docierać promienie słoneczne intensyfikując zamianę dwutlenku węgla w tlen przez sinice i glony. Zanieczyszczenia wody zaczynają opadać na dno tworząc pierwsze osady.
 
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Nauka: ślady zostały sfałszowane!
 
 **Epoka Tworzenia (535 000 000 - 450 000 lat)**
@@ -1300,12 +1297,7 @@ Japończycy?
 
 Jakie to ludy epoki kamiennej potrafiły obrabiać tak wielkie kamienne bloki? W jaki sposób transportowano budulec na miejsce budowy? W jaki sposób unoszono te ciężary na znaczną niekiedy wysokość? Dlaczego tego rodzaju budowle spotykamy na całym świecie? W jakim celu wznoszono te budowle? Na te pytania współczesna nauka nie daje odpowiedzi. Jako odpowiedź można usłyszeć tylko bajeczki, jak ta głoszona przez Zahi Hawass'a, że piramidy zbudowano tylko po to, by uwiecznić dążenie człowieka do wieczności. Miliony ton kamienia dla "uwiecznienia" tylko jednej myśli?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz]  
 Jakimi to narzędziami z kamienia osiągnięto taką precyzję obróbki w Egipcie i Ameryce Południowej?
 
 Do czego mogły służyć precyzyjnie wycięte z jednego kawałka kamienne bloki o tak skomplikowanych kształtach? Nauka wie wszystko. Są to ołtarze pogańskich przodków. Można też zauważyć, że wszystkie starożytne ruiny to tylko świątynie, świątynie i tylko świątynie. Nasi przodkowie nie robili nic innego tylko trwonili swe siły i środki na budowy świątyń, ołtarzy i grobowców. Ostatkiem zaś sił płodzili potomstwo czyli nas, z którego wywodzą się elity zarozumialców. Przyjęcie dwóch dogmatów - darwinizmu wraz z liniowym rozwojem postępu technicznego zaowocowało tezami, których nie wolno obalić, a które wyznaczają obowiązkowe wyniki badań:
@@ -1650,14 +1642,7 @@ To, że kiedyś na ziemi istniała wysoka cywilizacja można udowodnić nie wpro
 
 Sądzę, że w miarę upływu czasu zniszczeniu ulegały i narzędzia i techniki. Mówimy przecież o tysiącach lat. Nie odnowiono zniszczonej w kataklizmie bazy technologicznej. Być może nie miał kto tego zrobić. Wymierali też nauczyciele, uczniowie nie byli zbyt pojętni. Gdy odeszli ostatni znawcy "starożytnej mądrości", najniższe instynkty dały o sobie znak niszczycielskimi wojnami. Mordowano całe narody. Niszczono i palono stare, niezrozumiałe rękopisy, spuściznę Pierwszego Rozumu. Zabijano światłych ludzi jako synów złego. Chrześcijanie wymordowali cywilizacje obu Ameryk i puścili z dymem ich spuściznę intelektualną. Ekspansja Islamu obróciła w niwecz nauki Egiptu, Chaldei czy Indii. Świat spowiła epoka ciemności i zabobonu. Światełko zaświeciło dopiero niedawno. Ówczesny świat wszedł na nową drogę, całkiem nową i całkiem inną drogę.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Bogowie? Półbogowie? Nauczyciele? Przodkowie?
 
 Czy człowiek mógł sam z siebie i na własne potrzeby stworzyć Bogów? Nie. Wzorzec istniał, choć w bardzo odległej przeszłości. Czczenie Bogów miało, być może, charakter podziękowań za dokonane czyny, a figury były portretami. Było to coś, co nazywamy dzisiaj kultem przodków, a było w zasadzie przywołaniem wspomnień o Wielkich Nieobecnych. Bardziej możliwe jest jednak to, że oddawanie hołdu Bogom było niejako wpisane w zakres obowiązków ich służących - ludzi. Dopiero za naszych czasów dorobiono im atrybuty, zaczęto obwiniać za niepowodzenia, dziękować za powodzenia. Dopiero za naszych czasów poprzydzielano różne funkcje i rejony odpowiedzialności. Ten od piorunów, ten od wody a ten jeszcze od czegoś innego. Z wysokiej katedry ustala się jak było i jak ma być.
@@ -1745,16 +1730,7 @@ Czy przedstawione zdjęcie murzynki z Kenii, może świadczyć, że cywilizacja 
 
 Czy drugą z tych cywilizacji była cywilizacja "długogłowych"? Tę, a właściwie czaszki, dla odmiany spotykamy w Egipcie i w Ameryce Południowej. Czy kształt czaszki jest autentyczny czy faktycznie specjalnie je deformowano, by upodobnić się do Bogów? Czy, jeszcze inna możliwość, są to czaszki "mieszańców"? Na to pytanie mogą dać odpowiedź tylko badania genetyczne, ale nie dzisiejszej genetyki, tylko tej za ... dzieści lat.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz] [obraz]  
 Czy nakrycia głowy i fryzury (lub peruki) miały ukryć kształt czaszki ?
 
 Czy twierdzenie nauki, że ludzie specjalnie deformowali czaszki niemowlętom i małym dzieciom nadając im "boski" wygląd, nie jest upraszczaniem sprawy? W Egipcie roi się od dowodów w postaci rzeźb i płaskorzeźb, które ukazują prawdopodobnie prawdziwy obraz tamtej cywilizacji. Czy te płaskorzeźby to następny fantastyczny komiks?
@@ -1992,14 +1968,7 @@ Gallardet
 
 W budowie wnętrz widać "ludzką"(?) rękę, popartą zapewne obliczeniami wytrzymałościowymi. Zwrócić należy uwagę na wygląd narożników. Nasza cywilizacja tak nie buduje, choć można już wytwarzać tak specjalnie wykuwane narożniki. Żmudne i nieopłacalne. Dlaczego "oni" wybrali taki rodzaj narożników? Po co nieboszczykowi tak przemyślane i tak wytrzymałe rozwiązania?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Ishibutai. Japonia.
 
 Czy w Japonii działało to samo "megalityczne plemię"? Jak potężne są bloki z kamienia można sobie uzmysłowić po wzroście zwiedzających. To nie są "cegiełki" pasujące do ludzkiej reki. Jakiej siły potrzeba by unieść, przesunąć i ustawić ciężary rzędu kilkuset ton? Oglądając wnętrze widać także, że nie jest to zbiorowisko bezładnie ustawianych kamieni oraz to, że te kamienie były przedtem obrabiane.
@@ -2034,12 +2003,7 @@ Archeolodzy nie wiedzą kto, nie wiedzą jak, nie wiedzą kiedy i nie wiedzą po
 
 Można wysnuć jednak kilka wniosków. Były budowane w sposób jak najbardziej prosty, a jednocześnie bardzo wytrzymały, bez przepychu i zdobnictwa. Nieliczne posiadają rowy prowadzące do jedynego wejścia, obudowane kamiennymi płytami. Niektóre obudowane ze wszystkich stron, posiadają tylko otwór, przez który można wślizgnąć do wnętrza. Budowane na całym świecie mogą świadczyć, że budowano je w obliczu jakiegoś ogólnoświatowego zagrożenia, którego nie umiemy sprecyzować. Wielką uwagę zwracano na grubość pokrywy dachowej (choć dziś niektóre są bardzo naruszone przez warunki pogodowe). Niektóre dolmeny są tak małe, jakby stanowiły tylko wejście do podziemnego schronu, jednak nie słyszałem, by w którymś kopano w głąb. Czy bliższy prawdy nie jest Daeniken?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz]  
 Menantol w Kornwalii. Do czego służył ten dziwny "celownik"?
 
 Na zakończenie coś, co przypominać może tor przeszkód w obozie szkoleniowym pierwotnych terrorystów. Obiegamy kamień, "przewlekamy" się przez kółko, obiegamy drugi kamień... i tak kilkadziesiąt razy, aż do uzyskania wymaganej sprawności. Poczekajmy jednak, bo może jakiś uczony "myślący inaczej" dopatrzy się w tym motka do wełny.
@@ -2266,10 +2230,7 @@ Dlaczego tak się dzieje, że wszyscy bez wyjątku archeologowie i historycy są
 
 Tytuł pasuje chyba do tego, co można zobaczyć. Kilka zdjęć z zakątków prawie całego świata. To, co je łączy, to wykonanie tych wspaniałych dzieł w jednym bloku kamienia. Wykonane z taką finezją z jaką cukiernik ozdabia tort.
 
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Qenko - Peru
 
 U góry rzeźba w jednym bloku kamienia, znajdująca się w pobliżu Cusco. O wielkości kamienia świadczy widoczna głowa turysty. Co ma przedstawiać? Trudno określić. Wygląda na model jakiegoś miejsca, którego nie potrafię skojarzyć. Delikatne, wężowate rowki i kaskady mogą sugerować, że płynęła w nich woda, która z kolei miała odpływy na krawędziach. Dziwne aż, że do tej pory żaden uczony nie rozpoznał w tym wszechobecnego "Boga nieskażonej wody użyźniającej nawet kamień". Zarysy schodów, budynków, fundamentów, a nawet zwierząt. Wszystko to na podstawie w formie półkuli. Interpretacja zależy od fantazji patrzącego.
@@ -2300,10 +2261,7 @@ Grobowce w Iranie wykonano jakby według jednego projektu. Są ogromne. Człowie
 
 Poniżej świątynia skalna Abu Simbel. Wykuta podobno na rozkaz Ramzesa Wielkiego około 1500 r. pne. po to, by pokazać Nubijczykom "kto tu rządzi". Ta, w obecnej chwili, składa się z olbrzymich, pociętych bloków kamiennych. W pierwowzorze stanowiła jeden monolit, a została pocięta podczas przenoszenia jej w inne niezagrożone miejsce. Arabskiemu prezydentowi Nasserowi zachciało się zmieniać przyrodę na wzór Związku Radzieckiego i w Assuanie wybudował tamę i zbiornik wodny, który groził zatopieniem świątyni. Świat nie mógł na to pozwolić i organizacja UNESCO z własnych funduszy przeniosła zabytek wyżej. Pozostałe zabytki zatopiły spiętrzone wody Nilu.
 
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Abu Simbel - Egipt
 
 To co widać z wierzchu, nie oddaje tego co jest w środku. W litej skale wycięte są olbrzymie pomieszczenia zdobione posągami faraonów, pełne kolumn i płaskorzeźb niebywałej precyzji wykonania. Trzeba przyznać, że jak na ludzi z epoki kamienia posiadali olbrzymią wiedzę o technice jego obróbki.
@@ -2663,16 +2621,10 @@ Stawiam ciekawą, być może obrazoburczą hipotezę. Pamiętamy zapewne opis tz
 
 Hipotezę swoją sformułowałbym pytaniem. Czy to przypadkiem nie są pozostałe fragmenty jakiejś budowli hydrotechnicznej, a więc może pozostałości śluzy południowej? Monumentalny, jakby toporny wygląd budowli wskazuje, że nie miała pełnić funkcji reprezentacyjnych lecz inną nie znaną nam funkcję. Nie ma w niej także "ludzkich" miejsc - osobnych pokoi czy komnat, posągów Bogów czy miejsc na ołtarze. Budowla zrekonstruowana (oczywiście tylko na papierze) przez egiptologów posiadać miała przykrycie z prostych i ciężkich kamiennych płyt. Egiptolodzy wysnuli także wniosek, że ponieważ ciągle stała tam woda po świątyni poruszano się łódką. Wielkie brawa! Ale czy to była na prawdę świątynia? Wygląd bardziej predestynuje ją do typu "przemysłowego". Czy tak mogły wyglądać śluzy jeziora Mojrisa lub jakieś urządzenie hydrotechniczne z nimi związane? Bardzo podobny wygląd ma świątynia "Chefrena" w Giza. Styl podpór i legarów jest prawie identyczny.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Abydos tzw. Ozyrejon
 
+[obraz] [obraz]  
 Giza - "świątynia" Chefrena
 
 Strabon pisał o Ozyrejonie: "... niezwykła budowla z litego kamienia ze źródłem na dużej głębokości. Schodzi się tam wysoko sklepioną galerią z ogromnych, doskonale obrobionych kamieni. Miejsce to połączone jest kanałem z wielką rzeką...". Jest także ciekawe skąd w Ozyrejonie bierze się woda? Budowla znajduje się powyżej Nilu a deszcz jest tam rzadkością. Woda gruntowa? A może nieznany podziemny zbiornik?
@@ -2769,133 +2721,14 @@ Historia lubi się jednak powtarzać. Potrzebę zbudowania zbiornika wodnego, kt
 
 Zróbmy mały przegląd piramid, oczywiście nie wszystkich, bo w sumie jako piramidy sklasyfikowano około 80 budowli. Obejrzyjmy te największe, lub to, co po nich zostało.
 
-[obraz]
-
-**Abu Roash**  
-wysokość - 57-67 m  
-podstawa - 106×106 m  
-nachylenie - 48-52°(?) inwestor - Dżedefre  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-[obraz]
-
-**Giza (Wielka)**  
-wysokość - 146,6 m  
-podstawa - 230×230 m  
-nachylenie - 51°50'50" inwestor - Cheops  
-budowniczy - Hemiunu  
-rok budowy - ok. 2500 pne
-
-[obraz]
-
-**Giza (Średnia)**  
-wysokość - 143,5 m  
-podstawa - 215×215 m  
-nachylenie - 53°10' inwestor - Chefren  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-[obraz]
-
-**Giza (Mała)**  
-wysokość - 66,5 m  
-podstawa - 102×105 m  
-nachylenie - 51°20'25" inwestor - Mykerinos  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-[obraz]
-
-**Zawiyet el\_Aryan**  
-wysokość - około 40 m  
-podstawa - 84×84 m  
-nachylenie - 68° (rdzeń)  
-inwestor - Khab  
-budowniczy - ???  
-rok budowy - ok. 2700 pne
-
-[obraz]
-
-**Abusir**  
-wysokość - 48 m  
-podstawa - 78,5×78,5  
-nachylenie - 50°30'  
-inwestor - Sahure  
-budowniczy - ???  
-rok budowy - ok. 2400 pne
-
-[obraz]
-
-**Sakkara**  
-wysokość - 62,5 m  
-podstawa - 109×121 m  
-nachylenie - schodkowa  
-inwestor - Dżoser  
-budowniczy - Imhotep  
-rok budowy - ok. 2700 pne
-
-[obraz]
-
-**Dashur**  
-wysokość - 105 m  
-podstawa - 188×188 m  
-nachylenie - łamana  
-inwestor - Snofru  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-[obraz]
-
-**Dashur (czerwona)**  
-wysokość - 105 m  
-podstawa - 220×220 m  
-nachylenie - 43°22'  
-inwestor - Snofru  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-Jak można zauważyć, wszystkie piramidy są albo uszkodzone, albo rozpadły się. Czy to są katastrofy budowlane? Czy dokonywano zmian w trakcie budowy? Bez żartów, tego nie budowali dzisiejsi "fachowcy". Zachowałbym też ostrożność co do imion inwestorów czy wykonawców. Bardzo kruche podstawy i raczej wprowadzane na zasadzie "ktoś to musiał zrobić". Wszędzie widać też, że piramidy jakby "otrząsnęły się" z okładziny. Czy to wynik katastrof budowlanych, czy efekt wielkiego trzęsienia Ziemi?
-
-[obraz]
-
-**Lisht**  
-wysokość - około 49 m  
-podstawa - 105×105 m  
-nachylenie - 49°24'  
-inwestor - Senuseret I  
-budowniczy - ???  
-rok budowy - ok. 1900 pne
-
-[obraz]
-
-**Meidum**  
-wysokość - 92 m  
-podstawa - 144×144 m  
-nachylenie - 51°50'35"  
-inwestor - Huni/Snofru  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-[obraz]
-
-**Hawara**  
-wysokość - 58 m  
-podstawa - 102×102 m  
-nachylenie - 48-52°  
-inwestor - Amenemhat III  
-budowniczy - ???  
-rok budowy - ok. 1900 pne
-
-[obraz]
-
-**Lahun**  
-wysokość - około 48,5 m  
-podstawa - 107×107 m  
-nachylenie - 42°35'  
-inwestor - Senuseret II  
-budowniczy - ???  
-rok budowy - ok. 1900 pne
+| [obraz] | **Abu Roash**<br>wysokość - 57-67 m<br>podstawa - 106×106 m<br>nachylenie - 48-52°(?) inwestor - Dżedefre<br>budowniczy - ???<br>rok budowy - ok. 2500 pne | [obraz] | **Giza (Wielka)**<br>wysokość - 146,6 m<br>podstawa - 230×230 m<br>nachylenie - 51°50'50" inwestor - Cheops<br>budowniczy - Hemiunu<br>rok budowy - ok. 2500 pne |
+| --- | --- | --- | --- |
+| [obraz] | **Giza (Średnia)**<br>wysokość - 143,5 m<br>podstawa - 215×215 m<br>nachylenie - 53°10' inwestor - Chefren<br>budowniczy - ???<br>rok budowy - ok. 2500 pne | [obraz] | **Giza (Mała)**<br>wysokość - 66,5 m<br>podstawa - 102×105 m<br>nachylenie - 51°20'25" inwestor - Mykerinos<br>budowniczy - ???<br>rok budowy - ok. 2500 pne |
+| [obraz] | **Zawiyet el\_Aryan**<br>wysokość - około 40 m<br>podstawa - 84×84 m<br>nachylenie - 68° (rdzeń)<br>inwestor - Khab<br>budowniczy - ???<br>rok budowy - ok. 2700 pne | [obraz] | **Abusir**<br>wysokość - 48 m<br>podstawa - 78,5×78,5<br>nachylenie - 50°30'<br>inwestor - Sahure<br>budowniczy - ???<br>rok budowy - ok. 2400 pne |
+| [obraz] | **Sakkara**<br>wysokość - 62,5 m<br>podstawa - 109×121 m<br>nachylenie - schodkowa<br>inwestor - Dżoser<br>budowniczy - Imhotep<br>rok budowy - ok. 2700 pne | [obraz] | **Dashur**<br>wysokość - 105 m<br>podstawa - 188×188 m<br>nachylenie - łamana<br>inwestor - Snofru<br>budowniczy - ???<br>rok budowy - ok. 2500 pne |
+| [obraz] | **Dashur (czerwona)**<br>wysokość - 105 m<br>podstawa - 220×220 m<br>nachylenie - 43°22'<br>inwestor - Snofru<br>budowniczy - ???<br>rok budowy - ok. 2500 pne | Jak można zauważyć, wszystkie piramidy są albo uszkodzone, albo rozpadły się. Czy to są katastrofy budowlane? Czy dokonywano zmian w trakcie budowy? Bez żartów, tego nie budowali dzisiejsi "fachowcy". Zachowałbym też ostrożność co do imion inwestorów czy wykonawców. Bardzo kruche podstawy i raczej wprowadzane na zasadzie "ktoś to musiał zrobić". Wszędzie widać też, że piramidy jakby "otrząsnęły się" z okładziny. Czy to wynik katastrof budowlanych, czy efekt wielkiego trzęsienia Ziemi? |   |
+| [obraz] | **Lisht**<br>wysokość - około 49 m<br>podstawa - 105×105 m<br>nachylenie - 49°24'<br>inwestor - Senuseret I<br>budowniczy - ???<br>rok budowy - ok. 1900 pne | [obraz] | **Meidum**<br>wysokość - 92 m<br>podstawa - 144×144 m<br>nachylenie - 51°50'35"<br>inwestor - Huni/Snofru<br>budowniczy - ???<br>rok budowy - ok. 2500 pne |
+| [obraz] | **Hawara**<br>wysokość - 58 m<br>podstawa - 102×102 m<br>nachylenie - 48-52°<br>inwestor - Amenemhat III<br>budowniczy - ???<br>rok budowy - ok. 1900 pne | [obraz] | **Lahun**<br>wysokość - około 48,5 m<br>podstawa - 107×107 m<br>nachylenie - 42°35'<br>inwestor - Senuseret II<br>budowniczy - ???<br>rok budowy - ok. 1900 pne |
 
 Wszystkie widoczne wejścia do piramid zostały wykonane już w czasach współczesnych i przez współczesnych "ciekawskich". Na pewno nie mają nic wspólnego z oryginalnymi, bo takich nie znaleziono. Zostały wykute niemałym nakładem sił przez starożytnych złodziei albo wykonane przez takich ludzi jak Bellzoni czy Vyse metodami nowocześniejszej, bardziej "eksplozywnej" archeologii.
 
@@ -3025,12 +2858,7 @@ Historia starożytnego Egiptu, według starożytnych, rozpoczęła się w tak da
 
 Według nauki ta krucha i słaba istota rzucała na lewo, prawo i do góry blokami o wadze od kilku do kilkuset ton. Cierpliwie, kamiennym dłutkiem wykuwała ogromne, kamienne sarkofagi dla byków. Kamiennymi pięściakami formowała dwudziestometrowe posągi i za pomocą drewnianych dźwigów, kołowrotków i sznurów ustawiała je w pionie. By nie zgnuśnieć, między pracami na roli, wszyscy mężczyźni stawiali faraonom piramidy, by król po śmierci mógł złożyć w nich swą ziemską powłokę. Bogów zaś wymyślono, bo inaczej cała ta praca nie miała by sensu. Trwało tak do czasu, aż kiedyś kolejne pokolenie zbuntowało się pracą ponad siły i porozbijało wszystko, co uczynili ich przodkowie. Tak pokrótce można opowiedzieć historię Egiptu, którą z wysokiej katedry serwuje się nam - zwykłym ludziom.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz]  
 Wszystko dla Ciebie przetoczym po Niebie!  
 Czy to slogan i logo Chepri-Trans S.A.?
 
@@ -3545,46 +3373,16 @@ Rysunek obok przedstawia Wirakoczę. Tego samego, który zajmuje centralną czę
 
 Spotyka się stwierdzenie, że Tiahuanaco jest kolebką kultury Ameryki Południowej, która promieniowała wokoło, tworząc jednolitą kulturę, którą nazwano Huari. Przypatrzmy się przykładom tego "promieniowania":
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Port nad jeziorem Titicaca. Puno (Sillustani). Ogromne "silosy" wypełnione kamieniami. Do czego służyły?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Rejon Cusco. Od lewej Sacsayhuaman, Cusco, Ollantaytambo i Pisaq. Doskonała obróbka kamienia.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Chavin de Huantar nad wybrzeżem Pacyfiku. Daeniken widzi tu świątynię, którą pokazano Ezechielowi.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz] [obraz]  
 Dwa pierwsze - Ingapirca, dalej San Agustin - postacie Bogów? Zwróć uwagę na "tygrysie" siekacze.
 
 O jakim promieniowaniu mówimy? To co widać na zdjęciach prezentuje zupełnie odmienne stylowo dzieła. Promieniowanie można zauważyć tylko w przypadku zastosowanego surowca - kamienia, jego wielkości i doskonałego dopasowania elementów. Współgrać stylowo z Tiahuanaco może ewentualnie Chawin de Huantar, ale tu w murze widać zupełnie inną głowę (w Chavin de Huantar głowy posiadają ogromne kły). Ponadto styl w jakim wykonano tzw. lanzon (kamienną klingę) nie ma odpowiednika w Tiahuanaco.
@@ -4473,14 +4271,7 @@ Czy przeglądając historię starożytnego Rzymu znaleźć można wzmiankę o tr
 
 Znany jest też zapewne termin "pucolana". Tak nazwano słynny "rzymski" cement złożony z wapna, wody i popiołu wulkanicznego, dzięki któremu Rzym wznosił tak wspaniałe budowle, a przede wszystkim "rzymskie" łuki (tak naprawdę budowa łuku architektonicznego nie zależy wcale od cementu). Czy znany jest jego dokładny skład? Nie, bo nie podano do wiadomości. A dlaczego nie podano? Dlatego, że ten rzekomy super cement po wyschnięciu dał się skruszyć w palcach. Ponadto, skoro był tak rewelacyjny, dlaczego włoskie budownictwo nie rzuciło się na tę starożytną recepturę? Dlaczego Etny i Wezuwiusza nie wykorzystuje się dzisiaj na skalę przemysłową? Nikt nie chce darmowego surowca? Prawdopodobnie ta rzymska "pucolana" mogła służyć tylko do tynkowania budowli, co Rzymianie skwapliwie wykorzystali ukrywając pod nią nie swoje dzieła.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Kto i kiedy wykuwał tę skalną grotę w Cordari na Sycylii? Grecy? Kartagińczycy? Rzymianie?
 
 Historia starożytnego Rzymu stała się dogmatem. Stała się Pismem Świętym Nowej Historii, w którym nie wolno zmienić ani słowa. Traktowana jest jak wiara, gdzie wszystko musi być uznawane pod groźbą anatemy. Historia starożytnego Rzymu jest tak lakoniczna, jak cezarowe "veni, vidi, vici" - mówi wiele i jednocześnie kompletnie nic. Dlaczego tak jest? Dlatego, że przyjęto założenie - "gdziekolwiek w Europie są kamienne ruiny i sterczy lub leży połamana kamienna kolumna, tam musieli być Rzymianie". Dobrze, że jest tych ruin mało, bo imperium rzymskie zalało by cały świat.
@@ -4546,14 +4337,7 @@ Rzym założono na siedmiu wzgórzach, które uczeni określają jako trzy wzgó
 
 Powędrujmy po starożytnym Rzymie. Zgodzić się należy z twierdzeniem, że zanim postawiono coś na powierzchni ziemi, musiano przeprowadzić prace podziemne. Trudno bowiem postępować odwrotnie nie narażając na zawalenie wzniesionych już budowli. Logicznie, prace te powinny być zakończone do roku 575 pne. Przypatrzmy się zatem jednej z największej kanalizacji wszechczasów, rzymskiej cloaca maxima.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Największy podziemny ściek świata - rzymska cloaka maxima. Czy to zbudowali Rzymianie?
 
 Czy to zbudował ludek, który około 800 roku pne. stawiał w okolicach drewniane chaty? W jaki sposób, a przede wszystkim jakimi narzędziami, ludek ten wyciął tak olbrzymie bloki skalne? Skąd ta precyzja w dopasowaniu kamieni ułożonych bez żadnej zaprawy? Skąd i czym transportowano te olbrzymie elementy? Czym dźwigano i precyzyjnie ustawiano tak duże kamienne bloki? Czy to znów tylko ludzie i osły? Dlaczego nauka tak usilnie mydli oczy tym, którym ma służyć? Czy można sądzić, że 250 lat "ewolucji" wystarczy w pełni na taki skok technologiczny? Kto w takim razie zbudował coś podobnego w Caere 40 km od Rzymu, skoro w tym czasie Rzymianie nie wytknęli nawet czubka nosa poza "swój" Rzym?
@@ -4901,18 +4685,13 @@ To jeszcze nie wszystko. Rzymianie wznieśli podobny, ale już ziemny, w roku 14
 
 Archeolodzy, ci wspaniali detektywi przeszłości albo nie wiedzą wszystkiego albo nie chcą zauważać podobnych kamiennych budowli położonych poza wałem "Hadriana". Może Rzymianie zbudowali to w tajemnicy?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Irlandia
 
+[obraz]  
 Szkocja
 
+[obraz]  
 Orkady
 
 Podobny "hadrianowy" mur, choć niższy, istnieje przecież w sąsiedniej Irlandii. Tam też są ruiny kamiennego domu z "rzymskim" cementem pomiędzy kamieniami. A kto budował w Szkocji z kamienia wzmacniając wejście ogromnymi skalnymi belkami? Kto wreszcie na Orkadach, wyspach jeszcze dalej na północ od Szkocji, wybudował tę salę z wielkich kamiennych belek? Czy tam też byli Rzymianie? Budowle rzymskie w Brytanii są tak samo wiarygodne jak czaszka człowieka z Pitdown.
@@ -4947,20 +4726,14 @@ Jak mało logicznie podchodzi się do badań widać na mapce. Jest to fragment "
 
 Jedną z większych zagadek rzymskiej techniki wojennej stanowi most przez Dunaj. W roku 96 ne. na rzymski tron wstępuje Marek Ulpiusz Trajan. Jest to w historii Rzymu okres krótkotrwałych zwycięstw nad państwem Daków, rządzonych przez Decebala. Jest to także okres zadziwiających osiągnięć technicznych Rzymu. W roku 101 ne. Trajan wysyła na wojnę około 100 tysięcy żołnierzy, które przeprawia po moście pontonowym na Dunaju. Twórca tej hipotezy był zapewne pod wrażeniem współczesnego wojska szybko i sprawnie przeprawiajacego się przez wodę lecz Dunaj oglądał tylko w atlasie geograficznym. Dunaj w rejonie przeprawy nie był i nie jest dziś rzeczułką, a ponad kilometrowym korytem wody z silnym nurtem pośrodku.
 
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Turnu Severin i miejsce budowy mostu na Dunaju
 
 Jak wyglądał rzymski "ponton" trudno wywnioskować, bo nawet sami Rzymianie nie pozostawili żadnego opisu. Dlatego nikt nie jest w stanie dokonać rzeczowej rekonstrukcji. Wiemy natomiast, że rzymska technika w owych czasach do dyspozycji mogła mieć tylko drewno, liny plecione z roślin i nadmuchiwane skóry baranie (na takich "baranich pontonach" przeprawiali się już starożytni Asyryjczycy przez Eufrat). Jak wielki mógł być taki odcinek pontonu? Nie sądzę, by przekraczał wymiary 5x10 m. Z pewnością też musiał być wyłożony z wierzchu drewnianymi okrąglakami, lub czymś podobnym, by żołnierz lub koń po prostu w nim w nim nie ugrzęźli.
 
 By utrzymać taki ciężar na wodzie musiał mieć przymocowane pod spodem na całej powierzchni nadmuchane skóry baranie (przymocowanie skór tylko do boków groziło załamaniem się konstrukcji w środku). Biorąc pod uwagę wymiar skóry 0,5x1 m, pod pontonem należało przymocować około 100 takich nadmuchanych elementów. Dla prostego rachunku przyjmijmy także szerokość rzeki na 1 km. Daje to nam most pontonowy złożony z minimum 100 pojedynczych pontonów oraz 10 tysięcy zabitych baranów i są to dane zdecydowanie zaniżone. Być może piszę trochę humorystycznie, ale wnioski wypływające z tego są bardzo poważne.
 
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Tropaeum Traiani
 
 Most pontonowy musiano budować z jednej strony rzeki (druga była zajęta przez wroga) układając i wiążąc pontony jeden do drugiego. Jest to czynność prosta przy brzegu, jak więc Rzymianie radzili sobie z prądem rzeki, który musiał znosić pontony grożąc rozerwaniem mostu? Dzisiaj taki most muszą utrzymywać specjalne łodzie, które mocą swych maszyn równoważą siłę rzecznego prądu. Utrzymywanie pontonu przez żołnierzy nie wchodzi w rachubę ze względu na głębokość rzeki. Rzymianie mogli mieć do dyspozycji tylko liny, a które do utrzymywania ostatniego pontonu musiały mieć grubo ponad kilometr długości. Czy wtedy już wytwarzano tak długie i aż tak wytrzymałe?
@@ -4969,10 +4742,7 @@ W tej samej wojnie zimą Decebal kontratakuje Rzymian przechodząc zamarzniętą
 
 Istnieje jednak możliwość powiązania przeprawy pontonowej z Tropaeum Traiani w Adamclissi. Sądzę, że Rzymianie nie zbudowali mostu, ale na pojedynczych pontonach chcieli osiągnąć drugi brzeg przepływając rzekę. Całą tę armadę prąd rzeki zniósł jednak 100 km w dół rzeki, gdzie z trudem dobili do drugiego brzegu, a pomnik nie jest żadnym pomnikiem zwycięstwa tylko Votum Traiani za cudowne ocalenie. Można także odnieść wrażenie, że pomnik ten wznieśli Trajanowi współcześni "czciciele wielkiego Rzymu" obudowując stojącą od dawna kolistą ruinę na podstawie własnego, wyimaginowanego modeliku (na zdjęciu).
 
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Szczątki mostu i jego "papierowa" rekonstrukcja
 
 Trajan doskonale wiedząc, że wojna z Dakami nie jest zakończona, sprowadza ponoć około roku 102 ne. architekta z Damaszku Apollodora, któremu powierza zadanie zbudowania mostu przez Dunaj. Jak to? W całym imperium nie ma rzymskiego specjalisty zdolnego zaprojektować i wybudować most? A jednak!
@@ -5009,30 +4779,22 @@ Sam most w Drobeta też wydaje się być wersją artystyczną, a nie historyczn�
 
 Jest też pewien kłopot związany ze stylami budowlanymi, a szczególnie z ornamentyką kapiteli czyli górnych zakończeń kolumn. Pamiętam ze szkoły jak wbijano w mózg, że w starożytnej architekturze występują tylko trzy style - joński, dorycki i koryncki. Najprostszy, dorycki miał u góry coś w rodzaju talerza, joński dwa rzeźbione zakrętasy, a koryncki to już było pełne bogactwo rzeźby gdzie przeważnie motywem był liść akantu.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Kartagina
 
+[obraz]  
 Agrigento
 
+[obraz]  
 Pompeje
 
+[obraz]  
 Evora
 
+[obraz] [obraz]  
 starożytny Rzym
 
+[obraz]  
 Chiny
 
 Jak przedstawia się sprawa w imperium? W Kartaginie kolumny zwieńczano kapitelami podobnymi do stylu korynckiego. W Agrigento surowy styl dorycki podobnie jak w rzymskich Pompejach. Hiszpańska Evora skłania się do korynckiego, ale już w samym Rzymie kapitele w świątyni Saturna przypominają styl joński (podobnie jak półkolumny w rzymskim colosseum), a ostatni to już finezja z liści akantu. Oglądając budowle rzymskie, te zbudowane w stolicy i te w "uszczęśliwianych" krajach nie mogę oprzeć się wrażeniu, że Rzym albo skopiował style swojego odwiecznego wroga albo Grecy zdążyli wszystko zbudować przed Rzymianami. Czy Grecy budowali w Kartaginie lub w Evorze? Jakim cudem styl joński zawędrował do Chin? Archeolodzy nie mają natomiast żadnego problemu. Te budowle, które są bliżej Rzymu otrzymują status rzymsko-greckich a leżące bliżej Aten grecko-rzymskich.
@@ -5043,18 +4805,13 @@ Prawda jest taka, że gdzie nie spojrzymy - cała Europa, Azja Mniejsza i Bliski
 
 Według archeologów i historyków oraz sporządzonych przez nich map imperium rzymskiego wiemy, że cywilizacja Rzymu sięgała po sam Atlantyk. Czy brzegi dzisiejszej Portugalii zdobywali z morza czy też długim lądowym marszem zaskoczyli przeciwników, historycy wypowiadają się chyba nieoficjalnie, bo trudno coś odnaleźć. Jak w tak odległe rejony dostarczono niezbędną ilość "cementu"? Przez górzystą Hiszpanię czy przez morze Śródziemne i Atlantyk?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Alcobaca
 
+[obraz]  
 Batalha
 
+[obraz] [obraz]  
 Catoira
 
 Wybrałem specjalnie same rybackie wioski lub miasteczka portugalskie leżące nad samym Atlantykiem. W Alcobaca pochyły, kamienny mur zamku, przypominający piramidy zza Atlantyku, ale już w Batalha widać przepiękne "rzymskie" łuki w ruinach jakiejś zapewne "rzymskiej" willi. W Catoira natomiast mury spajane "rzymskim" cementem, ale tutaj już archeolodzy zgodnie orzekli, że to mogli zbudować... Wikingowie. Zresztą nie jest to aż tak ważne. Ważne jest to, że nad Atlantykiem panowali Rzymianie. Należy się tylko domyślać, że gdyby nie upadek imperium, Rzymianie prawdopodobnie bez trudu zdobyli by Amerykę Środkową. Szkoda, że tak się nie stało, bo "ich" budowle już tam są.
@@ -5159,10 +4916,7 @@ Cywilizacja starożytnego Rzymu nie była żadną super cywilizacją. Podlegała
 
 Rzymianie od samego początku mieszkali wśród starożytnych ruin i może usiłowali coś sklecać używając materiałów z już istniejących starożytnych budowli. Nie sądzę także, by postawili stopę w Conimbriga czy w Italice w Hiszpanii (najdalej w głąb Hiszpanii doszli podobno do Numancji). To historycy przypisując im "ad hoc" wszystkie kamienne drogi, mosty, akwedukty, świątynie, "colossea" i teatry musieli wyciągnąć wniosek, że tam musieli być.
 
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Jedyny spadek po imperium rzymskim !
 
 Imperium rzymskie swoją zachłannością i brutalnością zniszczyło wszystkie podbite cywilizacje nie oszczędzając nawet siebie. Czy teraz można już zrozumieć dlaczego NIE WOLNO odnaleźć Atlantydy? Odnalezienie jej wywróciło by całą starożytną historię do góry nogami, łącznie z historią starożytnej Grecji.
@@ -5346,18 +5100,13 @@ Panuje powszechne przekonanie, że kultura Celtów w najczystszej postaci zachow
 
 Jak na epokę i przysłowiową irlandzką biedę są to cuda techniki. Do budowy użyto najtrudniejszego w obróbce kamienia spajanego jakąś irlandzką "pucolaną". Budowano z płaskich kamieni, wygładzanych ze strony lica, a otwory okienne zdobiono cyzelowanymi, kamiennymi ramami. Proszę zwrócić uwagę na kształt okna. Wykonano je dla postawienia we wnęce rzeźby, która była otoczona poświatą światła padającego z zewnątrz wąską szczeliną. W środku musiał panować przyjemny półmrok podkreślający zarys rzeźb. Zaiste musiał to wymyśleć i wykonać przedstawiciel prymitywnej cywilizacji. Takich kościołów na terenie Irlandii są setki i łączy je jeszcze jedna cecha - prawie wszystkie są zniszczone.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Irlandia
 
+[obraz]  
 Francja
 
+[obraz]  
 Polska
 
 Jedną z najbardziej zagadkowych postaci jest figura Chrystusa(?) na krzyżu celtyckim. Jak widać figura ma rozkrzyżowane ręce (na jednym nawet swobodnie stoi) i nie wygląda na dobrze nam znaną figurę Chrystusa ukrzyżowanego. Co ciekawsze taką pozę znajdujemy też we francuskiej Galii, a nawet w Polsce na portalu starej kolegiaty w Koninie. Inne podejście do męki Pańskiej czy też forma daleko starsza od rzymsko-chrześcijańskiej?
@@ -5433,32 +5182,25 @@ Carcassonne to już nie tylko zamek, a całe kamienne miasto leżące na połudn
 
 Innym ciekawym szczegółem, na który nie zwraca się uwagi, są szczeliny w murach zamków. Ich szerokość waha się od kilku do kilkunastu centymetrów, długość od kilkudziesięciu centymetrów do kilku metrów. Znajdują się w różnych miejscach - od przyziemia po szczyty wież. Znajdują się na ścianach wież, na murach, a nawet w ich załomkach. Jakie było ich przeznaczenie? Obserwacja, wentylacja, oświetlenie, odprowadzanie wody czy wzmocnienie obrony? Jako otwory strzelnicze nie spełniały raczej swojego zadania z uwagi na minimalny kąt ostrzału i trafienie z nich wroga było raczej dziełem przypadku. Obserwacja też nie wchodziła w rachubę z tego samego względu co ostrzał.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Irlandia
 
+[obraz]  
 Arques
 
+[obraz]  
 Carcassonne
 
+[obraz]  
 Apulia
 
+[obraz]  
 Syria
 
+[obraz]  
 Margat
 
+[obraz]  
 Montsegur
 
 Do czego służyły nie wiadomo, jednak musiały spełniać jakąś ważną rolę, gdyż niektóre z nich są specjalnie obudowane większymi, polerowanymi kamieniami. Musiał to być znaczący element architektoniczny, a być może i techniczny, gdyż szczeliny te występują w większości zamków średniowiecznej Europy, od Wysp Brytyjskich po Syrię i od Portugalii po Niemcy. Jeśli, jak twierdzą historycy, każde państwo rozwijało z osobna swoją kulturę, technikę i sztukę, to jak wytłumaczyć występowanie tego uniwersalnego elementu architektonicznego? Czy wnęka z zamku Montsegur rozwiązuje do końca tę zagadkę?
@@ -5579,18 +5321,13 @@ Rabsztyn
 
 Dlaczego tak ważna inwestycja z punktu widzenia obronności państwa, popadła w ruinę w tak krótkim czasie? Dlaczego żaden zamek (no prawie żaden) nie został odbudowany?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Babice
 
+[obraz]  
 Nidzica
 
+[obraz] [obraz]  
 Ujazd. Zamek Krzyżtopór
 
 Przedstawione przeze mnie ruiny zamków (znikoma część polskich zamków) łączy wspólna cecha, podobnie jak zamki zachodniej Europy i wysp brytyjskich - są zbudowane z kamienia i są zniszczone. Gdyby ulegały zniszczeniu przez najeźców, winny być równane z ziemią tak, by nie nadawały się nawet do odbudowy, a przynajmniej zniszczonoby mury obronne i wieże. Tymczasem możemy obejrzeć skorodowane mury na skutek warunków atmosferycznych i upływu czasu. W bryle krzyżtoporskiego zamku w Ujeździe prześwitują co prawda cegły, ale proszę obejrzeć kamienne łuki i szerokie, kamienne stropy przyziemia przypominające te z Krak de Chewaliers.
@@ -5626,14 +5363,7 @@ To właśnie nad Polską i Czechami wyraźna linia zamienia się w kreskę nanie
 
 **Podsumujmy...**
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Irlandia - Tiahuanaco - Zbrucz - Trogir  
 Koincydencyjne ułożenie rąk?
 
@@ -6052,26 +5782,12 @@ Anglia
 
 Dlaczego archeologowie i historycy, skądinąd narodek racjonalistów, zaprzęgają do historii legendy tam gdzie nie można znaleźć racjonalnego wytłumaczenia? Dlaczego przyjmuje się czasem niewiarygodne stwierdzenia w rodzaju - Za Wilhelma Zdobywcy w ciągu 100 lat zbudowano 900 zamków? Jaki naród był w stanie ponieść takie koszty budowy? Skąd wzięto taką ilość sił i środków, by w ciągu jednego roku wybudować 9 zamków? A jak budowano zamki w Brytanii? W średniowiecznej Anglii sprawę budowniczych załatwiano w prosty sposób. Pani na zamku obwieszczała rankiem, że miała widzenie iż aniołowie zbudowali kaplicę zamkową. Wszyscy szli do kaplicy i o dziwo faktycznie była zbudowana. Wieść szła do gminu i sprawa załatwiona. Nikt nie śmiał zaprzeczać, bo za negowanie boskich mocy można było dostać po karku... toporem. I to jest baza nowoczesnej historii.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz] [obraz]  
 Czy kształt zamku narzucały konkretne potrzeby czy ekstrawagancja władców i twórców?
 
 Inną, nie mniej intrygujaca sprawą jest faktyczne przeznaczenie "średniowiecznych" zamków. Od młodości jesteśmy karmieni wiadomościami iż były to siedziby możnych i królów. Informuje się nas, że były schronieniem dla okolicznych mieszkańców w razie niebezpieczeństwa. Owszem, zgoda. Lecz jest to opis zachowań ludzi już nam współczesnych. Tych, którzy te zamki zamieszkiwali we współczesnych nam czasach. Jaką zatem funkcję mógł pełnić zamek stojący samotnie i nie okolony murami obronnymi? W jaki sposób za murami obronnymi gromadzono żywność na wypadek oblężenia? Jaka to była żywność i w jakiej ilości? Skoro miał to być zapas na wypadek wojny, to w jaki sposób dokonywano odświeżania zapasów? Jak organizowano żywienie, gdy przeciwnik napadał znienacka? I wreszcie podstawowy warunek przeżycia - świeża, pitna woda. Dla zachowania właściwej kondycji zdrowotnej pobór wody musiał wzrastać proporcjonalnie do ilości ludzi. W jaki sposób jedna czy dwie zamkowe studnie były w stanie obsłużyć potrzeby wszystkich ludzi i zwierząt szukających w nim schronienia? A słyszeliśmy zapewne o oblężeniach trwających miesiące a nawet lata. Bez dokładnego zbadania zagadnienia dystrybucji żywności i wody takie stwierdzenia czy wnioski uważam za zbyt daleko idące.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz]  
 Czy zamki Czech, Polski czy Anglii mają ze sobą coś wspólnego?
 
 Czyż nie dziwi fakt, że król Kazimierz Wielki przez okres swego panowania wzniósł kilkadziesiąt kamiennych zamków podczas gdy w sąsiednim państwie zakonnym Krzyżacy zamek w Malborku wznosili z cegły? Technika wznoszenia z cegły jest dużo bardziej ekonomiczna, nie wymagająca wymyślnej techniki, ani też nie sprawia trudności w transporcie na duże wysokości. Kilka cegieł na dużą wysokość może wnieść człowiek. A jak w Polsce transportowano na duża wysokość gotowe elementy kamienne ważące po kilkaset kilogramów czy ton? Jak to mogło być, że za panowania jednego króla, przez 37 lat zbudowano dziesiątki kamiennych zamków wymagających nie lada organizacji pracy i nakładu sił i środków, podczas gdy Krzyżacy, korzystając z łatwiejszego sposobu, zamek malborski budowali trochę ponad 100 lat (od rozpoczęcia budowy w roku 1272 do zakończenia budowy pałacu wielkiego mistrza w 1392)? Dlaczego w Polsce wybrano dużo droższą metodę budowy wymagającą na dodatek wysokiej klasy specjalistów-kamieniarzy? W Polsce budowali wolni ludzie, a zamek krzyżacki budowano wykorzystując niewolnicza pracę. Zapewne pod jarzmem krzyżackim najwięcej cierpiały kury, gdyż jak wieść niesie, Krzyżacy do zaprawy dodawali białko z jaj. No cóż, Rzymianie dodawali popiół Wezuwiusza do swojej "pucolany", Chińczycy budując Wielki Mur dodawali kleik ryżowy, czyli co kraj to... wyścig oryginałów. Dziwne jest tylko to, że tak doskonale trwałe zaprawy budowlane nie są stosowane dzisiaj.
@@ -6197,12 +5913,7 @@ Być może choć części wyjaśnień należy szukać gdzie indziej...
 
 Autorem sensacji jest niemiecki uczony, germanista Herbert Illig, według którego mamy dopiero rok 1703. Uważa on, że 297 lat (od września 614 do sierpnia 911 r.) w ogóle nigdy nie było. Hipotezę ujał w książce "Wer hat an der Uhr gedreht?" (Kto popchnął zegar?). Jego zdaniem autorem manipulacji jest Otton III zwany "cesarzem tysiąclecia", który dokonał tego w zmowie z papieżem Sylwestrem II i cesarzem Konstantynem VII Porfirogenetą. Według Illiga wymysłem tegoż tercetu oszustów ma być Karol Wielki, który nigdy nie istniał. Dowodami mają być architektura oraz liczne dokumenty, które miano celowo sfałszować. Illigs twierdzi że owe 297 lat istniejące na pergaminie nie mają miejsca lub potwierdzenia w znaleziskach archeologicznych, i odwrotnie - nie ma dowodów na to, że lata od 614 do 911 rzeczywiście "istniały".
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz]  
 Konstantyn VII - Otton III - Sylwester II  
 Trzech takich, co ukradło 300 lat...
 
@@ -6230,12 +5941,7 @@ Zastał drewnianą, zostawił murowaną. \[slogan naukowy\]
 
 Polska, a właściwie dzisiejsze ziemie zamieszkane przez Polaków są usiane pozostałościami po przodkach je zamieszkujących. Zdołałem wyłuskać ponad czterysta obiektów noszących miana warowni, twierdz, zamków, pałaców, dworów itp, a to dzięki nietypowej publikacji wydanej bodaj w latach 80-tych ubiegłego stulecia przez Państwowe Przedsiębiorstwo Wydawnictw Kartograficznych w formie mapy "Zamki w Polsce", gdzie część opisową opracowali panowie - Józef Matusik i Jerzy Miszalski. Zainteresowany byłem najstarszymi budowlami tego typu, a szczególnie budowanymi w wiekach od X do XV czyli polskim średniowieczem, bo przedtem nie było tu nic oprócz hord wałęsających się po lasach i mieszkających w ziemiankach. Podobno..., bo ruiny mówią, że w początkach naszej państwowości wcale nie ustępowaliśmy zachodowi i co ciekawe też potrafiliśmy budować nawet na bagnach.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz]  
 Próbki polskiego budownictwa "bagiennego" - Chrzelice, Świerklaniec i Czarny Bór
 
 Zacznę od suchej statystyki, jako wyznacznika naszych czasów. Otóż wedle historyków wspomaganych archeologami od XIII do XV wieku na ziemiach naszych powstało około 359 zamków, z których inwestorem 43 był Kazimierz Wielki, 51 Krzyżacy, a 75 nie posiada ani ojca ani matki czyli albo zbudowali aniołowie (wersja angielska) lub diabli nadali (wersja polska). Reszta (180), to dzieła pomniejszych lokalnych książąt lub rodów. Najpopularniejszym budulcem jest kamień - 105 obiektów, potem cegła - 76, a kamienno-ceglanych naliczyłem -39. Z czego zbudowano 139 obiektów trudno ocenić, bo z reguły są w imię rekonstrukcji zapacykowane konserwatorskim tynkiem. Z konserwacją nie ma to nic wspólnego, a raczej z odbudową na tzw. nosa, a celem jest wytrącenie argumentów zadającym "głupie" pytania. Inna statystyka dotyczy ich obecnego stanu.
@@ -6272,14 +5978,7 @@ Kazimierz III zwany Wielkim, który panował w latach 1333-1370, został okrzykn
 
 Problem jest w tym, że jak zwykle trudno ustalic kolejność, co było pierwsze - jajko czy kura. Wszakże już kamienne budowle istniały za Mieszka I na Ostrowie Lednickim, a przed nim budowaliśmy ponoć tylko grody ziemno-drewniane z typowo "polskimi" hakami wałowymi, jak ten w Gnieźnie. Gdzie w tym układzie umieścić przedchrześcijańską rotundę z Wawelu, Cieszyna czy Gromnika? Na Ostrowie Lednickim kamienne otoczaki, a na Wawelu surowy, łupany kamień. Czy "salomonowym" wyjściem jest ogłoszenie, że chrzest przyjął tylko Mieszko i jego drużyna, a reszta tkwiła w pogaństwie i budowała jak chciała i co chciała? Chyba nie. Rotunda jest bardzo popularną budowlą ale w kręgu chrześcijaństwa bizantyjskiego, a nie rzymskiego i to nie przypadek, że zachowały się na południu Europy, gdyż przedłużeniem polityki Rzymu na wschodzie były Niemcy nie zainteresowane tamtym rejonem. Czy nasze pogaństwo miało charakter bizantyjski? Prawdopodobnie tak. I dlatego zostało zburzone, spalone lub zamurowane. Ręce Rzymu nie zdążyły tego zrobić w Dalmacji, na wschodzie czy w samym Bizancjum i dlatego tam mają dłuższą i bogatszą historię.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Przykłady budownictwa kamiennego Kazimierza III - Bobolice, Inowłodz, Lanckorona i częstochowski Olsztyn
 
 Kazimierz III objął tron Polski w roku 1333 po śmierci ojca Władysława Łokietka w dość nieciekawej sytuacji politycznej. Oczy króla skierowane były na Ruś Halicką, gdzie opustoszał tron po śmierci Trojdenowicza z rodziny Piastów (zapora przed Tatarami). By zabezpieczyć się od strony krzyżackiej, Kazimierz zawarł z nimi pokój oddając całe Pomorze Gdańskie w zamian za Kujawy i Ziemię Dobrzyńską. Umożliwiło mu to wyprawę na Ruś Halicką, gdzie zajął Lwów, Halicz, Chełm, Brześć i Włodzimierz, co znów spowodowało konflikt z Litwą walczącą o wpływy na Rusi. Jest ciekawe, że książęta śląscy będący podówczas lennikami króla czeskiego nie wykazywali zaborczych intencji wobec Polski, a pomimo to król buduje szereg kamiennych zamków na granicy ze Śląskiem, a ze strony największego wroga - Krzyżaków - zaledwie dwa - w Złotorii pod Toruniem i w Kruszwicy. Od strony Brandenburgii Polski broni tylko gród w Poznaniu, a od Litwy żaden. Czy to nie jest co najmniej dziwne? Dlaczego, jako ponoć wybitnie dalekowzroczny strateg, nie zabezpieczył się od północy gdzie urastał w siłę największy wróg Polaków - zakon krzyżacki? Dlaczego jako strateg nie zbudował sieci zamków broniących serca królestwa w oparciu o Wisłę? Owszem zbudował, powie ktoś. Tak, ale dziwnym trafem większośc na prawym brzegu Wisły, a więc od strony potencjalnego najeźdzcy, zamiast na lewym gdzie pierwszym pasem obrony byłaby sama Wisła.
@@ -6292,40 +5991,19 @@ Kazimierz Wielki sygnował swym nazwiskiem (wedle historyków) budowę co najmni
 
 Geograf Bawarski w dokumencie z roku 843 opisuje, że "Dziadoszyce posiadali dwadzieścia grodów, Opolanie tyleż samo. Golęszyce 5 grodów. Ślężanie mieli piętnaście grodów, a plemię słowiańskie mieszkające nad Wartą miało dziewięćdziesiąt osiem twierdz". Co zatem u człowieka z zachodu oznaczało słowo gród czy twierdza? Drewnianą zagrodę z Biskupina czy też zamki przypominające te potężne z Niemiec czy Francji? Naiwnością jest twierdzić, że wrażenie na nim mogły zrobić drewniane grody otoczone wałami ziemnymi. Można przypuszczać, że piszący te słowa frankoński skryba doskonale znał budownictwo zachodniej Europy. Dokument lokacyjny Krakowa z roku 1257, a więc na prawie 100 lat przed królowaniem Kazimierza III wymienia w samym tylko mieście (bez Wawelu) około dwudziestu kamiennych kościołów. Paweł Jasienica pisze, że jednocześnie Poznań, Sandomierz, Gniezno, Wrocław czy Wiślica liczyły ich po kilka. Szkoda, że nie pisało się wtedy o kamiennych grodach, bo i te zapewne już istniały. Brak wzmianek o zamkach możnaby wytłumaczyć tym, że ówczesna, pisać umiejąca inteligencja skupiona była przede wszystkim w miastach, wokół panujących i dostojników kościelnych. Pisała zatem o najbliższym otoczeniu i to co widziała wokół, pozostałe zaś opisy powstawały tylko podczas wypraw czy bitew i były zupełnie przypadkowe. Nikt w ówczesnej Polsce nie myślał o systematycznych badaniach spuścizny po przodkach, a przynajmniej o spisie powszechnym w dobrach królewskich.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Przykłady budownictwa ceglanego Kazimierza III - Bochotnica, Koło, Łęczyca i Złotoria
 
 Z owych 43 zamków zbudowanych przez Kazimierza Wielkiego, 17 jest z litego kamienia, 11 zbudowanych z cegły, 7 ceglano-kamiennych, a w ośmiu nie można się dopatrzyc budulca, bo albo ziemia całkowicie pokryła ruiny albo zostały przebudowane i pokryte "ochronnym" tynkiem. Proszę się zastanowić nad pytaniem - Czy Kazimierz Wielki mógł budować co chciał i gdzie chciał? Otóż nie. Robić to mógł tylko na terenie, który nazywamy dobrami królewskimi, a więc tam gdzie miał prawo własności prywatnej. Państwo nie było jego prywatnym dobrem. Granice jego państwa wyznaczały dobra prywatne tych, którzy dobrowolnie poddali się jego zwierzchności. Chronili się w ten sposób pod skrzydła silniejszego, ale za cenę pewnych ograniczeń i powinności na rzecz króla. Jeśli król chciał zbudować warownię na terenie poddanego musiał uzyskać jego zgodę i pokryć wszystkie koszta budowy. Jeśli poddany nie wyraził zgody, król mógł przenieść budowę do sąsiada albo ogłaszał opozycjonistę buntownikiem i osadzając go w więzieniu konfiskował jego dobra, zwykle natychmiast nadając je swojemu zwolennikowi. Książęta śląscy, chociaż lennicy proniemieckiego króla Czech, nie wykazywali chęci walki z Polską. Woleli spokój i pokój, choć istniało zagrożenie wojną, gdyby zarządał tego król Czech, lecz od tej strony Kazimierz zabezpieczył się politycznymi układami. Dlaczego więc buduje warownie na pograniczu ze Śląskiem zamiast na północy (Krzyżacy) czy południowym-wschodzie (Tatarzy)? Wydaje się, że "Orle Gniazda" stały od dawna, a na budowę nowych twierdz król po prostu nie miał pieniędzy, nie miał bazy ekonomicznej, nie miał rozwiniętej struktury gospodarczej i nie miał potrzebnej techniki do budowy takiej ilości zamków i do tego na tak rozległym obszarze. Kazimierz Wielki zostawił murowaną bo urodził się w murowanej, żył w murowanej i umarł w murowanej.
 
 Stolica Kazimierzowa - Kraków, także stoi na potężnych kamiennych fundamentach i zapewne budowana była na długo przed tym nim pierwszy Piast zasiadł na wawelskim stolcu. Co ciekawsze - im sięgniemy niżej tym oglądamy większe i doskonalej obrobione bloki kamienne. Z jak wielkich zatem elementów wykonane są fundamenty wawelskich budowli? Niestety nie ma zdjęć, a miejsca, do których ma dostęp zwyczajny turysta zostały pięknie wytynkowane zasłaniając budulec. Przykładem może być krypta katedry wawelskiej, gdzie pochowano najznamienitszych Polaków. Pozostałe miejsca są skrzętnie skrywane przed obcym okiem za tabliczkami - "obiekt nie do zwiedzania", "prace konserwatorskie" itp.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Rotunda wawelska, fundamenty starego kościoła, wejście na dziedziniec i wieża katedralna
 
 Jaka zatem nacja jest autorem podwalin Kazimierzowej stolicy? Kiedy żyli ludzie budujący na wawelskim wzgórzu i w samym Krakowie? W IX, X, XI czy XII w.? Kto w tych wiekach umiał tak doskonale obrabiać kamień, transportować go i precyzyjnie umieszczać na miejscu budowy? Jakich narzędzi używano w obróbce i przy budowie? Technika średniowiecza tego nie mogła zapewnić, bo takiej wtedy nie było.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Mury obronne Wawelu, fundament barbakanu, kościół dominikanów i kolumna z dziedzińca
 
 Dzisiejszy wygląd Wawelu to zasługa ludzi żyjących w końcu XIX i XX w. Dopiero w roku 1880 można było zacząć myśleć o restauracji Wawelu zdewastowanego przez wojska austriackie a na dobre podjęto prace dopiero w roku 1905 po wyjściu Austriaków i to co dziś widać, to efekt stuletniej pracy historyków, archeologów i wszelkiej maści specjalistów, Czy Wawel tak wyglądał faktycznie? Z pewnością nie i nikt nie przywróci mu pierwotnego wyglądu, bo nikt nie ma pojęcia jak wyglądał. Sceptycznie także podchodzę do twierdzenia przebudowy zamku w stylu renesansowym, ponieważ przebudowa oznacza praktycznie rozebranie starego i budowanie od podstaw, bo jak wstawiać kamienne kolumny mające utrzymać ciężar ścian i budować kamienne czy ceglane łuki tak, by reszta muru nie zawaliła się na głowę?
@@ -6340,14 +6018,7 @@ Historycy podjęli próbę zrekonstruowania pierwotnej wersji katedry na Wawelu 
 
 Przypatrzmy się pewnej "koincydencji" elementu budowlanego występującego w ogrodzienieckim zamku i jego odpowiedników w zamku wegierskim i hiszpańskim. Do czego miał służyć otwór o tak specyficznym kształcie? Otwór strzelniczy dla broni palnej chyba nie, bo w tych czasach nikt nie mógł nawet przewidzieć jej rozwoju. Może ktoś ma jakiś sensowny pomysł? Fakt jest faktem i jeśliby zamek powstawał za czasów Kazimierza Wielkiego, mogłoby to świadczyć o szerokich kontaktach polskiego budownictwa, a przynajmniej ówczesnych projektantów. O takowych zaś jest cicho.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Podobne otwory w murach zamkowych Ogrodzieńca, w zamku węgierskim i hiszpańskim. Koincydencja?
 
 Inna sprawa, to widoczne skutki zniszczeń. Aby dzisiaj zrównać z ziemią zamek wielkości zamku królewskiego w Warszawie należałoby zużyć kilka-kilkanaście tysięcy sztuk pocisków artyleryjskich średniego kalibru. Czy np. Szwedzi mieli takie możliwości? Absolutnie nie i to można wyczytać w opisie oblężenia Częstochowy, gdzie zdołali tylko zrobić wyłom w murze i trafić w dach klasztoru. Po drugie, by wydać rozkaz do niszczenia zamku należałoby mieć w tym ekonomiczny cel - zniszczenie strategicznych zapasów wojennych lub dużej liczby wojsk w obsadzie fortecy. I po trzecie, takie ostrzeliwanie fortecy musiało skutkować wielkimi pożarami, a proszę pokazać ślady pożarów na murach zamkowych kazimierzowych fortec. Jeśli nawet odnajdziemy, to zapewne niewiele ich będzie.
@@ -6362,28 +6033,18 @@ Jak widać Polska nie miała tu nic do powiedzenia. Wydaje mi się, że było to
 
 Budowle krzyżackie łączone są zwykle z wykorzystaniem cegły i dlatego na początek przypomnę stanowisko historyków w rzeczonej sprawie. Z cegłą mamy już do czynienia w starożytnej Mezopotamii, gdzie ponoć wytwarzano ją z mułu rzecznego i słomy, susząc następnie na słońcu. Jak taka cegła nie rozsypała się pod ciężarem wysokich murów Babilonu nie mogę zrozumieć, bo ponoć cegła wypalana to wymysł dopiero IV w. pne. Rzymianie cegłę zaczęli wytwarzać w przydomowych warsztatach w II w. ne., co nie przeszkodziło im zbudować kolosseum już wiek wcześniej. Duże ilości cegły, a więc produkcję na skalę przemysłową zaczęto dopiero w XIX w. i tu napotykamy pierwszy problem - skąd w średniowieczu pozyskiwano cegłę na budowę takiej ilości zamków? Drugim problemem jest zaprawa murarska. Otóż jak głosi legenda, a za nią powtarzają poważni historycy - siła średniowiecznej zaprawy była uzależniona od drobiu, a szczególnie od wydajności niosek, gdyż jak wiadomo Krzyżacy do zaprawy dodawali ogromne ilości kurzego białka. Nie byli w tym odosobnieni - most Karola w Pradze stoi do dziś dzięki czeskim kurom, a im dalej na zachód tym zaprawy były bardziej "specyficzne", gdyż tam oprócz białka do zaprawy dodawano nawet ludzką krew. Nikt jeszcze nie wpadł na prosty i zarazem genialny pomysł by zbadać taką zaprawę w najzwyklejszym laboratorium chemicznym oraz ogłosić jej skład światu, tym bardziej, że białko jako związek organiczny powinno dać się datować nawet niedoskonałą metodą promieniotwórczego węgla.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz]  
 Wbrew pozorom w malborskim zamku jest sporo elementów kamiennych i to w kluczowych punktach budowy.
 
 Wszyscy wiedzą zapewne, że Malbork jest największym kompleksem zamkowym na świecie (tak, bo co prawda francuskie Carcassonne jest większe, ale jest kompleksem miejskim i do tego zbudowanym z kamienia). Malbork stał się stolicą Krzyżaków nie od razu. Początkowo Krzyżacy budowali na ziemi dobrzyńskiej, potem jakiś czas mieszkali w Zantyrze i dopiero w roku 1272 rozpoczęli budowę zamku w Malborku i wedle historyków zamek wysoki postawili w ciągu 7 lat(sic!). Sprawa jest o tyle ciekawa, że budowano w terenie otoczonym przez bardzo nieprzychylnie nastawione Pomorze Gdańskie, Polskę, Prusów i miejscową ludność. Czy już w tym okresie nie można było uniemożliwić budowy zamku? Na ten temat historia milczy przebąkując tylko coś o skłóconych sąsiadach. Od czego zatem zaczęto? Od murów obronnych czy od razu od zamku? Jakie przedsiębiorstwo zaopatrywało budowę w setki tysięcy cegieł? Gdzie się ono znajdowało? Dziś na tym terenie prosperuje jedna cegielnia w Nadbrzeżu za Elblągiem (czyli ówcześnie w niepodbitych jeszcze Prusach), bo w okolicy Malborka nie ma surowca na cegły. A może było zupełnie inaczej? Tempo budowy i ilość surowca skłania mnie do hipotezy, że w Malborku już wtedy zamek istniał, tyle że w ruinie. W średniowieczu istniało powiedzenie, że "Mediolan jest z marmuru, Buda z kamienia, a Malbork z błota". "Błoto" nasi historycy zamienili na "cegłę" (bo cegłę wyrabia się przecież z błotnistej mazi) i przeszli nad tym do porządku dziennego. Ja sądzę, że ruiny zamku pokrywała warstwa ziemi, a cała praca Krzyżaków ograniczyła się do ich odkopania, oczyszczenia, odzyskania budulca i samej odbudowy. Stąd być może tak krótki czas budowy samego zamku wysokiego. Wskazówką, która przemawia za zasypaniem ziemią jest także to, że podziemia zamkowe są do dziś zasypane po początki łuków stropowych i nikomu się nie chce przekopać do podstaw zamkowych piwnic.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Malbork
 
+[obraz]  
 Lidzbark Warmiński
 
+[obraz]  
 Świecie
 
 Bardzo ciekawą korespondencję na temat zamku nadesłał pan Łukasz Papaj. On też ma szereg wątpliwości:
@@ -6439,28 +6100,12 @@ Ciekawi mnie też w jakim odstępie czasu powstały te dwa obrazy, choćby z uwa
 
 W pałacu wielkiego mistrza, w ścianę refektarza wmurowana jest armatnia kula, stanowiąca jakoby pamiątkę oblężemia zamku przez Jagiełłę w 1410 r. Sama kula nie stanowi żadnej osobliwości, ale już tłumaczenie jej wystrzelenia to istne curiosum nowożytnej myśli historycznej. Według nich kula (ponieważ miała większy kaliber niż stosowane wówczas puszki) została wystrzelona z dołka wykopanego w Kałdowie po drugiej stronie Nogatu. Kopano w ziemi dół pod odpowiednim kątem i kierunkiem, następnie od środka wykładano go gliną i po wyschnięciu (glina musiała schnąć kilka dni) "ładowano" prochem, na wierzch kładziono kulę, podpalano proch i oddawano strzał. Ręce opadają... W przebłysku "geniuszu" (być może nieświadomie) autor hipotezy zrobił z atakujących kompletnych durni. Taką hipotezę może wymyśleć tylko człowiek, który oddał być może parę strzałów z papierowej torebki po cukierkach. Możnaby wykonać taką próbę jako dowód ale jako człowiek mający w przeszłości do czynienia z materiałami miotającymi i wybuchowymi stanowczo odradzam nieprofesjonalistom, ręcząc jednocześnie, że strzał z takiego "działa" mógłby co najwyżej ogłuszyć ryby w Nogacie a już na pewno samych strzelających.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz]  
 Bliźniaczo podobne krzyżackie zamki - Gniew, Lidzbark Warmiński, Radzyń Chełmiński i Golub-Dobrzyń
 
 Jak to się stało, że "krzyżacki" gotyk był tak rozpowszechniony na terenach, gdzie Krzyżacy wogóle nie dotarli? Czy nie czas zbadać metodami bardziej naukowymi pozostałości tego "stylu budowlanego"? Dzisiejsza metoda jest podobna do najprostszego ustalania ojcostwa u dziecka - jeśli jest podobne do ojca to w porządku, a jeśli nie - zaczyna się podejrzliwie przyglądać sąsiadom. Czy nie można zmierzyć wielkości cegieł (oczywiście nie tych "powtykanych" przez konserwatorów) i sprawdzić ich wielkość? Czy nie można pobrać próbek i ustalić ich skład chemiczny? Jest to najprostszy sposób na stwierdzenie istnienia jakiegoś standardu lub nie, a także odpowiedzi na pytanie czy istniała wtedy jedna "recepta" na wytwarzanie czy też kilka ośrodków stosujących swoje metody wytwarzania cegły. Co zatem się może stać, gdyby okazało się, że cegły z Pyrzyc, Malborka, Warszawy czy Krakowa okazałyby się jednakowymi? Strach pomyśleć.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz] [obraz]  
 Gotycka koincydencja - w Malborku (XIII w.), Sztumie (XIV w.), Pyrzycach (XIII w.), Warszawie (XIV w.) i Krakowie (XV w.)
 
 Inną, niewyjaśnioną do końca sprawą jest krzyżacki most na Nogacie, umiejscawiany pomiędzy bramą mostową a tzw. Vogelsang'iem czyli umocnionym przyczółkiem na brzegu w dzisiejszym Kałdowie. Z przyczółka nie zostało nawet śladu a to dlatego, że ponoć był ziemno-drewniany (dlaczego nie murowany?). Dziwne. Dlaczego tak biegli w sztuce budowlanej mnisi zlekceważyli sobie tak żywotny dla zamku element? Dlaczego, budując tak wspaniały zamek, pożałowali cegły na jeden z najbardziej strategicznych elementów? Jest to już nie tylko zaniedbanie a wręcz bezmyślność. Dlaczego mając do dyspozycji taką ilość budulca nie wybudowali mostu ceglanego (podobnie jak ich pobratymcy w niemieckim Heidelbergu)? Odpowiedź może być tylko jedna - sami Krzyżacy nie potrafili budować i nie mieli pod dostatkiem innego budulca jak tylko drewno i ziemię. To być może dlatego nie zrobili nic dla umocnienia swej pierwszej siedziby w Zantyrze. Most był ponoć drewniany i przy okazji każdego zagrożenia palony, czemu nie ma się co dziwić, bo ziemno-drewniany przyczółek w Kałdowie wcale go nie chronił przed regularnym wojskiem.
@@ -6491,18 +6136,13 @@ Którędy zatem płynął mając po lewej stronie Oland i Gotland? Czy Skonie to
 
 Ktoś zapewne pomyśli - facet dostał (dyplomatycznie to ujmując) obsesji na temat wszystkich budowli i chce udowodnić, że wszystko pochodzi sprzed jakiegoś kataklizmu. Jest w tym sporo racji, ale tym razem nie będę niczego udowadniał. Po prostu postaram się tylko głośno pomyśleć. Wybudowanie czegoś wielkiego z kamienia czy cegły, to nie praca jednostek, a całego zespołu wysokiej klasy specjalistów i wykonana w jakimś konkretnym celu, a nie dla ozdobienia krajobrazu. Każdy most ma na celu ułatwienie przedostania się ludziom i pojazdom na drugą stronę rzeki bądź głębokiego parowu. Rzecz chyba nie podlegająca dyskusji. Podjęcie inicjatywy zbudowania mostu musi mieć głęboką motywację, szczególnie ekonomiczną, gdyż pochłania znacznie więcej środków niż zwykła drewniana kładka, po której dziennie przechodzi tylko kilku ludzi. Jeśli ma służyć wielu i przez długi okres czasu musi także być wykonany z trwałych materiałów.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Bytów
 
+[obraz]  
 Głaznoty
 
+[obraz] [obraz]  
 Grądy Kruklaneckie
 
 Proszę przypatrzeć się zdjęciom i spróbować odpowiedzieć sobie samemu na kilka pytań. Od średniowiecza po dzień dzisiejszy człowiek do transportu używa zarówno samego siebie jak i koni i pojazdów. Każdy most ma to do siebie, że powinien zapewniać ruch w obie strony bez żadnych zakłóceń. Każdy więc, kto projektuje most, musi zaczynać od szerokości jego korony, a więc od średniowiecza - szerokość pojazdu dwukonnego pomnożonego przez dwa plus margines bezpieczeństwa. Czy tak wyglądają przedstawione przeze mnie mosty? Czy te w Bytowie i Głaznotach zbudowano dopiero w XX wieku? Dlaczego więc użyto kamieni i cegieł zamiast znanego już, "łatwiejszego" i wytrzymalszego betonu? Dlaczego "most" w Grądach Kruklanieckich zbudowano z litego, profilowanego kamienia? Widzimy tu wybitnie "jednoosobową" kładkę, na której minięcie się grozi poważnymi konsekwencjami. Przypatrzmy się dokładnie koronie "mostu" - wygląda jak rynna do przepływu wody. Resztki stalowej balustrady, to już chyba współczesne przystosowanie. Dlaczego dla tak prozaicznego celu wykorzystano tak trwały i tak doskonale obrobiony budulec? Kogo było stać na koszty budowy w takiej, za przeproszeniem, głębokiej prowincji? Nie sugerujmy się dzisiejszym ich wykorzystaniem, bo to tylko efekt przystosowania do nowej sytuacji. Sądzę, że niektóre wąskie mosty czy wiadukty były w pierwotnej wersji akweduktami. Kto zatem i kiedy naprawdę je zbudował?
@@ -6528,22 +6168,16 @@ Dlaczego dla tak prozaicznej czynności jaką jest wlanie wody do parowozu budow
 
 Jeszcze raz chcę zwrócić uwagę, o czym już pisałem, na sposób (metodę) budowania murów. Podstawową techniką budowlaną były grube mury z polnego kamienia, które niekiedy licowano wygładzonymi kamieniami, płytami kamiennymi lub cegłą. Wszystko to spajała mocna zaprawa, której składu nie zbadano do dzisiaj. Taką technikę spotykamy na całym świecie. Można ją zauważyć w budowie murów obronnych Rzymu, w murze Trajana a także w chińskim Wielkim Murze. Widać ją w polskich "Orlich Gniazdach", w piramidach Teotihuacan a także w megalitycznych grobach New Grande, Gawrinis czy Knowth. To nie jest żadna koincydencja, to była technologia rozpowszechniona na całym niemal świecie.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Irlandia
 
+[obraz]  
 Majowie
 
+[obraz]  
 Bornholm
 
+[obraz]  
 Ostrów Lednicki
 
 Kto zatem stworzył tą technologię i kto ją rozpowszechnił po całym bez mała globie? Jak to się stało, że w użyciu była przez tak długi czas - od megalitycznych "grobów" po średniowiecze? Kiedy wreszcie jej używano? Przecież "rzymski cement" zszedł do grobu razem z Imperium, a nową, współczesną zaprawę zaczęto stosować dopiero po wynalezieniu cementu portlandzkiego w XIX wieku. Można mi zarzucić niczym nie uzasadnioną manipulację. Owszem można, ale dopiero wtedy gdy zbada się skład chemiczny zaprawy z tych wszystkich miejsc, ale tego na dziś nie można stwierdzić, bo nikt nie wpadł na tak prosty pomysł. Czy takie badanie jest zbyt drogie czy zbyt niebezpieczne... dla naszej historii?
@@ -6593,22 +6227,16 @@ Skąd zatem koryncki kapitel w świątyni w Evorze? Kto wykonał tem koryncko-jo
 
 Jeśli cegła ma być wyznacznikiem postępu technicznego, to należy się zastanowić nad wiekiem niektórych budowli. Jako materiał budowlany jest stosunkowo łatwa do wykonania, a co najważniejsze jest dopasowana do możliwości fizycznych człowieka. Ale cegła cegle nierówna. Dziś stosujemy cegłę standardową i jest to prawdopodobnie standard światowy jeśli chodzi o jej wymiary. Był jednak okres, gdy do budowy używano cegły płaskiej. Kiedy to było nie wiadomo, bo w takie szczegóły historycy się nie zagłębiają. Proszę obejrzeć zdjęcia.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Pompeje
 
+[obraz]  
 Conimbriga
 
+[obraz]  
 Monastyr grecki
 
+[obraz] [obraz]  
 Polska - Danków i Ciepłowody
 
 W jakim okresie używano płaskiej cegły, skoro znaleźć ją można w budowlach z okresu Imperium Rzymskiego, średniowiecznej Grecji a także w Polsce, w zamkach w Dankowie (XV w.) i Ciepłowodach (XIII/XIV w.)? Podobną płaską cegłę można odnaleźć też w budowlach Bizancjum czy w Sardes. Co zatem może zmieniać technologię budownictwa? Może to być wynalazek czegoś lepszego lub utrata już posiadanej technologii. Może też być to czynnik katastroficzny, niszczący technikę i zmuszający budowniczych do zmiany technologii.
@@ -6810,18 +6438,13 @@ Egipska płaskorzeźba przedstawia boga imieniem Hapy, który był odpowiedzialn
 
 Tu koincydencja na nic się nie przyda. Ci co wykonywali te eksponaty musieli widzieć wzory na własne oczy. Takich osobników nie można już spotkać na Ziemi. Ponoć ostatnich widziano w Ameryce Południowej w XVIII wieku.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Wyroby Inków
 
+[obraz]  
 Indie
 
+[obraz]  
 Chiny
 
 Przedstawiciele tej cywilizacji panowali w obszarze Oceanu Spokojnego i Indyjskiego. Kiedy? Na pewno przed "wielkim uskokiem...", gdyż nawet współczesna cywilizacja Chin o nich nie wspomina. Pozostawili po sobie mnóstwo rzeźb istot z takimi długimi uszami. Całe Angkor jest usiane płaskorzeźbami "długouchych", wszystkie starożytne rzeźby Bogów Indii, Chin, Japonii czy wysp u wybrzeży południowo-wschodniej Azji posiadają takie długie uszy. Naukowcy, nie wiedząc zapewne co z tym zrobić, najchętniej nie zauważają tego szczegółu i nie dotykają problemu. Typowe, gdyż umiejscowienie tej cywilizacji w naszych, współczesnych czasach jest według mnie niemożliwe.
@@ -6941,22 +6564,16 @@ Cusco
 [obraz]  
 Giza
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Osaka
 
+[obraz]  
 Ollantaytambo
 
+[obraz] [obraz]  
 Greckie Delfy
 
+[obraz]  
 okolice j. Titicaca
 
 To co widzimy na zewnątrz już wzbudza nasz podziw, ale czy przypadkiem te kamienie nie są cięte także w trzecim wymiarze? Tego nie wiemy, bo nikt nie podjął się jeszcze rozebrania takiego kolosalnego muru. Sądzę także, że twórcy tych murów używali takiej energii, która pozwalała ciąć kamienie jak masło, względnie doprowadzała je do stanu dzisiejszej plasteliny. Tylko wtedy jest możliwe tak ścisłe dopasowanie do siebie wielokątnych bloków kamiennych.
@@ -7059,14 +6676,10 @@ Może to tajne współczesne lotnisko wojskowe (taka egipska strefa 51) lub pozo
 
 Przykładem tego są dziwne "koleiny" wyżłobione w skale wapiennej, spotykane na Malcie, Ghawdex, koło Lixus, w Hiszpanii czy Irlandii. Biegną zwykle parami, choć nie są do siebie idealnie równoległe, krzyżują się pod różnymi kątami, a czasem giną w morzu. Miejscowa ludność nazywa je "śladami furmanki". A co głosi oficjalna archeologia?
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz]  
 Azerbajdżan
 
+[obraz] [obraz]  
 "Ślady furmanki" na Malcie
 
 Według niej mogą to być - tory kultowe, kalendarz, rodzaj wodociągu (nawet pod górkę?) czy nawet rodzaj pisma i wszystko to powstało w epoce brązu. Z reguły są to rowki o głębokości 15 cm, szerokości około 20 cm i biegnące obok siebie w odległości około 1,6 m. Nie zrobiły tego pojazdy, gdyż ślady nie są wszędzie jednakowo równoległe, nie zrobiły tego też sanie, gdyż zakręty wyglądały by inaczej, nie wyżłobiły tego ciągnione konary, gdyż ślady musiały by być wyryte pod kątem. Ślady te zakręcają, krzyżują się pod różnymi kątami, a ponadto poprowadzone są bez względu na rzeźbę terenu. Jeśli są to ślady po zwózce materiałów, to dlaczego nie prowadzą do żadnej budowli?
@@ -7756,10 +7369,7 @@ Jak zatem naród pijaków, brudasów i piratów, nie mający pojęcia o obróbce
 
 Moje zdanie jest inne i znających moje teorie nie powinno zdziwić. Jeśli to, co kryją wzgórza okaże się prawdą, to należy przypuszczać, że pod warstwą ziemi nie znajdują się tylko trzy piramidy lecz cały kompleks zbudowany z kamienia. Przypuszczam także, że nie mają nic wspólnego z wierzeniami, a z zupełnie inną formą działalności i być może było to jakieś centrum przemysłowo-energetyczne w tej części świata. To napewno nie będą wygładzone zbocza gór obłożone kamiennymi płytami. Odnalezione podziemne tunele być może wskazują na istnienie całego podziemnego labiryntu korytarzy i zagadkowych komór, w których prawdopodobnie odnajdzie się kamienne "sarkofagi" (oczywiście bez zwłok władców, co zgoni się na złodziei). Widoczny na zdjęciu tunel nie wygląda na wykonany dla poruszania się w nim ludzi. Do czego służyły? Nie dowiemy się, dopóki nie ustalimy przeznaczenia piramidy. Historycy już jednak wiedzą, że był to grobowiec i kilka lat spędzą na dysputach w jaki sposób dokonano rzekomego pogrzebu władcy. Bardzo możliwe, że podobnie jak w innych piramidach, zabezpieczonych przed ciekawskimi ludźmi, wejście do ich środka będzie trzeba dokonać subtelną metodą "na sapera".
 
-[obraz]
-
-[obraz]
-
+[obraz] [obraz]  
 Piramida Słońca. Jej współrzędne - szerokość: 43,9800731058 Pn., długość: 18,1793241944 Wsch.
 
 Strzaskane kamienne płyty i obsunięty bok piramidy mogą świadczyć o zniszczeniach spowodowanych kataklizmem sprzed 12,5 tysiąca lat. Warstwa ziemi, która pokrywa całą okolicę została prawdopodobnie naniesiona przez tsunami jakie uderzyło z Adriatyku. Jeśli tak, to ma rację Osmanagić mówiąć o 12 tysiącach lat. Piramidy, jak sądzę, zbudowała ta sama cywilizacja co Sarmisegetuzę, gdzie znaleziono spękane koło wykonane z najtwardszego andezytu. Cywilizacja, która kamienne bloki obrabiała z taką łatwością jak my dzisiaj plastelinę. Uważamy naszych przodków za niespełna rozumu opętańców, którzy za nic mieli ekonomię przedsięwzięć. Na siłę wciskamy pogląd o władcach-tyranach, których jedynym celem na ziemi było zbudowanie własnych grobowców za wszelką cenę. Naprawdę coś jest nie tak, coś co kłóci się z moim wyobrażeniem o inteligencji człowieka.
@@ -10971,47 +10581,11 @@ A co sądzisz o ostatnim zdjęciu? Postacie ludzkie z przyczepionymi brodami, al
 
 Nie mniej ciekawe są oznaczenia graficzne występujące często na głowach Bogów lub tuż nad nimi. Niekiedy powtarzają się przy różnych Bogach, a także mogą występować po kilka przy jednym. Sądzę, że tak starożytni oznaczali "specjalności" poszczególnych Bóstw. Nie wiem czemu, ale kojarzy mi się to ze specjalnościami wojskowymi lub z przynależnością do danego korpusu specjalistów. Najczęściej spotykanym znakiem jest krzyż życia - Ankh oznaczający chyba, że Bóg żyje wiecznie. Był z pewnością zarezerwowany tylko dla Bogów, a spotkanie go w ręku faraona jest zapewne świętokradztwem i chyba stosowane było już w czasach współczesnych w celu dodania splendoru królowi.
 
-[obraz]  
-Hathor
-
-[obraz]  
-Honsu
-
-[obraz]  
-Neftyda
-
-[obraz]  
-Izyda
-
-[obraz]  
-Seshat
-
-[obraz]  
-Maat
-
-[obraz]  
-Ra
-
-[obraz]  
-Neith
-
-[obraz]  
-Thot
-
-[obraz]  
-Meret
-
-[obraz]  
-Nut
-
-[obraz]  
-Anat
-
-[obraz]  
-Hathor
-
-[obraz]  
-Sopdet
+| [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] |
+| --- | --- | --- | --- | --- | --- | --- |
+| Hathor | Honsu | Neftyda | Izyda | Seshat | Maat | Ra |
+| [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] |
+| Neith | Thot | Meret | Nut | Anat | Hathor | Sopdet |
 
 U góry pokazałem kilkanaście takich oznaczeń z imieniem Boga, który takiego atrybutu używał. Muszę przyznać, że spotkałem się z przypadkiem używania niektórych "odznak" przez kilku Bogów jednocześnie. Niektóre wizerunki kojarzą mi się z techniką, niektóre z rolnictwem.
 
@@ -11943,16 +11517,7 @@ Zdjęcia środkowe przedstawiają analogiczny sposób budowania, ale nie pochodz
 
 Podobnie jest z wiekiem Colosseum czy Cloaca Maxima. Nie ma żadnych możliwości określenia wieku ich zbudowania, a datowanie na podstawie pozostałości po gladiatorach czy przejedzonych Rzymianach metodą izotopu węgla na pewno nie da odpowiedzi na to pytanie. Osobiście bardzo wątpię w autorstwo Rzymian. Cywilizacja Rzymu, oprócz wojen, zniszczeniu kilku cywilizacji i paru historyków, nie wniosła kompletnie nic do rozwoju cywilizacji Europy i świata. Weszli na gotowe i przywłaszczyli sobie autorstwo. Kłamstwo powtarzane przez wieki stało się obowiązującą prawdą i jest już nie do wykorzenienia.
 
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
-[obraz]
-
+[obraz] [obraz] [obraz] [obraz] [obraz]  
 Czy rzymscy "budowlańcy" pracowali na całym świecie? Od lewej - Turcja, Cypr, Kartagina, Hiszpania i Meksyk.
 
 Jakie jeszcze wnioski? Taką technologię budowlaną stosowano i w Ameryce Środkowej i w Afryce i w Europie. Pamiętasz, co pisał Platon? Królestwo Atlantydy sięgało w Afryce po granicę Egiptu (Kartagina), a w Europie aż po Tyrrenię (Etruskowie). Kiedy zginęła Atlantyda? Około 12,5 tysięcy lat temu. To wtedy, w tym kataklizmie zniszczone zostały piramidy Ameryki, Kartagina i "rzymskie" akwedukty. Nie tylko zresztą one. O prawdziwych historykach nie wspomnę.
@@ -12074,12 +11639,10 @@ Budowy wnętrza Ziemi nauczono nas w szkole i od tej pory jest to dla nas prawda
 
 Czy czas już zmienić podstawowe założenie dotyczące budowy Ziemi? Wydaje się, że tak. To, że w środku Ziemi działa już miliardy lat atomowy reaktor nie jest tylko moim wymysłem. Tak myśli wielu naukowców i zwykłych ludzi (między innymi [Marvin Herndon](http://portalwiedzy.onet.pl/4868,12799,1375295,czasopisma.html)). Myśl ta nie może się jednak przebić w ortodoksyjnej nauce i rzadko takie hipotezy zamieszczają nawet zwykłe gazety, na dodatek w rubryce ciekawostki. Dotychczasowa hipoteza budowy Ziemi jest tylko i wyłącznie teorią dedukcyjną i to nie weryfikowaną od wielu, wielu lat. Nikt nie jest w stanie zbadać wnętrza Ziemi, a podziału na warstwy dokonano na podstawie wnioskowania z badań rozchodzenia się fal sejsmicznych i chyba tylko te są prawdopodobne.
 
-[obraz]
-
-[obraz]
-
+[obraz]  
 Tak myśli większość,
 
+[obraz]  
 a tak myślą nieliczni.
 
 Jądro Ziemi to pierwiastki ciężkie, w tym przeważająca większość promieniotwórczych, które "spłynęły" do wewnątrz w procesie formowania się planety z pyłu kosmicznego. Na zarzut, że pierwiastki promieniotwórcze stanowią znikomą część w całym kosmosie, odpowiadam: stosunek procentowy pierwiastków radioaktywnych do ich reszty określono tylko na podstawie badań ich zawartości w skorupie ziemskiej i tę liczbę rozciągnięto na cały kosmos. Czy jest to wiarygodne? Z pewnością nie, bo wynik dotyczy tylko znikomego fragmentu kosmosu, a stąd już blisko do żelaznego jądra (czy nawet jąder skalisto-lodowych na innych planetach :-)), bo w skorupie ziemskiej żelaza jest sporo. Uwzględnienie takich mas w jądrach planet i gwiazd, to także być może brakująca masa we wszechświecie i teoretyczne dorabianie "ciemnej materii" nie ma żadnego sensu.
@@ -12198,161 +11761,12 @@ Przyjmując założenie (Zajdler, Dzieje zegara), że Ziemia "hamuje" w ruchu ob
 
 A oto kalendarz sprzed potopu przedstawiony graficznie. Różni się od naszego, przede wszystkim początkiem roku, który u Henocha znajduje się gdzieś w okolicach naszego kwietnia, już po równonocy wiosennej.
 
----
-
-**I**
-
----
-
-**II**
-
----
-
-**III**
-
----
-
-**IV**
-
----
-
-**V**
-
----
-
-**VI**
-
----
-
-**VII**
-
----
-
-**VIII**
-
----
-
-**IX**
-
----
-
-**X**
-
----
-
-**XI**
-
----
-
-**XII**
-
-**B-4**
-
-**B-5**
-
-**B-6**
-
-**B-6**
-
-**B-5**
-
-**B-4**
-
-**B-3**
-
-**B-2**
-
-**B-1**
-
-**B-1**
-
-**B-2**
-
-**B-3**
-
-30 dni  
-[obraz]
-
-30 dni  
-[obraz]
-
-31 dni  
-[obraz]
-
-30 dni  
-[obraz]
-
-30 dni  
-[obraz]
-
-31 dni  
-[obraz]
-
-30 dni  
-[obraz]
-
-30 dni  
-[obraz]
-
-31 dni  
-[obraz]
-
-30 dni  
-[obraz]
-
-30 dni  
-[obraz]
-
-31 dni  
-[obraz]
-
-**10:8**
-
----
-
-**11:7**
-
----
-
-**12:6**
-
----
-
-**11:7**
-
----
-
-**10:8**
-
----
-
-**9:9**
-
----
-
-**8:10**
-
----
-
-**7:11**
-
----
-
-**6:12**
-
----
-
-**7:11**
-
----
-
-**8:10**
-
----
-
-**9:9**
-
----
+| **I** | **II** | **III** | **IV** | **V** | **VI** | **VII** | **VIII** | **IX** | **X** | **XI** | **XII** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **B-4** | **B-5** | **B-6** | **B-6** | **B-5** | **B-4** | **B-3** | **B-2** | **B-1** | **B-1** | **B-2** | **B-3** |
+| 30 dni | 30 dni | 31 dni | 30 dni | 30 dni | 31 dni | 30 dni | 30 dni | 31 dni | 30 dni | 30 dni | 31 dni |
+| [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] | [obraz] |
+| **10:8** | **11:7** | **12:6** | **11:7** | **10:8** | **9:9** | **8:10** | **7:11** | **6:12** | **7:11** | **8:10** | **9:9** |
 
 Co ciekawe taki kształt roku wraca i w dzisiejszych czasach. W podręczniku "Astronomiczne podstawy geografii" Antoniego Opolskiego czytamy:
 

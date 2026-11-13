@@ -59,7 +59,7 @@ _Dawne cywilizacje, budowle, mity i katastrofy._
 _Medycyna naturalna, zdrowie i żywność._
 
 - [Wstęp](artykuly/02-zapomniana-medycyna/001-wstep.md) — 12 tys. znaków, 4 obr.
-- [Autodiagnoza](artykuly/02-zapomniana-medycyna/002-autodiagnoza.md) — 52 tys. znaków
+- [Autodiagnoza](artykuly/02-zapomniana-medycyna/002-autodiagnoza.md) — 51 tys. znaków
 - [Co nas truje](artykuly/02-zapomniana-medycyna/003-co-nas-truje.md) — 54 tys. znaków, 2 obr.
 - [Nasz kręgosłup](artykuly/02-zapomniana-medycyna/004-nasz-kregoslup.md) — 18 tys. znaków, 1 obr.
 - [Jak powinniśmy jeść](artykuly/02-zapomniana-medycyna/005-jak-powinnismy-jesc.md) — 90 tys. znaków, 3 obr.
@@ -72,14 +72,14 @@ _Medycyna naturalna, zdrowie i żywność._
 - [Leczymy się w domu](artykuly/02-zapomniana-medycyna/012-leczymy-sie-w-domu.md) — 141 tys. znaków
 - [O. Grande](artykuly/02-zapomniana-medycyna/013-o-grande.md) — 30 tys. znaków, 3 obr.
   - [W I T A M I N Y](artykuly/02-zapomniana-medycyna/014-w-i-t-a-m-i-n-y.md) — 13 tys. znaków
-  - [MAKRO I MIKROELEMENTY](artykuly/02-zapomniana-medycyna/015-makro-i-mikroelementy.md) — 10 tys. znaków
-  - [CZY WIESZ CO JESZ ?](artykuly/02-zapomniana-medycyna/016-czy-wiesz-co-jesz.md) — 26 tys. znaków
+  - [MAKRO I MIKROELEMENTY](artykuly/02-zapomniana-medycyna/015-makro-i-mikroelementy.md) — 9 tys. znaków
+  - [CZY WIESZ CO JESZ ?](artykuly/02-zapomniana-medycyna/016-czy-wiesz-co-jesz.md) — 25 tys. znaków
   - [Białka - Tłuszcze - Węglowodany](artykuly/02-zapomniana-medycyna/017-bialka-tluszcze-weglowodany.md) — 20 tys. znaków
   - [NORMY MEDYCYNY KLINICZNEJ](artykuly/02-zapomniana-medycyna/018-normy-medycyny-klinicznej.md) — 8 tys. znaków
 - [Lecznicze mudry](artykuly/02-zapomniana-medycyna/019-lecznicze-mudry.md) — 8 tys. znaków, 11 obr.
-- [Refleksoterapia](artykuly/02-zapomniana-medycyna/020-refleksoterapia.md) — 64 tys. znaków, 15 obr.
+- [Refleksoterapia](artykuly/02-zapomniana-medycyna/020-refleksoterapia.md) — 63 tys. znaków, 15 obr.
 - [Mit czy rzeczywistość?](artykuly/02-zapomniana-medycyna/021-mit-czy-rzeczywistosc.md) — 24 tys. znaków, 3 obr.
-- [Woda żywa i martwa](artykuly/02-zapomniana-medycyna/022-woda-zywa-i-martwa.md) — 39 tys. znaków, 1 obr.
+- [Woda żywa i martwa](artykuly/02-zapomniana-medycyna/022-woda-zywa-i-martwa.md) — 38 tys. znaków, 1 obr.
 - [Rak, to nie wyrok śmierci](artykuly/02-zapomniana-medycyna/023-rak-to-nie-wyrok-smierci.md) — 65 tys. znaków
 - [ORGON - energia kosmosu](artykuly/02-zapomniana-medycyna/024-orgon-energia-kosmosu.md) — 270 tys. znaków, 3 obr.
 - [ORME - biały proszek złota](artykuly/02-zapomniana-medycyna/025-orme-bialy-proszek-zlota.md) — 141 tys. znaków

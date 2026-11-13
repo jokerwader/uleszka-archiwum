@@ -46,7 +46,11 @@ function trescHtml(a: Dokument): { html: string; rozdzialy: { id: string; tytul:
   html = html.replace(/<a href="(https?:\/\/[^"]+)"/g, '<a href="$1" rel="noopener" target="_blank"');
   // tabele w przewijanym pudełku (szerokie tabele nie rozpychają strony na telefonie)
   html = html.replace(/<table>/g, '<div class="tabela"><table>').replace(/<\/table>/g, "</table></div>");
-  // rozdziały do spisu treści: nagłówki i akapity złożone tylko z pogrubionego tytułu (tak autor oznaczał śródtytuły)
+  // galerie: co najmniej dwa kolejne akapity złożone z samego zdjęcia (lub kilku), ewentualnie z krótkim podpisem pod spodem
+  // – układamy je w siatkę zamiast długiej kolumny (tylko wygląd, tekst bez zmian)
+  const obraz = String.raw`(?:<a [^>]*>)?<img [^>]*>(?:<\/a>)?`;
+  const akapitZdjecia = String.raw`<p>${obraz}(?:\s*${obraz})*(?:<br>\s*(?:[^<]|<\/?(?:strong|em)>){1,90})?<\/p>`;
+  html = html.replace(new RegExp(String.raw`(?:${akapitZdjecia}\s*){2,}`, "g"), (m) => `<div class="galeria">${m}</div>\n`);
   const rozdzialy: { id: string; tytul: string }[] = [];
   html = html.replace(/<(h[1-4])>([^<]{2,140})<\/h[1-4]>|<p><strong>([^<]{3,140})<\/strong><\/p>/g, (m, tag: string | undefined, h: string | undefined, b: string | undefined) => {
     const tytul = (h ?? b ?? "").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;/g, "'").trim();
@@ -91,12 +95,12 @@ const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; cs
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie sepia
   try {
-    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
     const r = localStorage.getItem("uleszka-rozmiar");
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
-  } catch { document.documentElement.dataset.motyw = "jasny"; }
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
 <link rel="stylesheet" href="${o.css}">
 </head>
@@ -112,8 +116,8 @@ const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; cs
 <div class="panel-wygladu" id="panel-wygladu" hidden>
   <p>Kolory</p>
   <div class="motywy">
-    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
     <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
     <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
   </div>
@@ -203,27 +207,52 @@ ${
   writeFileSync(`${WYJSCIE}/${plikArt(a)}`, html, "utf8");
 });
 
-// ---------- spis treści ----------
-const wpis = (a: Dokument) => {
+// ---------- spis treści: karty artykułów (na komputerze w kilku kolumnach, na telefonie jedna pod drugą) ----------
+const czasCzytania = (a: Dokument) => Math.max(1, Math.round(a.czysty.split(/\s+/).length / 200));
+const miniatura = (a: Dokument) => {
+  // pierwsze zdjęcie artykułu (albo jego podstron), które ma opis AI – czyli nie jest ozdobnikiem
+  for (const d of [a, ...archiwum.podstrony(a)])
+    for (const o of d.obrazy) if (/\.(jpe?g|png)$/i.test(o.sciezka) && archiwum.opisObrazu(o.sciezka)) return o.sciezka;
+  return undefined;
+};
+const karta = (a: Dokument) => {
   const o = archiwum.opracowania.get(a.id);
   const krotko = (o?.streszczenie ?? "").replace(/\s+/g, " ").trim();
-  const zdanie = krotko.length > 170 ? krotko.slice(0, krotko.lastIndexOf(" ", 165)) + "…" : krotko;
-  return `<li class="${a.rodzic ? "pod" : ""}" data-szukaj="${esc((a.tytul + " " + krotko + " " + (o?.tematy ?? []).join(" ")).toLowerCase())}"><a href="${plikArt(a)}"><b>${esc(a.tytul)}</b>${zdanie ? `<span>${esc(zdanie)}</span>` : ""}</a></li>`;
+  const podstrony = archiwum.podstrony(a);
+  const min = miniatura(a);
+  const zdjec = a.obrazy.filter((x) => archiwum.opisObrazu(x.sciezka)).length;
+  const szukaj = [a.tytul, krotko, ...(o?.tematy ?? []), ...podstrony.map((p) => p.tytul)].join(" ").toLowerCase();
+  const meta = [`${czasCzytania(a)} min czytania`, zdjec ? `${zdjec} ${zdjec === 1 ? "zdjęcie" : zdjec < 5 ? "zdjęcia" : "zdjęć"}` : "", podstrony.length ? `+ ${podstrony.length} ${podstrony.length < 5 ? "części" : "części"}` : ""]
+    .filter(Boolean)
+    .join(" · ");
+  return `<li class="karta-art" data-szukaj="${esc(szukaj)}">
+      <a class="karta-link" href="${plikArt(a)}">
+        <div class="miniatura">${min ? `<img src="${rawUrl(min)}" alt="" loading="lazy" decoding="async">` : `<span aria-hidden="true">${esc(a.tytul.trim().charAt(0))}</span>`}</div>
+        <div class="karta-tresc"><b>${esc(a.tytul)}</b>${krotko ? `<span class="opis">${esc(krotko)}</span>` : ""}<span class="meta-art">${meta}</span></div>
+      </a>${
+        podstrony.length
+          ? `\n      <div class="czesci"><span>Dalsze części:</span>${podstrony.map((p) => `<a href="${plikArt(p)}">${esc(p.tytul)}</a>`).join("")}</div>`
+          : ""
+      }
+    </li>`;
 };
 const spis =
-  glowa({ tytul: "Czytelnia – wszystkie artykuły uleszka.net", opis: `Wszystkie ${lista.length} artykuły strony uleszka.net Leszka Klimka, słowo w słowo, w wygodnej formie do czytania.`, url: `${BAZA}czytelnia/`, css: "czytelnia.css", spis: spisHtml() }) +
-  `<main class="wrap-czyt spis">
+  glowa({ tytul: "Czytelnia – wszystkie artykuły uleszka.net", opis: `Wszystkie ${lista.length} strony uleszka.net Leszka Klimka, słowo w słowo, w wygodnej formie do czytania.`, url: `${BAZA}czytelnia/`, css: "czytelnia.css", spis: spisHtml() }) +
+  `<main class="wrap-szeroki spis">
   <p class="okruszki"><a href="../">Strona główna</a> › Czytelnia</p>
   <h1>Czytelnia</h1>
-  <p class="meta">Wszystkie ${lista.length} strony uleszka.net, słowo w słowo. Krótkie opisy pod tytułami przygotowała AI.</p>
-  <nav class="dzialy-skrot" aria-label="Działy">${archiwum.dzialy.map((d) => `<a href="#${slug(d)}">${esc(d)}</a>`).join("")}</nav>
-  <input id="szukaj" type="search" placeholder="Szukaj w tytułach i tematach, np. potop, Atlantyda, witamina…" aria-label="Szukaj artykułu">
+  <p class="meta">Wszystkie ${lista.length} strony uleszka.net, słowo w słowo. Krótkie opisy na kartach przygotowała AI.</p>
+  <div class="spis-narzedzia">
+    <input id="szukaj" type="search" placeholder="Szukaj w tytułach i tematach, np. potop, Atlantyda, witamina…" aria-label="Szukaj artykułu">
+    <nav class="dzialy-skrot" aria-label="Działy">${archiwum.dzialy.map((d) => `<a href="#${slug(d)}">${esc(d)}</a>`).join("")}</nav>
+  </div>
 ${archiwum.dzialy
   .map((d) => {
-    const art = lista.filter((a) => a.dzial === d);
+    const glowne = lista.filter((a) => a.dzial === d && !a.rodzic);
+    const wszystkich = lista.filter((a) => a.dzial === d).length;
     return `  <section class="dzial" id="${slug(d)}">
-    <h2>${esc(d)} <small>${art.length}</small></h2>
-    <ul>${art.map(wpis).join("")}</ul>
+    <h2>${esc(d)} <small>${glowne.length} ${glowne.length === 1 ? "artykuł" : glowne.length < 5 ? "artykuły" : "artykułów"}${wszystkich > glowne.length ? ` · ${wszystkich} stron` : ""}</small></h2>
+    <ul class="karty">${glowne.map(karta).join("")}</ul>
   </section>`;
   })
   .join("\n")}
@@ -235,12 +264,12 @@ ${archiwum.dzialy
   pole.addEventListener("input", () => {
     const q = zloz(pole.value.trim());
     let ile = 0;
-    document.querySelectorAll(".dzial li").forEach((li) => {
-      const ok = !q || zloz(li.dataset.szukaj).includes(q);
-      li.hidden = !ok;
+    document.querySelectorAll(".karta-art").forEach((k) => {
+      const ok = !q || zloz(k.dataset.szukaj).includes(q);
+      k.hidden = !ok;
       if (ok) ile++;
     });
-    document.querySelectorAll(".dzial").forEach((s) => (s.hidden = ![...s.querySelectorAll("li")].some((li) => !li.hidden)));
+    document.querySelectorAll(".dzial").forEach((s) => (s.hidden = ![...s.querySelectorAll(".karta-art")].some((k) => !k.hidden)));
     document.getElementById("brak").hidden = ile > 0;
   });
 </script>

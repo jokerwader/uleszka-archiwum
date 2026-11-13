@@ -52,12 +52,7 @@ Japończycy?
 
 Jakie to ludy epoki kamiennej potrafiły obrabiać tak wielkie kamienne bloki? W jaki sposób transportowano budulec na miejsce budowy? W jaki sposób unoszono te ciężary na znaczną niekiedy wysokość? Dlaczego tego rodzaju budowle spotykamy na całym świecie? W jakim celu wznoszono te budowle? Na te pytania współczesna nauka nie daje odpowiedzi. Jako odpowiedź można usłyszeć tylko bajeczki, jak ta głoszona przez Zahi Hawass'a, że piramidy zbudowano tylko po to, by uwiecznić dążenie człowieka do wieczności. Miliony ton kamienia dla "uwiecznienia" tylko jednej myśli?
 
-![](../../zrodlo/webacja/05bogowie/1abusir.jpg)
-
-![](../../zrodlo/webacja/05bogowie/1a.jpg)
-
-![](../../zrodlo/webacja/05bogowie/1sayhuite.jpg)
-
+![](../../zrodlo/webacja/05bogowie/1abusir.jpg) ![](../../zrodlo/webacja/05bogowie/1a.jpg) ![](../../zrodlo/webacja/05bogowie/1sayhuite.jpg)  
 Jakimi to narzędziami z kamienia osiągnięto taką precyzję obróbki w Egipcie i Ameryce Południowej?
 
 Do czego mogły służyć precyzyjnie wycięte z jednego kawałka kamienne bloki o tak skomplikowanych kształtach? Nauka wie wszystko. Są to ołtarze pogańskich przodków. Można też zauważyć, że wszystkie starożytne ruiny to tylko świątynie, świątynie i tylko świątynie. Nasi przodkowie nie robili nic innego tylko trwonili swe siły i środki na budowy świątyń, ołtarzy i grobowców. Ostatkiem zaś sił płodzili potomstwo czyli nas, z którego wywodzą się elity zarozumialców. Przyjęcie dwóch dogmatów - darwinizmu wraz z liniowym rozwojem postępu technicznego zaowocowało tezami, których nie wolno obalić, a które wyznaczają obowiązkowe wyniki badań:
@@ -402,14 +397,7 @@ To, że kiedyś na ziemi istniała wysoka cywilizacja można udowodnić nie wpro
 
 Sądzę, że w miarę upływu czasu zniszczeniu ulegały i narzędzia i techniki. Mówimy przecież o tysiącach lat. Nie odnowiono zniszczonej w kataklizmie bazy technologicznej. Być może nie miał kto tego zrobić. Wymierali też nauczyciele, uczniowie nie byli zbyt pojętni. Gdy odeszli ostatni znawcy "starożytnej mądrości", najniższe instynkty dały o sobie znak niszczycielskimi wojnami. Mordowano całe narody. Niszczono i palono stare, niezrozumiałe rękopisy, spuściznę Pierwszego Rozumu. Zabijano światłych ludzi jako synów złego. Chrześcijanie wymordowali cywilizacje obu Ameryk i puścili z dymem ich spuściznę intelektualną. Ekspansja Islamu obróciła w niwecz nauki Egiptu, Chaldei czy Indii. Świat spowiła epoka ciemności i zabobonu. Światełko zaświeciło dopiero niedawno. Ówczesny świat wszedł na nową drogę, całkiem nową i całkiem inną drogę.
 
-![](../../zrodlo/webacja/05bogowie/przodek1.jpg)
-
-![](../../zrodlo/webacja/05bogowie/przodek2.jpg)
-
-![](../../zrodlo/webacja/05bogowie/przodek4.jpg)
-
-![](../../zrodlo/webacja/05bogowie/przodek6.jpg)
-
+![](../../zrodlo/webacja/05bogowie/przodek1.jpg) ![](../../zrodlo/webacja/05bogowie/przodek2.jpg) ![](../../zrodlo/webacja/05bogowie/przodek4.jpg) ![](../../zrodlo/webacja/05bogowie/przodek6.jpg)  
 Bogowie? Półbogowie? Nauczyciele? Przodkowie?
 
 Czy człowiek mógł sam z siebie i na własne potrzeby stworzyć Bogów? Nie. Wzorzec istniał, choć w bardzo odległej przeszłości. Czczenie Bogów miało, być może, charakter podziękowań za dokonane czyny, a figury były portretami. Było to coś, co nazywamy dzisiaj kultem przodków, a było w zasadzie przywołaniem wspomnień o Wielkich Nieobecnych. Bardziej możliwe jest jednak to, że oddawanie hołdu Bogom było niejako wpisane w zakres obowiązków ich służących - ludzi. Dopiero za naszych czasów dorobiono im atrybuty, zaczęto obwiniać za niepowodzenia, dziękować za powodzenia. Dopiero za naszych czasów poprzydzielano różne funkcje i rejony odpowiedzialności. Ten od piorunów, ten od wody a ten jeszcze od czegoś innego. Z wysokiej katedry ustala się jak było i jak ma być.
@@ -497,16 +485,7 @@ Czy przedstawione zdjęcie murzynki z Kenii, może świadczyć, że cywilizacja 
 
 Czy drugą z tych cywilizacji była cywilizacja "długogłowych"? Tę, a właściwie czaszki, dla odmiany spotykamy w Egipcie i w Ameryce Południowej. Czy kształt czaszki jest autentyczny czy faktycznie specjalnie je deformowano, by upodobnić się do Bogów? Czy, jeszcze inna możliwość, są to czaszki "mieszańców"? Na to pytanie mogą dać odpowiedź tylko badania genetyczne, ale nie dzisiejszej genetyki, tylko tej za ... dzieści lat.
 
-![](../../zrodlo/webacja/05bogowie/glowa1.jpg)
-
-![](../../zrodlo/webacja/05bogowie/glowa2.jpg)
-
-![](../../zrodlo/webacja/05bogowie/ptah.gif)
-
-![](../../zrodlo/webacja/05bogowie/glowa5.jpg)
-
-![](../../zrodlo/webacja/05bogowie/baniak.jpg)
-
+![](../../zrodlo/webacja/05bogowie/glowa1.jpg) ![](../../zrodlo/webacja/05bogowie/glowa2.jpg) ![](../../zrodlo/webacja/05bogowie/ptah.gif) ![](../../zrodlo/webacja/05bogowie/glowa5.jpg) ![](../../zrodlo/webacja/05bogowie/baniak.jpg)  
 Czy nakrycia głowy i fryzury (lub peruki) miały ukryć kształt czaszki ?
 
 Czy twierdzenie nauki, że ludzie specjalnie deformowali czaszki niemowlętom i małym dzieciom nadając im "boski" wygląd, nie jest upraszczaniem sprawy? W Egipcie roi się od dowodów w postaci rzeźb i płaskorzeźb, które ukazują prawdopodobnie prawdziwy obraz tamtej cywilizacji. Czy te płaskorzeźby to następny fantastyczny komiks?

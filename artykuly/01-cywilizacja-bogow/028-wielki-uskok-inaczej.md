@@ -22,12 +22,10 @@ Budowy wnętrza Ziemi nauczono nas w szkole i od tej pory jest to dla nas prawda
 
 Czy czas już zmienić podstawowe założenie dotyczące budowy Ziemi? Wydaje się, że tak. To, że w środku Ziemi działa już miliardy lat atomowy reaktor nie jest tylko moim wymysłem. Tak myśli wielu naukowców i zwykłych ludzi (między innymi [Marvin Herndon](http://portalwiedzy.onet.pl/4868,12799,1375295,czasopisma.html)). Myśl ta nie może się jednak przebić w ortodoksyjnej nauce i rzadko takie hipotezy zamieszczają nawet zwykłe gazety, na dodatek w rubryce ciekawostki. Dotychczasowa hipoteza budowy Ziemi jest tylko i wyłącznie teorią dedukcyjną i to nie weryfikowaną od wielu, wielu lat. Nikt nie jest w stanie zbadać wnętrza Ziemi, a podziału na warstwy dokonano na podstawie wnioskowania z badań rozchodzenia się fal sejsmicznych i chyba tylko te są prawdopodobne.
 
-![](../../zrodlo/webacja/hipoteza/przekroj1z.jpg)
-
-![](../../zrodlo/webacja/hipoteza/przekroj2z.jpg)
-
+![](../../zrodlo/webacja/hipoteza/przekroj1z.jpg)  
 Tak myśli większość,
 
+![](../../zrodlo/webacja/hipoteza/przekroj2z.jpg)  
 a tak myślą nieliczni.
 
 Jądro Ziemi to pierwiastki ciężkie, w tym przeważająca większość promieniotwórczych, które "spłynęły" do wewnątrz w procesie formowania się planety z pyłu kosmicznego. Na zarzut, że pierwiastki promieniotwórcze stanowią znikomą część w całym kosmosie, odpowiadam: stosunek procentowy pierwiastków radioaktywnych do ich reszty określono tylko na podstawie badań ich zawartości w skorupie ziemskiej i tę liczbę rozciągnięto na cały kosmos. Czy jest to wiarygodne? Z pewnością nie, bo wynik dotyczy tylko znikomego fragmentu kosmosu, a stąd już blisko do żelaznego jądra (czy nawet jąder skalisto-lodowych na innych planetach :-)), bo w skorupie ziemskiej żelaza jest sporo. Uwzględnienie takich mas w jądrach planet i gwiazd, to także być może brakująca masa we wszechświecie i teoretyczne dorabianie "ciemnej materii" nie ma żadnego sensu.

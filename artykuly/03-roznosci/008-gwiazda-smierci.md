@@ -42,10 +42,7 @@ Jak niemiecko-radziecki plan był dopracowany, możesz zobaczyć na mapce. Po 17
 
 Już 19 września 1939 r. Beria powziął decyzję o utworzeniu zarządu ds. jeńców wojennych i wydał dyrektywę do utworzenia obozów przejściowo-rozdzielczych w Juchniowie, Kozielszczyźnie, Putywlu, Orankach, Ostaszkowie, Starobielsku, Kozielsku, Juży, Griazowcu i Zonkijewie. Wszyscy policjanci byli przewożeni do obozu w Ostaszkowie.
 
-![](../../zrodlo/webacja/dziadek/monastyr2.jpg)
-
-![](../../zrodlo/webacja/dziadek/monastyr3.jpg)
-
+![](../../zrodlo/webacja/dziadek/monastyr2.jpg) ![](../../zrodlo/webacja/dziadek/monastyr3.jpg)  
 Monastyr Niłowa Pustyń. Dziś restaurowany. Władza postsowiecka starannie zaciera ślady.
 
 Ostaszków (obóz jeniecki nr 41) był największym obozem. Założono go w monastyrze Niłowa Pustyń, na wyspie Stołbnyj na jeziorze Seliger, gdzie uprzednio wymordowano mnichów. Zgrupowano w nim około 6500 jeńców wojennych w większości policjantów.
@@ -345,32 +342,25 @@ Ostatnią partię jeńców przywieziono z Ostaszkowa do Kalinina w dniu 19 maja 
 
 Nazwiska poniżej, to tylko nieliczni mordercy polskich jeńców wojennych, których udało mi się odnaleźć w dokumentach (kolorem czerwonym - bezpośredni oprawcy jeńców z Ostaszkowa):
 
-![](../../zrodlo/webacja/dziadek/0stalin.jpg)
-
-![](../../zrodlo/webacja/dziadek/0woroszylow.jpg)
-
-![](../../zrodlo/webacja/dziadek/0molotow.jpg)
-
-![](../../zrodlo/webacja/dziadek/0mikojan.jpg)
-
-![](../../zrodlo/webacja/dziadek/0kaganowicz.jpg)
-
-![](../../zrodlo/webacja/dziadek/0kalinin.jpg)
-
-![](../../zrodlo/webacja/dziadek/0beria.jpg)
-
+![](../../zrodlo/webacja/dziadek/0stalin.jpg)  
 Stalin
 
+![](../../zrodlo/webacja/dziadek/0woroszylow.jpg)  
 Woroszyłow
 
+![](../../zrodlo/webacja/dziadek/0molotow.jpg)  
 Mołotow
 
+![](../../zrodlo/webacja/dziadek/0mikojan.jpg)  
 Mikojan
 
+![](../../zrodlo/webacja/dziadek/0kaganowicz.jpg)  
 Kaganowicz
 
+![](../../zrodlo/webacja/dziadek/0kalinin.jpg)  
 Kalinin
 
+![](../../zrodlo/webacja/dziadek/0beria.jpg)  
 Beria
 
 **Józef Wisarionowicz STALIN** - główny morderca, szef pozostałych  

@@ -300,46 +300,16 @@ Rysunek obok przedstawia Wirakoczę. Tego samego, który zajmuje centralną czę
 
 Spotyka się stwierdzenie, że Tiahuanaco jest kolebką kultury Ameryki Południowej, która promieniowała wokoło, tworząc jednolitą kulturę, którą nazwano Huari. Przypatrzmy się przykładom tego "promieniowania":
 
-![](../../zrodlo/webacja/09tiahu/puno1.jpg)
-
-![](../../zrodlo/webacja/09tiahu/puno2.jpg)
-
-![](../../zrodlo/webacja/09tiahu/puno3.jpg)
-
-![](../../zrodlo/webacja/09tiahu/puno4.jpg)
-
+![](../../zrodlo/webacja/09tiahu/puno1.jpg) ![](../../zrodlo/webacja/09tiahu/puno2.jpg) ![](../../zrodlo/webacja/09tiahu/puno3.jpg) ![](../../zrodlo/webacja/09tiahu/puno4.jpg)  
 Port nad jeziorem Titicaca. Puno (Sillustani). Ogromne "silosy" wypełnione kamieniami. Do czego służyły?
 
-![](../../zrodlo/webacja/09tiahu/ocusco4.jpg)
-
-![](../../zrodlo/webacja/09tiahu/ocusco1.jpg)
-
-![](../../zrodlo/webacja/09tiahu/ocusco2.jpg)
-
-![](../../zrodlo/webacja/09tiahu/ocusco3.jpg)
-
+![](../../zrodlo/webacja/09tiahu/ocusco4.jpg) ![](../../zrodlo/webacja/09tiahu/ocusco1.jpg) ![](../../zrodlo/webacja/09tiahu/ocusco2.jpg) ![](../../zrodlo/webacja/09tiahu/ocusco3.jpg)  
 Rejon Cusco. Od lewej Sacsayhuaman, Cusco, Ollantaytambo i Pisaq. Doskonała obróbka kamienia.
 
-![](../../zrodlo/webacja/09tiahu/chavin1.jpg)
-
-![](../../zrodlo/webacja/09tiahu/chavin2.jpg)
-
-![](../../zrodlo/webacja/09tiahu/chavin3.jpg)
-
-![](../../zrodlo/webacja/09tiahu/chavin4.jpg)
-
+![](../../zrodlo/webacja/09tiahu/chavin1.jpg) ![](../../zrodlo/webacja/09tiahu/chavin2.jpg) ![](../../zrodlo/webacja/09tiahu/chavin3.jpg) ![](../../zrodlo/webacja/09tiahu/chavin4.jpg)  
 Chavin de Huantar nad wybrzeżem Pacyfiku. Daeniken widzi tu świątynię, którą pokazano Ezechielowi.
 
-![](../../zrodlo/webacja/09tiahu/inga1.jpg)
-
-![](../../zrodlo/webacja/09tiahu/inga2.jpg)
-
-![](../../zrodlo/webacja/09tiahu/agustin1.jpg)
-
-![](../../zrodlo/webacja/09tiahu/agustin2.jpg)
-
-![](../../zrodlo/webacja/09tiahu/agustin3.jpg)
-
+![](../../zrodlo/webacja/09tiahu/inga1.jpg) ![](../../zrodlo/webacja/09tiahu/inga2.jpg) ![](../../zrodlo/webacja/09tiahu/agustin1.jpg) ![](../../zrodlo/webacja/09tiahu/agustin2.jpg) ![](../../zrodlo/webacja/09tiahu/agustin3.jpg)  
 Dwa pierwsze - Ingapirca, dalej San Agustin - postacie Bogów? Zwróć uwagę na "tygrysie" siekacze.
 
 O jakim promieniowaniu mówimy? To co widać na zdjęciach prezentuje zupełnie odmienne stylowo dzieła. Promieniowanie można zauważyć tylko w przypadku zastosowanego surowca - kamienia, jego wielkości i doskonałego dopasowania elementów. Współgrać stylowo z Tiahuanaco może ewentualnie Chawin de Huantar, ale tu w murze widać zupełnie inną głowę (w Chavin de Huantar głowy posiadają ogromne kły). Ponadto styl w jakim wykonano tzw. lanzon (kamienną klingę) nie ma odpowiednika w Tiahuanaco.

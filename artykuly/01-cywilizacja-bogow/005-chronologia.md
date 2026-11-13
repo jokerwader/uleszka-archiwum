@@ -376,10 +376,7 @@ Ale jest być może pewien sposób. Ziemia posiada też swój kalendarz i o ile 
 
 Po osiągnięciu kształtu kuli, ustabilizowaniu się położenia i kształtu kontynentów, względnym uspokojeniu skorupy targanej dotychczas olbrzymimi trzęsieniami zaistniały możliwości rozwoju życia. Czas tej epoki można by ustalić na 800-535 mln. lat temu. Być może w tym okresie należy umieścić początek działania nanobów, bakterii i sinic, całego pierwotnego życia. To prawdopodobnie w tym czasie zaczyna się wielkie oczyszczanie atmosfery i wód na ziemi. Wielkie opady deszczów zmniejszają ilość chmur i do powierzchni zaczynają docierać promienie słoneczne intensyfikując zamianę dwutlenku węgla w tlen przez sinice i glony. Zanieczyszczenia wody zaczynają opadać na dno tworząc pierwsze osady.
 
-![](../../zrodlo/webacja/04chrono/slady1.jpg)
-
-![](../../zrodlo/webacja/04chrono/slady2.jpg)
-
+![](../../zrodlo/webacja/04chrono/slady1.jpg) ![](../../zrodlo/webacja/04chrono/slady2.jpg)  
 Nauka: ślady zostały sfałszowane!
 
 **Epoka Tworzenia (535 000 000 - 450 000 lat)**

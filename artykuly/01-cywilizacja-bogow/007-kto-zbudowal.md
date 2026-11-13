@@ -61,14 +61,7 @@ Gallardet
 
 W budowie wnętrz widać "ludzką"(?) rękę, popartą zapewne obliczeniami wytrzymałościowymi. Zwrócić należy uwagę na wygląd narożników. Nasza cywilizacja tak nie buduje, choć można już wytwarzać tak specjalnie wykuwane narożniki. Żmudne i nieopłacalne. Dlaczego "oni" wybrali taki rodzaj narożników? Po co nieboszczykowi tak przemyślane i tak wytrzymałe rozwiązania?
 
-![](../../zrodlo/webacja/06budowle/ishibutai1.jpg)
-
-![](../../zrodlo/webacja/06budowle/ishibutai2.jpg)
-
-![](../../zrodlo/webacja/06budowle/ishibutai3.jpg)
-
-![](../../zrodlo/webacja/06budowle/ishibutai4.jpg)
-
+![](../../zrodlo/webacja/06budowle/ishibutai1.jpg) ![](../../zrodlo/webacja/06budowle/ishibutai2.jpg) ![](../../zrodlo/webacja/06budowle/ishibutai3.jpg) ![](../../zrodlo/webacja/06budowle/ishibutai4.jpg)  
 Ishibutai. Japonia.
 
 Czy w Japonii działało to samo "megalityczne plemię"? Jak potężne są bloki z kamienia można sobie uzmysłowić po wzroście zwiedzających. To nie są "cegiełki" pasujące do ludzkiej reki. Jakiej siły potrzeba by unieść, przesunąć i ustawić ciężary rzędu kilkuset ton? Oglądając wnętrze widać także, że nie jest to zbiorowisko bezładnie ustawianych kamieni oraz to, że te kamienie były przedtem obrabiane.
@@ -103,12 +96,7 @@ Archeolodzy nie wiedzą kto, nie wiedzą jak, nie wiedzą kiedy i nie wiedzą po
 
 Można wysnuć jednak kilka wniosków. Były budowane w sposób jak najbardziej prosty, a jednocześnie bardzo wytrzymały, bez przepychu i zdobnictwa. Nieliczne posiadają rowy prowadzące do jedynego wejścia, obudowane kamiennymi płytami. Niektóre obudowane ze wszystkich stron, posiadają tylko otwór, przez który można wślizgnąć do wnętrza. Budowane na całym świecie mogą świadczyć, że budowano je w obliczu jakiegoś ogólnoświatowego zagrożenia, którego nie umiemy sprecyzować. Wielką uwagę zwracano na grubość pokrywy dachowej (choć dziś niektóre są bardzo naruszone przez warunki pogodowe). Niektóre dolmeny są tak małe, jakby stanowiły tylko wejście do podziemnego schronu, jednak nie słyszałem, by w którymś kopano w głąb. Czy bliższy prawdy nie jest Daeniken?
 
-![](../../zrodlo/webacja/06budowle/menantol1.jpg)
-
-![](../../zrodlo/webacja/06budowle/menantol2.jpg)
-
-![](../../zrodlo/webacja/06budowle/menantol3.jpg)
-
+![](../../zrodlo/webacja/06budowle/menantol1.jpg) ![](../../zrodlo/webacja/06budowle/menantol2.jpg) ![](../../zrodlo/webacja/06budowle/menantol3.jpg)  
 Menantol w Kornwalii. Do czego służył ten dziwny "celownik"?
 
 Na zakończenie coś, co przypominać może tor przeszkód w obozie szkoleniowym pierwotnych terrorystów. Obiegamy kamień, "przewlekamy" się przez kółko, obiegamy drugi kamień... i tak kilkadziesiąt razy, aż do uzyskania wymaganej sprawności. Poczekajmy jednak, bo może jakiś uczony "myślący inaczej" dopatrzy się w tym motka do wełny.
@@ -335,10 +323,7 @@ Dlaczego tak się dzieje, że wszyscy bez wyjątku archeologowie i historycy są
 
 Tytuł pasuje chyba do tego, co można zobaczyć. Kilka zdjęć z zakątków prawie całego świata. To, co je łączy, to wykonanie tych wspaniałych dzieł w jednym bloku kamienia. Wykonane z taką finezją z jaką cukiernik ozdabia tort.
 
-![](../../zrodlo/webacja/06budowle/tort1a.jpg)
-
-![](../../zrodlo/webacja/06budowle/tort1b.jpg)
-
+![](../../zrodlo/webacja/06budowle/tort1a.jpg) ![](../../zrodlo/webacja/06budowle/tort1b.jpg)  
 Qenko - Peru
 
 U góry rzeźba w jednym bloku kamienia, znajdująca się w pobliżu Cusco. O wielkości kamienia świadczy widoczna głowa turysty. Co ma przedstawiać? Trudno określić. Wygląda na model jakiegoś miejsca, którego nie potrafię skojarzyć. Delikatne, wężowate rowki i kaskady mogą sugerować, że płynęła w nich woda, która z kolei miała odpływy na krawędziach. Dziwne aż, że do tej pory żaden uczony nie rozpoznał w tym wszechobecnego "Boga nieskażonej wody użyźniającej nawet kamień". Zarysy schodów, budynków, fundamentów, a nawet zwierząt. Wszystko to na podstawie w formie półkuli. Interpretacja zależy od fantazji patrzącego.
@@ -369,10 +354,7 @@ Grobowce w Iranie wykonano jakby według jednego projektu. Są ogromne. Człowie
 
 Poniżej świątynia skalna Abu Simbel. Wykuta podobno na rozkaz Ramzesa Wielkiego około 1500 r. pne. po to, by pokazać Nubijczykom "kto tu rządzi". Ta, w obecnej chwili, składa się z olbrzymich, pociętych bloków kamiennych. W pierwowzorze stanowiła jeden monolit, a została pocięta podczas przenoszenia jej w inne niezagrożone miejsce. Arabskiemu prezydentowi Nasserowi zachciało się zmieniać przyrodę na wzór Związku Radzieckiego i w Assuanie wybudował tamę i zbiornik wodny, który groził zatopieniem świątyni. Świat nie mógł na to pozwolić i organizacja UNESCO z własnych funduszy przeniosła zabytek wyżej. Pozostałe zabytki zatopiły spiętrzone wody Nilu.
 
-![](../../zrodlo/webacja/06budowle/tort5a.jpg)
-
-![](../../zrodlo/webacja/06budowle/tort5b.jpg)
-
+![](../../zrodlo/webacja/06budowle/tort5a.jpg) ![](../../zrodlo/webacja/06budowle/tort5b.jpg)  
 Abu Simbel - Egipt
 
 To co widać z wierzchu, nie oddaje tego co jest w środku. W litej skale wycięte są olbrzymie pomieszczenia zdobione posągami faraonów, pełne kolumn i płaskorzeźb niebywałej precyzji wykonania. Trzeba przyznać, że jak na ludzi z epoki kamienia posiadali olbrzymią wiedzę o technice jego obróbki.

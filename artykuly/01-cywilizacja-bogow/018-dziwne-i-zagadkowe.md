@@ -155,18 +155,13 @@ Egipska płaskorzeźba przedstawia boga imieniem Hapy, który był odpowiedzialn
 
 Tu koincydencja na nic się nie przyda. Ci co wykonywali te eksponaty musieli widzieć wzory na własne oczy. Takich osobników nie można już spotkać na Ziemi. Ponoć ostatnich widziano w Ameryce Południowej w XVIII wieku.
 
-![](../../zrodlo/webacja/zagadki/uszy1.jpg)
-
-![](../../zrodlo/webacja/zagadki/uszy2.jpg)
-
-![](../../zrodlo/webacja/zagadki/uszy3.jpg)
-
-![](../../zrodlo/webacja/zagadki/uszy4.jpg)
-
+![](../../zrodlo/webacja/zagadki/uszy1.jpg) ![](../../zrodlo/webacja/zagadki/uszy2.jpg)  
 Wyroby Inków
 
+![](../../zrodlo/webacja/zagadki/uszy3.jpg)  
 Indie
 
+![](../../zrodlo/webacja/zagadki/uszy4.jpg)  
 Chiny
 
 Przedstawiciele tej cywilizacji panowali w obszarze Oceanu Spokojnego i Indyjskiego. Kiedy? Na pewno przed "wielkim uskokiem...", gdyż nawet współczesna cywilizacja Chin o nich nie wspomina. Pozostawili po sobie mnóstwo rzeźb istot z takimi długimi uszami. Całe Angkor jest usiane płaskorzeźbami "długouchych", wszystkie starożytne rzeźby Bogów Indii, Chin, Japonii czy wysp u wybrzeży południowo-wschodniej Azji posiadają takie długie uszy. Naukowcy, nie wiedząc zapewne co z tym zrobić, najchętniej nie zauważają tego szczegółu i nie dotykają problemu. Typowe, gdyż umiejscowienie tej cywilizacji w naszych, współczesnych czasach jest według mnie niemożliwe.
@@ -286,22 +281,16 @@ Cusco
 ![](../../zrodlo/webacja/zagadki/mur4.jpg)  
 Giza
 
-![](../../zrodlo/webacja/zagadki/osaka10.jpg)
-
-![](../../zrodlo/webacja/zagadki/mur5.jpg)
-
-![](../../zrodlo/webacja/zagadki/mur6.jpg)
-
-![](../../zrodlo/webacja/zagadki/mur7.jpg)
-
-![](../../zrodlo/webacja/zagadki/mur8.jpg)
-
+![](../../zrodlo/webacja/zagadki/osaka10.jpg)  
 Osaka
 
+![](../../zrodlo/webacja/zagadki/mur5.jpg)  
 Ollantaytambo
 
+![](../../zrodlo/webacja/zagadki/mur6.jpg) ![](../../zrodlo/webacja/zagadki/mur7.jpg)  
 Greckie Delfy
 
+![](../../zrodlo/webacja/zagadki/mur8.jpg)  
 okolice j. Titicaca
 
 To co widzimy na zewnątrz już wzbudza nasz podziw, ale czy przypadkiem te kamienie nie są cięte także w trzecim wymiarze? Tego nie wiemy, bo nikt nie podjął się jeszcze rozebrania takiego kolosalnego muru. Sądzę także, że twórcy tych murów używali takiej energii, która pozwalała ciąć kamienie jak masło, względnie doprowadzała je do stanu dzisiejszej plasteliny. Tylko wtedy jest możliwe tak ścisłe dopasowanie do siebie wielokątnych bloków kamiennych.
@@ -404,14 +393,10 @@ Może to tajne współczesne lotnisko wojskowe (taka egipska strefa 51) lub pozo
 
 Przykładem tego są dziwne "koleiny" wyżłobione w skale wapiennej, spotykane na Malcie, Ghawdex, koło Lixus, w Hiszpanii czy Irlandii. Biegną zwykle parami, choć nie są do siebie idealnie równoległe, krzyżują się pod różnymi kątami, a czasem giną w morzu. Miejscowa ludność nazywa je "śladami furmanki". A co głosi oficjalna archeologia?
 
-![](../../zrodlo/webacja/zagadki/slafur1.jpg)
-
-![](../../zrodlo/webacja/zagadki/slafur2.jpg)
-
-![](../../zrodlo/webacja/zagadki/slafur3.jpg)
-
+![](../../zrodlo/webacja/zagadki/slafur1.jpg)  
 Azerbajdżan
 
+![](../../zrodlo/webacja/zagadki/slafur2.jpg) ![](../../zrodlo/webacja/zagadki/slafur3.jpg)  
 "Ślady furmanki" na Malcie
 
 Według niej mogą to być - tory kultowe, kalendarz, rodzaj wodociągu (nawet pod górkę?) czy nawet rodzaj pisma i wszystko to powstało w epoce brązu. Z reguły są to rowki o głębokości 15 cm, szerokości około 20 cm i biegnące obok siebie w odległości około 1,6 m. Nie zrobiły tego pojazdy, gdyż ślady nie są wszędzie jednakowo równoległe, nie zrobiły tego też sanie, gdyż zakręty wyglądały by inaczej, nie wyżłobiły tego ciągnione konary, gdyż ślady musiały by być wyryte pod kątem. Ślady te zakręcają, krzyżują się pod różnymi kątami, a ponadto poprowadzone są bez względu na rzeźbę terenu. Jeśli są to ślady po zwózce materiałów, to dlaczego nie prowadzą do żadnej budowli?

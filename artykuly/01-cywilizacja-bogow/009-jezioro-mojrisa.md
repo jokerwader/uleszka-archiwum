@@ -91,16 +91,10 @@ Stawiam ciekawą, być może obrazoburczą hipotezę. Pamiętamy zapewne opis tz
 
 Hipotezę swoją sformułowałbym pytaniem. Czy to przypadkiem nie są pozostałe fragmenty jakiejś budowli hydrotechnicznej, a więc może pozostałości śluzy południowej? Monumentalny, jakby toporny wygląd budowli wskazuje, że nie miała pełnić funkcji reprezentacyjnych lecz inną nie znaną nam funkcję. Nie ma w niej także "ludzkich" miejsc - osobnych pokoi czy komnat, posągów Bogów czy miejsc na ołtarze. Budowla zrekonstruowana (oczywiście tylko na papierze) przez egiptologów posiadać miała przykrycie z prostych i ciężkich kamiennych płyt. Egiptolodzy wysnuli także wniosek, że ponieważ ciągle stała tam woda po świątyni poruszano się łódką. Wielkie brawa! Ale czy to była na prawdę świątynia? Wygląd bardziej predestynuje ją do typu "przemysłowego". Czy tak mogły wyglądać śluzy jeziora Mojrisa lub jakieś urządzenie hydrotechniczne z nimi związane? Bardzo podobny wygląd ma świątynia "Chefrena" w Giza. Styl podpór i legarów jest prawie identyczny.
 
-![](../../zrodlo/webacja/08egipt/1abydos1.jpg)
-
-![](../../zrodlo/webacja/08egipt/1abydos2.jpg)
-
-![](../../zrodlo/webacja/08egipt/1chefren1.jpg)
-
-![](../../zrodlo/webacja/08egipt/1chefren2.jpg)
-
+![](../../zrodlo/webacja/08egipt/1abydos1.jpg) ![](../../zrodlo/webacja/08egipt/1abydos2.jpg)  
 Abydos tzw. Ozyrejon
 
+![](../../zrodlo/webacja/08egipt/1chefren1.jpg) ![](../../zrodlo/webacja/08egipt/1chefren2.jpg)  
 Giza - "świątynia" Chefrena
 
 Strabon pisał o Ozyrejonie: "... niezwykła budowla z litego kamienia ze źródłem na dużej głębokości. Schodzi się tam wysoko sklepioną galerią z ogromnych, doskonale obrobionych kamieni. Miejsce to połączone jest kanałem z wielką rzeką...". Jest także ciekawe skąd w Ozyrejonie bierze się woda? Budowla znajduje się powyżej Nilu a deszcz jest tam rzadkością. Woda gruntowa? A może nieznany podziemny zbiornik?
@@ -197,133 +191,14 @@ Historia lubi się jednak powtarzać. Potrzebę zbudowania zbiornika wodnego, kt
 
 Zróbmy mały przegląd piramid, oczywiście nie wszystkich, bo w sumie jako piramidy sklasyfikowano około 80 budowli. Obejrzyjmy te największe, lub to, co po nich zostało.
 
-![](../../zrodlo/webacja/08egipt/aburoash.jpg)
-
-**Abu Roash**  
-wysokość - 57-67 m  
-podstawa - 106×106 m  
-nachylenie - 48-52°(?) inwestor - Dżedefre  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-![](../../zrodlo/webacja/08egipt/wielka.jpg)
-
-**Giza (Wielka)**  
-wysokość - 146,6 m  
-podstawa - 230×230 m  
-nachylenie - 51°50'50" inwestor - Cheops  
-budowniczy - Hemiunu  
-rok budowy - ok. 2500 pne
-
-![](../../zrodlo/webacja/08egipt/srednia.jpg)
-
-**Giza (Średnia)**  
-wysokość - 143,5 m  
-podstawa - 215×215 m  
-nachylenie - 53°10' inwestor - Chefren  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-![](../../zrodlo/webacja/08egipt/mala.jpg)
-
-**Giza (Mała)**  
-wysokość - 66,5 m  
-podstawa - 102×105 m  
-nachylenie - 51°20'25" inwestor - Mykerinos  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-![](../../zrodlo/webacja/08egipt/zawiyet.jpg)
-
-**Zawiyet el\_Aryan**  
-wysokość - około 40 m  
-podstawa - 84×84 m  
-nachylenie - 68° (rdzeń)  
-inwestor - Khab  
-budowniczy - ???  
-rok budowy - ok. 2700 pne
-
-![](../../zrodlo/webacja/08egipt/abusir.jpg)
-
-**Abusir**  
-wysokość - 48 m  
-podstawa - 78,5×78,5  
-nachylenie - 50°30'  
-inwestor - Sahure  
-budowniczy - ???  
-rok budowy - ok. 2400 pne
-
-![](../../zrodlo/webacja/08egipt/sakkara.jpg)
-
-**Sakkara**  
-wysokość - 62,5 m  
-podstawa - 109×121 m  
-nachylenie - schodkowa  
-inwestor - Dżoser  
-budowniczy - Imhotep  
-rok budowy - ok. 2700 pne
-
-![](../../zrodlo/webacja/08egipt/dashur.jpg)
-
-**Dashur**  
-wysokość - 105 m  
-podstawa - 188×188 m  
-nachylenie - łamana  
-inwestor - Snofru  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-![](../../zrodlo/webacja/08egipt/czerwona.jpg)
-
-**Dashur (czerwona)**  
-wysokość - 105 m  
-podstawa - 220×220 m  
-nachylenie - 43°22'  
-inwestor - Snofru  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-Jak można zauważyć, wszystkie piramidy są albo uszkodzone, albo rozpadły się. Czy to są katastrofy budowlane? Czy dokonywano zmian w trakcie budowy? Bez żartów, tego nie budowali dzisiejsi "fachowcy". Zachowałbym też ostrożność co do imion inwestorów czy wykonawców. Bardzo kruche podstawy i raczej wprowadzane na zasadzie "ktoś to musiał zrobić". Wszędzie widać też, że piramidy jakby "otrząsnęły się" z okładziny. Czy to wynik katastrof budowlanych, czy efekt wielkiego trzęsienia Ziemi?
-
-![](../../zrodlo/webacja/08egipt/lisht.jpg)
-
-**Lisht**  
-wysokość - około 49 m  
-podstawa - 105×105 m  
-nachylenie - 49°24'  
-inwestor - Senuseret I  
-budowniczy - ???  
-rok budowy - ok. 1900 pne
-
-![](../../zrodlo/webacja/08egipt/meidum.jpg)
-
-**Meidum**  
-wysokość - 92 m  
-podstawa - 144×144 m  
-nachylenie - 51°50'35"  
-inwestor - Huni/Snofru  
-budowniczy - ???  
-rok budowy - ok. 2500 pne
-
-![](../../zrodlo/webacja/08egipt/hawara.jpg)
-
-**Hawara**  
-wysokość - 58 m  
-podstawa - 102×102 m  
-nachylenie - 48-52°  
-inwestor - Amenemhat III  
-budowniczy - ???  
-rok budowy - ok. 1900 pne
-
-![](../../zrodlo/webacja/08egipt/lahun.jpg)
-
-**Lahun**  
-wysokość - około 48,5 m  
-podstawa - 107×107 m  
-nachylenie - 42°35'  
-inwestor - Senuseret II  
-budowniczy - ???  
-rok budowy - ok. 1900 pne
+| ![](../../zrodlo/webacja/08egipt/aburoash.jpg) | **Abu Roash**<br>wysokość - 57-67 m<br>podstawa - 106×106 m<br>nachylenie - 48-52°(?) inwestor - Dżedefre<br>budowniczy - ???<br>rok budowy - ok. 2500 pne | ![](../../zrodlo/webacja/08egipt/wielka.jpg) | **Giza (Wielka)**<br>wysokość - 146,6 m<br>podstawa - 230×230 m<br>nachylenie - 51°50'50" inwestor - Cheops<br>budowniczy - Hemiunu<br>rok budowy - ok. 2500 pne |
+| --- | --- | --- | --- |
+| ![](../../zrodlo/webacja/08egipt/srednia.jpg) | **Giza (Średnia)**<br>wysokość - 143,5 m<br>podstawa - 215×215 m<br>nachylenie - 53°10' inwestor - Chefren<br>budowniczy - ???<br>rok budowy - ok. 2500 pne | ![](../../zrodlo/webacja/08egipt/mala.jpg) | **Giza (Mała)**<br>wysokość - 66,5 m<br>podstawa - 102×105 m<br>nachylenie - 51°20'25" inwestor - Mykerinos<br>budowniczy - ???<br>rok budowy - ok. 2500 pne |
+| ![](../../zrodlo/webacja/08egipt/zawiyet.jpg) | **Zawiyet el\_Aryan**<br>wysokość - około 40 m<br>podstawa - 84×84 m<br>nachylenie - 68° (rdzeń)<br>inwestor - Khab<br>budowniczy - ???<br>rok budowy - ok. 2700 pne | ![](../../zrodlo/webacja/08egipt/abusir.jpg) | **Abusir**<br>wysokość - 48 m<br>podstawa - 78,5×78,5<br>nachylenie - 50°30'<br>inwestor - Sahure<br>budowniczy - ???<br>rok budowy - ok. 2400 pne |
+| ![](../../zrodlo/webacja/08egipt/sakkara.jpg) | **Sakkara**<br>wysokość - 62,5 m<br>podstawa - 109×121 m<br>nachylenie - schodkowa<br>inwestor - Dżoser<br>budowniczy - Imhotep<br>rok budowy - ok. 2700 pne | ![](../../zrodlo/webacja/08egipt/dashur.jpg) | **Dashur**<br>wysokość - 105 m<br>podstawa - 188×188 m<br>nachylenie - łamana<br>inwestor - Snofru<br>budowniczy - ???<br>rok budowy - ok. 2500 pne |
+| ![](../../zrodlo/webacja/08egipt/czerwona.jpg) | **Dashur (czerwona)**<br>wysokość - 105 m<br>podstawa - 220×220 m<br>nachylenie - 43°22'<br>inwestor - Snofru<br>budowniczy - ???<br>rok budowy - ok. 2500 pne | Jak można zauważyć, wszystkie piramidy są albo uszkodzone, albo rozpadły się. Czy to są katastrofy budowlane? Czy dokonywano zmian w trakcie budowy? Bez żartów, tego nie budowali dzisiejsi "fachowcy". Zachowałbym też ostrożność co do imion inwestorów czy wykonawców. Bardzo kruche podstawy i raczej wprowadzane na zasadzie "ktoś to musiał zrobić". Wszędzie widać też, że piramidy jakby "otrząsnęły się" z okładziny. Czy to wynik katastrof budowlanych, czy efekt wielkiego trzęsienia Ziemi? |   |
+| ![](../../zrodlo/webacja/08egipt/lisht.jpg) | **Lisht**<br>wysokość - około 49 m<br>podstawa - 105×105 m<br>nachylenie - 49°24'<br>inwestor - Senuseret I<br>budowniczy - ???<br>rok budowy - ok. 1900 pne | ![](../../zrodlo/webacja/08egipt/meidum.jpg) | **Meidum**<br>wysokość - 92 m<br>podstawa - 144×144 m<br>nachylenie - 51°50'35"<br>inwestor - Huni/Snofru<br>budowniczy - ???<br>rok budowy - ok. 2500 pne |
+| ![](../../zrodlo/webacja/08egipt/hawara.jpg) | **Hawara**<br>wysokość - 58 m<br>podstawa - 102×102 m<br>nachylenie - 48-52°<br>inwestor - Amenemhat III<br>budowniczy - ???<br>rok budowy - ok. 1900 pne | ![](../../zrodlo/webacja/08egipt/lahun.jpg) | **Lahun**<br>wysokość - około 48,5 m<br>podstawa - 107×107 m<br>nachylenie - 42°35'<br>inwestor - Senuseret II<br>budowniczy - ???<br>rok budowy - ok. 1900 pne |
 
 Wszystkie widoczne wejścia do piramid zostały wykonane już w czasach współczesnych i przez współczesnych "ciekawskich". Na pewno nie mają nic wspólnego z oryginalnymi, bo takich nie znaleziono. Zostały wykute niemałym nakładem sił przez starożytnych złodziei albo wykonane przez takich ludzi jak Bellzoni czy Vyse metodami nowocześniejszej, bardziej "eksplozywnej" archeologii.
 
@@ -453,12 +328,7 @@ Historia starożytnego Egiptu, według starożytnych, rozpoczęła się w tak da
 
 Według nauki ta krucha i słaba istota rzucała na lewo, prawo i do góry blokami o wadze od kilku do kilkuset ton. Cierpliwie, kamiennym dłutkiem wykuwała ogromne, kamienne sarkofagi dla byków. Kamiennymi pięściakami formowała dwudziestometrowe posągi i za pomocą drewnianych dźwigów, kołowrotków i sznurów ustawiała je w pionie. By nie zgnuśnieć, między pracami na roli, wszyscy mężczyźni stawiali faraonom piramidy, by król po śmierci mógł złożyć w nich swą ziemską powłokę. Bogów zaś wymyślono, bo inaczej cała ta praca nie miała by sensu. Trwało tak do czasu, aż kiedyś kolejne pokolenie zbuntowało się pracą ponad siły i porozbijało wszystko, co uczynili ich przodkowie. Tak pokrótce można opowiedzieć historię Egiptu, którą z wysokiej katedry serwuje się nam - zwykłym ludziom.
 
-![](../../zrodlo/webacja/08egipt/chepri.gif)
-
-![](../../zrodlo/webacja/08egipt/chepri1.gif)
-
-![](../../zrodlo/webacja/08egipt/chepri2.gif)
-
+![](../../zrodlo/webacja/08egipt/chepri.gif) ![](../../zrodlo/webacja/08egipt/chepri1.gif) ![](../../zrodlo/webacja/08egipt/chepri2.gif)  
 Wszystko dla Ciebie przetoczym po Niebie!  
 Czy to slogan i logo Chepri-Trans S.A.?
 

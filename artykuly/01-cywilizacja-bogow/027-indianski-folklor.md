@@ -251,16 +251,7 @@ Zdjęcia środkowe przedstawiają analogiczny sposób budowania, ale nie pochodz
 
 Podobnie jest z wiekiem Colosseum czy Cloaca Maxima. Nie ma żadnych możliwości określenia wieku ich zbudowania, a datowanie na podstawie pozostałości po gladiatorach czy przejedzonych Rzymianach metodą izotopu węgla na pewno nie da odpowiedzi na to pytanie. Osobiście bardzo wątpię w autorstwo Rzymian. Cywilizacja Rzymu, oprócz wojen, zniszczeniu kilku cywilizacji i paru historyków, nie wniosła kompletnie nic do rozwoju cywilizacji Europy i świata. Weszli na gotowe i przywłaszczyli sobie autorstwo. Kłamstwo powtarzane przez wieki stało się obowiązującą prawdą i jest już nie do wykorzenienia.
 
-![](../../zrodlo/webacja/ameryka/0turcja.jpg)
-
-![](../../zrodlo/webacja/ameryka/0cypr.jpg)
-
-![](../../zrodlo/webacja/ameryka/0kartagina.jpg)
-
-![](../../zrodlo/webacja/ameryka/0hiszpania.jpg)
-
-![](../../zrodlo/webacja/ameryka/0mexyk.jpg)
-
+![](../../zrodlo/webacja/ameryka/0turcja.jpg) ![](../../zrodlo/webacja/ameryka/0cypr.jpg) ![](../../zrodlo/webacja/ameryka/0kartagina.jpg) ![](../../zrodlo/webacja/ameryka/0hiszpania.jpg) ![](../../zrodlo/webacja/ameryka/0mexyk.jpg)  
 Czy rzymscy "budowlańcy" pracowali na całym świecie? Od lewej - Turcja, Cypr, Kartagina, Hiszpania i Meksyk.
 
 Jakie jeszcze wnioski? Taką technologię budowlaną stosowano i w Ameryce Środkowej i w Afryce i w Europie. Pamiętasz, co pisał Platon? Królestwo Atlantydy sięgało w Afryce po granicę Egiptu (Kartagina), a w Europie aż po Tyrrenię (Etruskowie). Kiedy zginęła Atlantyda? Około 12,5 tysięcy lat temu. To wtedy, w tym kataklizmie zniszczone zostały piramidy Ameryki, Kartagina i "rzymskie" akwedukty. Nie tylko zresztą one. O prawdziwych historykach nie wspomnę.
