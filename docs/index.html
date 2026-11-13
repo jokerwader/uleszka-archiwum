@@ -303,13 +303,34 @@
   }
 
   /* źródła */
-  .zrodla-siatka { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
-  .zrodlo-karta { background: var(--karta); border: 1px solid var(--linia); border-radius: 16px; padding: 18px 20px; }
-  .zrodlo-karta h3 { margin: 4px 0 6px; font-size: 19px; }
-  .zrodlo-karta p { margin: 0 0 10px; color: var(--tekst-2); font-size: 15px; }
-  .zrodlo-karta .linki { margin: 0; font-size: 14px; }
   .etykieta-zr { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: var(--akcent); font-weight: 700; }
-  @media (max-width: 720px) { .zrodla-siatka { grid-template-columns: 1fr; } }
+  /* rejestr jak w katalogu biblioteki: wiersze rozdzielone złotą linią, bez ramek */
+  .rejestr { list-style: none; margin: 8px 0 0; padding: 0; border-top: 1px solid rgba(232, 176, 75, .28); }
+  .rejestr > li {
+    display: grid; grid-template-columns: 64px 1fr 250px; gap: 0 26px; align-items: start; padding: 24px 12px 24px 0;
+    border-bottom: 1px solid rgba(232, 176, 75, .16); position: relative; transition: background .35s;
+  }
+  .rejestr > li::before {
+    content: ""; position: absolute; left: 0; top: -1px; bottom: -1px; width: 2px; background: var(--akcent);
+    transform: scaleY(0); transform-origin: top; transition: transform .45s cubic-bezier(.2, .7, .2, 1);
+  }
+  .rejestr > li:hover { background: linear-gradient(90deg, rgba(226, 169, 63, .07), transparent 70%); }
+  .rejestr > li:hover::before { transform: none; }
+  .rej-nr { font: 700 26px/1.1 Georgia, serif; color: rgba(232, 176, 75, .55); text-align: center; padding-top: 18px; }
+  .rejestr h3 { margin: 4px 0 6px; font-size: 21px; color: #f4efe4; }
+  .rejestr p { margin: 0; color: var(--tekst-2); font-size: 15.5px; line-height: 1.55; }
+  .rej-linki { display: flex; flex-direction: column; gap: 7px; padding: 20px 0 0; margin: 0; list-style: none; }
+  .rej-linki a { font-size: 14.5px; font-weight: 600; text-decoration: none; color: var(--akcent-mocny); display: inline-flex; gap: 8px; align-items: baseline; }
+  .rej-linki a::before { content: "→"; color: rgba(232, 176, 75, .5); transition: transform .25s; }
+  .rej-linki a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .rej-linki a:hover::before { transform: translateX(3px); }
+  .zrodla-prosba { margin: 26px 0 0; color: var(--tekst-2); font-size: 15px; display: flex; gap: 10px; align-items: center; }
+  .zrodla-prosba svg { width: 20px; height: 20px; flex: none; color: var(--akcent); }
+  @media (max-width: 720px) {
+    .rejestr > li { grid-template-columns: 34px 1fr; gap: 0 12px; padding: 20px 0; }
+    .rej-nr { font-size: 20px; padding-top: 16px; text-align: left; }
+    .rej-linki { grid-column: 2; flex-direction: row; flex-wrap: wrap; gap: 6px 16px; padding-top: 12px; }
+  }
 
   /* FAQ */
   details { background: var(--karta); border: 1px solid var(--linia); border-radius: 14px; padding: 16px 20px; margin-bottom: 10px; }
@@ -544,45 +565,45 @@
     <div class="wrap">
       <h2>Źródła i materiały</h2>
       <p class="pod">Skąd pochodzi to, co tu jest. Wszystko można sprawdzić u źródła.</p>
-      <div class="zrodla-siatka">
-        <div class="zrodlo-karta">
-          <span class="etykieta-zr">Wywiad</span>
-          <h3>Wywiad z twórcą strony www.uleszka.net</h3>
-          <p>Leszek opowiada w nim, jak zaczął (Däniken, emerytura w 1992 r.), czym była dla niego cywilizacja Bogów, wielki uskok i potop, co sądził o roku 2012 i o „oficjalnej” nauce. Przeprowadził Aton dla nandi.pl.</p>
-          <p class="linki"><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/materialy/wywiad-nandi-pl.md">pełny tekst w archiwum</a> · <a href="https://nandi.pl/index.php?go=art_uleszka">nandi.pl</a> · <a href="http://web.archive.org/web/20240919040941/http://nandi.pl/index.php?go=art_uleszka">kopia archiwalna</a></p>
-        </div>
-        <div class="zrodlo-karta">
-          <span class="etykieta-zr">O autorze</span>
-          <h3>Czesław Białczyński o uleszka.net</h3>
-          <p>Dwa wpisy przypominające stronę i jej autora: „Leszek Wiktor Klimek to jedna z tych osób, których nikt inny nie zastąpił”. W 2023 r. także informacja, że po jego śmierci teksty przywrócił czytelnik.</p>
-          <p class="linki"><a href="https://bialczynski.pl/2017/10/10/uleszka-atlantyda-istnieje-nadal-archiwum2006/">wpis z 2017 r.</a> · <a href="https://bialczynski.pl/2023/12/29/uleszka-net-reaktywacja-uwierz-we-wlasny-rozum-archiwum-2001-2006/">wpis z 2023 r.</a></p>
-        </div>
-        <div class="zrodlo-karta">
-          <span class="etykieta-zr">Reaktywacja</span>
-          <h3>ULESZKA.NET – Reaktywacja (2014)</h3>
-          <p>Po zniknięciu strony czytelnik („Świętobor”) ponownie opublikował jej teksty na trzech blogach. Dzięki takim ludziom strona przetrwała.</p>
-          <p class="linki"><a href="https://uwierzwewlasnyrozum.wordpress.com/">Uwierz we własny rozum</a> · <a href="https://zapomnianamedycyna.wordpress.com/">Zapomniana medycyna</a> · <a href="https://uleszkaroznosci.wordpress.com/informacje/">Różności</a></p>
-        </div>
-        <div class="zrodlo-karta">
-          <span class="etykieta-zr">Oryginał</span>
-          <h3>Strona uleszka.net, bajt w bajt</h3>
-          <p>Kopia oryginalnych plików strony z 2007 r. i 148 artykułów przeniesionych słowo w słowo, z automatyczną kontrolą wierności litera po literze.</p>
-          <p class="linki"><a href="czytelnia/">czytelnia: wszystkie artykuły</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/tree/main/zrodlo">oryginalne pliki</a> · <a href="http://web.archive.org/web/20070211031151/http://www.uleszka.net:80/">Wayback Machine (2007)</a></p>
-        </div>
-        <div class="zrodlo-karta">
-          <span class="etykieta-zr">Książki</span>
-          <h3>Na co powoływał się autor</h3>
-          <p>Setki książek i dawnych tekstów, od Platona po Dänikena, z informacją, gdzie je legalnie przeczytać. 30 z nich jest w archiwum w całości, 17 także w języku oryginału.</p>
-          <p class="linki"><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/ksiazki.md">lista książek</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/README.md">biblioteka</a></p>
-        </div>
-        <div class="zrodlo-karta">
-          <span class="etykieta-zr">Opracowania AI</span>
-          <h3>Streszczenia, tezy i opisy zdjęć</h3>
-          <p>Pomoce przygotowane przez AI: streszczenie i tezy każdego artykułu (każdy cytat sprawdzony) oraz opisy 1714 zdjęć. Są oddzielone od oryginału.</p>
-          <p class="linki"><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/opracowania/README.md">opracowania</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/leszek-rys.md">rys autora</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/materialy/README.md">wszystkie materiały o autorze</a></p>
-        </div>
-      </div>
-      <p class="pod" style="margin-top:18px">Znasz inne wywiady, wpisy albo nagrania z udziałem autora? <a href="https://github.com/jokerwader/uleszka-archiwum/issues">Daj znać</a>, dołączymy je do archiwum.</p>
+      <ol class="rejestr">
+        <li>
+          <span class="rej-nr" aria-hidden="true">I</span>
+          <div><span class="etykieta-zr">Oryginał</span><h3>Strona uleszka.net, bajt w bajt</h3>
+            <p>Kopia oryginalnych plików strony z 2007 r. i 148 artykułów przeniesionych słowo w słowo, z automatyczną kontrolą wierności litera po literze.</p></div>
+          <ul class="rej-linki"><li><a href="czytelnia/">czytelnia: wszystkie artykuły</a></li><li><a href="https://github.com/jokerwader/uleszka-archiwum/tree/main/zrodlo">oryginalne pliki</a></li><li><a href="http://web.archive.org/web/20070211031151/http://www.uleszka.net:80/">Wayback Machine (2007)</a></li></ul>
+        </li>
+        <li>
+          <span class="rej-nr" aria-hidden="true">II</span>
+          <div><span class="etykieta-zr">Reaktywacja</span><h3>ULESZKA.NET – Reaktywacja (2014)</h3>
+            <p>Po zniknięciu strony czytelnik („Świętobor”) ponownie opublikował jej teksty na trzech blogach. Dzięki takim ludziom strona przetrwała.</p></div>
+          <ul class="rej-linki"><li><a href="https://uwierzwewlasnyrozum.wordpress.com/">Uwierz we własny rozum</a></li><li><a href="https://zapomnianamedycyna.wordpress.com/">Zapomniana medycyna</a></li><li><a href="https://uleszkaroznosci.wordpress.com/informacje/">Różności</a></li></ul>
+        </li>
+        <li>
+          <span class="rej-nr" aria-hidden="true">III</span>
+          <div><span class="etykieta-zr">Wywiad</span><h3>Wywiad z twórcą strony www.uleszka.net</h3>
+            <p>Leszek opowiada w nim, jak zaczął (Däniken, emerytura w 1992 r.), czym była dla niego cywilizacja Bogów, wielki uskok i potop, co sądził o roku 2012 i o „oficjalnej” nauce. Przeprowadził Aton dla nandi.pl.</p></div>
+          <ul class="rej-linki"><li><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/materialy/wywiad-nandi-pl.md">pełny tekst w archiwum</a></li><li><a href="https://nandi.pl/index.php?go=art_uleszka">nandi.pl</a></li><li><a href="http://web.archive.org/web/20240919040941/http://nandi.pl/index.php?go=art_uleszka">kopia archiwalna</a></li></ul>
+        </li>
+        <li>
+          <span class="rej-nr" aria-hidden="true">IV</span>
+          <div><span class="etykieta-zr">O autorze</span><h3>Czesław Białczyński o uleszka.net</h3>
+            <p>Dwa wpisy przypominające stronę i jej autora: „Leszek Wiktor Klimek to jedna z tych osób, których nikt inny nie zastąpił”. W 2023 r. także informacja, że po jego śmierci teksty przywrócił czytelnik.</p></div>
+          <ul class="rej-linki"><li><a href="https://bialczynski.pl/2017/10/10/uleszka-atlantyda-istnieje-nadal-archiwum2006/">wpis z 2017 r.</a></li><li><a href="https://bialczynski.pl/2023/12/29/uleszka-net-reaktywacja-uwierz-we-wlasny-rozum-archiwum-2001-2006/">wpis z 2023 r.</a></li></ul>
+        </li>
+        <li>
+          <span class="rej-nr" aria-hidden="true">V</span>
+          <div><span class="etykieta-zr">Książki</span><h3>Na co powoływał się autor</h3>
+            <p>Setki książek i dawnych tekstów, od Platona po Dänikena, z informacją, gdzie je legalnie przeczytać. 30 z nich jest w archiwum w całości, 17 także w języku oryginału.</p></div>
+          <ul class="rej-linki"><li><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/ksiazki.md">lista książek</a></li><li><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/README.md">biblioteka</a></li></ul>
+        </li>
+        <li>
+          <span class="rej-nr" aria-hidden="true">VI</span>
+          <div><span class="etykieta-zr">Opracowania AI</span><h3>Streszczenia, tezy i opisy zdjęć</h3>
+            <p>Pomoce przygotowane przez AI: streszczenie i tezy każdego artykułu (każdy cytat sprawdzony) oraz opisy 1714 zdjęć. Są oddzielone od oryginału.</p></div>
+          <ul class="rej-linki"><li><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/opracowania/README.md">opracowania</a></li><li><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/leszek-rys.md">rys autora</a></li><li><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/materialy/README.md">wszystkie materiały o autorze</a></li></ul>
+        </li>
+      </ol>
+      <p class="zrodla-prosba"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>Znasz inne wywiady, wpisy albo nagrania z udziałem autora? <a href="https://github.com/jokerwader/uleszka-archiwum/issues">Daj znać</a>, dołączymy je do archiwum.</span></p>
     </div>
   </section>
 
