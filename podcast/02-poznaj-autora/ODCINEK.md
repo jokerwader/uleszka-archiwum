@@ -7,15 +7,15 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków. Teksty maj
 
 | Plik | Co zawiera | Znaki (≈ kredyty) |
 |---|---|---|
-| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | 283 |
+| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | 275 |
 | 01-wstep.txt | Wstęp | 8901 |
 | 02-prywatnie-cz1.txt | Prywatnie, część 1 z 4 | 9227 |
 | 03-prywatnie-cz2.txt | Prywatnie, część 2 z 4 | 9465 |
 | 04-prywatnie-cz3.txt | Prywatnie, część 3 z 4 | 9383 |
 | 05-prywatnie-cz4.txt | Prywatnie, część 4 z 4 | 5784 |
-| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 246 |
+| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 281 |
 
-**Razem: 43289 znaków** (≈ 46 min nagrania).
+**Razem: 43316 znaków** (≈ 46 min nagrania).
 
 ## ElevenLabs Studio (rozdziały)
 
@@ -25,7 +25,7 @@ generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP
 
 | Plik | Rozdział | Znaki |
 |---|---|---|
-| 00-zapowiedz.txt | Zapowiedź | 283 |
+| 00-zapowiedz.txt | Zapowiedź | 275 |
 | 01-wstep.txt | Wstęp | 8901 |
 | 02-calkiem-prywatnie.txt | CAŁKIEM PRYWATNIE | 5647 |
 | 03-o-historii.txt | O HISTORII | 5329 |
@@ -35,7 +35,7 @@ generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP
 | 07-o-przyszlosci.txt | O PRZYSZŁOŚCI | 5626 |
 | 08-co-zrozumialem.txt | CO ZROZUMIAŁEM? | 2590 |
 | 09-co-robic.txt | CO ROBIĆ? | 1957 |
-| 10-zakonczenie.txt | Zakończenie | 246 |
+| 10-zakonczenie.txt | Zakończenie | 281 |
 
 ### Poprawione literówki (errata)
 
@@ -68,7 +68,7 @@ Autor przedstawia założenia całego działu. Twierdzi, że oficjalna historia 
 
 Autor strony żegna się z aktywnym prowadzeniem serwisu i w osobistej refleksji (wrzesień 2006) podsumowuje swoje poglądy. Pisze, że zaczął pisać w ramach rehabilitacji po wylewie z 2001 roku, a opierał się na hipotezie cyklicznych kataklizmów (Hapgood), na kwestionowaniu sposobu budowy dawnych budowli i obróbki kamienia oraz na przekonaniu, że oficjalna historia jest fałszowana, w tym historia Rzymu i Polski (Mieszko I jako marionetka rzymska). Dodaje krytyczne uwagi o ochronie przyrody i zabytków, zdrowym żywieniu, demokracji i polskiej polityce, a także o ewolucji i medycynie. Kończy radami: dbać o zdrowie i rozwój duchowy oraz poznawać prawdziwą historię.
 
-Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum powstało w hołdzie śp. Leszkowi Wiktorowi Klimkowi.
+Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum i podcast powstały w hołdzie śp. Leszkowi Wiktorowi Klimkowi. Podcast przygotował Mateusz Małek (jokerwader).
 
 Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zastępują porady lekarza.
 
