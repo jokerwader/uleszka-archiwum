@@ -1,0 +1,31 @@
+# Odcinek 1: Potop – czy tylko jeden?
+
+## Do wklejenia w ElevenLabs
+
+Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków. Teksty mają znaczniki dla modeli v3/v4 w nawiasach kwadratowych (np. [calm, storytelling], [long pause]) – lektor ich nie czyta, tylko zmienia sposób mówienia; liczą się jednak do znaków. Nawiasy kwadratowe autora zamieniono na okrągłe, żeby lektor je przeczytał. Nagrania zapisz jako MP3 z tymi samymi numerami
+(np. `00-zapowiedz.mp3`, `01-…mp3`) w tym folderze – potem: `npx tsx scripts/podcast.ts polacz podcast/01-potop-czy-tylko-jeden`.
+
+| Plik | Co zawiera | Znaki (≈ kredyty) |
+|---|---|---|
+| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | 214 |
+| 01-potop-cz1.txt | Potop, część 1 z 5 | 8928 |
+| 02-potop-cz2.txt | Potop, część 2 z 5 | 9255 |
+| 03-potop-cz3.txt | Potop, część 3 z 5 | 9496 |
+| 04-potop-cz4.txt | Potop, część 4 z 5 | 8901 |
+| 05-potop-cz5.txt | Potop, część 5 z 5 | 3959 |
+| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 172 |
+
+**Razem: 40925 znaków** (≈ 43 min nagrania).
+
+## Opis odcinka (Spotify)
+
+**Tytuł:** Potop – czy tylko jeden? – Leszek Klimek
+
+Autor zestawia starożytne przekazy o potopie (biblijny, sumeryjski, grecki, mezoamerykańskie, Oera Linda Boek, Kronika Akakor, Indian Hopi) i dochodzi do wniosku, że potopy były co najmniej kilka, a ostatni nastąpił ok. 12,5 tys. lat temu. Odrzuca jako przyczynę zbliżenie wielkiego ciała niebieskiego i uderzenie meteorytu, a opowiada się za hipotezą Hapgooda o nagłym przesunięciu skorupy ziemskiej. Za Caseyem Wadowskim przyjmuje, że kataklizm przewidziała wysoko rozwinięta cywilizacja Bogów-Nauczycieli, która zabezpieczyła wiedzę i pomagała odbudowie. Twierdzi, że skorupa Ziemi nadal się nie ustabilizowała i kolejny kataklizm jest możliwy, a nauka tej hipotezy ignoruje.
+
+Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian. Czyta lektor AI (ElevenLabs). Archiwum powstało w hołdzie śp. Leszkowi Wiktorowi Klimkowi.
+
+Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zastępują porady lekarza.
+
+Pełny tekst ze zdjęciami: https://uleszka.net/czytelnia/01potop-potop.html
+Rozmowa z archiwum przez AI: https://uleszka.net
