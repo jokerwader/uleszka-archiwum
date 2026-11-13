@@ -17,39 +17,28 @@
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="ikona.png">
 <style>
+  /* strona celowo zawsze ciemna – nocne niebo, kamień i złoto */
   :root {
-    --tlo: #f7f3ea;
-    --tlo-2: #efe8d8;
-    --karta: #fffdf8;
-    --tekst: #1d2433;
-    --tekst-2: #4f5767;
-    --linia: #e2d8c3;
-    --akcent: #b7791f;
-    --akcent-mocny: #8a5a12;
-    --granat: #14213d;
-    --ok: #2f7d4f;
-    --cien: 0 1px 2px rgba(20, 33, 61, .06), 0 8px 24px rgba(20, 33, 61, .06);
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --tlo: #10141d;
-      --tlo-2: #161c28;
-      --karta: #1a2130;
-      --tekst: #ece7dc;
-      --tekst-2: #aeb4c0;
-      --linia: #2b3446;
-      --akcent: #e8b04b;
-      --akcent-mocny: #f0c46f;
-      --granat: #0b111d;
-      --ok: #5cc28a;
-      --cien: 0 1px 2px rgba(0, 0, 0, .3), 0 8px 24px rgba(0, 0, 0, .25);
-    }
+    color-scheme: dark;
+    --tlo: #07090f;
+    --tlo-2: #10151f;
+    --karta: #10151f;
+    --tekst: #ece6d8;
+    --tekst-2: #a6adbb;
+    --linia: #222b3b;
+    --akcent: #e2a93f;
+    --akcent-mocny: #f0c46f;
+    --granat: #05070c;
+    --ok: #5cc28a;
+    --cien: 0 1px 2px rgba(0, 0, 0, .4), 0 12px 32px rgba(0, 0, 0, .35);
   }
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; }
   body {
     margin: 0;
-    background: var(--tlo);
+    background:
+      radial-gradient(ellipse 80% 50% at 50% 0%, rgba(30, 48, 90, .25), transparent 70%),
+      var(--tlo);
     color: var(--tekst);
     font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     -webkit-text-size-adjust: 100%;
@@ -58,34 +47,96 @@
   h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; line-height: 1.2; font-weight: 700; }
   .wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; }
 
-  /* nagłówek */
-  .hero { background: var(--granat); color: #f4efe4; padding: 28px 0 64px; position: relative; overflow: hidden; }
-  .hero::after {
-    content: ""; position: absolute; right: -120px; top: -120px; width: 420px; height: 420px; border-radius: 50%;
-    background: radial-gradient(circle, rgba(232, 176, 75, .22), transparent 65%);
+  /* ---------- HERO: scena 3D ---------- */
+  .hero {
+    position: relative; min-height: 100vh; min-height: 100svh; color: #f4efe4; overflow: hidden; isolation: isolate;
+    display: flex; flex-direction: column;
+    background:
+      radial-gradient(ellipse 70% 45% at 70% 105%, rgba(226, 169, 63, .18), transparent 70%),
+      radial-gradient(ellipse 90% 70% at 50% -10%, #142242 0%, #070a12 55%, #05070c 100%);
   }
-  .pasek { display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: 15px; }
+  .hero.bez-3d { background: linear-gradient(rgba(5, 7, 12, .7), rgba(5, 7, 12, .95)), url("img/brama.jpg") center 30% / cover; }
+  #scena { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -2; display: block; opacity: 0; transition: opacity 2.2s ease; }
+  #scena.gotowa { opacity: 1; }
+  .hero::before {
+    content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none;
+    background:
+      linear-gradient(90deg, rgba(5, 7, 12, .88) 0%, rgba(5, 7, 12, .55) 38%, rgba(5, 7, 12, 0) 62%),
+      linear-gradient(180deg, rgba(5, 7, 12, .55) 0%, rgba(5, 7, 12, 0) 18%, rgba(5, 7, 12, 0) 72%, var(--tlo) 100%);
+  }
+  .hero .wrap { width: 100%; max-width: 1180px; }
+  .pasek { display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: 15px; padding-top: 22px; }
   .logo { font-family: Georgia, serif; font-weight: 700; letter-spacing: .3px; color: #f4efe4; text-decoration: none; }
   .logo span { color: #e8b04b; }
-  .pasek a.gh { color: #cfd6e4; text-decoration: none; border: 1px solid rgba(255, 255, 255, .2); padding: 6px 12px; border-radius: 999px; }
+  .pasek a.gh { color: #cfd6e4; text-decoration: none; border: 1px solid rgba(255, 255, 255, .18); padding: 6px 14px; border-radius: 999px; backdrop-filter: blur(6px); }
   .pasek a.gh:hover { border-color: #e8b04b; color: #fff; }
-  .hero .eyebrow { margin: 48px 0 10px; color: #e8b04b; font-size: 14px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 600; }
-  .hero h1 { font-size: clamp(34px, 6vw, 56px); margin: 0 0 18px; max-width: 760px; }
-  .hero p.lead { font-size: clamp(17px, 2.2vw, 20px); color: #d7dbe4; max-width: 720px; margin: 0 0 28px; }
-  .hero em { color: #f4efe4; font-style: normal; font-weight: 600; }
+  .hero-tresc { flex: 1; display: flex; flex-direction: column; justify-content: center; padding-top: 40px; padding-bottom: 24px; }
+  .hero-tresc > * { max-width: 580px; }
+  .hero-tresc > h1 { max-width: 760px; }
+  .hero .eyebrow { margin: 0 0 18px; color: #e8b04b; font-size: 13px; letter-spacing: 3px; text-transform: uppercase; font-weight: 600; }
+  .hero h1 {
+    font-size: clamp(46px, 8.4vw, 104px); line-height: .98; margin: 0 0 6px; letter-spacing: -1px; font-weight: 700;
+    background: linear-gradient(180deg, #fff6e0 0%, #f0c46f 55%, #a8721c 100%); -webkit-background-clip: text; background-clip: text; color: transparent;
+    filter: drop-shadow(0 4px 30px rgba(232, 176, 75, .25));
+  }
+  .cytat-autor { margin: 0 0 26px; color: #9aa3b5; font-size: 14px; letter-spacing: .3px; }
+  .cytat-autor a { color: #c9cfdb; }
+  .hero p.lead { font-size: clamp(17px, 2vw, 20px); color: #d7dbe4; margin: 0 0 18px; }
+  .hero em { color: #fff; font-style: normal; font-weight: 600; }
+  .pytanie-autora {
+    min-height: 1.6em; margin: 0 0 30px; font: 500 clamp(16px, 1.8vw, 19px)/1.5 ui-monospace, "Cascadia Code", Consolas, monospace; color: #f0c46f;
+  }
+  .pytanie-autora::before { content: "› "; color: #6f7a8f; }
+  .pytanie-autora .kursor { display: inline-block; width: .55em; height: 1.1em; background: #f0c46f; vertical-align: -0.18em; margin-left: 2px; animation: miga 1s steps(2) infinite; }
+  @keyframes miga { 50% { opacity: 0; } }
   .przyciski { display: flex; flex-wrap: wrap; gap: 12px; }
+  .hero-dol { padding: 0 0 26px; }
+  .przewin { display: flex; justify-content: center; margin-top: 22px; }
+  .przewin a { color: #8b94a7; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+  .przewin a::after { content: ""; width: 1px; height: 34px; background: linear-gradient(#e8b04b, transparent); animation: spada 2.2s ease-in-out infinite; }
+  @keyframes spada { 0% { transform: scaleY(0); transform-origin: top; } 50% { transform: scaleY(1); transform-origin: top; } 51% { transform-origin: bottom; } 100% { transform: scaleY(0); transform-origin: bottom; } }
+  .wejscie { opacity: 0; transform: translateY(14px); animation: wejdz 1.1s cubic-bezier(.2, .7, .2, 1) forwards; }
+  .wejscie:nth-child(2) { animation-delay: .25s; } .wejscie:nth-child(3) { animation-delay: .45s; } .wejscie:nth-child(4) { animation-delay: .65s; }
+  .wejscie:nth-child(5) { animation-delay: .85s; } .wejscie:nth-child(6) { animation-delay: 1.05s; }
+  @keyframes wejdz { to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .wejscie { animation: none; opacity: 1; transform: none; } .pytanie-autora .kursor, .przewin a::after { animation: none; } }
+
+  /* ---------- Ślady: zdjęcia z archiwum ---------- */
+  .slady { padding-top: 40px; }
+  .tasma {
+    display: grid; grid-auto-flow: column; grid-auto-columns: minmax(250px, 300px); gap: 16px; overflow-x: auto; padding: 6px 20px 22px;
+    scroll-snap-type: x mandatory; scrollbar-width: thin; scrollbar-color: #2b3446 transparent;
+    max-width: 980px; margin: 0 auto;
+  }
+  .slad {
+    scroll-snap-align: start; position: relative; border-radius: 16px; overflow: hidden; background: #0c1018; border: 1px solid var(--linia);
+    text-decoration: none; color: var(--tekst); display: flex; flex-direction: column; transition: transform .35s, border-color .35s, box-shadow .35s;
+  }
+  .slad:hover, .slad:focus-visible { transform: translateY(-4px); border-color: rgba(232, 176, 75, .55); box-shadow: 0 18px 40px rgba(0, 0, 0, .5), 0 0 0 1px rgba(232, 176, 75, .15); }
+  .slad .foto { aspect-ratio: 4 / 3; overflow: hidden; background: #000; position: relative; }
+  .slad img { width: 100%; height: 100%; object-fit: cover; display: block; filter: grayscale(.85) sepia(.35) brightness(.72) contrast(1.1); transform: scale(1.04); transition: filter .5s, transform .8s; }
+  .slad:hover img, .slad:focus-visible img { filter: none; transform: scale(1.1); }
+  .slad .foto::after { content: ""; position: absolute; inset: 0; background: linear-gradient(transparent 50%, rgba(7, 9, 15, .85)); }
+  .slad .opis { padding: 14px 16px 16px; }
+  .slad h3 { margin: 0 0 4px; font-size: 18px; color: #f4efe4; }
+  .slad p { margin: 0 0 8px; font-size: 14px; color: var(--tekst-2); line-height: 1.45; }
+  .slad .zrodlo { font-size: 12px; color: var(--akcent-mocny); letter-spacing: .4px; }
   .btn {
     display: inline-flex; align-items: center; gap: 8px; padding: 13px 22px; border-radius: 12px; font-weight: 600;
     text-decoration: none; font-size: 16px; border: 0; cursor: pointer; font-family: inherit;
   }
-  .btn-glowny { background: #e8b04b; color: #14213d; }
-  .btn-glowny:hover { background: #f0c46f; }
-  .btn-drugi { background: rgba(255, 255, 255, .08); color: #f4efe4; border: 1px solid rgba(255, 255, 255, .2); }
-  .btn-drugi:hover { background: rgba(255, 255, 255, .14); }
-  .liczby { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-top: 44px; max-width: 760px; }
-  .liczby div { border-left: 2px solid rgba(232, 176, 75, .6); padding-left: 12px; }
-  .liczby b { display: block; font-family: Georgia, serif; font-size: 28px; color: #fff; }
-  .liczby span { font-size: 14px; color: #b9c0cd; }
+  .btn-glowny { background: linear-gradient(180deg, #f3c873, #dc9f35); color: #14110a; box-shadow: 0 8px 30px rgba(232, 176, 75, .3); }
+  .btn-glowny:hover { background: linear-gradient(180deg, #f8d590, #e8ad45); }
+  .btn-drugi { background: rgba(255, 255, 255, .06); color: #f4efe4; border: 1px solid rgba(255, 255, 255, .18); backdrop-filter: blur(6px); }
+  .btn-drugi:hover { background: rgba(255, 255, 255, .12); }
+  .liczby {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; max-width: 860px;
+    background: rgba(10, 14, 22, .55); border: 1px solid rgba(255, 255, 255, .08); border-radius: 16px; backdrop-filter: blur(10px);
+  }
+  .liczby div { padding: 14px 18px; border-left: 1px solid rgba(255, 255, 255, .07); }
+  .liczby div:first-child { border-left: 0; }
+  .liczby b { display: block; font-family: Georgia, serif; font-size: 28px; color: #fff; line-height: 1.2; }
+  .liczby span { font-size: 13px; color: #a9b1c1; }
 
   section { padding: 64px 0 8px; }
   section h2 { font-size: clamp(26px, 4vw, 34px); margin: 0 0 10px; }
@@ -105,8 +156,7 @@
   }
   .adres .etykieta { font-size: 14px; color: var(--tekst-2); width: 100%; }
   .adres code { font: 600 16px/1.4 ui-monospace, "Cascadia Code", Consolas, monospace; word-break: break-all; flex: 1 1 260px; }
-  .kopiuj { background: var(--granat); color: #fff; padding: 10px 16px; border-radius: 10px; border: 0; font: 600 15px system-ui, sans-serif; cursor: pointer; }
-  @media (prefers-color-scheme: dark) { .kopiuj { background: #e8b04b; color: #14213d; } }
+  .kopiuj { background: #e8b04b; color: #14110a; padding: 10px 16px; border-radius: 10px; border: 0; font: 600 15px system-ui, sans-serif; cursor: pointer; }
   .status { font-size: 14px; color: var(--tekst-2); display: flex; align-items: center; gap: 6px; }
   .kropka { width: 9px; height: 9px; border-radius: 50%; background: #999; }
   .status.ok .kropka { background: var(--ok); box-shadow: 0 0 0 4px color-mix(in srgb, var(--ok) 20%, transparent); }
@@ -167,41 +217,65 @@
   }
   .toast.widoczny { opacity: 1; transform: translateX(-50%); }
 
+  .toast { background: #e8b04b; color: #14110a; font-weight: 600; }
+
   @media (max-width: 720px) {
-    .liczby { grid-template-columns: repeat(2, 1fr); row-gap: 18px; }
+    .liczby { grid-template-columns: repeat(2, 1fr); }
+    .liczby div:nth-child(3) { border-left: 0; }
+    .liczby div:nth-child(n+3) { border-top: 1px solid rgba(255, 255, 255, .07); }
     .siatka, .pytania, .historia { grid-template-columns: 1fr; }
     .panel { padding: 20px 16px; border-radius: 0 0 16px 16px; }
     .zakladki button { flex: 1; padding: 11px 10px; font-size: 15px; }
-    .hero { padding-bottom: 48px; }
     section { padding-top: 48px; }
+    /* na telefonie piramida w górnej części, tekst niżej */
+    .hero-tresc { justify-content: flex-end; padding-top: 34vh; }
+    .hero::before { background: linear-gradient(180deg, rgba(5, 7, 12, .35) 0%, rgba(5, 7, 12, 0) 22%, rgba(5, 7, 12, .55) 48%, rgba(5, 7, 12, .92) 70%, var(--tlo) 100%); }
+    .hero .eyebrow { font-size: 11px; letter-spacing: 2px; }
+    .tasma { grid-auto-columns: 78%; padding: 6px 16px 18px; }
   }
 </style>
 </head>
 <body>
 
-<header class="hero">
+<header class="hero" id="hero">
+  <canvas id="scena" aria-hidden="true"></canvas>
   <div class="wrap">
     <nav class="pasek">
       <a class="logo" href="#">uleszka<span>.net</span> · archiwum</a>
       <a class="gh" href="https://github.com/jokerwader/uleszka-archiwum">GitHub</a>
     </nav>
-    <p class="eyebrow">Strona z lat 2004–2007 · „Uwierz we własny rozum”</p>
-    <h1>Porozmawiaj z archiwum uleszka.net</h1>
-    <p class="lead">Strona Leszka Klimka <em>otworzyła oczy wielu ludziom</em>. Zadawała pytania, których nikt wcześniej nie zadawał, i stała się prekursorem wielu blogów. Dziś całe jej archiwum możesz przepytać jak rozmówcę, przez <em>Claude</em> albo <em>ChatGPT</em>. Możesz pytać o treść, porównywać ją z dzisiejszą wiedzą i sprawdzać dawne źródła.</p>
-    <div class="przyciski">
-      <a class="btn btn-glowny" href="#jak-zaczac">Jak zacząć (2 minuty) →</a>
-      <a class="btn btn-drugi" href="#pytania">O co zapytać</a>
+  </div>
+  <div class="wrap hero-tresc">
+    <p class="eyebrow wejscie">„Uwierz we własny rozum” · 2004–2007</p>
+    <h1 class="wejscie">Nadchodzi przeszłość</h1>
+    <p class="cytat-autor wejscie">— Leszek Klimek, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/artykuly/01-cywilizacja-bogow/001-wstep.md">„Wstęp”</a> do Cywilizacji Bogów</p>
+    <p class="lead wejscie">Strona, która <em>otworzyła oczy wielu ludziom</em> i zadawała pytania, których nikt wcześniej nie zadawał. Dziś możesz z nią porozmawiać, przez <em>Claude</em> albo <em>ChatGPT</em>.</p>
+    <p class="pytanie-autora wejscie" aria-live="off"><span id="pytanie-tekst">Kto naprawdę zbudował piramidy?</span><span class="kursor" aria-hidden="true"></span></p>
+    <div class="przyciski wejscie">
+      <a class="btn btn-glowny" href="#jak-zaczac">Zacznij rozmowę →</a>
+      <a class="btn btn-drugi" href="#slady">Zobacz ślady</a>
     </div>
+  </div>
+  <div class="wrap hero-dol">
     <div class="liczby">
       <div><b>148</b><span>artykułów, słowo w słowo</span></div>
       <div><b>1714</b><span>zdjęć z opisami</span></div>
       <div><b>30</b><span>dawnych dzieł, na które powołuje się autor</span></div>
-      <div><b>17</b><span>z nich także w języku oryginału</span></div>
+      <div><b>17</b><span>z nich w języku oryginału</span></div>
     </div>
+    <div class="przewin"><a href="#slady">przewiń</a></div>
   </div>
 </header>
 
 <main>
+  <section class="slady" id="slady">
+    <div class="wrap">
+      <h2>Ślady</h2>
+      <p class="pod">Zdjęcia, którymi Leszek ilustrował swoje pytania. Kliknij, żeby przeczytać artykuł, z którego pochodzą.</p>
+    </div>
+    <div class="tasma" id="tasma"></div>
+  </section>
+
   <section>
     <div class="wrap">
       <h2>Co możesz zrobić</h2>
@@ -464,5 +538,80 @@
     }
   })();
 </script>
+
+<script>
+  // ---------- zdjęcia z archiwum: galeria „Ślady” i scena 3D ----------
+  const ART = "https://github.com/jokerwader/uleszka-archiwum/blob/main/artykuly/";
+  const CB = ART + "01-cywilizacja-bogow/";
+  window.ZDJECIA = [
+    { img: "brama.jpg", tytul: "Brama Słońca", opis: "Tiahuanaco w Boliwii. Tym zdjęciem witała czytelników strona uleszka.net.", art: "Strona tytułowa", url: ART + "00-strona-glowna/001-strona-tytulowa.md" },
+    { img: "tsunami.jpg", tytul: "Nadchodzi przeszłość…", opis: "Tym obrazem Leszek otwierał opowieść o cywilizacji Bogów i wielkich kataklizmach.", art: "Wstęp", url: CB + "001-wstep.md" },
+    { img: "09tiahu-wejscie.jpg", tytul: "Tiahuanaco", opis: "Brama z kamiennych bloków dopasowanych z niezwykłą precyzją. Kto i kiedy ją zbudował?", art: "Tiahuanaco", url: CB + "010-tiahuanaco.md" },
+    { img: "07piramidy-satpir.jpg", tytul: "Giza z orbity", opis: "Trzy piramidy widziane z satelity i pytanie, czy naprawdę wszystko o nich wiemy.", art: "Piramidy w Giza", url: CB + "008-piramidy-w-giza.md" },
+    { img: "07piramidy-orion3.jpg", tytul: "Pas Oriona", opis: "Czy układ piramid odwzorowuje gwiazdy na niebie?", art: "Piramidy w Giza", url: CB + "008-piramidy-w-giza.md" },
+    { img: "07piramidy-renowacja.jpg", tytul: "Sfinks", opis: "Łatany przez stulecia. Ile ma naprawdę lat?", art: "Piramidy w Giza", url: CB + "008-piramidy-w-giza.md" },
+    { img: "zagadki-stopione.jpg", tytul: "Kamienie jak stopione", opis: "Olbrzymie bloki o miękkich krawędziach, dopasowane bez zaprawy.", art: "Dziwne i zagadkowe", url: CB + "018-dziwne-i-zagadkowe.md" },
+    { img: "blazenada-pacal.jpg", tytul: "Płyta z Palenque", opis: "Władca w zaświatach czy coś więcej? Spór o płaskorzeźbę, który trwa od lat.", art: "Uczona błazenada", url: CB + "019-uczona-blazenada.md" },
+    { img: "blazenada-nazca.jpg", tytul: "Pająk z Nazca", opis: "Rysunek na pustyni, który w całości widać dopiero z powietrza.", art: "Uczona błazenada", url: CB + "019-uczona-blazenada.md" },
+    { img: "02uskok-moai1.jpg", tytul: "Moai", opis: "Posągi z Wyspy Wielkanocnej, częściowo zasypane ziemią. Co je przykryło?", art: "Wielki uskok…", url: CB + "003-wielki-uskok.md" },
+    { img: "02uskok-ollinstone.jpg", tytul: "Stonehenge", opis: "Kamienny krąg i linie wskazujące gwiazdy oraz planety.", art: "Wielki uskok…", url: CB + "003-wielki-uskok.md" },
+    { img: "06budowle-tort5b.jpg", tytul: "Kolosy w skale", opis: "Posągi wykute w litej skale. Jakimi narzędziami?", art: "Kto zbudował?", url: CB + "007-kto-zbudowal.md" },
+    { img: "ameryka-1p_teoti.jpg", tytul: "Teotihuacan", opis: "Miasto bogów w Meksyku i jego schodkowe piramidy.", art: "Indiański folklor", url: CB + "027-indianski-folklor.md" },
+    { img: "09tiahu-tiahuair.jpg", tytul: "Tiahuanaco z lotu ptaka", opis: "Plan kompleksu na zdjęciu lotniczym, z naniesionymi opisami.", art: "Tiahuanaco", url: CB + "010-tiahuanaco.md" },
+    { img: "05bogowie-cywilizacje.jpg", tytul: "Mapa zaginionych cywilizacji", opis: "Gdzie mogły istnieć dawne cywilizacje? Leszek zaznaczał je znakami zapytania.", art: "Jaka cywilizacja", url: CB + "006-jaka-cywilizacja.md" },
+    { img: "25maja2006-meteo.jpg", tytul: "25 maja 2006", opis: "Przepowiednia uderzenia meteorytu w Atlantyk. Minęło 20 lat: sprawdź, co z niej zostało.", art: "26 maja 2006", url: CB + "033-26-maja-2006.md" },
+  ];
+
+  const tasma = document.getElementById("tasma");
+  for (const z of window.ZDJECIA) {
+    const a = document.createElement("a");
+    a.className = "slad";
+    a.href = z.url;
+    a.innerHTML = `<div class="foto"><img loading="lazy" alt=""></div><div class="opis"><h3></h3><p></p><span class="zrodlo"></span></div>`;
+    a.querySelector("img").src = "img/" + z.img;
+    a.querySelector("img").alt = z.tytul;
+    a.querySelector("h3").textContent = z.tytul;
+    a.querySelector("p").textContent = z.opis;
+    a.querySelector(".zrodlo").textContent = "Artykuł: " + z.art + " →";
+    tasma.append(a);
+  }
+
+  // pytania, które stawiała strona – pisane na żywo pod tytułem
+  (() => {
+    const PYTANIA = [
+      "Kto naprawdę zbudował piramidy?",
+      "Czy potop był tylko jeden?",
+      "Gdzie leżała Atlantyda?",
+      "Co zniszczyło dawną cywilizację?",
+      "Dlaczego historia ma tyle luk?",
+      "Czy to może się powtórzyć?",
+    ];
+    const el = document.getElementById("pytanie-tekst");
+    if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    let i = 0, n = PYTANIA[0].length, kasuj = false;
+    const krok = () => {
+      const p = PYTANIA[i];
+      if (!kasuj) {
+        n++;
+        el.textContent = p.slice(0, n);
+        if (n >= p.length) { kasuj = true; return setTimeout(krok, 2600); }
+        return setTimeout(krok, 45 + Math.random() * 55);
+      }
+      n--;
+      el.textContent = p.slice(0, n);
+      if (n <= 0) { kasuj = false; i = (i + 1) % PYTANIA.length; return setTimeout(krok, 400); }
+      setTimeout(krok, 22);
+    };
+    setTimeout(() => { kasuj = true; krok(); }, 3200);
+  })();
+</script>
+
+<script type="importmap">
+  { "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+  } }
+</script>
+<script type="module" src="scena.js"></script>
 </body>
 </html>
