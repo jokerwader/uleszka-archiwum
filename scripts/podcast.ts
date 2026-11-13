@@ -117,7 +117,8 @@ if (polecenie === "teksty") {
   let razem = 0;
   const errata = wczytajErrate(".");
   const poprawki: string[] = [];
-  const zapowiedz = `Uwierz we własny rozum. Teksty Leszka Klimka ze strony uleszka.net, z lat dwa tysiące cztery – dwa tysiące siedem. Odcinek ${Number(nr)}: ${tytul}. Czyta lektor, którego głos wygenerowała sztuczna inteligencja.`;
+  const calosc: string[] = [];
+  const zapowiedz = `Uwierz we własny rozum. Teksty Leszka Klimka ze strony uleszka.net, z lat dwa tysiące cztery – dwa tysiące siedem. Odcinek ${Number(nr)}: ${tytul}${/[.?!…]$/.test(tytul) ? "" : "."} Czyta lektor, którego głos wygenerowała sztuczna inteligencja.`;
   const zakonczenie = `To był tekst Leszka Klimka ze strony uleszka.net. Pełny tekst, ze zdjęciami i źródłami, znajdziesz na uleszka.net, w czytelni. Tam możesz też porozmawiać z archiwum strony.`;
   writeFileSync(join(folder, "00-zapowiedz.txt"), zapowiedz + "\n", "utf8");
   spis.push(`| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | ${zapowiedz.length} |`);
@@ -126,7 +127,9 @@ if (polecenie === "teksty") {
     // oczywiste literówki poprawione według erraty (dane/poprawki/errata.json) – lektor czyta poprawną formę
     const { tekst: poprawiony, uzyte } = popraw(tekstDoCzytania(a), a.id, errata);
     for (const [k, ile] of uzyte) poprawki.push(`| ${a.tytul} | ${errata[k].zle} | ${errata[k].dobrze} | ${ile} |`);
-    const czesciArt = czesci(tagi ? zTagami(poprawiony) : poprawiony);
+    const tekstArt = tagi ? zTagami(poprawiony) : poprawiony;
+    calosc.push(tagi && !tekstArt.startsWith("[") ? `[calm, storytelling] ${tekstArt}` : tekstArt);
+    const czesciArt = czesci(tekstArt);
     czesciArt.forEach((c0, i) => {
       // każda część nagrywana jest osobno – zaczyna się od wskazówki tonu, jeśli nie ma własnej
       const c = tagi && !c0.startsWith("[") ? `[calm, storytelling] ${c0}` : c0;
@@ -139,6 +142,9 @@ if (polecenie === "teksty") {
   writeFileSync(join(folder, "99-zakonczenie.txt"), zakonczenie + "\n", "utf8");
   spis.push(`| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | ${zakonczenie.length} |`);
   razem += zakonczenie.length;
+  // cały odcinek w jednym pliku – do ElevenLabs Studio, które samo dzieli długie teksty
+  const pauza = tagi ? "[long pause]\n\n" : "";
+  writeFileSync(join(folder, "calosc-do-studio.txt"), [zapowiedz, ...calosc, zakonczenie].join(`\n\n${pauza}`) + "\n", "utf8");
 
   const linki = artykuly.map((a) => `https://uleszka.net/czytelnia/${slug(a.id)}.html`);
   const streszczenia = artykuly.map((a) => archiwum.opracowania.get(a.id)?.streszczenie ?? "").filter(Boolean);
