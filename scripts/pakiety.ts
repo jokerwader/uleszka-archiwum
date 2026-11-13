@@ -69,3 +69,65 @@ writeFileSync(`${WYJSCIE}/06-opracowania.md`, opr.join("\n"), "utf8");
 console.log(`${WYJSCIE}/06-opracowania.md: ${Math.round(opr.join("\n").length / 1000)} tys. znaków`);
 
 for (const p of pliki) console.log(`${p.plik}: ${p.n} stron, ${Math.round(p.znaki / 1000)} tys. znaków`);
+
+// ---- biblioteka: dawne źródła cytowane przez autora (domena publiczna), pogrupowane tematycznie ----
+// Limit ok. 4,5 mln znaków na plik: ChatGPT przyjmuje do 2 mln tokenów na plik i do 20 plików na GPT.
+const GRUPY: { nazwa: string; opis: string; ids: string[] }[] = [
+  { nazwa: "polskie-przeklady", opis: "dzieła w polskich przekładach", ids: ["platon-timajos", "platon-kritias", "ksiega-rodzaju", "herodot-dzieje", "owidiusz-przemiany", "homer-iliada"] },
+  { nazwa: "bliski-wschod-egipt", opis: "Mezopotamia, Egipt, apokryfy i tradycja żydowska", ids: ["ksiega-henocha", "gilgamesz", "kodeks-hammurabiego", "ksiega-umarlych", "apokryfy-nt", "talmud-midrasz-kabala"] },
+  { nazwa: "ameryki", opis: "Majowie i Ameryka przedkolumbijska", ids: ["popol-vuh", "chilam-balam", "le-plongeon-sacred-mysteries"] },
+  { nazwa: "antyk", opis: "autorzy greccy i rzymscy", ids: ["strabon-geografia-3", "pliniusz-historia-naturalna-6", "apulejusz-zloty-osiol", "argonautyka", "cezar-wojna-galijska", "augustyn-panstwo-boze-2"] },
+  { nazwa: "nowozytne", opis: "Calmet, Nostradamus, Charles Fort", ids: ["calmet-zjawy", "nostradamus-proroctwa", "fort-book-of-the-damned", "fort-new-lands"] },
+  { nazwa: "indie", opis: "Ramajana i Mahabharata", ids: ["ramajana", "mahabharata-1", "mahabharata-2", "mahabharata-3", "mahabharata-4"] },
+];
+const LIMIT = 4_500_000;
+const wGrupach = new Set(GRUPY.flatMap((g) => g.ids));
+const pozostale = archiwum.ksiazki.filter((k) => !wGrupach.has(k.id)).map((k) => k.id);
+if (pozostale.length) GRUPY.push({ nazwa: "inne", opis: "pozostałe dzieła", ids: pozostale });
+
+const naglowekKsiazki = (k: (typeof archiwum.ksiazki)[number]) => {
+  const m = k.meta as Record<string, string | string[] | undefined>;
+  const cyt = (m.cytowane_w as string[] | undefined) ?? [];
+  return [
+    `## KSIĄŻKA: ${k.tytul}`,
+    [`id: ${k.id}`, m.autor && `autor: ${m.autor}`, m.tlumacz && `przekład: ${m.tlumacz}`, m.jezyk && `język: ${m.jezyk}`].filter(Boolean).join(" | "),
+    `źródło: ${m.zrodlo} | licencja: ${m.licencja}`,
+    cyt.length ? `cytowana w artykułach uleszka.net: ${cyt.join(", ")}` : "",
+  ]
+    .filter(Boolean)
+    .join("\n");
+};
+
+let nr = 7;
+for (const g of GRUPY) {
+  const ksiazki = g.ids.map((id) => archiwum.ksiazki.find((k) => k.id === id)).filter((k) => k !== undefined);
+  // dzielimy na pliki po kolei, nie przekraczając limitu (bardzo długie tomy idą do osobnych plików)
+  const paczki: (typeof ksiazki)[] = [];
+  let biezaca: typeof ksiazki = [];
+  let rozmiar = 0;
+  for (const k of ksiazki) {
+    if (biezaca.length && rozmiar + k.tresc.length > LIMIT) {
+      paczki.push(biezaca);
+      biezaca = [];
+      rozmiar = 0;
+    }
+    biezaca.push(k);
+    rozmiar += k.tresc.length;
+  }
+  if (biezaca.length) paczki.push(biezaca);
+
+  paczki.forEach((p, i) => {
+    const plik = `${WYJSCIE}/${String(nr++).padStart(2, "0")}-biblioteka-${g.nazwa}${paczki.length > 1 ? `-${i + 1}` : ""}.md`;
+    const tekst = [
+      `# Biblioteka archiwum uleszka.net – ${g.opis}${paczki.length > 1 ? ` (część ${i + 1} z ${paczki.length})` : ""}`,
+      "",
+      "Pełne teksty dawnych dzieł, na które powołuje się autor uleszka.net. Wszystkie są w domenie publicznej; tekst jest taki, jak w podanym źródle.",
+      "To NIE są teksty autora strony – służą do sprawdzania, co naprawdę mówi źródło. Każda książka zaczyna się od nagłówka „## KSIĄŻKA:”.",
+      "",
+      p.map((k) => `${naglowekKsiazki(k)}\n\n${k.tresc.trim()}`).join("\n\n---\n\n"),
+      "",
+    ].join("\n");
+    writeFileSync(plik, tekst, "utf8");
+    console.log(`${plik}: ${p.length} ksiąg, ${Math.round(tekst.length / 1000)} tys. znaków`);
+  });
+}

@@ -542,10 +542,42 @@ if (!port) {
 Adres dla asystenta AI: <ten adres>/mcp
 Kod i instrukcja: https://github.com/jokerwader/uleszka-archiwum
 `;
+  // prosty limit zapytań z jednego adresu IP – chroni publiczny serwer przed zalewem zapytań (i kosztami)
+  const LIMIT_NA_MINUTE = Number(process.env.ULESZKA_LIMIT_NA_MINUTE ?? 120);
+  const licznik = new Map<string, { okno: number; n: number }>();
+  setInterval(() => {
+    const teraz = Math.floor(Date.now() / 60000);
+    for (const [ip, w] of licznik) if (w.okno < teraz) licznik.delete(ip);
+  }, 60000).unref();
+  const zaDuzo = (ip: string) => {
+    const okno = Math.floor(Date.now() / 60000);
+    const w = licznik.get(ip);
+    if (!w || w.okno !== okno) {
+      licznik.set(ip, { okno, n: 1 });
+      return false;
+    }
+    return ++w.n > LIMIT_NA_MINUTE;
+  };
+
   createServer(async (req, res) => {
     const sciezka = new URL(req.url ?? "/", "http://localhost").pathname;
+    // CORS – żeby z serwera mogły korzystać także klienty działające w przeglądarce (np. MCP Inspector)
+    res.setHeader("Access-Control-Allow-Origin", "*");
+    res.setHeader("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
+    res.setHeader("Access-Control-Allow-Headers", "Content-Type, Accept, Authorization, Mcp-Session-Id, Mcp-Protocol-Version, Last-Event-ID");
+    res.setHeader("Access-Control-Expose-Headers", "Mcp-Session-Id, Mcp-Protocol-Version");
+    if (req.method === "OPTIONS") {
+      res.writeHead(204).end();
+      return;
+    }
+    const ip = String(req.headers["x-forwarded-for"] ?? "").split(",")[0].trim() || req.socket.remoteAddress || "?";
     try {
       if (sciezka === "/mcp") {
+        if (zaDuzo(ip)) {
+          res.writeHead(429, { "Content-Type": "application/json", "Retry-After": "60" });
+          res.end(JSON.stringify({ jsonrpc: "2.0", error: { code: -32000, message: "Za dużo zapytań – spróbuj za minutę" }, id: null }));
+          return;
+        }
         if (req.method !== "POST") {
           res.writeHead(405, { Allow: "POST", "Content-Type": "application/json" });
           res.end(JSON.stringify({ jsonrpc: "2.0", error: { code: -32000, message: "Method not allowed" }, id: null }));

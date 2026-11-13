@@ -39,16 +39,18 @@ export type Opracowanie = {
 export type OpisObrazu = { sciezka: string; typ: string; opis: string; tekst_na_obrazie: string };
 
 /** Zamienia litery na małe i bez polskich znaków, zachowując długość tekstu (1 znak -> 1 znak). */
+const ZLOZONE_ZNAKI = new Map<string, string>();
 export function zloz(s: string): string {
-  let out = "";
-  for (const ch of s.toLowerCase()) {
-    if (ch === "ł") out += "l";
-    else {
+  // zamiana tylko znaków spoza ASCII, jednym przebiegiem – oszczędza pamięć przy długich książkach
+  return s.toLowerCase().replace(/[^\x00-\x7f]/gu, (ch) => {
+    let r = ZLOZONE_ZNAKI.get(ch);
+    if (r === undefined) {
       const base = ch.normalize("NFD")[0];
-      out += base.length === ch.length ? base : ch;
+      r = ch === "ł" ? "l" : base.length === ch.length ? base : ch;
+      ZLOZONE_ZNAKI.set(ch, r);
     }
-  }
-  return out;
+    return r;
+  });
 }
 
 function frontMatter(md: string): { meta: Record<string, unknown>; body: string } {
@@ -196,7 +198,8 @@ export class Archiwum {
       searchOptions: { boost: { tytul: 3, autor: 2 }, prefix: true, fuzzy: 0.1 },
     });
     this.indeksBiblioteki.addAll(this.ksiazki.map((k) => ({ id: k.id, tytul: k.tytul, autor: k.autor, czysty: k.czysty })));
-    for (const d of [...this.artykuly, ...this.ksiazki]) this.zlozone.set(d.id, ` ${zloz(d.czysty).replace(/[^\p{L}\p{N}]+/gu, " ")} `);
+    // zamiana przez funkcję (a nie tekst " ") – V8 buduje wtedy zwarty napis; przy książkach to ok. 0,5 GB pamięci mniej
+    for (const d of [...this.artykuly, ...this.ksiazki]) this.zlozone.set(d.id, ` ${zloz(d.czysty).replace(/[^\p{L}\p{N}]+/gu, () => " ")} `);
   }
 
   /** Tekst opracowania (streszczenie, tezy, tematy…) jako jeden ciąg – do wyszukiwania. */
