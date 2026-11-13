@@ -29,13 +29,14 @@ const poId = new Map(archiwum.artykuly.map((a) => [a.id, a]));
 const rawUrl = (sciezka: string) => RAW + sciezka.split("/").map(encodeURIComponent).join("/");
 
 // odcinki podcastu (podcast/odcinki.json): przy artykule pojawia się odtwarzacz Spotify, wczytywany dopiero po kliknięciu
+const PODCAST_SPOTIFY = "https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu";
 type Odcinek = { nr: number; tytul: string; spotify: string; artykuly: string[] };
 const odcinki: Odcinek[] = existsSync("podcast/odcinki.json") ? JSON.parse(readFileSync("podcast/odcinki.json", "utf8")) : [];
 const odcinekArt = new Map(odcinki.flatMap((o) => o.artykuly.map((id) => [id, o] as const)));
 const spotifyHtml = (o: Odcinek) => `  <div class="spotify" data-odcinek="${esc(o.spotify)}" data-tytul="${esc(o.tytul)}">
     <img src="../img/podcast.jpg" alt="" width="64" height="64">
     <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · odcinek ${o.nr}</span><b>Posłuchaj tego artykułu</b><small>Czyta lektor AI, tekst bez zmian.</small></div>
-    <div class="spotify-przyciski"><button class="spotify-graj" type="button">▶ Odtwórz tutaj</button><a href="https://open.spotify.com/episode/${esc(o.spotify)}" target="_blank" rel="noopener">Otwórz w Spotify ↗</a></div>
+    <div class="spotify-przyciski"><button class="spotify-graj" type="button">▶ Odtwórz tutaj</button><a href="https://open.spotify.com/episode/${esc(o.spotify)}" target="_blank" rel="noopener">Otwórz w Spotify ↗</a><a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Cały podcast ↗</a></div>
   </div>
 `;
 
