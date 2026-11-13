@@ -217,12 +217,23 @@ function konwertuj(w: Wpis): { md: string; obrazy: { src: string; alt: string }[
       $el.replaceWith($el.contents());
       return;
     }
-    const r = rozwiaz(w.p, href);
+    // autor często linkował do własnych tekstów pełnym adresem (http://www.uleszka.net/webacja/…) – traktujemy go
+    // jak odnośnik wewnętrzny; dziś domena znów należy do archiwum, więc stare adresy prowadziłyby donikąd
+    const wlasny = href.trim().match(/^https?:\/\/(?:www\.)?uleszka\.net\/?(.*)$/i);
+    if (wlasny && /(^|\/)www\.[^/]+/i.test(wlasny[1])) {
+      // błąd w oryginale: adres zewnętrzny wpisany jako ścieżka strony (…/webacja/medalt/www.iamthewitness.com)
+      $el.attr("href", "http://" + wlasny[1].slice(wlasny[1].search(/www\./i)));
+      return;
+    }
+    const r = wlasny ? posix.normalize(decodeURI(wlasny[1].split("#")[0].split("?")[0]) || "index.html") : rozwiaz(w.p, href);
     if (r && plikMd.has(r)) $el.attr("href", wzgledna(cel, plikMd.get(r)!));
     else if (r && r in RAMKI) $el.attr("href", wzgledna(cel, "KATALOG.md") + RAMKI[r]);
     // program kopiujący stronę (HTTrack) zapisał część adresów zewnętrznych jako ścieżki lokalne – przywracamy je
-    else if (r?.startsWith("..")) $el.attr("href", "http://" + r.replace(/^(\.\.\/)+/, ""));    else if (r && existsSync(join(ZRODLO, r))) $el.attr("href", wzgledna(cel, `${ZRODLO}/${r}`));
-    else if (r) $el.attr("href", ADRES + r);
+    else if (r?.startsWith("..")) $el.attr("href", "http://" + r.replace(/^(\.\.\/)+/, ""));
+    else if (r && existsSync(join(ZRODLO, r))) $el.attr("href", wzgledna(cel, `${ZRODLO}/${r}`));
+    // strony, których nie ma w kopii – kopia z 2007 r. w Internet Archive (Wayback Machine)
+    else if (r) $el.attr("href", `https://web.archive.org/web/2007/${ADRES}${r}`);
+    else if (wlasny) $el.attr("href", `https://web.archive.org/web/2007/${href.trim()}`);
   });
   $("a:not([href])").each((_, el) => {
     $(el).replaceWith($(el).contents());

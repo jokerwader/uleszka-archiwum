@@ -18,18 +18,15 @@
   bloki.forEach((el, nr) => {
     el.dataset.seg = nr;
     const tekst = el.textContent.replace(/\s+/g, " ").trim(); // textContent: inicjał „P” + „ora” = „Pora”
-    // każde zdanie to osobna wypowiedź – syntezator robi wtedy wyraźną pauzę po kropce, pytajniku i wykrzykniku;
-    // długie zdania dzielimy jeszcze na przecinkach, średnikach, dwukropkach i myślnikach (pauza także tam)
+    // tekst trafia do syntezatora bez ingerencji – całymi zdaniami, kilka naraz (do ok. 220 znaków);
+    // dzielimy tylko na granicach zdań, bo Chrome urywa bardzo długie wypowiedzi
     const zdania = tekst.match(/[^.!?…]+[.!?…]+["”»)]*\s*|[^.!?…]+$/g) ?? [tekst];
+    let kawalek = "";
     for (const z of zdania) {
-      if (z.trim().length <= 150) { if (z.trim()) fragmenty.push({ el, tekst: z.trim() }); continue; }
-      let kawalek = "";
-      for (const c of z.split(/(?<=[,;:]|\s[–—-]\s)/)) {
-        if ((kawalek + c).length > 150 && kawalek.trim().length >= 40) { fragmenty.push({ el, tekst: kawalek.trim() }); kawalek = ""; }
-        kawalek += c;
-      }
-      if (kawalek.trim()) fragmenty.push({ el, tekst: kawalek.trim() });
+      if ((kawalek + z).length > 220 && kawalek) { fragmenty.push({ el, tekst: kawalek.trim() }); kawalek = ""; }
+      kawalek += z;
     }
+    if (kawalek.trim()) fragmenty.push({ el, tekst: kawalek.trim() });
   });
   if (!fragmenty.length) { panel.hidden = true; return; }
 

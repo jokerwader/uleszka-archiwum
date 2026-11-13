@@ -43,6 +43,8 @@ function trescHtml(a: Dokument): { html: string; rozdzialy: { id: string; tytul:
     return cel ? `href="${plikArt(cel)}"` : `href="./"`;
   });
   html = html.replace(/href="((?:zrodlo|artykuly)\/[^"]+)"/g, (_m, p: string) => `href="${REPO}/blob/main/${p.split("/").map(encodeURIComponent).join("/")}"`);
+  // odnośniki do spisu działów (KATALOG.md#dział) – w czytelni prowadzą do działu w spisie artykułów
+  html = html.replace(/href="(?:\.\.\/)*KATALOG\.md(?:#([^"]*))?"/g, (_m, kotwica?: string) => `href="./${kotwica ? "#" + slug(decodeURIComponent(kotwica)) : ""}"`);
   html = html.replace(/<a href="(https?:\/\/[^"]+)"/g, '<a href="$1" rel="noopener" target="_blank"');
   // tabele w przewijanym pudełku (szerokie tabele nie rozpychają strony na telefonie)
   html = html.replace(/<table>/g, '<div class="tabela"><table>').replace(/<\/table>/g, "</table></div>");
@@ -196,7 +198,7 @@ ${
     <p>Kliknij, żeby skopiować prośbę, i wklej ją w rozmowie z asystentem, który ma podłączone archiwum. <a href="../#jak-zaczac">Jak podłączyć →</a></p>
     <button class="pytanie" data-kopiuj="${esc(prosba)}">${esc(prosba)}<span class="kop">kopiuj</span></button>
   </div>
-  <p class="zrodla-art">Oryginał: <a href="${esc(a.adresOryginalny)}" rel="noopener" target="_blank">${esc(a.adresOryginalny)}</a> (strona już nie istnieje) · <a href="${REPO}/blob/main/${a.plik.split("/").map(encodeURIComponent).join("/")}">tekst w repozytorium</a></p>
+  <p class="zrodla-art">Pierwotny adres: <span class="stary-adres">${esc(a.adresOryginalny)}</span> · <a href="https://web.archive.org/web/2007/${esc(a.adresOryginalny)}" rel="noopener" target="_blank">kopia z 2007 r. w Internet Archive</a> · <a href="${REPO}/blob/main/${a.plik.split("/").map(encodeURIComponent).join("/")}">tekst w repozytorium</a> · <a href="${REPO}/blob/main/${(a.meta.plik_zrodlowy as string).split("/").map(encodeURIComponent).join("/")}">oryginalny plik HTML</a></p>
   <nav class="poprz-nast">
     ${poprz ? `<a class="poprz" href="${plikArt(poprz)}"><span>← poprzedni</span>${esc(poprz.tytul)}</a>` : "<span></span>"}
     ${nast ? `<a class="nast" href="${plikArt(nast)}"><span>następny →</span>${esc(nast.tytul)}</a>` : "<span></span>"}
