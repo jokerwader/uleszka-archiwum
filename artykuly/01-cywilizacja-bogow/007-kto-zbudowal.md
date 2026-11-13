@@ -39,30 +39,24 @@ Obejrzyjmy dzieła kamienne dokonane czyjąś ręką, mniej efektowne pod wzglę
 
 Najwięcej z nich znaleziono we Francji, Hiszpanii i Wielkiej Brytanii. Znajdują się jednak na całym świecie, choć nie wszędzie są szukane. Kraje takie jak były ZSRR czy Chiny uważają je chyba za tajemnicę państwową. W innych krajach z powodu biedy lub lekceważącego do nich stosunku poszukiwań się nie prowadzi. Nie sposób pokazać wszystkich. Wybrałem kilka najbardziej okazałych by mieć ogólne pojęcie o ich wielkości, a co za tym idzie trudnościach w ich zbudowaniu.
 
-![](../../zrodlo/webacja/06budowle/menga1.jpg)
-
-![](../../zrodlo/webacja/06budowle/viera.jpg)
-
-![](../../zrodlo/webacja/06budowle/gallardet1.jpg)
-
+![](../../zrodlo/webacja/06budowle/menga1.jpg)  
 Menga
 
+![](../../zrodlo/webacja/06budowle/viera.jpg)  
 Viera
 
+![](../../zrodlo/webacja/06budowle/gallardet1.jpg)  
 Gallardet
 
 To nie są schrony z okresu II wojny światowej ani też przeniesione na grunt europejski amerykańskie schrony przeciwatomowe. To co widać wzniósł europejski przedstawiciel "homo darvinicus" z okresu kamienia.
 
-![](../../zrodlo/webacja/06budowle/menga2.jpg)
-
-![](../../zrodlo/webacja/06budowle/neksis3.jpg)
-
-![](../../zrodlo/webacja/06budowle/gallardet3.jpg)
-
+![](../../zrodlo/webacja/06budowle/menga2.jpg)  
 Menga
 
+![](../../zrodlo/webacja/06budowle/neksis3.jpg)  
 Neksis
 
+![](../../zrodlo/webacja/06budowle/gallardet3.jpg)  
 Gallardet
 
 W budowie wnętrz widać "ludzką"(?) rękę, popartą zapewne obliczeniami wytrzymałościowymi. Zwrócić należy uwagę na wygląd narożników. Nasza cywilizacja tak nie buduje, choć można już wytwarzać tak specjalnie wykuwane narożniki. Żmudne i nieopłacalne. Dlaczego "oni" wybrali taki rodzaj narożników? Po co nieboszczykowi tak przemyślane i tak wytrzymałe rozwiązania?
@@ -81,16 +75,13 @@ Czy w Japonii działało to samo "megalityczne plemię"? Jak potężne są bloki
 
 Zestaw poniżej (z miejsc znanych i nieznanych) powinien skłonić do zadumy. To nie są byle jak ustawiane i przypadkowo zebrane bloki kamienne. Na niektórych widać jeszcze ślady obróbki, a niektóre są tak uszkodzone przez czas, że już tej obróbki nie widać. Przy odrobinie wyobraźni można ujrzeć, że początkowo te płyty miały wygląd doskonałych prostopadłościanów i były do siebie doskonale dopasowane. Zwrócić należy uwagę na doskonale wycięte koliste otwory oraz na wycięcia i nadcięcia (Neksis).
 
-![](../../zrodlo/webacja/06budowle/neksis1.jpg)
-
-![](../../zrodlo/webacja/06budowle/d9walba.jpg)
-
-![](../../zrodlo/webacja/06budowle/d3djubga.jpg)
-
+![](../../zrodlo/webacja/06budowle/neksis1.jpg)  
 Neksis
 
+![](../../zrodlo/webacja/06budowle/d9walba.jpg)  
 Walba
 
+![](../../zrodlo/webacja/06budowle/d3djubga.jpg)  
 Djubga
 
 ![](../../zrodlo/webacja/06budowle/d7francja.jpg)
@@ -133,12 +124,10 @@ To co pokazałem wyżej to budowle wykonane przez człowieka bardzo pierwotnego 
 
 Na początek dwie "świątynie" starożytnego Egiptu wykonane z wielkich, kamiennych i oszlifowanych perfekcyjnie bloków w formie doskonałych prostopadłościanów. Kąty proste świadczą o używaniu jakiegoś starożytnego kątownika, którego nie znaleziono być może dlatego, że był drewniany i nie zachował się do naszych czasów. Sprawa uniesienia kilkudziesięciotonowych bloków na wysokość paru metrów też według archeologów nie sprawiała żadnych trudności. Ludzi do pracy było mnóstwo, lin i drewna też. Dodać należy kilka starożytnych wielokrążków i gotowe. I jeszcze jedno ważne spostrzeżenie - w Egipcie występował jeszcze "koordynator jednolitości wysiłku" przedstawiany na starożytnych rysunkach jako człowiek z batem.
 
-![](../../zrodlo/webacja/06budowle/ozyrejon4.jpg)
-
-![](../../zrodlo/webacja/06budowle/chefren1.jpg)
-
+![](../../zrodlo/webacja/06budowle/ozyrejon4.jpg)  
 Ozyrejon w Abydos
 
+![](../../zrodlo/webacja/06budowle/chefren1.jpg)  
 Świątynia Chefrena w Giza
 
 Takie jak tu bloki, ale w większej skali oglądać możemy w Baalbeck i też w Egipcie (zdjęcia poniżej), gdzie w assuańskim kamieniołomie odkryto największy blok, jeszcze nie oddzielony od skały macierzystej. Miał to być (tak głosi nauka) obelisk dla królowej Hatszepsut, jednak zrezygnowano z jego oddzielenia od podłoża z powodu pęknięcia. Skąd wiadomo, że dla Hatszepsut skoro brak jakiegokolwiek napisu? Czy tylko dlatego, że wiek obelisku określono na czas jej panowania?
@@ -307,42 +296,33 @@ Jak już zdążyliśmy zauważyć, używanie do budowy olbrzymich kamiennych blo
 
 Na terenie Iranu stoi budowla z dużych, kamiennych bloków oczywiście ochrzczona przez naukę grobowcem. Czy takie było pierwotne przeznaczenie? Nie wiadomo. Obok piramida w greckiej Argolidzie, której wiek określa się na dużo starszy od wielkiej piramidy. Zahi Hawass z powodów czysto komercyjnych ma inne zdanie i oczywiście protestuje. Dlaczego jednak rząd Grecji zabronił przeprowadzenia tu dokładnych badań? Na trzecim zdjęciu przejście w murze zamku "Biała czapla" w Japonii. Zamek określany jako współczesny, ale skąd pewność co do fundamentów i murów?
 
-![](../../zrodlo/webacja/06budowle/2abydos.jpg)
-
-![](../../zrodlo/webacja/06budowle/2indie.jpg)
-
-![](../../zrodlo/webacja/06budowle/2machu1.jpg)
-
-![](../../zrodlo/webacja/06budowle/2petra.jpg)
-
-![](../../zrodlo/webacja/06budowle/2qenko.jpg)
-
+![](../../zrodlo/webacja/06budowle/2abydos.jpg)  
 Abydos
 
+![](../../zrodlo/webacja/06budowle/2indie.jpg)  
 Indie
 
+![](../../zrodlo/webacja/06budowle/2machu1.jpg)  
 Peru
 
+![](../../zrodlo/webacja/06budowle/2petra.jpg)  
 Petra
 
+![](../../zrodlo/webacja/06budowle/2qenko.jpg)  
 Qenko
 
 Jaka to cywilizacja na całym świecie używała technologii pozwalającej ciąć kamień? Oczywiście, obowiązująca teoria mówi tylko o mozolnym skuwaniu skały przez ludzi z epoki kamiennej, bo żadnemu badaczowi nie przyszło na myśl, by przyjrzeć się z bliska takim schodom i to w miejscach, gdzie najrzadziej stawia się stopy. Nikt nie zastanowił się, dlaczego w tych miejscach powierzchnie też są gładkie. Tu nie pomogą bajania o czasie i o wygładzaniu przez tysiące bosych, pielgrzymich stóp.
 
-![](../../zrodlo/webacja/06budowle/1mykeny.jpg)
-
-![](../../zrodlo/webacja/06budowle/1karystos.jpg)
-
-![](../../zrodlo/webacja/06budowle/1liban.jpg)
-
-![](../../zrodlo/webacja/06budowle/1sacsay.jpg)
-
+![](../../zrodlo/webacja/06budowle/1mykeny.jpg)  
 Mykeny
 
+![](../../zrodlo/webacja/06budowle/1karystos.jpg)  
 Karystos
 
+![](../../zrodlo/webacja/06budowle/1liban.jpg)  
 Liban
 
+![](../../zrodlo/webacja/06budowle/1sacsay.jpg)  
 Sacsayhuaman
 
 Czy takie bramy wznoszono tylko przy pomocy drewnianych drągów, ziemnych nasypów, lin wykonywanych z dostępnych roślin i ludzkiej siły fizycznej? Jak przesuwano później te kamienne bloki na swoje miejsce? Dlaczego, w celu udowodnienia tej teorii nie zebrała się grupa tych naukowych geniuszy, by zbudować choć podobną bramę? Powód jest tylko jeden - łatwiej powiedzieć niż wykonać.
@@ -363,32 +343,26 @@ Qenko - Peru
 
 U góry rzeźba w jednym bloku kamienia, znajdująca się w pobliżu Cusco. O wielkości kamienia świadczy widoczna głowa turysty. Co ma przedstawiać? Trudno określić. Wygląda na model jakiegoś miejsca, którego nie potrafię skojarzyć. Delikatne, wężowate rowki i kaskady mogą sugerować, że płynęła w nich woda, która z kolei miała odpływy na krawędziach. Dziwne aż, że do tej pory żaden uczony nie rozpoznał w tym wszechobecnego "Boga nieskażonej wody użyźniającej nawet kamień". Zarysy schodów, budynków, fundamentów, a nawet zwierząt. Wszystko to na podstawie w formie półkuli. Interpretacja zależy od fantazji patrzącego.
 
-![](../../zrodlo/webacja/06budowle/tort2a.jpg)
-
-![](../../zrodlo/webacja/06budowle/tort2b.jpg)
-
+![](../../zrodlo/webacja/06budowle/tort2a.jpg)  
 Ellora - India
 
+![](../../zrodlo/webacja/06budowle/tort2b.jpg)  
 ? - India
 
 Cztery następne fotografie przenoszą nas na subkontynent indyjski. Nie sposób nie zauważyć też, że dzieła te powstały w jednym bloku kamienia. Jak nauka tłumaczy ich powstanie? Dziesiątki pokoleń rzeźbiarzy mozolnie kuło skałę i nadawało jej kształty. Następne kilka tysięcy lat pracowite dłonie wiernych tak długo ją głaskały, aż uzyskano piękną, gładką i wypolerowaną powierzchnię. Nie ważne skąd doskonała precyzja, zachowane proporcje. Ważne, że jest wytłumaczenie.
 
-![](../../zrodlo/webacja/06budowle/tort3a.jpg)
-
-![](../../zrodlo/webacja/06budowle/tort3b.jpg)
-
+![](../../zrodlo/webacja/06budowle/tort3a.jpg)  
 Mahabalipuram - India
 
+![](../../zrodlo/webacja/06budowle/tort3b.jpg)  
 Kailasa - India
 
 Petrę oficjalnie zbudowali Nabatejczycy w I w. pne, a przejęli i rozbudowali Rzymianie, by mieć kontrolę nad handlem z Azją. Oczywiste, że człowiek o zdrowych oczach nie doszuka się tutaj ręki arabskiego kamieniarza z pustynnego plemienia i wniosek może być tylko jeden. To nie Nabatejczycy wykonali te piękne budowle, te budowle już stały i to od dawna, gdy Nabatejczycy zaczęli okupować te ziemie. Rzymianie także nie przyłożyli tu ręki, bo prawdopodobnie nie mieli zielonego pojęcia, że istnieje Petra. To historia, by nie przekroczyć przyjętych ramach czasowych musiała zrobić z nich budowniczych. W Petrze nie znaleziono ani grama pozostałości "made in Roma" po rzymskim żołnierzu.
 
-![](../../zrodlo/webacja/06budowle/tort4a.jpg)
-
-![](../../zrodlo/webacja/06budowle/tort4b.jpg)
-
+![](../../zrodlo/webacja/06budowle/tort4a.jpg)  
 Iran
 
+![](../../zrodlo/webacja/06budowle/tort4b.jpg)  
 Petra - Jordania
 
 Grobowce w Iranie wykonano jakby według jednego projektu. Są ogromne. Człowiek jest niewiele większy od kamienia leżącego przed nimi. Czy i to wykonał starożytny Pers? Jakimi narzędziami i w jakim czasie? Czas budowy takiego "grobowca" był przecież ograniczony wiekiem życia monarchy. Jak więc określano termin zakończenia budowy?
@@ -403,26 +377,21 @@ Abu Simbel - Egipt
 
 To co widać z wierzchu, nie oddaje tego co jest w środku. W litej skale wycięte są olbrzymie pomieszczenia zdobione posągami faraonów, pełne kolumn i płaskorzeźb niebywałej precyzji wykonania. Trzeba przyznać, że jak na ludzi z epoki kamienia posiadali olbrzymią wiedzę o technice jego obróbki.
 
-![](../../zrodlo/webacja/06budowle/tort6a.jpg)
-
-![](../../zrodlo/webacja/06budowle/tort6b.jpg)
-
+![](../../zrodlo/webacja/06budowle/tort6a.jpg)  
 Villahermosa - Jukatan
 
+![](../../zrodlo/webacja/06budowle/tort6b.jpg)  
 Copan - Jukatan
 
 U góry "torty" pochodzące z Ameryki Środkowej, z półwyspu Jukatan. Pierwszy z lewej ochrzczono ołtarzem ofiar dziecięcych. Jak oni wdrapywali się na ten "ołtarz", żeby spowodować rytualne zejście dziecięcia nauka nie podaje. Odnoszę wrażenie, że starożytni uwielbiali wprost komplikować sobie życie. Tego pana wychylającego się z głębi w amerykańscy uczeni ochrzcili Bogiem pszczół. Drugi kamień, to oczywiście też "ołtarz ofiarny". Kłopoty kapłanów podobne jak w przypadku pierwszego.
 
-![](../../zrodlo/webacja/06budowle/aramu.jpg)
-
-![](../../zrodlo/webacja/06budowle/yazilikaya.jpg)
-
-![](../../zrodlo/webacja/06budowle/jordania.jpg)
-
+![](../../zrodlo/webacja/06budowle/aramu.jpg)  
 Aramu Muru, Ameryka Południowa
 
+![](../../zrodlo/webacja/06budowle/yazilikaya.jpg)  
 Yazilikaya
 
+![](../../zrodlo/webacja/06budowle/jordania.jpg)  
 Jordania
 
 Czy tak mogły wyglądać "wprawki" kamieniarskich czeladników tamtych czasów? Jak duże obszary skały należało wyciąć z zegarmistrzowską precyzją można sobie uprzytomnić porównując otwory wejściowe, które są mniej więcej wysokości człowieka. Gładkości ścian nie uzyskano z pewnością skuwając mozolnie centymetr po centymetrze i wygładzając potem starożytnym papierem ściernym. Nie otrzymano by idealnej, płaskiej powierzchni. Do czego miały służyć gigantyczne pochyłe linie wycięte w litej skale w Aramu Muru i dlaczego "drzwi" są ślepe?

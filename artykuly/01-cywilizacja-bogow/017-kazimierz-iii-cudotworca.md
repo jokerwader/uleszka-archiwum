@@ -293,24 +293,19 @@ Proszę przypatrzeć się zdjęciom i spróbować odpowiedzieć sobie samemu na 
 
 Czy ktoś podróżując polskimi kolejami zwracał uwagę na tzw. wieże ciśnień? Chyba bardzo rzadko, a jeśli już, to traktował je z pewnościa jako "przymusowy" element krajobrazu kolejowego. Wiek pary i rozwój kolejnictwa przypadł na dziewiętnaste stulecie znacząc swój rozwój kilometrami torów i obowiązkowymi zbiornikami na wodę dla parowozów. Jak to się jednak stało, że niektóre wieże ciśnień przypominają klejnoty architektury średniowiecznej (w odróżnieniu od niektórych obskurnych dworców)? Dlaczego tak wiele wysiłku wkładano w budowę czegoś, co miało służyć nie podróżnym, a zwyczajnej lokomotywie? Po co zwykłemu zbiornikowi na wodę romańskie okienka czy wykusze na wieżach? Oczywiście większość projektantów jest znana, ale można zapytać co właściwie zaprojektowali - budynek czy tylko zbiornik i instalację wodociągową?
 
-![](../../zrodlo/webacja/warownie/kw/wc.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/wcbiala.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/wckowalewo.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/wczawiercie.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/wctrawniki.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/wc.jpg)  
 Wrocław
 
+![](../../zrodlo/webacja/warownie/kw/wcbiala.jpg)  
 Biała
 
+![](../../zrodlo/webacja/warownie/kw/wckowalewo.jpg)  
 Kowalewo
 
+![](../../zrodlo/webacja/warownie/kw/wczawiercie.jpg)  
 Zawiercie
 
+![](../../zrodlo/webacja/warownie/kw/wctrawniki.jpg)  
 Trawniki
 
 Dlaczego dla tak prozaicznej czynności jaką jest wlanie wody do parowozu budowano "cacuszka" w rodzaju zameczków czy średniowiecznych wież zamkowych? Dlaczego wkładano tyle pracy i twórczej inwencji w budowę elementu systemu, który zwykle znajduje się poza stacją kolejową, gdzie nikt go nie ogląda? Jakoś nie mogę tego zrozumieć. Kolejarzom potrzebny był tylko zbiornik na wodę położony wysoko i takie, ekonomiczne możemy jeszcze dziś oglądać na prerii za oceanem. Proszę obejrzeć kilka wybranych wież. Czy nie przypominają średniowiecznych budowli? Dlaczego w Trawnikach wybudowano ozdobny kamienny portal dla wejścia, które zabetonowano? Jest jeszcze inny aspekt tej sprawy. Wieże ciśnień nie są pod ochroną prawną. Można je sprzedawać, kupować, zamieniać na urokliwe knajpy a nawet zniszczyć (bo to własność PKP) i pies z kulawą nogą o nie się nie upomni.
@@ -337,20 +332,16 @@ Ostrów Lednicki
 
 Kto zatem stworzył tą technologię i kto ją rozpowszechnił po całym bez mała globie? Jak to się stało, że w użyciu była przez tak długi czas - od megalitycznych "grobów" po średniowiecze? Kiedy wreszcie jej używano? Przecież "rzymski cement" zszedł do grobu razem z Imperium, a nową, współczesną zaprawę zaczęto stosować dopiero po wynalezieniu cementu portlandzkiego w XIX wieku. Można mi zarzucić niczym nie uzasadnioną manipulację. Owszem można, ale dopiero wtedy gdy zbada się skład chemiczny zaprawy z tych wszystkich miejsc, ale tego na dziś nie można stwierdzić, bo nikt nie wpadł na tak prosty pomysł. Czy takie badanie jest zbyt drogie czy zbyt niebezpieczne... dla naszej historii?
 
-![](../../zrodlo/webacja/warownie/kw/kb_bolczow.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kb_nidzica.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kb_sulejow.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kb_krzyztopor.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/kb_bolczow.jpg)  
 Bolczów
 
+![](../../zrodlo/webacja/warownie/kw/kb_nidzica.jpg)  
 Nidzica
 
+![](../../zrodlo/webacja/warownie/kw/kb_sulejow.jpg)  
 Sulejów
 
+![](../../zrodlo/webacja/warownie/kw/kb_krzyztopor.jpg)  
 Ujazd
 
 Co może wyróżniać te piękne kamienne łuki? Na pierwszy rzut oka wydają się takie same, zbudowane podobną techniką i w tym samym stylu, ale według historyków zbudowano je w różnym czasie. Bolczów - w końcu XIV wieku, Nidzica - w drugiej połowie XIII wieku, Sulejów, początkowo klasztor cystersów - w pierwszej połowie XIII wieku, Ujazd, zamek Krzyżtopór - dopiero w XVII wieku. 400 lat niezmienionej techniki budowlanej i to w Polsce? Jeśli dołożyć do tego rotundę z Wawelu czy Cieszyna (obie z około X/XI wieku), to niezmienność stosowanej techniki wydłuża się do około 700 lat. Czyż to nie wspaniałe osiągnięcie polskiej sztuki budowlanej? Dziwi tylko dlaczego tak trwały i wspaniały sposób budowy zarzucono na rzecz betonu i wielkiej płyty.
@@ -370,20 +361,16 @@ Wprowadzenie stylów budowy do dzielenia historii na mniejsze jednostki czasu wp
 
 Stawia to na głowie pojęcie postępu technicznego, bo z tego co widzimy im głębiej w historię tym większe techniczne możliwości budowniczych. Podobnie za błędny uważam podział stylów kapiteli kolumn. Greckie style - dorycki, joński czy koryncki są spotykane niemal na całym świecie i w budowlach z różnych okresów czasu.
 
-![](../../zrodlo/webacja/warownie/kw/kol_evora.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kol_chiny.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kol_notredame.jpg)
-
-![](../../zrodlo/webacja/warownie/kw/kol_zeus.jpg)
-
+![](../../zrodlo/webacja/warownie/kw/kol_evora.jpg)  
 Hiszpania
 
+![](../../zrodlo/webacja/warownie/kw/kol_chiny.jpg)  
 Chiny
 
+![](../../zrodlo/webacja/warownie/kw/kol_notredame.jpg)  
 Francja
 
+![](../../zrodlo/webacja/warownie/kw/kol_zeus.jpg)  
 Rzym
 
 Skąd zatem koryncki kapitel w świątyni w Evorze? Kto wykonał tem koryncko-joński kapitel w starożytnych Chinach? Jakim cudem znalażł się koryncki kapitel w średniowiecznej Notre Dame w Paryżu? Kiedy Grecy budowali w Rzymie? Z tym jak sądzę ani Grecy ani tym bardzie Rzymianie nie mają nic wspólnego.

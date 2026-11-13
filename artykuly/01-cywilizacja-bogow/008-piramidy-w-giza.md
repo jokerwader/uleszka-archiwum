@@ -141,16 +141,13 @@ Dowodzi to jednego. Żaden egiptolog nie wie do czego służyły naprawdę. Wmaw
 
 Doszukiwanie się liczb "zaklętych" w wymiarach piramid czy głębokich myśli filozoficznych w ich kształtach jest też swego rodzaju naukowym błądzeniem "po omacku". Świadczy jedynie o tym, że nasza nauka stoi już na poziomie, który pozwala na "żonglerkę" liczbami i wypowiadanie zawiłych myślowych meandrów, które jednak nie zdołały doprowadzić do najważniejszej odpowiedzi - po co zbudowano piramidy. Szukanie związków, których być może nie ma, a które występują być może przypadkiem nie zbliży nas na pewno do rozwiązania. Daje tylko satysfakcję, że potrafimy już liczyć i filozofować.
 
-![](../../zrodlo/webacja/07piramidy/pir_w.jpg)
-
-![](../../zrodlo/webacja/07piramidy/pir_s.jpg)
-
-![](../../zrodlo/webacja/07piramidy/pir_m.jpg)
-
+![](../../zrodlo/webacja/07piramidy/pir_w.jpg)  
 Wielka - przekrój
 
+![](../../zrodlo/webacja/07piramidy/pir_s.jpg)  
 Średnia - przekrój
 
+![](../../zrodlo/webacja/07piramidy/pir_m.jpg)  
 Mała - przekrój
 
 Jeśli przyjrzeć się rysunkom przedstawiającym przekroje piramid z ukazanymi odkrytymi korytarzami i komorami, zastanowić się należy nad celowością budowy piramid. Czy tylko po to budowano takie kolosy, aby ukryć w nich parę korytarzy i komór? Stosunek pustej przestrzeni do masy piramid jest niebywale olbrzymi. Może właśnie to miał na myśli Pliniusz Starszy pisząc o zarozumialstwie, pysze i zachciance faraonów "...inicjatorów przedsięwzięcia, tak dalece obliczonego na zaspokojenie próżnej ambicji...". Pliniusz opisał to co widział i wiedział, a widział i wiedział tyle samo co my.

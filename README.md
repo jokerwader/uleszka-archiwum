@@ -2,9 +2,9 @@
 
 ### Archiwum strony, z którą można porozmawiać
 
-> 👉 **Prosta instrukcja dla każdego, bez GitHuba: [jokerwader.github.io/uleszka-archiwum](https://jokerwader.github.io/uleszka-archiwum/)**
+> 👉 **Prosta instrukcja dla każdego, bez GitHuba: [uleszka.net](https://uleszka.net/)**
 >
-> 📖 **Czytelnia – wszystkie artykuły w wygodnej formie: [jokerwader.github.io/uleszka-archiwum/czytelnia](https://jokerwader.github.io/uleszka-archiwum/czytelnia/)**
+> 📖 **Czytelnia – wszystkie artykuły w wygodnej formie: [uleszka.net/czytelnia](https://uleszka.net/czytelnia/)**
 
 **uleszka.net** to polska strona internetowa z lat ok. 2004–2007. Na długo przed erą blogów i mediów społecznościowych zadawała pytania, których w szkole nikt nie zadawał. Kto zbudował piramidy i Tiahuanaco? Czy potop był jeden? Gdzie leżała Atlantyda? Dlaczego oficjalna historia ma tyle luk? Pisała też o zapomnianej medycynie naturalnej i o tym, co jemy.
 
@@ -12,7 +12,7 @@ Dla wielu czytelników była to pierwsza strona, która pokazała, że o te spra
 
 Strona zniknęła z internetu. To repozytorium zachowuje **całość jej treści w niezmienionej formie**. Do tego daje możliwość, której wtedy nie było: **rozmowy z archiwum przez sztuczną inteligencję**. Można pytać o teksty, sprawdzać historię i porównywać tezy autora z tym, co wiemy dziś.
 
-**To archiwum jest ukłonem w stronę autora, Leszka Klimka, i próbą przełożenia jego pracy na język nowych technologii.** Jego teksty pozostają nietknięte. Sztuczna inteligencja pozwala dziś z nimi rozmawiać, porównywać je z tym, co wiemy po 20 latach, i sprawdzać źródła, do których sięgał.
+**To archiwum powstało w hołdzie śp. Leszkowi Wiktorowi Klimkowi: jako podziękowanie za jego pracę i próba przełożenia jej na język nowych technologii.** Jego teksty pozostają nietknięte. Sztuczna inteligencja pozwala dziś z nimi rozmawiać, porównywać je z tym, co wiemy po 20 latach, i sprawdzać źródła, do których sięgał.
 
 > „Zwrócić na coś uwagę większości, znaczy pomóc zdrowemu rozsądkowi wpaść na właściwy ślad” – G. E. Lessing, motto strony
 
@@ -42,7 +42,7 @@ Wybierz sposób, który ci pasuje:
 | [C. Serwer MCP w Claude Desktop lub Claude Code](#c-claude-desktop--claude-code-serwer-mcp) | działa bez internetu, na własnym komputerze | tak, Node.js |
 | [D. Serwer MCP pod adresem internetowym](#d-serwer-mcp-pod-adresem-internetowym) | **najprościej i najpełniej:** Claude.ai i ChatGPT, wszystkie narzędzia | nie, wystarczy wkleić adres |
 
-> **Najszybciej:** w Claude.ai dodaj konektor z adresem `https://uleszka-mcp-production.up.railway.app/mcp` (szczegóły w [punkcie D](#d-serwer-mcp-pod-adresem-internetowym)).
+> **Najszybciej:** w Claude.ai dodaj konektor z adresem `https://mcp.uleszka.net/mcp` (szczegóły w [punkcie D](#d-serwer-mcp-pod-adresem-internetowym)).
 
 ### A. ChatGPT – własny GPT
 
@@ -122,7 +122,7 @@ Serwer archiwum działa publicznie w internecie, bezpłatnie dla użytkowników 
 **Adres serwera:**
 
 ```
-https://uleszka-mcp-production.up.railway.app/mcp
+https://mcp.uleszka.net/mcp
 ```
 
 - **Claude.ai** (także na darmowym koncie i w aplikacji na telefon): *Customize → Connectors → + → Add custom connector*. Nazwa np. `U Leszka`, adres jak wyżej. Ostrzeżenie „Couldn't check the server” można pominąć (*Continue anyway*), a w części *Authentication* zostawić **No sign-in**. Potem w rozmowie włącz konektor ikoną narzędzi pod polem wiadomości.

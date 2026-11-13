@@ -49,60 +49,48 @@ Przekazy starożytnych opisują zwykłą migrację do nowego kraju i do tego prz
 
 Przejdźmy zatem do zdobyczy materialnych ludzi, których dzisiejsi spadkobiercy mieszkają w nędznych chatach krytych listowiem, z trudem uprawiają ziemię prymitywnymi narzędziami i nie mają zielonego pojęcia, kto wzniósł te wspaniałe budowle. Zacznę od piramid. Nie zżymaj się proszę na tak małą ich ilość. Każde "miasto" posiadało co najmniej jedną piramidę (zupełnie podobnie jak w Mezopotamii) i nie sposób umieścić tu wszystkie. Postarałem się jednak umieścić te najbardzie znane lub charakterystyczne.
 
-![](../../zrodlo/webacja/ameryka/1p_calakmul.jpg)
-
-![](../../zrodlo/webacja/ameryka/1p_teoti.jpg)
-
-![](../../zrodlo/webacja/ameryka/1p_tikal.jpg)
-
+![](../../zrodlo/webacja/ameryka/1p_calakmul.jpg)  
 Calakmul
 
+![](../../zrodlo/webacja/ameryka/1p_teoti.jpg)  
 Teotihuacan. Piramida Księżyca
 
+![](../../zrodlo/webacja/ameryka/1p_tikal.jpg)  
 Tikal
 
 Kształt piramid jest chyba jednakowy dla całego świata. Różnią się jedynie wielkością i kształtem boków. W Ameryce Środkowej nie spotkamy piramidy takiej, jak wielka piramida w Giza. Są przeważnie schodkowe, a niektóre posiadają na szczycie budynek, zwany z urzędu świątynią, choć tak naprawdę nikt nie zna ich przeznaczenia. Są także jedyne w swoim rodzaju piramidy "piętrowe", które można znaleźć między innymi w Teotihuacan.
 
-![](../../zrodlo/webacja/ameryka/1p_chichen.jpg)
-
-![](../../zrodlo/webacja/ameryka/1p_mayapan.jpg)
-
-![](../../zrodlo/webacja/ameryka/1p_tajin.jpg)
-
+![](../../zrodlo/webacja/ameryka/1p_chichen.jpg)  
 Chichen Itza
 
+![](../../zrodlo/webacja/ameryka/1p_mayapan.jpg)  
 Mayapan
 
+![](../../zrodlo/webacja/ameryka/1p_tajin.jpg)  
 El Tajin
 
 Zdarzają się prawie jednakowe piramidy jak w Chitzen Itza i Mayapan, co nie musi dziwić, gdyż stoją prawie po sąsiedzku. Piramida w El Tajin jest chyba najdziwniejszą na kontynencie. Wszystkie piętra posiadają nisze i jak twierdzą biegli w matematyce jest ich 365. Przypomina to liczbę dni w roku, ale przynajmniej ja nie mam 100% pewności, że chodzi właśnie o rok. Uczeni nie wiedzą jak lub czym sygnalizowano rok przestępny. Co początkowo zawierały te nisze nie wiadomo. To, że my współcześni wstawilibyśmy do nich jakieś rzeźby, wcale nie znaczy, że takie było ich przeznaczenie.
 
-![](../../zrodlo/webacja/ameryka/1p_becan.jpg)
-
-![](../../zrodlo/webacja/ameryka/1p_uxmal.jpg)
-
-![](../../zrodlo/webacja/ameryka/1p_edzna.jpg)
-
+![](../../zrodlo/webacja/ameryka/1p_becan.jpg)  
 Becan
 
+![](../../zrodlo/webacja/ameryka/1p_uxmal.jpg)  
 Uxmal
 
+![](../../zrodlo/webacja/ameryka/1p_edzna.jpg)  
 Edzna
 
 Jakie było początkowe przeznaczenie piramid nie wie nikt i chyba się nawet nie domyśla. To co serwują nam archeolodzy jest myśleniem życzeniowym. Z wysokiej katedry puszczono w obieg teorię, a ponieważ nikt nie śmiał mieć innego pomysłu, teoria stała się niepodważalną prawdą. Nikt, przynajmniej na razie, nie planuje zbadać, co mieści się w ich środku. Twierdzenia o niszczeniu zabytków jest najlepszą wymówką, chociaż nikt nie każe wysadzać ich w powietrze. Czy i tutaj ma zastosowanie hawass'iana teoria "o tęsknocie do nieśmiertelności"?
 
 Następne zdjęcia zadają kłam twierdzeniu, że łuk budowlany wynaleźli "cywilizowani" Europejczycy. Budowniczy w tej części świata potrafili wybudować wszystkie rodzaje łuków. Od trójkątnego, chyba najbardziej powszechnego, po okrągłe i półokrągłe.
 
-![](../../zrodlo/webacja/ameryka/luk_labna.jpg)
-
-![](../../zrodlo/webacja/ameryka/luk_dzibilchaltun.jpg)
-
-![](../../zrodlo/webacja/ameryka/luk_ekbalam.jpg)
-
+![](../../zrodlo/webacja/ameryka/luk_labna.jpg)  
 Labna
 
+![](../../zrodlo/webacja/ameryka/luk_dzibilchaltun.jpg)  
 Dżibilchaltun
 
+![](../../zrodlo/webacja/ameryka/luk_ekbalam.jpg)  
 Ek Balam
 
 Nie bali się przy tym rozpiętości jak widać to w Dżibilchaltun. Czy faktycznie to wszystko jest dziełem koczowników czy małorolnych indiańskich chłopów? Dziś w ruinach starożytnych budowli wypasa się bydło. Sic transit gloria mundi. Tak przemija chwała świata.

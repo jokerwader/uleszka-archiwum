@@ -36,7 +36,7 @@ _Dawne cywilizacje, budowle, mity i katastrofy._
 - [Piramida w Visoko](artykuly/01-cywilizacja-bogow/020-piramida-w-visoko.md) — 36 tys. znaków, 19 obr.
 - [Bogowie atomowych wojen](artykuly/01-cywilizacja-bogow/021-bogowie-atomowych-wojen.md) — 359 tys. znaków, 1 obr.
 - [Nauka jutra](artykuly/01-cywilizacja-bogow/022-nauka-jutra.md) — 66 tys. znaków, 2 obr.
-- [Tiamat i komety](artykuly/01-cywilizacja-bogow/023-tiamat-i-komety.md) — 85 tys. znaków, 49 obr.
+- [Tiamat i komety](artykuly/01-cywilizacja-bogow/023-tiamat-i-komety.md) — 86 tys. znaków, 49 obr.
 - [Insygnia Egiptu](artykuly/01-cywilizacja-bogow/024-insygnia-egiptu.md) — 47 tys. znaków, 85 obr.
 - [Machu Picchu](artykuly/01-cywilizacja-bogow/025-machu-picchu.md) — 26 tys. znaków, 60 obr.
 - [Sacsayhuaman](artykuly/01-cywilizacja-bogow/026-sacsayhuaman.md) — 18 tys. znaków, 45 obr.
@@ -46,7 +46,7 @@ _Dawne cywilizacje, budowle, mity i katastrofy._
 - [2012 - bać się?](artykuly/01-cywilizacja-bogow/030-2012-bac-sie.md) — 50 tys. znaków, 1 obr.
 - [Nieznany Nostradamus](artykuly/01-cywilizacja-bogow/031-nieznany-nostradamus.md) — 35 tys. znaków, 1 obr.
 - [Dzisiejsza nauka](artykuly/01-cywilizacja-bogow/032-dzisiejsza-nauka.md) — 25 tys. znaków, 2 obr.
-- [26 maja 2006](artykuly/01-cywilizacja-bogow/033-26-maja-2006.md) — 94 tys. znaków, 20 obr.
+- [26 maja 2006](artykuly/01-cywilizacja-bogow/033-26-maja-2006.md) — 95 tys. znaków, 20 obr.
   - [sw3d (obraz)](artykuly/01-cywilizacja-bogow/034-sw3d-obraz.md) — 0 tys. znaków, 2 obr.
 - [Archeolog czy złodziej?](artykuly/01-cywilizacja-bogow/035-archeolog-czy-zlodziej.md) — 19 tys. znaków, 7 obr.
 - [Cwaniacka archeologia](artykuly/01-cywilizacja-bogow/036-cwaniacka-archeologia.md) — 14 tys. znaków, 1 obr.
@@ -59,29 +59,29 @@ _Dawne cywilizacje, budowle, mity i katastrofy._
 _Medycyna naturalna, zdrowie i żywność._
 
 - [Wstęp](artykuly/02-zapomniana-medycyna/001-wstep.md) — 12 tys. znaków, 4 obr.
-- [Autodiagnoza](artykuly/02-zapomniana-medycyna/002-autodiagnoza.md) — 50 tys. znaków
+- [Autodiagnoza](artykuly/02-zapomniana-medycyna/002-autodiagnoza.md) — 52 tys. znaków
 - [Co nas truje](artykuly/02-zapomniana-medycyna/003-co-nas-truje.md) — 54 tys. znaków, 2 obr.
 - [Nasz kręgosłup](artykuly/02-zapomniana-medycyna/004-nasz-kregoslup.md) — 18 tys. znaków, 1 obr.
-- [Jak powinniśmy jeść](artykuly/02-zapomniana-medycyna/005-jak-powinnismy-jesc.md) — 89 tys. znaków, 3 obr.
-- [Dobrze mieć "pod reką"](artykuly/02-zapomniana-medycyna/006-dobrze-miec-pod-reka.md) — 27 tys. znaków, 1 obr.
+- [Jak powinniśmy jeść](artykuly/02-zapomniana-medycyna/005-jak-powinnismy-jesc.md) — 90 tys. znaków, 3 obr.
+- [Dobrze mieć "pod reką"](artykuly/02-zapomniana-medycyna/006-dobrze-miec-pod-reka.md) — 28 tys. znaków, 1 obr.
 - [Co może zwykła kapusta?](artykuly/02-zapomniana-medycyna/007-co-moze-zwykla-kapusta.md) — 17 tys. znaków, 1 obr.
-- [Leki naturalne](artykuly/02-zapomniana-medycyna/008-leki-naturalne.md) — 65 tys. znaków, 2 obr.
+- [Leki naturalne](artykuly/02-zapomniana-medycyna/008-leki-naturalne.md) — 66 tys. znaków, 2 obr.
 - [Oczyszczanie organizmu](artykuly/02-zapomniana-medycyna/009-oczyszczanie-organizmu.md) — 47 tys. znaków
 - [Dekalog zdrowia](artykuly/02-zapomniana-medycyna/010-dekalog-zdrowia.md) — 1 tys. znaków
 - [Niecodzienne przepisy](artykuly/02-zapomniana-medycyna/011-niecodzienne-przepisy.md) — 28 tys. znaków
 - [Leczymy się w domu](artykuly/02-zapomniana-medycyna/012-leczymy-sie-w-domu.md) — 141 tys. znaków
 - [O. Grande](artykuly/02-zapomniana-medycyna/013-o-grande.md) — 30 tys. znaków, 3 obr.
   - [W I T A M I N Y](artykuly/02-zapomniana-medycyna/014-w-i-t-a-m-i-n-y.md) — 13 tys. znaków
-  - [MAKRO I MIKROELEMENTY](artykuly/02-zapomniana-medycyna/015-makro-i-mikroelementy.md) — 9 tys. znaków
-  - [CZY WIESZ CO JESZ ?](artykuly/02-zapomniana-medycyna/016-czy-wiesz-co-jesz.md) — 25 tys. znaków
-  - [Białka - Tłuszcze - Węglowodany](artykuly/02-zapomniana-medycyna/017-bialka-tluszcze-weglowodany.md) — 22 tys. znaków
-  - [NORMY MEDYCYNY KLINICZNEJ](artykuly/02-zapomniana-medycyna/018-normy-medycyny-klinicznej.md) — 7 tys. znaków
+  - [MAKRO I MIKROELEMENTY](artykuly/02-zapomniana-medycyna/015-makro-i-mikroelementy.md) — 10 tys. znaków
+  - [CZY WIESZ CO JESZ ?](artykuly/02-zapomniana-medycyna/016-czy-wiesz-co-jesz.md) — 26 tys. znaków
+  - [Białka - Tłuszcze - Węglowodany](artykuly/02-zapomniana-medycyna/017-bialka-tluszcze-weglowodany.md) — 20 tys. znaków
+  - [NORMY MEDYCYNY KLINICZNEJ](artykuly/02-zapomniana-medycyna/018-normy-medycyny-klinicznej.md) — 8 tys. znaków
 - [Lecznicze mudry](artykuly/02-zapomniana-medycyna/019-lecznicze-mudry.md) — 8 tys. znaków, 11 obr.
-- [Refleksoterapia](artykuly/02-zapomniana-medycyna/020-refleksoterapia.md) — 61 tys. znaków, 15 obr.
+- [Refleksoterapia](artykuly/02-zapomniana-medycyna/020-refleksoterapia.md) — 64 tys. znaków, 15 obr.
 - [Mit czy rzeczywistość?](artykuly/02-zapomniana-medycyna/021-mit-czy-rzeczywistosc.md) — 24 tys. znaków, 3 obr.
-- [Woda żywa i martwa](artykuly/02-zapomniana-medycyna/022-woda-zywa-i-martwa.md) — 38 tys. znaków, 1 obr.
+- [Woda żywa i martwa](artykuly/02-zapomniana-medycyna/022-woda-zywa-i-martwa.md) — 39 tys. znaków, 1 obr.
 - [Rak, to nie wyrok śmierci](artykuly/02-zapomniana-medycyna/023-rak-to-nie-wyrok-smierci.md) — 65 tys. znaków
-- [ORGON - energia kosmosu](artykuly/02-zapomniana-medycyna/024-orgon-energia-kosmosu.md) — 269 tys. znaków, 3 obr.
+- [ORGON - energia kosmosu](artykuly/02-zapomniana-medycyna/024-orgon-energia-kosmosu.md) — 270 tys. znaków, 3 obr.
 - [ORME - biały proszek złota](artykuly/02-zapomniana-medycyna/025-orme-bialy-proszek-zlota.md) — 141 tys. znaków
   - [GWIEZDNY OGIEŃ - POPRZEDNIK ORME](artykuly/02-zapomniana-medycyna/026-gwiezdny-ogien-poprzednik-orme.md) — 36 tys. znaków
 - [Dieta nie ma sensu](artykuly/02-zapomniana-medycyna/027-dieta-nie-ma-sensu.md) — 11 tys. znaków, 1 obr.

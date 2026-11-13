@@ -115,72 +115,10 @@ Drugą zasadą jest sam sposób jedzenia. Prof. Tombak proponuje wypracować naw
 
 Prof. Tombak podzielił produkty żywnościowe na trzy grupy. Podobnego podziału dokonuje także doktor Górnicka. Dlaczego? Spowodowane jest to jakością enzymów potrzebnych do trawienia. Każdy jednorodny pokarm trawi inny enzym i często przy wymieszanym pokarmie enzym zasadowy i kwaśny wzajemnie się neutralizują, co w konsekwencji doprowadza do niestrawienia żadnego z pokarmów. Dlatego dieta optymalna nakazuje spożywanie w jednym posiłku tylko jednego produktu, który jest trawiony całkowicie. Przykładowo węglowodany są trawione w ciągu 20-30 minut, zaś białka w ciągu 2-4 godzin i takie przerwy powinny być między zjedzeniem jednego a drugiego.
 
-**POKARM WĘGLOWODANOWY (można łączyć)**
-
-**BIAŁKO**
-
----
-
-mięso, wędliny, ryby,  
-boczek surowy i wędzony,  
-podroby, dziczyzna,  
-wszystkie jaja,  
-rosoły, bakłażany,  
-fasola, bób, soja  
-wszystkie nasiona,  
-wszystkie orzechy,  
-ziarna słonecznika,  
-produkty mleczno-kwaśne,  
-twarogi, sery białe,  
-sery żółte i topione,  
-mleko, jogurt, kefir,  
-żelatyna
-
-  
-**TŁUSZCZE  
-i produkty "żywe"**
-
----
-
-tran, słonina, smalec,  
-masło świeże i topione,  
-oleje, margaryny,  
-orzechy laskowe i włoskie,  
-migdały, gorzka czekolada,  
-
----
-
-zielenina, owoce suszone,  
-soki z warzyw i owoców  
-warzywa (oprócz ziemniaków),  
-jagody, arbuzy, grzyby,  
-wino wytrawne, mleko,  
-melon i banan najlepiej  
-spożywać osobno nie łącząc  
-z innymi produktami  
-dodatki smakowe i przyprawy
-
-**WĘGLOWODANY  
-(skrobia)**
-
----
-
-mąki, kasze, ryż, płatki,  
-wszelkie pieczywa, sucharki  
-ziemniaki, kukurydza,  
-wyroby mączne,  
-makarony, naleśniki  
-cukier, miód  
-suszone owoce,  
-wyroby zawierające cukier  
-dżemy, marmolady, konfitury  
-cukierki, ciasta,  
-syropy owocowe,  
-kakao w proszku,  
-fasola i strączkowe (suche)  
-soczewica, orzeszki ziemne
-
-**POKARM BIAŁKOWY (można łączyć)**
+|   | 🟨 **POKARM WĘGLOWODANOWY (można łączyć)** |   |   |
+| --- | --- | --- | --- |
+| **BIAŁKO**<br>---<br>mięso, wędliny, ryby,<br>boczek surowy i wędzony,<br>podroby, dziczyzna,<br>wszystkie jaja,<br>rosoły, bakłażany,<br>fasola, bób, soja<br>wszystkie nasiona,<br>wszystkie orzechy,<br>ziarna słonecznika,<br>produkty mleczno-kwaśne,<br>twarogi, sery białe,<br>sery żółte i topione,<br>mleko, jogurt, kefir,<br>żelatyna |   | 🟩 <br>**TŁUSZCZE<br>i produkty "żywe"**<br>---<br>tran, słonina, smalec,<br>masło świeże i topione,<br>oleje, margaryny,<br>orzechy laskowe i włoskie,<br>migdały, gorzka czekolada,  <br>---<br>zielenina, owoce suszone,<br>soki z warzyw i owoców<br>warzywa (oprócz ziemniaków),<br>jagody, arbuzy, grzyby,<br>wino wytrawne, mleko,<br>melon i banan najlepiej<br>spożywać osobno nie łącząc<br>z innymi produktami<br>dodatki smakowe i przyprawy | 🟨 **WĘGLOWODANY<br>(skrobia)**<br>---<br>mąki, kasze, ryż, płatki,<br>wszelkie pieczywa, sucharki<br>ziemniaki, kukurydza,<br>wyroby mączne,<br>makarony, naleśniki<br>cukier, miód<br>suszone owoce,<br>wyroby zawierające cukier<br>dżemy, marmolady, konfitury<br>cukierki, ciasta,<br>syropy owocowe,<br>kakao w proszku,<br>fasola i strączkowe (suche)<br>soczewica, orzeszki ziemne |
+| **POKARM BIAŁKOWY (można łączyć)** |   |   |   |
 
 Jeśli zasłonimy lewą tabelę (białko), to otrzymamy listę artykułów spożywczych, które tworzą pokarm węglowodanowy, a artykuły można mieszać ze sobą w dowolnych proporcjach. Jeśli zasłonimy prawą tabelę (węglowodany) otrzymujemy artykuły spożywcze pokarmu białkowego. Przerwa między spożywaniem jednego i drugiego posiłku powinna być nie mniejsza niż 3-4 godziny. Dziwi też zapewne umieszczenie orzechów i w tłuszczach i w białkach. Wynika to z tego, że orzechy są w połowie białkami, a w połowie tłuszczami i na wszelki wypadek jedzmy je osobno. Przykładowo orzechy laskowe i włoskie zawierają powyżej 50% tłuszczu, a ziemne - tłuszczu powyżej 45%, a białka i węglowodanów powyżej 20%. To samo dotyczy boczku. Chudy boczek zaliczamy do mięs (białko), a tłusty do tłuszczy. Czy będziemy go jedli z chlebem, to już nasz wybór. Umiar na pewno nie zaszkodzi, ale jeśli ktoś za jednym "posiedzeniem" potrafi zjeść pół bochenka chleba z kilogramem boczku, to musi się liczyć z jakimiś konsekwencjami.
 
@@ -188,143 +126,37 @@ Na początku taki podział wydaje się trudny lub wręcz niemożliwy do zaakcept
 
 A oto inna wersja łączenia produktów:
 
-**NAJGORSZE POŁĄCZENIE**
-
-**NAJLEPSZE POŁĄCZENIE**
-
-**Mięso (wszystkie rodzaje)**
-
-zielone warzywa
-
-mleko, skrobia, słodycze, inne białka, kwaśne owoce, olej masło śmietankowe, śmietana
-
-**Skrobia (chleb, ziemniaki)**
-
-zielone warzywa, tłuszcze roślinne i zwierzęce
-
-wszystkie białka, wszystkie owoce, cukry, kwasy
-
-**Zielone warzywa**
-
-wszystkie białka, wszystkie produkty zbożowe
-
-mleko
-
-**Orzechy (większość rodzajów)**
-
-zielone warzywa, kwaśne owoce
-
-mleko, skrobia, słodycze, inne białka, masło śmietankowe, olej roślinny
-
-**Jaja**
-
-zielone warzywa
-
-mleko, skrobia, słodycze, inne białka, kwaśne produkty, olej roślinny
-
-**Mleko**
-
-spożywać oddzielnie, można z kwaśnymi owocami
-
-wszystkie białka, zielone warzywa, produkty skrobiowe
-
-**Tłuszcze zwierzęce**
-
-wszystkie rośliny zbożowe
-
-wszystkie białka
-
-**Melon (wszystkie rodzaje)**
-
-zawsze spożywać oddzielnie
-
-wszystkie produkty
-
-**Rośliny zbożowe (pszenica, żyto, owies)**
-
-zielone warzywa
-
-kwaśne owoce, wszystkie białka, wszystkie słodycze, mleko
-
-**Rośliny strączkowe**
-
-zielone warzywa
-
-wszystkie białka, wszystkie słodycze, owoce (wszystkie rodzaje), masło śmietankowe, śmietanka
-
-**Owoce niekwaśne i półkwaśne**
-
-kwaśne mleko
-
-kwaśne owoce, skrobia, białka, mleko
-
-**Owoce kwaśne**
-
-orzechy, kwaśne mleko i inne kwaśne owoce
-
-wszystkie słodycze, skrobia (pieczywo, zboża), białka z wyjątkiem orzechów
-
-**NAJLEPSZE POŁĄCZENIE**
-
-**NAJGORSZE POŁĄCZENIE**
+| 🟥 | **NAJGORSZE POŁĄCZENIE** | 🟥 |   |
+| --- | --- | --- | --- |
+| 🟩 **NAJLEPSZE POŁĄCZENIE** |   |   |   |
+| **Mięso (wszystkie rodzaje)** |   | zielone warzywa | mleko, skrobia, słodycze, inne białka, kwaśne owoce, olej masło śmietankowe, śmietana |
+| **Skrobia (chleb, ziemniaki)** |   | zielone warzywa, tłuszcze roślinne i zwierzęce | wszystkie białka, wszystkie owoce, cukry, kwasy |
+| **Zielone warzywa** |   | wszystkie białka, wszystkie produkty zbożowe | mleko |
+| **Orzechy (większość rodzajów)** |   | zielone warzywa, kwaśne owoce | mleko, skrobia, słodycze, inne białka, masło śmietankowe, olej roślinny |
+| **Jaja** |   | zielone warzywa | mleko, skrobia, słodycze, inne białka, kwaśne produkty, olej roślinny |
+| **Mleko** |   | spożywać oddzielnie, można z kwaśnymi owocami | wszystkie białka, zielone warzywa, produkty skrobiowe |
+| **Tłuszcze zwierzęce** |   | wszystkie rośliny zbożowe | wszystkie białka |
+| **Melon (wszystkie rodzaje)** |   | zawsze spożywać oddzielnie | wszystkie produkty |
+| **Rośliny zbożowe (pszenica, żyto, owies)** |   | zielone warzywa | kwaśne owoce, wszystkie białka, wszystkie słodycze, mleko |
+| **Rośliny strączkowe** |   | zielone warzywa | wszystkie białka, wszystkie słodycze, owoce (wszystkie rodzaje), masło śmietankowe, śmietanka |
+| **Owoce niekwaśne i półkwaśne** |   | kwaśne mleko | kwaśne owoce, skrobia, białka, mleko |
+| **Owoce kwaśne** |   | orzechy, kwaśne mleko i inne kwaśne owoce | wszystkie słodycze, skrobia (pieczywo, zboża), białka z wyjątkiem orzechów |
+| 🟩 **NAJLEPSZE POŁĄCZENIE** |   |   |   |
+| 🟥 | **NAJGORSZE POŁĄCZENIE** | 🟥 |   |
 
 I trzecia wersja tabeli:
 
-**NAZWA PRODUKTU (numer)**
-
-**1**
-
-**2**
-
-**3**
-
-**4**
-
-**5**
-
-**6**
-
-**7**
-
-**8**
-
-**9**
-
-  Ziemniaki, buraki, marchew, dynia, kukurydza
-
-**1**
-
-  Chleb, wyroby mączne, nie oczyszczone kasze, pieczywo cukiernicze  
-
-**2**
-
-  Warzywa zielone, żółte, czerwone, białe
-
-**3**
-
-  Rzepa, korzeń pietruszki, seler, czerwona i zielona papryka
-
-**4**
-
-  Mięso, jaja, twaróg, żółty ser, groch, soja, fasola, drób, ryby
-
-**5**
-
-  Ziarna zbóż, oczyszczone kasze
-
-**6**
-
-  Tłuszcze roślinne, olej słonecznikowy, oliwa z oliwek itd.
-
-**7**
-
-  Świeże figi, słodkie wiśnie, jabłka, truskawki, maliny
-
-**8**
-
-  Pomarańcze, grapefruity, cytryny, kwaśne śliwy, pomidory
-
-**9**
+| **NAZWA PRODUKTU (numer)** | ⬜ | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ziemniaki, buraki, marchew, dynia, kukurydza | **1** | ⬜ | 🟥 | 🟩 | 🟩 | 🟧 | 🟩 | 🟩 | 🟧 | 🟥 |
+| Chleb, wyroby mączne, nie oczyszczone kasze, pieczywo cukiernicze | **2** | 🟥 | ⬜ | 🟩 | 🟩 | 🟧 | 🟥 | 🟩 | 🟧 | 🟥 |
+| Warzywa zielone, żółte, czerwone, białe | **3** | 🟩 | 🟩 | ⬜ | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 |
+| Rzepa, korzeń pietruszki, seler, czerwona i zielona papryka | **4** | 🟩 | 🟩 | 🟩 | ⬜ | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 |
+| Mięso, jaja, twaróg, żółty ser, groch, soja, fasola, drób, ryby | **5** | 🟧 | 🟧 | 🟩 | 🟩 | ⬜ | 🟧 | 🟩 | 🟧 | 🟩 |
+| Ziarna zbóż, oczyszczone kasze | **6** | 🟩 | 🟥 | 🟩 | 🟩 | 🟧 | ⬜ | 🟩 | 🟥 | 🟧 |
+| Tłuszcze roślinne, olej słonecznikowy, oliwa z oliwek itd. | **7** | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | ⬜ | 🟥 | 🟧 |
+| Świeże figi, słodkie wiśnie, jabłka, truskawki, maliny | **8** | 🟧 | 🟧 | 🟩 | 🟩 | 🟧 | 🟥 | 🟥 | ⬜ | 🟧 |
+| Pomarańcze, grapefruity, cytryny, kwaśne śliwy, pomidory | **9** | 🟥 | 🟥 | 🟩 | 🟩 | 🟩 | 🟧 | 🟧 | 🟧 | ⬜ |
 
 ---
 
@@ -336,87 +168,34 @@ I trzecia wersja tabeli:
 
 Całość prof. Tombak ujął w jedenastu punktach, które nazwał jedenastoma prawdami zdrowego życia.
 
-1.
-
-Nie jedz szybko.
-
-2.
-
-Nie popijaj podczas posiłku.
-
-3.
-
-Nie jedz często i nie żuj ciągle (dotyczy też gumy do żucia).
-
-4.
-
-Nie oglądaj telewizji podczas jedzenia.
-
-5.
-
-Nie jedz jak jesteś zdenerwowany.
-
-6.
-
-Nie leż po jedzeniu.
-
-7.
-
-Nie jedz przed snem i nie podjadaj w nocy.
-
-8.
-
-Prawidłowo łącz produkty, które spożywasz.
-
-9.
-
-Unikaj siedzącego trybu życia.
-
-10.
-
-Ogranicz do minimum spożycie produktów mącznych i słodyczy.
-
-11.
-
-Ogranicz do minimum spożycie produktów rafinowanych i gotowanych.
+1. Nie jedz szybko.
+2. Nie popijaj podczas posiłku.
+3. Nie jedz często i nie żuj ciągle (dotyczy też gumy do żucia).
+4. Nie oglądaj telewizji podczas jedzenia.
+5. Nie jedz jak jesteś zdenerwowany.
+6. Nie leż po jedzeniu.
+7. Nie jedz przed snem i nie podjadaj w nocy.
+8. Prawidłowo łącz produkty, które spożywasz.
+9. Unikaj siedzącego trybu życia.
+10. Ogranicz do minimum spożycie produktów mącznych i słodyczy.
+11. Ogranicz do minimum spożycie produktów rafinowanych i gotowanych.
 
 Kto dokładnie przeczytał powyższe, zrozumiał że nadszedł "czas apokalipsy". Żegnajcie chrupiące bułeczki z masełkiem i szynką. Żegnaj schaboszczaku z odsmażanymi ziemniaczkami. Żegnaj żurku z kiełbasą. Taka jest cena naszego zdrowia. Jesli ktoś uważa inaczej, to siłą rzeczy bedzie musiał wejść w większą zażyłość z lekarzem pierwszego kontaktu, a ten jak zwykle zaaplikuje antybiotyki, aspirynę lub inne chemiczne "nowości". Każdy wie, że żywność dzielimy na zdrową i smaczną - wybór zależy od nas.
 
 **ZASADY SPOŻYWANIA PRODUKTÓW Z PRZEWAGĄ BIAŁKA**
 
-**1.**
-
-**Jeśli spożywacie tłuszcz z białkiem (mięso usmażone na oleju roślinnym), to należy jeść mięso z dużą ilością warzyw. Obfitość warzyw neutralizuje szkodliwą działalność tłuszczów.**
-
-**2.**
-
-**Białek najlepiej nie mieszać z innymi białkami. Każde białko należy jeść oddzielnie, jeden rodzaj białka każdorazowo, np. tylko mięso lub tylko groch, lub tylko ryby.**
-
-**3.**
-
-**Produkty białkowe lepiej spożywać na kolację, nie później niż dwie godziny przed snem, ponieważ nocną porą organizm zajmuje się regeneracją i potrzebuje substancji białkowych. Sałatka warzywna musi się znaleźć przed każdym pożywieniem białkowym.**
+| **1.** | **Jeśli spożywacie tłuszcz z białkiem (mięso usmażone na oleju roślinnym), to należy jeść mięso z dużą ilością warzyw. Obfitość warzyw neutralizuje szkodliwą działalność tłuszczów.** |
+| --- | --- |
+| **2.** | **Białek najlepiej nie mieszać z innymi białkami. Każde białko należy jeść oddzielnie, jeden rodzaj białka każdorazowo, np. tylko mięso lub tylko groch, lub tylko ryby.** |
+| **3.** | **Produkty białkowe lepiej spożywać na kolację, nie później niż dwie godziny przed snem, ponieważ nocną porą organizm zajmuje się regeneracją i potrzebuje substancji białkowych. Sałatka warzywna musi się znaleźć przed każdym pożywieniem białkowym.** |
 
 Pożyteczne rady odnośnie spożywania produktów z przewagą białek:
 
-• 
-
-Najlepiej jeść mięso zapiekane w piekarniku lub na grillu. Nie smażyć na oleju i nie gotować.
-
-• 
-
-Rosoły mięsne (buliony) - na strawienie mięsnego bulionu organizm zużywa 30 razy więcej energii niż na trawienie mięsa. Produkty mięsne zawierają ponad 20 różnych, trujących substancji i podczas gotowania przechodzą one do bulionu. W ten sposób rosół na mięsie to "skondensowany wyciąg z martwego zwierzęcia". Z bulionów mięsnych najlepiej zrezygnować.
-
-• 
-
-Ponieważ białka nie są potrzebne człowiekowi w dużych ilościach wystarczy spożywać mięso, ryby, drób - 2 razy w tygodniu. 100 g orzechów całkowicie zaspokajają dobowe zapotrzebowanie na białko. 200g mięsa lub 300 g ryby najlepiej zamienić na 120 g roślin strączkowych.
-
-• 
-
-Mięso i ryby należy zawsze spożywać świeżo przygotowane, nie pozostawiając ich na następny dzień.
-
-• 
-
-Jeśli gotujecie mięso, to na 10 minut przed końcem gotowania należy dodać kawałek jabłka. Mięso będzie soczyste. Ryba będzie smaczniejsza, jeśli w trakcie gotowania będziemy kilka razy dolewali zimną wodę.
+- Najlepiej jeść mięso zapiekane w piekarniku lub na grillu. Nie smażyć na oleju i nie gotować.
+- Rosoły mięsne (buliony) - na strawienie mięsnego bulionu organizm zużywa 30 razy więcej energii niż na trawienie mięsa. Produkty mięsne zawierają ponad 20 różnych, trujących substancji i podczas gotowania przechodzą one do bulionu. W ten sposób rosół na mięsie to "skondensowany wyciąg z martwego zwierzęcia". Z bulionów mięsnych najlepiej zrezygnować.
+- Ponieważ białka nie są potrzebne człowiekowi w dużych ilościach wystarczy spożywać mięso, ryby, drób - 2 razy w tygodniu. 100 g orzechów całkowicie zaspokajają dobowe zapotrzebowanie na białko. 200g mięsa lub 300 g ryby najlepiej zamienić na 120 g roślin strączkowych.
+- Mięso i ryby należy zawsze spożywać świeżo przygotowane, nie pozostawiając ich na następny dzień.
+- Jeśli gotujecie mięso, to na 10 minut przed końcem gotowania należy dodać kawałek jabłka. Mięso będzie soczyste. Ryba będzie smaczniejsza, jeśli w trakcie gotowania będziemy kilka razy dolewali zimną wodę.
 
 Fragment wywiadu z dr Lorraine Day
 
@@ -429,73 +208,34 @@ Gotowane białko wywołuje w przewodzie pokarmowym procesy gnilne, podczas któr
 
 **ZASADY SPOŻYWANIA PRODUKTÓW Z WĘGLOWODANÓW I SKROBI**
 
-**1.**
-
-**Skrobię należy spożywać jednego rodzaju (kasza bez chleba, groch bez chleba). Kilka rodzajów skrobi zjedzonych jednocześnie spowoduje wzrost apetytu, czego skutkiem będzie zwiększona ilość zjedzonego pokarmu.**
-
-**2.**
-
-**Nie jedzcie chleba, wyrobów mącznych i kasz z dżemami lub cukrem, ponieważ zmieszanie ich z sobą spowoduje fermentację w żołądku. Dlatego też często po zjedzeniu bułek drożdżowych, pączków z powidłami lub dżemem odczuwamy zgagę. Z tych przyczyn proszę nie jeść razem skrobi i cukrów. Na przykład, nie dodawać cukru do wszelkiego rodzaju kasz (owsianek). Chleb można smarować miodem, ale korzystniej dla zdrowia jest rozpuścić miód w przegotowanej wodzie i wypić.**
-
-**3.**
-
-**Słodkie i suszone owoce można łączyć ze skrobiami - chleben, kaszami, ryżem.**
-
-**4.**
-
-**Kasze, chleb, ziemniaki i inne skrobie powinny być spożywane oddzielnie od mięsa, ryb, jaj, żółtego sera, twarogu, tzn. pokarmu białkowego. Przerwa między spożywaniem węglowodanów i białek powinna wynosić przynajmniej 2-3 godziny.**
-
-**5.**
-
-**Pokarm skrobiowy zaleca się spożywać w dzień, w okresie pomiędzy godziną 9.00 a 13.00, ponieważ przy trawieniu węglowodanów organizm otrzymuje najwięcej energii. Ta energia będzie całkowicie spalona w czasie zajęć, w ciągu całego dnia. Ta uwaga jest szczególnie cenna dla osób skłonnych do nadwagi.**
-
-**6.**
-
-**Przed spożyciem skrobi koniecznie zjeść należy sałatkę warzywną.**
-
-**7.**
-
-**Najlepiej przyrządzić sałatki z nastepujących warzyw: kapusty, marchwi, buraków, kopru, pietruszki, soli i przypraw. Enzymy, znajdujące się w warzywach pomagają strawić skrobię.**
+| **1.** | **Skrobię należy spożywać jednego rodzaju (kasza bez chleba, groch bez chleba). Kilka rodzajów skrobi zjedzonych jednocześnie spowoduje wzrost apetytu, czego skutkiem będzie zwiększona ilość zjedzonego pokarmu.** |
+| --- | --- |
+| **2.** | **Nie jedzcie chleba, wyrobów mącznych i kasz z dżemami lub cukrem, ponieważ zmieszanie ich z sobą spowoduje fermentację w żołądku. Dlatego też często po zjedzeniu bułek drożdżowych, pączków z powidłami lub dżemem odczuwamy zgagę. Z tych przyczyn proszę nie jeść razem skrobi i cukrów. Na przykład, nie dodawać cukru do wszelkiego rodzaju kasz (owsianek). Chleb można smarować miodem, ale korzystniej dla zdrowia jest rozpuścić miód w przegotowanej wodzie i wypić.** |
+| **3.** | **Słodkie i suszone owoce można łączyć ze skrobiami - chleben, kaszami, ryżem.** |
+| **4.** | **Kasze, chleb, ziemniaki i inne skrobie powinny być spożywane oddzielnie od mięsa, ryb, jaj, żółtego sera, twarogu, tzn. pokarmu białkowego. Przerwa między spożywaniem węglowodanów i białek powinna wynosić przynajmniej 2-3 godziny.** |
+| **5.** | **Pokarm skrobiowy zaleca się spożywać w dzień, w okresie pomiędzy godziną 9.00 a 13.00, ponieważ przy trawieniu węglowodanów organizm otrzymuje najwięcej energii. Ta energia będzie całkowicie spalona w czasie zajęć, w ciągu całego dnia. Ta uwaga jest szczególnie cenna dla osób skłonnych do nadwagi.** |
+| **6.** | **Przed spożyciem skrobi koniecznie zjeść należy sałatkę warzywną.** |
+| **7.** | **Najlepiej przyrządzić sałatki z nastepujących warzyw: kapusty, marchwi, buraków, kopru, pietruszki, soli i przypraw. Enzymy, znajdujące się w warzywach pomagają strawić skrobię.** |
 
 Pożyteczne rady:
 
-• 
-
-Trawienie skrobii rozpoczyna się już w ustach, dlatego pożywienie skrobiowe należy szczególnie dokładnie żuć.
-
-• 
-
-Gatunki bezdrożdżowego pieczywa i kasze posiadają włókna roślinne, które oczyszczają układ pokarmowy. Spożywanie tych produktów codziennie jest najcenniejszą profilaktyką pracy układu pokarmowego.
-
-• 
-
-Korzystne dla zdrowia są kasze - gryczana, pszenna, kukurydziana, jęczmienna, ryż (dziki, nieoczyszczony). Kasze powinny byc ugotowane na "gęsto", bez dużej ilości wody. Powinny też stanowić 1/3 naszego codziennego posiłku.
+- Trawienie skrobii rozpoczyna się już w ustach, dlatego pożywienie skrobiowe należy szczególnie dokładnie żuć.
+- Gatunki bezdrożdżowego pieczywa i kasze posiadają włókna roślinne, które oczyszczają układ pokarmowy. Spożywanie tych produktów codziennie jest najcenniejszą profilaktyką pracy układu pokarmowego.
+- Korzystne dla zdrowia są kasze - gryczana, pszenna, kukurydziana, jęczmienna, ryż (dziki, nieoczyszczony). Kasze powinny byc ugotowane na "gęsto", bez dużej ilości wody. Powinny też stanowić 1/3 naszego codziennego posiłku.
 
 Spożywanie nadmiaru produktów mącznych, cukru, białka powoduje ogólne zatrucie organizmu, stany zapalne oczu, zapalenie spojówek, zapalenie tęczówki, zapalenie rogówki. Wady wzroku mające przyczynę w zatruciu pokarmowym, można wyleczyć stosując głodówkę. Wówczas następuje wydalenie produktów spalania blokujących mięsnie i naczynia krwionośne otaczające oczy, co doprowadza do odprężenia i rozluźnienia mięśni i poprawy wzroku. (Górnicka)
 
 **ZASADY SPOŻYWANIA TŁUSZCZÓW**
 
-**1.**
-
-**Tłuszcze zwierzęce to masło, śmietana, śmietana, smalec. Tłuszcze roślinne - oleje roślinne i większość orzechów.**
-
-**2.**
-
-**Tłuszcze możemy mieszać z węglowodanami i warzywami.**
-
-**3.**
-
-**Tłuszcze należy spożywać w ograniczonej ilości - 25-30 g oleju roślinnego dziennie, 10-15 g masła śmietankowego (2 łyżki stołowe).**
+| **1.** | **Tłuszcze zwierzęce to masło, śmietana, śmietana, smalec. Tłuszcze roślinne - oleje roślinne i większość orzechów.** |
+| --- | --- |
+| **2.** | **Tłuszcze możemy mieszać z węglowodanami i warzywami.** |
+| **3.** | **Tłuszcze należy spożywać w ograniczonej ilości - 25-30 g oleju roślinnego dziennie, 10-15 g masła śmietankowego (2 łyżki stołowe).** |
 
 Pożyteczne rady:
 
-• 
-
-Szczególnie szkodliwe jest smażenie tłuszczów w temperaturze 150°C (taka temperatura jest na patelni podczas smażenia). W takiej temperaturze wszystkie tłuszcze, w tym oleje roślinne, ulegają rozkładowi, zamieniając się w związki toksyczne, rakotwórcze. Na smażonych produktach tworzy się "skórka" przypominająca polietylen. W szczególności znajdują się tam substancje rakotwórcze. Spożywanie takich produktów zwiększa ryzyko zachorowania na raka i choroby wątroby. Dlatego też najlepiej tłuszcze spożywać w postaci nieogrzanej, bezpośrednio przed użyciem.
-
-• 
-
-W trakcie produkowania masła używa się sporo domieszek "ukrytych konserwantów", dzięki którym termin przydatności przedłuża się o kilka miesięcy. Żeby zlikwidować szkodliwość różnych domieszek zaleca się oczyszczanie masła śmietankowego (przetapianie go lub przegotowanie). Takie masło nie podwyższa cholesterolu, nie jełczeje i może być bardzo długo przechowywane bez dodawania konserwantów.
+- Szczególnie szkodliwe jest smażenie tłuszczów w temperaturze 150°C (taka temperatura jest na patelni podczas smażenia). W takiej temperaturze wszystkie tłuszcze, w tym oleje roślinne, ulegają rozkładowi, zamieniając się w związki toksyczne, rakotwórcze. Na smażonych produktach tworzy się "skórka" przypominająca polietylen. W szczególności znajdują się tam substancje rakotwórcze. Spożywanie takich produktów zwiększa ryzyko zachorowania na raka i choroby wątroby. Dlatego też najlepiej tłuszcze spożywać w postaci nieogrzanej, bezpośrednio przed użyciem.
+- W trakcie produkowania masła używa się sporo domieszek "ukrytych konserwantów", dzięki którym termin przydatności przedłuża się o kilka miesięcy. Żeby zlikwidować szkodliwość różnych domieszek zaleca się oczyszczanie masła śmietankowego (przetapianie go lub przegotowanie). Takie masło nie podwyższa cholesterolu, nie jełczeje i może być bardzo długo przechowywane bez dodawania konserwantów.
 
 **•** 250 g masła (kostka) włożyć do garnka, zalać ciepłą, przegotowaną wodą 250 ml (szklanka) i gotować na małym ogniu przez godzinę. Następnie ostudzić i wstawić do lodówki. Po zastygnięciu masła wylać wodę. W tej wodzie znajdują się wszelkiego rodzaju domieszki.
 
@@ -505,13 +245,9 @@ W trakcie produkowania masła używa się sporo domieszek "ukrytych konserwantó
 
 **ZASADY SPOŻYWANIA OWOCÓW**
 
-**1.**
-
-**Owoce jeść w niedużej ilości na 20-30 minut przed posiłkiem.**
-
-**2.**
-
-**Nie dodawać cukru do surowych owoców. Starać się spożywać owoce sezonowe. Owoce oczyszczają krew (odkwaszają ją). Dodając cukier otrzymujemy efekt odwrotny.**
+| **1.** | **Owoce jeść w niedużej ilości na 20-30 minut przed posiłkiem.** |
+| --- | --- |
+| **2.** | **Nie dodawać cukru do surowych owoców. Starać się spożywać owoce sezonowe. Owoce oczyszczają krew (odkwaszają ją). Dodając cukier otrzymujemy efekt odwrotny.** |
 
 **ZASADY SPOŻYWANIA WARZYW**
 
@@ -535,21 +271,10 @@ W trakcie produkowania masła używa się sporo domieszek "ukrytych konserwantó
 
 Pożyteczne rady w spożywaniu warzyw i owoców:
 
-• 
-
-Najlepiej odżywiać się produktami wyhodowanymi w miejscu zamieszkania i najlepiej zgodnie z sezonem. Chodzi o to, że każda roślina (owoce i warzywa) zawiera w sobie "informację", która tworzy się w roślinie pod wpływem klimatu.
-
-• 
-
-Latem należy spożywać więcej warzyw i owoców, które ochładzają organizm (arbuzy, cytryny, pomarańcze, mandarynki) oraz owoce rosnące w naszym regionie. Zimą więcej rozgrzewających organizm - kasz i owoców suszonych, orzechów, pestek słonecznika, dyni i roślin korzeniowych.
-
-• 
-
-W porze letniej śniadania lepiej przygotowywać z owoców, ponieważ są one bogate we wszystkie niezbędne dla organizmu pierwiastki, czyniąc krew zasadową, daja olbrzymią ilość energii i nie potrzebują jej wiele do strawienia pokarmu.
-
-• 
-
-Proporcja sodu i potasu w organizmie musi wynosić 1:20 i dlatego jeśli stwierdzacie, że puchniecie, odczuwacie nadmiar wody w organizmie powinniście spożywać produkty z dużą zawartością potasu (groch, kabaczki, zielony groszek). Jeśli na odwrót, to starajcie się spożywać produkty zatrzymujące wodę w organizmie (oliwa, dynia, gruszki, maliny, porzeczki, marchew, jabłka, morele, pomidory, kasza jaglana, gryczana, owies). Idealną proporcję sodu i potasu posiadają ziemniaki, czereśnie, ogórki i kapusta.
+- Najlepiej odżywiać się produktami wyhodowanymi w miejscu zamieszkania i najlepiej zgodnie z sezonem. Chodzi o to, że każda roślina (owoce i warzywa) zawiera w sobie "informację", która tworzy się w roślinie pod wpływem klimatu.
+- Latem należy spożywać więcej warzyw i owoców, które ochładzają organizm (arbuzy, cytryny, pomarańcze, mandarynki) oraz owoce rosnące w naszym regionie. Zimą więcej rozgrzewających organizm - kasz i owoców suszonych, orzechów, pestek słonecznika, dyni i roślin korzeniowych.
+- W porze letniej śniadania lepiej przygotowywać z owoców, ponieważ są one bogate we wszystkie niezbędne dla organizmu pierwiastki, czyniąc krew zasadową, daja olbrzymią ilość energii i nie potrzebują jej wiele do strawienia pokarmu.
+- Proporcja sodu i potasu w organizmie musi wynosić 1:20 i dlatego jeśli stwierdzacie, że puchniecie, odczuwacie nadmiar wody w organizmie powinniście spożywać produkty z dużą zawartością potasu (groch, kabaczki, zielony groszek). Jeśli na odwrót, to starajcie się spożywać produkty zatrzymujące wodę w organizmie (oliwa, dynia, gruszki, maliny, porzeczki, marchew, jabłka, morele, pomidory, kasza jaglana, gryczana, owies). Idealną proporcję sodu i potasu posiadają ziemniaki, czereśnie, ogórki i kapusta.
 
 Teresa Tuszyńska w swojej książce "Zdrowie nie ma ceny" pisze między innymi:
 
@@ -563,81 +288,12 @@ Teresa Tuszyńska w swojej książce "Zdrowie nie ma ceny" pisze między innymi:
 
 Dr Hay w swych obserwacjach stwierdził, że ludzie których krew ma odczyn kwaśny są podatniejsi na wszelkie choroby i częściej chorują. Według niego dobry stan zdrowia określa pH krwi w granicach 7,4-7,5. Ludzie z nadmiarem kwasów w organizmie należą do zrzędliwych, wrażliwych, łatwo meczących się, skłonnych do odczuwania dolegliwości bólowych, migren, zaburzeń snu i nadkwasoty żołądka. Palący mają wysoki poziom kwasu w moczu. Zasadowość organizmu hamuje także nadmierny apetyt. Proszę także nie mylić kwasowości z kwaśnością smaku. Przykładowo kwaśna cytryna w żołądku jest zasadotwórcza.
 
-**PRODUKTY KWASOTWÓRCZE**
-
-**PRODUKTY ZASADOTWÓRCZE**
-
-**wysoko**
-
-**średnio**
-
-**OBOJĘTNE**
-
-**średnio**
-
-**wysoko**
-
-ser edamski  
-jajka  
-majonez  
-ryby  
-bekon  
-wołowina  
-kurczak  
-wątroba  
-baranina  
-cielęcina
-
-orzechy włoskie  
-orzechy laskowe  
-ser cheddar  
-sery pleśniowe  
-śledzie  
-makrela  
-żyto  
-owies  
-pszenica  
-ryż  
-śliwki  
-borówki  
-oliwki
-
-masło  
-margaryna  
-kawa  
-herbata  
-cukier  
-syropy
-
-mleko  
-migdały  
-orzechy kokosowe  
-warzywa liściaste  
-warzywa korzeniowe  
-seler  
-grzyby  
-cebula  
-pomidory  
-owoce pestkowe  
-owoce cytrusowe  
-banany  
-winogrona  
-melon  
-maliny
-
-awocado  
-buraki  
-marchew  
-ziemniaki  
-szpinak  
-rabarbar  
-owoce suszone  
-
-**Procentowy skład zdrowej diety:**
-
-**20%**
-
-**80%**
+| 🟥 **PRODUKTY KWASOTWÓRCZE** |   | 🟩 **PRODUKTY ZASADOTWÓRCZE** |   |   |
+| --- | --- | --- | --- | --- |
+| 🟥 **wysoko** | 🟧 **średnio** | **OBOJĘTNE** | 🟩 **średnio** | 🟩 **wysoko** |
+| 🟥 ser edamski<br>jajka<br>majonez<br>ryby<br>bekon<br>wołowina<br>kurczak<br>wątroba<br>baranina<br>cielęcina | 🟧 orzechy włoskie<br>orzechy laskowe<br>ser cheddar<br>sery pleśniowe<br>śledzie<br>makrela<br>żyto<br>owies<br>pszenica<br>ryż<br>śliwki<br>borówki<br>oliwki | masło<br>margaryna<br>kawa<br>herbata<br>cukier<br>syropy | 🟩 mleko<br>migdały<br>orzechy kokosowe<br>warzywa liściaste<br>warzywa korzeniowe<br>seler<br>grzyby<br>cebula<br>pomidory<br>owoce pestkowe<br>owoce cytrusowe<br>banany<br>winogrona<br>melon<br>maliny | 🟩 awocado<br>buraki<br>marchew<br>ziemniaki<br>szpinak<br>rabarbar<br>owoce suszone |
+| **Procentowy skład zdrowej diety:** |   |   |   |   |
+| 🟥 **20%** | 🟩 **80%** |   |   |   |
 
 **Warto zapamiętać**
 
@@ -819,209 +475,45 @@ Proszę nie korzystać z opracowań prac uczonych pracujących na wschód od Bug
 
 Przejście na zdrowy tryb życia, który proponuje prof. Tombak wymaga trochę czasu, a przede wszystkim naszego nastawienia. Jeśli nie "dojrzejemy" do twardego postanowienia zmiany w dotychczasowym sposobie odżywiania, to wszelkie nasze wysiłki spalą na panewce. To jest jak z "rzucaniem" palenia. Jeśli my sami nie postanowimy skończyć z nałogiem, to nie pomogą żadne leki wspomagające, plasterki, akupunktura czy hipnozy. Bez silnego postanowienia wcześniej czy później wrócimy do starego nałogu. Świadomym tego jest i prof. Tombak, który pisze, że przejście na prawidłowy sposób odżywiania powinno odbywać się stopniowo.
 
-• 
-
-**Zaczynamy od soków warzywnych (dwa razy dziennie po szklance) nie zmieniając dotychczasowego sposobu odżywiania. Tak postępujemy przez pierwsze 1-1,5 miesiąca.**
-
-• 
-
-**Przez następne 1,5-2 miesięcy dodajemy do jadłospisu więcej sałatek i warzyw, tak by 30-40% danego pożywienia stanowiły surowe, gotowane lub duszone warzywa.**
-
-• 
-
-**Zmieniamy proporcje między surowym a gotowanym jedzeniem. Surowe - 60%, gotowane - 40%.**
-
-• 
-
-**Przy zestawianiu codziennego menu powinno się kierować prostą zasadą - jeść co rośnie na ziemi, pod ziemią, na drzewach oraz miód, jajka, produkty mleczno-kwaśne, pić herbaty z ziół i świeżo przygotowane soki z owoców i warzyw.**
-
-• 
-
-**Należy zmienić kolejność spożywanych artykułów - płyny spożywać 20 minut przed jedzeniem, owoce przed jedzeniem, pierwsze danie surówka, drugie danie - węglowodany (kasze, ziemniaki itp.) lub białka (mięso, ryby, groch, jaja itp.)**
-
-• 
-
-**Ograniczyć do minimum spożycie sztucznie hodowanych, rafinowanych i wędzonych produktów.**
+- **Zaczynamy od soków warzywnych (dwa razy dziennie po szklance) nie zmieniając dotychczasowego sposobu odżywiania. Tak postępujemy przez pierwsze 1-1,5 miesiąca.**
+- **Przez następne 1,5-2 miesięcy dodajemy do jadłospisu więcej sałatek i warzyw, tak by 30-40% danego pożywienia stanowiły surowe, gotowane lub duszone warzywa.**
+- **Zmieniamy proporcje między surowym a gotowanym jedzeniem. Surowe - 60%, gotowane - 40%.**
+- **Przy zestawianiu codziennego menu powinno się kierować prostą zasadą - jeść co rośnie na ziemi, pod ziemią, na drzewach oraz miód, jajka, produkty mleczno-kwaśne, pić herbaty z ziół i świeżo przygotowane soki z owoców i warzyw.**
+- **Należy zmienić kolejność spożywanych artykułów - płyny spożywać 20 minut przed jedzeniem, owoce przed jedzeniem, pierwsze danie surówka, drugie danie - węglowodany (kasze, ziemniaki itp.) lub białka (mięso, ryby, groch, jaja itp.)**
+- **Ograniczyć do minimum spożycie sztucznie hodowanych, rafinowanych i wędzonych produktów.**
 
 Kiedy poczujemy, że taki sposób odżywiania "wszedł nam w krew" wystarczy dalej przestrzegać zasad zdrowego odżywiania:
 
-• 
-
-**Spożywajmy produkty wyhodowane w regionie, w którym mieszkamy.**
-
-• 
-
-**Spożywajmy warzywa, owoce, orzechy ściśle według sezonów ich dojrzewania.**
-
-• 
-
-**Każdy posiłek powinien zawierać surowe latem, a duszone lub kiszone warzywa zimą.**
-
-• 
-
-**Rezygnujmy ze spożywania pieczywa drożdżowego, jedzmy chleb pieczony z mąki gruboziarnistej.**
-
-• 
-
-**Przygotowujmy posiłki zgodnie z tabelą łączenia produktów.**
-
-• 
-
-**Dokładnie przeżuwajmy pokarm.**
-
-• 
-
-**Przyrządzajmy posiłki bezpośrednio przed jedzeniem i starajmy się je zjadać zaraz po przyrządzeniu.**
-
-• 
-
-**Nie odgrzewajmy wielokrotnie posiłków i nie jedzmy posiłków przygotowanych wczorajszego dnia.**
-
-• 
-
-**Zmniejszajmy spożywanie posiłków sztucznych, rafinowanych i wędzonych.**
-
-• 
-
-**Rezygnujmy w miarę możliwości z potraw gotowych i produktów konserwowanych.**
-
-• 
-
-**Zmniejszajmy spożywanie kawy i herbaty.**
-
-• 
-
-**Dodawajmy do potraw przyprawy (szczególnie zimą).**
-
-• 
-
-**W porze letniej i jesiennej róbmy dzień "truskawkowy", "czereśniowy", "jabłkowy" itp. nic więcej nie jedząc.**
-
-• 
-
-**Raz w tygodniu przeprowadzajmy "post" trwający 16-24 godzin, pijąc w tym czasie tylko przegotowaną wodę.**
-
-• 
-
-**Gdy pojawi się świeża marchew, buraki, jabłka pijmy świeżo przygotowane soki nawet do 1 litra dziennie.**
-
-• 
-
-**Walczmy z zaparciami - to główny wróg zdrowia i główna przyczyna starzenia się organizmu.**
-
-• 
-
-**Od poniedziałku do piątku odżywiajmy się skromnie.**
-
-• 
-
-**Natomiast w soboty i w niedzielę róbmy sobie święto i jedzmy wszystko, co chcemy, zgodnie z zasadą starożytnych lekarzy - nawet trucizna w małych ilościach może być lekarstwem.**
+- **Spożywajmy produkty wyhodowane w regionie, w którym mieszkamy.**
+- **Spożywajmy warzywa, owoce, orzechy ściśle według sezonów ich dojrzewania.**
+- **Każdy posiłek powinien zawierać surowe latem, a duszone lub kiszone warzywa zimą.**
+- **Rezygnujmy ze spożywania pieczywa drożdżowego, jedzmy chleb pieczony z mąki gruboziarnistej.**
+- **Przygotowujmy posiłki zgodnie z tabelą łączenia produktów.**
+- **Dokładnie przeżuwajmy pokarm.**
+- **Przyrządzajmy posiłki bezpośrednio przed jedzeniem i starajmy się je zjadać zaraz po przyrządzeniu.**
+- **Nie odgrzewajmy wielokrotnie posiłków i nie jedzmy posiłków przygotowanych wczorajszego dnia.**
+- **Zmniejszajmy spożywanie posiłków sztucznych, rafinowanych i wędzonych.**
+- **Rezygnujmy w miarę możliwości z potraw gotowych i produktów konserwowanych.**
+- **Zmniejszajmy spożywanie kawy i herbaty.**
+- **Dodawajmy do potraw przyprawy (szczególnie zimą).**
+- **W porze letniej i jesiennej róbmy dzień "truskawkowy", "czereśniowy", "jabłkowy" itp. nic więcej nie jedząc.**
+- **Raz w tygodniu przeprowadzajmy "post" trwający 16-24 godzin, pijąc w tym czasie tylko przegotowaną wodę.**
+- **Gdy pojawi się świeża marchew, buraki, jabłka pijmy świeżo przygotowane soki nawet do 1 litra dziennie.**
+- **Walczmy z zaparciami - to główny wróg zdrowia i główna przyczyna starzenia się organizmu.**
+- **Od poniedziałku do piątku odżywiajmy się skromnie.**
+- **Natomiast w soboty i w niedzielę róbmy sobie święto i jedzmy wszystko, co chcemy, zgodnie z zasadą starożytnych lekarzy - nawet trucizna w małych ilościach może być lekarstwem.**
 
 Na zakończenie pierwsze dziesiątki witaminowo-pierwiastkowej listy przebojów:
 
-**Witamina A**
+| 🟩 **Witamina A** | 🟩 **Witamina B1** | 🟩 **Witamina B2** | 🟩 **Witamina PP** | 🟩 **Witamina C** |
+| --- | --- | --- | --- | --- |
+| ⬜ |   |   |   |   |
+| 🟩 Tran<br>Wątroba cielęca<br>Wątroba wołowa<br>Wątroba wieprzowa<br>Marchew<br>Szpinak<br>Nać pietruszki<br>Morele suszone<br>Botwina<br>Dynia | 🟩 Orzechy laskowe<br>Groch suchy<br>Szynka chuda<br>Wieprzowina chuda<br>Fasola sucha<br>Płatki owsiane<br>Kiełbasa sucha<br>Kasza gryczana<br>Węgorz wędzony<br>Orzechy włoskie | 🟩 Wątroba cielęca<br>Wątroba wołowa<br>Wątroba wieprzowa<br>Migdały<br>Węgorz wędzony<br>Makrela wędzona<br>Ser twarogowy<br>Pieczarki świeże<br>Ser edamski<br>Ser tylżycki | 🟩 Wątroba cielęca<br>Wątroba wołowa<br>Wątroba wieprzowa<br>Orzeszki ziemne<br>Węgorz wędzony<br>Makrela wędzona<br>Kura, kurczak<br>Makrela świeża<br>Indyk<br>Łosoś wędzony | 🟩 Chrzan<br>Czarna porzeczka<br>Nać pietruszki<br>Papryka<br>Brukselka<br>Koperek<br>Kalafior<br>Poziomki, Truskawki<br>Szpinak<br>Cytryna |
 
-**Witamina B1**
-
-**Witamina B2**
-
-**Witamina PP**
-
-**Witamina C**
-
-Tran  
-Wątroba cielęca  
-Wątroba wołowa  
-Wątroba wieprzowa  
-Marchew  
-Szpinak  
-Nać pietruszki  
-Morele suszone  
-Botwina  
-Dynia
-
-Orzechy laskowe  
-Groch suchy  
-Szynka chuda  
-Wieprzowina chuda  
-Fasola sucha  
-Płatki owsiane  
-Kiełbasa sucha  
-Kasza gryczana  
-Węgorz wędzony  
-Orzechy włoskie
-
-Wątroba cielęca  
-Wątroba wołowa  
-Wątroba wieprzowa  
-Migdały  
-Węgorz wędzony  
-Makrela wędzona  
-Ser twarogowy  
-Pieczarki świeże  
-Ser edamski  
-Ser tylżycki
-
-Wątroba cielęca  
-Wątroba wołowa  
-Wątroba wieprzowa  
-Orzeszki ziemne  
-Węgorz wędzony  
-Makrela wędzona  
-Kura, kurczak  
-Makrela świeża  
-Indyk  
-Łosoś wędzony
-
-Chrzan  
-Czarna porzeczka  
-Nać pietruszki  
-Papryka  
-Brukselka  
-Koperek  
-Kalafior  
-Poziomki, Truskawki  
-Szpinak  
-Cytryna
-
-**Wapń**
-
-**Fosfor**
-
-**Żelazo**
-
-Mak  
-Ser edamski  
-Ser tylżycki  
-Szprot wędzony  
-Migdały  
-Czekolada mleczna  
-Nać pietruszki  
-Figi  
-Orzechy laskowe  
-Fasola sucha  
-
-Kakao w proszku  
-Orzechy laskowe  
-Mak  
-Żółtka jaj świeże  
-Ser edamski  
-Ser tylżycki  
-Migdały  
-Kasza gryczana  
-Czekolada gorzka  
-Fasola sucha
-
-Wątroba wieprzowa  
-Mak  
-Kakao w proszku  
-Wątroba cielęca  
-Żółtka jaj świeże  
-Fasola sucha  
-Wątroba wołowa  
-Kasza gryczana  
-Kaszo jaglana  
-Kiełbasa sucha
+| 🟩 **Wapń** | 🟩 **Fosfor** | 🟩 **Żelazo** |
+| --- | --- | --- |
+| ⬜ |   |   |
+| 🟩 Mak<br>Ser edamski<br>Ser tylżycki<br>Szprot wędzony<br>Migdały<br>Czekolada mleczna<br>Nać pietruszki<br>Figi<br>Orzechy laskowe<br>Fasola sucha | 🟩 Kakao w proszku<br>Orzechy laskowe<br>Mak<br>Żółtka jaj świeże<br>Ser edamski<br>Ser tylżycki<br>Migdały<br>Kasza gryczana<br>Czekolada gorzka<br>Fasola sucha | 🟩 Wątroba wieprzowa<br>Mak<br>Kakao w proszku<br>Wątroba cielęca<br>Żółtka jaj świeże<br>Fasola sucha<br>Wątroba wołowa<br>Kasza gryczana<br>Kaszo jaglana<br>Kiełbasa sucha |
 
 Lista została opracowana na podstawie wydawnictw z lat 60 i 70-tych. Być może do tej pory zaszły jakieś zmiany. Należy tylko uważać na produkty zwędzone, które nie są zalecane.
 

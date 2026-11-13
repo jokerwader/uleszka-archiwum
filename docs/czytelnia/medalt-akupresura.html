@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="Refleksoterapia – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Tekst, oparty na książkach Jadwigi Górnickiej i Teresy Tuszyńskiej, opisuje refleksoterapię stóp (akupresurę): masaż stref refleksyjnych stóp powiązanych z narządami wewnętrznymi. ">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/medalt-akupresura.html">
-<meta property="og:image" content="https://jokerwader.github.io/uleszka-archiwum/og.png">
+<meta property="og:url" content="https://uleszka.net/czytelnia/medalt-akupresura.html">
+<meta property="og:image" content="https://uleszka.net/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">Technika masażu</a></li><li><a href="#r-2">AKUPRESURA JEST DOSKONAŁĄ METODĄ PROFILAKTYCZNĄ, LECZNICZĄ I POMOCNICZĄ</a></li><li><a href="#r-3">KAŻDY MASAŻ CHOREGO NARZĄDU (LECZNICZY I PROFILAKTYCZNY) MUSI KAŻDORAZOWO POPRZEDZAĆ MASAŻ WSTĘPNY</a></li><li><a href="#r-4">Masaż wstępny</a></li><li><a href="#r-5">UKŁAD WYDALNICZY</a></li><li><a href="#r-6">GŁOWA (MÓZGOWIE)</a></li><li><a href="#r-7">UKŁAD TRAWIENNY</a></li><li><a href="#r-8">UKŁAD LIMFATYCZNY</a></li><li><a href="#r-9">Masaż profilaktyczny dla zdrowych</a></li><li><a href="#r-10">Masaże w leczeniu chorób</a></li><li><a href="#r-11">PRZED PRZYSTĄPIENIEM DO MASAŻU LECZNICZEGO NALEŻY BEZWZGLĘDNIE WYKONAĆ MASAŻ WSTĘPNY</a></li><li><a href="#r-12">ZANIK MIĘŚNI</a></li><li><a href="#r-13">ŁUSZCZYCA</a></li><li><a href="#r-14">STWARDNIENIE ROZSIANE</a></li><li><a href="#r-15">Dbajmy o stopy</a></li><li><a href="#r-16">Akupresura dla leniwych i zaganianych</a></li><li><a href="#r-17">Strefy refleksyjne wewnątrz dłoni</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details open><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html" class="aktualny" aria-current="page">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#zapomniana-medycyna">Zapomniana medycyna</a></p>
   <h1>Refleksoterapia</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Tekst, oparty na książkach Jadwigi Górnickiej i Teresy Tuszyńskiej, opisuje refleksoterapię stóp (akupresurę): masaż stref refleksyjnych stóp powiązanych z narządami wewnętrznymi. Autor omawia technikę, kolejność masażu (wstępny, profilaktyczny, leczniczy), przeciwwskazania, możliwe reakcje oczyszczające oraz podaje tabelę receptorów do masowania przy kilkudziesięciu chorobach. Dodaje uwagi o pielęgnacji stóp, chodzeniu boso i domowym „dreptaniu” po kamykach. Twierdzi też, że wiedza o punktach akupresury musiała pochodzić od „kogoś”, a nie z kilku tysięcy lat obserwacji.</p>
@@ -36,39 +72,84 @@
 <p>Akupresura polega na masażu bądź ucisku tak zwanych stref refleksyjnych znajdujących się na stopach mających powiązania z poszczególnymi organami wewnętrznymi. Masaż stref refleksyjnych stóp powoduje lepszy przepływ krwi i bioenergii, które docierają do organu powiązanego z dana strefą. Podczas masażu energia biochemiczna dociera łatwiej do chorego organu i po określonym czasie następuje wyraźna poprawa, a następnie wyleczenie. Stwierdzono, że bardzo niekorzystny wpływ na krążenie krwi i bioenergii ma niewygodne i ciasne obuwie. Należy więc unikać butów uciskajacych stopę i wywołujących na niej stwardnienia i modzele oraz powodujących, że stopa staje się zimna, co jest oznaką niewłaściwego przepływu krwi. Nieodpowiednie obuwie może wywołać brak reakcji na masaże.</p>
 <p>Masaże przyczyniają się do lepszego ukrwienia chorych narządów i wpływają na polepszenie sił witalnych organizmu. Masażom stóp moga poddawać się wszyscy, i młodzi i starzy, od niemowlaka po staruszka. Wiek nie stanowi żadnej przeszkody ani przeciwskazań. W przypadku przykrej reakcji organizmu, co zdarza się niezmiernie rzadko, należy zaprzestać masażu. Refleksoterapia stosowana właściwie nie daje objawów ubocznych. Masaż stóp przynosi dobre skutki lecznicze w wielu chorobach.</p>
 <p><strong>Bez zapoznania się z podstawowymi wiadomościami, a szczególnie bez znajomości masażu wstępnego i kolejności masowania receptorów, stanowczo odradzam eksperymentowania na sobie lub na kimś innym - skutki mogą okazać się fatalne.</strong></p>
-<p><strong>Technika masażu</strong></p>
-<p><strong>AKUPRESURA JEST DOSKONAŁĄ METODĄ PROFILAKTYCZNĄ, LECZNICZĄ I POMOCNICZĄ</strong></p>
+<p class="rozdzial" id="r-1"><strong>Technika masażu</strong></p>
+<p class="rozdzial" id="r-2"><strong>AKUPRESURA JEST DOSKONAŁĄ METODĄ PROFILAKTYCZNĄ, LECZNICZĄ I POMOCNICZĄ</strong></p>
 <p>Decydując się na akupresurę profilaktyczną stóp należy bezwzględnie pamiętać, że masaże muszą być wykonywane w ściśle określonej kolejności:</p>
-<p><strong>•</strong> </p>
-<p><strong>Przed rozpoczęciem</strong> masażu należy się rozprężyć, rozluźnić. Poleca się np. wziąć 20 głębokich oddechów najlepiej przy otwartym oknie.</p>
-<p><strong>•</strong> </p>
-<p><strong>Przed przystąpieniem</strong> do masażu należy całą stopę rozgrzać przez intensywne wygniatanie albo przez lekkie natłuszczenie kremem czy olejkiem.</p>
-<p><strong>•</strong> </p>
-<p>Strefy refleksyjne masujemy brzuścem (opuszkiem) kciuka albo kostką zgiętego (kłykciem) palca w sposób okrężny. Miejsce masowane należy przed tym posmarować kremem kosmetycznym, lub lepiej olejem roślinnym. Pamiętać też należy, że <strong>kierunek masażu powinien być zgodny z przepływem zawartości</strong> - np. z jelita cienkiego do grubego, z nerki do pęcherza itp.</p>
-<p>Masując ręcznie warunkiem dobrego masażu jest dobra pozycja masażysty i masowanego. Obydwaj powinni usiąść wygodnie naprzeciw siebie w pozycji bez napięcia. Podczas masażu punktów refleksyjnych na spodzie stopy, noga masowanego powinna spocząć na kolanie masującego. Przy masażu wierzchniej strony stopy osoba masowana winna postawić nogę na kolanie masującego. Przy masowaniu pięty, kostek i nogi osoba masowana przyjmuje pozycję wygiętą i trzymając się masowanego stawia stopę bokiem na kolanie masującego.</p>
-<p><strong>•</strong> </p>
-<p><strong>Masaż zawsze zaczynamy od lewej nogi</strong> (po stronie serca) i od śródstopia. U niektórych osób strefy refleksyjne mogą być lekko przesunięte. Nie należy się tym martwić. Ważne jest, by masować bolesne miejsce na stopie.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>•</strong></th>
+<th><strong>Przed rozpoczęciem</strong> masażu należy się rozprężyć, rozluźnić. Poleca się np. wziąć 20 głębokich oddechów najlepiej przy otwartym oknie.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>•</strong></td>
+<td><strong>Przed przystąpieniem</strong> do masażu należy całą stopę rozgrzać przez intensywne wygniatanie albo przez lekkie natłuszczenie kremem czy olejkiem.</td>
+</tr>
+<tr>
+<td><strong>•</strong></td>
+<td>Strefy refleksyjne masujemy brzuścem (opuszkiem) kciuka albo kostką zgiętego (kłykciem) palca w sposób okrężny. Miejsce masowane należy przed tym posmarować kremem kosmetycznym, lub lepiej olejem roślinnym. Pamiętać też należy, że <strong>kierunek masażu powinien być zgodny z przepływem zawartości</strong> - np. z jelita cienkiego do grubego, z nerki do pęcherza itp.</td>
+</tr>
+<tr>
+<td></td>
+<td>Masując ręcznie warunkiem dobrego masażu jest dobra pozycja masażysty i masowanego. Obydwaj powinni usiąść wygodnie naprzeciw siebie w pozycji bez napięcia. Podczas masażu punktów refleksyjnych na spodzie stopy, noga masowanego powinna spocząć na kolanie masującego. Przy masażu wierzchniej strony stopy osoba masowana winna postawić nogę na kolanie masującego. Przy masowaniu pięty, kostek i nogi osoba masowana przyjmuje pozycję wygiętą i trzymając się masowanego stawia stopę bokiem na kolanie masującego.</td>
+</tr>
+<tr>
+<td><strong>•</strong></td>
+<td><strong>Masaż zawsze zaczynamy od lewej nogi</strong> (po stronie serca) i od śródstopia. U niektórych osób strefy refleksyjne mogą być lekko przesunięte. Nie należy się tym martwić. Ważne jest, by masować bolesne miejsce na stopie.</td>
+</tr>
+</tbody></table></div>
 <p>Masaż każdego punktu rozpoczynamy od ruchów łagodnych, powoli i systematycznie zwiększając nacisk, jednocześnie obserwując twarz osoby masowanej. Siła nacisku ma być taka, aby osoba masowana wytrzymywała ból przy ucisku. Przeciętna siła ucisku palca masującego winna wynosić 5-10 kg (najlepiej sprawdzić to na wadze kuchennej, przyciskając szalkę). Efekt ozdrowieńczy jest tym szybszy, im większy nacisk został użyty. Przystępując po raz pierwszy do masażu osobie, która jeszcze nie była masowana, stosujemy następujący scenariusz czasowy:</p>
-<p><strong>•</strong> </p>
-<p>W <strong>pierwszym tygodniu</strong> stosujemy ograniczone czasy masażu - 3 razy 3 sekundowe uciski na receptor z przerwą 1-2 sekund.</p>
-<p><strong>•</strong> </p>
-<p>W <strong>drugim tygodniu</strong> podwajamy czas.</p>
-<p><strong>•</strong> </p>
-<p>Od <strong>trzeciego tygodnia</strong> stosujemy normalne czasy masażu.</p>
-<p><strong>KAŻDY MASAŻ CHOREGO NARZĄDU (LECZNICZY I PROFILAKTYCZNY) MUSI KAŻDORAZOWO POPRZEDZAĆ MASAŻ WSTĘPNY</strong></p>
-<p><strong>•</strong> </p>
-<p>Najpierw należy poddawać masażom strefy <strong>nerek</strong>, <strong>moczowodu</strong>, <strong>pęcherza moczowego</strong> i <strong>nadnercza</strong>. Tym układom należy poświęcić najwięcej uwagi. Pomaga to rozpuszczać i usuwać z krwioobiegu trucizny (przede wszystkim kwas moczowy). Gdybyśmy zaczęli masaż od innych receptorów, moglibyśmy doprowadzić do zablokowania nerek toksynami i złogami.</p>
-<p><strong>•</strong> </p>
-<p>Następnie <strong>głowy</strong> w celu usprawnienia ośrodka sterującego układami i narządami,</p>
-<p><strong>•</strong> </p>
-<p>W dalszej kolejności - strefy refleksyjne <strong>żołądka</strong>, <strong>jelita</strong>, <strong>wątroby</strong> i <strong>trzustki</strong>. W tym układzie mamy organy, w których zachodzi odtruwanie i przemiana materii. Od ich sprawnego działania zależy przygotowanie materiałów do budowy i odbudowy organizmu.</p>
-<p><strong>•</strong> </p>
-<p>Na koniec <strong>punkty limfatyczne</strong>, które usprawniają rozkład substancji żużlowych i dostarczają organizmowi substancji o działaniu obronnym.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>•</strong></th>
+<th>W <strong>pierwszym tygodniu</strong> stosujemy ograniczone czasy masażu - 3 razy 3 sekundowe uciski na receptor z przerwą 1-2 sekund.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>•</strong></td>
+<td>W <strong>drugim tygodniu</strong> podwajamy czas.</td>
+</tr>
+<tr>
+<td><strong>•</strong></td>
+<td>Od <strong>trzeciego tygodnia</strong> stosujemy normalne czasy masażu.</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-3"><strong>KAŻDY MASAŻ CHOREGO NARZĄDU (LECZNICZY I PROFILAKTYCZNY) MUSI KAŻDORAZOWO POPRZEDZAĆ MASAŻ WSTĘPNY</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>•</strong></th>
+<th>Najpierw należy poddawać masażom strefy <strong>nerek</strong>, <strong>moczowodu</strong>, <strong>pęcherza moczowego</strong> i <strong>nadnercza</strong>. Tym układom należy poświęcić najwięcej uwagi. Pomaga to rozpuszczać i usuwać z krwioobiegu trucizny (przede wszystkim kwas moczowy). Gdybyśmy zaczęli masaż od innych receptorów, moglibyśmy doprowadzić do zablokowania nerek toksynami i złogami.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>•</strong></td>
+<td>Następnie <strong>głowy</strong> w celu usprawnienia ośrodka sterującego układami i narządami,</td>
+</tr>
+<tr>
+<td><strong>•</strong></td>
+<td>W dalszej kolejności - strefy refleksyjne <strong>żołądka</strong>, <strong>jelita</strong>, <strong>wątroby</strong> i <strong>trzustki</strong>. W tym układzie mamy organy, w których zachodzi odtruwanie i przemiana materii. Od ich sprawnego działania zależy przygotowanie materiałów do budowy i odbudowy organizmu.</td>
+</tr>
+<tr>
+<td><strong>•</strong></td>
+<td>Na koniec <strong>punkty limfatyczne</strong>, które usprawniają rozkład substancji żużlowych i dostarczają organizmowi substancji o działaniu obronnym.</td>
+</tr>
+</tbody></table></div>
 <p>Dopiero po wykonaniu masażu tych stref refleksyjnych można przejść do masowania stref refleksyjnych chorego narządu. Jeśli w masażu leczniczym powtarzają się receptory z masowania wstępnego, to masujemy je ponownie.</p>
-<p><strong>•</strong> </p>
-<p>W przypadku chorych narządów czas masowania winien wynosić 10-15 minut, a w stanach krytycznych nawet 20-25 minut. W ostatnim przypadku wskazane jest masowanie receptorów kilka razy dziennie po 5-10 minut i za każdym razem po wykonaniu masażu wstępnego.</p>
-<p><strong>•</strong> </p>
-<p>Pamiętać należy, że czas masowania receptorów kręgosłupa i wątroby zależy od sprawności nerek. W przypadku kamicy stopniowo zwiększamy czas, by złogi zaczęły się rozpuszczać a nie rozkruszać i do moczu szedł piasek, a nie kolczaste kawałki, które mogą zaczopować przewód moczowy.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>•</strong></th>
+<th>W przypadku chorych narządów czas masowania winien wynosić 10-15 minut, a w stanach krytycznych nawet 20-25 minut. W ostatnim przypadku wskazane jest masowanie receptorów kilka razy dziennie po 5-10 minut i za każdym razem po wykonaniu masażu wstępnego.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>•</strong></td>
+<td>Pamiętać należy, że czas masowania receptorów kręgosłupa i wątroby zależy od sprawności nerek. W przypadku kamicy stopniowo zwiększamy czas, by złogi zaczęły się rozpuszczać a nie rozkruszać i do moczu szedł piasek, a nie kolczaste kawałki, które mogą zaczopować przewód moczowy.</td>
+</tr>
+</tbody></table></div>
 <p>Każdy masaż rozpoczynamy od masażu <strong>diagnostycznego</strong>. Należy ustalić, które organy są niewydolne i jaki jest stopień ich niewydolności. Jest to bardzo trudny etap i wymaga od badającego ogromnej wiedzy (w tym medycznej) i doświadczenia. Niezbędny jest przy tym wywiad z chorym pacjentem. Przy chorym organie jego punkt refleksyjny jest czuły na dotyk, wrażliwy, a czasem jego dotyk sprawia badanemu ból. Dopiero po badaniu diagnostycznym przechodzimy do masażu profilaktycznego (lub wstępnego), którego zadaniem jest zapewnienie pełnej sprawności funkcjonalnej organizmu przy aktualnie dobrym samopoczuciu. Ostatnim etapem jest masaż leczniczy. Jego celem jest przywrócenie sprawności funkcjonalnej organowi lub organom, które jak ustalono w wyniku przeprowadzonej diagnozy, nie mają pełnej wydolności.</p>
 <hr>
 <p><strong>Przeciwskazania - rozległe skaleczenia skóry, ciąża, ciężkie choroby krążenia krwi lub choroby z niewydolnością serca, wysoka gorączka, schizofrenia, przejście ciężkiej operacji, wszystkie choroby wrodzone, przeszczepy narządów, zawansowane choroby nowotworowe złośliwe, przypadki wymagające interwencji chirurga (złamania, przedziurawienia żołądka i dwunastnicy, niedrożność jelit itp.). Nie wolno masować receptorów gdzie znajdują się &quot;wkładki nieorganiczne&quot; - rozrusznik serca, spiralka, szkła kontaktowe.</strong></p>
@@ -76,50 +157,68 @@
 <p>Jeśli nasze stopy posiadają stwardnienia, odciski i modzele, to najpierw trzeba się ich pozbyć, gdyż żaden masaż nie przyniesie rezultatu.</p>
 <hr>
 <p>Z powodu intensywnego podrażnienia jednego organu może (ale nie musi) występować przejściowa reakcja, która znika po pewnym czasie. Masażu nie należy przerywać, bo reakcje te są przejściowe i świadczą o tym, że organizm podjął trud wydalania substancji toksycznych. Do takich objawów należą:</p>
-<p><strong>1.</strong></p>
-<p>Opuchnięcie stawów skokowych lub nadgarstków.</p>
-<p><strong>2.</strong></p>
-<p>Nasilony obraz żylaków.</p>
-<p><strong>3.</strong></p>
-<p>Zwiększony ból w narządzie, którego receptor jest masowany.</p>
-<p><strong>4.</strong></p>
-<p>Siniaki i torbiele, które pojawiają się na ciele, a szczególnie na nogach.</p>
-<p><strong>5.</strong></p>
-<p>Stopniowe ciemnienie moczu, aż do barwy pomarańczowej, a nawet brązowej.</p>
-<p><strong>6.</strong></p>
-<p>Podwyższona temperatura ciała. Nie należy jednak zażywać środków obniżających temperaturę, ponieważ w wyższej zabijane są bakterie, wirusy i obce ciała. Powinno się ten okres przeleżeć w łóżku aż temperatura samoistnie opadnie.</p>
-<p><strong>7.</strong></p>
-<p>Niebieskie plamy, gdy gospodarka wapniem jest zdezorganizowana.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>1.</strong></th>
+<th>Opuchnięcie stawów skokowych lub nadgarstków.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>2.</strong></td>
+<td>Nasilony obraz żylaków.</td>
+</tr>
+<tr>
+<td><strong>3.</strong></td>
+<td>Zwiększony ból w narządzie, którego receptor jest masowany.</td>
+</tr>
+<tr>
+<td><strong>4.</strong></td>
+<td>Siniaki i torbiele, które pojawiają się na ciele, a szczególnie na nogach.</td>
+</tr>
+<tr>
+<td><strong>5.</strong></td>
+<td>Stopniowe ciemnienie moczu, aż do barwy pomarańczowej, a nawet brązowej.</td>
+</tr>
+<tr>
+<td><strong>6.</strong></td>
+<td>Podwyższona temperatura ciała. Nie należy jednak zażywać środków obniżających temperaturę, ponieważ w wyższej zabijane są bakterie, wirusy i obce ciała. Powinno się ten okres przeleżeć w łóżku aż temperatura samoistnie opadnie.</td>
+</tr>
+<tr>
+<td><strong>7.</strong></td>
+<td>Niebieskie plamy, gdy gospodarka wapniem jest zdezorganizowana.</td>
+</tr>
+</tbody></table></div>
 <p>A co zrobić, gdy ktoś nie ma drugiej osoby pomocnej w masażu, a samemu jest mu bardzo trudno go wykonać? Można i należy sobie poradzić w inny sposób. Specjaliści wyliczyli, że w naszych stopach znajduje się 72 tysiące zakończeń nerwowych i dlatego powinniśmy się starać chodzić boso po drobno kamienistym podłożu. Takie podłoże możemy zrobić sobie w domu. Należy tylko nazbierać kamyczków z morskiej plaży lub poprosić kogoś z budowy by wam podarował około 1,5 kg kamieni po odsianiu przy robieniu zaprawy cementowej. Najlepsze to takie o średnicy od 1 do 3 cm i koniecznie zaokrąglone, by nie pokaleczyć stóp. W domu należy je przebrać, wypłukać i zagotować w wodzie, by usunąć możliwe bakterie i inne zanieczyszczenia organiczne. Następnie wsypujemy je do miski, nalewamy chłodnej wody i drepczemy przez około 10 minut dziennie. Jeśli dreptać będziemy w zimnej wodzie przez 1-2 minuty będziemy się od razu hartować, co sprzyja obronie organizmu przed infekcjami. Sami chodźmy i pozwólmy domownikom chodzić boso po mieszkaniu (oczywiście jeśli nikt w domu nie ma grzybicy stóp). To też hartuje. Jak mawiał Hipokrates - najlepsze obuwie, to brak obuwia.</p>
 <p>Jak pisze Teresa Tuszyńska, jest wiele osób, które dzięki akupresurze odzyskały zdrowie i radość życia. Wprawdzie nauka jeszcze nie do końca wyjaśniła, jak to się dzieje, że akupresura przynosi tak duże efekty, to mamy jednak szereg dowodów na potwierdzenie jej skuteczności. Aby się o tym przekonać wystarczy zrobić proste doświadczenie - należy pomasować środkowy palec u nogi (receptor środkowego palca ręki) - po prawidłowym masażu środkowy palec ręki da wrażenie ciepła, gdyż nastąpiło lepsze ukrwienie.</p>
 <p>Pamiętajmy też, że (na wszelki wypadek) trzeba zgłosić lekarzowi o naszym rozpoczęciu terapii akupresurą i od czasu do czasu skontrolować wyniki badań.</p>
-<p><strong>Masaż wstępny</strong></p>
+<p class="rozdzial" id="r-4"><strong>Masaż wstępny</strong></p>
 <p>Masaż wstępny powinien trwać około 30 minut (na każdą stopę poświęcamy około 15 minut).</p>
-<p><strong>UKŁAD WYDALNICZY</strong></p>
+<p class="rozdzial" id="r-5"><strong>UKŁAD WYDALNICZY</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/2wydalanie.gif" alt="Schemat stopy z zaznaczonymi punktami refleksologicznymi układu wydalniczego, podpisanymi na żółtych tabliczkach. Napis: Nadnercze 21; Nerka 22; Przewód moczowy 23; Pęcherz moczowy 24; Penis, Pochwa, Cewka moczowa 51" title="Opis AI: Schemat stopy z zaznaczonymi punktami refleksologicznymi układu wydalniczego, podpisanymi na żółtych tabliczkach. Napis: Nadnercze 21; Nerka 22; Przewód moczowy 23; Pęcherz moczowy 24; Penis, Pochwa, Cewka moczowa 51" loading="lazy" decoding="async"></p>
 <p><strong>Masujemy receptory w kolejności - nerka, przewód moczowy, pęcherz moczowy, cewka moczowa, penis i nadnercze. Pamiętajmy, aby masaż długich receptorów prowadzić w kierunku wydalania substancji. Receptory rozmieszczone są symetrycznie na obu stopach (lewa nerka - lewa stopa) i po 5 minutach masowania lewej stopy, analogiczne czynności wykonujemy przez 5 minut na prawej stopie</strong>.</p>
 <p><strong>Nerki</strong> - wydalają toksyny, a w szczególności kwasy moczowe i wodę. Strefa refleksyjna nerek znajduje się dość głęboko w środku stopy, w miejscu nie podlegającemu normalnemu ruchowi, z wyjątkiem kiedy chodzi się boso po nierównym kamienistym terenie. Przez masaż strefy refleksyjnej nerka staje się bardziej ukrwiona i bardziej wydolna. W okresie od 1 do 6 tygodni można stwierdzić zabarwienie się moczu, który przybiera kolor żółty, żółtobrunatny lub czerwonobrunatny. Zapach moczu może ulec zmianie i może mieć przejściowo przykry zapach. Kiedy nerka jest mało wydolna można zaobserwować zakłócenia: W obiegu krwi - wywołuje wysokie ciśnienie krwi, zwapnienie arterii i kurczowe żył. W mięśniach i tkance łącznej - wywołuje reumatyzm. W stawach - prowadzi do zapaleń w stawach i do chronicznych, zwyrodnieniowych zmian w stawach. W oczach - dość częste zaburzenia wzroku. Na skórze - różnego typu egzemy i łuszczyce. W nerkach - odkładanie kamieni i piasku.</p>
 <p><strong>Przewody moczowe</strong> - oba maja postać długich, cienkich i mięsistych rurek, które zaczynają się lejkowato na miedniczce nerkowej i prowadzą do pęcherza moczowego. Mogą występować następujące zakłócenia w ich pracy - zaginanie lub zawężenie przewodów, które powodują wstrzymanie moczu i jego prąd odwrotny z pęcherza do nerek albo zapalenia manifestujące się jako krótkie (strzyknięcia, ciągnięcia), kłujące bóle w dolnej części brzucha, często brane jako zapalenie jajowodu.</p>
 <p><strong>Pęcherz moczowy i cewka moczowa (penis)</strong>. Pęcherz moczowy jest muskularną jamą pomiędzy mięśniem zwieracza i cewką moczową. Mogą występować zapalenia objawiające się piekącymi bólami przy oddawaniu moczu. Bóle te występują częściej u kobiet. Kurcze pęcherza moczowego powodujące moczenie nocne ze względu na słabe mięśnie zwieracza.</p>
-<p><strong>GŁOWA (MÓZGOWIE)</strong></p>
+<p class="rozdzial" id="r-6"><strong>GŁOWA (MÓZGOWIE)</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/2mozg.gif" alt="Schemat palców stopy z zaznaczonym punktem mózgowia na czubku dużego palca. Napis: Mózgowie 1" title="Opis AI: Schemat palców stopy z zaznaczonym punktem mózgowia na czubku dużego palca. Napis: Mózgowie 1" loading="lazy" decoding="async"></p>
 <p><strong>Receptory mózgowia występują na obu stopach, w części środkowej palucha lekko przesunięte w kierunku pozostałych palców. Na prawej stopie znajduje się receptor lewej półkuli mózgu, na lewej - prawej półkuli. Całość masujemy około 2 minut (po 1 minucie na każdą stopę)</strong>.</p>
 <p>Mózgowie stanowi centralę organizmu. Każdy narząd ma połączenie z mózgowiem (percepcyjne i sterujące). Znajdują się w nim ośrodki: oddychania, czynności serca, sterowania, ciśnienia krwi, funkcjonowania żołądka i dwunastnicy, emocji, przyjemności itd. Mózg to istota szara mózgowia, a w nim znajduje się ośrodek mowy, świadomości, percepcji zmysłowej, doznawania wrażeń i uczuć ruchu. Zakłócenia pracy mózgowia, to zakłócenia we wszystkich organach. Przykładowo po wstrząsie mózgu może dojść do obecności krwi w moczu mimo, że nerki nie zostały uszkodzone. To właśnie mózg przekazuje nerkom fałszywe rozkazy i podobnie może się stać z każdym organem.</p>
 <p>Po wstrząsie mózgu stwierdza się, że oba paluchy stopy stają się bardzo wrażliwe i bolesne przy dotyku. Przy leczeniu trzeba pomaleńku i delikatnie masować te miejsce 3 razy dziennie. Po 10 dniach osiąga się pozytywne rezultaty. Dużo osób cierpi na bóle głowy, których przyczyny są różnorakie. Najczęstszą jest noszenie zbyt ciasnego obuwia (szczególnie przez kobiety). Już po 2-3 godzinach noszenia ciasnego obuwia możemy zacząć odczuwać silne bóle głowy. Do przyczyn bólu głowy można jeszcze zaliczyć zakłócenia w przewodzie trawiennym. Bóle głowy mogą powodować zakłócenia okresowe w cyklu menstruacyjnym, nadwerężenie wzroku czy konflikty psychiczne.</p>
-<p><strong>UKŁAD TRAWIENNY</strong></p>
+<p class="rozdzial" id="r-7"><strong>UKŁAD TRAWIENNY</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/2trawienie.gif" alt="Schemat spodów obu stóp z zaznaczonymi strefami narządów układu pokarmowego. Napis: Woreczek żółciowy 19; Wątroba 18; Żołądek 15; Trzustka 17; Dwunastnica 16; Jelito grube wstępujące 28; Jelito grube poprzeczne 29; Jelito grube zstępujące 30; Wyrostek robaczkowy 26; Jelito cienkie 25; Zastawka krętniczo-kątnicza 27; Odbyt 32; Kiszka odchodowa 31" title="Opis AI: Schemat spodów obu stóp z zaznaczonymi strefami narządów układu pokarmowego. Napis: Woreczek żółciowy 19; Wątroba 18; Żołądek 15; Trzustka 17; Dwunastnica 16; Jelito grube wstępujące 28; Jelito grube poprzeczne 29; Jelito grube zstępujące 30; Wyrostek robaczkowy 26; Jelito cienkie 25; Zastawka krętniczo-kątnicza 27; Odbyt 32; Kiszka odchodowa 31" loading="lazy" decoding="async"></p>
 <p><strong>Receptory układu trawiennego masujemy około 5 minut.<br>Na <strong>prawej stopie</strong> masujemy: żołądek, dwunastnicę, trzustkę, wątrobę i woreczek żółciowy (pamiętając, że oba narządy mają receptory tylko na prawej stopie), następnie jelito cienkie, wyrostek robaczkowy, zastawkę krętniczą, jelito grube wznoszące i kończymy na jelicie poprzecznym.<br>Na <strong>stopie lewej</strong> - żołądek, dwunastnicę, trzustkę, jelito cienkie, jelito poprzeczne, jelito grube zstępujące, kiszkę odchodową i odbyt</strong>.</p>
 <p><strong>Żołądek</strong>. Zakłócenia w jego pracy, to wymioty, wzdęcia, uczucie pełności, dolegliwości sercowe i wrzody żołądka. <strong>Dwunastnica</strong> to pierwsze 25 cm jelita cienkiego. Pracuje w środowisku zasadowym i nawet mała ilość kwasów powoduje jej zakłócenia. Kiedy zbyt zakwaszona zawartość dostanie się do dwunastnicy ta reaguje spazmatycznym skurczem. Wtedy też gwałtownie zacieśniają się ujścia z trzustki i woreczka żółciowego co powoduje niedobór żółci i enzymów trawiennych, a to z kolei zakłóca odtruwanie wątroby, trawienie tłuszczów i wypróżnianie.</p>
 <p><strong>Wątroba</strong> ma do spełnienia około 500 funkcji i jest głównym organem przemiany materii. Zakłócenia w pracy wątroby są przyczyną żółtaczki, marskości, bólów, braki w substancjach budulcowych, zapalenia pęcherzyka żółciowego. Jesteśmy ciągle zmęczeni, rozdrażnieni i cierpimy na bezsenność. <strong>Pęcherzyk żółciowy</strong> jest zbiornikiem żółci produkowanej przez wątrobę (około 1 litra dziennie), której zadaniem jest wspomaganie trawienia tłustego pożywienia. <strong>Trzustka</strong> produkuje soki trawienne (do rozkładu węglowodanów i białek) i hormony (glukagon i insulinę). Chora trzustka to choroby przemiany materii, zakłócenia budulcowe w organizmie i cukrzyca.</p>
 <p><strong>Jelito cienkie</strong>. Zakłócenia w jego pracy to wzdęcia i biegunka przewlekła w wyniku której cierpi się na bóle brzucha, wypadanie włosów, zmęczenie, nerwowość, depresję i przedwczesne starzenie się. <strong>Jelito grube</strong> składa się z jelita ślepego, okrężnic - wstępującej, poprzecznej, zstępującej, i esowatej oraz odbytu. Zakłócenia pracy jelita grubego to wzdęcia w podbrzuszu, zapalenie wyrostka robaczkowego, biegunki, zaparcia, zapalenia odbytu i hemoroidy.</p>
-<p><strong>UKŁAD LIMFATYCZNY</strong></p>
+<p class="rozdzial" id="r-8"><strong>UKŁAD LIMFATYCZNY</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/2limfa.gif" alt="Schemat stopy z zaznaczonymi punktami układu limfatycznego. Napis: Gruczoły limfatyczne podbrzusza 40; Gruczoły limfatyczne górnej części tułowia 39; Przewód limfatyczny piersiowy 41" title="Opis AI: Schemat stopy z zaznaczonymi punktami układu limfatycznego. Napis: Gruczoły limfatyczne podbrzusza 40; Gruczoły limfatyczne górnej części tułowia 39; Przewód limfatyczny piersiowy 41" loading="lazy" decoding="async"></p>
 <p><strong>Receptory układu limfatycznego masujemy około 2 minut (po 1 minucie na każdą stopę) w kolejności - węzły chłonne górnej części tułowia, węzły chłonne trzewne i limfatyczny przewód piersiowy</strong>.</p>
 <p>Tory limfatyczne zaczynają się od cienko zakończonych rureczek. Łączą się one w naczynia większe, które przenoszą limfę w kierunku centralnym. W ten sposób naczynia dolnej połowy ciała doprowadzają limfę do zbiornika limfy, znajdującego się pod przeponą brzuszną. Stąd limfa płynie do strumienia limfatyczno-piersiowego, który pobiera też pewną ilość płynu limfatycznego górnej połowy organizmu i kieruje ją do dużych arterii.</p>
 <p>Naczynia limfatyczne przenoszą dziennie około 2 litrów wody tkankowej i tłuszczów z jelit. W tej wodzie tkankowej znajdują się również bakterie i substancje obce (węgiel, popiół i inne), a także enzymy. Limfa jest ogniwem pośrednim pomiędzy krwią i tkankami. Węzły limfatyczne (chłonne) mają zadanie filtrowania limfy i tworzenia białych krwinek (limfocytów), które muszą być odnawiane co drugi dzień. Węzły znajdują się w tkance łącznej miednicy, brzucha, w środkowej części klatki piersiowej, żołądku, dwunastnicy, a także (dobrze wyczuwalne przy infekcjach) w pachwinie, pod pachami i w gardle. Do sieci limfatycznej należą również migdałki, śledziona i wyrostek robaczkowy (bezlitośnie wyrzynany już przy pierwszym zapaleniu, bo przez medycynę jest traktowany jako organ niepotrzebny i zanikający w wyniku ewolucji podobnie jak kość ogonowa).</p>
 <p>Z zaburzeniami limfatycznymi związane jest przekrwienie we wszystkich organach, mięśniaki, torbiele, wrzody czy nowotwory. Objawem może być woda w nogach, spuchnięte kostki, cellulitis oraz niedobór przeciwciał. Należy pamiętać, że walce przeciwciał z infekcją zawsze towarzyszy gorączka i nie należy jej &quot;zbijać&quot; środkami syntetycznymi, gdyż w ten sposób sami obniżamy odporność organizmu i przedłużamy walkę z chorobą.</p>
 <p><strong>Przedstawione wiadomości, to wstęp do masaży profilaktycznych i leczniczych. Należy je bezwzględnie opanować i zapamiętać, jeśli chce się pomóc sobie lub innym. Proszę też pamiętać, że są to &quot;suche&quot; wiadomości i swoje wątpliwości należy pogłębiać lekturą fachowych opracowań lub pod okiem doświadczonego masażysty lub terapeuty.</strong></p>
-<p><strong>Masaż profilaktyczny dla zdrowych</strong></p>
+<p class="rozdzial" id="r-9"><strong>Masaż profilaktyczny dla zdrowych</strong></p>
 <p>Masaż profilaktyczny dla ludzi zdrowych wykonuje się prawie identycznie jak masaż wstępny z dodaniem masowania receptorów karku i kręgosłupa.</p>
 <p>     <strong>•</strong> <strong>MASAŻ RECEPTORÓW UKŁADU WYDALNICZEGO - 5 minut</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/2wydalanie.gif" alt="Schemat stopy z zaznaczonymi punktami refleksologicznymi układu wydalniczego, podpisanymi na żółtych tabliczkach. Napis: Nadnercze 21; Nerka 22; Przewód moczowy 23; Pęcherz moczowy 24; Penis, Pochwa, Cewka moczowa 51" title="Opis AI: Schemat stopy z zaznaczonymi punktami refleksologicznymi układu wydalniczego, podpisanymi na żółtych tabliczkach. Napis: Nadnercze 21; Nerka 22; Przewód moczowy 23; Pęcherz moczowy 24; Penis, Pochwa, Cewka moczowa 51" loading="lazy" decoding="async"></p>
@@ -150,9 +249,9 @@
 <p>Naczynia limfatyczne przenoszą dziennie około 2 litrów wody tkankowej i tłuszczów z jelit. W tej wodzie tkankowej znajdują się również bakterie i substancje obce (węgiel, popiół i inne), a także enzymy. Limfa jest ogniwem pośrednim pomiędzy krwią i tkankami. Węzły limfatyczne (chłonne) mają zadanie filtrowania limfy i tworzenia białych krwinek (limfocytów), które muszą być odnawiane co drugi dzień. Węzły znajdują się w tkance łącznej miednicy, brzucha, w środkowej części klatki piersiowej, żołądku, dwunastnicy, a także (dobrze wyczuwalne przy infekcjach) w pachwinie, pod pachami i w gardle. Do sieci limfatycznej należą również migdałki, śledziona i wyrostek robaczkowy (bezlitośnie wyrzynany już przy pierwszym zapaleniu, bo przez medycynę jest traktowany jako organ niepotrzebny i zanikający w wyniku ewolucji podobnie jak kość ogonowa).</p>
 <p>Z zaburzeniami limfatycznymi związane jest przekrwienie we wszystkich organach, mięśniaki, torbiele, wrzody czy nowotwory. Objawem może być woda w nogach, spuchnięte kostki, cellulitis oraz niedobór przeciwciał. Należy pamiętać, że walce przeciwciał z infekcją zawsze towarzyszy gorączka i nie należy jej &quot;zbijać&quot; środkami syntetycznymi, gdyż w ten sposób sami obniżamy odporność organizmu i przedłużamy walkę z chorobą.</p>
 <p>Masaż profilaktyczny wykonany prawidłowo na pewno nikomu nie zaszkodzi, a zapewni pełną sprawność funkcjonalną naszego organizmu. Należy pamiętać, że najlepszym masażem jest masaż naturalny, a taki zapewnia nam chodzenie boso po nierównościach - kamieniste plaże, podłoże leśne z szyszkami, polne ścieżki czy nawet domowe &quot;ostre&quot; wycieraczki lub drewniane wałki turlane &quot;od niechcenia&quot; stopami podczas oglądania telewizji. Chodźmy sami i pozwólmy innym domownikom (dzieciom też) chodzić boso po mieszkaniu.</p>
-<p><strong>Masaże w leczeniu chorób</strong></p>
+<p class="rozdzial" id="r-10"><strong>Masaże w leczeniu chorób</strong></p>
 <p>Masaż receptorów stóp pomaga w wielu chorobach i dolegliwościach. Dużą skuteczność ma w leczeniu takich chorób jak stany stresowe, nadciśnienie, astma, dolegliwości nerek i pęcherza moczowego, bóle głowy, wrzody żołądka i dwunastnicy, zaburzenia wzroku a nawet guzy piersi. Nie zawsze jednak można liczyć na to, że od razu nastąpi poprawa stanu zdrowia. Na swoją chorobę &quot;pracujemy&quot; przecież miesiącami i latami. Zdarzają się przypadki natychmiastowego (lub prawie) wyleczenia, ale najczęściej musimy poczekać kilka tygodni, a nawet miesięcy. Ogromną rolę odgrywa tu nasza psychika. Musimy uwierzyć, że któregoś dnia zobaczymy pozytywne skutki tej metody leczenia.</p>
-<p><strong>PRZED PRZYSTĄPIENIEM DO MASAŻU LECZNICZEGO NALEŻY BEZWZGLĘDNIE WYKONAĆ MASAŻ WSTĘPNY</strong></p>
+<p class="rozdzial" id="r-11"><strong>PRZED PRZYSTĄPIENIEM DO MASAŻU LECZNICZEGO NALEŻY BEZWZGLĘDNIE WYKONAĆ MASAŻ WSTĘPNY</strong></p>
 <p>Na rysunkach poniżej przedstawiam rozmieszczenie najczęściej masowanych receptorów. Nasza refleksoterapia, uznana przez oficjalną medycynę, zna około stu punktów do masażu, a to podobno zaledwie 10% tego, co zna i używa akupresura chińska. Przed przystąpieniem do masaży leczniczych najlepiej zgrać je na własny twardy dysk i wydrukować. Będzie o wiele łatwiej odszukiwać potrzebne receptory czytając opis masaży przy poszczególnych chorobach.</p>
 <p><strong>Położenie receptorów układu moczowo-płciowego</strong>.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/3moczowy.gif" alt="Schemat stopy z punktami układu moczowo-płciowego. Napis: Nadnercze 21; Nerka 22; Jajniki, Jądra, Moszna 36; Przewód moczowy 23; Pęcherz moczowy 24; Penis, Pochwa, Cewka moczowa 51; Macica, Prostata 50" title="Opis AI: Schemat stopy z punktami układu moczowo-płciowego. Napis: Nadnercze 21; Nerka 22; Jajniki, Jądra, Moszna 36; Przewód moczowy 23; Pęcherz moczowy 24; Penis, Pochwa, Cewka moczowa 51; Macica, Prostata 50" loading="lazy" decoding="async"></p>
@@ -163,285 +262,377 @@
 <p><strong>Położenie pozostałych receptorów</strong>.</p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/3pozostale.gif" alt="Duży schemat stóp z zaznaczonymi punktami pozostałych narządów: zatoki, oczy, uszy, płuca, serce, stawy. Napis: Zatoki czołowe (lewa połowa) 2; Zatoki czołowe (prawa połowa) 2; Móżdżek 3; Kark 7; Ucho lewe 9; Oko lewe 8; Ramię prawe 10; Uszy prawe 9; Oko prawe 8; Ramię lewe 10; Umięśnienie trapezoidalne 11; Płuca i oskrzela 14; Splot słoneczny 20; Serce 33; Staw biodrowy 35; Odprężenie podbrzusza 37; Nerw trójdzielny (skroniowy) 5; Kiszka odchodowa (hemoroidy) 52; Staw biodrowy 38; Narząd równowagi 42; Nos 6; Przytarczyca 13; Szczęka dolna 46; Szczęka górna 47; Krtań i tchawica 48; Piersi 43; Kolano 35" title="Opis AI: Duży schemat stóp z zaznaczonymi punktami pozostałych narządów: zatoki, oczy, uszy, płuca, serce, stawy. Napis: Zatoki czołowe (lewa połowa) 2; Zatoki czołowe (prawa połowa) 2; Móżdżek 3; Kark 7; Ucho lewe 9; Oko lewe 8; Ramię prawe 10; Uszy prawe 9; Oko prawe 8; Ramię lewe 10; Umięśnienie trapezoidalne 11; Płuca i oskrzela 14; Splot słoneczny 20; Serce 33; Staw biodrowy 35; Odprężenie podbrzusza 37; Nerw trójdzielny (skroniowy) 5; Kiszka odchodowa (hemoroidy) 52; Staw biodrowy 38; Narząd równowagi 42; Nos 6; Przytarczyca 13; Szczęka dolna 46; Szczęka górna 47; Krtań i tchawica 48; Piersi 43; Kolano 35" loading="lazy" decoding="async"></p>
 <p>Poniżej wykaz najczęściej spotykanych chorób i dolegliwości, które możemy leczyć refleksoterapią. Teresa Tuszyńska podaje je za &quot;Refleksoterapią dłoni i stóp&quot; wydaną przez Bydgoskie Stowarzyszenie Radiestezyjne (Bydgoszcz 1988). Przypomnieć jeszcze należy, że każdy masaż leczniczy musi byc poprzedzony <strong>masażem wstępnym</strong> oraz to, że pomimo wystąpienia masażu receptora w masażu wstępnym, w masażu leczniczym <strong>masujemy go powtórnie</strong>.</p>
-<p><strong>BEZSENNOŚĆ</strong></p>
-<p><strong>CHOROBA WIEŃCOWA</strong></p>
-<p><strong>IMPOTENCJA</strong></p>
-<p><strong>SŁUCH (osłabienie)</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  serce (<strong>33</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  jądra (<strong>36</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  ucho (<strong>9</strong>)</p>
-<hr>
-<p><strong>WZROST (zaburzenia)</strong></p>
-<p><strong>CHOROBA BASEDOWA</strong></p>
-<p><strong>GARDŁO (zapalenie)</strong></p>
-<p><strong>Nadczynność tarczycy</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  szczęka dolna (<strong>46</strong>)<br><strong>•</strong>  szczęka górna (<strong>47</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)</p>
-<hr>
-<p><strong>NADKWASOTA</strong></p>
-<p><strong>PIECZENIE STÓP</strong></p>
-<p><strong>WOLE</strong></p>
-<p><strong>Wrzód dwunastnicy</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  splot słoneczny (<strong>20</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  masować wszystkie<br>receptory na stopie</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)</p>
-<hr>
-<p><strong>ZEZ</strong></p>
-<p><strong>CUKRZYCA</strong></p>
-<p><strong>MOCZENIE NOCNE</strong></p>
-<p><strong>OMDLENIE</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  oczy (<strong>8</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)</p>
-<hr>
-<p><strong>SZUM W USZACH</strong></p>
-<p><strong>DALEKOWZROCZNOŚĆ</strong></p>
-<p><strong>DNA (skaza moczanowa)</strong></p>
-<p><strong>Dolegliwości serca</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  ucho (<strong>9</strong>)<br><strong>•</strong>  błędnik (<strong>42</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  oczy (<strong>8</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>54</strong>)</p>
-<hr>
-<p><strong>EGZEMA</strong></p>
-<p><strong>KRÓTKOWZROCZNOŚĆ</strong></p>
-<p><strong>OKRES (bolesny)</strong></p>
-<p><strong>MIGRENA</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  oczy (<strong>8</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  jajniki (<strong>36</strong>)<br><strong>•</strong>  macica (<strong>50</strong>)<br><strong>•</strong>  odprężenie podbrzusza<br>(bóle okresowe) (<strong>37</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerw trójdzielny (<strong>5</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  narząd równowagi (<strong>42</strong>)<br><strong>•</strong>  ewentualnie żołądek (<strong>15</strong>)</p>
-<hr>
-<p><strong>NADCIŚNIENIE</strong></p>
-<p><strong>ZAPALENIE PROSTATY</strong></p>
-<p><strong>DOLEGLIWOŚCI SERCA</strong></p>
-<p><strong>STWARDNIENIE TĘTNIC</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  móżdżek (<strong>3</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  prostata (<strong>50</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)</p>
-<hr>
-<p><strong>ALERGIA</strong></p>
-<p><strong>BÓLE GRZBIETU</strong></p>
-<p><strong>DUSZNOŚĆ</strong></p>
-<p><strong>ISCHIAS</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczka (<strong>13</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  kręgi szyjne (<strong>53</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)<br><strong>•</strong>  kość krzyżowa i ogonowa (<strong>56</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  pień mózgu, móżdżek (<strong>3</strong>)<br><strong>•</strong>  nos (<strong>6</strong>)<br><strong>•</strong>  płuca (<strong>14</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kolana (<strong>35</strong>)</p>
-<hr>
-<p><strong>OKRES NIEREGULARNY</strong></p>
-<p><strong>NIEDOCIŚNIENIE</strong></p>
-<p><strong>PÓŁPASIEC</strong></p>
-<p><strong>Zwyr. stawu kolanowego</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  jajniki (<strong>36</strong>)<br><strong>•</strong>  odprężenie podbrzusza<br>(bóle okresowe) (<strong>37</strong>)<br><strong>•</strong>  macica (<strong>50</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  pień mózgu (<strong>3</strong>)<br><strong>•</strong>  narząd równowagi (<strong>42</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kolano (<strong>35</strong>)</p>
-<hr>
-<p><strong>ANGINA PECTORIS</strong></p>
-<p><strong>JASKRA</strong></p>
-<p><strong>TRĄDZIK</strong></p>
-<p><strong>ZAĆMA</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  mózg (<strong>1</strong>)<br><strong>•</strong>  oczy (<strong>8</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  woreczek żółciowy (<strong>19</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  oczy (<strong>8</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)</p>
-<hr>
-<p><strong>BRAK APETYTU</strong></p>
-<p><strong>KOLKA</strong></p>
-<p><strong>Zapalenie migdałów</strong></p>
-<p><strong>OKO (jęczmień)</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  jelito cienkie (<strong>25</strong>)<br><strong>•</strong>  zastawka krętnicza (<strong>27</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  migdałki (<strong>45</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  oko (<strong>8</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>OPARZENIA</strong></p>
-<p><strong>SZCZĘKI (ból)</strong></p>
-<p><strong>Zap. zatok czołowych</strong></p>
-<p><strong>ŻYLAKI</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  receptory oparzonych<br>narządów<br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  nerw trójdzielny (<strong>5</strong>)<br><strong>•</strong>  szczęka dolna (<strong>46</strong>)<br><strong>•</strong>  szczęka górna (<strong>47</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  zatoki (<strong>2</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)<br><strong>•</strong>  kość krzyżowa i ogonowa (<strong>56</strong>)</p>
-<hr>
-<p><strong>ANGINA</strong></p>
-<p><strong>BÓL GARDŁA</strong></p>
-<p><strong>HEMOROIDY</strong></p>
-<p><strong>KATAR SIENNY</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  krtań (<strong>48</strong>)<br><strong>•</strong>  migdały (<strong>45</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  migdały (<strong>45</strong>)<br><strong>•</strong>  krtań (<strong>48</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  odbyt (<strong>32</strong>)<br><strong>•</strong>  kiszka odchodowa<br>(hemoroidy) (<strong>52</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  nos (<strong>6</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)<br><strong>•</strong>  krtań (<strong>48</strong>)</p>
-<hr>
-<p><strong>ŚWINKA</strong></p>
-<p><strong>Zwężenie tętnic</strong></p>
-<p><strong>UPŁAWY</strong></p>
-<p><strong>USZY (ból)</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  gruczoły płciowe (<strong>36</strong>)<br><strong>•</strong>  migdały (<strong>45</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  receptory narządów,<br>w których występuje<br>zwężenie tętnic</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  pochwa (<strong>51</strong>)<br><strong>•</strong>  macica (<strong>50</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  ucho (<strong>9</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>Zap. zatok nosowych</strong></p>
-<p><strong>ANEMIA</strong></p>
-<p><strong>BRONCHIT</strong></p>
-<p><strong>KAMICA ŻÓŁCIOWA</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  zatoki (<strong>2</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  śledziona (<strong>34</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  płuca i odkrzela (<strong>14</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  woreczek żółciowy (<strong>19</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>KASZEL</strong></p>
-<p><strong>MIĘŚNIAKI</strong></p>
-<p><strong>NIEŻYT OSKRZELI</strong></p>
-<p><strong>Zap. pęcherza moczowego</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  jajniki (<strong>36</strong>)<br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  macica (<strong>50</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>Stan zapalny organizmu</strong></p>
-<p><strong>NIEWYDOLNOŚĆ TRZUSTKI</strong></p>
-<p><strong>WYPADANIE WŁOSÓW</strong></p>
-<p><strong>ZAPARCIA</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  receptory zaatakowanych<br>narządów<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły płciowe (<strong>36</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  kiszka odchodowa,<br>hemoroidy (<strong>52</strong>)</p>
-<hr>
-<p><strong>Zap. pęcherza żółciowego</strong></p>
-<p><strong>ZAPALENIE PŁUC</strong></p>
-<p><strong>ŻÓŁTACZKA</strong></p>
-<p><strong>DOLEGLIWOŚCI KOBIECE</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)<br><strong>•</strong>  jajniki (<strong>36</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)</p>
-<hr>
-<p><strong>GRYPA</strong></p>
-<p><strong>NIEWYDOLNOŚĆ NEREK</strong></p>
-<p><strong>OBRZĘKI</strong></p>
-<p><strong>ASTMA</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  nos (<strong>6</strong>)<br><strong>•</strong>  śledziona (<strong>34</strong>)<br><strong>•</strong>  migdały (<strong>45</strong>)<br><strong>•</strong>  i niekiedy zatoki czołowe (<strong>2</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)</p>
-<hr>
-<p><strong>ZAPALENIE JAJNIKÓW</strong></p>
-<p><strong>NIEWYDOLNOŚĆ WĄTROBY</strong></p>
-<p><strong>ZŁA PRZEMIANA MATERII</strong></p>
-<p><strong>REUMATYZM</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  jajniki (<strong>36</strong>)<br>oraz niekiedy również<br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  wątroba (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>18</strong>)<br>w przypadku infekcji również<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)  </p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  przytarczyca(<strong>13</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)</p>
-<hr>
-<p><strong>WYPRYSKI</strong></p>
-<p><strong>ZAPALENIE STAWÓW</strong></p>
-<p><strong>GOŚCIEC</strong></p>
-<p><strong>LĘKI</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  receptory chorych stawów</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  ewentualnie błędnik (<strong>42</strong>)</p>
-<hr>
-<p><strong>ZAPALENIE JELIT</strong></p>
-<p><strong>ZMĘCZENIE</strong></p>
-<p><strong>Choroba Parkinsona</strong></p>
-<p><strong>ZWICHNIĘCIE KRĘGU</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  jelito cienkie (<strong>25</strong>)<br><strong>•</strong>  zastawka krętnicza (<strong>27</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  nadnercze(<strong>21</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  kręgi szyjne (<strong>53</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)<br><strong>•</strong>  kość krzyżowa i ogonowa (<strong>56</strong>)</p>
-<hr>
-<p><strong>BIEGUNKA</strong></p>
-<p><strong>DYSKOPATIA</strong></p>
-<p><strong>Zwyr. stawu biodrowego</strong></p>
-<p><strong>BIAŁACZKA</strong></p>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  przy silnej biegunce<br>masować dodatkowo<br>splot słoneczny (<strong>20</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  kręgi szyjne (<strong>53</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)<br><strong>•</strong>  kość krzyżowa i ogonowa (<strong>56</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  ramię (<strong>10</strong>)<br><strong>•</strong>  staw biodrowy (<strong>38</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)</p>
-<hr>
-<p><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  płuca i odkrzela (<strong>14</strong>)</p>
-<hr>
-<p><strong>ZANIK MIĘŚNI</strong></p>
-<p><strong>ŁUSZCZYCA</strong></p>
-<p><strong>STWARDNIENIE ROZSIANE</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>BEZSENNOŚĆ</strong></th>
+<th>🟧 <strong>CHOROBA WIEŃCOWA</strong></th>
+<th>🟩 <strong>IMPOTENCJA</strong></th>
+<th>🟦 <strong>SŁUCH (osłabienie)</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  serce (<strong>33</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  jądra (<strong>36</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  ucho (<strong>9</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>WZROST (zaburzenia)</strong></th>
+<th><strong>CHOROBA BASEDOWA</strong></th>
+<th>🟦 <strong>GARDŁO (zapalenie)</strong></th>
+<th>🟦 <strong>Nadczynność tarczycy</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  szczęka dolna (<strong>46</strong>)<br><strong>•</strong>  szczęka górna (<strong>47</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>NADKWASOTA</strong></th>
+<th><strong>PIECZENIE STÓP</strong></th>
+<th>🟦 <strong>WOLE</strong></th>
+<th><strong>Wrzód dwunastnicy</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  splot słoneczny (<strong>20</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  masować wszystkie<br>receptory na stopie<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>ZEZ</strong></th>
+<th><strong>CUKRZYCA</strong></th>
+<th>🟩 <strong>MOCZENIE NOCNE</strong></th>
+<th>🟦 <strong>OMDLENIE</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  oczy (<strong>8</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>SZUM W USZACH</strong></th>
+<th>🟩 <strong>DALEKOWZROCZNOŚĆ</strong></th>
+<th><strong>DNA (skaza moczanowa)</strong></th>
+<th>🟧 <strong>Dolegliwości serca</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  ucho (<strong>9</strong>)<br><strong>•</strong>  błędnik (<strong>42</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  oczy (<strong>8</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>54</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>EGZEMA</strong></th>
+<th>🟩 <strong>KRÓTKOWZROCZNOŚĆ</strong></th>
+<th>🟩 <strong>OKRES (bolesny)</strong></th>
+<th>🟦 <strong>MIGRENA</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  oczy (<strong>8</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  jajniki (<strong>36</strong>)<br><strong>•</strong>  macica (<strong>50</strong>)<br><strong>•</strong>  odprężenie podbrzusza<br>(bóle okresowe) (<strong>37</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerw trójdzielny (<strong>5</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  narząd równowagi (<strong>42</strong>)<br><strong>•</strong>  ewentualnie żołądek (<strong>15</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟧 <strong>NADCIŚNIENIE</strong></th>
+<th>🟩 <strong>ZAPALENIE PROSTATY</strong></th>
+<th>🟧 <strong>DOLEGLIWOŚCI SERCA</strong></th>
+<th>🟧 <strong>STWARDNIENIE TĘTNIC</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  móżdżek (<strong>3</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  prostata (<strong>50</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>ALERGIA</strong></th>
+<th>🟩 <strong>BÓLE GRZBIETU</strong></th>
+<th>🟦 <strong>DUSZNOŚĆ</strong></th>
+<th>🟩 <strong>ISCHIAS</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczka (<strong>13</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  kręgi szyjne (<strong>53</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)<br><strong>•</strong>  kość krzyżowa i ogonowa (<strong>56</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  pień mózgu, móżdżek (<strong>3</strong>)<br><strong>•</strong>  nos (<strong>6</strong>)<br><strong>•</strong>  płuca (<strong>14</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kolana (<strong>35</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟩 <strong>OKRES NIEREGULARNY</strong></th>
+<th>🟧 <strong>NIEDOCIŚNIENIE</strong></th>
+<th><strong>PÓŁPASIEC</strong></th>
+<th>🟩 <strong>Zwyr. stawu kolanowego</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  jajniki (<strong>36</strong>)<br><strong>•</strong>  odprężenie podbrzusza<br>(bóle okresowe) (<strong>37</strong>)<br><strong>•</strong>  macica (<strong>50</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  pień mózgu (<strong>3</strong>)<br><strong>•</strong>  narząd równowagi (<strong>42</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kolano (<strong>35</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>ANGINA PECTORIS</strong></th>
+<th>🟩 <strong>JASKRA</strong></th>
+<th><strong>TRĄDZIK</strong></th>
+<th>🟩 <strong>ZAĆMA</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  mózg (<strong>1</strong>)<br><strong>•</strong>  oczy (<strong>8</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  woreczek żółciowy (<strong>19</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  oczy (<strong>8</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>BRAK APETYTU</strong></th>
+<th><strong>KOLKA</strong></th>
+<th>🟦 <strong>Zapalenie migdałów</strong></th>
+<th>🟩 <strong>OKO (jęczmień)</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  jelito cienkie (<strong>25</strong>)<br><strong>•</strong>  zastawka krętnicza (<strong>27</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  migdałki (<strong>45</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  oko (<strong>8</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>OPARZENIA</strong></th>
+<th>🟩 <strong>SZCZĘKI (ból)</strong></th>
+<th>🟦 <strong>Zap. zatok czołowych</strong></th>
+<th>🟧 <strong>ŻYLAKI</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  receptory oparzonych<br>narządów<br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  nerw trójdzielny (<strong>5</strong>)<br><strong>•</strong>  szczęka dolna (<strong>46</strong>)<br><strong>•</strong>  szczęka górna (<strong>47</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  zatoki (<strong>2</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)<br><strong>•</strong>  kość krzyżowa i ogonowa (<strong>56</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>ANGINA</strong></th>
+<th>🟦 <strong>BÓL GARDŁA</strong></th>
+<th><strong>HEMOROIDY</strong></th>
+<th>🟦 <strong>KATAR SIENNY</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  krtań (<strong>48</strong>)<br><strong>•</strong>  migdały (<strong>45</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  migdały (<strong>45</strong>)<br><strong>•</strong>  krtań (<strong>48</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  odbyt (<strong>32</strong>)<br><strong>•</strong>  kiszka odchodowa<br>(hemoroidy) (<strong>52</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  nos (<strong>6</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)<br><strong>•</strong>  krtań (<strong>48</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>ŚWINKA</strong></th>
+<th>🟧 <strong>Zwężenie tętnic</strong></th>
+<th>🟩 <strong>UPŁAWY</strong></th>
+<th>🟦 <strong>USZY (ból)</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  gruczoły płciowe (<strong>36</strong>)<br><strong>•</strong>  migdały (<strong>45</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  receptory narządów,<br>w których występuje<br>zwężenie tętnic<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  pochwa (<strong>51</strong>)<br><strong>•</strong>  macica (<strong>50</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  ucho (<strong>9</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>Zap. zatok nosowych</strong></th>
+<th><strong>ANEMIA</strong></th>
+<th>🟦 <strong>BRONCHIT</strong></th>
+<th><strong>KAMICA ŻÓŁCIOWA</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  zatoki (<strong>2</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  śledziona (<strong>34</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  płuca i odkrzela (<strong>14</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  woreczek żółciowy (<strong>19</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>KASZEL</strong></th>
+<th>🟩 <strong>MIĘŚNIAKI</strong></th>
+<th>🟦 <strong>NIEŻYT OSKRZELI</strong></th>
+<th><strong>Zap. pęcherza moczowego</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  jajniki (<strong>36</strong>)<br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  macica (<strong>50</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Stan zapalny organizmu</strong></th>
+<th><strong>NIEWYDOLNOŚĆ TRZUSTKI</strong></th>
+<th><strong>WYPADANIE WŁOSÓW</strong></th>
+<th><strong>ZAPARCIA</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  receptory zaatakowanych<br>narządów<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły płciowe (<strong>36</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  kiszka odchodowa,<br>hemoroidy (<strong>52</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Zap. pęcherza żółciowego</strong></th>
+<th>🟦 <strong>ZAPALENIE PŁUC</strong></th>
+<th><strong>ŻÓŁTACZKA</strong></th>
+<th>🟩 <strong>DOLEGLIWOŚCI KOBIECE</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)<br><strong>•</strong>  jajniki (<strong>36</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟦 <strong>GRYPA</strong></th>
+<th><strong>NIEWYDOLNOŚĆ NEREK</strong></th>
+<th><strong>OBRZĘKI</strong></th>
+<th>🟦 <strong>ASTMA</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  nos (<strong>6</strong>)<br><strong>•</strong>  śledziona (<strong>34</strong>)<br><strong>•</strong>  migdały (<strong>45</strong>)<br><strong>•</strong>  i niekiedy zatoki czołowe (<strong>2</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  płuca i oskrzela (<strong>14</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟩 <strong>ZAPALENIE JAJNIKÓW</strong></th>
+<th><strong>NIEWYDOLNOŚĆ WĄTROBY</strong></th>
+<th><strong>ZŁA PRZEMIANA MATERII</strong></th>
+<th>🟩 <strong>REUMATYZM</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  jajniki (<strong>36</strong>)<br>oraz niekiedy również<br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  tarczyca (<strong>12</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  wątroba (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>18</strong>)<br>w przypadku infekcji również<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)  <br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  przytarczyca(<strong>13</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>WYPRYSKI</strong></th>
+<th>🟩 <strong>ZAPALENIE STAWÓW</strong></th>
+<th>🟩 <strong>GOŚCIEC</strong></th>
+<th>🟦 <strong>LĘKI</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  receptory chorych stawów<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  ewentualnie błędnik (<strong>42</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>ZAPALENIE JELIT</strong></th>
+<th>🟦 <strong>ZMĘCZENIE</strong></th>
+<th><strong>Choroba Parkinsona</strong></th>
+<th>🟩 <strong>ZWICHNIĘCIE KRĘGU</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  jelito cienkie (<strong>25</strong>)<br><strong>•</strong>  zastawka krętnicza (<strong>27</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  serce (<strong>33</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  nadnercze(<strong>21</strong>)<br><strong>•</strong>  głowa (<strong>1</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  kręgi szyjne (<strong>53</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)<br><strong>•</strong>  kość krzyżowa i ogonowa (<strong>56</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>BIEGUNKA</strong></th>
+<th>🟩 <strong>DYSKOPATIA</strong></th>
+<th>🟩 <strong>Zwyr. stawu biodrowego</strong></th>
+<th>🟧 <strong>BIAŁACZKA</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  przy silnej biegunce<br>masować dodatkowo<br>splot słoneczny (<strong>20</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  kręgi szyjne (<strong>53</strong>)<br><strong>•</strong>  kręgi piersiowe (<strong>54</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)<br><strong>•</strong>  kość krzyżowa i ogonowa (<strong>56</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  ramię (<strong>10</strong>)<br><strong>•</strong>  staw biodrowy (<strong>38</strong>)<br><strong>•</strong>  kręgi lędźwiowe (<strong>55</strong>)<br>---</td>
+<td><br><strong>masujemy receptory:</strong><br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  płuca i odkrzela (<strong>14</strong>)<br>---</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-12"><strong>ZANIK MIĘŚNI</strong></p>
+<p class="rozdzial" id="r-13"><strong>ŁUSZCZYCA</strong></p>
+<p class="rozdzial" id="r-14"><strong>STWARDNIENIE ROZSIANE</strong></p>
 <p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przysadka mózgowa (<strong>4</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  wątroba (<strong>18</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)</p>
 <hr>
 <p><strong>masujemy receptory:</strong><br><strong>•</strong>  nerka (<strong>22</strong>)<br><strong>•</strong>  przewód moczowy (<strong>23</strong>)<br><strong>•</strong>  pęcherz moczowy (<strong>24</strong>)<br><strong>•</strong>  żołądek (<strong>15</strong>)<br><strong>•</strong>  dwunastnica (<strong>16</strong>)<br><strong>•</strong>  trzustka (<strong>17</strong>)<br><strong>•</strong>  pęcherzyk żółciowy (<strong>19</strong>)<br><strong>•</strong>  jelito wstępujące (<strong>28</strong>)<br><strong>•</strong>  jelito poprzeczne (<strong>29</strong>)<br><strong>•</strong>  jelito zstępujące (<strong>30</strong>)<br><strong>•</strong>  kiszka odchodowa (<strong>31</strong>)<br><strong>•</strong>  gruczoły limfatyczne górnej<br>części tułowia (<strong>39</strong>)<br><strong>•</strong>  gruczoły limfatyczne<br>podbrzusza (<strong>40</strong>)<br><strong>•</strong>  piersiowy przewód<br>limfatyczny (<strong>41</strong>)<br><strong>•</strong>  nadnercze (<strong>21</strong>)<br><strong>•</strong>  przytarczyca (<strong>13</strong>)</p>
@@ -450,13 +641,13 @@
 <hr>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/lnica.gif" alt="Rysunek rośliny z żółtymi kwiatami o wąskich liściach, prawdopodobnie lnica (wg nazwy pliku)." title="Opis AI: Rysunek rośliny z żółtymi kwiatami o wąskich liściach, prawdopodobnie lnica (wg nazwy pliku)." loading="lazy" decoding="async"></p>
 <p>Oczywiście jest to niepełny wykaz chorób. Sposobów leczenia innych schorzeń należy poszukać w literaturze (nie w tej pseudoterapeutycznej) lub u lekarza znającego tajniki akupresury albo u terapeuty zasługującego na zaufanie. Cały czas też apeluję o rozsądek. Jeśli nie jesteśmy pewni tego, co chcemy zrobić, należy zrezygnować z zabiegu. Nie istnieją jeszcze magazyny części zamiennych dla człowieka. To o czym się słyszy i czyta, to tylko nieudolne próby współczesnej medycyny i to eksperymenty, które się jako tako powiodły. Innych ludzkich tragedii nie publikuje się ze względów oczywistych. Jeśli zdecydujemy się na masaże proszę pamiętać, że efekty uzyskamy tylko poprzez systematyczność i cierpliwość. To nie jest leczenie chemią &quot;szybkiego reagowania&quot;. Na wszelkie choroby pracujemy miesiącami a nawet latami, a chcemy wyzdrowieć w ciągu jednego dnia. I pamiętajmy o angielskim przysłowiu - &quot;pomóż sobie sam, a Bóg też ci pomoże&quot;.</p>
-<p><strong>Dbajmy o stopy</strong></p>
+<p class="rozdzial" id="r-15"><strong>Dbajmy o stopy</strong></p>
 <p>Należy dbać o higienę całego ciała, a szczególnie trzeba zwrócić uwagę na stopy i zadbać o ich właściwą pielęgnację. Nosić wygodne obuwie. Wszelkie zgrubienia, nagniotki, odciski znajdujące się na stopach blokują receptory i mogą być przyczyną złego samopoczucia, dolegliwości, a nawet poważnych chorób. Kobiety, które noszą obuwie ciasne lub na wysokim obcasie, często narzekają na silne bóle głowy. Ich przyczyną są ściśnięte palce u nóg.</p>
 <p>Higiena nóg polega na kapieli stóp w gorącej wodzie z dodatkiem 2 łyżek soli jodobromowej (sól zabłocka, iwonicka lub bocheńska). W takiej wodzie moczymy nogi (do kostek) przez około 20-30 minut przynajmniej raz w tygodniu. Po tym zabiegu spłukujemy je zimną wodą. Należy także 1-2 razy w tygodniu ścierać pumeksem wszelkie zgrubienia, nagniotki i odciski na podeszwie. Wskazane jest też moczenie nóg w wywarze z siana lub słomy owsianej. Bierzemy w tym celu 2 litry wody, wrzucamy do niej 2 garście siana lub słomy owsianej i gotujemy na bardzo małym ogniu przez 2 minuty, a następnie pozostawiamy pod przykryciem na 15 minut. Przecedzamy wywar i moczymy w nim nogi przez 20-30 minut. Na zakończenie należy je opłukać zimną wodą i przetrzeć ręcznikiem zmoczonym w zimnej wodzie.</p>
-<p><strong>Akupresura dla leniwych i zaganianych</strong></p>
+<p class="rozdzial" id="r-16"><strong>Akupresura dla leniwych i zaganianych</strong></p>
 <p>W dzisiejszych czasach ludzie brak dbałości o własne zdrowie próbują tłumaczyć codzienną gonitwą - z domu do pracy, z pracy do domu, jak ten gość biegający z pustą taczką. Czemu pan tak biega z pusta taczką? Terminy są tak napięte, że nie ma czasu załadować, padła odpowiedź. Każdy znajdzie 1001 wytłumaczeń na brak czasu, by zacząć dbać o siebie. Nieuchronnie nadchodzi jednak dzień, gdy zaczniemy robić rachunek błędów, ale zwykle już jest za późno. W artykule o &quot;kręgosłupie&quot; opisałem bardzo prostą, skuteczną i wymagającą tylko chwili czasu gimnastykę. A teraz pora na pseudo akupresurę wymagającą tylko 4 minut dziennie, a która choć w części zastępuje tę prawdziwą. Dlaczego w części? Bo prawdziwa akupresura i czas jej trwania, oprócz pracy fizycznej, angażuje także nasz ośrodek myślowy, odpowiedzialny za uruchomienie wewnętrznej apteki.</p>
 <p>Należy zebrać reklamówkę okrągłych kamyków o średnicy od 1 do 3-4 cm (rzeczne otoczaki, kamienie występujące w żwirze, plaże a nawet pola). W domu należy je wypłukać i jeszcze raz obejrzeć, by odrzucić te ostre. Do miski, w której zwykle moczymy nogi, wsypujemy warstwę o grubości 10-15 cm, wlewamy wodę o temperaturze jaką lubimy (możemy dosypać &quot;morskiej&quot; soli kąpielowej, zwykłej soli albo zaparzonych uprzednio ziół), wchodzimy do miski i na stojąco zaczynamy dreptać w miejscu. Zwykle drepcemy około 2 minut, ale można i dłużej, bo tym lepiej. Czynność tą można wykonywać dowolną ilość w ciągu dnia, ale nie mniej niż 2 razy (najlepiej rano i wieczorem). W ten sposób pobudzamy wszystkie receptory, które znajdują się na spodzie stopy i w ten prosty sposób wszystkie plaże świata mamy schowane pod wanną i są dla nas dostępne bez względu na pogodę i porę roku.</p>
-<p><strong>Strefy refleksyjne wewnątrz dłoni</strong></p>
+<p class="rozdzial" id="r-17"><strong>Strefy refleksyjne wewnątrz dłoni</strong></p>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/medalt/recerecept.gif" alt="Schemat obu dłoni z zaznaczonymi strefami refleksologicznymi narządów, opisanymi strzałkami. Napis: Głowa, zatoki; Nos; Pluco; Oczy; Nerka; Żołądek; Kark; Splot słoneczny; Uszy; Bark, ramię; Serce; Kręgi szyjne; Śledziona; Jelito cienkie; Kręgi piersiowe; Wątroba; Jelito grube zstępujące; Kręgi lędźwiowe; Staw biodrowy; Organy płciowe; Jelito grube wstępujące" title="Opis AI: Schemat obu dłoni z zaznaczonymi strefami refleksologicznymi narządów, opisanymi strzałkami. Napis: Głowa, zatoki; Nos; Pluco; Oczy; Nerka; Żołądek; Kark; Splot słoneczny; Uszy; Bark, ramię; Serce; Kręgi szyjne; Śledziona; Jelito cienkie; Kręgi piersiowe; Wątroba; Jelito grube zstępujące; Kręgi lędźwiowe; Staw biodrowy; Organy płciowe; Jelito grube wstępujące" loading="lazy" decoding="async"></p>
 
   </article>
@@ -476,12 +667,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

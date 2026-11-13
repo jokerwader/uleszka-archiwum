@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="Autodiagnoza – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Rozdział poradnikowy, w którym autor – głównie za prof. Michałem Tombakiem – opisuje, jak po wyglądzie zewnętrznym (włosy, paznokcie, czoło, oczy, nos, usta, zęby, język, szyja, sk">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/medalt-objawy.html">
-<meta property="og:image" content="https://jokerwader.github.io/uleszka-archiwum/og.png">
+<meta property="og:url" content="https://uleszka.net/czytelnia/medalt-objawy.html">
+<meta property="og:image" content="https://uleszka.net/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">Włosy</a></li><li><a href="#r-2">Paznokcie</a></li><li><a href="#r-3">Czoło</a></li><li><a href="#r-4">Oczy</a></li><li><a href="#r-5">Brwi</a></li><li><a href="#r-6">Powieki</a></li><li><a href="#r-7">POWIEKI GÓRNE</a></li><li><a href="#r-8">POWIEKI DOLNE</a></li><li><a href="#r-9">Nos</a></li><li><a href="#r-10">Usta</a></li><li><a href="#r-11">Zęby</a></li><li><a href="#r-12">Język</a></li><li><a href="#r-13">Podbródek</a></li><li><a href="#r-14">Szyja</a></li><li><a href="#r-15">Ramiona</a></li><li><a href="#r-16">Skóra</a></li><li><a href="#r-17">O kręgosłupie</a></li><li><a href="#r-18">Częstsze choroby i zewnętrzne objawy</a></li><li><a href="#r-19">Czego potrzebuje organizm</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details open><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html" class="aktualny" aria-current="page">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#zapomniana-medycyna">Zapomniana medycyna</a></p>
   <h1>Autodiagnoza</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Rozdział poradnikowy, w którym autor – głównie za prof. Michałem Tombakiem – opisuje, jak po wyglądzie zewnętrznym (włosy, paznokcie, czoło, oczy, nos, usta, zęby, język, szyja, skóra, ramiona) rozpoznawać choroby i niedobory. Większość tekstu to tabele „oznaka zewnętrzna – możliwa przyczyna”, uzupełnione krótkim zestawieniem częstych chorób i ich widocznych objawów oraz zestawieniem zaburzeń kręgosłupa. Druga część to wykaz witamin, składników mineralnych i innych substancji (funkcja, objawy niedoboru, źródła pokarmowe, co niszczy, ryzyko zatrucia) oparty na książce Patricka Holforda. Autor wnioskuje, że dzisiejsza medycyna niewiele zrozumiała z procesów w organizmie, a ludzie powinni sami uczyć się odczytywać sygnały ciała i uzupełniać braki jedzeniem, nie tabletkami.</p>
@@ -33,818 +69,1298 @@
   <article class="tresc">
 <p><strong>Autodiagnoza</strong><br>Każde leczenie nie dające skutku, to wynik złej diagnozy.</p>
 <p>Prof. Tombak twierdzi, że wiele chorób wewnętrznych ma swoje odzwierciedlenie (sygnał) w wyglądzie zewnętrznym człowieka. Na podstawie obserwacji swojego wyglądu można samemu zorientować się jakie choroby nas trapią (nawet we wczesnym stadium lub pokazują skłonności do choroby), czego kolejnym sygnałem może być ból lub zmiany zewnętrznych części ciała. Przykładem jest &quot;ścięta potylica&quot;, która według niego oznacza skłonności do zapadania na choroby, z których najczęstsze dolegliwości to - ciągłe uczucie słabości, zakłócenia krążenia, migrenowe bóle głowy, bóle wątroby i układu pokarmowego.</p>
-<p><strong>Włosy</strong></p>
+<p class="rozdzial" id="r-1"><strong>Włosy</strong></p>
 <p>Stan włosów jest wykładnikiem naszego samopoczucia. Jeśli włosy stają się nieposłuszne, nie układają się we fryzurę, szybko się przetłuszczają, są zbyt suche, łamliwe, to znaczy, że w organizmie jest coś nie w porządku. Zwykle problemy z włosami pojawiają się przy niedostatecznej zdolności filtracyjnej wątroby, braku witamin, makro i mikroelementów.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Wypadanie włosów</p>
-<p>nadczynność tarczycy</p>
-<p>Powolny wzrost włosów</p>
-<p>osłabienie systemu nerwowego</p>
-<p>Rozdwajanie włosów</p>
-<p>nieprawidłowe żywienie, zakłócenie funkcji nerek</p>
-<p>Pojawienie się martwych włosów</p>
-<p>anemia</p>
-<p>Posiwienie większej części włosów</p>
-<p>zła praca nerek, przesunięcie kręgów szyjnych</p>
-<p>Nagłe ściemnienie włosów</p>
-<p>schorzenie pęcherzyka żółciowego (natychmiast zwrócić się do lekarza), zakłócenie krążenia, zbyt duże zużycie soli, przeciążenie organizmu</p>
-<p>Powstawanie łysiny lub łupieżu</p>
-<p>nadmierna konsumpcja tłuszczu, cukru, kawy, soli, produktów mlecznych</p>
-<p><strong>Paznokcie</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Wypadanie włosów</td>
+<td>nadczynność tarczycy</td>
+</tr>
+<tr>
+<td>Powolny wzrost włosów</td>
+<td>osłabienie systemu nerwowego</td>
+</tr>
+<tr>
+<td>Rozdwajanie włosów</td>
+<td>nieprawidłowe żywienie, zakłócenie funkcji nerek</td>
+</tr>
+<tr>
+<td>Pojawienie się martwych włosów</td>
+<td>anemia</td>
+</tr>
+<tr>
+<td>Posiwienie większej części włosów</td>
+<td>zła praca nerek, przesunięcie kręgów szyjnych</td>
+</tr>
+<tr>
+<td>Nagłe ściemnienie włosów</td>
+<td>schorzenie pęcherzyka żółciowego (natychmiast zwrócić się do lekarza), zakłócenie krążenia, zbyt duże zużycie soli, przeciążenie organizmu</td>
+</tr>
+<tr>
+<td>Powstawanie łysiny lub łupieżu</td>
+<td>nadmierna konsumpcja tłuszczu, cukru, kawy, soli, produktów mlecznych</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-2"><strong>Paznokcie</strong></p>
 <p>Stan paznokci też może wskazywać na istnienie pewnych chorób w organizmie, lub wskazywać na brak molroelementów, poszczególnych pierwiastków lub witamin. Poniższe dane nie pochodzą od prof. Tombaka, a z innych źródeł rozsianych po różnych publikacjach.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Paznokcie różowe, gładkie</p>
-<p>dobra kondycja psychiczna, odporność na stresy</p>
-<p>Paznokcie niebiesko-czerwone</p>
-<p>wewnętrzne stany zapalne</p>
-<p>Paznokcie niebiesko-białe</p>
-<p>anemia, inne choroby krwi</p>
-<p>Pionowe bruzdy</p>
-<p>brak krzemu w organizmie</p>
-<p>Paznokcie łamliwe</p>
-<p>brak magnezu w organizmie</p>
-<p><strong>Czoło</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th>🟩 <strong>Oznaki zewnętrzne</strong></th>
+<th>🟩</th>
+<th>🟩</th>
+<th>🟩 <strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Paznokcie różowe, gładkie</td>
+<td></td>
+<td></td>
+<td>dobra kondycja psychiczna, odporność na stresy</td>
+</tr>
+<tr>
+<td>Paznokcie niebiesko-czerwone</td>
+<td></td>
+<td></td>
+<td>wewnętrzne stany zapalne</td>
+</tr>
+<tr>
+<td>Paznokcie niebiesko-białe</td>
+<td></td>
+<td></td>
+<td>anemia, inne choroby krwi</td>
+</tr>
+<tr>
+<td>Pionowe bruzdy</td>
+<td></td>
+<td></td>
+<td>brak krzemu w organizmie</td>
+</tr>
+<tr>
+<td>Paznokcie łamliwe</td>
+<td></td>
+<td></td>
+<td>brak magnezu w organizmie</td>
+</tr>
+<tr>
+<td></td>
+<td>🟩</td>
+<td>🟩</td>
+<td>🟩</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-3"><strong>Czoło</strong></p>
 <p>Patrząc na czoło, należy przede wszystkim zwracać uwagę na zmarszczki. O czym jeszcze należy wiedzieć, prowadząc diagnostykę na podstawie czoła? Jeśli na czole, trochę powyżej nasady nosa, tworzą się zmarszczki w kształcie krzyża, to nie jest wykluczone poważne schorzenie kręgosłupa. Oprócz tego, zmarszczki te wskazują również na skłonność do bólów migrenowych, których przyczyną jest zwyrodnienie kręgów szyjnych. Kiedy zmarszczki na czole są przerywane, faliste, to taki człowiek łatwo daje się wyprowadzić z równowagi, mogą go złamać udręki duchowe, jest skłonny do depresji z powodu niezrównoważonego systemu nerwowego. Jeśli na czole wyraźnie widać ciągłe, krzyżujące się zmarszczki, mamy do czynienia z silną osobowością, która rzadko choruje.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Gruba skóra na czole, pocięta głębokimi zmarszczkami</p>
-<p>osłabione nerki, podwyższona zawartość płynu w organizmie</p>
-<p>Zmarszczki tylko z jednej strony czoła</p>
-<p>bóle głowy</p>
-<p>Pionowe i poprzeczne zmarszczki na czole</p>
-<p>zbyt duże spożywanie pokarmów białkowych i mlecznych</p>
-<p>Obecność brązowych plam</p>
-<p>słaba wątroba, zapalenie przewodów żółciowych.</p>
-<p><strong>Oczy</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Gruba skóra na czole, pocięta głębokimi zmarszczkami</td>
+<td>osłabione nerki, podwyższona zawartość płynu w organizmie</td>
+</tr>
+<tr>
+<td>Zmarszczki tylko z jednej strony czoła</td>
+<td>bóle głowy</td>
+</tr>
+<tr>
+<td>Pionowe i poprzeczne zmarszczki na czole</td>
+<td>zbyt duże spożywanie pokarmów białkowych i mlecznych</td>
+</tr>
+<tr>
+<td>Obecność brązowych plam</td>
+<td>słaba wątroba, zapalenie przewodów żółciowych.</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-4"><strong>Oczy</strong></p>
 <p>W oczach widać nie tylko rozum i inteligencję człowieka, ale również poziom jego sił witalnych. Oczy są nie tylko odbiciem stanu naszego zdrowia, mogą one też coś powiedzieć o naszym charakterze. <strong>Zielone</strong> - należą do ludzi wrażliwych i delikatnych. Ludzie o zielonych oczach są niezawodni, ale zielonookim zawsze brakuje miłości. Jednak temu kto ich pokocha, odpowiedzą bezgranicznym oddaniem. <strong>Niebieskie</strong> - nie szukajcie w nich marzycielstwa i naiwności. Ludzie z niebieskimi oczami mają silną wolę, dążą do okreslonego celu i dobrze wiedzą, czego chcą. <strong>Czarne</strong> - oznaka natury namiętnej. Jeśli już czegoś zechcą, nic nie powstrzyma ich pragnień. Szczególnie w sprawach miłosnych. <strong>Szare</strong> - oznaka dociekliwości. Tacy ludzie mają powodzenie w miłości i w innych dziedzinach życia. <strong>Jasnopiwne</strong> - należą do człowieka rozsądnego, pragmatycznego. <strong>Ciemnopiwne</strong> - charakterystyczne dla ludzi o wrażliwym temperamencie, piwnoocy nie zawsze wiedzą, czego tak naprawdę chcą i tym bardziej nie wiedzą jaką drogą osiągnąć to, czego chcą. Z tego powodu charakteryzuje ich nadmierny temperament, często są wybuchowi.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Oczy mętne</p>
-<p>infekcja w organizmie</p>
-<p>Oczy zaczerwienione</p>
-<p>zapalenie spojówek, przeziębienia</p>
-<p>Oczy zapadnięte</p>
-<p>wycieńczenie organizmu</p>
-<p>Matowe spojrzenie</p>
-<p>schorzenia serca</p>
-<p>Drżenie oczu</p>
-<p>skleroza</p>
-<p>Brak zdolności płakania</p>
-<p>niedobór witaminy A</p>
-<p>Częste mruganie</p>
-<p>wegetatywno-naczyniowe zaburzenie napięcia</p>
-<p>Czerwone żyłki w oczach</p>
-<p>zakłócenie krążenia</p>
-<p>Białkówka ma żółte zabarwienie</p>
-<p>zakłócenie funkcji wątroby</p>
-<p>Okolice oczu mają żółtawe zabarwienie</p>
-<p>schorzenia wątroby, pęcherzyka żółciowego</p>
-<p>Okolice oczu mają ciemnobrązowe zabarwienie</p>
-<p>osłabienie systemu nerwowego</p>
-<p>Okolice oczu mają brązowe zabarwienie</p>
-<p>schorzenia wątroby, zaparcia</p>
-<p>Okolice oczu mają bladoróżowe zabarwienie</p>
-<p>schorzenia pęcherza moczowego (mężczyźni - prostaty)</p>
-<p>Oczy podkrążone</p>
-<p>wycieńczenie organizmu, anemia</p>
-<p>Worki pod oczami</p>
-<p>zakłócona praca nerek</p>
-<p><strong>Brwi</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Oczy mętne</td>
+<td>infekcja w organizmie</td>
+</tr>
+<tr>
+<td>Oczy zaczerwienione</td>
+<td>zapalenie spojówek, przeziębienia</td>
+</tr>
+<tr>
+<td>Oczy zapadnięte</td>
+<td>wycieńczenie organizmu</td>
+</tr>
+<tr>
+<td>Matowe spojrzenie</td>
+<td>schorzenia serca</td>
+</tr>
+<tr>
+<td>Drżenie oczu</td>
+<td>skleroza</td>
+</tr>
+<tr>
+<td>Brak zdolności płakania</td>
+<td>niedobór witaminy A</td>
+</tr>
+<tr>
+<td>Częste mruganie</td>
+<td>wegetatywno-naczyniowe zaburzenie napięcia</td>
+</tr>
+<tr>
+<td>Czerwone żyłki w oczach</td>
+<td>zakłócenie krążenia</td>
+</tr>
+<tr>
+<td>Białkówka ma żółte zabarwienie</td>
+<td>zakłócenie funkcji wątroby</td>
+</tr>
+<tr>
+<td>Okolice oczu mają żółtawe zabarwienie</td>
+<td>schorzenia wątroby, pęcherzyka żółciowego</td>
+</tr>
+<tr>
+<td>Okolice oczu mają ciemnobrązowe zabarwienie</td>
+<td>osłabienie systemu nerwowego</td>
+</tr>
+<tr>
+<td>Okolice oczu mają brązowe zabarwienie</td>
+<td>schorzenia wątroby, zaparcia</td>
+</tr>
+<tr>
+<td>Okolice oczu mają bladoróżowe zabarwienie</td>
+<td>schorzenia pęcherza moczowego (mężczyźni - prostaty)</td>
+</tr>
+<tr>
+<td>Oczy podkrążone</td>
+<td>wycieńczenie organizmu, anemia</td>
+</tr>
+<tr>
+<td>Worki pod oczami</td>
+<td>zakłócona praca nerek</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-5"><strong>Brwi</strong></p>
 <p>Wykładnik pracy układu hormonalnego w organizmie.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Gęste brwi</p>
-<p>mężczyźni - silna wola, dobry bilans hormonalny, kobiety - wczesny okres przekwitania, zakłócenie funkcji gruczołów płciowych</p>
-<p>Rzadkie brwi</p>
-<p>mężczyźni - zakłócenie funkcji gruczołów płciowych, kobiety - bolesne menstruacje, niedobór estrogenów</p>
-<p>Zmarszczka między brwiami</p>
-<p>chroniczne bóle głowy</p>
-<p>Brwi zrośnięte</p>
-<p>zakłócenie mózgowego krążenia krwi, bóle głowy</p>
-<p><strong>Powieki</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Gęste brwi</td>
+<td>mężczyźni - silna wola, dobry bilans hormonalny, kobiety - wczesny okres przekwitania, zakłócenie funkcji gruczołów płciowych</td>
+</tr>
+<tr>
+<td>Rzadkie brwi</td>
+<td>mężczyźni - zakłócenie funkcji gruczołów płciowych, kobiety - bolesne menstruacje, niedobór estrogenów</td>
+</tr>
+<tr>
+<td>Zmarszczka między brwiami</td>
+<td>chroniczne bóle głowy</td>
+</tr>
+<tr>
+<td>Brwi zrośnięte</td>
+<td>zakłócenie mózgowego krążenia krwi, bóle głowy</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-6"><strong>Powieki</strong></p>
 <p>Wskaźnik obciążenia systemu nerwowego. Duże powieki wskazują na normalne funkcjonowanie układu nerwowego. Podłużna zmarszczka, dzieląca górną powiekę - zakłócenie bilansu substancji mineralnych w organizmie, potrzeba snu, nadmierne napięcie organizmu.</p>
-<p><strong>POWIEKI GÓRNE</strong></p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Powieki opuchnięte</p>
-<p>zaburzenia pracy serca, zaburzenia układu krążenia</p>
-<p>Powieki opuszczone</p>
-<p>choroby serca, przeciążenie serca</p>
-<p>Powieki okrągłe, wypukłe</p>
-<p>zwyrodnienie kręgów szyjnych</p>
-<p>Odcinki koloru żółto brązowego (typu maleńkich brodawek)</p>
-<p>zaburzenia bilansu hormonalnego, zaburzenia bilansu cholesterolu</p>
-<p>Rozdwojona zmarszczka na powiece</p>
-<p>niedociśnienie, wycieńczenie organizmu</p>
-<p><strong>POWIEKI DOLNE</strong></p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Powieki opuchnięte (worki)</p>
-<p>zakłócenia funkcji nerek, zastój moczu</p>
-<p>Obrzmienie w kolorze różowosinym</p>
-<p>zakłócenie funkcji pęcherza moczowego</p>
-<p>Obrzmienie w kolorze szarozielonym</p>
-<p>nadmiar kwasu moczowego</p>
-<p>Powieka sina</p>
-<p>niedobór żelaza</p>
-<p>Powieka brązowa</p>
-<p>anemia</p>
-<p>Drganie powieki</p>
-<p>niedobór magnezu</p>
-<p><strong>Nos</strong></p>
+<p class="rozdzial" id="r-7"><strong>POWIEKI GÓRNE</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Powieki opuchnięte</td>
+<td>zaburzenia pracy serca, zaburzenia układu krążenia</td>
+</tr>
+<tr>
+<td>Powieki opuszczone</td>
+<td>choroby serca, przeciążenie serca</td>
+</tr>
+<tr>
+<td>Powieki okrągłe, wypukłe</td>
+<td>zwyrodnienie kręgów szyjnych</td>
+</tr>
+<tr>
+<td>Odcinki koloru żółto brązowego (typu maleńkich brodawek)</td>
+<td>zaburzenia bilansu hormonalnego, zaburzenia bilansu cholesterolu</td>
+</tr>
+<tr>
+<td>Rozdwojona zmarszczka na powiece</td>
+<td>niedociśnienie, wycieńczenie organizmu</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-8"><strong>POWIEKI DOLNE</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Powieki opuchnięte (worki)</td>
+<td>zakłócenia funkcji nerek, zastój moczu</td>
+</tr>
+<tr>
+<td>Obrzmienie w kolorze różowosinym</td>
+<td>zakłócenie funkcji pęcherza moczowego</td>
+</tr>
+<tr>
+<td>Obrzmienie w kolorze szarozielonym</td>
+<td>nadmiar kwasu moczowego</td>
+</tr>
+<tr>
+<td>Powieka sina</td>
+<td>niedobór żelaza</td>
+</tr>
+<tr>
+<td>Powieka brązowa</td>
+<td>anemia</td>
+</tr>
+<tr>
+<td>Drganie powieki</td>
+<td>niedobór magnezu</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-9"><strong>Nos</strong></p>
 <p>Jest wykładnikiem cech szczególnych duchowego życia człowieka. Jeśli jest on odchylony w prawo, to lubicie zajmować się pracą fizyczną, a jeśli w lewo, to wolicie pracę umysłową.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Czerwony, guzkowaty, z żyłkami</p>
-<p>wysokie ciśnienie tętnicze, choroby serca</p>
-<p>Sinoczerwony</p>
-<p>niskie ciśnienie tętnicze</p>
-<p>Blady koniec</p>
-<p>nieżyt żołądka, skurcz żołądka, wrzód żołądka</p>
-<p>Czerwony</p>
-<p>alkoholizm</p>
-<p>Brązowy</p>
-<p>schorzenia wątroby</p>
-<p>Częste krwotoki z nosa</p>
-<p>schorzenia płuc, zaburzenia funkcji wątroby</p>
-<p>Zaczerwienienie skóry wokół nosa</p>
-<p>niedobór magnezu w organizmie</p>
-<p>Wokół nosa wyraźne naczynia krwionośne</p>
-<p>zastój krwi, mało ruchu na świeżym powietrzu, zapalenie żył</p>
-<p>Nieduże żyłki na skrzydełkach nosa</p>
-<p>schorzenia wątroby</p>
-<p>Skrzydełka zabarwione na sinoczerwono</p>
-<p>schorzenia serca</p>
-<p>Gruby koniec</p>
-<p>rozszerzony żołądek (obżartuch)</p>
-<p>Ostry koniec</p>
-<p>wrażliwy żołądek</p>
-<p>Rozdwojony koniec</p>
-<p>przewlekłe schorzenia żołądka</p>
-<p>Pobielony koniec</p>
-<p>zaburzenia krążenia, choroba wrzodowa</p>
-<p>Zbyt krótki</p>
-<p>chore serce, zakłócenia pracy narządów krążenia</p>
-<p><strong>Usta</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Czerwony, guzkowaty, z żyłkami</td>
+<td>wysokie ciśnienie tętnicze, choroby serca</td>
+</tr>
+<tr>
+<td>Sinoczerwony</td>
+<td>niskie ciśnienie tętnicze</td>
+</tr>
+<tr>
+<td>Blady koniec</td>
+<td>nieżyt żołądka, skurcz żołądka, wrzód żołądka</td>
+</tr>
+<tr>
+<td>Czerwony</td>
+<td>alkoholizm</td>
+</tr>
+<tr>
+<td>Brązowy</td>
+<td>schorzenia wątroby</td>
+</tr>
+<tr>
+<td>Częste krwotoki z nosa</td>
+<td>schorzenia płuc, zaburzenia funkcji wątroby</td>
+</tr>
+<tr>
+<td>Zaczerwienienie skóry wokół nosa</td>
+<td>niedobór magnezu w organizmie</td>
+</tr>
+<tr>
+<td>Wokół nosa wyraźne naczynia krwionośne</td>
+<td>zastój krwi, mało ruchu na świeżym powietrzu, zapalenie żył</td>
+</tr>
+<tr>
+<td>Nieduże żyłki na skrzydełkach nosa</td>
+<td>schorzenia wątroby</td>
+</tr>
+<tr>
+<td>Skrzydełka zabarwione na sinoczerwono</td>
+<td>schorzenia serca</td>
+</tr>
+<tr>
+<td>Gruby koniec</td>
+<td>rozszerzony żołądek (obżartuch)</td>
+</tr>
+<tr>
+<td>Ostry koniec</td>
+<td>wrażliwy żołądek</td>
+</tr>
+<tr>
+<td>Rozdwojony koniec</td>
+<td>przewlekłe schorzenia żołądka</td>
+</tr>
+<tr>
+<td>Pobielony koniec</td>
+<td>zaburzenia krążenia, choroba wrzodowa</td>
+</tr>
+<tr>
+<td>Zbyt krótki</td>
+<td>chore serce, zakłócenia pracy narządów krążenia</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-10"><strong>Usta</strong></p>
 <p>Kształt i kolor górnej wargi wskazują na stan krwi. Kształt i kolor dolnej wargi wskazują na stan narządów położonych w dolnej części brzucha.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Nieproporcjonalnie małe</p>
-<p>zaburzenia w wydalaniu moczu, zapalenie pęcherza moczowego (namiętni obgryzacze paznokci)</p>
-<p>Wąskie, blade wargi u kobiet</p>
-<p>niedobór hormonów estrogenowych</p>
-<p>Bladość warg</p>
-<p>skłonność do choroby wrzodowej</p>
-<p>Żółtawe zabarwienie skóry wokół ust</p>
-<p>schorzenia pęcherzyka żółciowego i wątroby</p>
-<p>Brązowe zabarwienie skóry wokół ust</p>
-<p>schorzenia układu pokarmowego</p>
-<p>Zapach z ust</p>
-<p>próchnica, schorzenia układu pokarmowego, choroby nosa</p>
-<p>Wąska górna warga</p>
-<p>skłonność do cukrzycy</p>
-<p>Pionowa zmarszczka nad górną wargą</p>
-<p>osłabienie pracy gruczołów płciowych, zaburzenia hormonalne, początek okresu przekwitania</p>
-<p>Kąciki ust żółtobrązowe</p>
-<p>chora wątroba</p>
-<p>Zajady w kącikach ust</p>
-<p>anemia, brak żelaza w organizmie</p>
-<p>Maleńkie pryszczyki w kącikach ust</p>
-<p>choroby wątroby i pęcherzyka żółciowego</p>
-<p>Zgrubienie na dole dolnej wargi</p>
-<p>zapalenie dwunastnicy, przeciążona wątroba</p>
-<p>Bardzo gruba dolna warga</p>
-<p>możliwe schorzenia układu pokarmowego i wątroby</p>
-<p>Poprzeczna zmarszczka pod dolną wargą</p>
-<p>hemoroidy</p>
-<p>Popękane wargi</p>
-<p>niedobór witamin B12 i substancji mineralnych Ca, Mg</p>
-<p><strong>Zęby</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Nieproporcjonalnie małe</td>
+<td>zaburzenia w wydalaniu moczu, zapalenie pęcherza moczowego (namiętni obgryzacze paznokci)</td>
+</tr>
+<tr>
+<td>Wąskie, blade wargi u kobiet</td>
+<td>niedobór hormonów estrogenowych</td>
+</tr>
+<tr>
+<td>Bladość warg</td>
+<td>skłonność do choroby wrzodowej</td>
+</tr>
+<tr>
+<td>Żółtawe zabarwienie skóry wokół ust</td>
+<td>schorzenia pęcherzyka żółciowego i wątroby</td>
+</tr>
+<tr>
+<td>Brązowe zabarwienie skóry wokół ust</td>
+<td>schorzenia układu pokarmowego</td>
+</tr>
+<tr>
+<td>Zapach z ust</td>
+<td>próchnica, schorzenia układu pokarmowego, choroby nosa</td>
+</tr>
+<tr>
+<td>Wąska górna warga</td>
+<td>skłonność do cukrzycy</td>
+</tr>
+<tr>
+<td>Pionowa zmarszczka nad górną wargą</td>
+<td>osłabienie pracy gruczołów płciowych, zaburzenia hormonalne, początek okresu przekwitania</td>
+</tr>
+<tr>
+<td>Kąciki ust żółtobrązowe</td>
+<td>chora wątroba</td>
+</tr>
+<tr>
+<td>Zajady w kącikach ust</td>
+<td>anemia, brak żelaza w organizmie</td>
+</tr>
+<tr>
+<td>Maleńkie pryszczyki w kącikach ust</td>
+<td>choroby wątroby i pęcherzyka żółciowego</td>
+</tr>
+<tr>
+<td>Zgrubienie na dole dolnej wargi</td>
+<td>zapalenie dwunastnicy, przeciążona wątroba</td>
+</tr>
+<tr>
+<td>Bardzo gruba dolna warga</td>
+<td>możliwe schorzenia układu pokarmowego i wątroby</td>
+</tr>
+<tr>
+<td>Poprzeczna zmarszczka pod dolną wargą</td>
+<td>hemoroidy</td>
+</tr>
+<tr>
+<td>Popękane wargi</td>
+<td>niedobór witamin B12 i substancji mineralnych Ca, Mg</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-11"><strong>Zęby</strong></p>
 <p>Aby mieć zdrowe zęby, należy prawidłowo się odżywiać i prawidłowo czyścić zęby. Powoli przeżuwać pokarm. Nie jeść gorącego i bardzo zimnego pożywienia. Regularnie co 6 miesięcy odbywać wizyty profilaktyczne u stomatologa. Jak się okazuje, zdrowymi zębami są zęby przypominające kolorem kość słoniową (nie mylić z żółtym kolorem zębów u palaczy). Im ładniejszy jest kształt zębów i im równomierniej są one zabarwione, tym człowiek jest zdrowszy. Zniszczone zęby są sygnałem niezdrowego stanu organizmu. Podstawową przyczyną psucia się zębów w naszych czasach jest przede wszystkim spożywanie produktów poddanych obróbce termicznej (gotowanych też), produktów zawierających cukier, spożywanie w dużych ilościach kawy i słodkich napojów, lodów i produktów syntetycznych. Nieprawidłowe odżywianie, poczynając od wieku dziecięcego, prowadzi do całkowitego rozkładu przemiany wapnia w organizmie, co w końcowym rezultacie odbije się na stanie kości i zębów.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Żółte</p>
-<p>zakłócenia pracy wątroby i pęcherzyka żółciowego</p>
-<p>Brązowoczarne</p>
-<p>zakłócenia pracy układu pokarmowego, szczególnie jelita grubego</p>
-<p>Śnieżnobiałe</p>
-<p>zaburzenia bilansu substancji mineralnych w organizmie</p>
-<p>Duże odstępy między zębami</p>
-<p>ogólne osłabienie organizmu</p>
-<p>Zgrzytanie zębami</p>
-<p>choroby układu nerwowego (u dzieci - pasożyty)</p>
-<p>Wrażliwość na zimne, słodkie i kwaśne</p>
-<p>obnażenie szyjki zęba</p>
-<p>Ból ustający przy nacisku na ząb</p>
-<p>ból pochodzenia neurologicznego</p>
-<p><strong>Język</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Żółte</td>
+<td>zakłócenia pracy wątroby i pęcherzyka żółciowego</td>
+</tr>
+<tr>
+<td>Brązowoczarne</td>
+<td>zakłócenia pracy układu pokarmowego, szczególnie jelita grubego</td>
+</tr>
+<tr>
+<td>Śnieżnobiałe</td>
+<td>zaburzenia bilansu substancji mineralnych w organizmie</td>
+</tr>
+<tr>
+<td>Duże odstępy między zębami</td>
+<td>ogólne osłabienie organizmu</td>
+</tr>
+<tr>
+<td>Zgrzytanie zębami</td>
+<td>choroby układu nerwowego (u dzieci - pasożyty)</td>
+</tr>
+<tr>
+<td>Wrażliwość na zimne, słodkie i kwaśne</td>
+<td>obnażenie szyjki zęba</td>
+</tr>
+<tr>
+<td>Ból ustający przy nacisku na ząb</td>
+<td>ból pochodzenia neurologicznego</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-12"><strong>Język</strong></p>
 <p>Język jest zwierciadłem organizmu. Na podstawie stanu języka możemy bezbłędnie stwierdzić, czy człowiek jest zdrowy, czy chory. Nawet jeśli symptomy choroby zniknęły, a stan języka nie uległ zmianie, możemy z całą pewnością powiedzieć, że choroba nie ustąpiła. Szczególnie charakterystyczne są zmiany na powierzchni języka przy chorobach układu trawienia - żołądka, wątroby i jelit. Większość ludzi ma na języku białoszary nalot, który jest oznaką zaburzenia funkcji trawienia. Nieprawidłowy sposób odżywiania wiekszości ludzi prowadzi do kwasicy (kwaśnego odczyny krwi), co stwarza w organizmie korzystne warunki dla rozwoju chorobotwórczych pasożytów (grzybów, drożdży itp.). Właśnie kwaśny odczyn krwi jest przyczyną wielu chorób układu trawienia, serca, wątroby, układu nerwowego, bólów głowy. Występowanie grzybicznego białoszarego nalotu na języku jest wyraźną oznaką tego, że powinniście natychmiast zmienić tryb życia, przeprowadzić oczyszczenie organizmu, prawidłowo łączyć produkty spożywcze, spożywać więcej artykułów dających zasadowy odczyn krwi - warzyw, owoców, świeżo przygotowanych soków. Często ludzie latami leczą choroby serca, gdy dolegliwości sercowe powstają na skutek schorzeń wątroby. Kiedy tylko wyleczy się schorzenia wątroby, których symptomy można wykryć na podstawie języka, serce przstaje boleć.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Czysty, różowy, gładki, bez nalotu</p>
-<p>zdrowe organy trawienia</p>
-<p>Biały nalot na 1/3 języka</p>
-<p>nieżyt żołądka</p>
-<p>Biały nalot na 1/3 tylnej części języka</p>
-<p>procesy zapalne w układzie pokarmowym</p>
-<p>Biały nalot na całej powierzchni języka</p>
-<p>zapalenie jamy ustnej</p>
-<p>Żółty nalot na języku</p>
-<p>podrażnienie pęcherzyka żółciowego, hemoroidy</p>
-<p>Brązowy nalot na języku</p>
-<p>schorzenia jelit</p>
-<p>Czarny nalot na języku</p>
-<p>grzybiczna infekcja błony śluzowej jamy ustnej</p>
-<p>Gładki różowy język</p>
-<p>anemia, niedobór żelaza w organizmie</p>
-<p>Suchy język, czerwony pas pośrodku</p>
-<p>zapalenie jelit z wzdęciem brzucha</p>
-<p>Krwawoczerwony, pokryty pęknięciami</p>
-<p>nieżyt żołądka</p>
-<p>Paski piany z obu stron języka</p>
-<p>reumatyzm</p>
-<p>Zaczerwienienie i obrzmienie z prawej strony</p>
-<p>zapalenie wątroby i przewodów żółciowych</p>
-<p>Truskawka, pokryty czerwonymi i białymi plamami</p>
-<p>szkarlatyna</p>
-<p>Drżenie języka</p>
-<p>zapalenie mózgu, nerwowość</p>
-<p>Pieczenie języka</p>
-<p>anemia, niedobór żelaza w organizmie</p>
-<p>Suchy popękany język</p>
-<p>możliwa cukrzyca</p>
-<p>Blada dolna strona języka</p>
-<p>niedobór witamin</p>
-<p>Żółta dolna strona języka</p>
-<p>choroby wątroby</p>
-<p><strong>Podbródek</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Czysty, różowy, gładki, bez nalotu</td>
+<td>zdrowe organy trawienia</td>
+</tr>
+<tr>
+<td>Biały nalot na 1/3 języka</td>
+<td>nieżyt żołądka</td>
+</tr>
+<tr>
+<td>Biały nalot na 1/3 tylnej części języka</td>
+<td>procesy zapalne w układzie pokarmowym</td>
+</tr>
+<tr>
+<td>Biały nalot na całej powierzchni języka</td>
+<td>zapalenie jamy ustnej</td>
+</tr>
+<tr>
+<td>Żółty nalot na języku</td>
+<td>podrażnienie pęcherzyka żółciowego, hemoroidy</td>
+</tr>
+<tr>
+<td>Brązowy nalot na języku</td>
+<td>schorzenia jelit</td>
+</tr>
+<tr>
+<td>Czarny nalot na języku</td>
+<td>grzybiczna infekcja błony śluzowej jamy ustnej</td>
+</tr>
+<tr>
+<td>Gładki różowy język</td>
+<td>anemia, niedobór żelaza w organizmie</td>
+</tr>
+<tr>
+<td>Suchy język, czerwony pas pośrodku</td>
+<td>zapalenie jelit z wzdęciem brzucha</td>
+</tr>
+<tr>
+<td>Krwawoczerwony, pokryty pęknięciami</td>
+<td>nieżyt żołądka</td>
+</tr>
+<tr>
+<td>Paski piany z obu stron języka</td>
+<td>reumatyzm</td>
+</tr>
+<tr>
+<td>Zaczerwienienie i obrzmienie z prawej strony</td>
+<td>zapalenie wątroby i przewodów żółciowych</td>
+</tr>
+<tr>
+<td>Truskawka, pokryty czerwonymi i białymi plamami</td>
+<td>szkarlatyna</td>
+</tr>
+<tr>
+<td>Drżenie języka</td>
+<td>zapalenie mózgu, nerwowość</td>
+</tr>
+<tr>
+<td>Pieczenie języka</td>
+<td>anemia, niedobór żelaza w organizmie</td>
+</tr>
+<tr>
+<td>Suchy popękany język</td>
+<td>możliwa cukrzyca</td>
+</tr>
+<tr>
+<td>Blada dolna strona języka</td>
+<td>niedobór witamin</td>
+</tr>
+<tr>
+<td>Żółta dolna strona języka</td>
+<td>choroby wątroby</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-13"><strong>Podbródek</strong></p>
 <p>Podbródek jest wykładnikiem cech charakteru człowieka. Podbródek wysunięty do przodu świadczy o silnej woli, wciągnięty do wewnątrz wskazuje na słabą wolę, szybkie męczenie się, skłonność do neurastenii.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Wgłębienie pośrodku podbródka</p>
-<p>bóle kręgosłupa, hemoroidy</p>
-<p>Zwiotczała tkanka podbródka</p>
-<p>zaburzenia krążenia krwi, złe trawienie</p>
-<p>Obrzmienie podbródka</p>
-<p>zaburzenia pracy nerek</p>
-<p>Odrętwienie odcinka między podbródkiem a dolna wargą</p>
-<p>Możliwy zawał (natychmiast zwrócić się do lekarza), przeprowadzić badania serca i naczyń</p>
-<p><strong>Szyja</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Wgłębienie pośrodku podbródka</td>
+<td>bóle kręgosłupa, hemoroidy</td>
+</tr>
+<tr>
+<td>Zwiotczała tkanka podbródka</td>
+<td>zaburzenia krążenia krwi, złe trawienie</td>
+</tr>
+<tr>
+<td>Obrzmienie podbródka</td>
+<td>zaburzenia pracy nerek</td>
+</tr>
+<tr>
+<td>Odrętwienie odcinka między podbródkiem a dolna wargą</td>
+<td>Możliwy zawał (natychmiast zwrócić się do lekarza), przeprowadzić badania serca i naczyń</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-14"><strong>Szyja</strong></p>
 <p>Szyja jest wykładnikiem wieku biologicznego. Szyja krótka - możliwość zaburzeń układu krążenia. Skłonność do udaru. Ludziom z krótką szyją nie wolno dopuścić do zwiększenia wagi ciała. Powinni obserwować poziom cholesterolu. Więcej być w ruchu na wolnym powietrzu. Szyja długa - skłonność do angin, zapaleń oskrzeli i płuc. Ludzie z długą szyją powinni hartować ciało, szczególnie nos. Starać się oddychać nosem. Nie dopuszczać do katarów.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Niebieskawe pasy na szyi</p>
-<p>zakłócenia działalności serca</p>
-<p>Tętnica szyjna pulsuje przy spokojnym stanie organizmu</p>
-<p>rozszerzenie serca</p>
-<p>Zwiotczała skóra pod podbródkiem</p>
-<p>przeciążenie serca zbędną masą ciała</p>
-<p><strong>Ramiona</strong></p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Lewe ramię wyższe niż prawe</p>
-<p>skłonność do reumatyzmu</p>
-<p>Bóle w prawej łopatce</p>
-<p>schorzenia wątroby, pęcherzyka żółciowego</p>
-<p>Bóle w lewej łopatce</p>
-<p>wrzód żołądka</p>
-<p>Oba ramiona uniesione</p>
-<p>zaburzenia pracy płuc</p>
-<p>Oba ramiona wysunięte do przodu</p>
-<p>mała pojemność płuc, skrzywienie odcinka piersiowego kręgosłupa</p>
-<p>Oba ramiona cofnięte</p>
-<p>zaburzenia oddychania, możliwa astma oskrzelowa</p>
-<p><strong>Skóra</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Niebieskawe pasy na szyi</td>
+<td>zakłócenia działalności serca</td>
+</tr>
+<tr>
+<td>Tętnica szyjna pulsuje przy spokojnym stanie organizmu</td>
+<td>rozszerzenie serca</td>
+</tr>
+<tr>
+<td>Zwiotczała skóra pod podbródkiem</td>
+<td>przeciążenie serca zbędną masą ciała</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-15"><strong>Ramiona</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Lewe ramię wyższe niż prawe</td>
+<td>skłonność do reumatyzmu</td>
+</tr>
+<tr>
+<td>Bóle w prawej łopatce</td>
+<td>schorzenia wątroby, pęcherzyka żółciowego</td>
+</tr>
+<tr>
+<td>Bóle w lewej łopatce</td>
+<td>wrzód żołądka</td>
+</tr>
+<tr>
+<td>Oba ramiona uniesione</td>
+<td>zaburzenia pracy płuc</td>
+</tr>
+<tr>
+<td>Oba ramiona wysunięte do przodu</td>
+<td>mała pojemność płuc, skrzywienie odcinka piersiowego kręgosłupa</td>
+</tr>
+<tr>
+<td>Oba ramiona cofnięte</td>
+<td>zaburzenia oddychania, możliwa astma oskrzelowa</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-16"><strong>Skóra</strong></p>
 <p>Skóra jest drugim po płucach najważniejszym narządem oddychania. Aby być zdrowym należy dążyć do maksymalnego kontaktu skóry z powietrzem, wodą i, oczywiście w granicach rozsądku, ze słońcem.</p>
-<p><strong>Oznaki zewnętrzne</strong></p>
-<p><strong>Przyczyny ich powstawania</strong></p>
-<p>Twarz blada</p>
-<p>niedociśnienie, anemia, zaburzenia krążenia</p>
-<p>Skóra żółtawa</p>
-<p>zakłócenie funkcji wątroby lub pęcherzyka żółciowego</p>
-<p>Skóra czerwona</p>
-<p>nadciśnienie, zaburzenia krążenia krwi</p>
-<p>Skóra gładka, jedwabna</p>
-<p>skłonność do reumatyzmu, podagry, schorzenia nerek i układu moczowego</p>
-<p>Skóra sucha, szorstka</p>
-<p>skłonność do chorób skórnych</p>
-<p>Skóra zimna, wilgotna</p>
-<p>skłonność do schorzeń wątroby</p>
-<p>Pomarszczona, starcza skóra twarzy</p>
-<p>schorzenia trzustki, cukrzyca</p>
-<p>Skóra twarzy brązowa</p>
-<p>schorzenia gruczołu nadnerczy</p>
-<p>Skóra twarzy zielonkawa</p>
-<p>schorzenia onkologiczne</p>
-<p>Nieprzyjemny zapach skóry</p>
-<p>źle zbilansowane, nieprawidłowe żywienie</p>
-<p>Skóra sucha, łuszcząca</p>
-<p>nadmiar szlaków w organizmie</p>
-<p>Na twarzy i nosie siatka naczyń krwionośnych</p>
-<p>nadmierne spożycie białka zwierzęcego, nadmiar kwasu moczowego, chora wątroba, przejadanie się</p>
-<p>Na twarzy i nosie siatka naczyń krwionośnych</p>
-<p>nadmierne spożycie białka zwierzęcego, nadmiar kwasu moczowego, chora wątroba, przejadanie się</p>
-<p>Czerwone plamy</p>
-<p>nadmierne spożycie białka zwierzęcego i smażonych potraw</p>
-<p>Zaskórniki</p>
-<p>nieprawidłowe żywienie, zbyt duże spożycie białka zwierzęcego, skrobi, tłustych potraw, zanieczyszczenie organizmu szlakami, nadmiar toksyn</p>
-<p>Pryszcze</p>
-<p>nieprawidłowe odżywianie, przewaga potraw mącznych i zawierających cukier, toksyczny stan jelita grubego</p>
-<p>Białe zaskórniki (kaszaki)</p>
-<p>uszkodzenie błony śluzowej jamy ustnej</p>
-<p>Białe plamy na skórze</p>
-<p>niedobór w organizmie witaminy B12, oznaka cukrzycy lub schorzenia tarczycy (konieczna konsultacja lekarska)</p>
-<p><strong>O kręgosłupie</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Oznaki zewnętrzne</strong></th>
+<th><strong>Przyczyny ich powstawania</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Twarz blada</td>
+<td>niedociśnienie, anemia, zaburzenia krążenia</td>
+</tr>
+<tr>
+<td>Skóra żółtawa</td>
+<td>zakłócenie funkcji wątroby lub pęcherzyka żółciowego</td>
+</tr>
+<tr>
+<td>Skóra czerwona</td>
+<td>nadciśnienie, zaburzenia krążenia krwi</td>
+</tr>
+<tr>
+<td>Skóra gładka, jedwabna</td>
+<td>skłonność do reumatyzmu, podagry, schorzenia nerek i układu moczowego</td>
+</tr>
+<tr>
+<td>Skóra sucha, szorstka</td>
+<td>skłonność do chorób skórnych</td>
+</tr>
+<tr>
+<td>Skóra zimna, wilgotna</td>
+<td>skłonność do schorzeń wątroby</td>
+</tr>
+<tr>
+<td>Pomarszczona, starcza skóra twarzy</td>
+<td>schorzenia trzustki, cukrzyca</td>
+</tr>
+<tr>
+<td>Skóra twarzy brązowa</td>
+<td>schorzenia gruczołu nadnerczy</td>
+</tr>
+<tr>
+<td>Skóra twarzy zielonkawa</td>
+<td>schorzenia onkologiczne</td>
+</tr>
+<tr>
+<td>Nieprzyjemny zapach skóry</td>
+<td>źle zbilansowane, nieprawidłowe żywienie</td>
+</tr>
+<tr>
+<td>Skóra sucha, łuszcząca</td>
+<td>nadmiar szlaków w organizmie</td>
+</tr>
+<tr>
+<td>Na twarzy i nosie siatka naczyń krwionośnych</td>
+<td>nadmierne spożycie białka zwierzęcego, nadmiar kwasu moczowego, chora wątroba, przejadanie się</td>
+</tr>
+<tr>
+<td>Na twarzy i nosie siatka naczyń krwionośnych</td>
+<td>nadmierne spożycie białka zwierzęcego, nadmiar kwasu moczowego, chora wątroba, przejadanie się</td>
+</tr>
+<tr>
+<td>Czerwone plamy</td>
+<td>nadmierne spożycie białka zwierzęcego i smażonych potraw</td>
+</tr>
+<tr>
+<td>Zaskórniki</td>
+<td>nieprawidłowe żywienie, zbyt duże spożycie białka zwierzęcego, skrobi, tłustych potraw, zanieczyszczenie organizmu szlakami, nadmiar toksyn</td>
+</tr>
+<tr>
+<td>Pryszcze</td>
+<td>nieprawidłowe odżywianie, przewaga potraw mącznych i zawierających cukier, toksyczny stan jelita grubego</td>
+</tr>
+<tr>
+<td>Białe zaskórniki (kaszaki)</td>
+<td>uszkodzenie błony śluzowej jamy ustnej</td>
+</tr>
+<tr>
+<td>Białe plamy na skórze</td>
+<td>niedobór w organizmie witaminy B12, oznaka cukrzycy lub schorzenia tarczycy (konieczna konsultacja lekarska)</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-17"><strong>O kręgosłupie</strong></p>
 <p>Niepełny spis chorób, które są wynikiem braku należytego zainteresowania swoim kręgosłupem.</p>
-<p><strong>Przemieszczenie kręgów</strong></p>
-<p><strong>Dolegliwości</strong></p>
-<p>Szyjnych</p>
-<p>alergia, głuchota, choroby oczu, różnorodne egzemy, choroby gardła, choroby tarczycy</p>
-<p>Piersiowych</p>
-<p>astma, bóle rąk i pleców, choroby pęcherzyka żółciowego, choroby wątroby, owrzodzenie żołądka i dwunastnicy, choroby nerek, choroby skóry</p>
-<p>Lędźwiowych</p>
-<p>hemoroidy, choroby pęcherza moczowego, zaburzenia cyklu miesiączkowego, bolesna miesiączka, impotencja, bóle w kolanach, lumbago, zły krwioobieg w nogach, obrzęki kostek, &quot;zimne&quot; nogi, słabość w nogach, skurcze w mięśniach nóg</p>
-<p><strong>Częstsze choroby i zewnętrzne objawy</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Przemieszczenie kręgów</strong></th>
+<th><strong>Dolegliwości</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Szyjnych</td>
+<td>alergia, głuchota, choroby oczu, różnorodne egzemy, choroby gardła, choroby tarczycy</td>
+</tr>
+<tr>
+<td>Piersiowych</td>
+<td>astma, bóle rąk i pleców, choroby pęcherzyka żółciowego, choroby wątroby, owrzodzenie żołądka i dwunastnicy, choroby nerek, choroby skóry</td>
+</tr>
+<tr>
+<td>Lędźwiowych</td>
+<td>hemoroidy, choroby pęcherza moczowego, zaburzenia cyklu miesiączkowego, bolesna miesiączka, impotencja, bóle w kolanach, lumbago, zły krwioobieg w nogach, obrzęki kostek, &quot;zimne&quot; nogi, słabość w nogach, skurcze w mięśniach nóg</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-18"><strong>Częstsze choroby i zewnętrzne objawy</strong></p>
 <p>Teraz, kiedy znamy niektóre oznaki zewnetrzne wskazujące na możliwość wystąpienia choroby, powinniśmy dokonać podsumowania. Ponieważ zarówno chorób jak i ich oznak jest bardzo wiele, rozpatrzmy te, które spotykane są najczęściej.</p>
-<p><strong>Możliwa choroba</strong></p>
-<p><strong>Widoczne oznaki zewnętrzne</strong></p>
-<p>Anemia</p>
-<p>bladość twarzy, brązowe zabarwienie dolnej powieki, perłowe zabarwienie białkówki oka, perłowe zabarwienie zębów, bladość małżowin usznych, zajady w kącikach ust, uczucie pieczenia języka, język gładki i czerwony</p>
-<p>Bolesne lub rzadkie menstruacje, niedobór estrogenów u kobiet</p>
-<p>cienkie, delikatne brwi</p>
-<p>Bóle głowy</p>
-<p>zrośnięte brwi, zmarszczki z jednej strony czoła, wyraźna zmarszczka między brwiami</p>
-<p>Bóle i choroby kręgosłupa</p>
-<p>&quot;ścięta&quot; potylica, szeroki krok, ciągłe znoszenie na boki przy chodzeniu</p>
-<p>Chore nerki</p>
-<p>duża i mięsista górna warga, gruba skóra na czole i głębokie zmarszczki, czerwone uszy, obrzmiałe dolne powieki, długie, wąskie wypukłe paznokcie, ciągła obecność białych plam na paznokciach, powstawanie worków pod oczami</p>
-<p>Choroby pęcherza moczowego</p>
-<p>obrzmienie dolnych powiek i ich zabarwienie na różowosiny kolor, nieproporcjonalnie mały wzrost</p>
-<p>Choroby pęcherzyka żółciowego</p>
-<p>żółte zabarwienie skóry koło ust, pożółknięcie zębów, żółta skóra koło oczu, ciągłe bóle w okolicy prawej łopatki, żółte zabarwienie oczu</p>
-<p>Choroby płuc</p>
-<p>oba ramiona cofnięte, zaczerwienienie policzków, długa szyja, częste krwotoki z nosa, wypukłe paznokcie</p>
-<p>Choroby stawu kolanowego</p>
-<p>niezdolność do schodzenia po schodach</p>
-<p>Cukrzyca</p>
-<p>gładka, sucha dolna warga z sinoczerwonym zabarwieniem, pojawienie się martwych włosów, wczesna siwizna</p>
-<p>Hemoroidy</p>
-<p>zagłębienie pośrodku podbródka, powstanie żółtego nalotu na zębach</p>
-<p>Krew - objawy zastoinowe</p>
-<p>na skórze koło nosa popękane naczynia krwionośne</p>
-<p>Mała ilość erytrocytów we krwi</p>
-<p>blada dolna (wewnętrzna) część języka</p>
-<p>Nadciśnienie</p>
-<p>czerwony, guzkowaty nos z żyłkami, zrośnięte brwi, zaczerwienienie policzków</p>
-<p>Nadmierne obciążenie tarczycy</p>
-<p>wypukłe paznokcie, krótkie brwi, brak bocznych części brwi, częste mruganie, nalot na dolnych powiekach, opuchnięta szyja, wąski grzbiet nosa, górny brzeg ucha zwinięty w rurkę</p>
-<p>Neurastenia</p>
-<p>niespokojne spojrzenie</p>
-<p>Niedobór witaminy A</p>
-<p>niezdolność do płaczu, przy wchodzeniu ze światła do ciemnego pomieszczenia utrata zdolności widzenia</p>
-<p>Niedobór witaminy B</p>
-<p>obrzmiewanie języka</p>
-<p>Niedobór magnezu w organizmie</p>
-<p>drżenie dolnej powieki, przypływ energii po godzinie 20-tej, zaczerwienienie skóry koło nosa</p>
-<p>Niedobór substancji mineralnych</p>
-<p>kruche, łamliwe paznokcie</p>
-<p>Niedobór wapnia w organizmie</p>
-<p>błyszcząca skóra uszu</p>
-<p>Niedobór żelaza w organizmie</p>
-<p>zapadłe, sinawe powieki dolne, okresowe pojawianie się białych plam na paznokciach, czerwone uszy, częste zajady w kącikach ust</p>
-<p>Niedociśnienie</p>
-<p>bladość policzków, skóry czoła, twarzy, obwisłe powieki</p>
-<p>Niewydolność i choroby serca</p>
-<p>woskowe zabarwienie dolnych powiek, obrzmiałe dolne powieki, grube żyły na szyi, zbyt krótka szyja, zbyt krótki nos, trudności przy wchodzeniu po schodach</p>
-<p>Nieżyt żołądka</p>
-<p>biały nalot na środkowej trzeciej części języka, bladość małżowin nosowych</p>
-<p>Osłabienie funkcji gruczołów płciowych u kobiet</p>
-<p>włosy na górnej wardze, zakola na czole, gęste, krzaczaste brwi</p>
-<p>Początek okresu przekwitania u kobiet</p>
-<p>wiele głębokich małych zmarszczek nad górną wargą</p>
-<p>Przeciążenie organizmu, szybkie męczenie się</p>
-<p>małe uszy</p>
-<p>Reumatyzm</p>
-<p>paski piany z obu stron języka</p>
-<p>Schorzenia żołądka</p>
-<p>zmiana kształtu paznokcia na palcu środkowym, pojawienie się pęknięć</p>
-<p>Skłonność do chorób układu nerwowego</p>
-<p>lewe ramię wyższe niż prawe</p>
-<p>Skłonność do cukrzycy</p>
-<p>suchy i popękany język, wąska górna warga</p>
-<p>Skłonność do epilepsji</p>
-<p>zrośnięte brwi</p>
-<p>Skłonność do otyłości</p>
-<p>okrągłe, grube uszy, bardzo grube płatki uszu</p>
-<p>Skłonność do reumatyzmu</p>
-<p>lewe ramię wyższe niż prawe, na paznokciach wgłębienia w kształcie punktów</p>
-<p>Skłonność do wrzodów żołądka</p>
-<p>wąski, wgłębiony (rozdwojony) koniuszek nosa</p>
-<p>Skłonność do zawału serca</p>
-<p>pomarszczone płatki uszu, drętwienie przy nacisku miejsca między dolną wargą i podbródkiem</p>
-<p>Skleroza</p>
-<p>na wewnętrznej stronie dłoni wyraźnie występują żyły, przy wyprostowanej dłoni widać zagłębienie</p>
-<p>Skurcze żołądka</p>
-<p>garbienie się przy chodzeniu</p>
-<p>Spadek potencji u mężczyzn</p>
-<p>pionowe zmarszczki przed uchem</p>
-<p>Trzustka przeciążona na granicy choroby</p>
-<p>pomarszczona skóra twarzy, wąska górna warga, zgrubienia poniżej granicy oczu</p>
-<p>Twory hemoroidalne (krwawnicowe) na organach wewnętrznych</p>
-<p>plamy pigmentacyjne na dolnej wardze</p>
-<p>Wrażliwy żołądek</p>
-<p>ostry nos</p>
-<p>Wrzód żołądka</p>
-<p>bóle w lewej łopatce, biały koniuszek nosa</p>
-<p>Wyczerpany system nerwowy</p>
-<p>trudności przy wchodzeniu po schodach (szczególnie w młodym wieku)</p>
-<p>Zaburzenia funkcji trawienia</p>
-<p>podłużne bruzdki na paznokciach w połączeniu z różnymi wypryskami na skórze, powstawanie pryszczy, czerwone uszy</p>
-<p>Zaburzenie krążenia krwi</p>
-<p>zbielenie koniuszka nosa, zrośnięte brwi, wczesna siwizna, bladość twarzy, bladość warg, zgrubienie paznokci, &quot;ścięta&quot; potylica</p>
-<p>Zaburzenia przemiany materii</p>
-<p>nalot na dolnych powiekach, białe plamy na paznokciach</p>
-<p>Zakłócenie bilansu cholesterolu</p>
-<p>okrągłe wzgórki koloru żółtobrązowego (podobne do maleńkich brodawek) na górnej powiece</p>
-<p>Zakrzepica, powstawanie skrzepów</p>
-<p>na skórze koło nosa wyraźnie widać popękane naczynia krwionośne</p>
-<p>Zapalenie gruczołów płciowych</p>
-<p>głębokie zmarszczki na szyi, blade płatki uszu, opuchnięta górna warga</p>
-<p>Zapalenie prostaty</p>
-<p>bardzo gruba dolna warga, bladoróżowe zabarwienie wokół oczu</p>
-<p>Zapalenie wątroby</p>
-<p>żółte białkówki oczu, żółtość skóry, policzki zapadnięte z obu stron, żółte zabarwienie skóry wokół ust, nieznaczne żyłki na skrzydełkach nosa, brązowe zabarwienie skóry wokół oczu, ciągłe występowanie białych plam na paznokciach, zgrubienie dolnego brzegu wargi</p>
-<p>Zaparcia</p>
-<p>brązowa skóra wokół oczu</p>
-<p>Zwyrodnienie kręgów szyjnych</p>
-<p>wyraźna zmarszczka przy prawej brwi</p>
-<p><strong>Czego potrzebuje organizm</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Możliwa choroba</strong></th>
+<th><strong>Widoczne oznaki zewnętrzne</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Anemia</td>
+<td>bladość twarzy, brązowe zabarwienie dolnej powieki, perłowe zabarwienie białkówki oka, perłowe zabarwienie zębów, bladość małżowin usznych, zajady w kącikach ust, uczucie pieczenia języka, język gładki i czerwony</td>
+</tr>
+<tr>
+<td>Bolesne lub rzadkie menstruacje, niedobór estrogenów u kobiet</td>
+<td>cienkie, delikatne brwi</td>
+</tr>
+<tr>
+<td>Bóle głowy</td>
+<td>zrośnięte brwi, zmarszczki z jednej strony czoła, wyraźna zmarszczka między brwiami</td>
+</tr>
+<tr>
+<td>Bóle i choroby kręgosłupa</td>
+<td>&quot;ścięta&quot; potylica, szeroki krok, ciągłe znoszenie na boki przy chodzeniu</td>
+</tr>
+<tr>
+<td>Chore nerki</td>
+<td>duża i mięsista górna warga, gruba skóra na czole i głębokie zmarszczki, czerwone uszy, obrzmiałe dolne powieki, długie, wąskie wypukłe paznokcie, ciągła obecność białych plam na paznokciach, powstawanie worków pod oczami</td>
+</tr>
+<tr>
+<td>Choroby pęcherza moczowego</td>
+<td>obrzmienie dolnych powiek i ich zabarwienie na różowosiny kolor, nieproporcjonalnie mały wzrost</td>
+</tr>
+<tr>
+<td>Choroby pęcherzyka żółciowego</td>
+<td>żółte zabarwienie skóry koło ust, pożółknięcie zębów, żółta skóra koło oczu, ciągłe bóle w okolicy prawej łopatki, żółte zabarwienie oczu</td>
+</tr>
+<tr>
+<td>Choroby płuc</td>
+<td>oba ramiona cofnięte, zaczerwienienie policzków, długa szyja, częste krwotoki z nosa, wypukłe paznokcie</td>
+</tr>
+<tr>
+<td>Choroby stawu kolanowego</td>
+<td>niezdolność do schodzenia po schodach</td>
+</tr>
+<tr>
+<td>Cukrzyca</td>
+<td>gładka, sucha dolna warga z sinoczerwonym zabarwieniem, pojawienie się martwych włosów, wczesna siwizna</td>
+</tr>
+<tr>
+<td>Hemoroidy</td>
+<td>zagłębienie pośrodku podbródka, powstanie żółtego nalotu na zębach</td>
+</tr>
+<tr>
+<td>Krew - objawy zastoinowe</td>
+<td>na skórze koło nosa popękane naczynia krwionośne</td>
+</tr>
+<tr>
+<td>Mała ilość erytrocytów we krwi</td>
+<td>blada dolna (wewnętrzna) część języka</td>
+</tr>
+<tr>
+<td>Nadciśnienie</td>
+<td>czerwony, guzkowaty nos z żyłkami, zrośnięte brwi, zaczerwienienie policzków</td>
+</tr>
+<tr>
+<td>Nadmierne obciążenie tarczycy</td>
+<td>wypukłe paznokcie, krótkie brwi, brak bocznych części brwi, częste mruganie, nalot na dolnych powiekach, opuchnięta szyja, wąski grzbiet nosa, górny brzeg ucha zwinięty w rurkę</td>
+</tr>
+<tr>
+<td>Neurastenia</td>
+<td>niespokojne spojrzenie</td>
+</tr>
+<tr>
+<td>Niedobór witaminy A</td>
+<td>niezdolność do płaczu, przy wchodzeniu ze światła do ciemnego pomieszczenia utrata zdolności widzenia</td>
+</tr>
+<tr>
+<td>Niedobór witaminy B</td>
+<td>obrzmiewanie języka</td>
+</tr>
+<tr>
+<td>Niedobór magnezu w organizmie</td>
+<td>drżenie dolnej powieki, przypływ energii po godzinie 20-tej, zaczerwienienie skóry koło nosa</td>
+</tr>
+<tr>
+<td>Niedobór substancji mineralnych</td>
+<td>kruche, łamliwe paznokcie</td>
+</tr>
+<tr>
+<td>Niedobór wapnia w organizmie</td>
+<td>błyszcząca skóra uszu</td>
+</tr>
+<tr>
+<td>Niedobór żelaza w organizmie</td>
+<td>zapadłe, sinawe powieki dolne, okresowe pojawianie się białych plam na paznokciach, czerwone uszy, częste zajady w kącikach ust</td>
+</tr>
+<tr>
+<td>Niedociśnienie</td>
+<td>bladość policzków, skóry czoła, twarzy, obwisłe powieki</td>
+</tr>
+<tr>
+<td>Niewydolność i choroby serca</td>
+<td>woskowe zabarwienie dolnych powiek, obrzmiałe dolne powieki, grube żyły na szyi, zbyt krótka szyja, zbyt krótki nos, trudności przy wchodzeniu po schodach</td>
+</tr>
+<tr>
+<td>Nieżyt żołądka</td>
+<td>biały nalot na środkowej trzeciej części języka, bladość małżowin nosowych</td>
+</tr>
+<tr>
+<td>Osłabienie funkcji gruczołów płciowych u kobiet</td>
+<td>włosy na górnej wardze, zakola na czole, gęste, krzaczaste brwi</td>
+</tr>
+<tr>
+<td>Początek okresu przekwitania u kobiet</td>
+<td>wiele głębokich małych zmarszczek nad górną wargą</td>
+</tr>
+<tr>
+<td>Przeciążenie organizmu, szybkie męczenie się</td>
+<td>małe uszy</td>
+</tr>
+<tr>
+<td>Reumatyzm</td>
+<td>paski piany z obu stron języka</td>
+</tr>
+<tr>
+<td>Schorzenia żołądka</td>
+<td>zmiana kształtu paznokcia na palcu środkowym, pojawienie się pęknięć</td>
+</tr>
+<tr>
+<td>Skłonność do chorób układu nerwowego</td>
+<td>lewe ramię wyższe niż prawe</td>
+</tr>
+<tr>
+<td>Skłonność do cukrzycy</td>
+<td>suchy i popękany język, wąska górna warga</td>
+</tr>
+<tr>
+<td>Skłonność do epilepsji</td>
+<td>zrośnięte brwi</td>
+</tr>
+<tr>
+<td>Skłonność do otyłości</td>
+<td>okrągłe, grube uszy, bardzo grube płatki uszu</td>
+</tr>
+<tr>
+<td>Skłonność do reumatyzmu</td>
+<td>lewe ramię wyższe niż prawe, na paznokciach wgłębienia w kształcie punktów</td>
+</tr>
+<tr>
+<td>Skłonność do wrzodów żołądka</td>
+<td>wąski, wgłębiony (rozdwojony) koniuszek nosa</td>
+</tr>
+<tr>
+<td>Skłonność do zawału serca</td>
+<td>pomarszczone płatki uszu, drętwienie przy nacisku miejsca między dolną wargą i podbródkiem</td>
+</tr>
+<tr>
+<td>Skleroza</td>
+<td>na wewnętrznej stronie dłoni wyraźnie występują żyły, przy wyprostowanej dłoni widać zagłębienie</td>
+</tr>
+<tr>
+<td>Skurcze żołądka</td>
+<td>garbienie się przy chodzeniu</td>
+</tr>
+<tr>
+<td>Spadek potencji u mężczyzn</td>
+<td>pionowe zmarszczki przed uchem</td>
+</tr>
+<tr>
+<td>Trzustka przeciążona na granicy choroby</td>
+<td>pomarszczona skóra twarzy, wąska górna warga, zgrubienia poniżej granicy oczu</td>
+</tr>
+<tr>
+<td>Twory hemoroidalne (krwawnicowe) na organach wewnętrznych</td>
+<td>plamy pigmentacyjne na dolnej wardze</td>
+</tr>
+<tr>
+<td>Wrażliwy żołądek</td>
+<td>ostry nos</td>
+</tr>
+<tr>
+<td>Wrzód żołądka</td>
+<td>bóle w lewej łopatce, biały koniuszek nosa</td>
+</tr>
+<tr>
+<td>Wyczerpany system nerwowy</td>
+<td>trudności przy wchodzeniu po schodach (szczególnie w młodym wieku)</td>
+</tr>
+<tr>
+<td>Zaburzenia funkcji trawienia</td>
+<td>podłużne bruzdki na paznokciach w połączeniu z różnymi wypryskami na skórze, powstawanie pryszczy, czerwone uszy</td>
+</tr>
+<tr>
+<td>Zaburzenie krążenia krwi</td>
+<td>zbielenie koniuszka nosa, zrośnięte brwi, wczesna siwizna, bladość twarzy, bladość warg, zgrubienie paznokci, &quot;ścięta&quot; potylica</td>
+</tr>
+<tr>
+<td>Zaburzenia przemiany materii</td>
+<td>nalot na dolnych powiekach, białe plamy na paznokciach</td>
+</tr>
+<tr>
+<td>Zakłócenie bilansu cholesterolu</td>
+<td>okrągłe wzgórki koloru żółtobrązowego (podobne do maleńkich brodawek) na górnej powiece</td>
+</tr>
+<tr>
+<td>Zakrzepica, powstawanie skrzepów</td>
+<td>na skórze koło nosa wyraźnie widać popękane naczynia krwionośne</td>
+</tr>
+<tr>
+<td>Zapalenie gruczołów płciowych</td>
+<td>głębokie zmarszczki na szyi, blade płatki uszu, opuchnięta górna warga</td>
+</tr>
+<tr>
+<td>Zapalenie prostaty</td>
+<td>bardzo gruba dolna warga, bladoróżowe zabarwienie wokół oczu</td>
+</tr>
+<tr>
+<td>Zapalenie wątroby</td>
+<td>żółte białkówki oczu, żółtość skóry, policzki zapadnięte z obu stron, żółte zabarwienie skóry wokół ust, nieznaczne żyłki na skrzydełkach nosa, brązowe zabarwienie skóry wokół oczu, ciągłe występowanie białych plam na paznokciach, zgrubienie dolnego brzegu wargi</td>
+</tr>
+<tr>
+<td>Zaparcia</td>
+<td>brązowa skóra wokół oczu</td>
+</tr>
+<tr>
+<td>Zwyrodnienie kręgów szyjnych</td>
+<td>wyraźna zmarszczka przy prawej brwi</td>
+</tr>
+<tr>
+<td></td>
+<td>⬜</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-19"><strong>Czego potrzebuje organizm</strong></p>
 <p>Nasze samopoczucie jest odzwierciedleniem tego co i jak jemy. Są jednak składniki, bez których organizm nie może prawidłowo funkcjonować. To witaminy, makro i mikroelementy czy pierwiastki, które nasz organizm musi posiadać w sobie, by funkcjonować bez zarzutu. Brak któregokolwiek może powodować choroby lub zapoczątkować łańcuch zdarzeń, który nas do nich doprowadzi. Wszystkie te elementy wprowadzamy do organizmu w pożywieniu, ale warto wiedzieć czego nam brakuje. Jedzenie, by spełniało swoją funkcję odbudowy organizmu, regulowania tych procesów i samoleczenia nie może być monotonne. Ubogość składników pokarmowych zawsze prowadzi do braku któregoś i nieprawidłowych reakcji organizmu. W rubryce &quot;Pomocne w przyswajaniu&quot; są podawane substancje wspomagające, które należy pobierać z pożywieniem (nigdy w chemicznych tabletkach). Zestawienie podaję na podstawie książki Patricka Holforda &quot;Zasady prawidłowego odżywiania&quot;.</p>
-<p><strong>Witamina A</strong><br>retinol (mięso)<br>beta-karoten (rośliny)</p>
-<p><strong>Spełniana funkcja</strong> - potrzebna do utrzymania zdrowej skóry i śluzówek. Zapobiega ich zakażeniom. Jest przeciwutleniaczem. Wzmacnia układ odpornościowy. Chroni przed nowotworami. Jest niezbędna aby widzieć o zmroku.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - owrzodzenie ust, kurza ślepota (złe widzenie o zmroku), trądzik, częste przeziębienia i infekcje. Sucha, łuszcząca się skóra, łupież, pleśniawki, zapalenie pęcherza i biegunka.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - wątroba wołowa i cielęca, marchew, kapusta, dynia, pomidory, brokuły, morele, mandarynki, szparagi.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - cynk, witaminy C i E pomagają zachować zasoby.</p>
-<hr>
-<p><strong>Co niszczy</strong> - ciepło, światło, alkohol, kawa, papierosy.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, szczególnie po przedawkowaniu przez dzieci.</p>
-<hr>
-<p><strong>Witamina B1</strong><br>tiamina</p>
-<p><strong>Spełniana funkcja</strong> - niezbędna do produkcji energii, funkcjonowania mózgu i trawienia. Pomaga organizmowi wykorzystywać białka.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - osłabienie mięśni, ból oczu, drażliwość, zaburzenia koncentracji, drętwienie nóg, pogorszenie pamięci, bóle żołądkowe, zatwardzenie, mrowienie w rękach, szybka czynność serca.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - dynia, baranina, mięso jagnięce, szparagi, grzyby, groch, sałata, papryka, kalafior, kapusta, pomidory, brukselka, fasola.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, magnez, mangan.</p>
-<hr>
-<p><strong>Co niszczy</strong> - antybiotyki, herbata, kawa, stres, doustne środki antykoncepcyjne, alkohol, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nie.</p>
-<hr>
-<p><strong>Witamina B2</strong><br>ryboflawina</p>
-<p><strong>Spełniana funkcja</strong> - ułatwia uzyskiwanie energii z tłuszczów, cukrów i białek. Potrzebna do naprawy i utrzymania zdrowej skóry i śluzówek. Uczestniczy w utrzymywaniu właściwego pH organizmu. Ważna dla dobrego stanu włosów, paznokci i oczu.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - pieczenie i swędzenie oczu, nadwrażliwość na jasne światło, stany zapalne języka, zaćma, matowe lub tłuste włosy, wypryski, zapalenie skóry, łamliwe paznokcie, pękająca górna warga.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - grzyby, kapusta, szparagi, brokuły, dynia, kiełki fasoli, makrele, pomidory, kiełki przenicy.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, selen.</p>
-<hr>
-<p><strong>Co niszczy</strong> - alkohol, doustne środki antykoncepcyjne, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nie, ale przy przedawkowaniu mocz zabarwia się na kolor jasnożółtozielony.</p>
-<hr>
-<p><strong>Witamina B5</strong><br>kwas pantotenowy</p>
-<p><strong>Spełniana funkcja</strong> - uczestniczy w produkcji energii i kontroli przemiany materii. Ważna dla pracy mózgu i nerwów. Wspomaga produkcję hormonów antystresowych (steroidów). Pozwala zachować zdrową skórę i włosy.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - drżenie i kurczenie mięśni, osłabienie, zaburzenia koncentracji, uczucie pieczenia stóp, bolesność pięt, nudności lub wymioty, brak energii, łatwe męczenie się przy niewielkich wysiłkach, niepokój i napięcie, zgrzytanie zębami.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - grzyby, brokuły, kiełki lucerny, groch, soczewica, pomidory, kapusta, seler, truskawki jajka, dynia, awokado, pszenica nieoczyszczana.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, biotyna i kwas foliowy.</p>
-<hr>
-<p><strong>Co niszczy</strong> - stres, alkohol, herbata, gotowanie i inna obróbka żywności.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nie.</p>
-<hr>
-<p><strong>Witamina B6</strong><br>pirodoksyna</p>
-<p><strong>Spełniana funkcja</strong> - ważna dla trawienia i przyswajania białek, funkcjonowania mózgu i produkcji hormonów. Pomaga utrzymać równowagę aktywności hormonów płciowych. Naturalny czynnik przeciwdepresyjny i moczopędny. Pomaga kontrolować reakcje uczuleniowe.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - słabe zapamiętywanie snów, zatrzymywanie wody w organizmie, mrowienie w rękach, depresja lub nerwowość, drażliwość, drżenie i kurcze mięśni, brak energii, łuszczaca się skóra.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - kalafior, kapusta, papryka, banany, dynia, brokuły, szparagi, soczewica, czerwona fasola, brukselka, cebula, różne ziarna i orzechy.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, cynk i magnez.</p>
-<hr>
-<p><strong>Co niszczy</strong> - alkohol, papierosy, doustne środki antykoncepcyjne, dieta wysokobiałkowa, przetworzone pokarmy.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.</p>
-<hr>
-<p><strong>Witamina B12</strong><br>cyjanokobalamina</p>
-<p><strong>Spełniana funkcja</strong> - ważna dla przyswajania białek. Wspomaga transport tlenu przez krew. Potrzebna do budowy DNA. Ważna dla funkcjonowania nerwów. Odgrywa rolę przy neutralizowaniu dymu tytoniowego i innych toksyn.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - słabe włosy, wypryski lub zapalenie skóry, nadwrażliwość na ciepło lub zimno, niepokój i napięcie, brak sił, zaparcia, nadwrażliwość mięśni lub bóle mięśniowe, blada skóra.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - sardynki, tuńczyk, mięso jagnięce (ilości śladowe), jaja, sery białe i żółte, mleko, indyk, kurczak.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, kwas foliowy.</p>
-<hr>
-<p><strong>Co niszczy</strong> - alkohol, papierosy, niska kwaśność żołądka.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.</p>
-<hr>
-<p><strong>Biotyna</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - szczególnie ważna u dzieci. Pomaga przy wykorzystywaniu przez organizm niezbędnych kwasów tłuszczowych oraz utrzymaniu zdrowej skóry, włosów i nerwów.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - sucha skóra, słabe i przedwcześnie siwiejące włosy, nadwrażliwe mięśnie lub bóle mięśniowe, słaby apetyt lub nudności, wypryski lub zapalenie skóry.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - kalafior, sałata, groch, pomidory, grapefruit, arbuz, słodka kukurydza, kapusta, kalafior, migdały, wisnie, śledzie, jaja.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, magnez, mangan.</p>
-<hr>
-<p><strong>Co niszczy</strong> - surowe białko jaja (awidyna), pokarmy smażone.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nie obserwowano.</p>
-<hr>
-<p><strong>Witamina C</strong><br>kwas askorbinowy</p>
-<p><strong>Spełniana funkcja</strong> - wspiera układ odpornościowy w walce z infekcjami. Uczestniczy w budowie kolagenu (mocne kości, zdrowe stawy i skóra). Jest przeciwutleniaczem. Dezaktywuje zanieczyszczenia organizmu. Chroni przed nowotworami i chorobami serca. Wspomaga produkcję hormonów antystresowych i przemiany pokarmu w energię.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - częste przeziębienia i infekcje, brak energii, wrażliwe i krwawiące dziąsła, łatwe powstawanie siniaków, krwotoki z nosa, wolne gojenie się ran, czerwone krosty na skórze.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - nać pietruszki, chrzan, papryka, kapusta, brokuły, kalafior, truskawki, cytryny, kiwi, groch, melon, pomarańcze, grapefruit, pomidory.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witaminy z grupy B, witamina E, bioflawonidy.</p>
-<hr>
-<p><strong>Co niszczy</strong> - alkohol, papierosy, zanieczyszczenia, stres, smazone potrawy.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - w nadmiarze może spowodować biegunkę.</p>
-<hr>
-<p><strong>Witamina D</strong><br>ergokalcyferol<br>cholekalcyferol</p>
-<p><strong>Spełniana funkcja</strong> - uczestniczy w utrzymaniu zdrowych i mocnych kości przez zatrzymywanie wapnia.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - bóle lub sztywność stawów, bóle pleców, próchnica, kurcze mięśni, wypadanie włosów.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - śledzie, makrele, łosoś, ser biały, jaja.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - wystawianie się na światło słoneczne (witamina jest wtedy produkowana w skórze) i wtedy nie jest konieczne podawanie w diecie. Witaminę D chronią witaminy A, C i E.</p>
-<hr>
-<p><strong>Co niszczy</strong> - brak światła słonecznego, smażone produkty.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1250 mikrogramów jest toksyczna.</p>
-<hr>
-<p><strong>Witamina E</strong><br>d-tokoferol</p>
-<p><strong>Spełniana funkcja</strong> - przeciwutleniacz, chroni komórki przed zniszczeniem, także przed rozrostem nowotworowym. Wspomaga użytkowanie tlenu przez organizm, zapobiegając krzepnięciu krwi i zatorom oraz procesom miażdżycowym. Poprawia gojenie sięran i stan skóry. Pozytywnie wpływa na płodność.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - brak pociągu płciowego, wyczerpanie po małym wysiłku, łatwe powstawanie siniaków, wolne gojenie się ran, żylaki, zmniejszone napięcie mięśni, niepłodność.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - nieoczyszczony olej kukurydziany, ziarna słonecznika, orzechy ziemne, ziarna sezamowe, fasola, groch, kiełki pszenicy, tuńczyk, sardynki, łosoś.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina C, selen.</p>
-<hr>
-<p><strong>Co niszczy</strong> - wysoka temperatura przyrządzania pokarmu (zwłaszcza smażenie), zanieczyszczenie powietrza, doustne środki antykoncepcyjne, nadmierne przyjmowanie pokarmów rafinowanych (cukier, białe pieczywo) i inaczej przetwarzane tłuszcze i oleje.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nie obserwowano.</p>
-<hr>
-<p><strong>Kwas foliowy</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - u płodu warunkuje rozwój mózgu i nerwów. W późniejszym życiu ważny dla funkcjonowania układu nerwowego. Potrzebny do przyswajania białek i produkcji czerwonych krwinek.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - niedokrwistość (anemia), egzema, spękane usta, przedwcześnie siwiejące włosy, niepokój i napięcie, brak energii, słaby apetyt, bóle brzucha, depresje.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - kiełki pszenicy, szpinak, orzechy ziemne, szparagi, ziarna sezamowe, orzechy laskowe i włoskie, brokuły, kalafior, awokado.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witaminy grupy B, szczególnie B12.</p>
-<hr>
-<p><strong>Co niszczy</strong> - wysoka temperatura, światło, przetwarzanie pokarmu, doustne środki antykoncepcyjne.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, sporadycznie - przy dawce powyżej 15 mg - zaburzenia żołądkowo-jelitowe i problemy ze snem.</p>
-<hr>
-<p><strong>Witamina K</strong><br>filochinon</p>
-<p><strong>Spełniana funkcja</strong> - kontroluje krzepnięcie krwi.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - krwotoki.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - kalafior, brukselka, sałata, kapusta, fasola, brokuły groch, szparagi, ziemniaki, olej kukurydziany, pomidory.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - odpowiednia flora bakteryjna, która całkowicie pokrywa zapotrzebowanie.</p>
-<hr>
-<p><strong>Co niszczy</strong> - antybiotyki, u dzieci - karmienie nie kobiecym mlekiem z butelki.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nie.</p>
-<hr>
-<p><strong>Witamina PP</strong><br>niacyna</p>
-<p><strong>Spełniana funkcja</strong> - niezbędna do wytwarzania energii, funkcjonowania mózgu i zachowania zdrowej skóry. Pomaga utrzymać we krwi odpowiedni poziom cukru i cholesterolu. Bierze udział w łagodzeniu procesów zapalnych i wspomaga trawienie.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - osłabienie, biegunka, bezsenność, bóle głowy, migreny, pogorszenie pamięci, zdenerwowanie lub napięcie, depresje, rozdrażnienie, wrażliwe i krwawiące dziąsła, trądzik, egzema, zapalenie skóry.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - grzyby, tuńczyk, kurczak, łosoś, szparagi, kapusta, mięso jagnięce, makrele, indyk, pomidory, cukinia, dynia, kalafior, nieoczyszczana pszenica.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, chrom.</p>
-<hr>
-<p><strong>Co niszczy</strong> - antybiotyki, kawa, herbata, doustne środki antykoncepcyjne, alkohol.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, przy dawce powyżej 3000 mg.</p>
-<hr>
-<p><strong>Chrom</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - jest częścią &quot;czynnika tolerancji glukozy&quot;, wspomagając regulację poziomu cukru we krwi, normalizuje poczucie głodu i zmniejsza pragnienie. Wydłuża czas życia, chroni DNA i RNA, jest niezbędny do pracy serca.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - obfite lub zimne poty, zawroty głowy lub drażliwość po 6 godzinach bez jedzenia, potrzeba regularnych posiłków, zimne ręce, potrzeba długiego snu i senność podczas dnia, nadmierne pragnienie, nieopanowana chęć jedzenia słodyczy.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - drożdże piwowarskie, chleb zytni i razowy, ziemniaki, kiełki pszenicy, zielona papryka, jaja, kurczak, jabłka, masło, mąka kukurydziana, mięso jagnięce, ser żółty.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - inne składniki czynnika tolerancji glukozy, witamina PP, trzy aminokwasy - glicyna, kwas glutaminowy i cystyna. Właściwa dieta i wysiłek fizyczny.</p>
-<hr>
-<p><strong>Co niszczy</strong> - duże spożycie wysoko przetworzonych cukrów i mąki, otyłość, pestycydy, pochodne ropy naftowej, przetworzony pokarm, metale toksyczne.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg jest toksyczna.</p>
-<hr>
-<p><strong>Cynk</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - jest składnikiem ponad 200 enzymów w organizmie, wchodzi w skład DNA i RNA, jest niezbędny do wzrostu, wspomaga gojenie ran, kontroluje hormony produkowane w jądrach i jajnikach, wzmaga zdolność do skutecznej walki ze stresem, ma wpływ na prawidłowy rozwój układu nerwowego i mózgu (zwłaszcza u rozwijającego się płodu, wspomaga tworzenie się kości i zębów, poprawia stan i wygląd włosów, jest niezbędny do utrzymania stałego poziomu energii.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - osłabienie zmysłu smaku lub zapachu, białe plamy na więcej niż dwóch paznokciach, częste infekcje, rozstępy, trądzik lub przetłuszczająca się skóra, niska płodność, blada skóra, skłonność do depresji, brak apetytu.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - korzeń imbiru, mięso jagnięce, suchy groch, zielony groszek, rzepa, żółtko jaja, ziarno nieoczyszczonej pszenicy, żyto, owies, orzechy ziemne, migdały.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - kwas żołądkowy, witaminy A, E, B6, magnez, wapń, fosfor.</p>
-<hr>
-<p><strong>Co niszczy</strong> - fityniany (pszenica), szczawiany (rabarbar i szpinak), wysokie spożycie wapnia, niskie spożycie białka, nadmiar cukru, stres, alkohol.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, dawka powyżej 2g może doprowadzić do zaburzeń żołądkowo-jelitowych, wymiotów, anemii, zaburzeń wzrostu, sztywności, osłabienia apetytu i śmierci.</p>
-<hr>
-<p><strong>Fosfor</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - ważny w wykształceniu kości i zębów i utrzymaniu ich w dobrym stanie, niezbędny do laktacji, wchodzi w skład komórek mięśniowych i jest niezbędny do ich pracy, składnik DNA i RNA, pomaga w utrzymaniu właściwego pH płynów ustrojowych, wspomaga metabolizm i produkcję energii.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - mało prawdopodobne (fosfor znajduje się prawie we wszystkich pokarmach), może dojść w razie długotrwałego stosowania środków alkalizujących, w złamaniach kości lub innych urazach. Oznaki to - osłabienie mięsni, utrata apetytu, bóle kostne, krzywica, rozmiękanie kości.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - jest we wszystkich pokarmach.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - właściwy stosunek wapnia do fosforu, laktoza, witamina D.</p>
-<hr>
-<p><strong>Co niszczy</strong> - żelazo, magnez, glin.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nie znane są przypadki, ale może doprowadzić do niedoboru wapnia, zwiększenia pobudliwości nerwowej i konwulsji.</p>
-<hr>
-<p><strong>Magnez</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - wzmacnia kości i zęby, utrzymuje zdrowe mięśnie, umożliwia ich rozkurczanie, wazny dla mięśnia sercowego i nerwów. Niezbędny do wytwarzania energii. Wspomaga działanie enzymów w organizmie.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - drżenie lub skurcze mięśni, osłabienie mięśni, bezsenność i nerwowość, wysokie ciśnienie krwi, nieregularna czynność serca, zaparcia, drgawki, wzmożona aktywność, depresja, dezorientacja, brak apetytu, odkładanie wapnia w tkankach miękkich (kamienie w nerkach).</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - kiełki pszenicy, migdały, drożdże piwowarskie, mąka gryczana, orzechy ziemne, gotowana fasola, czosnek, rodzynki, zielony groszek, łupiny ziemniaków.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina B1, B6, C i D, cynk, wapń i fosfor.</p>
-<hr>
-<p><strong>Co niszczy</strong> - fityniany (otręby pszenne, chleb), tłuszcze, szczawiany (rabarbar i szpinak), wysokie spożycie wapnia (w produktach mlecznych) i białka.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg może być toksyczna.</p>
-<hr>
-<p><strong>Mangan</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - utrzymuje w zdrowiu kości, chrząstki, tkanki i nerwy, wzmaga aktywność ponad dwudziestu układów enzymatycznych (m.in. przeciwutleniający), Wyrównuje poziom cukru we krwi. Zabezpiecza DNA i RNA. Istotny dla procesów rozrodczych, produkcji krwinek czerwonych i insuliny. Ogranicza uszkodzenia komórek. Potrzebny do funkcjonowania mózgu.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - skurcze mięśni, zawroty głowy lub słabe poczucie równowagi, drgawki, bóle stawów (głównie kolanowych).</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - ananas, endywia, jeżyny, maliny, sałata, winogrona, truskawki, owies, burak ćwikłowy, seler.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina B1, C, E i K.</p>
-<hr>
-<p><strong>Co niszczy</strong> - antybiotyki, alkohol, produkty oczyszczane.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nie występuje.</p>
-<hr>
-<p><strong>Molibden</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - wspomaga wydalanie z organizmu produktów przemiany białek (np. kwasu moczowego) oraz wolnych rodników, produktów przemiany związków chemicznych pochodzących z zanieczyszczeń i siarczanów. Wzmacnia zęby i zmniejsza ryzyko powstawania ubytków w uzębieniu.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - nie występują, dopóki nadmiar miedzi lub siarczanów nie ogranicza wykorzystania molibdenu (u zwierząt pojawiły się zaburzenia oddychania i problemy neurologiczne).</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - pomidory, kiełki pszenicy, wieprzowina, mięso jagnięce, soczewica, fasola.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - białka zawierające aminokwasy siarkowe, wodorowęglany, tłuszcze.</p>
-<hr>
-<p><strong>Co niszczy</strong> - miedź, siarczany.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, spożycie 10-15 mg dziennie powoduje wystąpienie objawów podobnych do napadu dny moczanowej z wysokim poziomem kwasu moczowego.</p>
-<hr>
-<p><strong>Potas</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - umożliwia wnikanie składników odżywczych do komórek i pozbywanie się produktów przemiany materii, zapewnia właściwe funkcjonowanie mięśni i nerwów, utrzymuje równowagę płynów w organizmie, rozkurcza mięśnie, wspomaga produkcję insuliny, bierze udział w przemianie materii, niezbędny dla pracy serca, pobudza czynność przewodu pokarmowego wspomagając prawidłowe wydalanie.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - szybkie i nieregularne bicie serca, osłabienie mięśni, drętwienie kończyn, drażliwość, nudności i wymioty, biegunki, wzdęcia brzucha, cellulitis, niskie ciśnienie krwi wynikające z zaburzeń równowagi potasu i sodu, splątanie, otępienie.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - kapusta, seler, pietruszka, cukinia, rzodkiewka, kalafior, grzyby, dynia, melasa.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - magnez (pomaga w utrzymaniu potasu wewnątrz komórek).</p>
-<hr>
-<p><strong>Co niszczy</strong> - nadmiar sodu z soli, alkohol, cukier, leki moczopędne i przeczyszczające, kortykosterydy, stres.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1,8 g może zatrzymać pracę serca.</p>
-<hr>
-<p><strong>Selen</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - ma właściwości przeciwutleniające i chroni organizm przed działaniem wolnych rodników i czynników rakotwórczych, zmniejsza stan zapalny, pobudza układ odpornościowy do walki z zakażeniami, zapewnia właściwe funkcjonowanie serca i wspomaga w działaniu witaminę E, potrzebny w przemianie materii.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - występowanie nowotworów w rodzinie, oznaki przedwczesnego starzenia się, zaćma, wysokie ciśnienie krwi, częste zakażenia.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - tuńczyk, melasa, grzyby, śledzie, biały ser, kapusta, wątroba wołowa, cukinia, dorsz, kurczak.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina A, C i E.</p>
-<hr>
-<p><strong>Co niszczy</strong> - produkty oczyszczone, współczesne techniki uprawy i hodowli.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, dawka powyżej 750 mikrogramów może powodować nieprawidłowości w budowie białek tworzących strukturę włosa, paznokci i skóry oraz &quot;czosnkowy&quot; oddech.</p>
-<hr>
-<p><strong>Sód</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - utrzymuje równowagę płynów w organizmie, zapobiega odwodnieniu, wspomaga czynności nerwów, bierze udział w skurczu mięśni, w tym mięśnia sercowego, wykorzystywany jest do produkcji energii, ułatwia wprowadzanie składników odżywczych do wnętrza komórek.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - zawroty głowy, zła tolerancja wysokich temperatur, niskie ciśnienie krwi, przyspieszone tętno, apatia umysłowa, brak apetytu, kurcze mięśni, nudności i wymioty, spadek masy ciała, bóle głowy.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - kapusta kiszona, oliwki, mięso, burak ćwikłowy, szynka, seler, kapusta, ser biały, czerwona fasola.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina D.</p>
-<hr>
-<p><strong>Co niszczy</strong> - potas i chlor równoważą działanie sodu.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, jeśli spożywa się dużo sodu z produktów oczyszczanych i pije niewiele wody, występują obrzęki, wysokie ciśnienie krwi i choroby nerek.</p>
-<hr>
-<p><strong>Wapń</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - poprawia stan serca i nerwów, wspomaga procesy krzepnięcia krwi i pracy mięśni. Niezbędny w zachowaniu zdrowej skóry, kości i zębów. Usuwa bóle mięśni i kości. Utrzymuje równowagę kwasowo-zasadową. Zmniejsza napięcie i skurcze miesiączkowe.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - drżenie i kurcze mięśni, bezsenność i nerwowość, ból i zapalenie stawów, próchnica, wysokie ciśnienie krwi.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - żółty ser, ser cheddar, migdały, drożdże piwowarskie, pietruszka, placki kukurydziane, karczochy, suszone śliwki, ziarna dyni, gotowana suszona fasola, kapusta, zimowa pszenica.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina D, bor, wysiłek fizyczny.</p>
-<hr>
-<p><strong>Co niszczy</strong> - rozchwianie hormonalne, alkohol, brak ruchu, kofeina, herbata, brak kwasu solnego i nadmiar tłuszczów lub fosforu obniża wchłanianie wapnia, stres zwiększa wydalanie.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nie, ale prowadzi do odkładania się nadmiaru w postaci kamieni w nerkach, sercu i innych tkankach miękkich.</p>
-<hr>
-<p><strong>Żelazo</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - jako część hemoglobiny transportuje tlen i dwutlenek węgla do i z tkanek. Składnik enzymów niezbędny do produkcji energii.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - anemia, brak apetytu, obolały język, uczucie zmęczenia, apatia, nudności, wrażliwość na zimno.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - ziarna dyni, pietruszka, migdały, suszone śliwki, rodzynki, orzechy włoskie, daktyle, wieprzowina, gotowana suszona fasola, ziarna sezamowe.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina B1, B6, C i D, cynk, wapń i fosfor.</p>
-<hr>
-<p><strong>Co niszczy</strong> - kwas taninowy (herbata), fityniany (otręby pszenne, bób), szczawiany (rabarbar i szpinak), fosforany (napoje gazowane, dodatki do żywności), substancje alkalizujące, białka sojowe, spożywanie dużej ilości cynku.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg może być toksyczna.</p>
-<hr>
-<p><strong>Bioflawonidy</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - wspomagają działanie witaminy C, wzmacniają naczynia włoskowate, przyspieszają gojenie się ran, a także urazów i nadwerężonych mięśni, przeciwutleniacze.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - łatwe powstawanie siniaków, żylaki, częste urazy i nadwerężenia.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - owoce jagodowe, wiśnie, owoce cytrusowe.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina C.</p>
-<hr>
-<p><strong>Co niszczy</strong> - wolne rodniki.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nieznane.</p>
-<hr>
-<p><strong>Cholina</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - składnik lecytyny, która pomaga rozkładać tłuszcze w wątrobie, ułatwia wprowadzanie tłuszczów do komórek i syntezę błon komórkowych w układzie nerwowym, chroni tkankę płuc.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - wady rozwojowe u noworodków, wysoki poziom cholesterolu i tłuszczów, stłuszczenie wątroby, zwyrodnienie nerwów, wysokie ciśnienie krwi, miażdżyca naczyń, otępienie starcze, zmniejszenie odporności na choroby.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - lecytyna, jajka, ryby, wątroba, soja, orzechy ziemne, produkty pełnoziarniste, orzechy, rośliny strączkowe, owoce cytrusowe, kiełki pszenicy, drżdże piwne.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina B5, lit.</p>
-<hr>
-<p><strong>Co niszczy</strong> - alkohol, tabletki antykoncepcyjne.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nieznane.</p>
-<hr>
-<p><strong>Inozytol</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - potrzebny do wzrostu komórek, konieczny do rozwoju osłonek nerwowych oraz funkcjonowania mózgu i rdzenia kręgowego, ma niewielkie działanie uspokajające, obniża poziom cholesterolu we krwi, potrzebny do utrzymania zdrowych włosów.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - drazliwość, bezsenność, nerwowość, nadmierna pobudliwość, osłabienie wzrostu i regeneracji nerwów, niski poziom HDL.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - lecytyna, rosliny strączkowe, mąka sojowa, jajka, ryby, wątroba, owoce cytrusowe, melon, orzechy, kiełki pszenicy, drożdże piwne.</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - cholina.</p>
-<hr>
-<p><strong>Co niszczy</strong> - fityniany, antybiotyki, alkohol, herbata, kawa, tabletki antykoncepcyjne, leki moczopędne.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nieznane.</p>
-<hr>
-<p><strong>Koenzym Q10</strong>  </p>
-<p><strong>Spełniana funkcja</strong> - przeciwutleniacz, odgrywa główną rolę w przemianie materii i metabolizmie, usprawnia pracę serca, pomaga normalizować ciśnienie krwi, zwiększa tolerancję wysiłku, wzmacnia odporność.</p>
-<hr>
-<p><strong>Objawy niedoboru</strong> - brak energii, choroby serca, słaba tolerancja wysiłku, upośledzenie czynności układu odpornościowego.</p>
-<hr>
-<p><strong>Źródła</strong> (co zjadać) - sardynki, makrele, wieprzowina, szpinak, olej sojowy, orzechy ziemne, ziarna sezamowe, orzechy włoskie</p>
-<hr>
-<p><strong>Pomocne w przyswajaniu</strong> - witamina B kompleks, żelazo.</p>
-<hr>
-<p><strong>Co niszczy</strong> - używki, cukier.</p>
-<hr>
-<p><strong>Czy można się zatruć</strong> - nieznane.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Witamina A</strong><br>retinol (mięso)<br>beta-karoten (rośliny)</th>
+<th>🟧</th>
+<th><strong>Spełniana funkcja</strong> - potrzebna do utrzymania zdrowej skóry i śluzówek. Zapobiega ich zakażeniom. Jest przeciwutleniaczem. Wzmacnia układ odpornościowy. Chroni przed nowotworami. Jest niezbędna aby widzieć o zmroku.<br>---<br><strong>Objawy niedoboru</strong> - owrzodzenie ust, kurza ślepota (złe widzenie o zmroku), trądzik, częste przeziębienia i infekcje. Sucha, łuszcząca się skóra, łupież, pleśniawki, zapalenie pęcherza i biegunka.<br>---<br><strong>Źródła</strong> (co zjadać) - wątroba wołowa i cielęca, marchew, kapusta, dynia, pomidory, brokuły, morele, mandarynki, szparagi.<br>---<br><strong>Pomocne w przyswajaniu</strong> - cynk, witaminy C i E pomagają zachować zasoby.<br>---<br><strong>Co niszczy</strong> - ciepło, światło, alkohol, kawa, papierosy.<br>---<br><strong>Czy można się zatruć</strong> - tak, szczególnie po przedawkowaniu przez dzieci.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina B1</strong><br>tiamina</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - niezbędna do produkcji energii, funkcjonowania mózgu i trawienia. Pomaga organizmowi wykorzystywać białka.<br>---<br><strong>Objawy niedoboru</strong> - osłabienie mięśni, ból oczu, drażliwość, zaburzenia koncentracji, drętwienie nóg, pogorszenie pamięci, bóle żołądkowe, zatwardzenie, mrowienie w rękach, szybka czynność serca.<br>---<br><strong>Źródła</strong> (co zjadać) - dynia, baranina, mięso jagnięce, szparagi, grzyby, groch, sałata, papryka, kalafior, kapusta, pomidory, brukselka, fasola.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, magnez, mangan.<br>---<br><strong>Co niszczy</strong> - antybiotyki, herbata, kawa, stres, doustne środki antykoncepcyjne, alkohol, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.<br>---<br><strong>Czy można się zatruć</strong> - nie.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina B2</strong><br>ryboflawina</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - ułatwia uzyskiwanie energii z tłuszczów, cukrów i białek. Potrzebna do naprawy i utrzymania zdrowej skóry i śluzówek. Uczestniczy w utrzymywaniu właściwego pH organizmu. Ważna dla dobrego stanu włosów, paznokci i oczu.<br>---<br><strong>Objawy niedoboru</strong> - pieczenie i swędzenie oczu, nadwrażliwość na jasne światło, stany zapalne języka, zaćma, matowe lub tłuste włosy, wypryski, zapalenie skóry, łamliwe paznokcie, pękająca górna warga.<br>---<br><strong>Źródła</strong> (co zjadać) - grzyby, kapusta, szparagi, brokuły, dynia, kiełki fasoli, makrele, pomidory, kiełki przenicy.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, selen.<br>---<br><strong>Co niszczy</strong> - alkohol, doustne środki antykoncepcyjne, proszki do pieczenia, dwutlenek siarki (konserwant), gotowanie i inna obróbka żywności.<br>---<br><strong>Czy można się zatruć</strong> - nie, ale przy przedawkowaniu mocz zabarwia się na kolor jasnożółtozielony.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina B5</strong><br>kwas pantotenowy</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - uczestniczy w produkcji energii i kontroli przemiany materii. Ważna dla pracy mózgu i nerwów. Wspomaga produkcję hormonów antystresowych (steroidów). Pozwala zachować zdrową skórę i włosy.<br>---<br><strong>Objawy niedoboru</strong> - drżenie i kurczenie mięśni, osłabienie, zaburzenia koncentracji, uczucie pieczenia stóp, bolesność pięt, nudności lub wymioty, brak energii, łatwe męczenie się przy niewielkich wysiłkach, niepokój i napięcie, zgrzytanie zębami.<br>---<br><strong>Źródła</strong> (co zjadać) - grzyby, brokuły, kiełki lucerny, groch, soczewica, pomidory, kapusta, seler, truskawki jajka, dynia, awokado, pszenica nieoczyszczana.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, biotyna i kwas foliowy.<br>---<br><strong>Co niszczy</strong> - stres, alkohol, herbata, gotowanie i inna obróbka żywności.<br>---<br><strong>Czy można się zatruć</strong> - nie.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina B6</strong><br>pirodoksyna</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - ważna dla trawienia i przyswajania białek, funkcjonowania mózgu i produkcji hormonów. Pomaga utrzymać równowagę aktywności hormonów płciowych. Naturalny czynnik przeciwdepresyjny i moczopędny. Pomaga kontrolować reakcje uczuleniowe.<br>---<br><strong>Objawy niedoboru</strong> - słabe zapamiętywanie snów, zatrzymywanie wody w organizmie, mrowienie w rękach, depresja lub nerwowość, drażliwość, drżenie i kurcze mięśni, brak energii, łuszczaca się skóra.<br>---<br><strong>Źródła</strong> (co zjadać) - kalafior, kapusta, papryka, banany, dynia, brokuły, szparagi, soczewica, czerwona fasola, brukselka, cebula, różne ziarna i orzechy.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, cynk i magnez.<br>---<br><strong>Co niszczy</strong> - alkohol, papierosy, doustne środki antykoncepcyjne, dieta wysokobiałkowa, przetworzone pokarmy.<br>---<br><strong>Czy można się zatruć</strong> - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina B12</strong><br>cyjanokobalamina</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - ważna dla przyswajania białek. Wspomaga transport tlenu przez krew. Potrzebna do budowy DNA. Ważna dla funkcjonowania nerwów. Odgrywa rolę przy neutralizowaniu dymu tytoniowego i innych toksyn.<br>---<br><strong>Objawy niedoboru</strong> - słabe włosy, wypryski lub zapalenie skóry, nadwrażliwość na ciepło lub zimno, niepokój i napięcie, brak sił, zaparcia, nadwrażliwość mięśni lub bóle mięśniowe, blada skóra.<br>---<br><strong>Źródła</strong> (co zjadać) - sardynki, tuńczyk, mięso jagnięce (ilości śladowe), jaja, sery białe i żółte, mleko, indyk, kurczak.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, kwas foliowy.<br>---<br><strong>Co niszczy</strong> - alkohol, papierosy, niska kwaśność żołądka.<br>---<br><strong>Czy można się zatruć</strong> - notowano przy dawce powyżej 1 grama przy podawaniu bez innych witamin grupy B.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Biotyna</strong></td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - szczególnie ważna u dzieci. Pomaga przy wykorzystywaniu przez organizm niezbędnych kwasów tłuszczowych oraz utrzymaniu zdrowej skóry, włosów i nerwów.<br>---<br><strong>Objawy niedoboru</strong> - sucha skóra, słabe i przedwcześnie siwiejące włosy, nadwrażliwe mięśnie lub bóle mięśniowe, słaby apetyt lub nudności, wypryski lub zapalenie skóry.<br>---<br><strong>Źródła</strong> (co zjadać) - kalafior, sałata, groch, pomidory, grapefruit, arbuz, słodka kukurydza, kapusta, kalafior, migdały, wisnie, śledzie, jaja.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, magnez, mangan.<br>---<br><strong>Co niszczy</strong> - surowe białko jaja (awidyna), pokarmy smażone.<br>---<br><strong>Czy można się zatruć</strong> - nie obserwowano.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina C</strong><br>kwas askorbinowy</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - wspiera układ odpornościowy w walce z infekcjami. Uczestniczy w budowie kolagenu (mocne kości, zdrowe stawy i skóra). Jest przeciwutleniaczem. Dezaktywuje zanieczyszczenia organizmu. Chroni przed nowotworami i chorobami serca. Wspomaga produkcję hormonów antystresowych i przemiany pokarmu w energię.<br>---<br><strong>Objawy niedoboru</strong> - częste przeziębienia i infekcje, brak energii, wrażliwe i krwawiące dziąsła, łatwe powstawanie siniaków, krwotoki z nosa, wolne gojenie się ran, czerwone krosty na skórze.<br>---<br><strong>Źródła</strong> (co zjadać) - nać pietruszki, chrzan, papryka, kapusta, brokuły, kalafior, truskawki, cytryny, kiwi, groch, melon, pomarańcze, grapefruit, pomidory.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witaminy z grupy B, witamina E, bioflawonidy.<br>---<br><strong>Co niszczy</strong> - alkohol, papierosy, zanieczyszczenia, stres, smazone potrawy.<br>---<br><strong>Czy można się zatruć</strong> - w nadmiarze może spowodować biegunkę.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina D</strong><br>ergokalcyferol<br>cholekalcyferol</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - uczestniczy w utrzymaniu zdrowych i mocnych kości przez zatrzymywanie wapnia.<br>---<br><strong>Objawy niedoboru</strong> - bóle lub sztywność stawów, bóle pleców, próchnica, kurcze mięśni, wypadanie włosów.<br>---<br><strong>Źródła</strong> (co zjadać) - śledzie, makrele, łosoś, ser biały, jaja.<br>---<br><strong>Pomocne w przyswajaniu</strong> - wystawianie się na światło słoneczne (witamina jest wtedy produkowana w skórze) i wtedy nie jest konieczne podawanie w diecie. Witaminę D chronią witaminy A, C i E.<br>---<br><strong>Co niszczy</strong> - brak światła słonecznego, smażone produkty.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1250 mikrogramów jest toksyczna.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina E</strong><br>d-tokoferol</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - przeciwutleniacz, chroni komórki przed zniszczeniem, także przed rozrostem nowotworowym. Wspomaga użytkowanie tlenu przez organizm, zapobiegając krzepnięciu krwi i zatorom oraz procesom miażdżycowym. Poprawia gojenie sięran i stan skóry. Pozytywnie wpływa na płodność.<br>---<br><strong>Objawy niedoboru</strong> - brak pociągu płciowego, wyczerpanie po małym wysiłku, łatwe powstawanie siniaków, wolne gojenie się ran, żylaki, zmniejszone napięcie mięśni, niepłodność.<br>---<br><strong>Źródła</strong> (co zjadać) - nieoczyszczony olej kukurydziany, ziarna słonecznika, orzechy ziemne, ziarna sezamowe, fasola, groch, kiełki pszenicy, tuńczyk, sardynki, łosoś.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina C, selen.<br>---<br><strong>Co niszczy</strong> - wysoka temperatura przyrządzania pokarmu (zwłaszcza smażenie), zanieczyszczenie powietrza, doustne środki antykoncepcyjne, nadmierne przyjmowanie pokarmów rafinowanych (cukier, białe pieczywo) i inaczej przetwarzane tłuszcze i oleje.<br>---<br><strong>Czy można się zatruć</strong> - nie obserwowano.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Kwas foliowy</strong></td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - u płodu warunkuje rozwój mózgu i nerwów. W późniejszym życiu ważny dla funkcjonowania układu nerwowego. Potrzebny do przyswajania białek i produkcji czerwonych krwinek.<br>---<br><strong>Objawy niedoboru</strong> - niedokrwistość (anemia), egzema, spękane usta, przedwcześnie siwiejące włosy, niepokój i napięcie, brak energii, słaby apetyt, bóle brzucha, depresje.<br>---<br><strong>Źródła</strong> (co zjadać) - kiełki pszenicy, szpinak, orzechy ziemne, szparagi, ziarna sezamowe, orzechy laskowe i włoskie, brokuły, kalafior, awokado.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witaminy grupy B, szczególnie B12.<br>---<br><strong>Co niszczy</strong> - wysoka temperatura, światło, przetwarzanie pokarmu, doustne środki antykoncepcyjne.<br>---<br><strong>Czy można się zatruć</strong> - tak, sporadycznie - przy dawce powyżej 15 mg - zaburzenia żołądkowo-jelitowe i problemy ze snem.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina K</strong><br>filochinon</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - kontroluje krzepnięcie krwi.<br>---<br><strong>Objawy niedoboru</strong> - krwotoki.<br>---<br><strong>Źródła</strong> (co zjadać) - kalafior, brukselka, sałata, kapusta, fasola, brokuły groch, szparagi, ziemniaki, olej kukurydziany, pomidory.<br>---<br><strong>Pomocne w przyswajaniu</strong> - odpowiednia flora bakteryjna, która całkowicie pokrywa zapotrzebowanie.<br>---<br><strong>Co niszczy</strong> - antybiotyki, u dzieci - karmienie nie kobiecym mlekiem z butelki.<br>---<br><strong>Czy można się zatruć</strong> - nie.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Witamina PP</strong><br>niacyna</td>
+<td>🟧</td>
+<td><strong>Spełniana funkcja</strong> - niezbędna do wytwarzania energii, funkcjonowania mózgu i zachowania zdrowej skóry. Pomaga utrzymać we krwi odpowiedni poziom cukru i cholesterolu. Bierze udział w łagodzeniu procesów zapalnych i wspomaga trawienie.<br>---<br><strong>Objawy niedoboru</strong> - osłabienie, biegunka, bezsenność, bóle głowy, migreny, pogorszenie pamięci, zdenerwowanie lub napięcie, depresje, rozdrażnienie, wrażliwe i krwawiące dziąsła, trądzik, egzema, zapalenie skóry.<br>---<br><strong>Źródła</strong> (co zjadać) - grzyby, tuńczyk, kurczak, łosoś, szparagi, kapusta, mięso jagnięce, makrele, indyk, pomidory, cukinia, dynia, kalafior, nieoczyszczana pszenica.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne witaminy z grupy B, chrom.<br>---<br><strong>Co niszczy</strong> - antybiotyki, kawa, herbata, doustne środki antykoncepcyjne, alkohol.<br>---<br><strong>Czy można się zatruć</strong> - tak, przy dawce powyżej 3000 mg.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Chrom</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - jest częścią &quot;czynnika tolerancji glukozy&quot;, wspomagając regulację poziomu cukru we krwi, normalizuje poczucie głodu i zmniejsza pragnienie. Wydłuża czas życia, chroni DNA i RNA, jest niezbędny do pracy serca.<br>---<br><strong>Objawy niedoboru</strong> - obfite lub zimne poty, zawroty głowy lub drażliwość po 6 godzinach bez jedzenia, potrzeba regularnych posiłków, zimne ręce, potrzeba długiego snu i senność podczas dnia, nadmierne pragnienie, nieopanowana chęć jedzenia słodyczy.<br>---<br><strong>Źródła</strong> (co zjadać) - drożdże piwowarskie, chleb zytni i razowy, ziemniaki, kiełki pszenicy, zielona papryka, jaja, kurczak, jabłka, masło, mąka kukurydziana, mięso jagnięce, ser żółty.<br>---<br><strong>Pomocne w przyswajaniu</strong> - inne składniki czynnika tolerancji glukozy, witamina PP, trzy aminokwasy - glicyna, kwas glutaminowy i cystyna. Właściwa dieta i wysiłek fizyczny.<br>---<br><strong>Co niszczy</strong> - duże spożycie wysoko przetworzonych cukrów i mąki, otyłość, pestycydy, pochodne ropy naftowej, przetworzony pokarm, metale toksyczne.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg jest toksyczna.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Cynk</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - jest składnikiem ponad 200 enzymów w organizmie, wchodzi w skład DNA i RNA, jest niezbędny do wzrostu, wspomaga gojenie ran, kontroluje hormony produkowane w jądrach i jajnikach, wzmaga zdolność do skutecznej walki ze stresem, ma wpływ na prawidłowy rozwój układu nerwowego i mózgu (zwłaszcza u rozwijającego się płodu, wspomaga tworzenie się kości i zębów, poprawia stan i wygląd włosów, jest niezbędny do utrzymania stałego poziomu energii.<br>---<br><strong>Objawy niedoboru</strong> - osłabienie zmysłu smaku lub zapachu, białe plamy na więcej niż dwóch paznokciach, częste infekcje, rozstępy, trądzik lub przetłuszczająca się skóra, niska płodność, blada skóra, skłonność do depresji, brak apetytu.<br>---<br><strong>Źródła</strong> (co zjadać) - korzeń imbiru, mięso jagnięce, suchy groch, zielony groszek, rzepa, żółtko jaja, ziarno nieoczyszczonej pszenicy, żyto, owies, orzechy ziemne, migdały.<br>---<br><strong>Pomocne w przyswajaniu</strong> - kwas żołądkowy, witaminy A, E, B6, magnez, wapń, fosfor.<br>---<br><strong>Co niszczy</strong> - fityniany (pszenica), szczawiany (rabarbar i szpinak), wysokie spożycie wapnia, niskie spożycie białka, nadmiar cukru, stres, alkohol.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 2g może doprowadzić do zaburzeń żołądkowo-jelitowych, wymiotów, anemii, zaburzeń wzrostu, sztywności, osłabienia apetytu i śmierci.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fosfor</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - ważny w wykształceniu kości i zębów i utrzymaniu ich w dobrym stanie, niezbędny do laktacji, wchodzi w skład komórek mięśniowych i jest niezbędny do ich pracy, składnik DNA i RNA, pomaga w utrzymaniu właściwego pH płynów ustrojowych, wspomaga metabolizm i produkcję energii.<br>---<br><strong>Objawy niedoboru</strong> - mało prawdopodobne (fosfor znajduje się prawie we wszystkich pokarmach), może dojść w razie długotrwałego stosowania środków alkalizujących, w złamaniach kości lub innych urazach. Oznaki to - osłabienie mięsni, utrata apetytu, bóle kostne, krzywica, rozmiękanie kości.<br>---<br><strong>Źródła</strong> (co zjadać) - jest we wszystkich pokarmach.<br>---<br><strong>Pomocne w przyswajaniu</strong> - właściwy stosunek wapnia do fosforu, laktoza, witamina D.<br>---<br><strong>Co niszczy</strong> - żelazo, magnez, glin.<br>---<br><strong>Czy można się zatruć</strong> - nie znane są przypadki, ale może doprowadzić do niedoboru wapnia, zwiększenia pobudliwości nerwowej i konwulsji.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Magnez</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - wzmacnia kości i zęby, utrzymuje zdrowe mięśnie, umożliwia ich rozkurczanie, wazny dla mięśnia sercowego i nerwów. Niezbędny do wytwarzania energii. Wspomaga działanie enzymów w organizmie.<br>---<br><strong>Objawy niedoboru</strong> - drżenie lub skurcze mięśni, osłabienie mięśni, bezsenność i nerwowość, wysokie ciśnienie krwi, nieregularna czynność serca, zaparcia, drgawki, wzmożona aktywność, depresja, dezorientacja, brak apetytu, odkładanie wapnia w tkankach miękkich (kamienie w nerkach).<br>---<br><strong>Źródła</strong> (co zjadać) - kiełki pszenicy, migdały, drożdże piwowarskie, mąka gryczana, orzechy ziemne, gotowana fasola, czosnek, rodzynki, zielony groszek, łupiny ziemniaków.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B1, B6, C i D, cynk, wapń i fosfor.<br>---<br><strong>Co niszczy</strong> - fityniany (otręby pszenne, chleb), tłuszcze, szczawiany (rabarbar i szpinak), wysokie spożycie wapnia (w produktach mlecznych) i białka.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg może być toksyczna.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Mangan</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - utrzymuje w zdrowiu kości, chrząstki, tkanki i nerwy, wzmaga aktywność ponad dwudziestu układów enzymatycznych (m.in. przeciwutleniający), Wyrównuje poziom cukru we krwi. Zabezpiecza DNA i RNA. Istotny dla procesów rozrodczych, produkcji krwinek czerwonych i insuliny. Ogranicza uszkodzenia komórek. Potrzebny do funkcjonowania mózgu.<br>---<br><strong>Objawy niedoboru</strong> - skurcze mięśni, zawroty głowy lub słabe poczucie równowagi, drgawki, bóle stawów (głównie kolanowych).<br>---<br><strong>Źródła</strong> (co zjadać) - ananas, endywia, jeżyny, maliny, sałata, winogrona, truskawki, owies, burak ćwikłowy, seler.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B1, C, E i K.<br>---<br><strong>Co niszczy</strong> - antybiotyki, alkohol, produkty oczyszczane.<br>---<br><strong>Czy można się zatruć</strong> - nie występuje.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Molibden</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - wspomaga wydalanie z organizmu produktów przemiany białek (np. kwasu moczowego) oraz wolnych rodników, produktów przemiany związków chemicznych pochodzących z zanieczyszczeń i siarczanów. Wzmacnia zęby i zmniejsza ryzyko powstawania ubytków w uzębieniu.<br>---<br><strong>Objawy niedoboru</strong> - nie występują, dopóki nadmiar miedzi lub siarczanów nie ogranicza wykorzystania molibdenu (u zwierząt pojawiły się zaburzenia oddychania i problemy neurologiczne).<br>---<br><strong>Źródła</strong> (co zjadać) - pomidory, kiełki pszenicy, wieprzowina, mięso jagnięce, soczewica, fasola.<br>---<br><strong>Pomocne w przyswajaniu</strong> - białka zawierające aminokwasy siarkowe, wodorowęglany, tłuszcze.<br>---<br><strong>Co niszczy</strong> - miedź, siarczany.<br>---<br><strong>Czy można się zatruć</strong> - tak, spożycie 10-15 mg dziennie powoduje wystąpienie objawów podobnych do napadu dny moczanowej z wysokim poziomem kwasu moczowego.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Potas</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - umożliwia wnikanie składników odżywczych do komórek i pozbywanie się produktów przemiany materii, zapewnia właściwe funkcjonowanie mięśni i nerwów, utrzymuje równowagę płynów w organizmie, rozkurcza mięśnie, wspomaga produkcję insuliny, bierze udział w przemianie materii, niezbędny dla pracy serca, pobudza czynność przewodu pokarmowego wspomagając prawidłowe wydalanie.<br>---<br><strong>Objawy niedoboru</strong> - szybkie i nieregularne bicie serca, osłabienie mięśni, drętwienie kończyn, drażliwość, nudności i wymioty, biegunki, wzdęcia brzucha, cellulitis, niskie ciśnienie krwi wynikające z zaburzeń równowagi potasu i sodu, splątanie, otępienie.<br>---<br><strong>Źródła</strong> (co zjadać) - kapusta, seler, pietruszka, cukinia, rzodkiewka, kalafior, grzyby, dynia, melasa.<br>---<br><strong>Pomocne w przyswajaniu</strong> - magnez (pomaga w utrzymaniu potasu wewnątrz komórek).<br>---<br><strong>Co niszczy</strong> - nadmiar sodu z soli, alkohol, cukier, leki moczopędne i przeczyszczające, kortykosterydy, stres.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1,8 g może zatrzymać pracę serca.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Selen</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - ma właściwości przeciwutleniające i chroni organizm przed działaniem wolnych rodników i czynników rakotwórczych, zmniejsza stan zapalny, pobudza układ odpornościowy do walki z zakażeniami, zapewnia właściwe funkcjonowanie serca i wspomaga w działaniu witaminę E, potrzebny w przemianie materii.<br>---<br><strong>Objawy niedoboru</strong> - występowanie nowotworów w rodzinie, oznaki przedwczesnego starzenia się, zaćma, wysokie ciśnienie krwi, częste zakażenia.<br>---<br><strong>Źródła</strong> (co zjadać) - tuńczyk, melasa, grzyby, śledzie, biały ser, kapusta, wątroba wołowa, cukinia, dorsz, kurczak.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina A, C i E.<br>---<br><strong>Co niszczy</strong> - produkty oczyszczone, współczesne techniki uprawy i hodowli.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 750 mikrogramów może powodować nieprawidłowości w budowie białek tworzących strukturę włosa, paznokci i skóry oraz &quot;czosnkowy&quot; oddech.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Sód</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - utrzymuje równowagę płynów w organizmie, zapobiega odwodnieniu, wspomaga czynności nerwów, bierze udział w skurczu mięśni, w tym mięśnia sercowego, wykorzystywany jest do produkcji energii, ułatwia wprowadzanie składników odżywczych do wnętrza komórek.<br>---<br><strong>Objawy niedoboru</strong> - zawroty głowy, zła tolerancja wysokich temperatur, niskie ciśnienie krwi, przyspieszone tętno, apatia umysłowa, brak apetytu, kurcze mięśni, nudności i wymioty, spadek masy ciała, bóle głowy.<br>---<br><strong>Źródła</strong> (co zjadać) - kapusta kiszona, oliwki, mięso, burak ćwikłowy, szynka, seler, kapusta, ser biały, czerwona fasola.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina D.<br>---<br><strong>Co niszczy</strong> - potas i chlor równoważą działanie sodu.<br>---<br><strong>Czy można się zatruć</strong> - tak, jeśli spożywa się dużo sodu z produktów oczyszczanych i pije niewiele wody, występują obrzęki, wysokie ciśnienie krwi i choroby nerek.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Wapń</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - poprawia stan serca i nerwów, wspomaga procesy krzepnięcia krwi i pracy mięśni. Niezbędny w zachowaniu zdrowej skóry, kości i zębów. Usuwa bóle mięśni i kości. Utrzymuje równowagę kwasowo-zasadową. Zmniejsza napięcie i skurcze miesiączkowe.<br>---<br><strong>Objawy niedoboru</strong> - drżenie i kurcze mięśni, bezsenność i nerwowość, ból i zapalenie stawów, próchnica, wysokie ciśnienie krwi.<br>---<br><strong>Źródła</strong> (co zjadać) - żółty ser, ser cheddar, migdały, drożdże piwowarskie, pietruszka, placki kukurydziane, karczochy, suszone śliwki, ziarna dyni, gotowana suszona fasola, kapusta, zimowa pszenica.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina D, bor, wysiłek fizyczny.<br>---<br><strong>Co niszczy</strong> - rozchwianie hormonalne, alkohol, brak ruchu, kofeina, herbata, brak kwasu solnego i nadmiar tłuszczów lub fosforu obniża wchłanianie wapnia, stres zwiększa wydalanie.<br>---<br><strong>Czy można się zatruć</strong> - nie, ale prowadzi do odkładania się nadmiaru w postaci kamieni w nerkach, sercu i innych tkankach miękkich.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Żelazo</strong></td>
+<td>🟦</td>
+<td><strong>Spełniana funkcja</strong> - jako część hemoglobiny transportuje tlen i dwutlenek węgla do i z tkanek. Składnik enzymów niezbędny do produkcji energii.<br>---<br><strong>Objawy niedoboru</strong> - anemia, brak apetytu, obolały język, uczucie zmęczenia, apatia, nudności, wrażliwość na zimno.<br>---<br><strong>Źródła</strong> (co zjadać) - ziarna dyni, pietruszka, migdały, suszone śliwki, rodzynki, orzechy włoskie, daktyle, wieprzowina, gotowana suszona fasola, ziarna sezamowe.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B1, B6, C i D, cynk, wapń i fosfor.<br>---<br><strong>Co niszczy</strong> - kwas taninowy (herbata), fityniany (otręby pszenne, bób), szczawiany (rabarbar i szpinak), fosforany (napoje gazowane, dodatki do żywności), substancje alkalizujące, białka sojowe, spożywanie dużej ilości cynku.<br>---<br><strong>Czy można się zatruć</strong> - tak, dawka powyżej 1000 mg może być toksyczna.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Bioflawonidy</strong></td>
+<td>🟩</td>
+<td><strong>Spełniana funkcja</strong> - wspomagają działanie witaminy C, wzmacniają naczynia włoskowate, przyspieszają gojenie się ran, a także urazów i nadwerężonych mięśni, przeciwutleniacze.<br>---<br><strong>Objawy niedoboru</strong> - łatwe powstawanie siniaków, żylaki, częste urazy i nadwerężenia.<br>---<br><strong>Źródła</strong> (co zjadać) - owoce jagodowe, wiśnie, owoce cytrusowe.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina C.<br>---<br><strong>Co niszczy</strong> - wolne rodniki.<br>---<br><strong>Czy można się zatruć</strong> - nieznane.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Cholina</strong></td>
+<td>🟩</td>
+<td><strong>Spełniana funkcja</strong> - składnik lecytyny, która pomaga rozkładać tłuszcze w wątrobie, ułatwia wprowadzanie tłuszczów do komórek i syntezę błon komórkowych w układzie nerwowym, chroni tkankę płuc.<br>---<br><strong>Objawy niedoboru</strong> - wady rozwojowe u noworodków, wysoki poziom cholesterolu i tłuszczów, stłuszczenie wątroby, zwyrodnienie nerwów, wysokie ciśnienie krwi, miażdżyca naczyń, otępienie starcze, zmniejszenie odporności na choroby.<br>---<br><strong>Źródła</strong> (co zjadać) - lecytyna, jajka, ryby, wątroba, soja, orzechy ziemne, produkty pełnoziarniste, orzechy, rośliny strączkowe, owoce cytrusowe, kiełki pszenicy, drżdże piwne.<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B5, lit.<br>---<br><strong>Co niszczy</strong> - alkohol, tabletki antykoncepcyjne.<br>---<br><strong>Czy można się zatruć</strong> - nieznane.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Inozytol</strong></td>
+<td>🟩</td>
+<td><strong>Spełniana funkcja</strong> - potrzebny do wzrostu komórek, konieczny do rozwoju osłonek nerwowych oraz funkcjonowania mózgu i rdzenia kręgowego, ma niewielkie działanie uspokajające, obniża poziom cholesterolu we krwi, potrzebny do utrzymania zdrowych włosów.<br>---<br><strong>Objawy niedoboru</strong> - drazliwość, bezsenność, nerwowość, nadmierna pobudliwość, osłabienie wzrostu i regeneracji nerwów, niski poziom HDL.<br>---<br><strong>Źródła</strong> (co zjadać) - lecytyna, rosliny strączkowe, mąka sojowa, jajka, ryby, wątroba, owoce cytrusowe, melon, orzechy, kiełki pszenicy, drożdże piwne.<br>---<br><strong>Pomocne w przyswajaniu</strong> - cholina.<br>---<br><strong>Co niszczy</strong> - fityniany, antybiotyki, alkohol, herbata, kawa, tabletki antykoncepcyjne, leki moczopędne.<br>---<br><strong>Czy można się zatruć</strong> - nieznane.</td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Koenzym Q10</strong></td>
+<td>🟩</td>
+<td><strong>Spełniana funkcja</strong> - przeciwutleniacz, odgrywa główną rolę w przemianie materii i metabolizmie, usprawnia pracę serca, pomaga normalizować ciśnienie krwi, zwiększa tolerancję wysiłku, wzmacnia odporność.<br>---<br><strong>Objawy niedoboru</strong> - brak energii, choroby serca, słaba tolerancja wysiłku, upośledzenie czynności układu odpornościowego.<br>---<br><strong>Źródła</strong> (co zjadać) - sardynki, makrele, wieprzowina, szpinak, olej sojowy, orzechy ziemne, ziarna sezamowe, orzechy włoskie<br>---<br><strong>Pomocne w przyswajaniu</strong> - witamina B kompleks, żelazo.<br>---<br><strong>Co niszczy</strong> - używki, cukier.<br>---<br><strong>Czy można się zatruć</strong> - nieznane.</td>
+</tr>
+</tbody></table></div>
 <p>Jak z tego widać kilkaset lat nowoczesnej medycyny nie wniosło zbyt wiele do zrozumienia przemian zachodzących w ludzkim organizmie. Dzisiejsza wiedza medyczna, to pełzająca nauka podpatrująca ukradkiem nauki starożytnych i z pomocą bratniej chemii usiłująca rozwiązywać problemy zdrowia. Musimy szybko zrozumieć, że w tym światowym doświadczeniu my, zwykli ludzie jesteśmy tylko królikami doświadczalnymi. Żeby było ciekawiej, to wszelkie doświadczenia zdobyte na zamęczanych w imię nauki szczurach i myszach, uczniowie Paracelsusa przenoszą na ludzi wychodząc z założenia, że wszyscy jesteśmy wielką ewolucyjną rodziną.</p>
 
   </article>
@@ -864,12 +1380,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

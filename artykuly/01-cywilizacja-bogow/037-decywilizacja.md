@@ -31,12 +31,10 @@ Często wyrasta z tego grupowa solidarność skierowana przeciwko niewinnej obs�
 
 Nagle pojawia się plotka: jest parę wolnych miejsc w locie z bramki nr 37. Solidarność pryska, anioły zamieniają się w zwierzęta. Chorzy, starcy, kobiety i dzieci zostają w tyle. Faceci w ciemnych garniturach z dyplomami z Harvardu i Oksfordu o nienagannych manierach walczą jak goryle. Kiedy przepchną się po swoje, czyli kartę pokładową, wycofują się do kątów, unikając spojrzeń. Goryl dostał banana (wierzcie, wiem, o czym mówię - sam bywałem gorylem). A wszystko po to, żeby uniknąć nocy w Holiday Inn w Des Moines.
 
-![](../../zrodlo/webacja/upadek/bogaci.jpg)
-
-![](../../zrodlo/webacja/upadek/biedni.jpg)
-
+![](../../zrodlo/webacja/upadek/bogaci.jpg)  
 Bogactwo zdążyło uciec ... (foto AFP)
 
+![](../../zrodlo/webacja/upadek/biedni.jpg)  
 ... bieda pozostała (foto AFP)
 
 "Decywilizacja" w Nowym Orleanie była oczywiście czymś tysiąckroć gorszym. Nie mogę pozbyć się wrażenia, że coś takiego będzie zdarzać się częściej - znacznie częściej - kiedy zagłębimy się w XXI stulecie. Po prostu zbyt wiele mogących cofnąć ludzkość w rozwoju gróźb wisi w powietrzu. Do najoczywistszych należy nasilenie się klęsk żywiołowych w następstwie zmian klimatycznych. Jeśli ten kataklizm uznany zostanie przez amerykańskich polityków w rodzaju Johna McCaina - by się posłużyć wyświechtanym frazesem, jakim oni bez wątpienia się posłużą - za sygnał alarmowy przypominający Amerykanom o konsekwencjach pompowania w atmosferę dwutlenku węgla, to okaże się, że nawet mroczna chmura huraganu "Katrina" miała swą jasną stronę. Ale może już być za późno.

@@ -364,28 +364,22 @@ Liczba znanych księżyców
 **G**rupa ciał Układu Słonecznego. Jej liczbę ocenia się na około 400 tys. Pierwszą planetoidę odkryto w roku 1801 r (Piazzi). Nazwano ją Ceres. Jej średnica wynosi 913 km. Orbity planetoid położone są w większości pomiędzy Marsem i Jowiszem. Istnieje kilka znanych obiektów na ekscentrycznych orbitach przechodzących bliżej Słońca niż Merkury. Są to planetoidy grupy Apollo. Jedna z nich Eros (średnica około 35 km) mijała już Ziemię w roku 1931 w odległości 23 mln km. Apollo ( 1,2 × 1,8 km) w roku 1980 w odległości 0,055 j.a. Następne zbliżenia to 6.11.2006 r. i 8.05.2007 r. W samym roku 1983 satelita IRAS wykrył ponad 20 000 planetoid i innych źródeł promieniowania podczerwonego. Ocenia się, że istnieje około 1 miliarda planetoid o średnicy powyżej 1 kilometra. Czas obiegu wokół Słońca ocenia się na 3-6 lat.  
 **O**ficjalnie jest to stary magazyn materiałów budowlanych jaki pozostał po budowie Układu Słonecznego. Dość osobliwy. Nauka wyróżnia planetoidy węglowe, kamienne lub metaliczne.
 
-![](../../zrodlo/webacja/uklad/planetki/ceres.jpg)
-
-![](../../zrodlo/webacja/uklad/planetki/westa.jpg)
-
-![](../../zrodlo/webacja/uklad/planetki/gaspra.jpg)
-
-![](../../zrodlo/webacja/uklad/planetki/ida.jpg)
-
-![](../../zrodlo/webacja/uklad/planetki/juno.jpg)
-
-![](../../zrodlo/webacja/uklad/planetki/matylda.jpg)
-
+![](../../zrodlo/webacja/uklad/planetki/ceres.jpg)  
 Ceres
 
+![](../../zrodlo/webacja/uklad/planetki/westa.jpg)  
 Westa
 
+![](../../zrodlo/webacja/uklad/planetki/gaspra.jpg)  
 Gaspra
 
+![](../../zrodlo/webacja/uklad/planetki/ida.jpg)  
 Ida
 
+![](../../zrodlo/webacja/uklad/planetki/juno.jpg)  
 Juno
 
+![](../../zrodlo/webacja/uklad/planetki/matylda.jpg)  
 Matylda
 
 **P**rzykłady kształtu planetoid chyba nie pozostawiają wątpliwości. Sądzę, że dwa ich rodzaje mogą świadczyć o dwóch rodzajach narodzin planetoid. Jedne mogły powstawać jako planetki bądź "prawdziwe" księżyce planet, drugie mogą być efektem kosmicznej katastrofy. Czy Ceres i Westa nie mogą być księżycami byłej Tiamat? Miała ich ponoć 11. Sądzę ponadto, że kształt kulisty mogą przybierać tylko ciała niebieskie, które w stadium tworzenia były w stanie płynnym lub półpłynnym.  
@@ -427,29 +421,9 @@ Matylda
 ![](../../zrodlo/webacja/uklad/meteoryt.jpg) **J**eśli masa meteoroidu nie przekracza 1 tony, prędkość, z jaką wchodzi on w atmosferę ziemską, znacznie się zmniejsza wskutek oporu powietrza. Na wysokości mniej więcej 20 kilometrów zaczyna swobodnie spadać w polu grawitacyjnym Ziemi. Gdy siła ciążenia, działająca na meteoroid, zrówna się z siłą oporu powietrza, przestaje on poruszać się ruchem przyśpieszonym i leci z tzw. prędkością graniczną około 100 m/s. Jeśli masa początkowa przekracza 1000 ton, atmosfera nie jest w stanie spowolnić jego prędkości, a sam upadek powoduje ogromne zniszczenia. Największym ze znalezionych dotychczas meteorytów był meteoryt żelazny Hoba, o masie około 60 ton, który nadal tkwi w miejscu swego upadku - w Namibii. Na zdjęciu obok - meteoryt kamienny znaleziony obok wsi Baszkówka w Polsce, obecnie w muzeum Kopernika we Fromborku.  
 **Z**iemia w ciągu rocznego obiegu dookoła Słońca przecina trasy kilkudziesięciu tzw. rojów meteroid. Nazwa pochodzi od punktu (z reguły gwiazdozbiór), z którego jakby wchodzą w atmosferę Ziemi. Jednym z nich są Leonidy, z której to nazwy najbardziej był dumny były radziecki sekretarz generalny KPZR Leonid Breżniew, który uznał to za hołd złożony jego osobie :-). Poniżej zasadniczy podział znalezionych meteorytów.
 
-**Rodzaj meteorytu**
-
-**Skala znalezisk**
-
-**Gęstość**
-
-**Skład**
-
-Kamienne  
-Żelazne  
-Żelazno-kamienne
-
-95%          
-4%          
-1%        
-
-3 g/cm³  
-8 g/cm³  
-?
-
-Krzemiany, żelazo niklonośne  
-Stop żelaza metalicznego, nikiel, kobalt  
-Krzemiany, stop niklowo-żelazny
+| **Rodzaj meteorytu** | **Skala znalezisk** | **Gęstość** | **Skład** |
+| --- | --- | --- | --- |
+| Kamienne<br>Żelazne<br>Żelazno-kamienne | 95%        <br>4%        <br>1% | 3 g/cm³<br>8 g/cm³<br>? | Krzemiany, żelazo niklonośne<br>Stop żelaza metalicznego, nikiel, kobalt<br>Krzemiany, stop niklowo-żelazny |
 
   **R**easumując, jest to najtańszy sposób na badanie materii, z której składa się najbliższy kosmos, mogący rzucić światło na początki Układu Słonecznego.
 
@@ -1522,29 +1496,9 @@ Działalność wulkaniczna, burze atmosferyczne
 
   **W** kosmicznej próżni, jak zapewne wiadomo, panuje temperatura -273°C, która jest tylko o 0,16°C wyższa od temperatuty zera bezwzględnego, w której teoretycznie rozpadają się nawet atomy. Definitywny kres wszystkiego. Niżej w tabelce podaję temperatury wrzenia i topnienia dla niektórych pierwiastków i związków najczęściej wykrywanych przez ziemskie sondy w kosmosie.
 
-**Pierwiastek (związek)**
-
-**Temperatura wrzenia**
-
-**Temperatura topnienia**
-
-            Wodór  
-            Hel  
-            Tlen  
-            Azot  
-            Metan
-
-\-252,88°C  
-\-268,93°C  
-\-182,97°C  
-\-195,80°C  
-\-164,00°C
-
-\-259,13°C  
-\-272,20°C  
-\-222,80°C  
-\-210,01°C  
-\-182,60°C
+| **Pierwiastek (związek)** | **Temperatura wrzenia** | **Temperatura topnienia** |
+| --- | --- | --- |
+| Wodór<br>            Hel<br>            Tlen<br>            Azot<br>            Metan | \-252,88°C<br>\-268,93°C<br>\-182,97°C<br>\-195,80°C<br>\-164,00°C | \-259,13°C<br>\-272,20°C<br>\-222,80°C<br>\-210,01°C<br>\-182,60°C |
 
   **W**ymienione pierwiastki czy związki, poniżej temperatury topnienia winny stanowić ciała stałe, powyżej temperatury topnienia, a poniżej temperatury wrzenia winny osiągnąć konsystencję płynu, powyżej temperatury wrzenia powinny unosić się ponad powierzchnią. Jest tylko jeden problem. Żeby tak było, taka temperatura musi zaistnieć na powierzchni obiektu i musi być utrzymywana. I tu dotykamy problemu zasadniczego.  
   **C**o powoduje, że niektóre ciała niebieskie emitują z wnętrza ciepło, które przez cały czas pozwala na utrzymanie temperatury na ich powierzchni? Czy źródłem ciepła mogą być żelazne jądra pod bardzo wysokim ciśnieniem? Czy ciśnienie działające na jądro, które jest wielkością stałą dla określonej, stałej masy ciała niebieskiego, jest zdolne wytwarzać w jądrze wysoką temperaturę przez okres ponad 4 mld lat? A co z ciałami, w których dopuszcza się tylko skaliste, skalisto-lodowe a nawet siarkowe jądra? Czy nie można odnieść wrażenia, że nasza współczesna nauka nie ma zielonego pojęcia z czego jest zbudowane jądro obiektów kulistych, w tym szczególnie Ziemi i Księżyca? Nawet małolaty wiedzą, że takiej energii i przez tak długi okres czasu może dostarczyć tylko jedna energia - energia jądrowa. Osobiście sądzę, że istnieje triada: \[reaktor jądrowy (jądro) - temperatura - pole magnetyczne\] i w tym kierunku winny iść badania.

@@ -9,21 +9,57 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:title" content="Leki naturalne – Leszek Klimek, uleszka.net">
 <meta property="og:description" content="Tekst jest obszernym przewodnikiem po warzywach, owocach i ziołach z wykazami wskazań leczniczych dla każdej rośliny, do tego dochodzą zapomniane warzywa (jarmuż, pasternak, rzepa,">
-<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/czytelnia/medalt-lekinat.html">
-<meta property="og:image" content="https://jokerwader.github.io/uleszka-archiwum/og.png">
+<meta property="og:url" content="https://uleszka.net/czytelnia/medalt-lekinat.html">
+<meta property="og:image" content="https://uleszka.net/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="czytelnia.css">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  <h3>W tym artykule</h3><ol><li><a href="#r-1">Warzywa</a></li><li><a href="#r-2">Zapomniane warzywa</a></li><li><a href="#r-3">Owoce</a></li><li><a href="#r-4">Zioła</a></li><li><a href="#r-5">UWAŻAJ CO KUPUJESZ - ZIOŁA PRZECHOWYWANE DŁUŻEJ NIŻ ROK, TRACĄ WŁAŚCIWOŚCI LECZNICZE.</a></li><li><a href="#r-6">Mieszanki ziołowe Herbapolu</a></li><li><a href="#r-7">Podział ziół względem zastosowania</a></li><li><a href="#r-8">Kąpiele lecznicze</a></li></ol><h3>Wszystkie artykuły</h3><details><summary>Strona główna <small>2</small></summary><ul><li class=""><a href="doindeksu-tytx1.html">Strona tytułowa</a></li><li class=""><a href="doindeksu-spis1b.html">Menu główne</a></li></ul></details><details><summary>Cywilizacja Bogów <small>39</small></summary><ul><li class=""><a href="cybog-wstepcb.html">Wstęp</a></li><li class=""><a href="01potop-potop.html">Potop</a></li><li class=""><a href="02uskok-uskok.html">Wielki uskok...</a></li><li class=""><a href="03majowie-52lata.html">52 lata</a></li><li class=""><a href="04chrono-chronos.html">Chronologia</a></li><li class=""><a href="05bogowie-bogowie.html">Jaka cywilizacja</a></li><li class=""><a href="06budowle-budowle.html">Kto zbudował?</a></li><li class=""><a href="07piramidy-piramidy.html">Piramidy w Giza</a></li><li class=""><a href="08egipt-egipt.html">Jezioro Mojrisa</a></li><li class=""><a href="09tiahu-tiahua.html">Tiahuanaco</a></li><li class=""><a href="10woda-bogwody.html">Bogowie wody</a></li><li class=""><a href="11atlantyda-atlant.html">Atlantyda</a></li><li class=""><a href="12rzym-rzym.html">Oszustwo wszechczasów</a></li><li class=""><a href="13celtowie-celt.html">Nauczyciele Rzymu</a></li><li class=""><a href="survival.html">Czy przetrwamy?</a></li><li class=""><a href="warownie-warownie.html">Cuda epoki upadku</a></li><li class=""><a href="warownie-kazimierz.html">Kazimierz III cudotwórca</a></li><li class=""><a href="zagadki-zagadki.html">Dziwne i zagadkowe</a></li><li class=""><a href="blazenada-zarty.html">Uczona błazenada</a></li><li class=""><a href="visoko-piramida.html">Piramida w Visoko</a></li><li class=""><a href="atomwoj-bogatom01.html">Bogowie atomowych wojen</a></li><li class=""><a href="szypow.html">Nauka jutra</a></li><li class=""><a href="uklad-wstep1.html">Tiamat i komety</a></li><li class=""><a href="insygnia-korony.html">Insygnia Egiptu</a></li><li class=""><a href="ameryka-machu.html">Machu Picchu</a></li><li class=""><a href="ameryka-sacsay.html">Sacsayhuaman</a></li><li class=""><a href="ameryka-folklor.html">Indiański folklor</a></li><li class=""><a href="hipoteza-hipowusz2.html">Wielki uskok inaczej</a></li><li class=""><a href="henoch-henoch.html">Kalendarz Henocha</a></li><li class=""><a href="wrozby-rok2012.html">2012 - bać się?</a></li><li class=""><a href="wrozby-nostradamus.html">Nieznany Nostradamus</a></li><li class=""><a href="oszusci.html">Dzisiejsza nauka</a></li><li class=""><a href="25maja2006-maj25.html">26 maja 2006</a></li><li class="pod"><a href="25maja2006-sw3d.html">sw3d (obraz)</a></li><li class=""><a href="hawass-hawass.html">Archeolog czy złodziej?</a></li><li class=""><a href="hawass-cwaniaki.html">Cwaniacka archeologia</a></li><li class=""><a href="upadek-katrina1.html">Decywilizacja</a></li><li class=""><a href="upadek-archeoastro1.html">Archeoastronomia</a></li><li class=""><a href="woda.html">Tajemnicza woda</a></li></ul></details><details open><summary>Zapomniana medycyna <small>47</small></summary><ul><li class=""><a href="medalt-wstep.html">Wstęp</a></li><li class=""><a href="medalt-objawy.html">Autodiagnoza</a></li><li class=""><a href="medalt-trucie.html">Co nas truje</a></li><li class=""><a href="medalt-kregoslup.html">Nasz kręgosłup</a></li><li class=""><a href="medalt-jedzenie.html">Jak powinniśmy jeść</a></li><li class=""><a href="medalt-podreka.html">Dobrze mieć &quot;pod reką&quot;</a></li><li class=""><a href="medalt-kapusta.html">Co może zwykła kapusta?</a></li><li class=""><a href="medalt-lekinat.html" class="aktualny" aria-current="page">Leki naturalne</a></li><li class=""><a href="medalt-oczyszczanie.html">Oczyszczanie organizmu</a></li><li class=""><a href="medalt-koniec.html">Dekalog zdrowia</a></li><li class=""><a href="medalt-przepkul.html">Niecodzienne przepisy</a></li><li class=""><a href="medalt-domlecz.html">Leczymy się w domu</a></li><li class=""><a href="medalt-grande-grande.html">O. Grande</a></li><li class="pod"><a href="medalt-grande-witaminy.html">W I T A M I N Y</a></li><li class="pod"><a href="medalt-grande-mikro.html">MAKRO I MIKROELEMENTY</a></li><li class="pod"><a href="medalt-grande-eee.html">CZY WIESZ CO JESZ ?</a></li><li class="pod"><a href="medalt-grande-kalorie.html">Białka - Tłuszcze - Węglowodany</a></li><li class="pod"><a href="medalt-grande-normy.html">NORMY MEDYCYNY KLINICZNEJ</a></li><li class=""><a href="medalt-mudra.html">Lecznicze mudry</a></li><li class=""><a href="medalt-akupresura.html">Refleksoterapia</a></li><li class=""><a href="medalt-radiestezja.html">Mit czy rzeczywistość?</a></li><li class=""><a href="medalt-wodazywa.html">Woda żywa i martwa</a></li><li class=""><a href="medalt-rak.html">Rak, to nie wyrok śmierci</a></li><li class=""><a href="medalt-orgon-orgon.html">ORGON - energia kosmosu</a></li><li class=""><a href="medalt-orme-orme1.html">ORME - biały proszek złota</a></li><li class="pod"><a href="medalt-orme-gwog.html">GWIEZDNY OGIEŃ - POPRZEDNIK ORME</a></li><li class=""><a href="medalt-dietacud.html">Dieta nie ma sensu</a></li><li class=""><a href="medalt-aids.html">AIDS bez HIV?</a></li><li class=""><a href="medalt-aspiryna.html">&quot;Zbawienna&quot; aspiryna</a></li><li class=""><a href="medalt-szczep.html">Szczepionki</a></li><li class=""><a href="medalt-osteo.html">Osteoporoza</a></li><li class=""><a href="medalt-fluor.html">Fluor - mit zdrowych zębów</a></li><li class=""><a href="medalt-aspartam.html">Dietetyczny aspartam?</a></li><li class=""><a href="medalt-czywiesz.html">Jak można być zdrowym?</a></li><li class=""><a href="medalt-hieny.html">Hieny w &quot;kraju raju&quot;</a></li><li class=""><a href="medalt-sol.html">Wojna o sól</a></li><li class=""><a href="medalt-indygo.html">ADHD czy &quot;Indygo&quot;?</a></li><li class=""><a href="medalt-sitwa.html">Wszechmocna sitwa</a></li><li class=""><a href="medalt-nfz.html">NFZ leczy</a></li><li class=""><a href="medalt-reklama.html">Leczenie chłamem</a></li><li class=""><a href="medalt-lekipb.html">Leki przeciwbólowe</a></li><li class=""><a href="medalt-kurcze.html">Jedz kurczaki z USA</a></li><li class=""><a href="medalt-plomby.html">Toksyczne plomby</a></li><li class=""><a href="medalt-detox.html">Kokosowy interes</a></li><li class=""><a href="medalt-robale.html">Robale w groszku</a></li><li class=""><a href="medalt-mydlo.html">Cudowne mydło</a></li><li class=""><a href="medalt-truzyw.html">Trująca żywność</a></li></ul></details><details><summary>Różności <small>59</small></summary><ul><li class=""><a href="refleksja.html">Prywatnie</a></li><li class=""><a href="blogier.html">Szarodzienność 1</a></li><li class=""><a href="blogier2.html">Szarodzienność 2</a></li><li class=""><a href="blogier3.html">Szarodzienność 3</a></li><li class=""><a href="blogier4.html">Szarodzienność 4</a></li><li class=""><a href="blogier5.html">Szarodzienność 5</a></li><li class=""><a href="blogier6.html">Szarodzienność 6</a></li><li class=""><a href="dziadek-dziadek.html">Gwiazda śmierci</a></li><li class=""><a href="antypol-wqrwiaczek.html">W kraju raju...</a></li><li class=""><a href="zyko-zykowywiad1.html">Ameryka, Ameryka</a></li><li class=""><a href="antypol-perol.html">Zgnoić rolnika</a></li><li class=""><a href="ankietabo.html">Polska przecieka</a></li><li class=""><a href="grypa.html">Ptasia grypa</a></li><li class=""><a href="quake-quake.html">Zatrzęsło</a></li><li class=""><a href="magister-magister.html">Praca dyplomowa</a></li><li class=""><a href="kolasia-wstep.html">Fotografie</a></li><li class="pod"><a href="kolasia-bobolice-bo01.html">Fotografie – Bobolice 01</a></li><li class="pod"><a href="kolasia-bobolice-bo02.html">Fotografie – Bobolice 02</a></li><li class="pod"><a href="kolasia-bobolice-bo03.html">Fotografie – Bobolice 03</a></li><li class="pod"><a href="kolasia-bobolice-bo04.html">Fotografie – Bobolice 04</a></li><li class="pod"><a href="kolasia-bobolice-bo05.html">Fotografie – Bobolice 05</a></li><li class="pod"><a href="kolasia-bobolice-bo06.html">Fotografie – Bobolice 06</a></li><li class="pod"><a href="kolasia-bobolice-bo07.html">Fotografie – Bobolice 07</a></li><li class="pod"><a href="kolasia-bobolice-bo08.html">Fotografie – Bobolice 08</a></li><li class="pod"><a href="kolasia-mirow-mi01.html">Fotografie – Mirów 01</a></li><li class="pod"><a href="kolasia-mirow-mi02.html">Fotografie – Mirów 02</a></li><li class="pod"><a href="kolasia-mirow-mi03.html">Fotografie – Mirów 03</a></li><li class="pod"><a href="kolasia-mirow-mi04.html">Fotografie – Mirów 04</a></li><li class="pod"><a href="kolasia-mirow-mi05.html">Fotografie – Mirów 05</a></li><li class="pod"><a href="kolasia-mirow-mi06.html">Fotografie – Mirów 06</a></li><li class="pod"><a href="kolasia-mirow-mi07.html">Fotografie – Mirów 07</a></li><li class="pod"><a href="kolasia-mirow-mi08.html">Fotografie – Mirów 08</a></li><li class="pod"><a href="kolasia-mirow-mi09.html">Fotografie – Mirów 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol01.html">Fotografie – Olsztyn 01</a></li><li class="pod"><a href="kolasia-olsztyn-ol02.html">Fotografie – Olsztyn 02</a></li><li class="pod"><a href="kolasia-olsztyn-ol03.html">Fotografie – Olsztyn 03</a></li><li class="pod"><a href="kolasia-olsztyn-ol04.html">Fotografie – Olsztyn 04</a></li><li class="pod"><a href="kolasia-olsztyn-ol05.html">Fotografie – Olsztyn 05</a></li><li class="pod"><a href="kolasia-olsztyn-ol06.html">Fotografie – Olsztyn 06</a></li><li class="pod"><a href="kolasia-olsztyn-ol07.html">Fotografie – Olsztyn 07</a></li><li class="pod"><a href="kolasia-olsztyn-ol08.html">Fotografie – Olsztyn 08</a></li><li class="pod"><a href="kolasia-olsztyn-ol09.html">Fotografie – Olsztyn 09</a></li><li class="pod"><a href="kolasia-olsztyn-ol10.html">Fotografie – Olsztyn 10</a></li><li class="pod"><a href="kolasia-olsztyn-ol11.html">Fotografie – Olsztyn 11</a></li><li class="pod"><a href="kolasia-olsztyn-ol12.html">Fotografie – Olsztyn 12</a></li><li class="pod"><a href="kolasia-ostreznik-os01.html">Fotografie – Ostrężnik 01</a></li><li class="pod"><a href="kolasia-ostreznik-os02.html">Fotografie – Ostrężnik 02</a></li><li class="pod"><a href="kolasia-ostreznik-os03.html">Fotografie – Ostrężnik 03</a></li><li class="pod"><a href="kolasia-ostreznik-os04.html">Fotografie – Ostrężnik 04</a></li><li class="pod"><a href="kolasia-ostreznik-os05.html">Fotografie – Ostrężnik 05</a></li><li class="pod"><a href="kolasia-ostreznik-os06.html">Fotografie – Ostrężnik 06</a></li><li class="pod"><a href="kolasia-ostreznik-os07.html">Fotografie – Ostrężnik 07</a></li><li class="pod"><a href="kolasia-proboszczowice-pr01.html">Fotografie – Proboszczowice 01</a></li><li class="pod"><a href="kolasia-proboszczowice-pr02.html">Fotografie – Proboszczowice 02</a></li><li class="pod"><a href="kolasia-proboszczowice-pr03.html">Fotografie – Proboszczowice 03</a></li><li class=""><a href="bonobo.html">Uśmiechnij się</a></li><li class="pod"><a href="gazeta.html">NAJLEPSZA PASTA DO SZOROWANIA MÓZGU</a></li><li class="pod"><a href="wybory.html">wybory (obraz)</a></li><li class="pod"><a href="brehon.html">brehon (obraz)</a></li></ul></details><details><summary>Pamiętam <small>1</small></summary><ul><li class=""><a href="papa.html">Pamiętam</a></li></ul></details>
+</aside>
 <main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#zapomniana-medycyna">Zapomniana medycyna</a></p>
   <h1>Leki naturalne</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
   <details class="skrot">
     <summary>W skrócie <span>opracowanie AI</span></summary>
     <p>Tekst jest obszernym przewodnikiem po warzywach, owocach i ziołach z wykazami wskazań leczniczych dla każdej rośliny, do tego dochodzą zapomniane warzywa (jarmuż, pasternak, rzepa, rzeżucha), zasady przyrządzania odwarów i naparów, ostrzeżenia o przedawkowaniu i roślinach trujących oraz lista mieszanek ziołowych Herbapolu. Autor zestawia rośliny według działania (36 zestawów, na podstawie Jadwigi Górnickiej) i podaje przepisy na kąpiele lecznicze. Twierdzi, że natura dostarcza środków na bardzo wiele chorób, jednocześnie zastrzega, że zioła nie są nieszkodliwe i należy konsultować się z zielarzem lub lekarzem.</p>
@@ -33,64 +69,126 @@
   <article class="tresc">
 <p><strong>Żyjemy w wielkiej aptece</strong><br>Lekarz przyszłości nie będzie dawać lekarstw, a tylko<br>zainteresuje pacjenta odpowiednią dietą. Edison</p>
 <p>Wypisane poniżej (oczywiście nie wszystkie) warzywa, owoce i zioła opatrzyłem tylko komentarzem zawierającym wskazania i właściwości lecznicze. Nie pokazuję wyglądu warzyw i owoców, bo wszyscy je znają, natomiast zbieraniem ziół trudni się wąska i wyspecjalizowana grupa ludzi, która dokładnie zna ich wygląd i nie pokazuję ich dlatego by uniknąć przykrych pomyłek przez zbieraczy-amatorów. Sama nazwa i właściwości lecznicze są wskazaniem kierunku, gdzie należy prowadzić poszukiwania. Sposoby przyrządzania ziół są różne i nie sposób wszystkich opisać. Można je odnaleźć w książkach, w internecie, a przede wszystkim przy zasięganiu porad u zawodowych zielarzy.</p>
-<p><strong>Warzywa</strong></p>
-<p><strong>Burak czerwony</strong><br>(Beta vulgaris)</p>
-<p>Burak pobudza apetyt, jest odświeżający i lekkostrawny. W leczeniu naturalnym jest stosowany na anemię, demineralizację organizmu, nerwicę grypę, gruźlicę, nowotwory, przeciw zapaleniu nerwów i wątroby. Ćwikła (utarty gotowany burak z utartym chrzanem i kminkiem) poprawia pracę wątroby, odkwasza, ułatwia trawienie różnych mięs.</p>
-<p><strong>Cebula</strong><br>(Allium cepa)</p>
-<p>Stosowana wewnętrznie jest środkiem antyinfekcyjnym, przeciwreumatycznym, antyseptycznym, przeciwsklerotycznym, przeciwszkorbutowym i przeciwzakrzepowym, leczy skórę i jej owłosienie, wzmacnia i upiększa paznokcie, leczy gruźlicę węzłów chłonnych, jest środkiem lekko nasennym, obniża poziom cukru we krwi, osłabia napięcie jelit, pobudza popęd płciowy, wzmaga czynności nerek, jelit, wątroby, układu nerwowego, jest środkiem moczopędnym, rozpuszcza i eliminuje mocznik i chlorki, działa przeciwczerwiowo, wykrztuśnie i wydzielniczo, ułatwia trawienie produktów mącznych, utrzymuje w równowadze pracę gruczołów wydzielania wewnętrznego. Daje dobre skutki w leczeniu chorób i dolegliwości: angina, astma, awitaminoza, biegunka, cukrzyca, dolegliwości w oddychaniu, grypa, infekcje moczopłciowe, katar, kamica żółciowa, nadfermentacja jelitowa, nadmiar chlorków we krwi, niedomogi prostaty, niemoc płciowa, nieżyt nosa i pogrypowy, obecność mocznika, ogólne osłabienie fizyczne i umysłowe, obrzęki, otyłość, pasożyty jelitowe, przeziębienie, przerost układu chłonnego, puchlina brzuszna i wodna, skąpomocz, stwardnienie tętnic, wadliwa przemiana materii, zakłócenia wzrostu włosów, zapalenie krtani, opłucnej, osierdzia, oskrzeli i węzłów chłonnych, skrzepy (leczy zwężenia naczyń krwionośnych, hamuje krzepnięcie krwi rozpuszczając włóknik czyli fibrynę - nierozpuszczalne białko będące podstawą skrzepów).<br>Stosowana zewnętrznie leczy brodawki, brzęczenie w uszach, czyraki, głuchotę, migrenę, nerwoból zębowy, odmroziny, oparzenia, zapalenia opon mózgowych, wzmacnia porost włosów, leczy rany, ropień, wrzody, zastrzał, ukąszenia osy, uśmierza ból, odstrasza komary.</p>
-<p><strong>Chrzan</strong><br>(Armoracia lapathifolia)</p>
-<p>Do użytku wewnętrznego stosowanie jest wskazane przy astmie, atonii w trawieniu (nieżyty z niedoborem kwasu solnego), brak apetytu, bronchit chroniczny, gościec, gruźlica, niedobór witaminy C i alkaliów, paraliż, przerost układu chłonnego, stan limfatyczny, puchlina wodna, reumatyzm, skrofuloza, upławy białe, schorzenia wątrobowe, stany zapalne nerek, kamica nerkowa, stany zapalne korzonków nerwowych.<br><strong>UWAGA !</strong> Stosowanie chrzanu winno być dawkowane ostrożnie przy zapaleniu przewodu pokarmowego, wątroby i nerek. Związki w chrzanie kolidują z węglanami pierwiastków alkalicznych, z chlorkiem rtęci i z naparem z kory chinowej.<br>Na użytek zewnętrzny stosujemy przy bólach mięśniowych w plecach i w pasie, przeziębieniach, ropiejących ranach, wrzodach, zapaleniu korzonków nerwowych, zapaleniu uszu i piegach.</p>
-<p><strong>Czosnek</strong><br>(Allium sativum)</p>
-<p>Stosuje się wewnętrznie przy takich schorzeniach jak artretyzm, astenia, ogólne osłabienie, astma, atonie układu trawiennego, biegunka, dyzenteria (czerwonka), bóle brzucha, brak apetytu, gościec stawowy, hemoroidy, kamienie nerkowe, koklusz, krztusiec, kurcze naczyniowe, nadciśnienie tętnicze krwi, niektóre częstoskurcze serca, nadmierne ukrwienie naczyń krwionośnych, niedostateczne wydzielanie soków trawiennych, obrzęk nóg, odbijanie, odtruwanie wątroby, pasożyty jelitowe, piasek moczowy, profilaktyka chorób zakaźnych, puchlina wodna, reumatyzm, ropień płuc, rzeżączka, skurcze jelitowe, skąpomocz, stwardnienie naczyń tętniczych, miażdżyca, utrudnione trawienie, wzdęcia, wiatry, bębnica, zaburzenia równowagi w pracy gruczołów wydzielania wewnętrznego, zakażenie gardła i krtani, zakażenia dróg oddechowych, zapobieganie nowotworom przez działanie przeciwgnilne w jelitach, zapalenie płuc, oskrzeli, zakłócenia krążenia krwi z powodu nadmiernej krzepliwości, zakłócenia czynności żółciotwórczych, zakłócenia czynności ukrwienia naczyń mózgowych, zmęczenie serca, zgorzel, zakaźne pochodzenie nieżytów żołądka i jelit, żylaki, zaburzenia pracy płuc, rozedma, ropień płuc.<br>Użytek zewnętrzny. Ból ucha, brodawki, modzele, twardziny, głuchota, guzy nowotworowe, grzybica woszczynowa, odciski, przetoki, źle gojące się rany, rany zakażone, ropień zimny (na tle gruźlicy stawowej lub kości), ropień skórny, bóle reumatyczne, świerzb, torbiele, cysty, ukąszenia owadów, wrzody.<br><strong>UWAGA !</strong> Nie stosować przy ostrym nieżycie żołądka i jelit, niedociśnieniu tętniczym, w czasie karmienia osesków. Nie jest wskazany dla nerkowców. Nie trzeba jadać za dużo czosnku (2-3 ząbki tygodniowo) gdyż jest ciężkostrawny i drażni błony śluzowe przewodu pokarmowego.</p>
-<p><strong>Kapusta</strong><br>(Brassica oleracea)</p>
-<p>Bezapelacyjna królowa warzyw pod względem zastosowania w medycynie naturalnej. Używamy zarówno białej, czerwonej jak i włoskiej. Stosowana jest w leczeniu następujących chorób - afonia, alkoholizm, anemia, angina, astenia, zmęczenie, słabość ogólna, astma, zapalenia oskrzeli, bezsenność, ból głowy, biegunka, bronchit, bóle reumatyczne, bóle mięśni, dna, ból lędźwiowy, bóle żołądkowe i jelitowe, choroba serca, czyrak, ropień, wąglik, cukrzyca, dermatoza, egzemy, gangrena, głuchota, gruźlica, grypa, hemoroidy, choroby jelit, kamienie moczowe, katar, katar sienny, krzywica, liszajec, łojotok, martwica, migrena, nerwobóle, żylaki, zapalenie tętnic nóg, obrzęki, choroby oczu (podrażnienia, łzawienia, zaczerwienienie), odmrożenia, oparzenia, opryszczki skórne, owrzodzenia żylakowe goleni, choroby pęcherzyka żółciowego, zapalenie pęcherza moczowego, półpasiec, prostata, przekrwienie mózgu, udar słoneczny, wszelkie rany, robaki jelitowe, ropień zimny, popękana skóra, katar, stłuczenia i kontuzje, stany depresji, dolegliwości skórne, skąpomocz, szkorbut, ukąszenia owadów, utrudnione trawienie, odwapnienie, wrzód żołądka, nadciśnienie tętnicze, zastrzał, trądzik, zapalenie tętnicy, zapalenie węzłów chłonnych, twarda wątroba, poprawienie przemiany materii, poprawa pracy nerek, zapalenie macicy, zapalenie zatok chłonnych i przynosowych okrężnicy, spojówek, zaparcia, kolka wątrobowa i żółciowa, marskość wątroby, zapalenie włośniczek, zapalenie powiek, zwichnięcia, wrzody żołądka, zły stan układu nerwowego, żołądkowy nieżyt przewlekły, zapalenie stawów, zapalenie oskrzeli, zamroczenie alkoholowe, dolegliwości układu nerwowego. Została jej poświęcona cała, odrębna strona.</p>
-<p><strong>Marchew</strong><br>(Daucus carota)</p>
-<p>Na użytek wewnętrzny - astenia, anemia, biegunka u dzieci, blednica, zaburzenia trawienne, dermatozy, białaczka, demineralizacja, gruźlica, bronchit przewlekły, astma, dna, artretyzm, reumatyzm, hemoroidy, infekcje jelit, krzywica, krwawienia żołądkowo-jelitowe, łuszczyca, niedomogi wątrobowo-żółciowe, niedobór mleka u karmiących matek, nadciśnienie tętnicze, niedokrwistość, obniżona ostrość widzenia, miażdżyca, pasożyty jelitowe, pęcherzyca.<br>Na użytek zewnętrzny - rany, wrzody, oparzenia, czyraki, egzemy, łupież, liszajec twarzy, odmroziny, pęknięcia skóry, ropień, leczenie pomocnicze w nowotworze piersi, nabłoniak, nowotwór nabłonkowy, trądzik twarzy. Działania profilaktyczne - choroby zakaźne i zwyrodnieniowe, zmarszczki, skrofuloza, wrzód żołądka i dwunastnicy, stany nerwicowe, zapalenie jelita cienkiego i okrężnicy, oczyszczanie krwi zatrutej toksynami, regulacja krwawienia miesięcznego, zaparcia, żółtaczka, stwardnienie rozsiane, cukrzyca.</p>
-<p><strong>Pietruszka</strong><br>(Petroselinum sativum)</p>
-<p>Na użytek wewnętrzny - anemia, astenia, atonia pęcherzyka żółciowego brak łaknienia, dolegliwości wątrobowe, stany nowotworowe, gorączka przerywana, gościec, kamienie moczowe, bolesne miesiączkowanie, niestrawność, pasożyty jelitowe, reumatyzm, skąpomocz, stany nerwowości, wady krwi, wzdęcia, zakażenie.<br>Na użytek zewnętrzny - kontuzje, nerwobóle, piegi, rany, ukąszenia owadów, upławy, zapalenia oka, zastój mleka w sutku.<br><strong>UWAGA !</strong> Stosowanie przez dłuższy czas dużych dawek wyciągu z nasion pietruszki powoduje kurcze macicy przez miristycynę, uszkodzenie błon śluzowych układu pokarmowego, pobudzenie ośrodkowego układu nerwowego (olejek). Małym dzieciom i kobietom w końcowym okresie ciąży zaleca się ostrożność przy doustnym przyjmowaniu nasion pietruszki. Olejek silnie drażni nerki i może być przyczyną poronień. Fitolizynę powinno się dawkować ostrożnie i podawać z przerwami.</p>
-<p><strong>Por</strong><br>(Allium porrum)</p>
-<p>Na użytek wewnętrzny - anemia, arterioskleroza, artretyzm, gościec, zatrucie amoniakiem, dolegliwości dróg moczowych, kamica moczowa, gruźlica, niestrawność, niewydolność nerek, otyłość, zaparcie.<br>Na użytek zewnętrzny - czyraki, hemoroidy, nagniotki, odciski, ropnie, rany, krwawienie z nosa, pielęgnacja twarzy, wrzody, ukąszenia owadów, zastój moczu.</p>
-<p><strong>Rzodkiewka</strong><br>(Raphanus sativus)</p>
-<p>Pomocna w leczeniu anemii, artretyzmu, astmie, braku łaknienia, demineralizacji organizmu, dolegliwościach oskrzelowych i wątrobowych, kamieniach nerkowych i żółciowych, krzywicy, nadfermentacji jelitowej, reumatyzmie, szkorbucie, wypadaniu włosów, zmarszczkach.</p>
-<p><strong>Rzodkiew czarna</strong><br>(Raphanus niger)</p>
-<p>Wskazana przy leczeniu astmy, artretyzmu, bronchitu chronicznego, dolegliwości płucnych, egzemy, kamicy nerkowej i żółciowej, kokluszu, krzywicy, niedomogi wydzielniczej wątroby, niestrawności, reumatyzmu, szkorbutu, uczulenia, zapalenia pęcherzyka żółciowego i dróg żółciowych.</p>
-<p><strong>Seler</strong><br>(Apium graveolens)</p>
-<p>Na użytek wewnętrzny - gościec, kamica moczowa, wzdęcia, kolki żołądkowe, łagodzenie sklerozy, schorzenia pęcherza moczowego, nieprawidłowości miesiączkowania, zapobiega szkorbutowi, reumatyzm, otyłość, przemiana materii, poprawia pracę nerek, wątroby, serca, nieżyt oskrzeli.<br>Zewnętrznie - rany, odmrożenia, zapalenie powiek, miejscowe odbarwienie skóry.</p>
-<p><strong>Szpinak</strong><br>(Spinacia oleracea)</p>
-<p>Na użytek wewnętrzny - anemia, astenia fizyczna i nerwowa, krzywica, szkorbut, łuszczyca, pęcherzyca, nowotwory, wyrzuty skórne, rekonwalescencja, starzenie się, stwardnienie rozsiane.<br>Na użytek zewnętrzny - oparzenia, liszaje, rany, wyrzuty skórne, łuszczyca, pęcherzyca.</p>
-<p><strong>Ziemniak</strong><br>(Solanum tuberosum)</p>
-<p>Sprzyja pracy jelit, jest przeciwrzodowy, ma właściwości gojące, działa zmiękczająco, uspokaja śluzówkę przewodu pokarmowego, działa przeciwskurczowo i moczopędnie, wzmacnia naczynia włosowate, działa przeciwnowotworowo, hamuje rozwój grzybów i bakterii, działa korzystnie na nerki rozpuszczając kamienie, działa przeciwszkorbutowo, leczy egzemę i inne choroby skórne, przeciwdziała rozszerzaniu się naczyń krwionośnych, mąka ziemniaczana jest dobrym pudrem na oparzenia słoneczne, a dodana do kąpieli leczy świąd i wysypki, świeży sok z surowego ziemniaka leczy przewlekłą nadkwasotę, zaparcia, cuchnięcie z ust i niedomogi wątroby, odwar z ziemniaków może być stosowany do leczniczych lewatyw odżywczych, dr Kneipp zaleca stosowanie papki z ziemniaków jako okładów do usmierzania bólów, skurczów w przewodzie pokarmowym, przy opuchliznach, odwodnieniach, zwichnięciach, zapaleniach, osłabieniu gruczołów wydzielania wewnetrznego, katarze dróg oddechowych, nieżycie przewodu pokarmowego, zapaleniu opłucnej, zapaleniu stawów, zapaleniu pochewki ścięgna, zapaleniu przymacicznym (parametrium), przy ischiasie, lumbago, zesztywniającym zapaleniu stawów międzykręgowych, dnie, artretyzmie, czyrakach, zapaleniach skórnych, otyłości.<br><strong>UWAGA !</strong> Nie spożywać ziemniaków o zielonym kolorze skórki, ani z wyrastającymi kiełkami. Miejsca te należy szeroko i głęboko wykroić i wyrzucić, ponieważ zawierają trujący glikoalkaloid - solaninę. Absolutnie takich ziemniaków nie przyrządzać dla dzieci. Nawet śladowe ilości solaniny mogą zaszkodzić. Wywołują bóle artretyczne, podrażnienia sluzówki, nudności, wymioty, zapalenie nerek, pęcherzyka zółciowego, osłabienie serca, pocenie, lęki, palą w gardle.</p>
-<p><strong>Zapomniane warzywa</strong></p>
-<p><strong>Jarmuż</strong><br>(Brassica oleracea<br>var. acephala)</p>
-<p>Dwuletnia roślina warzywna, traktowana jako odmiana kapusty bezgłowej, znana w starożytności. Wysoka na 10-150 cm, liście duże pierzastozielone, zmarszczone, fryzowane, nie tworzą główki - stanowią część jadalną (przyrządzaną jak szpinak). Świeży zawiera witaminy - C, A, B1, B2, PP oraz znaczne ilości białek i awiązków mieneralnych. Jest bardzo odporna na mróz. Wysiany w maju i uprawiany z rozsady wysadzanej w lipcu, używany jest w ciągu zimy i wczesną wiosną (nie wymaga przykrycia). Bardzo ceniony w Europie zachodniej.</p>
-<p><strong>Pasternak</strong><br>(Pastinaca sativa)</p>
-<p>&quot;Figa z makiem, z pasternakiem&quot; mówiło się kiedyś o czymś, co było raczej nieosiągalne. Pasternak w Polsce był powszechnie uprawiany (spożywany na równi z kaszami) jeszcze za Jagiellonów i został wyparty przez ziemniaka. Jest mało wymagający w uprawie. Początkowo rośnie wolno, ale potem nie wymaga pielęgnacji, gdyż zagłusza wszelkie chwasty. Jest odporny na szkodniki i choroby. Stonka go nie lubi. Nie wymaga oprysków i jest odporny na warunki pogodowe, a także na mróz. Jeśli ziemia nie zamarznie można go zbierać zimą. Nie jest kruchy, więc można go zbierać mechanicznie. Zakopcowany jak marchew wytrzymuje nawet do kwietnia. Może także zimować w glebie.<br>Ma dużą wartość odżywczą, jest bogaty w potas, fosfor, wapń i żelazo, zawiera witaminy A, B1, B2, B6, C, PP i jest wyraźnie zasadotwórczy. Zawiera 80% wody oraz mało białka i tłuszczu. Posiada właściwości moczopędne, odtruwające, antyreumatyczne i ogólnie poprawiające zdrowie. Leczy nerki, i pęcherz.<br>Spożywa się go w formie zup, surówek, sałatek, smażonych placków, a nawet jak szparagi (z wody). Przepisy na przygotowanie potraw z pasternaku znajdziesz w &quot;Nietypowych przepisach&quot;. Do uprawy używa się odmiany &quot;półdługi biały&quot;, okres wegetacji 180-210 dni, wydajność 300-400 q/ha, znosi dobrze transport nawet do 7 dni</p>
-<p><strong>Rzepa</strong><br>(Brassica campestris)</p>
-<p>Bardzo bliska krewna kapusty, zwana też kapustą polną. Warzywo bardzo popularne wśród Słowian i cenione do tego stopnia, że płacono nim daniny. Dzisiaj rzepa jest symbolem ale też i ubóstwa. Jakość rzepy zależy od gleby. Na glebach urodzajnych rzepa jest delikatnym i soczystym warzywem.<br>Rzepa jest małokaloryczna i zawiera w sobie witaminę C, B1, B2, PP i A. Z mikropierwiatków posiada wapń, fosfor, żelazo, potas, magnez siarkę i jod. Ma w sobie ponad 7% cukru. Działa wzmacniająco i moczopędnie. Leczyć można nią wrzody, ropnie i trądziki. W tym celu gotuje się ją całą do miękkości, przecina na pół i przestudzona pociera się chore miejsca. Przy zaziębieniach, katarze czy anginie pijemy syrop z rzepy. Wydrąża się ja w środku, nasypuje cukru i po paru godzinach mamy syrop.<br>Kto ma w domu stonogi, to nie ma lepszej łapki na te robactwo. Rzepę należy przeciąć, lekko zmiażdżyć i pozostawić do zagnieżdżenia się stonóg. Potem już całość zatopić we wrzącej wodzie i wyrzucić.</p>
-<p><strong>Rzeżucha</strong><br>(Cardamine)</p>
-<p>Rzeżuchę znamy przede wszystkim jako zieloną ozdobę do baranka wielkanocnego i... nic więcej. Już Persowie przed wyprawami spożywali duże jej ilości z chlebem, król francuski Ludwik poznał jej orzeźwiające właściwości, gdy zamiast wody podano mu surówkę z rzeżuchy, a medycyna ludowa uważa, że pobudza produkcję cebulek włosowych.<br>Rzeżucha jest jarzyną najbogatszą w jod łatwo przyswajalny przez organizm. Zawiera dużo żelaza, siarki i wapnia oraz witaminy C, A, B2, PP i E. Działa dezynfekująco zarówno w jamie ustnej jak i w przewodzie pokarmowym. Jest moczopędna i jadana w nadmiarze może doprowadzić u niektórych osób do zapalenia pęcherza moczowego. Rzeżucha jest polecana na dolegliwości tarczycy, kobietom w ciąży i karmiącym, chorym na cukrzycę, palaczom (na uporczywy kaszel). Pomaga w leczeniu wysypek i egzem. Poprawia wygląd cery, paznokci i włosów. Sok z rzeżuchy (zewnętrznie stosowany) rozjaśnia cerę, usuwa piegi i starcze plamy pigmentowe. Stwierdzono, że ci, co jadają rzeżuchę to bardzo trudno im... wyłysieć.<br>Rzeżucha jest doskonała do kanapek i nie trzeba ich solić, bo ona sama jest pikantna. Jak siać rzeżuchę? Kupić nasionka, wsypać je do szklanki, zalać obficie wodą i gdy powstanie papka, należy ją rozsmarować na ligninie rozłożonej na tacy. Lignina nie może pływać w wodzie, ale musi być stale wilgotna. Kiedy rzeżucha wyrośnie na 5-7 cm należy ściąć ją nożyczkami tuż nad ligniną, posiekać i zjeść. Jest pikantna, ma ostry smak i zapach. Jeść należy po kilka łyżeczek dziennie samą lub na kanapkach.</p>
-<p><strong>Owoce</strong></p>
-<p><strong>Agrest</strong><br>(Grossularia reclinata)</p>
-<p>W leczeniu pod postacią soku stosowany przy artretyzmie, gośćcu, reumatyzmie, braku łaknienia, demineralizacji, dolegliwościach gorączkowych, nadmiernym ukrwieniu, przewlekłych schorzeniach wątrobowych, zapaleniu przewodu pokarmowego, zapalenia układu moczowego, zaparciach, otyłości, niedokrwistości, chorobach skórnych, dolegliwościach płucnych, stanach zapalnych jamy ustnej i gardła.</p>
-<p><strong>Cytryna</strong><br>(Citrus limon)</p>
-<p>Na użytek wewnętrzny - różne infekvje płucne i jelitowe, stany gorączkowe, malaria, astenia (osłabienie), brak łaknienia, puchlina brzuszna, wodobrzusze, artretyzm, reumatyzm, dna, kamica nerkowa i żółciowa, nadkwasota żołądkowa, wrzód żołądka, niestrawność, połykanie powietrza, szkorbut, miażdżyca naczyń, żylaki, zapalenia żył, łamliwość włośniczek, przekrwienie, nadmierna lepkość krwi, otyłość nadcisnienie, demineralizacja, anemia, żółtaczka, , wymioty, niedomogi wątroby i trzustki, przekrwienie wątroby, hemofilia, krwotoki, krwiomocz, wzdęcie jelitowe, czerwonka, biegunka, pasożyty wewnetrzne, astma, zapalenie oskrzeli, grypa, starzenie się, uporczywe bóle głowy.<br>Na użytek zewnętrzny - ostry katar i niezyt nosa, krwawienie z nosa, zapalenie zatok przynosowych, ucha, jamy ustnej i języka, angina, wykwity śluzówki w jamie ustnej, zapalenie powiek, wysypka, wykwit, rumień, czyraki, liszaje, migrena, brodawki, opryszczka, odmroziny, rany zakażone i gnijące, ukąszenia owadów, grzybica woszczynowa, świerzb, łojotok fizjologiczny twarzy, plamy, piegi, łamliwe paznokcie.</p>
-<p><strong>Czereśnia</strong><br>(Cerasus avium)</p>
-<p>Pomocna w leczeniu artretyzmu, cukrzycy, demineralizacji, dolegliwości pęcherza moczowego, gośćcu, dolegliwościach serca, kamieniach moczowych i żółciowych, nadfementacji jelitowej, przekrwieniu, miażdżycy, otyłości, przewlekłych schorzeniach wątroby, reumatyzmie, zaparciach, stałym uczuciu zmeczenia.</p>
-<p><strong>Jabłoń</strong><br>(Malus domestica)</p>
-<p>Wskazania lecznicze - anemia, artretyzm, bezsenność, bóle żołądka z obrzekiem jego błony śluzowej na tle artretycznym, dna, dolegliwości oskrzeli, infekcje jelitowe, miażdżyca, nadciśnienie tętnicze, przekrwienie, niedobór minerałów, nerwowość, opryszczka, osłabienie fizyczne i umysłowe, otyłość, przemęczenie, reumatyzm, rozwolnienie, przewlekłe schorzenia wątroby, schorzenia mięśnia sercowego, skapomocz, stany gorączkowe, uporczywy ból głowy, zaparcia, zawały. Nieocenione usługi w medycynie ludowej oddaje ocet jabłkowy.</p>
-<p><strong>Malina</strong><br>(Rubus idaeus)</p>
-<p>Zawiera kwas acetylosalicylowy (aspiryna) oraz witaminy A, C, K, E, z grupy B, a także sole mineralne żelaza, wapnia, potasu. Maliny przyspieszają krążenie krwi, zmniejszają obrzęki, pomagają przy bólach głowy, oczyszczają i rozrzedzają krew. Opisane właściwości mają nie tylko owoce, ale także liście i gałązki. Działa napotnie, moczopędnie, antyseptyczne, ogólniewzmacniająco, witaminizująco, przeciwbólowo, przeciwnowotworowo.</p>
-<p><strong>Porzeczka czarna</strong><br>(Ribes nigrum)</p>
-<p>Wskazania lecznicze - angina, artretyzm, reumatyzm, gościec, biegunka, dolegliwości wątroby, szkorbut, zmęczenie ogólne, kamica moczowa, zatrzymanie moczu, miażdżyca, migrena, nerwica żołądka, niedokrwistość, nieżyty dróg trawiennych, przyzębica, skaza krwotoczna, zaćma soczewkowa, zła krzepliwość krwi, żółtaczka, wypadanie włosów i zębów, złe trawienie, niedomoga nerek, zapalenie gruczołu krokowego, nadmiar kwasu moczowego, infekcje bakteryjne, osłabienie ogólne, zatrucia. Używamy owocu i liści.</p>
-<p><strong>Porzeczka czerwona</strong><br>(Ribes rubrum)</p>
-<p>Wskazania lecznicze - artretyzm, reumatyzm, gościec, puchlina wodna, brak łaknienia, dolegliwości gorączkowe, kamienie moczowe, niewydolność wątrobowa, przewlekłe schorzenia wątroby, schorzenia skórne, zapalenie wątrobowe, dróg moczowych, dróg trawiennych, zaparcia, miażdżyca naczyń, niezyt pęcherza, kolki, migreny, dolegliwości serca.</p>
-<p><strong>Truskawka</strong><br>(Fragaria ananasa)</p>
-<p>Surowcem leczniczym są liście i korzenie. Wskazania lecznicze - cysta, dolegliwości wątroby, krwawienia jelitowe, krwotok maciczny, zapalenie jelita cienkiego i okrężnicy, upławy białe, kamica moczowa, kolka nerkowa, reumatyzm, dna, astma, żółtaczka, angina.</p>
+<p class="rozdzial" id="r-1"><strong>Warzywa</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Burak czerwony</strong><br>(Beta vulgaris)</th>
+<th>Burak pobudza apetyt, jest odświeżający i lekkostrawny. W leczeniu naturalnym jest stosowany na anemię, demineralizację organizmu, nerwicę grypę, gruźlicę, nowotwory, przeciw zapaleniu nerwów i wątroby. Ćwikła (utarty gotowany burak z utartym chrzanem i kminkiem) poprawia pracę wątroby, odkwasza, ułatwia trawienie różnych mięs.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Cebula</strong><br>(Allium cepa)</td>
+<td>Stosowana wewnętrznie jest środkiem antyinfekcyjnym, przeciwreumatycznym, antyseptycznym, przeciwsklerotycznym, przeciwszkorbutowym i przeciwzakrzepowym, leczy skórę i jej owłosienie, wzmacnia i upiększa paznokcie, leczy gruźlicę węzłów chłonnych, jest środkiem lekko nasennym, obniża poziom cukru we krwi, osłabia napięcie jelit, pobudza popęd płciowy, wzmaga czynności nerek, jelit, wątroby, układu nerwowego, jest środkiem moczopędnym, rozpuszcza i eliminuje mocznik i chlorki, działa przeciwczerwiowo, wykrztuśnie i wydzielniczo, ułatwia trawienie produktów mącznych, utrzymuje w równowadze pracę gruczołów wydzielania wewnętrznego. Daje dobre skutki w leczeniu chorób i dolegliwości: angina, astma, awitaminoza, biegunka, cukrzyca, dolegliwości w oddychaniu, grypa, infekcje moczopłciowe, katar, kamica żółciowa, nadfermentacja jelitowa, nadmiar chlorków we krwi, niedomogi prostaty, niemoc płciowa, nieżyt nosa i pogrypowy, obecność mocznika, ogólne osłabienie fizyczne i umysłowe, obrzęki, otyłość, pasożyty jelitowe, przeziębienie, przerost układu chłonnego, puchlina brzuszna i wodna, skąpomocz, stwardnienie tętnic, wadliwa przemiana materii, zakłócenia wzrostu włosów, zapalenie krtani, opłucnej, osierdzia, oskrzeli i węzłów chłonnych, skrzepy (leczy zwężenia naczyń krwionośnych, hamuje krzepnięcie krwi rozpuszczając włóknik czyli fibrynę - nierozpuszczalne białko będące podstawą skrzepów).<br>Stosowana zewnętrznie leczy brodawki, brzęczenie w uszach, czyraki, głuchotę, migrenę, nerwoból zębowy, odmroziny, oparzenia, zapalenia opon mózgowych, wzmacnia porost włosów, leczy rany, ropień, wrzody, zastrzał, ukąszenia osy, uśmierza ból, odstrasza komary.</td>
+</tr>
+<tr>
+<td><strong>Chrzan</strong><br>(Armoracia lapathifolia)</td>
+<td>Do użytku wewnętrznego stosowanie jest wskazane przy astmie, atonii w trawieniu (nieżyty z niedoborem kwasu solnego), brak apetytu, bronchit chroniczny, gościec, gruźlica, niedobór witaminy C i alkaliów, paraliż, przerost układu chłonnego, stan limfatyczny, puchlina wodna, reumatyzm, skrofuloza, upławy białe, schorzenia wątrobowe, stany zapalne nerek, kamica nerkowa, stany zapalne korzonków nerwowych.<br><strong>UWAGA !</strong> Stosowanie chrzanu winno być dawkowane ostrożnie przy zapaleniu przewodu pokarmowego, wątroby i nerek. Związki w chrzanie kolidują z węglanami pierwiastków alkalicznych, z chlorkiem rtęci i z naparem z kory chinowej.<br>Na użytek zewnętrzny stosujemy przy bólach mięśniowych w plecach i w pasie, przeziębieniach, ropiejących ranach, wrzodach, zapaleniu korzonków nerwowych, zapaleniu uszu i piegach.</td>
+</tr>
+<tr>
+<td><strong>Czosnek</strong><br>(Allium sativum)</td>
+<td>Stosuje się wewnętrznie przy takich schorzeniach jak artretyzm, astenia, ogólne osłabienie, astma, atonie układu trawiennego, biegunka, dyzenteria (czerwonka), bóle brzucha, brak apetytu, gościec stawowy, hemoroidy, kamienie nerkowe, koklusz, krztusiec, kurcze naczyniowe, nadciśnienie tętnicze krwi, niektóre częstoskurcze serca, nadmierne ukrwienie naczyń krwionośnych, niedostateczne wydzielanie soków trawiennych, obrzęk nóg, odbijanie, odtruwanie wątroby, pasożyty jelitowe, piasek moczowy, profilaktyka chorób zakaźnych, puchlina wodna, reumatyzm, ropień płuc, rzeżączka, skurcze jelitowe, skąpomocz, stwardnienie naczyń tętniczych, miażdżyca, utrudnione trawienie, wzdęcia, wiatry, bębnica, zaburzenia równowagi w pracy gruczołów wydzielania wewnętrznego, zakażenie gardła i krtani, zakażenia dróg oddechowych, zapobieganie nowotworom przez działanie przeciwgnilne w jelitach, zapalenie płuc, oskrzeli, zakłócenia krążenia krwi z powodu nadmiernej krzepliwości, zakłócenia czynności żółciotwórczych, zakłócenia czynności ukrwienia naczyń mózgowych, zmęczenie serca, zgorzel, zakaźne pochodzenie nieżytów żołądka i jelit, żylaki, zaburzenia pracy płuc, rozedma, ropień płuc.<br>Użytek zewnętrzny. Ból ucha, brodawki, modzele, twardziny, głuchota, guzy nowotworowe, grzybica woszczynowa, odciski, przetoki, źle gojące się rany, rany zakażone, ropień zimny (na tle gruźlicy stawowej lub kości), ropień skórny, bóle reumatyczne, świerzb, torbiele, cysty, ukąszenia owadów, wrzody.<br><strong>UWAGA !</strong> Nie stosować przy ostrym nieżycie żołądka i jelit, niedociśnieniu tętniczym, w czasie karmienia osesków. Nie jest wskazany dla nerkowców. Nie trzeba jadać za dużo czosnku (2-3 ząbki tygodniowo) gdyż jest ciężkostrawny i drażni błony śluzowe przewodu pokarmowego.</td>
+</tr>
+<tr>
+<td><strong>Kapusta</strong><br>(Brassica oleracea)</td>
+<td>Bezapelacyjna królowa warzyw pod względem zastosowania w medycynie naturalnej. Używamy zarówno białej, czerwonej jak i włoskiej. Stosowana jest w leczeniu następujących chorób - afonia, alkoholizm, anemia, angina, astenia, zmęczenie, słabość ogólna, astma, zapalenia oskrzeli, bezsenność, ból głowy, biegunka, bronchit, bóle reumatyczne, bóle mięśni, dna, ból lędźwiowy, bóle żołądkowe i jelitowe, choroba serca, czyrak, ropień, wąglik, cukrzyca, dermatoza, egzemy, gangrena, głuchota, gruźlica, grypa, hemoroidy, choroby jelit, kamienie moczowe, katar, katar sienny, krzywica, liszajec, łojotok, martwica, migrena, nerwobóle, żylaki, zapalenie tętnic nóg, obrzęki, choroby oczu (podrażnienia, łzawienia, zaczerwienienie), odmrożenia, oparzenia, opryszczki skórne, owrzodzenia żylakowe goleni, choroby pęcherzyka żółciowego, zapalenie pęcherza moczowego, półpasiec, prostata, przekrwienie mózgu, udar słoneczny, wszelkie rany, robaki jelitowe, ropień zimny, popękana skóra, katar, stłuczenia i kontuzje, stany depresji, dolegliwości skórne, skąpomocz, szkorbut, ukąszenia owadów, utrudnione trawienie, odwapnienie, wrzód żołądka, nadciśnienie tętnicze, zastrzał, trądzik, zapalenie tętnicy, zapalenie węzłów chłonnych, twarda wątroba, poprawienie przemiany materii, poprawa pracy nerek, zapalenie macicy, zapalenie zatok chłonnych i przynosowych okrężnicy, spojówek, zaparcia, kolka wątrobowa i żółciowa, marskość wątroby, zapalenie włośniczek, zapalenie powiek, zwichnięcia, wrzody żołądka, zły stan układu nerwowego, żołądkowy nieżyt przewlekły, zapalenie stawów, zapalenie oskrzeli, zamroczenie alkoholowe, dolegliwości układu nerwowego. Została jej poświęcona cała, odrębna strona.</td>
+</tr>
+<tr>
+<td><strong>Marchew</strong><br>(Daucus carota)</td>
+<td>Na użytek wewnętrzny - astenia, anemia, biegunka u dzieci, blednica, zaburzenia trawienne, dermatozy, białaczka, demineralizacja, gruźlica, bronchit przewlekły, astma, dna, artretyzm, reumatyzm, hemoroidy, infekcje jelit, krzywica, krwawienia żołądkowo-jelitowe, łuszczyca, niedomogi wątrobowo-żółciowe, niedobór mleka u karmiących matek, nadciśnienie tętnicze, niedokrwistość, obniżona ostrość widzenia, miażdżyca, pasożyty jelitowe, pęcherzyca.<br>Na użytek zewnętrzny - rany, wrzody, oparzenia, czyraki, egzemy, łupież, liszajec twarzy, odmroziny, pęknięcia skóry, ropień, leczenie pomocnicze w nowotworze piersi, nabłoniak, nowotwór nabłonkowy, trądzik twarzy. Działania profilaktyczne - choroby zakaźne i zwyrodnieniowe, zmarszczki, skrofuloza, wrzód żołądka i dwunastnicy, stany nerwicowe, zapalenie jelita cienkiego i okrężnicy, oczyszczanie krwi zatrutej toksynami, regulacja krwawienia miesięcznego, zaparcia, żółtaczka, stwardnienie rozsiane, cukrzyca.</td>
+</tr>
+<tr>
+<td><strong>Pietruszka</strong><br>(Petroselinum sativum)</td>
+<td>Na użytek wewnętrzny - anemia, astenia, atonia pęcherzyka żółciowego brak łaknienia, dolegliwości wątrobowe, stany nowotworowe, gorączka przerywana, gościec, kamienie moczowe, bolesne miesiączkowanie, niestrawność, pasożyty jelitowe, reumatyzm, skąpomocz, stany nerwowości, wady krwi, wzdęcia, zakażenie.<br>Na użytek zewnętrzny - kontuzje, nerwobóle, piegi, rany, ukąszenia owadów, upławy, zapalenia oka, zastój mleka w sutku.<br><strong>UWAGA !</strong> Stosowanie przez dłuższy czas dużych dawek wyciągu z nasion pietruszki powoduje kurcze macicy przez miristycynę, uszkodzenie błon śluzowych układu pokarmowego, pobudzenie ośrodkowego układu nerwowego (olejek). Małym dzieciom i kobietom w końcowym okresie ciąży zaleca się ostrożność przy doustnym przyjmowaniu nasion pietruszki. Olejek silnie drażni nerki i może być przyczyną poronień. Fitolizynę powinno się dawkować ostrożnie i podawać z przerwami.</td>
+</tr>
+<tr>
+<td><strong>Por</strong><br>(Allium porrum)</td>
+<td>Na użytek wewnętrzny - anemia, arterioskleroza, artretyzm, gościec, zatrucie amoniakiem, dolegliwości dróg moczowych, kamica moczowa, gruźlica, niestrawność, niewydolność nerek, otyłość, zaparcie.<br>Na użytek zewnętrzny - czyraki, hemoroidy, nagniotki, odciski, ropnie, rany, krwawienie z nosa, pielęgnacja twarzy, wrzody, ukąszenia owadów, zastój moczu.</td>
+</tr>
+<tr>
+<td><strong>Rzodkiewka</strong><br>(Raphanus sativus)</td>
+<td>Pomocna w leczeniu anemii, artretyzmu, astmie, braku łaknienia, demineralizacji organizmu, dolegliwościach oskrzelowych i wątrobowych, kamieniach nerkowych i żółciowych, krzywicy, nadfermentacji jelitowej, reumatyzmie, szkorbucie, wypadaniu włosów, zmarszczkach.</td>
+</tr>
+<tr>
+<td><strong>Rzodkiew czarna</strong><br>(Raphanus niger)</td>
+<td>Wskazana przy leczeniu astmy, artretyzmu, bronchitu chronicznego, dolegliwości płucnych, egzemy, kamicy nerkowej i żółciowej, kokluszu, krzywicy, niedomogi wydzielniczej wątroby, niestrawności, reumatyzmu, szkorbutu, uczulenia, zapalenia pęcherzyka żółciowego i dróg żółciowych.</td>
+</tr>
+<tr>
+<td><strong>Seler</strong><br>(Apium graveolens)</td>
+<td>Na użytek wewnętrzny - gościec, kamica moczowa, wzdęcia, kolki żołądkowe, łagodzenie sklerozy, schorzenia pęcherza moczowego, nieprawidłowości miesiączkowania, zapobiega szkorbutowi, reumatyzm, otyłość, przemiana materii, poprawia pracę nerek, wątroby, serca, nieżyt oskrzeli.<br>Zewnętrznie - rany, odmrożenia, zapalenie powiek, miejscowe odbarwienie skóry.</td>
+</tr>
+<tr>
+<td><strong>Szpinak</strong><br>(Spinacia oleracea)</td>
+<td>Na użytek wewnętrzny - anemia, astenia fizyczna i nerwowa, krzywica, szkorbut, łuszczyca, pęcherzyca, nowotwory, wyrzuty skórne, rekonwalescencja, starzenie się, stwardnienie rozsiane.<br>Na użytek zewnętrzny - oparzenia, liszaje, rany, wyrzuty skórne, łuszczyca, pęcherzyca.</td>
+</tr>
+<tr>
+<td><strong>Ziemniak</strong><br>(Solanum tuberosum)</td>
+<td>Sprzyja pracy jelit, jest przeciwrzodowy, ma właściwości gojące, działa zmiękczająco, uspokaja śluzówkę przewodu pokarmowego, działa przeciwskurczowo i moczopędnie, wzmacnia naczynia włosowate, działa przeciwnowotworowo, hamuje rozwój grzybów i bakterii, działa korzystnie na nerki rozpuszczając kamienie, działa przeciwszkorbutowo, leczy egzemę i inne choroby skórne, przeciwdziała rozszerzaniu się naczyń krwionośnych, mąka ziemniaczana jest dobrym pudrem na oparzenia słoneczne, a dodana do kąpieli leczy świąd i wysypki, świeży sok z surowego ziemniaka leczy przewlekłą nadkwasotę, zaparcia, cuchnięcie z ust i niedomogi wątroby, odwar z ziemniaków może być stosowany do leczniczych lewatyw odżywczych, dr Kneipp zaleca stosowanie papki z ziemniaków jako okładów do usmierzania bólów, skurczów w przewodzie pokarmowym, przy opuchliznach, odwodnieniach, zwichnięciach, zapaleniach, osłabieniu gruczołów wydzielania wewnetrznego, katarze dróg oddechowych, nieżycie przewodu pokarmowego, zapaleniu opłucnej, zapaleniu stawów, zapaleniu pochewki ścięgna, zapaleniu przymacicznym (parametrium), przy ischiasie, lumbago, zesztywniającym zapaleniu stawów międzykręgowych, dnie, artretyzmie, czyrakach, zapaleniach skórnych, otyłości.<br><strong>UWAGA !</strong> Nie spożywać ziemniaków o zielonym kolorze skórki, ani z wyrastającymi kiełkami. Miejsca te należy szeroko i głęboko wykroić i wyrzucić, ponieważ zawierają trujący glikoalkaloid - solaninę. Absolutnie takich ziemniaków nie przyrządzać dla dzieci. Nawet śladowe ilości solaniny mogą zaszkodzić. Wywołują bóle artretyczne, podrażnienia sluzówki, nudności, wymioty, zapalenie nerek, pęcherzyka zółciowego, osłabienie serca, pocenie, lęki, palą w gardle.</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-2"><strong>Zapomniane warzywa</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Jarmuż</strong><br>(Brassica oleracea<br>var. acephala)</th>
+<th>Dwuletnia roślina warzywna, traktowana jako odmiana kapusty bezgłowej, znana w starożytności. Wysoka na 10-150 cm, liście duże pierzastozielone, zmarszczone, fryzowane, nie tworzą główki - stanowią część jadalną (przyrządzaną jak szpinak). Świeży zawiera witaminy - C, A, B1, B2, PP oraz znaczne ilości białek i awiązków mieneralnych. Jest bardzo odporna na mróz. Wysiany w maju i uprawiany z rozsady wysadzanej w lipcu, używany jest w ciągu zimy i wczesną wiosną (nie wymaga przykrycia). Bardzo ceniony w Europie zachodniej.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Pasternak</strong><br>(Pastinaca sativa)</td>
+<td>&quot;Figa z makiem, z pasternakiem&quot; mówiło się kiedyś o czymś, co było raczej nieosiągalne. Pasternak w Polsce był powszechnie uprawiany (spożywany na równi z kaszami) jeszcze za Jagiellonów i został wyparty przez ziemniaka. Jest mało wymagający w uprawie. Początkowo rośnie wolno, ale potem nie wymaga pielęgnacji, gdyż zagłusza wszelkie chwasty. Jest odporny na szkodniki i choroby. Stonka go nie lubi. Nie wymaga oprysków i jest odporny na warunki pogodowe, a także na mróz. Jeśli ziemia nie zamarznie można go zbierać zimą. Nie jest kruchy, więc można go zbierać mechanicznie. Zakopcowany jak marchew wytrzymuje nawet do kwietnia. Może także zimować w glebie.<br>Ma dużą wartość odżywczą, jest bogaty w potas, fosfor, wapń i żelazo, zawiera witaminy A, B1, B2, B6, C, PP i jest wyraźnie zasadotwórczy. Zawiera 80% wody oraz mało białka i tłuszczu. Posiada właściwości moczopędne, odtruwające, antyreumatyczne i ogólnie poprawiające zdrowie. Leczy nerki, i pęcherz.<br>Spożywa się go w formie zup, surówek, sałatek, smażonych placków, a nawet jak szparagi (z wody). Przepisy na przygotowanie potraw z pasternaku znajdziesz w &quot;Nietypowych przepisach&quot;. Do uprawy używa się odmiany &quot;półdługi biały&quot;, okres wegetacji 180-210 dni, wydajność 300-400 q/ha, znosi dobrze transport nawet do 7 dni</td>
+</tr>
+<tr>
+<td><strong>Rzepa</strong><br>(Brassica campestris)</td>
+<td>Bardzo bliska krewna kapusty, zwana też kapustą polną. Warzywo bardzo popularne wśród Słowian i cenione do tego stopnia, że płacono nim daniny. Dzisiaj rzepa jest symbolem ale też i ubóstwa. Jakość rzepy zależy od gleby. Na glebach urodzajnych rzepa jest delikatnym i soczystym warzywem.<br>Rzepa jest małokaloryczna i zawiera w sobie witaminę C, B1, B2, PP i A. Z mikropierwiatków posiada wapń, fosfor, żelazo, potas, magnez siarkę i jod. Ma w sobie ponad 7% cukru. Działa wzmacniająco i moczopędnie. Leczyć można nią wrzody, ropnie i trądziki. W tym celu gotuje się ją całą do miękkości, przecina na pół i przestudzona pociera się chore miejsca. Przy zaziębieniach, katarze czy anginie pijemy syrop z rzepy. Wydrąża się ja w środku, nasypuje cukru i po paru godzinach mamy syrop.<br>Kto ma w domu stonogi, to nie ma lepszej łapki na te robactwo. Rzepę należy przeciąć, lekko zmiażdżyć i pozostawić do zagnieżdżenia się stonóg. Potem już całość zatopić we wrzącej wodzie i wyrzucić.</td>
+</tr>
+<tr>
+<td><strong>Rzeżucha</strong><br>(Cardamine)</td>
+<td>Rzeżuchę znamy przede wszystkim jako zieloną ozdobę do baranka wielkanocnego i... nic więcej. Już Persowie przed wyprawami spożywali duże jej ilości z chlebem, król francuski Ludwik poznał jej orzeźwiające właściwości, gdy zamiast wody podano mu surówkę z rzeżuchy, a medycyna ludowa uważa, że pobudza produkcję cebulek włosowych.<br>Rzeżucha jest jarzyną najbogatszą w jod łatwo przyswajalny przez organizm. Zawiera dużo żelaza, siarki i wapnia oraz witaminy C, A, B2, PP i E. Działa dezynfekująco zarówno w jamie ustnej jak i w przewodzie pokarmowym. Jest moczopędna i jadana w nadmiarze może doprowadzić u niektórych osób do zapalenia pęcherza moczowego. Rzeżucha jest polecana na dolegliwości tarczycy, kobietom w ciąży i karmiącym, chorym na cukrzycę, palaczom (na uporczywy kaszel). Pomaga w leczeniu wysypek i egzem. Poprawia wygląd cery, paznokci i włosów. Sok z rzeżuchy (zewnętrznie stosowany) rozjaśnia cerę, usuwa piegi i starcze plamy pigmentowe. Stwierdzono, że ci, co jadają rzeżuchę to bardzo trudno im... wyłysieć.<br>Rzeżucha jest doskonała do kanapek i nie trzeba ich solić, bo ona sama jest pikantna. Jak siać rzeżuchę? Kupić nasionka, wsypać je do szklanki, zalać obficie wodą i gdy powstanie papka, należy ją rozsmarować na ligninie rozłożonej na tacy. Lignina nie może pływać w wodzie, ale musi być stale wilgotna. Kiedy rzeżucha wyrośnie na 5-7 cm należy ściąć ją nożyczkami tuż nad ligniną, posiekać i zjeść. Jest pikantna, ma ostry smak i zapach. Jeść należy po kilka łyżeczek dziennie samą lub na kanapkach.</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-3"><strong>Owoce</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Agrest</strong><br>(Grossularia reclinata)</th>
+<th>W leczeniu pod postacią soku stosowany przy artretyzmie, gośćcu, reumatyzmie, braku łaknienia, demineralizacji, dolegliwościach gorączkowych, nadmiernym ukrwieniu, przewlekłych schorzeniach wątrobowych, zapaleniu przewodu pokarmowego, zapalenia układu moczowego, zaparciach, otyłości, niedokrwistości, chorobach skórnych, dolegliwościach płucnych, stanach zapalnych jamy ustnej i gardła.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Cytryna</strong><br>(Citrus limon)</td>
+<td>Na użytek wewnętrzny - różne infekvje płucne i jelitowe, stany gorączkowe, malaria, astenia (osłabienie), brak łaknienia, puchlina brzuszna, wodobrzusze, artretyzm, reumatyzm, dna, kamica nerkowa i żółciowa, nadkwasota żołądkowa, wrzód żołądka, niestrawność, połykanie powietrza, szkorbut, miażdżyca naczyń, żylaki, zapalenia żył, łamliwość włośniczek, przekrwienie, nadmierna lepkość krwi, otyłość nadcisnienie, demineralizacja, anemia, żółtaczka, , wymioty, niedomogi wątroby i trzustki, przekrwienie wątroby, hemofilia, krwotoki, krwiomocz, wzdęcie jelitowe, czerwonka, biegunka, pasożyty wewnetrzne, astma, zapalenie oskrzeli, grypa, starzenie się, uporczywe bóle głowy.<br>Na użytek zewnętrzny - ostry katar i niezyt nosa, krwawienie z nosa, zapalenie zatok przynosowych, ucha, jamy ustnej i języka, angina, wykwity śluzówki w jamie ustnej, zapalenie powiek, wysypka, wykwit, rumień, czyraki, liszaje, migrena, brodawki, opryszczka, odmroziny, rany zakażone i gnijące, ukąszenia owadów, grzybica woszczynowa, świerzb, łojotok fizjologiczny twarzy, plamy, piegi, łamliwe paznokcie.</td>
+</tr>
+<tr>
+<td><strong>Czereśnia</strong><br>(Cerasus avium)</td>
+<td>Pomocna w leczeniu artretyzmu, cukrzycy, demineralizacji, dolegliwości pęcherza moczowego, gośćcu, dolegliwościach serca, kamieniach moczowych i żółciowych, nadfementacji jelitowej, przekrwieniu, miażdżycy, otyłości, przewlekłych schorzeniach wątroby, reumatyzmie, zaparciach, stałym uczuciu zmeczenia.</td>
+</tr>
+<tr>
+<td><strong>Jabłoń</strong><br>(Malus domestica)</td>
+<td>Wskazania lecznicze - anemia, artretyzm, bezsenność, bóle żołądka z obrzekiem jego błony śluzowej na tle artretycznym, dna, dolegliwości oskrzeli, infekcje jelitowe, miażdżyca, nadciśnienie tętnicze, przekrwienie, niedobór minerałów, nerwowość, opryszczka, osłabienie fizyczne i umysłowe, otyłość, przemęczenie, reumatyzm, rozwolnienie, przewlekłe schorzenia wątroby, schorzenia mięśnia sercowego, skapomocz, stany gorączkowe, uporczywy ból głowy, zaparcia, zawały. Nieocenione usługi w medycynie ludowej oddaje ocet jabłkowy.</td>
+</tr>
+<tr>
+<td><strong>Malina</strong><br>(Rubus idaeus)</td>
+<td>Zawiera kwas acetylosalicylowy (aspiryna) oraz witaminy A, C, K, E, z grupy B, a także sole mineralne żelaza, wapnia, potasu. Maliny przyspieszają krążenie krwi, zmniejszają obrzęki, pomagają przy bólach głowy, oczyszczają i rozrzedzają krew. Opisane właściwości mają nie tylko owoce, ale także liście i gałązki. Działa napotnie, moczopędnie, antyseptyczne, ogólniewzmacniająco, witaminizująco, przeciwbólowo, przeciwnowotworowo.</td>
+</tr>
+<tr>
+<td><strong>Porzeczka czarna</strong><br>(Ribes nigrum)</td>
+<td>Wskazania lecznicze - angina, artretyzm, reumatyzm, gościec, biegunka, dolegliwości wątroby, szkorbut, zmęczenie ogólne, kamica moczowa, zatrzymanie moczu, miażdżyca, migrena, nerwica żołądka, niedokrwistość, nieżyty dróg trawiennych, przyzębica, skaza krwotoczna, zaćma soczewkowa, zła krzepliwość krwi, żółtaczka, wypadanie włosów i zębów, złe trawienie, niedomoga nerek, zapalenie gruczołu krokowego, nadmiar kwasu moczowego, infekcje bakteryjne, osłabienie ogólne, zatrucia. Używamy owocu i liści.</td>
+</tr>
+<tr>
+<td><strong>Porzeczka czerwona</strong><br>(Ribes rubrum)</td>
+<td>Wskazania lecznicze - artretyzm, reumatyzm, gościec, puchlina wodna, brak łaknienia, dolegliwości gorączkowe, kamienie moczowe, niewydolność wątrobowa, przewlekłe schorzenia wątroby, schorzenia skórne, zapalenie wątrobowe, dróg moczowych, dróg trawiennych, zaparcia, miażdżyca naczyń, niezyt pęcherza, kolki, migreny, dolegliwości serca.</td>
+</tr>
+<tr>
+<td><strong>Truskawka</strong><br>(Fragaria ananasa)</td>
+<td>Surowcem leczniczym są liście i korzenie. Wskazania lecznicze - cysta, dolegliwości wątroby, krwawienia jelitowe, krwotok maciczny, zapalenie jelita cienkiego i okrężnicy, upławy białe, kamica moczowa, kolka nerkowa, reumatyzm, dna, astma, żółtaczka, angina.</td>
+</tr>
+</tbody></table></div>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/smierc.gif" alt="" loading="lazy" decoding="async"></p>
 <p>O. Franciszek Sroka w swojej książce &quot;Poradnik ziołowy&quot; przestrzega przed spożywaniem pestek owoców takich jak brzoskwinia, morela, wiśnia, śliwka czy czereśnia. W szczególności dotyczy to <strong>pestek brzoskwini i moreli</strong> zawierających dużą ilość glikozydu cyjanogennego, zwanego amygdaliną, który w organizmie rozpada się i wytwarza silnie trujący cyjanowodór.</p>
-<p><strong>Zioła</strong></p>
+<p class="rozdzial" id="r-4"><strong>Zioła</strong></p>
 <p>Na poczatek troszkę terminów zielarskich i można sprawdzić, czy prawidłowo przyrządzamy ziółka ( na podstawie K. Mikołajczyk i A. Wierzbicki - Zioła). Przy przyrządzaniu ziół w domu należu stosować ilości przepisane przez lekarza (zielarza) lub podane na opakowaniu. Większa dawka ziół nie zapewnia większej skuteczności leczniczej sporządzonego wyciągu, a wprost przeciwnie - mocniejszy wyciąg może spowodować niepożądane skutki uboczne.</p>
-<p><strong>UWAŻAJ CO KUPUJESZ - ZIOŁA PRZECHOWYWANE DŁUŻEJ NIŻ ROK, TRACĄ WŁAŚCIWOŚCI LECZNICZE.</strong></p>
+<p class="rozdzial" id="r-5"><strong>UWAŻAJ CO KUPUJESZ - ZIOŁA PRZECHOWYWANE DŁUŻEJ NIŻ ROK, TRACĄ WŁAŚCIWOŚCI LECZNICZE.</strong></p>
 <p>1 łyżeczka od herbaty mieści 1,5-2,0 g, a 1 łyżka stołowa około 5,0 g mieszanki ziołowej. Gdy używamy ziół jednorodnych, to - 1 łyżka stołowa zawiera około 3,0 g kwiatów, 4,0-5,0 g liści i 6,0-10,0 g korzenia (kłączy, nasion lub owoców). Sporządzone z ziół odwary, napary lub maceraty pije się najczęściej ciepłe, nie słodzone, jeden do kilku razy dziennie w zależności od choroby i rodzaju ziół.</p>
 <p><strong>Odwar</strong> - rozdrobniony surowiec zalewa się przepisana ilością wody o temperaturze pokojowej, starannie miesza, przykrywa i umieszcza się w łaźni wodnej (naczynie, w którym sporządza się odwar umieszcza się w większym z wodą). Podczas ogrzewania temperatura łaźni nie powinna być większa niż 90°C przez 30 minut (jeśli w większym naczyniu jest około 100-200 g wody wystarczy ogrzewać przez 45 minut bez kontroli temperatury). Następnie zawartość cedzi się, a pozostałość na sitku przemywa się gorącą wodą i uzupełnia odwar do przepisanej ilości.</p>
 <p><strong>Napar</strong> - surowiec umieszcza się w ogrzanym na łaźni wodnej naczyniu, zalewa przepisaną ilością wrzącej wody i po przykryciu ogrzewa się przez 15 minut. Zdejmuje się z łaźni i odstawia na 15 minut, od czasu do czasu mieszając. Następnie zawartość cedzi się, a pozostałość na sitku przemywa się gorącą wodą i uzupełnia napar do przepisanej ilości.</p>
@@ -106,212 +204,428 @@
 <p><strong>UŻYCIE I DAWKOWANIE ZIÓŁ</strong><br>Ziołolecznictwo - Witold Poprzędzki</p>
 <p><strong>•</strong> - jeżeli sporządzamy mieszankę kilku ziół i w recepcie podaje się użycie jednej łyżki mieszanki, to pamietajmy, że należy uzyć jednej łyżki mieszanki, a nie po łyżce każdego z ziół.<br><strong>•</strong> - niemowlętom dajemy nie więcej jak 1/2 szklanki naparu dziennie, dolewając po jednej łyzce do każdej butelki pokarmu.<br><strong>•</strong> - dzieciom do okresu dojrzewania (mutacja u chłopców, okres u dziewczynek) dajemy po 1/2 szklanki naparu 3 razy dziennie.<br><strong>•</strong> - dzieciom po okresie dojrzewania - 2-3 szklanki dziennie.<br><strong>•</strong> - po 60 roku życia, a czasem wcześniej gdy pacjent jest wyniszczony chorobami, zmniejszamy dawkę do 1/4 szklanki nie więcej niż 3 razy dziennie.</p>
 <p>Poniżej zioła i wskazania lecznicze. Poniższy wykaz nie upoważnia do eksperymentowania w zakresie ich przyrządzania. Recepty na przyrządzanie ziół proszę konsultować z uprawnionymi zielarzami i lekarzami znającymi się na ziołach (są jeszcze tacy). Powszechne przekonanie o nieszkodliwości ziół jest nieprawdziwe. Nie każde zioło można stosować bez umiaru, a przedawkowanie niektórych może mieć nieobliczalne skutki. Proszę o tym pamiętać.</p>
-<p><strong>Aloes</strong><br>(Aloe arborescens)</p>
-<p>Na użytek wewnętrzny - niedomogi miesiączkowania, zapalenie kory mózgowej, dychawica oskrzelowa, podostry i przewlekły nieżyt jelita grubego, stany zapalne i zwyrodnienie rogówki i siatkówki, uporczywe bóle głowy, nerwobóle, wyczerpanie nerwowe, zanik nerwu wzrokowego, zmętnienie rogówki, stany zapalne przewodu pokarmowego, choroba wrzodowa, zanikowy nieżyt błony śluzowej żołądka, owrzodzenie odbytnicy i okrężnicy, zaparcia.<br>Na użytek zewnętrzny - blizny, odmroziny, uszkodzenia naskórka, owrzodzenia podudzia, nieżyt nosa, zapalenie zatok bocznych nosa, owrzodzenie, pęknięcia skóry, wysypki alergiczne i ropne, żle gojące się rany, oparzenia termiczne i promieniami rentgenowskimi, ukłucia owadów, zapalenie śuzówki jamy ustnej, paradentoza, zapalenie sromu i pochwy.<br><strong>Przeciwwskazania</strong> - krwotok macicy, menstruacja, dolegliwości maciczne, różne krwotoki, powiększona prostata, zapalenie pęcherza moczowego, dyzenteria, zapalenie okrężnicy, zapalenie trzewi, niepełny skurcz serca, wiek dziecięcy, ostre lub podostre zapalenie wyrostka robaczkowego kłębuszków nerwowych, zaawansowana ciąża (od 7 miesiąca), po operacji przewodu pokarmowego, żylaki odbytu, ciężka niedomoga serca i naczyń krwionośnych, nadciśnienie.<br><strong>Skutki uboczne</strong> - możliwość poronienia lub wczesnego porodu, niebezpieczne użycie w przypadku przekrwienia okrężnicy i narządów miednicy mniejszej. Przy dużych dawkach - osłabienie, spowolnienie pulsu, obniżenie temperatury ciała. Śmierć przy 8 g proszku. Antagoniści - narkotyki i kwasy. Niezgodność - garbniki, żelazo, jod, mentol, tymol, fenol.</p>
-<p><strong>Arcydzięgiel litwor</strong><br>(Archangelica officinalis)</p>
-<p>Na użytek wewnętrzny - anemia, blednica, astma nerwicowa, bronchit chroniczny, bóle i zaburzenia menstruacyjne, białe upławy, kurcze żołądka i jelit, gruźlica, migreny nerwicowe, nadkwasota, niewydolność i niedomoga wątroby, nieżyt jelit, niemoc seksualna, osłabienie ogólne, osłabienie trawienia, połykanie powietrza, spazmatyczne wymioty, wzdęcia, obrzęk stawów, szkorbut, zawroty głowy, omdlenia, zapalenie skóry, zapalenie pęcherzyka żółciowego i dróg żółciowych, przewodu trzustkowego, stres, zaparcia.<br>Na użytek zewnętrzny - wcierania przeciwbólowe, przeciwzapalne, przeciwświądowe, dolegliwości jamy ustnej, bóle reumatyczne, stłuczenia.</p>
-<p><strong>Arnika górska</strong><br>(Arnica montana)</p>
-<p>Na użytek wewnętrzny - koklusz u dorosłych, niektóre paraliże, spadek ciśnienia krwi, obniżenie czynności serca, duszności, zaburzenia krążenia wieńcowego i mózgowego, skłonności do żylaków, osłabienie serca, stany zapalne i zakrzepowe naczyń krwionosnych w dolnych kończynach.<br>Na użytek zewnętrzny - wzmacnianie ścian naczyń włosowatych, zapobieganie przenikaniu osocza, resorpcja płynu wysiekowego, zmniejszanie obrzęków i powodowanych przez nie bólów.<br><strong>Przeciwwskazania</strong> - Zbyt duże dawki - bóle głowy, brzucha, wymioty, biegunka, osłabienie pracy serca, oddechu, zwężenie źrenic, zawroty głowy, drgawki nerwowe. Nie przyjmować w stanach zapalnych żołądka i jelit, krwawieniach w przewodzie pokarmowym, po zawale, leczeniu strofantyną i glikozydami naparstnicy. W stosowaniu zewnętrznym nie stosować na otwarte rany, oparzenia III stopnia, rozległe otarcia naskórka i ostre stany zapalne skóry.</p>
-<p><strong>Babka wąskolistna</strong><br>(Plantago laceolata)</p>
-<p>Na użytek wewnętrzny - biegunka, dyzenteria, białe upławy, krwotok (w tym maciczny), krwioplucie, gruźlica, chroniczne zapalenie oskrzeli, ogólne osłabienie, utrata wagi, opóźnienia rozwojowe u dzieci, zapalenie gardła i angina, zapalenie krtani, stany zapalne nerek, gorączka, nieżyt dróg oddechowych i zaflegmienie gardła, astma, koklusz, zaburzenia trawienne, uszkodzenie śluzówki żołądka, bezkwaśność żołądka i dwunastnicy, endogenne toksyny bakteryjne.<br>Na użytek zewnętrzny - uszkodzenia skóry wszelkiego pochodzenia, stany zapalne i świąd sromu, zapalenie spojówek i powiek, ukąszenia owadów i żmiji, zapalenie dziąseł, liszajec, dermatozy strupiaste, świerzb, wrzody na nogach.</p>
-<p><strong>Bez czarny</strong><br>(Sambucus nigra)</p>
-<p>Na użytek wewnętrzny - zaparcia, nerwobóle, reumatyzm, gościec, nadmiar wody w organizmie, epilepsja samoistna, zapalenie oskrzeli, gorączka z wysypką, puchlina wodna i brzuszna, zapalenie nerek, wrzody żołądka i dwunastnicy, moczenie nocne u dzieci, przewlekły nieżyt dróg oddechowych, uporczywy kaszel.<br>Na użytek zewnętrzny - łagodzące okłady i ciepłe kąpiele na odmroziny, obmywanie oczu przy egzemie powiek.<br><strong>Uwaga!</strong> - istnieje groźba przedawkowania.</p>
-<p><strong>Bobrek trójlistny</strong><br>(Menyanthes trifoliata)</p>
-<p>Anemia, brak apetytu, dermatozy, gorączka naprzemienna, niestrawność, krzywica, szkorbut, dna, reumatyzm, migreny po posiłkach, nieregularne menstruacje, pasożyty jelitowe, osłabienie ogólne.</p>
-<p><strong>Bukwica</strong><br>(Betonica officinalis)</p>
-<p>Na użytek wewnętrzny - astma, bóle głowy, bezsenność, biegunka krwawa, artretyzm, reumatyzm, gościec stawowy przewlekły, dolegliwości płucne, ischias, krwioplucie, nieżyt zołądka i jelit, skąpe wydzielanie soku żołądkowego, migreny, osłabienie nerwowe, padaczka, paraliż połowiczny, zawroty głowy, żółtaczka, zaflegmienie dróg oddechowych.<br>Na użytek zewnętrzny - rany zakażone bakteriami ropotwórczymi i grzybkami, owrzodzenie skóry nóg, guzy twarde przechodzące w tkankę nowotworową.</p>
-<p><strong>Brzoza</strong><br>(Betula verrucosa)<br>(Betula pubescens)</p>
-<p>Na użytek wewnętrzny - obrzęk sercowo-nerkowy, skapomocz, zawroty głowy na tle nadmiaru związków azotowych we krwi, bóle głowy, reumatyzm, nadmiar kwasu moczowego, bóle nerkowe, puchlina wodna, otyłość, przekrwienie ogólne, kamica moczowa, artretyzm, białkomocz, nadcisnienie, pasożyty jelitowe, miażdżyca.<br>Na użytek zewnętrzny - choroby skórne, zapalenie węzłów chłonnych, rany.</p>
-<p><strong>Czyr brzozowy</strong><br>(Innotus obliquus)</p>
-<p>Wrzody i nieżyty zołądka, guzy błony śluzowej jamy ustnej, białaczka, zahamowanie chorób nowotworowych i zmniejszanie skłonności do przerzutów (rak żołądka i płuc).</p>
-<p><strong>Cząber ogrodowy</strong><br>(Satureja hortensis)</p>
-<p>Na użytek wewnętrzny - astenia, astma, biegunka przewlekła, blednica, bóle gastryczne, glista ludzka, kurcze jelitowe, nadfermentacja jelitowa, niedokwaśność soku żołądkowego, nieżyt przewodu pokarmowego, nerwice żołądka, nerwice ogólne, osłabienie ogólne, pasożyty jelitowe, zapalenie oskrzeli, wzdęcia.<br>Na użytek zewnętrzny - czyraki, guzy, osłabienie słuchu, rany, stłuczenia, ukąszenia owadów, wrzody.</p>
-<p><strong>Chmiel zwyczajny</strong><br>(Humulus lupulus)</p>
-<p>Na użytek wewnętrzny - działanie oczyszczające, moczopędne, pobudzające łaknienie, przeciwszkorbutowe, przeciwgorączkowe, przeciwrobacze, nasenne, wspomagające porost włosów, wskazany przy niedokwaśności, nadmiernej fermentacji jelitowej, wzdęciach, odbijaniu, koi układ nerwowy, zapobiega noznym zmazom.<br>Na użytek zewnętrzny - łagodzi bóle.</p>
-<p><strong>Dziurawiec zwyczajny</strong><br>(Hypericum perforatum)</p>
-<p>Na użytek wewnętrzny - działanie atyseptyczne, hamuje wzrost gronkowca złocistego i innych Gram-dodatnich, ściagające, przeciw nadkwaśne, przeciwskurczowe, moczopędne, balsamiczne, przeciwgorączkowe, robakobójcze, przeciwdepresyjne, przeciw nadcisnieniowe, pobudza łaknienie, poprawia trawienie.<br>Na użytek zewnętrzny - leczenie ropni, zakażonych ran, oparzeń II i III stopnia, wrzodów, ropnych zapaleń, zakażeń skóry, zapaleń sutka, ostrego nieżytu nosa, zapaleń gardła, owrzodzenia żylakowego, bielactwa. Działa napotnie i ściagająco.<br><strong>Uwaga!</strong> - po użyciu absolutnie nie przebywać na słońcu. Grozi ciężkim udarem.</p>
-<p><strong>Głóg dwuszyjkowy</strong><br>(Cartaegus oxyacantha)</p>
-<p>Biegunka, bóle serca, bezsenność, częstoskurcz i arytmia serca, dusznica bolesna, kamica nerkowa i żółciowa, kołatanie serca, kurcze naczyniowe, miażdżyca, nadciśnienie tętnicze, nadmierna pobudliwość, niestrawność, przekrwienie narządów, zawroty głowy na tle nerwicy, szum w uszach, niepokoje.</p>
-<p><strong>Jałowiec pospolity</strong><br>(Juniperus communis)</p>
-<p>Na użytek wewnętrzny - artretyzm, białkomocz, bolesne menstruacje, cukrzyca, dna, dolegliwości dróg moczowych, kamienie moczowe, nadfermentacja jelitowa, puchlina wodna, reumatyzm, skapomocz, stwardnienie tętnic, zmęczenie ogólne i organiczne, upławy białe, nadczynność tarczycy.<br>Na użytek zewnętrzny - dermatozy, bóle zębowe, rany, owrzodzenia, trądzik, wyprysk moknący, nastepstwa paraliżu, dezynfekcja mieszkania.</p>
-<p><strong>Jemioła</strong><br>(Viscum album)</p>
-<p>Obniża ciśnienie, działanie przeciwskurczowe i przeciwkrwotoczne, wczesne stadium choroby nadcisnieniowej, miażdżyca, zaburzenia układu krążenia, krwawienia miesięczne.<br><strong>Uwaga!</strong> - stosować tylko z przepisu i pod kontrolą lekarza.</p>
-<p><strong>Kasztanowiec zwyczajny</strong><br>(Aesculus hippocastanum)</p>
-<p>Hemoroidy, klimakterium, stany zapalne wątroby, gruczołu krokowego, miednicy mniejszej, żylaki nóg, żylak powrózka nasiennego, odmroziny, oparzenia, obrzęki skóry, obrzęki głośni, płuc, krwiaki, zapalenie ścięgna, zakrzepowe zapalenie żył.</p>
-<p><strong>Kminek</strong><br>(Carum carvi)</p>
-<p>Na użytek wewnętrzny - bóle brzucha, brak apetytu, słaba laktacja, skąpa menstruacja, nadfermentacja, nadmierna wrażliwość na środki pobudzające pracę serca i naczyń krwionośnych, niedomogi wątroby, niestrawność, zaburzenia trawienia, pasożyty jelitowe, skurcze żołądka, wrzody żołądka i dwunastnicy, wzdęcia brzucha, zaflegmienie górnych dróg oddechowych, zapalenie oskrzeli i płuc, zaparcia, sensacje żołądkowo-jelitowe, niewydolność pęcherzyka żółciowego.<br>Na użytek zewnętrzny - osłabienie słuchu, pasożyty, świerzb, wypryski skórne i zastoinowe, zapalenie sutka.</p>
-<p><strong>Kozłek lekarski</strong><br>(Valeriana officinalis)</p>
-<p>Astma nerwicowa, bezsenność, częstoskurcz napadowy, zaburzenia czynnościowe, przyspieszone bicie serca na tle nerwowym, bóle głowy, pulsowanie w skroniach, zaburzenia naczyniowo-ruchowe, zawroty głowy, napady padaczkowe częściowe, upośledzenie mowy, wzroku, słuchu, nerwice wegetatywne, przekwitanie, owsiki, niepokój, nadpobudliwość psychiczna i czuciowa, konwulsje dziecęce, neurastenia, histeria, przekrwienie czynne, epilepsja, nadfermentacja jelitowa, omdlenia, wzdęcia, kolka jelitowa, pokrzywka, złe wydzielanie żółci i soku trzustkowego, cukrzyca, dychawica sercowa, świerzb, wyrzuty skórne, zaburzenia układu krążenia, migrena.</p>
-<p><strong>Krwawnik pospolity</strong><br>(Achillea millefolium)</p>
-<p>Na użytek wewnętrzny - działanie gorzkie i ściągajace, żółciopędne, moczopędne, robakobójcze, wykrztusne, przeciwzapalne, pobudza czynności żołądka, poprawia przemianę materii, hamuje krwawienia.<br>Na użytek zewnętrzny - upławy, hemoroidy, bóle reumatyczne, zapalenie skóry i śluzówek, dermatozy, owrzodzenia goleni, pęknięcia sutka, przetoki, rany. Środek dezynfekujący, gojący i przeciwzapalny.</p>
-<p><strong>Lawenda lekarska</strong><br>(Lavandula officinalis)</p>
-<p>Na użytek wewnętrzny - astma, bezsenność, biegunka, blednica, choroby infekcyjne, depresja, dolegliwości dróg oddechowych, gruźlica, drgawki, dur, gorączka z wysypkami na twarzy, grypa, histeria, kaszel napadowy, migreny, nadciśnienie, nadmierna pobudliwość, pozostałość po paraliżu, pasożyty jelitowe, bolesne i skąpe miesiączkowanie, reumatyzm, robaki, skapomocz, rzeżączka, gruźlica węzłów chłonnych, skurcze mięśni, wątłość dziecięca, upławy białe, zapalenie oskrzeli, zawroty głowy, zwiotczenie żołądka i jelit, wzdęcia jelitowe, zapalenie pęcherza moczowego, zmniejszenie łaknienia, nerwice wegetatywne, pobudzenie nerwowe.<br>Na użytek zewnętrzny - rany, wrzody na nogach, przetoka odbytu, kroczowa, egzemy, upławy białe, oparzenia, dolegliwości płucne, trądzik, ukąszenia owadów, ugryzienia zwierząt, wszawica, świerzb, łysienie, przewlekłe bóle mięśniowe i stawowe, zapalenie korzonków nerwowych, nieżyt jamy ustnej, gardła, oskrzeli i przewodów nosowych.</p>
-<p><strong>Lipa szerokolistna</strong><br>(Tilia platyphyllos)</p>
-<p>Skurcze, niestrawność, bezsenność, nerwice, histeria, miażdżyca, infekcje dróg oddechowych, gorączka nosa, gardła.</p>
-<p><strong>Macierzanka piaskowa</strong><br>(Thymus serpyllum)</p>
-<p>Działanie wykrztusne, dezynfekcyjne, ściagające, przeciwzapalne. Pobudza serce i nerwy (neurastenia). Stosowana w suchym kaszlu, blednicy, niedokrwistości, puchlinie wodnej, chorobach pęcherza moczowego, nieżycie żołądka, nieżycie dróg oddechowych, kurczach jelitowych, niedomodze wątroby, biegunkach, wzdęciach, niedokwaśności.</p>
-<p><strong>Majeranek ogrodowy</strong><br>(Origanum majorana)</p>
-<p>Na użytek wewnętrzny - astma, bezsenność, migrena, kurcze mimiczne, kurcze dróg oddechowych, kurcze trawienne, leki, obawy, neurastenia, niezrównoważenie psychiczne, nieżyt żołądka i jelit, paraliż, zapalenie tętnic, zapalenie przewodów nosowych, niedrożność nosa przy oddychaniu.<br>Na użytek zewnętrzny - brak sił, nerwobóle reumatyczne, wątłość, ogólne osłabienie, wycieńczenie, przewlekły katar nosa, przewlekłe zapalenie zatok bocznych nosa.</p>
-<p><strong>Melisa lekarska</strong><br>(Melissa officinalis)</p>
-<p>Na użytek wewnętrzny - migrena wywołana złym trawieniem, nerwobóle twarzy, zębów, ucha, głowy, astma, niedokrwistość, nadmierne bicie serca, bóle serca, drgawki dziecięce, epilepsja, napady nerwowe, pobudliwość, choroby żołądka, omdlenie, zawroty głowy, szum w uszach, anemia, menstruacja bolesna, niestrawność, zaniki pamięci, malancholia, depresja, skurcze, spazmy, bezsenność, uczucie niepokoju, stany zapalne dróg żółciowych i trzyxtki, kolka jelitowa, nadmierne fermentacje i wzdęcia.<br>Na użytek zewnętrzny - ukąszenia owadów, urazy, wrzody, bóle gośćcowe i reumatyczne, rany.</p>
-<p><strong>Mięta pieprzowa</strong><br>(Mentha piperita)</p>
-<p>Na użytek wewnętrzny - bóle brzucha, wzdęcia, brak łaknienia, kolka jelitowa, zapalenie pęcherzyka żółciowego i dróg żółciowych, lekka niewydolność wątroby, kamica żółciowa, żółtaczka, skurcz mięśni jelit i przewodów żółciowych, wymioty, biegunka, opuchlizna, zaburzenia miesiączkowania, nerwice wegetatywne.<br>Na użytek zewnętrzny - nieżyt nosa i obrzęk błony sluzowej, bóle nerwowe, migrenowe, odkażanie i odświeżanie jamy ustnej, nieżyt gardła i oskrzeli, bóle neuralgiczne i mięśniowe, świąd, nieżyt jamy ustnej i oskrzeli.</p>
-<p><strong>Mniszek lekarski</strong><br>(Taraxacum officinale)</p>
-<p>Na użytek wewnętrzny - anemia, astenia, azotermia, dermatoza u wątrobowców, kamica żółciowa i nerkowa, atonia mięśni gładkich, skurcze przewodów żółciowych, nadmiar cholesterolu, zapalenie dróg żółciowych, zapalenie wątroby, niewydolność i marskość wątroby, niewydolność nerek, mocznik we krwi, otyłość, paradentoza, reumatyzm, gościec, skapomocz, szkorbut, miażdżyca tętnic, zapalenie jelita cienkiego i okrężnicy, obrzeki, zaparcia, nadfermentacja jelitowa, zakłócenia krążenia krwi, sinica, żółtaczka, żylaki goleni.<br>Na użytek zewnętrzny - bielmo rogówki i jej zmętnienie, kurzajki, brodawki, piegi.</p>
-<p><strong>Nagietek</strong><br>(Calendula officinalis)</p>
-<p>Na użytek wewnętrzny - stany lekowe, depresja, bóle miesiączkowe, przekrwienie wątroby, owrzodzenie żołądka i jelit, nerwobóle reumatyczne, bóle szyi, mięśni i pleców.<br>Na użytek zewnętrzny - odmrożenia, oparzenia, uszkodzenia skóry, wrzodzianki, brodawki, stany zapalne gardła, jamy ustnej, spojówek, trądzik, egzemy, opryszczka.</p>
-<p><strong>Perz</strong><br>(Agropyron repens)</p>
-<p>Artretyzm, egzemy, blednica, gościec stawowy, kamica żółciowa i moczowa, hemoroidy, nieżyt dróg oddechowych, niedokrwistość, podwyższony poziom cholesterolu, przekwitanie, przewlekłe schorzenia wątroby, skapomocz, żółtaczka, zapalenie dróg moczowych trawiennych, reumatyzm, niedomogi błon śluzowych, narządów wewnetrznych, naczyń krwionośnych, skóry, tkanki łącznej.</p>
-<p><strong>Piołun pospolity</strong><br>(Artemisia absynthium)</p>
-<p>Na użytek wewnętrzny - anemia, atonia żołądka i jelit, kurcze żołądka, brak apetytu, gorączkowanie, wzdęcia, opóźnienia miesiączkowania, pasożyty jelitowe, upławy białe, zaburzenia wątrobowe, zatrucie bielą ołowiową, bolesne miesiączkowanie, biegunka, żółtaczka, reumatyzm, kolka jelitowa, zaparcia, niestrawność.<br>Na użytek zewnętrzny - rany zwiotczałe, wrzody, liszaje, ukąszenia owadów.</p>
-<p><strong>Pokrzywa</strong><br>(Urtica dioica)</p>
-<p>Na użytek wewnętrzny - krwawienia, anemia, krzywica, ogólne osłabienie, wurzuty skórne, oparzenia, zapalenie skóry, klimakterium, gościec, zapelenie stawów, pęcherza, nerek, kamica wątroby, żółtaczka, wrzody żołądka, stany przedcukrzycowe, biegunki, wzdęcia, mimowolne moczenie u dzieci, nieżyt śluzowo-błoniasty jelit.<br>Na użytek zewnętrzny - łojotok skóry głowy, łupież, nadżerki, infekcja jamy ustnej, grzybice skóry, błon śluzowych, guzy, narośla, nowotwory.</p>
-<p><strong>Poziomka pospolita</strong><br>(Fragaria vesca)</p>
-<p>Dolegliwości nerek, zaparcia, bolesne miesiączkowanie, stany zapalne, niedokrwistość, niestrawność, opryszczka jamy ustnej, nieżyt dróg oddechowych, kaszel.</p>
-<p><strong>Róża dzika</strong><br>(Rosa canina)</p>
-<p>Awitaminoza, biegunka, kamica moczowa, krwawienie, osłabienie ogólne, upławy białe, zaparcia, glisty, nieżyt dróg trawiennych, nieżyt pęcherza i dróg moczowych, bezsenność, stany pobudzenia nerwowego.</p>
-<p><strong>Rzepik pospolity</strong><br>(Agrimonia eupatoria)</p>
-<p>Na użytek wewnętrzny - biegunka krwawa, krwioplucie, białkomocz, cukrzyca, astma, otyłość, schorzenia watroby, puchlina wodna, artretyzm, reumatyzm, przeziębienia, upławy białe, robaki obłe, kolka nerkowa, kamica nerkowa, hemoroidy, trądzik, zapalenie spojówek, egzemy, zatrucia pokarmowe u dzieci.<br>Na użytek zewnętrzny - zapalenie jamy ustnej, zwiotczałe rany, zwichnięcia, kontuzje, pleśniawki, rany infekcyjne.</p>
-<p><strong>Skrzyp polny</strong><br>(Equisetum arvense)</p>
-<p>Na użytek wewnętrzny - Skąpomocz, puchlina wodna, zapalenie pęcherza moczowego, infekcje nerkowe, białkomocz, dna, krwotok, krwioplucie, wymioty krwawe, krwiomocz, krwawienie z nosa, krwotok maciczny, biegunka bakteryjna, utrata soli mineralnych, dolegliwości płucne, krzywica, tężyczka, astenia, złamania, uszkodzenia i rany kostne, niewydolność miesiączkowania, nadciśnienie tętnicze, mizżdżyca tętnic, artroza, nierwowość, stany nowotworowe, łysienie, padaczka.<br>Na użytek zewnętrzny - rany, owrzodzenia nóg, nowotwór owrzodzony, afty, ciężko gojace się rany, odmroziny.</p>
-<p><strong>Ślaz leśny</strong><br>(Malva silvestris)</p>
-<p>Na użytek wewnętrzny - katar, zapalenie dróg oddechowych, nieżyt przewodu trawiennego, wrzody żołądka i dwunastnicy, nerwica żołądka.<br>Na użytek zewnętrzny - wrzody, oparzenia, zapalenie spojówek, stany zapalne jamy ustnej.</p>
-<p><strong>Świetlik lekarski</strong><br>(Euphrasia rostkoviana)</p>
-<p>Schorzenia siatkówki, zapalenie spojówek, zapalenie tęczówki, łzawienie, reguluje ciśnienie w gałce ocznej, wiosenne zapalenie spojówek, uporczywe stany zapalne brzegów i skóry powiek.</p>
-<p><strong>Szałwia lekarska</strong><br>(Salvia officinalis)</p>
-<p>Na użytek wewnętrzny - astenia, astma, biegunka, bezpłodność, brak sił, bóle i zawroty głowy, neurastenia, brak łaknienia, apopleksja z krwotokiem, dolegliwości nerkowe, drgawki, paraliż, chroniczny nieżyt oskrzeli, obfite pocenie się rąk, niedociśnienie, zaburzenia miesiączkowania, zapalenie węzłów chłonnych pachy, przerost układu chłonnego, zapalenie oskrzeli, chroniczny nieżyt żołądka, schorzenia wątroby, płuc, dróg moczowych, skurcz jelit, niedokwaśność żołądka, począki cukrzycy, nadmierna pobudliwość nerwowa, nadczynność tarczycy, zatrucia pokarmowe, dychawica oskrzelowa u starszych, kamica moczowa.<br>Na użytek zewnętrzny - angina, astma, rany i owrzodzenia, ból zęba, białe upławy, debilność dziecięca, dermatozy, swędzenie pochwy, ukąszenie osy, łysienie, zapalenie jamy ustnej, zapalenie krtani, skrofuloza, stany zapalne jamy ustnej i gardła, swędzące wypryski, stłuczenia, lekkie oparzenia, żylaki nóg, podudzi, odbytu, czyraki, drobne skaleczenia.</p>
-<p><strong>Tatarak zwyczajny</strong><br>(Acorus calamus)</p>
-<p>Na użytek wewnętrzny - atonia trawienia, zwiotczenie zołądka, zapalenie żołądka i jelit, wzdęcia, zaburzenia miesiączkowania, skąpomocz, artretyzm, dna, krzywica, skrofuloza, kaszel, reumatyzm, dolegliwości wątroby i pęcherzyka żółciowego, dolegliwości węzłów chłonnych, bóle nerek, brak łaknienia, stany wyczerpania nerwowego, niepokoju i trudności w zasypianiu.<br>Na użytek zewnętrzny - dolegliwości jamy ustnej i jej błony śluzowej, gardła, łojotokowe zapalenie skóry, wypadanie włosów, łupież.</p>
-<p><strong>Tymianek</strong><br>(Thymus vulgaris)</p>
-<p>Na użytek wewnętrzny - podwyższa ciśnienie krwi, działa moczopędnie, napotnie, wiatropędnie, lekko hipnotyzująco, przeciwrobaczo, przeciwzakrzepowo, przeciwkaszlowo, przeciwbólowo, ściągająco, przeciwwzdęciowo, ściągająco, przeciwkrwawieniowo, przeciwastmatycznie, wywołuje miesiączkowanie, pobudza leukocytozę, jest afrodyzjakiem, konserwuje żywność.<br>Na użytek zewnętrzny - środek bakteriobójczy, przeciwgnilny, przeciwreumatyczny, przeciwpasożytniczy, przyspiesza zabliźnianie się trudno gojących się ran, niszczy drożdżaki i grzybki, przeciwdziała jadowi żmiji.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Aloes</strong><br>(Aloe arborescens)</th>
+<th>Na użytek wewnętrzny - niedomogi miesiączkowania, zapalenie kory mózgowej, dychawica oskrzelowa, podostry i przewlekły nieżyt jelita grubego, stany zapalne i zwyrodnienie rogówki i siatkówki, uporczywe bóle głowy, nerwobóle, wyczerpanie nerwowe, zanik nerwu wzrokowego, zmętnienie rogówki, stany zapalne przewodu pokarmowego, choroba wrzodowa, zanikowy nieżyt błony śluzowej żołądka, owrzodzenie odbytnicy i okrężnicy, zaparcia.<br>Na użytek zewnętrzny - blizny, odmroziny, uszkodzenia naskórka, owrzodzenia podudzia, nieżyt nosa, zapalenie zatok bocznych nosa, owrzodzenie, pęknięcia skóry, wysypki alergiczne i ropne, żle gojące się rany, oparzenia termiczne i promieniami rentgenowskimi, ukłucia owadów, zapalenie śuzówki jamy ustnej, paradentoza, zapalenie sromu i pochwy.<br><strong>Przeciwwskazania</strong> - krwotok macicy, menstruacja, dolegliwości maciczne, różne krwotoki, powiększona prostata, zapalenie pęcherza moczowego, dyzenteria, zapalenie okrężnicy, zapalenie trzewi, niepełny skurcz serca, wiek dziecięcy, ostre lub podostre zapalenie wyrostka robaczkowego kłębuszków nerwowych, zaawansowana ciąża (od 7 miesiąca), po operacji przewodu pokarmowego, żylaki odbytu, ciężka niedomoga serca i naczyń krwionośnych, nadciśnienie.<br><strong>Skutki uboczne</strong> - możliwość poronienia lub wczesnego porodu, niebezpieczne użycie w przypadku przekrwienia okrężnicy i narządów miednicy mniejszej. Przy dużych dawkach - osłabienie, spowolnienie pulsu, obniżenie temperatury ciała. Śmierć przy 8 g proszku. Antagoniści - narkotyki i kwasy. Niezgodność - garbniki, żelazo, jod, mentol, tymol, fenol.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Arcydzięgiel litwor</strong><br>(Archangelica officinalis)</td>
+<td>Na użytek wewnętrzny - anemia, blednica, astma nerwicowa, bronchit chroniczny, bóle i zaburzenia menstruacyjne, białe upławy, kurcze żołądka i jelit, gruźlica, migreny nerwicowe, nadkwasota, niewydolność i niedomoga wątroby, nieżyt jelit, niemoc seksualna, osłabienie ogólne, osłabienie trawienia, połykanie powietrza, spazmatyczne wymioty, wzdęcia, obrzęk stawów, szkorbut, zawroty głowy, omdlenia, zapalenie skóry, zapalenie pęcherzyka żółciowego i dróg żółciowych, przewodu trzustkowego, stres, zaparcia.<br>Na użytek zewnętrzny - wcierania przeciwbólowe, przeciwzapalne, przeciwświądowe, dolegliwości jamy ustnej, bóle reumatyczne, stłuczenia.</td>
+</tr>
+<tr>
+<td><strong>Arnika górska</strong><br>(Arnica montana)</td>
+<td>Na użytek wewnętrzny - koklusz u dorosłych, niektóre paraliże, spadek ciśnienia krwi, obniżenie czynności serca, duszności, zaburzenia krążenia wieńcowego i mózgowego, skłonności do żylaków, osłabienie serca, stany zapalne i zakrzepowe naczyń krwionosnych w dolnych kończynach.<br>Na użytek zewnętrzny - wzmacnianie ścian naczyń włosowatych, zapobieganie przenikaniu osocza, resorpcja płynu wysiekowego, zmniejszanie obrzęków i powodowanych przez nie bólów.<br><strong>Przeciwwskazania</strong> - Zbyt duże dawki - bóle głowy, brzucha, wymioty, biegunka, osłabienie pracy serca, oddechu, zwężenie źrenic, zawroty głowy, drgawki nerwowe. Nie przyjmować w stanach zapalnych żołądka i jelit, krwawieniach w przewodzie pokarmowym, po zawale, leczeniu strofantyną i glikozydami naparstnicy. W stosowaniu zewnętrznym nie stosować na otwarte rany, oparzenia III stopnia, rozległe otarcia naskórka i ostre stany zapalne skóry.</td>
+</tr>
+<tr>
+<td><strong>Babka wąskolistna</strong><br>(Plantago laceolata)</td>
+<td>Na użytek wewnętrzny - biegunka, dyzenteria, białe upławy, krwotok (w tym maciczny), krwioplucie, gruźlica, chroniczne zapalenie oskrzeli, ogólne osłabienie, utrata wagi, opóźnienia rozwojowe u dzieci, zapalenie gardła i angina, zapalenie krtani, stany zapalne nerek, gorączka, nieżyt dróg oddechowych i zaflegmienie gardła, astma, koklusz, zaburzenia trawienne, uszkodzenie śluzówki żołądka, bezkwaśność żołądka i dwunastnicy, endogenne toksyny bakteryjne.<br>Na użytek zewnętrzny - uszkodzenia skóry wszelkiego pochodzenia, stany zapalne i świąd sromu, zapalenie spojówek i powiek, ukąszenia owadów i żmiji, zapalenie dziąseł, liszajec, dermatozy strupiaste, świerzb, wrzody na nogach.</td>
+</tr>
+<tr>
+<td><strong>Bez czarny</strong><br>(Sambucus nigra)</td>
+<td>Na użytek wewnętrzny - zaparcia, nerwobóle, reumatyzm, gościec, nadmiar wody w organizmie, epilepsja samoistna, zapalenie oskrzeli, gorączka z wysypką, puchlina wodna i brzuszna, zapalenie nerek, wrzody żołądka i dwunastnicy, moczenie nocne u dzieci, przewlekły nieżyt dróg oddechowych, uporczywy kaszel.<br>Na użytek zewnętrzny - łagodzące okłady i ciepłe kąpiele na odmroziny, obmywanie oczu przy egzemie powiek.<br><strong>Uwaga!</strong> - istnieje groźba przedawkowania.</td>
+</tr>
+<tr>
+<td><strong>Bobrek trójlistny</strong><br>(Menyanthes trifoliata)</td>
+<td>Anemia, brak apetytu, dermatozy, gorączka naprzemienna, niestrawność, krzywica, szkorbut, dna, reumatyzm, migreny po posiłkach, nieregularne menstruacje, pasożyty jelitowe, osłabienie ogólne.</td>
+</tr>
+<tr>
+<td><strong>Bukwica</strong><br>(Betonica officinalis)</td>
+<td>Na użytek wewnętrzny - astma, bóle głowy, bezsenność, biegunka krwawa, artretyzm, reumatyzm, gościec stawowy przewlekły, dolegliwości płucne, ischias, krwioplucie, nieżyt zołądka i jelit, skąpe wydzielanie soku żołądkowego, migreny, osłabienie nerwowe, padaczka, paraliż połowiczny, zawroty głowy, żółtaczka, zaflegmienie dróg oddechowych.<br>Na użytek zewnętrzny - rany zakażone bakteriami ropotwórczymi i grzybkami, owrzodzenie skóry nóg, guzy twarde przechodzące w tkankę nowotworową.</td>
+</tr>
+<tr>
+<td><strong>Brzoza</strong><br>(Betula verrucosa)<br>(Betula pubescens)</td>
+<td>Na użytek wewnętrzny - obrzęk sercowo-nerkowy, skapomocz, zawroty głowy na tle nadmiaru związków azotowych we krwi, bóle głowy, reumatyzm, nadmiar kwasu moczowego, bóle nerkowe, puchlina wodna, otyłość, przekrwienie ogólne, kamica moczowa, artretyzm, białkomocz, nadcisnienie, pasożyty jelitowe, miażdżyca.<br>Na użytek zewnętrzny - choroby skórne, zapalenie węzłów chłonnych, rany.</td>
+</tr>
+<tr>
+<td><strong>Czyr brzozowy</strong><br>(Innotus obliquus)</td>
+<td>Wrzody i nieżyty zołądka, guzy błony śluzowej jamy ustnej, białaczka, zahamowanie chorób nowotworowych i zmniejszanie skłonności do przerzutów (rak żołądka i płuc).</td>
+</tr>
+<tr>
+<td><strong>Cząber ogrodowy</strong><br>(Satureja hortensis)</td>
+<td>Na użytek wewnętrzny - astenia, astma, biegunka przewlekła, blednica, bóle gastryczne, glista ludzka, kurcze jelitowe, nadfermentacja jelitowa, niedokwaśność soku żołądkowego, nieżyt przewodu pokarmowego, nerwice żołądka, nerwice ogólne, osłabienie ogólne, pasożyty jelitowe, zapalenie oskrzeli, wzdęcia.<br>Na użytek zewnętrzny - czyraki, guzy, osłabienie słuchu, rany, stłuczenia, ukąszenia owadów, wrzody.</td>
+</tr>
+<tr>
+<td><strong>Chmiel zwyczajny</strong><br>(Humulus lupulus)</td>
+<td>Na użytek wewnętrzny - działanie oczyszczające, moczopędne, pobudzające łaknienie, przeciwszkorbutowe, przeciwgorączkowe, przeciwrobacze, nasenne, wspomagające porost włosów, wskazany przy niedokwaśności, nadmiernej fermentacji jelitowej, wzdęciach, odbijaniu, koi układ nerwowy, zapobiega noznym zmazom.<br>Na użytek zewnętrzny - łagodzi bóle.</td>
+</tr>
+<tr>
+<td><strong>Dziurawiec zwyczajny</strong><br>(Hypericum perforatum)</td>
+<td>Na użytek wewnętrzny - działanie atyseptyczne, hamuje wzrost gronkowca złocistego i innych Gram-dodatnich, ściagające, przeciw nadkwaśne, przeciwskurczowe, moczopędne, balsamiczne, przeciwgorączkowe, robakobójcze, przeciwdepresyjne, przeciw nadcisnieniowe, pobudza łaknienie, poprawia trawienie.<br>Na użytek zewnętrzny - leczenie ropni, zakażonych ran, oparzeń II i III stopnia, wrzodów, ropnych zapaleń, zakażeń skóry, zapaleń sutka, ostrego nieżytu nosa, zapaleń gardła, owrzodzenia żylakowego, bielactwa. Działa napotnie i ściagająco.<br><strong>Uwaga!</strong> - po użyciu absolutnie nie przebywać na słońcu. Grozi ciężkim udarem.</td>
+</tr>
+<tr>
+<td><strong>Głóg dwuszyjkowy</strong><br>(Cartaegus oxyacantha)</td>
+<td>Biegunka, bóle serca, bezsenność, częstoskurcz i arytmia serca, dusznica bolesna, kamica nerkowa i żółciowa, kołatanie serca, kurcze naczyniowe, miażdżyca, nadciśnienie tętnicze, nadmierna pobudliwość, niestrawność, przekrwienie narządów, zawroty głowy na tle nerwicy, szum w uszach, niepokoje.</td>
+</tr>
+<tr>
+<td><strong>Jałowiec pospolity</strong><br>(Juniperus communis)</td>
+<td>Na użytek wewnętrzny - artretyzm, białkomocz, bolesne menstruacje, cukrzyca, dna, dolegliwości dróg moczowych, kamienie moczowe, nadfermentacja jelitowa, puchlina wodna, reumatyzm, skapomocz, stwardnienie tętnic, zmęczenie ogólne i organiczne, upławy białe, nadczynność tarczycy.<br>Na użytek zewnętrzny - dermatozy, bóle zębowe, rany, owrzodzenia, trądzik, wyprysk moknący, nastepstwa paraliżu, dezynfekcja mieszkania.</td>
+</tr>
+<tr>
+<td><strong>Jemioła</strong><br>(Viscum album)</td>
+<td>Obniża ciśnienie, działanie przeciwskurczowe i przeciwkrwotoczne, wczesne stadium choroby nadcisnieniowej, miażdżyca, zaburzenia układu krążenia, krwawienia miesięczne.<br><strong>Uwaga!</strong> - stosować tylko z przepisu i pod kontrolą lekarza.</td>
+</tr>
+<tr>
+<td><strong>Kasztanowiec zwyczajny</strong><br>(Aesculus hippocastanum)</td>
+<td>Hemoroidy, klimakterium, stany zapalne wątroby, gruczołu krokowego, miednicy mniejszej, żylaki nóg, żylak powrózka nasiennego, odmroziny, oparzenia, obrzęki skóry, obrzęki głośni, płuc, krwiaki, zapalenie ścięgna, zakrzepowe zapalenie żył.</td>
+</tr>
+<tr>
+<td><strong>Kminek</strong><br>(Carum carvi)</td>
+<td>Na użytek wewnętrzny - bóle brzucha, brak apetytu, słaba laktacja, skąpa menstruacja, nadfermentacja, nadmierna wrażliwość na środki pobudzające pracę serca i naczyń krwionośnych, niedomogi wątroby, niestrawność, zaburzenia trawienia, pasożyty jelitowe, skurcze żołądka, wrzody żołądka i dwunastnicy, wzdęcia brzucha, zaflegmienie górnych dróg oddechowych, zapalenie oskrzeli i płuc, zaparcia, sensacje żołądkowo-jelitowe, niewydolność pęcherzyka żółciowego.<br>Na użytek zewnętrzny - osłabienie słuchu, pasożyty, świerzb, wypryski skórne i zastoinowe, zapalenie sutka.</td>
+</tr>
+<tr>
+<td><strong>Kozłek lekarski</strong><br>(Valeriana officinalis)</td>
+<td>Astma nerwicowa, bezsenność, częstoskurcz napadowy, zaburzenia czynnościowe, przyspieszone bicie serca na tle nerwowym, bóle głowy, pulsowanie w skroniach, zaburzenia naczyniowo-ruchowe, zawroty głowy, napady padaczkowe częściowe, upośledzenie mowy, wzroku, słuchu, nerwice wegetatywne, przekwitanie, owsiki, niepokój, nadpobudliwość psychiczna i czuciowa, konwulsje dziecęce, neurastenia, histeria, przekrwienie czynne, epilepsja, nadfermentacja jelitowa, omdlenia, wzdęcia, kolka jelitowa, pokrzywka, złe wydzielanie żółci i soku trzustkowego, cukrzyca, dychawica sercowa, świerzb, wyrzuty skórne, zaburzenia układu krążenia, migrena.</td>
+</tr>
+<tr>
+<td><strong>Krwawnik pospolity</strong><br>(Achillea millefolium)</td>
+<td>Na użytek wewnętrzny - działanie gorzkie i ściągajace, żółciopędne, moczopędne, robakobójcze, wykrztusne, przeciwzapalne, pobudza czynności żołądka, poprawia przemianę materii, hamuje krwawienia.<br>Na użytek zewnętrzny - upławy, hemoroidy, bóle reumatyczne, zapalenie skóry i śluzówek, dermatozy, owrzodzenia goleni, pęknięcia sutka, przetoki, rany. Środek dezynfekujący, gojący i przeciwzapalny.</td>
+</tr>
+<tr>
+<td><strong>Lawenda lekarska</strong><br>(Lavandula officinalis)</td>
+<td>Na użytek wewnętrzny - astma, bezsenność, biegunka, blednica, choroby infekcyjne, depresja, dolegliwości dróg oddechowych, gruźlica, drgawki, dur, gorączka z wysypkami na twarzy, grypa, histeria, kaszel napadowy, migreny, nadciśnienie, nadmierna pobudliwość, pozostałość po paraliżu, pasożyty jelitowe, bolesne i skąpe miesiączkowanie, reumatyzm, robaki, skapomocz, rzeżączka, gruźlica węzłów chłonnych, skurcze mięśni, wątłość dziecięca, upławy białe, zapalenie oskrzeli, zawroty głowy, zwiotczenie żołądka i jelit, wzdęcia jelitowe, zapalenie pęcherza moczowego, zmniejszenie łaknienia, nerwice wegetatywne, pobudzenie nerwowe.<br>Na użytek zewnętrzny - rany, wrzody na nogach, przetoka odbytu, kroczowa, egzemy, upławy białe, oparzenia, dolegliwości płucne, trądzik, ukąszenia owadów, ugryzienia zwierząt, wszawica, świerzb, łysienie, przewlekłe bóle mięśniowe i stawowe, zapalenie korzonków nerwowych, nieżyt jamy ustnej, gardła, oskrzeli i przewodów nosowych.</td>
+</tr>
+<tr>
+<td><strong>Lipa szerokolistna</strong><br>(Tilia platyphyllos)</td>
+<td>Skurcze, niestrawność, bezsenność, nerwice, histeria, miażdżyca, infekcje dróg oddechowych, gorączka nosa, gardła.</td>
+</tr>
+<tr>
+<td><strong>Macierzanka piaskowa</strong><br>(Thymus serpyllum)</td>
+<td>Działanie wykrztusne, dezynfekcyjne, ściagające, przeciwzapalne. Pobudza serce i nerwy (neurastenia). Stosowana w suchym kaszlu, blednicy, niedokrwistości, puchlinie wodnej, chorobach pęcherza moczowego, nieżycie żołądka, nieżycie dróg oddechowych, kurczach jelitowych, niedomodze wątroby, biegunkach, wzdęciach, niedokwaśności.</td>
+</tr>
+<tr>
+<td><strong>Majeranek ogrodowy</strong><br>(Origanum majorana)</td>
+<td>Na użytek wewnętrzny - astma, bezsenność, migrena, kurcze mimiczne, kurcze dróg oddechowych, kurcze trawienne, leki, obawy, neurastenia, niezrównoważenie psychiczne, nieżyt żołądka i jelit, paraliż, zapalenie tętnic, zapalenie przewodów nosowych, niedrożność nosa przy oddychaniu.<br>Na użytek zewnętrzny - brak sił, nerwobóle reumatyczne, wątłość, ogólne osłabienie, wycieńczenie, przewlekły katar nosa, przewlekłe zapalenie zatok bocznych nosa.</td>
+</tr>
+<tr>
+<td><strong>Melisa lekarska</strong><br>(Melissa officinalis)</td>
+<td>Na użytek wewnętrzny - migrena wywołana złym trawieniem, nerwobóle twarzy, zębów, ucha, głowy, astma, niedokrwistość, nadmierne bicie serca, bóle serca, drgawki dziecięce, epilepsja, napady nerwowe, pobudliwość, choroby żołądka, omdlenie, zawroty głowy, szum w uszach, anemia, menstruacja bolesna, niestrawność, zaniki pamięci, malancholia, depresja, skurcze, spazmy, bezsenność, uczucie niepokoju, stany zapalne dróg żółciowych i trzyxtki, kolka jelitowa, nadmierne fermentacje i wzdęcia.<br>Na użytek zewnętrzny - ukąszenia owadów, urazy, wrzody, bóle gośćcowe i reumatyczne, rany.</td>
+</tr>
+<tr>
+<td><strong>Mięta pieprzowa</strong><br>(Mentha piperita)</td>
+<td>Na użytek wewnętrzny - bóle brzucha, wzdęcia, brak łaknienia, kolka jelitowa, zapalenie pęcherzyka żółciowego i dróg żółciowych, lekka niewydolność wątroby, kamica żółciowa, żółtaczka, skurcz mięśni jelit i przewodów żółciowych, wymioty, biegunka, opuchlizna, zaburzenia miesiączkowania, nerwice wegetatywne.<br>Na użytek zewnętrzny - nieżyt nosa i obrzęk błony sluzowej, bóle nerwowe, migrenowe, odkażanie i odświeżanie jamy ustnej, nieżyt gardła i oskrzeli, bóle neuralgiczne i mięśniowe, świąd, nieżyt jamy ustnej i oskrzeli.</td>
+</tr>
+<tr>
+<td><strong>Mniszek lekarski</strong><br>(Taraxacum officinale)</td>
+<td>Na użytek wewnętrzny - anemia, astenia, azotermia, dermatoza u wątrobowców, kamica żółciowa i nerkowa, atonia mięśni gładkich, skurcze przewodów żółciowych, nadmiar cholesterolu, zapalenie dróg żółciowych, zapalenie wątroby, niewydolność i marskość wątroby, niewydolność nerek, mocznik we krwi, otyłość, paradentoza, reumatyzm, gościec, skapomocz, szkorbut, miażdżyca tętnic, zapalenie jelita cienkiego i okrężnicy, obrzeki, zaparcia, nadfermentacja jelitowa, zakłócenia krążenia krwi, sinica, żółtaczka, żylaki goleni.<br>Na użytek zewnętrzny - bielmo rogówki i jej zmętnienie, kurzajki, brodawki, piegi.</td>
+</tr>
+<tr>
+<td><strong>Nagietek</strong><br>(Calendula officinalis)</td>
+<td>Na użytek wewnętrzny - stany lekowe, depresja, bóle miesiączkowe, przekrwienie wątroby, owrzodzenie żołądka i jelit, nerwobóle reumatyczne, bóle szyi, mięśni i pleców.<br>Na użytek zewnętrzny - odmrożenia, oparzenia, uszkodzenia skóry, wrzodzianki, brodawki, stany zapalne gardła, jamy ustnej, spojówek, trądzik, egzemy, opryszczka.</td>
+</tr>
+<tr>
+<td><strong>Perz</strong><br>(Agropyron repens)</td>
+<td>Artretyzm, egzemy, blednica, gościec stawowy, kamica żółciowa i moczowa, hemoroidy, nieżyt dróg oddechowych, niedokrwistość, podwyższony poziom cholesterolu, przekwitanie, przewlekłe schorzenia wątroby, skapomocz, żółtaczka, zapalenie dróg moczowych trawiennych, reumatyzm, niedomogi błon śluzowych, narządów wewnetrznych, naczyń krwionośnych, skóry, tkanki łącznej.</td>
+</tr>
+<tr>
+<td><strong>Piołun pospolity</strong><br>(Artemisia absynthium)</td>
+<td>Na użytek wewnętrzny - anemia, atonia żołądka i jelit, kurcze żołądka, brak apetytu, gorączkowanie, wzdęcia, opóźnienia miesiączkowania, pasożyty jelitowe, upławy białe, zaburzenia wątrobowe, zatrucie bielą ołowiową, bolesne miesiączkowanie, biegunka, żółtaczka, reumatyzm, kolka jelitowa, zaparcia, niestrawność.<br>Na użytek zewnętrzny - rany zwiotczałe, wrzody, liszaje, ukąszenia owadów.</td>
+</tr>
+<tr>
+<td><strong>Pokrzywa</strong><br>(Urtica dioica)</td>
+<td>Na użytek wewnętrzny - krwawienia, anemia, krzywica, ogólne osłabienie, wurzuty skórne, oparzenia, zapalenie skóry, klimakterium, gościec, zapelenie stawów, pęcherza, nerek, kamica wątroby, żółtaczka, wrzody żołądka, stany przedcukrzycowe, biegunki, wzdęcia, mimowolne moczenie u dzieci, nieżyt śluzowo-błoniasty jelit.<br>Na użytek zewnętrzny - łojotok skóry głowy, łupież, nadżerki, infekcja jamy ustnej, grzybice skóry, błon śluzowych, guzy, narośla, nowotwory.</td>
+</tr>
+<tr>
+<td><strong>Poziomka pospolita</strong><br>(Fragaria vesca)</td>
+<td>Dolegliwości nerek, zaparcia, bolesne miesiączkowanie, stany zapalne, niedokrwistość, niestrawność, opryszczka jamy ustnej, nieżyt dróg oddechowych, kaszel.</td>
+</tr>
+<tr>
+<td><strong>Róża dzika</strong><br>(Rosa canina)</td>
+<td>Awitaminoza, biegunka, kamica moczowa, krwawienie, osłabienie ogólne, upławy białe, zaparcia, glisty, nieżyt dróg trawiennych, nieżyt pęcherza i dróg moczowych, bezsenność, stany pobudzenia nerwowego.</td>
+</tr>
+<tr>
+<td><strong>Rzepik pospolity</strong><br>(Agrimonia eupatoria)</td>
+<td>Na użytek wewnętrzny - biegunka krwawa, krwioplucie, białkomocz, cukrzyca, astma, otyłość, schorzenia watroby, puchlina wodna, artretyzm, reumatyzm, przeziębienia, upławy białe, robaki obłe, kolka nerkowa, kamica nerkowa, hemoroidy, trądzik, zapalenie spojówek, egzemy, zatrucia pokarmowe u dzieci.<br>Na użytek zewnętrzny - zapalenie jamy ustnej, zwiotczałe rany, zwichnięcia, kontuzje, pleśniawki, rany infekcyjne.</td>
+</tr>
+<tr>
+<td><strong>Skrzyp polny</strong><br>(Equisetum arvense)</td>
+<td>Na użytek wewnętrzny - Skąpomocz, puchlina wodna, zapalenie pęcherza moczowego, infekcje nerkowe, białkomocz, dna, krwotok, krwioplucie, wymioty krwawe, krwiomocz, krwawienie z nosa, krwotok maciczny, biegunka bakteryjna, utrata soli mineralnych, dolegliwości płucne, krzywica, tężyczka, astenia, złamania, uszkodzenia i rany kostne, niewydolność miesiączkowania, nadciśnienie tętnicze, mizżdżyca tętnic, artroza, nierwowość, stany nowotworowe, łysienie, padaczka.<br>Na użytek zewnętrzny - rany, owrzodzenia nóg, nowotwór owrzodzony, afty, ciężko gojace się rany, odmroziny.</td>
+</tr>
+<tr>
+<td><strong>Ślaz leśny</strong><br>(Malva silvestris)</td>
+<td>Na użytek wewnętrzny - katar, zapalenie dróg oddechowych, nieżyt przewodu trawiennego, wrzody żołądka i dwunastnicy, nerwica żołądka.<br>Na użytek zewnętrzny - wrzody, oparzenia, zapalenie spojówek, stany zapalne jamy ustnej.</td>
+</tr>
+<tr>
+<td><strong>Świetlik lekarski</strong><br>(Euphrasia rostkoviana)</td>
+<td>Schorzenia siatkówki, zapalenie spojówek, zapalenie tęczówki, łzawienie, reguluje ciśnienie w gałce ocznej, wiosenne zapalenie spojówek, uporczywe stany zapalne brzegów i skóry powiek.</td>
+</tr>
+<tr>
+<td><strong>Szałwia lekarska</strong><br>(Salvia officinalis)</td>
+<td>Na użytek wewnętrzny - astenia, astma, biegunka, bezpłodność, brak sił, bóle i zawroty głowy, neurastenia, brak łaknienia, apopleksja z krwotokiem, dolegliwości nerkowe, drgawki, paraliż, chroniczny nieżyt oskrzeli, obfite pocenie się rąk, niedociśnienie, zaburzenia miesiączkowania, zapalenie węzłów chłonnych pachy, przerost układu chłonnego, zapalenie oskrzeli, chroniczny nieżyt żołądka, schorzenia wątroby, płuc, dróg moczowych, skurcz jelit, niedokwaśność żołądka, począki cukrzycy, nadmierna pobudliwość nerwowa, nadczynność tarczycy, zatrucia pokarmowe, dychawica oskrzelowa u starszych, kamica moczowa.<br>Na użytek zewnętrzny - angina, astma, rany i owrzodzenia, ból zęba, białe upławy, debilność dziecięca, dermatozy, swędzenie pochwy, ukąszenie osy, łysienie, zapalenie jamy ustnej, zapalenie krtani, skrofuloza, stany zapalne jamy ustnej i gardła, swędzące wypryski, stłuczenia, lekkie oparzenia, żylaki nóg, podudzi, odbytu, czyraki, drobne skaleczenia.</td>
+</tr>
+<tr>
+<td><strong>Tatarak zwyczajny</strong><br>(Acorus calamus)</td>
+<td>Na użytek wewnętrzny - atonia trawienia, zwiotczenie zołądka, zapalenie żołądka i jelit, wzdęcia, zaburzenia miesiączkowania, skąpomocz, artretyzm, dna, krzywica, skrofuloza, kaszel, reumatyzm, dolegliwości wątroby i pęcherzyka żółciowego, dolegliwości węzłów chłonnych, bóle nerek, brak łaknienia, stany wyczerpania nerwowego, niepokoju i trudności w zasypianiu.<br>Na użytek zewnętrzny - dolegliwości jamy ustnej i jej błony śluzowej, gardła, łojotokowe zapalenie skóry, wypadanie włosów, łupież.</td>
+</tr>
+<tr>
+<td><strong>Tymianek</strong><br>(Thymus vulgaris)</td>
+<td>Na użytek wewnętrzny - podwyższa ciśnienie krwi, działa moczopędnie, napotnie, wiatropędnie, lekko hipnotyzująco, przeciwrobaczo, przeciwzakrzepowo, przeciwkaszlowo, przeciwbólowo, ściągająco, przeciwwzdęciowo, ściągająco, przeciwkrwawieniowo, przeciwastmatycznie, wywołuje miesiączkowanie, pobudza leukocytozę, jest afrodyzjakiem, konserwuje żywność.<br>Na użytek zewnętrzny - środek bakteriobójczy, przeciwgnilny, przeciwreumatyczny, przeciwpasożytniczy, przyspiesza zabliźnianie się trudno gojących się ran, niszczy drożdżaki i grzybki, przeciwdziała jadowi żmiji.</td>
+</tr>
+</tbody></table></div>
 <p><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/smierc.gif" alt="" loading="lazy" decoding="async"></p>
 <p><strong>Należy bezwzględnie być ostrożnym przy zbieraniu oraz używaniu bez kontroli lakarza wymienionych ziół</strong> - wrotycz, arnika, pokrzyk wilcza jagoda, bieluń, paprotka słodka, psianka, mak lekarski, miłek wiosenny, konwalia, kopytnik, glistnik, ciemiernik, sasanka, ciemiężyca, zimowit, lulek czarny, szalej, blekot, tojad, naparstnica, kokoryczka, cieciorka pstra, ostróżeczka polna, ostróżeczka wymiotna, przestęp pospolity, przestęp biały, kropidło wodne, stroiczka rozdęta, kolcowój szkarłatny, żarnowiec miotlasty, czworolist pospolity, konitrud błotny, wilczomlecz, narecznica samcza, śnieguliczka biała, bagno zwyczajne, starzec zwyczajny i jemioła.</p>
-<p><strong>Mieszanki ziołowe Herbapolu</strong></p>
-<p><strong>Cardiosan</strong></p>
-<p>Wskazania - osłabienie mięśnia sercowego, niwydolność układu krążenia, duszność wysiłkowa, zaburzenia krążenia na tle miażdżycy, zaburzenia układu neurowegetatywnego, migotanie i trzepotanie przedsionków.<br>Skład - ziele konwalii, ziele żarnowca, ziele jemioły, ziele skrzypu, ziele serdecznika, kwiat głogu z liśćmi, korzeń lubczyka, kłącze kozłka lekarskiego, owoc dzikiej róży.</p>
-<p><strong>Cholagoga I</strong></p>
-<p>Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy stolcu miękkim.<br>Skład - owoc jałowca, ziele dziurawca, ziele rdestu ptasiego.</p>
-<p><strong>Cholagoga II</strong></p>
-<p>Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy stolcu normalnym.<br>Skład - kwiat kocanki piaskowej, korzeń mniszka, liść mięty pieprzowej, ziele krwawnika, kora kruszyny, ziele glistnika.</p>
-<p><strong>Cholagoga III</strong></p>
-<p>Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy zaparciach.<br>Skład - owoc jałowca, ziele dziurawca, ziele rdestu ptasiego, kora kruszyny, owoc kminku, liść mięty pieprzowej.</p>
-<p><strong>Degrosan</strong></p>
-<p>Wskazania - wadliwa przemiana materii, otyłość, zaburzenia czynności gruczołów wewnętrznego wydzielania, wypryski skórne, trądzik.<br>Skład - morszczyn, korzeń mniszka, kłącze perzu, ziele krwawnika, ziele bratka, kora kruszyny, kwiat lipy.</p>
-<p><strong>Diabetosan</strong></p>
-<p>Wskazania - lżejsze postacie cukrzycy (leczenie pomocnicze), wadliwa przemiana materii, nieżyt przewodu pokarmowego.<br>Skład - ziele rutwicy, strączki fasoli, liść borówki czernicy, liść pokrzywy, liść szałwii, korzeń mniszka.</p>
-<p><strong>Digestosan</strong></p>
-<p>Wskazania - brak łaknienia, niestrawność, zgaga, nudności, wzdęcia, zaburzenia w wydzielaniu soków trawiennych, atonia żołądka.<br>Skład - ziele drapacza, liść bobrka trójlistnego, korzeń żywokostu, liść mięty pieprzowej, owoc kminku, ziele krwawnika.</p>
-<p><strong>Nervosan</strong></p>
-<p>Wskazania - nadmierna pobudliwość nerwowa, stany podniecenia, nerwice układu wegetatywnego, bezsenność, histeria, zaburzenia pokwitania i przekwitania.<br>Skład - kłącze kozłka lekarskiego, kwiat rumianku pospolitego, ziele krwawnika, ziele mięty pieprzowej, ziele melisy.</p>
-<p><strong>Normosan</strong></p>
-<p>Wskazania - zaparcia (zwłaszcza nawykowe), niestrawność, otyłość, wzdęcia, zaburzenia w trawieniu i przyswajaniu pokarmów, wadliwa przemiana materii.<br>Skład - kora kruszyny, liść senesu, kłącze perzu, owoc kminku, liść mięty pieprzowej, owoc bzu czarnego, korzeń mniszka.</p>
-<p><strong>Neonormosan</strong></p>
-<p>Wskazania - zaparcia, otyłość, zła przemiana materii.<br>Skład - kłącze rzewienia, kłącze perzu, owoc kminku, liść mięty pieprzowej, owoc bzu czarnego, korzeń mniszka.</p>
-<p><strong>Pektosan</strong></p>
-<p>Wskazania - nieżyt górnych dróg oddechowych i oskrzeli, rozedma płuc, dychawica oskrzelowa, stany astmatyczne.<br>Skład - korzeń omanu, liść szałwii, liść przwoślazu, liść podbiału, owoc kopru włoskiego.</p>
-<p><strong>Neopektosan</strong></p>
-<p>Wskazania - niezyt górnych dróg oddechowych i oskrzeli, rozedma płuc, dychawica oskrzelowa, stany astmatyczne.<br>Skład - liść szałwii, korzeń prawoślazu, liść podbiału, owoc kopru włoskiego, ziele tymianku, korzeń żywokostu, liść prawoślazu.</p>
-<p><strong>Pulmosan</strong></p>
-<p>Wskazania - środek pomocniczy przy zaburzeniach płucnych, przewlekła gruźlica, rozedma płuc z zespołem sercowo-płucnym, stany ozdrowieńcze po chorobach płuc, pylicach.<br>Skład - ziele rdestu ptasiego, ziele skrzypu, korzeń mniszka, kwiat krwawnika, kwiat słonecznika.</p>
-<p><strong>Pyrosan</strong></p>
-<p>Wskazania - Stan gorączkowy, przeziębienie, grypa, nieżyt górnych dróg oddechowych, bóle mięśniowe.<br>Skład - kwiat rumianku pospolitego, owoc maliny, pączki topoli, liść brzozy, kwiat lipy, kora brzozy, kwiat bzu czarnego.</p>
-<p><strong>Rektosan</strong></p>
-<p>Wskazania - guzy krwawnicowe, pęknięcia odbytu, ropnie okołoodbytowe.<br>Skład - kwiat krwawnika, owoc kminku, owoc jarzębiny, korzeń żywokostu, kora kruszyny, kwiat kasztanowca, nasiona kozieradki, ziele bratka polnego.</p>
-<p><strong>Reumosan</strong></p>
-<p>Wskazania - przewlekłe i ostre choroby gośćcowe, gościec stawowy i mięśniowy, newralgie.<br>Skład - liść brzozy, kora wierzby, ziele rdestu ptasiego, liść pokrzywy, kwiat tawuły łąkowej, ziele skrzypu.</p>
-<p><strong>Septosan</strong></p>
-<p>Wskazania - ostre i przewlekłe stany zapalne jamy ustnej i gardła, zapalenie dziąseł, zapalenie migdałów, angina.<br>Skład - liść miety pieprzowej, liść szałwii, ziele tymianku.</p>
-<p><strong>Sklerosan</strong></p>
-<p>Wskazania - nadciśnienie, skleroza naczyń, zaburzenia krążenia obwodowego, wadliwa przemiana materii u osób starczych, zmiany starcze.<br>Skład - Kwiat głogu z liściem, owoc głogu, owoc jarzębiny, morszczyn, ziele krwawnika, kora kruszyny, ziele jemioły, ziele rdestu ptasiego.</p>
-<p><strong>Tannosan</strong></p>
-<p>Wskazania - przewlekła biegunka, ostre i przewlekłe nieżyty jelit, bóle przewodu pokarmowego, wzdęcia, nadmierna ilość śluzu w stolcu.<br>Skład - kłącze pięciornika, owoc borówki czernicy, liść mięty pieprzowej, kwiat rumianku rzymskiego, liść szałwi.</p>
-<p><strong>Urosan</strong></p>
-<p>Wskazania - zapalenie nerek i pęcherza moczowego, skąpomocz, obrzęki, kamica nerkowa, nieżyt miedniczek nerkowych, nieżyt przewodu moczowego.<br>Skład - ziele skrzypu polnego, liść brzozy, liść borówki brusznicy, korzeń podróżnika.</p>
-<p><strong>Vagosan</strong></p>
-<p>Wskazania - irygacja i przemywanie przy upławach, stany zapalne pochwy na tle bakteryjnym.<br>Skład - ziele rdestu ptasiego, liść szałwii, liść pokrzywy, kora dębu, kwiat rumianku pospolitego, kwiat nagietka.</p>
-<p><strong>Podział ziół względem zastosowania</strong></p>
+<p class="rozdzial" id="r-6"><strong>Mieszanki ziołowe Herbapolu</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Cardiosan</strong></th>
+<th>Wskazania - osłabienie mięśnia sercowego, niwydolność układu krążenia, duszność wysiłkowa, zaburzenia krążenia na tle miażdżycy, zaburzenia układu neurowegetatywnego, migotanie i trzepotanie przedsionków.<br>Skład - ziele konwalii, ziele żarnowca, ziele jemioły, ziele skrzypu, ziele serdecznika, kwiat głogu z liśćmi, korzeń lubczyka, kłącze kozłka lekarskiego, owoc dzikiej róży.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Cholagoga I</strong></td>
+<td>Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy stolcu miękkim.<br>Skład - owoc jałowca, ziele dziurawca, ziele rdestu ptasiego.</td>
+</tr>
+<tr>
+<td><strong>Cholagoga II</strong></td>
+<td>Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy stolcu normalnym.<br>Skład - kwiat kocanki piaskowej, korzeń mniszka, liść mięty pieprzowej, ziele krwawnika, kora kruszyny, ziele glistnika.</td>
+</tr>
+<tr>
+<td><strong>Cholagoga III</strong></td>
+<td>Wskazania - nieżyty dróg żółciowych, zaburzenia czynnościowe wątroby, stany zapalne woreczka i dróg żółciowych, kamica wątrobowa i żółciowa, żółtaczka, zaburzenia trawienne na tle niedostatecznego wydzielania żółci. Przy zaparciach.<br>Skład - owoc jałowca, ziele dziurawca, ziele rdestu ptasiego, kora kruszyny, owoc kminku, liść mięty pieprzowej.</td>
+</tr>
+<tr>
+<td><strong>Degrosan</strong></td>
+<td>Wskazania - wadliwa przemiana materii, otyłość, zaburzenia czynności gruczołów wewnętrznego wydzielania, wypryski skórne, trądzik.<br>Skład - morszczyn, korzeń mniszka, kłącze perzu, ziele krwawnika, ziele bratka, kora kruszyny, kwiat lipy.</td>
+</tr>
+<tr>
+<td><strong>Diabetosan</strong></td>
+<td>Wskazania - lżejsze postacie cukrzycy (leczenie pomocnicze), wadliwa przemiana materii, nieżyt przewodu pokarmowego.<br>Skład - ziele rutwicy, strączki fasoli, liść borówki czernicy, liść pokrzywy, liść szałwii, korzeń mniszka.</td>
+</tr>
+<tr>
+<td><strong>Digestosan</strong></td>
+<td>Wskazania - brak łaknienia, niestrawność, zgaga, nudności, wzdęcia, zaburzenia w wydzielaniu soków trawiennych, atonia żołądka.<br>Skład - ziele drapacza, liść bobrka trójlistnego, korzeń żywokostu, liść mięty pieprzowej, owoc kminku, ziele krwawnika.</td>
+</tr>
+<tr>
+<td><strong>Nervosan</strong></td>
+<td>Wskazania - nadmierna pobudliwość nerwowa, stany podniecenia, nerwice układu wegetatywnego, bezsenność, histeria, zaburzenia pokwitania i przekwitania.<br>Skład - kłącze kozłka lekarskiego, kwiat rumianku pospolitego, ziele krwawnika, ziele mięty pieprzowej, ziele melisy.</td>
+</tr>
+<tr>
+<td><strong>Normosan</strong></td>
+<td>Wskazania - zaparcia (zwłaszcza nawykowe), niestrawność, otyłość, wzdęcia, zaburzenia w trawieniu i przyswajaniu pokarmów, wadliwa przemiana materii.<br>Skład - kora kruszyny, liść senesu, kłącze perzu, owoc kminku, liść mięty pieprzowej, owoc bzu czarnego, korzeń mniszka.</td>
+</tr>
+<tr>
+<td><strong>Neonormosan</strong></td>
+<td>Wskazania - zaparcia, otyłość, zła przemiana materii.<br>Skład - kłącze rzewienia, kłącze perzu, owoc kminku, liść mięty pieprzowej, owoc bzu czarnego, korzeń mniszka.</td>
+</tr>
+<tr>
+<td><strong>Pektosan</strong></td>
+<td>Wskazania - nieżyt górnych dróg oddechowych i oskrzeli, rozedma płuc, dychawica oskrzelowa, stany astmatyczne.<br>Skład - korzeń omanu, liść szałwii, liść przwoślazu, liść podbiału, owoc kopru włoskiego.</td>
+</tr>
+<tr>
+<td><strong>Neopektosan</strong></td>
+<td>Wskazania - niezyt górnych dróg oddechowych i oskrzeli, rozedma płuc, dychawica oskrzelowa, stany astmatyczne.<br>Skład - liść szałwii, korzeń prawoślazu, liść podbiału, owoc kopru włoskiego, ziele tymianku, korzeń żywokostu, liść prawoślazu.</td>
+</tr>
+<tr>
+<td><strong>Pulmosan</strong></td>
+<td>Wskazania - środek pomocniczy przy zaburzeniach płucnych, przewlekła gruźlica, rozedma płuc z zespołem sercowo-płucnym, stany ozdrowieńcze po chorobach płuc, pylicach.<br>Skład - ziele rdestu ptasiego, ziele skrzypu, korzeń mniszka, kwiat krwawnika, kwiat słonecznika.</td>
+</tr>
+<tr>
+<td><strong>Pyrosan</strong></td>
+<td>Wskazania - Stan gorączkowy, przeziębienie, grypa, nieżyt górnych dróg oddechowych, bóle mięśniowe.<br>Skład - kwiat rumianku pospolitego, owoc maliny, pączki topoli, liść brzozy, kwiat lipy, kora brzozy, kwiat bzu czarnego.</td>
+</tr>
+<tr>
+<td><strong>Rektosan</strong></td>
+<td>Wskazania - guzy krwawnicowe, pęknięcia odbytu, ropnie okołoodbytowe.<br>Skład - kwiat krwawnika, owoc kminku, owoc jarzębiny, korzeń żywokostu, kora kruszyny, kwiat kasztanowca, nasiona kozieradki, ziele bratka polnego.</td>
+</tr>
+<tr>
+<td><strong>Reumosan</strong></td>
+<td>Wskazania - przewlekłe i ostre choroby gośćcowe, gościec stawowy i mięśniowy, newralgie.<br>Skład - liść brzozy, kora wierzby, ziele rdestu ptasiego, liść pokrzywy, kwiat tawuły łąkowej, ziele skrzypu.</td>
+</tr>
+<tr>
+<td><strong>Septosan</strong></td>
+<td>Wskazania - ostre i przewlekłe stany zapalne jamy ustnej i gardła, zapalenie dziąseł, zapalenie migdałów, angina.<br>Skład - liść miety pieprzowej, liść szałwii, ziele tymianku.</td>
+</tr>
+<tr>
+<td><strong>Sklerosan</strong></td>
+<td>Wskazania - nadciśnienie, skleroza naczyń, zaburzenia krążenia obwodowego, wadliwa przemiana materii u osób starczych, zmiany starcze.<br>Skład - Kwiat głogu z liściem, owoc głogu, owoc jarzębiny, morszczyn, ziele krwawnika, kora kruszyny, ziele jemioły, ziele rdestu ptasiego.</td>
+</tr>
+<tr>
+<td><strong>Tannosan</strong></td>
+<td>Wskazania - przewlekła biegunka, ostre i przewlekłe nieżyty jelit, bóle przewodu pokarmowego, wzdęcia, nadmierna ilość śluzu w stolcu.<br>Skład - kłącze pięciornika, owoc borówki czernicy, liść mięty pieprzowej, kwiat rumianku rzymskiego, liść szałwi.</td>
+</tr>
+<tr>
+<td><strong>Urosan</strong></td>
+<td>Wskazania - zapalenie nerek i pęcherza moczowego, skąpomocz, obrzęki, kamica nerkowa, nieżyt miedniczek nerkowych, nieżyt przewodu moczowego.<br>Skład - ziele skrzypu polnego, liść brzozy, liść borówki brusznicy, korzeń podróżnika.</td>
+</tr>
+<tr>
+<td><strong>Vagosan</strong></td>
+<td>Wskazania - irygacja i przemywanie przy upławach, stany zapalne pochwy na tle bakteryjnym.<br>Skład - ziele rdestu ptasiego, liść szałwii, liść pokrzywy, kora dębu, kwiat rumianku pospolitego, kwiat nagietka.</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-7"><strong>Podział ziół względem zastosowania</strong></p>
 <p>Zioła, warzywa i owoce, które można stosować zamiennie na dane schorzenie, podzielone na 36 zestawów objawowo-skutkowych. Jeśli chcemy zastosować specyfik działający np. bakteriobójczo, wybieramy jeden z zestawu, który akurat jest dla nas dostępny (np. kwiat rumianku <strong>lub</strong> liść mącznicy <strong>lub</strong> kora wierzby <strong>lub</strong>... itd.). Na podstawie &quot;Apteki natury&quot; Jadwigi Górnickiej.</p>
-<p><strong>Bakteriobójcze</strong>  </p>
-<p>czosnek, cebula, majeranek.<br>kwiat - rumianku pospolitego, wrotyczu.<br>liść - mącznicy, borówki, owoce czarnej jagody.<br>ziele - piołunu, dziurawca, szanty, mięty, szałwii, macierzanki, tymianku.<br>kora - wierzby.<br>korzeń - omanu.<br>kłącze - kosaćca.</p>
-<p><strong>Gojenie ran i skaleczeń</strong>  </p>
-<p>pączek - topoli.<br>kwiat - nagietka, jasnoty, rumianku pospolitego.<br>liść - orzecha włoskiego.<br>ziele - drapacza, dziurawca, lnicy, rdestu ptasiego, szałwii.<br>korzeń - żywokostu.</p>
-<p><strong>Hamowanie krwawień</strong><br>wewnętrznych i zewnętrznych</p>
-<p>liść - pokrzywy, barwinka.<br>ziele - krwawnika, tasznika, skrzypu, rdestu ptasiego, rdestu ostrogorzkiego.<br>kora - kaliny.<br>kłącze - pięciornika.</p>
-<p><strong>Oczyszczanie krwi</strong><br>ze złogów i pozostałości po zatruciach</p>
-<p>kwiat - stokrotki, kocanki.<br>liść - barwinka, borówki, maliny, brzozy.<br>ziele - bratka polnego, przetacznika, poziomli, bluszczyku, skrzypu, drapacza, ogórecznika.<br>korzeń - łopianu.<br>szyszka - chmielu.<br>nasiona - kozieradki.</p>
-<p><strong>Moczopędne</strong><br>czyszczą i leczą nerki, poprawiają ich pracę i znoszą parcie na mocz</p>
-<p>pączek - topoli.<br>kwiat - stokrotki, wrzosu, bławatka, kocanki, jasnoty, bzu czarnego, lipy.<br>owoc - kminku, jarzębiny, jałowca, dzikiej róży.<br>liść - mącznicy, brzozy, brusznicy, czarnej jagody.<br>ziele - połonicznika, skrzypu, poziomki, rutwicy, drapacza, rzepiku, piołunu, bylicy pospolitej, macierzanki, nawłoci, werbeny, bratka polnego, hyzopu, nostrzyka, bazulii, rdestu ptasiego, płucnika-miodunki, cząbru, pokrzywy, przetacznika.<br>korzeń - łopianu, podróżnika, lukrecji, mydlnicy, omanu, kosaćca, lubczyka, goryszu, pietruszki.<br>kłącze - perzu, tataraku.<br>szyszki - chmielu.<br>strączyny - fasoli.<br>nasiona - pietruszki, czarnuszki.<br>znamię - kukurydzy.</p>
-<p><strong>Mlekopędne</strong><br>nieodzowne dla karmiących matek we wszystkich kłopotach laktacyjnych</p>
-<p>kminek, koper włoski, anyż.<br>liść - barwinka.<br>ziele - rutwicy, bazylii.<br>nasiona - pietruszki.</p>
-<p><strong>Napotne</strong><br>wskazane przy wszystkich rodzajach przeziębień</p>
-<p>pączek - topoli.<br>kwiat - lipy, bzu czarnego, wrzosu, nawłoci.<br>owoc - maliny, bzu czarnego.<br>liść - brzozy.<br>ziele - przetacznika, rutwicy, ogórecznika, bratka polnego.<br>korzeń - łopianu, omanu, goryszu, pietruszki.<br>kłącze - tataraku.<br>nasiona - pietruszki.</p>
-<p><strong>Nasenne i uspokajające</strong>  </p>
-<p>kwiat - lawendy.<br>liść - melisy, barwinka.<br>ziele - nostrzyka, macierzanki, kurzego śladu.<br>korzeń - kozłka.<br>szyszki - chmielu.</p>
-<p><strong>Obniżenie ciśnienia krwi</strong>  </p>
-<p>cebula, czosnek, biała skórka cytryny, żurawiny.<br>liść - barwinka.<br>ziele - jemioły.</p>
-<p><strong>Działanie osłaniające</strong><br>przy podrażnieniach układu oddechowego i trawiennego</p>
-<p>kwiat - lipy, dziewanny.<br>liść - ślazu, babki, podbiału.<br>korzeń - ślazu, żywokostu.<br>nasiona - gorczycy, kozieradki, lnu (siemię lniane).</p>
-<p><strong>Pobudzenie czynności żołądka</strong>  </p>
-<p>majeranek.<br>kwiat - lawendy, rumianku pospolitego.<br>liść - melisy, bobrka.<br>ziele - krwawnika, dziurawca, przywrotnika, drapacza, szanty, miety, bazylii, cząbru, nawłoci, przetacznika.<br>korzeń - lubczyka, goryszu, mydlnicy, mniszka.<br>kłącze - pięciornika, rzewienia.<br>nasiona - kozieradki.</p>
-<p><strong>Przeciwkrwawnicowo</strong><br>do stosowania doustnego przy jednoczesnym działaniu z zewnątrz</p>
-<p>cebula surowa, śliwki suszone.<br>ziele - krwawnika, drapacza.<br>kora - kasztanowca.<br>korzeń - żywokostu.<br>nasiona - zmielone siemię lniane.<br><strong>Do stosowania zewnętrznego w okładach:</strong><br>cebula gotowana.<br>kwiat - rumianku.</p>
-<p><strong>Pobudzenie serca i nerwów</strong>  </p>
-<p>kwiat - głogu.<br>liść - rozmarynu.<br>ziele - dziurawca, hyzopu, bazylii.<br>korzeń - goryszu.</p>
-<p><strong>Przeciwartretyczne</strong>  </p>
-<p>liść - czarnej porzeczki.<br>ziele - rzepiku.<br>kora - wierzby.<br>nasiona - czarnuszki.<br>gąbka słodkowodna.</p>
-<p><strong>Przeciwcukrzycowe</strong><br>profilaktyka, leczenie cukrzycy i stanów przedcukrzycowych</p>
-<p>cebula surowa i gotowana.<br>liść - pokrzywy, czarnej jagody, orzecha włoskiego.<br>ziele - rdestu ptasiego, dziurawca, krwawnika, szałwii, glistnika, rutwicy.<br>korzeń - mniszka, łopianu.<br>kłącze - perzu.<br>strączyny - fasoli.</p>
-<p><strong>Przeciwgorączkowe</strong>  </p>
-<p>kwiat - lipy, bzu czarnego, rumianku rzymskiego i pospolitego, słonecznika (same płatki).<br>owoc - czarnej jagody.<br>liść - mięty, bobrka.<br>ziele - tysiącznika, drapacza.<br>kora - wierzby, kasztanowca.  </p>
-<p><strong>Przeciwgośćcowe</strong>  </p>
-<p>kwiat - tawuły łąkowej.<br>liść - brzozy, czarnej porzeczki.<br>ziele - skrzypu.<br>kora - wierzby.<br>nasiona - czarnuszki, gorczycy białej (suche okłady).<br>gąbka słodkowodna.</p>
-<p><strong>Przeciwrobacze</strong>  </p>
-<p>czosnek.<br>kwiat - wrotyczu.<br>owoc - czarnej jagody, borówki brusznicy.<br>ziele - piołunu, macierzanki, tymianku.<br>nasiona - dyni.</p>
-<p><strong>Przeciwzapalne</strong><br>do użytku wewnętrznego</p>
-<p>kwiat - rumianku pospolitego i rzymskiego, nagietka, bławatka.<br>ziele - srebrnika, świetlika.</p>
-<p><strong>Przeciwzapalne</strong><br>do użytku zewnętrznego (okłady z naparu)</p>
-<p>majeranek, cebula gotowana.<br>kwiat - rumianku pospolitego.<br>liść - babki.<br>ziele - hyzopu, lnicy, szałwii.<br>kłącze - pięciornika.</p>
-<p><strong>Przeciwskurczowe</strong>  </p>
-<p>majeranek, anyż, kminek, koper włoski.<br>kwiat - lawendy, rumianku pospolitego, lipy, dziewanny.<br>owoc - kolendry, bzu czarnego.<br>ziele - jaskółczego ziela, połonicznika, nostrzyka, bazylii, srebrnika, szałwii, macierzanki, tymianku, werbeny.<br>kora - wierzby.<br>korzeń - goryszu.<br>znamię - kukurydzy.</p>
-<p><strong>Przeciwalergiczne</strong>  </p>
-<p>kwiat - rumianku.<br>ziele - dziurawca.<br>korzeń - kozłka.<br>można stosować łącznie.</p>
-<p><strong>Stany zapalne jelit</strong>  </p>
-<p>kwiat - rumianku.<br>ziele - dziurawca, krwawnika.<br>korzeń - lukrecji.</p>
-<p><strong>Przeczyszczające i rozwalniające</strong>  </p>
-<p>kwiat - kocanki.<br>owoc - bzu czarnego.<br>ziele - tysiącznika, lnicy.<br>kora - kruszyny.<br>kłącze - rzewienia.<br>strączki - senesu.<br>nasiona - lnu (siemie lniane).</p>
-<p><strong>Przeciwszkorbutowe</strong>  </p>
-<p>korzeń chrzanu.<br>owoc - dzikiej róży, jarzębiny.<br>liść - orzecha włoskiego.<br>ziele - bluszczyku.</p>
-<p><strong>Regeneracja śluzówki</strong><br>dróg oddechowych i trawiennych</p>
-<p>śliwki suszone.<br>liść - podbiału.<br>ziele - bukwicy, rzepiku.<br>korzeń - żywokostu.<br>nasiona - lnu (siemie lniane).</p>
-<p><strong>Regulacja menstruacji</strong>  </p>
-<p>kminek, czarnuszka.<br>kwiat - nagietka, jasnoty białej, koniczyny, wrotyczu.<br>ziele - dziurawca, szanty, szałwii, tymianku.<br>korzeń - lubczyka.<br>nasiona - pietruszki.</p>
-<p><strong>Ściągające (przeciwbiegunkowe)</strong>  </p>
-<p>kwiat - rumianku.<br>owoc - dzikiej róży, jarzębiny, czarnej jagody.<br>liść - orzecha włoskiego, czarnej porzeczki, maliny, pokrzywy, czarnej jagody, borówki, barwinka.<br>ziele - rzepiku, przywrotnika, świetlika, dziurawca, rdestu ptasiego, srebrnika, płucnika-miodunki, szałwii, cząbru, nawłoci, macierzanki, tymianku, werbeny, przetacznika.<br>kora - dębu, kasztanowca, wierzby.<br>korzeń - kulika, zywokostu.<br>kłącze - pięciornika.</p>
-<p><strong>Trawienne</strong>  </p>
-<p>majeranek, czosnek, cebupa, kminek, kolendra, koper włoski, chrzan.<br>kwiat - rumianku, wrzosu, kocanki, lawendy.<br>owoc - jałowca.<br>liść - pokrzywy.<br>ziele - bylicy bożodrzewu, piołunu, bylicy pospolitej, macierzanki, tysiącznika, drapacza, dziurawca, hyzopu, nostrzyka, szałwii, nawłoci, przetacznika.<br>korzeń - arcydzięgiela, podróżnika.<br>kłącze - tataraku.<br>szyszki - chmielu.<br>nasiona - czarnuszki, gorczycy.</p>
-<p><strong>Uspokojenie układu nerwowego</strong>  </p>
-<p>owoc - dzikiej róży.<br>ziele - bylicy pospolitej, macierzanki.<br>korzeń - kozłka, arcydzięgiela.</p>
-<p><strong>Uśmierzenie bólu</strong>  </p>
-<p>kwiat - rumianku.<br>owoc - kasztanowca.<br>liść - mięty, barwinka.<br>ziele - nostrzyka.</p>
-<p><strong>Niedomaganie wątroby</strong>  </p>
-<p>owoc - jałowca, dzikiej róży, bzu czarnego.<br>liść - bobrka, rozmarynu.<br>ziele - dziurawca, krwawnika, tysiącznika, glistnika, dymnicy, lawendy.<br>kora - kruszyny.<br>korzeń - podróżnika, mniszka.<br>kłącze - rzewienia.<br>znamię - kukurydzy.</p>
-<p><strong>Wykrztuśne i przeciwkaszlowe</strong>  </p>
-<p>surowa i gotowana cebula, koper włoski, anyż, majeranek.<br>kwiat - kasztanowca.<br>liść - podbiału.<br>ziele - bluszczyku, połonicznika, hyzopu, szanty, płucnika-miodunki, macierzanki, tymianku, przetacznika, bratka polnego.<br>korzeń - arcydzięgiela, lukrecji, omanu, mydlnicy.<br>kłącze - tataraku, kosaćca.<br>nasiona - kozieradki.</p>
-<p><strong>Wzmacniające</strong>  </p>
-<p>kminek, kolendra.<br>kwiat - stokrotki.<br>owoc - dzikiej róży.<br>liść - czarnej porzeczki, maliny, pokrzywy, barwinka.<br>ziele - rzepiku, krwawnika, bylicy bożodrzewu, piołunu, bylicy pospolitej, bukwicy, świetlika, bluszczyku, dziurawca, macierzanki, tymianku, werbeny, przetacznika, bratka polnego.<br>korzeń - podróżnika, kuklika, goryszu, mniszka.<br>szyszki - chmielu.<br>nasiona - kozieradki, lnu (siemię lniane).</p>
-<p><strong>Lepsza przemiana materii</strong>  </p>
-<p>liść - orzecha włoskiego.<br>ziele - rzepiku, poziomki, dymnicy, dziurawca, krwawnika.<br>kłącze - perzu.<br>nasiona - kozieradki.<br>znamię - kukurydzy.<br>gąbka słodkowodna.</p>
-<p><strong>Nadmierna fermentacja i wzdęcia</strong>  </p>
-<p>kminek, koper włoski, anyż.<br>kwiat - lawendy, rumianku pospolitego.<br>liść - mięty, maliny.<br>ziele - cząbru.<br>korzeń - arcydzięgiela, lubczyka, goryszu.<br>nasiona - pietruszki.</p>
-<p><strong>Kąpiele lecznicze</strong></p>
-<p><strong>Zastosowanie</strong><br>Bóle w plecach, krzyżu, stawach, przeciwzapalne, ogólnie wzmacniające.</p>
-<p>Czas trwania - 15-20 minut, temperatura - 35-37°C.<br>Dodać do wody - 300 g kwiatu rumianku zaparzyć w 5 litrach wrzątku i pozostawić na 2 godziny. Następnie przecedzić i wlać do wanny.</p>
-<p><strong>Zastosowanie</strong><br>Niskie ciśnienie, astma, bronchit, choroby skóry, przeciwzapalne, oczyszcza stawy.</p>
-<p>Czas trwania - 15-20 minut, temperatura - 34°C.<br>Dodać do wody - 200 g liści szałwii zaparzyć w 5 litrach wrzątku i pozostawić na 2 godziny. Następnie przecedzić i wlać do wanny.</p>
-<p><strong>Zastosowanie</strong><br>Bóle kręgosłupa, kości, obrzęki kończyn.</p>
-<p>Czas trwania - 15-20 minut, temperatura - 38°C.<br>Dodać do wody - 1,5 kg gałązek świerku gotować w 5 litrach wodu przez 30 minut. Następnie przecedzić i wlać do wanny.</p>
-<p><strong>Zastosowanie</strong><br>Uspakaja system nerwowy, oczyszcza i odmładza skórę, usuwa bóle w mięśniach i stawach, zwiększa odporność.</p>
-<p>Czas trwania - 15-20 minut, temperatura - 37-38°C.<br>Dodać do wody - 2 kg zwykłej soli jodowanej, dobrze rozmieszać.</p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Bakteriobójcze</strong></th>
+<th>czosnek, cebula, majeranek.<br>kwiat - rumianku pospolitego, wrotyczu.<br>liść - mącznicy, borówki, owoce czarnej jagody.<br>ziele - piołunu, dziurawca, szanty, mięty, szałwii, macierzanki, tymianku.<br>kora - wierzby.<br>korzeń - omanu.<br>kłącze - kosaćca.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Gojenie ran i skaleczeń</strong></td>
+<td>pączek - topoli.<br>kwiat - nagietka, jasnoty, rumianku pospolitego.<br>liść - orzecha włoskiego.<br>ziele - drapacza, dziurawca, lnicy, rdestu ptasiego, szałwii.<br>korzeń - żywokostu.</td>
+</tr>
+<tr>
+<td><strong>Hamowanie krwawień</strong><br>wewnętrznych i zewnętrznych</td>
+<td>liść - pokrzywy, barwinka.<br>ziele - krwawnika, tasznika, skrzypu, rdestu ptasiego, rdestu ostrogorzkiego.<br>kora - kaliny.<br>kłącze - pięciornika.</td>
+</tr>
+<tr>
+<td><strong>Oczyszczanie krwi</strong><br>ze złogów i pozostałości po zatruciach</td>
+<td>kwiat - stokrotki, kocanki.<br>liść - barwinka, borówki, maliny, brzozy.<br>ziele - bratka polnego, przetacznika, poziomli, bluszczyku, skrzypu, drapacza, ogórecznika.<br>korzeń - łopianu.<br>szyszka - chmielu.<br>nasiona - kozieradki.</td>
+</tr>
+<tr>
+<td><strong>Moczopędne</strong><br>czyszczą i leczą nerki, poprawiają ich pracę i znoszą parcie na mocz</td>
+<td>pączek - topoli.<br>kwiat - stokrotki, wrzosu, bławatka, kocanki, jasnoty, bzu czarnego, lipy.<br>owoc - kminku, jarzębiny, jałowca, dzikiej róży.<br>liść - mącznicy, brzozy, brusznicy, czarnej jagody.<br>ziele - połonicznika, skrzypu, poziomki, rutwicy, drapacza, rzepiku, piołunu, bylicy pospolitej, macierzanki, nawłoci, werbeny, bratka polnego, hyzopu, nostrzyka, bazulii, rdestu ptasiego, płucnika-miodunki, cząbru, pokrzywy, przetacznika.<br>korzeń - łopianu, podróżnika, lukrecji, mydlnicy, omanu, kosaćca, lubczyka, goryszu, pietruszki.<br>kłącze - perzu, tataraku.<br>szyszki - chmielu.<br>strączyny - fasoli.<br>nasiona - pietruszki, czarnuszki.<br>znamię - kukurydzy.</td>
+</tr>
+<tr>
+<td><strong>Mlekopędne</strong><br>nieodzowne dla karmiących matek we wszystkich kłopotach laktacyjnych</td>
+<td>kminek, koper włoski, anyż.<br>liść - barwinka.<br>ziele - rutwicy, bazylii.<br>nasiona - pietruszki.</td>
+</tr>
+<tr>
+<td><strong>Napotne</strong><br>wskazane przy wszystkich rodzajach przeziębień</td>
+<td>pączek - topoli.<br>kwiat - lipy, bzu czarnego, wrzosu, nawłoci.<br>owoc - maliny, bzu czarnego.<br>liść - brzozy.<br>ziele - przetacznika, rutwicy, ogórecznika, bratka polnego.<br>korzeń - łopianu, omanu, goryszu, pietruszki.<br>kłącze - tataraku.<br>nasiona - pietruszki.</td>
+</tr>
+<tr>
+<td><strong>Nasenne i uspokajające</strong></td>
+<td>kwiat - lawendy.<br>liść - melisy, barwinka.<br>ziele - nostrzyka, macierzanki, kurzego śladu.<br>korzeń - kozłka.<br>szyszki - chmielu.</td>
+</tr>
+<tr>
+<td><strong>Obniżenie ciśnienia krwi</strong></td>
+<td>cebula, czosnek, biała skórka cytryny, żurawiny.<br>liść - barwinka.<br>ziele - jemioły.</td>
+</tr>
+<tr>
+<td><strong>Działanie osłaniające</strong><br>przy podrażnieniach układu oddechowego i trawiennego</td>
+<td>kwiat - lipy, dziewanny.<br>liść - ślazu, babki, podbiału.<br>korzeń - ślazu, żywokostu.<br>nasiona - gorczycy, kozieradki, lnu (siemię lniane).</td>
+</tr>
+<tr>
+<td><strong>Pobudzenie czynności żołądka</strong></td>
+<td>majeranek.<br>kwiat - lawendy, rumianku pospolitego.<br>liść - melisy, bobrka.<br>ziele - krwawnika, dziurawca, przywrotnika, drapacza, szanty, miety, bazylii, cząbru, nawłoci, przetacznika.<br>korzeń - lubczyka, goryszu, mydlnicy, mniszka.<br>kłącze - pięciornika, rzewienia.<br>nasiona - kozieradki.</td>
+</tr>
+<tr>
+<td><strong>Przeciwkrwawnicowo</strong><br>do stosowania doustnego przy jednoczesnym działaniu z zewnątrz</td>
+<td>cebula surowa, śliwki suszone.<br>ziele - krwawnika, drapacza.<br>kora - kasztanowca.<br>korzeń - żywokostu.<br>nasiona - zmielone siemię lniane.<br><strong>Do stosowania zewnętrznego w okładach:</strong><br>cebula gotowana.<br>kwiat - rumianku.</td>
+</tr>
+<tr>
+<td><strong>Pobudzenie serca i nerwów</strong></td>
+<td>kwiat - głogu.<br>liść - rozmarynu.<br>ziele - dziurawca, hyzopu, bazylii.<br>korzeń - goryszu.</td>
+</tr>
+<tr>
+<td><strong>Przeciwartretyczne</strong></td>
+<td>liść - czarnej porzeczki.<br>ziele - rzepiku.<br>kora - wierzby.<br>nasiona - czarnuszki.<br>gąbka słodkowodna.</td>
+</tr>
+<tr>
+<td><strong>Przeciwcukrzycowe</strong><br>profilaktyka, leczenie cukrzycy i stanów przedcukrzycowych</td>
+<td>cebula surowa i gotowana.<br>liść - pokrzywy, czarnej jagody, orzecha włoskiego.<br>ziele - rdestu ptasiego, dziurawca, krwawnika, szałwii, glistnika, rutwicy.<br>korzeń - mniszka, łopianu.<br>kłącze - perzu.<br>strączyny - fasoli.</td>
+</tr>
+<tr>
+<td><strong>Przeciwgorączkowe</strong></td>
+<td>kwiat - lipy, bzu czarnego, rumianku rzymskiego i pospolitego, słonecznika (same płatki).<br>owoc - czarnej jagody.<br>liść - mięty, bobrka.<br>ziele - tysiącznika, drapacza.<br>kora - wierzby, kasztanowca.</td>
+</tr>
+<tr>
+<td><strong>Przeciwgośćcowe</strong></td>
+<td>kwiat - tawuły łąkowej.<br>liść - brzozy, czarnej porzeczki.<br>ziele - skrzypu.<br>kora - wierzby.<br>nasiona - czarnuszki, gorczycy białej (suche okłady).<br>gąbka słodkowodna.</td>
+</tr>
+<tr>
+<td><strong>Przeciwrobacze</strong></td>
+<td>czosnek.<br>kwiat - wrotyczu.<br>owoc - czarnej jagody, borówki brusznicy.<br>ziele - piołunu, macierzanki, tymianku.<br>nasiona - dyni.</td>
+</tr>
+<tr>
+<td><strong>Przeciwzapalne</strong><br>do użytku wewnętrznego</td>
+<td>kwiat - rumianku pospolitego i rzymskiego, nagietka, bławatka.<br>ziele - srebrnika, świetlika.</td>
+</tr>
+<tr>
+<td><strong>Przeciwzapalne</strong><br>do użytku zewnętrznego (okłady z naparu)</td>
+<td>majeranek, cebula gotowana.<br>kwiat - rumianku pospolitego.<br>liść - babki.<br>ziele - hyzopu, lnicy, szałwii.<br>kłącze - pięciornika.</td>
+</tr>
+<tr>
+<td><strong>Przeciwskurczowe</strong></td>
+<td>majeranek, anyż, kminek, koper włoski.<br>kwiat - lawendy, rumianku pospolitego, lipy, dziewanny.<br>owoc - kolendry, bzu czarnego.<br>ziele - jaskółczego ziela, połonicznika, nostrzyka, bazylii, srebrnika, szałwii, macierzanki, tymianku, werbeny.<br>kora - wierzby.<br>korzeń - goryszu.<br>znamię - kukurydzy.</td>
+</tr>
+<tr>
+<td><strong>Przeciwalergiczne</strong></td>
+<td>kwiat - rumianku.<br>ziele - dziurawca.<br>korzeń - kozłka.<br>można stosować łącznie.</td>
+</tr>
+<tr>
+<td><strong>Stany zapalne jelit</strong></td>
+<td>kwiat - rumianku.<br>ziele - dziurawca, krwawnika.<br>korzeń - lukrecji.</td>
+</tr>
+<tr>
+<td><strong>Przeczyszczające i rozwalniające</strong></td>
+<td>kwiat - kocanki.<br>owoc - bzu czarnego.<br>ziele - tysiącznika, lnicy.<br>kora - kruszyny.<br>kłącze - rzewienia.<br>strączki - senesu.<br>nasiona - lnu (siemie lniane).</td>
+</tr>
+<tr>
+<td><strong>Przeciwszkorbutowe</strong></td>
+<td>korzeń chrzanu.<br>owoc - dzikiej róży, jarzębiny.<br>liść - orzecha włoskiego.<br>ziele - bluszczyku.</td>
+</tr>
+<tr>
+<td><strong>Regeneracja śluzówki</strong><br>dróg oddechowych i trawiennych</td>
+<td>śliwki suszone.<br>liść - podbiału.<br>ziele - bukwicy, rzepiku.<br>korzeń - żywokostu.<br>nasiona - lnu (siemie lniane).</td>
+</tr>
+<tr>
+<td><strong>Regulacja menstruacji</strong></td>
+<td>kminek, czarnuszka.<br>kwiat - nagietka, jasnoty białej, koniczyny, wrotyczu.<br>ziele - dziurawca, szanty, szałwii, tymianku.<br>korzeń - lubczyka.<br>nasiona - pietruszki.</td>
+</tr>
+<tr>
+<td><strong>Ściągające (przeciwbiegunkowe)</strong></td>
+<td>kwiat - rumianku.<br>owoc - dzikiej róży, jarzębiny, czarnej jagody.<br>liść - orzecha włoskiego, czarnej porzeczki, maliny, pokrzywy, czarnej jagody, borówki, barwinka.<br>ziele - rzepiku, przywrotnika, świetlika, dziurawca, rdestu ptasiego, srebrnika, płucnika-miodunki, szałwii, cząbru, nawłoci, macierzanki, tymianku, werbeny, przetacznika.<br>kora - dębu, kasztanowca, wierzby.<br>korzeń - kulika, zywokostu.<br>kłącze - pięciornika.</td>
+</tr>
+<tr>
+<td><strong>Trawienne</strong></td>
+<td>majeranek, czosnek, cebupa, kminek, kolendra, koper włoski, chrzan.<br>kwiat - rumianku, wrzosu, kocanki, lawendy.<br>owoc - jałowca.<br>liść - pokrzywy.<br>ziele - bylicy bożodrzewu, piołunu, bylicy pospolitej, macierzanki, tysiącznika, drapacza, dziurawca, hyzopu, nostrzyka, szałwii, nawłoci, przetacznika.<br>korzeń - arcydzięgiela, podróżnika.<br>kłącze - tataraku.<br>szyszki - chmielu.<br>nasiona - czarnuszki, gorczycy.</td>
+</tr>
+<tr>
+<td><strong>Uspokojenie układu nerwowego</strong></td>
+<td>owoc - dzikiej róży.<br>ziele - bylicy pospolitej, macierzanki.<br>korzeń - kozłka, arcydzięgiela.</td>
+</tr>
+<tr>
+<td><strong>Uśmierzenie bólu</strong></td>
+<td>kwiat - rumianku.<br>owoc - kasztanowca.<br>liść - mięty, barwinka.<br>ziele - nostrzyka.</td>
+</tr>
+<tr>
+<td><strong>Niedomaganie wątroby</strong></td>
+<td>owoc - jałowca, dzikiej róży, bzu czarnego.<br>liść - bobrka, rozmarynu.<br>ziele - dziurawca, krwawnika, tysiącznika, glistnika, dymnicy, lawendy.<br>kora - kruszyny.<br>korzeń - podróżnika, mniszka.<br>kłącze - rzewienia.<br>znamię - kukurydzy.</td>
+</tr>
+<tr>
+<td><strong>Wykrztuśne i przeciwkaszlowe</strong></td>
+<td>surowa i gotowana cebula, koper włoski, anyż, majeranek.<br>kwiat - kasztanowca.<br>liść - podbiału.<br>ziele - bluszczyku, połonicznika, hyzopu, szanty, płucnika-miodunki, macierzanki, tymianku, przetacznika, bratka polnego.<br>korzeń - arcydzięgiela, lukrecji, omanu, mydlnicy.<br>kłącze - tataraku, kosaćca.<br>nasiona - kozieradki.</td>
+</tr>
+<tr>
+<td><strong>Wzmacniające</strong></td>
+<td>kminek, kolendra.<br>kwiat - stokrotki.<br>owoc - dzikiej róży.<br>liść - czarnej porzeczki, maliny, pokrzywy, barwinka.<br>ziele - rzepiku, krwawnika, bylicy bożodrzewu, piołunu, bylicy pospolitej, bukwicy, świetlika, bluszczyku, dziurawca, macierzanki, tymianku, werbeny, przetacznika, bratka polnego.<br>korzeń - podróżnika, kuklika, goryszu, mniszka.<br>szyszki - chmielu.<br>nasiona - kozieradki, lnu (siemię lniane).</td>
+</tr>
+<tr>
+<td><strong>Lepsza przemiana materii</strong></td>
+<td>liść - orzecha włoskiego.<br>ziele - rzepiku, poziomki, dymnicy, dziurawca, krwawnika.<br>kłącze - perzu.<br>nasiona - kozieradki.<br>znamię - kukurydzy.<br>gąbka słodkowodna.</td>
+</tr>
+<tr>
+<td><strong>Nadmierna fermentacja i wzdęcia</strong></td>
+<td>kminek, koper włoski, anyż.<br>kwiat - lawendy, rumianku pospolitego.<br>liść - mięty, maliny.<br>ziele - cząbru.<br>korzeń - arcydzięgiela, lubczyka, goryszu.<br>nasiona - pietruszki.</td>
+</tr>
+</tbody></table></div>
+<p class="rozdzial" id="r-8"><strong>Kąpiele lecznicze</strong></p>
+<div class="tabela"><table>
+<thead>
+<tr>
+<th><strong>Zastosowanie</strong><br>Bóle w plecach, krzyżu, stawach, przeciwzapalne, ogólnie wzmacniające.</th>
+<th>Czas trwania - 15-20 minut, temperatura - 35-37°C.<br>Dodać do wody - 300 g kwiatu rumianku zaparzyć w 5 litrach wrzątku i pozostawić na 2 godziny. Następnie przecedzić i wlać do wanny.</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Zastosowanie</strong><br>Niskie ciśnienie, astma, bronchit, choroby skóry, przeciwzapalne, oczyszcza stawy.</td>
+<td>Czas trwania - 15-20 minut, temperatura - 34°C.<br>Dodać do wody - 200 g liści szałwii zaparzyć w 5 litrach wrzątku i pozostawić na 2 godziny. Następnie przecedzić i wlać do wanny.</td>
+</tr>
+<tr>
+<td><strong>Zastosowanie</strong><br>Bóle kręgosłupa, kości, obrzęki kończyn.</td>
+<td>Czas trwania - 15-20 minut, temperatura - 38°C.<br>Dodać do wody - 1,5 kg gałązek świerku gotować w 5 litrach wodu przez 30 minut. Następnie przecedzić i wlać do wanny.</td>
+</tr>
+<tr>
+<td><strong>Zastosowanie</strong><br>Uspakaja system nerwowy, oczyszcza i odmładza skórę, usuwa bóle w mięśniach i stawach, zwiększa odporność.</td>
+<td>Czas trwania - 15-20 minut, temperatura - 37-38°C.<br>Dodać do wody - 2 kg zwykłej soli jodowanej, dobrze rozmieszać.</td>
+</tr>
+</tbody></table></div>
 
   </article>
   <div class="zapytaj">
@@ -330,12 +644,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
+<script src="czytaj.js" defer></script>
 </body>
 </html>

@@ -112,16 +112,13 @@ Co może jeszcze powodować szybkie narastanie pokrywy lodowej? Skorupa Ziemi na
 
 Jest to mój punkt widzenia, a że nie jestem z wykształcenia geonaukowcem, myślę, że pewne sformułowania mogą mieć pewne braki.
 
-![](../../zrodlo/webacja/02uskok/masy2.jpg)
-
-![](../../zrodlo/webacja/02uskok/masy1.jpg)
-
-![](../../zrodlo/webacja/02uskok/masy3.jpg)
-
+![](../../zrodlo/webacja/02uskok/masy2.jpg)  
 Spojrzenie na biegun
 
+![](../../zrodlo/webacja/02uskok/masy1.jpg)  
 Rozłożenie mas (przykładowe)
 
+![](../../zrodlo/webacja/02uskok/masy3.jpg)  
 Deformacja powierzchni
 
 Spojrzenie na rozłożenie kontynentów od strony bieguna północnego już powinno uświadamiać, że masy kontynentalne nie są rozłożone równomiernie. Rozpatrując tę figurę jako płaskie obracające się koło widać wyraźnie, że punkt "A" nie ma przeciwwagi w punkcie "a", podobnie jak punkt "B". Już nawet bez rozpatrywania wielkości mas, mechanik stwierdziłby, że takie koło w czasie obrotu nie będzie obracało się bez wstrząsów spowodowanych tzw. "biciem". Dopiero dodanie "ciężarków" w odpowiednich miejscach może spowodować, że koło to zacznie obracać się bez wstrząsów. Niestety, nikt nie jest w stanie tego zrobić w stosunku do Ziemi.
@@ -307,12 +304,10 @@ Tiahuanaco
 
 Z Ameryki Południowej - przykład Tiahuanaco. Jest uważane przez niektórych za najstarsze miasto świata. Główny kompleks Kalasasaya, piramida ziemna Apacana i Puma Punku - każde inaczej skierowane w stosunku do głównych kierunków geograficznych. Jeśli za podstawę przyjąć kompleks główny (to ten w którym znajduje się słynna Brama Słońca), to wszystko jest w jak najlepszym porządku. Jeśli za punkt wyjścia przyjmiemy ukierunkowanie Apacany sytuacja się komplikuje i hipoteza zaczyna się chwiać. Ale to nie jest rzetelne podejście, tylko nagięcie faktu do teorii. Możliwe tłumaczenie to takie, że Tiahuanaco być może budowano w kilku etapach, o których nie mamy pojęcia. Koronnych dowodów należałoby szukać gdzie indziej, w pobliskim jeziorze Titicaca. Odnaleziono tu poprzednią linię brzegową nachyloną w stosunku do dzisiejszej. Gdyby jezioro wysychało w niezmiennych warunkach, to stara linia brzegowa byłaby równoległa do dzisiejszego lustra wody, a nie jest.
 
-![](../../zrodlo/webacja/02uskok/ozyrejons.jpg)
-
-![](../../zrodlo/webacja/02uskok/sakkara.jpg)
-
+![](../../zrodlo/webacja/02uskok/ozyrejons.jpg)  
 Abydos - Ozyrejon
 
+![](../../zrodlo/webacja/02uskok/sakkara.jpg)  
 Sakkara
 
 Wykonajmy teraz skok do Afryki. Jeśli obejrzane pierwsze rysunki w miarę dokładnie oddają treść teorii, to zgodnie z nią kierunki najstarszych budowli Egiptu winny przebiegać w lewo od kierunku dzisiejszej północy, a więc w kierunku zachodnim. Moje przykłady (Ozyrejon i Sakkara) się zgadzają. W Abydos znajduje się Ozyrejon oraz świątynia Setiego II. Oś długa obydwu, przed wielkim uskokiem, skierowana była na wschód Słońca w dniu równonocy. Dlaczego? Budowano tak, by wschodzące Słońce oświetlało główne wejście do świątyni. Coś w rodzaju "wejścia boga". Takie rozumowanie narzuca kierunek północy dla jednego z boków świątyni. I tak jest przedstawione na szkicu. Inaczej rzecz się ma z piramidami. W artykule o Orionie i piramidach, założyłem, że piramidy były skierowane na północ swoimi przekątnymi i to w Sakkara z grubsza by się zgadzało.
@@ -341,85 +336,9 @@ Można też postawić pytanie - piramidy zbudowano przed potopem, ale przed któ
 
 W tabelce przedstawiłem dane, jakie uwzględniłem w swoich obliczeniach.
 
-NAZWA MIEJSCA
-
-Szerokość \[B\]
-
-Długość \[L\]
-
-Kąt zmierzony
-
-Kąt obliczony
-
-Akpatok  
-Tula  
-Teotihuacan  
-Villahermosa  
-Monte Alban  
-Uxmal  
-Palenque  
-Tikal  
-Tiahuanaco  
-Machu Picchu  
-Giza  
-Abydos  
-Sakkara
-
-60,00° N  
-20,27° N  
-19,47° N  
-18,00° N  
-16,27° N  
-20,27° N  
-19,75° N  
-17,05° N  
-26,93° S  
-27,14° S  
-29,98° N  
-?  
-?
-
-70,00° W  
-99,57° W  
-94,88° W  
-92,94° W  
-96,94° W  
-87,79° W  
-90,86° W  
-87,47° W  
-67,50° W  
-72,82° W  
-31,32° E  
-?  
-?
-
-  
-?  
-18°  
-?  
-?  
-?  
-15°  
-?  
-1,5°  
-1,5°  
-20°  
-\-  
-\-
-
-  
-24,5°  
-19°  
-11°  
-23°  
-16°  
-19°  
-15,5°  
-2°  
-2°  
-24°  
-\-  
-\-
+| NAZWA MIEJSCA | Szerokość \[B\] | Długość \[L\] | Kąt zmierzony | Kąt obliczony |
+| --- | --- | --- | --- | --- |
+| Akpatok<br>Tula<br>Teotihuacan<br>Villahermosa<br>Monte Alban<br>Uxmal<br>Palenque<br>Tikal<br>Tiahuanaco<br>Machu Picchu<br>Giza<br>Abydos<br>Sakkara | 60,00° N<br>20,27° N<br>19,47° N<br>18,00° N<br>16,27° N<br>20,27° N<br>19,75° N<br>17,05° N<br>26,93° S<br>27,14° S<br>29,98° N<br>?<br>? | 70,00° W<br>99,57° W<br>94,88° W<br>92,94° W<br>96,94° W<br>87,79° W<br>90,86° W<br>87,47° W<br>67,50° W<br>72,82° W<br>31,32° E<br>?<br>? | <br>?<br>18°<br>?<br>?<br>?<br>15°<br>?<br>1,5°<br>1,5°<br>20°<br>\-<br>\- | <br>24,5°<br>19°<br>11°<br>23°<br>16°<br>19°<br>15,5°<br>2°<br>2°<br>24°<br>\-<br>\- |
 
 Jak widać, zawodowy geodeta mnie i moje obliczenia umieściłby w wiadomym miejscu. Zastrzegłem jednak na początku, że obliczenia te są bardzo orientacyjne. Jedno co z nich wynika, to tylko to, że zgadzają się w ogólnych zarysach. "Wielki uskok..." mógł być przyczyną przesunięć tych kardynalnych kierunków.
 

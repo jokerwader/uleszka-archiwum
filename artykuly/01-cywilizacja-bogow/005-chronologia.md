@@ -179,29 +179,9 @@ Tatunca Nara opowiada następnie o dwóch globalnych katastrofach, które wynisz
 
 Jeszcze większe, dużo większe liczby lat oferuje indyjska Purana dzieląc życie na Ziemi na cztery epoki, zwane Yuga. Czas podany jest w latach boskich, gdzie jeden rok boski wynosi 360 lat ludzkich. Te same dane opisuje Vymaanika-Shaastra, której zawdzięczamy opisy boskich pojazdów - Viman.
 
-**Nazwa epoki**
-
-**Ilość lat boskich**
-
-**Ilość lat ludzkich**
-
-Krita Yuga  
-Treta Yuga  
-Davpara Yuga  
-Kali Yuga  
-**Razem**
-
-4 800  
-3 600  
-2 400  
-1 200  
-**12 000**
-
-1 728 000  
-1 296 000  
-864 000  
-432 000  
-**4 320 000**
+| **Nazwa epoki** | **Ilość lat boskich** | **Ilość lat ludzkich** |
+| --- | --- | --- |
+| Krita Yuga<br>Treta Yuga<br>Davpara Yuga<br>Kali Yuga<br>**Razem** | 4 800<br>3 600<br>2 400<br>1 200<br>**12 000** | 1 728 000<br>1 296 000<br>864 000<br>432 000<br>**4 320 000** |
 
 Według hindusów cztery epoki były przedzielane katastrofami planetarnymi, ale jakimi i o jakim zasięgu tego chyba już nie można ustalić. Suma lat jest dziesięciokrotnie większa od rachuby Chaldejczyków. Szaleństwo liczb czy jeszcze bardziej niesamowita i nieznana prawda?
 
@@ -324,56 +304,11 @@ Stworzenie istot wyższego rzędu. Pełny łańcuch pokarmowy. Ustanowienie "wł
 
 A teraz wersja strony przeciwnej. Do lat podawanych przez naukę osobiście podchodzę bardzo sceptycznie. Wszystkie powinny zawierać przedrostek prawdopodobnie, gdyż dzisiejsza nauka w żaden sposób nie może tego udowodnić. Jest to pewnego rodzaju wirtualna rama czasowa w którą wtłacza się prawdopodobne zaistnienie zjawisk. Odrzucenie biblijnego opisu powstania Ziemi i życia na niej musiało zaowocować innym podziałem na epoki, a do samego powstania życia na Ziemi zaprzęgnięto darwinizm i teorię liniowego postępu. Jak to wygląda według nauki przedstawiam poniżej wraz z ostatnimi prawdami uznanymi przez naukę, zaznaczając je czerwonym kolorem.
 
-**Prekambr**
-
-4,6-0,6 mld lat
-
-Brak śladów życia organicznego, a odkryto jedynie bakterie kopalne, których wiek ustalono na 3,1 mld lat.  
-Pod koniec tego okresu w **Proterozoiku 1,9 mld-600 mln lat** na Ziemi pojawiają się bakterie, glony, glonowce oraz pierścienice i jamochłony.  
-4-3,8 mld lat - okno czasowe, w którym powstały pierwsze organizmy na Ziemi.  
-800 mln lat - początek rozpadu pierwszego superkontynentu (ostatnia, francuska hipoteza).
-
-**Paleozoik**
-
-600-220 mln lat
-
-**Kambr - 600-490 mln lat**:  
-zielenice, sinice, grzyby, bakterie, trylobity, archeocjały.  
-535 mln lat - wielki wybuch biologiczny, nagłe pojawienie się wielu gatunków roślin i zwierząt.  
-**Ordowik - 490-430 mln lat**:  
-paprotniki, trylobity, graptolity, koralowce.  
-**Sylur - 430-400 mln lat**:  
-psylofity, plechowce, brunatnice, liliowce, ramienionogi, wielkoraki.  
-**Dewon - 400-350 mln lat**:  
-widłaki, skrzypy, paprocie, ryby pancerne, kręgowce lądowe.  
-**Karbon - 350-270 mln lat**:  
-drzewiaste paprocie i widłaki, iglaste, owady, płazy, gady.  
-**Perm - 270-220 mln lat**:  
-iglaste, miłorzęby, sagowce, ryby promieniopłetwe, kotylozaury.  
-
-**Mezozoik**
-
-220-70 mln lat
-
-**Trias - 220-180 mln lat**:  
-nagonasienne, małże, slimaki, notozaury, tekodonty.  
-200 mln lat - rozpad Gondwany, powstanie oceanów. (???)  
-**Jura - 180-135 mln lat**:  
-nagonasienne, okrzemki, ichtiozaury, dinozaury, archeopteryks.  
-135 mln lat - ogólnoświatowa, wzmożona działalność wulkaniczna.  
-**Kreda - 135-70 mln lat**:  
-okrytonasienne, dęby, platany, otwornice, gady, ssaki łożyskowe.  
-
-**Kenozoik**
-
-70 mln lat do dziś
-
-**Trzeciorzęd - 70-1 mln lat**:  
-przewaga okrytonasiennych, drzewa liściaste, trawy, lasy wiecznie zielone, zielenice, ramienice, koralowce rafotwórcze, otwornice, mszywioły, slimaki, stawonogi, bogaty świat owadów, ptaki, ssaki, małpy człekokształtne, australopitek.  
-65 mln lat - uderzenie wielkiego meteorytu, początek zagłady dinozaurów.  
-3 mln lat - początek epok lodowcowych na Ziemi.  
-**Czwartorzęd - 1 mln lat do dzisiaj**:  
-flora lodowcowa, leśna i bagienna, fauna ery lodowcowej, człowiek rozumny.  
+| **Prekambr** | 4,6-0,6 mld lat | Brak śladów życia organicznego, a odkryto jedynie bakterie kopalne, których wiek ustalono na 3,1 mld lat.<br>Pod koniec tego okresu w **Proterozoiku 1,9 mld-600 mln lat** na Ziemi pojawiają się bakterie, glony, glonowce oraz pierścienice i jamochłony.<br>4-3,8 mld lat - okno czasowe, w którym powstały pierwsze organizmy na Ziemi.<br>800 mln lat - początek rozpadu pierwszego superkontynentu (ostatnia, francuska hipoteza). |
+| --- | --- | --- |
+| **Paleozoik** | 600-220 mln lat | **Kambr - 600-490 mln lat**:<br>zielenice, sinice, grzyby, bakterie, trylobity, archeocjały.<br>535 mln lat - wielki wybuch biologiczny, nagłe pojawienie się wielu gatunków roślin i zwierząt.<br>**Ordowik - 490-430 mln lat**:<br>paprotniki, trylobity, graptolity, koralowce.<br>**Sylur - 430-400 mln lat**:<br>psylofity, plechowce, brunatnice, liliowce, ramienionogi, wielkoraki.<br>**Dewon - 400-350 mln lat**:<br>widłaki, skrzypy, paprocie, ryby pancerne, kręgowce lądowe.<br>**Karbon - 350-270 mln lat**:<br>drzewiaste paprocie i widłaki, iglaste, owady, płazy, gady.<br>**Perm - 270-220 mln lat**:<br>iglaste, miłorzęby, sagowce, ryby promieniopłetwe, kotylozaury. |
+| **Mezozoik** | 220-70 mln lat | **Trias - 220-180 mln lat**:<br>nagonasienne, małże, slimaki, notozaury, tekodonty.<br>200 mln lat - rozpad Gondwany, powstanie oceanów. (???)<br>**Jura - 180-135 mln lat**:<br>nagonasienne, okrzemki, ichtiozaury, dinozaury, archeopteryks.<br>135 mln lat - ogólnoświatowa, wzmożona działalność wulkaniczna.<br>**Kreda - 135-70 mln lat**:<br>okrytonasienne, dęby, platany, otwornice, gady, ssaki łożyskowe. |
+| **Kenozoik** | 70 mln lat do dziś | **Trzeciorzęd - 70-1 mln lat**:<br>przewaga okrytonasiennych, drzewa liściaste, trawy, lasy wiecznie zielone, zielenice, ramienice, koralowce rafotwórcze, otwornice, mszywioły, slimaki, stawonogi, bogaty świat owadów, ptaki, ssaki, małpy człekokształtne, australopitek.<br>65 mln lat - uderzenie wielkiego meteorytu, początek zagłady dinozaurów.<br>3 mln lat - początek epok lodowcowych na Ziemi.<br>**Czwartorzęd - 1 mln lat do dzisiaj**:<br>flora lodowcowa, leśna i bagienna, fauna ery lodowcowej, człowiek rozumny. |
 
 Scenariusz ogólny pozostaje taki sam, choć są znaczne różnice. Dlaczego Biblia jest tak ogólna, a nauka tak szczegółowa? Biblia zawiera opis stworzenia Ziemi przekazany ludziom przez Bogów, którzy widocznie nie uważali za stosowne podania bardzo dokładnych danych. Ludzie zostali stworzeni do pracy i służenia Bogom, a nie do prowadzenia badań naukowych. Nauka zaś musi odpowiedzieć na zadane pytanie i to odpowiedzieć zgodnie z prawdą i szczegółowo. A co robi nauka?
 

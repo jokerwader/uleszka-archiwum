@@ -5,7 +5,7 @@
  *
  * Uruchomienie: npx tsx scripts/czytelnia.ts   (po każdej zmianie artykułów, opracowań albo domeny)
  */
-import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { marked } from "marked";
 import { Archiwum, type Dokument } from "../src/archiwum.js";
 
@@ -26,7 +26,7 @@ const rawUrl = (sciezka: string) => RAW + sciezka.split("/").map(encodeURICompon
 
 marked.setOptions({ gfm: true, breaks: false });
 
-function trescHtml(a: Dokument): string {
+function trescHtml(a: Dokument): { html: string; rozdzialy: { id: string; tytul: string }[] } {
   // inicjały: w oryginale duża litera w pływającej tabelce, a tekst akapitu zaczyna się tuż obok, bez spacji
   // (np. „**P**” i osobny akapit „ora kończyć…”) – łączymy je z powrotem w jeden akapit
   const md = a.tresc.replace(/\*\*([A-ZĄĆĘŁŃÓŚŹŻ])\*\*[ \t]*\n[ \t]*\n(?=[^\s#*![>|-])/g, '<span class="inicjal">$1</span>');
@@ -44,10 +44,38 @@ function trescHtml(a: Dokument): string {
   });
   html = html.replace(/href="((?:zrodlo|artykuly)\/[^"]+)"/g, (_m, p: string) => `href="${REPO}/blob/main/${p.split("/").map(encodeURIComponent).join("/")}"`);
   html = html.replace(/<a href="(https?:\/\/[^"]+)"/g, '<a href="$1" rel="noopener" target="_blank"');
-  return html;
+  // tabele w przewijanym pudełku (szerokie tabele nie rozpychają strony na telefonie)
+  html = html.replace(/<table>/g, '<div class="tabela"><table>').replace(/<\/table>/g, "</table></div>");
+  // rozdziały do spisu treści: nagłówki i akapity złożone tylko z pogrubionego tytułu (tak autor oznaczał śródtytuły)
+  const rozdzialy: { id: string; tytul: string }[] = [];
+  html = html.replace(/<(h[1-4])>([^<]{2,140})<\/h[1-4]>|<p><strong>([^<]{3,140})<\/strong><\/p>/g, (m, tag: string | undefined, h: string | undefined, b: string | undefined) => {
+    const tytul = (h ?? b ?? "").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;/g, "'").trim();
+    if (!/\p{L}/u.test(tytul)) return m;
+    const id = `r-${rozdzialy.length + 1}`;
+    rozdzialy.push({ id, tytul });
+    return tag ? `<${tag} class="rozdzial" id="${id}">${h}</${tag}>` : `<p class="rozdzial" id="${id}"><strong>${b}</strong></p>`;
+  });
+  return { html, rozdzialy };
 }
 
-const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; css: string }) => `<!doctype html>
+/** Panel spisu treści: rozdziały bieżącego artykułu i wszystkie artykuły (dział bieżącego artykułu rozwinięty). */
+function spisHtml(aktualny?: Dokument, rozdzialy: { id: string; tytul: string }[] = []) {
+  const czesc1 = rozdzialy.length
+    ? `<h3>W tym artykule</h3><ol>${rozdzialy.map((r) => `<li><a href="#${r.id}">${esc(r.tytul)}</a></li>`).join("")}</ol>`
+    : "";
+  const czesc2 = archiwum.dzialy
+    .map((d) => {
+      const art = archiwum.artykuly.filter((a) => a.dzial === d);
+      const otwarty = aktualny ? aktualny.dzial === d : false;
+      return `<details${otwarty ? " open" : ""}><summary>${esc(d)} <small>${art.length}</small></summary><ul>${art
+        .map((a) => `<li class="${a.rodzic ? "pod" : ""}"><a href="${plikArt(a)}"${aktualny?.id === a.id ? ' class="aktualny" aria-current="page"' : ""}>${esc(a.tytul)}</a></li>`)
+        .join("")}</ul></details>`;
+    })
+    .join("");
+  return `${czesc1}<h3>Wszystkie artykuły</h3>${czesc2}`;
+}
+
+const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; css: string; spis: string }) => `<!doctype html>
 <html lang="pl">
 <head>
 <meta charset="utf-8">
@@ -62,13 +90,41 @@ const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; cs
 <meta property="og:image" content="${o.obraz ?? BAZA + "og.png"}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+  // motyw i wielkość tekstu ustawiane przed wyświetleniem strony (bez mignięcia); domyślnie jasne tło
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "jasny";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "jasny"; }
+</script>
 <link rel="stylesheet" href="${o.css}">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
-  <a class="logo" href="../">uleszka<span>.net</span> · archiwum</a>
-  <nav><a href="./">Czytelnia</a><a href="../#jak-zaczac">Porozmawiaj z AI</a></nav>
+  <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
+  <nav>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
+<div class="zaslona" id="zaslona" hidden></div>
+<aside class="spis-panel" id="spis-panel" hidden aria-label="Spis treści">
+  <div class="spis-glowa"><b>Spis treści</b><button type="button" id="zamknij-spis" aria-label="Zamknij spis treści">✕</button></div>
+  ${o.spis}
+</aside>
 `;
 
 const stopka = `<footer><div class="wrap-sz">
@@ -76,13 +132,7 @@ const stopka = `<footer><div class="wrap-sz">
   Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${REPO}/issues">zgłoś uwagę</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script>
-  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(el.dataset.kopiuj); } catch {}
-    const t = document.getElementById("toast"); t.textContent = "Skopiowano ✓"; t.classList.add("widoczny");
-    setTimeout(() => t.classList.remove("widoczny"), 1800);
-  }));
-</script>
+<script src="czytelnia.js" defer></script>
 </body>
 </html>
 `;
@@ -100,14 +150,23 @@ lista.forEach((a, i) => {
   const nast = lista[i + 1];
   const pierwszyObraz = a.obrazy.find((x) => /\.(jpe?g|png)$/i.test(x.sciezka) && archiwum.opisObrazu(x.sciezka));
   const ksiazki = archiwum.ksiazkiArtykulu(a.id);
+  const { html: tresc, rozdzialy } = trescHtml(a);
   const prosba = `Omów artykuł „${a.tytul}” (id: ${a.id}) z archiwum uleszka.net: przedstaw wiernie tezy autora z cytatami, a potem porównaj je z tym, co wiadomo dziś.`;
 
   const html =
-    glowa({ tytul: `${a.tytul} – Leszek Klimek, uleszka.net`, opis, url: `${BAZA}czytelnia/${plikArt(a)}`, obraz: pierwszyObraz ? rawUrl(pierwszyObraz.sciezka) : undefined, css: "czytelnia.css" }) +
+    glowa({ tytul: `${a.tytul} – Leszek Klimek, uleszka.net`, opis, url: `${BAZA}czytelnia/${plikArt(a)}`, obraz: pierwszyObraz ? rawUrl(pierwszyObraz.sciezka) : undefined, css: "czytelnia.css", spis: spisHtml(a, rozdzialy) }) +
     `<main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#${slug(a.dzial)}">${esc(a.dzial)}</a>${rodzic ? ` › <a href="${plikArt(rodzic)}">${esc(rodzic.tytul)}</a>` : ""}</p>
   <h1>${esc(a.tytul)}</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
+    <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
+    <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
+    <label class="glos">głos <select id="glos"></select></label>
+    <span class="postep" id="postep"></span>
+    <p class="wskazowka-glos" id="wskazowka-glos" hidden></p>
+  </div>
 ${
   o && o.streszczenie
     ? `  <details class="skrot">
@@ -118,7 +177,7 @@ ${o.tezy.length ? `    <ul>${o.tezy.slice(0, 6).map((t) => `<li>${esc(t.teza)}</
 `
     : ""
 }  <article class="tresc">
-${trescHtml(a)}
+${tresc}
   </article>
 ${
   podstrony.length
@@ -140,7 +199,7 @@ ${
   </nav>
 </main>
 ` +
-    stopka;
+    stopka.replace("</body>", `<script src="czytaj.js" defer></script>\n</body>`);
   writeFileSync(`${WYJSCIE}/${plikArt(a)}`, html, "utf8");
 });
 
@@ -152,11 +211,12 @@ const wpis = (a: Dokument) => {
   return `<li class="${a.rodzic ? "pod" : ""}" data-szukaj="${esc((a.tytul + " " + krotko + " " + (o?.tematy ?? []).join(" ")).toLowerCase())}"><a href="${plikArt(a)}"><b>${esc(a.tytul)}</b>${zdanie ? `<span>${esc(zdanie)}</span>` : ""}</a></li>`;
 };
 const spis =
-  glowa({ tytul: "Czytelnia – wszystkie artykuły uleszka.net", opis: `Wszystkie ${lista.length} artykuły strony uleszka.net Leszka Klimka, słowo w słowo, w wygodnej formie do czytania.`, url: `${BAZA}czytelnia/`, css: "czytelnia.css" }) +
+  glowa({ tytul: "Czytelnia – wszystkie artykuły uleszka.net", opis: `Wszystkie ${lista.length} artykuły strony uleszka.net Leszka Klimka, słowo w słowo, w wygodnej formie do czytania.`, url: `${BAZA}czytelnia/`, css: "czytelnia.css", spis: spisHtml() }) +
   `<main class="wrap-czyt spis">
   <p class="okruszki"><a href="../">Strona główna</a> › Czytelnia</p>
   <h1>Czytelnia</h1>
   <p class="meta">Wszystkie ${lista.length} strony uleszka.net, słowo w słowo. Krótkie opisy pod tytułami przygotowała AI.</p>
+  <nav class="dzialy-skrot" aria-label="Działy">${archiwum.dzialy.map((d) => `<a href="#${slug(d)}">${esc(d)}</a>`).join("")}</nav>
   <input id="szukaj" type="search" placeholder="Szukaj w tytułach i tematach, np. potop, Atlantyda, witamina…" aria-label="Szukaj artykułu">
 ${archiwum.dzialy
   .map((d) => {
@@ -188,85 +248,7 @@ ${archiwum.dzialy
   stopka;
 writeFileSync(`${WYJSCIE}/index.html`, spis, "utf8");
 
-// ---------- styl ----------
-writeFileSync(
-  `${WYJSCIE}/czytelnia.css`,
-  `:root { color-scheme: dark; --tlo: #07090f; --karta: #10151f; --tekst: #ece6d8; --tekst-2: #a6adbb; --linia: #222b3b; --akcent: #e2a93f; --akcent-mocny: #f0c46f; }
-* { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
-body { margin: 0; background: radial-gradient(ellipse 80% 40% at 50% 0%, rgba(30, 48, 90, .25), transparent 70%), var(--tlo); color: var(--tekst);
-  font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; -webkit-text-size-adjust: 100%; }
-a { color: var(--akcent-mocny); }
-.wrap-sz { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
-.wrap-czyt { max-width: 760px; margin: 0 auto; padding: 0 20px 40px; }
-.gora { position: sticky; top: 0; z-index: 5; background: rgba(7, 9, 15, .82); backdrop-filter: blur(10px); border-bottom: 1px solid rgba(255, 255, 255, .06); }
-.gora .wrap-sz { display: flex; justify-content: space-between; align-items: center; gap: 12px; height: 56px; }
-.logo { font-family: Georgia, serif; font-weight: 700; color: #f4efe4; text-decoration: none; }
-.logo span { color: #e8b04b; }
-.gora nav { display: flex; gap: 18px; font-size: 15px; }
-.gora nav a { color: #cfd6e4; text-decoration: none; }
-.gora nav a:hover { color: #fff; }
-.okruszki { margin: 34px 0 8px; font-size: 14px; color: var(--tekst-2); }
-.okruszki a { color: var(--tekst-2); }
-h1 { font-family: Georgia, serif; font-size: clamp(32px, 6vw, 50px); line-height: 1.1; margin: 0 0 10px;
-  background: linear-gradient(180deg, #fff6e0, #f0c46f 60%, #b47a22); -webkit-background-clip: text; background-clip: text; color: transparent; }
-.meta { color: var(--tekst-2); font-size: 14px; margin: 0 0 26px; }
-.skrot { background: var(--karta); border: 1px solid var(--linia); border-radius: 14px; padding: 14px 18px; margin: 0 0 30px; }
-.skrot summary { cursor: pointer; font-weight: 600; }
-.skrot summary span { font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--akcent); margin-left: 8px; font-weight: 700; }
-.skrot p, .skrot li { color: var(--tekst-2); font-size: 15px; }
-.skrot .uwaga { font-size: 13px; font-style: italic; }
-.tresc { font-family: Georgia, "Times New Roman", serif; font-size: 19px; line-height: 1.75; color: #e4ddcd; overflow-wrap: break-word; }
-.tresc p { margin: 0 0 1.05em; }
-.tresc strong { color: #fbf3e0; }
-.tresc h1, .tresc h2, .tresc h3 { font-family: Georgia, serif; color: #f4efe4; line-height: 1.25; }
-.tresc img { display: block; max-width: 100%; height: auto; margin: 1.4em auto; border-radius: 6px; box-shadow: 0 10px 30px rgba(0, 0, 0, .45); background: #fff; }
-.tresc a img { display: inline-block; margin: .3em; box-shadow: none; background: none; }
-.tresc hr { border: 0; height: 1px; margin: 2.2em auto; width: 40%; background: linear-gradient(90deg, transparent, rgba(232, 176, 75, .6), transparent); }
-.tresc blockquote { margin: 1.2em 0; padding: .2em 0 .2em 1em; border-left: 3px solid var(--akcent); color: #d6cfbf; }
-.tresc ul, .tresc ol { padding-left: 1.3em; }
-.tresc table { border-collapse: collapse; width: 100%; font-size: 16px; }
-.tresc td, .tresc th { border: 1px solid var(--linia); padding: 6px 8px; }
-.inicjal { float: left; font-size: 3.1em; line-height: .85; margin: .06em .1em 0 0; color: #f0c46f; font-weight: 700; }
-.podstrony, .zapytaj { background: var(--karta); border: 1px solid var(--linia); border-radius: 14px; padding: 16px 20px; margin: 30px 0 16px; }
-.podstrony h2 { font-family: Georgia, serif; font-size: 20px; margin: 0 0 8px; }
-.zapytaj p { margin: 6px 0 12px; color: var(--tekst-2); font-size: 15px; }
-.pytanie { width: 100%; text-align: left; background: #0b0f17; border: 1px solid var(--linia); border-radius: 12px; padding: 12px 14px; color: var(--tekst);
-  font: 15px/1.5 system-ui, sans-serif; cursor: pointer; display: flex; justify-content: space-between; gap: 12px; }
-.pytanie:hover { border-color: var(--akcent); }
-.kop { font-size: 13px; color: var(--akcent-mocny); font-weight: 600; white-space: nowrap; }
-.zrodla-art { font-size: 14px; color: var(--tekst-2); overflow-wrap: anywhere; }
-.poprz-nast { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 28px; }
-.poprz-nast a { display: block; background: var(--karta); border: 1px solid var(--linia); border-radius: 12px; padding: 12px 14px; text-decoration: none; color: var(--tekst); }
-.poprz-nast a:hover { border-color: var(--akcent); }
-.poprz-nast span { display: block; font-size: 12px; color: var(--akcent); letter-spacing: 1px; text-transform: uppercase; margin-bottom: 2px; }
-.poprz-nast .nast { text-align: right; }
-.spis input { width: 100%; padding: 14px 16px; border-radius: 12px; border: 1px solid var(--linia); background: var(--karta); color: var(--tekst); font-size: 16px; margin: 0 0 22px; }
-.spis input:focus { outline: 2px solid rgba(232, 176, 75, .5); }
-.dzial h2 { font-family: Georgia, serif; font-size: 26px; margin: 30px 0 10px; }
-.dzial h2 small { font-size: 14px; color: var(--tekst-2); font-family: system-ui, sans-serif; }
-.dzial ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
-.dzial li a { display: block; padding: 12px 14px; border-radius: 12px; background: var(--karta); border: 1px solid var(--linia); text-decoration: none; color: var(--tekst); }
-.dzial li a:hover { border-color: var(--akcent); }
-.dzial li.pod { margin-left: 22px; }
-.dzial li b { display: block; font-family: Georgia, serif; font-size: 18px; color: #f4efe4; }
-.dzial li span { display: block; font-size: 14px; color: var(--tekst-2); margin-top: 2px; }
-.brak { color: var(--tekst-2); }
-footer { margin-top: 50px; padding: 26px 0 40px; border-top: 1px solid var(--linia); color: var(--tekst-2); font-size: 14px; }
-.toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(20px); opacity: 0; transition: .2s; background: #e8b04b; color: #14110a;
-  font-weight: 600; padding: 10px 18px; border-radius: 999px; pointer-events: none; }
-.toast.widoczny { opacity: 1; transform: translateX(-50%); }
-@media (max-width: 640px) {
-  .tresc { font-size: 18px; }
-  .poprz-nast { grid-template-columns: 1fr; }
-  .poprz-nast .nast { text-align: left; }
-  .gora nav { gap: 12px; font-size: 14px; }
-  .gora nav a { white-space: nowrap; }
-  .logo { font-size: 15px; white-space: nowrap; }
-  .dzial li.pod { margin-left: 12px; }
-}
-`,
-  "utf8",
-);
+// ---------- styl i skrypty (pliki źródłowe w scripts/czytelnia/) ----------
+for (const plik of ["czytelnia.css", "czytelnia.js", "czytaj.js"]) copyFileSync(`scripts/czytelnia/${plik}`, `${WYJSCIE}/${plik}`);
 
 console.log(`Czytelnia: ${lista.length} artykułów + spis w ${WYJSCIE}/ (adres bazowy ${BAZA})`);
