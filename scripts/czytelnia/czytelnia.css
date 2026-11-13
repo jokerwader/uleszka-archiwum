@@ -168,6 +168,10 @@ footer { margin-top: 50px; padding: 26px 0 40px; border-top: 1px solid var(--lin
 .wskazowka-glos { flex-basis: 100%; margin: 2px 0 0; font-size: 13px; color: var(--tekst-2); }
 .tresc .czytane { background: var(--czytane); box-shadow: -14px 0 0 var(--czytane), 14px 0 0 var(--czytane); border-radius: 4px; transition: background .3s; }
 .tresc.slucha [data-seg] { cursor: pointer; }
+/* poprawione literówki (errata): dyskretne podkreślenie, oryginał po najechaniu lub dotknięciu */
+.poprawka { text-decoration: underline dotted; text-decoration-color: color-mix(in srgb, var(--tekst-2) 55%, transparent); text-underline-offset: 3px; cursor: help; }
+.poprawka.pokaz::after { content: " (" attr(title) ")"; font-size: .8em; color: var(--tekst-2); }
+.meta-poprawki { cursor: help; }
 
 @media (max-width: 640px) {
   .poprz-nast { grid-template-columns: 1fr; }

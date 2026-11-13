@@ -1,0 +1,8042 @@
+[
+ {
+  "id": "*",
+  "zle": "alkoholiźmie",
+  "dobrze": "alkoholizmie",
+  "kontekst": "w przewlekłym alkoholiźmie lub przy",
+  "wszedzie": true,
+  "powod": "zbędny akcent nad ź"
+ },
+ {
+  "id": "*",
+  "zle": "bedą",
+  "dobrze": "będą",
+  "kontekst": "Następne bedą nadchodzić z Pentagonu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "bedąc",
+  "dobrze": "będąc",
+  "kontekst": "który bedąc w rządzie wspierał Sejm",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "Bedąc",
+  "dobrze": "Będąc",
+  "kontekst": "Bedąc w celi zbiorowej nigdy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "bedące",
+  "dobrze": "będące",
+  "kontekst": "hipotezy bedące raczej pytaniami, gdyż",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "bedący",
+  "dobrze": "będący",
+  "kontekst": "pseudopatrioci bedący przy spec-korycie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "bedę",
+  "dobrze": "będę",
+  "kontekst": "dopóki nie bedę pewny w 100%",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "bedzie",
+  "dobrze": "będzie",
+  "kontekst": "Nie bedzie to typowa wycieczka",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "cisnienie",
+  "dobrze": "ciśnienie",
+  "kontekst": "wysokie cisnienie, ciągłe przemęczenie, alergia",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "dotyczace",
+  "dobrze": "dotyczące",
+  "kontekst": "dotyczace tego zagadnienia. Otóż autor pisze",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "egaminami",
+  "dobrze": "egzaminami",
+  "kontekst": "wołowiny przed egaminami, nie wiedziałem",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "*",
+  "zle": "kapieli",
+  "dobrze": "kąpieli",
+  "kontekst": "kapieli w ciepłej wodzie z dodatkiem 1 litra",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "katakliźmie",
+  "dobrze": "kataklizmie",
+  "kontekst": "po wielkim katakliźmie, w wielu rejonach świata",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "*",
+  "zle": "kontekscie",
+  "dobrze": "kontekście",
+  "kontekst": "nie występują w kontekscie ich migracji",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "*",
+  "zle": "łyzce",
+  "dobrze": "łyżce",
+  "kontekst": "po jednej łyzce do każdej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "łyzkami",
+  "dobrze": "łyżkami",
+  "kontekst": "z 3-4 łyzkami oleju roślinnego",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "łyzkę",
+  "dobrze": "łyżkę",
+  "kontekst": "grejpfruta, 1 łyzkę miodu i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "łyzki",
+  "dobrze": "łyżki",
+  "kontekst": "oleju, 2 łyzki smietany, pieprz",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "mietę",
+  "dobrze": "miętę",
+  "kontekst": "nać pietruszki, mietę, koperek, 1/2",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "*",
+  "zle": "moga",
+  "dobrze": "mogą",
+  "kontekst": "moje wnioski moga wydawać się",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "mozna",
+  "dobrze": "można",
+  "kontekst": "W encyklopediach mozna przeczytać, że",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "mówiąć",
+  "dobrze": "mówiąc",
+  "kontekst": "rację Osmanagić mówiąć o 12",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "niemozliwe",
+  "dobrze": "niemożliwe",
+  "kontekst": "owocami jest niemozliwe, gdyż są",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "niezyt",
+  "dobrze": "nieżyt",
+  "kontekst": "katar i niezyt nosa, krwawienie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "obrzekiem",
+  "dobrze": "obrzękiem",
+  "kontekst": "żołądka z obrzekiem jego błony",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "*",
+  "zle": "organiźmie",
+  "dobrze": "organizmie",
+  "kontekst": "Szkody w organiźmie dziecka są,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "pare",
+  "dobrze": "parę",
+  "kontekst": "najgorszego na pare dni lub",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "pewnościa",
+  "dobrze": "pewnością",
+  "kontekst": "je z pewnościa jako \"przymusowy\"",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "pktt",
+  "dobrze": "pkt",
+  "kontekst": "wysokości 12 pktt (punktów typograficznych)",
+  "wszedzie": true,
+  "powod": "podwojona litera"
+ },
+ {
+  "id": "*",
+  "zle": "poczatek",
+  "dobrze": "początek",
+  "kontekst": "średniowiecza? Na poczatek pytanie. Z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "reką",
+  "dobrze": "ręką",
+  "kontekst": "jednocześnie prawą reką dolną część",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "równoczesnie",
+  "dobrze": "równocześnie",
+  "kontekst": "obie choroby równoczesnie, głównie jesli",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "skapomocz",
+  "dobrze": "skąpomocz",
+  "kontekst": "mięśnia sercowego, skapomocz, stany gorączkowe,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "slazu",
+  "dobrze": "ślazu",
+  "kontekst": "lawendy, kwiat slazu, liść szałwii.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "smierć",
+  "dobrze": "śmierć",
+  "kontekst": "i nastąpi smierć. Dla tejże",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "troche",
+  "dobrze": "trochę",
+  "kontekst": "most? Zmieńmy troche temat. Na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "tysiaca",
+  "dobrze": "tysiąca",
+  "kontekst": "sprzed 12,5 tysiaca lat. To",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "własnie",
+  "dobrze": "właśnie",
+  "kontekst": "zamieniając się własnie w byka.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "zastapić",
+  "dobrze": "zastąpić",
+  "kontekst": "mogą go zastapić moszczem z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "*",
+  "zle": "żródło",
+  "dobrze": "źródło",
+  "kontekst": "przykładzie Teotihuacan, żródło wody może",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "01potop/potop",
+  "zle": "cos",
+  "dobrze": "coś",
+  "kontekst": "zupełnie cos innego: Noe!",
+  "wszedzie": false,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "01potop/potop",
+  "zle": "obraca-jącej",
+  "dobrze": "obracającej",
+  "kontekst": "powierzchni obraca-jącej się kuli",
+  "wszedzie": true,
+  "powod": "dzielenie wyrazu z łącznikiem w środku"
+ },
+ {
+  "id": "01potop/potop",
+  "zle": "obraca-jącej",
+  "dobrze": "obracającej",
+  "kontekst": "na powierzchni obraca-jącej się kuli ziemskiej? 3.",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "01potop/potop",
+  "zle": "odziaływuje",
+  "dobrze": "oddziaływuje",
+  "kontekst": "gdzie odziaływuje największa siła odśrodkowa",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "01potop/potop",
+  "zle": "ten w gąszcz",
+  "dobrze": "ten gąszcz",
+  "kontekst": "Wejdźmy w ten w gąszcz wiadomości",
+  "wszedzie": false,
+  "powod": "zbędne podwojone w"
+ },
+ {
+  "id": "01potop/potop",
+  "zle": "Zusiudra",
+  "dobrze": "Ziusudra",
+  "kontekst": "Utnapisztima (Zusiudra, sumeryjski Noe",
+  "wszedzie": true,
+  "powod": "przestawione litery; w tym artykule 4× „Ziusudra”"
+ },
+ {
+  "id": "02uskok/uskok",
+  "zle": "ałożeniem",
+  "dobrze": "założeniem",
+  "kontekst": "moim podstawowym ałożeniem i niektóre",
+  "wszedzie": false,
+  "powod": "brak pierwszej litery"
+ },
+ {
+  "id": "02uskok/uskok",
+  "zle": "nastepnej",
+  "dobrze": "następnej",
+  "kontekst": "przekazał termin nastepnej? Czy ten",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "02uskok/uskok",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "nie przejmując sie zbytnio",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "03majowie/52lata",
+  "zle": "ksiegą",
+  "dobrze": "księgą",
+  "kontekst": "zwanego \"ksiegą lat\"? Po co",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "03majowie/52lata",
+  "zle": "naistotniejszy",
+  "dobrze": "najistotniejszy",
+  "kontekst": "dla Majów naistotniejszy był kalendarz",
+  "wszedzie": true,
+  "powod": "zgubiona litera j"
+ },
+ {
+  "id": "03majowie/52lata",
+  "zle": "nastapi",
+  "dobrze": "nastąpi",
+  "kontekst": "sprawdzić, kiedy nastapi zakończenie 52-letniego",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "04chrono/chronos",
+  "zle": "archeocjały",
+  "dobrze": "archeocjaty",
+  "kontekst": "bakterie, trylobity, archeocjały.<br>535 mln lat",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "04chrono/chronos",
+  "zle": "dzięsięciu",
+  "dobrze": "dziesięciu",
+  "kontekst": "imiona dzięsięciu Neteru w kartuszach",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "04chrono/chronos",
+  "zle": "slimaki",
+  "dobrze": "ślimaki",
+  "kontekst": "lat:<br>nagonasienne, małże, slimaki, notozaury, tekodonty.<br>200",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "04chrono/chronos",
+  "zle": "wartstwie",
+  "dobrze": "warstwie",
+  "kontekst": "w wartstwie sprzed 200 mln lat",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "04chrono/chronos",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Sitchin twierdzi, ze miało to",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "05bogowie/bogowie",
+  "zle": "idż",
+  "dobrze": "idź",
+  "kontekst": "sprawiedliwości, idż ogłoś Strażnikom Niebios,",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "05bogowie/bogowie",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "udał sie w głąb",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "05bogowie/bogowie",
+  "zle": "starożyni",
+  "dobrze": "starożytni",
+  "kontekst": "że starożyni nie mówili prawdy",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "05bogowie/bogowie",
+  "zle": "stronie stronie",
+  "dobrze": "stronie",
+  "kontekst": "Po lewej stronie stronie rzeźba z El Baul",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "05bogowie/bogowie",
+  "zle": "szrańcza",
+  "dobrze": "szarańcza",
+  "kontekst": "w porównaniu z nimi jak szrańcza, i takimi",
+  "wszedzie": true,
+  "powod": "brak litery a"
+ },
+ {
+  "id": "06budowle/budowle",
+  "zle": "sta-rego",
+  "dobrze": "starego",
+  "kontekst": "z epoki tak bardzo sta-rego kamienia, że historycy",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "07piramidy/piramidy",
+  "zle": "ksiące",
+  "dobrze": "książce",
+  "kontekst": "w swej ksiące \"Ślady palców bogów\"",
+  "wszedzie": true,
+  "powod": "zła forma/brak liter"
+ },
+ {
+  "id": "07piramidy/piramidy",
+  "zle": "pepek",
+  "dobrze": "pępek",
+  "kontekst": "Henua\" - \"pepek świata\", którego",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "07piramidy/piramidy",
+  "zle": "wiekim",
+  "dobrze": "wielkim",
+  "kontekst": "na tym \"wiekim obszarze\" leżał",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "08egipt/egipt",
+  "zle": "Bog",
+  "dobrze": "Bóg",
+  "kontekst": "Bog Ra ze swoim orszakiem",
+  "wszedzie": false,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "08egipt/egipt",
+  "zle": "odpowiedż",
+  "dobrze": "odpowiedź",
+  "kontekst": "grobowce\", dała odpowiedż na pytania:",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "08egipt/egipt",
+  "zle": "zółty",
+  "dobrze": "żółty",
+  "kontekst": "Przecina on zółty obszar, który",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "09tiahu/tiahua",
+  "zle": "czwronożnego",
+  "dobrze": "czworonożnego",
+  "kontekst": "okolicy naczyniach czwronożnego shelidoterium i",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "09tiahu/tiahua",
+  "zle": "poczatku",
+  "dobrze": "początku",
+  "kontekst": "już na poczatku. Poczytajmy więc,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "09tiahu/tiahua",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "tak olbrzymich, ze trudno sobie",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "10woda/bogwody",
+  "zle": "po po",
+  "dobrze": "po",
+  "kontekst": "wzgórze i cytadela) po po prawej ruiny",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "10woda/bogwody",
+  "zle": "wyjasnił",
+  "dobrze": "wyjaśnił",
+  "kontekst": "podziemne tunele, wyjasnił mi burmistrz,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "10woda/bogwody",
+  "zle": "znich",
+  "dobrze": "z nich",
+  "kontekst": "a dwie znich do piramidy",
+  "wszedzie": true,
+  "powod": "sklejone słowa"
+ },
+ {
+  "id": "11atlantyda/atlant",
+  "zle": "tysiacach",
+  "dobrze": "tysiącach",
+  "kontekst": "Po 10 tysiacach lat na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "11atlantyda/atlant",
+  "zle": "zaciemniiła",
+  "dobrze": "zaciemniła",
+  "kontekst": "całkowicie zaciemniiła obraz historii naszej",
+  "wszedzie": true,
+  "powod": "podwojona litera"
+ },
+ {
+  "id": "12rzym/rzym",
+  "zle": "ewnetualności",
+  "dobrze": "ewentualności",
+  "kontekst": "utrzymanie. Takiej ewnetualności nikt nie",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "12rzym/rzym",
+  "zle": "przeprawiajacego",
+  "dobrze": "przeprawiającego",
+  "kontekst": "sprawnie przeprawiajacego się przez wodę",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "12rzym/rzym",
+  "zle": "rzymskiego ementu",
+  "dobrze": "rzymskiego cementu",
+  "kontekst": "porównano skład \"rzymskiego ementu\" we wszystkich",
+  "wszedzie": false,
+  "powod": "brak pierwszej litery"
+ },
+ {
+  "id": "12rzym/rzym",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "ma sie nijak do",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "bronia",
+  "dobrze": "bronią",
+  "kontekst": "z bronia w ręku",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "centkowanej",
+  "dobrze": "cętkowanej",
+  "kontekst": "zwierzęta o centkowanej sierści, koło",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "chrzescijaństwu",
+  "dobrze": "chrześcijaństwu",
+  "kontekst": "\"nowemu\" rzymskiemu chrzescijaństwu. Ostatni Katarowie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "ciagu",
+  "dobrze": "ciągu",
+  "kontekst": "zamków w ciagu roku",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "Cóz",
+  "dobrze": "Cóż",
+  "kontekst": "Cóz z tego, skoro w tych",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "fundanentach",
+  "dobrze": "fundamentach",
+  "kontekst": "stoi na fundanentach cywilizacji, która",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "kaklizmem",
+  "dobrze": "kataklizmem",
+  "kontekst": "zniszczonej kaklizmem schedy",
+  "wszedzie": true,
+  "powod": "zgubiona sylaba"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "kilkudziesięcu",
+  "dobrze": "kilkudziesięciu",
+  "kontekst": "kilkudziesięcu ludzi dosłownie roznosiło go",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "kontynetalnych",
+  "dobrze": "kontynentalnych",
+  "kontekst": "pobierał u kontynetalnych chrześcijan by",
+  "wszedzie": true,
+  "powod": "zgubiona litera n"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "kształ",
+  "dobrze": "kształt",
+  "kontekst": "Na dziwny kształ zamku zwrócił",
+  "wszedzie": true,
+  "powod": "brak litery t"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "Ludnośc",
+  "dobrze": "Ludność",
+  "kontekst": "Ludnośc Europy to autochtoni, a nie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "najeźców",
+  "dobrze": "najeźdźców",
+  "kontekst": "zniszczeniu przez najeźców, winny być",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "pamiatkę",
+  "dobrze": "pamiątkę",
+  "kontekst": "na wieczną pamiatkę wykuwali kamienny",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "Portugali",
+  "dobrze": "Portugalii",
+  "kontekst": "i od Portugali po Armenię, a",
+  "wszedzie": false,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "odnosiło sie to do",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "śródziemnomosrkiego",
+  "dobrze": "śródziemnomorskiego",
+  "kontekst": "podobnej do klimatu śródziemnomosrkiego, a wiec",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "światynią",
+  "dobrze": "świątynią",
+  "kontekst": "zrobić ze światynią pasującą jedynie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "świetą",
+  "dobrze": "świętą",
+  "kontekst": "i Trójcę świetą wytłumaczył tubylcom",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "tożsamośc",
+  "dobrze": "tożsamość",
+  "kontekst": "nowo swoją tożsamośc, choć w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "watpliwości",
+  "dobrze": "wątpliwości",
+  "kontekst": "Nachodzą mnie watpliwości co do",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "wiec",
+  "dobrze": "więc",
+  "kontekst": "a wiec takiego gdzie",
+  "wszedzie": false,
+  "powod": "brak ogonka w „więc”"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "Więć",
+  "dobrze": "Więc",
+  "kontekst": "Prawdopodobnie nie. Więć z skąd",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "większośc",
+  "dobrze": "większość",
+  "kontekst": "tego, że większośc terenów Europy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "współczesni",
+  "dobrze": "współcześni",
+  "kontekst": "powiedzenia niż współczesni historycy. Wróćmy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "zatrzymac",
+  "dobrze": "zatrzymać",
+  "kontekst": "tego chciałbym zatrzymac się na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "zniszczniu",
+  "dobrze": "zniszczeniu",
+  "kontekst": "uległo zniszczniu w wielkim trzęsieniu ziemi",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "13celtowie/celt",
+  "zle": "zróznicowanie",
+  "dobrze": "zróżnicowanie",
+  "kontekst": "wpływ na zróznicowanie poszczególnych grup",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "atmosfere",
+  "dobrze": "atmosferę",
+  "kontekst": "bombardujących naszą atmosfere powinno już",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "bronia",
+  "dobrze": "bronią",
+  "kontekst": "UFO a bronia nuklearną",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "byc",
+  "dobrze": "być",
+  "kontekst": "nie może byc bardziej czytelna!",
+  "wszedzie": true,
+  "powod": "brak ogonka w „być”"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "choc",
+  "dobrze": "choć",
+  "kontekst": "choc jestem tu zatrudniony od",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ciażącej",
+  "dobrze": "ciążącej",
+  "kontekst": "z odpowiedzialności ciażącej za implikacje,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ciężarowki",
+  "dobrze": "ciężarówki",
+  "kontekst": "że ciężarowki nie przewożą kontenerów",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "działaność",
+  "dobrze": "działalność",
+  "kontekst": "czy też działaność wulkanu jest",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "dzwignia",
+  "dobrze": "dźwignią",
+  "kontekst": "staniemy się dzwignia na całe",
+  "wszedzie": false,
+  "powod": "brak polskich znaków"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "jestesmy",
+  "dobrze": "jesteśmy",
+  "kontekst": "w kosmosie nie jestesmy sami, a otacza",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "kształ",
+  "dobrze": "kształt",
+  "kontekst": "czegoś na kształ chmury meteorów",
+  "wszedzie": true,
+  "powod": "brak litery t"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "majacych",
+  "dobrze": "mających",
+  "kontekst": "3-dniowych ćwiczeniach majacych na celu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "minely",
+  "dobrze": "minęły",
+  "kontekst": "to zobaczyłem minely jakieś 3",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "mineło",
+  "dobrze": "minęło",
+  "kontekst": "że niebezpieczństwo mineło. Wręcz przeciwnie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "możę",
+  "dobrze": "może",
+  "kontekst": "może analogią możę być zbożowy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "następujacych",
+  "dobrze": "następujących",
+  "kontekst": "(NASA) brakuje następujacych fragmentów: 3-A",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "niebezpieczństwo",
+  "dobrze": "niebezpieczeństwo",
+  "kontekst": "że niebezpieczństwo mineło. Wręcz przeciwnie",
+  "wszedzie": true,
+  "powod": "brak litery e"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "odtrzeżenie",
+  "dobrze": "ostrzeżenie",
+  "kontekst": "Pierwsze odtrzeżenie nada CNN",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "parajacych",
+  "dobrze": "parających",
+  "kontekst": "przez ludzi parajacych się fałszerstwem",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "poblizu",
+  "dobrze": "pobliżu",
+  "kontekst": "Atlantyk w poblizu Azorów. ---",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "potwierdzły",
+  "dobrze": "potwierdziły",
+  "kontekst": "a potwierdzły włoskie obserwatoria",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "powiadomoli",
+  "dobrze": "powiadomili",
+  "kontekst": "nie powiadomoli policji o starcie",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "przemieszcza sie szybciej niż",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "się się",
+  "dobrze": "się",
+  "kontekst": "wydarzyło się się 6.09.2003 r.",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "swieżości",
+  "dobrze": "świeżości",
+  "kontekst": "na zachowanie swieżości), konserwy mięsne",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "śledza",
+  "dobrze": "śledzą",
+  "kontekst": "którzy śledza tabelę. Spodziewana data",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "wiażę",
+  "dobrze": "wiążę",
+  "kontekst": "ja osobiście wiażę z niechęcią",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "widzialem",
+  "dobrze": "widziałem",
+  "kontekst": "nigdy nie widzialem zaopatrzenia takiego",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "wygladać",
+  "dobrze": "wyglądać",
+  "kontekst": "przestaje to wygladać na przypadek.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "wygladają",
+  "dobrze": "wyglądają",
+  "kontekst": "Czasu Tak wygladają bliższe szczegóły",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "zależalo",
+  "dobrze": "zależało",
+  "kontekst": "(wszystko będzie zależalo od aktywności",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Wiem, ze mamy podpisany",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Wydaje się, ze wygląd (aspekt",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "do wniosku, ze wolność jest",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "w to, ze możecie znaleźć",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "ignoruje fakt, ze istoty pozaziemskie",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "świadomość, ze duża liczba",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "świadomość, ze nie wszystkie",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "nie to, ze działalność istot",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "zdecydujecie, ze taki kontakt",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "byłoby to, ze ludzkość stałaby",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Wiemy, ze obcy uważani",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "mogą myśleć, ze chcemy byście",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "uwierzyli, ze sami wybraliście,",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "znajduja",
+  "dobrze": "znajdują",
+  "kontekst": "trzęsienia ziemi znajduja się zabytki",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "znalezliśmy",
+  "dobrze": "znaleźliśmy",
+  "kontekst": "złapanie), i znalezliśmy paczki z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "25maja2006/maj25",
+  "zle": "ZYJEMY",
+  "dobrze": "ŻYJEMY",
+  "kontekst": "życie. MY ZYJEMY! W waszej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "ameryka/folklor",
+  "zle": "katastrowie",
+  "dobrze": "katastrofie",
+  "kontekst": "kosmicznej katastrowie Planety X (Tiamat)",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "ameryka/folklor",
+  "zle": "latajacego",
+  "dobrze": "latającego",
+  "kontekst": "porównanie latajacego węża do współczesnego samolotu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "ameryka/folklor",
+  "zle": "najbardzie",
+  "dobrze": "najbardziej",
+  "kontekst": "te najbardzie znane lub charakterystyczne",
+  "wszedzie": true,
+  "powod": "brak liter"
+ },
+ {
+  "id": "ameryka/folklor",
+  "zle": "okrywajace",
+  "dobrze": "okrywające",
+  "kontekst": "ujrzeć pióra okrywajace ciało węża,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "ameryka/folklor",
+  "zle": "przewyższajace",
+  "dobrze": "przewyższające",
+  "kontekst": "tworzyć dzieła przewyższajace europejskie i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "ameryka/folklor",
+  "zle": "wartstwa",
+  "dobrze": "warstwa",
+  "kontekst": "wierzchnia wartstwa zawaliła się tak",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "ameryka/folklor",
+  "zle": "Współczesni",
+  "dobrze": "Współcześni",
+  "kontekst": "Mało tego. Współczesni historycy z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "ameryka/folklor",
+  "zle": "zauważyc",
+  "dobrze": "zauważyć",
+  "kontekst": "też trudno zauważyc miejsce dla",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "ameryka/machu",
+  "zle": "identycznę",
+  "dobrze": "identyczną",
+  "kontekst": "prawie identycznę budowlę spotykamy w Pisaq",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "ameryka/machu",
+  "zle": "powiekszać",
+  "dobrze": "powiększać",
+  "kontekst": "by nie powiekszać ilości i",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "ameryka/machu",
+  "zle": "scieżek",
+  "dobrze": "ścieżek",
+  "kontekst": "poskręcanych scieżek, mnóstwo kamiennych",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "ameryka/machu",
+  "zle": "stawarza",
+  "dobrze": "stwarza",
+  "kontekst": "Całość nie stawarza wrażenia ani",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "ameryka/machu",
+  "zle": "światyni",
+  "dobrze": "świątyni",
+  "kontekst": "wyobrażenie o światyni pasuje do",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "ameryka/machu",
+  "zle": "zewnetrznej",
+  "dobrze": "zewnętrznej",
+  "kontekst": "po stronie zewnetrznej, umieszczono kamienne",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "ameryka/sacsay",
+  "zle": "jakielkolwiek",
+  "dobrze": "jakiejkolwiek",
+  "kontekst": "z jakielkolwiek zaprawy łączącej",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "ameryka/sacsay",
+  "zle": "precyjnie",
+  "dobrze": "precyzyjnie",
+  "kontekst": "gdzie precyjnie wycięto w tej",
+  "wszedzie": true,
+  "powod": "brak litery z"
+ },
+ {
+  "id": "ameryka/sacsay",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "kryje sie w nim",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "ankietabo",
+  "zle": "pań-stwowych",
+  "dobrze": "państwowych",
+  "kontekst": "służb i instytucji pań-stwowych, o których mowa w",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "ankietabo",
+  "zle": "pukcie",
+  "dobrze": "punkcie",
+  "kontekst": "W pukcie 1 - Osoba podlegająca",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "ankietabo",
+  "zle": "upraw-nione",
+  "dobrze": "uprawnione",
+  "kontekst": "instytucje państwowe upraw-nione do wykonywania",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "ankietabo",
+  "zle": "własciwe",
+  "dobrze": "właściwe",
+  "kontekst": "naukowe: wymienić własciwe - wyższe,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "antypol/wqrwiaczek",
+  "zle": "udreką",
+  "dobrze": "udręką",
+  "kontekst": "przed urzędową udreką. To jest",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "antypol/wqrwiaczek",
+  "zle": "zreszta",
+  "dobrze": "zresztą",
+  "kontekst": "fotelach, które zreszta nie są",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "arginesie",
+  "dobrze": "marginesie",
+  "kontekst": "napisał na arginesie tego wydarzenia:",
+  "wszedzie": false,
+  "powod": "brak pierwszej litery"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "boicybernetycznymi",
+  "dobrze": "biocybernetycznymi",
+  "kontekst": "być takimi boicybernetycznymi istotami, których",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "brutalnoscia",
+  "dobrze": "brutalnością",
+  "kontekst": "siłą i brutalnoscia nie uchroniły go",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "Całośc",
+  "dobrze": "Całość",
+  "kontekst": "Całośc przedsięwzięcia odbywała się pod",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "forme",
+  "dobrze": "formę",
+  "kontekst": "przybierały u ludzi forme klasycznych objawów",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "Miedzynarodowej",
+  "dobrze": "Międzynarodowej",
+  "kontekst": "czasie II Miedzynarodowej Konferencji Ufologicznej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "mówic",
+  "dobrze": "mówić",
+  "kontekst": "na Ziemię mówic o tym",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "musza",
+  "dobrze": "muszą",
+  "kontekst": "i powietrzne musza posiadać także",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "musze",
+  "dobrze": "muszę",
+  "kontekst": "Na koniec musze powiedzieć jeszcze",
+  "wszedzie": false,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "nadnaturalnosci",
+  "dobrze": "nadnaturalności",
+  "kontekst": "z pierwiastkiem nadnaturalnosci, które dziś",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "okoo",
+  "dobrze": "około",
+  "kontekst": "tegoż miesiąca okoo godziny 10 w",
+  "wszedzie": true,
+  "powod": "zgubiona litera ł"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "panujacemu",
+  "dobrze": "panującemu",
+  "kontekst": "Wbrew powszechnie panujacemu daenikenowskiemu poglądowi",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "pasuja",
+  "dobrze": "pasują",
+  "kontekst": "miejscu, doskonale pasuja do naszej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "Poglad",
+  "dobrze": "Pogląd",
+  "kontekst": "wielkiej mocy. Poglad ten już",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "Przeciez",
+  "dobrze": "Przecież",
+  "kontekst": "w Mohendjo-Daro. Przeciez wielu atlantologów",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "smierci",
+  "dobrze": "śmierci",
+  "kontekst": "który po smierci prof. J.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "stac",
+  "dobrze": "stać",
+  "kontekst": "toru mogła stac się jednym",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "Starożytnosci",
+  "dobrze": "Starożytności",
+  "kontekst": "wojskowości, armie Starożytnosci posiadały całkiem",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "tez",
+  "dobrze": "też",
+  "kontekst": "C. one tez miały swój",
+  "wszedzie": false,
+  "powod": "brak ogonka w „też”"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "tez",
+  "dobrze": "też",
+  "kontekst": "dlatego tez latają wokół",
+  "wszedzie": false,
+  "powod": "brak ogonka w „też”"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "wkodowuja",
+  "dobrze": "wkodowują",
+  "kontekst": "po prostu wkodowuja w mózgi to",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "wyciagnięcie",
+  "dobrze": "wyciągnięcie",
+  "kontekst": "to na wyciagnięcie paskudnego wniosku,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "wysokosci",
+  "dobrze": "wysokości",
+  "kontekst": "miejsce na wysokosci 3-5 km,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "zakłopotami",
+  "dobrze": "zakłopotani",
+  "kontekst": "sanskryckie są zakłopotami, nie mogąc",
+  "wszedzie": true,
+  "powod": "zła końcówka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "badania wykazały, ze w 700 tonach",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "drobiazgu, ze w twierdzy wody",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Ivo Wiesner twierdzi, ze wytworzenie takiej",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "wydaje to, ze nikt nie wytoczył",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "wygląda na to, ze głowice nie",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "zagroziła mi, ze mnie",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "zbieg okoliczności, ze w latach 1540-1580",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "myśleli, ze idzie o któryś",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "do tego, ze często latały",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "odpowiedziała, ze nie wiedziała",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "dlatego, ze Obcy im po prostu",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "ujrzał, ze kobieta znikła,",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Grecy uważali, ze atom jest",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "szczegółowo, ze wydaje się niemożliwe,",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "sprawiał, ze mogło tu rozwijać",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "sprawiając, ze wielbłądy już",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Wydaje się, ze cywilizacja ta",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Badania wykazały, ze zwierzę, chociaż",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "NASA wykazały, ze te właśnie",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "tym bardziej, ze ci sami",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Wydaje się jednak, ze nie ma",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "myśli, ze zostali oni",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "atomwoj/bogatom01",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Wiadomo, ze stosunkowo niedawno",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "blazenada/zarty",
+  "zle": "cierpiąły",
+  "dobrze": "cierpiały",
+  "kontekst": "krótko cierpiąły na bębnicę",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "blazenada/zarty",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "posługiwali sie telegrafem.",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "blazenada/zarty",
+  "zle": "wpłw",
+  "dobrze": "wpływ",
+  "kontekst": "odporna na wpłw alkoholu niż rasa",
+  "wszedzie": true,
+  "powod": "brak litery y"
+ },
+ {
+  "id": "blazenada/zarty",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Trzeba jeszcze dodać, ze ówczesne",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "blogier",
+  "zle": "Biorąć",
+  "dobrze": "Biorąc",
+  "kontekst": "Biorąć pod uwagę, że pierwsze",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "Ciakawe",
+  "dobrze": "Ciekawe",
+  "kontekst": "Ciakawe, czy te jaskółki, to",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "blogier",
+  "zle": "dopłynąc",
+  "dobrze": "dopłynąć",
+  "kontekst": "na lądowisko dopłynąc łódką z pracownikami",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier",
+  "zle": "doprowadzic",
+  "dobrze": "doprowadzić",
+  "kontekst": "ma na celu doprowadzic do takich zmian",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier",
+  "zle": "działaności",
+  "dobrze": "działalności",
+  "kontekst": "prowadzenia działaności gospodarczej i nielegalną",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "blogier",
+  "zle": "giantycznym",
+  "dobrze": "gigantycznym",
+  "kontekst": "utknęli w giantycznym korku nie",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "blogier",
+  "zle": "kontenstowaniu",
+  "dobrze": "kontestowaniu",
+  "kontekst": "Po półrocznym kontenstowaniu naszej rzeczywistości",
+  "wszedzie": true,
+  "powod": "dodatkowa litera n"
+ },
+ {
+  "id": "blogier",
+  "zle": "kontygentu",
+  "dobrze": "kontyngentu",
+  "kontekst": "od jakiegoś naszego kontygentu wojskowego",
+  "wszedzie": true,
+  "powod": "brak litery n"
+ },
+ {
+  "id": "blogier",
+  "zle": "miedzynarodową",
+  "dobrze": "międzynarodową",
+  "kontekst": "powiązane z miedzynarodową sześcioramienną gwiazdą.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "miłośc",
+  "dobrze": "miłość",
+  "kontekst": "potrwa ta miłośc do KGB,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "niemyśleć",
+  "dobrze": "nie myśleć",
+  "kontekst": "zaczał niemyśleć? Kto stworzył",
+  "wszedzie": true,
+  "powod": "sklejone słowa"
+ },
+ {
+  "id": "blogier",
+  "zle": "niespotykanę",
+  "dobrze": "niespotykane",
+  "kontekst": "zaplanował tak niespotykanę emigrację najzdolniejszych",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "pamietaj",
+  "dobrze": "pamiętaj",
+  "kontekst": "- \"Lekarzu pamietaj, że każdy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "pociagu",
+  "dobrze": "pociągu",
+  "kontekst": "\"wypadli z pociagu\"? Nic..., odejdą",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "podliczło",
+  "dobrze": "podliczyło",
+  "kontekst": "biuro polityczne podliczło straty i natychmiast",
+  "wszedzie": true,
+  "powod": "zgubiona litera y"
+ },
+ {
+  "id": "blogier",
+  "zle": "podnieśc",
+  "dobrze": "podnieść",
+  "kontekst": "sakramentalne \"proszę podnieśc rękę i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "porówuję",
+  "dobrze": "porównuję",
+  "kontekst": "Obecną sytuację porówuję do XVIII",
+  "wszedzie": true,
+  "powod": "brak litery n"
+ },
+ {
+  "id": "blogier",
+  "zle": "przewodniczacy",
+  "dobrze": "przewodniczący",
+  "kontekst": "celnej. Pan przewodniczacy już zapowiedział,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "rekę",
+  "dobrze": "rękę",
+  "kontekst": "lub \"podnieść rekę i nacisnąć",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "Rzeczywistośc",
+  "dobrze": "Rzeczywistość",
+  "kontekst": "na pukiel. Rzeczywistośc jest jednak",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "trzymajacej",
+  "dobrze": "trzymającej",
+  "kontekst": "także grupy \"trzymajacej glebę\" po",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "wschodzace",
+  "dobrze": "wschodzące",
+  "kontekst": "cierpi także \"wschodzace słońce\" Korei",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "wyciaga",
+  "dobrze": "wyciąga",
+  "kontekst": "którego najpierw wyciaga się \"brud\",",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "wyłożyc",
+  "dobrze": "wyłożyć",
+  "kontekst": "które trzeba wyłożyc duże pieniądze.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "zaczał",
+  "dobrze": "zaczął",
+  "kontekst": "odrętwienie i zaczał niemyśleć? Kto",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "blogier",
+  "zle": "zakończenim",
+  "dobrze": "zakończeniem",
+  "kontekst": "wraz z zakończenim prac słynnej",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "blogier",
+  "zle": "zanienił",
+  "dobrze": "zamienił",
+  "kontekst": "sekundach zanienił się w stratę",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "zezwięrzęcenie",
+  "dobrze": "zezwierzęcenie",
+  "kontekst": "i wykorzenić zezwięrzęcenie w polskim",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "zobaczyc",
+  "dobrze": "zobaczyć",
+  "kontekst": "który może zobaczyc każdy Polak",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier",
+  "zle": "ża",
+  "dobrze": "że",
+  "kontekst": "którego wynika, ża naród w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "cene",
+  "dobrze": "cenę",
+  "kontekst": "za wszelką cene usiłuje ratować",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier2",
+  "zle": "domyslać",
+  "dobrze": "domyślać",
+  "kontekst": "można się domyslać, które państwo je",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier2",
+  "zle": "duzy",
+  "dobrze": "duży",
+  "kontekst": "frakcji \"duzy wigwam\" zapodał",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier2",
+  "zle": "króry",
+  "dobrze": "który",
+  "kontekst": "soft-pracownikiem, króry zabawiał esbeków",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "blogier2",
+  "zle": "kużnię",
+  "dobrze": "kuźnię",
+  "kontekst": "jedną \"kużnię\", która teraz ma",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "blogier2",
+  "zle": "najwiecej",
+  "dobrze": "najwięcej",
+  "kontekst": "partia wydała najwiecej tzw. \"businesssmanów\",",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "pięniadze",
+  "dobrze": "pieniądze",
+  "kontekst": "chodzi o pięniadze i być",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "podac",
+  "dobrze": "podać",
+  "kontekst": "odważył się podac nogę na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "ponoc",
+  "dobrze": "ponoć",
+  "kontekst": "telewizorek, ale ponoc preferuje książki",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "powiekszając",
+  "dobrze": "powiększając",
+  "kontekst": "metan powiekszając tym samym",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "powiniem",
+  "dobrze": "powinien",
+  "kontekst": "szef kuchni nie powiniem tak mówić",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "urzadzeń",
+  "dobrze": "urządzeń",
+  "kontekst": "warunkowany sprawnością urzadzeń chłodniczych, a",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "watpliwości",
+  "dobrze": "wątpliwości",
+  "kontekst": "nie ulega watpliwości, że to",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "wedyktu",
+  "dobrze": "werdyktu",
+  "kontekst": "niepewność, co do wedyktu",
+  "wszedzie": true,
+  "powod": "brak litery r"
+ },
+ {
+  "id": "blogier2",
+  "zle": "weżmie",
+  "dobrze": "weźmie",
+  "kontekst": "powiedzie, Izrael weżmie sprawę w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "wyladował",
+  "dobrze": "wylądował",
+  "kontekst": "lotniczych łagodnie wyladował na wojskowym",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier2",
+  "zle": "wyróznić",
+  "dobrze": "wyróżnić",
+  "kontekst": "tych można wyróznić trzy -",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "duszparsterstwa",
+  "dobrze": "duszpasterstwa",
+  "kontekst": "dodatek pozbawiony duszparsterstwa u Ormian.",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "blogier3",
+  "zle": "kurio-zalnej",
+  "dobrze": "kuriozalnej",
+  "kontekst": "na tym, że kartki tej kurio-zalnej będą czarne i druk też",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "blogier3",
+  "zle": "marskistowsko",
+  "dobrze": "marksistowsko",
+  "kontekst": "czyni z partii marskistowsko-leninowskiej partię",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "blogier3",
+  "zle": "mogąć",
+  "dobrze": "mogąc",
+  "kontekst": "\"w zawiasach\" mogąć być dalej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "Najprawdopodbniej",
+  "dobrze": "Najprawdopodobniej",
+  "kontekst": "Najprawdopodbniej członkowie Sam00brony do dziś",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "blogier3",
+  "zle": "nakowej",
+  "dobrze": "naukowej",
+  "kontekst": "napisanie pracy nakowej na temat",
+  "wszedzie": true,
+  "powod": "brak litery u"
+ },
+ {
+  "id": "blogier3",
+  "zle": "napierw",
+  "dobrze": "najpierw",
+  "kontekst": "o to napierw komuniści, a potem",
+  "wszedzie": true,
+  "powod": "brak litery j"
+ },
+ {
+  "id": "blogier3",
+  "zle": "niecnierobienia",
+  "dobrze": "nicnierobienia",
+  "kontekst": "do słodkiego niecnierobienia w tym zakresie.",
+  "wszedzie": true,
+  "powod": "dodatkowa litera e"
+ },
+ {
+  "id": "blogier3",
+  "zle": "Obrazonych",
+  "dobrze": "Obrażonych",
+  "kontekst": "z Partii Obrazonych, startująca do",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "ogromnnych",
+  "dobrze": "ogromnych",
+  "kontekst": "w ogromnnych ilościach i to",
+  "wszedzie": true,
+  "powod": "podwojona litera"
+ },
+ {
+  "id": "blogier3",
+  "zle": "osiagają",
+  "dobrze": "osiągają",
+  "kontekst": "roku. Szczyt osiagają zwykle przed",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "pamietać",
+  "dobrze": "pamiętać",
+  "kontekst": "Trzeba jednak pamietać, że tam",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "próźb",
+  "dobrze": "próśb",
+  "kontekst": "nie wysłuchał próźb i odesłał je",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "blogier3",
+  "zle": "przecieko",
+  "dobrze": "przeciwko",
+  "kontekst": "z nami jest przecieko nam",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "rozpoczał",
+  "dobrze": "rozpoczął",
+  "kontekst": "się nie rozpoczał, bo pan",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "nie mogie sie utrzymać",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "blogier3",
+  "zle": "skromnośc",
+  "dobrze": "skromność",
+  "kontekst": "Wrodzona (hehehe) skromnośc przebija przez",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "spłyneły",
+  "dobrze": "spłynęły",
+  "kontekst": "na Węgrzech spłyneły po całym",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "świetą",
+  "dobrze": "świętą",
+  "kontekst": "przed mszą świetą udali się",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "wegiersku",
+  "dobrze": "węgiersku",
+  "kontekst": "gulasz po wegiersku, a wyszła",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "więć",
+  "dobrze": "więc",
+  "kontekst": "zniknał. Rozesłano więć listy gończe",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "współpracownikem",
+  "dobrze": "współpracownikiem",
+  "kontekst": "Kuroń był współpracownikem bezpieki, bo",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "blogier3",
+  "zle": "wystapił",
+  "dobrze": "wystąpił",
+  "kontekst": "wykonał zadanie\"), wystapił w obronie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "zacząc",
+  "dobrze": "zacząć",
+  "kontekst": "to, by zacząc coś majstrować",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "zakrzyknał",
+  "dobrze": "zakrzyknął",
+  "kontekst": "Donald teatralnie zakrzyknał -",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "zapowiadaja",
+  "dobrze": "zapowiadają",
+  "kontekst": "pracownicy już zapowiadaja odwet przy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "zepchneły",
+  "dobrze": "zepchnęły",
+  "kontekst": "północnego Atlantyku zepchneły osady",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "zniknał",
+  "dobrze": "zniknął",
+  "kontekst": "pan Hubert zniknał. Rozesłano więć",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier3",
+  "zle": "zobaczyc",
+  "dobrze": "zobaczyć",
+  "kontekst": "już można zobaczyc podobne \"anomalie\".",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier4",
+  "zle": "antyterrorystycznm",
+  "dobrze": "antyterrorystycznym",
+  "kontekst": "równych jednostkom antyterrorystycznm. Stara ZOMOwska",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "blogier4",
+  "zle": "Całośc",
+  "dobrze": "Całość",
+  "kontekst": "Całośc \"vaginowej\" afery, to nic",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier4",
+  "zle": "cieplarniamym",
+  "dobrze": "cieplarnianym",
+  "kontekst": "w efekcie cieplarniamym miał i ma",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "blogier4",
+  "zle": "cudotwóca",
+  "dobrze": "cudotwórca",
+  "kontekst": "udziela ten \"nauczyciel-cudotwóca\". Musicie zaprzyjaźnić",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "blogier4",
+  "zle": "Do-wcipne",
+  "dobrze": "Dowcipne",
+  "kontekst": "staje się człowiekiem. Do-wcipne te chłopy z Wysokiej",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "blogier4",
+  "zle": "dopoty",
+  "dobrze": "dopóty",
+  "kontekst": "można tylko dopoty posługiwać się jako",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier4",
+  "zle": "doprowadzic",
+  "dobrze": "doprowadzić",
+  "kontekst": "ma na celu doprowadzic do takich zmian",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier4",
+  "zle": "isć",
+  "dobrze": "iść",
+  "kontekst": "będą musieli isć do lekarza, bo",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier4",
+  "zle": "jajcarskin",
+  "dobrze": "jajcarskim",
+  "kontekst": "w walce z jajcarskin wodzem oddziału",
+  "wszedzie": true,
+  "powod": "zła litera w końcówce"
+ },
+ {
+  "id": "blogier4",
+  "zle": "kontygent",
+  "dobrze": "kontyngent",
+  "kontekst": "bo zanim kontygent tam dotrze",
+  "wszedzie": true,
+  "powod": "brak litery n"
+ },
+ {
+  "id": "blogier4",
+  "zle": "kóry",
+  "dobrze": "który",
+  "kontekst": "Białegostoku, kóry obiecał",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "blogier4",
+  "zle": "ogłądane",
+  "dobrze": "oglądane",
+  "kontekst": "jedyne wiadomości ogłądane przez was",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "blogier4",
+  "zle": "pociaga",
+  "dobrze": "pociąga",
+  "kontekst": "a kto pociaga za sznurki",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier4",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "stało sie to w szpitalu",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "blogier4",
+  "zle": "ściagalność",
+  "dobrze": "ściągalność",
+  "kontekst": "jak największą ściagalność pieniędzy, z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier4",
+  "zle": "to to",
+  "dobrze": "to",
+  "kontekst": "Skąd się to to wzięło?",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "blogier4",
+  "zle": "wciągnieta",
+  "dobrze": "wciągnięta",
+  "kontekst": "nie zostanie wciągnieta w wir rewolucji",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "blogier4",
+  "zle": "wiadomośc",
+  "dobrze": "wiadomość",
+  "kontekst": "by żadna wiadomośc nie wydostała",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier4",
+  "zle": "wnisków",
+  "dobrze": "wniosków",
+  "kontekst": "kilka wnisków Komitetu Naukowego Narodów",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "blogier5",
+  "zle": "badź",
+  "dobrze": "bądź",
+  "kontekst": "W każdym badź razie Partia Obrażonych",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "blogier5",
+  "zle": "dyslekcji",
+  "dobrze": "dysleksji",
+  "kontekst": "było jeszcze dyslekcji i ADHD,",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "blogier5",
+  "zle": "folozofii",
+  "dobrze": "filozofii",
+  "kontekst": "powrotu folozofii do polskich szkół",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "blogier5",
+  "zle": "kościółów",
+  "dobrze": "kościołów",
+  "kontekst": "wyburzeniu wszystkich kościółów w Polsce, ale",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "blogier5",
+  "zle": "Młodziez",
+  "dobrze": "Młodzież",
+  "kontekst": "które organizowała Młodziez Wszechpolska w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "mniejszośc",
+  "dobrze": "mniejszość",
+  "kontekst": "a o mniejszośc żydowską. Usunięcie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "poprzykęcać",
+  "dobrze": "poprzykręcać",
+  "kontekst": "jak poprzykęcać telewizory",
+  "wszedzie": true,
+  "powod": "brak litery r"
+ },
+ {
+  "id": "blogier5",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "pokazuje sie tylko do pasa,",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "blogier5",
+  "zle": "stanał",
+  "dobrze": "stanął",
+  "kontekst": "Na drodze stanał rząd ignorantów,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "światecznej",
+  "dobrze": "świątecznej",
+  "kontekst": "na orkiestrę światecznej pomocy. ---",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "utjaniono",
+  "dobrze": "utajniono",
+  "kontekst": "ponieważ proces utjaniono i opinia publiczna",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "blogier5",
+  "zle": "wiadomośc",
+  "dobrze": "wiadomość",
+  "kontekst": "tym, że wiadomośc podała \"Gazeta",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "wiekszości",
+  "dobrze": "większości",
+  "kontekst": "w przeogromnej wiekszości człowiek jest",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "zachodze",
+  "dobrze": "zachodzę",
+  "kontekst": "dalszym ciągu zachodze w głowę,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "zadługo",
+  "dobrze": "za długo",
+  "kontekst": "nie zadługo przejmie stery rządzenia",
+  "wszedzie": true,
+  "powod": "sklejone słowa"
+ },
+ {
+  "id": "blogier5",
+  "zle": "Zanaczył",
+  "dobrze": "Zaznaczył",
+  "kontekst": "Zanaczył, że przykręcenie nie jest",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "blogier5",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "twierdzi, ze propozycja miała",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Przykładowo, ze spalanie 10 kg",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "zgineła",
+  "dobrze": "zginęła",
+  "kontekst": "\"jeszcze nie zgineła, póki weksle",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "zrobic",
+  "dobrze": "zrobić",
+  "kontekst": "dyskusja, co zrobic z generałem.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier5",
+  "zle": "ża",
+  "dobrze": "że",
+  "kontekst": "\"przypomniał\" sobie, ża ma coś",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier6",
+  "zle": "do do",
+  "dobrze": "do",
+  "kontekst": "pisze do do maszałka sejmu",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "blogier6",
+  "zle": "kośći",
+  "dobrze": "kości",
+  "kontekst": "afrykańskiej kośći odtworzyli całą, zatroskaną",
+  "wszedzie": true,
+  "powod": "dodatkowy znak"
+ },
+ {
+  "id": "blogier6",
+  "zle": "którzy którzy",
+  "dobrze": "którzy",
+  "kontekst": "Ludzi, którzy którzy mieli wyniki",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "blogier6",
+  "zle": "maszałka",
+  "dobrze": "marszałka",
+  "kontekst": "pisze do do maszałka sejmu o",
+  "wszedzie": true,
+  "powod": "brak litery r"
+ },
+ {
+  "id": "blogier6",
+  "zle": "odpowiadaja",
+  "dobrze": "odpowiadają",
+  "kontekst": "krów nie odpowiadaja priony a",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier6",
+  "zle": "perwszy",
+  "dobrze": "pierwszy",
+  "kontekst": "To perwszy bezwzględny i cyniczny",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "blogier6",
+  "zle": "rózni",
+  "dobrze": "różni",
+  "kontekst": "że niewiele rózni się od",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier6",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "nie dajmy sie zwariować.",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "blogier6",
+  "zle": "spiworów",
+  "dobrze": "śpiworów",
+  "kontekst": "nie wychodzi ze spiworów, bo mróz",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "blogier6",
+  "zle": "stól",
+  "dobrze": "stół",
+  "kontekst": "gdyby nie stól, to by",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "blogier6",
+  "zle": "tylko tylko",
+  "dobrze": "tylko",
+  "kontekst": "przyspieszy tylko tylko naszą agonię.",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "blogier6",
+  "zle": "wiekszość",
+  "dobrze": "większość",
+  "kontekst": "ubolewa, że wiekszość wojskowych uważa",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "cybog/wstepcb",
+  "zle": "uzwględnić",
+  "dobrze": "uwzględnić",
+  "kontekst": "Jeśli jednak uzwględnić hipotezę Hapgooda",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "dziadek/dziadek",
+  "zle": "rozpoczał",
+  "dobrze": "rozpoczął",
+  "kontekst": "z Ostaszkowa rozpoczał się 4",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "dziadek/dziadek",
+  "zle": "tekscie",
+  "dobrze": "tekście",
+  "kontekst": "norymberskim. W tekscie wyroku nie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "dziadek/dziadek",
+  "zle": "w w",
+  "dobrze": "w",
+  "kontekst": "osób), w w Twerze (z obozu",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "grypa",
+  "zle": "aą",
+  "dobrze": "są",
+  "kontekst": "miedź - aą w owocach",
+  "wszedzie": false,
+  "powod": "brak litery"
+ },
+ {
+  "id": "grypa",
+  "zle": "chociać",
+  "dobrze": "chociaż",
+  "kontekst": "chociać i tu do walki",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "grypa",
+  "zle": "cytrym",
+  "dobrze": "cytryn",
+  "kontekst": "sok też z 5 cytrym, a w",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "grypa",
+  "zle": "kupe",
+  "dobrze": "kupę",
+  "kontekst": "walnie panie kupe na kable i prundu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "grypa",
+  "zle": "Pamietać",
+  "dobrze": "Pamiętać",
+  "kontekst": "i rejsów. Pamietać też należy,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "grypa",
+  "zle": "Pamietajmy",
+  "dobrze": "Pamiętajmy",
+  "kontekst": "mieli szczęście. Pamietajmy jednak, że",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "grypa",
+  "zle": "pieniadze",
+  "dobrze": "pieniądze",
+  "kontekst": "wyciągać teraz pieniadze od hodowców",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "grypa",
+  "zle": "pochłoneła",
+  "dobrze": "pochłonęła",
+  "kontekst": "roku 1957 pochłoneła około 1",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "grypa",
+  "zle": "samookalecznenia",
+  "dobrze": "samookaleczenia",
+  "kontekst": "samookalecznenia, a nawet samobójstwa",
+  "wszedzie": true,
+  "powod": "dodatkowe litery"
+ },
+ {
+  "id": "grypa",
+  "zle": "wykryty wykryty",
+  "dobrze": "wykryty",
+  "kontekst": "H5N1 wykryty wykryty na fermie",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "grypa",
+  "zle": "z z",
+  "dobrze": "z",
+  "kontekst": "do walki z z wirusem.",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "hawass/cwaniaki",
+  "zle": "konsekencji",
+  "dobrze": "konsekwencji",
+  "kontekst": "bez konsekencji uwidocznione na jednym",
+  "wszedzie": true,
+  "powod": "brak litery w"
+ },
+ {
+  "id": "hawass/cwaniaki",
+  "zle": "przyjemnośc",
+  "dobrze": "przyjemność",
+  "kontekst": "towarzyskie dają przyjemnośc obywatelowi. Agencje",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "hawass/cwaniaki",
+  "zle": "Przypuścmy",
+  "dobrze": "Przypuśćmy",
+  "kontekst": "Kto wziął? Przypuścmy rozumowanie absurdalne",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "hawass/hawass",
+  "zle": "beszcześci",
+  "dobrze": "bezcześci",
+  "kontekst": "się i beszcześci tylko dobra",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "hawass/hawass",
+  "zle": "chęc",
+  "dobrze": "chęć",
+  "kontekst": "to chęc zdobycia najcenniejszych zbiorów,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "hawass/hawass",
+  "zle": "o o",
+  "dobrze": "o",
+  "kontekst": "świadczyć by to mogło o o wiele, wiele starszym",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "hawass/hawass",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "okazało się, ze można je",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "henoch/henoch",
+  "zle": "otrzymamy otrzymamy",
+  "dobrze": "otrzymamy",
+  "kontekst": "364 dni otrzymamy otrzymamy dobę liczącą",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "henoch/henoch",
+  "zle": "snie",
+  "dobrze": "śnie",
+  "kontekst": "snem? We snie oglądamy coś,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "henoch/henoch",
+  "zle": "wiec",
+  "dobrze": "więc",
+  "kontekst": "Tak wiec słońce skończyło",
+  "wszedzie": false,
+  "powod": "brak ogonka w „więc”"
+ },
+ {
+  "id": "henoch/henoch",
+  "zle": "znaleźc",
+  "dobrze": "znaleźć",
+  "kontekst": "taką można znaleźc) i o",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "hipoteza/hipowusz2",
+  "zle": "ciepnym",
+  "dobrze": "cieplnym",
+  "kontekst": "z bilansem ciepnym, który mówi",
+  "wszedzie": true,
+  "powod": "brak litery l"
+ },
+ {
+  "id": "hipoteza/hipowusz2",
+  "zle": "sięgaja",
+  "dobrze": "sięgają",
+  "kontekst": "naukowcy. Oni sięgaja po peryferie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "hipoteza/hipowusz2",
+  "zle": "uczynił uczynił",
+  "dobrze": "uczynił",
+  "kontekst": "by pracowała za niego, uczynił uczynił swoim",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "insygnia/korony",
+  "zle": "atrubutów",
+  "dobrze": "atrybutów",
+  "kontekst": "odkryć znaczenie atrubutów występujących nad",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "insygnia/korony",
+  "zle": "Najbardzie",
+  "dobrze": "Najbardziej",
+  "kontekst": "Najbardzie prostą i nie mającą",
+  "wszedzie": true,
+  "powod": "brak liter"
+ },
+ {
+  "id": "insygnia/korony",
+  "zle": "oboku",
+  "dobrze": "obok",
+  "kontekst": "(na rysunku oboku). Podaję ją",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "insygnia/korony",
+  "zle": "patrirchów",
+  "dobrze": "patriarchów",
+  "kontekst": "w czasach patrirchów biblijnych.",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "insygnia/korony",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "podszywa sie pod inne",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "insygnia/korony",
+  "zle": "Wpółcześni",
+  "dobrze": "Współcześni",
+  "kontekst": "Wpółcześni egiptolodzy wmawiają nam, że",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "insygnia/korony",
+  "zle": "wystepujący",
+  "dobrze": "występujący",
+  "kontekst": "i oaz, wystepujący w postaci",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "insygnia/korony",
+  "zle": "zjednocznony",
+  "dobrze": "zjednoczony",
+  "kontekst": "reprezentowały zjednocznony Egipt",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "magister/magister",
+  "zle": "latch",
+  "dobrze": "latach",
+  "kontekst": "po tylu latch używania komputerów",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "magister/magister",
+  "zle": "proporscji",
+  "dobrze": "proporcji",
+  "kontekst": "odpowiednich proporscji treści pomiędzy poszczególnymi",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/akupresura",
+  "zle": "byc",
+  "dobrze": "być",
+  "kontekst": "musi byc poprzedzony masażem",
+  "wszedzie": true,
+  "powod": "brak ogonka w „być”"
+ },
+ {
+  "id": "medalt/akupresura",
+  "zle": "odkrzela",
+  "dobrze": "oskrzela",
+  "kontekst": "płuca i odkrzela (14)",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/akupresura",
+  "zle": "teresy",
+  "dobrze": "Teresy",
+  "kontekst": "oraz teresy Tuszyńskiej",
+  "wszedzie": false,
+  "powod": "imię małą literą"
+ },
+ {
+  "id": "medalt/akupresura",
+  "zle": "uciskajacych",
+  "dobrze": "uciskających",
+  "kontekst": "unikać butów uciskajacych stopę i",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/akupresura",
+  "zle": "zawansowane",
+  "dobrze": "zaawansowane",
+  "kontekst": "zawansowane choroby nowotworowe złośliwe",
+  "wszedzie": true,
+  "powod": "brak litery a"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "amerykanski",
+  "dobrze": "amerykański",
+  "kontekst": "przez amerykanski Urząd ds. Leków i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "byc",
+  "dobrze": "być",
+  "kontekst": "może byc bezpieczny, skoro",
+  "wszedzie": true,
+  "powod": "brak ogonka w „być”"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "gdyz",
+  "dobrze": "gdyż",
+  "kontekst": "na cukrzycę, gdyz przyspieszają rozwój chorób",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "naukowcow",
+  "dobrze": "naukowców",
+  "kontekst": "30°C. Zdaniem naukowcow jedzenie aspartamu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "niz",
+  "dobrze": "niż",
+  "kontekst": "temperatury wyższej niz 30°C. Zdaniem",
+  "wszedzie": false,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "przeczyszczajace",
+  "dobrze": "przeczyszczające",
+  "kontekst": "herbata, środki przeczyszczajace, mrożone desery,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "skladnik",
+  "dobrze": "składnik",
+  "kontekst": "torebkach). Kolejny skladnik aspartamu -",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "wiecej",
+  "dobrze": "więcej",
+  "kontekst": "metanolu! Co wiecej, organizm lepiej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "zażywac",
+  "dobrze": "zażywać",
+  "kontekst": "nie wolno zażywac kobietom w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "zeznajac",
+  "dobrze": "zeznając",
+  "kontekst": "Elsas, zeznajac przed Kongresem",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "zostal",
+  "dobrze": "został",
+  "kontekst": "handlu, dlaczego zostal w końcu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "zwlaszcza",
+  "dobrze": "zwłaszcza",
+  "kontekst": "napadach epilepsji (zwlaszcza u pilotów,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/aspartam",
+  "zle": "Żywnosci",
+  "dobrze": "Żywności",
+  "kontekst": "Leków i Żywnosci. Mówi się",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/detox",
+  "zle": "dotoksykacją",
+  "dobrze": "detoksykacją",
+  "kontekst": "zajmują się dotoksykacją, ostrzegają: -",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "medalt/dietacud",
+  "zle": "czlowieka",
+  "dobrze": "człowieka",
+  "kontekst": "jako czlowieka, to znaczy, że",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "az",
+  "dobrze": "aż",
+  "kontekst": "az do wyczerpania całej porcji",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "do do",
+  "dobrze": "do",
+  "kontekst": "kamforę do do słoiczka, wsypać gorczycę",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "dopodchwowo",
+  "dobrze": "dopochwowo",
+  "kontekst": "propolisowej. Używać dopodchwowo na noc",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "dorosli",
+  "dobrze": "dorośli",
+  "kontekst": "co drugi dzień - dorosli 15 minut, dzieci",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "emeliowanego",
+  "dobrze": "emaliowanego",
+  "kontekst": "wlać do emeliowanego czajnika, zakryć",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "janików",
+  "dobrze": "jajników",
+  "kontekst": "niewydolność janików, niedorozwój jajników",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "kakako",
+  "dobrze": "kakao",
+  "kontekst": "100 g kakako w proszku",
+  "wszedzie": true,
+  "powod": "dodatkowe litery"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "kapac",
+  "dobrze": "kąpać",
+  "kontekst": "w tym roztworze kapac się 15 minut",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "Kapiel",
+  "dobrze": "Kąpiel",
+  "kontekst": "Kapiel - wszystko wymieszać, brać 7 łyżek",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "kapiele",
+  "dobrze": "kąpiele",
+  "kontekst": "Poleca się również kapiele - 5 szklanek",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "Kapieli",
+  "dobrze": "Kąpieli",
+  "kontekst": "Kapieli takich przeprowadzić 9. Wyprysk ostry",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "kapielowej",
+  "dobrze": "kąpielowej",
+  "kontekst": "do wody kapielowej, kąpać się co drugi dzień",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "kłacze",
+  "dobrze": "kłącze",
+  "kontekst": "kora dębu, kłacze pięciornika kurze ziele",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "krzyz",
+  "dobrze": "krzyż",
+  "kontekst": "położyć na krzyz w okolicach nerek",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "kwasnych",
+  "dobrze": "kwaśnych",
+  "kontekst": "wszelkich soków, kwasnych owoców, natomiast pić",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "lesnego",
+  "dobrze": "leśnego",
+  "kontekst": "ziele przetacznika lesnego, kora wierzby, ziele",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "lisc",
+  "dobrze": "liść",
+  "kontekst": "lisc pokrzywy, owoc róży",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "lisć",
+  "dobrze": "liść",
+  "kontekst": "pieprzowej, lisć pokrzywy, kłącze pięciornika",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "liśc",
+  "dobrze": "liść",
+  "kontekst": "liśc brzozy, kwiat bzu czarnego",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "lorzeń",
+  "dobrze": "korzeń",
+  "kontekst": "arcydzięgiela, lorzeń lubczyka, owoc maliny",
+  "wszedzie": true,
+  "powod": "zła pierwsza litera"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "łożku",
+  "dobrze": "łóżku",
+  "kontekst": "Rano, leżąc w łożku 20-40 razy maksymalnie",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "łyzka",
+  "dobrze": "łyżka",
+  "kontekst": "wódki, 1 łyzka soli. Wszystko",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "morszczym",
+  "dobrze": "morszczyn",
+  "kontekst": "jemioły, morszczym pęcherzykowy, kwiatostan głogu",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "myslach",
+  "dobrze": "myślach",
+  "kontekst": "licząc w myslach do 15,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "na na",
+  "dobrze": "na",
+  "kontekst": "Zioła na na nalewkę zalać spirytusem",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "Nałożyc",
+  "dobrze": "Nałożyć",
+  "kontekst": "na ogniu. Nałożyc na głowę",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "napełnic",
+  "dobrze": "napełnić",
+  "kontekst": "ml buteleczkę napełnic do połowy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "nastepnego",
+  "dobrze": "następnego",
+  "kontekst": "jednej dziurki, nastepnego do drugiej.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "nastepstwem",
+  "dobrze": "następstwem",
+  "kontekst": "ta jest nastepstwem zatrucia środkami",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "nastepującej",
+  "dobrze": "następującej",
+  "kontekst": "(50 ml) nastepującej mieszanki -",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "niepowazna",
+  "dobrze": "niepoważna",
+  "kontekst": "to rzecz niepowazna. Jest to bawienie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "niewydolnośc",
+  "dobrze": "niewydolność",
+  "kontekst": "serca i niewydolnośc krążenia. Trzeba",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "objetości",
+  "dobrze": "objętości",
+  "kontekst": "słoika o objetości 1/2 litra",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "obrzekach",
+  "dobrze": "obrzękach",
+  "kontekst": "przy silnych obrzekach i bólach",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "ograniczyc",
+  "dobrze": "ograniczyć",
+  "kontekst": "małej ilości, ograniczyc płyny. Trzeba",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "okilice",
+  "dobrze": "okolice",
+  "kontekst": "na okilice żołądka i wątroby",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "paierosów",
+  "dobrze": "papierosów",
+  "kontekst": "palenia paierosów, zwłaszcza na czczo",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "położyc",
+  "dobrze": "położyć",
+  "kontekst": "nalewką i położyc kompres na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "powazniejsze",
+  "dobrze": "poważniejsze",
+  "kontekst": "ale i powazniejsze powikłania chorobowe",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "Przeprowadzac",
+  "dobrze": "Przeprowadzać",
+  "kontekst": "gorącą parę. Przeprowadzac kilka razy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "przkrywką",
+  "dobrze": "przykrywką",
+  "kontekst": "Do garnka z przkrywką wsypać szklankę",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "przykryc",
+  "dobrze": "przykryć",
+  "kontekst": "naczynia i przykryc pokrywką. Przechowywać",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "pusciła",
+  "dobrze": "puściła",
+  "kontekst": "by cebula pusciła sok. Rano",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "rece",
+  "dobrze": "ręce",
+  "kontekst": "Stanąć prosto, rece wzdłuż ciała,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "robic",
+  "dobrze": "robić",
+  "kontekst": "przecedzić. Wieczorem robic irygację pochwy,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "rozdymajace",
+  "dobrze": "rozdymające",
+  "kontekst": "potrawy rozdymajace, fasolę, groch",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "rozwałkowć",
+  "dobrze": "rozwałkować",
+  "kontekst": "ciasto, rozwałkowć na placek",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "pije sie tylko 2",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "skape",
+  "dobrze": "skąpe",
+  "kontekst": "bolesne i skape • Po",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "sliwki",
+  "dobrze": "śliwki",
+  "kontekst": "wypić kefir, sliwki zjeść. Stosować",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "smietankowego",
+  "dobrze": "śmietankowego",
+  "kontekst": "(oprócz masła smietankowego i żółtego",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "sniadanie",
+  "dobrze": "śniadanie",
+  "kontekst": "posiłku. Na sniadanie 3 ząbki",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "sposzkowane",
+  "dobrze": "sproszkowane",
+  "kontekst": "nasienie kozieradki sposzkowane, kompres",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "spozywać",
+  "dobrze": "spożywać",
+  "kontekst": "i to spozywać w małej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "spożyc",
+  "dobrze": "spożyć",
+  "kontekst": "Na kolację spożyc z chlebem",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "Spożywac",
+  "dobrze": "Spożywać",
+  "kontekst": "jedzeniem. • Spożywac codziennie 2-3",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "stwarzaja",
+  "dobrze": "stwarzają",
+  "kontekst": "procesu trawienia, stwarzaja nadmierną fermentację",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "suchyn",
+  "dobrze": "suchym",
+  "kontekst": "wytrzeć suchyn ręcznikiem. Następnie",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "szmatke",
+  "dobrze": "szmatkę",
+  "kontekst": "Nasączyć czystą szmatke odwarem i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "świeżęgo",
+  "dobrze": "świeżego",
+  "kontekst": "• Kawałek świeżęgo masła śmietankowego",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "tróbarwnego",
+  "dobrze": "trójbarwnego",
+  "kontekst": "ziele fiołka tróbarwnego, owoc jałowca",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "umieścic",
+  "dobrze": "umieścić",
+  "kontekst": "(w dziurce) umieścic tampon z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "uzupełnic",
+  "dobrze": "uzupełnić",
+  "kontekst": "g cukru-kryształu, uzupełnic do pełnej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "wciagać",
+  "dobrze": "wciągać",
+  "kontekst": "Teraz nosem wciagać powietrze do",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "wewnatrz",
+  "dobrze": "wewnątrz",
+  "kontekst": "na bóle wewnatrz organizmu, na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "własciwą",
+  "dobrze": "właściwą",
+  "kontekst": "pomocniczą, zaś własciwą kurację zastosować",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "właskiego",
+  "dobrze": "włoskiego",
+  "kontekst": "liść orzecha właskiego, liść brzozy",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "wrzatku",
+  "dobrze": "wrzątku",
+  "kontekst": "50 g wrzatku. Ostudzić i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "zalac",
+  "dobrze": "zalać",
+  "kontekst": "do garnka, zalac wrzątkiem, przykryć",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "Założyc",
+  "dobrze": "Założyć",
+  "kontekst": "we włosy. Założyc na głowę",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "zanurzyc",
+  "dobrze": "zanurzyć",
+  "kontekst": "nogi i zanurzyc w occie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "zewnatrz",
+  "dobrze": "zewnątrz",
+  "kontekst": "wybroczyn na zewnatrz. Plamica reumatyczna",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "zlele",
+  "dobrze": "ziele",
+  "kontekst": "tataraku, zlele drapacza, do kąpieli",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "zmiażdzone",
+  "dobrze": "zmiażdżone",
+  "kontekst": "przyłożyć dobrze zmiażdzone liście kapusty.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "Zmiażdzony",
+  "dobrze": "Zmiażdżony",
+  "kontekst": "łyżeczki. • Zmiażdzony czosnek zmieszać",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "zmiażdżyc",
+  "dobrze": "zmiażdżyć",
+  "kontekst": "g czosnku zmiażdżyc i zalać",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "Zrobic",
+  "dobrze": "Zrobić",
+  "kontekst": "jajników • Zrobic nasiadówkę nad",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/domlecz",
+  "zle": "zwłaszcze",
+  "dobrze": "zwłaszcza",
+  "kontekst": "a zwłaszcze dotknięci anemią powinni",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/grande/eee",
+  "zle": "stosowa-niu",
+  "dobrze": "stosowaniu",
+  "kontekst": "jednak kłopotliwy w stosowa-niu. W oczywisty sposób",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "dake",
+  "dobrze": "daje",
+  "kontekst": "roztartego czosnku (dake on lepszy",
+  "wszedzie": false,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "jadłowstret",
+  "dobrze": "jadłowstręt",
+  "kontekst": "psychiczną - jadłowstret, czyli tak zwaną",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "najcieższych",
+  "dobrze": "najcięższych",
+  "kontekst": "żelaza, tych najcieższych pierwiastków, których",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "nastepstw",
+  "dobrze": "następstw",
+  "kontekst": "do paskudnych nastepstw. Leczył niejedną",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "oczyszczaja",
+  "dobrze": "oczyszczają",
+  "kontekst": "bakteriami gnilnymi, oczyszczaja mleko z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "pociete",
+  "dobrze": "pocięte",
+  "kontekst": "z łupiny, pociete na ćwiartki.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "przenicy",
+  "dobrze": "pszenicy",
+  "kontekst": "łuszczonej obtłuczonej przenicy, którą należy namoczyć",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "domagając sie coraz to",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "smiecie",
+  "dobrze": "śmiecie",
+  "kontekst": "powyrzucać zachodnie smiecie, nadmiar chemii",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "tebrominę",
+  "dobrze": "teobrominę",
+  "kontekst": "w kofeinę i tebrominę, która świetnie",
+  "wszedzie": true,
+  "powod": "brak litery o"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "uświadomiłe",
+  "dobrze": "uświadomiła",
+  "kontekst": "kobieta uświadomiłe sobie, że ma",
+  "wszedzie": true,
+  "powod": "zła końcówka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "wczesniej",
+  "dobrze": "wcześniej",
+  "kontekst": "którego dodaliśmy wczesniej ząbek surowego",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "wysmienitą",
+  "dobrze": "wyśmienitą",
+  "kontekst": "krzemionkę - wysmienitą, twardą wodę",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "zeby",
+  "dobrze": "żeby",
+  "kontekst": "naturalnym masłem, zeby zrobił się",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/grande",
+  "zle": "zywieniowej",
+  "dobrze": "żywieniowej",
+  "kontekst": "między innymi zywieniowej. Należy",
+  "wszedzie": true,
+  "powod": "brak kropki nad ż"
+ },
+ {
+  "id": "medalt/grande/kalorie",
+  "zle": "grupa grupa",
+  "dobrze": "grupa",
+  "kontekst": "chemicznie grupa grupa związków obejmująca",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "medalt/grande/kalorie",
+  "zle": "mieszniny",
+  "dobrze": "mieszaniny",
+  "kontekst": "mieszniny glicerydów, kwasów tłuszczowych i",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "medalt/grande/mikro",
+  "zle": "miedzykomórkowych",
+  "dobrze": "międzykomórkowych",
+  "kontekst": "przestrzeni miedzykomórkowych. Rospuszczone w niej",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/grande/mikro",
+  "zle": "nierwową",
+  "dobrze": "nerwową",
+  "kontekst": "równowagę nierwową i mięśniową.",
+  "wszedzie": true,
+  "powod": "dodatkowa litera i"
+ },
+ {
+  "id": "medalt/grande/mikro",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "Znajduje sie w postaci",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "medalt/grande/mikro",
+  "zle": "watroba",
+  "dobrze": "wątroba",
+  "kontekst": "żółtka jaj, watroba, płucka, nerki,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/mikro",
+  "zle": "zewnetrznie",
+  "dobrze": "zewnętrznie",
+  "kontekst": "stosowany jest zewnetrznie jako antyseptyk",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/mikro",
+  "zle": "żebów",
+  "dobrze": "zębów",
+  "kontekst": "kości i żebów (w nich",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/witaminy",
+  "zle": "dodbowa",
+  "dobrze": "dobowa",
+  "kontekst": "Norma dodbowa: 1,5-3 mg.",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/grande/witaminy",
+  "zle": "nilotynowego",
+  "dobrze": "nikotynowego",
+  "kontekst": "Amid kwasu nilotynowego, nikotynamid.",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/grande/witaminy",
+  "zle": "smietana",
+  "dobrze": "śmietana",
+  "kontekst": "jaj, masło, smietana, pełne mleko,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/grande/witaminy",
+  "zle": "wystapić",
+  "dobrze": "wystąpić",
+  "kontekst": "Niedobór może wystapić u małych",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/hieny",
+  "zle": "przyszlość",
+  "dobrze": "przyszłość",
+  "kontekst": "leków. Planować przyszlość z chorobą",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/indygo",
+  "zle": "w w",
+  "dobrze": "w",
+  "kontekst": "nie gdzie indziej tylko w w USA.",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "medalt/indygo",
+  "zle": "wyczywają",
+  "dobrze": "wyczuwają",
+  "kontekst": "Indygo doskonale wyczywają nieuczciwość i wiedzą",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "bpoprawić",
+  "dobrze": "poprawić",
+  "kontekst": "ciężkostrawne. Aby bpoprawić ich smak",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "byc",
+  "dobrze": "być",
+  "kontekst": "powinny byc ugotowane na",
+  "wszedzie": true,
+  "powod": "brak ogonka w „być”"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "bydyń",
+  "dobrze": "budyń",
+  "kontekst": "mu kakao, bydyń z owocami,",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "Cżęść",
+  "dobrze": "Część",
+  "kontekst": "Cżęść z nich zostaje wydalona",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "daja",
+  "dobrze": "dają",
+  "kontekst": "krew zasadową, daja olbrzymią ilość energii",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "dźemu",
+  "dobrze": "dżemu",
+  "kontekst": "dodatek miodu i dźemu. W żadnym",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "gdyz",
+  "dobrze": "gdyż",
+  "kontekst": "opinia błędna, gdyz zarówno kwaszona kapusta",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "Jarmuz",
+  "dobrze": "Jarmuż",
+  "kontekst": "1:1. Jarmuz leczy także zapalenie okrężnicy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "jednoczesnie",
+  "dobrze": "jednocześnie",
+  "kontekst": "smak i jednoczesnie trawienie, powinno się",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "mięsnie",
+  "dobrze": "mięśnie",
+  "kontekst": "spalania blokujących mięsnie i naczynia",
+  "wszedzie": false,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "nastepujących",
+  "dobrze": "następujących",
+  "kontekst": "sałatki z nastepujących warzyw: kapusty,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "nciała",
+  "dobrze": "ciała",
+  "kontekst": "przez tkanki nciała, by tworzyć",
+  "wszedzie": true,
+  "powod": "dodatkowa litera n"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "nowowtworowych",
+  "dobrze": "nowotworowych",
+  "kontekst": "wzrost komórek nowowtworowych. Zalecany jest",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "obrzekach",
+  "dobrze": "obrzękach",
+  "kontekst": "moczu przy obrzekach i łagodnych",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "odzywczych",
+  "dobrze": "odżywczych",
+  "kontekst": "bogactwo składników odzywczych. Jarmuż jest",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "pełnowartosciowego",
+  "dobrze": "pełnowartościowego",
+  "kontekst": "obok białka pełnowartosciowego (4,4%) duże",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "podstwowy",
+  "dobrze": "podstawowy",
+  "kontekst": "stanowić podstwowy składnik codziennego pożywienia",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "powoduja",
+  "dobrze": "powodują",
+  "kontekst": "słodyczy, które powoduja spadek łaknienia",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "przywajalnym",
+  "dobrze": "przyswajalnym",
+  "kontekst": "Mit o przywajalnym wapniu można",
+  "wszedzie": true,
+  "powod": "brak litery s"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "reguluja",
+  "dobrze": "regulują",
+  "kontekst": "składniki mineralne, reguluja procesy życiowe",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "roslin",
+  "dobrze": "roślin",
+  "kontekst": "\"supergwiazdą\" wśród roslin kapustnych. Choć",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "rozcienczonych",
+  "dobrze": "rozcieńczonych",
+  "kontekst": "w postaci rozcienczonych soków owocowych",
+  "wszedzie": true,
+  "powod": "brak kreski nad ń"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "zaleca sie picie koktajlu",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "sledziony",
+  "dobrze": "śledziony",
+  "kontekst": "wątroby i sledziony, cukrzycy, atonii",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "snieżną",
+  "dobrze": "śnieżną",
+  "kontekst": "nawet pod pokrywą snieżną",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "uzupełnic",
+  "dobrze": "uzupełnić",
+  "kontekst": "który trzeba uzupełnic solidnym posiłkiem.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "wiekszą",
+  "dobrze": "większą",
+  "kontekst": "razu przyrządzić wiekszą ilość, na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "WINIGRON",
+  "dobrze": "WINOGRON",
+  "kontekst": "SOK Z WINIGRON • Sok winogronowy",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "właścowości",
+  "dobrze": "właściwości",
+  "kontekst": "swych pierwotnych właścowości i są szkodliwe",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/jedzenie",
+  "zle": "wodu",
+  "dobrze": "wody",
+  "kontekst": "wodu i substancji mineralnych z organizmu",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "brzycha",
+  "dobrze": "brzucha",
+  "kontekst": "dolnej części brzycha, co zmniejsza",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "nalezy",
+  "dobrze": "należy",
+  "kontekst": "z kapusty nalezy dodawać zmielony",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "przewrwami",
+  "dobrze": "przerwami",
+  "kontekst": "z przewrwami 6-12 godzin",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "zaleca sie alkoholikom",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "spozywczych",
+  "dobrze": "spożywczych",
+  "kontekst": "zestawów produktów spozywczych. Unikać zdenerwowania",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "szczerniałej",
+  "dobrze": "sczerniałej",
+  "kontekst": "z ropy i szczerniałej krwi, obmyć",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "uspokajajace",
+  "dobrze": "uspokajające",
+  "kontekst": "inne leki uspokajajace są również",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "watrobowa",
+  "dobrze": "wątrobowa",
+  "kontekst": "| Kolka watrobowa | kolka",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "wiekszą",
+  "dobrze": "większą",
+  "kontekst": "na powierzchnię wiekszą niż objęta",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/kapusta",
+  "zle": "żwieżego",
+  "dobrze": "świeżego",
+  "kontekst": "lub żwieżego soku jest zalecana",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "Cwiczenie",
+  "dobrze": "Ćwiczenie",
+  "kontekst": "Cwiczenie wykonujemy nie za szybko, nie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "liczyc",
+  "dobrze": "liczyć",
+  "kontekst": "musimy liczyc się z faktem, że",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "obrzeki",
+  "dobrze": "obrzęki",
+  "kontekst": "w nogach, obrzeki kostek, \"zimne\"",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "od-poczywać",
+  "dobrze": "odpoczywać",
+  "kontekst": "ją kolanami i 5 sekund od-poczywać. Powtórzyć 6 razy. | |",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "odzwieciedla",
+  "dobrze": "odzwierciedla",
+  "kontekst": "kręgosłupa odzwieciedla brzeg naszego",
+  "wszedzie": true,
+  "powod": "zgubiona litera r"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "osiagamy",
+  "dobrze": "osiągamy",
+  "kontekst": "Wykonanie go osiagamy poprzez skurczenie",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "położyc",
+  "dobrze": "położyć",
+  "kontekst": "brwi. Teraz położyc na prawej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "przeziebienia",
+  "dobrze": "przeziębienia",
+  "kontekst": "choroby gardła, przeziebienia, choroby tarczycy.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "skórcze",
+  "dobrze": "skurcze",
+  "kontekst": "słabość w nogach, skórcze w mięśniach nóg",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "sygnalizuja",
+  "dobrze": "sygnalizują",
+  "kontekst": "wgniecenia sygnalizuja uszkodzenie kręgów szyjnych",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/kregoslup",
+  "zle": "zamyslonych",
+  "dobrze": "zamyślonych",
+  "kontekst": "tylko zamyslonych studentów. Prawie wszyscy",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "atyseptyczne",
+  "dobrze": "antyseptyczne",
+  "kontekst": "- działanie atyseptyczne, hamuje wzrost",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "awiązków",
+  "dobrze": "związków",
+  "kontekst": "białek i awiązków mieneralnych. Jest",
+  "wszedzie": false,
+  "powod": "brak pierwszej litery"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "bazulii",
+  "dobrze": "bazylii",
+  "kontekst": "nostrzyka, bazulii, rdestu ptasiego,",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "cebupa",
+  "dobrze": "cebula",
+  "kontekst": "czosnek, cebupa, kminek, kolendra",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "gojace",
+  "dobrze": "gojące",
+  "kontekst": "ciężko gojace się rany, odmroziny",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "infekvje",
+  "dobrze": "infekcje",
+  "kontekst": "różne infekvje płucne i jelitowe",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "krwionosnych",
+  "dobrze": "krwionośnych",
+  "kontekst": "naczyń krwionosnych w dolnych kończynach",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "lakarza",
+  "dobrze": "lekarza",
+  "kontekst": "bez kontroli lakarza wymienionych ziół",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "malancholia",
+  "dobrze": "melancholia",
+  "kontekst": "zaniki pamięci, malancholia, depresja, skurcze",
+  "wszedzie": true,
+  "powod": "zła samogłoska"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "mieneralnych",
+  "dobrze": "mineralnych",
+  "kontekst": "i awiązków mieneralnych. Jest bardzo",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "miety",
+  "dobrze": "mięty",
+  "kontekst": "- liść miety pieprzowej, liść",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "mikropierwiatków",
+  "dobrze": "mikropierwiastków",
+  "kontekst": "Z mikropierwiatków posiada wapń, fosfor",
+  "wszedzie": true,
+  "powod": "zgubiona litera s"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "mizżdżyca",
+  "dobrze": "miażdżyca",
+  "kontekst": "tętnicze, mizżdżyca tętnic, artroza",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "nadcisnienie",
+  "dobrze": "nadciśnienie",
+  "kontekst": "krwi, otyłość nadcisnienie, demineralizacja, anemia,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "nadcisnieniowe",
+  "dobrze": "nadciśnieniowe",
+  "kontekst": "przeciw nadcisnieniowe, pobudza łaknienie, poprawia",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "nadcisnieniowej",
+  "dobrze": "nadciśnieniowej",
+  "kontekst": "choroby nadcisnieniowej, miażdżyca, zaburzenia układu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "należu",
+  "dobrze": "należy",
+  "kontekst": "w domu należu stosować ilości",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "nastepstwa",
+  "dobrze": "następstwa",
+  "kontekst": "wyprysk moknący, nastepstwa paraliżu, dezynfekcja",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "nierwowość",
+  "dobrze": "nerwowość",
+  "kontekst": "artroza, nierwowość, stany nowotworowe",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "niwydolność",
+  "dobrze": "niewydolność",
+  "kontekst": "niwydolność układu krążenia, duszność wysiłkowa",
+  "wszedzie": true,
+  "powod": "brak litery e"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "noznym",
+  "dobrze": "nocnym",
+  "kontekst": "zapobiega noznym zmazom.<br>Na użytek",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "obrzeki",
+  "dobrze": "obrzęki",
+  "kontekst": "i okrężnicy, obrzeki, zaparcia, nadfermentacja",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "pamietajmy",
+  "dobrze": "pamiętajmy",
+  "kontekst": "mieszanki, to pamietajmy, że należy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "począki",
+  "dobrze": "początki",
+  "kontekst": "żołądka, począki cukrzycy, nadmierna pobudliwość",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "poziomli",
+  "dobrze": "poziomki",
+  "kontekst": "przetacznika, poziomli, bluszczyku, skrzypu, drapacza",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "przwoślazu",
+  "dobrze": "prawoślazu",
+  "kontekst": "liść przwoślazu, liść podbiału, owoc",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "siemie",
+  "dobrze": "siemię",
+  "kontekst": "- lnu (siemie lniane). |",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "sluzowej",
+  "dobrze": "śluzowej",
+  "kontekst": "obrzęk błony sluzowej, bóle nerwowe,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "sluzówki",
+  "dobrze": "śluzówki",
+  "kontekst": "artretyczne, podrażnienia sluzówki, nudności, wymioty,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "ściagające",
+  "dobrze": "ściągające",
+  "kontekst": "innych Gram-dodatnich, ściagające, przeciw nadkwaśne,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "ściagająco",
+  "dobrze": "ściągająco",
+  "kontekst": "napotnie i ściagająco.<br>Uwaga! - po",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "ściągajace",
+  "dobrze": "ściągające",
+  "kontekst": "gorzkie i ściągajace, żółciopędne, moczopędne,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "śuzówki",
+  "dobrze": "śluzówki",
+  "kontekst": "zapalenie śuzówki jamy ustnej",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "trzyxtki",
+  "dobrze": "trzustki",
+  "kontekst": "żółciowych i trzyxtki, kolka jelitowa",
+  "wszedzie": true,
+  "powod": "pomylone litery"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "usmierzania",
+  "dobrze": "uśmierzania",
+  "kontekst": "do usmierzania bólów, skurczów w",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "uzyć",
+  "dobrze": "użyć",
+  "kontekst": "że należy uzyć jednej łyżki",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "watroby",
+  "dobrze": "wątroby",
+  "kontekst": "otyłość, schorzenia watroby, puchlina wodna,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "wewnetrzne",
+  "dobrze": "wewnętrzne",
+  "kontekst": "biegunka, pasożyty wewnetrzne, astma, zapalenie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "wewnetrznego",
+  "dobrze": "wewnętrznego",
+  "kontekst": "gruczołów wydzielania wewnetrznego, katarze dróg",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "wewnetrznych",
+  "dobrze": "wewnętrznych",
+  "kontekst": "śluzowych, narządów wewnetrznych, naczyń krwionośnych,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "wodu",
+  "dobrze": "wody",
+  "kontekst": "w 5 litrach wodu przez 30 minut",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "wurzuty",
+  "dobrze": "wyrzuty",
+  "kontekst": "ogólne osłabienie, wurzuty skórne, oparzenia,",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "wykrztusne",
+  "dobrze": "wykrztuśne",
+  "kontekst": "moczopędne, robakobójcze, wykrztusne, przeciwzapalne, pobudza",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "wysiekowego",
+  "dobrze": "wysiękowego",
+  "kontekst": "resorpcja płynu wysiekowego, zmniejszanie obrzęków",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "zapelenie",
+  "dobrze": "zapalenie",
+  "kontekst": "gościec, zapelenie stawów, pęcherza, nerek",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "zmeczenia",
+  "dobrze": "zmęczenia",
+  "kontekst": "stałym uczuciu zmeczenia. | |",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "zółciowego",
+  "dobrze": "żółciowego",
+  "kontekst": "nerek, pęcherzyka zółciowego, osłabienie serca,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "zwykłaego",
+  "dobrze": "zwykłego",
+  "kontekst": "leczniczą zwykłaego naparu tego",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "zycia",
+  "dobrze": "życia",
+  "kontekst": "niebezpieczeństwem dla zycia. Także chemicznych",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "zywokostu",
+  "dobrze": "żywokostu",
+  "kontekst": "- kulika, zywokostu.<br>kłącze - pięciornika.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/lekinat",
+  "zle": "żle",
+  "dobrze": "źle",
+  "kontekst": "i ropne, żle gojące się",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/mudra",
+  "zle": "natomiest",
+  "dobrze": "natomiast",
+  "kontekst": "kciuk, natomiest by wzmocnić jakiś",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/mudra",
+  "zle": "przypominaja",
+  "dobrze": "przypominają",
+  "kontekst": "Złączone dłonie przypominaja kształt muszli.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/mudra",
+  "zle": "rozłozony",
+  "dobrze": "rozłożony",
+  "kontekst": "dziennie (lub rozłozony np. 3",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/mudra",
+  "zle": "róznorakie",
+  "dobrze": "różnorakie",
+  "kontekst": "który wywołuje róznorakie schorzenia, jak",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/mudra",
+  "zle": "róznych",
+  "dobrze": "różnych",
+  "kontekst": "choroby i róznych dolegliwości, gdyż",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/mudra",
+  "zle": "wskazujacego",
+  "dobrze": "wskazującego",
+  "kontekst": "i palca wskazujacego. Pozostałe trzy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/mydlo",
+  "zle": "antybaketryjnym",
+  "dobrze": "antybakteryjnym",
+  "kontekst": "z dodatkiem antybaketryjnym oraz 2",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "drazliwość",
+  "dobrze": "drażliwość",
+  "kontekst": "drazliwość, bezsenność, nerwowość",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "drżdże",
+  "dobrze": "drożdże",
+  "kontekst": "kiełki pszenicy, drżdże piwne.",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "łuszczaca",
+  "dobrze": "łuszcząca",
+  "kontekst": "brak energii, łuszczaca się skóra.<br>Źródła",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "mięsni",
+  "dobrze": "mięśni",
+  "kontekst": "- osłabienie mięsni, utrata apetytu,",
+  "wszedzie": false,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "molroelementów",
+  "dobrze": "mikroelementów",
+  "kontekst": "na brak molroelementów, poszczególnych pierwiastków",
+  "wszedzie": true,
+  "powod": "zniekształcone słowo"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "okreslonego",
+  "dobrze": "określonego",
+  "kontekst": "dążą do okreslonego celu i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "pirodoksyna",
+  "dobrze": "pirydoksyna",
+  "kontekst": "Witamina B6<br>pirodoksyna",
+  "wszedzie": true,
+  "powod": "zła samogłoska"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "przenicy",
+  "dobrze": "pszenicy",
+  "kontekst": "makrele, pomidory, kiełki przenicy.",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "przstaje",
+  "dobrze": "przestaje",
+  "kontekst": "serce przstaje boleć",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "rosliny",
+  "dobrze": "rośliny",
+  "kontekst": "- lecytyna, rosliny strączkowe, mąka",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "sięran",
+  "dobrze": "się ran",
+  "kontekst": "Poprawia gojenie sięran i stan",
+  "wszedzie": true,
+  "powod": "sklejone słowa"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "smazone",
+  "dobrze": "smażone",
+  "kontekst": "zanieczyszczenia, stres, smazone potrawy.<br>Czy można",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "wazny",
+  "dobrze": "ważny",
+  "kontekst": "ich rozkurczanie, wazny dla mięśnia",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "wiekszości",
+  "dobrze": "większości",
+  "kontekst": "sposób odżywiania wiekszości ludzi prowadzi",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "wisnie",
+  "dobrze": "wiśnie",
+  "kontekst": "kalafior, migdały, wisnie, śledzie, jaja.<br>Pomocne",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "zewnetrzne",
+  "dobrze": "zewnętrzne",
+  "kontekst": "niektóre oznaki zewnetrzne wskazujące na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/objawy",
+  "zle": "zytni",
+  "dobrze": "żytni",
+  "kontekst": "chleb zytni i razowy",
+  "wszedzie": true,
+  "powod": "brak kropki nad ż"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "cią-gu",
+  "dobrze": "ciągu",
+  "kontekst": "co 15-20 minut w cią-gu 12 godzin. UWAGA!",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "duzo",
+  "dobrze": "dużo",
+  "kontekst": "korzystnie jest jeść duzo kaszy. Kasza",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "jednoczesnie",
+  "dobrze": "jednocześnie",
+  "kontekst": "zęby i jednoczesnie masuje dziąsła. Ja",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "mięsni",
+  "dobrze": "mięśni",
+  "kontekst": "nie zmuszając mięsni do pracy,",
+  "wszedzie": false,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "Mozna",
+  "dobrze": "Można",
+  "kontekst": "nie zagryzając. Mozna jedynie dodać",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "nastepującym",
+  "dobrze": "następującym",
+  "kontekst": "zębów o nastepującym składzie: 3-4",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "owogów",
+  "dobrze": "owoców",
+  "kontekst": "produktów cukrowych, owogów i alkoholu",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "przeciagającego",
+  "dobrze": "przeciągającego",
+  "kontekst": "postawę przeciagającego się kota",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "pojawi sie różowe",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "sliwki",
+  "dobrze": "śliwki",
+  "kontekst": "i zjeść sliwki. Kurację powtórzyć",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "smietankowego",
+  "dobrze": "śmietankowego",
+  "kontekst": "niewiele masła smietankowego lub oleju",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "własciwy",
+  "dobrze": "właściwy",
+  "kontekst": "nada mu własciwy kształt i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "wykonynać",
+  "dobrze": "wykonywać",
+  "kontekst": "należy wykonynać w określonej kolejności",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/oczyszczanie",
+  "zle": "zagara",
+  "dobrze": "zegara",
+  "kontekst": "ruchem wskazówek zagara 8 razy",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/orgon/orgon",
+  "zle": "emisia",
+  "dobrze": "emisja",
+  "kontekst": "środowisko. Mikrofalowa emisia fal pochodząca",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "medalt/orgon/orgon",
+  "zle": "faramceutyczny",
+  "dobrze": "farmaceutyczny",
+  "kontekst": "przemysł medyczno-faramceutyczny jest zagrożony do",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "medalt/orgon/orgon",
+  "zle": "morfogenetyczych",
+  "dobrze": "morfogenetycznych",
+  "kontekst": "teorii pól morfogenetyczych, co też",
+  "wszedzie": true,
+  "powod": "zgubiona litera n"
+ },
+ {
+  "id": "medalt/orgon/orgon",
+  "zle": "orgnowej",
+  "dobrze": "orgonowej",
+  "kontekst": "Odkrycie energii orgnowej i akumulatora",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/orgon/orgon",
+  "zle": "pleksigalsu",
+  "dobrze": "pleksiglasu",
+  "kontekst": "prostokątów z pleksigalsu o wymiarach",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "medalt/orgon/orgon",
+  "zle": "rengenowskich",
+  "dobrze": "rentgenowskich",
+  "kontekst": "niewyjaśnione zamglenia klisz rengenowskich",
+  "wszedzie": true,
+  "powod": "brak litery t"
+ },
+ {
+  "id": "medalt/orgon/orgon",
+  "zle": "seksuaulizmu",
+  "dobrze": "seksualizmu",
+  "kontekst": "ekonomii seksuaulizmu oraz na orgonowych",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "medalt/orgon/orgon",
+  "zle": "telwizora",
+  "dobrze": "telewizora",
+  "kontekst": "pochodzących z telwizora, wyświetlaczy komputerowych",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/orgon/orgon",
+  "zle": "Wilchelm",
+  "dobrze": "Wilhelm",
+  "kontekst": "Wilchelm Reich, M. D. z biuletynu",
+  "wszedzie": false,
+  "powod": "imię błędnie, poprawnie w tym samym artykule"
+ },
+ {
+  "id": "medalt/orme/gwog",
+  "zle": "kuzy5nami",
+  "dobrze": "kuzynami",
+  "kontekst": "ciotecznymi kuzy5nami. Dotarłszy do miejsca",
+  "wszedzie": true,
+  "powod": "przypadkowa cyfra w słowie"
+ },
+ {
+  "id": "medalt/orme/gwog",
+  "zle": "Zycia",
+  "dobrze": "Życia",
+  "kontekst": "nazwa Drzewo Zycia, to znaczy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "dastarczenia",
+  "dobrze": "dostarczenia",
+  "kontekst": "w celu dastarczenia pożywienia świetlistym",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "doskonało-ści",
+  "dobrze": "doskonałości",
+  "kontekst": "to, aby doprowadzać do doskonało-ści nasze ciała. Sprawia,",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "dowódów",
+  "dobrze": "dowodów",
+  "kontekst": "naukowych dowódów, Dawid Hudson określił",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "możliwośc",
+  "dobrze": "możliwość",
+  "kontekst": "zatem implikuje możliwośc włączenia go",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "mógu",
+  "dobrze": "mózgu",
+  "kontekst": "część naszego mógu zawiera monoatomowe",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "perpetum",
+  "dobrze": "perpetuum",
+  "kontekst": "na zasadzie perpetum mobile, może trwać",
+  "wszedzie": true,
+  "powod": "zgubiona litera u"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "proszkek",
+  "dobrze": "proszek",
+  "kontekst": "w biały proszkek, który można spożyć",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "przypuszcenie",
+  "dobrze": "przypuszczenie",
+  "kontekst": "To nasuwa przypuszcenie, że nasza świadoma",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "rodział",
+  "dobrze": "rozdział",
+  "kontekst": "drugi rodział Księgi Genesis",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "spowo-dowane",
+  "dobrze": "spowodowane",
+  "kontekst": "naprawić zniszczenia spowo-dowane przez wirusa, nawet",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "Widomo",
+  "dobrze": "Wiadomo",
+  "kontekst": "Widomo, że zarówno iryd jak",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "wiec",
+  "dobrze": "więc",
+  "kontekst": "Jakiego wiec to musi być",
+  "wszedzie": false,
+  "powod": "brak ogonka w „więc”"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "zanużyliśmy",
+  "dobrze": "zanurzyliśmy",
+  "kontekst": "azotowego, zanużyliśmy znowu w dymiącym",
+  "wszedzie": true,
+  "powod": "brak litery r"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "zdolnośc",
+  "dobrze": "zdolność",
+  "kontekst": "Ta ostatnia zdolnośc pochodzi z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "Odkryliśmy, ze jeśli wysuszy",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "Zie-mię",
+  "dobrze": "Ziemię",
+  "kontekst": "przybycia Anunnaki na Zie-mię było zdobycie",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "zorien-tują",
+  "dobrze": "zorientują",
+  "kontekst": "sygnał wróci, zanim się zorien-tują, o co chodzi, zanim",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "zostosowanie",
+  "dobrze": "zastosowanie",
+  "kontekst": "utrata wagi), zostosowanie Energii o Punkcie",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/orme/orme1",
+  "zle": "źółtego",
+  "dobrze": "żółtego",
+  "kontekst": "otrzymanej z źółtego złota, które",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/plomby",
+  "zle": "używająch",
+  "dobrze": "używając",
+  "kontekst": "zakładów produkcyjnych używająch rtęć podczas",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "czosnej",
+  "dobrze": "czosnek",
+  "kontekst": "jedynie czosnej, cebula, rokitnik",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "ćiśnienie",
+  "dobrze": "ciśnienie",
+  "kontekst": "obniżających ćiśnienie krwi w sposób",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "dotkniete",
+  "dobrze": "dotknięte",
+  "kontekst": "Miejsca dotkniete pokrzywką zwilżać roztworem",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "klatke",
+  "dobrze": "klatkę",
+  "kontekst": "na klatke piersiową i plecy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "kromke",
+  "dobrze": "kromkę",
+  "kontekst": "suchą kromke chleba i przyciskamy talerzykiem",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "nasiakniętej",
+  "dobrze": "nasiąkniętej",
+  "kontekst": "lilii białej nasiakniętej octem jabłkowym.",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "przyłożyc",
+  "dobrze": "przyłożyć",
+  "kontekst": "Po osuszeniu przyłożyc trochę kremu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "skondensową",
+  "dobrze": "skondensowaną",
+  "kontekst": "on skondensową mieszaniną trucizn",
+  "wszedzie": true,
+  "powod": "brak końcówki"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "ściagająco",
+  "dobrze": "ściągająco",
+  "kontekst": "przeciwskurczowo i ściagająco. Ziele można",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "trwawiennie",
+  "dobrze": "trawiennie",
+  "kontekst": "Nasienie działa trwawiennie, pobudza czynności",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "wykrztusnie",
+  "dobrze": "wykrztuśnie",
+  "kontekst": "Działa trawiennie, wykrztusnie, przeciwskurczowo, przeciwzapalnie,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "Wystepują",
+  "dobrze": "Występują",
+  "kontekst": "się skrzepy. Wystepują wówczas zawroty",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "złozonym",
+  "dobrze": "złożonym",
+  "kontekst": "ranę roztworem złozonym w 75%",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/podreka",
+  "zle": "zołądek",
+  "dobrze": "żołądek",
+  "kontekst": "trawienie, pobudza zołądek do wydzielania",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "kwasnego",
+  "dobrze": "kwaśnego",
+  "kontekst": "szklanką kwasnego mleka i odstawić",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "Malą",
+  "dobrze": "Małą",
+  "kontekst": "świąteczna druga. Malą główkę czerwonej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "mietą",
+  "dobrze": "miętą",
+  "kontekst": "pietruszką i mietą. 15 rzodkiewek",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "Mozna",
+  "dobrze": "Można",
+  "kontekst": "lub koperkiem. Mozna podawać jako",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "odrobine",
+  "dobrze": "odrobinę",
+  "kontekst": "ognia dodajemy odrobine masła i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "pozywnym",
+  "dobrze": "pożywnym",
+  "kontekst": "pozywnym i bardzo smacznym",
+  "wszedzie": true,
+  "powod": "brak kropki nad ż"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "Rodrobnić",
+  "dobrze": "Rozdrobnić",
+  "kontekst": "Rodrobnić kostkę twarogu, posypać łyżką",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "roslinnego",
+  "dobrze": "roślinnego",
+  "kontekst": "łyżki oleju roslinnego. Wymieszać z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "rozdrobnic",
+  "dobrze": "rozdrobnić",
+  "kontekst": "ogórki i rozdrobnic pomidory, wymieszać",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "smietany",
+  "dobrze": "śmietany",
+  "kontekst": "3 łyzkami smietany. Dodać zmiażdżony",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "W szystkie",
+  "dobrze": "Wszystkie",
+  "kontekst": "W szystkie składniki wymieszać i wyrobić",
+  "wszedzie": false,
+  "powod": "spacja w słowie (rozdzielona pierwsza litera)"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "Wszystki",
+  "dobrze": "Wszystkie",
+  "kontekst": "Wszystki produkty zmielić i dodać",
+  "wszedzie": false,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "zewnetrznych",
+  "dobrze": "zewnętrznych",
+  "kontekst": "100 g zewnetrznych liści sałaty",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/przepkul",
+  "zle": "zmiażdzony",
+  "dobrze": "zmiażdżony",
+  "kontekst": "buraka, 1 zmiażdzony ząbek czosnku,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "astmym",
+  "dobrze": "astmy",
+  "kontekst": "ataki astmym • bóle i zawroty",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "budunku",
+  "dobrze": "budynku",
+  "kontekst": "równolegle do ścian budunku, jeśli",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "częśc",
+  "dobrze": "część",
+  "kontekst": "uznana za częśc medycyny",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "imkształtu",
+  "dobrze": "im kształtu",
+  "kontekst": "wyniku nadanego imkształtu emitują elektrony",
+  "wszedzie": true,
+  "powod": "sklejone słowa"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "łózku",
+  "dobrze": "łóżku",
+  "kontekst": "Spać tylko na łózku drewnianym wysłanym",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "Radistezja",
+  "dobrze": "Radiestezja",
+  "kontekst": "Radistezja nie leczy, ale wskazuje",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "roslin",
+  "dobrze": "roślin",
+  "kontekst": "wegla kamiennego, roslin aromatycznych, paproci",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "roslinożernych",
+  "dobrze": "roślinożernych",
+  "kontekst": "zwierząt roslinożernych, zdrowych i młodych",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "Weedług",
+  "dobrze": "Według",
+  "kontekst": "Weedług radiestezji każdy podziemny ciek",
+  "wszedzie": true,
+  "powod": "podwojona litera"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "wegla",
+  "dobrze": "węgla",
+  "kontekst": "soli kuchennej, wegla kamiennego, roslin",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "wyskoenergetyczne",
+  "dobrze": "wysokoenergetyczne",
+  "kontekst": "cząstki wyskoenergetyczne drgające w liniach",
+  "wszedzie": true,
+  "powod": "brak litery o"
+ },
+ {
+  "id": "medalt/radiestezja",
+  "zle": "wystepują",
+  "dobrze": "występują",
+  "kontekst": "pod którymi wystepują skrzyżowania żył",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "chca",
+  "dobrze": "chcą",
+  "kontekst": "chca poznać prawdziwe przyczyny swoich",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "chocby",
+  "dobrze": "choćby",
+  "kontekst": "mają chocby minimalne szanse na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "córke",
+  "dobrze": "córkę",
+  "kontekst": "przez córke lekarza, przy czym",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "czterokrotnia",
+  "dobrze": "czterokrotnie",
+  "kontekst": "czterokrotnia oczyszczała wątrobę, brała",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "decydujace",
+  "dobrze": "decydujące",
+  "kontekst": "co ma decydujace znaczenie nie",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "dozywa",
+  "dobrze": "dożywa",
+  "kontekst": "szczęście, nie dozywa raka, ponieważ",
+  "wszedzie": false,
+  "powod": "brak kropki nad ż"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "działaja",
+  "dobrze": "działają",
+  "kontekst": "na rzęsistki działaja jak stymulator",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "kregosłupa",
+  "dobrze": "kręgosłupa",
+  "kontekst": "w usuwaniu wad kregosłupa. Podczas wykonywania",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "krków",
+  "dobrze": "kroków",
+  "kontekst": "zasadniczych krków i nie zmieni",
+  "wszedzie": true,
+  "powod": "brak liter"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "miesiaca",
+  "dobrze": "miesiąca",
+  "kontekst": "koniec drugiego miesiaca. Wystąpił obfity",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "mineło",
+  "dobrze": "minęło",
+  "kontekst": "upływie miesiąca mineło uczucie dyskomfortu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "Moskieskiego",
+  "dobrze": "Moskiewskiego",
+  "kontekst": "Uniwersytetu Moskieskiego Zepp napisał",
+  "wszedzie": true,
+  "powod": "brak litery w"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "mozliwości",
+  "dobrze": "możliwości",
+  "kontekst": "wykorzystuje indywidualne mozliwości obronne organizmu,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "myslenia",
+  "dobrze": "myślenia",
+  "kontekst": "zmiana sposobu myslenia, postepowania, podejścia",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "myzyki",
+  "dobrze": "muzyki",
+  "kontekst": "w pokoju i słuchać myzyki, medytować",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "naczń",
+  "dobrze": "naczyń",
+  "kontekst": "nerek, naczń krwionośnych. Mają one",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "nastepujące",
+  "dobrze": "następujące",
+  "kontekst": "okupanci przeprowadzali nastepujące eksperymenty. Od",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "następujacego",
+  "dobrze": "następującego",
+  "kontekst": "proszę spróbować następujacego przepisu: Zmieszać",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "niesktuteczne",
+  "dobrze": "nieskuteczne",
+  "kontekst": "są zupełnie niesktuteczne przy leczeniu",
+  "wszedzie": true,
+  "powod": "dodatkowa litera t"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "nosić nosić",
+  "dobrze": "nosić",
+  "kontekst": "trucizny, które nosić nosić w sobie będzie",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "nowowtworowe",
+  "dobrze": "nowotworowe",
+  "kontekst": "chore komórki nowowtworowe i zwieksza",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "obrebie",
+  "dobrze": "obrębie",
+  "kontekst": "ustnej, w obrebie żołądka, w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "odmładzajace",
+  "dobrze": "odmładzające",
+  "kontekst": "każdemu działanie odmładzajace organizm, białe",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "odzywiania",
+  "dobrze": "odżywiania",
+  "kontekst": "fizjologicznych zasad odzywiania, niechybnie prowadzi",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "pomyslnie",
+  "dobrze": "pomyślnie",
+  "kontekst": "osoby, które pomyslnie przeszły operację",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "poprzedzajace",
+  "dobrze": "poprzedzające",
+  "kontekst": "umiera na poprzedzajace go choroby.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "postepowania",
+  "dobrze": "postępowania",
+  "kontekst": "myślenia i postepowania, a nawet",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "powaznych",
+  "dobrze": "poważnych",
+  "kontekst": "pozbyłem sie powaznych kłopotów z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "powinnismy",
+  "dobrze": "powinniśmy",
+  "kontekst": "każdy posiłek powinnismy zaczynać od",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "przesledzenia",
+  "dobrze": "prześledzenia",
+  "kontekst": "Próba przesledzenia procesu powstawania wielu",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "przezyte",
+  "dobrze": "przeżyte",
+  "kontekst": "stresy przezyte we wczesnym dzieciństwie",
+  "wszedzie": true,
+  "powod": "brak kropki nad ż"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "przycisnięte",
+  "dobrze": "przyciśnięte",
+  "kontekst": "ucisk na przycisnięte przez nie naczynia",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "regeruje",
+  "dobrze": "regeneruje",
+  "kontekst": "nie regeruje wszystkich układów organizmu",
+  "wszedzie": true,
+  "powod": "zgubione litery"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "rekę",
+  "dobrze": "rękę",
+  "kontekst": "tam prawą rekę i wyobrazić",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "rozjasnia",
+  "dobrze": "rozjaśnia",
+  "kontekst": "nie tylko rozjasnia myśli, ale",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "rozluźniaja",
+  "dobrze": "rozluźniają",
+  "kontekst": "stopy rozluźniaja mięśnie nóg",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "rozpoczeliśmy",
+  "dobrze": "rozpoczęliśmy",
+  "kontekst": "końca. Terapię rozpoczeliśmy od oczyszczenia",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "rozpoczynaja",
+  "dobrze": "rozpoczynają",
+  "kontekst": "zaburzenia te rozpoczynaja się w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "róznych",
+  "dobrze": "różnych",
+  "kontekst": "z pięciu róznych warzyw (np.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "spala sie od środka.",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "smiechu",
+  "dobrze": "śmiechu",
+  "kontekst": "śmiać. Podczas smiechu pracuje dużo",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "smiertelne",
+  "dobrze": "śmiertelne",
+  "kontekst": "dawki promieniowania, smiertelne dla człowieka,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "spimy",
+  "dobrze": "śpimy",
+  "kontekst": "w którym spimy powinna wynosić",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "spozycie",
+  "dobrze": "spożycie",
+  "kontekst": "do minimum spozycie cukru i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "spozywane",
+  "dobrze": "spożywane",
+  "kontekst": "za nieprawidłowo spozywane posiłki. W",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "sprzyjaja",
+  "dobrze": "sprzyjają",
+  "kontekst": "pracy - sprzyjaja szybkiemu przesuwaniu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "ściagając",
+  "dobrze": "ściągając",
+  "kontekst": "do tyłu, ściagając łopatki do siebie",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "uczynic",
+  "dobrze": "uczynić",
+  "kontekst": "sami mogą uczynic się zdrowszymi.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "urzadzenia",
+  "dobrze": "urządzenia",
+  "kontekst": "przypomina naprawę urzadzenia elektronicznego przy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "urzadzeń",
+  "dobrze": "urządzeń",
+  "kontekst": "farmacji i urzadzeń medycznych nie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "usunąc",
+  "dobrze": "usunąć",
+  "kontekst": "grubego pomaga usunąc z organizmu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "uwage",
+  "dobrze": "uwagę",
+  "kontekst": "brać pod uwage prawidłowość łączenia",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "uzdrawiajaca",
+  "dobrze": "uzdrawiającą",
+  "kontekst": "ciele to uzdrawiajaca energia\". Jesli",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "uzdrawiajacej",
+  "dobrze": "uzdrawiającej",
+  "kontekst": "terapii uzdrawiajacej był system Nishi",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "w w",
+  "dobrze": "w",
+  "kontekst": "jeżeli w w naczyniach krwionośnych",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "watroby",
+  "dobrze": "wątroby",
+  "kontekst": "powoduje choroby watroby, te zaś",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "wciaga",
+  "dobrze": "wciąga",
+  "kontekst": "człowieka stopniowo wciaga. Z tej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "wciagać",
+  "dobrze": "wciągać",
+  "kontekst": "rytm kołysania wciagać i wypinać",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "wiekszość",
+  "dobrze": "większość",
+  "kontekst": "a więc wiekszość czynności z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "wyjasnić",
+  "dobrze": "wyjaśnić",
+  "kontekst": "Gersona można wyjasnić tym, że",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "wynikajace",
+  "dobrze": "wynikające",
+  "kontekst": "niektórych chorób, wynikajace ze zmian",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "zgiete",
+  "dobrze": "zgięte",
+  "kontekst": "zewnątrz, lekko zgiete palce rąk,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "zostana",
+  "dobrze": "zostaną",
+  "kontekst": "na guza zostana wyczerpane (człowieka",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/rak",
+  "zle": "zwieksza",
+  "dobrze": "zwiększa",
+  "kontekst": "nowowtworowe i zwieksza skuteczność działania",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/sitwa",
+  "zle": "widząć",
+  "dobrze": "widząc",
+  "kontekst": "lekarze, nie widząć dla siebie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "chroni chroni",
+  "dobrze": "chroni",
+  "kontekst": "Witamina E chroni chroni przed szkodliwym",
+  "wszedzie": false,
+  "powod": "przypadkowo podwojone słowo"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "cięzkie",
+  "dobrze": "ciężkie",
+  "kontekst": "Aby leczyć cięzkie, chroniczne choroby",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "częśto",
+  "dobrze": "często",
+  "kontekst": "to, częśto powtarzające się,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "frmakologicznych",
+  "dobrze": "farmakologicznych",
+  "kontekst": "chemikaliami koncernów frmakologicznych. Słodka \"biała",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "grucie",
+  "dobrze": "gruncie",
+  "kontekst": "na otwartym grucie (nie szklarniowe)",
+  "wszedzie": true,
+  "powod": "brak litery n"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "juz",
+  "dobrze": "już",
+  "kontekst": "dawno juz pisano, że zaobserwowano",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "kazdym",
+  "dobrze": "każdym",
+  "kontekst": "za kazdym razem należy przygotowywać świeżą",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "kontskt",
+  "dobrze": "kontakt",
+  "kontekst": "bezpośredni kontskt z krwią",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "kwasnych",
+  "dobrze": "kwaśnych",
+  "kontekst": "tyczy kwasnych produktów mlecznych - kefiru,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "minarałami",
+  "dobrze": "minerałami",
+  "kontekst": "proporcji z innymi minarałami i do tego",
+  "wszedzie": true,
+  "powod": "zła samogłoska"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "mloeka",
+  "dobrze": "mleka",
+  "kontekst": "niestrawione składniki mloeka osiadają w",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "nastapiło",
+  "dobrze": "nastąpiło",
+  "kontekst": "czasami, gdy nastapiło definitywne rozdzielenie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "odprowadzajace",
+  "dobrze": "odprowadzające",
+  "kontekst": "przez kanały odprowadzajace, ale z upływem",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "ogladają",
+  "dobrze": "oglądają",
+  "kontekst": "Starsi zaś ogladają piękne twarze,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "powinnismy",
+  "dobrze": "powinniśmy",
+  "kontekst": "też nie powinnismy zostawiać tłuszczu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "pozwalająją",
+  "dobrze": "pozwalają",
+  "kontekst": "które pozwalająją mu strawić",
+  "wszedzie": true,
+  "powod": "podwojone litery"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "przedostaja",
+  "dobrze": "przedostają",
+  "kontekst": "podczas wędzenia przedostaja się substancje",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "roslinnych",
+  "dobrze": "roślinnych",
+  "kontekst": "ilości olejów roslinnych. Dwie łyżki",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "róznego",
+  "dobrze": "różnego",
+  "kontekst": "osteoporozy. Także róznego rodzaju egzemy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "róznorodne",
+  "dobrze": "różnorodne",
+  "kontekst": "mogą być róznorodne tłuszcze, przy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "krystalizuje sie w postaci",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "soba",
+  "dobrze": "sobą",
+  "kontekst": "teorii przedstawia soba krowie mleko",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "uzycia",
+  "dobrze": "użycia",
+  "kontekst": "tragicznych skutków uzycia. A czy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "weglowodanów",
+  "dobrze": "węglowodanów",
+  "kontekst": "białka z weglowodanów, których dostarczamy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "witamicy",
+  "dobrze": "witaminy",
+  "kontekst": "przyjmowanie witamicy C ale i",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "własciwie",
+  "dobrze": "właściwie",
+  "kontekst": "obcą, która własciwie nie jest",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "wyposazone",
+  "dobrze": "wyposażone",
+  "kontekst": "W magnez wyposazone są rośliny",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "wystapią",
+  "dobrze": "wystąpią",
+  "kontekst": "jeśli takowe wystapią, należy przejść",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "wystepuje",
+  "dobrze": "występuje",
+  "kontekst": "produktach wapń wystepuje w trudno",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "zaangazowana",
+  "dobrze": "zaangażowana",
+  "kontekst": "ten proces zaangazowana. To prowadzi",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "zastapienie",
+  "dobrze": "zastąpienie",
+  "kontekst": "ludziom starszym, zastapienie mleka kefirem",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "znajdowac",
+  "dobrze": "znajdować",
+  "kontekst": "azotyny mogą znajdowac się w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "znajdujace",
+  "dobrze": "znajdujące",
+  "kontekst": "odtłuszcza. Tłuszcze znajdujace się w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "zołądku",
+  "dobrze": "żołądku",
+  "kontekst": "jednak w zołądku człowieka powstają",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/trucie",
+  "zle": "żródłem",
+  "dobrze": "źródłem",
+  "kontekst": "krowie jest żródłem powstawania śluzu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "dobe",
+  "dobrze": "dobę",
+  "kontekst": "całą dobe winien być ciepły",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "dugim",
+  "dobrze": "drugim",
+  "kontekst": "ustępują po dugim dniu kuracji",
+  "wszedzie": true,
+  "powod": "brak litery r"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "herbate",
+  "dobrze": "herbatę",
+  "kontekst": "połączyć herbate zieloną z szałwią lub",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "Kapiele",
+  "dobrze": "Kąpiele",
+  "kontekst": "Kapiele w drożdżach, zioła podawać z",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "łyzeczki",
+  "dobrze": "łyżeczki",
+  "kontekst": "po 1/2 łyzeczki sproszkowanego ziela",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "nawadniajace",
+  "dobrze": "nawadniające",
+  "kontekst": "na działanie nawadniajace i jest",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "obłożyc",
+  "dobrze": "obłożyć",
+  "kontekst": "Po wyschnięciu obłożyc płótnem zwilżonym",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "odzwieciedlenie",
+  "dobrze": "odzwierciedlenie",
+  "kontekst": "działanie ma odzwieciedlenie w wynikach.",
+  "wszedzie": true,
+  "powod": "zgubiona litera r"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "rediestezyjnymi",
+  "dobrze": "radiestezyjnymi",
+  "kontekst": "metodami rediestezyjnymi sami łączyć zioła",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "rozumien",
+  "dobrze": "rozumiem",
+  "kontekst": "nie rozumien tego, ale chyba",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "rónocześnie",
+  "dobrze": "równocześnie",
+  "kontekst": "leki rónocześnie od trzech lekarzy",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "soba",
+  "dobrze": "sobą",
+  "kontekst": "połączone ze soba energetycznie: [1]",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "tez",
+  "dobrze": "też",
+  "kontekst": "chciałam tez zwrócić uwagę",
+  "wszedzie": false,
+  "powod": "brak ogonka w „też”"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "używac",
+  "dobrze": "używać",
+  "kontekst": "leczenia nerek używac wody \"żywej\"",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "Watroba",
+  "dobrze": "Wątroba",
+  "kontekst": "| 🟩 Watroba - zapalenie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "wsród",
+  "dobrze": "wśród",
+  "kontekst": "uzbeckich uczonych, wsród których był",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "medalt/wodazywa",
+  "zle": "zywiołach",
+  "dobrze": "żywiołach",
+  "kontekst": "w czterech zywiołach: Trygon ziemi",
+  "wszedzie": true,
+  "powod": "brak kropki nad ż"
+ },
+ {
+  "id": "medalt/wstep",
+  "zle": "współczesni",
+  "dobrze": "współcześni",
+  "kontekst": "że my współczesni mamy tylko",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "oszusci",
+  "zle": "niedopuści",
+  "dobrze": "nie dopuści",
+  "kontekst": "to niedopuści do tego naukowa",
+  "wszedzie": true,
+  "powod": "sklejone słowa"
+ },
+ {
+  "id": "oszusci",
+  "zle": "pięlęgnowaniem",
+  "dobrze": "pielęgnowaniem",
+  "kontekst": "dalszym pięlęgnowaniem naukowej",
+  "wszedzie": true,
+  "powod": "zły polski znak"
+ },
+ {
+  "id": "oszusci",
+  "zle": "wyciagając",
+  "dobrze": "wyciągając",
+  "kontekst": "wspaniałe perspektywy, wyciagając przy tym",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "quake/quake",
+  "zle": "cos",
+  "dobrze": "coś",
+  "kontekst": "ruski cos kombinują albo araby",
+  "wszedzie": false,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "quake/quake",
+  "zle": "półnoć",
+  "dobrze": "północ",
+  "kontekst": "Bałtykiem na półnoć od półwyspu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "quake/quake",
+  "zle": "zbulwesowany",
+  "dobrze": "zbulwersowany",
+  "kontekst": "Był strasznie zbulwesowany, że nic",
+  "wszedzie": true,
+  "powod": "brak litery r"
+ },
+ {
+  "id": "refleksja",
+  "zle": "artukule",
+  "dobrze": "artykule",
+  "kontekst": "W artukule Axela Bojanowskiego możemy",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "refleksja",
+  "zle": "dżwięku",
+  "dobrze": "dźwięku",
+  "kontekst": "wyłączonym dżwięku. Ma to tę",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "refleksja",
+  "zle": "indokrynacja",
+  "dobrze": "indoktrynacja",
+  "kontekst": "tak wczesna indokrynacja zapewniała właściwe",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "refleksja",
+  "zle": "kokwisty",
+  "dobrze": "konkwisty",
+  "kontekst": "europejskiej kokwisty chrześcijańskiego Rzymu",
+  "wszedzie": true,
+  "powod": "zgubiona litera n (dalej konkwisty)"
+ },
+ {
+  "id": "refleksja",
+  "zle": "odłożyc",
+  "dobrze": "odłożyć",
+  "kontekst": "możemy spokojnie odłożyc do działu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "refleksja",
+  "zle": "ogladania",
+  "dobrze": "oglądania",
+  "kontekst": "zwiedzania lub ogladania zdjęć tychże",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "refleksja",
+  "zle": "paździeżu",
+  "dobrze": "paździerzu",
+  "kontekst": "na paździeżu nie leży i drugiemu",
+  "wszedzie": true,
+  "powod": "zgubiona litera r"
+ },
+ {
+  "id": "refleksja",
+  "zle": "przęjeli",
+  "dobrze": "przejęli",
+  "kontekst": "Imperium Rzymskiego przęjeli nie tylko",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "refleksja",
+  "zle": "wiecej",
+  "dobrze": "więcej",
+  "kontekst": "Także coraz wiecej przesłanek wskazuje",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "refleksja",
+  "zle": "wszyskich",
+  "dobrze": "wszystkich",
+  "kontekst": "zbadać wszyskich substancji i nie",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "refleksja",
+  "zle": "wymalowana",
+  "dobrze": "wymalowaną",
+  "kontekst": "Za pięknie wymalowana fasadą kryją",
+  "wszedzie": false,
+  "powod": "brak ogonka, narzędnik"
+ },
+ {
+  "id": "refleksja",
+  "zle": "wysuwaja",
+  "dobrze": "wysuwają",
+  "kontekst": "brytyjscy naukowcy wysuwaja tezę, że",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "refleksja",
+  "zle": "zastanowiał",
+  "dobrze": "zastanawiał",
+  "kontekst": "ktoś zastanowiał się nad tym",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "refleksja",
+  "zle": "żadem",
+  "dobrze": "żaden",
+  "kontekst": "Demokracja, jak żadem inny ustrój",
+  "wszedzie": false,
+  "powod": "pomylona końcówka"
+ },
+ {
+  "id": "survival",
+  "zle": "hollywodzkich",
+  "dobrze": "hollywoodzkich",
+  "kontekst": "tylko w hollywodzkich filmach i",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "szypow",
+  "zle": "ze",
+  "dobrze": "że",
+  "kontekst": "przecież wiadomo, ze technologie torsyjne",
+  "wszedzie": false,
+  "powod": "spójnik „że” bez ogonka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "jezyku",
+  "dobrze": "języku",
+  "kontekst": "co w jezyku mieszkańców oznacza właśnie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "meteroidów",
+  "dobrze": "meteoroidów",
+  "kontekst": "większa od meteroidów, co przy",
+  "wszedzie": true,
+  "powod": "zgubiona litera o"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "Niektorzy",
+  "dobrze": "Niektórzy",
+  "kontekst": "35 tys. Niektorzy uczeni sądzą,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "Obowiązujacą",
+  "dobrze": "Obowiązującą",
+  "kontekst": "nasza Ziemia. Obowiązujacą teorię Ptolemeusza,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "obracajaca",
+  "dobrze": "obracająca",
+  "kontekst": "kry lodowej obracajaca się wokół",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "odleglosci",
+  "dobrze": "odległości",
+  "kontekst": "przyblizeniu w odleglosci 30 do",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "pierwiatków",
+  "dobrze": "pierwiastków",
+  "kontekst": "całą grupę pierwiatków ciężkich w",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "pojawiajaca",
+  "dobrze": "pojawiająca",
+  "kontekst": "Halley'a pojawiajaca się co 76",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "przyblizeniu",
+  "dobrze": "przybliżeniu",
+  "kontekst": "Neptuna w przyblizeniu w odleglosci",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "Przygladając",
+  "dobrze": "Przyglądając",
+  "kontekst": "wstrząsy sejsmiczne. Przygladając się powierzchni",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "starozytności",
+  "dobrze": "starożytności",
+  "kontekst": "stan wiedzy starozytności.\", porównując opisy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "temperatuty",
+  "dobrze": "temperatury",
+  "kontekst": "od temperatuty zera bezwzględnego, w",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "uklad/wstep1",
+  "zle": "Wiekim",
+  "dobrze": "Wielkim",
+  "kontekst": "w Wiekim Wybuchu, to skąd",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "liczyc",
+  "dobrze": "liczyć",
+  "kontekst": "mogą liczyc około 12 tysięcy lat",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "miare",
+  "dobrze": "miarę",
+  "kontekst": "poczekać. W miare postępu prac",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "natomiat",
+  "dobrze": "natomiast",
+  "kontekst": "ścian, natomiat u jej podnóży",
+  "wszedzie": true,
+  "powod": "brak litery s"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "Niemccy",
+  "dobrze": "Niemcy",
+  "kontekst": "Niemccy naukowcy znaleźli tam ostatnimi",
+  "wszedzie": true,
+  "powod": "podwojona litera"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "niezapreczalnie",
+  "dobrze": "niezaprzeczalnie",
+  "kontekst": "jest niezapreczalnie piramidą. Dr Aly",
+  "wszedzie": true,
+  "powod": "brak litery z"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "Oprocz",
+  "dobrze": "Oprócz",
+  "kontekst": "tym przekonać. Oprocz płatnych dziś",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "pizzernia",
+  "dobrze": "pizzeria",
+  "kontekst": "a pizzernia zaoferowała trójkątną pizzę.",
+  "wszedzie": true,
+  "powod": "dodatkowa litera n"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "Poczatek",
+  "dobrze": "Początek",
+  "kontekst": "Archeowieści --- Poczatek zabijania prawdy?",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "sądzii",
+  "dobrze": "sądzi",
+  "kontekst": "Profesor sądzii, że jest to",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "sywierdzenie",
+  "dobrze": "stwierdzenie",
+  "kontekst": "Bardzo ciekawe sywierdzenie",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "visoko/piramida",
+  "zle": "Tymczaem",
+  "dobrze": "Tymczasem",
+  "kontekst": "Tymczaem Semir Omanagic, archeolog",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "byc",
+  "dobrze": "być",
+  "kontekst": "byc może związane z występowaniem",
+  "wszedzie": true,
+  "powod": "brak ogonka w „być”"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "częśc",
+  "dobrze": "część",
+  "kontekst": "jedyna częśc zamku, która się",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "doczynienia",
+  "dobrze": "do czynienia",
+  "kontekst": "renesansu mamy doczynienia z epidemiami",
+  "wszedzie": true,
+  "powod": "sklejone słowa"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "dokonac",
+  "dobrze": "dokonać",
+  "kontekst": "musieli \"dokonac korekt\"",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "dopatrzyc",
+  "dobrze": "dopatrzyć",
+  "kontekst": "nie można się dopatrzyc budulca, bo albo",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "dotyczacy",
+  "dobrze": "dotyczący",
+  "kontekst": "inny aspekt dotyczacy starożytnych monet i",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "fragnemty",
+  "dobrze": "fragmenty",
+  "kontekst": "zdołał uwiecznić fragnemty zamku na",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "ilośc",
+  "dobrze": "ilość",
+  "kontekst": "Tak mała ilośc ofiar może",
+  "wszedzie": true,
+  "powod": "brak kreski nad ć"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "kaklizmu",
+  "dobrze": "kataklizmu",
+  "kontekst": "czasach od kaklizmu, który zmiótł",
+  "wszedzie": true,
+  "powod": "zgubiona sylaba"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "najeźdzcy",
+  "dobrze": "najeźdźcy",
+  "kontekst": "strony potencjalnego najeźdzcy, zamiast na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "normadzkie",
+  "dobrze": "normandzkie",
+  "kontekst": "leczenie ran: sagi normadzkie opisują",
+  "wszedzie": true,
+  "powod": "zgubiona litera n"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "oblężemia",
+  "dobrze": "oblężenia",
+  "kontekst": "pamiątkę oblężemia zamku przez Jagiełłę",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "półnoć",
+  "dobrze": "północ",
+  "kontekst": "obronnych na półnoć od wież",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "profesonalną",
+  "dobrze": "profesjonalną",
+  "kontekst": "sugerowac profesonalną opiekę medyczną",
+  "wszedzie": true,
+  "powod": "brak litery j"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "przejścu",
+  "dobrze": "przejściu",
+  "kontekst": "mówi się o przejścu od gotyku do",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "ptretekstem",
+  "dobrze": "pretekstem",
+  "kontekst": "gdzie ptretekstem było pogaństwo, a",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "sugerowac",
+  "dobrze": "sugerować",
+  "kontekst": "może sugerowac profesonalną opiekę",
+  "wszedzie": true,
+  "powod": "brak ogonka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "systememie",
+  "dobrze": "systemie",
+  "kontekst": "systememie ogrzewania sal gorącym powietrzem",
+  "wszedzie": true,
+  "powod": "dodatkowe litery"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "śiermiężnej",
+  "dobrze": "siermiężnej",
+  "kontekst": "biedy i śiermiężnej techniki cały",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "średniegoi",
+  "dobrze": "średniego i",
+  "kontekst": "zamku średniegoi wysokiego. Drugi obraz",
+  "wszedzie": false,
+  "powod": "sklejone słowa"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "ulegaja",
+  "dobrze": "ulegają",
+  "kontekst": "statusem zabytku, ulegaja powolnej ruinie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "ustalic",
+  "dobrze": "ustalić",
+  "kontekst": "zwykle trudno ustalic kolejność, co",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "wczesorenesansowych",
+  "dobrze": "wczesnorenesansowych",
+  "kontekst": "gotyckich i wczesorenesansowych; ciekawą sprawą",
+  "wszedzie": true,
+  "powod": "brak litery n"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "wegierskim",
+  "dobrze": "węgierskim",
+  "kontekst": "w zamku wegierskim i hiszpańskim.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "widac",
+  "dobrze": "widać",
+  "kontekst": "gdy dziś widac tylko jedną",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "większośc",
+  "dobrze": "większość",
+  "kontekst": "dziwnym trafem większośc na prawym",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "zapytac",
+  "dobrze": "zapytać",
+  "kontekst": "co. Możnaby zapytac historyków o",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "znalażł",
+  "dobrze": "znalazł",
+  "kontekst": "Jakim cudem znalażł się koryncki",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/kazimierz",
+  "zle": "zywilizacji",
+  "dobrze": "cywilizacji",
+  "kontekst": "końcu zywilizacji europejskich zawdzięczamy",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "byc",
+  "dobrze": "być",
+  "kontekst": "która byc może ma stwarzać",
+  "wszedzie": true,
+  "powod": "brak ogonka w „być”"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "ilośc",
+  "dobrze": "ilość",
+  "kontekst": "tak wielką ilośc ruin, których zniszczenie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "intrygujaca",
+  "dobrze": "intrygująca",
+  "kontekst": "nie mniej intrygujaca sprawą jest faktyczne",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "jakikolowiek",
+  "dobrze": "jakikolwiek",
+  "kontekst": "zachował się jakikolowiek jego skrawek",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "Matltańskich",
+  "dobrze": "Maltańskich",
+  "kontekst": "(Kawalerów Matltańskich) zasłużonych w wyprawach",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "miekkiego",
+  "dobrze": "miękkiego",
+  "kontekst": "to wina miekkiego podłoża? To",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "najeźdzcom",
+  "dobrze": "najeźdźcom",
+  "kontekst": "wyłącznie barbarzyńskim najeźdzcom. Dzisiejsza historia",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "najeźdzców",
+  "dobrze": "najeźdźców",
+  "kontekst": "zburzony przez najeźdzców. Historycy wszystkie",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "nusiały",
+  "dobrze": "musiały",
+  "kontekst": "jak liczne nusiały być armie",
+  "wszedzie": true,
+  "powod": "zła pierwsza litera"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "piesią",
+  "dobrze": "piersią",
+  "kontekst": "własna piesią ochraniać plac budowy",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "podpierac",
+  "dobrze": "podpierać",
+  "kontekst": "musiały podpierac także całe kamienne",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "potrafie",
+  "dobrze": "potrafię",
+  "kontekst": "kładką? Nie potrafie sobię wyobrazić",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "pozostałośc",
+  "dobrze": "pozostałość",
+  "kontekst": "zamki to pozostałośc poprzedniej cywilizacji,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "przewyższajace",
+  "dobrze": "przewyższające",
+  "kontekst": "niektóre wręcz przewyższajace rzeczony Pałac",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "przezroczytego",
+  "dobrze": "przezroczystego",
+  "kontekst": "coś przezroczytego, bowiem w środku",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "Tak sie utarło, że",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "sobię",
+  "dobrze": "sobie",
+  "kontekst": "Nie potrafie sobię wyobrazić kładki",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "świadcza",
+  "dobrze": "świadczą",
+  "kontekst": "regularnych elementach świadcza o wysokiej",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "ujał",
+  "dobrze": "ujął",
+  "kontekst": "było. Hipotezę ujał w książce",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "wakazała",
+  "dobrze": "wskazała",
+  "kontekst": "krowa wakazała miejsce posadowienia pierwszego",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "Wiekszość",
+  "dobrze": "Większość",
+  "kontekst": "narodowości narratora. Wiekszość skłania się",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "zaangazowanych",
+  "dobrze": "zaangażowanych",
+  "kontekst": "ludzi było zaangazowanych do budowy?",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "zródło",
+  "dobrze": "źródło",
+  "kontekst": "musiał posiadać zródło pitnej wody.",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "warownie/warownie",
+  "zle": "Żródło",
+  "dobrze": "Źródło",
+  "kontekst": "przez wrogów. Żródło wody było",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "woda",
+  "zle": "Bi-blię",
+  "dobrze": "Biblię",
+  "kontekst": "materialista czytywałem Bi-blię, aby walczyć z \"opium",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "woda",
+  "zle": "krajow",
+  "dobrze": "krajów",
+  "kontekst": "z różnych krajow zostały ukierunkowane na",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "woda",
+  "zle": "ob-jaśnić",
+  "dobrze": "objaśnić",
+  "kontekst": "jesteśmy w stanie ob-jaśnić i wykorzystać dla",
+  "wszedzie": false,
+  "powod": "pozostałość dzielenia wyrazu na końcu linii"
+ },
+ {
+  "id": "wrozby/nostradamus",
+  "zle": "wewnatrz",
+  "dobrze": "wewnątrz",
+  "kontekst": "do istoty wewnatrz? Czyżby istota",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "wrozby/nostradamus",
+  "zle": "zanuży",
+  "dobrze": "zanurzy",
+  "kontekst": "Rowu, zanuży się w wielkiej kadzi",
+  "wszedzie": true,
+  "powod": "brak litery r"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "byc",
+  "dobrze": "być",
+  "kontekst": "Kalendarz byc może jak i dziś",
+  "wszedzie": true,
+  "powod": "brak ogonka w „być”"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "horendalnie",
+  "dobrze": "horrendalnie",
+  "kontekst": "do tego horendalnie droga, a",
+  "wszedzie": true,
+  "powod": "brak litery"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "nastapi",
+  "dobrze": "nastąpi",
+  "kontekst": "wiadomy. Jeśli nastapi taki kataklizm,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "pierwiastów",
+  "dobrze": "pierwiastków",
+  "kontekst": "na syntezie pierwiastów, który zadziałał",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "producji",
+  "dobrze": "produkcji",
+  "kontekst": "z producji chemicznych stymulatorów, bo",
+  "wszedzie": true,
+  "powod": "zły zapis"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "dlaczego sie twierdzi, że",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "skrupy",
+  "dobrze": "skorupy",
+  "kontekst": "uskoki skrupy ziemskiej",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "wartstwie",
+  "dobrze": "warstwie",
+  "kontekst": "w wartstwie, którą naukowcy sami",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "wytwarzaja",
+  "dobrze": "wytwarzają",
+  "kontekst": "naszego układu wytwarzaja pole elektromagnetyczne",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "wrozby/rok2012",
+  "zle": "zagrażaja",
+  "dobrze": "zagrażają",
+  "kontekst": "Z grubsza zagrażaja nam dwa",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "dżwięk",
+  "dobrze": "dźwięk",
+  "kontekst": "Na dżwięk słowa katakumby wszystkim",
+  "wszedzie": true,
+  "powod": "zły znak"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "inzyniera",
+  "dobrze": "inżyniera",
+  "kontekst": "\"naczelnego inzyniera\". Jakich narzędzi",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "Katakunby",
+  "dobrze": "Katakumby",
+  "kontekst": "Katakunby są spotykane nie tylko",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "latajacego",
+  "dobrze": "latającego",
+  "kontekst": "porównanie latajacego węża do współczesnego samolotu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "liczacych",
+  "dobrze": "liczących",
+  "kontekst": "bokach liczacych powyżej 100 m, zatem",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "nakazujace",
+  "dobrze": "nakazujące",
+  "kontekst": "być stopy nakazujace patrzeć w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "naliczyc",
+  "dobrze": "naliczyć",
+  "kontekst": "obiektów naliczyc można 11 plus",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "okrywajace",
+  "dobrze": "okrywające",
+  "kontekst": "ujrzeć pióra okrywajace ciało węża,",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "sie",
+  "dobrze": "się",
+  "kontekst": "składająca sie z trzech",
+  "wszedzie": true,
+  "powod": "brak ogonka w „się”"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "swiątynnego",
+  "dobrze": "świątynnego",
+  "kontekst": "budowie kompleksu \"swiątynnego\" Angkor w",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "światyniach",
+  "dobrze": "świątyniach",
+  "kontekst": "na wszystkich światyniach i kaplicach",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "zagadki/zagadki",
+  "zle": "zinterpetowałbym",
+  "dobrze": "zinterpretowałbym",
+  "kontekst": "ja zinterpetowałbym to jako gwiazdę",
+  "wszedzie": true,
+  "powod": "brak litery r"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "Centrralnej",
+  "dobrze": "Centralnej",
+  "kontekst": "w Centrralnej i Środkowej Ameryce",
+  "wszedzie": true,
+  "powod": "podwojona litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "Chrześcijaństwao",
+  "dobrze": "Chrześcijaństwo",
+  "kontekst": "Chrześcijaństwao jest jedną z głównych",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "ciagle",
+  "dobrze": "ciągle",
+  "kontekst": "Dzieją się ciagle jakieś nowe rzeczy",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "Częśćiowo",
+  "dobrze": "Częściowo",
+  "kontekst": "Częśćiowo mówi prawdę, ale po to",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "kanlerza",
+  "dobrze": "kanclerza",
+  "kontekst": "Żyda jako kanlerza. Myślę, że",
+  "wszedzie": true,
+  "powod": "brak litery c"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "kopli",
+  "dobrze": "kropli",
+  "kontekst": "nie ma kopli semickiej krwi",
+  "wszedzie": true,
+  "powod": "brak litery r"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "ktrórego",
+  "dobrze": "którego",
+  "kontekst": "podczas ktrórego wydawał 150 tys.",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "lekartstwo",
+  "dobrze": "lekarstwo",
+  "kontekst": "będzie brał lekartstwo na nadciśnienie",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "możliwoscią",
+  "dobrze": "możliwością",
+  "kontekst": "ludzi pozytywnie możliwoscią odwrócenia biegu",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "Myśle",
+  "dobrze": "Myślę",
+  "kontekst": "zdrowia fizycznego. Myśle jednak, że",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "nadjeżda",
+  "dobrze": "nadjeżdża",
+  "kontekst": "kiedy pociąg nadjeżda. ---",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "Najważniesze",
+  "dobrze": "Najważniejsze",
+  "kontekst": "Najważniesze jest to, że Żydzi",
+  "wszedzie": true,
+  "powod": "brak litery j"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "namiawianie",
+  "dobrze": "namawianie",
+  "kontekst": "przestępstwem namiawianie do badania tej",
+  "wszedzie": true,
+  "powod": "zła litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "nartkotyków",
+  "dobrze": "narkotyków",
+  "kontekst": "handlarzy nartkotyków. Na przykład zdziwienie",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "niemożliwiłoby",
+  "dobrze": "uniemożliwiłoby",
+  "kontekst": "kolei niemożliwiłoby mi ujawnianie",
+  "wszedzie": true,
+  "powod": "zgubiona litera u"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "powiedził",
+  "dobrze": "powiedział",
+  "kontekst": "Rosenthala, który powiedził, że",
+  "wszedzie": true,
+  "powod": "literówka"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "przezd",
+  "dobrze": "przed",
+  "kontekst": "obawy przezd szukaniem prawdy",
+  "wszedzie": true,
+  "powod": "dodatkowa litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "publikuja",
+  "dobrze": "publikują",
+  "kontekst": "osób, które publikuja prawdę. Ze",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "sentorów",
+  "dobrze": "senatorów",
+  "kontekst": "wpływu na sentorów i kongresmenów, którzy",
+  "wszedzie": true,
+  "powod": "zgubiona litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "spotykalismy",
+  "dobrze": "spotykaliśmy",
+  "kontekst": "się spotykalismy, jest ona naukowcem",
+  "wszedzie": true,
+  "powod": "brak kreski nad ś"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "wstrzykął",
+  "dobrze": "wstrzyknął",
+  "kontekst": "dentysta wstrzykął jej swoją krew",
+  "wszedzie": true,
+  "powod": "pomylona litera"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "wszsytkie",
+  "dobrze": "wszystkie",
+  "kontekst": "wykupiła wszsytkie HMO w Ameryce",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "wszsytkim",
+  "dobrze": "wszystkim",
+  "kontekst": "o tym wszsytkim dowiadywać. To",
+  "wszedzie": true,
+  "powod": "przestawione litery"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "zeby",
+  "dobrze": "żeby",
+  "kontekst": "Chcą oni, zeby wszyscy brali",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "zrozmiałam",
+  "dobrze": "zrozumiałam",
+  "kontekst": "przeszłam zrozmiałam, że muszę",
+  "wszedzie": true,
+  "powod": "brak litery u"
+ },
+ {
+  "id": "zyko/zykowywiad1",
+  "zle": "Zydów",
+  "dobrze": "Żydów",
+  "kontekst": "uwagę od Zydów. Głównym liderem",
+  "wszedzie": true,
+  "powod": "brak polskiego znaku lub literówka"
+ }
+]

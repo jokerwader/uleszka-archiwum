@@ -4,3 +4,4 @@ dist/
 .claude/
 podcast/**/*.mp3
 podcast/**/*.wav
+dane/poprawki/kandydaci.json

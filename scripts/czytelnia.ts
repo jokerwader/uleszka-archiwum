@@ -8,8 +8,12 @@
 import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { marked } from "marked";
 import { Archiwum, type Dokument } from "../src/archiwum.js";
+import { poprawHtml, popraw, tekstBazowy, wczytajErrate } from "./lib/errata.js";
+import { INICJAL_MD, polaczInicjaly } from "./lib/inicjaly.js";
 
 const archiwum = new Archiwum(".");
+const errata = wczytajErrate(".");
+let poprawekRazem = 0, poprawekPominietych = 0;
 const WYJSCIE = "docs/czytelnia";
 const REPO = "https://github.com/jokerwader/uleszka-archiwum";
 const RAW = "https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/";
@@ -29,7 +33,8 @@ marked.setOptions({ gfm: true, breaks: false });
 function trescHtml(a: Dokument): { html: string; rozdzialy: { id: string; tytul: string }[] } {
   // inicjały: w oryginale duża litera w pływającej tabelce, a tekst akapitu zaczyna się tuż obok, bez spacji
   // (np. „**P**” i osobny akapit „ora kończyć…”) – łączymy je z powrotem w jeden akapit
-  const md = a.tresc.replace(/\*\*([A-ZĄĆĘŁŃÓŚŹŻ])\*\*[ \t]*\n[ \t]*\n(?=[^\s#*![>|-])/g, '<span class="inicjal">$1</span>');
+  // – chyba że inicjał jest osobnym słowem („W Polsce”), wtedy zostaje spacja
+  const md = polaczInicjaly(a.tresc, INICJAL_MD, (l, osobne) => `<span class="inicjal">${l}</span>${osobne ? " " : ""}`);
   let html = marked.parse(md, { async: false }) as string;
   // obrazy: z repozytorium, z opisem AI jako tekstem alternatywnym
   html = html.replace(/<img src="(zrodlo\/[^"]+)" alt="([^"]*)"/g, (_m, src: string, alt: string) => {
@@ -156,7 +161,13 @@ lista.forEach((a, i) => {
   const nast = lista[i + 1];
   const pierwszyObraz = a.obrazy.find((x) => /\.(jpe?g|png)$/i.test(x.sciezka) && archiwum.opisObrazu(x.sciezka));
   const ksiazki = archiwum.ksiazkiArtykulu(a.id);
-  const { html: tresc, rozdzialy } = trescHtml(a);
+  const { html: tresc0, rozdzialy } = trescHtml(a);
+  // oczywiste literówki poprawione według erraty; oryginalny zapis widać po najechaniu na podkreślone słowo
+  const { html: tresc, uzyte } = poprawHtml(tresc0, a.id, errata);
+  const ilePoprawek = [...uzyte.values()].reduce((x, y) => x + y, 0);
+  const oczekiwane = [...popraw(tekstBazowy(a.czysty), a.id, errata).uzyte.values()].reduce((x, y) => x + y, 0);
+  poprawekRazem += ilePoprawek;
+  poprawekPominietych += Math.max(0, oczekiwane - ilePoprawek);
   const prosba = `Omów artykuł „${a.tytul}” (id: ${a.id}) z archiwum uleszka.net: przedstaw wiernie tezy autora z cytatami, a potem porównaj je z tym, co wiadomo dziś.`;
 
   const html =
@@ -164,7 +175,7 @@ lista.forEach((a, i) => {
     `<main class="wrap-czyt">
   <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#${slug(a.dzial)}">${esc(a.dzial)}</a>${rodzic ? ` › <a href="${plikArt(rodzic)}">${esc(rodzic.tytul)}</a>` : ""}</p>
   <h1>${esc(a.tytul)}</h1>
-  <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału</p>
+  <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału${ilePoprawek ? ` <span class="meta-poprawki" title="Podkreślone słowa: najedź (albo dotknij), żeby zobaczyć zapis z oryginału.">· poprawiono ${ilePoprawek} ${ilePoprawek === 1 ? "oczywistą literówkę" : ilePoprawek % 10 >= 2 && ilePoprawek % 10 <= 4 && (ilePoprawek % 100 < 10 || ilePoprawek % 100 >= 20) ? "oczywiste literówki" : "oczywistych literówek"}</span>` : ""}</p>
   <div class="odtwarzacz" id="odtwarzacz" hidden>
     <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
     <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
@@ -283,3 +294,4 @@ writeFileSync(`${WYJSCIE}/index.html`, spis, "utf8");
 for (const plik of ["czytelnia.css", "czytelnia.js", "czytaj.js"]) copyFileSync(`scripts/czytelnia/${plik}`, `${WYJSCIE}/${plik}`);
 
 console.log(`Czytelnia: ${lista.length} artykułów + spis w ${WYJSCIE}/ (adres bazowy ${BAZA})`);
+console.log(`Errata: poprawiono ${poprawekRazem} miejsc${poprawekPominietych ? `, ${poprawekPominietych} nie dało się nanieść w HTML (fragment przecina formatowanie)` : ""}`);

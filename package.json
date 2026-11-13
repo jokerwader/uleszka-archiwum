@@ -19,7 +19,9 @@
     "wektory": "tsx scripts/wektory.ts",
     "sprawdz-opracowania": "tsx scripts/sprawdz-opracowania.ts",
     "czytelnia": "tsx scripts/czytelnia.ts",
-    "strona": "tsx scripts/strona-zdjecia.ts && tsx scripts/obrazek-strony.ts && tsx scripts/czytelnia.ts"
+    "strona": "tsx scripts/strona-zdjecia.ts && tsx scripts/obrazek-strony.ts && tsx scripts/czytelnia.ts",
+    "literowki": "tsx scripts/literowki.ts",
+    "errata": "tsx scripts/errata.ts"
   },
   "keywords": [
     "mcp",
@@ -45,7 +47,9 @@
     "@types/node": "^26.6.6",
     "@types/turndown": "^5.0.6",
     "cheerio": "^1.2.0",
+    "dictionary-pl": "^2.0.0",
     "marked": "^18.2.0",
+    "nspell": "^2.1.5",
     "tsx": "^4.23.15",
     "turndown": "^7.2.5",
     "typescript": "^7.0.2"

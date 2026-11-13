@@ -10,12 +10,35 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków. Teksty maj
 | 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | 203 |
 | 01-wstep.txt | Wstęp | 8901 |
 | 02-prywatnie-cz1.txt | Prywatnie, część 1 z 4 | 9227 |
-| 03-prywatnie-cz2.txt | Prywatnie, część 2 z 4 | 9462 |
-| 04-prywatnie-cz3.txt | Prywatnie, część 3 z 4 | 9381 |
-| 05-prywatnie-cz4.txt | Prywatnie, część 4 z 4 | 5783 |
+| 03-prywatnie-cz2.txt | Prywatnie, część 2 z 4 | 9465 |
+| 04-prywatnie-cz3.txt | Prywatnie, część 3 z 4 | 9383 |
+| 05-prywatnie-cz4.txt | Prywatnie, część 4 z 4 | 5784 |
 | 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 172 |
 
-**Razem: 43129 znaków** (≈ 45 min nagrania).
+**Razem: 43135 znaków** (≈ 45 min nagrania).
+
+### Poprawione literówki (errata)
+
+W tekście dla lektora poprawiono oczywiste literówki z oryginału (lista: `dane/poprawki/errata.json`):
+
+| Artykuł | Było | Jest | Razy |
+|---|---|---|---|
+| Wstęp | moga | mogą | 1 |
+| Wstęp | uzwględnić | uwzględnić | 1 |
+| Prywatnie | artukule | artykule | 1 |
+| Prywatnie | dżwięku | dźwięku | 1 |
+| Prywatnie | indokrynacja | indoktrynacja | 1 |
+| Prywatnie | kokwisty | konkwisty | 1 |
+| Prywatnie | odłożyc | odłożyć | 1 |
+| Prywatnie | ogladania | oglądania | 1 |
+| Prywatnie | paździeżu | paździerzu | 1 |
+| Prywatnie | przęjeli | przejęli | 1 |
+| Prywatnie | wiecej | więcej | 1 |
+| Prywatnie | wszyskich | wszystkich | 1 |
+| Prywatnie | wymalowana | wymalowaną | 1 |
+| Prywatnie | wysuwaja | wysuwają | 1 |
+| Prywatnie | zastanowiał | zastanawiał | 1 |
+| Prywatnie | żadem | żaden | 1 |
 
 ## Opis odcinka (Spotify)
 
@@ -25,7 +48,7 @@ Autor przedstawia założenia całego działu. Twierdzi, że oficjalna historia 
 
 Autor strony żegna się z aktywnym prowadzeniem serwisu i w osobistej refleksji (wrzesień 2006) podsumowuje swoje poglądy. Pisze, że zaczął pisać w ramach rehabilitacji po wylewie z 2001 roku, a opierał się na hipotezie cyklicznych kataklizmów (Hapgood), na kwestionowaniu sposobu budowy dawnych budowli i obróbki kamienia oraz na przekonaniu, że oficjalna historia jest fałszowana, w tym historia Rzymu i Polski (Mieszko I jako marionetka rzymska). Dodaje krytyczne uwagi o ochronie przyrody i zabytków, zdrowym żywieniu, demokracji i polskiej polityce, a także o ewolucji i medycynie. Kończy radami: dbać o zdrowie i rozwój duchowy oraz poznawać prawdziwą historię.
 
-Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian. Czyta lektor AI (ElevenLabs). Archiwum powstało w hołdzie śp. Leszkowi Wiktorowi Klimkowi.
+Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum powstało w hołdzie śp. Leszkowi Wiktorowi Klimkowi.
 
 Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zastępują porady lekarza.
 
