@@ -2,3 +2,5 @@ node_modules/
 dist/
 *.log
 .claude/
+podcast/**/*.mp3
+podcast/**/*.wav
