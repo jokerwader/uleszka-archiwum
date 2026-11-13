@@ -42,6 +42,10 @@ Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zast
    npx tsx scripts/podcast.ts polacz podcast/<folder odcinka>
    ```
 4. Wgraj `odcinek.mp3` do Spotify for Creators, z tytułem i opisem z `ODCINEK.md`.
+5. Dopisz odcinek do `podcast/odcinki.json` (numer, tytuł, identyfikator z linku `open.spotify.com/episode/<id>`, id artykułów)
+   i uruchom `npx tsx scripts/czytelnia.ts`. Przy tych artykułach w czytelni pojawi się odtwarzacz Spotify
+   (zamiast czytania głosem przeglądarki). Na stronie głównej sekcję „Posłuchaj” (`docs/index.html`, `#podcast`) zmień ręcznie.
+   Odtwarzacz Spotify wczytuje się dopiero po kliknięciu, więc bez kliknięcia strona nie łączy się ze Spotify.
 
 ## Odcinki
 

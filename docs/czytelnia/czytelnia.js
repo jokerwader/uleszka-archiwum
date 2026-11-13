@@ -84,6 +84,20 @@
   );
 })();
 
+// odcinek podcastu: odtwarzacz Spotify wczytuje się dopiero po kliknięciu (wcześniej strona nie łączy się ze Spotify)
+document.addEventListener("click", (e) => {
+  const b = e.target.closest?.(".spotify-graj");
+  if (!b) return;
+  const box = b.closest(".spotify");
+  const f = document.createElement("iframe");
+  f.src = `https://open.spotify.com/embed/episode/${box.dataset.odcinek}?theme=0&autoplay=1`;
+  f.title = "Odtwarzacz Spotify: " + box.dataset.tytul;
+  f.allow = "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture";
+  f.loading = "lazy";
+  box.replaceChildren(f);
+  box.classList.add("wczytany");
+});
+
 // poprawione literówki: dotknięcie pokazuje zapis z oryginału (na telefonie nie ma najechania)
 document.addEventListener("click", (e) => {
   const p = e.target.closest?.(".poprawka");
