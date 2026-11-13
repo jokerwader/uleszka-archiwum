@@ -70,6 +70,7 @@
   .logo span { color: #e8b04b; }
   .pasek a.gh { color: #cfd6e4; text-decoration: none; border: 1px solid rgba(255, 255, 255, .18); padding: 6px 14px; border-radius: 999px; backdrop-filter: blur(6px); }
   .pasek a.gh:hover { border-color: #e8b04b; color: #fff; }
+  .nav-prawa { display: flex; gap: 8px; }
   .hero-tresc { flex: 1; display: flex; flex-direction: column; justify-content: center; padding-top: 40px; padding-bottom: 24px; }
   .hero-tresc > * { max-width: 580px; }
   .hero-tresc > h1 { max-width: 760px; }
@@ -252,18 +253,18 @@
   <div class="wrap">
     <nav class="pasek">
       <a class="logo" href="#">uleszka<span>.net</span> · archiwum</a>
-      <a class="gh" href="https://github.com/jokerwader/uleszka-archiwum">GitHub</a>
+      <span class="nav-prawa"><a class="gh" href="czytelnia/">Czytelnia</a> <a class="gh" href="https://github.com/jokerwader/uleszka-archiwum">GitHub</a></span>
     </nav>
   </div>
   <div class="wrap hero-tresc">
     <p class="eyebrow wejscie">„Uwierz we własny rozum” · 2004–2007</p>
     <h1 class="wejscie">Nadchodzi przeszłość</h1>
-    <p class="cytat-autor wejscie">— Leszek Klimek, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/artykuly/01-cywilizacja-bogow/001-wstep.md">„Wstęp”</a> do Cywilizacji Bogów</p>
+    <p class="cytat-autor wejscie">— Leszek Klimek, <a href="czytelnia/cybog-wstepcb.html">„Wstęp”</a> do Cywilizacji Bogów</p>
     <p class="lead wejscie">Strona, która <em>otworzyła oczy wielu ludziom</em> i zadawała pytania, których nikt wcześniej nie zadawał. Dziś możesz z nią porozmawiać, przez <em>Claude</em> albo <em>ChatGPT</em>.</p>
     <p class="pytanie-autora wejscie" aria-live="off"><span id="pytanie-tekst">Kto naprawdę zbudował piramidy?</span><span class="kursor" aria-hidden="true"></span></p>
     <div class="przyciski wejscie">
       <a class="btn btn-glowny" href="#jak-zaczac">Zacznij rozmowę →</a>
-      <a class="btn btn-drugi" href="#slady">Zobacz ślady</a>
+      <a class="btn btn-drugi" href="czytelnia/">Czytaj artykuły</a>
     </div>
   </div>
   <div class="wrap hero-dol">
@@ -281,7 +282,7 @@
   <section class="slady" id="slady">
     <div class="wrap">
       <h2>Ślady</h2>
-      <p class="pod">Zdjęcia, którymi Leszek ilustrował swoje pytania. Kliknij, żeby przeczytać artykuł, z którego pochodzą.</p>
+      <p class="pod">Zdjęcia, którymi Leszek ilustrował swoje pytania. Kliknij, żeby przeczytać w czytelni artykuł, z którego pochodzą.</p>
     </div>
     <div class="tasma" id="tasma"></div>
   </section>
@@ -431,7 +432,7 @@
           <span class="etykieta-zr">Oryginał</span>
           <h3>Strona uleszka.net, bajt w bajt</h3>
           <p>Kopia oryginalnych plików strony z 2007 r. i 148 artykułów przeniesionych słowo w słowo, z automatyczną kontrolą wierności litera po literze.</p>
-          <p class="linki"><a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/KATALOG.md">katalog artykułów</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/tree/main/zrodlo">oryginalne pliki</a> · <a href="http://web.archive.org/web/20070211031151/http://www.uleszka.net:80/">Wayback Machine (2007)</a></p>
+          <p class="linki"><a href="czytelnia/">czytelnia: wszystkie artykuły</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/tree/main/zrodlo">oryginalne pliki</a> · <a href="http://web.archive.org/web/20070211031151/http://www.uleszka.net:80/">Wayback Machine (2007)</a></p>
         </div>
         <div class="zrodlo-karta">
           <span class="etykieta-zr">Książki</span>
@@ -606,22 +607,22 @@
   const ART = "https://github.com/jokerwader/uleszka-archiwum/blob/main/artykuly/";
   const CB = ART + "01-cywilizacja-bogow/";
   window.ZDJECIA = [
-    { img: "brama.jpg", tytul: "Brama Słońca", opis: "Tiahuanaco w Boliwii. Tym zdjęciem witała czytelników strona uleszka.net.", art: "Strona tytułowa", url: ART + "00-strona-glowna/001-strona-tytulowa.md" },
-    { img: "tsunami.jpg", tytul: "Nadchodzi przeszłość…", opis: "Tym obrazem Leszek otwierał opowieść o cywilizacji Bogów i wielkich kataklizmach.", art: "Wstęp", url: CB + "001-wstep.md" },
-    { img: "09tiahu-wejscie.jpg", tytul: "Tiahuanaco", opis: "Brama z kamiennych bloków dopasowanych z niezwykłą precyzją. Kto i kiedy ją zbudował?", art: "Tiahuanaco", url: CB + "010-tiahuanaco.md" },
-    { img: "07piramidy-satpir.jpg", tytul: "Giza z orbity", opis: "Trzy piramidy widziane z satelity i pytanie, czy naprawdę wszystko o nich wiemy.", art: "Piramidy w Giza", url: CB + "008-piramidy-w-giza.md" },
-    { img: "07piramidy-orion3.jpg", tytul: "Pas Oriona", opis: "Czy układ piramid odwzorowuje gwiazdy na niebie?", art: "Piramidy w Giza", url: CB + "008-piramidy-w-giza.md" },
-    { img: "07piramidy-renowacja.jpg", tytul: "Sfinks", opis: "Łatany przez stulecia. Ile ma naprawdę lat?", art: "Piramidy w Giza", url: CB + "008-piramidy-w-giza.md" },
-    { img: "zagadki-stopione.jpg", tytul: "Kamienie jak stopione", opis: "Olbrzymie bloki o miękkich krawędziach, dopasowane bez zaprawy.", art: "Dziwne i zagadkowe", url: CB + "018-dziwne-i-zagadkowe.md" },
-    { img: "blazenada-pacal.jpg", tytul: "Płyta z Palenque", opis: "Władca w zaświatach czy coś więcej? Spór o płaskorzeźbę, który trwa od lat.", art: "Uczona błazenada", url: CB + "019-uczona-blazenada.md" },
-    { img: "blazenada-nazca.jpg", tytul: "Pająk z Nazca", opis: "Rysunek na pustyni, który w całości widać dopiero z powietrza.", art: "Uczona błazenada", url: CB + "019-uczona-blazenada.md" },
-    { img: "02uskok-moai1.jpg", tytul: "Moai", opis: "Posągi z Wyspy Wielkanocnej, częściowo zasypane ziemią. Co je przykryło?", art: "Wielki uskok…", url: CB + "003-wielki-uskok.md" },
-    { img: "02uskok-ollinstone.jpg", tytul: "Stonehenge", opis: "Kamienny krąg i linie wskazujące gwiazdy oraz planety.", art: "Wielki uskok…", url: CB + "003-wielki-uskok.md" },
-    { img: "06budowle-tort5b.jpg", tytul: "Kolosy w skale", opis: "Posągi wykute w litej skale. Jakimi narzędziami?", art: "Kto zbudował?", url: CB + "007-kto-zbudowal.md" },
-    { img: "ameryka-1p_teoti.jpg", tytul: "Teotihuacan", opis: "Miasto bogów w Meksyku i jego schodkowe piramidy.", art: "Indiański folklor", url: CB + "027-indianski-folklor.md" },
-    { img: "09tiahu-tiahuair.jpg", tytul: "Tiahuanaco z lotu ptaka", opis: "Plan kompleksu na zdjęciu lotniczym, z naniesionymi opisami.", art: "Tiahuanaco", url: CB + "010-tiahuanaco.md" },
-    { img: "05bogowie-cywilizacje.jpg", tytul: "Mapa zaginionych cywilizacji", opis: "Gdzie mogły istnieć dawne cywilizacje? Leszek zaznaczał je znakami zapytania.", art: "Jaka cywilizacja", url: CB + "006-jaka-cywilizacja.md" },
-    { img: "25maja2006-meteo.jpg", tytul: "25 maja 2006", opis: "Przepowiednia uderzenia meteorytu w Atlantyk. Minęło 20 lat: sprawdź, co z niej zostało.", art: "26 maja 2006", url: CB + "033-26-maja-2006.md" },
+    { img: "brama.jpg", tytul: "Brama Słońca", opis: "Tiahuanaco w Boliwii. Tym zdjęciem witała czytelników strona uleszka.net.", art: "Strona tytułowa", url: "czytelnia/doindeksu-tytx1.html" },
+    { img: "tsunami.jpg", tytul: "Nadchodzi przeszłość…", opis: "Tym obrazem Leszek otwierał opowieść o cywilizacji Bogów i wielkich kataklizmach.", art: "Wstęp", url: "czytelnia/cybog-wstepcb.html" },
+    { img: "09tiahu-wejscie.jpg", tytul: "Tiahuanaco", opis: "Brama z kamiennych bloków dopasowanych z niezwykłą precyzją. Kto i kiedy ją zbudował?", art: "Tiahuanaco", url: "czytelnia/09tiahu-tiahua.html" },
+    { img: "07piramidy-satpir.jpg", tytul: "Giza z orbity", opis: "Trzy piramidy widziane z satelity i pytanie, czy naprawdę wszystko o nich wiemy.", art: "Piramidy w Giza", url: "czytelnia/07piramidy-piramidy.html" },
+    { img: "07piramidy-orion3.jpg", tytul: "Pas Oriona", opis: "Czy układ piramid odwzorowuje gwiazdy na niebie?", art: "Piramidy w Giza", url: "czytelnia/07piramidy-piramidy.html" },
+    { img: "07piramidy-renowacja.jpg", tytul: "Sfinks", opis: "Łatany przez stulecia. Ile ma naprawdę lat?", art: "Piramidy w Giza", url: "czytelnia/07piramidy-piramidy.html" },
+    { img: "zagadki-stopione.jpg", tytul: "Kamienie jak stopione", opis: "Olbrzymie bloki o miękkich krawędziach, dopasowane bez zaprawy.", art: "Dziwne i zagadkowe", url: "czytelnia/zagadki-zagadki.html" },
+    { img: "blazenada-pacal.jpg", tytul: "Płyta z Palenque", opis: "Władca w zaświatach czy coś więcej? Spór o płaskorzeźbę, który trwa od lat.", art: "Uczona błazenada", url: "czytelnia/blazenada-zarty.html" },
+    { img: "blazenada-nazca.jpg", tytul: "Pająk z Nazca", opis: "Rysunek na pustyni, który w całości widać dopiero z powietrza.", art: "Uczona błazenada", url: "czytelnia/blazenada-zarty.html" },
+    { img: "02uskok-moai1.jpg", tytul: "Moai", opis: "Posągi z Wyspy Wielkanocnej, częściowo zasypane ziemią. Co je przykryło?", art: "Wielki uskok…", url: "czytelnia/02uskok-uskok.html" },
+    { img: "02uskok-ollinstone.jpg", tytul: "Stonehenge", opis: "Kamienny krąg i linie wskazujące gwiazdy oraz planety.", art: "Wielki uskok…", url: "czytelnia/02uskok-uskok.html" },
+    { img: "06budowle-tort5b.jpg", tytul: "Kolosy w skale", opis: "Posągi wykute w litej skale. Jakimi narzędziami?", art: "Kto zbudował?", url: "czytelnia/06budowle-budowle.html" },
+    { img: "ameryka-1p_teoti.jpg", tytul: "Teotihuacan", opis: "Miasto bogów w Meksyku i jego schodkowe piramidy.", art: "Indiański folklor", url: "czytelnia/ameryka-folklor.html" },
+    { img: "09tiahu-tiahuair.jpg", tytul: "Tiahuanaco z lotu ptaka", opis: "Plan kompleksu na zdjęciu lotniczym, z naniesionymi opisami.", art: "Tiahuanaco", url: "czytelnia/09tiahu-tiahua.html" },
+    { img: "05bogowie-cywilizacje.jpg", tytul: "Mapa zaginionych cywilizacji", opis: "Gdzie mogły istnieć dawne cywilizacje? Leszek zaznaczał je znakami zapytania.", art: "Jaka cywilizacja", url: "czytelnia/05bogowie-bogowie.html" },
+    { img: "25maja2006-meteo.jpg", tytul: "25 maja 2006", opis: "Przepowiednia uderzenia meteorytu w Atlantyk. Minęło 20 lat: sprawdź, co z niej zostało.", art: "26 maja 2006", url: "czytelnia/25maja2006-maj25.html" },
   ];
 
   const tasma = document.getElementById("tasma");

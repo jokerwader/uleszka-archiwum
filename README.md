@@ -3,6 +3,8 @@
 ### Archiwum strony, z którą można porozmawiać
 
 > 👉 **Prosta instrukcja dla każdego, bez GitHuba: [jokerwader.github.io/uleszka-archiwum](https://jokerwader.github.io/uleszka-archiwum/)**
+>
+> 📖 **Czytelnia – wszystkie artykuły w wygodnej formie: [jokerwader.github.io/uleszka-archiwum/czytelnia](https://jokerwader.github.io/uleszka-archiwum/czytelnia/)**
 
 **uleszka.net** to polska strona internetowa z lat ok. 2004–2007. Na długo przed erą blogów i mediów społecznościowych zadawała pytania, których w szkole nikt nie zadawał. Kto zbudował piramidy i Tiahuanaco? Czy potop był jeden? Gdzie leżała Atlantyda? Dlaczego oficjalna historia ma tyle luk? Pisała też o zapomnianej medycynie naturalnej i o tym, co jemy.
 
@@ -227,6 +229,7 @@ npm run wektory     # wektory znaczenia dla archiwum; "npm run wektory -- biblio
 
 ```bash
 npm run pakiety     # odtwarza dla-ai/
+npm run czytelnia   # odtwarza czytelnię na stronie (docs/czytelnia/)
 ```
 
 ```bash
