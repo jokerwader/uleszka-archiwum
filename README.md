@@ -49,7 +49,7 @@ Wybierz sposób, który ci pasuje:
    - `07`–`17`: biblioteka, czyli pełne teksty 30 dawnych dzieł, na które powołuje się autor (Platon, Herodot, Księga Henocha, Popol Vuh, Mahabharata…). Są potrzebne, gdy AI ma sprawdzać, co naprawdę mówi źródło. Razem ok. 32 MB.
 2. W ChatGPT: **Odkrywaj GPT → Utwórz → Konfiguruj**.
 3. W polu **Instrukcje** wklej tekst z [docs/instrukcje-asystenta.md](docs/instrukcje-asystenta.md).
-4. W sekcji **Wiedza** wgraj pliki z `dla-ai/`. Wszystkie 18 mieszczą się w limicie ChatGPT (20 plików). Jeśli chcesz, wgraj tylko część biblioteki.
+4. W sekcji **Wiedza** wgraj pliki z `dla-ai/`. Wszystkie 19 mieszczą się w limicie ChatGPT (20 plików). Jeśli chcesz, wgraj tylko część biblioteki.
 5. Włącz **Wyszukiwanie w sieci**, żeby GPT mógł porównywać tezy z dzisiejszą wiedzą.
 6. Zapisz. Jeśli wybierzesz *Każdy, kto ma link*, możesz udostępnić rozmowę z archiwum innym.
 
@@ -62,7 +62,7 @@ Wybierz sposób, który ci pasuje:
 
 ### C. Claude Desktop / Claude Code (serwer MCP)
 
-Ten sposób działa najlepiej. AI dostaje 11 narzędzi:
+Ten sposób działa najlepiej. AI dostaje 12 narzędzi:
 
 | Narzędzie | Co robi |
 |---|---|
@@ -76,6 +76,7 @@ Ten sposób działa najlepiej. AI dostaje 11 narzędzi:
 | `get_image` | zdjęcie razem z opisem |
 | `list_books` | książki cytowane przez autora i gdzie je legalnie przeczytać |
 | `list_library`, `read_book` | biblioteka dawnych źródeł w pełnym brzmieniu |
+| `author_profile` | rys autora (fakty, poglądy, styl) i jego wywiad – do pytań „kim był Leszek” i do „Rozmowy z Leszkiem” |
 
 Potrzebny jest [Node.js](https://nodejs.org) w wersji 20 lub nowszej. Przy pierwszym wyszukiwaniu po znaczeniu serwer pobiera jednorazowo model językowy (ok. 120 MB). Potem działa bez internetu.
 
@@ -150,6 +151,12 @@ Serwer odpowiada pod adresem `/mcp` (protokół MCP Streamable HTTP). Pod adrese
 
 ---
 
+## 🎙️ Rozmowa z Leszkiem
+
+AI może poprowadzić rozmowę **stylem i poglądami Leszka Klimka**: gawędziarsko, z jego porównaniami i dosłownymi cytatami z archiwum. Opiera się na [rysie autora](docs/leszek-rys.md), który powstał wyłącznie z jego tekstów i [wywiadu dla nandi.pl](materialy/wywiad-nandi-pl.md). Leszek Klimek nie żyje, dlatego każda taka rozmowa zaczyna się informacją, że to rekonstrukcja AI. AI nie dopisuje mu faktów z życia, a przy tematach zdrowotnych wychodzi z roli. W Claude: **+ → konektor → „Rozmowa z Leszkiem”**. W ChatGPT i projektach Claude służy do tego plik `dla-ai/18-rozmowa-z-leszkiem.md`.
+
+Inne wypowiedzi autora i teksty o nim są zebrane w [`materialy/`](materialy/README.md).
+
 ## 📚 Książki, na które powołuje się autor
 
 Leszek Klimek cytuje setki książek i dawnych tekstów: od Platona, Herodota i Księgi Henocha po Dänikena i Sitchina. Zestawienie [**docs/ksiazki.md**](docs/ksiazki.md) pokazuje, które z nich można legalnie przeczytać lub pobrać za darmo i gdzie, a także w których artykułach są cytowane.
@@ -176,10 +183,11 @@ To repozytorium zachowuje stronę w pierwotnym układzie działów, razem ze zdj
 |---|---|
 | [`KATALOG.md`](KATALOG.md) | Spis treści: 148 stron w kolejności z menu strony, w działach |
 | [`artykuly/`](artykuly) | Każda strona jako osobny plik Markdown, z opisem (tytuł, dział, adres oryginału) i zdjęciami |
-| [`dla-ai/`](dla-ai) | Całe archiwum i biblioteka w 18 plikach do wgrania do ChatGPT lub Claude (sposoby A i B) |
+| [`dla-ai/`](dla-ai) | Całe archiwum, biblioteka i rys autora w 19 plikach do wgrania do ChatGPT lub Claude (sposoby A i B) |
 | [`zrodlo/`](zrodlo) | Oryginalna kopia strony: pliki HTML i ok. 1500 zdjęć, bajt w bajt |
 | [`opracowania/`](opracowania) | Opracowania AI każdego artykułu (JSON) i [ich spis](opracowania/README.md) |
 | [`biblioteka/`](biblioteka) | 30 dawnych dzieł z domeny publicznej, na które powołuje się autor, i 17 tekstów w językach oryginału ([spis](biblioteka/README.md)) |
+| [`materialy/`](materialy/README.md) | wypowiedzi autora spoza strony (wywiad dla nandi.pl) i teksty o nim |
 | [`dane/`](dane) | Opisy AI zdjęć (`opisy-obrazow/`) i wektory do wyszukiwania po znaczeniu (`wektory/`) |
 | [`src/`](src) | Serwer MCP |
 | [`scripts/`](scripts) | Konwersja, kontrola wierności, pliki dla AI, testy |
