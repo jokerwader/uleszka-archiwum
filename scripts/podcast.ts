@@ -19,6 +19,8 @@ import { popraw, wczytajErrate } from "./lib/errata.js";
 import { polaczInicjaly } from "./lib/inicjaly.js";
 
 const NAZWA = "Uwierz we własny rozum – teksty Leszka Klimka";
+/** Zdanie o tym, kto przygotował podcast (czytane na końcu odcinka); puste = bez podpisu. */
+const PRZYGOTOWAL = "";
 const LIMIT = 9500; // ElevenLabs przyjmuje do 10 000 znaków naraz – zostawiamy zapas
 const slug = (s: string) =>
   s.toLowerCase().replace(/ł/g, "l").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -119,8 +121,9 @@ if (polecenie === "teksty") {
   const poprawki: string[] = [];
   const calosc: string[] = [];
   const rozdzialy: { artykul: string; tytul: string; srodtytul: boolean; akapity: string[] }[] = [];
-  const zapowiedz = `Uwierz we własny rozum. Teksty Leszka Klimka ze strony uleszka.net, z lat dwa tysiące cztery – dwa tysiące siedem. Odcinek ${Number(nr)}: ${tytul}${/[.?!…]$/.test(tytul) ? "" : "."} Czyta lektor, którego głos wygenerowała sztuczna inteligencja.`;
-  const zakonczenie = `To był tekst Leszka Klimka ze strony uleszka.net. Pełny tekst, ze zdjęciami i źródłami, znajdziesz na uleszka.net, w czytelni. Tam możesz też porozmawiać z archiwum strony.`;
+  // zapowiedź i zakończenie nie są tekstem autora; adres strony zapisany tak, jak ma go wymówić lektor
+  const zapowiedz = `Uwierz we własny rozum. Podcast w hołdzie świętej pamięci Leszkowi Wiktorowi Klimkowi. Jego teksty ze strony uleszka kropka net, z lat dwa tysiące cztery – dwa tysiące siedem, czytane bez zmian. Odcinek ${Number(nr)}: ${tytul}${/[.?!…]$/.test(tytul) ? "" : "."} Czyta lektor, którego głos wygenerowała sztuczna inteligencja.`;
+  const zakonczenie = `To był tekst Leszka Klimka ze strony uleszka kropka net. Pełny tekst, ze zdjęciami i źródłami, znajdziesz w czytelni na stronie uleszka kropka net. Tam możesz też porozmawiać z archiwum strony przez sztuczną inteligencję.${PRZYGOTOWAL ? ` ${PRZYGOTOWAL}` : ""} Dziękuję za wysłuchanie.`;
   writeFileSync(join(folder, "00-zapowiedz.txt"), zapowiedz + "\n", "utf8");
   spis.push(`| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | ${zapowiedz.length} |`);
   razem += zapowiedz.length;

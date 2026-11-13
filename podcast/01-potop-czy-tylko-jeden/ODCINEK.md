@@ -7,15 +7,15 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków. Teksty maj
 
 | Plik | Co zawiera | Znaki (≈ kredyty) |
 |---|---|---|
-| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | 213 |
+| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | 293 |
 | 01-potop-cz1.txt | Potop, część 1 z 5 | 8926 |
 | 02-potop-cz2.txt | Potop, część 2 z 5 | 9255 |
 | 03-potop-cz3.txt | Potop, część 3 z 5 | 9496 |
 | 04-potop-cz4.txt | Potop, część 4 z 5 | 8901 |
 | 05-potop-cz5.txt | Potop, część 5 z 5 | 3959 |
-| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 172 |
+| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 246 |
 
-**Razem: 40922 znaków** (≈ 43 min nagrania).
+**Razem: 41076 znaków** (≈ 43 min nagrania).
 
 ## ElevenLabs Studio (rozdziały)
 
@@ -25,14 +25,14 @@ generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP
 
 | Plik | Rozdział | Znaki |
 |---|---|---|
-| 00-zapowiedz.txt | Zapowiedź | 213 |
+| 00-zapowiedz.txt | Zapowiedź | 293 |
 | 01-zrodla-pisane-starozytni.txt | Źródła pisane - Starożytni | 11288 |
 | 02-co-wiemy-na-temat-potopu.txt | Co wiemy na temat potopu | 11147 |
 | 03-co-moglo-byc-przyczyna-potopu.txt | Co mogło być przyczyną Potopu? | 5250 |
 | 04-teoria-potopu.txt | Teoria potopu | 6189 |
 | 05-byl-taki-czlowiek.txt | Był taki człowiek | 1670 |
 | 06-cos-w-rodzaju-podsumowania.txt | Coś w rodzaju podsumowania | 4960 |
-| 07-zakonczenie.txt | Zakończenie | 172 |
+| 07-zakonczenie.txt | Zakończenie | 246 |
 
 ### Poprawione literówki (errata)
 

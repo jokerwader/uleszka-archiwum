@@ -7,15 +7,15 @@ Wklejaj pliki po kolei; każdy mieści się w limicie 10 000 znaków. Teksty maj
 
 | Plik | Co zawiera | Znaki (≈ kredyty) |
 |---|---|---|
-| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | 203 |
+| 00-zapowiedz.txt | zapowiedź (nie jest tekstem autora) | 283 |
 | 01-wstep.txt | Wstęp | 8901 |
 | 02-prywatnie-cz1.txt | Prywatnie, część 1 z 4 | 9227 |
 | 03-prywatnie-cz2.txt | Prywatnie, część 2 z 4 | 9465 |
 | 04-prywatnie-cz3.txt | Prywatnie, część 3 z 4 | 9383 |
 | 05-prywatnie-cz4.txt | Prywatnie, część 4 z 4 | 5784 |
-| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 172 |
+| 99-zakonczenie.txt | zakończenie (nie jest tekstem autora) | 246 |
 
-**Razem: 43135 znaków** (≈ 45 min nagrania).
+**Razem: 43289 znaków** (≈ 46 min nagrania).
 
 ## ElevenLabs Studio (rozdziały)
 
@@ -25,7 +25,7 @@ generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP
 
 | Plik | Rozdział | Znaki |
 |---|---|---|
-| 00-zapowiedz.txt | Zapowiedź | 203 |
+| 00-zapowiedz.txt | Zapowiedź | 283 |
 | 01-wstep.txt | Wstęp | 8901 |
 | 02-calkiem-prywatnie.txt | CAŁKIEM PRYWATNIE | 5647 |
 | 03-o-historii.txt | O HISTORII | 5329 |
@@ -35,7 +35,7 @@ generujesz od nowa osobno; na końcu „Export” całego projektu do jednego MP
 | 07-o-przyszlosci.txt | O PRZYSZŁOŚCI | 5626 |
 | 08-co-zrozumialem.txt | CO ZROZUMIAŁEM? | 2590 |
 | 09-co-robic.txt | CO ROBIĆ? | 1957 |
-| 10-zakonczenie.txt | Zakończenie | 172 |
+| 10-zakonczenie.txt | Zakończenie | 246 |
 
 ### Poprawione literówki (errata)
 
