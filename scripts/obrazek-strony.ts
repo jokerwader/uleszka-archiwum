@@ -26,3 +26,20 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" v
 
 await sharp(Buffer.from(svg)).png().toFile("docs/og.png");
 console.log("Zapisano docs/og.png");
+
+// ikona konektora / strony (512×512): złote „U” na granatowym tle
+const ikona = `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="p" cx="0.85" cy="0.1" r="0.9">
+      <stop offset="0" stop-color="#e8b04b" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#e8b04b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#14213d"/>
+  <rect width="512" height="512" rx="112" fill="url(#p)"/>
+  <circle cx="256" cy="244" r="176" fill="none" stroke="#e8b04b" stroke-opacity="0.35" stroke-width="6"/>
+  <text x="256" y="350" font-family="Georgia, serif" font-size="300" font-weight="700" text-anchor="middle" fill="#e8b04b">U</text>
+</svg>`;
+await sharp(Buffer.from(ikona)).png().toFile("docs/ikona.png");
+await sharp(Buffer.from(ikona)).resize(64, 64).png().toFile("docs/favicon.png");
+console.log("Zapisano docs/ikona.png i docs/favicon.png");

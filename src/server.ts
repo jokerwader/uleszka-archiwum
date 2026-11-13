@@ -57,7 +57,21 @@ const WIERSZE_KSIAZEK: { sekcja: string; wiersz: string }[] = (() => {
 
 /** Tworzy serwer MCP z narzędziami archiwum (jeden na połączenie; archiwum jest wczytane raz, wspólne). */
 function utworzSerwer(): McpServer {
-const server = new McpServer({ name: "uleszka-archiwum", version: "1.3.0" }, { instructions: INSTRUKCJE });
+const STRONA_WWW = "https://jokerwader.github.io/uleszka-archiwum/";
+const server = new McpServer(
+  {
+    name: "uleszka-archiwum",
+    title: "U Leszka – archiwum uleszka.net",
+    version: "1.3.0",
+    websiteUrl: STRONA_WWW,
+    // ikona konektora w aplikacjach AI (Claude, ChatGPT…)
+    icons: [
+      { src: `${STRONA_WWW}ikona.png`, mimeType: "image/png", sizes: ["512x512"] },
+      { src: `${STRONA_WWW}favicon.png`, mimeType: "image/png", sizes: ["64x64"] },
+    ],
+  },
+  { instructions: INSTRUKCJE },
+);
 
 const tekst = (t: string) => ({ content: [{ type: "text" as const, text: t }] });
 const blad = (t: string) => ({ content: [{ type: "text" as const, text: t }], isError: true });
@@ -574,8 +588,15 @@ if (!port) {
 } else {
   const STRONA = `Serwer MCP archiwum uleszka.net (${archiwum.artykuly.length} artykułów).
 Adres dla asystenta AI: <ten adres>/mcp
-Kod i instrukcja: https://github.com/jokerwader/uleszka-archiwum
+Instrukcja dla każdego: https://jokerwader.github.io/uleszka-archiwum/
+Kod: https://github.com/jokerwader/uleszka-archiwum
 `;
+  const IKONY: Record<string, string> = {
+    "/favicon.ico": join(KATALOG_GLOWNY, "docs", "favicon.png"),
+    "/favicon.png": join(KATALOG_GLOWNY, "docs", "favicon.png"),
+    "/icon.png": join(KATALOG_GLOWNY, "docs", "ikona.png"),
+    "/apple-touch-icon.png": join(KATALOG_GLOWNY, "docs", "ikona.png"),
+  };
   // prosty limit zapytań z jednego adresu IP – chroni publiczny serwer przed zalewem zapytań (i kosztami)
   const LIMIT_NA_MINUTE = Number(process.env.ULESZKA_LIMIT_NA_MINUTE ?? 120);
   const licznik = new Map<string, { okno: number; n: number }>();
@@ -631,6 +652,12 @@ Kod i instrukcja: https://github.com/jokerwader/uleszka-archiwum
       if (sciezka === "/" || sciezka === "/health") {
         res.writeHead(200, { "Content-Type": "text/plain; charset=utf-8" });
         res.end(STRONA);
+        return;
+      }
+      // ikona pod adresem serwera – część aplikacji pokazuje favicon domeny konektora
+      if (IKONY[sciezka] && existsSync(IKONY[sciezka])) {
+        res.writeHead(200, { "Content-Type": "image/png", "Cache-Control": "public, max-age=86400" });
+        res.end(readFileSync(IKONY[sciezka]));
         return;
       }
       res.writeHead(404, { "Content-Type": "text/plain; charset=utf-8" });
