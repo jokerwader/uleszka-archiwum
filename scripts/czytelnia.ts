@@ -35,7 +35,7 @@ const odcinki: Odcinek[] = existsSync("podcast/odcinki.json") ? JSON.parse(readF
 const odcinekArt = new Map(odcinki.flatMap((o) => o.artykuly.map((id) => [id, o] as const)));
 const spotifyHtml = (o: Odcinek) => `  <div class="spotify" data-odcinek="${esc(o.spotify)}" data-tytul="${esc(o.tytul)}">
     <img src="../img/podcast.jpg" alt="" width="64" height="64">
-    <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · odcinek ${o.nr}</span><b>Posłuchaj tego artykułu</b><small>Czyta lektor AI, tekst bez zmian.</small></div>
+    <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · ${o.nr === 0 ? "na początek" : `odcinek ${o.nr}`}</span><b>Posłuchaj tego artykułu</b><small>Czyta lektor AI, tekst bez zmian.</small></div>
     <div class="spotify-przyciski"><button class="spotify-graj" type="button">▶ Odtwórz tutaj</button><a href="https://open.spotify.com/episode/${esc(o.spotify)}" target="_blank" rel="noopener">Otwórz w Spotify ↗</a><a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Cały podcast ↗</a></div>
   </div>
 `;
