@@ -2,6 +2,8 @@
 
 ### Archiwum strony, z którą można porozmawiać
 
+> 👉 **Prosta instrukcja dla każdego, bez GitHuba: [jokerwader.github.io/uleszka-archiwum](https://jokerwader.github.io/uleszka-archiwum/)**
+
 **uleszka.net** to polska strona internetowa z lat ok. 2004–2007. Na długo przed erą blogów i mediów społecznościowych zadawała pytania, których w szkole nikt nie zadawał. Kto zbudował piramidy i Tiahuanaco? Czy potop był jeden? Gdzie leżała Atlantyda? Dlaczego oficjalna historia ma tyle luk? Pisała też o zapomnianej medycynie naturalnej i o tym, co jemy.
 
 Dla wielu czytelników była to pierwsza strona, która pokazała, że o te sprawy w ogóle można pytać. Stała się inspiracją dla wielu późniejszych stron i blogów o podobnej tematyce, a jej teksty do dziś są przedrukowywane w sieci.

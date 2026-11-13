@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Porozmawiaj z archiwum uleszka.net</title>
+<meta name="description" content="Archiwum strony uleszka.net – „Uwierz we własny rozum” Leszka Klimka (2004–2007). 148 artykułów, 1714 zdjęć i biblioteka dawnych źródeł, z którymi możesz rozmawiać przez Claude albo ChatGPT.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pl_PL">
+<meta property="og:title" content="Porozmawiaj z archiwum uleszka.net">
+<meta property="og:description" content="„Uwierz we własny rozum” – cała strona Leszka Klimka z lat 2004–2007. Zadawaj pytania, porównuj z dzisiejszą wiedzą i sprawdzaj dawne źródła z pomocą AI.">
+<meta property="og:url" content="https://jokerwader.github.io/uleszka-archiwum/">
+<meta property="og:image" content="https://jokerwader.github.io/uleszka-archiwum/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2314213d'/%3E%3Ctext x='32' y='44' font-family='Georgia,serif' font-size='38' text-anchor='middle' fill='%23e8b04b'%3EU%3C/text%3E%3C/svg%3E">
+<style>
+  :root {
+    --tlo: #f7f3ea;
+    --tlo-2: #efe8d8;
+    --karta: #fffdf8;
+    --tekst: #1d2433;
+    --tekst-2: #4f5767;
+    --linia: #e2d8c3;
+    --akcent: #b7791f;
+    --akcent-mocny: #8a5a12;
+    --granat: #14213d;
+    --ok: #2f7d4f;
+    --cien: 0 1px 2px rgba(20, 33, 61, .06), 0 8px 24px rgba(20, 33, 61, .06);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --tlo: #10141d;
+      --tlo-2: #161c28;
+      --karta: #1a2130;
+      --tekst: #ece7dc;
+      --tekst-2: #aeb4c0;
+      --linia: #2b3446;
+      --akcent: #e8b04b;
+      --akcent-mocny: #f0c46f;
+      --granat: #0b111d;
+      --ok: #5cc28a;
+      --cien: 0 1px 2px rgba(0, 0, 0, .3), 0 8px 24px rgba(0, 0, 0, .25);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--tlo);
+    color: var(--tekst);
+    font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  a { color: var(--akcent-mocny); }
+  h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; line-height: 1.2; font-weight: 700; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; }
+
+  /* nagłówek */
+  .hero { background: var(--granat); color: #f4efe4; padding: 28px 0 64px; position: relative; overflow: hidden; }
+  .hero::after {
+    content: ""; position: absolute; right: -120px; top: -120px; width: 420px; height: 420px; border-radius: 50%;
+    background: radial-gradient(circle, rgba(232, 176, 75, .22), transparent 65%);
+  }
+  .pasek { display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: 15px; }
+  .logo { font-family: Georgia, serif; font-weight: 700; letter-spacing: .3px; color: #f4efe4; text-decoration: none; }
+  .logo span { color: #e8b04b; }
+  .pasek a.gh { color: #cfd6e4; text-decoration: none; border: 1px solid rgba(255, 255, 255, .2); padding: 6px 12px; border-radius: 999px; }
+  .pasek a.gh:hover { border-color: #e8b04b; color: #fff; }
+  .hero .eyebrow { margin: 48px 0 10px; color: #e8b04b; font-size: 14px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 600; }
+  .hero h1 { font-size: clamp(34px, 6vw, 56px); margin: 0 0 18px; max-width: 760px; }
+  .hero p.lead { font-size: clamp(17px, 2.2vw, 20px); color: #d7dbe4; max-width: 720px; margin: 0 0 28px; }
+  .hero em { color: #f4efe4; font-style: normal; font-weight: 600; }
+  .przyciski { display: flex; flex-wrap: wrap; gap: 12px; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px; padding: 13px 22px; border-radius: 12px; font-weight: 600;
+    text-decoration: none; font-size: 16px; border: 0; cursor: pointer; font-family: inherit;
+  }
+  .btn-glowny { background: #e8b04b; color: #14213d; }
+  .btn-glowny:hover { background: #f0c46f; }
+  .btn-drugi { background: rgba(255, 255, 255, .08); color: #f4efe4; border: 1px solid rgba(255, 255, 255, .2); }
+  .btn-drugi:hover { background: rgba(255, 255, 255, .14); }
+  .liczby { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-top: 44px; max-width: 760px; }
+  .liczby div { border-left: 2px solid rgba(232, 176, 75, .6); padding-left: 12px; }
+  .liczby b { display: block; font-family: Georgia, serif; font-size: 28px; color: #fff; }
+  .liczby span { font-size: 14px; color: #b9c0cd; }
+
+  section { padding: 64px 0 8px; }
+  section h2 { font-size: clamp(26px, 4vw, 34px); margin: 0 0 10px; }
+  section > .wrap > p.pod { color: var(--tekst-2); margin: 0 0 28px; max-width: 720px; }
+
+  /* karty */
+  .siatka { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  .karta { background: var(--karta); border: 1px solid var(--linia); border-radius: 16px; padding: 22px; box-shadow: var(--cien); }
+  .karta h3 { margin: 0 0 6px; font-size: 20px; }
+  .karta p { margin: 0; color: var(--tekst-2); }
+  .ikona { width: 40px; height: 40px; border-radius: 10px; background: var(--tlo-2); display: grid; place-items: center; margin-bottom: 12px; color: var(--akcent-mocny); }
+
+  /* jak zacząć */
+  .adres {
+    display: flex; gap: 10px; align-items: center; flex-wrap: wrap; background: var(--karta); border: 2px dashed var(--akcent);
+    border-radius: 14px; padding: 14px 16px; margin: 0 0 24px;
+  }
+  .adres .etykieta { font-size: 14px; color: var(--tekst-2); width: 100%; }
+  .adres code { font: 600 16px/1.4 ui-monospace, "Cascadia Code", Consolas, monospace; word-break: break-all; flex: 1 1 260px; }
+  .kopiuj { background: var(--granat); color: #fff; padding: 10px 16px; border-radius: 10px; border: 0; font: 600 15px system-ui, sans-serif; cursor: pointer; }
+  @media (prefers-color-scheme: dark) { .kopiuj { background: #e8b04b; color: #14213d; } }
+  .status { font-size: 14px; color: var(--tekst-2); display: flex; align-items: center; gap: 6px; }
+  .kropka { width: 9px; height: 9px; border-radius: 50%; background: #999; }
+  .status.ok .kropka { background: var(--ok); box-shadow: 0 0 0 4px color-mix(in srgb, var(--ok) 20%, transparent); }
+
+  .zakladki { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: -1px; position: relative; }
+  .zakladki button {
+    font: 600 16px system-ui, sans-serif; padding: 12px 18px; border: 1px solid var(--linia); border-bottom: 0;
+    background: var(--tlo-2); color: var(--tekst-2); border-radius: 12px 12px 0 0; cursor: pointer;
+  }
+  .zakladki button[aria-selected="true"] { background: var(--karta); color: var(--tekst); }
+  .zakladki small { font-weight: 500; color: var(--ok); margin-left: 4px; }
+  .panel { background: var(--karta); border: 1px solid var(--linia); border-radius: 0 16px 16px 16px; padding: 26px; box-shadow: var(--cien); }
+  .panel[hidden] { display: none; }
+  ol.kroki { counter-reset: k; list-style: none; padding: 0; margin: 0; }
+  ol.kroki li { counter-increment: k; position: relative; padding: 0 0 18px 48px; }
+  ol.kroki li::before {
+    content: counter(k); position: absolute; left: 0; top: -2px; width: 32px; height: 32px; border-radius: 50%;
+    background: var(--tlo-2); border: 1px solid var(--linia); display: grid; place-items: center; font-weight: 700; color: var(--akcent-mocny);
+  }
+  ol.kroki li:last-child { padding-bottom: 0; }
+  .wskazowka { margin-top: 20px; padding: 12px 14px; background: var(--tlo-2); border-radius: 10px; font-size: 15px; color: var(--tekst-2); }
+  kbd { font: 600 14px ui-monospace, Consolas, monospace; background: var(--tlo-2); border: 1px solid var(--linia); border-radius: 6px; padding: 1px 6px; }
+
+  /* pytania */
+  .pytania { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .pytanie {
+    text-align: left; background: var(--karta); border: 1px solid var(--linia); border-radius: 14px; padding: 16px 18px;
+    font: 16px/1.5 system-ui, sans-serif; color: var(--tekst); cursor: pointer; display: flex; justify-content: space-between; gap: 12px;
+  }
+  .pytanie:hover { border-color: var(--akcent); }
+  .pytanie .kop { font-size: 13px; color: var(--akcent-mocny); white-space: nowrap; font-weight: 600; }
+
+  /* historia */
+  .historia { display: grid; grid-template-columns: 1.3fr 1fr; gap: 28px; align-items: start; }
+  .historia p { margin: 0 0 14px; }
+  .os { border-left: 2px solid var(--linia); padding-left: 18px; margin: 0; list-style: none; }
+  .os li { position: relative; padding-bottom: 14px; }
+  .os li::before { content: ""; position: absolute; left: -24px; top: 8px; width: 10px; height: 10px; border-radius: 50%; background: var(--akcent); }
+  .os b { font-family: Georgia, serif; }
+  blockquote { margin: 0 0 14px; padding: 14px 18px; border-left: 3px solid var(--akcent); background: var(--karta); border-radius: 0 12px 12px 0; font-family: Georgia, serif; font-size: 19px; }
+
+  /* FAQ */
+  details { background: var(--karta); border: 1px solid var(--linia); border-radius: 14px; padding: 16px 20px; margin-bottom: 10px; }
+  summary { cursor: pointer; font-weight: 600; font-size: 17px; }
+  details p { margin: 10px 0 0; color: var(--tekst-2); }
+
+  footer { margin-top: 72px; padding: 32px 0 48px; border-top: 1px solid var(--linia); color: var(--tekst-2); font-size: 15px; }
+
+  .toast {
+    position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(20px); opacity: 0; transition: .2s;
+    background: var(--granat); color: #fff; padding: 10px 18px; border-radius: 999px; font-size: 15px; pointer-events: none; z-index: 10;
+  }
+  .toast.widoczny { opacity: 1; transform: translateX(-50%); }
+
+  @media (max-width: 720px) {
+    .liczby { grid-template-columns: repeat(2, 1fr); row-gap: 18px; }
+    .siatka, .pytania, .historia { grid-template-columns: 1fr; }
+    .panel { padding: 20px 16px; border-radius: 0 0 16px 16px; }
+    .zakladki button { flex: 1; padding: 11px 10px; font-size: 15px; }
+    .hero { padding-bottom: 48px; }
+    section { padding-top: 48px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <nav class="pasek">
+      <a class="logo" href="#">uleszka<span>.net</span> · archiwum</a>
+      <a class="gh" href="https://github.com/jokerwader/uleszka-archiwum">GitHub</a>
+    </nav>
+    <p class="eyebrow">Strona z lat 2004–2007 · „Uwierz we własny rozum”</p>
+    <h1>Porozmawiaj z archiwum uleszka.net</h1>
+    <p class="lead">Strona Leszka Klimka <em>otworzyła oczy wielu ludziom</em>. Zadawała pytania, których nikt wcześniej nie zadawał, i stała się prekursorem wielu blogów. Dziś całe jej archiwum możesz przepytać jak rozmówcę, przez <em>Claude</em> albo <em>ChatGPT</em>. Możesz pytać o treść, porównywać ją z dzisiejszą wiedzą i sprawdzać dawne źródła.</p>
+    <div class="przyciski">
+      <a class="btn btn-glowny" href="#jak-zaczac">Jak zacząć (2 minuty) →</a>
+      <a class="btn btn-drugi" href="#pytania">Przykładowe pytania</a>
+    </div>
+    <div class="liczby">
+      <div><b>148</b><span>artykułów, słowo w słowo</span></div>
+      <div><b>1714</b><span>zdjęć z opisami</span></div>
+      <div><b>30</b><span>dawnych dzieł, na które powołuje się autor</span></div>
+      <div><b>17</b><span>z nich także w języku oryginału</span></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section>
+    <div class="wrap">
+      <h2>Co możesz zrobić</h2>
+      <p class="pod">Asystent AI dostaje dostęp do całego archiwum. Sam wyszukuje artykuły, czyta je w całości i cytuje dosłownie.</p>
+      <div class="siatka">
+        <div class="karta">
+          <div class="ikona" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></div>
+          <h3>Pytać o treść</h3>
+          <p>Co autor pisał o Atlantydzie, piramidach, potopie, kalendarzach czy medycynie naturalnej? AI odpowiada cytatami i podaje tytuły artykułów.</p>
+        </div>
+        <div class="karta">
+          <div class="ikona" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h4l3 8 4-16 3 8h4"/></svg></div>
+          <h3>Porównywać z dzisiejszą wiedzą</h3>
+          <p>Minęło 20 lat. Które pytania autora mają już odpowiedź, które tezy się potwierdziły, a które nie? AI oddziela poglądy autora od aktualnych badań.</p>
+        </div>
+        <div class="karta">
+          <div class="ikona" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M8 7h8M8 11h6"/></svg></div>
+          <h3>Sprawdzać źródła</h3>
+          <p>Platon, Herodot, Biblia, Księga Henocha, Mahabharata… Pełne teksty są w archiwum, część także w oryginale: po grecku, łacinie, hebrajsku i w sanskrycie.</p>
+        </div>
+        <div class="karta">
+          <div class="ikona" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><circle cx="18" cy="18" r="3"/><circle cx="18" cy="6" r="3"/><path d="M9 6h6M8 8l8 8M18 9v6"/></svg></div>
+          <h3>Odkrywać powiązania</h3>
+          <p>Wyszukiwanie po znaczeniu łączy artykuły, które mówią o tym samym innymi słowami. Pytanie „katastrofy z kosmosu” znajdzie teksty o kometach i Tiamat.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="jak-zaczac">
+    <div class="wrap">
+      <h2>Jak zacząć</h2>
+      <p class="pod">Nic nie instalujesz. Wystarczy raz dodać do swojego asystenta AI adres archiwum. Najprościej zrobić to na komputerze, w przeglądarce.</p>
+
+      <div class="adres">
+        <span class="etykieta">Adres archiwum dla asystenta AI:</span>
+        <code id="adres-mcp">https://uleszka-mcp-production.up.railway.app/mcp</code>
+        <button class="kopiuj" data-kopiuj="https://uleszka-mcp-production.up.railway.app/mcp">Kopiuj adres</button>
+        <span class="status" id="status"><span class="kropka"></span><span id="status-tekst">sprawdzam serwer…</span></span>
+      </div>
+
+      <div class="zakladki" role="tablist">
+        <button role="tab" id="t-claude" aria-controls="p-claude" aria-selected="true">Claude <small>darmowe konto</small></button>
+        <button role="tab" id="t-chatgpt" aria-controls="p-chatgpt" aria-selected="false">ChatGPT</button>
+        <button role="tab" id="t-inne" aria-controls="p-inne" aria-selected="false">Inne</button>
+      </div>
+
+      <div class="panel" role="tabpanel" id="p-claude" aria-labelledby="t-claude">
+        <ol class="kroki">
+          <li>Wejdź na <a href="https://claude.ai" target="_blank" rel="noopener">claude.ai</a> i zaloguj się. Wystarczy darmowe konto.</li>
+          <li>Kliknij swoje imię w lewym dolnym rogu i otwórz <b>Ustawienia → Konektory</b>. W niektórych wersjach to <b>Dostosuj → Konektory</b>, a po angielsku <i>Settings → Connectors</i>.</li>
+          <li>Kliknij <b>Dodaj własny konektor</b> (<i>Add custom connector</i>).</li>
+          <li>Wpisz nazwę <kbd>uleszka</kbd>, wklej skopiowany adres archiwum i kliknij <b>Dodaj</b>.</li>
+          <li>Rozpocznij nową rozmowę. Pod polem wiadomości kliknij <b>+</b> (albo ikonę narzędzi) i upewnij się, że <b>uleszka</b> jest włączona.</li>
+          <li>Zadaj pytanie, np. <i>„Co autor uleszka.net pisał o Atlantydzie?”</i>. Przy pierwszym użyciu Claude może zapytać o zgodę na skorzystanie z archiwum.</li>
+        </ol>
+        <p class="wskazowka">Na darmowym koncie można dodać jeden własny konektor. Raz dodany działa też w aplikacji Claude na telefonie.</p>
+      </div>
+
+      <div class="panel" role="tabpanel" id="p-chatgpt" aria-labelledby="t-chatgpt" hidden>
+        <ol class="kroki">
+          <li>Potrzebny jest <b>płatny plan</b> ChatGPT (Plus lub wyższy). Wejdź na <a href="https://chatgpt.com" target="_blank" rel="noopener">chatgpt.com</a> w przeglądarce na komputerze.</li>
+          <li>Otwórz <b>Ustawienia → Aplikacje i konektory → Zaawansowane</b> i włącz <b>Tryb deweloperski</b> (<i>Developer mode</i>).</li>
+          <li>Wróć do <b>Aplikacji i konektorów</b> i kliknij <b>Utwórz</b> (<i>Create</i>).</li>
+          <li>Nazwa: <kbd>uleszka</kbd>, adres: wklej skopiowany adres archiwum, uwierzytelnianie: <b>Brak</b> (<i>No authentication</i>). Potwierdź, że ufasz aplikacji, i kliknij <b>Utwórz</b>.</li>
+          <li>W nowej rozmowie kliknij <b>+</b> → <b>Więcej</b> → <b>Tryb deweloperski</b> i wybierz <b>uleszka</b>.</li>
+          <li>Zadaj pytanie. ChatGPT sam użyje archiwum, a przy pierwszym razie może poprosić o potwierdzenie.</li>
+        </ol>
+        <p class="wskazowka">Bez płatnego planu ChatGPT nie pozwala dodać takiego konektora. Wtedy najprościej skorzystać z darmowego Claude (zakładka obok). Nazwy przycisków mogą się nieco różnić, bo aplikacje często zmieniają wygląd.</p>
+      </div>
+
+      <div class="panel" role="tabpanel" id="p-inne" aria-labelledby="t-inne" hidden>
+        <ol class="kroki">
+          <li><b>Claude Desktop, Cursor, VS Code, LM Studio i inne programy obsługujące MCP:</b> dodaj serwer typu <i>HTTP</i> lub <i>Streamable HTTP</i> z adresem archiwum.</li>
+          <li><b>Bez internetu, na własnym komputerze:</b> archiwum można pobrać i uruchomić lokalnie. Instrukcja jest w <a href="https://github.com/jokerwader/uleszka-archiwum#c-claude-desktop--claude-code-serwer-mcp">README na GitHubie</a>.</li>
+          <li><b>Własny GPT lub projekt w Claude z wgranymi plikami:</b> w folderze <a href="https://github.com/jokerwader/uleszka-archiwum/tree/main/dla-ai">dla-ai</a> są gotowe pliki do wgrania i <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/instrukcje-asystenta.md">instrukcja dla asystenta</a>.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section id="pytania">
+    <div class="wrap">
+      <h2>Przykładowe pytania</h2>
+      <p class="pod">Kliknij, żeby skopiować, i wklej w rozmowie z asystentem, który ma włączone archiwum.</p>
+      <div class="pytania">
+        <button class="pytanie" data-kopiuj="O czym była strona uleszka.net, kto ją pisał i jakie tematy poruszała?">O czym była strona uleszka.net, kto ją pisał i jakie tematy poruszała?<span class="kop">kopiuj</span></button>
+        <button class="pytanie" data-kopiuj="Co Leszek Klimek pisał o Atlantydzie? Zestaw jego tezy z tym, co wiadomo dziś.">Co Leszek Klimek pisał o Atlantydzie? Zestaw jego tezy z tym, co wiadomo dziś.<span class="kop">kopiuj</span></button>
+        <button class="pytanie" data-kopiuj="Które pytania i tezy autora uleszka.net potwierdziły się po 20 latach, a które nie? Podaj źródła.">Które pytania i tezy autora potwierdziły się po 20 latach, a które nie?<span class="kop">kopiuj</span></button>
+        <button class="pytanie" data-kopiuj="Co dokładnie mówi Platon w Kritiasie o zagładzie Atlantydy? Przetłumacz grecki oryginał i porównaj z przekładem Witwickiego oraz z tym, co pisał autor uleszka.net.">Co dokładnie mówi Platon o zagładzie Atlantydy? Przetłumacz grecki oryginał i porównaj.<span class="kop">kopiuj</span></button>
+        <button class="pytanie" data-kopiuj="Znajdź w archiwum uleszka.net wszystko o potopie i pokaż powiązane artykuły.">Znajdź w archiwum wszystko o potopie i pokaż powiązane artykuły.<span class="kop">kopiuj</span></button>
+        <button class="pytanie" data-kopiuj="Co autor uleszka.net pisał o „bogach atomowych wojen” i jakie dawne źródła cytował? Sprawdź je w bibliotece.">Co autor pisał o „bogach atomowych wojen” i jakie źródła cytował?<span class="kop">kopiuj</span></button>
+      </div>
+    </div>
+  </section>
+
+  <section id="o-stronie">
+    <div class="wrap">
+      <h2>O stronie uleszka.net</h2>
+      <div class="historia">
+        <div>
+          <blockquote>„Uwierz we własny rozum”</blockquote>
+          <p>Autorem strony był <b>Leszek Klimek</b>. Tematem zajął się w 1992 roku, po przejściu na emeryturę. Inspiracją był Erich von Däniken, ale nie wszystko w jego tezach go przekonywało, więc zaczął dociekać sam.</p>
+          <p>Pisał o dawnych cywilizacjach, Atlantydzie, piramidach, potopie, kalendarzach, katastrofach kosmicznych, a w dziale <i>Zapomniana medycyna</i> o zdrowiu, żywności i medycynie naturalnej. Zachęcał, by „zapomnieć na dłuższą chwilę o tym, czego nauczyłeś się w szkole”.</p>
+          <p>Archiwum zachowuje stronę w pierwotnym układzie działów, razem ze zdjęciami. Wierność każdego tekstu sprawdza automat, litera po literze.</p>
+        </div>
+        <ul class="os">
+          <li><b>1992</b> – początek poszukiwań autora</li>
+          <li><b>2004</b> – strona w internecie</li>
+          <li><b>5 kwietnia 2007</b> – ostatnia aktualizacja w zachowanej kopii</li>
+          <li><b>2014</b> – czytelnicy ponownie publikują teksty na blogach „ULESZKA.NET – Reaktywacja”</li>
+          <li><b>2026</b> – pełne archiwum na GitHubie, z którym można rozmawiać</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="pytania-czeste">
+    <div class="wrap">
+      <h2>Częste pytania</h2>
+      <details>
+        <summary>Czy to coś kosztuje?</summary>
+        <p>Nie. Archiwum i serwer są bezpłatne i nie wymagają logowania. Potrzebujesz tylko konta w Claude (darmowe wystarczy) albo płatnego ChatGPT.</p>
+      </details>
+      <details>
+        <summary>Czy teksty są zmienione albo skrócone?</summary>
+        <p>Nie. Artykuły są przeniesione słowo w słowo, a zgodność z oryginałem sprawdza automat, litera po literze. Streszczenia i opisy zdjęć przygotowała AI. Są wyraźnie oznaczone i trzymane osobno od oryginału.</p>
+      </details>
+      <details>
+        <summary>Czy AI może się pomylić?</summary>
+        <p>Może. Dlatego archiwum podaje jej dosłowne teksty, a ona ma cytować i podawać tytuły artykułów. Ważne cytaty warto sprawdzić. AI ma też oddzielać poglądy autora sprzed 20 lat od dzisiejszej wiedzy.</p>
+      </details>
+      <details>
+        <summary>A teksty o zdrowiu?</summary>
+        <p>Dział „Zapomniana medycyna” to poglądy autora sprzed ok. 20 lat. Można je omawiać i porównywać, ale nie zastępują porady lekarza. Asystent przy takich tematach dopowiada, co mówi dzisiejsza medycyna.</p>
+      </details>
+      <details>
+        <summary>Czy moje rozmowy są gdzieś zapisywane?</summary>
+        <p>Serwer archiwum tylko udostępnia teksty i nie zapisuje treści rozmów. Sama rozmowa toczy się na Twoim koncie Claude lub ChatGPT, na ich zasadach.</p>
+      </details>
+      <details>
+        <summary>Znalazłem błąd albo mam pomysł</summary>
+        <p>Napisz zgłoszenie na <a href="https://github.com/jokerwader/uleszka-archiwum/issues">GitHubie (Issues)</a>.</p>
+      </details>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Treści strony uleszka.net należą do ich autora i jego spadkobierców. Archiwum ma charakter dokumentacyjny i niekomercyjny: chroni przed zniknięciem stronę, której już nie ma w sieci. Jeśli masz prawa do tych treści i zastrzeżenia, <a href="https://github.com/jokerwader/uleszka-archiwum/issues">daj znać</a>, a treści zostaną usunięte.</p>
+    <p>Kod archiwum: licencja MIT · <a href="https://github.com/jokerwader/uleszka-archiwum">github.com/jokerwader/uleszka-archiwum</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/ksiazki.md">książki cytowane przez autora</a></p>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+  // kopiowanie adresu i przykładowych pytań
+  const toast = document.getElementById("toast");
+  let czas;
+  const pokaz = (t) => {
+    toast.textContent = t;
+    toast.classList.add("widoczny");
+    clearTimeout(czas);
+    czas = setTimeout(() => toast.classList.remove("widoczny"), 1800);
+  };
+  const kopiuj = async (tekst) => {
+    try {
+      await navigator.clipboard.writeText(tekst);
+    } catch {
+      const pole = document.createElement("textarea");
+      pole.value = tekst;
+      document.body.appendChild(pole);
+      pole.select();
+      document.execCommand("copy");
+      pole.remove();
+    }
+    pokaz("Skopiowano ✓");
+  };
+  document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", () => kopiuj(el.dataset.kopiuj)));
+
+  // zakładki
+  const zakladki = [...document.querySelectorAll('[role="tab"]')];
+  const wybierz = (z) => {
+    zakladki.forEach((x) => {
+      const tak = x === z;
+      x.setAttribute("aria-selected", tak);
+      document.getElementById(x.getAttribute("aria-controls")).hidden = !tak;
+    });
+  };
+  zakladki.forEach((z) => z.addEventListener("click", () => wybierz(z)));
+
+  // czy serwer archiwum odpowiada
+  (async () => {
+    const st = document.getElementById("status");
+    const tekst = document.getElementById("status-tekst");
+    try {
+      const r = await fetch("https://uleszka-mcp-production.up.railway.app/health", { signal: AbortSignal.timeout(8000) });
+      if (!r.ok) throw new Error();
+      st.classList.add("ok");
+      tekst.textContent = "serwer działa";
+    } catch {
+      tekst.textContent = "nie udało się sprawdzić serwera";
+    }
+  })();
+</script>
+</body>
+</html>
