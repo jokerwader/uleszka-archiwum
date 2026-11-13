@@ -120,7 +120,7 @@ Serwer archiwum działa publicznie w internecie, bezpłatnie dla użytkowników 
 https://uleszka-mcp-production.up.railway.app/mcp
 ```
 
-- **Claude.ai** (także w aplikacji na telefon): *Ustawienia → Konektory → Dodaj własny konektor*. Nazwa: `uleszka`, adres jak wyżej. Potem w rozmowie włącz konektor ikoną narzędzi pod polem wiadomości.
+- **Claude.ai** (także na darmowym koncie i w aplikacji na telefon): *Customize → Connectors → + → Add custom connector*. Nazwa np. `U Leszka`, adres jak wyżej. Ostrzeżenie „Couldn't check the server” można pominąć (*Continue anyway*), a w części *Authentication* zostawić **No sign-in**. Potem w rozmowie włącz konektor ikoną narzędzi pod polem wiadomości.
 - **ChatGPT** (plany płatne): *Ustawienia → Aplikacje i konektory → Zaawansowane → tryb deweloperski*, potem *Utwórz*. Wklej adres i wybierz uwierzytelnianie *Brak*.
 - **Inne programy obsługujące MCP** (Cursor, VS Code, LM Studio…): dodaj serwer typu „HTTP” / „Streamable HTTP” z tym adresem.
 
