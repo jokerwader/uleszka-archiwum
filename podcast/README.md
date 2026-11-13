@@ -9,7 +9,7 @@ Teksty ze strony uleszka.net (2004–2007) czytane bez zmian przez lektora AI (E
 **Opis:**
 Strona uleszka.net Leszka Klimka otworzyła oczy wielu ludziom. Pytała, kto naprawdę zbudował piramidy, czy potop był tylko jeden, gdzie leżała Atlantyda i dlaczego historia ma tyle luk. Pytała o rzeczy, o które wcześniej mało kto pytał, i stała się prekursorem wielu blogów.
 
-W tym podcaście jej teksty wracają w niezmienionej formie. Czyta je lektor, którego głos wygenerowała sztuczna inteligencja. Podcast powstał w hołdzie śp. Leszkowi Wiktorowi Klimkowi.
+W tym podcaście jej teksty wracają w niezmienionej formie. Czyta je lektor wygenerowany przez sztuczną inteligencję. Podcast powstał w hołdzie śp. Leszkowi Wiktorowi Klimkowi. Przygotował go Mateusz Małek (jokerwader).
 
 Pełne teksty ze zdjęciami, źródłami i możliwością rozmowy z archiwum przez AI: https://uleszka.net
 
