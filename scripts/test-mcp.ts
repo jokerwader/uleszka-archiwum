@@ -184,7 +184,20 @@ await sprawdz("nieznany artykuł daje czytelny błąd", async () => {
 
 await sprawdz("prompty i zasób katalogu są dostępne", async () => {
   const { prompts } = await client.listPrompts();
-  assert.deepEqual(prompts.map((p) => p.name).sort(), ["omow_artykul", "sprawdz_zrodlo", "szukaj_odzwierciedlen"]);
+  assert.deepEqual(prompts.map((p) => p.name).sort(), [
+    "kim_byl_autor",
+    "omow_artykul",
+    "po_20_latach",
+    "poznaj_archiwum",
+    "sprawdz_zrodlo",
+    "swiat_wedlug_autora",
+    "szukaj_odzwierciedlen",
+    "zaskocz_mnie",
+  ]);
+  // identyfikatory artykułów wskazane w promptach muszą istnieć w archiwum
+  for (const id of ["refleksja", "cybog/wstepcb", "medalt/wstep"]) assert.equal((await wywolaj("get_article_notes", { id })).isError, undefined, id);
+  const start = await client.getPrompt({ name: "poznaj_archiwum" });
+  assert.match(JSON.stringify(start.messages), /U Leszka/);
   const p = await client.getPrompt({ name: "omow_artykul", arguments: { artykul: "Potop" } });
   assert.match(JSON.stringify(p.messages), /read_article/);
   const r = await client.readResource({ uri: "uleszka://katalog" });

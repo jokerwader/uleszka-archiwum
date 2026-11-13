@@ -138,6 +138,12 @@
   }
   .pytanie:hover { border-color: var(--akcent); }
   .pytanie .kop { font-size: 13px; color: var(--akcent-mocny); white-space: nowrap; font-weight: 600; }
+  .kategoria { margin: 0 0 26px; }
+  .kategoria h3 { font-size: 20px; margin: 0 0 4px; display: flex; align-items: center; gap: 10px; }
+  .kategoria h3 span { font-size: 22px; }
+  .kategoria p { margin: 0 0 12px; color: var(--tekst-2); font-size: 15px; }
+  .scenariusze { background: var(--tlo-2); border-radius: 14px; padding: 14px 18px; margin: 0 0 28px; font-size: 15px; color: var(--tekst-2); }
+  .scenariusze b { color: var(--tekst); }
 
   /* historia */
   .historia { display: grid; grid-template-columns: 1.3fr 1fr; gap: 28px; align-items: start; }
@@ -184,7 +190,7 @@
     <p class="lead">Strona Leszka Klimka <em>otworzyła oczy wielu ludziom</em>. Zadawała pytania, których nikt wcześniej nie zadawał, i stała się prekursorem wielu blogów. Dziś całe jej archiwum możesz przepytać jak rozmówcę, przez <em>Claude</em> albo <em>ChatGPT</em>. Możesz pytać o treść, porównywać ją z dzisiejszą wiedzą i sprawdzać dawne źródła.</p>
     <div class="przyciski">
       <a class="btn btn-glowny" href="#jak-zaczac">Jak zacząć (2 minuty) →</a>
-      <a class="btn btn-drugi" href="#pytania">Przykładowe pytania</a>
+      <a class="btn btn-drugi" href="#pytania">O co zapytać</a>
     </div>
     <div class="liczby">
       <div><b>148</b><span>artykułów, słowo w słowo</span></div>
@@ -281,16 +287,14 @@
 
   <section id="pytania">
     <div class="wrap">
-      <h2>Przykładowe pytania</h2>
-      <p class="pod">Kliknij, żeby skopiować, i wklej w rozmowie z asystentem, który ma włączone archiwum.</p>
-      <div class="pytania">
-        <button class="pytanie" data-kopiuj="O czym była strona uleszka.net, kto ją pisał i jakie tematy poruszała?">O czym była strona uleszka.net, kto ją pisał i jakie tematy poruszała?<span class="kop">kopiuj</span></button>
-        <button class="pytanie" data-kopiuj="Co Leszek Klimek pisał o Atlantydzie? Zestaw jego tezy z tym, co wiadomo dziś.">Co Leszek Klimek pisał o Atlantydzie? Zestaw jego tezy z tym, co wiadomo dziś.<span class="kop">kopiuj</span></button>
-        <button class="pytanie" data-kopiuj="Które pytania i tezy autora uleszka.net potwierdziły się po 20 latach, a które nie? Podaj źródła.">Które pytania i tezy autora potwierdziły się po 20 latach, a które nie?<span class="kop">kopiuj</span></button>
-        <button class="pytanie" data-kopiuj="Co dokładnie mówi Platon w Kritiasie o zagładzie Atlantydy? Przetłumacz grecki oryginał i porównaj z przekładem Witwickiego oraz z tym, co pisał autor uleszka.net.">Co dokładnie mówi Platon o zagładzie Atlantydy? Przetłumacz grecki oryginał i porównaj.<span class="kop">kopiuj</span></button>
-        <button class="pytanie" data-kopiuj="Znajdź w archiwum uleszka.net wszystko o potopie i pokaż powiązane artykuły.">Znajdź w archiwum wszystko o potopie i pokaż powiązane artykuły.<span class="kop">kopiuj</span></button>
-        <button class="pytanie" data-kopiuj="Co autor uleszka.net pisał o „bogach atomowych wojen” i jakie dawne źródła cytował? Sprawdź je w bibliotece.">Co autor pisał o „bogach atomowych wojen” i jakie źródła cytował?<span class="kop">kopiuj</span></button>
+      <h2>O co zapytać</h2>
+      <p class="pod">Kliknij pytanie, żeby je skopiować, i wklej w rozmowie z asystentem, który ma włączone archiwum. Nie wiesz, od czego zacząć? Weź pierwsze.</p>
+      <div class="scenariusze">
+        <b>Gotowe scenariusze w Claude:</b> w nowej rozmowie kliknij <b>+</b>, wybierz konektor archiwum i jeden z gotowych scenariuszy:
+        „Poznaj stronę U Leszka”, „Kim był Leszek”, „Zaskocz mnie”, „Co się sprawdziło po 20 latach”, „Świat według autora”, „Sprawdź, co naprawdę mówi źródło”.
+        Jeśli Twoja wersja Claude ich nie pokazuje, po prostu wklej pytanie poniżej.
       </div>
+      <div id="kategorie"></div>
     </div>
   </section>
 
@@ -378,6 +382,61 @@
     }
     pokaz("Skopiowano ✓");
   };
+  // pytania do skopiowania, pogrupowane tematycznie
+  const KATEGORIE = [
+    { ikona: "👋", tytul: "Na początek", opis: "Dobre na pierwszą rozmowę, także dla kogoś, kto nie zna strony.", pytania: [
+      "Co możesz mi powiedzieć o stronie U Leszka? Jakie ciekawe tematy możemy razem omówić?",
+      "Kim był Leszek, autor strony uleszka.net? Jak i dlaczego zaczął pisać?",
+      "Przedstaw „wielki obraz”: jak łączą się w jedną opowieść główne tezy autora uleszka.net?",
+      "Zaskocz mnie: pokaż mało znany, ale ciekawy tekst z archiwum U Leszka.",
+    ] },
+    { ikona: "🏛️", tytul: "Tajemnice przeszłości", opis: "Dawne cywilizacje, budowle i katastrofy, czyli serce strony.", pytania: [
+      "Kto według autora uleszka.net zbudował piramidy w Gizie i dlaczego nie wierzył w oficjalną wersję?",
+      "Co Leszek pisał o Atlantydzie? Zestaw jego tezy z tym, co wiadomo dziś.",
+      "Czym jest „wielki uskok skorupy ziemskiej”, o którym pisał autor uleszka.net, i co mówi o tym dzisiejsza geologia?",
+      "Czy potop był jeden? Co archiwum U Leszka mówi o potopie w różnych kulturach?",
+    ] },
+    { ikona: "⏳", tytul: "20 lat później", opis: "Strona powstała w latach 2004–2007. Jak jej pytania wyglądają dziś?", pytania: [
+      "Które pytania i przewidywania autora uleszka.net sprawdziły się po 20 latach, a które nie? Podaj źródła.",
+      "Co autor uleszka.net pisał o roku 2012 i proroctwach? Jak to wygląda z perspektywy czasu?",
+      "Jakie odkrycia archeologiczne z ostatnich 20 lat ucieszyłyby Leszka, a które by go zaskoczyły?",
+    ] },
+    { ikona: "🌿", tytul: "Zdrowie i żywność", opis: "Dział „Zapomniana medycyna”: poglądy autora sprzed 20 lat, które nie zastępują porady lekarza.", pytania: [
+      "O czym był dział „Zapomniana medycyna” na stronie U Leszka? Co z tego potwierdza dzisiejsza medycyna, a co nie?",
+      "Co autor uleszka.net pisał o żywności i dodatkach do jedzenia? Porównaj z obecnymi badaniami.",
+    ] },
+    { ikona: "🔍", tytul: "Dla dociekliwych", opis: "Sprawdzanie źródeł, także w językach oryginału.", pytania: [
+      "Co dokładnie mówi Platon w Kritiasie o zagładzie Atlantydy? Przetłumacz grecki oryginał i porównaj z przekładem oraz z tym, co pisał autor uleszka.net.",
+      "Co autor uleszka.net pisał o „bogach atomowych wojen”? Czy Mahabharata naprawdę to mówi? Sprawdź tekst sanskrycki.",
+      "Na jakie książki Leszek powoływał się najczęściej i które z nich można dziś przeczytać za darmo?",
+      "Co Leszek pisał o najdawniejszej historii Polski i o Mieszku I?",
+    ] },
+  ];
+  const kontener = document.getElementById("kategorie");
+  for (const k of KATEGORIE) {
+    const blok = document.createElement("div");
+    blok.className = "kategoria";
+    const h = document.createElement("h3");
+    h.innerHTML = `<span aria-hidden="true">${k.ikona}</span>`;
+    h.append(k.tytul);
+    const p = document.createElement("p");
+    p.textContent = k.opis;
+    const siatka = document.createElement("div");
+    siatka.className = "pytania";
+    for (const t of k.pytania) {
+      const b = document.createElement("button");
+      b.className = "pytanie";
+      b.dataset.kopiuj = t;
+      b.textContent = t;
+      const kop = document.createElement("span");
+      kop.className = "kop";
+      kop.textContent = "kopiuj";
+      b.append(kop);
+      siatka.append(b);
+    }
+    blok.append(h, p, siatka);
+    kontener.append(blok);
+  }
   document.querySelectorAll("[data-kopiuj]").forEach((el) => el.addEventListener("click", () => kopiuj(el.dataset.kopiuj)));
 
   // zakładki

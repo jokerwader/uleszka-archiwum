@@ -40,7 +40,19 @@ Jak pracować:
 - Cytując archiwum, przytaczaj tekst dosłownie i podawaj tytuł artykułu. Opracowania i opisy zdjęć są pomocą AI, nie częścią oryginału.
 - Wyraźnie oddzielaj to, co twierdzi autor strony, od aktualnej wiedzy i własnej oceny. Teksty pochodzą sprzed ok. 20 lat
   i zawierają wiele hipotez niezgodnych z dzisiejszą nauką (szczególnie w dziale medycznym) – omawiaj je rzetelnie,
-  a przy porównaniu z obecną wiedzą korzystaj z wyszukiwarki, jeśli jest dostępna, i podawaj źródła.`;
+  a przy porównaniu z obecną wiedzą korzystaj z wyszukiwarki, jeśli jest dostępna, i podawaj źródła.
+
+O autorze (fakty z archiwum i wywiadu; nie dopisuj innych szczegółów biografii):
+- Leszek Wiktor Klimek; tematem zajął się w 1992 r., po przejściu na emeryturę. Inspiracją był Erich von Däniken, ale nie wszystko
+  w jego tezach go przekonywało, więc zaczął dociekać sam (wywiad: nandi.pl/index.php?go=art_uleszka). W internecie od 2004 r.
+- Własnymi słowami pisze o sobie w tekście pożegnalnym „Całkiem prywatnie” (id: refleksja): m.in. że przygoda z internetem
+  zaczęła się w ramach rehabilitacji po ciężkim wylewie, oraz jakie główne założenia przyjął. Program całej strony: „Wstęp” (id: cybog/wstepcb)
+  i „Wstęp” do Zapomnianej medycyny (id: medalt/wstep).
+- Ostatnia aktualizacja zachowanej kopii: 5.04.2007. W 2014 r. czytelnicy ponownie opublikowali teksty na blogach „ULESZKA.NET – Reaktywacja”.
+- Dla wielu czytelników była to pierwsza strona, która pokazała, że o takie sprawy w ogóle można pytać; zainspirowała wiele późniejszych blogów.
+
+Gdy rozmówca nie wie, od czego zacząć, albo pyta ogólnie („co ciekawego tu jest?”): przedstaw krótko stronę i zaproponuj 6–8 tematów
+z różnych działów – każdy jednym zdaniem z intrygującym pytaniem autora – i zapytaj, który omówić. Gotowe scenariusze rozmów są w promptach serwera.`;
 
 /** Wiersze tabel z docs/ksiazki.md (lista książek cytowanych przez autora) z nazwą sekcji. */
 const WIERSZE_KSIAZEK: { sekcja: string; wiersz: string }[] = (() => {
@@ -498,6 +510,82 @@ server.registerResource(
 );
 
 // ---------------- gotowe polecenia (prompty) ----------------
+// W Claude.ai i Claude Desktop widać je w menu „+” przy konektorze – rozmowa zaczyna się jednym kliknięciem.
+
+const polecenie = (text: string) => ({ messages: [{ role: "user" as const, content: { type: "text" as const, text } }] });
+
+server.registerPrompt(
+  "poznaj_archiwum",
+  {
+    title: "Poznaj stronę U Leszka – od czego zacząć?",
+    description: "Krótkie przedstawienie strony uleszka.net i propozycja najciekawszych tematów do rozmowy.",
+  },
+  () =>
+    polecenie(`Co możesz mi powiedzieć o stronie U Leszka (uleszka.net)? Jakie ciekawe tematy możemy razem omówić?
+Jak to zrobić:
+1. Przedstaw w kilku zdaniach, czym była strona, kto ją pisał, kiedy i o czym (list_articles da przegląd działów; ton strony oddaje „Wstęp”, id: cybog/wstepcb).
+2. Zaproponuj 8 tematów z różnych działów (dawne cywilizacje, katastrofy, kalendarze i proroctwa, zapomniana medycyna, publicystyka, fotografie).
+   Każdy temat: chwytliwy tytuł, jedno intrygujące pytanie, które stawiał autor (najlepiej krótki cytat), i id artykułu.
+3. Zakończ pytaniem, od którego tematu zaczynamy. Pisz przystępnie, jak przewodnik, nie jak encyklopedia.`),
+);
+
+server.registerPrompt(
+  "kim_byl_autor",
+  {
+    title: "Kim był Leszek – autor strony?",
+    description: "Portret autora uleszka.net na podstawie jego własnych słów: skąd się wzięła strona, co chciał pokazać, jak pisał.",
+  },
+  () =>
+    polecenie(`Kim był Leszek, autor strony uleszka.net?
+1. Przeczytaj jego pożegnalny tekst „Całkiem prywatnie” (read_article, id: refleksja) i „Wstęp” (id: cybog/wstepcb); skorzystaj z faktów o autorze z instrukcji serwera.
+2. Opowiedz: jak i dlaczego zaczął (emerytura, Däniken, rehabilitacja po wylewie), co chciał pokazać czytelnikom, jakie przyjął główne założenia,
+   jakim był autorem (styl, ton, poczucie humoru, stosunek do nauki i „oficjalnej” historii). Przytocz 3–4 krótkie, charakterystyczne cytaty.
+3. Powiedz, dlaczego strona była ważna dla czytelników i co po niej zostało.
+Nie dopisuj faktów z życia autora, których nie ma w źródłach – jeśli czegoś nie wiadomo, powiedz to wprost.`),
+);
+
+server.registerPrompt(
+  "zaskocz_mnie",
+  {
+    title: "Zaskocz mnie – mniej znany tekst z archiwum",
+    description: "AI wybiera mniej oczywisty, zaskakujący artykuł, opowiada go z cytatami i zestawia z tym, co wiadomo dziś.",
+    argsSchema: { temat: z.string().optional().describe("opcjonalnie: obszar, np. „medycyna”, „Polska”, „kosmos”") },
+  },
+  ({ temat }) =>
+    polecenie(`Zaskocz mnie czymś z archiwum uleszka.net${temat ? ` (obszar: ${temat})` : ""}.
+1. Wybierz artykuł mniej oczywisty niż Atlantyda czy piramidy (search_by_meaning, list_articles, related_articles) – coś, o czym mało kto słyszał.
+2. Zacznij od najbardziej intrygującej myśli autora (dosłowny cytat), potem opowiedz artykuł po kolei, z 2–3 cytatami i tytułem.
+3. Na końcu krótko: co o tym wiadomo dziś (wyszukiwarka, jeśli dostępna, ze źródłami) i jakie powiązane teksty warto przeczytać dalej.`),
+);
+
+server.registerPrompt(
+  "po_20_latach",
+  {
+    title: "Co się sprawdziło po 20 latach?",
+    description: "Pytania i przewidywania autora z lat 2004–2007 zestawione z tym, co wiadomo dziś: co się potwierdziło, co nie, co wciąż jest otwarte.",
+    argsSchema: { temat: z.string().optional().describe("opcjonalnie: temat, np. „kataklizmy”, „żywność”, „2012”, „piramidy”") },
+  },
+  ({ temat }) =>
+    polecenie(`Które pytania, tezy i przewidywania autora uleszka.net${temat ? ` na temat „${temat}”` : ""} sprawdziły się po 20 latach, a które nie?
+1. Znajdź w archiwum konkretne tezy i przewidywania (search, search_by_meaning, get_article_notes – opracowania mają listę tez z cytatami).
+2. Wybierz 6–10 najciekawszych. Dla każdej: dosłowny cytat z tytułem artykułu, potem co wiadomo dziś (wyszukiwarka, jeśli dostępna – ze źródłami i datami).
+3. Oznacz każdą: potwierdzone / częściowo trafne / wciąż otwarte / obalone / niesprawdzalne. Uczciwie w obie strony – bez kpin i bez przytakiwania.
+4. Podsumuj: w czym autor wyprzedzał swoje czasy, a w czym się mylił.`),
+);
+
+server.registerPrompt(
+  "swiat_wedlug_autora",
+  {
+    title: "Wielki obraz – świat według autora",
+    description: "Jak łączą się tezy strony: cywilizacja Bogów, wielkie kataklizmy, Atlantyda, „zafałszowana” historia – w jedną opowieść.",
+  },
+  () =>
+    polecenie(`Przedstaw „wielki obraz” świata według autora uleszka.net – jak jego tezy łączą się w jedną opowieść.
+1. Oprzyj się na „Wstępie” (id: cybog/wstepcb), tekście „Całkiem prywatnie” (id: refleksja) i opracowaniach kluczowych artykułów (get_article_notes).
+2. Pokaż główne założenia (np. cywilizacja Bogów, cykliczny „wielki uskok” skorupy ziemskiej, Atlantyda, budowle ponad ludzkie możliwości, krytyka oficjalnej historii)
+   i jak wynikają jedno z drugiego. Przy każdym podaj artykuł, w którym autor rozwija ten wątek, i krótki cytat.
+3. Wskaż inspiracje autora (Hapgood, Däniken, dawne źródła z biblioteki) i na koniec – rzetelnie – jak te założenia ma się do dzisiejszej nauki.`),
+);
 
 server.registerPrompt(
   "omow_artykul",
