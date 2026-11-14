@@ -57,7 +57,10 @@ W `podcast/<folder>/youtube/` powstają:
 - `wideo.mp4` (1920×1080): plansza tytułowa z okładką na zapowiedź, plansze z tytułami rozdziałów, zdjęcia Leszka z artykułu
   (pokazywane mniej więcej wtedy, gdy lektor czyta fragment obok zdjęcia) i plansza końcowa,
 - `miniatura.jpg` (1280×720) do YouTube,
-- `opis.txt`: tytuł, opis i rozdziały ze znacznikami czasu (YouTube zrobi z nich rozdziały w odtwarzaczu).
+- `opis.txt`: tytuł, opis i rozdziały ze znacznikami czasu (YouTube zrobi z nich rozdziały w odtwarzaczu),
+- `napisy.txt`: dokładny tekst czytany przez lektora, bez znaczników tonu. W YouTube Studio: Napisy → Dodaj język
+  (polski) → Dodaj napisy → „Automatyczna synchronizacja” → wklej tekst; YouTube sam dopasuje czasy.
+  Same napisy, bez wideo: `npx tsx scripts/wideo.ts <folder> <nagranie.mp3> --tylko-napisy`.
 
 Czasy są szacowane z długości tekstu, więc zdjęcia i rozdziały mogą się rozjechać o kilkanaście sekund –
 przed publikacją przewiń wideo i w razie potrzeby popraw czasy w opisie. Folder `youtube/` nie trafia do repozytorium.
