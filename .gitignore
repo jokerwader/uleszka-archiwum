@@ -5,3 +5,4 @@ dist/
 podcast/**/*.mp3
 podcast/**/*.wav
 dane/poprawki/kandydaci.json
+podcast/**/youtube/

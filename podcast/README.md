@@ -47,6 +47,22 @@ Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zast
    (zamiast czytania głosem przeglądarki). Na stronie głównej sekcję „Posłuchaj” (`docs/index.html`, `#podcast`) zmień ręcznie.
    Odtwarzacz Spotify wczytuje się dopiero po kliknięciu, więc bez kliknięcia strona nie łączy się ze Spotify.
 
+## Wideo na YouTube
+
+```
+npx tsx scripts/wideo.ts podcast/<folder odcinka> "<nagranie.mp3>"
+```
+
+W `podcast/<folder>/youtube/` powstają:
+- `wideo.mp4` (1920×1080): plansza tytułowa z okładką na zapowiedź, plansze z tytułami rozdziałów, zdjęcia Leszka z artykułu
+  (pokazywane mniej więcej wtedy, gdy lektor czyta fragment obok zdjęcia) i plansza końcowa,
+- `miniatura.jpg` (1280×720) do YouTube,
+- `opis.txt`: tytuł, opis i rozdziały ze znacznikami czasu (YouTube zrobi z nich rozdziały w odtwarzaczu).
+
+Czasy są szacowane z długości tekstu, więc zdjęcia i rozdziały mogą się rozjechać o kilkanaście sekund –
+przed publikacją przewiń wideo i w razie potrzeby popraw czasy w opisie. Folder `youtube/` nie trafia do repozytorium.
+Przy wgrywaniu zaznacz w YouTube, że głos jest wygenerowany przez AI.
+
 ## Harmonogram odcinków
 
 `podcast/harmonogram.json` to plan kolejnych odcinków z „Cywilizacji Bogów”: lista artykułów w kolejności,
