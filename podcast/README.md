@@ -47,6 +47,9 @@ Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zast
    i uruchom `npx tsx scripts/czytelnia.ts`. Przy tych artykułach w czytelni pojawi się odtwarzacz Spotify
    (zamiast czytania głosem przeglądarki). Na stronie głównej sekcję „Posłuchaj” (`docs/index.html`, `#podcast`) zmień ręcznie.
    Odtwarzacz Spotify wczytuje się dopiero po kliknięciu, więc bez kliknięcia strona nie łączy się ze Spotify.
+   Film zaplanowany na YouTube przed linkiem ze Spotify: dopisz odcinek bez pola `spotify`, tylko z `youtube`.
+   Licznik premiery zostaje, a obok pojawia się przycisk „Premiera na YouTube” (w czytelni i na stronie głównej).
+   Gdy dojdzie link Spotify, dopisz `spotify` – licznik zamieni się w odtwarzacz.
 
 ## Wideo na YouTube
 

@@ -244,6 +244,8 @@
   .nastepny a { font: 700 19px Georgia, serif; color: #f4efe4; text-decoration: none; }
   .nastepny a:hover { color: var(--akcent-mocny); }
   .nastepny .ile { font-weight: 700; color: var(--akcent-mocny); }
+  .nastepny a.yt { flex-basis: 100%; margin-top: 6px; font: 600 15px/1.4 system-ui, sans-serif; color: var(--akcent-mocny); }
+  .nastepny a.yt::before { content: "▶"; display: inline-grid; place-items: center; width: 22px; height: 16px; margin-right: 8px; border-radius: 5px; background: #e02020; color: #fff; font-size: 9px; vertical-align: 1px; }
   .odcinek img { width: 140px; height: 140px; border-radius: 14px; box-shadow: 0 10px 30px rgba(0, 0, 0, .5); display: block; }
   .odcinek h3 { margin: 4px 0 6px; font-size: 24px; }
   .odcinek p { margin: 0 0 16px; color: var(--tekst-2); }
@@ -951,6 +953,10 @@
       el.querySelector("a").href = p.url;
       el.querySelector("a").textContent = `${p.nr}. ${p.tytul}`;
       el.querySelector(".kiedy").textContent = p.kiedy;
+      if (p.youtube) {
+        const yt = Object.assign(document.createElement("a"), { className: "yt", href: `https://www.youtube.com/watch?v=${encodeURIComponent(p.youtube)}`, target: "_blank", rel: "noopener", textContent: "Premiera na YouTube ↗" });
+        el.append(yt);
+      }
       const odm = (n) => (n === 1 ? "dzień" : "dni");
       const licz = () => {
         const ms = new Date(p.iso) - Date.now(), min = Math.floor(ms / 6e4), d = Math.floor(min / 1440), h = Math.floor((min % 1440) / 60);
