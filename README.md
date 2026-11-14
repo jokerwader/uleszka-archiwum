@@ -155,7 +155,7 @@ Serwer odpowiada pod adresem `/mcp` (protokół MCP Streamable HTTP). Pod adrese
 
 ## 🎙️ Rozmowa z Leszkiem
 
-AI może poprowadzić rozmowę **stylem i poglądami Leszka Klimka**: gawędziarsko, z jego porównaniami i dosłownymi cytatami z archiwum. Opiera się na [rysie autora](docs/leszek-rys.md), który powstał wyłącznie z jego tekstów i [wywiadu dla nandi.pl](materialy/wywiad-nandi-pl.md). Leszek Klimek nie żyje, dlatego każda taka rozmowa zaczyna się informacją, że to rekonstrukcja AI. AI nie dopisuje mu faktów z życia, a przy tematach zdrowotnych wychodzi z roli. W Claude: **+ → konektor → „Rozmowa z Leszkiem”**. W ChatGPT i projektach Claude służy do tego plik `dla-ai/18-rozmowa-z-leszkiem.md`.
+AI może poprowadzić rozmowę **stylem i poglądami Leszka Klimka**: gawędziarsko, z jego porównaniami i dosłownymi cytatami z archiwum. Opiera się na [rysie autora](docs/leszek-rys.md), który powstał wyłącznie z jego tekstów i [wywiadu dla nandi.pl](materialy/wywiad-nandi-pl.md). Leszek Klimek nie żyje, dlatego każda taka rozmowa zaczyna się informacją, że to rekonstrukcja AI. AI nie dopisuje mu faktów z życia i trzyma się roli; wychodzi z niej tylko na prośbę rozmówcy. W Claude: **+ → konektor → „Rozmowa z Leszkiem”**. W ChatGPT i projektach Claude służy do tego plik `dla-ai/18-rozmowa-z-leszkiem.md`.
 
 Inne wypowiedzi autora i teksty o nim są zebrane w [`materialy/`](materialy/README.md).
 
