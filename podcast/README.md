@@ -88,7 +88,7 @@ zamieni się w odtwarzacz. Po każdej zmianie: `npx tsx scripts/czytelnia.ts`.
 | 2 | [Wielki uskok…](02-wielki-uskok/ODCINEK.md) | Wielki uskok... | 76 187 |
 | zapas | [Poznaj autora](zapas-poznaj-autora/ODCINEK.md) | Prywatnie (odcinek specjalny; przed nagraniem wygenerować z właściwym numerem) | 34 412 |
 
-Kolejne odcinki i daty premier: `harmonogram.json` (co niedzielę o 18:00).
+Kolejne odcinki i daty premier: `harmonogram.json` (co niedzielę o 10:00).
 
 Numer `0` w poleceniu `teksty` oznacza zwiastun: zapowiedź mówi „Na początek: …” zamiast numeru odcinka,
 a w Spotify for Creators wybiera się typ odcinka „Zwiastun” (Spotify pokazuje go na górze strony podcastu).

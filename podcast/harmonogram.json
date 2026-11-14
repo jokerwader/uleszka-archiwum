@@ -2,7 +2,7 @@
  "opis": "Plan kolejnych odcinków. Artykuł z listy dostaje kolejny termin od daty „od” w wybrane dni tygodnia (1 = poniedziałek … 7 = niedziela) o podanej godzinie (czas polski). Gdy odcinek wyjdzie, dopisz go do odcinki.json – wtedy przy artykule zamiast licznika pojawi się odtwarzacz. Dwa razy w tygodniu: np. \"dni_tygodnia\": [2, 5] (wtorek i piątek). Długi artykuł na kilka odcinków: zamiast id wpisz { \"id\": …, \"czesci\": 3 }. Po zmianie: npx tsx scripts/czytelnia.ts",
  "od": "2026-11-15",
  "dni_tygodnia": [7],
- "godzina": "18:00",
+ "godzina": "10:00",
  "pierwszy_numer": 2,
  "artykuly": [
   "02uskok/uskok",
