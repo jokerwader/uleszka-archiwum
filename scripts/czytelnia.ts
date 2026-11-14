@@ -192,7 +192,7 @@ lista.forEach((a, i) => {
   const html =
     glowa({ tytul: `${a.tytul} – Leszek Klimek, uleszka.net`, opis, url: `${BAZA}czytelnia/${plikArt(a)}`, obraz: pierwszyObraz ? rawUrl(pierwszyObraz.sciezka) : undefined, css: "czytelnia.css", spis: spisHtml(a, rozdzialy) }) +
     `<main class="wrap-czyt">
-  <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./#${slug(a.dzial)}">${esc(a.dzial)}</a>${rodzic ? ` › <a href="${plikArt(rodzic)}">${esc(rodzic.tytul)}</a>` : ""}</p>
+  <p class="okruszki"><a href="./">Czytelnia</a> › <a href="./${a.dzial === UKRYTY_DZIAL ? "" : `#${slug(a.dzial)}`}">${esc(a.dzial)}</a>${rodzic ? ` › <a href="${plikArt(rodzic)}">${esc(rodzic.tytul)}</a>` : ""}</p>
   <h1>${esc(a.tytul)}</h1>
   <p class="meta">Leszek Klimek · uleszka.net · tekst bez zmian względem oryginału${ilePoprawek ? ` <span class="meta-poprawki" title="Podkreślone słowa: najedź (albo dotknij), żeby zobaczyć zapis z oryginału.">· poprawiono ${ilePoprawek} ${ilePoprawek === 1 ? "oczywistą literówkę" : ilePoprawek % 10 >= 2 && ilePoprawek % 10 <= 4 && (ilePoprawek % 100 < 10 || ilePoprawek % 100 >= 20) ? "oczywiste literówki" : "oczywistych literówek"}</span>` : ""}</p>
 ${
