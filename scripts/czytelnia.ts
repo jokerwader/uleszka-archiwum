@@ -29,7 +29,12 @@ const poId = new Map(archiwum.artykuly.map((a) => [a.id, a]));
 const rawUrl = (sciezka: string) => RAW + sciezka.split("/").map(encodeURIComponent).join("/");
 
 // odcinki podcastu (podcast/odcinki.json): przy artykule pojawia się odtwarzacz Spotify, wczytywany dopiero po kliknięciu
-const PODCAST_SPOTIFY = "https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu";
+// dział „Strona główna” (strona tytułowa i menu oryginału) nie ma treści do czytania: jego strony powstają,
+// ale nie ma ich w spisie ani w nawigacji „poprzedni/następny”; strona tytułowa jest banerem na górze spisu
+const UKRYTY_DZIAL = "Strona główna";
+const DZIALY = archiwum.dzialy.filter((d) => d !== UKRYTY_DZIAL);
+const widoczne = archiwum.artykuly.filter((a) => a.dzial !== UKRYTY_DZIAL);
+const PODCAST_SPOTIFY ="https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu";
 type Odcinek = { nr: number; tytul: string; spotify: string; artykuly: string[] };
 const odcinki: Odcinek[] = existsSync("podcast/odcinki.json") ? JSON.parse(readFileSync("podcast/odcinki.json", "utf8")) : [];
 const odcinekArt = new Map(odcinki.flatMap((o) => o.artykuly.map((id) => [id, o] as const)));
@@ -86,7 +91,7 @@ function spisHtml(aktualny?: Dokument, rozdzialy: { id: string; tytul: string }[
   const czesc1 = rozdzialy.length
     ? `<h3>W tym artykule</h3><ol>${rozdzialy.map((r) => `<li><a href="#${r.id}">${esc(r.tytul)}</a></li>`).join("")}</ol>`
     : "";
-  const czesc2 = archiwum.dzialy
+  const czesc2 = DZIALY
     .map((d) => {
       const art = archiwum.artykuly.filter((a) => a.dzial === d);
       const otwarty = aktualny ? aktualny.dzial === d : false;
@@ -169,8 +174,9 @@ lista.forEach((a, i) => {
   const opis = (o?.streszczenie ?? a.czysty).replace(/\s+/g, " ").trim().slice(0, 180);
   const rodzic = a.rodzic ? poId.get(a.rodzic) : undefined;
   const podstrony = archiwum.podstrony(a);
-  const poprz = lista[i - 1];
-  const nast = lista[i + 1];
+  const iw = widoczne.indexOf(a);
+  const poprz = iw > 0 ? widoczne[iw - 1] : undefined;
+  const nast = iw >= 0 ? widoczne[iw + 1] : widoczne[0];
   const pierwszyObraz = a.obrazy.find((x) => /\.(jpe?g|png)$/i.test(x.sciezka) && archiwum.opisObrazu(x.sciezka));
   const ksiazki = archiwum.ksiazkiArtykulu(a.id);
   const { html: tresc0, rozdzialy } = trescHtml(a);
@@ -267,17 +273,31 @@ const karta = (a: Dokument) => {
       }
     </li>`;
 };
+// baner na górze spisu: hasło i pierwsze zdanie strony tytułowej (słowo w słowo), zdjęcie Bramy Słońca z tej strony
+// i motto Lessinga z menu głównego – całe sedno ukrytego działu „Strona główna”
+const tytulowa = archiwum.artykuly.find((a) => a.id === "doindeksu/tytx1");
+const baner = `  <section class="baner" aria-label="Strona tytułowa uleszka.net">
+    <img src="../img/brama.jpg" alt="Brama Słońca w Tiahuanaco – zdjęcie ze strony tytułowej uleszka.net">
+    <div class="baner-tresc">
+      <span class="baner-etykieta">Strona tytułowa · 2004–2007</span>
+      <p class="baner-haslo">Uwierz we własny rozum</p>
+      <p class="baner-zdanie">Jeśli chcesz spróbować zapomnieć na dłuższą chwilę o tym, czego nauczyłeś się w szkole lub podobnie jak ja, wątpisz w prawdziwość historii naszej cywilizacji, to</p>
+      <p class="baner-akcje"><a class="baner-dalej" href="#${slug(DZIALY[0])}">czytaj dalej ↓</a>${tytulowa ? `<a class="baner-oryginal" href="${plikArt(tytulowa)}">oryginalna strona tytułowa →</a>` : ""}</p>
+      <p class="baner-motto">„Zwrócić na coś uwagę większości, znaczy pomóc zdrowemu rozsądkowi wpaść na właściwy ślad” <span>– G. E. Lessing, motto z menu strony</span></p>
+    </div>
+  </section>`;
 const spis =
-  glowa({ tytul: "Czytelnia – wszystkie artykuły uleszka.net", opis: `Wszystkie ${lista.length} strony uleszka.net Leszka Klimka, słowo w słowo, w wygodnej formie do czytania.`, url: `${BAZA}czytelnia/`, css: "czytelnia.css", spis: spisHtml() }) +
+  glowa({ tytul: "Czytelnia – wszystkie artykuły uleszka.net", opis: `Wszystkie ${widoczne.length} stron uleszka.net Leszka Klimka, słowo w słowo, w wygodnej formie do czytania.`, url: `${BAZA}czytelnia/`, css: "czytelnia.css", spis: spisHtml() }) +
   `<main class="wrap-szeroki spis">
   <p class="okruszki"><a href="../">Strona główna</a> › Czytelnia</p>
   <h1>Czytelnia</h1>
-  <p class="meta">Wszystkie ${lista.length} strony uleszka.net, słowo w słowo. Krótkie opisy na kartach przygotowała AI.</p>
+  <p class="meta">Wszystkie ${widoczne.length} stron uleszka.net, słowo w słowo. Krótkie opisy na kartach przygotowała AI.</p>
+${baner}
   <div class="spis-narzedzia">
     <input id="szukaj" type="search" placeholder="Szukaj w tytułach i tematach, np. potop, Atlantyda, witamina…" aria-label="Szukaj artykułu">
-    <nav class="dzialy-skrot" aria-label="Działy">${archiwum.dzialy.map((d) => `<a href="#${slug(d)}">${esc(d)}</a>`).join("")}</nav>
+    <nav class="dzialy-skrot" aria-label="Działy">${DZIALY.map((d) => `<a href="#${slug(d)}">${esc(d)}</a>`).join("")}</nav>
   </div>
-${archiwum.dzialy
+${DZIALY
   .map((d) => {
     const glowne = lista.filter((a) => a.dzial === d && !a.rodzic);
     const wszystkich = lista.filter((a) => a.dzial === d).length;
