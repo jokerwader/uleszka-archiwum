@@ -57,6 +57,18 @@ const rozdzialy = readdirSync(folderRozdzialow).filter((f) => f.endsWith(".txt")
   return { plik: f, tytul: tytulyRozdzialow.get(f) ?? f, znaki: tekst.length, start: 0 };
 });
 
+// ---------- napisy: dokładny tekst czytany przez lektora, bez znaczników tonu (YouTube: „Automatyczna synchronizacja”) ----------
+const wyjNapisy = join(folder, "youtube");
+mkdirSync(wyjNapisy, { recursive: true });
+writeFileSync(
+  join(wyjNapisy, "napisy.txt"),
+  readdirSync(folderRozdzialow).filter((f) => f.endsWith(".txt")).sort()
+    .map((f) => readFileSync(join(folderRozdzialow, f), "utf8").replace(/\[[^\]\n]*\]/g, "").replace(/[ \t]+/g, " ").replace(/ *\n */g, "\n").replace(/\n{3,}/g, "\n\n").trim())
+    .join("\n\n") + "\n",
+  "utf8",
+);
+if (process.argv.includes("--tylko-napisy")) { console.log(`Gotowe: ${join(wyjNapisy, "napisy.txt")}`); process.exit(0); }
+
 // ---------- czasy: długość nagrania dzielona proporcjonalnie do liczby znaków rozdziałów ----------
 const dlugosc = Number(execFileSync("ffprobe", ["-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", mp3], { encoding: "utf8" }).trim());
 if (!(dlugosc > 0)) throw new Error("Nie udało się odczytać długości nagrania");
