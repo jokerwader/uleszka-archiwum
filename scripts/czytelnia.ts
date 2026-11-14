@@ -37,13 +37,16 @@ const widoczne = archiwum.artykuly.filter((a) => a.dzial !== UKRYTY_DZIAL);
 const PODCAST_SPOTIFY ="https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu";
 const KANAL_YOUTUBE = "https://www.youtube.com/channel/UCUQV--Lfb4i2o_QAFPOOGVA";
 // youtube: identyfikator filmu z linku youtu.be/<id> (opcjonalny – dopisz, gdy film jest na kanale)
-type Odcinek = { nr: number; tytul: string; spotify: string; youtube?: string; artykuly: string[] };
+// odcinek bez "spotify" (film zaplanowany na YouTube, Spotify jeszcze nie ma) zostaje przy liczniku premiery,
+// a w zapowiedzi pojawia się przycisk do filmu
+type Odcinek = { nr: number; tytul: string; spotify?: string; youtube?: string; artykuly: string[] };
 const odcinki: Odcinek[] = existsSync("podcast/odcinki.json") ? JSON.parse(readFileSync("podcast/odcinki.json", "utf8")) : [];
-const odcinekArt = new Map(odcinki.flatMap((o) => o.artykuly.map((id) => [id, o] as const)));
-const spotifyHtml = (o: Odcinek) => `  <div class="spotify" data-odcinek="${esc(o.spotify)}" data-tytul="${esc(o.tytul)}">
+const odcinekArt = new Map(odcinki.filter((o) => o.spotify).flatMap((o) => o.artykuly.map((id) => [id, o] as const)));
+const filmPrzedPremiera = new Map(odcinki.filter((o) => !o.spotify && o.youtube).flatMap((o) => o.artykuly.map((id) => [id, o.youtube!] as const)));
+const spotifyHtml = (o: Odcinek) => `  <div class="spotify" data-odcinek="${esc(o.spotify!)}" data-tytul="${esc(o.tytul)}">
     <img src="../img/podcast.jpg" alt="" width="64" height="64">
     <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · ${o.nr === 0 ? "na początek" : `odcinek ${o.nr}`}</span><b>Posłuchaj tego artykułu</b><small>Czyta lektor AI, tekst bez zmian.</small></div>
-    <div class="spotify-przyciski"><button class="spotify-graj" type="button">▶ Odtwórz tutaj</button><a href="https://open.spotify.com/episode/${esc(o.spotify)}" target="_blank" rel="noopener">Otwórz w Spotify ↗</a>${o.youtube ? `<a class="yt" href="https://www.youtube.com/watch?v=${esc(o.youtube)}" target="_blank" rel="noopener">Obejrzyj na YouTube ↗</a>` : ""}<a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Cały podcast ↗</a></div>
+    <div class="spotify-przyciski"><button class="spotify-graj" type="button">▶ Odtwórz tutaj</button><a href="https://open.spotify.com/episode/${esc(o.spotify!)}" target="_blank" rel="noopener">Otwórz w Spotify ↗</a>${o.youtube ? `<a class="yt" href="https://www.youtube.com/watch?v=${esc(o.youtube)}" target="_blank" rel="noopener">Obejrzyj na YouTube ↗</a>` : ""}<a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Cały podcast ↗</a></div>
   </div>
 `;
 
@@ -80,12 +83,12 @@ if (existsSync("podcast/harmonogram.json")) {
 }
 const nazwaCzesci = (p: Premiera) => (p.czesci ? `, część ${p.czesc} z ${p.czesci}` : "");
 const zapowiedzHtml = (lista: Premiera[]) => {
-  const p = lista[0];
+  const p = lista[0], film = filmPrzedPremiera.get(p.id);
   const kolejne = lista.length > 1 ? `<small>Kolejne części: ${lista.slice(1).map((x) => `${x.czesc}. ${esc(x.kiedy.replace(/ \d{4},.*$/, ""))}`).join(" · ")}</small>` : "";
   return `  <div class="zapowiedz-odc">
     <img src="../img/podcast.jpg" alt="" width="64" height="64">
     <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · odcinek ${p.nr}${lista.length > 1 ? `–${lista[lista.length - 1].nr}` : ""}</span><b>Premiera${p.czesci ? ` części 1 z ${p.czesci}` : ""} w podcaście: <span class="licznik" data-premiera="${p.iso}">${esc(p.kiedy)}</span></b><small>${esc(p.kiedy[0].toUpperCase() + p.kiedy.slice(1))} · czyta lektor AI, tekst bez zmian</small>${kolejne}</div>
-    <div class="spotify-przyciski"><a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Obserwuj podcast w Spotify ↗</a><a class="yt" href="${KANAL_YOUTUBE}" target="_blank" rel="noopener">Subskrybuj na YouTube ↗</a></div>
+    <div class="spotify-przyciski"><a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Obserwuj podcast w Spotify ↗</a>${film ? `<a class="yt" href="https://www.youtube.com/watch?v=${esc(film)}" target="_blank" rel="noopener">Premiera na YouTube ↗</a>` : `<a class="yt" href="${KANAL_YOUTUBE}" target="_blank" rel="noopener">Subskrybuj na YouTube ↗</a>`}</div>
   </div>
 `;
 };
@@ -382,7 +385,7 @@ writeFileSync(`${WYJSCIE}/index.html`, spis, "utf8");
 // harmonogram dla strony głównej (sekcja „Posłuchaj” pokazuje najbliższy odcinek, który jeszcze nie wyszedł)
 writeFileSync(
   `${WYJSCIE}/harmonogram.json`,
-  JSON.stringify([...premiery.values()].flat().sort((a, b) => a.nr - b.nr).map((p) => ({ nr: p.nr, tytul: poId.get(p.id)!.tytul + nazwaCzesci(p), url: `czytelnia/${plikArt(poId.get(p.id)!)}`, kiedy: p.kiedy, iso: p.iso })), null, 1) + "\n",
+  JSON.stringify([...premiery.values()].flat().sort((a, b) => a.nr - b.nr).map((p) => ({ nr: p.nr, tytul: poId.get(p.id)!.tytul + nazwaCzesci(p), url: `czytelnia/${plikArt(poId.get(p.id)!)}`, kiedy: p.kiedy, iso: p.iso, ...(filmPrzedPremiera.has(p.id) && (p.czesc ?? 1) === 1 ? { youtube: filmPrzedPremiera.get(p.id) } : {}) })), null, 1) + "\n",
   "utf8",
 );
 
