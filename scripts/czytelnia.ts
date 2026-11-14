@@ -35,13 +35,15 @@ const UKRYTY_DZIAL = "Strona główna";
 const DZIALY = archiwum.dzialy.filter((d) => d !== UKRYTY_DZIAL);
 const widoczne = archiwum.artykuly.filter((a) => a.dzial !== UKRYTY_DZIAL);
 const PODCAST_SPOTIFY ="https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu";
-type Odcinek = { nr: number; tytul: string; spotify: string; artykuly: string[] };
+const KANAL_YOUTUBE = "https://www.youtube.com/channel/UCUQV--Lfb4i2o_QAFPOOGVA";
+// youtube: identyfikator filmu z linku youtu.be/<id> (opcjonalny – dopisz, gdy film jest na kanale)
+type Odcinek = { nr: number; tytul: string; spotify: string; youtube?: string; artykuly: string[] };
 const odcinki: Odcinek[] = existsSync("podcast/odcinki.json") ? JSON.parse(readFileSync("podcast/odcinki.json", "utf8")) : [];
 const odcinekArt = new Map(odcinki.flatMap((o) => o.artykuly.map((id) => [id, o] as const)));
 const spotifyHtml = (o: Odcinek) => `  <div class="spotify" data-odcinek="${esc(o.spotify)}" data-tytul="${esc(o.tytul)}">
     <img src="../img/podcast.jpg" alt="" width="64" height="64">
     <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · ${o.nr === 0 ? "na początek" : `odcinek ${o.nr}`}</span><b>Posłuchaj tego artykułu</b><small>Czyta lektor AI, tekst bez zmian.</small></div>
-    <div class="spotify-przyciski"><button class="spotify-graj" type="button">▶ Odtwórz tutaj</button><a href="https://open.spotify.com/episode/${esc(o.spotify)}" target="_blank" rel="noopener">Otwórz w Spotify ↗</a><a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Cały podcast ↗</a></div>
+    <div class="spotify-przyciski"><button class="spotify-graj" type="button">▶ Odtwórz tutaj</button><a href="https://open.spotify.com/episode/${esc(o.spotify)}" target="_blank" rel="noopener">Otwórz w Spotify ↗</a>${o.youtube ? `<a class="yt" href="https://www.youtube.com/watch?v=${esc(o.youtube)}" target="_blank" rel="noopener">Obejrzyj na YouTube ↗</a>` : ""}<a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Cały podcast ↗</a></div>
   </div>
 `;
 
@@ -83,7 +85,7 @@ const zapowiedzHtml = (lista: Premiera[]) => {
   return `  <div class="zapowiedz-odc">
     <img src="../img/podcast.jpg" alt="" width="64" height="64">
     <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · odcinek ${p.nr}${lista.length > 1 ? `–${lista[lista.length - 1].nr}` : ""}</span><b>Premiera${p.czesci ? ` części 1 z ${p.czesci}` : ""} w podcaście: <span class="licznik" data-premiera="${p.iso}">${esc(p.kiedy)}</span></b><small>${esc(p.kiedy[0].toUpperCase() + p.kiedy.slice(1))} · czyta lektor AI, tekst bez zmian</small>${kolejne}</div>
-    <div class="spotify-przyciski"><a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Obserwuj podcast w Spotify, żeby nie przegapić ↗</a></div>
+    <div class="spotify-przyciski"><a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Obserwuj podcast w Spotify ↗</a><a class="yt" href="${KANAL_YOUTUBE}" target="_blank" rel="noopener">Subskrybuj na YouTube ↗</a></div>
   </div>
 `;
 };

@@ -237,7 +237,8 @@
     border: 1px solid rgba(232, 176, 75, .3); box-shadow: var(--cien);
   }
   .odcinek + .odcinek { margin-top: 18px; }
-  .podcast-obserwuj { margin: 22px 0 0; text-align: center; }
+  .podcast-obserwuj { margin: 22px 0 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+  .btn-yt::before { content: "▶"; display: inline-grid; place-items: center; width: 22px; height: 16px; border-radius: 5px; background: #e02020; color: #fff; font-size: 9px; }
   .nastepny { margin: 18px 0 0; padding: 16px 20px; border: 1px dashed rgba(232, 176, 75, .45); border-radius: 16px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; color: var(--tekst-2); font-size: 15px; }
   .nastepny .etykieta-zr { flex-basis: 100%; }
   .nastepny a { font: 700 19px Georgia, serif; color: #f4efe4; text-decoration: none; }
@@ -492,7 +493,7 @@
   <section id="podcast">
     <div class="wrap">
       <h2>Posłuchaj</h2>
-      <p class="pod">Podcast „Uwierz we własny rozum”: teksty Leszka czytane słowo w słowo przez lektora AI. Kolejne odcinki będą się pojawiać w Spotify.</p>
+      <p class="pod">Podcast „Uwierz we własny rozum”: teksty Leszka czytane słowo w słowo przez lektora AI. Nowe odcinki co tydzień w Spotify i na YouTube.</p>
       <div class="odcinek">
         <img src="img/podcast.jpg" alt="Okładka podcastu „Uwierz we własny rozum”" width="140" height="140">
         <div class="odcinek-opis">
@@ -502,6 +503,7 @@
           <div class="spotify" data-odcinek="3Aoy9BihOsiKZxy1RMu6wO" data-tytul="Wstęp">
             <button class="btn btn-glowny spotify-graj" type="button">▶ Odtwórz tutaj</button>
             <a class="btn btn-drugi" href="https://open.spotify.com/episode/3Aoy9BihOsiKZxy1RMu6wO" target="_blank" rel="noopener">Otwórz w Spotify ↗</a>
+            <a class="btn btn-drugi btn-yt" href="https://www.youtube.com/watch?v=2gJuT5-VXS0" target="_blank" rel="noopener">YouTube ↗</a>
           </div>
           <p class="odcinek-linki"><a href="czytelnia/cybog-wstepcb.html">Przeczytaj tekst →</a></p>
         </div>
@@ -520,7 +522,7 @@
         </div>
       </div>
       <p class="nastepny" id="nastepny" hidden></p>
-      <p class="podcast-obserwuj"><a class="btn btn-drugi" href="https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu" target="_blank" rel="noopener">Obserwuj podcast w Spotify ↗</a></p>
+      <p class="podcast-obserwuj"><a class="btn btn-drugi" href="https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu" target="_blank" rel="noopener">Obserwuj podcast w Spotify ↗</a> <a class="btn btn-drugi btn-yt" href="https://www.youtube.com/channel/UCUQV--Lfb4i2o_QAFPOOGVA" target="_blank" rel="noopener">Subskrybuj na YouTube ↗</a></p>
     </div>
   </section>
 
