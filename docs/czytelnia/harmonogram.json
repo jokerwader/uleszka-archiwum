@@ -1,0 +1,254 @@
+[
+ {
+  "nr": 2,
+  "tytul": "Wielki uskok...",
+  "url": "czytelnia/02uskok-uskok.html",
+  "kiedy": "piątek, 20 listopada 2026, godz. 18:00",
+  "iso": "2026-11-20T18:00:00+01:00"
+ },
+ {
+  "nr": 3,
+  "tytul": "52 lata",
+  "url": "czytelnia/03majowie-52lata.html",
+  "kiedy": "piątek, 27 listopada 2026, godz. 18:00",
+  "iso": "2026-11-27T18:00:00+01:00"
+ },
+ {
+  "nr": 4,
+  "tytul": "Chronologia",
+  "url": "czytelnia/04chrono-chronos.html",
+  "kiedy": "piątek, 4 grudnia 2026, godz. 18:00",
+  "iso": "2026-12-04T18:00:00+01:00"
+ },
+ {
+  "nr": 5,
+  "tytul": "Jaka cywilizacja",
+  "url": "czytelnia/05bogowie-bogowie.html",
+  "kiedy": "piątek, 11 grudnia 2026, godz. 18:00",
+  "iso": "2026-12-11T18:00:00+01:00"
+ },
+ {
+  "nr": 6,
+  "tytul": "Kto zbudował?",
+  "url": "czytelnia/06budowle-budowle.html",
+  "kiedy": "piątek, 18 grudnia 2026, godz. 18:00",
+  "iso": "2026-12-18T18:00:00+01:00"
+ },
+ {
+  "nr": 7,
+  "tytul": "Piramidy w Giza",
+  "url": "czytelnia/07piramidy-piramidy.html",
+  "kiedy": "piątek, 25 grudnia 2026, godz. 18:00",
+  "iso": "2026-12-25T18:00:00+01:00"
+ },
+ {
+  "nr": 8,
+  "tytul": "Jezioro Mojrisa",
+  "url": "czytelnia/08egipt-egipt.html",
+  "kiedy": "piątek, 1 stycznia 2027, godz. 18:00",
+  "iso": "2027-01-01T18:00:00+01:00"
+ },
+ {
+  "nr": 9,
+  "tytul": "Tiahuanaco",
+  "url": "czytelnia/09tiahu-tiahua.html",
+  "kiedy": "piątek, 8 stycznia 2027, godz. 18:00",
+  "iso": "2027-01-08T18:00:00+01:00"
+ },
+ {
+  "nr": 10,
+  "tytul": "Bogowie wody",
+  "url": "czytelnia/10woda-bogwody.html",
+  "kiedy": "piątek, 15 stycznia 2027, godz. 18:00",
+  "iso": "2027-01-15T18:00:00+01:00"
+ },
+ {
+  "nr": 11,
+  "tytul": "Atlantyda",
+  "url": "czytelnia/11atlantyda-atlant.html",
+  "kiedy": "piątek, 22 stycznia 2027, godz. 18:00",
+  "iso": "2027-01-22T18:00:00+01:00"
+ },
+ {
+  "nr": 12,
+  "tytul": "Oszustwo wszechczasów",
+  "url": "czytelnia/12rzym-rzym.html",
+  "kiedy": "piątek, 29 stycznia 2027, godz. 18:00",
+  "iso": "2027-01-29T18:00:00+01:00"
+ },
+ {
+  "nr": 13,
+  "tytul": "Nauczyciele Rzymu",
+  "url": "czytelnia/13celtowie-celt.html",
+  "kiedy": "piątek, 5 lutego 2027, godz. 18:00",
+  "iso": "2027-02-05T18:00:00+01:00"
+ },
+ {
+  "nr": 14,
+  "tytul": "Czy przetrwamy?",
+  "url": "czytelnia/survival.html",
+  "kiedy": "piątek, 12 lutego 2027, godz. 18:00",
+  "iso": "2027-02-12T18:00:00+01:00"
+ },
+ {
+  "nr": 15,
+  "tytul": "Cuda epoki upadku",
+  "url": "czytelnia/warownie-warownie.html",
+  "kiedy": "piątek, 19 lutego 2027, godz. 18:00",
+  "iso": "2027-02-19T18:00:00+01:00"
+ },
+ {
+  "nr": 16,
+  "tytul": "Kazimierz III cudotwórca",
+  "url": "czytelnia/warownie-kazimierz.html",
+  "kiedy": "piątek, 26 lutego 2027, godz. 18:00",
+  "iso": "2027-02-26T18:00:00+01:00"
+ },
+ {
+  "nr": 17,
+  "tytul": "Dziwne i zagadkowe",
+  "url": "czytelnia/zagadki-zagadki.html",
+  "kiedy": "piątek, 5 marca 2027, godz. 18:00",
+  "iso": "2027-03-05T18:00:00+01:00"
+ },
+ {
+  "nr": 18,
+  "tytul": "Uczona błazenada",
+  "url": "czytelnia/blazenada-zarty.html",
+  "kiedy": "piątek, 12 marca 2027, godz. 18:00",
+  "iso": "2027-03-12T18:00:00+01:00"
+ },
+ {
+  "nr": 19,
+  "tytul": "Piramida w Visoko",
+  "url": "czytelnia/visoko-piramida.html",
+  "kiedy": "piątek, 19 marca 2027, godz. 18:00",
+  "iso": "2027-03-19T18:00:00+01:00"
+ },
+ {
+  "nr": 20,
+  "tytul": "Bogowie atomowych wojen",
+  "url": "czytelnia/atomwoj-bogatom01.html",
+  "kiedy": "piątek, 26 marca 2027, godz. 18:00",
+  "iso": "2027-03-26T18:00:00+01:00"
+ },
+ {
+  "nr": 21,
+  "tytul": "Nauka jutra",
+  "url": "czytelnia/szypow.html",
+  "kiedy": "piątek, 2 kwietnia 2027, godz. 18:00",
+  "iso": "2027-04-02T18:00:00+02:00"
+ },
+ {
+  "nr": 22,
+  "tytul": "Tiamat i komety",
+  "url": "czytelnia/uklad-wstep1.html",
+  "kiedy": "piątek, 9 kwietnia 2027, godz. 18:00",
+  "iso": "2027-04-09T18:00:00+02:00"
+ },
+ {
+  "nr": 23,
+  "tytul": "Insygnia Egiptu",
+  "url": "czytelnia/insygnia-korony.html",
+  "kiedy": "piątek, 16 kwietnia 2027, godz. 18:00",
+  "iso": "2027-04-16T18:00:00+02:00"
+ },
+ {
+  "nr": 24,
+  "tytul": "Machu Picchu",
+  "url": "czytelnia/ameryka-machu.html",
+  "kiedy": "piątek, 23 kwietnia 2027, godz. 18:00",
+  "iso": "2027-04-23T18:00:00+02:00"
+ },
+ {
+  "nr": 25,
+  "tytul": "Sacsayhuaman",
+  "url": "czytelnia/ameryka-sacsay.html",
+  "kiedy": "piątek, 30 kwietnia 2027, godz. 18:00",
+  "iso": "2027-04-30T18:00:00+02:00"
+ },
+ {
+  "nr": 26,
+  "tytul": "Indiański folklor",
+  "url": "czytelnia/ameryka-folklor.html",
+  "kiedy": "piątek, 7 maja 2027, godz. 18:00",
+  "iso": "2027-05-07T18:00:00+02:00"
+ },
+ {
+  "nr": 27,
+  "tytul": "Wielki uskok inaczej",
+  "url": "czytelnia/hipoteza-hipowusz2.html",
+  "kiedy": "piątek, 14 maja 2027, godz. 18:00",
+  "iso": "2027-05-14T18:00:00+02:00"
+ },
+ {
+  "nr": 28,
+  "tytul": "Kalendarz Henocha",
+  "url": "czytelnia/henoch-henoch.html",
+  "kiedy": "piątek, 21 maja 2027, godz. 18:00",
+  "iso": "2027-05-21T18:00:00+02:00"
+ },
+ {
+  "nr": 29,
+  "tytul": "2012 - bać się?",
+  "url": "czytelnia/wrozby-rok2012.html",
+  "kiedy": "piątek, 28 maja 2027, godz. 18:00",
+  "iso": "2027-05-28T18:00:00+02:00"
+ },
+ {
+  "nr": 30,
+  "tytul": "Nieznany Nostradamus",
+  "url": "czytelnia/wrozby-nostradamus.html",
+  "kiedy": "piątek, 4 czerwca 2027, godz. 18:00",
+  "iso": "2027-06-04T18:00:00+02:00"
+ },
+ {
+  "nr": 31,
+  "tytul": "Dzisiejsza nauka",
+  "url": "czytelnia/oszusci.html",
+  "kiedy": "piątek, 11 czerwca 2027, godz. 18:00",
+  "iso": "2027-06-11T18:00:00+02:00"
+ },
+ {
+  "nr": 32,
+  "tytul": "26 maja 2006",
+  "url": "czytelnia/25maja2006-maj25.html",
+  "kiedy": "piątek, 18 czerwca 2027, godz. 18:00",
+  "iso": "2027-06-18T18:00:00+02:00"
+ },
+ {
+  "nr": 33,
+  "tytul": "Archeolog czy złodziej?",
+  "url": "czytelnia/hawass-hawass.html",
+  "kiedy": "piątek, 25 czerwca 2027, godz. 18:00",
+  "iso": "2027-06-25T18:00:00+02:00"
+ },
+ {
+  "nr": 34,
+  "tytul": "Cwaniacka archeologia",
+  "url": "czytelnia/hawass-cwaniaki.html",
+  "kiedy": "piątek, 2 lipca 2027, godz. 18:00",
+  "iso": "2027-07-02T18:00:00+02:00"
+ },
+ {
+  "nr": 35,
+  "tytul": "Decywilizacja",
+  "url": "czytelnia/upadek-katrina1.html",
+  "kiedy": "piątek, 9 lipca 2027, godz. 18:00",
+  "iso": "2027-07-09T18:00:00+02:00"
+ },
+ {
+  "nr": 36,
+  "tytul": "Archeoastronomia",
+  "url": "czytelnia/upadek-archeoastro1.html",
+  "kiedy": "piątek, 16 lipca 2027, godz. 18:00",
+  "iso": "2027-07-16T18:00:00+02:00"
+ },
+ {
+  "nr": 37,
+  "tytul": "Tajemnicza woda",
+  "url": "czytelnia/woda.html",
+  "kiedy": "piątek, 23 lipca 2027, godz. 18:00",
+  "iso": "2027-07-23T18:00:00+02:00"
+ }
+]

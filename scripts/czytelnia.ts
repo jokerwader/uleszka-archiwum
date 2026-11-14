@@ -45,6 +45,38 @@ const spotifyHtml = (o: Odcinek) => `  <div class="spotify" data-odcinek="${esc(
   </div>
 `;
 
+// harmonogram kolejnych odcinków (podcast/harmonogram.json): artykuł z listy dostaje kolejny termin w wybrane dni tygodnia;
+// przy artykule i na jego karcie w spisie pojawia się licznik do premiery (odliczany w przeglądarce, czas polski)
+type Harmonogram = { od: string; dni_tygodnia: number[]; godzina: string; pierwszy_numer: number; artykuly: string[] };
+type Premiera = { id: string; nr: number; kiedy: string; iso: string };
+const MIESIACE = ["stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"];
+const DNI = ["niedziela", "poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota"];
+/** przesunięcie czasu polskiego w danym dniu, np. „+01:00” zimą i „+02:00” latem */
+const przesuniecie = (dzien: Date) => {
+  const t = new Intl.DateTimeFormat("en-US", { timeZone: "Europe/Warsaw", timeZoneName: "shortOffset" }).formatToParts(dzien).find((p) => p.type === "timeZoneName")?.value ?? "GMT+1";
+  const [, znak, h] = t.match(/GMT([+-])(\d+)/) ?? ["", "+", "1"];
+  return `${znak}${h.padStart(2, "0")}:00`;
+};
+const premiery = new Map<string, Premiera>();
+if (existsSync("podcast/harmonogram.json")) {
+  const h: Harmonogram = JSON.parse(readFileSync("podcast/harmonogram.json", "utf8"));
+  const dzien = new Date(`${h.od}T12:00:00Z`);
+  h.artykuly.forEach((id, i) => {
+    if (!archiwum.znajdz(id, "artykul")) throw new Error(`harmonogram.json: nie ma artykułu ${id}`);
+    while (!h.dni_tygodnia.includes(dzien.getUTCDay() || 7)) dzien.setUTCDate(dzien.getUTCDate() + 1);
+    const ymd = dzien.toISOString().slice(0, 10);
+    const kiedy = `${DNI[dzien.getUTCDay()]}, ${dzien.getUTCDate()} ${MIESIACE[dzien.getUTCMonth()]} ${dzien.getUTCFullYear()}, godz. ${h.godzina}`;
+    if (!odcinekArt.has(id)) premiery.set(id, { id, nr: h.pierwszy_numer + i, kiedy, iso: `${ymd}T${h.godzina}:00${przesuniecie(dzien)}` });
+    dzien.setUTCDate(dzien.getUTCDate() + 1);
+  });
+}
+const zapowiedzHtml = (p: Premiera) => `  <div class="zapowiedz-odc">
+    <img src="../img/podcast.jpg" alt="" width="64" height="64">
+    <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · odcinek ${p.nr}</span><b>Premiera w podcaście: <span class="licznik" data-premiera="${p.iso}">${esc(p.kiedy)}</span></b><small>${esc(p.kiedy[0].toUpperCase() + p.kiedy.slice(1))} · czyta lektor AI, tekst bez zmian</small></div>
+    <div class="spotify-przyciski"><a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Obserwuj podcast w Spotify, żeby nie przegapić ↗</a></div>
+  </div>
+`;
+
 marked.setOptions({ gfm: true, breaks: false });
 
 function trescHtml(a: Dokument): { html: string; rozdzialy: { id: string; tytul: string }[] } {
@@ -199,7 +231,7 @@ ${
   // artykuł z odcinkiem podcastu: tylko Spotify; pozostałe: czytanie syntezatorem mowy przeglądarki
   odcinek
     ? spotifyHtml(odcinek)
-    : `  <div class="odtwarzacz" id="odtwarzacz" hidden>
+    : `${premiery.has(a.id) ? zapowiedzHtml(premiery.get(a.id)!) : ""}  <div class="odtwarzacz" id="odtwarzacz" hidden>
     <button class="graj" id="graj" type="button" aria-label="Posłuchaj artykułu"><span class="ikona-graj" aria-hidden="true"></span><span id="graj-tekst">Posłuchaj</span></button>
     <button class="stop" id="stop" type="button" aria-label="Zatrzymaj i wróć na początek" hidden>■</button>
     <label class="tempo">tempo <select id="tempo"><option value="0.85">0,85×</option><option value="1" selected>1×</option><option value="1.15">1,15×</option><option value="1.3">1,3×</option><option value="1.5">1,5×</option></select></label>
@@ -252,6 +284,13 @@ const miniatura = (a: Dokument) => {
     for (const o of d.obrazy) if (/\.(jpe?g|png)$/i.test(o.sciezka) && archiwum.opisObrazu(o.sciezka)) return o.sciezka;
   return undefined;
 };
+// plakietka na karcie: „w podcaście” (odcinek jest) albo licznik do premiery (odcinek zaplanowany)
+const plakietkaPodcastu = (a: Dokument) => {
+  const o = odcinekArt.get(a.id), p = premiery.get(a.id);
+  if (o) return `<span class="plakietka-pod jest">🎧 w podcaście</span>`;
+  if (p) return `<span class="plakietka-pod" title="${esc(p.kiedy)}">🎧 odcinek ${p.nr} <span class="licznik" data-premiera="${p.iso}" data-krotko>${esc(p.kiedy.split(",").slice(0, 2).join(","))}</span></span>`;
+  return "";
+};
 const karta = (a: Dokument) => {
   const o = archiwum.opracowania.get(a.id);
   const krotko = (o?.streszczenie ?? "").replace(/\s+/g, " ").trim();
@@ -265,7 +304,7 @@ const karta = (a: Dokument) => {
   return `<li class="karta-art" data-szukaj="${esc(szukaj)}">
       <a class="karta-link" href="${plikArt(a)}">
         <div class="miniatura">${min ? `<img src="${rawUrl(min)}" alt="" loading="lazy" decoding="async">` : `<span aria-hidden="true">${esc(a.tytul.trim().charAt(0))}</span>`}</div>
-        <div class="karta-tresc"><b>${esc(a.tytul)}</b>${krotko ? `<span class="opis">${esc(krotko)}</span>` : ""}<span class="meta-art">${meta}</span></div>
+        <div class="karta-tresc"><b>${esc(a.tytul)}</b>${krotko ? `<span class="opis">${esc(krotko)}</span>` : ""}<span class="meta-art">${meta}</span>${plakietkaPodcastu(a)}</div>
       </a>${
         podstrony.length
           ? `\n      <div class="czesci"><span>Dalsze części:</span>${podstrony.map((p) => `<a href="${plikArt(p)}">${esc(p.tytul)}</a>`).join("")}</div>`
@@ -327,6 +366,12 @@ ${DZIALY
 ` +
   stopka;
 writeFileSync(`${WYJSCIE}/index.html`, spis, "utf8");
+// harmonogram dla strony głównej (sekcja „Posłuchaj” pokazuje najbliższy odcinek, który jeszcze nie wyszedł)
+writeFileSync(
+  `${WYJSCIE}/harmonogram.json`,
+  JSON.stringify([...premiery.values()].map((p) => ({ nr: p.nr, tytul: poId.get(p.id)!.tytul, url: `czytelnia/${plikArt(poId.get(p.id)!)}`, kiedy: p.kiedy, iso: p.iso })), null, 1) + "\n",
+  "utf8",
+);
 
 // ---------- styl i skrypty (pliki źródłowe w scripts/czytelnia/) ----------
 for (const plik of ["czytelnia.css", "czytelnia.js", "czytaj.js"]) copyFileSync(`scripts/czytelnia/${plik}`, `${WYJSCIE}/${plik}`);

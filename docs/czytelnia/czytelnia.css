@@ -1,5 +1,5 @@
 /* Czytelnia archiwum uleszka.net – motywy kolorów: sepia (domyślna), jasny, ciemny, kontrast */
-[data-motyw="jasny"] {
+:root[data-motyw="jasny"] {
   color-scheme: light;
   --tlo: #f7f4ec; --tlo-grad: rgba(226, 169, 63, .08); --karta: #ffffff; --pole: #fbf9f4;
   --tekst: #1f2430; --tekst-2: #5b6271; --tresc: #1d212b; --mocny: #0f1218; --naglowek: #1a1e27; --linia: #e2dbcc;
@@ -9,7 +9,7 @@
   --czytane: rgba(226, 169, 63, .22); --tabela-glowa: #f1ebdd;
 }
 /* sepia – domyślna; :root działa także bez JavaScriptu */
-:root, [data-motyw="sepia"] {
+:root, :root[data-motyw="sepia"] {
   color-scheme: light;
   --tlo: #f2e8d5; --tlo-grad: rgba(160, 110, 40, .08); --karta: #f9f2e3; --pole: #f6edda;
   --tekst: #3b2f20; --tekst-2: #6e5d45; --tresc: #3a2e1f; --mocny: #24190d; --naglowek: #2e2316; --linia: #dccaa8;
@@ -18,7 +18,7 @@
   --h1: linear-gradient(180deg, #3b2a12, #7d4a0b 70%, #9a5f12);
   --czytane: rgba(190, 130, 40, .22); --tabela-glowa: #ead9b9;
 }
-[data-motyw="ciemny"] {
+:root[data-motyw="ciemny"] {
   color-scheme: dark;
   --tlo: #07090f; --tlo-grad: rgba(30, 48, 90, .25); --karta: #10151f; --pole: #0b0f17;
   --tekst: #ece6d8; --tekst-2: #a6adbb; --tresc: #e4ddcd; --mocny: #fbf3e0; --naglowek: #f4efe4; --linia: #222b3b;
@@ -27,7 +27,7 @@
   --h1: linear-gradient(180deg, #fff6e0, #f0c46f 60%, #b47a22);
   --czytane: rgba(232, 176, 75, .14); --tabela-glowa: #161d2b;
 }
-[data-motyw="kontrast"] {
+:root[data-motyw="kontrast"] {
   color-scheme: dark;
   --tlo: #000; --tlo-grad: transparent; --karta: #0d0d0d; --pole: #000;
   --tekst: #fff; --tekst-2: #e0e0e0; --tresc: #fff; --mocny: #fff; --naglowek: #fff; --linia: #6b6b6b;
@@ -195,9 +195,9 @@ footer { margin-top: 50px; padding: 26px 0 40px; border-top: 1px solid var(--lin
 @media print { .baner { display: none; } }
 
 /* odcinek podcastu w Spotify (odtwarzacz wczytuje się dopiero po kliknięciu) */
-.spotify { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; margin: 0 0 14px; padding: 12px; border-radius: 16px;
+.spotify, .zapowiedz-odc { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; margin: 0 0 14px; padding: 12px; border-radius: 16px;
   background: var(--karta); border: 1px solid var(--linia); box-shadow: var(--cien); }
-.spotify img { width: 64px; height: 64px; border-radius: 10px; flex: none; }
+.spotify img, .zapowiedz-odc img { width: 64px; height: 64px; border-radius: 10px; flex: none; }
 .spotify-opis { flex: 1 1 200px; display: flex; flex-direction: column; line-height: 1.35; }
 .spotify-opis span { font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--akcent); font-weight: 700; }
 .spotify-opis b { font-family: Georgia, serif; font-size: 18px; color: var(--naglowek); margin: 2px 0; }
@@ -264,3 +264,11 @@ footer { margin-top: 50px; padding: 26px 0 40px; border-top: 1px solid var(--lin
 .tresc .galeria p { margin: 0; font: 14px/1.4 system-ui, sans-serif; color: var(--tekst-2); text-align: center; }
 .tresc .galeria img { margin: 0 auto 6px; max-height: 240px; width: auto; object-fit: contain; }
 .tresc .galeria a img { display: block; margin: 0 auto 6px; }
+
+/* zapowiedź odcinka (licznik do premiery) przy artykule i plakietka podcastu na karcie w spisie */
+.zapowiedz-odc { border-style: dashed; }
+.spotify-opis b .licznik { font: inherit; letter-spacing: 0; text-transform: none; color: var(--akcent-mocny); }
+.karta-tresc .plakietka-pod { align-self: flex-start; white-space: nowrap; margin-top: 8px; padding: 3px 10px; border-radius: 999px; font-size: 12px; font-weight: 600;
+  color: var(--akcent-mocny); border: 1px solid color-mix(in srgb, var(--akcent) 45%, transparent); }
+.karta-tresc .plakietka-pod.jest { color: #0d6b33; background: rgba(29, 185, 84, .14); border-color: rgba(29, 185, 84, .45); }
+:root[data-motyw="ciemny"] .karta-tresc .plakietka-pod.jest, :root[data-motyw="kontrast"] .karta-tresc .plakietka-pod.jest { color: #5fe08e; }
