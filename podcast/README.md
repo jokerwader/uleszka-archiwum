@@ -47,6 +47,18 @@ Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zast
    (zamiast czytania głosem przeglądarki). Na stronie głównej sekcję „Posłuchaj” (`docs/index.html`, `#podcast`) zmień ręcznie.
    Odtwarzacz Spotify wczytuje się dopiero po kliknięciu, więc bez kliknięcia strona nie łączy się ze Spotify.
 
+## Harmonogram odcinków
+
+`podcast/harmonogram.json` to plan kolejnych odcinków z „Cywilizacji Bogów”: lista artykułów w kolejności,
+data pierwszego terminu (`od`), dni tygodnia (`dni_tygodnia`: 1 = poniedziałek … 7 = niedziela) i godzina (czas polski).
+Każdy artykuł dostaje kolejny termin. Na stronie widać licznik do premiery: przy artykule w czytelni, na jego karcie
+w spisie i jako „Następny odcinek” na stronie głównej. Gdy odcinek wyjdzie, dopisz go do `odcinki.json` – licznik
+zamieni się w odtwarzacz. Po każdej zmianie: `npx tsx scripts/czytelnia.ts`.
+
+- Dwa odcinki w tygodniu: `"dni_tygodnia": [2, 5]` (wtorek i piątek).
+- Opóźnienie: przesuń `od` na nowy termin – wszystkie dalsze terminy przesuną się razem z nim.
+- Inna kolejność: przestaw artykuły na liście.
+
 ## Odcinki
 
 | Nr | Odcinek | Artykuły | Znaki |

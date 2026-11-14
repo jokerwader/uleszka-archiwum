@@ -238,6 +238,11 @@
   }
   .odcinek + .odcinek { margin-top: 18px; }
   .podcast-obserwuj { margin: 22px 0 0; text-align: center; }
+  .nastepny { margin: 18px 0 0; padding: 16px 20px; border: 1px dashed rgba(232, 176, 75, .45); border-radius: 16px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; color: var(--tekst-2); font-size: 15px; }
+  .nastepny .etykieta-zr { flex-basis: 100%; }
+  .nastepny a { font: 700 19px Georgia, serif; color: #f4efe4; text-decoration: none; }
+  .nastepny a:hover { color: var(--akcent-mocny); }
+  .nastepny .ile { font-weight: 700; color: var(--akcent-mocny); }
   .odcinek img { width: 140px; height: 140px; border-radius: 14px; box-shadow: 0 10px 30px rgba(0, 0, 0, .5); display: block; }
   .odcinek h3 { margin: 4px 0 6px; font-size: 24px; }
   .odcinek p { margin: 0 0 16px; color: var(--tekst-2); }
@@ -514,6 +519,7 @@
           <p class="odcinek-linki"><a href="czytelnia/01potop-potop.html">Przeczytaj tekst ze zdjęciami →</a></p>
         </div>
       </div>
+      <p class="nastepny" id="nastepny" hidden></p>
       <p class="podcast-obserwuj"><a class="btn btn-drugi" href="https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu" target="_blank" rel="noopener">Obserwuj podcast w Spotify ↗</a></p>
     </div>
   </section>
@@ -930,6 +936,28 @@
     box.replaceChildren(f);
     box.classList.add("wczytany");
   }));
+
+  // najbliższy zaplanowany odcinek podcastu z licznikiem (harmonogram generuje scripts/czytelnia.ts)
+  (async () => {
+    try {
+      const plan = await (await fetch("czytelnia/harmonogram.json")).json();
+      const p = plan.find((x) => new Date(x.iso) > Date.now() - 36e5 * 24);
+      if (!p) return;
+      const el = document.getElementById("nastepny");
+      el.innerHTML = '<span class="etykieta-zr">Następny odcinek</span><a></a><span class="kiedy"></span><span class="ile"></span>';
+      el.querySelector("a").href = p.url;
+      el.querySelector("a").textContent = `${p.nr}. ${p.tytul}`;
+      el.querySelector(".kiedy").textContent = p.kiedy;
+      const odm = (n) => (n === 1 ? "dzień" : "dni");
+      const licz = () => {
+        const ms = new Date(p.iso) - Date.now(), min = Math.floor(ms / 6e4), d = Math.floor(min / 1440), h = Math.floor((min % 1440) / 60);
+        el.querySelector(".ile").textContent = ms <= 0 ? "· lada chwila" : d ? `· za ${d} ${odm(d)}${h ? ` ${h} godz.` : ""}` : h ? `· za ${h} godz. ${min % 60} min` : `· za ${Math.max(1, min)} min`;
+      };
+      licz();
+      setInterval(licz, 30000);
+      el.hidden = false;
+    } catch {}
+  })();
 
   // zakładki
   const zakladki = [...document.querySelectorAll('[role="tab"]')];

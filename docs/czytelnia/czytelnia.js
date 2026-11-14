@@ -84,6 +84,23 @@
   );
 })();
 
+// liczniki do premiery zaplanowanych odcinków podcastu (data i godzina w czasie polskim, z harmonogramu)
+(() => {
+  const el = [...document.querySelectorAll(".licznik[data-premiera]")];
+  if (!el.length) return;
+  const odm = (n, a, b, c) => (n === 1 ? a : n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20) ? b : c);
+  const tekst = (ms, krotko) => {
+    if (ms <= 0) return krotko ? "lada chwila" : "lada chwila – zajrzyj do Spotify";
+    const min = Math.floor(ms / 60000), d = Math.floor(min / 1440), h = Math.floor((min % 1440) / 60), m = min % 60;
+    if (d >= 1) return `za ${d} ${odm(d, "dzień", "dni", "dni")}${krotko || !h ? "" : ` ${h} godz.`}`;
+    if (h >= 1) return `za ${h} godz.${krotko ? "" : ` ${m} min`}`;
+    return `za ${Math.max(1, m)} min`;
+  };
+  const odswiez = () => el.forEach((e) => (e.textContent = tekst(new Date(e.dataset.premiera) - Date.now(), "krotko" in e.dataset)));
+  odswiez();
+  setInterval(odswiez, 30000);
+})();
+
 // odcinek podcastu: odtwarzacz Spotify wczytuje się dopiero po kliknięciu (wcześniej strona nie łączy się ze Spotify)
 document.addEventListener("click", (e) => {
   const b = e.target.closest?.(".spotify-graj");
