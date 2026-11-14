@@ -47,8 +47,9 @@ const spotifyHtml = (o: Odcinek) => `  <div class="spotify" data-odcinek="${esc(
 
 // harmonogram kolejnych odcinków (podcast/harmonogram.json): artykuł z listy dostaje kolejny termin w wybrane dni tygodnia;
 // przy artykule i na jego karcie w spisie pojawia się licznik do premiery (odliczany w przeglądarce, czas polski)
-type Harmonogram = { od: string; dni_tygodnia: number[]; godzina: string; pierwszy_numer: number; artykuly: string[] };
-type Premiera = { id: string; nr: number; kiedy: string; iso: string };
+// pozycja listy: id artykułu albo { "id": …, "czesci": 3 } – długi artykuł podzielony na kilka kolejnych odcinków
+type Harmonogram = { od: string; dni_tygodnia: number[]; godzina: string; pierwszy_numer: number; artykuly: (string | { id: string; czesci: number })[] };
+type Premiera = { id: string; nr: number; kiedy: string; iso: string; czesc?: number; czesci?: number };
 const MIESIACE = ["stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"];
 const DNI = ["niedziela", "poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota"];
 /** przesunięcie czasu polskiego w danym dniu, np. „+01:00” zimą i „+02:00” latem */
@@ -57,25 +58,35 @@ const przesuniecie = (dzien: Date) => {
   const [, znak, h] = t.match(/GMT([+-])(\d+)/) ?? ["", "+", "1"];
   return `${znak}${h.padStart(2, "0")}:00`;
 };
-const premiery = new Map<string, Premiera>();
+const premiery = new Map<string, Premiera[]>();
 if (existsSync("podcast/harmonogram.json")) {
   const h: Harmonogram = JSON.parse(readFileSync("podcast/harmonogram.json", "utf8"));
   const dzien = new Date(`${h.od}T12:00:00Z`);
-  h.artykuly.forEach((id, i) => {
+  let nr = h.pierwszy_numer;
+  for (const poz of h.artykuly) {
+    const { id, czesci } = typeof poz === "string" ? { id: poz, czesci: 1 } : poz;
     if (!archiwum.znajdz(id, "artykul")) throw new Error(`harmonogram.json: nie ma artykułu ${id}`);
-    while (!h.dni_tygodnia.includes(dzien.getUTCDay() || 7)) dzien.setUTCDate(dzien.getUTCDate() + 1);
-    const ymd = dzien.toISOString().slice(0, 10);
-    const kiedy = `${DNI[dzien.getUTCDay()]}, ${dzien.getUTCDate()} ${MIESIACE[dzien.getUTCMonth()]} ${dzien.getUTCFullYear()}, godz. ${h.godzina}`;
-    if (!odcinekArt.has(id)) premiery.set(id, { id, nr: h.pierwszy_numer + i, kiedy, iso: `${ymd}T${h.godzina}:00${przesuniecie(dzien)}` });
-    dzien.setUTCDate(dzien.getUTCDate() + 1);
-  });
+    for (let c = 1; c <= czesci; c++) {
+      while (!h.dni_tygodnia.includes(dzien.getUTCDay() || 7)) dzien.setUTCDate(dzien.getUTCDate() + 1);
+      const ymd = dzien.toISOString().slice(0, 10);
+      const kiedy = `${DNI[dzien.getUTCDay()]}, ${dzien.getUTCDate()} ${MIESIACE[dzien.getUTCMonth()]} ${dzien.getUTCFullYear()}, godz. ${h.godzina}`;
+      const p: Premiera = { id, nr: nr++, kiedy, iso: `${ymd}T${h.godzina}:00${przesuniecie(dzien)}`, ...(czesci > 1 ? { czesc: c, czesci } : {}) };
+      if (!odcinekArt.has(id)) premiery.set(id, [...(premiery.get(id) ?? []), p]);
+      dzien.setUTCDate(dzien.getUTCDate() + 1);
+    }
+  }
 }
-const zapowiedzHtml = (p: Premiera) => `  <div class="zapowiedz-odc">
+const nazwaCzesci = (p: Premiera) => (p.czesci ? `, część ${p.czesc} z ${p.czesci}` : "");
+const zapowiedzHtml = (lista: Premiera[]) => {
+  const p = lista[0];
+  const kolejne = lista.length > 1 ? `<small>Kolejne części: ${lista.slice(1).map((x) => `${x.czesc}. ${esc(x.kiedy.replace(/ \d{4},.*$/, ""))}`).join(" · ")}</small>` : "";
+  return `  <div class="zapowiedz-odc">
     <img src="../img/podcast.jpg" alt="" width="64" height="64">
-    <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · odcinek ${p.nr}</span><b>Premiera w podcaście: <span class="licznik" data-premiera="${p.iso}">${esc(p.kiedy)}</span></b><small>${esc(p.kiedy[0].toUpperCase() + p.kiedy.slice(1))} · czyta lektor AI, tekst bez zmian</small></div>
+    <div class="spotify-opis"><span>Podcast „Uwierz we własny rozum” · odcinek ${p.nr}${lista.length > 1 ? `–${lista[lista.length - 1].nr}` : ""}</span><b>Premiera${p.czesci ? ` części 1 z ${p.czesci}` : ""} w podcaście: <span class="licznik" data-premiera="${p.iso}">${esc(p.kiedy)}</span></b><small>${esc(p.kiedy[0].toUpperCase() + p.kiedy.slice(1))} · czyta lektor AI, tekst bez zmian</small>${kolejne}</div>
     <div class="spotify-przyciski"><a href="${PODCAST_SPOTIFY}" target="_blank" rel="noopener">Obserwuj podcast w Spotify, żeby nie przegapić ↗</a></div>
   </div>
 `;
+};
 
 marked.setOptions({ gfm: true, breaks: false });
 
@@ -286,7 +297,7 @@ const miniatura = (a: Dokument) => {
 };
 // plakietka na karcie: „w podcaście” (odcinek jest) albo licznik do premiery (odcinek zaplanowany)
 const plakietkaPodcastu = (a: Dokument) => {
-  const o = odcinekArt.get(a.id), p = premiery.get(a.id);
+  const o = odcinekArt.get(a.id), p = premiery.get(a.id)?.[0];
   if (o) return `<span class="plakietka-pod jest">🎧 w podcaście</span>`;
   if (p) return `<span class="plakietka-pod" title="${esc(p.kiedy)}">🎧 odcinek ${p.nr} <span class="licznik" data-premiera="${p.iso}" data-krotko>${esc(p.kiedy.split(",").slice(0, 2).join(","))}</span></span>`;
   return "";
@@ -369,7 +380,7 @@ writeFileSync(`${WYJSCIE}/index.html`, spis, "utf8");
 // harmonogram dla strony głównej (sekcja „Posłuchaj” pokazuje najbliższy odcinek, który jeszcze nie wyszedł)
 writeFileSync(
   `${WYJSCIE}/harmonogram.json`,
-  JSON.stringify([...premiery.values()].map((p) => ({ nr: p.nr, tytul: poId.get(p.id)!.tytul, url: `czytelnia/${plikArt(poId.get(p.id)!)}`, kiedy: p.kiedy, iso: p.iso })), null, 1) + "\n",
+  JSON.stringify([...premiery.values()].flat().sort((a, b) => a.nr - b.nr).map((p) => ({ nr: p.nr, tytul: poId.get(p.id)!.tytul + nazwaCzesci(p), url: `czytelnia/${plikArt(poId.get(p.id)!)}`, kiedy: p.kiedy, iso: p.iso })), null, 1) + "\n",
   "utf8",
 );
 

@@ -33,7 +33,7 @@ Autor przedstawia założenia całego działu. Twierdzi, że oficjalna historia 
 
 ### [Potop](../artykuly/01-cywilizacja-bogow/002-potop.md)
 
-Autor zestawia starożytne przekazy o potopie (biblijny, sumeryjski, grecki, mezoamerykańskie, Oera Linda Boek, Kronika Akakor, Indian Hopi) i dochodzi do wniosku, że potopy były co najmniej kilka, a ostatni nastąpił ok. 12,5 tys. lat temu. Odrzuca jako przyczynę zbliżenie wielkiego ciała niebieskiego i uderzenie meteorytu, a opowiada się za hipotezą Hapgooda o nagłym przesunięciu skorupy ziemskiej. Za Caseyem Wadowskim przyjmuje, że kataklizm przewidziała wysoko rozwinięta cywilizacja Bogów-Nauczycieli, która zabezpieczyła wiedzę i pomagała odbudowie. Twierdzi, że skorupa Ziemi nadal się nie ustabilizowała i kolejny kataklizm jest możliwy, a nauka tej hipotezy ignoruje.
+Autor zestawia starożytne przekazy o potopie (biblijny, sumeryjski, grecki, mezoamerykańskie, Oera Linda Boek, Kronika Akakor, Indian Hopi) i dochodzi do wniosku, że potopy były co najmniej kilka, a ostatni nastąpił ok. 12,5 tys. lat temu. Odrzuca jako przyczynę zbliżenie wielkiego ciała niebieskiego i uderzenie meteorytu, a opowiada się za hipotezą Hapgooda o nagłym przesunięciu skorupy ziemskiej. Za Caseyem Wadowskim przyjmuje, że kataklizm przewidziała wysoko rozwinięta cywilizacja Bogów-Nauczycieli, która zabezpieczyła wiedzę i pomagała w odbudowie. Twierdzi, że skorupa Ziemi nadal się nie ustabilizowała i kolejny kataklizm jest możliwy, a nauka tę hipotezę ignoruje.
 
 *Tematy:* potop, kataklizmy, wielki uskok skorupy ziemskiej, hipoteza hapgooda, bogowie-nauczyciele, arka noego, chronologia potopów, meteoryty, kalendarz majów, krytyka nauki oficjalnej  
 *Tezy:* 12 · [pełne opracowanie (JSON)](01-cywilizacja-bogow/002-potop.json)

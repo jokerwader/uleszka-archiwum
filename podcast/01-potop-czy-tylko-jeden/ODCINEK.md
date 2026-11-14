@@ -48,13 +48,13 @@ W tekście dla lektora poprawiono oczywiste literówki z oryginału (lista: `dan
 
 ## Opis odcinka (Spotify)
 
-**Tytuł:** Potop – czy tylko jeden? – Leszek Klimek
+**Tytuł:** Potop – czy tylko jeden?
 
-Autor zestawia starożytne przekazy o potopie (biblijny, sumeryjski, grecki, mezoamerykańskie, Oera Linda Boek, Kronika Akakor, Indian Hopi) i dochodzi do wniosku, że potopy były co najmniej kilka, a ostatni nastąpił ok. 12,5 tys. lat temu. Odrzuca jako przyczynę zbliżenie wielkiego ciała niebieskiego i uderzenie meteorytu, a opowiada się za hipotezą Hapgooda o nagłym przesunięciu skorupy ziemskiej. Za Caseyem Wadowskim przyjmuje, że kataklizm przewidziała wysoko rozwinięta cywilizacja Bogów-Nauczycieli, która zabezpieczyła wiedzę i pomagała odbudowie. Twierdzi, że skorupa Ziemi nadal się nie ustabilizowała i kolejny kataklizm jest możliwy, a nauka tej hipotezy ignoruje.
+Autor zestawia starożytne przekazy o potopie (biblijny, sumeryjski, grecki, mezoamerykańskie, Oera Linda Boek, Kronika Akakor, Indian Hopi) i dochodzi do wniosku, że potopy były co najmniej kilka, a ostatni nastąpił ok. 12,5 tys. lat temu. Odrzuca jako przyczynę zbliżenie wielkiego ciała niebieskiego i uderzenie meteorytu, a opowiada się za hipotezą Hapgooda o nagłym przesunięciu skorupy ziemskiej. Za Caseyem Wadowskim przyjmuje, że kataklizm przewidziała wysoko rozwinięta cywilizacja Bogów-Nauczycieli, która zabezpieczyła wiedzę i pomagała w odbudowie. Twierdzi, że skorupa Ziemi nadal się nie ustabilizowała i kolejny kataklizm jest możliwy, a nauka tę hipotezę ignoruje.
 
 Tekst Leszka Klimka ze strony uleszka.net („Uwierz we własny rozum”, 2004–2007), przeczytany bez zmian (poprawiono tylko oczywiste literówki). Czyta lektor AI (ElevenLabs). Archiwum i podcast powstały w hołdzie śp. Leszkowi Wiktorowi Klimkowi. Podcast przygotował jokerwader.
 
-Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zastępują porady lekarza.
+Teksty wyrażają poglądy autora sprzed ok. 20 lat.
 
 Pełny tekst ze zdjęciami: https://uleszka.net/czytelnia/01potop-potop.html
 Rozmowa z archiwum przez AI: https://uleszka.net
