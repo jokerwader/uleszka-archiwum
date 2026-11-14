@@ -122,7 +122,7 @@ async function planszaRozdzialu(nazwa: string, plik: string) {
 }
 async function planszaOkladki(gora: string, glowny: string, dol: string[], plik: string) {
   const okladka = await sharp("podcast/okladka.jpg").resize(720, 720).toBuffer();
-  const w = linie(glowny, 22);
+  const w = linie(glowny, 17); // 88 px Georgia bold: ok. 17 znaków mieści się w 860 px od x=1000
   const y0 = 470 - ((w.length - 1) * 88 * 1.18) / 2;
   const svg = await zSvg(`${tlo}<text x="1000" y="${y0 - 120}" font-family="Arial, sans-serif" font-weight="700" font-size="30" letter-spacing="8" fill="#e2a93f">${xml(gora.toUpperCase())}</text>
     ${tekstSvg(w, 1000, y0, 88, 'font-family="Georgia, serif" font-weight="700" fill="url(#z)"')}
