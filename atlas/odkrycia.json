@@ -6742,5 +6742,315 @@
         }
       ]
     }
+  ],
+  "carcassonne": [
+    {
+      "rok": "2014–2017",
+      "tytul": "Zbiorowy projekt badawczy: datowanie murów Cité",
+      "opis": "Międzynarodowy zespół pod kierunkiem Marie-Élise Gardel i Nicolasa Faucherre'a od 2014 r. bada konstrukcję i chronologię obwarowań Cité, korzystając ze skanowania laserowego, analizy muru, fotogrametrii i próbek zapraw. Dotychczasowe wyniki potwierdzają dwa rodzaje murów z późnego antyku i liczne elementy z odzysku. Zewnętrzny pierścień datuje się z grubsza na połowę XIII w., z podwyższeniem pod koniec stulecia, a przechylenie wież wiąże się z osiadaniem gruntu po robotach z XIII w. Daty bezwzględne (analizy radiowęglowe i zapraw) były dopiero planowane, więc część chronologii pozostaje wstępna.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Gardel, Faucherre: Carcassonne – La Cité, ADLFI, 2015",
+          "url": "https://journals.openedition.org/adlfi/32203"
+        },
+        {
+          "nazwa": "ERAAUB, Universitat de Barcelona – Carcassonne",
+          "url": "https://www.ub.edu/ERAAUB/index.php/archaeological-sites/carcassonne"
+        }
+      ]
+    }
+  ],
+  "mont-saint-michel": [
+    {
+      "rok": "2005–2015",
+      "tytul": "Przywrócenie wyspiarskiego charakteru: nowy jaz na Couesnon",
+      "opis": "Francuski rząd i region zrealizowały projekt rozpoczęty studiami w 1995 r.: rozebrano groblę, zastąpiono ją mostem na palach, zlikwidowano parkingi i zbudowano nowy, ośmiobramowy jaz na Couesnon. Jaz gromadzi wodę przy przypływie i wypuszcza ją przy odpływie, by wypłukiwać osady spod Mont. Bez interwencji prognozowano, że do ok. 2040 r. skała będzie otoczona łąkami słonymi. Pierwsze efekty to powrót wody pod mury podczas największych pływów (współczynnik powyżej 110), czego nie widziano od ponad 130 lat, lecz publicznie dostępne relacje nie podają jeszcze liczbowego bilansu odmulenia.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "France.fr, 2015",
+          "url": "https://www.france.fr/fr/article/mont-saint-michel-redevient-ile/"
+        },
+        {
+          "nazwa": "Euronews, 2019",
+          "url": "https://www.euronews.com/2019/05/16/mont-saint-michel-reclaims-island-like-character-after-years-of-major-construction"
+        }
+      ]
+    },
+    {
+      "rok": "2007–2008",
+      "tytul": "Datowanie fizyczne najstarszego kościoła na Mont-Saint-Michel",
+      "opis": "Zespoły z Bordeaux i Lyonu (Blain, Guibert, Sapin i in.) datowały metodą termoluminescencji cegły z kościoła Notre-Dame-sous-Terre, a w programie CNRS dołączono radiowęgiel i datowanie magnetyczne zapraw i węgli. Z 14 cegieł z ośmiu murów wyszedł przedział 900±80 do 1020±60 r. n.e., czyli X w., w dwóch kolejnych fazach budowy. Wynik pasuje do przekazu o budowie kościółka za opata Maynarda (965–991) i nie wskazuje na starsze pochodzenie samej budowli.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Blain i in., Radiation Measurements 42, 2007 (ORBi, Uniwersytet w Liège)",
+          "url": "https://orbi.uliege.be/handle/2268/140508"
+        },
+        {
+          "nazwa": "Sapin i in., Archéologie Médiévale, 2008",
+          "url": "https://library.kab.ac.ug/Record/doaj-art-af18e3d20e564989ba8ee8cb5c5c44fc/Details"
+        }
+      ],
+      "artykul": "warownie/warownie",
+      "cytat_leszka": "Sprawa może znaleźć rozwiązanie lecz tylko w przypadku przeniesienia budowy w czasy sprzed kataklizmu 12,5 tysiąca lat."
+    },
+    {
+      "rok": "2023",
+      "tytul": "Nowa chronologia budynków klasztornych: kościół do ok. 1085, Merveille 1212–1228",
+      "opis": "George Gandy w Architectural History zrekonstruował zapomniane romańskie budynki klasztorne na północ od kościoła. Kościół opactwa budowano od 1023 do ok. 1080–85 r., a słynną Merveille wzniesiono ok. 1212–1228 za opata Raoula des Îles, przebudowując istniejące wcześniej gmachy. Jest to analiza źródeł i zachowanej architektury, nie nowe datowanie fizyczne.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Gandy, Architectural History 66, 2023 (Cambridge Core)",
+          "url": "https://cambridge.org/core/services/aop-cambridge-core/content/view/6D07DBBBFF3A9CA7F3391771CC1EC871/S0066622X23000060a.pdf/identifying-and-dating-mont-saint-michels-early-monastic-buildings-c-1070-1228.pdf"
+        }
+      ]
+    }
+  ],
+  "tintagel": [
+    {
+      "rok": "2016–2017",
+      "tytul": "Wykopaliska English Heritage: wielka osada z V–VII w.",
+      "opis": "Cornwall Archaeological Unit na zlecenie English Heritage wznowił w 2016 r. badania Tintagel (pięcioletni projekt). Odsłonięto dobrze zachowane budynki z kamiennymi murami, łupkowymi posadzkami i schodami, a wśród znalezisk setki fragmentów importowanej ceramiki (m.in. z Turcji, Cypru, Afryki Północnej), szkło z Hiszpanii oraz kości zwierząt i ryb. Osadę łączy się z królami Dumnonii i okresem V–VII (VIII) w.; oszacowanie ok. 100 budynków jest projekcją, bo większość stanowiska nie jest wykopana.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "English Heritage, 2017 – wykopaliska Tintagel",
+          "url": "https://www.english-heritage.org.uk/about-us/search-news/tintagel-archaeology-report/"
+        },
+        {
+          "nazwa": "Archaeology Magazine, 2019: A Dark Age Beacon",
+          "url": "https://www.archaeology.org/issues/323-1901/features/7195-a-dark-age-beacon"
+        }
+      ]
+    },
+    {
+      "rok": "2018",
+      "tytul": "Łupkowa płyta z napisami z VII w. (drugi napis z Tintagel)",
+      "opis": "Podczas wykopalisk w 2017 r. w jednym z budynków znaleziono łupkową płytę, użytą wtórnie jako parapet, z łacińskimi i greckimi literami, symbolami chrześcijańskimi i imionami Tito oraz Budic. Paleograf Michelle Brown datowała pismo na 600–700 r. n.e.; wygląda na ćwiczenia pisarza. To druga taka inskrypcja po kamieniu z imieniem ARTOGNOU (1998), którego podobieństwo do „Artura” eksperci uznają za nieistotne. Znalezisko świadczy o piśmienności elit, nie o historycznym Arturze.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Sci-News, 2018",
+          "url": "https://www.sci.news/archaeology/seventh-century-inscribed-stone-tintagel-castle-06108.html"
+        },
+        {
+          "nazwa": "English Heritage, 2018",
+          "url": "https://www.english-heritage.org.uk/about-us/search-news/tintagel-archaeology"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "Zamek Tintagel jest łączony z legendarnym królem Arturem i rycerzami okrągłego stołu."
+    }
+  ],
+  "safita": [
+    {
+      "rok": "2015",
+      "tytul": "Wieża templariuszy w Saficie pęknięta przez trzęsienie ziemi z 1202 roku",
+      "opis": "Miklós Kázmér (Uniwersytet Eötvösa) i Balázs Major opisali w Comptes Rendus Géoscience uszkodzenia donżonu w Saficie: pęknięcia grubych murów, przesunięcie ścian północnej i południowej w przeciwne strony oraz osunięte zworniki gotyckich łuków. Uszkodzenia przypisują trzęsieniu ziemi z 1202 roku, głównie na podstawie pośrednich dowodów, m.in. listu mistrza templariuszy o popękanej wieży i naprawach do 1212 roku. Oszacowali minimalną intensywność na IX; budowlę nazwali wyjątkowo wytrzymałą, więc do takich zniszczeń potrzeba było bardzo silnych wstrząsów. Datowanie osuniętych skał w pobliskich opuszczonych wioskach jest tylko przybliżone.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Kázmér i Major, Comptes Rendus Géoscience 347(4), 2015",
+          "url": "https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.1016/j.crte.2015.06.011/"
+        },
+        {
+          "nazwa": "Katalog trzęsień ziemi Morza Martwego (opracowanie danych archeosejsmicznych)",
+          "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/Sites/Archaeo/ChastelBlanc.html"
+        }
+      ],
+      "artykul": "warownie/warownie",
+      "cytat_leszka": "Zastanówmy się też nad technicznym rozwiązaniem budowy łuków z potężnych kamiennych elementów w przyziemiach zamków Azrak, Safita czy zamku Saladyna."
+    }
+  ],
+  "belvoir": [
+    {
+      "rok": "2013–2016",
+      "tytul": "Francusko-izraelskie badania zamku szpitalników: nowy plan i rozebrana kaplica",
+      "opis": "W latach 2013–2016 francusko-izraelski zespół (m.in. Anne Baud i Jean-Michel Poisson, Uniwersytet Lyon 2) wykonał nowy plan zamku, analizę architektury zamku wewnętrznego i niemal kompletne badanie rzeźbionych fragmentów kamienia. Wykazały one, że kaplica szpitalników została rozebrana w nieustalonym czasie. Wykopaliska w dziedzińcu wewnętrznym mają dotyczyć też budynku wcześniejszego niż główna zabudowa, sprzed ok. 1160 roku, co dotyczy sporu o datę powstania warowni. Wstępne podsumowanie opublikowano w 2023 roku w czasopiśmie Medievalista; pełna monografia była dopiero zapowiadana.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Baud i Poisson, Wstęp, Medievalista 33, 2023",
+          "url": "https://journals.openedition.org/medievalista/6236"
+        },
+        {
+          "nazwa": "Medievalists.net, 2017 (zbiórka na dalsze badania)",
+          "url": "https://www.medievalists.net/2017/04/crowdfunding-campaign-crusader-castle/"
+        }
+      ],
+      "artykul": "warownie/warownie",
+      "cytat_leszka": "Forteca wzniesiona przez króla Jerozolimy Fulka Andegaweńskiego w roku 1140, a inni zaś twierdzą, że zamek wybudowali bracia zakonni, którzy ukończyli go w roku 1168."
+    }
+  ],
+  "alhambra": [
+    {
+      "rok": "2002–2012",
+      "tytul": "Konserwacja Fontanny Lwów i wykopaliska na Dziedzińcu Lwów",
+      "opis": "Patronat Alhambry i Generalife (z dwoma instytutami dziedzictwa, zespołami uniwersyteckimi i specjalistami) prowadził od 2002 roku badania i konserwację Fontanny Lwów. Lwy zdjęto w 2007 roku, oczyszczono z grubych osadów kalcytu, naprawiono pęknięcia i usunięto betonowe oraz metalowe dodatki, a misę fontanny odnawiano na miejscu. W 2011 roku, przy przebudowie obiegu wody, przeprowadzono pierwsze tu wykopaliska metodą archeologiczną, które potwierdziły ślady zabudowy starszej niż Pałac Lwów. Dziedziniec otwarto ponownie 31 lipca 2012 roku; koszt całości to ok. 2,2 mln euro.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Patronato de la Alhambra y Generalife, 2012",
+          "url": "https://www.alhambra-patronato.es/en?p=26480"
+        },
+        {
+          "nazwa": "Patronato de la Alhambra y Generalife, komunikat o kursie, 2012",
+          "url": "https://www.alhambra-patronato.es/en/notas-prensa/the-alhambra-will-reveal-new-details-on-the-restoration-of-the-patio-de-los-leones"
+        }
+      ]
+    },
+    {
+      "rok": "2008",
+      "tytul": "Odcinek Acequia Real odsłonięty na Promenadzie Cyprysów",
+      "opis": "Podczas prac konserwatorskich na Paseo de los Cipreses służby Patronatu Alhambry odsłoniły fragment Acequia Real, królewskiego kanału doprowadzającego wodę z rzeki Darro (ok. 6 km). Odcinek ma ok. 1,5 m głębokości i ograniczają go dwa równoległe mury zaprawowe. Znalezisko pozwoliło lepiej odtworzyć budowę systemu wodnego i jego późniejsze przeróbki po chrześcijańskim podboju (podziemny kanał, ceglane przykrycie z XX w.). Kanał przypisuje się Muhammadowi I, w XIII wieku.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Patronato de la Alhambra y Generalife, komunikat z 29.08.2008",
+          "url": "https://www.alhambra-patronato.es/?p=25859"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "ALHAMAT: radiowęglowe datowanie murów Alcazaby i zamków Nasrydów",
+      "opis": "Zespół badaczy z Granady, Huelvy i innych ośrodków (Cardell, García-Contreras i in.) opublikował w „Antiquity” wstępne wyniki projektu ALHAMAT: analizę murów z ubijanej gliny (tapial) połączoną z datowaniem radiowęglowym materii organicznej w murach (Sewilla, Narodowe Centrum Akceleratorów). Wstępne daty (n = 19) sugerują, że Alcazaba, uznawana za dzieło epoki Zirydów (XI w.), może pochodzić z czasów almohadzkich (XII–XIII w.). Z dziesięciu fortec na granicy emiratu bezwzględne daty istnieją tylko dla czterech. Autorzy zaznaczają, że wyniki są wstępne.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Cardell i in., Antiquity 99(404), 2025",
+          "url": "https://www.cambridge.org/core/journals/antiquity/article/alhamat-analysing-materiality-of-the-alhambra-to-elucidate-the-nasrid-dynastys-power-in-the-emirate-of-granada/393BE0A44E585B184601EAD9707B808F"
+        }
+      ],
+      "artykul": "warownie/warownie",
+      "cytat_leszka": "Dlaczego taka cegła wyziera z murów Alhambry, zbudowanej rzekomo przez Arabów dopiero w XIII w.?"
+    }
+  ],
+  "obidos": [
+    {
+      "rok": "2022",
+      "tytul": "Studium akweduktu w Óbidos: stan i plan odbudowy",
+      "opis": "Służba Archeologii gminy Óbidos opracowała w 2022 roku inwentaryzację akweduktu z Usseiry, łącząc dokumentację fotograficzną, analizę źródeł i map oraz sondaże archeologiczne; firma NCREP wykonała wstępną inspekcję konstrukcji. Akwedukt, zamówiony w 1573 roku przez królową Katarzynę Austriaczkę (ukończony ok. 1601), od ok. 80 lat nie był konserwowany, a odcinek przy Usseirze jest zniszczony. Studium zaleca etapową odbudowę (szacunkowo 4,8 mln euro). To dokumentacja nowożytnej budowli, nie badanie średniowiecznego zamku.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Câmara Municipal de Óbidos, 2022",
+          "url": "https://www.cm-obidos.pt/viver/comunicacao-noticias/noticia-51/municipio-apresenta-estudo-para-reparacao-do-aqueduto-de-obidos"
+        },
+        {
+          "nazwa": "Gazeta das Caldas, 2022",
+          "url": "https://gazetadascaldas.pt/sociedade/camara-de-obidos-apresenta-estudo-para-reabilitacao-do-aqueduto/"
+        }
+      ]
+    }
+  ],
+  "sardes": [
+    {
+      "rok": "2010–2018",
+      "tytul": "Ślady perskiego zdobycia Sardes w 547 r. p.n.e.: spalone mury i szkielety żołnierzy",
+      "opis": "Archeolodzy z ekspedycji Archaeological Exploration of Sardis (Harvard i Cornell, od 2008 r. pod kierunkiem Nicholasa Cahilla) opisali warstwę zniszczenia z czasów podboju miasta przez Persów. Lidyjski mur obronny został spalony, a wkrótce potem rozebrany; fragment ściany z cegły mułowej uległ wręcz zeszkleniu od ognia. Przy bramie znaleziono 136 grotów strzał, a w gruzach dwóch młodych mężczyzn z ranami od broni, porzuconych bez pochówku. Nowsze wykopy na wzgórzu pałacowym (raport z 2018 r.) wiążą z tym samym wydarzeniem ślady szczątków ludzkich z lat 2011–2013 i zakończenie użytkowania lidyjskich budynków. Sama data 547 r. p.n.e. opiera się na Kronice Nabonida, której odczyt bywa dyskutowany, a część źródeł podaje 546.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Sardis Expedition, N. Cahill: The Persian Sack of Sardis (The Lydians and their World, 2010)",
+          "url": "https://sardisexpedition.org/en/essays/latw-cahill-persian-sack-sardis"
+        },
+        {
+          "nazwa": "Sardis Expedition, N. Cahill: raport z Kazı Sonuçları Toplantısı 2018",
+          "url": "https://sardisexpedition.org/en/essays/kst-cahill-kst-2018"
+        }
+      ]
+    },
+    {
+      "rok": "2020",
+      "tytul": "Rafineria złota w Sardes: przetapianie starych monet, nie rzecznego złota",
+      "opis": "Ekspedycja w Sardes ponownie oceniła słynny warsztat rafinacji złota i srebra w dzielnicy Pactolus North, czynny w pierwszej połowie VI w. p.n.e. Analizy naturalnego złota z okolic miasta (Cahill i in., 2020) wykazały, że złoto z rzeki Paktolos prawie nie zawiera srebra, więc zakład raczej nie oczyszczał naturalnego elektronu. Prawdopodobnie rozdzielał na czyste złoto i srebro wycofywane monety z elektronu oraz inne przedmioty; mówi o tym też związek z reformą mennictwa za Krezusa. Warsztat okazał się niewielką pracownią w dzielnicy podmiejskiej, a nie wielkim zakładem państwowym. To interpretacja badaczy ekspedycji, oparta na wykopaliskach z lat 1968–1969 i nowych analizach.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Sardis Expedition, C. Greenewalt (z dodatkiem N. Cahilla): Gold and Silver Refining (The Lydians and their World)",
+          "url": "https://sardisexpedition.org/en/essays/latw-greenewalt-gold-silver-refining"
+        },
+        {
+          "nazwa": "California Magazine (UC Berkeley Alumni): All That Glitters",
+          "url": "https://alumni.berkeley.edu/california-magazine/online/all-glitters-uncovering-sardis-ancient-city-gold/"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Pałac lidyjski z VIII w. p.n.e. pod warstwami perskimi, rzymskimi i bizantyjskimi",
+      "opis": "Zespół Nicholasa Cahilla (Uniwersytet Wisconsin–Madison) odsłonił w Sardes, około 7–8 m pod powierzchnią, mury wielkiego pałacu, których najstarsze fazy datuje na VIII, a być może IX w. p.n.e. Mury mają kilka metrów wysokości i do ok. 2 m grubości, a w warstwie zniszczenia z 547 r. p.n.e. znaleziono m.in. 30 brązowych grotów strzał, fragmenty szkieletów i dziewięć srebrnych monet. Według Cahilla obala to pogląd, że Lidyjczycy zaczęli się urbanizować dopiero w VII w. p.n.e. Wnioski opierają się na stratygrafii i relacjach prasowych o sezonie 2025; pełna publikacja naukowa jeszcze się nie ukazała, więc wymiary podawane przez media się różnią.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 21.08.2025",
+          "url": "https://archaeology.org/news/2025/08/21/2800-year-old-lydian-palace-unearthed-in-turkey/"
+        },
+        {
+          "nazwa": "Arkeonews, 15.08.2025",
+          "url": "https://arkeonews.net/archaeologists-uncover-monumental-2800-year-old-lydian-palace-in-sardis-birthplace-of-money/"
+        }
+      ],
+      "artykul": "warownie/warownie",
+      "cytat_leszka": "Krezus to przecież historia na długo przed powstaniem imperium."
+    }
+  ],
+  "akka": [
+    {
+      "rok": "2017",
+      "tytul": "Krzyżowy wrak ze złotymi florenami w porcie Akki",
+      "opis": "Archeolodzy morscy z Uniwersytetu w Hajfie (Michal Artzy i Ehud Galili) zbadali wrak średniowiecznego statku w porcie Akki, uszkodzony podczas pogłębiania współczesnego portu. Z kadłuba zachowały się m.in. kil i poszycie; w ładunku były ceramika z południowej Italii, Syrii i Cypru, kotwice oraz 30 złotych florenów bitych we Florencji od 1252 r. Datowanie radiowęglowe drewna wskazuje na lata ok. 1062–1250, a monety na drugą połowę XIII w. Powiązanie wraku z ucieczką morzem podczas upadku Akki w 1291 r. jest tylko hipotezą.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "The New Historian, 14.03.2017",
+          "url": "https://www.newhistorian.com/2017/03/14/crusader-shipwreck-discovered-off-israels-coast/?amp=1"
+        },
+        {
+          "nazwa": "Mental Floss, 2017",
+          "url": "https://www.mentalfloss.com/article/93576/crusader-era-shipwreck-discovered-israeli-coast"
+        }
+      ]
+    },
+    {
+      "rok": "2024",
+      "tytul": "Ołowiana ampułka pielgrzymia z podwodnych wykopalisk w porcie Akki",
+      "opis": "Zespół Izraelskiej Służby Starożytności (IAA) z Uniwersytetem Rhode Island opublikował w Atiqot (t. 116, 2024) odlaną w formie ołowianą ampułkę pielgrzyma, wydobytą w czasie podwodnych wykopalisk w porcie. Jedna strona ma żeberkowanie przypominające muszlę, druga czterolistny kwiat; autorzy uważają, że mogła powstać lokalnie w Akce. Przedmiot datowany jest na schyłek XIII w., tuż przed zdobyciem miasta przez Mameluków w 1291 r. Jak trafił na dno, nie wiadomo.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Atiqot 116 (2024), strona publikacji na Uniwersytecie w Hajfie",
+          "url": "https://cris.haifa.ac.il/en/publications/a-lead-pilgrimage-ampulla-from-akkos-crusader-harbor-2/"
+        },
+        {
+          "nazwa": "Jerusalem Post",
+          "url": "https://jpost.com/archaeology/archaeology-around-the-world/article-841275"
+        }
+      ]
+    }
+  ],
+  "zamek-w-czorsztynie": [
+    {
+      "rok": "2014–2015",
+      "tytul": "Czorsztyn: pod ruinami odkryto wał i mur, a pierwszy zamek okazał się drewniano-ziemny",
+      "opis": "Zespół z AGH w Krakowie zbadał w sierpniu 2014 r. wnętrze ruin metodą tomografii elektrooporowej (jeden profil o długości 33 m) i potwierdził, że fragment kamiennego muru biegnie pod ziemią. Wykryto też anomalie interpretowane jako resztki wałów obronnych oraz dawna piwnica, co sprawdzono w wykopach sondażowych. W tym samym roku wykopaliska odsłoniły fragment wału drewniano-ziemnego z końca XIII w., który według Narodowego Instytutu Dziedzictwa najpewniej wzniesiono z inicjatywy klasztoru klarysek ze Starego Sącza. Interpretacje geofizyczne są oparte na jednym profilu i niewielkiej liczbie sond, a wiek wału wynika z rozpoznania archeologicznego, nie z opublikowanego datowania laboratoryjnego.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "AGI (Advanced Geosciences), opis badania AGH w Czorsztynie, 2014–2015",
+          "url": "https://www.agiusa.com/node/450"
+        },
+        {
+          "nazwa": "Zabytek.pl (NID), Czorsztyn – ruiny zamku, opracowanie z 2014 r.",
+          "url": "https://zabytek.pl/en/obiekty/czorsztyn-ruiny-zamku"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Wprowadzenie stylów budowy do dzielenia historii na mniejsze jednostki czasu wprowadziło wiele zamieszania w datowaniu obiektów."
+    }
   ]
 }
