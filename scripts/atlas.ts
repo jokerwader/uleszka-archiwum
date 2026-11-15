@@ -94,7 +94,7 @@ ${o.mapa ? `<link rel="stylesheet" href="${LEAFLET}leaflet.css" crossorigin="">\
 `;
 const stopka = (skrypty: string) => `<footer><div class="wrap-sz">
   <p>Teksty i zdjęcia z artykułów: Leszek Klimek, uleszka.net (ok. 2004–2007). Współczesne zdjęcia: Wikimedia Commons (autor i licencja przy każdym zdjęciu).
-  Wstępy w części „Co mówią dziś badania”: Wikipedia (CC BY-SA 4.0). Położenie i opisy miejsc: Wikidata. Mapa: © autorzy OpenStreetMap.
+  Wstępy w części „Co wiadomo dziś”: Wikipedia (CC BY-SA 4.0). Położenie i opisy miejsc: Wikidata. Mapa: © autorzy OpenStreetMap.
   Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${zgloszenie()}">zgłoś miejsce lub poprawkę</a></p>
 </div></footer>
 <dialog class="podglad" id="podglad"><form method="dialog"><button class="zamknij" aria-label="Zamknij">✕</button></form><img alt=""><p></p></dialog>
@@ -106,7 +106,8 @@ ${skrypty}<script src="../menu.js" defer></script>
 
 const chip = (r: string) => `<span class="chip r-${r}">${esc(rodzaje[r] ?? r)}</span>`;
 
-// ---------- „Co odkryto od czasów Leszka” (atlas/odkrycia.json; instrukcja: atlas/ODKRYCIA.md) ----------
+// ---------- „Najnowsze badania” (atlas/odkrycia.json; instrukcja: atlas/ODKRYCIA.md) ----------
+const POKAZ = Number(process.env.ATLAS_POKAZ ?? 6); // ile badań i artykułów widać od razu; resztę rozwija przycisk „Pokaż wszystkie”
 type Odkrycie = { rok: string; tytul: string; opis: string; pewnosc?: string; zrodla: { nazwa: string; url: string }[]; artykul?: string; cytat_leszka?: string };
 const odkrycia: Record<string, Odkrycie[]> = existsSync("atlas/odkrycia.json") ? JSON.parse(readFileSync("atlas/odkrycia.json", "utf8")) : {};
 const zlozone = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ł/g, "l").replace(/[^a-z0-9]+/g, " ").trim();
@@ -150,18 +151,31 @@ for (const m of miejsca) {
   const tlo = glowne?.duze ?? (m.zdjeciaLeszka[0] ? rawUrl(m.zdjeciaLeszka[0].sciezka) : "");
   const pod = podcastMiejsca(m);
   const blisko = miejsca.filter((x) => x !== m).map((x) => ({ x, km: odleglosc(m, x) })).sort((a, b) => a.km - b.km).slice(0, 4);
-  const opis = `${m.nazwa} w tekstach Leszka Klimka (uleszka.net): ${m.artykuly.length} ${odm(m.artykuly.length, ART)}, zdjęcia, nowe odkrycia, mapa i to, co mówią dziś badania.`;
+  const opis = `${m.nazwa} w tekstach Leszka Klimka (uleszka.net): ${m.artykuly.length} ${odm(m.artykuly.length, ART)}, zdjęcia, najnowsze badania, mapa i to, co wiadomo dziś.`;
   const powstanie = kiedyPowstalo(m.powstanie);
   const lista = odkrycia[m.slug] ?? [];
+  // najnowsze badania od najnowszych; „2014–2016” obejmuje każdy z tych lat w kalendarzu
+  const badania = lista.map((o) => {
+    const r = (o.rok.match(/\d{4}/g) ?? []).map(Number);
+    const lata = r.length >= 2 ? Array.from({ length: Math.max(1, r[r.length - 1] - r[0] + 1) }, (_, i) => r[0] + i) : r;
+    return { o, lata, od: r[0] ?? 0, do: r[r.length - 1] ?? 0 };
+  }).sort((a, b) => b.do - a.do || b.od - a.od);
+  const ileWRoku = new Map<number, number>();
+  for (const b of badania) for (const r of b.lata) ileWRoku.set(r, (ileWRoku.get(r) ?? 0) + 1);
+  const wszystkieLata = [...ileWRoku.keys()];
+  const lataBadan: [number, number][] = wszystkieLata.length
+    ? Array.from({ length: Math.max(...wszystkieLata) - Math.min(...wszystkieLata) + 1 }, (_, i) => Math.min(...wszystkieLata) + i).map((r) => [r, ileWRoku.get(r) ?? 0])
+    : [];
+  const maxRok = Math.max(1, ...lataBadan.map(([, n]) => n));
   const kaf = kafelki(m, glowne);
   const grupy = (["zblizenia", "widoki", "leszek"] as const).filter((g) => kaf.some((k) => k.grupa === g));
   // najmocniejszy cytat Leszka o tym miejscu jako motto karty
   const motto = m.cytaty.find((c) => c.cytat.length >= 60 && c.cytat.length <= 320) ?? m.cytaty[0];
 
-  const leszek = m.artykuly.map((id) => {
+  const leszek = m.artykuly.map((id, i) => {
     const a = art(id), o = archiwum.opracowania.get(id);
     const cyt = m.cytaty.filter((c) => c.artykul === id && c !== motto).slice(0, 1);
-    return `<li class="art-karta">
+    return `<li class="art-karta${i >= POKAZ ? " dalsze" : ""}">
           <a class="tytul-art" href="${urlArt(id)}">${esc(a.tytul)}</a><span class="dzial">${esc(a.dzial)}</span>
           ${o?.streszczenie ? `<p>${esc(skroc(o.streszczenie, 260))}</p>` : ""}
           ${cyt.map((c) => `<blockquote>„${esc(c.cytat)}”</blockquote>`).join("")}
@@ -183,7 +197,7 @@ for (const m of miejsca) {
 
   <div class="fakty-pasek"><div class="wrap-atlas">
     <span><b>${m.artykuly.length}</b> ${odm(m.artykuly.length, ART)} Leszka</span>
-    ${lista.length ? `<span><b>${lista.length}</b> ${odm(lista.length, ["odkrycie", "odkrycia", "odkryć"])} od jego czasów</span>` : ""}
+    ${lista.length ? `<span><b>${lista.length}</b> ${odm(lista.length, ["najnowsze badanie", "najnowsze badania", "najnowszych badań"])}</span>` : ""}
     <span><b>${kaf.length}</b> ${odm(kaf.length, ["zdjęcie", "zdjęcia", "zdjęć"])}</span>
     ${powstanie ? `<span>powstanie: <b>${powstanie}</b></span>` : ""}
     <span><a href="https://www.openstreetmap.org/?mlat=${m.lat}&amp;mlon=${m.lon}#map=14/${m.lat}/${m.lon}" rel="noopener">${m.lat.toFixed(3)}, ${m.lon.toFixed(3)}</a></span>
@@ -191,37 +205,43 @@ for (const m of miejsca) {
   </div></div>
 
   <nav class="sekcje" aria-label="Części karty"><div class="wrap-atlas">
-    <a href="#leszek">Co pisał Leszek</a>${lista.length ? `<a href="#odkrycia">Nowe odkrycia</a>` : ""}<a href="#dzis">Co mówią badania</a>${kaf.length ? `<a href="#zdjecia">Zdjęcia</a>` : ""}<a href="#mapa">Mapa</a>
+    <a href="#leszek">Co pisał Leszek</a>${lista.length ? `<a href="#badania">Najnowsze badania</a>` : ""}<a href="#dzis">Co wiadomo dziś</a>${kaf.length ? `<a href="#zdjecia">Zdjęcia</a>` : ""}<a href="#mapa">Mapa</a>
   </div></nav>
 
   <div class="wrap-atlas">
     <section id="leszek" class="sekcja">
       <p class="etykieta">Co pisał Leszek</p>
       ${motto ? `<figure class="motto"><blockquote>„${esc(motto.cytat)}”</blockquote><figcaption>Leszek Klimek, <a href="${urlArt(motto.artykul)}">„${esc(art(motto.artykul).tytul)}”</a></figcaption></figure>` : ""}
-      <ul class="artykuly-miejsca">
+      <ul class="artykuly-miejsca zwijane${m.artykuly.length > POKAZ ? "" : " rozwiniete"}">
         ${leszek}
       </ul>
+      ${m.artykuly.length > POKAZ ? `<button type="button" class="pokaz-wszystkie" data-tekst="Pokaż wszystkie artykuły (${m.artykuly.length})">Pokaż wszystkie artykuły (${m.artykuly.length})</button>` : ""}
       <p class="uwaga">Streszczenia przygotowała AI; cytaty są dosłowne, z artykułów Leszka.</p>
     </section>
 
-    ${lista.length ? `<section id="odkrycia" class="sekcja">
-      <p class="etykieta">Co odkryto od czasów Leszka</p>
-      <h2>Nowe odkrycia i badania</h2>
-      <ol class="os-odkryc">
-        ${lista.map((o) => { const c = cytatPrawdziwy(o); return `<li>
+    ${badania.length ? `<section id="badania" class="sekcja">
+      <p class="etykieta">Najnowsze badania · ${badania.length}</p>
+      ${lataBadan.length > 1 ? `<div class="kalendarz" role="group" aria-label="Kalendarz: lata badań">
+        <button type="button" class="kal-wszystkie" data-rok="" aria-pressed="true">Wszystkie</button>
+        <div class="kal-lata">${lataBadan.map(([rok, ile]) => `<button type="button" data-rok="${rok}" aria-pressed="false"${ile ? "" : " disabled"} title="${rok}: ${ile} ${odm(ile, ["badanie", "badania", "badań"])}"><span class="slupek" style="--n:${(ile / maxRok).toFixed(2)}"></span><b>${String(rok).slice(2)}</b></button>`).join("")}</div>
+      </div>` : ""}
+      <ol class="lista-badan zwijane${badania.length > POKAZ ? "" : " rozwiniete"}">
+        ${badania.map(({ o, lata }, i) => { const c = cytatPrawdziwy(o); return `<li data-lata="${lata.join(" ")}"${i >= POKAZ ? ' class="dalsze"' : ""}>
           <span class="rok">${esc(o.rok)}</span>
-          <div class="odkrycie">
+          <div class="badanie">
             <h3>${esc(o.tytul)}${o.pewnosc && PEWNOSC[o.pewnosc] ? ` <span class="pewnosc p-${slug(o.pewnosc)}">${esc(PEWNOSC[o.pewnosc])}</span>` : ""}</h3>
-            <p>${esc(o.opis)}</p>
+            <p class="opis-badania${o.opis.length > 300 ? " dlugi" : ""}">${esc(o.opis)}</p>
+            ${o.opis.length > 300 ? `<button type="button" class="wiecej">więcej</button>` : ""}
             ${c ? `<p class="nawiazanie">Leszek pytał: „${esc(c)}”${o.artykul ? ` <a href="${urlArt(o.artykul)}">(„${esc(art(o.artykul)?.tytul ?? o.artykul)}”)</a>` : ""}</p>` : ""}
             <p class="zrodla-odkrycia">${o.zrodla.map((z) => `<a href="${esc(z.url)}" rel="noopener">${esc(z.nazwa)} ↗</a>`).join("")}</p>
           </div>
         </li>`; }).join("\n        ")}
       </ol>
+      ${badania.length > POKAZ ? `<button type="button" class="pokaz-wszystkie" data-tekst="Pokaż wszystkie badania (${badania.length})">Pokaż wszystkie badania (${badania.length})</button>` : ""}
     </section>` : ""}
 
     <section id="dzis" class="sekcja dzis">
-      <p class="etykieta">Co mówią dziś badania</p>
+      <p class="etykieta">Co wiadomo dziś</p>
       ${m.wiki ? `<p class="wstep-wiki">${esc(skroc(m.wiki.wstep, 700))}</p>
       <p class="zrodlo">Wstęp z <a href="${esc(m.wiki.url)}" rel="noopener">Wikipedii${m.wiki.jezyk === "en" ? " (angielskiej)" : ""}: „${esc(m.wiki.tytul)}”</a> (CC BY-SA 4.0) · <a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Wikidata</a> · Znasz nowe odkrycie albo lepsze źródło? <a href="${zgloszenie(m)}">Zgłoś je</a>.</p>` : `<p>Brak opracowania w Wikipedii. <a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Dane w Wikidata</a>.</p>`}
     </section>

@@ -52,6 +52,34 @@
     dlg.showModal();
   });
 
+  // „Pokaż wszystkie” – rozwija zwiniętą listę (badania, artykuły) i znika
+  document.querySelectorAll(".pokaz-wszystkie").forEach((p) => p.addEventListener("click", () => {
+    p.previousElementSibling?.classList.add("rozwiniete");
+    p.hidden = true;
+  }));
+  // długi opis badania: „więcej” pokazuje cały tekst
+  document.querySelectorAll(".badanie .wiecej").forEach((w) => w.addEventListener("click", () => {
+    w.previousElementSibling.classList.add("caly");
+    w.remove();
+  }));
+  // kalendarz lat: wybrany rok pokazuje tylko jego badania (wszystkie, bez zwijania); „Wszystkie” wraca do listy
+  const kal = document.querySelector(".kalendarz");
+  if (kal) {
+    const lista = document.querySelector(".lista-badan");
+    const przycisk = lista.parentElement.querySelector(".pokaz-wszystkie");
+    const rozwinieta = lista.classList.contains("rozwiniete");
+    kal.addEventListener("click", (e) => {
+      const b = e.target.closest("button[data-rok]");
+      if (!b || b.disabled) return;
+      const rok = b.dataset.rok;
+      kal.querySelectorAll("button[data-rok]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      for (const li of lista.children) li.hidden = !!rok && !li.dataset.lata.split(" ").includes(rok);
+      if (rok) { lista.classList.add("rozwiniete"); if (przycisk) przycisk.hidden = true; }
+      else if (!rozwinieta && przycisk && przycisk.isConnected && !przycisk.dataset.uzyty) { lista.classList.remove("rozwiniete"); przycisk.hidden = false; }
+    });
+    przycisk?.addEventListener("click", () => (przycisk.dataset.uzyty = "1"));
+  }
+
   // karta miejsca: przełącznik rodzaju zdjęć
   const przyciski = [...document.querySelectorAll(".przelacznik-zdjec button")];
   przyciski.forEach((p) => p.addEventListener("click", () => {
