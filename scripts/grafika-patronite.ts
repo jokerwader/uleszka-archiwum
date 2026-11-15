@@ -129,7 +129,7 @@ for (const p of PROGI) {
     <linearGradient id="k" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e2a93f"/><stop offset="1" stop-color="#e2a93f" stop-opacity="0"/></linearGradient></defs>
     ${gw}
     <text x="250" y="210" font-family="Arial, sans-serif" font-weight="700" font-size="28" letter-spacing="9" fill="#e2a93f">JOKERWADER · PATRONITE</text>
-    <text x="244" y="312" font-family="Georgia, serif" font-weight="700" font-size="68" fill="url(#z)">Ocalam zapomniane strony</text>
+    <text x="244" y="312" font-family="Georgia, serif" font-weight="700" font-size="68" fill="url(#z)">Ocal ze mną zapomniane strony</text>
     <text x="244" y="392" font-family="Georgia, serif" font-weight="700" font-size="68" fill="url(#z)">o historii i zagadkach przeszłości</text>
     <rect x="250" y="432" width="520" height="3" fill="url(#k)"/>
     <text x="250" y="490" font-family="Georgia, serif" font-size="34" fill="#d7dbe4">Archiwa · podcast · Atlas · rozmowa z archiwum przez AI</text>
