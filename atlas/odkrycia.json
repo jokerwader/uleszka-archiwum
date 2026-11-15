@@ -7052,5 +7052,629 @@
       "artykul": "warownie/kazimierz",
       "cytat_leszka": "Wprowadzenie stylów budowy do dzielenia historii na mniejsze jednostki czasu wprowadziło wiele zamieszania w datowaniu obiektów."
     }
+  ],
+  "zamek-w-bytowie": [
+    {
+      "rok": "2023",
+      "tytul": "Zamek w Bytowie: chronologia budowy z rachunków krzyżackich i wykopalisk",
+      "opis": "Sławomir Jóźwiak (UMK w Toruniu) i Bogusz Wasik (Muzeum Zamkowe w Malborku) zestawili średniowieczne rachunki zakonu, w tym księgę skarbnika malborskiego, z wynikami wykopalisk prowadzonych na zamku od 1961 r. Według nich murowany zamek prokuratorski zaczęto wznosić najpóźniej w połowie lat 90. XIV w., a największe nakłady odnotowano w latach 1398–1402. Cztery narożne baszty wymieniają rachunki z 1399 r. Wcześniejsza siedziba prokuratora, jeszcze w 1389 r. nazywana „dworem”, nie została dotąd zlokalizowana. Datowanie opiera się na źródłach pisanych i archeologii, bez badań dendrochronologicznych.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Jóźwiak, Wasik, Zapiski Historyczne 88/4, 2023",
+          "url": "https://www.zapiskihistoryczne.pl/files/5/Vol._88_2023/ZH_88-4_01_Jozwiak_Wasik_N-min.pdf"
+        }
+      ],
+      "artykul": "warownie/kazimierz"
+    }
+  ],
+  "zamek-w-nidzicy": [
+    {
+      "rok": "2022",
+      "tytul": "Zamek w Nidzicy zbudowany w latach 1399–1409, nie wcześniej",
+      "opis": "Sławomir Jóźwiak (UMK w Toruniu) przeanalizował dokumenty, korespondencję, rachunki i spisy zapasów zakonu krzyżackiego. Wynika z nich, że ceglany zamek prokuratorski powstał w latach 1399–1409, czyli ok. 20 lat później, niż zakładali historycy sztuki. Zachodnie skrzydło ukończono w 1405 r., a w marcu 1409 r. po raz pierwszy wymieniono rezydującego tu prokuratora. Wcześniejszy gród drewniano-ziemny z lat 50. XIV w. stał w innym, nieustalonym miejscu. Datowanie opiera się na źródłach pisanych, nie na badaniach materiału budowlanego.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Jóźwiak, Zapiski Historyczne 87/3, 2022",
+          "url": "https://www.zapiskihistoryczne.pl/files/5/Vol._87_2022/ZH_87-3_01_Jozwiak_N.pdf"
+        },
+        {
+          "nazwa": "CEEOL, streszczenie artykułu",
+          "url": "https://ceeol.com/search/article-detail?id=1086565"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Bolczów - w końcu XIV wieku, Nidzica - w drugiej połowie XIII wieku, Sulejów, początkowo klasztor cystersów - w pierwszej połowie XIII wieku"
+    }
+  ],
+  "knowth": [
+    {
+      "rok": "2017",
+      "tytul": "Astronomia Knowth: równonoc czy złożony kalendarz?",
+      "opis": "Kate Prendergast (Uniwersytet Oksfordzki) na podstawie nowych pomiarów i odczytu rytów na kamieniu kręgu K52 uznała, że korytarze wschodni i zachodni Knowth nie są ustawione dokładnie na równonoc, a grobowiec mógł służyć do uzgadniania cykli słonecznych i księżycowych. Pomiary Prendergast i Raya wskazują, że zachodni korytarz łapie bezpośrednie światło zachodzącego słońca ok. 4 marca i 9 października, więc ewentualna zależność od słońca nie jest równonocna. Odczyt rytów jako kalendarza pozostaje interpretacją.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Prendergast, Journal of Lithic Studies, 2017",
+          "url": "https://journals.ed.ac.uk/lithicstudies/article/view/1921"
+        },
+        {
+          "nazwa": "knowth.com, o pomiarach Prendergast i Raya",
+          "url": "https://www.knowth.com/knowth-alignments.htm"
+        }
+      ],
+      "artykul": "zagadki/zagadki"
+    },
+    {
+      "rok": "2018",
+      "tytul": "Susza odsłania nowe monumenty w dolinie Boyne",
+      "opis": "Podczas upałów w lipcu 2018 r. historyk Anthony Murphy sfotografował z drona ślady po drewnianym henge o średnicy do ok. 200 m tuż obok Newgrange. W kolejnych dniach archeolodzy Narodowej Służby Zabytków podczas lotniczego rekonesansu zarejestrowali kolejne ślady pod uprawami na równinie zalewowej Boyne. Obiekty uznano za neolityczne, ok. 500 lat młodsze od Newgrange (ok. 3000 r. p.n.e.), ale to na razie wstępne datowanie, bez wykopalisk.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Irish Times, 2018",
+          "url": "https://www.irishtimes.com/culture/heritage/newgrange-more-unparalleled-prehistoric-sites-discovered-1.3565502"
+        }
+      ],
+      "artykul": "zagadki/zagadki",
+      "cytat_leszka": "Sam kształt widziany z góry przywodzi na myśl nasz układ słoneczny, choć główny obiekt nie jest doskonałym okręgiem, a mniejszych kopulastych obiektów naliczyc można 11 plus co najmniej 4 jakby rozkopane."
+    },
+    {
+      "rok": "2019",
+      "tytul": "Prawie 40 nowych obiektów wokół Newgrange, Knowth i Dowth",
+      "opis": "Zespół z University College Dublin pod kierunkiem Stevena Davisa, z Komisją Rzymsko-Germańską, połączył geofizykę wielkoskalową, skanowanie laserowe z powietrza, drony i teledetekcję satelitarną w ramach projektu „Boyne to Brodgar”. Wykryto prawie 40 nieznanych wcześniej obiektów, od neolitycznych domów i drewnianych kręgów po grobowce epoki brązu i wczesnośredniowieczne zagrody, w tym monument ustawiony na wschód słońca w przesilenie zimowe, kilkaset lat młodszy od Newgrange. Pełne wyniki ukazały się w 2021 r. w Proceedings of the Prehistoric Society; to prospekcja, więc datowania są przybliżone.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Phys.org (komunikat UCD), 2019",
+          "url": "https://phys.org/news/2019-08-archaeologists-monuments-newgrange.html"
+        },
+        {
+          "nazwa": "Davis i Rassmann, Proceedings of the Prehistoric Society, 2021",
+          "url": "https://cambridge.org/core/services/aop-cambridge-core/content/view/S0079497X21000062"
+        }
+      ],
+      "artykul": "zagadki/zagadki"
+    },
+    {
+      "rok": "2020",
+      "tytul": "DNA z Newgrange: dynastyczna elita doliny Boyne",
+      "opis": "Zespół Trinity College Dublin (Lara Cassidy, Daniel Bradley) zsekwencjonował 44 genomy z mezolitu i neolitu Irlandii. Mężczyzna pochowany w głównej komorze Newgrange (ok. 3000 r. p.n.e.) był dzieckiem związku pierwszego stopnia (rodzeństwo lub rodzic z dzieckiem), co autorzy łączą z dynastyczną elitą, spokrewnioną z pochowanymi w Carrowmore i Carrowkeel. Wniosek o elicie i społecznej akceptacji kazirodztwa to interpretacja jednego genomu; badanie nie obejmowało osób z Knowth, a dotyczy kontekstu całego kompleksu Brú na Bóinne.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Cassidy i in., Nature 2020 (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7116870"
+        },
+        {
+          "nazwa": "Phys.org, 2020",
+          "url": "https://phys.org/news/2020-06-first-degree-incest-ancient-genomes-uncover.html"
+        }
+      ],
+      "artykul": "zagadki/zagadki",
+      "cytat_leszka": "Czemu otrzymało godność grobu - nie wiadomo, bo jak zwykle żadnego nieboszczyka w nim nie znaleziono."
+    },
+    {
+      "rok": "2025",
+      "tytul": "Knowth w „kosmicznym kalendarzu” doliny Boyne",
+      "opis": "Joe Fenwick z University of Galway argumentuje w rozdziale księgi pamiątkowej Johna Waddella (Four Courts Press), że Newgrange, Knowth i Dowth tworzyły spójny kalendarz słoneczny: przesilenia w Newgrange, zachód w przesilenie zimowe w Dowth i „postrzegana” równonoc jesienna w Knowth. Opiera się na kierunku spiral na kamieniu wejściowym Newgrange i kamieniu K52. To odczyt sztuki megalitycznej, a nie wynik pomiarów, i stoi w sprzeczności z wcześniejszymi pomiarami korytarzy Knowth.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "University of Galway, 2025",
+          "url": "https://universityofgalway.ie/about-us/news-and-events/news-archive/2025/april/new-research-suggests-passage-tombs-of-bru-na-boinne-served-as-sophisticated-solar-observatories-.html"
+        },
+        {
+          "nazwa": "knowth.com, pomiary Prendergast i Raya",
+          "url": "https://www.knowth.com/knowth-alignments.htm"
+        }
+      ],
+      "artykul": "zagadki/zagadki"
+    }
+  ],
+  "kamienie-z-ica": [
+    {
+      "rok": "2012",
+      "tytul": "Kamienie z Ica: przyznanie się fałszerza i opinia archeologów",
+      "opis": "Opracowanie projektu Trafficking Culture (Donna Yates, University of Glasgow) opisuje kamienie z Ica jako słynną mistyfikację z pustyni Ocucaje. Rolnik Basilio Uschuya już w 1975 roku mówił Erichowi von Dänikenowi, że z żoną wykonywał ryciny na podstawie komiksów, a w 1977 roku wykonał kamień przed kamerą BBC; wtedy też został aresztowany za handel zabytkami i podpisał zeznanie, że kamienie są fałszywe. Później twierdził, że przyznał się tylko po to, by uniknąć więzienia, więc spór o jego motywy trwa. Serwis TalkOrigins dodaje, że kamieni nie da się datować, bo nie znano miejsca ich znalezienia, a przedstawione zwierzęta (np. rogate dinozaury) nigdy nie żyły w Ameryce Południowej. Nie znaleziono orzeczenia peruwiańskiego ministerstwa w tej sprawie; ocena nauki jest jednoznaczna: kolekcja Cabrery to współczesne rękodzieło.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Trafficking Culture (Univ. of Glasgow), Ocucaje Cemeteries, 2012",
+          "url": "https://traffickingculture.org/encyclopedia/case-studies/ocucaje-cemeteries/"
+        },
+        {
+          "nazwa": "TalkOrigins Archive, Claim CH710.1 (powołuje się na Polidoro, Skeptical Inquirer 2002)",
+          "url": "https://talkorigins.org/indexcc/CH/CH710_1.html"
+        }
+      ],
+      "artykul": "zagadki/zagadki",
+      "cytat_leszka": "Większość tych kamieni eksperci uznali za prawdziwe, gdyż warstwa tlenków pokrywająca kamień, pokrywa także i ryty."
+    }
+  ],
+  "uxmal": [
+    {
+      "rok": "2012",
+      "tytul": "Pałac Gubernatora zaprojektowany pod obserwacje Wenus",
+      "opis": "Anthony Aveni, archeoastronom z Colgate University, w omówieniu w „Archaeology” (listopad–grudzień 2012) przedstawia pogląd, że Pałac Gubernatora w Uxmal wytyczono z myślą o Wenus. Ze środkowych drzwi budynku widać, jak planeta ustawia się względem budowli na terenie miasta, które wyznaczają jej północną i południową skrajną pozycję na horyzoncie. Aveni sądzi, że na placu przed pałacem odprawiano rytuały Gwiazdy Porannej, wiążące władców z Kukulkanem. Wcześniejszą (1996) analizę inskrypcji nad drzwiami, odnoszącą się do Wenus i zodiaku Majów, opublikowali Harvey i Victoria Brickerowie. Jest to interpretacja archeoastronomiczna, szeroko cytowana, ale oparta na dopasowaniu orientacji, a nie na tekstach opisujących zamiar budowniczych.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology (AIA), „An Eye on Venus”, XI–XII 2012",
+          "url": "https://archaeology.org/issues/november-december-2012/collection/uxmal-venus/"
+        },
+        {
+          "nazwa": "Bricker i Bricker, Cambridge Archaeological Journal 6(2), 1996 (tło)",
+          "url": "https://cambridge.org/core/journals/cambridge-archaeological-journal/article/astronomical-references-in-the-throne-inscription-of-the-palace-of-the-governor-at-uxmal/8F8ECCEA40BEB48D3FDF7B8127080C13"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "LiDAR regionu Puuc: tysiące platform i sieć ośrodków wokół Uxmal",
+      "opis": "Zespół Williama Ringle'a i Tomása Gallarety Negrona opublikował w PLOS ONE wyniki lotniczego skanowania laserowego z 2017 roku nad 237 km² Puuc. Odnotowano ok. 7900 platform pod domy, 42 wczesne kompleksy obywatelskie i niewiele terasów rolnych, a szacunki ludności wahają się szeroko (ok. 18 700–65 500 osób). Autorzy zastrzegają, że lidar nie widzi budynków z materiałów nietrwałych, a tylko część wyników sprawdzono w terenie. Praca dotyczy okolic wielkich ośrodków takich jak Uxmal i Kabah, ale nie samego Uxmal.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Ringle i in., PLOS ONE 16(4), 2021 (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8081171/"
+        }
+      ]
+    },
+    {
+      "rok": "2022–2023",
+      "tytul": "El Palomar: podwójna stela i preklasyczny kompleks elit",
+      "opis": "INAH pod kierunkiem José Huchima Herrery ogłosił w październiku 2022 roku odkrycie steli rzeźbionej z obu stron, w zagłębionym dziedzińcu kompleksu El Palomar: po jednej stronie bogini z kecalem, po drugiej bóg w hełmie z głową sowy. W listopadzie 2023 roku otwarto dla zwiedzających tę część Uxmal, której architekturę datuje się na okres preklasyczny (ok. 500 p.n.e.–300 n.e.), wyraźnie przed rozkwitem miasta w latach ok. 600–900 n.e. Interpretacja wizerunków (życie i śmierć) pozostaje hipotezą.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology (AIA), 25 X 2022",
+          "url": "https://www.archaeology.org/news/10949-221026-uxmal-maya-stela"
+        },
+        {
+          "nazwa": "Mexico News Daily, 24 X 2022",
+          "url": "https://mexiconewsdaily.com/?p=197618"
+        },
+        {
+          "nazwa": "Mexico News Daily, 21 XI 2023",
+          "url": "https://mexiconewsdaily.com/culture/newly-unearthed-complex-at-uxmal-archaeological-site-opens-to-the-public/"
+        }
+      ]
+    }
+  ],
+  "xochicalco": [
+    {
+      "rok": "2012",
+      "tytul": "Skanowanie laserowe 3D Xochicalco przez CyArk i INAH",
+      "opis": "W maju 2012 roku fundacja CyArk wspólnie z INAH rozpoczęła w Xochicalco wieloletni program dokumentacji stanowisk UNESCO w Meksyku. Naziemnym skanerem laserowym i fotogrametrią zarejestrowano Świątynię Pierzastego Węża z reliefami, plac ze stelą i podziemne obserwatorium, którego otwór rozświetla południowe słońce w dniach przejścia zenitalnego (14–15 maja). Celem był model 3D o dokładności poniżej 1 cm.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "LIDAR Magazine, Xochicalco: Field Report, 2012",
+          "url": "https://lidarmag.com/2012/06/11/xochicalco-field-report/"
+        }
+      ]
+    },
+    {
+      "rok": "2017–2024",
+      "tytul": "Ceramiczne „dyski astronomiczne” obserwatorium",
+      "opis": "Rubén Morante López (Universidad Veracruzana) z archeologami INAH zbadał w 2017 roku fragmenty co najmniej 13 ceramicznych dysków z okolic wylotu szybu obserwatorium (10 o średnicy 54,5 cm i 3 o 29,5 cm). Próby na miejscu wykazały, że duży dysk pasuje do wylotu szybu i przesuwa o dzień daty pierwszego i ostatniego wejścia promieni; wynik to 105 dni światła i 260 dni bez niego, liczby zbieżne z kalendarzem rytualnym. Autor uważa obserwatorium (VII–VIII w.) za najdokładniejsze z badanych w Mezoameryce i proponuje, że było instrumentem do pomiaru zenitalnych przejść Słońca. To interpretacja jednego zespołu, ale oparta na pomiarach terenowych; różne opracowania podają nieco inne daty pierwszego wejścia światła.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Morante López, Cosmovisiones/Cosmovisões 5(1), 2024",
+          "url": "https://revistas.unlp.edu.ar/cosmovisiones/article/download/17011/16720/77729"
+        },
+        {
+          "nazwa": "Universidad Veracruzana, Universo, 2020",
+          "url": "https://uv.mx/prensa/?p=85033"
+        }
+      ],
+      "artykul": "ameryka/folklor",
+      "cytat_leszka": "Czy obserwatorium wybudowano tylko dla jednego zjawiska?"
+    }
+  ],
+  "naturalny-reaktor-oklo": [
+    {
+      "rok": "2015",
+      "tytul": "Oklo a stała struktury subtelnej: ostrzejsze ograniczenie",
+      "opis": "Edward Davis i Leila Hamdan (Uniwersytet Kuwejcki) przeliczyli na nowo, jak zmiana stałej struktury subtelnej α wpłynęłaby na rezonanse neutronowe samaru-150, zachowane w produktach rozszczepienia z Oklo. Uzyskali, że przez ostatnie ok. 2 mld lat α nie zmieniła się o więcej niż ok. 10⁻⁸ swojej wartości (przy założeniu o stosunku zmian masy kwarków do zmian α). Autorzy twierdzą, że to ok. dziesięć razy ostrzejszy limit niż najczęściej cytowany wcześniej; wynik zależy od przyjętych modeli jądrowych.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Davis i Hamdan, Physical Review C 92, 014319, 2015",
+          "url": "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.92.014319"
+        },
+        {
+          "nazwa": "arXiv:1503.06011 (wersja wstępna)",
+          "url": "https://arxiv.org/abs/1503.06011v1"
+        }
+      ]
+    },
+    {
+      "rok": "2018",
+      "tytul": "Rutenowe „pułapki” na cez i bar po zamknięciu reaktora",
+      "opis": "Zespół Evana Groopmana z Naval Research Laboratory (USA) i Uniwersytetu Waszyngtona w St. Louis zbadał próbkę z najaktywniejszej strefy reaktora Oklo spektrometrem obrazującym izotopy. Wykrył, że produkty rozszczepienia, cez i bar, zostały uwięzione w ziarnach metalicznego rutenu około pięciu lat po wygaśnięciu reakcji i pozostały tam przez ok. 2 mld lat, mimo późniejszej aktywności wulkanicznej. Wynik interesuje inżynierów składowisk odpadów jądrowych, ale opiera się na jednej próbce z jednego miejsca, a pięć lat to wniosek z proporcji izotopów.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "EurekAlert / PNAS, 2018 (Groopman i in.)",
+          "url": "https://www.eurekalert.org/news-releases/557192"
+        },
+        {
+          "nazwa": "Phys.org, 2018",
+          "url": "https://phys.org/news/2018-08-ancient-natural-fission-reactor-clues.amp"
+        }
+      ],
+      "artykul": "atomwoj/bogatom01",
+      "cytat_leszka": "pozostaje faktem, że ktoś czy coś w przepastnej przeszłości oddzielał izotop 235U od reszty rudy dokładnie tak, jakby chciał przeznaczyć go do celów energetycznych."
+    },
+    {
+      "rok": "2026",
+      "tytul": "Nowe pomiary izotopowe reaktorów Oklo",
+      "opis": "Międzynarodowy zespół (Hiroshi Hidaka i in., m.in. Olga Pravdivtseva i Alex Meshik) zauważa w artykule przeglądowym, że większość danych izotopowych z Oklo ma ponad 25 lat. Autorzy przedstawiają plan ponownego zbadania reaktorów nowoczesnymi spektrometrami mas (pierwiastki ziem rzadkich, hafn, gazy szlachetne), by dokładniej odtworzyć warunki pracy poszczególnych stref. To zapowiedź metod i badań, a nie nowe odkrycie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Hidaka i in., Radiation Protection Dosimetry 202(2), 2026",
+          "url": "https://academic.oup.com/rpd/article/202/2/65/8482601"
+        }
+      ]
+    }
+  ],
+  "katastrofa-tunguska": [
+    {
+      "rok": "2007–2008",
+      "tytul": "Superkomputerowe symulacje Sandia: słabsza eksplozja, niższy wybuch",
+      "opis": "Mark Boslough z Sandia National Laboratories przedstawił w grudniu 2007 trójwymiarowe symulacje wybuchu asteroidy w powietrzu, uwzględniające pęd obiektu, ukształtowanie terenu i stan lasu. Pokazały one, że kula ognia pędząca w dół wystarcza do powalenia drzew, więc energia mogła wynosić ok. 3–5 megaton, a nie 10–20, jak szacowano wcześniej. Oznacza to mniejszy obiekt, ale też częstsze takie zdarzenia. To modelowanie, nie pomiar.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Sandia National Laboratories, komunikat z 17 grudnia 2007",
+          "url": "https://newsreleases.sandia.gov/?p=102284"
+        },
+        {
+          "nazwa": "Boslough i Crawford, Int. J. Impact Engineering 35, 2008 (PDF)",
+          "url": "https://www.unm.edu/~mbeb/Publications/Boslough%20and%20Crawford%20-%202008%20-%20Low-altitude%20airbursts%20and%20the%20impact%20threat.pdf"
+        }
+      ],
+      "artykul": "atomwoj/bogatom01",
+      "cytat_leszka": "Eksplozja miała miejsce 6500 m nad tajgą, a trajektoria tajemniczego intruza przebiegała pod kątem 40° względem powierzchni Ziemi."
+    },
+    {
+      "rok": "2007–2019",
+      "tytul": "Jezioro Czeko – krater po Tunguskiej czy zwykłe jezioro?",
+      "opis": "W 2007 roku Luca Gasperini z Instytutu Nauk Morskich w Bolonii i współpracownicy, na podstawie sejsmiki, sonaru i rdzeni osadów, zaproponowali, że leżące ok. 8 km od epicentrum jezioro Czeko to krater po odłamku ciała z 1908 roku; wskazali też gęstą bryłę pod osadami. Zespół Gareta Collinsa (2008) odpowiedział, że kształt jeziora nie przypomina krateru, brak w nim materii impaktora, a pobliskie stare drzewa nie zostały uszkodzone. Włoscy autorzy w 2018 r. (preprint, bez recenzji) zaproponowali model rozpadającej się asteroidy typu „kupa gruzu”. Spór pozostaje nierozstrzygnięty; rozstrzygnąć mogłoby wiercenie w centrum jeziora.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Nature News, 2007 (relacja o pracy Gasperiniego w Terra Nova)",
+          "url": "https://www.bioedonline.org/news/nature-news-archive/crater-candidate-spotted-tunguska/"
+        },
+        {
+          "nazwa": "Collins i in., „Evidence that Lake Cheko is not an impact crater”, 2008",
+          "url": "https://cendekia.unisza.edu.my/neuaxis-e/Record/curtin-20.500.11937-26793/Description"
+        },
+        {
+          "nazwa": "Foschini, Gasperini i in., arXiv:1810.07427 (preprint)",
+          "url": "https://arxiv.org/abs/1810.07427"
+        }
+      ]
+    },
+    {
+      "rok": "2020",
+      "tytul": "Żelazna asteroida, która „otarła się” o atmosferę?",
+      "opis": "Daniil Khrennikov i współpracownicy (m.in. Syberyjski Uniwersytet Federalny) zasymulowali przelot asteroid o średnicy 50–200 m przez atmosferę na wysokości 10–15 km. Z modelu wynika, że obiekt żelazny mógłby wejść pod małym kątem, wybuchnąć i wylecieć w kosmos, tracąc część masy, co tłumaczyłoby brak krateru i szczątków; obiekt lodowy nie przetrwałby takiej drogi. Hipoteza jest sprzeczna z częścią dotychczasowej literatury i opiera się na modelach oraz nielicznych relacjach świadków.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Khrennikov i in., MNRAS 493, 2020 (arXiv:2009.14234)",
+          "url": "https://arxiv.org/abs/2009.14234"
+        },
+        {
+          "nazwa": "Astronomy.com (relacja)",
+          "url": "https://www.astronomy.com/science/tunguska-explosion-in-1908-caused-by-asteroid-grazing-earth-study-suggests/"
+        }
+      ]
+    },
+    {
+      "rok": "2022",
+      "tytul": "Jezioro Suzdalevo to nie krater po Tunguskiej",
+      "opis": "Zespół z Uniwersytetu Karola w Pradze, Uniwersytetu Masaryka i Uniwersytetu Alaski w Fairbanks zbadał rdzenie osadów jeziora Suzdalevo, o którym Ewenkowie mówili, że powstało w 1908 r. Datowanie wykazało, że osady są starsze niż katastrofa, a stosunek głębokości do średnicy jest zbyt mały jak na krater. Znaleziono jedynie niejednoznaczny ślad zaburzenia ekosystemu w okolicach 1908 r.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Kavková i in., Frontiers in Earth Science, 2022",
+          "url": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.777631/full"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Stopione ziarna i szok kwarcu w pobliżu epicentrum",
+      "opis": "Zespół Guntera Kletetschki (Uniwersytet Alaski w Fairbanks, Uniwersytet Karola) opisał z próbek z formy przypominającej krater niedaleko epicentrum mikrosferule żelaza i szkła, sferule węglowe, stopiony kwarc i kwarc z cechami szoku. Szacuje ciśnienia co najmniej 2 GPa i temperatury co najmniej 1710°C, co jego zdaniem pasuje do uderzenia odłamków w ziemię przy eksplozji w powietrzu. Autorzy przyznają, że część materiału mógł wytworzyć starszy krater lub wulkanizm.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Kletetschka i in., Airbursts and Cratering Impacts 3(1), 2025 (rejestr badań TA ČR)",
+          "url": "https://starfos.tacr.cz/vysledky-vyzkumu/RIV%2F00216208%3A11310%2F25%3A10499740"
+        },
+        {
+          "nazwa": "Zenodo: materiały uzupełniające, 2025",
+          "url": "https://zenodo.org/records/14727706"
+        }
+      ]
+    }
+  ],
+  "meteoryt-hoba": [
+    {
+      "rok": "2013",
+      "tytul": "Jak 60-tonowy blok żelaza spadł bez krateru",
+      "opis": "Martin Beech (Campion College, Uniwersytet Regina) zbudował model wejścia Hoby w atmosferę: stabilnego, nierozpadającego się ciała, lecącego pod małym kątem. Wynika z niego, że meteoryt musiał uderzyć z prędkością poniżej kilkuset m/s, a jego pierwotna masa wynosiła ok. 500 ton. Taki upadek zostawiłby płytki krater o średnicy ok. 20 m, dziś zatarty erozją (wiek ziemski Hoby szacuje się na mniej niż ok. 80 tys. lat). To wynik modelu, nie pomiaru krateru.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Beech, Earth, Moon, and Planets 111, 2013",
+          "url": "https://link.springer.com/article/10.1007/s11038-013-9421-7"
+        },
+        {
+          "nazwa": "IFLScience, 2025",
+          "url": "https://www.iflscience.com/hoba-mystery-why-didnt-the-worlds-largest-meteorite-leave-an-impact-crater-78007"
+        }
+      ],
+      "artykul": "uklad/wstep1",
+      "cytat_leszka": "Jeśli masa początkowa przekracza 1000 ton, atmosfera nie jest w stanie spowolnić jego prędkości, a sam upadek powoduje ogromne zniszczenia."
+    }
+  ],
+  "sigirija": [
+    {
+      "rok": "2018",
+      "tytul": "Skanowanie 3D fresków i konserwacja zagrożonych malowideł",
+      "opis": "Uniwersytet w Bambergu (kierownik prof. Rainer Drewello) wraz z Uniwersytetem Kelaniya, Central Cultural Fund i Departamentem Archeologii Sri Lanki rozpoczął w 2018 r. dokumentację i konserwację fresków. Malowidła są zagrożone starzeniem się środka konserwującego nałożonego ok. 35 lat wcześniej oraz ruchem turystycznym. Zespół wykonał dokładne skany 3D laserowe, a plan obejmuje też zdjęcia multispektralne, termowizję i dokumentację dronem; wyniki analiz zniszczeń nie zostały jeszcze opublikowane.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Uniwersytet w Bambergu, projekt Sigiriya Paintings",
+          "url": "https://uni-bamberg.de/en/iadk/heritage-conservation-studies/materials-and-preservation-science/research/research-projects/sigiriya-paintings"
+        },
+        {
+          "nazwa": "LiDAR News, 2018",
+          "url": "https://lidarnews.com/sigiriya-frescoes-preserved-scanning/"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Fontanny zasilane z fosy, a nie ze zbiornika",
+      "opis": "Dr Nilan Cooray, dyrektor generalny Central Cultural Fund, poinformował w październiku 2025 r., że prace konserwatorskie wyjaśniły działanie starożytnych fontann. Fosa wokół Sigiriyi leży nieco wyżej niż fontanny i w porze deszczowej napełnia ich podziemny system rur, który działa więc grawitacyjnie. Wcześniej fontanny, nieczynne pod koniec 2024 r., podejrzewano o zamulone rury. To ustalenie instytucji zarządzającej, bez publikacji naukowej; wcześniejsze opisy wskazywały na zbiornik jako źródło wody.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Newswire.lk, 3 października 2025",
+          "url": "https://www.newswire.lk/2025/10/03/new-findings-on-how-sigiriyas-ancient-fountains-work/"
+        },
+        {
+          "nazwa": "FrontPage.lk, 2025 (za Newsfirst)",
+          "url": "https://frontpage.lk/?p=254949"
+        }
+      ]
+    }
+  ],
+  "la-venta": [
+    {
+      "rok": "2020",
+      "tytul": "Aguada Fénix: kontekst dla wzrostu La Venta",
+      "opis": "Zespół Takeshiego Inomaty (University of Arizona) odkrył lidarem i wykopaliskami w Tabasco Aguada Fénix, platformę ok. 1,4 km długości, zbudowaną według 69 datowań radiowęglowych ok. 1000–800 p.n.e., czyli największą i najstarszą znaną budowlę obszaru Majów (Nature, 2020). To nie jest odkrycie w La Venta, lecz kontekst: powstała po upadku San Lorenzo, a przed wzrostem La Venta (800–400 p.n.e.), gdzie podobny układ pojawił się później. Autorzy widzą wzajemne wpływy Olmeków i Majów, a nie model „kultury matki”.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "University of Arizona, 2020 (Inomata i in., Nature)",
+          "url": "https://news.arizona.edu/news/largest-oldest-maya-monument-suggests-importance-communal-work"
+        },
+        {
+          "nazwa": "Science News, 2020",
+          "url": "https://www.sciencenews.org/article/lidar-reveals-oldest-biggest-ancient-maya-structure-found-mexico"
+        }
+      ]
+    },
+    {
+      "rok": "2022–2023",
+      "tytul": "Czy „królewskie groby” z La Venta były grobami?",
+      "opis": "Susan Gillespie i Michael Volk (University of Florida) ponownie przeanalizowali dokumentację wykopalisk Kompleksu A w La Venta i opublikowali wyniki w Ancient Mesoamerica. W kamiennych komorach prawie nie ma kości, a rozmieszczenie jadeitowych ozdób nie nosi śladów rozkładu ciała. Analiza stratygrafii kopca A-2 sugeruje, że komory zbudowano w jednej krótkiej fazie, a nie przy kolejnych pogrzebach władców. Autorzy proponują, że to „zastępcze pochówki”, w których rytualnie przywoływano nieobecne ciała; interpretacja pozostaje dyskusyjna.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Gillespie i Volk, Ancient Mesoamerica 34, 2023 (Cambridge Core)",
+          "url": "https://www.cambridge.org/core/product/BC1C7A1A21EAB2850B810A3E4D2B679E"
+        }
+      ]
+    }
+  ],
+  "vilcabamba": [
+    {
+      "rok": "2010–2011",
+      "tytul": "Grobowiec „Pana z Wari” w Espíritu Pampa",
+      "opis": "Zespół archeologa Javiera Fonseki z regionalnej dyrekcji kultury w Cusco odkrył w lipcu 2010 r. w Espíritu Pampa pochówek wysokiej rangi osoby z kultury Wari (ok. 600–1200 n.e.). W grobie były srebrny pektorał w kształcie litery Y, srebrna maska, dwie złote bransolety z wizerunkami kotów i laski obłożone srebrem. Według komentatorów to pierwszy dowód obecności Wari w niżinnej dżungli, setki lat przed Inkami. Odkrycie ogłoszono w lutym 2011 r.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Agencja Andina (Ministerstwo Kultury Peru), 2011",
+          "url": "https://andina.pe/agencia/noticia-descubren-tumba-integrante-de-nobleza-wari-el-cusco-344760.aspx"
+        },
+        {
+          "nazwa": "Dawn (AFP), 2011",
+          "url": "https://www.dawn.com/news/608795"
+        }
+      ],
+      "artykul": "ameryka/machu",
+      "cytat_leszka": "Szukał legendarnej, ostatniej stolicy Inków - Wilcabamby."
+    },
+    {
+      "rok": "2015",
+      "tytul": "Pierwsze naukowe wykopaliska w ostatnim inkaskim bastionie",
+      "opis": "Brian Bauer, Javier Fonseca Santa Cruz i Miriam Aráoz Silva wydali monografię opartą na trzech latach wykopalisk i dwóch latach badań archiwalnych w regionie Vilcabamba. Opisuje ona Vitcos i Espíritu Pampa, ośrodki inkaskiego oporu w latach 1536–1572, wykopaliska w Espíritu Pampa z lat 2008–2010 oraz daty radiowęglowe z inkaskich budowli. Wydawca (Cotsen Institute, UCLA) nazywa to pierwszymi dużymi badaniami naukowymi regionu; książka jest dostępna w otwartym dostępie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "UCLA Cotsen Institute of Archaeology Press, 2015",
+          "url": "https://ioa.ucla.edu/press/vilcabamba"
+        }
+      ],
+      "artykul": "ameryka/machu",
+      "cytat_leszka": "Szukał legendarnej, ostatniej stolicy Inków - Wilcabamby."
+    },
+    {
+      "rok": "2017",
+      "tytul": "Wari w dżungli: świątynia w kształcie litery D",
+      "opis": "Specjaliści z cuzceńskiej dyrekcji kultury pod kierunkiem Javiera Fonseki odsłonili w Espíritu Pampa mury świątyni o planie litery D, przypisywanej kulturze Wari. W kontekstach przy płytach znaleziono ceramikę w stylu Wari, srebrny pektorał i srebrną koronę, a w pobliskich budowlach inkaskich szpile tupu. Archeolodzy dopuszczają funkcję obserwatorium astronomicznego lub miejsca rytuałów, lecz to tylko przypuszczenie. Informacja pochodzi z komunikatu agencji państwowej.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Agencja Andina, 14 grudnia 2017",
+          "url": "https://andina.pe/ingles/noticia-cusco-hallan-muros-y-observatorio-astronomico-origen-wari-espiritu-pampa-692887.aspx"
+        }
+      ]
+    }
+  ],
+  "bosniackie-piramidy-visoko": [
+    {
+      "rok": "2008",
+      "tytul": "Geolodzy z Tuzli: „płyty” to naturalny piaskowiec i zlepieniec",
+      "opis": "Zespół geologów z Uniwersytetu w Tuzli pod kierunkiem Sejfudina Vrabaca zbadał rzekome „ułożone przez człowieka” płyty i stwierdził, że to piaskowiec i zlepieniec. Geolodzy z USA i Europy tłumaczą kształt czterech wzgórz naturalnym wypiętrzeniem tektonicznym, a płaskie płyty – pozostałością osadów dawnego jeziora sprzed ok. 7 mln lat. Prezes Europejskiego Stowarzyszenia Archeologów Anthony Harding nazwał projekt „okrutną mistyfikacją”, a grupa uczonych napisała w tej sprawie do władz Bośni i do ONZ. Semir Osmanagić, który nie jest archeologiem, utrzymuje, że bloki to sztuczny beton; środowisko naukowe tej tezy nie przyjmuje.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Discover Magazine, 2008 (J. Bohannon)",
+          "url": "https://discovermagazine.com/planet-earth/the-man-who-went-up-a-hill-and-came-down-a-pyramid"
+        }
+      ],
+      "artykul": "visoko/piramida",
+      "cytat_leszka": "Po przestudiowaniu północnej strony piramidy, Barakat stwierdził, że bloki skalne zostały wykonane przez człowieka i zawierają antyczny rodzaj betonu."
+    },
+    {
+      "rok": "2017",
+      "tytul": "Dekadę później: nauka wciąż mówi „naturalne”, a Visoko żyje z turystów",
+      "opis": "Radio Wolna Europa opisało stan sporu po dziesięciu latach: Semir Osmanagić twierdzi już, że wzgórza koło Visoko to zamaskowane piramidy i tunele sprzed ok. 30 tys. lat, a próbki mają zawierać „beton” lepszy od współczesnego. Europejskie Stowarzyszenie Archeologów nadal uznaje teorię za nieopartą na rzetelnej nauce, a amerykański archeolog Carl Fegan przypomina, że w tych wzgórzach istnieją prawdziwe stanowiska średniowieczne i rzymskie, a znaleziska bez dokumentacji niczego nie dowodzą. Projekt przyciągnął za to tłumy turystów i wolontariuszy.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Radio Free Europe/Radio Liberty, 2017",
+          "url": "https://www.rferl.org/a/bosnia-visoko-pyramids-osmanagic-economy-hoax/28725843.html"
+        }
+      ],
+      "artykul": "visoko/piramida",
+      "cytat_leszka": "Wieku piramid Osmanagić nie określa, ale nie wyklucza iż mogą liczyc około 12 tysięcy lat."
+    }
+  ],
+  "hattusa": [
+    {
+      "rok": "2022–2023",
+      "tytul": "249 hieroglifów w tunelu Yerkapı: podpis budowniczego?",
+      "opis": "Latem 2022 roku ekipa Niemieckiego Instytutu Archeologicznego pod kierunkiem Andreasa Schachnera zauważyła w tunelu Yerkapı pod murami Hattusy 249 znaków hieroglificznych wymalowanych czerwoną farbą roślinną, datowanych przypuszczalnie na koniec XV w. p.n.e. W 2023 roku doniesiono, że znaki da się odczytać częściowo – pięć z sześciu grup – jako podpis budowniczego i wzmiankę o drodze do świętej „Góry Tudhalijasa”. Interpretacja jest wstępna, a w źródłach nie ma wzmianki o pełnej publikacji naukowej.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "The History Blog, 2023 (na podstawie Arkeonews)",
+          "url": "https://www.thehistoryblog.com/archives/68498"
+        },
+        {
+          "nazwa": "Centrum Badań Kultur Rękopiśmiennych, Uniwersytet Hamburski, 2022",
+          "url": "https://www.csmc.uni-hamburg.de/publications/mesopotamia/2022-09-26.html"
+        }
+      ]
+    },
+    {
+      "rok": "2023",
+      "tytul": "Susza z lat 1198–1196 p.n.e. u schyłku imperium Hetytów",
+      "opis": "Zespół Sturta Manninga (Cornell University) zbadał ponad 1500 słojów z 18 pni jałowca z kurhanu Midasa w Gordionie, ok. 230 km od Hattusy. Szerokość słojów i izotopy węgla wskazują na ogólne osuszenie klimatu pod koniec XIII w. p.n.e. i na szczególnie ciężką, trzyletnią suszę w latach 1198–1196 p.n.e. (±3 lata), zbieżną z upadkiem imperium. Autorzy traktują ją jako czynnik przyspieszający, a nie jedyną przyczynę; dane pochodzą z jednego stanowiska, a inne hipotezy (wojny, epidemie, Ludy Morza) pozostają w grze.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "ScienceDaily, 2023 (Manning i in., Nature)",
+          "url": "https://sciencedaily.com/releases/2023/02/230208124227.htm"
+        },
+        {
+          "nazwa": "Eos (AGU), 2023",
+          "url": "https://eos.org/articles/tree-rings-hint-at-the-fall-of-the-hittite-empire"
+        }
+      ]
+    },
+    {
+      "rok": "2023",
+      "tytul": "Nieznany język indoeuropejski – „język Kalaszmy” – na tabliczce z Hattusy",
+      "opis": "W 2023 roku wykopaliska pod kierunkiem Andreasa Schachnera (DAI) dały fragment hetyckiego tekstu rytualnego z recytacją w nieznanym dotąd języku, który pisarze nazwali językiem krainy Kalašma, leżącej prawdopodobnie w okolicach Bolu lub Gerede. Daniel Schwemer (Würzburg) i Elisabeth Rieken (Marburg) uznają, że to język anatolijski, bliższy luwijskiemu niż palaickiemu. Tekst jest na razie w większości niezrozumiały, a jego pokrewieństwo wymaga dalszych badań.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Uniwersytet w Würzburgu, 21.09.2023",
+          "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/new-indo-european-language-discovered"
+        },
+        {
+          "nazwa": "Daily Sabah / Anadolu, 2023",
+          "url": "https://dailysabah.com/life/history/turkiye-tablet-dig-uncovers-mystery-language-clues"
+        }
+      ]
+    }
+  ],
+  "babilon": [
+    {
+      "rok": "2008–2022",
+      "tytul": "Konserwacja Bramy Isztar i program „Future of Babylon”",
+      "opis": "Od 2008 roku World Monuments Fund wspólnie z irackim Państwowym Zarządem Starożytności i Dziedzictwa dokumentuje Babilon (skanowanie laserowe, plany, monitoring) i chroni jego zabytki. Głównym zagrożeniem dla Bramy Isztar jest woda: zmiany poziomu wód gruntowych i betonowe cegły z rekonstrukcji z czasów Saddama Husajna, które chłoną wilgoć, ale jej nie oddają. W 2022 roku trwała naprawa bramy ręcznie formowanymi cegłami z warsztatów w Borsippie, drenaż i prace przy świątyni Ninmach, a zakończenie zapowiadano na lato 2022.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "The Art Newspaper, 2022",
+          "url": "http://www.theartnewspaper.com/2022/03/24/babylon-is-coming-back-to-life-with-its-famed-ishtar-gate-to-be-restored-by-this-summer"
+        },
+        {
+          "nazwa": "Culture in Crisis, projekt konserwacji Bramy Isztar",
+          "url": "https://cultureincrisis.org/projects/conservation-of-the-ishtar-gate-part-of-the-future-of-babylon-project"
+        }
+      ]
+    },
+    {
+      "rok": "2016",
+      "tytul": "Babilończycy liczyli ruch Jowisza geometrią trapezów",
+      "opis": "Mathieu Ossendrijver (Uniwersytet Humboldtów w Berlinie) po latach pracy odczytał cztery tabliczki klinowe z British Museum, datowane mniej więcej na 350–50 p.n.e. i prawdopodobnie pochodzące z Babilonu. Wynika z nich, że astronomowie obliczali przemieszczenie Jowisza jako pole trapezu pod wykresem prędkości w czasie, co wcześniej przypisywano dopiero europejskim uczonym XIV wieku. Kluczem była piąta tabliczka z niemal pełną instrukcją, zidentyfikowana w 2015 roku; praca ukazała się w „Science”.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Science News, 2016",
+          "url": "https://www.sciencenews.org/article/babylonians-used-geometry-track-jupiters-movements"
+        },
+        {
+          "nazwa": "National Geographic, 2016",
+          "url": "https://www.nationalgeographic.com/science/article/160128-math-geometry-babylon-jupiter-astronomy-space"
+        }
+      ],
+      "artykul": "insygnia/korony",
+      "cytat_leszka": "Wynika z tego także, że wiedza astronomiczna przekazana Egipcjanom i Sumerom (przejęta później przez Babilończyków) miała to samo źródło."
+    },
+    {
+      "rok": "2019",
+      "tytul": "Babilon na Liście Światowego Dziedzictwa UNESCO",
+      "opis": "5 lipca 2019 roku Komitet Światowego Dziedzictwa na sesji w Baku wpisał Babilon na listę UNESCO jako szóste iracki obiekt. Nie umieszczono go na liście zagrożonych, po sprzeciwie Iraku, choć stanowisko wymaga pilnej konserwacji. Przypomniano szkody z poprzednich dekad: kiepsko wykonaną rekonstrukcję pałacu południowego z czasów Saddama Husajna i bazę wojskową wojsk USA i Polski, zbudowaną na ruinach po 2003 roku.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Euronews/AFP, 2019",
+          "url": "https://www.euronews.com/2019/07/06/ancient-iraqi-city-of-babylon-designated-unesco-world-heritage-site"
+        }
+      ]
+    },
+    {
+      "rok": "2023–2024",
+      "tytul": "Stela z Wieżą Babel: warstwa znalezienia późniejsza niż nowobabilońska",
+      "opis": "Olof Pedersén w czasopiśmie „Iraq” (tom 85, online 2024) przeanalizował okoliczności znalezienia steli z przedstawieniem Wieży Babel. Dwa fragmenty czarnego kamienia odnaleziono w latach 90. w wykopie po niemieckich badaniach z 1900 roku, ok. 20 m na północ od świątyni Esagila, w warstwie późniejszej niż nowobabilońska, być może partyjskiej. Po 28 latach w kolekcji Schøyen w Oslo stela trafiła do Muzeum Iraku w Bagdadzie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Iraq, vol. 85 (Cambridge University Press), O. Pedersén",
+          "url": "https://www.cambridge.org/core/journals/iraq/article/tower-of-babylon-stele-found-in-babylon/A712F186B2FA1965854911081620467B"
+        }
+      ]
+    }
   ]
 }
