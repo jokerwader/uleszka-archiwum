@@ -6092,5 +6092,655 @@
         }
       ]
     }
+  ],
+  "klasztor-batalha": [
+    {
+      "rok": "2020",
+      "tytul": "Skaningi, georadar i termografia sklepień Batalhy w modelu BIM",
+      "opis": "Zespół z Portugalii i Hiszpanii (m.in. Solla, Gonçalves, Rodrigues) połączył w modelu BIM wyniki skanowania laserowego, georadaru, termografii podczerwonej i dronowej klasyfikacji uszkodzeń. Objął fragment fasady zachodniej oraz sklepienia kościoła i Kaplicy Fundatora. Praca ma charakter metodyczny: dokumentuje stan zachowania i ułatwia konserwację, nie zmienia datowania budowli, którą źródła wiążą z końcem XIV i XV wiekiem.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Remote Sensing 12(24), 2020 (rekord Crossref)",
+          "url": "https://api.crossref.org/works/10.3390/rs12244028"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "Skąd pochodzi wapień Batalhy: badania kamieniołomów",
+      "opis": "Zespół z Uniwersytetu w Évorze i Politecnico di Torino porównał skład (fluorescencja rentgenowska, petrografia, dyfraktometria, analiza termograwimetryczna) próbek z klasztoru i pięciu regionalnych kamieniołomów. Wstępne wyniki wskazują, że balustradę wykonano z kamienia z Valinho do Rei lub Reguengo do Fetal, a część kościoła i Klasztor Królewski z kamieni z Pidiogo lub Cabeço do Roxo. Budulcem jest więc miejscowy wapień, a badanie służy planowaniu konserwacji.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Acta IMEKO 10(1), 2021",
+          "url": "https://acta.imeko.org/index.php/acta-imeko/article/view/IMEKO-ACTA-10%20%282021%29-01-16"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "ale już w Batalha widać przepiękne \"rzymskie\" łuki w ruinach jakiejś zapewne \"rzymskiej\" willi"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Wielka konserwacja kamieniarki Kaplic Niedokończonych",
+      "opis": "Pod koniec 2025 r. firma ERA Arqueologia na zlecenie gminy Batalha rozpoczęła jeden ze swoich największych projektów: szczegółową renowację kamieniarki Kaplic Niedokończonych. Prace oparto na analizie i diagnozie, z zachowaniem historycznych materiałów i technik. Wyniki badań nie są jeszcze opublikowane; firma zapowiada informowanie o postępach.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "ERA Arqueologia, 2.12.2025",
+          "url": "https://www.era-arqueologia.pt/en/noticias/66"
+        }
+      ]
+    }
+  ],
+  "klasztor-alcobaca": [
+    {
+      "rok": "2017",
+      "tytul": "System wodny opactwa: kanały cystersów z Alcobaça",
+      "opis": "Artykuł Maduro, Mascarenhasa i Jorge (Riparia 2017) opisuje, jak cystersi od XII w. kształtowali krajobraz wodny swoich włości: kanały zasilały i odwadniały budynki opactwa, napędzały młyny, folusze, tartaki i kuźnie, a odwadnianie bagien umożliwiło uprawy. Praca opiera się na analizie historycznej i terenowej, a główne prace hydrauliczne datuje na XVI–XVIII wiek.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Riparia 3, 2017 (repozytorium Uniwersytetu w Kadyksie)",
+          "url": "https://rodin.uca.es/xmlui/handle/10498/19312"
+        }
+      ]
+    },
+    {
+      "rok": "2020",
+      "tytul": "Konserwacja grobowca Piotra I i Inês de Castro",
+      "opis": "W maju 2020 r. konserwator André Remígio, na decyzję Dyrekcji Generalnej Dziedzictwa Kultury, rozpoczął czteromiesięczne prace przy grobowcach Piotra I i Inês de Castro, wykonywane przy otwartym dla zwiedzających klasztorze. Usuwano brud i narost biologiczny oraz resztki silikonu po odlewach z 1992 r. (wystawa Europália w Brukseli), które uszczelniały powierzchnię kamienia. To relacja prasowa agencji Lusa, nie publikacja naukowa.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Notícias ao Minuto / Lusa, 19.05.2020",
+          "url": "https://www.noticiasaominuto.com/pais/1482424/iniciado-restauro-do-tumulo-do-rei-pedro-i-no-mosteiro-de-alcobaca"
+        }
+      ]
+    }
+  ],
+  "castel-del-monte": [
+    {
+      "rok": "2018",
+      "tytul": "Ambruoso: Castel del Monte jako zamek, bez ezoteryki",
+      "opis": "Historyk Massimiliano Ambruoso (Edipuglia, 2018) przeanalizował dokumenty i teorie o ośmiobocznej budowli Fryderyka II: jej funkcję, plan i hipotezy ezoteryczne lub uzdrowiskowe. Odrzuca je na rzecz odczytania jej jako elementu systemu zamków cesarza. Wskazuje m.in. na list Fryderyka z 1240 r. i statut z lat 1241–1246, w którym zamek jest już gotowy. To ustalenia historyczne, nie nowe datowanie materiałowe.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Artsupp, opis książki (Edipuglia, 2018)",
+          "url": "https://www.artsupp.com/it/andria/mostre/castel-del-monte-la-storia-e-il-mito-castel-del-monte"
+        },
+        {
+          "nazwa": "Finestre sull'Arte, 2019",
+          "url": "https://www.finestresullarte.info/en/works-and-artists/castel-del-monte-frederick-ii-s-imposing-octagonal-castrum-history-works-significance"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "Bryła zamku nie przypomina żadnej ze znanych warowni."
+    }
+  ],
+  "willa-hadriana": [
+    {
+      "rok": "2011",
+      "tytul": "Willa Hadriana zorientowana na przesilenia?",
+      "opis": "Marina De Franceschini (współpracująca z Uniwersytetem w Trydencie) i Giuseppe Veneziano twierdzą, że Roccabruna i Akademia w willi są ustawione tak, by światło słoneczne w dniach przesileń wpadało przez otwory w drzwiach i kopule. Efekt świetlny w Roccabruna zauważyli wcześniej architekci Robert Mangurian i Mary-Ann Ray. Pomiary Codebò i Salvo (2013) potwierdzają zgodność osi Roccabruna i Świątyni Apollina z punktami przesileń, ale uznają większość kanałów w murze za rozwiązania architektoniczne, nie astronomiczne. Całość pozostaje interpretacją, bo budynki mogą zbiegiem okoliczności układać się zgodnie z astronomią.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Nature / Scientific American, 2011",
+          "url": "https://www.scientificamerican.com/article/hadrian-henge-roman-villa-catch-solstice-rays/"
+        },
+        {
+          "nazwa": "Codebò, Salvo, Atti XI Convegno SIA, 2013",
+          "url": "https://archaeoastronomy.it/villa_adriana_eng.htm"
+        }
+      ]
+    },
+    {
+      "rok": "2013",
+      "tytul": "Nowy szeroki tunel pod willą",
+      "opis": "Grupa speleologów-wolontariuszy Underground Rome (Marco Placidi), działająca w willi od 2001 roku w porozumieniu ze służbami konserwatorskimi, odkryła podziemny tunel szeroki na ok. 6 m, czyli dwa razy szerszy niż znane dotąd przejścia. Jest wypełniony gruzem niemal po strop, a kamera na zdalnie sterowanym robocie wykazała, że biegnie prostym kursem. Tunel pozwalałby na ruch dwukierunkowy; jego długości ani datowania nie podano.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2013",
+          "url": "https://archaeology.org/?p=2059"
+        }
+      ]
+    },
+    {
+      "rok": "2026",
+      "tytul": "Możliwa najstarsza struktura sprzed Hadriana",
+      "opis": "Zespół Uniwersytetu Pabla de Olavide w Sewilli (Rafael Hidalgo) odkrył w kwietniu–maju 2026 w sektorze Palazzo podziemną komorę, prawdopodobnie silos lub magazyn, z okresu Republiki, czyli sprzed pobytu Hadriana. Według zespołu może to być najstarsza udokumentowana struktura w willi i ślad wcześniejszej posiadłości włączonej później w fundamenty pałacu. Datowanie i status „najstarszej” są wstępne; informacje pochodzą z komunikatu uczelni w relacjach mediów.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "HeritageDaily, 2026",
+          "url": "https://www.heritagedaily.com/2026/06/archaeologists-uncover-oldest-known-structure-at-hadrians-villa/158327"
+        },
+        {
+          "nazwa": "Fox News, 2026",
+          "url": "https://www.foxnews.com/travel/hidden-underground-chamber-revealed-beneath-home-legendary-roman-emperor"
+        }
+      ]
+    }
+  ],
+  "ostia": [
+    {
+      "rok": "2014",
+      "tytul": "Magnetometria: Ostia większa, niż sądzono",
+      "opis": "Zespół z Cambridge (Martin Millett) i Southampton (Simon Keay, Portus Project) przeprowadził z British School at Rome magnetometrię na Isola Sacra. Ujawniła nieznany odcinek murów miejskich po drugiej stronie Tybru, więc rzeka przecinała miasto, a nie wyznaczała jego północnej granicy. Odkryto też trzy ogromne magazyny, z których największy miał wielkość boiska, i czwarty wielki budynek o nieznanej funkcji. To interpretacja map geofizycznych, bez wykopalisk.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "University of Southampton, 2014",
+          "url": "https://www.southampton.ac.uk/mediacentre/news/2014/apr/14_67.shtml"
+        },
+        {
+          "nazwa": "HeritageDaily, 2014",
+          "url": "https://www.heritagedaily.com/2014/04/roman-dig-transforms-understanding-of-ancient-port/102829"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "Co przechowywano w tym magazynie?"
+    },
+    {
+      "rok": "2023",
+      "tytul": "Nowe fragmenty Fasti Ostienses",
+      "opis": "Na Forum Porta Marina w ramach projektu Ops – Ostia Post Scriptum (Park Archeologiczny Ostii, Uniwersytet w Katanii, Politechnika w Bari) znaleziono dwa nowe fragmenty kalendarza-kroniki wyrytej w marmurze. Jeden dotyczy roku 128 n.e. i wspomina m.in. nadanie Hadrianowi tytułu pater patriae oraz jego wyjazd do Afryki. Fragmenty uzupełniają wiedzę o historii Rzymu i Ostii w latach 49 p.n.e.–175 n.e.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Arkeonews, 2023",
+          "url": "https://arkeonews.net/two-new-fragments-of-the-fasti-ostienses-a-kind-of-chronicle-engraved-on-marble-slabs-have-been-found-in-the-ostia-antica-archaeological-park/"
+        }
+      ]
+    },
+    {
+      "rok": "2023–2025",
+      "tytul": "Bazylika konstantyńska w Ostii",
+      "opis": "Zespół Uniwersytetu w Bonn (z Kolonią, Niemieckim Instytutem Archeologicznym i La Sapienzą, finansowanie DFG) po prospekcji geofizycznej i analizie zdjęć lotniczych prowadzi od 2023 roku wykopaliska kościoła biskupiego z ok. 320–330 r. n.e. Odsłonięto apsydę, w 2024 niemal nienaruszoną posadzkę mozaikową, a w 2025 baptysterium i rezydencję biskupa. To według zespołu jedyna taka bazylika konstantyńska bez późniejszych przebudów.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Uniwersytet w Bonn, projekt Ostia",
+          "url": "https://www.iak.uni-bonn.de/christliche-archaeologie/en/research/field-research/die-konstantinische-bischofskirche-von-ostia"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Prawdopodobna żydowska mykwa w Ostii",
+      "opis": "W ramach projektu OPS – Ostia Post Scriptum (Ministerstwo Kultury) w centralnej części parku, blisko dawnego koryta Tybru, odkryto półpodziemne pomieszczenie ze studnią, które włoscy badacze uznają za mykwę, czyli żydowską łaźnię rytualną. Ze studni wydobyto lampkę z menorą i szkło z V–VI w. n.e. Identyfikacja jest uznana za prawdopodobną, nie pewną; obiekt bywa nazywany najstarszą mykwą poza Izraelem.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Arte.it, 2025",
+          "url": "https://www.arte.it/notizie/roma/a-ostia-antica-emerge-un-bagno-rituale-ebraico-l-antico-porto-di-roma-crocevia-di-convivenza-e-scambio-di-culture-22209"
+        }
+      ]
+    }
+  ],
+  "nekropolia-w-cerveteri": [
+    {
+      "rok": "2013",
+      "tytul": "Lew i grobowiec z 20 szkieletami w Banditaccia",
+      "opis": "W nekropolii Banditaccia archeolodzy znaleźli u stóp ołtarza obrzędów pogrzebowych kamiennego lwa z tufu z VI w. p.n.e., pierwszą tak kompletną rzeźbę lwa w tym miejscu. Odkryto też podziemny prostokątny grobowiec ze schodami monumentalnymi (IV–III w. p.n.e.), z ok. 20 szkieletami, dziesięcioma inskrybowanymi kamieniami oraz ceramiką i brązami. Informacje podała prasa włoska za zespołem wykopaliskowym.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Italy Magazine, 2013",
+          "url": "http://www.italymagazine.com/featured-story/lion-statue-and-etruscan-tomb-discovered-cerveteri"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "DNA Etrusków: lokalne pochodzenie",
+      "opis": "Zespół z Tybingi, Instytutów Maxa Plancka i Uniwersytetu we Florencji (Cosimo Posth, Johannes Krause, David Caramelli) przeanalizował genomy 82 osób z lat 800 p.n.e.–1000 n.e. z centralnych i południowych Włoch. Etruskowie byli genetycznie bliscy Latynom z Rzymu, bez śladu świeżej migracji z Anatolii; wysoki udział przodków stepowych współistniał z ich językiem nieindoeuropejskim. Pula genowa była stabilna ok. 800 lat, a w okresie cesarstwa przesunęła się ku populacjom wschodniego Śródziemnomorza. Autorzy wskazują na potrzebę dalszych próbek.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Science Advances, Posth i in., 2021 – omówienie w Sci.News",
+          "url": "https://www.sci.news/archaeology/etruscans-origin-10105.html"
+        },
+        {
+          "nazwa": "Phys.org, 2021",
+          "url": "https://phys.org/news/2021-09-legacy-etruscans.html"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "sprawa Etrusków nie jest wyjaśniona do dzisiaj"
+    },
+    {
+      "rok": "2026",
+      "tytul": "Trony i malowane komory na Monte Abatone",
+      "opis": "Podczas pilnych prac stabilizacyjnych w sąsiedniej nekropolii Monte Abatone (część Caere) Soprintendenza Południowej Etrurii odsłoniła komory grobowe, jedną z zachowanym sklepieniem, trony wykute w tufie, ślady czerwonej polichromii i niemal nienaruszony dzban z rytymi zwierzętami. Groby były wcześniej rabowane, ale część wyposażenia pozostała. Materiał trafia do konserwacji i badań; nie ukazała się jeszcze publikacja naukowa.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Finestre sull'Arte, 2026",
+          "url": "https://www.finestresullarte.info/en/archaeology/cerveteri-thrones-carved-from-tuff-an-almost-intact-jar-and-painted-decorations-in-the-tombs-have-been-unearthed"
+        },
+        {
+          "nazwa": "Archaeology News Online Magazine, 2026",
+          "url": "https://archaeologymag.com/2026/11/etruscan-cemetery-in-italy-carved-thrones-and-jar/"
+        }
+      ]
+    }
+  ],
+  "krak-des-chevaliers": [
+    {
+      "rok": "2013–2014",
+      "tytul": "Wojna w Krak des Chevaliers i ocena zniszczeń",
+      "opis": "Około 2013 roku zamek i wioska u jego stóp znalazły się w rękach bojowników antyrządowych; armia syryjska odzyskała je 20 marca 2014 roku. Zamek ucierpiał, najbardziej gotycka sala przyjęć i kaplica, choć grube mury wytrzymały ostrzał. Zespół Uniwersytetu Katolickiego im. Pétera Pázmánya (węgiersko-syryjska misja SHAM) oceniał potem szkody i planował odbudowę, zaczynając od dziedzińca wewnętrznego. Zakres zniszczeń opisują relacje medialne, nie pełna publikacja naukowa.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Daily News Hungary – węgierscy archeolodzy w Syrii",
+          "url": "https://dailynewshungary.com/hungarian-archaeologists-among-last-remaining-team-war-torn-syria/"
+        },
+        {
+          "nazwa": "Irish Times, 2018",
+          "url": "https://www.irishtimes.com/news/world/middle-east/syria-we-received-money-for-documentation-but-not-restoration-1.3452100"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "Gdyby ulegały zniszczeniu przez najeźców, winny być równane z ziemią tak, by nie nadawały się nawet do odbudowy"
+    },
+    {
+      "rok": "2017–2018",
+      "tytul": "Odsłonięty kościół z malowidłami w podzamczu",
+      "opis": "Węgiersko-syryjska misja archeologiczna (Uniwersytet Pázmánya) prowadzi od 2017 roku prace w Krak des Chevaliers, m.in. wykop potrzebny do sporządzenia pełnego, dokładnego planu zamku. Jesienią 2018 roku najważniejszym odkryciem był średniowieczny kościół w zachodnim podzamczu z licznymi fragmentami fresków, część na miejscu, część zwalona, wskazującymi na barwnie malowaną świątynię z XIII wieku. To sprawozdanie z kampanii; szczegółowe datowanie wymaga publikacji naukowych.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Uniwersytet Pázmánya, sprawozdanie z jesieni 2018",
+          "url": "https://btk.ppke.hu/en/news-8/syrian-hungarian-archaeological-mission-autumn-2018"
+        },
+        {
+          "nazwa": "Uniwersytet Pázmánya, opis misji SHAM",
+          "url": "https://btk.ppke.hu/en/margat-syria-2"
+        }
+      ]
+    },
+    {
+      "rok": "2022–2024",
+      "tytul": "Odbudowa po wojnie i szansa po 2024 roku",
+      "opis": "Węgierski program Hungary Helps wsparł w 2022 roku prace konserwatorskie w zamku, uznane przez UNESCO. W grudniu 2024 roku dyrektor stanowiska Hazem Hanna mówił agencji AFP, że pełna odbudowa zniszczonych części, zwłaszcza gotyckiej sali i kaplicy, może być możliwa, jeśli nowe władze przeznaczą środki. Strona programu nie podaje szczegółów zakresu robót; nie znaleziono też nowych, opublikowanych datowań faz budowy zamku.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Hungary Helps – projekt Crac des Chevaliers",
+          "url": "https://hungaryhelps.gov.hu/en/projects/crac-des-chevaliers-preserving-a-symbol-of-history-and-identity-amidst-conflict-in-syria-"
+        },
+        {
+          "nazwa": "Arab News (AFP), grudzień 2024",
+          "url": "https://arabnews.pk/node/2583342/middle-east"
+        }
+      ]
+    }
+  ],
+  "margat": [
+    {
+      "rok": "2007–2009",
+      "tytul": "Największy malowany Sąd Ostateczny krzyżowców",
+      "opis": "Węgiersko-syryjska misja (Uniwersytet Pázmánya, kierownik Balázs Major) rozpoczęła w 2007 roku wykopaliska w Margat i w październiku 2007 odkryła w kaplicy malowidło z 27 postaciami, uznane za największe malowidło krzyżowców znalezione w Ziemi Świętej. Dwa panele, każdy ok. 2,5 na 3,5 m, wisiały po bokach ołtarza: piekło z torturowanymi grzesznikami i, według ekspertów, niebo na żółtym tle. Syryjska służba starożytności ogłosiła odkrycie szeroko w 2009 roku, a freski poddano konserwacji.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Uniwersytet Pázmánya, 2008",
+          "url": "https://btk.ppke.hu/old-2/ppcu-fhss-news/faculty-of-humanities-professor-excavating-world-s-largest-crusader-fortress-in-syria"
+        },
+        {
+          "nazwa": "NBC News / AP, 15.10.2009",
+          "url": "https://www.nbcnews.com/news/amp/wbna33329420"
+        }
+      ]
+    },
+    {
+      "rok": "2007–2009",
+      "tytul": "Kuchnia, letnie domki i woda w zamku szpitalników",
+      "opis": "Wykopaliska misji Uniwersytetu Pázmánya wskazały, że pomieszczenie uznawane wcześniej za miejsce spoczynku było kuchnią, oraz odsłoniły resztki małych letnich domków na tarasie zamku, co sugeruje, że w czasie pokoju mieszkańcy unikali wilgotnych murów. Zbadano też baseny, fontanny i system odpływów latrynowych, a wieża mieszkalna mogła być o ok. 6 m wyższa dzięki obronnemu korytarzowi. Informacje pochodzą z komunikatu uczelni i relacji kierownika misji.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Uniwersytet Pázmánya, 2008",
+          "url": "https://btk.ppke.hu/old-2/ppcu-fhss-news/faculty-of-humanities-professor-excavating-world-s-largest-crusader-fortress-in-syria"
+        },
+        {
+          "nazwa": "Daily News Hungary – misja w Syrii",
+          "url": "https://dailynewshungary.com/hungarian-archaeologists-among-last-remaining-team-war-torn-syria/"
+        }
+      ]
+    },
+    {
+      "rok": "2010",
+      "tytul": "Dwa trzęsienia ziemi zapisane w murach cytadeli",
+      "opis": "Miklós Kázmér i Balázs Major opisali w publikacji Geological Society of America uszkodzenia o kształcie litery V i U oraz przesunięcia kamiennych ścian. Przypisali je dwóm trzęsieniom ziemi: pierwszemu z czasów krzyżowców (kandydatem jest trzęsienie z 1202 roku, intensywność co najmniej VIII w skali MSK) i drugiemu po 1285 roku, z epoki mameluckiej. Wykluczyli górnictwo i osiadanie gruntu; wieża mieszkalna datowana jest na lata 90. XII wieku. Szacunki intensywności są niepewne, bo nie uwzględniono efektów zboczowych.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Kázmér i Major, GSA Special Paper 471, 2010 (MTA REAL)",
+          "url": "https://real.mtak.hu/5181/"
+        },
+        {
+          "nazwa": "Katalog trzęsień Morza Martwego – al-Marqab",
+          "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/Sites/Archaeo/alMarqabCitadel.html"
+        }
+      ]
+    }
+  ],
+  "montsegur": [
+    {
+      "rok": "2019",
+      "tytul": "Mit Montségur wobec archeologii: zamek z czasów po 1244 roku",
+      "opis": "Laure Barthet (Musée Saint-Raymond w Tuluzie) i Michel Sabatier (grupa GRAME) podsumowali w Patrimoines du Sud wykopaliska prowadzone od 1968 roku. Obecny zamek powstał po kapitulacji 1244 roku, prawdopodobnie w drugiej połowie XIII wieku, i nie jest następcą wcześniejszego zamku; oblężeni mieszkali we wsi (castrum) na zboczach. Na północno-wschodnim stoku znaleziono ponad 950 pocisków maszyn oblężniczych i groty bełtów. Legendy o podziemnych przejściach i „świątyni słońca” nie mają potwierdzenia: sondaż z 1998 roku wykazał, że pierwotny próg południowych drzwi leżał ok. 3,85 m nad średniowiecznym gruntem, co podważa interpretację z „solarnym” wejściem.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Barthet i Sabatier, Patrimoines du Sud 10, 2019",
+          "url": "https://journals.openedition.org/pds/3186?lang=en"
+        },
+        {
+          "nazwa": "Base Mérimée – opis historyczny zamku w Montségur",
+          "url": "https://pop.culture.gouv.fr/notice/merimee/IA09002575"
+        }
+      ]
+    },
+    {
+      "rok": "2026",
+      "tytul": "Montségur na Liście UNESCO jako królewska twierdza",
+      "opis": "26 lipca 2026 roku Komitet Światowego Dziedzictwa UNESCO wpisał na Listę serię „Forteresses royales capétiennes du Languedoc”, w tym Montségur, obok Carcassonne, Peyrepertuse i innych. Dawne „zamki katarskie” przemianowano, bo warownie wzniesiono lub wzmocniono po wyprawie przeciw albigensom z woli korony francuskiej, a ich związek z katarami to w dużej mierze mit dziewiętnastowiecznych romantyków. Obecny zamek w Montségur datuje się na koniec XIII wieku, czyli po 1244 roku.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Ministerstwo Kultury Francji, lipiec 2026",
+          "url": "https://www.culture.gouv.fr/actualites/les-plages-du-debarquement-et-les-forteresses-royales-du-languedoc-a-l-unesco"
+        },
+        {
+          "nazwa": "Medievalists.net, 2025 (kandydatura)",
+          "url": "https://www.medievalists.net/2025/08/cathar-castles-languedocs-unesco/"
+        },
+        {
+          "nazwa": "Forteresses Royales du Languedoc – Montségur",
+          "url": "https://forteressesroyalesdulanguedoc.fr/en/discover/fortresses/montsegur/"
+        }
+      ]
+    }
+  ],
+  "most-trajana": [
+    {
+      "rok": "2003–2007",
+      "tytul": "Podwodne badania filarów mostu sonarem wielowiązkowym",
+      "opis": "Serbscy archeolodzy (Dejan Vučković, Dragan Mihajlović, Gordana Karović) opisali pierwszy etap podwodnych badań pozostałości mostu Trajana, rozpoczęty we wrześniu 2003 roku. Sonar wielowiązkowy objął cały odcinek mostu, a inne badania nieinwazyjne ograniczono do serbskiej strony rzeki. Prace potwierdziły długość mostu ok. 1097,5 m; liczba widocznych filarów spadła z ok. 20 w 1856 r. do 12 w latach 80. XX w.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Vučković, Mihajlović, Karović, ISTROS 14, 2007",
+          "url": "https://ceeol.com/search/article-detail?id=293408"
+        },
+        {
+          "nazwa": "Serbia 3D – Castrum Pontes (Kladovo)",
+          "url": "https://www.srbija3d.rs/EN/lokacija_23.html"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "Kto wtedy był w stanie prowadzić prace pod wodą na głębokości kilkunastu metrów?"
+    },
+    {
+      "rok": "2023–2025",
+      "tytul": "Rumuńskie skanowanie geofizyczne pozostałości mostu",
+      "opis": "Zespół rumuńskich geodetów i geofizyków wykonał w latach 2023–2024, w ramach projektu rady okręgu Mehedinți, zdjęcia dronowe, model terenu, profile tomografii oporowej i pomiary magnetometryczne wokół zachowanego filara po rumuńskiej stronie Dunaju. Celem było rozpoznanie dawnego ukształtowania terenu i źródeł infiltracji wody zagrażającej ruinie; praca opisuje metody i wstępną interpretację, a nie nowe datowanie mostu. Wyniki opublikowano w 2025 roku w czasopiśmie inżynierskim.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Cucilă i in., Journal of Applied Engineering Sciences 15(28), 2025",
+          "url": "https://reference-global.com/download/article/10.2478/jaes-2025-0011.pdf"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "Z samego mostu pozostał tylko jeden filar"
+    }
+  ],
+  "dougga": [
+    {
+      "rok": "2016–2025",
+      "tytul": "Drugie mauzoleum numidyjskie i grób zbiorowy na peryferiach Dougga",
+      "opis": "Wspólna misja tunezyjskiego Instytutu Dziedzictwa (INP) i paryskiej École normale supérieure (Véronique Brouquier-Reddé, Samir Aounallah) bada od 2016 roku obrzeża miasta. Odsłonięto podstawę drugiego, mniejszego mauzoleum numidyjskiego typu wieżowego w nekropolii północno-zachodniej, a w punicko-numidyjskim grobowcu kolistym (bazina 55) odkopano pochówki zbiorowe z ceramiką i monetami, datowane na ok. połowę III–I w. p.n.e. Wcześniej znano w mieście tylko słynne mauzoleum libijsko-punickie. Źródłem jest sprawozdanie samego zespołu; część cząstkowych publikacji ukazała się w Antiquités Africaines 56 (2020).",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Brouquier-Reddé, dossier Prix Clio 2025 (misja francusko-tunezyjska)",
+          "url": "https://www.clio.fr/securefilesystem/ThuggaVBR_Clio.pdf"
+        },
+        {
+          "nazwa": "Institut National du Patrimoine (Tunezja) – Thugga",
+          "url": "https://www.inp2020.tn/en/2020/04/08/_dougga/"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "Skąd wobec tego wzięły się tam budowle rzymskie?"
+    }
+  ],
+  "leptis-magna": [
+    {
+      "rok": "2007–2016",
+      "tytul": "Rzymskie wille, tłocznie oliwy i kamieniołomy wokół miasta",
+      "opis": "Misja Uniwersytetu Roma Tre (Massimiliano Munzi i in.) prowadzi od 2007 roku systematyczny przegląd powierzchniowy okolic Leptis. Na pasie między Ras el-Mergheb i Ras el-Hammam odnotowano 168 stanowisk, w tym tłocznie oliwy w 39 miejscach, 17 kamieniołomów wapienia i 11 mauzoleów. Liczba osad wiejskich rosła od II w. p.n.e. do I–II w. n.e. (ok. 130), po czym malała, a większość opuszczono w drugiej połowie V w.; ogółem udokumentowano ponad 450 stanowisk na ok. 104 km2.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Munzi i in., Libyan Studies 47, 2016 (Cambridge Core)",
+          "url": "https://www.cambridge.org/core/product/2D4F4143564CE0132FAE33F70BC25B95/core-reader"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "Dlaczego w większości miast prowincji imperium, w ruinach budowli nie znaleziono nic po ich rzekomych, rzymskich budowniczych?"
+    },
+    {
+      "rok": "2011",
+      "tytul": "Powodzie wadi, nie trzęsienie ziemi, zniszczyły Leptis Magna",
+      "opis": "Zespół Stefano Pucciego z włoskiego Narodowego Instytutu Geofizyki i Wulkanologii (INGV), z udziałem archeologów z Rzymu i Bolonii, zestawił wysokorozdzielczą rekonstrukcję geomorfologiczną i stratygraficzną z datowaniami radiowęglowymi. Wnioski: Rzymianie zabezpieczali miasto przed wadi Lebda zaporami i kanałami, a gdy upadła gospodarka i zabrakło konserwacji, wylewy zaczęły zalewać zabudowę. Duże trzęsienia ziemi oraz tsunami uszkadzające port autorzy wykluczają jako główną przyczynę upadku miasta.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Pucci i in., Quaternary International 242, 2011 (ScienceDirect)",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1040618211001960"
+        },
+        {
+          "nazwa": "Pucci i in., rękopis ze streszczeniem (Ancient Ports Antiques)",
+          "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Egypt-Libya/Leptis-Pucci2010.pdf"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "Tak są zniszczone wszystkie budowle, które przypisuje się Rzymianom"
+    },
+    {
+      "rok": "2012",
+      "tytul": "Podwodne konstrukcje portu w Leptis Magna i Tolmecie",
+      "opis": "Carlo Beltrame opisał wyniki badań z 2009 roku, prowadzonych w ramach projektu utworzenia trzech podwodnych parków archeologicznych w Libii. Ponownie zbadano znane struktury portowe obu miast i szukano nowych śladów. Szczegółowe wyniki zawiera pełny tekst artykułu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Beltrame, International Journal of Nautical Archaeology 41(2), 2012 (rekord WA Museum)",
+          "url": "http://museum.wa.gov.au/maritime-archaeology-db/bibliography/new-evidence-submerged-ancient-harbour-structures-tolmetha-and-leptis-magna-libya/"
+        }
+      ]
+    },
+    {
+      "rok": "2017",
+      "tytul": "Dziedzictwo Leptis w niebezpieczeństwie: od wojen po rozrost Chumsu",
+      "opis": "Massimiliano Munzi i Andrea Zocchi z Uniwersytetu Roma Tre podsumowali straty w okolicach Leptis Magna od włoskiej okupacji (1911) po współczesność. Większość zniszczeń nastąpiła w ostatnich sześćdziesięciu latach, głównie wskutek rozrastania się miasta Chums i niestabilności politycznej, a od 2011 roku także wyburzania dawnych marabutów przez radykałów islamskich.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Munzi, Zocchi, Libyan Studies 48, 2017 (Cambridge Core)",
+          "url": "https://www.cambridge.org/core/journals/libyan-studies/article/lepcitanian-territory-cultural-heritage-in-danger-in-war-and-peace/DAC18C0068A30A8BE2DE0A9033A56ADF"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Pilny plan ratowania Łaźni Łowieckich przed piaskiem",
+      "opis": "W październiku 2025 libijski Departament Starożytności i delegacja UNESCO uzgodnili w rozmowie online środki doraźne dla Leptis Magna: usunięcie piasku wokół Łaźni Łowieckich, którym grozi bezpośrednie niebezpieczeństwo, poprawę dostępu i monitoringu oraz instalację czujników wilgotności i wiatru. Omawiano też pęknięcia w bazylice, świątyni cesarzy i amfiteatrze. Informacja pochodzi z relacji libijskiej prasy i nie została sprawdzona w dokumentach UNESCO.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Libya Observer, 7 października 2025",
+          "url": "https://libyaobserver.ly/index.php/culture/urgent-plan-save-archaeological-site-leptis-magna-encroaching-sand"
+        }
+      ]
+    }
+  ],
+  "wal-antonina": [
+    {
+      "rok": "2008",
+      "tytul": "Wał Antonina na liście UNESCO",
+      "opis": "Komitet Światowego Dziedzictwa UNESCO wpisał 7 lipca 2008 roku w Quebecu Wał Antonina na listę, jako rozszerzenie transgranicznego zespołu „Granice Cesarstwa Rzymskiego” obok Muru Hadriana i limesu germańskiego. Wał, ciągnący się przez ok. 60 km od Bo'ness do Old Kilpatrick, wzniesiono po 140 roku n.e. z polecenia Antoninusa Piusa; stał się pierwszym rzymskim obiektem w Szkocji na liście. Wpis nie zmienił ochrony prawnej, ale ułatwił opiekę nad zabytkiem i dalsze badania.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "University of Glasgow, 2008",
+          "url": "https://www.gla.ac.uk/news/archiveofnews/2008/july/headline_84468_en.html"
+        }
+      ]
+    },
+    {
+      "rok": "2017–2018",
+      "tytul": "LiDAR mierzy Wał Antonina i wskazuje jego wschodni kraniec",
+      "opis": "Nick Hannon, Darrell Rohl i L. Wilson (Canterbury Christ Church University, we współpracy z Historic Environment Scotland) wykorzystali pomiary z lotniczego skanowania laserowego całego wału, a nie tylko jego wizualizacje. Wynika z nich, że Rzymianie mierzyli odcinki stopą drusiańską (ok. 0,332 m), a odległości podane na rzeźbionych tablicach są dokładne. Autorzy argumentują też, że wschodnim końcem wału był raczej Carriden niż tradycyjnie przyjmowany Bridgeness; ta teza pozostaje przedmiotem dyskusji, bo w terenie nie znaleziono śladów kontynuacji linii wału.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Hannon, Rohl, Wilson, Journal of Roman Archaeology 30, 2017 (Canterbury Christ Church University)",
+          "url": "https://pure.canterbury.ac.uk/en/publications/the-antonine-wall-distance-slabs-and-lidar-as-metric-survey-shedd-2/"
+        },
+        {
+          "nazwa": "Archaeology.co.uk, 2018",
+          "url": "https://archaeology.co.uk/articles/meticulous-metric-survey-of-the-antonine-wall.htm"
+        }
+      ]
+    },
+    {
+      "rok": "2018",
+      "tytul": "Rzymskie tablice z Wału Antonina były pomalowane",
+      "opis": "Louisa Campbell z Uniwersytetu w Glasgow zbadała nieniszczącymi metodami (przenośna fluorescencja rentgenowska i spektroskopia Ramana) rzeźbione tablice dystansowe, głównie z kolekcji Hunterian Museum. Na kamieniu wykryła ślady farb o ograniczonej palecie, z przewagą czerwieni i żółci, oraz podkład gipsowy pod warstwą barwną; czerwień występuje m.in. na literach, płaszczach i jako krew pojmanych wojowników. Badaczka uważa, że barwne rzeźby były rzymską propagandą wobec miejscowej ludności, a dawne zabiegi konserwatorskie zniszczyły część malowidła. W 2018 roku były to wstępne wnioski, przed pełną recenzowaną publikacją.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "University of Glasgow, 2018",
+          "url": "https://www.gla.ac.uk/news/headline_579010_en.html"
+        },
+        {
+          "nazwa": "Phys.org, 2018",
+          "url": "https://phys.org/news/2018-04-archaeologist-red-yellow-antonine-wall.html"
+        }
+      ]
+    },
+    {
+      "rok": "2023",
+      "tytul": "Odnaleziony „zagubiony” fortlet przy Carleith",
+      "opis": "Historic Environment Scotland ogłosiło 18 kwietnia 2023 roku odkrycie śladów rzymskiego fortletu obok Wału Antonina, w pobliżu szkoły podstawowej Carleith w West Dunbartonshire. Znaleziono go magnetometrią (gradiometrią), bez kopania, mimo że wykopaliska z lat 70. i 80. go nie odnalazły, a o istnieniu wiedziano z relacji Roberta Sibbalda z 1707 roku. To dziesiąty znany fortlet na wale, na którym mogło ich pierwotnie być nawet 41; użytkowano go w latach ok. 142–162 n.e.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Historic Environment Scotland, 2023",
+          "url": "https://hes-newsroom.prgloo.com/news/a-roman-fortlet-thought-lost-to-time-is-rediscovered-by-historic-environment-scotland"
+        },
+        {
+          "nazwa": "Popular Science, 2023",
+          "url": "https://www.popsci.com/science/roman-fortlet-scotland-archeology/"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "Jak z tego widać granice imperium wyznaczały tylko rzymskie obozy wojskowe oraz miejscowości w których stacjonowało rzymskie wojsko."
+    },
+    {
+      "rok": "2026",
+      "tytul": "Fortlet pod ogrodami w Bearsden",
+      "opis": "GUARD Archaeology opublikowało w serii Archaeology Reports Online (ARO65, 2026) wyniki badań w ogrodach przy Boclair Road w Bearsden, prowadzonych w ramach procedury planistycznej. Odsłonięto liniową kamienną podstawę z obrzeżem i fragment rowu, a drewno z dna rowu datowano radiowęglowo na lata 127–247 n.e., czyli na okres użytkowania wału i krótko po nim. To kolejny, wcześniej nieznany fortlet Wału Antonina; szeroki przedział datowania nie rozstrzyga, jak długo był używany.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Reports Online, ARO65, 2026",
+          "url": "https://www.archaeologyreportsonline.com/reports/2026/ARO65.html"
+        },
+        {
+          "nazwa": "STV News, marzec 2026",
+          "url": "https://news.stv.tv/west-central/roman-fort-dating-back-to-second-century-discovered-in-bearsden-gardens"
+        }
+      ]
+    }
+  ],
+  "numancja": [
+    {
+      "rok": "2015–2020",
+      "tytul": "Obozy w Renieblas: nowe datowania i mapy LiDAR",
+      "opis": "Zespół Renieblas Archaeological Project pod kierunkiem Alicii Jiménez (Duke University), z udziałem Universidad Carlos III w Madrycie i Universidad de Castilla-La Mancha, ponownie zbadał rzymskie obozy pod Numancją, znane dotąd głównie z wykopalisk Adolfa Schultena z lat 1908–1927. Dzięki dronowemu LiDAR-owi, skanerom naziemnym, fotogrametrii i wykopaliskom ustalono, że ślady są płytkie, a obozy II i III pochodzą z pierwszej połowy II wieku p.n.e. (kontekst archeologiczny i datowanie C-14); obóz II prawdopodobnie jest dobudówką obozu III. Skany ujawniły też nowe struktury pod okapem drzew, a mapy LiDAR obaliły niedawną hipotezę o przebiegu muru aneksu. Ponowne zajęcie obozu III przez Scypiona w 133 r. p.n.e. pozostaje hipotezą.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Jiménez, Bermejo, Valdés, Treballs d'Arqueologia 25, 2022",
+          "url": "https://ddd.uab.cat/pub/tda/tda_a2022v25/tda_a2022v25p85.pdf"
+        },
+        {
+          "nazwa": "Duke University, Classical Studies, 2019",
+          "url": "https://classicalstudies.duke.edu/news/prof-jim%C3%A9nez-obtains-new-data-field-create-digital-plan-roman-camps-near-numantia-renieblas"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "Ile tego wojska było i jak wyglądało jego zaopatrzenie?"
+    },
+    {
+      "rok": "2024",
+      "tytul": "Wieże oblężenia Scypiona w analizie GIS",
+      "opis": "Andrea Krahulcová i Mike Dobson (University of Exeter) zdigitalizowali plany Schultena i późniejszych badaczy, tworząc ponad 400 obiektów w GIS, i na tej podstawie policzyli widoczność między rzymskimi obozami i wieżami wokół Numancji oraz w Renieblas. Wynika z niej, że wieże oblężenia Scypiona z 134/133 r. p.n.e. musiały mieć co najmniej ok. 7 m wysokości, by mogły się widzieć nawzajem, a obozy Castillejo i Peña Redonda pasują do dwóch kwater dowodzenia znanych ze źródeł antycznych. To modelowanie oparte na rekonstrukcji planów, nie nowe wykopaliska.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Krahulcová, Dobson, Madrider Mitteilungen 65, 2024 (DAI)",
+          "url": "https://publications.dainst.org/journals/mm/article/view/4416"
+        }
+      ]
+    }
+  ],
+  "tropaeum-traiani": [
+    {
+      "rok": "2017–2019",
+      "tytul": "Wykopaliska w południowej dzielnicy miasta Tropaeum Traiani",
+      "opis": "Gabriel Talmațchi, Marius Lascu i Constantin Șova opisali kampanie z lat 2017–2019 w sektorze C miasta obok pomnika z Adamclisi. Odsłonili wielki budynek typu domus o wymiarach ok. 22 × 44 m z VI wieku n.e., część późnorzymsko-bizantyjskiego zespołu mieszkalnego; planują badania starszych warstw miejskich z II–V wieku. Praca ma charakter sprawozdania z wykopalisk.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Studia Universitatis Cibiniensis, Series Historica XVI, 2019 (CEEOL)",
+          "url": "https://ceeol.com/search/article-detail?id=822215"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "Wutzer kontra Tocilescu: zapomniane elementy pomnika",
+      "opis": "Emil Sever Georgescu zestawił relację niemieckiego badacza Carla Wilhelma Wutzera z 1856 roku z danymi z wykopalisk Grigore Tocilescu (od 1882) przy pomniku z Adamclisi. Wykazał, że trzy opisane przez Wutzera elementy (misa fontanny, marmurowe naczynie w kształcie sarkofagu i płyty kamienne) istniały i zostały potem wykopane; według autora odpowiadają częściom sześciobocznej wieży pomnika, rozbieranego i niszczonego w czasach osmańskich. Praca porządkuje dawne spekulacje, np. o perskim pochodzeniu budowli.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Georgescu, Journal of Ancient History and Archaeology 8(1), 2021",
+          "url": "https://jaha.org.ro/index.php/JAHA/article/view/605"
+        }
+      ]
+    },
+    {
+      "rok": "2024",
+      "tytul": "Neutrony i spektroskopia badają materiał z pomnika",
+      "opis": "Zespół, w którym byli Rodica-Mariana Ion i Bulat Bakirov, zastosował metody jądrowe (dyfrakcję i tomografię neutronową, XRD, WDXRF) oraz spektroskopię FTIR i Ramana do próbek ceramicznych z Tropaeum Traiani. Zidentyfikowano kwarc, hematyt, kalcyt i grafit; autorzy podkreślają przydatność metod nieniszczących. To wstępne badanie materiałowe, ważne głównie dla konserwacji, a nie dla datowania budowli.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Ion i in., Scientific Bulletin of Valahia University – Materials and Mechanics 20(22), 2024",
+          "url": "https://reference-global.com/article/10.2478/bsmm-2024-0002"
+        }
+      ]
+    }
   ]
 }
