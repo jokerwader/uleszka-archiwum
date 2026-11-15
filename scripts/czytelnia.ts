@@ -11,6 +11,7 @@ import { Archiwum, type Dokument } from "../src/archiwum.js";
 import { poprawHtml, popraw, tekstBazowy, wczytajErrate } from "./lib/errata.js";
 import { INICJAL_MD, polaczInicjaly } from "./lib/inicjaly.js";
 import { wczytajAtlas } from "./lib/atlas.js";
+import { hamburger, menuLinki } from "./lib/menu.js";
 
 const archiwum = new Archiwum(".");
 const errata = wczytajErrate(".");
@@ -33,7 +34,7 @@ const atlas = wczytajAtlas(archiwum);
 const miejscaArtykulu = (id: string) => {
   const m = atlas.poArtykule.get(id);
   if (!m?.length) return "";
-  return `  <nav class="miejsca-art" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span>${m
+  return `  <nav class="miejsca-art" id="miejsca" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span>${m
     .map((x) => `<a href="../atlas/${x.slug}.html">${esc(x.nazwa)}</a>`).join("")}</span></nav>\n`;
 };
 const rawUrl = (sciezka: string) => RAW + sciezka.split("/").map(encodeURIComponent).join("/");
@@ -189,11 +190,11 @@ const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; cs
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
-  <nav>
-    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+  <nav aria-label="Menu główne">
+    ${menuLinki("czytelnia")}
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel"><span aria-hidden="true">▤</span> Spis<span class="tylko-szeroki"> treści</span></button>
     <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
-    <a href="../atlas/">Atlas</a>
-    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+    ${hamburger}
   </nav>
 </div></header>
 <div class="panel-wygladu" id="panel-wygladu" hidden>
@@ -219,6 +220,7 @@ const stopka = `<footer><div class="wrap-sz">
   Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${REPO}/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="../menu.js" defer></script>
 <script src="czytelnia.js" defer></script>
 </body>
 </html>

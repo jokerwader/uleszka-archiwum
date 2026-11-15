@@ -9,6 +9,7 @@
 import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { Archiwum, type Dokument } from "../src/archiwum.js";
 import { wczytajAtlas, slug, type MiejsceAtlasu } from "./lib/atlas.js";
+import { hamburger, menuLinki } from "./lib/menu.js";
 
 const archiwum = new Archiwum(".");
 const { miejsca, rodzaje } = wczytajAtlas(archiwum);
@@ -82,10 +83,9 @@ ${o.mapa ? `<link rel="stylesheet" href="${LEAFLET}leaflet.css" crossorigin="">\
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · atlas</span></a>
-  <nav>
-    <a href="./">Mapa</a>
-    <a href="../czytelnia/">Czytelnia</a>
-    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  <nav aria-label="Menu główne">
+    ${menuLinki("atlas")}
+    ${hamburger}
   </nav>
 </div></header>
 `;
@@ -95,7 +95,8 @@ const stopka = (skrypty: string) => `<footer><div class="wrap-sz">
   Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${zgloszenie()}">zgłoś miejsce lub poprawkę</a></p>
 </div></footer>
 <dialog class="podglad" id="podglad"><form method="dialog"><button class="zamknij" aria-label="Zamknij">✕</button></form><img alt=""><p></p></dialog>
-${skrypty}<script src="atlas.js" defer></script>
+${skrypty}<script src="../menu.js" defer></script>
+<script src="atlas.js" defer></script>
 </body>
 </html>
 `;

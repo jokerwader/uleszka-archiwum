@@ -82,3 +82,6 @@ h2 .ile { font: 600 14px system-ui, sans-serif; color: var(--tekst-2); vertical-
   .filtr { flex: none; }
   #szukaj-miejsca { flex: 0 0 190px; }
 }
+
+/* w atlasie za linkami menu nie ma przycisków (Spis, Aa), więc bez kreski oddzielającej */
+.gora nav .menu-linki { border-right: 0; margin-right: 0; padding-right: 0; }

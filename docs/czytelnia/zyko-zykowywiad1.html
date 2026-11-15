@@ -26,11 +26,11 @@
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
-  <nav>
-    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+  <nav aria-label="Menu główne">
+    <div class="menu-linki" id="menu-linki"><a href="../czytelnia/" aria-current="page">Czytelnia</a><a href="../atlas/">Atlas</a><a href="../#podcast">Podcast</a><a href="../#jak-zaczac">Rozmowa z AI</a><a href="../#o-stronie">O stronie</a></div>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel"><span aria-hidden="true">▤</span> Spis<span class="tylko-szeroki"> treści</span></button>
     <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
-    <a href="../atlas/">Atlas</a>
-    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+    <button class="hamburger" type="button" aria-expanded="false" aria-controls="menu-linki" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
   </nav>
 </div></header>
 <div class="panel-wygladu" id="panel-wygladu" hidden>
@@ -161,7 +161,7 @@
 <p><strong>Dr Lorraine Day</strong> - Dziękuję. Dzieją się <span class="poprawka" title="W oryginale: „ciagle”">ciągle</span> jakieś nowe rzeczy, ale wszystkie one mają związek z informacjami, które już znamy, jak to kto rządzi Ameryką.</p>
 
   </article>
-  <nav class="miejsca-art" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/jerozolima.html">Jerozolima</a></span></nav>
+  <nav class="miejsca-art" id="miejsca" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/jerozolima.html">Jerozolima</a></span></nav>
   <div class="zapytaj">
     <b>Porozmawiaj o tym artykule z AI</b>
     <p>Kliknij, żeby skopiować prośbę, i wklej ją w rozmowie z asystentem, który ma podłączone archiwum. <a href="../#jak-zaczac">Jak podłączyć →</a></p>
@@ -178,6 +178,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="../menu.js" defer></script>
 <script src="czytelnia.js" defer></script>
 <script src="czytaj.js" defer></script>
 </body>

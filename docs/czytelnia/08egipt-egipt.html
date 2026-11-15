@@ -26,11 +26,11 @@
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
-  <nav>
-    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+  <nav aria-label="Menu główne">
+    <div class="menu-linki" id="menu-linki"><a href="../czytelnia/" aria-current="page">Czytelnia</a><a href="../atlas/">Atlas</a><a href="../#podcast">Podcast</a><a href="../#jak-zaczac">Rozmowa z AI</a><a href="../#o-stronie">O stronie</a></div>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel"><span aria-hidden="true">▤</span> Spis<span class="tylko-szeroki"> treści</span></button>
     <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
-    <a href="../atlas/">Atlas</a>
-    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+    <button class="hamburger" type="button" aria-expanded="false" aria-controls="menu-linki" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
   </nav>
 </div></header>
 <div class="panel-wygladu" id="panel-wygladu" hidden>
@@ -370,7 +370,7 @@
 <p>Gdyby wszystkich egiptologów zastąpić dziś dobrze wykształconymi inżynierami, dołączyć do nich specjalistów od kryminalistyki i udostępnić im zebrane dotychczas dane, to prawdopodobnie w krótkim czasie otrzymalibyśmy spójną hipotezę, dalece bardziej zbliżoną do prawdy niż głosi dzisiejsza egiptologia.</p>
 
   </article>
-  <nav class="miejsca-art" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/piramidy-w-gizie.html">Piramidy w Gizie</a><a href="../atlas/abydos-i-osireion.html">Abydos i Osireion</a><a href="../atlas/dolina-krolow.html">Dolina Królów</a><a href="../atlas/niedokonczony-obelisk-w-asuanie.html">Niedokończony obelisk w Asuanie</a><a href="../atlas/sakkara.html">Sakkara</a><a href="../atlas/dahszur.html">Dahszur</a><a href="../atlas/piramida-w-meidum.html">Piramida w Meidum</a><a href="../atlas/abu-roasz.html">Abu Roasz</a><a href="../atlas/abusir.html">Abusir</a><a href="../atlas/zawijet-el-arjan.html">Zawijet el-Arjan</a><a href="../atlas/hawara-i-labirynt.html">Hawara i Labirynt</a><a href="../atlas/jezioro-mojrisa-fajum.html">Jezioro Mojrisa (Fajum)</a><a href="../atlas/lahun.html">Lahun</a><a href="../atlas/lisht.html">Lisht</a><a href="../atlas/dendera.html">Dendera</a><a href="../atlas/heliopolis.html">Heliopolis</a><a href="../atlas/memfis.html">Memfis</a><a href="../atlas/teby-luksor-i-karnak.html">Teby (Luksor i Karnak)</a><a href="../atlas/deir-el-bahari.html">Deir el-Bahari</a><a href="../atlas/edfu.html">Edfu</a><a href="../atlas/esna.html">Esna</a><a href="../atlas/kom-ombo.html">Kom Ombo</a><a href="../atlas/file-philae.html">File (Philae)</a><a href="../atlas/teotihuacan.html">Teotihuacan</a><a href="../atlas/tenayuca.html">Tenayuca</a></span></nav>
+  <nav class="miejsca-art" id="miejsca" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/piramidy-w-gizie.html">Piramidy w Gizie</a><a href="../atlas/abydos-i-osireion.html">Abydos i Osireion</a><a href="../atlas/dolina-krolow.html">Dolina Królów</a><a href="../atlas/niedokonczony-obelisk-w-asuanie.html">Niedokończony obelisk w Asuanie</a><a href="../atlas/sakkara.html">Sakkara</a><a href="../atlas/dahszur.html">Dahszur</a><a href="../atlas/piramida-w-meidum.html">Piramida w Meidum</a><a href="../atlas/abu-roasz.html">Abu Roasz</a><a href="../atlas/abusir.html">Abusir</a><a href="../atlas/zawijet-el-arjan.html">Zawijet el-Arjan</a><a href="../atlas/hawara-i-labirynt.html">Hawara i Labirynt</a><a href="../atlas/jezioro-mojrisa-fajum.html">Jezioro Mojrisa (Fajum)</a><a href="../atlas/lahun.html">Lahun</a><a href="../atlas/lisht.html">Lisht</a><a href="../atlas/dendera.html">Dendera</a><a href="../atlas/heliopolis.html">Heliopolis</a><a href="../atlas/memfis.html">Memfis</a><a href="../atlas/teby-luksor-i-karnak.html">Teby (Luksor i Karnak)</a><a href="../atlas/deir-el-bahari.html">Deir el-Bahari</a><a href="../atlas/edfu.html">Edfu</a><a href="../atlas/esna.html">Esna</a><a href="../atlas/kom-ombo.html">Kom Ombo</a><a href="../atlas/file-philae.html">File (Philae)</a><a href="../atlas/teotihuacan.html">Teotihuacan</a><a href="../atlas/tenayuca.html">Tenayuca</a></span></nav>
   <p class="zrodla-art">Źródła cytowane w artykule, dostępne w bibliotece archiwum: <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/apulejusz-metamorfozy-la.md">Metamorphoses (Złoty osioł)</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/apulejusz-zloty-osiol.md">The Golden Asse</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/herodot-dzieje-grc.md">Ἱστορίαι (Dzieje)</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/herodot-dzieje.md">Dzieje</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/pliniusz-historia-naturalna-6.md">The Natural History of Pliny, Volume 6</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/pliniusz-historia-naturalna-la.md">Naturalis Historia (Historia naturalna)</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/strabon-geografia-3.md">The Geography of Strabo, Volume 3</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/strabon-geografia-grc.md">Γεωγραφικά (Geografia)</a>.</p>
   <div class="zapytaj">
     <b>Porozmawiaj o tym artykule z AI</b>
@@ -388,6 +388,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="../menu.js" defer></script>
 <script src="czytelnia.js" defer></script>
 <script src="czytaj.js" defer></script>
 </body>

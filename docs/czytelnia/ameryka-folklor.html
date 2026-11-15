@@ -26,11 +26,11 @@
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
-  <nav>
-    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+  <nav aria-label="Menu główne">
+    <div class="menu-linki" id="menu-linki"><a href="../czytelnia/" aria-current="page">Czytelnia</a><a href="../atlas/">Atlas</a><a href="../#podcast">Podcast</a><a href="../#jak-zaczac">Rozmowa z AI</a><a href="../#o-stronie">O stronie</a></div>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel"><span aria-hidden="true">▤</span> Spis<span class="tylko-szeroki"> treści</span></button>
     <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
-    <a href="../atlas/">Atlas</a>
-    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+    <button class="hamburger" type="button" aria-expanded="false" aria-controls="menu-linki" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
   </nav>
 </div></header>
 <div class="panel-wygladu" id="panel-wygladu" hidden>
@@ -249,7 +249,7 @@
 <p>Czy kiedykolwiek dojdziemy prawdy? Wątpię. Dopóki najstarszą historię Ziemi będą badać i komentować historycy dzisiejszego pokroju, to chyba nigdy. Dla tego typu uczonych, którzy jeszcze usiłują coś pisać lub mówić na temat najstarszej historii naszej cywilizacji, proponuję bezwzględnie wprowadzić dewizę stosowaną w medycynie - &quot;<strong>Primum non nocere</strong>&quot;. Póki jeszcze wszystkich nie zdołali ogłupić.</p>
 
   </article>
-  <nav class="miejsca-art" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/kartagina.html">Kartagina</a><a href="../atlas/teotihuacan.html">Teotihuacan</a><a href="../atlas/palenque.html">Palenque</a><a href="../atlas/tikal.html">Tikal</a><a href="../atlas/uxmal.html">Uxmal</a><a href="../atlas/chichen-itza.html">Chichén Itzá</a><a href="../atlas/coba.html">Cobá</a><a href="../atlas/calakmul.html">Calakmul</a><a href="../atlas/mayapan.html">Mayapán</a><a href="../atlas/el-tajin.html">El Tajín</a><a href="../atlas/monte-alban.html">Monte Albán</a><a href="../atlas/xochicalco.html">Xochicalco</a><a href="../atlas/tenochtitlan.html">Tenochtitlan</a></span></nav>
+  <nav class="miejsca-art" id="miejsca" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/kartagina.html">Kartagina</a><a href="../atlas/teotihuacan.html">Teotihuacan</a><a href="../atlas/palenque.html">Palenque</a><a href="../atlas/tikal.html">Tikal</a><a href="../atlas/uxmal.html">Uxmal</a><a href="../atlas/chichen-itza.html">Chichén Itzá</a><a href="../atlas/coba.html">Cobá</a><a href="../atlas/calakmul.html">Calakmul</a><a href="../atlas/mayapan.html">Mayapán</a><a href="../atlas/el-tajin.html">El Tajín</a><a href="../atlas/monte-alban.html">Monte Albán</a><a href="../atlas/xochicalco.html">Xochicalco</a><a href="../atlas/tenochtitlan.html">Tenochtitlan</a></span></nav>
   <p class="zrodla-art">Źródła cytowane w artykule, dostępne w bibliotece archiwum: <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/platon-kritias-grc.md">Κριτίας (Kritias)</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/platon-kritias.md">Kritias</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/popol-vuh.md">The Popol Vuh</a>.</p>
   <div class="zapytaj">
     <b>Porozmawiaj o tym artykule z AI</b>
@@ -267,6 +267,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="../menu.js" defer></script>
 <script src="czytelnia.js" defer></script>
 <script src="czytaj.js" defer></script>
 </body>

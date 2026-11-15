@@ -23,10 +23,9 @@
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · atlas</span></a>
-  <nav>
-    <a href="./">Mapa</a>
-    <a href="../czytelnia/">Czytelnia</a>
-    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+  <nav aria-label="Menu główne">
+    <div class="menu-linki" id="menu-linki"><a href="../czytelnia/">Czytelnia</a><a href="../atlas/" aria-current="page">Atlas</a><a href="../#podcast">Podcast</a><a href="../#jak-zaczac">Rozmowa z AI</a><a href="../#o-stronie">O stronie</a></div>
+    <button class="hamburger" type="button" aria-expanded="false" aria-controls="menu-linki" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
   </nav>
 </div></header>
 <main class="wrap-atlas">
@@ -95,6 +94,7 @@
 </div></footer>
 <dialog class="podglad" id="podglad"><form method="dialog"><button class="zamknij" aria-label="Zamknij">✕</button></form><img alt=""><p></p></dialog>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="../menu.js" defer></script>
 <script src="atlas.js" defer></script>
 </body>
 </html>

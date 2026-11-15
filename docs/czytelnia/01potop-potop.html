@@ -26,11 +26,11 @@
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
-  <nav>
-    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+  <nav aria-label="Menu główne">
+    <div class="menu-linki" id="menu-linki"><a href="../czytelnia/" aria-current="page">Czytelnia</a><a href="../atlas/">Atlas</a><a href="../#podcast">Podcast</a><a href="../#jak-zaczac">Rozmowa z AI</a><a href="../#o-stronie">O stronie</a></div>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel"><span aria-hidden="true">▤</span> Spis<span class="tylko-szeroki"> treści</span></button>
     <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
-    <a href="../atlas/">Atlas</a>
-    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+    <button class="hamburger" type="button" aria-expanded="false" aria-controls="menu-linki" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
   </nav>
 </div></header>
 <div class="panel-wygladu" id="panel-wygladu" hidden>
@@ -178,7 +178,7 @@
 <p>Jeśli Hapgood miał rację, to być może my lub nasze potomstwo, doświadczymy dowodu na prawdziwość hipotezy &quot;wielkiego uskoku skorupy ziemskiej&quot;, lecz będzie to ostatnie życiowe doświadczenie. Czy nie nadszedł czas, by wreszcie uwierzyć, że mądrość starożytnych doskonale odróżniała &quot;4-Ahau 8-Cumhu&quot; od &quot;Naui Ollin&quot;?</p>
 
   </article>
-  <nav class="miejsca-art" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/ararat.html">Ararat</a><a href="../atlas/szuruppak.html">Szuruppak</a><a href="../atlas/troja.html">Troja</a><a href="../atlas/delfy.html">Delfy</a><a href="../atlas/samotraka.html">Samotraka</a><a href="../atlas/tiahuanaco.html">Tiahuanaco</a></span></nav>
+  <nav class="miejsca-art" id="miejsca" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/ararat.html">Ararat</a><a href="../atlas/szuruppak.html">Szuruppak</a><a href="../atlas/troja.html">Troja</a><a href="../atlas/delfy.html">Delfy</a><a href="../atlas/samotraka.html">Samotraka</a><a href="../atlas/tiahuanaco.html">Tiahuanaco</a></span></nav>
   <p class="zrodla-art">Źródła cytowane w artykule, dostępne w bibliotece archiwum: <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/chilam-balam.md">The Books of Chilan Balam</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/gilgamesz.md">An Old Babylonian Version of the Gilgamesh Epic</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/ksiega-henocha.md">The Book of Enoch</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/ksiega-rodzaju-he.md">בְּרֵאשִׁית (Księga Rodzaju)</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/ksiega-rodzaju.md">Genesis. Księga Rodzaju</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/le-plongeon-sacred-mysteries.md">Sacred Mysteries Among the Mayas and the Quiches</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/owidiusz-przemiany-la.md">Metamorphoses (Przemiany)</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/owidiusz-przemiany.md">Przemiany (Metamorfozy)</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/platon-kritias-grc.md">Κριτίας (Kritias)</a>, <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/biblioteka/platon-kritias.md">Kritias</a>.</p>
   <div class="zapytaj">
     <b>Porozmawiaj o tym artykule z AI</b>
@@ -196,6 +196,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="../menu.js" defer></script>
 <script src="czytelnia.js" defer></script>
 </body>
 </html>

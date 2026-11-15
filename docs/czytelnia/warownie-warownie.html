@@ -26,11 +26,11 @@
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
-  <nav>
-    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+  <nav aria-label="Menu główne">
+    <div class="menu-linki" id="menu-linki"><a href="../czytelnia/" aria-current="page">Czytelnia</a><a href="../atlas/">Atlas</a><a href="../#podcast">Podcast</a><a href="../#jak-zaczac">Rozmowa z AI</a><a href="../#o-stronie">O stronie</a></div>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel"><span aria-hidden="true">▤</span> Spis<span class="tylko-szeroki"> treści</span></button>
     <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
-    <a href="../atlas/">Atlas</a>
-    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+    <button class="hamburger" type="button" aria-expanded="false" aria-controls="menu-linki" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
   </nav>
 </div></header>
 <div class="panel-wygladu" id="panel-wygladu" hidden>
@@ -317,7 +317,7 @@
 <p>Proszę obejrzeć inne kamienne zamki na doskonałych stronach <a href="http://www.templariusze.org/galeria.php?tytul=Galerie%20Szlaku%20Templariuszy" rel="noopener" target="_blank"><strong>Szlak Templariuszy</strong></a> oraz polskie <a href="http://www.zamkipolskie.hg.pl/index.html" rel="noopener" target="_blank"><strong>Zamki znane i nieznane</strong></a></p>
 
   </article>
-  <nav class="miejsca-art" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/byblos.html">Byblos</a><a href="../atlas/sydon.html">Sydon</a><a href="../atlas/petra.html">Petra</a><a href="../atlas/sardes.html">Sardes</a><a href="../atlas/krak-des-chevaliers.html">Krak des Chevaliers</a><a href="../atlas/margat.html">Margat</a><a href="../atlas/kerak.html">Kerak</a><a href="../atlas/safita.html">Safita</a><a href="../atlas/belvoir.html">Belvoir</a><a href="../atlas/bagras.html">Bagras</a><a href="../atlas/akka.html">Akka</a><a href="../atlas/mont-saint-michel.html">Mont-Saint-Michel</a><a href="../atlas/conimbriga.html">Conímbriga</a><a href="../atlas/alhambra.html">Alhambra</a><a href="../atlas/zamek-w-malborku.html">Zamek w Malborku</a></span></nav>
+  <nav class="miejsca-art" id="miejsca" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span><a href="../atlas/byblos.html">Byblos</a><a href="../atlas/sydon.html">Sydon</a><a href="../atlas/petra.html">Petra</a><a href="../atlas/sardes.html">Sardes</a><a href="../atlas/krak-des-chevaliers.html">Krak des Chevaliers</a><a href="../atlas/margat.html">Margat</a><a href="../atlas/kerak.html">Kerak</a><a href="../atlas/safita.html">Safita</a><a href="../atlas/belvoir.html">Belvoir</a><a href="../atlas/bagras.html">Bagras</a><a href="../atlas/akka.html">Akka</a><a href="../atlas/mont-saint-michel.html">Mont-Saint-Michel</a><a href="../atlas/conimbriga.html">Conímbriga</a><a href="../atlas/alhambra.html">Alhambra</a><a href="../atlas/zamek-w-malborku.html">Zamek w Malborku</a></span></nav>
   <div class="zapytaj">
     <b>Porozmawiaj o tym artykule z AI</b>
     <p>Kliknij, żeby skopiować prośbę, i wklej ją w rozmowie z asystentem, który ma podłączone archiwum. <a href="../#jak-zaczac">Jak podłączyć →</a></p>
@@ -334,6 +334,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="../menu.js" defer></script>
 <script src="czytelnia.js" defer></script>
 <script src="czytaj.js" defer></script>
 </body>

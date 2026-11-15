@@ -26,11 +26,11 @@
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · archiwum</span></a>
-  <nav>
-    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
+  <nav aria-label="Menu główne">
+    <div class="menu-linki" id="menu-linki"><a href="../czytelnia/" aria-current="page">Czytelnia</a><a href="../atlas/">Atlas</a><a href="../#podcast">Podcast</a><a href="../#jak-zaczac">Rozmowa z AI</a><a href="../#o-stronie">O stronie</a></div>
+    <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel"><span aria-hidden="true">▤</span> Spis<span class="tylko-szeroki"> treści</span></button>
     <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
-    <a href="../atlas/">Atlas</a>
-    <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
+    <button class="hamburger" type="button" aria-expanded="false" aria-controls="menu-linki" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
   </nav>
 </div></header>
 <div class="panel-wygladu" id="panel-wygladu" hidden>
@@ -82,7 +82,7 @@
     </li><li class="karta-art" data-szukaj="wielki uskok... autor broni hipotezy charlesa hapgooda o nagłym przesunięciu całej skorupy ziemskiej pod wpływem nagromadzonego lodu na biegunie i uważa, że ostatnie takie zdarzenie miało miejsce ok. 12,5 tys. lat temu. za ślady uskoku uznaje zniszczenia starożytnych budowli, zasypane ruiny, słone jeziora śródlądowe, nietypowe odchylenia osi budowli od północy oraz dane z grenlandii. twierdzi, że starożytna wiedza astronomiczna została przekazana jako ostrzeżenie przed kolejnym kataklizmem, a data 23 grudnia 2012 może dotyczyć raczej zdarzenia dawnego niż przyszłego. zaznacza, że nie jest geofizykiem, a część obliczeń jest orientacyjna. wielki uskok skorupy ziemskiej hipoteza hapgooda potop tsunami przesunięcie biegunów słone jeziora śródlądowe orientacja budowli megality astronomia starożytnych 2012 kataklizmy cykliczne zniszczenia budowli">
       <a class="karta-link" href="02uskok-uskok.html">
         <div class="miniatura"><img src="https://raw.githubusercontent.com/jokerwader/uleszka-archiwum/main/zrodlo/webacja/02uskok/uskok.jpg" alt="" loading="lazy" decoding="async"></div>
-        <div class="karta-tresc"><b>Wielki uskok...</b><span class="opis">Autor broni hipotezy Charlesa Hapgooda o nagłym przesunięciu całej skorupy ziemskiej pod wpływem nagromadzonego lodu na biegunie i uważa, że ostatnie takie zdarzenie miało miejsce ok. 12,5 tys. lat temu. Za ślady uskoku uznaje zniszczenia starożytnych budowli, zasypane ruiny, słone jeziora śródlądowe, nietypowe odchylenia osi budowli od północy oraz dane z Grenlandii. Twierdzi, że starożytna wiedza astronomiczna została przekazana jako ostrzeżenie przed kolejnym kataklizmem, a data 23 grudnia 2012 może dotyczyć raczej zdarzenia dawnego niż przyszłego. Zaznacza, że nie jest geofizykiem, a część obliczeń jest orientacyjna.</span><span class="meta-art">54 min czytania · 40 zdjęć</span><span class="plakietka-pod" title="niedziela, 15 listopada 2026, godz. 10:00">🎧 odcinek 2 <span class="licznik" data-premiera="2026-11-15T10:00:00+01:00" data-krotko>niedziela, 15 listopada 2026</span></span></div>
+        <div class="karta-tresc"><b>Wielki uskok...</b><span class="opis">Autor broni hipotezy Charlesa Hapgooda o nagłym przesunięciu całej skorupy ziemskiej pod wpływem nagromadzonego lodu na biegunie i uważa, że ostatnie takie zdarzenie miało miejsce ok. 12,5 tys. lat temu. Za ślady uskoku uznaje zniszczenia starożytnych budowli, zasypane ruiny, słone jeziora śródlądowe, nietypowe odchylenia osi budowli od północy oraz dane z Grenlandii. Twierdzi, że starożytna wiedza astronomiczna została przekazana jako ostrzeżenie przed kolejnym kataklizmem, a data 23 grudnia 2012 może dotyczyć raczej zdarzenia dawnego niż przyszłego. Zaznacza, że nie jest geofizykiem, a część obliczeń jest orientacyjna.</span><span class="meta-art">54 min czytania · 40 zdjęć</span><span class="plakietka-pod jest">🎧 w podcaście</span></div>
       </a>
     </li><li class="karta-art" data-szukaj="52 lata autor omawia 52-letni cykl kalendarza majów (tzolkin i haab, data 4-ahau 8-cumhu) na tle interpretacji ericha von dänikena, według którego cykl odpowiada obiegowi hipotetycznej planety x. nie zgadza się z wnioskiem o spotkaniu z bogami i proponuje, że majowie bali się upadku planetoid z „oczka” pierścienia szczątków dawnej planety, o czym ostrzegli ich bogowie kalendarzem. krytykuje naukowe sposoby liczenia kalendarza i przedstawia własne, orientacyjne rachunki. na koniec wiąże te obawy ze współczesnymi doniesieniami o planetoidach i asteroidzie 2004 mn4, sugerując, że astronomowie nie dość poważnie traktują zagrożenie. kalendarz majów cykl 52-letni tzolkin i haab planeta x pas planetoid zagrożenie asteroidami 4-ahau 8-cumhu von däniken kosmiczna katastrofa bogowie">
       <a class="karta-link" href="03majowie-52lata.html">
@@ -595,6 +595,7 @@
   Opracowania i opisy zdjęć przygotowała AI. <a href="https://github.com/jokerwader/uleszka-archiwum">Archiwum na GitHubie</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="../menu.js" defer></script>
 <script src="czytelnia.js" defer></script>
 </body>
 </html>

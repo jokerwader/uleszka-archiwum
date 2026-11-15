@@ -65,13 +65,35 @@
       linear-gradient(180deg, rgba(5, 7, 12, .55) 0%, rgba(5, 7, 12, 0) 18%, rgba(5, 7, 12, 0) 72%, var(--tlo) 100%);
   }
   .hero .wrap { width: 100%; max-width: 1180px; }
-  .pasek { display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: 15px; padding-top: 22px; }
-  .logo { font-family: Georgia, serif; font-weight: 700; letter-spacing: .3px; color: #f4efe4; text-decoration: none; }
+  /* menu górne: przyklejone u góry; nad sceną przezroczyste, po przewinięciu z tłem; na telefonie pod „hamburgerem” (menu.js) */
+  html { scroll-padding-top: 72px; }
+  .pasek { position: fixed; top: 0; left: 0; right: 0; z-index: 50; transition: background .3s, border-color .3s; border-bottom: 1px solid transparent; }
+  .pasek.przewiniete, .menu-otwarte .pasek { background: rgba(7, 9, 15, .86); backdrop-filter: blur(12px); border-bottom-color: rgba(255, 255, 255, .08); }
+  .pasek-wnetrze { max-width: 1180px; margin: 0 auto; padding: 12px 20px; display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: 15px; }
+  .logo { font-family: Georgia, serif; font-weight: 700; letter-spacing: .3px; color: #f4efe4; text-decoration: none; white-space: nowrap; }
   .logo span { color: #e8b04b; }
-  .pasek a.gh { color: #cfd6e4; text-decoration: none; border: 1px solid rgba(255, 255, 255, .18); padding: 6px 14px; border-radius: 999px; backdrop-filter: blur(6px); }
-  .pasek a.gh:hover { border-color: #e8b04b; color: #fff; }
-  .nav-prawa { display: flex; gap: 8px; }
-  .hero-tresc { flex: 1; display: flex; flex-direction: column; justify-content: center; padding-top: 40px; padding-bottom: 24px; }
+  .logo .logo-dop { color: inherit; }
+  .menu-linki { display: flex; align-items: center; gap: 2px; }
+  .menu-linki a { color: #cfd6e4; text-decoration: none; padding: 7px 12px; border-radius: 999px; border: 1px solid transparent; white-space: nowrap; }
+  .menu-linki a:hover { color: #fff; border-color: rgba(255, 255, 255, .18); }
+  .menu-linki a.gh { border-color: rgba(255, 255, 255, .18); margin-left: 6px; }
+  .menu-linki a.gh:hover { border-color: #e8b04b; }
+  .hamburger { display: none; width: 44px; height: 40px; padding: 0; border: 1px solid rgba(255, 255, 255, .2); border-radius: 12px; background: rgba(7, 9, 15, .5);
+    cursor: pointer; flex-direction: column; justify-content: center; align-items: center; gap: 5px; backdrop-filter: blur(6px); }
+  .hamburger span { display: block; width: 20px; height: 2px; border-radius: 2px; background: #f4efe4; transition: transform .2s, opacity .2s; }
+  .hamburger[aria-expanded="true"] span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .hamburger[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+  .hamburger[aria-expanded="true"] span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+  @media (max-width: 820px) {
+    .hamburger { display: inline-flex; }
+    .menu-linki { display: none; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; align-items: stretch; gap: 0; padding: 4px 20px 16px;
+      background: rgba(7, 9, 15, .96); border-bottom: 1px solid rgba(255, 255, 255, .08); box-shadow: 0 24px 50px rgba(0, 0, 0, .5); }
+    .menu-otwarte .menu-linki { display: flex; }
+    .menu-linki a, .menu-linki a.gh { padding: 14px 4px; margin: 0; border: 0; border-bottom: 1px solid rgba(255, 255, 255, .08); border-radius: 0; font-size: 17px; }
+    .menu-linki a:last-child { border-bottom: 0; }
+  }
+  @media (max-width: 420px) { .logo .logo-dop { display: none; } }
+  .hero-tresc { flex: 1; display: flex; flex-direction: column; justify-content: center; padding-top: 104px; padding-bottom: 24px; }
   .hero-tresc > * { max-width: 580px; }
   .hero-tresc > h1 { max-width: 760px; }
   .hero .eyebrow { margin: 0 0 18px; color: #e8b04b; font-size: 13px; letter-spacing: 3px; text-transform: uppercase; font-weight: 600; }
@@ -239,12 +261,19 @@
   .odcinek + .odcinek { margin-top: 18px; }
   .podcast-obserwuj { margin: 22px 0 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
   .btn-yt::before { content: "▶"; display: inline-grid; place-items: center; width: 22px; height: 16px; border-radius: 5px; background: #e02020; color: #fff; font-size: 9px; }
-  .nastepny { margin: 18px 0 0; padding: 16px 20px; border: 1px dashed rgba(232, 176, 75, .45); border-radius: 16px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; color: var(--tekst-2); font-size: 15px; }
-  .nastepny .etykieta-zr { flex-basis: 100%; }
-  .nastepny a { font: 700 19px Georgia, serif; color: #f4efe4; text-decoration: none; }
+  .nastepny { margin: 22px 0 0; padding: 20px 24px; border: 1px solid rgba(232, 176, 75, .45); border-radius: 20px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px 24px;
+    color: var(--tekst-2); font-size: 15px; background: radial-gradient(ellipse 70% 120% at 100% 0%, rgba(226, 169, 63, .14), transparent 70%), rgba(255, 255, 255, .02); }
+  .nastepny-opis { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+  .nastepny a { font: 700 22px Georgia, serif; color: #f4efe4; text-decoration: none; }
   .nastepny a:hover { color: var(--akcent-mocny); }
-  .nastepny .ile { font-weight: 700; color: var(--akcent-mocny); }
-  .nastepny a.yt { flex-basis: 100%; margin-top: 6px; font: 600 15px/1.4 system-ui, sans-serif; color: var(--akcent-mocny); }
+  .odliczanie { display: flex; gap: 8px; }
+  .odliczanie span { display: flex; flex-direction: column; align-items: center; min-width: 64px; padding: 10px 6px 8px; border-radius: 14px; background: rgba(5, 7, 12, .55);
+    border: 1px solid rgba(232, 176, 75, .25); font-size: 11.5px; letter-spacing: 1px; text-transform: uppercase; color: var(--tekst-2); }
+  .odliczanie b { font: 700 30px/1.1 Georgia, serif; color: var(--akcent-mocny); font-variant-numeric: tabular-nums; letter-spacing: 0; }
+  .nastepny .ile { flex-basis: 100%; font-weight: 700; color: var(--akcent-mocny); }
+  .nastepny .ile:empty { display: none; }
+  .nastepny a.yt { flex-basis: 100%; margin-top: -4px; font: 600 15px/1.4 system-ui, sans-serif; color: var(--akcent-mocny); }
+  @media (max-width: 560px) { .odliczanie { width: 100%; } .odliczanie span { flex: 1; min-width: 0; } .odliczanie b { font-size: 26px; } }
   .nastepny a.yt::before { content: "▶"; display: inline-grid; place-items: center; width: 22px; height: 16px; margin-right: 8px; border-radius: 5px; background: #e02020; color: #fff; font-size: 9px; vertical-align: 1px; }
   .odcinek img { width: 140px; height: 140px; border-radius: 14px; box-shadow: 0 10px 30px rgba(0, 0, 0, .5); display: block; }
   .odcinek h3 { margin: 4px 0 6px; font-size: 24px; }
@@ -456,10 +485,13 @@
 <header class="hero" id="hero">
   <canvas id="scena" aria-hidden="true"></canvas>
   <div class="wrap">
-    <nav class="pasek">
-      <a class="logo" href="#">uleszka<span>.net</span> · archiwum</a>
-      <span class="nav-prawa"><a class="gh" href="atlas/">Atlas</a> <a class="gh" href="czytelnia/">Czytelnia</a> <a class="gh" href="https://github.com/jokerwader/uleszka-archiwum">GitHub</a></span>
-    </nav>
+    <nav class="pasek" aria-label="Menu główne"><div class="pasek-wnetrze">
+      <a class="logo" href="#">uleszka<span>.net</span><span class="logo-dop"> · archiwum</span></a>
+      <div class="menu-linki" id="menu-linki">
+        <a href="#jak-zaczac">Rozmowa z AI</a><a href="#podcast">Podcast</a><a href="atlas/">Atlas</a><a href="czytelnia/">Czytelnia</a><a href="#o-stronie">O stronie</a><a class="gh" href="https://github.com/jokerwader/uleszka-archiwum">GitHub</a>
+      </div>
+      <button class="hamburger" type="button" aria-expanded="false" aria-controls="menu-linki" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
+    </div></nav>
   </div>
   <div class="wrap hero-tresc">
     <p class="eyebrow wejscie">„Uwierz we własny rozum” · 2004–2007</p>
@@ -525,7 +557,21 @@
           <p class="odcinek-linki"><a href="czytelnia/01potop-potop.html">Przeczytaj tekst ze zdjęciami →</a></p>
         </div>
       </div>
-      <p class="nastepny" id="nastepny" hidden></p>
+      <div class="odcinek">
+        <img src="img/podcast.jpg" alt="" width="140" height="140">
+        <div class="odcinek-opis">
+          <span class="etykieta-zr">Odcinek 2</span>
+          <h3>Wielki uskok…</h3>
+          <p>Czy cała skorupa Ziemi może nagle się przesunąć? Hipoteza Hapgooda, słone jeziora wysoko w Andach i ślady katastrofy sprzed 12,5 tysiąca lat.</p>
+          <div class="spotify" data-odcinek="14g2fi8onwYcF3lfB8C12G" data-tytul="Wielki uskok…">
+            <button class="btn btn-glowny spotify-graj" type="button">▶ Odtwórz tutaj</button>
+            <a class="btn btn-drugi" href="https://open.spotify.com/episode/14g2fi8onwYcF3lfB8C12G" target="_blank" rel="noopener">Otwórz w Spotify ↗</a>
+            <a class="btn btn-drugi btn-yt" href="https://www.youtube.com/watch?v=IJm7IZaIKN0" target="_blank" rel="noopener">YouTube ↗</a>
+          </div>
+          <p class="odcinek-linki"><a href="czytelnia/02uskok-uskok.html">Przeczytaj tekst ze zdjęciami →</a> · <a href="czytelnia/02uskok-uskok.html#miejsca">19 miejsc z odcinka w atlasie →</a></p>
+        </div>
+      </div>
+      <div class="nastepny" id="nastepny" hidden></div>
       <p class="podcast-obserwuj"><a class="btn btn-drugi" href="https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu" target="_blank" rel="noopener">Obserwuj podcast w Spotify ↗</a> <a class="btn btn-drugi btn-yt" href="https://www.youtube.com/channel/UCUQV--Lfb4i2o_QAFPOOGVA" target="_blank" rel="noopener">Subskrybuj na YouTube ↗</a></p>
     </div>
   </section>
@@ -950,7 +996,8 @@
       const p = plan.find((x) => new Date(x.iso) > Date.now() - 36e5 * 24);
       if (!p) return;
       const el = document.getElementById("nastepny");
-      el.innerHTML = '<span class="etykieta-zr">Następny odcinek</span><a></a><span class="kiedy"></span><span class="ile"></span>';
+      el.innerHTML = '<div class="nastepny-opis"><span class="etykieta-zr">Następny odcinek · premiera</span><a></a><span class="kiedy"></span></div>'
+        + '<div class="odliczanie" aria-live="off"><span><b data-j="d">0</b>dni</span><span><b data-j="h">00</b>godz.</span><span><b data-j="m">00</b>min</span><span><b data-j="s">00</b>sek.</span></div><span class="ile"></span>';
       el.querySelector("a").href = p.url;
       el.querySelector("a").textContent = `${p.nr}. ${p.tytul}`;
       el.querySelector(".kiedy").textContent = p.kiedy;
@@ -958,13 +1005,19 @@
         const yt = Object.assign(document.createElement("a"), { className: "yt", href: `https://www.youtube.com/watch?v=${encodeURIComponent(p.youtube)}`, target: "_blank", rel: "noopener", textContent: "Premiera na YouTube ↗" });
         el.append(yt);
       }
-      const odm = (n) => (n === 1 ? "dzień" : "dni");
+      const pole = (j) => el.querySelector(`[data-j="${j}"]`);
+      const dwa = (n) => String(n).padStart(2, "0");
       const licz = () => {
-        const ms = new Date(p.iso) - Date.now(), min = Math.floor(ms / 6e4), d = Math.floor(min / 1440), h = Math.floor((min % 1440) / 60);
-        el.querySelector(".ile").textContent = ms <= 0 ? "· lada chwila" : d ? `· za ${d} ${odm(d)}${h ? ` ${h} godz.` : ""}` : h ? `· za ${h} godz. ${min % 60} min` : `· za ${Math.max(1, min)} min`;
+        const ms = Math.max(0, new Date(p.iso) - Date.now()), s = Math.floor(ms / 1000);
+        pole("d").textContent = Math.floor(s / 86400);
+        pole("d").nextSibling.textContent = Math.floor(s / 86400) === 1 ? "dzień" : "dni";
+        pole("h").textContent = dwa(Math.floor((s % 86400) / 3600));
+        pole("m").textContent = dwa(Math.floor((s % 3600) / 60));
+        pole("s").textContent = dwa(s % 60);
+        el.querySelector(".ile").textContent = ms ? "" : "Premiera lada chwila – odśwież stronę";
       };
       licz();
-      setInterval(licz, 30000);
+      setInterval(licz, 1000);
       el.hidden = false;
     } catch {}
   })();
@@ -1084,5 +1137,6 @@
   } }
 </script>
 <script type="module" src="scena.js"></script>
+<script src="menu.js" defer></script>
 </body>
 </html>
