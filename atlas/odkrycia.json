@@ -1510,6 +1510,23 @@
   ],
   "sleza": [
     {
+      "rok": "2012",
+      "tytul": "Osada z wałem na Gozdnicy: pierwsze zbadane domy mieszkalne w masywie Ślęży",
+      "opis": "Archeolodzy z Instytutu Archeologii Uniwersytetu Wrocławskiego (Patryk Chudzik, pod kierunkiem Artura Błażejewskiego) zbadali w latach 2008–2009 relikty kamienno-ziemnych domów otoczonych wałem w rejonie Góry Gozdnicy, na północnym skraju masywu. Jeden z domów miał ok. 9,5 × 8,4 m, ściany z dwóch rzędów usypisk kamienno-ziemnych i słupy w środku. Podkowa znaleziona wśród zabudowy wskazuje na przełom XIV i XV wieku, a osada mogła powstać już ok. 1200 roku, choć z tego czasu brak śladów. Wyniki podano jako wstępne; hipotezę, że osada służyła mieszczanom szykującym się do ataku na husytów w zamku na szczycie, autorzy traktują jedynie jako przypuszczenie.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Nauka w Polsce (PAP), 2012: „Archeolodzy odkryli w Masywie Ślęży nieznane budowle”",
+          "url": "https://naukawpolsce.pl/aktualnosci/news,392985,archeolodzy-odkryli-w-masywie-slezy-nieznane-budowle.html"
+        },
+        {
+          "nazwa": "Polskie Radio, 2012: „Ślęża odsłania relikty nieznanych budowli”",
+          "url": "https://www.polskieradio.pl/23/266/artykul/730073,sleza-odslania-relikty-nieznanych-budowli"
+        }
+      ],
+      "artykul": "13celtowie/celt"
+    },
+    {
       "rok": "2015–2020",
       "tytul": "Spór o wiek rzeźb ze Ślęży: średniowieczna osada kamieniarzy czy kult sprzed epoki żelaza",
       "opis": "Archeolog Patryk Chudzik argumentuje, że niedźwiedź i „panna z rybą” mogą być dziełem średniowiecznych kamieniarzy z końca XII lub początku XIII wieku, bo znaleziono je w pobliżu osady kamieniarzy na północnym stoku. Inni badacze, np. Aleksander Limisiewicz, wiążą rzeźby z okresem lateńskim (ok. 400 p.n.e. – początek n.e.), a Wacław Korta z przełomem epoki brązu i żelaza. Rzeźby leżą poza pierwotnym kontekstem archeologicznym, więc żadna z metod nie pozwala dziś ich datować pewnie; spór pozostaje otwarty.",
@@ -1526,6 +1543,42 @@
       ],
       "artykul": "13celtowie/celt",
       "cytat_leszka": "Znane sa też zapewne kamienne rzeźby z okolic Ślęży, ponoć świętej góry śląskich pogan, na której szczycie odkryto pozostałości kamiennej budowli."
+    },
+    {
+      "rok": "2015",
+      "tytul": "Czy Ślęża była świętą górą? Archeolog: brak na to dostatecznych dowodów",
+      "opis": "W relacji Focus Historia Patryk Chudzik z Instytutu Archeologii UWr, prowadzący badania w masywie, opisuje potężne kamienne wały wokół szczytu, które bywają odczytywane jako kultowe (granica sacrum i profanum) albo jako zwykłe ogrodzenia dla zwierząt. Co do powojennej tezy o słowiańskim ośrodku kultu stwierdza, że nie ma na nią dostatecznych dowodów archeologicznych. Podobnie pisze archeolożka z bloga Archeo-opowieści (2023): rzeźby nie mają kontekstu archeologicznego, więc nie da się ich pewnie datować, a istnienia świątyni na szczycie nie potwierdzono. To ocena stanu wiedzy, nie nowe znalezisko.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Focus Historia, 2015: „Swego nie znacie. Masyw Ślęży to prawdziwa kopalnia zagadek!”",
+          "url": "https://www.focus.pl/artykul/swego-nie-znacie-masyw-slezy-to-prawdziwa-kopalnia-zagadek"
+        },
+        {
+          "nazwa": "Archeo-opowieści, 2023: „O co chodzi z tą Ślężą?”",
+          "url": "https://archeo-opowiesci.pl/o-co-chodzi-z-ta-sleza/"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "ponoć świętej góry śląskich pogan"
+    },
+    {
+      "rok": "2018",
+      "tytul": "Szczyt Ślęży: pod kościołem odkryto mury zamku, dalszych badań nie prowadzono",
+      "opis": "Michał Pawleta (Instytut Archeologii UAM) w przeglądzie z 2018 roku przypomina, że w 2004 i 2005 roku archeolodzy z Uniwersytetu Wrocławskiego, na zlecenie fundacji kierującej się przekazami medium, rozebrali posadzkę kościoła na szczycie. Zamiast litej skały znaleziono mury średniowiecznego zamku, a georadar wskazał dalsze anomalie pod ziemią. W 2006 roku kuria nie przedłużyła zgody na prace i według Pawlety nie podjęto ich ponownie, więc o samym szczycie wiadomo niewiele ponad te dwa sezony. Ta sama praca podaje, że rzeźby wykonano z miejscowego gabra, a sens i wiek znaku ukośnego krzyża na nich pozostają sporne.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Pawleta, Folia Praehistorica Posnaniensia 22, 2017 (online 2018): Past in the present: Mount Ślęża according to Pierre Nora’s concept",
+          "url": "https://pressto.amu.edu.pl/index.php/fpp/article/view/13610"
+        },
+        {
+          "nazwa": "Nauka w Polsce (PAP), 2004: „Odkrycia archeologiczne na górze Ślęża”",
+          "url": "https://naukawpolsce.pl/aktualnosci/news,18221,odkrycia-archeologiczne-na-gorze-sleza.html"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "na której szczycie odkryto pozostałości kamiennej budowli"
     },
     {
       "rok": "2021",
@@ -1554,6 +1607,18 @@
       ],
       "artykul": "13celtowie/celt",
       "cytat_leszka": "Na Ślęży rozgrzebuje się coś archeologicznie, ale jak dotąd nie opublikowano żadnych badań."
+    },
+    {
+      "rok": "2024",
+      "tytul": "Romańskie palatium w Sobótce-Górce: najstarszy mur u stóp Ślęży z połowy XII wieku",
+      "opis": "Klaudia Stala (Politechnika Krakowska) podsumowała badania archeologiczno-architektoniczne z lat 2002–2008 w Górce koło Sobótki. Najstarszą fazę budowli w zamku datuje na połowę XII wieku i uznaje za świecką rezydencję możnowładczą, prawdopodobnie Piotra Włostowica; byłoby to pierwsze rozpoznane w Polsce palatium tego typu. Praca wiąże się ze sporem o to, gdzie osadzono sprowadzonych przez niego kanoników regularnych: na samej górze Ślęży czy w Górce. Interpretację kwestionuje m.in. Grzegorz Domański, a źródła pisane nie rozstrzygają sprawy jednoznacznie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Stala, Ochrona Zabytków 2024, nr 1, s. 93–114: Sobótka-Górka i Morawica – dwa możnowładcze palatia romańskie",
+          "url": "https://ochronazabytkow.nid.pl/wp-content/uploads/2024/05/OZ_1-2024_K-Stala.pdf"
+        }
+      ]
     }
   ],
   "wawel": [
@@ -2706,6 +2771,660 @@
       ],
       "artykul": "02uskok/uskok",
       "cytat_leszka": "Na środkowym zdjęciu potrzaskane \"klocki Lego\" z greckich Delf."
+    }
+  ],
+  "dolina-krolow": [
+    {
+      "rok": "2010",
+      "tytul": "DNA mumii: rodzina Tutanchamona i przyczyna jego śmierci",
+      "opis": "Zespół Zahiego Hawassa (Najwyższa Rada Starożytności, Kair) opublikował w JAMA wyniki badań DNA i tomografii mumii z rodziny Tutanchamona. Wskazały one mumię z grobowca KV55 jako prawdopodobnie Echnatona, jego ojca, a KV35YL jako prawdopodobną matkę; w czterech mumiach, także u Tutanchamona, znaleziono geny zarodźca malarii Plasmodium falciparum. Autorzy uznali za najbardziej prawdopodobną przyczynę śmierci martwicę kości stopy w połączeniu z malarią, być może po złamaniu nogi. To wnioski prawdopodobne, nie przesądzone: obecność genów malarii dowodzi zakażenia, nie tego, że zabiło króla.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "EurekAlert (komunikat JAMA), 2010",
+          "url": "https://www.eurekalert.org/news-releases/681062"
+        },
+        {
+          "nazwa": "Science 2.0, 2010 (Hawass i in., JAMA)",
+          "url": "https://science20.com/news_articles/egyptian_pharaoh_may_have_died_malaria_bone_abnormalities"
+        }
+      ]
+    },
+    {
+      "rok": "2015–2018",
+      "tytul": "Radar w grobowcu Tutanchamona: ukryte komory czy fałszywe sygnały?",
+      "opis": "W 2015 roku japoński specjalista od georadaru Hirokatsu Watanabe wskazał wstępnie możliwe puste przestrzenie za północną i zachodnią ścianą komory grobowej Tutanchamona, co poparłoby hipotezę Nicholasa Reevesa o ukrytym grobie Nefretete. Wcześniejsze skany japońskie i amerykańskie okazały się nierozstrzygające, więc ministerstwo zleciało obszerniejszy pomiar zespołowi z Politechniki Turyńskiej (Francesco Porcelli). W maju 2018 roku egipskie ministerstwo ogłosiło, że georadar nie wykrył żadnych ukrytych, wzniesionych przez człowieka ścian ani komór. Hipoteza Reevesa nie została dowiedziona, a ten pomiar uznano za jej obalenie.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic, 2015",
+          "url": "https://www.nationalgeographic.com/history/article/151128-tut-tomb-scans-hidden-chambers"
+        },
+        {
+          "nazwa": "Fox News / AP, 2018",
+          "url": "https://www.foxnews.com/world/egypt-says-no-hidden-rooms-in-king-tuts-tomb-after-all"
+        }
+      ]
+    },
+    {
+      "rok": "2016",
+      "tytul": "Sztylet Tutanchamona wykuty z żelaza meteorytowego",
+      "opis": "Zespół Daniele Comelli z Politechniki Mediolańskiej, z udziałem Uniwersytetu w Pizie i Muzeum Egipskiego w Kairze, zbadał przenośnym spektrometrem fluorescencji rentgenowskiej żelazne ostrze sztyletu z grobu Tutanchamona. Ostrze zawiera ponad 10 proc. niklu i ślady kobaltu, co odpowiada składowi meteorytów żelaznych, a nie żelaza z ziemskiej rudy. Wyniki, opublikowane w Meteoritics & Planetary Science, rozstrzygnęły wcześniejszy spór: analiza z 1994 roku wskazywała inaczej, lecz użyto wtedy mniej dokładnego sprzętu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Eos (AGU), 2016 (Comelli i in., Meteoritics & Planetary Science)",
+          "url": "https://eos.org/articles/pharaohs-iron-dagger-made-from-a-meteorite-study-confirms"
+        },
+        {
+          "nazwa": "Christian Science Monitor, 2016",
+          "url": "https://csmonitor.com/Science/2016/0601/King-Tut-a-ruler-swathed-in-mystery-also-wielded-a-cosmic-dagger"
+        }
+      ]
+    }
+  ],
+  "abu-simbel": [
+    {
+      "rok": "2023",
+      "tytul": "Skan laserowy całej świątyni i monitoring odkształceń",
+      "opis": "Badacze z Narodowego Instytutu Astronomii i Geofizyki w Helwanie (NRIAG), z udziałem uniwersytetów w Mansurze i Kolonii, wykonali 52 skany fasady i wnętrz Wielkiej Świątyni Ramzesa II skanerem Trimble TX6. Powstał trójwymiarowy model z chmurą punktów o rozstawie 6 mm i błędzie 4 mm, powiązany z siecią pięciu punktów geodezyjnych, która ma pozwolić mierzyć odkształcenia budowli. Autorzy dołączyli wirtualny spacer z 61 panoram. To dokumentacja i punkt odniesienia dla przyszłych pomiarów, a nie odkrycie nowych faktów o budowie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Elbshbeshi i in., Heritage 6(1), 2023 (streszczenie wg Crossref)",
+          "url": "https://doi.org/10.3390/heritage6010040"
+        }
+      ]
+    },
+    {
+      "rok": "2024–2026",
+      "tytul": "Zjawisko słoneczne w sanktuarium: pomiary i wyjaśnienia",
+      "opis": "Dwa razy w roku, 22 lutego i 22 października, promienie słońca docierają do sanktuarium i oświetlają posągi Ramzesa II, Amona-Re i Re-Horachtego, a posąg Ptaha pozostaje w cieniu. Według Narodowego Instytutu Astronomii i Geofizyki promień wnika w świątynię na ok. 60 metrów i trwa ok. 20 minut. Daty łączy się z dniem wstąpienia Ramzesa na tron i jego urodzinami, ale to interpretacja, a nie udokumentowany fakt. Przy przenoszeniu świątyni w latach sześćdziesiątych inżynierowie starali się zachować jej orientację względem słońca.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "AP / CP24, 2026",
+          "url": "https://www.cp24.com/news/world/2026/10/22/twice-a-year-a-golden-sunbeam-illuminates-a-3000-year-old-egyptian-temple/"
+        },
+        {
+          "nazwa": "Egipskie Ministerstwo Turystyki i Zabytków, 2024",
+          "url": "https://egymonuments.gov.eg/en/events/the-unique-biannual-solar-alignment-phenomenon-at-the-temple-of-ramses-ii-in-abu-simbel"
+        }
+      ]
+    }
+  ],
+  "niedokonczony-obelisk-w-asuanie": [
+    {
+      "rok": "2007",
+      "tytul": "Kanał łączący kamieniołom obelisku z Nilem",
+      "opis": "Zespół z Penn State (Richard Parizek) wraz z Adelem Kelanym z egipskiej Najwyższej Rady Starożytności zbadał pomiarami temperatury gruntu w otworach oraz płytką sejsmiką teren przy kamieniołomie z Niedokończonym Obeliskiem. Wyniki wskazują na kanał, który biegnie około 150 metrów (495 stóp) dalej niż dotychczasowe wykopy i pogłębia się w stronę rzeki. Mógł służyć do spławiania obelisków. Połączenie z Nilem jest sugerowane, nie potwierdzone: pomiary urwały się na granicy stanowiska, a autorzy zalecają wiercenia kontrolne.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "ScienceDaily / Penn State, 2007",
+          "url": "https://www.sciencedaily.com/releases/2007/10/071016131326.htm"
+        },
+        {
+          "nazwa": "Penn State News, 2007",
+          "url": "https://www.psu.edu/news/research/story/aswan-obelisk-quarry-more-meets-eye"
+        }
+      ]
+    },
+    {
+      "rok": "2009",
+      "tytul": "Przegląd kamieniołomów granitu: ogień, kamienne tłuczki i porzucone dzieła",
+      "opis": "W projekcie QuarryScapes Najwyższa Rada Starożytności (Adel Kelany i in.) wraz z Geologiczną Służbą Norwegii (Tom Heldal) zinwentaryzowała kamieniołomy granitu wokół Asuanu: napisy, graffiti, drogi, rampy i niedokończone przedmioty. Dotychczasowa teza, że rowy w skale wykonano wyłącznie tłuczkami z dolerytu, została uzupełniona: w kamieniołomie obelisku wykopaliska z 2003 roku odsłoniły duże ilości węgla drzewnego, popiołu i spalonych cegieł, co wskazuje na użycie ognia. Znaleziono też pierwsze w północnej części rejonu wyrobiska, w których wytwarzano same tłuczki, oraz wiele dzieł porzuconych prawdopodobnie z powodu pęknięć skały.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Kelany, Negem, Tohami, Heldal, NGU Special Publication 12, 2009",
+          "url": "https://static.ngu.no/upload/Publikasjoner/Special%20publication/SP12_s87-98.pdf"
+        },
+        {
+          "nazwa": "Per Storemyr: literatura o kamieniołomach egipskich 2007–2010",
+          "url": "https://per-storemyr.net/2011/01/23/ancient-egyptian-quarries-a-literature-update-2007-2010/"
+        }
+      ],
+      "artykul": "06budowle/budowle",
+      "cytat_leszka": "A jeśli blok pękł z przyczyn naturalnych 12,5 tysięcy lat temu?"
+    },
+    {
+      "rok": "2010–2012",
+      "tytul": "Dolerytowe tłuczki: jak naprawdę obrabiano granit",
+      "opis": "Adel Kelany, James Harrell i V. Max Brown opisali w Journal of Lithic Technology kamienne tłuczki z Asuanu, którymi w epoce faraonów wykuwano i obrabiano granit, oraz kamieniołom, w którym je produkowano. Według omówienia Harrella w UCLA Encyclopedia of Egyptology tłuczki zaczynały jako kanciaste bryły, a znane kuliste kształty nabrały przez długie używanie, choć to wciąż przedmiot dyskusji. Prace te opisują technikę obróbki twardego kamienia bez narzędzi metalowych, które w Egipcie wyparły tłuczki dopiero pod koniec epoki późnej.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Harrell, Utilitarian Stones, UCLA Encyclopedia of Egyptology, 2012",
+          "url": "https://journalpub.escholarship.org/nelc_uee/article/4749/galley/2667/download"
+        },
+        {
+          "nazwa": "Per Storemyr: literatura o kamieniołomach egipskich 2007–2010 (Kelany, Harrell, Brown 2010)",
+          "url": "https://per-storemyr.net/2011/01/23/ancient-egyptian-quarries-a-literature-update-2007-2010/"
+        }
+      ]
+    }
+  ],
+  "mohendzo-daro": [
+    {
+      "rok": "2007–2008",
+      "tytul": "Sól niszczy ceglane mury Mohendżo-Daro",
+      "opis": "Konserwator Enrico Fodde (Uniwersytet w Bath) opisał w dwóch publikacjach przyczyny rozpadu odsłoniętych murów miasta, ciągnących się na ok. 52 km. Głównym winowajcą są zasolone wody gruntowe, których sole krystalizują się w cegłach wypalanych i glinie. Część wcześniejszych, tanich zabiegów konserwatorskich pogorszyła zniszczenia, dlatego autor zaleca testowanie materiałów naprawczych przed ich użyciem. Sam zaznacza, że badania oparto na ograniczonej liczbie próbek.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Fodde, Journal of Architectural Conservation 13(1), 2007 (University of Bath)",
+          "url": "https://researchportal.bath.ac.uk/en/publications/fired-brick-and-sulphate-attack-the-case-of-moenjodaro-pakistan/"
+        },
+        {
+          "nazwa": "Fodde, Structural Survey 26(3), 2008 (University of Bath)",
+          "url": "https://researchportal.bath.ac.uk/en/publications/the-influence-of-soluble-salts-on-the-decay-of-moenjodaro-pakista/"
+        }
+      ]
+    },
+    {
+      "rok": "2009",
+      "tytul": "Spór o statystyczne „odczytywanie” pisma Indusu",
+      "opis": "Zespół Rajesha Rao opublikował w Science analizę entropii warunkowej znaków pisma Indusu, twierdząc, że przypomina ona języki naturalne, a nie systemy niejęzykowe. Wniosek natychmiast zakwestionowali m.in. Mark Liberman i Richard Sproat: podobne wyniki dają także procesy losowe, a zestawy porównawcze były sztuczne. Autorzy bronili się jeszcze w 2015 roku w czasopiśmie Language. Pismo pozostaje nieodczytane, a to, czy w ogóle zapisuje język, wciąż jest sporne.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Language Log (M. Liberman), 2009: krytyka Rao i in., Science",
+          "url": "https://languagelog.ldc.upenn.edu/nll/?p=1374"
+        },
+        {
+          "nazwa": "Rao i in., Language 91(4), 2015 (Lancaster University)",
+          "url": "https://eprints.lancs.ac.uk/id/eprint/81163"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Znaleziono mnóstwo odcisków pieczęci, ale napisów do tej pory nie zdołano odczytać."
+    },
+    {
+      "rok": "2012",
+      "tytul": "Rzeki Indusu i monsun: krajobraz cywilizacji harappańskiej",
+      "opis": "Zespół Liviu Giosana (Woods Hole Oceanographic Institution, z udziałem m.in. UCL) badał osady i obrazy satelitarne w Pakistanie. Wniosek: słabnący monsun osłabił powodzie Indusu, które początkowo sprzyjały rolnictwu, a potem przestały zasilać pola; ludność przenosiła się na wschód, do dorzecza Gangesu. Rzeka Ghaggar-Hakra, utożsamiana z Sarasvati, była zasilana monsunem, a nie lodowcami Himalajów. Autorzy opisują upadek miast jako powolny, rozłożony na okres ok. 3900–3000 lat temu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "WHOI, 2012 (Giosan i in., PNAS)",
+          "url": "https://www.whoi.edu/press-room/news-release/climate-change-led-to-collapse-of-ancient-indus-civilization-study-finds"
+        },
+        {
+          "nazwa": "Phys.org, 2012",
+          "url": "https://phys.org/news/2012-05-climate-collapse-ancient-indus-civilization.html"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Czy ktoś badał, czy w obok Mohendżo-Daro i Harappy przepływał kiedyś Indus?"
+    },
+    {
+      "rok": "2018",
+      "tytul": "„Radioaktywne szkielety” z Mohendżo-Daro: skąd wziął się mit",
+      "opis": "Jason Colavito i autor strony irna.fr prześledzili historię twierdzenia o szkieletach napromieniowanych jak ofiary Hiroszimy. Wywodzi się ono z radzieckiej książki Gorbowskiego (1965), który powtórzył błędny przypis do pracy z 1962 r.; ta z kolei opierała się na brytyjskim raporcie Mayneorda (1960), dotyczącym egipskiej kości o zwykłej, współczesnej radioaktywności. W Mohendżo-Daro znaleziono w latach 20. XX w. ok. 37 niekompletnych szkieletów z różnych okresów, a żadna publikacja archeologiczna nie opisuje ich promieniowania. Hipoteza „wojny atomowej” nie ma więc oparcia w danych.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Jason Colavito, 2018",
+          "url": "https://www.jasoncolavito.com/blog/the-radioactive-skeleton-of-mohenjo-daro-how-soviet-propaganda-spiraled-into-a-extreme-fringe-history-claim"
+        },
+        {
+          "nazwa": "Nali, irna.fr, 2018",
+          "url": "https://irna.fr/The-radioactive-skeletons-of-Mohenjo-Daro.html"
+        }
+      ],
+      "artykul": "atomwoj/bogatom01",
+      "cytat_leszka": "szkielety te są najbardziej radioaktywnymi szczątkami ludzkimi, jakie kiedykolwiek znaleziono i przebadano przed tragedią Hiroszimy."
+    },
+    {
+      "rok": "2019",
+      "tytul": "Genom z Rakhigarhi: DNA mieszkańców cywilizacji Indusu",
+      "opis": "Zespół Vasanta Shinde z Deccan College (Pune) przebadał 61 szkieletów z Rakhigarhi, największego miasta cywilizacji Indusu; tylko w jednym zachowało się DNA, i udało się zsekwencjonować genom kobiety. Jej przodkowie to mieszanka linii spokrewnionej ze starożytnym Iranem i południowoazjatyckich łowców-zbieraczy, bez śladu przodków ze stepów i irańskich rolników. Równoległa praca w Science (zespół Reicha z Harvardu) datuje przybycie stepowych pasterzy na ok. 4000 lat temu, po upadku miast. Wnioski opierają się na jednej osobie, więc to wstępny obraz.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Asian Scientist, 2019 (Shinde i in., Cell)",
+          "url": "https://www.asianscientist.com/2019/09/in-the-lab/indus-valley-civilization-ancient-dna-south-asian-ancestry/"
+        },
+        {
+          "nazwa": "Narasimhan i in., Science 365, 2019 (Penn State)",
+          "url": "https://pure.psu.edu/en/publications/the-formation-of-human-populations-in-south-and-central-asia/"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Cztery długie susze w dziejach cywilizacji Indusu",
+      "opis": "Zespół Hirena Solankiego i Vimala Mishry (IIT Gandhinagar) połączył symulacje klimatu z zapisami z jaskiń i jezior północno-zachodnich Indii. Wskazał cztery susze trwające ponad 85 lat każda, między ok. 4450 a 3400 lat temu, przy spadku opadów o 10–20%. Ostatnia, 113-letnia, zbiega się w czasie z wygasaniem miast. Autorzy uznają suszę za ważny czynnik, ale nie jedyną przyczynę, a zbieżność z danymi archeologicznymi nie dowodzi związku przyczynowego.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Sci.News, 2025 (Solanki i in., Communications Earth & Environment 6)",
+          "url": "https://www.sci.news/archaeology/severe-persistent-river-droughts-collapse-indus-valley-civilization-14391.html"
+        },
+        {
+          "nazwa": "ScienceDaily / Springer Nature, 2025",
+          "url": "https://sciencedaily.com/releases/2025/12/251214100930.htm"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Miasta zapewne zostały opuszczone przez mieszkańców, bo Bóg wody nie pomny na modlitwy i błagania, spuszczał jej za mało"
+    },
+    {
+      "rok": "2025–2026",
+      "tytul": "Nowe wykopy przy murze obronnym Mohendżo-Daro",
+      "opis": "Pakistańsko-amerykańska misja (m.in. Asma Ibrahim i Jonathan Mark Kenoyer) ponownie otworzyła wykop Mortimera Wheelera z 1950 r. przy kopcu cytadeli, uzupełniony odwiertami i pięcioma nowymi datami radiowęglowymi. Najstarszy etap muru datowano wstępnie na ok. 2708–2576 p.n.e., czyli tuż przed fazą dojrzałą Harappy; mur okazał się wielofazowy, a nie wałem przeciwpowodziowym, jak sądził Wheeler. Część doniesień mówi o osadnictwie już od ok. 3300 p.n.e., ale nie wynika to z podanych dat. Wyniki znane są z relacji prasowych, a nie z publikacji naukowej.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Dawn, 2026 (wyniki sezonu 2025–26)",
+          "url": "https://www.dawn.com/news/2019322/preservation-over-excavation-leaves-mohenjo-daro-questions-unanswered"
+        },
+        {
+          "nazwa": "Arab News Pakistan, 2026",
+          "url": "https://www.arabnews.pk/pakistan/excavations-resume-at-mohenjo-daro-to-study-early-harappan-city-wall-2629726"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Czy przeprowadzono badania, co zawiera sztucznie usypane wzgórze w swoim wnętrzu."
+    },
+    {
+      "rok": "2026",
+      "tytul": "Mohendżo-Daro: miasto z malejącą nierównością?",
+      "opis": "Adam Green z University of York na podstawie rozmiarów domów odkopanych w latach 20. XX w. obliczył współczynniki Giniego i uznał, że nierówność majątkowa malała wraz z rozrostem miasta (z ok. 0,39 w 2500 p.n.e. do ok. 0,23 w 2100 p.n.e.). Praca ukazała się w Antiquity; autor wiąże to z kolektywnym zarządzaniem. Krytycy, m.in. Massimo Vidale, zwracają uwagę, że domy zwykłych ludzi mogą leżeć pod ok. 8 m mułu, a przebadano jedną dzielnicę, więc wniosek jest dyskusyjny.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2026 (Green, Antiquity)",
+          "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/"
+        },
+        {
+          "nazwa": "National Geographic, 2026",
+          "url": "https://www.nationalgeographic.com/history/article/indus-valley-egalitarian-ancient-society-mohenjo-daro"
+        }
+      ]
+    }
+  ],
+  "most-adama": [
+    {
+      "rok": "2021",
+      "tytul": "Datowania raf i piasków: od kilkuset do 125 000 lat",
+      "opis": "Przed planowaną w 2021 r. wyprawą Narodowego Instytutu Oceanografii (CSIR-NIO) opisywano rozbieżne datowania Mostu Adama. Projekt Rameswaram Geological Survey of India datował wynurzenie obszaru Rameswaram–Talaimannar na 7–18 tys. lat temu, a datowania koralowców miały wskazywać na wiek form rzędu 500–600 lat. Zapisy świątynne mówią o grzbiecie nad wodą do 1480 r. Nie ma dowodu, że formacja jest sztuczna; badania osadów miały to doprecyzować. Dane pochodzą z relacji prasowej, nie z publikacji.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "The Quint, 2021",
+          "url": "https://www.thequint.com/explainers/explained-the-ram-setu-adam-bridge-under-water-expedition-in-2021"
+        }
+      ],
+      "artykul": "04chrono/chronos",
+      "cytat_leszka": "Stare przekazy jak i archeologiczne badania datują pierwsze ślady ludzkich siedzib na tym terenie na około 1,75 mln lat temu, a wiek mostu jest prawie identyczny."
+    },
+    {
+      "rok": "2024",
+      "tytul": "ICESat-2: pierwsza pełna mapa podwodnego grzbietu",
+      "opis": "Zespół Giribabu Dandabathuli z Narodowego Centrum Teledetekcji ISRO zbudował model batymetryczny o rozdzielczości 10 m z danych lasera satelity ICESat-2 (NASA) z lat 2018–2023. Grzbiet ma ok. 29 km, leży średnio 8 m nad dnem, a tylko ok. 0,02% jego objętości wystaje ponad poziom morza; wykryto 11 wąskich kanałów. Praca w Scientific Reports opisuje formę, a nie pochodzenie; komentujący ją Mayank Vahia uznał, że dane zgadzają się z naturalnym, wapiennym grzbietem, dawnym lądowym połączeniem Indii ze Sri Lanką.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "News Arena India, 2024",
+          "url": "https://newsarenaindia.com/technology/isro-reveals-detailed-undersea-mapping-of-ancient-ram-setu/16331"
+        }
+      ],
+      "artykul": "04chrono/chronos",
+      "cytat_leszka": "Satelita NASA sfotografował tajemniczy most w cieśninie Palk, widoczny na zdjęciach, składający się z łańcucha podwodnych ławic o długości 30 km."
+    }
+  ],
+  "san-agustin": [
+    {
+      "rok": "2026",
+      "tytul": "Posągi San Agustín odczytane przez pryzmat mitów Amazonii",
+      "opis": "César Velandia z Uniwersytetu w Tolimie przez ćwierć wieku porównywał rzeźby z San Agustín z ustnymi tradycjami ludów Tucano, Tanimuka i Kurripako. Zauważył, że wzory malowane w grobowcach (czerwień, żółć, czerń, biel) odpowiadają skórze węża koralowego, związanego w kosmologiach amazońskich ze śmiercią, a posąg w masce zwierzęcia wiąże z sępem królewskim. Według tej relacji ludzie ci żyli w kacykatach, a pochówki w dużych i małych grobowcach nie różnią się bogactwem wyposażenia. To interpretacja etnograficzna, nie wynik datowania. Opis pochodzi z jednego omówienia w magazynie Archaeology.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 'San Agustín, Colombia', Ben O'Donnell, XI/XII 2026",
+          "url": "https://archaeology.org/?p=61706"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "Dwa pierwsze - Ingapirca, dalej San Agustin - postacie Bogów?"
+    }
+  ],
+  "el-baul": [
+    {
+      "rok": "2018",
+      "tytul": "Mosty i groble Cotzumalhuapy: miasto z inżynierią wodną",
+      "opis": "Oswaldo Chinchilla Mazariegos (Yale) opublikował w Antiquity przegląd co najmniej pięciu przedkolumbijskich mostów lub przepraw w Cotzumalhuapie, co jest w Mezoameryce rzadkością. Badania prowadzone od 1994 roku obejmują też system grobli łączących El Baúl, Bilbao i El Castillo, dokumentowany z użyciem rozległej prospekcji geofizycznej, oraz ponad 200 rzeźbionych monumentów. Strona Yale nie wspomina o LiDAR-ze. Wzorzec dotyczy głównie późnego okresu klasycznego.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Chinchilla Mazariegos, Antiquity 92(362), 2018",
+          "url": "https://www.cambridge.org/core/journals/antiquity/article/technologies-of-urbanism-in-mesoamerica-the-precolumbian-bridges-of-cotzumalhuapa-guatemala/6016546C17E722A7783DD75EFC2F0567"
+        },
+        {
+          "nazwa": "Yale, Archaeological Studies: Mesoamerica",
+          "url": "https://archaeology.yale.edu/mesoamerica"
+        }
+      ]
+    }
+  ],
+  "tonina": [
+    {
+      "rok": "2015",
+      "tytul": "Akropol Toniná: sztuczna piramida wyższa od Piramidy Słońca",
+      "opis": "Archeolodzy INAH pod kierunkiem Emiliana Gallagi ustalili, że uznawane za naturalne wzgórze wzniesienie Akropolu w Toniná jest niemal w całości dziełem ludzkich rąk i kryje piramidę o wysokości ok. 75 m (ponad 240 stóp), z 208 stopniami od podstawy do szczytu. Według relacji skanowanie 3D pokazało skalę obiektu, a samo miasto okazało się około dwukrotnie większe, niż sądzono. Są to doniesienia prasowe oparte na wypowiedziach INAH; rangę 'największej piramidy Meksyku' w zależności od sposobu pomiaru podają media różnie.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 14 VII 2015",
+          "url": "https://archaeology.org/news/2015/07/14/150714-mexico-tonina-pyramid/"
+        }
+      ]
+    },
+    {
+      "rok": "2020–2022",
+      "tytul": "Krypta w Świątyni Słońca z ponad 400 naczyniami z prochami władców",
+      "opis": "INAH ogłosił w 2022 roku, że w Świątyni Słońca w Toniná (odkrytej w 2020) badacze trafili na kryptę ok. 8 m w głąb piramidy, z ponad 400 naczyniami z prochami, węglem, kauczukiem i korzeniami; główna krypta pochodzi z VII–VIII w. n.e. Juan Yadeun Angulo uważa, że spalono tu ciała co najmniej trzech władców (m.in. Wak Chan Káhk', Aj Kololte', Káwiil Kaan), a siarka z prochów mogła służyć do wulkanizacji kauczuku na piłki do gry w piłkę. To hipoteza badacza, nie potwierdzony test; drugą kryptę (ok. 500 r.) splądrowano w XIX–XX w.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2 VIII 2022",
+          "url": "https://archaeology.org/news/2022/08/02/220802-maya-ball-game"
+        },
+        {
+          "nazwa": "Mexico News Daily, VIII 2022",
+          "url": "https://mexiconewsdaily.com/news/ancient-rulers-ashes-may-have-been-used-in-the-mayan-ballgame"
+        }
+      ]
+    }
+  ],
+  "petra": [
+    {
+      "rok": "2013",
+      "tytul": "Niebo w religii Nabatejczyków: orientacje świątyń i grobowców",
+      "opis": "Juan Antonio Belmonte, Alejandro González-García (Instituto de Astrofísica de Canarias) i Alessandro Polcaro statystycznie przeanalizowali orientacje ok. 50 nabatejskich budowli sakralnych. Wyniki wskazują, że kierunki astronomiczne często były częścią zamysłu projektowego, co może świadczyć o astralnym charakterze religii Nabatejczyków. W Petrze opisano m.in. gry światła i cienia przy klasztorze Ad-Dajr oraz układy związane z przesileniami i równonocami w Grobowcu z Urnami. Interpretacja Skarbca jest według autorów najbardziej sporna.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Belmonte, González-García, Polcaro, Nexus Network Journal 15(3), 2013 (IAC)",
+          "url": "https://iac.es/en/science-and-technology/publications/light-and-shadows-over-petra-astronomy-and-landscape-nabataean-lands"
+        },
+        {
+          "nazwa": "Wersja robocza artykułu, arXiv:1209.1540",
+          "url": "https://arxiv.org/pdf/1209.1540"
+        }
+      ]
+    },
+    {
+      "rok": "2013",
+      "tytul": "Tarasy uprawne i tamy wokół Petry z I wieku n.e.",
+      "opis": "Christian Cloke (University of Cincinnati) i Cecelia Feldman (UMass Amherst) w ramach projektu Brown University połączyli obrazy satelitarne z datowaniem luminescencyjnym (OSL) osadów. Wyszło, że rozległe tarasowe rolnictwo i zapory na północ od Petry zaczęły się ok. I w. n.e., a nie w epoce żelaza, jak sądzono. Intensywne uprawy trwały do III w., a lokalnie do ok. 800–1000 r. Wyniki zaprezentowano na zjeździe AIA; późniejsza praca z 2022 r. (osobny wpis) przesuwa początki części tarasów wstecz, więc chronologia jest sporna.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Phys.org / University of Cincinnati, 2013",
+          "url": "https://phys.org/news/2013-01-unearths-terrace-farming-ancient-city.html"
+        },
+        {
+          "nazwa": "ScienceDaily, 2013",
+          "url": "https://sciencedaily.com/releases/2013/01/130102140443.htm"
+        }
+      ]
+    },
+    {
+      "rok": "2016",
+      "tytul": "Monumentalna platforma wypatrzona z satelity",
+      "opis": "Sarah Parcak (University of Alabama at Birmingham) i Christopher Tuttle (CAORC) opisali w BASOR wielką prostokątną platformę ok. 0,8 km na południe od centrum Petry. Wytypowali ją na zdjęciach satelitarnych, a potem sprawdzili dronem i w terenie; platforma ma ok. 56 × 49 m, a pośrodku stoi niewielki budynek zwrócony ku kolumnadzie i schodom. Ceramika wskazuje na połowę II w. p.n.e. Datowanie wynika z ceramiki powierzchniowej, a funkcja (prawdopodobnie ceremonialna) nie jest potwierdzona wykopaliskami.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology (AIA), 2016",
+          "url": "https://archaeology.org/news/2016/06/09/160609-jordan-petra-platform/"
+        },
+        {
+          "nazwa": "University of Alabama at Birmingham, 2016",
+          "url": "https://www.dpo.uab.edu/cas/news/faculty/uab-archaeologist-discovers-new-monument-at-one-of-the-most-famous-archaeological-sites-in-the-world"
+        }
+      ],
+      "artykul": "06budowle/budowle",
+      "cytat_leszka": "To nie Nabatejczycy wykonali te piękne budowle, te budowle już stały i to od dawna, gdy Nabatejczycy zaczęli okupować te ziemie."
+    },
+    {
+      "rok": "2021",
+      "tytul": "Nabatejskie tamy przeciwpowodziowe w modelu hydrologicznym",
+      "opis": "Zespół Qasema Abdelala (Jordania) zbadał zlewnię Wadi Hremiyyeh, z której woda zalewa plac przed Skarbcem. Na podstawie zdjęć z dronów, pomiarów opadów i odtworzenia czterech dawnych tam zbudowano modele, które pokazały, że system tarasów i małych zapór opóźnia i zmniejsza falę powodziową, choć jedna duża tama ścięłaby jej szczyt mocniej. Praca dotyczy działania systemu i ochrony zabytku, a nie jego datowania.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Abdelal i in., Journal of Hydrology 601, 2021 (rekord AGRIS/FAO)",
+          "url": "https://agris.fao.org/search/en/records/65df80ce7c7033e84bedda03"
+        }
+      ]
+    },
+    {
+      "rok": "2022",
+      "tytul": "Datowanie luminescencyjne tarasów: początki w epoce żelaza?",
+      "opis": "Sahar al Khasawneh, Nizar Abu-Jaber i współpracownicy (m.in. Andrew Murray) datowali luminescencją powierzchnie skał z megalitycznego muru tarasowego w Heash koło Petry. Dwa rdzenie dały ok. 3,3 tys. lat, pięć pozostałych ok. 1,7 tys., co autorzy odczytują jako budowę w epoce żelaza i rozbudowę ok. 300 r. n.e.; daty zgadzają się z ceramiką. Wynik dotyczy jednego stanowiska i kłóci się z wcześniejszymi pracami, według których uprawy tarasowe zaczęły się dopiero ok. początku n.e.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "al Khasawneh i in., Archaeological and Anthropological Sciences 14, 2022 (Aarhus University)",
+          "url": "https://pure.au.dk/portal/en/publications/age-determination-of-runoff-terrace-systems-in-petra-jordan-using/"
+        }
+      ]
+    },
+    {
+      "rok": "2024",
+      "tytul": "Grobowiec z 12 szkieletami pod Skarbcem",
+      "opis": "Podczas badań georadarem, prowadzonych m.in. przez Richarda Batesa (University of St Andrews) i Amerykańskie Centrum Badań w Jordanii (ACOR) przy współpracy jordańskiego Departamentu Starożytności, wykryto pustkę pod fasadą Skarbca. Po wykopie ręcznym odsłonięto grobowiec z co najmniej 12 szkieletami i darami grobowymi; jeden ze zmarłych trzymał fragment dzbana z I w. p.n.e. Datowanie całości jest wstępne, a identyfikacja grobowca z królem Aretasem IV to domysł; planowane są dalsze analizy ceramiki i osadów.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "NBC News, październik 2024",
+          "url": "https://www.nbcnews.com/news/world/secret-underground-tomb-12-skeletons-found-jordans-petra-rcna175428"
+        },
+        {
+          "nazwa": "ScienceAlert, październik 2024",
+          "url": "https://sciencealert.com/secret-tomb-discovered-in-one-of-archaeologys-most-famous-wonders"
+        }
+      ]
+    },
+    {
+      "rok": "2025–2026",
+      "tytul": "Ołowiany rurociąg ciśnieniowy w akwedukcie Ajn Braq",
+      "opis": "Niklas Jungmann (Humboldt-Universität zu Berlin, projekt Urban Development of Ancient Petra) opisał w czasopiśmie Levant szczegółowe pomiary fragmentu stoku Jabal al-Madhbah. Odkryto nieznany ołowiany rurociąg o długości ok. 116 m, który mógł działać jak lewar ciśnieniowy, a później zastąpiły go rury gliniane i kanały. Powiązanie pierwszej fazy z panowaniem Aretasa IV wynika z interpretacji, nie z bezpośredniego datowania; badany obszar jest niewielki.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine (archaeologymag.com), II 2026 (Jungmann, Levant)",
+          "url": "https://archaeologymag.com/2026/02/advanced-lead-pipeline-system-in-petra-aqueduct/"
+        },
+        {
+          "nazwa": "Arkeonews, II 2026",
+          "url": "https://arkeonews.net/petras-hidden-engineering-rare-116-meter-lead-pipeline-discovered-in-nabataean-aqueduct-system/"
+        }
+      ]
+    }
+  ],
+  "marib": [
+    {
+      "rok": "2007",
+      "tytul": "Wcześniejsze śluzy i kanał pod Wielką Tamą",
+      "opis": "Niemiecki Instytut Archeologiczny (DAI) w sezonie zimowym 2005/2006 badał północną śluzę Wielkiej Tamy, której obecny kształt pochodzi z 548 r. n.e. z czasów króla Abrahy. Wykopaliska odsłoniły starszą śluzę, prawdopodobnie himjarycką z ok. 456 r., oraz jeszcze wcześniejszy kanał główny zbudowany przez nieznanego władcę. Wyniki doprecyzowują historię napraw tamy, jej działania i końca.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Der aktuelle Forschungsstand zum Großen Damm von Marib, Zeitschrift für Archäologie Außereuropäischer Kulturen 2, 2007 (DAI)",
+          "url": "https://publications.dainst.org/journals/zaak/article/view/4186"
+        }
+      ]
+    },
+    {
+      "rok": "2015",
+      "tytul": "Nalot uszkodził Wielką Tamę",
+      "opis": "W maju 2015 r. w czasie wojny w Jemenie nalot uszkodził jedną z dwóch zachowanych śluz Wielkiej Tamy w Marib. Według szefowej oddziału DAI w Sanie, Iris Gerlach, informacje od osób z Marib wskazywały na lepiej zachowaną śluzę północną. Zakres zniszczeń trudno było wówczas niezależnie potwierdzić, a odpowiedzialność przypisywali koalicji pod wodzą Arabii Saudyjskiej urzędnicy jemeńscy.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic, 3 VI 2015",
+          "url": "https://www.nationalgeographic.com/science/article/150603-Yemen-ancient-Sheba-dam-heritage-destruction-Middle-East-archaeology"
+        },
+        {
+          "nazwa": "Biblical Archaeology Society, 2023",
+          "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/sheba-on-the-front-lines/"
+        }
+      ]
+    },
+    {
+      "rok": "2023",
+      "tytul": "UNESCO: zabytki Sabejczyków na liście i od razu zagrożone",
+      "opis": "W styczniu 2023 r. UNESCO wpisało na Listę Światowego Dziedzictwa siedem stanowisk dawnego Królestwa Saba w prowincji Marib, w tym starożytne miasto, dwie świątynie i pozostałości tamy, a zarazem umieściło je na liście zabytków zagrożonych z powodu trwającego od 2014 r. konfliktu. Jemeńscy archeolodzy przy wsparciu międzynarodowym dokumentują stanowiska, a muzea katalogują zbiory, by łatwiej wykryć grabież.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Gulf News, 25 I 2023",
+          "url": "https://gulfnews.com/world/gulf/yemen/unesco-lists-yemen-lebanon-sites-as-world-heritage-in-danger-1.93447154"
+        },
+        {
+          "nazwa": "Biblical Archaeology Society, 2023",
+          "url": "https://www.biblicalarchaeology.org/daily/archaeology-today/cultural-heritage/sheba-on-the-front-lines/"
+        }
+      ]
+    }
+  ],
+  "derinkuyu": [
+    {
+      "rok": "2013",
+      "tytul": "Mechanika skał: dlaczego Derinkuyu stoi tysiące lat",
+      "opis": "Omer Aydan i Reşat Ulusay opisali w Rock Mechanics and Rock Engineering wieloletnie badania (od 1996 r.) podziemnego miasta w tufie. Monitorowano temperaturę, wilgotność i ciśnienie powietrza, a na piątym i siódmym poziomie zainstalowano czujniki emisji akustycznej; analizowano wpływ wody i cykli zamarzania na skałę. Praca ocenia długotrwałą stabilność wyrobisk i nie datuje miasta.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Aydan, Ulusay, Rock Mech. Rock Eng. 46(4), 2013 (Hacettepe University)",
+          "url": "https://avesis.hacettepe.edu.tr/yayin/434d6101-1a8f-4c31-802a-dd929830cef4/geomechanical-evaluation-of-derinkuyu-antique-underground-city-and-its-implications-in-geoengineering"
+        }
+      ]
+    },
+    {
+      "rok": "2014–2016",
+      "tytul": "Nowe podziemne miasto pod Nevşehir",
+      "opis": "Podczas rozbiórek w ramach projektu TOKİ pod twierdzą w Nevşehir odsłonięto rozległy kompleks podziemny z pomieszczeniami mieszkalnymi, kaplicami, tłoczniami i tunelami; geofizycy z Uniwersytetu Nevşehir szacują rozmiar na ok. 460 tys. m2, ale wielkość i głębokość są wstępne. Media podały wiek ok. 5 tys. lat (burmistrz wskazywał epokę hetycką), natomiast artefakty wskazują na użytkowanie od wczesnego okresu bizantyjskiego do podboju osmańskiego, a dokładnego datowania nie opublikowano.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic, 26 III 2015",
+          "url": "https://www.nationalgeographic.com/history/article/150325-underground-city-cappadocia-turkey-archaeology"
+        },
+        {
+          "nazwa": "Hürriyet Daily News, 2016",
+          "url": "https://hurriyetdailynews.com/underground-city-comes-to-surface-95221"
+        },
+        {
+          "nazwa": "Daily Sabah, 2014",
+          "url": "https://www.dailysabah.com/turkey/2014/12/28/new-underground-city-discovered-in-cappadocia/amp"
+        }
+      ],
+      "artykul": "05bogowie/bogowie",
+      "cytat_leszka": "Czy na Ziemi był okres czasu, w którym takie budowle były niezbędne dla przetrwania?"
+    }
+  ],
+  "slady-nad-rzeka-paluxy": [
+    {
+      "rok": "2015",
+      "tytul": "Tropy z Paluxy: teropody i zauropody, nie „ludzkie” ślady",
+      "opis": "Zespół Jamesa Farlowa z kilkunastoma współautorami (w tym Glen Kuban i Peter Falkingham) opisał w przewodniku terenowym konferencji SVP 2015 stan badań tropów z formacji Glen Rose w Dinosaur Valley State Park. Tropy dzielą się na ślady zauropodów (typ Brontopodus) i trójpalczaste ślady dużych teropodów; autorzy omawiają je na tle tropów z całego świata, a prace terenowe prowadzono z użyciem map GIS, lidaru i fotomozaik. To raport pośredni i opracowanie przeglądowe, nie recenzowany artykuł. Wszystkie opisane tropy przypisano dinozaurom.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Farlow i in., SVP 2015 Field Trip Guidebook (Liverpool John Moores University)",
+          "url": "https://researchonline.ljmu.ac.uk/id/eprint/2165/"
+        }
+      ],
+      "artykul": "04chrono/chronos",
+      "cytat_leszka": "Co zrobić z takimi śladami?"
+    },
+    {
+      "rok": "2022",
+      "tytul": "Susza odsłania tropy w korycie Paluxy",
+      "opis": "W rekordowej suszy latem 2022 roku woda w rzece Paluxy opadła tak, że odsłoniły się tropy zwykle ukryte pod wodą i błotem, m.in. fragment trasy „Lone Ranger” – jednej z najdłuższych znanych tras teropoda (Acrocanthosaurus), ok. 140 śladów na ok. 30 m. Straż parku doliczyła się co najmniej 45 dotąd niewidzianych odcisków, także zauropoda Sauroposeidon. Badacz tropów Glen Kuban nazwał to rzadką okazją do obserwacji; ślady nie były całkiem nowe, bo opisano je dziesiątki lat wcześniej, a rzeka wkrótce znów je przykryła.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Stars and Stripes, 2022 (relacja z Dinosaur Valley State Park)",
+          "url": "https://www.stripes.com/theaters/us/2022-08-25/dinosaur-tracks-emerge-water-recedes-texas-drought-7103007.html"
+        },
+        {
+          "nazwa": "Texas Parks & Wildlife Magazine, 2023",
+          "url": "https://tpwmagazine.com/archive/2023/oct/ed_1_dinotracks/"
+        }
+      ],
+      "artykul": "04chrono/chronos",
+      "cytat_leszka": "Ślady zarówno bose jak i w obuwiu."
+    }
+  ],
+  "cysterna-bazyliki-yerebatan": [
+    {
+      "rok": "2020",
+      "tytul": "Georadar i ostrzeżenie: kolumny cysterny po wiekach trzęsień ziemi",
+      "opis": "Zespół Aydıngün i współautorów zbadał w czasie renowacji dno i ściany cysterny georadarem wysokiej rozdzielczości. Wykryto odkształcenia warstw izolacji wodnej na dnie, powiązane z degradacją 336 kolumn; odwierty ujawniły ślady dawnych napraw, a przyczyną mogły być dawne trzęsienia ziemi. W grudniu 2020 Oktay Özel z urzędu miejskiego Stambułu ostrzegał, że korozja żelaznych łączników między kolumnami (zastąpiły drewniane) grozi zawaleniem przy silnym wstrząsie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Aydıngün i in., Mediterranean Archaeology and Archaeometry 20(3), 2020 (Zenodo)",
+          "url": "https://zenodo.org/records/3930402"
+        },
+        {
+          "nazwa": "Daily Sabah, 2020",
+          "url": "https://www.dailysabah.com/turkey/istanbul/istanbuls-iconic-basilica-cistern-faces-collapse-risk/amp"
+        }
+      ],
+      "artykul": "05bogowie/bogowie",
+      "cytat_leszka": "Czy to były naprawdę cysterny?"
+    },
+    {
+      "rok": "2021",
+      "tytul": "Bizantyjskie cysterny Stambułu odporne na trzęsienia ziemi",
+      "opis": "Kerim Altuğ, archeolog i historyk architektury związany ze Stambulską Gminą Metropolitalną, zmapował 158 bizantyjskich cystern miasta i uważa, że były ich tysiące. Konstrukcja z kwadratowych przęseł na czterech kolumnach, połączonych łukami i drewnianymi ściągami, miała się zachowywać podczas wstrząsów jak jedna całość. Większość badań to ratunkowe wykopaliska przy budowach, więc wiele cystern pozostaje nieodkrytych. To opinia badacza, nie wynik pomiarów.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "WAMC / NPR, 2021",
+          "url": "https://www.wamc.org/2021-07-23/beneath-istanbul-archaeologists-explore-an-ancient-citys-byzantine-basements"
+        }
+      ],
+      "artykul": "05bogowie/bogowie",
+      "cytat_leszka": "Czy kiedyś znajdzie się dociekliwy archeolog i zbada dokładniej fundamenty, czy przypadkiem nie są dużo starsze od tego co na nich stoi?"
+    },
+    {
+      "rok": "2022",
+      "tytul": "Cysterna Bazyliki po pięciu latach renowacji",
+      "opis": "22 lipca 2022 roku zakończono prace rozpoczęte w 2017 roku przez Stambulską Gminę Metropolitalną i otwarto cysternę ponownie. Konstrukcję wzmocniono na wypadek trzęsienia ziemi, m.in. stalowymi prętami między gzymsami kolumn, usunięto nałożone wcześniej warstwy cementu, odsłaniając różowe ceglane ściany, i odsłonięto dwie rury: jedną zasilającą Hagia Sophię, drugą pałac starszy niż harem Topkapı. Cysterna z 542 roku ma 336 kolumn, a pochodzenie dwóch głów Meduzy użytych jako podstawy kolumn pozostaje nieznane.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Hürriyet Daily News, 2022 (otwarcie)",
+          "url": "https://hurriyetdailynews.com/basilica-cistern-reopens-after-five-years-175563"
+        },
+        {
+          "nazwa": "Hürriyet Daily News, 2022 (przebieg renowacji)",
+          "url": "https://hurriyetdailynews.com/floor-of-basilica-cistern-visible-for-first-time-175728"
+        }
+      ],
+      "artykul": "05bogowie/bogowie",
+      "cytat_leszka": "Czy to były naprawdę cysterny?"
+    },
+    {
+      "rok": "2023",
+      "tytul": "Kolejna bizantyjska cysterna obok Hagia Sophii",
+      "opis": "Archeolodzy odkryli pod dawnym budynkiem Urzędu Katastralnego na placu Sultanahmet, na terenie dawnego Hipodromu, sklepioną podziemną budowlę prawdopodobnie z V wieku. Według wstępnych ustaleń w VI–VII wieku przebudowano ją na cysternę; ma ok. 600 m² i 6,8 m wysokości. To relacja prasowa z wstępnych badań, bez recenzowanej publikacji.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Greek City Times, 2023",
+          "url": "https://greekcitytimes.com/2023/07/21/1500-byzantine-next-hagia-sophia/"
+        }
+      ]
     }
   ]
 }
