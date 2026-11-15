@@ -13,7 +13,12 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 
 type Miejsce = { nazwa: string; szukaj?: string; wikidata?: string; wsp?: [number, number]; rodzaje: string[]; aliasy: string[]; bez_zdjec?: boolean };
-export type ZdjecieCommons = { plik: string; url: string; miniatura: string; duze: string; szer: number; wys: number; autor: string; licencja: string; licencja_url: string; data: string; strona: string };
+export type ZdjecieCommons = {
+  plik: string; url: string; miniatura: string; duze: string; szer: number; wys: number; autor: string; licencja: string; licencja_url: string; data: string; strona: string;
+  detal?: boolean; // zbliżenie konstrukcji (mur, blok, relief, napis, wnętrze…)
+  opis?: string; // opis zdjęcia z Commons (co widać)
+  ocena?: string; // wyróżnione / jakościowe / wartościowe – ocena społeczności Commons
+};
 export type DaneMiejsca = {
   wikidata: string; etykieta: string; opis: string; lat: number | null; lon: number | null;
   kategoria: string; powstanie: string; wiki: { jezyk: string; tytul: string; url: string; wstep: string } | null;
@@ -39,7 +44,8 @@ async function json(url: string): Promise<any> {
 }
 const wd = (p: Record<string, string>) => json(`https://www.wikidata.org/w/api.php?${new URLSearchParams({ format: "json", ...p })}`);
 const commons = (p: Record<string, string>) => json(`https://commons.wikimedia.org/w/api.php?${new URLSearchParams({ format: "json", ...p })}`);
-const bezHtml = (s = "") => s.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+const ENCJE: Record<string, string> = { "&nbsp;": " ", "&amp;": "&", "&quot;": '"', "&#39;": "'", "&#039;": "'", "&lt;": "<", "&gt;": ">" };
+const bezHtml = (s = "") => s.replace(/<[^>]+>/g, "").replace(/&(nbsp|amp|quot|#0?39|lt|gt);/g, (e) => ENCJE[e] ?? e).replace(/\s+/g, " ").trim();
 
 // Commons podaje miniatury tylko w stałych szerokościach (m.in. 330, 500, 960, 1280, 1920 px):
 // 500 px na karty i galerie, 1920 px (albo oryginał, gdy mniejszy) do powiększenia i do wideo
@@ -60,44 +66,76 @@ async function znajdzQid(m: Miejsce): Promise<string | null> {
   return null;
 }
 
-async function zdjeciaCommons(obraz: string | undefined, kategoria: string, ile = 8): Promise<ZdjecieCommons[]> {
-  const tytuly = new Set<string>();
-  if (obraz) tytuly.add(`File:${obraz}`);
+// podkategorie i pliki ze zbliżeniami konstrukcji: detale, mury, bloki, reliefy, napisy, wnętrza…
+const DETAL = /\b(details?|close[- ]?ups?|stonework|masonry|walls?|blocks?|stones?|megaliths?|reliefs?|carvings?|carved|inscriptions?|hieroglyphs?|petroglyphs?|glyphs?|interiors?|joints?|columns?|capitals?|doors?|doorways?|gates?|niches?|windows?|statues?|sculptures?|murals?|frescos?|frescoes|ceilings?|chambers?|corridors?|tunnels?|stairs|steps|altars?|stelae?|monoliths?|engravings?|ornaments?|construction|architecture)\b/i;
+// pomijane: mapy, plany, logo, znaczki, filmy i zdjęcia ludzi przy okazji
+const ZBEDNE = /\b(maps?|plans?|diagrams?|logos?|coats? of arms|stamps?|postcards?|banknotes?|coins?|videos?|audio|people|tourists?|selfies?|signs?|tickets?|events?|concerts?|festivals?|souvenirs?|hotels?|restaurants?|buses|trains?|vehicles?|airports?)\b/i;
+const OCENY: [RegExp, string, number][] = [[/featured|poty|potd/i, "wyróżnione", 30], [/quality/i, "jakościowe", 20], [/valued/i, "wartościowe", 15]];
+
+async function zdjeciaCommons(obraz: string | undefined, kategoria: string, ile = 16): Promise<ZdjecieCommons[]> {
+  const zrodlo = new Map<string, boolean>(); // plik → z podkategorii o detalach
+  const dodaj = (t: string, detal: boolean) => { if (/\.jpe?g$/i.test(t) && !ZBEDNE.test(t.replace(/_/g, " "))) zrodlo.set(t, zrodlo.get(t) || detal); };
+  if (obraz) dodaj(`File:${obraz}`, false);
   if (kategoria) {
-    const r = await commons({ action: "query", list: "categorymembers", cmtitle: `Category:${kategoria}`, cmtype: "file", cmlimit: "60" });
-    for (const c of r.query?.categorymembers ?? []) if (/\.jpe?g$/i.test(c.title)) tytuly.add(c.title);
-    // mało plików w samej kategorii (zdjęcia bywają w podkategoriach): zajrzyj do kilku podkategorii
-    if (tytuly.size < 12) {
-      const pod = await commons({ action: "query", list: "categorymembers", cmtitle: `Category:${kategoria}`, cmtype: "subcat", cmlimit: "8" });
-      for (const k of pod.query?.categorymembers ?? []) {
-        const r2 = await commons({ action: "query", list: "categorymembers", cmtitle: k.title, cmtype: "file", cmlimit: "15" });
-        for (const c of r2.query?.categorymembers ?? []) if (/\.jpe?g$/i.test(c.title)) tytuly.add(c.title);
-        if (tytuly.size >= 40) break;
-      }
+    const r = await commons({ action: "query", list: "categorymembers", cmtitle: `Category:${kategoria}`, cmtype: "file", cmlimit: "100" });
+    for (const c of r.query?.categorymembers ?? []) dodaj(c.title, false);
+    const pod = ((await commons({ action: "query", list: "categorymembers", cmtitle: `Category:${kategoria}`, cmtype: "subcat", cmlimit: "60" })).query?.categorymembers ?? [])
+      .map((k: any) => k.title as string).filter((t: string) => !ZBEDNE.test(t));
+    const detale = pod.filter((t: string) => DETAL.test(t)).slice(0, 6);
+    const inne = pod.filter((t: string) => !DETAL.test(t)).slice(0, zrodlo.size < 20 ? 4 : 1);
+    for (const k of [...detale, ...inne]) {
+      const r2 = await commons({ action: "query", list: "categorymembers", cmtitle: k, cmtype: "file", cmlimit: "40" });
+      for (const c of r2.query?.categorymembers ?? []) dodaj(c.title, detale.includes(k));
     }
   }
-  if (!tytuly.size) return [];
-  const lista = [...tytuly].slice(0, 50);
-  const r = await commons({ action: "query", titles: lista.join("|"), prop: "imageinfo", iiprop: "url|size|extmetadata", iiurlwidth: "640", iiextmetadatafilter: "Artist|LicenseShortName|LicenseUrl|DateTimeOriginal|DateTime" });
-  const wyniki: ZdjecieCommons[] = [];
-  for (const s of Object.values<any>(r.query?.pages ?? {})) {
-    const ii = s.imageinfo?.[0];
-    if (!ii) continue;
-    const md = ii.extmetadata ?? {};
-    const licencja = bezHtml(md.LicenseShortName?.value);
-    if (!WOLNA.test(licencja)) continue;
-    if (ii.width < 1200 || ii.height < 700) continue; // tylko zdjęcia nadające się do wideo 1080p
-    const plik = s.title.replace(/^File:/, "");
-    wyniki.push({
-      plik, url: ii.url.split("?")[0], ...rozmiary(ii.thumburl, ii.url, ii.width), szer: ii.width, wys: ii.height,
-      autor: bezHtml(md.Artist?.value) || "nieznany", licencja, licencja_url: md.LicenseUrl?.value ?? "",
-      data: bezHtml(md.DateTimeOriginal?.value ?? md.DateTime?.value).slice(0, 10), strona: ii.descriptionurl,
-    });
+  if (!zrodlo.size) return [];
+  const wyniki: (ZdjecieCommons & { punkty: number })[] = [];
+  const tytuly = [...zrodlo.keys()].slice(0, 150);
+  for (let i = 0; i < tytuly.length; i += 50) {
+    const r = await commons({ action: "query", titles: tytuly.slice(i, i + 50).join("|"), prop: "imageinfo", iiprop: "url|size|extmetadata", iiurlwidth: "640",
+      iiextmetadatafilter: "Artist|LicenseShortName|LicenseUrl|DateTimeOriginal|DateTime|ImageDescription|Assessments|Categories" });
+    for (const s of Object.values<any>(r.query?.pages ?? {})) {
+      const ii = s.imageinfo?.[0];
+      if (!ii) continue;
+      const md = ii.extmetadata ?? {};
+      const licencja = bezHtml(md.LicenseShortName?.value);
+      if (!WOLNA.test(licencja)) continue;
+      if (ii.width < 1200 || ii.height < 700) continue; // tylko zdjęcia nadające się do wideo 1080p
+      const plik = s.title.replace(/^File:/, "");
+      const opis = bezHtml(md.ImageDescription?.value).replace(/^(english|polski|deutsch|español|français):\s*/i, "");
+      const kategorie = String(md.Categories?.value ?? "");
+      const ocena = OCENY.find(([w]) => w.test(`${md.Assessments?.value ?? ""} ${/Quality images|Featured pictures|Valued images/i.test(kategorie) ? kategorie : ""}`));
+      const detal = zrodlo.get(s.title) || DETAL.test(`${plik.replace(/_/g, " ")} ${opis}`);
+      if (ZBEDNE.test(opis.slice(0, 120))) continue;
+      const punkty = (ocena?.[2] ?? 0) + (detal ? 8 : 0) + Math.log2((ii.width * ii.height) / 1e6 + 1) * 3 + (ii.width > ii.height ? 3 : 0) + (opis.length > 30 ? 2 : 0);
+      wyniki.push({
+        plik, url: ii.url.split("?")[0], ...rozmiary(ii.thumburl, ii.url, ii.width), szer: ii.width, wys: ii.height,
+        // „No machine-readable author provided. Xauxa assumed (based on copyright claims)” → „Xauxa”
+        autor: (bezHtml(md.Artist?.value).replace(/^No machine-readable author provided\.\s*(.+?)\s+assumed.*$/i, "$1") || "nieznany").slice(0, 120),
+        licencja, licencja_url: md.LicenseUrl?.value ?? "",
+        data: bezHtml(md.DateTimeOriginal?.value ?? md.DateTime?.value).slice(0, 10), strona: ii.descriptionurl,
+        detal, opis: opis.length > 220 ? `${opis.slice(0, 219).replace(/\s+\S*$/, "")}…` : opis, ...(ocena ? { ocena: ocena[1] } : {}), punkty,
+      });
+    }
   }
-  // najpierw zdjęcie główne z Wikidata, potem poziome i duże
-  const glowne = obraz ? `${obraz}`.replace(/_/g, " ") : "";
-  wyniki.sort((a, b) => Number(b.plik.replace(/_/g, " ") === glowne) - Number(a.plik.replace(/_/g, " ") === glowne) || Number(b.szer > b.wys) - Number(a.szer > a.wys) || b.szer * b.wys - a.szer * a.wys);
-  return wyniki.slice(0, ile);
+  // seria zdjęć z jednego aparatu („Tiwanaku10”, „Tiwanaku11”…) – najwyżej dwa z serii
+  const seria = (p: string) => p.replace(/\.[a-z]+$/i, "").replace(/[\d\s_().,-]+/g, "").toLowerCase();
+  const glowne = obraz ? obraz.replace(/_/g, " ") : "";
+  wyniki.sort((a, b) => Number(b.plik.replace(/_/g, " ") === glowne) - Number(a.plik.replace(/_/g, " ") === glowne) || b.punkty - a.punkty);
+  const ileSerii = new Map<string, number>();
+  const wybrane = { detal: [] as typeof wyniki, widok: [] as typeof wyniki };
+  for (const z of wyniki) {
+    const s = seria(z.plik);
+    if ((ileSerii.get(s) ?? 0) >= 2) continue;
+    const lista = z.detal ? wybrane.detal : wybrane.widok;
+    if (lista.length >= ile / 2) continue;
+    lista.push(z);
+    ileSerii.set(s, (ileSerii.get(s) ?? 0) + 1);
+  }
+  // za mało zbliżeń albo widoków: dopełnij drugą grupą do łącznej liczby
+  const reszta = wyniki.filter((z) => !wybrane.detal.includes(z) && !wybrane.widok.includes(z) && (ileSerii.get(seria(z.plik)) ?? 0) < 2);
+  const razem = [...wybrane.widok, ...wybrane.detal, ...reszta].slice(0, ile);
+  return razem.map(({ punkty, ...z }) => z);
 }
 
 async function wstepWiki(sitelinks: any): Promise<DaneMiejsca["wiki"]> {
@@ -108,6 +146,40 @@ async function wstepWiki(sitelinks: any): Promise<DaneMiejsca["wiki"]> {
     if (r?.extract) return { jezyk, tytul, url: r.content_urls?.desktop?.page ?? `https://${jezyk}.wikipedia.org/wiki/${encodeURIComponent(tytul)}`, wstep: r.extract };
   }
   return null;
+}
+
+// zapis z ponowieniem: na Windows plik bywa chwilowo zablokowany, gdy czyta go inny program
+const zapisz = () => {
+  for (let i = 0; ; i++) {
+    try { writeFileSync(PLIK, JSON.stringify(dane, null, 1) + "\n"); return; } catch (e) {
+      if (i >= 5) throw e;
+      Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 500);
+    }
+  }
+};
+
+// --zdjecia: tylko nowe zdjęcia dla wszystkich pobranych już miejsc (bez ponownego szukania w Wikidata i Wikipedii)
+if (process.argv.includes("--zdjecia")) {
+  const tylko = process.argv.find((a) => a.startsWith("--tylko="))?.slice(8); // np. --tylko=Stonehenge (próba na jednym miejscu)
+  // bez --od-nowa pomija miejsca już zrobione (gdy poprzednie pobieranie się przerwało)
+  const lista = zrodlo.miejsca.filter((m) => dane[m.nazwa] && !m.bez_zdjec && (!tylko || m.nazwa === tylko) && (odNowa || !!tylko || !dane[m.nazwa].zdjecia.some((z) => "detal" in z)));
+  const p18 = new Map<string, string>();
+  for (let i = 0; i < lista.length; i += 50) {
+    const ids = lista.slice(i, i + 50).map((m) => dane[m.nazwa].wikidata);
+    const e = (await wd({ action: "wbgetentities", ids: ids.join("|"), props: "claims" })).entities;
+    for (const id of ids) { const v = e[id]?.claims?.P18?.[0]?.mainsnak?.datavalue?.value; if (v) p18.set(id, v); }
+  }
+  for (const m of lista) {
+    const d = dane[m.nazwa];
+    const zdj = await zdjeciaCommons(p18.get(d.wikidata), d.kategoria).catch((e) => { console.log(`✗ ${m.nazwa}: ${e.message}`); return null; });
+    if (!zdj) continue;
+    const przed = d.zdjecia.length;
+    if (zdj.length >= przed || zdj.length >= 6) d.zdjecia = zdj; // nie zastępuj bogatszej listy uboższą
+    console.log(`✓ ${m.nazwa}: ${przed} → ${d.zdjecia.length} zdj. (zbliżeń: ${d.zdjecia.filter((z) => z.detal).length}, ocenionych: ${d.zdjecia.filter((z) => z.ocena).length})`);
+    zapisz();
+    await czekaj(100);
+  }
+  process.exit(0);
 }
 
 let nowe = 0;

@@ -6,7 +6,7 @@
 import { existsSync, readFileSync } from "node:fs";
 import type { Archiwum, Dokument } from "../../src/archiwum.js";
 
-export type ZdjecieCommons = { plik: string; url: string; miniatura: string; duze: string; szer: number; wys: number; autor: string; licencja: string; licencja_url: string; data: string; strona: string };
+export type ZdjecieCommons = { plik: string; url: string; miniatura: string; duze: string; szer: number; wys: number; autor: string; licencja: string; licencja_url: string; data: string; strona: string; detal?: boolean; opis?: string; ocena?: string };
 type DaneMiejsca = {
   wikidata: string; etykieta: string; opis: string; lat: number | null; lon: number | null;
   kategoria: string; powstanie: string; wiki: { jezyk: string; tytul: string; url: string; wstep: string } | null; zdjecia: ZdjecieCommons[];

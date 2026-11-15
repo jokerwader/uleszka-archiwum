@@ -24,6 +24,9 @@ const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
 const rawUrl = (sciezka: string) => RAW + sciezka.split("/").map(encodeURIComponent).join("/");
 const art = (id: string) => archiwum.znajdz(id, "artykul") as Dokument;
 const urlArt = (id: string) => `../czytelnia/${slug(id)}.html`;
+// odmiana liczebników: 1 artykuł, 2–4 artykuły, 5 artykułów (ale 22 artykuły, 12 artykułów)
+const odm = (n: number, [jeden, kilka, wiele]: [string, string, string]) => (n === 1 ? jeden : n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? kilka : wiele);
+const ART: [string, string, string] = ["artykuł", "artykuły", "artykułów"];
 const skroc = (s: string, n: number) => (s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, "") + "…" : s);
 
 // podcast: odcinki (podcast/odcinki.json) i zaplanowane premiery (docs/czytelnia/harmonogram.json z czytelni)
@@ -55,7 +58,7 @@ const odleglosc = (a: MiejsceAtlasu, b: MiejsceAtlasu) => {
   const x = Math.sin(dLat / 2) ** 2 + Math.cos(a.lat * r) * Math.cos(b.lat * r) * Math.sin(dLon / 2) ** 2;
   return 12742 * Math.asin(Math.sqrt(x));
 };
-const miniatura = (m: MiejsceAtlasu) => m.zdjeciaCommons[0]?.miniatura ?? (m.zdjeciaLeszka[0] ? rawUrl(m.zdjeciaLeszka[0].sciezka) : "");
+const miniatura = (m: MiejsceAtlasu) => (m.zdjeciaCommons.find((z) => !z.detal) ?? m.zdjeciaCommons[0])?.miniatura ?? (m.zdjeciaLeszka[0] ? rawUrl(m.zdjeciaLeszka[0].sciezka) : "");
 const zgloszenie = (m?: MiejsceAtlasu) =>
   `${REPO}/issues/new?template=atlas.yml&title=${encodeURIComponent(m ? `[Atlas] ${m.nazwa}` : "[Atlas] Nowe miejsce: ")}`;
 
@@ -102,88 +105,150 @@ ${skrypty}<script src="../menu.js" defer></script>
 `;
 
 const chip = (r: string) => `<span class="chip r-${r}">${esc(rodzaje[r] ?? r)}</span>`;
-const fotoLeszka = (m: MiejsceAtlasu) =>
-  m.zdjeciaLeszka.map((z) => `<figure><button type="button" class="powieksz" data-duze="${esc(rawUrl(z.sciezka))}" data-podpis="${esc(`${z.opis} · ${z.pochodzenie}`)}"><img src="${esc(rawUrl(z.sciezka))}" alt="${esc(z.opis)}" loading="lazy"></button>
-      <figcaption>${esc(skroc(z.opis, 140))} <a href="${urlArt(z.artykul)}">${esc(art(z.artykul).tytul)}</a></figcaption></figure>`).join("\n    ");
-const fotoCommons = (m: MiejsceAtlasu) =>
-  m.zdjeciaCommons.map((z) => {
-    const podpis = `fot. ${z.autor}${z.data ? `, ${z.data.slice(0, 4)}` : ""}, ${z.licencja}`;
-    return `<figure><button type="button" class="powieksz" data-duze="${esc(z.duze)}" data-podpis="${esc(`${podpis} · Wikimedia Commons`)}"><img src="${esc(z.miniatura)}" alt="${esc(`${m.nazwa} – ${z.plik.replace(/\.[a-z]+$/i, "")}`)}" loading="lazy"></button>
-      <figcaption>${esc(skroc(podpis, 120))} · <a href="${esc(z.strona)}" rel="noopener">źródło</a>${z.licencja_url ? ` · <a href="${esc(z.licencja_url)}" rel="noopener">licencja</a>` : ""}</figcaption></figure>`;
-  }).join("\n    ");
+
+// ---------- „Co odkryto od czasów Leszka” (atlas/odkrycia.json; instrukcja: atlas/ODKRYCIA.md) ----------
+type Odkrycie = { rok: string; tytul: string; opis: string; pewnosc?: string; zrodla: { nazwa: string; url: string }[]; artykul?: string; cytat_leszka?: string };
+const odkrycia: Record<string, Odkrycie[]> = existsSync("atlas/odkrycia.json") ? JSON.parse(readFileSync("atlas/odkrycia.json", "utf8")) : {};
+const zlozone = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ł/g, "l").replace(/[^a-z0-9]+/g, " ").trim();
+let odrzuconeCytaty = 0;
+// cytat Leszka musi być dosłowny: jeśli nie ma go w artykule, nie pokazujemy go (i ostrzegamy przy budowaniu)
+const cytatPrawdziwy = (o: Odkrycie) => {
+  if (!o.cytat_leszka) return "";
+  const a = o.artykul ? archiwum.znajdz(o.artykul, "artykul") : undefined;
+  const teksty = a ? [a.czysty] : archiwum.artykuly.map((x) => x.czysty);
+  if (teksty.some((t) => zlozone(t).includes(zlozone(o.cytat_leszka!)))) return o.cytat_leszka;
+  odrzuconeCytaty++;
+  console.warn(`⚠ odkrycia.json: cytat nie występuje dosłownie w artykule – pominięty: „${o.cytat_leszka.slice(0, 60)}…”`);
+  return "";
+};
+const PEWNOSC: Record<string, string> = { "potwierdzone": "potwierdzone", "publikacja naukowa": "publikacja naukowa", "doniesienie": "doniesienie", "hipoteza": "hipoteza" };
+
+// ---------- galeria: jedna siatka z przełącznikami; opis, autor i licencja w powiększeniu ----------
+type Kafelek = { mini: string; duze: string; alt: string; podpis: string; grupa: "zblizenia" | "widoki" | "leszek"; ocena?: string };
+const kafelki = (m: MiejsceAtlasu, glowne?: MiejsceAtlasu["zdjeciaCommons"][number]): Kafelek[] => [
+  ...m.zdjeciaCommons.filter((z) => z !== glowne).map((z): Kafelek => {
+    const opisZdj = z.opis && z.opis.length > 12 ? z.opis : "";
+    return {
+      mini: z.miniatura, duze: z.duze, alt: opisZdj || m.nazwa, grupa: z.detal ? "zblizenia" : "widoki", ocena: z.ocena,
+      podpis: `${opisZdj ? `${opisZdj} · ` : ""}fot. ${z.autor}${z.data ? `, ${z.data.slice(0, 4)}` : ""}, ${z.licencja} · Wikimedia Commons|${z.strona}`,
+    };
+  }),
+  ...m.zdjeciaLeszka.map((z): Kafelek => ({
+    mini: rawUrl(z.sciezka), duze: rawUrl(z.sciezka), alt: z.opis, grupa: "leszek",
+    podpis: `${z.opis} · ${z.pochodzenie} · artykuł „${art(z.artykul).tytul}”|${urlArt(z.artykul)}`,
+  })),
+];
+const NAZWY_GRUP = { zblizenia: "Zbliżenia konstrukcji", widoki: "Widoki", leszek: "Archiwum Leszka" } as const;
 
 rmSync(WYJSCIE, { recursive: true, force: true });
 mkdirSync(WYJSCIE, { recursive: true });
 
 // ---------- karty miejsc ----------
 for (const m of miejsca) {
-  const glowne = m.zdjeciaCommons[0];
+  // na górze zdjęcie całego miejsca (nie zbliżenie)
+  const glowne = m.zdjeciaCommons.find((z) => !z.detal) ?? m.zdjeciaCommons[0];
+  const tlo = glowne?.duze ?? (m.zdjeciaLeszka[0] ? rawUrl(m.zdjeciaLeszka[0].sciezka) : "");
   const pod = podcastMiejsca(m);
   const blisko = miejsca.filter((x) => x !== m).map((x) => ({ x, km: odleglosc(m, x) })).sort((a, b) => a.km - b.km).slice(0, 4);
-  const opis = `${m.nazwa} w tekstach Leszka Klimka (uleszka.net): ${m.artykuly.length} ${m.artykuly.length === 1 ? "artykuł" : "artykuły"}, zdjęcia, mapa i to, co mówią dziś badania.`;
+  const opis = `${m.nazwa} w tekstach Leszka Klimka (uleszka.net): ${m.artykuly.length} ${odm(m.artykuly.length, ART)}, zdjęcia, nowe odkrycia, mapa i to, co mówią dziś badania.`;
   const powstanie = kiedyPowstalo(m.powstanie);
+  const lista = odkrycia[m.slug] ?? [];
+  const kaf = kafelki(m, glowne);
+  const grupy = (["zblizenia", "widoki", "leszek"] as const).filter((g) => kaf.some((k) => k.grupa === g));
+  // najmocniejszy cytat Leszka o tym miejscu jako motto karty
+  const motto = m.cytaty.find((c) => c.cytat.length >= 60 && c.cytat.length <= 320) ?? m.cytaty[0];
+
   const leszek = m.artykuly.map((id) => {
     const a = art(id), o = archiwum.opracowania.get(id);
-    const cyt = m.cytaty.filter((c) => c.artykul === id);
-    return `<li><a class="tytul-art" href="${urlArt(id)}">${esc(a.tytul)}</a> <span class="dzial">${esc(a.dzial)}</span>
-        ${o?.streszczenie ? `<p>${esc(skroc(o.streszczenie, 320))}</p>` : ""}
-        ${cyt.map((c) => `<blockquote>„${esc(c.cytat)}”</blockquote>`).join("\n        ")}</li>`;
-  }).join("\n      ");
-  const html = glowa({ tytul: `${m.nazwa} – Atlas Leszka, uleszka.net`, opis, url: `${BAZA}atlas/${m.slug}.html`, obraz: glowne?.duze, mapa: true }) +
-    `<main class="wrap-atlas">
-  <p class="okruszki"><a href="./">Atlas</a> › ${m.rodzaje.map((r) => `<a href="./#${r}">${esc(rodzaje[r])}</a>`).join(" · ")}</p>
-  <section class="naglowek-miejsca">
-    ${glowne ? `<figure class="foto-glowne"><button type="button" class="powieksz" data-duze="${esc(glowne.duze)}" data-podpis="${esc(`fot. ${glowne.autor}, ${glowne.licencja} · Wikimedia Commons`)}"><img src="${esc(glowne.duze)}" alt="${esc(m.nazwa)}" fetchpriority="high"></button><figcaption>fot. ${esc(skroc(glowne.autor, 60))}, ${esc(glowne.licencja)} · <a href="${esc(glowne.strona)}" rel="noopener">Wikimedia Commons</a></figcaption></figure>` : ""}
-    <div class="naglowek-tekst">
-      <h1>${esc(m.nazwa)}</h1>
-      <p class="chipy">${m.rodzaje.map(chip).join(" ")}</p>
-      <p class="fakty">${m.opisWikidata ? `${esc(m.opisWikidata[0].toUpperCase() + m.opisWikidata.slice(1))}` : ""}${powstanie ? ` · powstanie: ${powstanie}` : ""}<br>${m.lat.toFixed(4)}, ${m.lon.toFixed(4)} · <a href="https://www.openstreetmap.org/?mlat=${m.lat}&amp;mlon=${m.lon}#map=14/${m.lat}/${m.lon}" rel="noopener">OpenStreetMap</a></p>
-      ${pod ? `<p class="podcast-miejsca">🎧 ${"o" in pod && pod.o ? `W podcaście: <a href="${urlArt(pod.id)}">odcinek ${pod.o.nr} „${esc(pod.o.tytul)}”</a>${pod.o.youtube ? ` · <a href="https://www.youtube.com/watch?v=${esc(pod.o.youtube)}" rel="noopener">YouTube</a>` : ""}${pod.o.spotify ? ` · <a href="https://open.spotify.com/episode/${esc(pod.o.spotify)}" rel="noopener">Spotify</a>` : ""}` : `Premiera w podcaście: <a href="${urlArt(pod.id)}">odcinek ${pod.p!.nr} „${esc(pod.p!.tytul)}”</a>, ${esc(pod.p!.kiedy)}`}</p>` : ""}
-    </div>
-  </section>
+    const cyt = m.cytaty.filter((c) => c.artykul === id && c !== motto).slice(0, 1);
+    return `<li class="art-karta">
+          <a class="tytul-art" href="${urlArt(id)}">${esc(a.tytul)}</a><span class="dzial">${esc(a.dzial)}</span>
+          ${o?.streszczenie ? `<p>${esc(skroc(o.streszczenie, 260))}</p>` : ""}
+          ${cyt.map((c) => `<blockquote>„${esc(c.cytat)}”</blockquote>`).join("")}
+        </li>`;
+  }).join("\n        ");
 
-  <div class="dwie-strony">
-    <section class="co-pisal">
-      <h2>Co pisał Leszek</h2>
-      <p class="uwaga">Streszczenia przygotowała AI; cytaty są dosłowne, z artykułów Leszka.</p>
-      <ul class="lista-art">
-      ${leszek}
+  const html = glowa({ tytul: `${m.nazwa} – Atlas Leszka, uleszka.net`, opis, url: `${BAZA}atlas/${m.slug}.html`, obraz: glowne?.duze, mapa: true }) +
+    `<main class="karta-miejsca">
+  <header class="hero-miejsca"${tlo ? ` style="--tlo: url('${esc(tlo)}')"` : ""}>
+    <div class="hero-tresc wrap-atlas">
+      <p class="okruszki"><a href="./">Atlas Leszka</a> › ${m.rodzaje.map((r) => `<a href="./#${r}">${esc(rodzaje[r])}</a>`).join(" · ")}</p>
+      <h1>${esc(m.nazwa)}</h1>
+      ${m.opisWikidata ? `<p class="podtytul">${esc(m.opisWikidata[0].toUpperCase() + m.opisWikidata.slice(1))}</p>` : ""}
+      <p class="chipy">${m.rodzaje.map(chip).join(" ")}</p>
+    </div>
+    ${glowne ? `<p class="hero-autor">fot. ${esc(skroc(glowne.autor, 50))}, ${esc(glowne.licencja)} · <a href="${esc(glowne.strona)}" rel="noopener">Commons</a></p>` : ""}
+  </header>
+
+  <div class="fakty-pasek"><div class="wrap-atlas">
+    <span><b>${m.artykuly.length}</b> ${odm(m.artykuly.length, ART)} Leszka</span>
+    ${lista.length ? `<span><b>${lista.length}</b> ${odm(lista.length, ["odkrycie", "odkrycia", "odkryć"])} od jego czasów</span>` : ""}
+    <span><b>${kaf.length}</b> ${odm(kaf.length, ["zdjęcie", "zdjęcia", "zdjęć"])}</span>
+    ${powstanie ? `<span>powstanie: <b>${powstanie}</b></span>` : ""}
+    <span><a href="https://www.openstreetmap.org/?mlat=${m.lat}&amp;mlon=${m.lon}#map=14/${m.lat}/${m.lon}" rel="noopener">${m.lat.toFixed(3)}, ${m.lon.toFixed(3)}</a></span>
+    ${pod ? `<span class="pod-podcast">🎧 ${"o" in pod && pod.o ? `<a href="${urlArt(pod.id)}">odcinek ${pod.o.nr} podcastu</a>` : `premiera ${esc(pod.p!.kiedy.replace(/ \d{4},.*$/, ""))}`}</span>` : ""}
+  </div></div>
+
+  <nav class="sekcje" aria-label="Części karty"><div class="wrap-atlas">
+    <a href="#leszek">Co pisał Leszek</a>${lista.length ? `<a href="#odkrycia">Nowe odkrycia</a>` : ""}<a href="#dzis">Co mówią badania</a>${kaf.length ? `<a href="#zdjecia">Zdjęcia</a>` : ""}<a href="#mapa">Mapa</a>
+  </div></nav>
+
+  <div class="wrap-atlas">
+    <section id="leszek" class="sekcja">
+      <p class="etykieta">Co pisał Leszek</p>
+      ${motto ? `<figure class="motto"><blockquote>„${esc(motto.cytat)}”</blockquote><figcaption>Leszek Klimek, <a href="${urlArt(motto.artykul)}">„${esc(art(motto.artykul).tytul)}”</a></figcaption></figure>` : ""}
+      <ul class="artykuly-miejsca">
+        ${leszek}
       </ul>
+      <p class="uwaga">Streszczenia przygotowała AI; cytaty są dosłowne, z artykułów Leszka.</p>
     </section>
-    <section class="co-dzis">
-      <h2>Co mówią dziś badania</h2>
-      ${m.wiki ? `<p>${esc(skroc(m.wiki.wstep, 900))}</p>
-      <p class="zrodlo">Źródło: <a href="${esc(m.wiki.url)}" rel="noopener">Wikipedia${m.wiki.jezyk === "en" ? " (angielska)" : ""}: „${esc(m.wiki.tytul)}”</a>, licencja <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.pl" rel="noopener">CC BY-SA 4.0</a> · <a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Wikidata</a></p>` : `<p>Brak opracowania w Wikipedii. <a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Dane w Wikidata</a>.</p>`}
-      <p class="zrodlo">To krótki wstęp, nie pełny przegląd badań. Masz lepsze źródło? <a href="${zgloszenie(m)}">Zgłoś je</a>.</p>
+
+    ${lista.length ? `<section id="odkrycia" class="sekcja">
+      <p class="etykieta">Co odkryto od czasów Leszka</p>
+      <h2>Nowe odkrycia i badania</h2>
+      <ol class="os-odkryc">
+        ${lista.map((o) => { const c = cytatPrawdziwy(o); return `<li>
+          <span class="rok">${esc(o.rok)}</span>
+          <div class="odkrycie">
+            <h3>${esc(o.tytul)}${o.pewnosc && PEWNOSC[o.pewnosc] ? ` <span class="pewnosc p-${slug(o.pewnosc)}">${esc(PEWNOSC[o.pewnosc])}</span>` : ""}</h3>
+            <p>${esc(o.opis)}</p>
+            ${c ? `<p class="nawiazanie">Leszek pytał: „${esc(c)}”${o.artykul ? ` <a href="${urlArt(o.artykul)}">(„${esc(art(o.artykul)?.tytul ?? o.artykul)}”)</a>` : ""}</p>` : ""}
+            <p class="zrodla-odkrycia">${o.zrodla.map((z) => `<a href="${esc(z.url)}" rel="noopener">${esc(z.nazwa)} ↗</a>`).join("")}</p>
+          </div>
+        </li>`; }).join("\n        ")}
+      </ol>
+    </section>` : ""}
+
+    <section id="dzis" class="sekcja dzis">
+      <p class="etykieta">Co mówią dziś badania</p>
+      ${m.wiki ? `<p class="wstep-wiki">${esc(skroc(m.wiki.wstep, 700))}</p>
+      <p class="zrodlo">Wstęp z <a href="${esc(m.wiki.url)}" rel="noopener">Wikipedii${m.wiki.jezyk === "en" ? " (angielskiej)" : ""}: „${esc(m.wiki.tytul)}”</a> (CC BY-SA 4.0) · <a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Wikidata</a> · Znasz nowe odkrycie albo lepsze źródło? <a href="${zgloszenie(m)}">Zgłoś je</a>.</p>` : `<p>Brak opracowania w Wikipedii. <a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Dane w Wikidata</a>.</p>`}
+    </section>
+
+    ${kaf.length ? `<section id="zdjecia" class="sekcja">
+      <p class="etykieta">Zdjęcia</p>
+      <div class="przelacznik-zdjec" role="group" aria-label="Rodzaj zdjęć">
+        ${grupy.length > 1 ? `<button type="button" data-grupa="" aria-pressed="true">Wszystkie <span>${kaf.length}</span></button>` : ""}
+        ${grupy.map((g) => `<button type="button" data-grupa="${g}" aria-pressed="${grupy.length === 1}">${NAZWY_GRUP[g]} <span>${kaf.filter((k) => k.grupa === g).length}</span></button>`).join("")}
+      </div>
+      <ul class="siatka-zdjec">
+        ${kaf.map((k, i) => `<li data-grupa="${k.grupa}"><button type="button" class="powieksz" data-i="${i}" data-duze="${esc(k.duze)}" data-podpis="${esc(k.podpis)}"><img src="${esc(k.mini)}" alt="${esc(skroc(k.alt, 140))}" loading="lazy">${k.ocena ? `<span class="ocena">★</span>` : ""}${k.grupa === "leszek" ? `<span class="znak-archiwum">2004–07</span>` : ""}</button></li>`).join("\n        ")}
+      </ul>
+      <p class="uwaga">Współczesne zdjęcia: Wikimedia Commons, na wolnych licencjach (★ – wyróżnione przez społeczność Commons). Archiwum Leszka: zdjęcia z jego artykułów z lat 2004–2007. Kliknij zdjęcie, żeby zobaczyć opis, autora i licencję.</p>
+    </section>` : ""}
+
+    <section id="mapa" class="sekcja gdzie">
+      <p class="etykieta">Gdzie to jest</p>
+      <div class="mini-mapa" id="mini-mapa" data-lat="${m.lat}" data-lon="${m.lon}" data-nazwa="${esc(m.nazwa)}"></div>
+      <div class="blisko">${blisko.map(({ x, km }) => `<a href="${x.slug}.html"><b>${esc(x.nazwa)}</b><span>${km < 10 ? km.toFixed(1) : Math.round(km).toLocaleString("pl-PL")} km</span></a>`).join("")}</div>
+      <p><a class="przycisk" href="./#${m.slug}">Zobacz na mapie atlasu</a> <a class="przycisk drugi" href="${zgloszenie(m)}">Zgłoś odkrycie, poprawkę albo zdjęcie</a></p>
     </section>
   </div>
-
-  ${m.zdjeciaLeszka.length ? `<section class="galeria-sekcja">
-    <h2>Zdjęcia z artykułów Leszka <span class="ile">${m.zdjeciaLeszka.length}</span></h2>
-    <p class="uwaga">Zdjęcia z lat 2004–2007, w jakości z ówczesnej strony. Opisy przygotowała AI.</p>
-    <div class="galeria">
-    ${fotoLeszka(m)}
-    </div>
-  </section>` : ""}
-
-  ${m.zdjeciaCommons.length ? `<section class="galeria-sekcja">
-    <h2>Współczesne zdjęcia <span class="ile">${m.zdjeciaCommons.length}</span></h2>
-    <p class="uwaga">Z Wikimedia Commons, na wolnych licencjach. Kliknij, żeby powiększyć.</p>
-    <div class="galeria">
-    ${fotoCommons(m)}
-    </div>
-  </section>` : ""}
-
-  <section class="gdzie">
-    <h2>Gdzie to jest</h2>
-    <div class="mini-mapa" id="mini-mapa" data-lat="${m.lat}" data-lon="${m.lon}" data-nazwa="${esc(m.nazwa)}"></div>
-    <p class="blisko">W pobliżu: ${blisko.map(({ x, km }) => `<a href="${x.slug}.html">${esc(x.nazwa)}</a> <span>(${km < 10 ? km.toFixed(1) : Math.round(km).toLocaleString("pl-PL")} km)</span>`).join(" · ")}</p>
-    <p><a class="przycisk" href="./#${m.slug}">Zobacz na mapie atlasu</a> <a class="przycisk drugi" href="${zgloszenie(m)}">Zgłoś poprawkę albo zdjęcie</a></p>
-  </section>
 </main>
 ` + stopka(`<script src="${LEAFLET}leaflet.js" crossorigin=""></script>\n`);
   writeFileSync(`${WYJSCIE}/${m.slug}.html`, html, "utf8");
 }
+if (odrzuconeCytaty) console.warn(`⚠ Pominięto ${odrzuconeCytaty} cytatów z odkrycia.json, których nie ma dosłownie w artykułach.`);
 
 // ---------- mapa (strona główna atlasu) ----------
 const liczba = (r: string) => miejsca.filter((m) => m.rodzaje.includes(r)).length;
@@ -205,7 +270,7 @@ const index = glowa({ tytul: "Atlas Leszka – miejsca z tekstów uleszka.net na
   <div class="mapa" id="mapa" aria-label="Mapa miejsc"></div>
   <p class="pod-mapa"><span id="ile-widac">${miejsca.length}</span> miejsc · kliknij punkt na mapie albo kartę poniżej · <a href="${zgloszenie()}">zaproponuj miejsce</a></p>
   <ul class="karty karty-miejsc" id="karty">
-  ${daneMapy.map((d) => `<li id="${d.s}" data-s="${d.s}" data-r="${d.r.join(" ")}" data-n="${esc(d.n.toLowerCase())}"><a href="${d.s}.html">${d.f ? `<img src="${esc(d.f)}" alt="" loading="lazy">` : `<span class="bez-foto"></span>`}<b>${esc(d.n)}</b><small>${d.a} ${d.a === 1 ? "artykuł" : "artykuły"} · ${d.z} zdj.</small></a></li>`).join("\n  ")}
+  ${daneMapy.map((d) => `<li id="${d.s}" data-s="${d.s}" data-r="${d.r.join(" ")}" data-n="${esc(d.n.toLowerCase())}"><a href="${d.s}.html">${d.f ? `<img src="${esc(d.f)}" alt="" loading="lazy">` : `<span class="bez-foto"></span>`}<b>${esc(d.n)}</b><small>${d.a} ${odm(d.a, ART)} · ${d.z} zdj.</small></a></li>`).join("\n  ")}
   </ul>
 </main>
 <script type="application/json" id="dane-mapy">${JSON.stringify(daneMapy).replace(/</g, "\\u003c")}</script>
