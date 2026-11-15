@@ -34,11 +34,11 @@ const ZNAKI: Record<string, string> = {
 // kwoty jak zaleca Patronite (10, 20, 30, 50, 100 zł; kwoty progu nie da się później zmienić);
 // próg 10 zł wybiera najwięcej osób, więc ma najatrakcyjniejszą nagrodę: odcinek dzień przed premierą
 const PROGI = [
-  { nr: 1, nazwa: "Czytelnik", kwota: "10 zł", znak: "ksiazka", jasnosc: 0.15, zalety: ["Odcinek dzień przed premierą", "Twoje imię na stronie Patronów", "Wpisy zza kulis podcastu i atlasu"] },
-  { nr: 2, nazwa: "Odkrywca", kwota: "20 zł", znak: "kompas", jasnosc: 0.25, zalety: ["Imię w napisach końcowych filmów", "Głos w wyborze odcinków specjalnych", "Wszystko z progu Czytelnik"] },
-  { nr: 3, nazwa: "Badacz", kwota: "30 zł", znak: "mapa", jasnosc: 0.35, zalety: ["Co miesiąc mapa z atlasu do druku", "Nowe części atlasu przed publikacją", "Wszystko z niższych progów"] },
-  { nr: 4, nazwa: "Mecenas", kwota: "50 zł", znak: "piramida", jasnosc: 0.48, zalety: ["Pierwszeństwo Twoich miejsc i tematów", "Spotkanie online raz na kwartał", "Wszystko z niższych progów"] },
-  { nr: 5, nazwa: "Opiekun archiwum", kwota: "100 zł", znak: "klucz", jasnosc: 0.62, zalety: ["Twoje imię jako opiekuna miejsca w atlasie", "Podziękowanie w odcinku specjalnym", "Wszystko z niższych progów"] },
+  { nr: 1, nazwa: "Czytelnik", kwota: "10 zł", znak: "ksiazka", jasnosc: 0.15, zalety: ["Odcinki podcastu dzień przed premierą", "Twoje imię na stronach Patronów", "Wpisy zza kulis wszystkich projektów"] },
+  { nr: 2, nazwa: "Odkrywca", kwota: "20 zł", znak: "kompas", jasnosc: 0.25, zalety: ["Imię w napisach końcowych filmów", "Głos w wyborze tematów i archiwów", "Wszystko z progu Czytelnik"] },
+  { nr: 3, nazwa: "Badacz", kwota: "30 zł", znak: "mapa", jasnosc: 0.35, zalety: ["Co miesiąc mapa lub grafika do druku", "Nowości przed publikacją", "Wszystko z niższych progów"] },
+  { nr: 4, nazwa: "Mecenas", kwota: "50 zł", znak: "piramida", jasnosc: 0.48, zalety: ["Pierwszeństwo Twoich tematów i propozycji", "Spotkanie online raz na kwartał", "Wszystko z niższych progów"] },
+  { nr: 5, nazwa: "Opiekun archiwum", kwota: "100 zł", znak: "klucz", jasnosc: 0.62, zalety: ["Imię jako opiekuna wybranego działu archiwum", "Podziękowanie w odcinku specjalnym", "Wszystko z niższych progów"] },
 ];
 
 const ZLOTO = `<linearGradient id="z" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6e0"/><stop offset=".55" stop-color="#f0c46f"/><stop offset="1" stop-color="#b47a22"/></linearGradient>`;
@@ -70,7 +70,7 @@ for (const p of PROGI) {
     <text x="${S / 2}" y="660" text-anchor="middle" font-family="Georgia, serif" font-size="46" fill="#f4efe4">${xml(p.kwota)} <tspan font-size="30" fill="#9aa3b5">miesięcznie</tspan></text>
     <rect x="${S / 2 - 220}" y="700" width="440" height="2" fill="url(#kreska)"/>
     ${zalety}
-    <text x="${S / 2}" y="${S - 56}" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#9aa3b5">Uwierz we własny rozum · uleszka.net</text></svg>`;
+    <text x="${S / 2}" y="${S - 56}" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#9aa3b5">Archiwa · podcasty · serwery AI · jokerwader</text></svg>`;
   const plik = `${WYJ}/prog-${p.nr}-${p.nazwa.toLowerCase().replace(/ /g, "-")}.jpg`;
   await sharp(scena).composite([{ input: Buffer.from(svg), left: 0, top: 0 }]).jpeg({ quality: 92 }).toFile(plik);
   console.log(plik);
@@ -98,7 +98,7 @@ for (const p of PROGI) {
     <text x="404" y="${dluga ? 245 : 262}" font-family="Georgia, serif" font-weight="700" font-size="${dluga ? 60 : 112}" fill="url(#z)">${xml(p.nazwa)}</text>
     <rect x="410" y="${dluga ? 278 : 296}" width="300" height="3" fill="url(#kreska)"/>
     <text x="410" y="${dluga ? 352 : 366}" font-family="Georgia, serif" font-size="58" fill="#f4efe4">${xml(p.kwota)} <tspan font-size="34" fill="#c9cfdb">miesięcznie</tspan></text>
-    <text x="410" y="${BH - 48}" font-family="Georgia, serif" font-size="26" fill="#9aa3b5">Uwierz we własny rozum · uleszka.net</text></svg>`;
+    <text x="410" y="${BH - 48}" font-family="Georgia, serif" font-size="26" fill="#9aa3b5">Archiwa · podcasty · serwery AI · jokerwader</text></svg>`;
   const nazwaB = `${WYJ}/patronite-${p.nr}-${p.nazwa.toLowerCase().replace(/ /g, "-")}`;
   const duzy = await sharp(tloB).composite([{ input: Buffer.from(baner), left: 0, top: 0 }]).png().toBuffer();
   await sharp(duzy).jpeg({ quality: 92 }).toFile(`${nazwaB}-1064x480.jpg`);

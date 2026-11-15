@@ -19,7 +19,7 @@ Teksty wyrażają poglądy autora sprzed ok. 20 lat. W sprawach zdrowia nie zast
 **Język:** polski
 **Okładka:** [okladka.jpg](okladka.jpg) (3000 × 3000 px)
 **Treści dla dorosłych:** nie
-**Monetyzacja:** wyłączona (archiwum ma charakter niekomercyjny). Dobrowolne wsparcie (Patronite) pokrywa tylko koszty lektora AI, serwera i produkcji; odcinki są bezpłatne dla wszystkich.
+**Monetyzacja:** wyłączona (archiwum ma charakter niekomercyjny). Dobrowolne wsparcie (Patronite) pomaga w utrzymaniu serwerów, opłaceniu lektora AI i pracy nad archiwami; odcinki są bezpłatne dla wszystkich.
 
 ## Jak przygotować odcinek
 

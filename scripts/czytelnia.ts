@@ -216,7 +216,7 @@ const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; cs
 `;
 
 const stopka = `<footer><div class="wrap-sz">
-  <p>Teksty: Leszek Klimek, uleszka.net (ok. 2004–2007), przeniesione bez zmian. Treści należą do autora i jego spadkobierców; archiwum ma charakter dokumentacyjny i niekomercyjny (dobrowolne wpłaty pokrywają tylko koszty lektora AI, serwera i filmów).
+  <p>Teksty: Leszek Klimek, uleszka.net (ok. 2004–2007), przeniesione bez zmian. Treści należą do autora i jego spadkobierców; archiwum ma charakter dokumentacyjny i niekomercyjny (dobrowolne wsparcie pomaga w utrzymaniu serwerów i pracy nad archiwami; za teksty nikt nie płaci).
   Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${REPO}/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>

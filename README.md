@@ -262,7 +262,7 @@ Zasób MCP: `uleszka://katalog`. Model do wyszukiwania po znaczeniu: [multilingu
 
 ## ⚖️ Prawa autorskie
 
-Treści strony uleszka.net (`artykuly/`, `zrodlo/`, `dla-ai/`, `KATALOG.md`) należą do ich autora i jego spadkobierców i **nie** są objęte licencją MIT. Archiwum ma charakter dokumentacyjny i niekomercyjny: chroni przed zniknięciem stronę, która nie działa już w sieci. Wszystkie teksty, podcast, filmy i atlas są i zostaną bezpłatne. Dobrowolne wpłaty (np. przez Patronite) pokrywają wyłącznie koszty: lektora AI, serwera dla asystentów AI, przygotowania filmów i grafik oraz czasu pracy nad archiwum. Nikt nie płaci za teksty Leszka Klimka i nie są one sprzedawane. Jeśli masz prawa do tych treści i zastrzeżenia, załóż zgłoszenie (Issue), a treści zostaną usunięte.
+Treści strony uleszka.net (`artykuly/`, `zrodlo/`, `dla-ai/`, `KATALOG.md`) należą do ich autora i jego spadkobierców i **nie** są objęte licencją MIT. Archiwum ma charakter dokumentacyjny i niekomercyjny: chroni przed zniknięciem stronę, która nie działa już w sieci. Wszystkie teksty, podcast, filmy i atlas są i zostaną bezpłatne. Projekt powstaje z prywatnych środków autora archiwum (jokerwader). Dobrowolne wsparcie na Patronite pomaga w utrzymaniu serwerów, opłaceniu lektora AI i w pracy nad tym oraz innymi archiwami, np. odtwarzaniu forum kodczasu.pl. Nikt nie płaci za teksty Leszka Klimka i nie są one sprzedawane. Jeśli masz prawa do tych treści i zastrzeżenia, załóż zgłoszenie (Issue), a treści zostaną usunięte.
 
 Teksty są poglądami autora sprzed ok. 20 lat. Dotyczy to zwłaszcza działu o zdrowiu: nie są poradą medyczną.
 
