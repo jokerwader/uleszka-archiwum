@@ -1,0 +1,1190 @@
+{
+  "piramidy-w-gizie": [
+    {
+      "rok": "2013–2021",
+      "tytul": "Dziennik Merera: papirusy z Wadi al-Dżarf o transporcie kamienia do Gizy",
+      "opis": "W 2013 roku francusko-egipska misja pod kierunkiem Pierre’a Talleta odkryła w porcie nad Morzem Czerwonym, Wadi al-Dżarf, najstarsze znane papirusy z Egiptu. Dziennik inspektora Merera, kierującego ekipą około 40 ludzi, opisuje przez nieco ponad rok m.in. regularne rejsy z kamieniołomów w Tura do Wielkiej Piramidy z ładunkiem białego wapienia. Dokument wydano drukiem w 2017 i 2021 roku. Zamiar budowy piramidy z tego kamienia to wniosek badaczy, a powiązanie ekipy Merera z osadą robotników w Gizie pozostaje spekulacją.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2014 (Wadi el-Jarf)",
+          "url": "https://archaeology.org/issues/january-february-2014/digs-discoveries/wadi-el-jarf-port-papyrus-khufu-cheops/"
+        },
+        {
+          "nazwa": "The Past / World Archaeology: Records of the pyramid builders",
+          "url": "https://the-past.com/feature/records-of-the-pyramid-builders-discovering-eye-witness-accounts-of-a-legendary-construction-project/"
+        }
+      ],
+      "artykul": "blazenada/zarty",
+      "cytat_leszka": "Jaką wyporność musiały mieć te łodzie? Kto i z czego w Egipcie wytwarzał tak doskonałe i wytrzymałe liny?"
+    },
+    {
+      "rok": "2017",
+      "tytul": "„Wielka Pustka” w Piramidzie Cheopsa wykryta mionami",
+      "opis": "Międzynarodowy zespół ScanPyramids (m.in. uniwersytet w Nagoi, KEK, CEA) opublikował w Nature wykrycie nieznanej dotąd pustej przestrzeni nad Wielką Galerią. Ma przekrój podobny do galerii i co najmniej 30 metrów długości. Użyto radiografii mionowej trzema niezależnymi technikami (emulsje jądrowe, scyntylatory, detektory gazowe), więc istnienie pustki jest dobrze potwierdzone. Jej kształt, przeznaczenie i to, czy to jedno pomieszczenie, czy kilka, pozostają nieznane.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Morishima i in., Nature 2017 (preprint arXiv)",
+          "url": "https://arxiv.org/abs/1711.01576"
+        },
+        {
+          "nazwa": "Sci.News, 2017",
+          "url": "https://www.sci.news/archaeology/hidden-chamber-great-pyramid-giza-05393.html"
+        }
+      ],
+      "artykul": "ameryka/folklor",
+      "cytat_leszka": "Jakie było początkowe przeznaczenie piramid nie wie nikt i chyba się nawet nie domyśla."
+    },
+    {
+      "rok": "2018",
+      "tytul": "Rampa z czasów Cheopsa w kamieniołomie Hatnub",
+      "opis": "Archeolodzy z Francuskiego Instytutu Archeologii Orientalnej i Uniwersytetu w Liverpoolu opisali w kamieniołomie alabastru Hatnub rampę ze schodami i rzędami dziur po palach. Prawdopodobnie przywiązywano do nich liny, by wciągać sanie z blokami po stokach o nachyleniu 20% i więcej. Wiek rampy wiąże się z panowaniem Cheopsa, ale dotyczy kamieniołomu alabastru, a nie piramidy. Związek z budową Wielkiej Piramidy to na razie możliwość, a nie ustalony fakt.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Sci.News, 2018",
+          "url": "https://www.sci.news/archaeology/ramp-system-alabaster-quarry-egypt-06582.html"
+        },
+        {
+          "nazwa": "HeritageDaily, 2018",
+          "url": "https://www.heritagedaily.com/2018/11/ancient-quarry-ramp-system-may-have-helped-workers-build-egypts-great-pyramids/122082"
+        }
+      ],
+      "artykul": "blazenada/zarty",
+      "cytat_leszka": "W jaki sposób dźwigano i układano blok na kołysce?"
+    },
+    {
+      "rok": "2023",
+      "tytul": "Ukryty korytarz za fasadą północną Wielkiej Piramidy",
+      "opis": "ScanPyramids ogłosił w marcu 2023 roku, że za „szewronami” nad wejściem na północnej ścianie piramidy znajduje się korytarz długi na około 9 m, o przekroju około 2 na 2 m. Wykryto go radiografią mionową, a potwierdzono georadarem, ultradźwiękami i wąską endoskopową kamerą wsuniętą w szczelinę między blokami. Wyniki opublikowano w Nature Communications. Do czego służył i czy prowadzi do kolejnych komór, nie wiadomo.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Sci.News, 2023 (Procureur i in., Nature Communications)",
+          "url": "https://www.sci.news/archaeology/cosmic-ray-muons-hidden-structure-khufus-pyramid-11715.html"
+        },
+        {
+          "nazwa": "Cosmic Log, 2023",
+          "url": "https://cosmiclog.com/2023/03/02/hidden-passage-discovered-within-egypts-great-pyramid/"
+        }
+      ],
+      "artykul": "07piramidy/piramidy",
+      "cytat_leszka": "Dowodzi to jednego. Żaden egiptolog nie wie do czego służyły naprawdę."
+    },
+    {
+      "rok": "2024",
+      "tytul": "Zaginiona odnoga Nilu „Ahramat” wzdłuż piramid",
+      "opis": "Zespół Emana Ghoneim (z udziałem badaczy egipskich) opublikował w Communications Earth & Environment mapę zasypanej odnogi Nilu, długiej na około 64 km. Posłużyły do tego zdjęcia satelitarne, badania geofizyczne i odwierty osadów. Wzdłuż niej stoi około 31 piramid, w tym kompleks w Gizie, a wiele grobli piramid kończy się przy jej domniemanych brzegach, co wskazuje na transport materiałów wodą. Autorzy piszą ostrożnie, że piramidy „mogły” powstać wzdłuż tej odnogi.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "EurekAlert, komunikat 2024",
+          "url": "https://www.eurekalert.org/news-releases/1044596"
+        },
+        {
+          "nazwa": "Phys.org, 2024",
+          "url": "https://phys.org/news/2024-05-discovery-egyptian-pyramids-built-lost.html"
+        }
+      ],
+      "artykul": "07piramidy/piramidy",
+      "cytat_leszka": "Sieć podziemnych kanałów przemawia za moją hipotezą, w której twierdzę, że Giza stanowiła jeden z elementów centrum hydro-energetycznego zarządzającego wodą z jeziora Mojrisa."
+    },
+    {
+      "rok": "2025",
+      "tytul": "Sensacja o „strukturach” pod piramidą Chefrena z radaru SAR",
+      "opis": "W marcu 2025 Corrado Malanga i Filippo Biondi ogłosili na konferencji prasowej, że własną metodą interpretacji danych radarowych SAR wykryli pod piramidą Chefrena pionowe szyby i sześcienne struktury sięgające ok. 2 km w głąb. Praca nie przeszła recenzji. Zahi Hawass, Sarah Parcak, Lawrence Conyers i Flint Dibble kwestionują ją, wskazując m.in., że SAR nie penetruje skały na taką głębokość, a nie wydano żadnych pozwoleń na badania. Brak jakiegokolwiek potwierdzenia, więc nie należy traktować tego jako odkrycia.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic, 2025",
+          "url": "https://www.nationalgeographic.com/history/article/is-there-a-secret-city-under-the-pyramids-"
+        },
+        {
+          "nazwa": "Jerusalem Post, 2025",
+          "url": "https://www.jpost.com/archaeology/archaeology-around-the-world/article-847207"
+        }
+      ],
+      "artykul": "hawass/hawass",
+      "cytat_leszka": "To on zabronił prowadzenia jakichkolwiek badań pod piramidami."
+    }
+  ],
+  "wielki-sfinks": [
+    {
+      "rok": "2007–2008",
+      "tytul": "Wody gruntowe niszczą Sfinksa i płaskowyż Giza",
+      "opis": "W latach 2007–2008 inżynierowie z Uniwersytetu Kairskiego i Uniwersytetu w Sohag ostrzegali, że podnoszący się poziom wód gruntowych, zasilanych m.in. ściekami z zatkanego kanału el-Mansurija, podmywa i osłabia fundamenty zabytków Gizy, w tym Sfinksa. Zaproponowano obniżenie poziomu wody studniami. To relacje prasowe, nie recenzowane prace; pokazują jednak, że zniszczenia Sfinksa wiąże się także z wilgocią i solami z podłoża, a nie tylko z dawnym deszczem.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Phys.org (Kyodo), 2008",
+          "url": "https://phys.org/news/2008-01-groundwater-threatens-egyptian-treasures.amp"
+        },
+        {
+          "nazwa": "Daily News Egypt, 2007",
+          "url": "https://www.dailynewsegypt.com/2007/10/10/cairos-sphinx-faces-man-made-ecological-threat/"
+        }
+      ],
+      "artykul": "07piramidy/piramidy",
+      "cytat_leszka": "Na żadnej z piramid nie ma podobnych śladów, a stanowią dużo większą powierzchnię niż Sfinks."
+    },
+    {
+      "rok": "2010",
+      "tytul": "Mury z cegły mułowej wokół Sfinksa",
+      "opis": "W listopadzie 2010 egipska Najwyższa Rada Starożytności pod kierunkiem Zahiego Hawassa ogłosiła odkrycie dwóch odcinków muru z cegły mułowej (86 m i 46 m długości, niespełna metr wysokości) na wschód i południe od Sfinksa i świątyni Chefrena. Według Hawassa mur prawdopodobnie chronił posąg przed nawiewanym piaskiem i należał do większej obudowy znanej już z północnej strony, wiązanej z tekstami o Totmesie IV. Trzeci, starszy odcinek mógł należeć do osady kapłanów kultu Chefrena. Jest to komunikat urzędowy bez recenzowanej publikacji, a datowania to ostrożne przypuszczenia.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "NBC News, 2010",
+          "url": "https://www.nbcnews.com/id/wbna39989735"
+        },
+        {
+          "nazwa": "Egypt Independent, 2010",
+          "url": "https://www.egyptindependent.com/egypt-announces-discovery-3400-year-old-wall-around-sphinx/"
+        }
+      ]
+    },
+    {
+      "rok": "2017–2018",
+      "tytul": "Archiwum ARCE o Sfinksie udostępnione w sieci",
+      "opis": "Ancient Egypt Research Associates i ARCE w ramach grantu zdigitalizowały i opublikowały w Open Context dokumentację projektu Marka Lehnera z lat 1979–1983: mapy, rysunki, tysiące zdjęć i notatek o murze Sfinksa. Zbiór opisuje kolejne warstwy kamiennej okładziny, historię napraw i stopień erozji w chwili jej położenia, a także to, że Sfinks i świątynie to jeden wielki kompleks kamieniołomowy. To nie nowe wykopaliska, ale pierwszy otwarty zbiór danych o Sfinksie, który pozwala sprawdzić argumenty o wieku i erozji.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "ARCE: Sphinx Project",
+          "url": "https://arce.org/?p=2798"
+        },
+        {
+          "nazwa": "AERA: Sphinx data online",
+          "url": "https://aeraweb.org/sphinx-data-online"
+        }
+      ],
+      "artykul": "07piramidy/piramidy",
+      "cytat_leszka": "Z jego hipotezy wynika, że Sfinks wraz ze świątynią liczy sobie więcej niż 10 tysięcy lat, a dowody nie natury historycznej a geologicznej."
+    },
+    {
+      "rok": "2023",
+      "tytul": "Czy Sfinks zaczął jako naturalny jardang?",
+      "opis": "Zespół z New York University (Leif Ristroph i współpracownicy) opublikował w Physical Review Fluids doświadczenie: glinianą bryłę z twardszymi wtrętami poddano w tunelu wodnym działaniu strumienia, który wyrzeźbił kształt zbliżony do leżącego lwa. Autorzy sugerują, że wiatr mógł uformować w Gizie naturalny jardang podobny do Sfinksa, ale podkreślają, że rysy twarzy wykonali ludzie i nie wiadomo, czy taka formacja tam istniała. To model laboratoryjny, nie dowód; egiptolodzy, m.in. Kathryn Bard, wskazują, że przednie części trzeba było dobudować z bloków.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Science News, 2023",
+          "url": "https://www.sciencenews.org/article/nature-sphinx-wind-landform-ancient-egypt"
+        },
+        {
+          "nazwa": "Scientific American, 2023",
+          "url": "https://www.scientificamerican.com/article/egypts-iconic-sphinx-may-have-begun-as-natural-carving-by-the-wind/"
+        }
+      ],
+      "artykul": "07piramidy/piramidy",
+      "cytat_leszka": "Wynika to zapewne z tego, że głowa Sfinksa została ponownie wyrzeźbiona w czasach dużo późniejszych"
+    }
+  ],
+  "tiahuanaco": [
+    {
+      "rok": "2012",
+      "tytul": "Pierwsze radiowęglowe daty Tiwanaku po ponownej analizie: miasto młodsze, niż sądzono",
+      "opis": "Erik Marsh z Uniwersytetu Kalifornijskiego w Santa Barbara przejrzał od nowa najstarsze datowania radiowęglowe z Tiwanaku, pochodzące z wykopalisk, których wyniki nigdy nie zostały w pełni opublikowane. Wiele z nich okazało się niewiarygodnych pod względem kontekstu stratygraficznego. Dwa niezależne modele bayesowskie wskazują, że ośrodek powstał około 110 r. n.e. (przedział 50–170, 1σ), czyli wieki później niż dawne założenie o ok. 300 r. p.n.e. Wynik dotyczy początków osadnictwa, a nie odległej prehistorii, więc nie przesuwa Tiwanaku w głąb epoki lodowcowej.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "E. J. Marsh, Radiocarbon 54(2), 2012 (Cambridge University Press)",
+          "url": "https://www.cambridge.org/core/journals/radiocarbon/article/bayesian-reassessment-of-the-earliest-radiocarbon-dates-from-tiwanaku-bolivia/573C3AD785E47B14DE6285C17888AA2E"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "Czy ktoś wykazał zainteresowanie określeniem wieku kości, nawet za pomocą C-14? Nikt."
+    },
+    {
+      "rok": "2019",
+      "tytul": "Podwodne ofiary w jeziorze Titicaca przy rafie Khoa",
+      "opis": "Międzynarodowy zespół (Christophe Delaere z Oksfordu i Wolnego Uniwersytetu w Brukseli, José Capriles z Penn State, Charles Stanish z University of South Florida) przeprowadził pierwsze systematyczne wykopaliska podwodne na rafie Khoa koło Wyspy Słońca, w 2013 roku. Wydobyto ceramiczne kadzielnice w kształcie pumy, kości młodych lam, złote i kamienne ozdoby; daty radiowęglowe układają się w przedziale ok. 794–964 r. n.e. Autorzy uważają, że była to elitarna świątynia, w której składano ofiary z łodzi, a obrzędy pomagały umacniać państwo Tiwanaku. Wnioski o roli politycznej to interpretacja badaczy, same znaleziska są dobrze udokumentowane.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Delaere, Capriles, Stanish, PNAS 116(17), 2019 (PubMed Central)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6486741"
+        },
+        {
+          "nazwa": "Penn State News, 2019",
+          "url": "https://www.psu.edu/news/research/story/rise-religion-pre-dates-incas-lake-titicaca"
+        }
+      ],
+      "artykul": "09tiahu/tiahua"
+    },
+    {
+      "rok": "2023",
+      "tytul": "Jak zmieniał się poziom jeziora Titicaca w holocenie",
+      "opis": "Zespół z udziałem Stéphane'a Guédrona i Christophe'a Delaere'a odtworzył poziom wody jeziora Titicaca na podstawie izotopów węgla organicznego w rdzeniach osadów i śladów dawnych linii brzegowych. Po długim niskim stanie (ok. 4000–2400 r. p.n.e.) jezioro szybko wzrosło o ok. 15 m do 1800 r. p.n.e., a około 500 r. n.e. kolejny duży wzrost zalał rozległe pasy brzegowe, co według autorów mogło sprzyjać powstaniu kultury Tiwanaku. Praca obejmuje środkową i późną część holocenu (ostatnie ok. 6 tys. lat), a nie okres 12,5 tys. lat temu, więc nie rozstrzyga tezy o jednym wielkim kataklizmie. Pokazuje natomiast, że jezioro wielokrotnie zmieniało zasięg i zalewało brzegi.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Guédron i in., PNAS 120(2), 2023 (PubMed Central)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9926255"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "Samo powstanie jeziora można wytłumaczyć także w inny sposób, ale wymaga to uwzględnienia kataklizmu, jaki wydarzył się około 12,5 tysięcy lat temu"
+    },
+    {
+      "rok": "2024",
+      "tytul": "Drony i satelity: mapa ukrytych budowli wokół Tiwanaku",
+      "opis": "Według doniesień prasowych zespół projektu wspieranego przez UNESCO, kierowany przez archeologa José Ignacio Gallegosa, wykonał dronami i z pomocą zdjęć satelitarnych mapę topograficzną około 748 ha wokół Tiwanaku. Mapa ma pokazywać zagrzebane budynki publiczne i zespoły mieszkalne, a obszar zabudowany miałby być większy, niż sądzono. Brak recenzowanej publikacji z danymi i datowań, a nagłówki o „ukrytej megametropolii” lub podziemnej cytadeli to uproszczenie prasy, więc to na razie doniesienie wymagające potwierdzenia wykopaliskami.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "El Cronista, 12 kwietnia 2024",
+          "url": "https://www.cronista.com/mexico/actualidad-mx/encuentran-una-megaciudad-oculta-en-tiahuanaco-que-tiene-estructuras-desconocidas"
+        },
+        {
+          "nazwa": "Al Día News (notatka na podstawie wywiadu EFE)",
+          "url": "https://aldianews.com/en/culture/heritage-and-history/new-light-tiwanaku"
+        }
+      ],
+      "artykul": "09tiahu/tiahua"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Datowanie kosmogeniczne kamieni z Kalasasaya (wstępne)",
+      "opis": "Badacze z australijskiego ANSTO (David Fink, Vladimir Levchenko) i hiszpańskiego CENIEH (Toshiyuki Fujioka) próbowali datować budowę platformy Kalasasaya metodą ekspozycji kosmogenicznej (beryl-10) na szczytach filarów oraz w kamieniołomie oddalonym o ok. 15 km. Sygnał z filarów okazał się zdominowany przez „dziedziczenie” sprzed ich ustawienia, więc nie datuje samej budowy. Bloki w kamieniołomie wydobyto według wstępnych szacunków 1500–3000 lat temu, zależnie od przyjętych założeń. To streszczenie konferencyjne (EGU 2025), jeszcze bez recenzowanej publikacji.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Fink, Levchenko, Fujioka, abstrakt EGU25-5262, 2025",
+          "url": "https://meetingorganizer.copernicus.org/EGU25/EGU25-5262.html"
+        }
+      ],
+      "artykul": "09tiahu/tiahua"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Palaspata: nowo rozpoznana świątynia Tiwanaku na wzgórzu",
+      "opis": "Zespół kierowany przez José Caprilesa z Penn State zauważył na zdjęciach satelitarnych niezaznaczoną na mapach czworokątną strukturę w prowincji Oruro, ok. 210 km na południe od Tiwanaku. Zdjęcia z dronów i fotogrametria ujawniły kompleks ok. 125×145 m z 15 prostokątnymi budynkami wokół dziedzińca, a na powierzchni zebrano ceramikę typu Tiwanaku. Wyniki opublikowano w czerwcu 2025 r. w „Antiquity”; próbki datowano w laboratorium radiowęglowym Penn State, ale komunikat nie podaje dat. Funkcja kultowa i handlowa oraz powiązanie z równonocą to interpretacje badaczy, bo opisano głównie badania zdalne i powierzchniowe, a nie wykopaliska.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Penn State News, 24 czerwca 2025",
+          "url": "https://www.psu.edu/news/research/story/ancient-temple-ruins-discovered-andes-shed-light-lost-society"
+        },
+        {
+          "nazwa": "Archaeology Magazine (AIA), 26 czerwca 2025",
+          "url": "https://archaeology.org/news/2025/06/26/temple-built-by-enigmatic-andes-civilization-identified/"
+        }
+      ]
+    }
+  ],
+  "puma-punku": [
+    {
+      "rok": "2018",
+      "tytul": "Rekonstrukcja Puma Punku z modeli drukowanych w 3D",
+      "opis": "Alexei Vranich (wówczas UC Berkeley) i współpracownicy wydrukowali w skali ok. 4% modele 140 bloków andezytowych i 17 płyt piaskowca, opierając się na pomiarach z ostatnich 150 lat, i ręcznie próbowali je dopasowywać, bo żaden z ok. 150 bloków nie leży już w pierwotnym miejscu. Zespół uważa, że drzwi o różnej wielkości ustawiały się jedna w drugiej, tworząc efekt „lustra”, co może wskazywać na budowlę rytualną. To możliwa rekonstrukcja, a nie dowód, bo zależy od dokładności dawnych notatek terenowych.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Phys.org, grudzień 2018 (Heritage Science 6:65)",
+          "url": "https://phys.org/news/2018-12-d-printed-reconstructions-clues-ancient-site.amp"
+        },
+        {
+          "nazwa": "Sci.News, 2018",
+          "url": "https://www.sci.news/archaeology/pumapunku-06762.html"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "po co to wykonano? Czy są to kamienne części jakiś maszyn?"
+    },
+    {
+      "rok": "2018–2019",
+      "tytul": "Hipoteza „geopolimeru”: czy bloki Puma Punku odlano?",
+      "opis": "Joseph Davidovits, twórca pojęcia geopolimeru, z współautorami opublikował w Materials Letters (2019) i Ceramics International (2019) analizy mikroskopowe (SEM/EDS, XRD, szlify cienkie), z których wnioskuje, że czerwony piaskowiec to piasek związany sztucznym spoiwem, a andezytowe elementy „H” powstały w formach z mieszaniny z materią organiczną. To hipoteza forsowana głównie przez Instytut Geopolimerów, który sam przyznaje, że nie odróżnia naturalnego albitu od geopolimerowego, a datowania C-14 nie wykonano. Archeolodzy tłumaczą bloki kamieniołomami i obróbką ręczną, a geolodzy odróżniają skałę od betonu; poza własnymi pracami autora nie znaleziono niezależnego potwierdzenia.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Geopolymer Institute, streszczenie badań nad Pumapunku",
+          "url": "https://www.geopolymer.org/?p=4615"
+        },
+        {
+          "nazwa": "Skeptoid, odc. 202 (krytyczne omówienie)",
+          "url": "https://skeptoid.com/episodes/202"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "Wykonać coś takiego można tylko wrębiarką (lub poprzez odlew)."
+    },
+    {
+      "rok": "2023",
+      "tytul": "Bayesowska chronologia Puma Punku i Akapany: 102 daty radiowęglowe",
+      "opis": "Zespół Erika Marsha z udziałem Alexeia Vranicha zbudował modele bayesowskie ze 102 dat radiowęglowych (45 niepublikowanych) z Tiwanaku. Według nich budowa Puma Punku trwała mniej więcej od 580 do 710 r. n.e., a ostatnie użycie wyrabianego w kamieniołomie, ciosanego kamienia przypada na ok. 630 r.; potem w obu piramidach używano głównie kamieni wtórnie. Całe miasto miało upaść szybko, ok. 1010–1050 r., zanim nastały susze XII w., więc suszy nie uznaje się za przyczynę upadku. Daty dotyczą kontekstów pod i przy konstrukcjach i dają wiek w zgodzie z dotychczasową chronologią, a nie starszy.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Marsh i in., PLOS ONE, 22.11.2023",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288798"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "Mogło by się okazać, że Tiahuanaco jest dużo starsze niż oficjalna wersja nauki, która budowę umieszcza w 500 r. ne."
+    }
+  ],
+  "sacsayhuaman": [
+    {
+      "rok": "2008",
+      "tytul": "Świątynia z 11 pomieszczeniami poza murami twierdzy",
+      "opis": "W marcu 2008 r. media podały, że archeolodzy z cuzkeńskiego Narodowego Instytutu Kultury, pod kierunkiem Oscara Rodrigueza, odsłonili obok twierdzy świątynię z 11 pomieszczeniami (być może na mumie i bożki), zakopaną drogę i system nawadniający. Kierownictwo parku uznało zespół za wcześniejszy od Inków, a później przez nich rozbudowany. Wiek oceniono jednak tylko po ceramice i stylu budowy, a badania radiowęglowe jeszcze trwały. Wcześniejsze datowania C-14 wiązały samą twierdzę z kulturą Killke w XII w., a nie z epoką liczoną w tysiącleciach.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Gulf News (relacja agencyjna), 2008",
+          "url": "https://gulfnews.com/world/americas/ruins-of-temple-found-at-famed-peru-fortress-1.91440"
+        },
+        {
+          "nazwa": "Fox News / AP, 2008",
+          "url": "https://www.foxnews.com/story/pre-inca-temple-found-in-peruvian-andes"
+        }
+      ],
+      "artykul": "ameryka/sacsay",
+      "cytat_leszka": "wiek budowli jest nie mniejszy niż 12,5 tysięcy lat"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Projekt Chinkana: tunel między Sacsayhuamán a Koricancha",
+      "opis": "Zespół Jorge Calero Flores i Mildred Fernández Palomino ogłosił w 2025 r., że pod Cusco biegnie podziemny ciąg długości ok. 1750 m, łączący Sacsayhuamán z Koricancha, z odnogami. Trasę wyznaczono na podstawie kronik z XVI–XIX w., sondowania akustycznego i georadaru, a od maja–lipca 2025 trwają wykopy w Sacsayhuamán. Według relacji z lipca 2025 r. zespół nie wszedł jeszcze do głównego korytarza, a odnogi boczne są „do potwierdzenia”; w styczniu 2026 r. prasa pisała, że wyniki są nadal geofizyczne, bez bezpośredniej obserwacji. Brak publikacji recenzowanej i niezależnej weryfikacji, a funkcja tunelu (droga, drenaż, kult) pozostaje domysłem.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Andina, 18 lipca 2025",
+          "url": "https://andina.pe/agencia/noticia-cusco-subterraneo-arqueologos-descubren-parte-una-red-vias-bajo-ciudad-imperial-1037659.aspx"
+        },
+        {
+          "nazwa": "Infobae, 25 lipca 2025",
+          "url": "https://www.infobae.com/peru/2025/07/25/inician-excavaciones-en-sacsayhuaman-tras-hallazgo-de-tunel-inca-hacia-el-qoricancha/"
+        },
+        {
+          "nazwa": "Infobae, 5 stycznia 2026",
+          "url": "https://www.infobae.com/peru/2026/01/05/entre-la-leyenda-y-la-ciencia-arqueologos-identifican-trazos-de-la-mitica-chincana-bajo-el-antiguo-cusco-incaico/"
+        }
+      ]
+    },
+    {
+      "rok": "2026",
+      "tytul": "Polsko-włoskie skanowanie Sacsayhuamán: nieznane struktury i pytanie o początki Cusco",
+      "opis": "Projekt „The Origins of the Capital of the Incas”, prowadzony przez Uniwersytet Warszawski (Centrum Badań Andyjskich, Alexei Vranich) z włoskim CNR-ISPC i finansowany przez polskie NCN, objął dronowym LiDAR-em, fotogrametrią i georadarem ok. 69 ha wokół twierdzy. Według komunikatu CNR z kwietnia 2026 r. wykryto wiele nieznanych tarasów, dróg, budowli i możliwych kamieniołomów, dziś ukrytych pod roślinnością. Celem jest sprawdzenie, czy Cusco miało złożony, monumentalny ośrodek już przed epoką imperialną. Komunikat nie podaje wyników wykopalisk ani datowań, więc wiek poszczególnych struktur pozostaje otwarty.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "CNR, komunikat prasowy, 28 kwietnia 2026",
+          "url": "https://www.cnr.it/it/nota-stampa/n-14312"
+        }
+      ],
+      "artykul": "ameryka/sacsay",
+      "cytat_leszka": "Określenie wieku powstania Sacsayhuaman jest na razie niemożliwe, ze względu na brak odpowiednich metod określania wieku kamienia"
+    }
+  ],
+  "machu-picchu": [
+    {
+      "rok": "2019",
+      "tytul": "Machu Picchu na skrzyżowaniu uskoków tektonicznych",
+      "opis": "Geolog Rualdo Menegat przedstawił we wrześniu 2019 r. na zjeździe Geological Society of America w Phoenix pracę, według której Inkowie świadomie wybrali miejsce, gdzie przecinają się uskoki. Zabudowa, tarasy i schody mają biec zgodnie z kierunkami uskoków, spękana skała miała ułatwiać obróbkę, a szczeliny odprowadzały wodę. Menegat wymienia w tym kontekście także Ollantaytambo, Pisac i Cusco. To wystąpienie konferencyjne, oparte na zdjęciach satelitarnych i pomiarach terenowych; w źródłach brak niezależnego potwierdzenia, a zamiar Inków jest interpretacją autora.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "EurekAlert / GSA, 2019",
+          "url": "https://www.eurekalert.org/news-releases/463921"
+        },
+        {
+          "nazwa": "HeritageDaily, 2019",
+          "url": "https://www.heritagedaily.com/2019/09/machu-picchu-ancient-incan-sanctuary-intentionally-built-on-faults/124617"
+        }
+      ],
+      "artykul": "ameryka/machu",
+      "cytat_leszka": "Obieg wody w Machu Picchu nie jest w ogóle zbadany."
+    },
+    {
+      "rok": "2020",
+      "tytul": "Ślady dwóch trzęsień ziemi w murach Machu Picchu",
+      "opis": "Zespół z udziałem Carlosa Benavente i Miguela Á. Rodrígueza-Pascuala opisał w „Journal of Seismology” uszkodzenia świątyń, odróżniając ślady wstrząsów od zwykłego pełzania zbocza. Kierunki przesunięć (N20°E i N110°E) wskazują na dwa trzęsienia w czasie budowy miasta; uszkodzone są dolne, staranne partie murów, a późniejsze, prostsze nie. Relacje prasowe datują zdarzenie na ok. 1450 r. (według innych źródeł na lata 1438–1491), choć autorzy przyznają, że nie wiadomo, czy wstrząs był jeden, czy dwa, a uskoku sprawcy nie wskazano. Badanie datuje wstrząsy na XV w., czyli na czas budowy miasta.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Rodríguez-Pascua i in., Journal of Seismology 24(4), 2020 (rekord IRD)",
+          "url": "https://www.documentation.ird.fr/hor/fdi:010077175"
+        },
+        {
+          "nazwa": "Archaeology Magazine, 2018",
+          "url": "https://archaeology.org/news/2018/12/17/181217-machu-picchu-earthquake/"
+        },
+        {
+          "nazwa": "GeoExpro, 2020",
+          "url": "https://geoexpro.com/exploring-the-heartland-of-the-incan-empire/"
+        }
+      ],
+      "artykul": "ameryka/machu",
+      "cytat_leszka": "Sądzę, że opuszczenie miasta należy wiązać z wielkim trzęsieniem ziemi 12,5 tys. lat temu."
+    },
+    {
+      "rok": "2021",
+      "tytul": "Datowanie radiowęglowe: Machu Picchu użytkowano od ok. 1420 r.",
+      "opis": "Zespół Richarda Burgera z Uniwersytetu Yale zbadał metodą AMS kości i zęby 26 osób z czterech cmentarzy, wykopanych w 1912 r. przez Hirama Binghama. Wyszło, że miejsce użytkowano mniej więcej od 1420 do 1530 r., czyli co najmniej 20 lat wcześniej, niż wynikałoby z kronik kolonialnych (sprzed panowania Pachacuti w 1438 r.). Datowano pochówki służby, nie same mury, więc to dolna granica użytkowania, a nie bezpośrednia data budowy. Wynik wyklucza wiek tysięcy lat, ale koryguje chronologię Inków o kilkadziesiąt lat.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Yale News, 4 sierpnia 2021",
+          "url": "https://news.yale.edu/2021/08/04/machu-picchu-older-expected-study-reveals"
+        },
+        {
+          "nazwa": "Antiquity, 2021 (Burger i in.)",
+          "url": "https://www.cambridge.org/core/journals/antiquity/article/new-ams-dates-for-machu-picchu-results-and-implications/323804857B6EE4DD85B5B337F9E3C933"
+        }
+      ],
+      "artykul": "ameryka/machu",
+      "cytat_leszka": "Machu Picchu nie jest na pewno dziełem średniowiecznych Indian."
+    },
+    {
+      "rok": "2022",
+      "tytul": "Pierwotna nazwa: Huayna Picchu, a nie Machu Picchu",
+      "opis": "Donato Amado Gonzales (peruwiańskie Ministerstwo Kultury) i Brian Bauer (Uniwersytet Illinois w Chicago) przeanalizowali notatki Binghama, dawne mapy i dokumenty z XVI–XVII w. W „Ñawpa Pacha” (2022) wskazali, że Inkowie nazywali miasto Picchu, a prawdopodobnie Huayna Picchu, od sąsiedniego szczytu, natomiast „Machu Picchu” przylgnęło do ruin po publikacjach Binghama z 1911 r. Autorzy formułują wniosek ostrożnie („bardziej prawdopodobne”) i nie postulują zmiany nazwy.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "The Past (Current World Archaeology), 2022",
+          "url": "https://the-past.com/news/machu-picchu-may-have-been-known-by-another-name-study-suggests/"
+        },
+        {
+          "nazwa": "Sci.News, 2022",
+          "url": "https://www.sci.news/archaeology/huayna-picchu-10682.html"
+        }
+      ],
+      "artykul": "ameryka/machu",
+      "cytat_leszka": "Nazwy także nie odzwierciedlają przeznaczenia obiektów."
+    },
+    {
+      "rok": "2023",
+      "tytul": "DNA ludzi pochowanych w Machu Picchu",
+      "opis": "Międzynarodowy zespół z udziałem Uniwersytetu w Cusco (UNSAAC), Yale, UC Santa Cruz, Tulane i Instytutu Maxa Plancka zsekwencjonował w „Science Advances” (lipiec 2023) genomy 34 osób pochowanych w Machu Picchu i 34 z Cusco. Pochowani to służba dworu królewskiego, pochodząca z całego imperium, mniej więcej co trzecia z domieszką amazońską, i w większości niespokrewniona. Cmentarze w Machu Picchu są znane od wykopalisk z 1912 r., a nowa praca dodaje dane o pochodzeniu i pokrewieństwie pochowanych.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Yale News, 26 lipca 2023",
+          "url": "https://news.yale.edu/2023/07/26/dna-analysis-offers-new-insights-diverse-community-machu-picchu"
+        },
+        {
+          "nazwa": "Phys.org, lipiec 2023",
+          "url": "https://phys.org/news/2023-07-ancient-dna-reveals-diverse-community.html"
+        }
+      ],
+      "artykul": "ameryka/machu",
+      "cytat_leszka": "Jeśli mieszkali tu ludzie z XVI wieku to proszę pokazać ich cmentarzyska"
+    }
+  ],
+  "teotihuacan": [
+    {
+      "rok": "2014",
+      "tytul": "Miony pod Piramidą Słońca: słabsza gęstość po jednej stronie, komór nie potwierdzono",
+      "opis": "Fizycy z UNAM pod kierunkiem Arturo Menchaki przez kilka lat mierzyli w tunelu pod Piramidą Słońca, jak piramida pochłania miony z promieni kosmicznych. Wstępne wyniki pokazały, że gęstość wnętrza po jednej stronie jest co najmniej o 20 proc. niższa niż po drugiej, oraz obszar o podstawie trójkąta równobocznego (bok ok. 60 m) mniej gęsty niż reszta. Zespół zastrzegł, że nie orzeka o istnieniu komór; jedno z wyjaśnień to po prostu suchsza, osłabiona partia budowli. Recenzowanej publikacji z końcowymi wynikami brak, więc to wciąż wynik wstępny.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Physics World, grudzień 2014",
+          "url": "https://physicsworld.com/a/the-pyramid-detectives-using-muons-to-unveil-archaeological-secrets/"
+        },
+        {
+          "nazwa": "Archaeology (AIA), marzec 2014",
+          "url": "https://archaeology.org/news/2014/03/11/140311-teotihuacan-pyramid-sun"
+        }
+      ],
+      "artykul": "ameryka/folklor",
+      "cytat_leszka": "Jakie było początkowe przeznaczenie piramid nie wie nikt i chyba się nawet nie domyśla."
+    },
+    {
+      "rok": "2014–2015",
+      "tytul": "Ciekła rtęć w tunelu pod Świątynią Pierzastego Węża",
+      "opis": "Archeolog Sergio Gómez z INAH, który od 2003 r. oczyszczał ok. 1800-letni tunel pod Piramidą Pierzastego Węża, ogłosił w 2014 r. trzy komory na jego końcu, a w kwietniu 2015 r. także duże ilości ciekłej rtęci. Obok znaleziono m.in. jadeitowe figurki, szczątki jaguara i pirytowe lustra. Gómez widzi w rtęci możliwy symbol rzeki lub jeziora podziemnego świata i wskazówkę, że blisko może być grobowiec władcy; to jego hipoteza, a inni badacze (np. George Cowgill) mówią, że to wciąż bardzo niepewne. Doniesienia nie wskazują na techniczne użycie rtęci, a grobowca nie potwierdzono.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology (AIA), kwiecień 2015",
+          "url": "https://archaeology.org/news/2015/04/27/150427-mexico-teotihuacan-mercury/"
+        },
+        {
+          "nazwa": "Hyperallergic, kwiecień 2015",
+          "url": "https://hyperallergic.com/archaeologist-finds-liquid-mercury-at-ancient-mesoamerican-site"
+        },
+        {
+          "nazwa": "Physics Today, kwiecień 2015",
+          "url": "https://physicstoday.aip.org/news/liquid-mercury-found-in-teotihuacan-pyramid"
+        }
+      ],
+      "artykul": "08egipt/egipt",
+      "cytat_leszka": "Tym, jak zapewne wiadomo, energii dostarczała rtęć i to rtęć podgrzewana do wysokich temperatur."
+    },
+    {
+      "rok": "2017–2020",
+      "tytul": "Jaskinia pod Piramidą Księżyca wykryta tomografią elektryczną",
+      "opis": "Zespół INAH i UNAM (Denisse Argote, Andrés Tejero, René Chávez i in.) zbadał grunt pod Piramidą Księżyca tomografią oporności elektrycznej (ERT) i tomografią szumów otoczenia. Wykryto pustkę ok. 15 m pod poziomem terenu, szeroką na ok. 20 m, z możliwymi wejściami od północy i wschodu. Autorzy artykułu z 2020 r. (Journal of Archaeological Science, t. 118) uważają ją za jaskinię prawdopodobnie naturalną, choć pierwsze doniesienia z 2017 r. mówiły o tunelu i komorze, a podawane wymiary się różnią. To wniosek pośredni: nic nie wykopano, a związek jaskini z planem miasta pozostaje hipotezą. Najstarszy etap piramidy datuje się według archeologów na ok. 100 p.n.e.–50 n.e.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "HeritageDaily, czerwiec 2020",
+          "url": "https://www.heritagedaily.com/2020/06/natural-cave-detected-beneath-the-pyramid-of-the-moon-at-teotihuacan/134024"
+        },
+        {
+          "nazwa": "El Universal (English), lipiec 2020",
+          "url": "https://www.eluniversal.com.mx/english/evidence-suggests-pyramid-moon-outlined-teotihuacans-urban-design/"
+        },
+        {
+          "nazwa": "National Geographic, lipiec 2017",
+          "url": "https://www.nationalgeographic.com/history/article/tunnel-pyramid-teotihuacan-Mexico-archaeology-spd"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Teotihuacan, jak sądzę, zostało wybudowane grubo przed 12 tysiącami lat"
+    },
+    {
+      "rok": "2024",
+      "tytul": "Pięć trzęsień ziemi uszkodziło piramidy Teotihuacan",
+      "opis": "Hiszpańscy geolodzy pod kierunkiem Raúla Péreza-Lópeza (IGME) szukali na Piramidzie Pierzastego Węża, Słońca i Księżyca śladów uszkodzeń sejsmicznych (wyszczerbione narożniki, przesunięte bloki) i dopasowali je do chronologii archeologicznej. Wyszło pięć silnych wstrząsów między ok. 100 a 600 r. n.e., prawdopodobnie z rowu środkowoamerykańskiego, a mieszkańcy naprawiali i maskowali szkody. Autorzy sugerują, że ostatnie trzęsienie mogło przyczynić się do upadku miasta; to hipoteza, bo wśród możliwych przyczyn nadal są wojny i głód. Praca (J. Archaeol. Sci.: Reports) dotyczy wieków I–VII n.e. i nie wspomina o tsunami ani o kataklizmie sprzed 12,5 tys. lat.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "HeritageDaily, kwiecień 2024",
+          "url": "https://www.heritagedaily.com/2024/04/megathrust-earthquakes-possible-cause-of-teotihuacan-decline/151514"
+        },
+        {
+          "nazwa": "Live Science (przedruk Yahoo), 2024",
+          "url": "https://www.yahoo.com/news/5-catastrophic-megathrust-earthquakes-led-163151591.html"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Wyludnienia zaś dokonało megatsunami, które przetoczyło się przez Jukatan około 12,5 tysiąca lat temu."
+    }
+  ],
+  "stonehenge": [
+    {
+      "rok": "2014",
+      "tytul": "Stonehenge Hidden Landscapes: podziemna mapa okolicy",
+      "opis": "Uniwersytet w Birmingham z Ludwig Boltzmann Institute w Wiedniu przez cztery lata (2010–14) badał okolice Stonehenge metodami geofizycznymi i teledetekcją. Wyniki ogłoszone we wrześniu 2014 r. obejmują co najmniej 17 nieznanych wcześniej monumentów rytualnych z czasów, gdy Stonehenge przybrało znany kształt, oraz setki innych obiektów, m.in. rząd do 60 słupów lub kamieni we wczesnej fazie Durrington Walls. To wyniki prospekcji bez wykopalisk, więc część interpretacji (np. układy astronomiczne dołów) jest ostrożna i wymaga sprawdzenia łopatą.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "DigVentures, wrzesień 2014",
+          "url": "https://digventures.com/2014/09/new-discoveries-at-stonehenge-and-worlds-largest-superhenge/"
+        },
+        {
+          "nazwa": "University of St Andrews, 2014",
+          "url": "https://news.st-andrews.ac.uk/?p=14169"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Tajemniczy kromlech w Stonehenge. Nie wiemy o nim nic. Kiedy go zbudowano, kto go zbudował, a przede wszystkim po co został zbudowany."
+    },
+    {
+      "rok": "2015–2019",
+      "tytul": "Kamieniołomy niebieskich kamieni w Preseli datowane na ok. 3000 r. p.n.e.",
+      "opis": "Zespół Mike'a Parkera Pearsona (UCL) wykopał w Walii kamieniołomy Craig Rhos-y-felin i Carn Goedog i dopasował ich skały do części niebieskich kamieni ze Stonehenge. Znalazł platformy, na które opuszczano słupy odłupane drewnianymi klinami, oraz ścieżki do wleczenia kamieni. Datowanie radiowęglowe dało w 2015 r. ok. 3400 i 3200 r. p.n.e., a po dalszych wykopaliskach (Antiquity 2019) ok. 3000 r. p.n.e. Daty wskazują czas wydobycia, nie to, kiedy dany kamień trafił do Wiltshire; resztę (np. trasę lądową) wnioskuje się pośrednio, a krytycy podważają część interpretacji.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Sci-News (o artykule w Antiquity, 2015)",
+          "url": "https://www.sci.news/archaeology/stonehenge-bluestones-quarries-wales-03494.html"
+        },
+        {
+          "nazwa": "University of Southampton, 2019",
+          "url": "https://www.southampton.ac.uk/home/news/2019/03/stonehenge-bluestones.page"
+        }
+      ],
+      "artykul": "06budowle/budowle",
+      "cytat_leszka": "Kiedy faktycznie został wzniesiony?"
+    },
+    {
+      "rok": "2020",
+      "tytul": "Sarseny pochodzą z West Woods, 25 km od Stonehenge",
+      "opis": "Zespół Davida Nasha (Uniwersytet w Brighton) przebadał przenośnym spektrometrem rentgenowskim sarseny na miejscu i porównał je z rdzeniem wywierconym w 1958 r. z kamienia nr 58. Skład chemiczny 50 z 52 zachowanych sarsenów odpowiada skałom z West Woods na Marlborough Downs, ok. 25 km na północ. Pochodzenie dwóch kamieni (nr 26 i 160) pozostaje nieznane, a dokładnych miejsc wydobycia w West Woods nie wskazano. Praca w Science Advances opiera się na jednym rdzeniu odniesienia, więc to wnioskowanie statystyczne, nie bezpośrednie dopasowanie każdego bloku.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "University of Brighton, 2020",
+          "url": "https://www.brighton.ac.uk/news/2020/brighton-scientists-unlock-the-secret-of-the-stonehenge-stones"
+        },
+        {
+          "nazwa": "Jakarta Post / AFP, 2020",
+          "url": "https://www.thejakartapost.com/life/2020/07/30/mystery-solved-scientists-trace-source-of-stonehenge-boulders"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Zastosowany budulec wskazuje, że budowla ta musiała mieć kapitalne znaczenie."
+    },
+    {
+      "rok": "2020–2025",
+      "tytul": "Krąg olbrzymich szybów wokół Durrington Walls",
+      "opis": "Zespół Vincenta Gaffneya z Uniwersytetu w Bradford wykrył teledetekcją, geofizyką i rdzeniowaniem pierścień do 20 szybów (szacunkowo ponad 30 pierwotnie) o średnicy do 10 m i głębokości ok. 5 m, w kole o szerokości ok. 2 km wokół Durrington Walls i Woodhenge. Datowanie radiowęglowe i OSL wskazuje na ok. 2500 r. p.n.e. Pierwotnie uważano je za naturalne zapadliska w kredzie; praca z listopada 2025 r. (Internet Archaeology) potwierdziła, że wykopali je ludzie. Rola szybów (granica sakralna?) jest tylko interpretacją.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "University of Bradford, 2020",
+          "url": "https://www.bradford.ac.uk/news/archive/2020/astonishing-discovery-near-stonehenge-led-by-university-of-bradford-archaeologists-offers-new-insight-into-neolithic-ancestors.php"
+        },
+        {
+          "nazwa": "The Art Newspaper, listopad 2025",
+          "url": "https://www.theartnewspaper.com/2025/11/28/giant-holes-near-stonehenge-were-carved-out-by-humans-4000-years-ago-new-studies-reveal"
+        }
+      ],
+      "artykul": "upadek/archeoastro1",
+      "cytat_leszka": "Nikt jeszcze nie określił prawdziwej daty powstania monumentu, nie mówiąc o celu budowy."
+    },
+    {
+      "rok": "2021–2022",
+      "tytul": "Waun Mawn: czy pierwsze Stonehenge stało w Walii?",
+      "opis": "Zespół Parkera Pearsona opisał w Antiquity (2021) rozebrany krąg kamienny Waun Mawn w górach Preseli. Datowanie radiowęglowe i OSL umieszcza go ok. 3000 r. p.n.e., a średnica kręgu (ok. 110 m) i orientacja na wschód słońca w przesilenie zbiega się z rowem Stonehenge; autorzy sądzą, że część kamieni przeniesiono na równinę Salisbury. Timothy Darvill w Antiquity (2022) odpowiedział, że to raczej kilka mniejszych układów kamieni, że daty OSL są niepełne, a jedyny kandydat na kamień przeniesiony (gniazdo 91) wyjęto zbyt późno. Zespół Parkera Pearsona odparł zarzuty nowymi wykopaliskami; spór trwa.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Antiquity 2021, rekord w Bournemouth University",
+          "url": "https://staffprofiles.bournemouth.ac.uk/display/journal-article/338550"
+        },
+        {
+          "nazwa": "Darvill, Antiquity 2022",
+          "url": "https://www.cambridge.org/core/product/2F089B76AA2411BB09DBAFE79060101F/core-reader"
+        },
+        {
+          "nazwa": "Parker Pearson i in., odpowiedź, Antiquity 2022",
+          "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/how-waun-mawn-stone-circle-was-designed-and-built-and-when-the-bluestones-arrived-at-stonehenge-a-response-to-darvill/5678888DF6FEE308A55BA0AA5BB41CF2"
+        }
+      ]
+    },
+    {
+      "rok": "2024–2026",
+      "tytul": "Kamień Ołtarzowy przywędrował z Szkocji, ale skąd dokładnie?",
+      "opis": "W 2024 r. zespół z Curtin University, Aberystwyth i UCL (Anthony Clarke i in., Nature) datował ziarna minerałów z sześciotonowego Kamienia Ołtarzowego i dopasował go do basenu Orcadian w północno-wschodniej Szkocji, ok. 750 km od Stonehenge, co obaliło dawny pogląd o pochodzeniu z Walii. Autorzy uważają transport morski za najbardziej prawdopodobny, ale to wnioskowanie. W listopadzie 2026 r. grupa Duncana Pirriego (J. Geol. Soc.) wykazała, że żadne ze zbadanych miejsc, w tym Orkady i Caithness, nie ma pełnego zestawu cech tego kamienia, więc dokładne źródło pozostaje nieznane.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Al Jazeera, sierpień 2024",
+          "url": "https://www.aljazeera.com/news/2024/8/14/stonehenges-altar-stone-came-all-the-way-from-scotland-new-research-shows"
+        },
+        {
+          "nazwa": "NBC News, sierpień 2024",
+          "url": "https://www.nbcnews.com/science/science-news/stonehenge-altar-rock-origin-scotland-study-rcna166265"
+        },
+        {
+          "nazwa": "Phys.org, listopad 2026",
+          "url": "https://phys.org/news/2026-11-mystery-iconic-stonehenge-altar-stone.html"
+        },
+        {
+          "nazwa": "Sci-News, listopad 2026",
+          "url": "https://www.sci.news/archaeology/stonehenges-altar-stone-15179.html"
+        }
+      ],
+      "artykul": "upadek/archeoastro1",
+      "cytat_leszka": "Pokazywanie filmu o mozolnym transporcie rzeką jednego kamiennego bloku niczego nie dowodzi"
+    }
+  ],
+  "baalbek": [
+    {
+      "rok": "2012–2014",
+      "tytul": "Pod dziedzińcem świątyni Jowisza kryje się prehistoryczne osiedle",
+      "opis": "Niemiecki Instytut Archeologiczny (Orient-Abteilung, Margarete van Ess) opisał w 2014 r. kopiec osadniczy (tell) pod wielkim dziedzińcem ołtarzowym rzymskiego sanktuarium, ze śladami zasiedlenia sięgającymi końca VIII tysiąclecia p.n.e. W wykopie z 2012 r. odnaleziono budynki ze środkowej epoki brązu, grób wojownika z grotem włóczni oraz warstwy datowane ceramiką i metodą C-14 na XIX w. p.n.e. To dowód bardzo dawnego zamieszkania miejsca, ale nie datuje megalitycznego podium: DAI opisuje monumentalne sanktuarium jako rzymskie, a ten wykop go nie dotyczy.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "DAI, e-Forschungsberichte 2014/1 (van Ess)",
+          "url": "https://publications.dainst.org/journals/efb/article/view/29/4422"
+        },
+        {
+          "nazwa": "DAI, opis projektu Baalbek",
+          "url": "https://dainst.org/forschung/projekte/noslug/4484"
+        }
+      ],
+      "artykul": "06budowle/budowle",
+      "cytat_leszka": "Kanon nauki umieszcza tę budowę na około 3 tysiące lat pne."
+    },
+    {
+      "rok": "2014",
+      "tytul": "Trzeci gigantyczny blok w kamieniołomie, ok. 1650 ton",
+      "opis": "Latem 2014 r. ekipa DAI i Uniwersytetu Libańskiego odkryła w kamieniołomie pod słynnym blokiem Hajjar al-Hibla monolit o wymiarach ok. 19,6 x 6 x ok. 5,6 m, szacowany na ok. 1650 t, uznany za największy znany ciosany blok starożytności. Przeznaczano go na górną warstwę podium świątyni Jowisza, ale został w kamieniołomie. Waga i wysokość to szacunki, a powód porzucenia nie jest ustalony; sąsiedni blok zostawiono prawdopodobnie przez słabą jakość kamienia i pęknięcie.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "DAI via idw, komunikat z 21.11.2014",
+          "url": "https://idw-online.de/en/news?id=614672&print=1"
+        },
+        {
+          "nazwa": "HeritageDaily, grudzień 2014",
+          "url": "https://www.heritagedaily.com/2014/12/research-team-discover-the-worlds-largest-ancient-stone-block-in-baalbek/105790"
+        },
+        {
+          "nazwa": "DigVentures, grudzień 2014",
+          "url": "https://digventures.com/2014/12/archaeologists-discover-biggest-ancient-stone-block-ever-carved-by-people/"
+        }
+      ],
+      "artykul": "06budowle/budowle",
+      "cytat_leszka": "Ponadto nie mogę sobie uświadomić w jaki sposób, jaką techniką Grecy lub Rzymianie transportowali ciężkie bloki"
+    },
+    {
+      "rok": "2014–2015",
+      "tytul": "Jak wydobywano i szykowano do transportu megality z Baalbek",
+      "opis": "Dalsze wykopaliska w południowym kamieniołomie (kierownictwo lokalne Jeanine Abdul Massih, projekt DAI) odsłoniły ślady rzymskiej technologii wydobycia: rowy po wykuwaniu bloków, wygładzoną powierzchnię skały jako platformę dla transportu oraz otwory kotwiczne w skale, wskazujące na maszyny dźwigowe lub wciągarki. Obliczenia pracochłonności budowy sanktuarium prowadzi się w klastrze TOPOI. Sposób przemieszczenia bloków wielkości setek ton wciąż badają, więc to opis metody wydobycia, a nie rozwiązanie zagadki transportu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "DAI, e-Forschungsberichte 2016/3 (van Ess)",
+          "url": "https://publications.dainst.org/journals/efb/article/view/1556/4470"
+        },
+        {
+          "nazwa": "DAI via idw, komunikat z 2014",
+          "url": "https://idw-online.de/en/news?id=614672&print=1"
+        }
+      ],
+      "artykul": "06budowle/budowle"
+    }
+  ],
+  "abydos-i-osireion": [
+    {
+      "rok": "2011",
+      "tytul": "Skąd bierze się woda w Osireionie",
+      "opis": "Zespół Parizek, Abdel Moneim, Fantle, Westerman i Issawi zbadał izotopy tlenu i wodoru w wodzie Osireionu, Nilu i okolicznych studni. Wyniki wskazują, że woda wypełniająca kanał wokół budowli, położonej około 13 m poniżej otoczenia, nie pochodzi z prostego parowania jednego źródła. Autorzy proponują, że wypływa z częściowo zamkniętego, artezyjskiego poziomu wodonośnego, być może z dodatkiem przesączeń przez iły Esna. To praca z czasopisma egipskiego, wnioski mają charakter interpretacji.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Egyptian Journal of Archaeological and Restoration Studies, 2011",
+          "url": "https://ejars.sohag-univ.edu.eg/Articles/Details/7"
+        },
+        {
+          "nazwa": "ISIDA Project: Osireion",
+          "url": "https://isida-project.org/osirion/"
+        }
+      ],
+      "artykul": "08egipt/egipt",
+      "cytat_leszka": "Ponadto całość położona jest o 15 m niżej niż pełna przepychu i ornamentyki oraz dużo większa świątynia faraona Setiego II, co być może świadczyć o tym, że Ozyrejon zbudowano wcześniej."
+    },
+    {
+      "rok": "2014",
+      "tytul": "Grobowiec Senebkaya i „dynastia abydoska”",
+      "opis": "Ekipa Penn Museum pod kierunkiem Josefa Wegnera, we współpracy z egipskimi władzami, odkryła w południowym Abydos grobowiec króla Woseribre Senebkaya z okresu ok. 1650 p.n.e. Imię króla odczytano z inskrypcji w grobowcu; grób był splądrowany, a teza o odrębnej „dynastii abydoskiej” jest interpretacją opartą na zespole około 16 grobowców. To odkrycie dotyczy królewskiej nekropolii w pobliżu świątyń, a nie samego Osireionu.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "ScienceDaily (komunikat Penn), 2014",
+          "url": "https://www.sciencedaily.com/releases/2014/01/140116190323.htm"
+        },
+        {
+          "nazwa": "Phys.org, 2014",
+          "url": "https://phys.org/news/2014-01-unearths-tomb-previously-unknown-pharaoh.html"
+        }
+      ]
+    },
+    {
+      "rok": "2023–2025",
+      "tytul": "Konserwacja i skan 3D Osireionu, rampa transportowa bloków",
+      "opis": "W latach 2023–2025 ARCE i World Monuments Fund, z egipskim ministerstwem, wzmocniły konstrukcję Osireionu kotwami ze stali nierdzewnej i wykonały jego skan 3D wraz z tunelem Merenptaha. Podczas odgruzowywania na północ od budowli odnaleziono wykutą w łupku rampę, którą prawdopodobnie wciągano ciężkie bloki granitu i piaskowca. Równolegle misja kierowana przez Jamesa Westermana prowadzi nowe badania, m.in. endoskopowe wyspy centralnej, ale jej wyniki nie zostały jeszcze opublikowane.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "ARCE: Osireion Conservation",
+          "url": "https://arce.org/?p=8134"
+        },
+        {
+          "nazwa": "ISIDA Project: Osireion (misja OSIREION-VII)",
+          "url": "https://isida-project.org/osirion/"
+        }
+      ],
+      "artykul": "06budowle/budowle",
+      "cytat_leszka": "Sprawa uniesienia kilkudziesięciotonowych bloków na wysokość paru metrów też według archeologów nie sprawiała żadnych trudności."
+    },
+    {
+      "rok": "2025",
+      "tytul": "Wielki grobowiec nieznanego króla w Abydos",
+      "opis": "W marcu 2025 Penn Museum i egipscy archeolodzy ogłosili odkrycie ok. 3600-letniego grobowca w nekropolii Anubis Mountain, większego niż znany grób Senebkaya i inne grobowce tzw. dynastii abydoskiej. Zniszczone przez rabusiów napisy nie pozwalają odczytać imienia właściciela; podejrzewa się poprzednika Senebkaya, a możliwymi kandydatami są Senaiib lub Paentjeni. Identyfikacja pozostaje niepewna.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Penn Museum, komunikat 2025",
+          "url": "https://penn.museum/about/press-room/press-releases/penn-museum-and-egyptian-archaeologists-unearth-a-3-600-year-old-tomb-from-the-lost-abydos-dynasty"
+        },
+        {
+          "nazwa": "The History Blog, 2025",
+          "url": "https://www.thehistoryblog.com/archives/date/2025/03/29"
+        }
+      ]
+    }
+  ],
+  "ollantaytambo": [
+    {
+      "rok": "2015",
+      "tytul": "Czeskie pomiary: czy Ollantaytambo było zorientowane na przesilenie?",
+      "opis": "Zespół z Politechniki Praskiej (CTU), Obserwatorium w Ondřejovie i czeskiego instytutu geodezji, wykorzystując pomiary, zdjęcia satelitarne i cyfrowy model terenu ASTER, sprawdził orientację astronomiczną kompleksu. Ściana Sześciu Monolitów (Świątynia Słońca) nie pokrywa się ze wschodem Słońca w przesilenie zimowe ani z wschodem Plejad, ale linia od platformy piramidy Pacaritanpu wzdłuż drogi inkaskiej do świątyni zgadza się z azymutem zachodu Słońca w przesilenie. Autorzy mówią ostrożnie o „możliwości” orientacji słonecznej, bez dowodu zamiaru budowniczych.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Hanzalová, Klokočník, Kostelecký, Geoinformatics FCE CTU 14(2), 2015",
+          "url": "https://ojs.cvut.cz/ojs/index.php/gi/article/view/gi.14.2.4"
+        }
+      ]
+    },
+    {
+      "rok": "2024–2025",
+      "tytul": "Osady zbiornika Pukaraqhay: jak długo działał inkaski system nawadniania",
+      "opis": "R. Alexander Hunter (Brown University) zbadał w „Antiquity” osady w opuszczonym zbiorniku Pukaraqhay, na końcu ok. 15-kilometrowego kanału nawadniającego tarasy Ollantaytambo. Datowania radiowęglowe pokazują, że zbiornik i kanał działały ponad pół wieku po hiszpańskim najeździe z 1532 r., a załamanie utrzymania systemu nastąpiło dopiero ok. 1600 r. Praca dokumentuje Ollantaytambo jako czynną posiadłość rolniczą z rozległym systemem irygacji, a nie tylko zespół monumentalnych murów; nie dotyczy datowania samych megalitów.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Hunter, Antiquity 99(403), 2025",
+          "url": "https://www.cambridge.org/core/journals/antiquity/article/structural-transformation-of-ollantaytambos-inka-ecology-under-spanish-rule/2C16EA948CFE43A89AF6679CE0F4C5ED"
+        }
+      ]
+    }
+  ],
+  "cusco-i-coricancha": [
+    {
+      "rok": "2022",
+      "tytul": "Mury Inków jako zapis trzęsień ziemi pod Cusco",
+      "opis": "Andy Combey (Université Grenoble Alpes) z Carlosem Benavente (INGEMMET) i współautorami przebadał w „Quaternary International” dziewięć stanowisk inkaskich wokół Cusco i skatalogował prawie 3000 śladów uszkodzeń sejsmicznych w murach. Wzorzec przesunięć wskazuje na dwa silne dawne trzęsienia, w tym jedno niezapisane w źródłach z czasów inkaskich, a trzęsienie z 1950 r. zostawiło w murach inkaskich niewiele pęknięć. Autorzy wzywają do zbadania uskoków pod Cusco. Praca nie datuje wstrząsów na tysiące lat wstecz, lecz na epokę Inków.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Combey i in., Quaternary International 634, 2022 (rekord IRD)",
+          "url": "https://www.documentation.ird.fr/hor/fdi:010086294"
+        },
+        {
+          "nazwa": "Eos (AGU), 20 września 2022",
+          "url": "https://eos.org/articles/written-in-stone-inca-buildings-remember-ancient-earthquakes"
+        }
+      ],
+      "artykul": "ameryka/sacsay",
+      "cytat_leszka": "Nowe Cusco zbudowano na ruinach tego, co pozostało po jakimś wielkim trzęsieniu ziemi"
+    },
+    {
+      "rok": "2023",
+      "tytul": "Odnowiona droga rytualna z Koricancha do góry Wanakauri",
+      "opis": "Dyrekcja Kultury w Cusco (peruwiańskie Ministerstwo Kultury) zakończyła w marcu 2023 r. ponad czteroletnie prace badawcze i konserwatorskie na 13-kilometrowej inkaskiej drodze rytualnej, która wiodła od Koricancha do świętej góry Wanakauri. Badania odsłoniły m.in. mury oporowe i schody, punkty widokowe, powierzchniowe i podziemne drenaże, kanały oraz wielokątną budowlę o znaczeniu astronomicznym i obrzędowym, a także ceramikę inkaską i przedinkaską, narzędzia kamienne, metal i zwęglone ziarna kukurydzy. To komunikat urzędowy o zakończeniu prac, bez recenzowanej publikacji i bez nowych datowań radiowęglowych.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Dirección Desconcentrada de Cultura de Cusco (Ministerio de Cultura), 9 marca 2023",
+          "url": "https://www.culturacusco.gob.pe/noticia/otras-noticias-importantes/direccion-de-cultura-de-cusco-restauro-13-kilometros-de-camino-ritual-inka-que-une-el-qorikancha-con-el-mitico-cerro-wanakauri/"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Ak'awillay koło Cusco: nowe daty radiowęglowe dla regionu stolicy Inków",
+      "opis": "R. Alan Covey z zespołem opublikował w „Antiquity” 18 nowych dat radiowęglowych z osady Ak'awillay, ok. 20 km na zachód od Cusco. Wczesne zasiedlenie datuje się na ok. 425–775 r. n.e., potem następuje długa przerwa, a ponowne osadnictwo przypada dopiero na okres imperialny. Wynik koryguje obraz regionu wokół stolicy w czasach tuż przed ekspansją Inków; nie dotyczy bezpośrednio murów Cusco ani Koricancha, więc wpis ma charakter kontekstowy.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Covey i in., Antiquity 99(404), 2025",
+          "url": "https://www.cambridge.org/core/product/6B5177903D92CCFDC05F520CE36CC60B"
+        }
+      ]
+    }
+  ],
+  "wyspa-wielkanocna": [
+    {
+      "rok": "2012–2013",
+      "tytul": "Eksperyment z „chodzącym” moai",
+      "opis": "Carl Lipo i Terry Hunt wraz z Sergiem Rapu Haoą zbudowali betonową replikę posągu o masie 4,35 tony i w 2012 roku 18 osób, ciągnąc trzy liny, „przechodziło” ją około 100 metrów w mniej niż godzinę, kołysząc na boki. Wyniki opublikowano w Journal of Archaeological Science w 2013 roku. Teoria tłumaczy, czemu przy drogach leżą porzucone posągi o pochylonej sylwetce, i nie wymaga wielu ludzi ani kłód. Jo Anne Van Tilburg z UCLA nazwała pokaz „wyczynem” i uznała replikę za niedokładną, więc spór trwa.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Lipo, Hunt, Rapu Haoa, Journal of Archaeological Science, 2013 (University of Arizona)",
+          "url": "https://experts.arizona.edu/en/publications/the-walking-megalithic-statues-moai-of-easter-island/"
+        },
+        {
+          "nazwa": "HeritageDaily, 2012 (relacja z eksperymentu)",
+          "url": "https://www.heritagedaily.com/2012/10/easter-island-statues-walked-into-position-say-experts/61152"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Czy to przypadkiem nie tsunami przesunęło je od brzegu pod górę na zbocze wulkanu przykrywając warstwą ziemi i mułu?"
+    },
+    {
+      "rok": "2019",
+      "tytul": "Posągi stoją tam, gdzie wypływa słodka woda",
+      "opis": "Zespół z uniwersytetów Oregon, Arizona i Binghamton (m.in. Robert DiNapoli, Terry Hunt, Carl Lipo) porównał rozmieszczenie platform ahu z ogrodami kamiennymi, zasobami morskimi i słodką wodą. Modelowanie przestrzenne w PLOS ONE wykazało, że ahu leżą tam, gdzie woda gruntowa wypływa przy wybrzeżu, a nie przy ogrodach czy łowiskach. Dane o wodzie obejmowały na razie tylko zachodnią część wyspy, więc wniosek jest ostrożny.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Futurity, 2019 (o badaniu w PLOS ONE)",
+          "url": "https://futurity.org/?p=1957922"
+        },
+        {
+          "nazwa": "TIME, 2019",
+          "url": "https://time.com/5499994/easter-island-statues-location-fresh-water"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Wyspa Wielkanocna i bezładnie stojące posągi Moai."
+    },
+    {
+      "rok": "2024",
+      "tytul": "Tabliczka rongorongo sprzed kontaktu z Europejczykami?",
+      "opis": "Międzynarodowy zespół kierowany przez Silvię Ferrara (Scientific Reports) datował radiowęglowo cztery tabliczki rongorongo przechowywane w Rzymie. Trzy pochodzą z drewna ściętego w XIX wieku, ale jedna z drewna z połowy XV wieku, co autorzy czytają jako dowód, że pismo powstało przed przybyciem Europejczyków, czyli niezależnie. Wniosek opiera się na jednej tabliczce z czterech, a datowanie określa wiek drewna, nie moment ryciny. Pismo nadal nie jest odczytane.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Phys.org, 2024 (o pracy Ferrary i in., Scientific Reports)",
+          "url": "https://phys.org/news/2024-02-evidence-independent-written-language-easter.html"
+        },
+        {
+          "nazwa": "Popular Archaeology, 2024",
+          "url": "https://popular-archaeology.com/article/study-suggests-independent-invention-of-writing-on-rapa-nui-easter-island"
+        }
+      ],
+      "artykul": "05bogowie/bogowie",
+      "cytat_leszka": "Absolutny kres znających jeszcze historię wyspy mieszkańców i jej pisma \"rongo-rongo\" położyły polowania na ludzi w XIX wieku."
+    },
+    {
+      "rok": "2024",
+      "tytul": "Ogrody kamienne: wyspa nie mogła wykarmić dziesiątek tysięcy",
+      "opis": "Dylan Davis, Carl Lipo, Terry Hunt i współpracownicy w Science Advances połączyli pięcioletnie badania terenowe z uczeniem maszynowym na zdjęciach satelitarnych. Wyszło, że ogrody kamienne zajmowały około 188 akrów, poniżej 0,5 proc. wyspy, co wystarczało na wyżywienie ok. 2–3 tys. osób, zbliżonej do liczby widzianej przez Europejczyków w 1722 roku. Autorzy kwestionują więc hipotezę wielkiego załamania demograficznego, choć wcześniejsze prace szacowały populację nawet na 17–25 tys., a sami autorzy przyznają, że mogli przeoczyć drobne ogrody.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Davis i in., Science Advances 10(25), 2024 (University of Arizona)",
+          "url": "https://experts.arizona.edu/en/publications/island-wide-characterization-of-agricultural-production-challenge/"
+        },
+        {
+          "nazwa": "University of Arizona News, 2024",
+          "url": "https://news.arizona.edu/node/29084"
+        }
+      ],
+      "artykul": "atomwoj/bogatom01",
+      "cytat_leszka": "Tajemnicą owiany jest także zanik cywilizacji Wyspy Wielkanocnej, która tak nagle zgasła, kiedy już dojrzała do doskonałości."
+    },
+    {
+      "rok": "2024",
+      "tytul": "Genomy Rapanui: brak załamania i kontakt z Amerykami",
+      "opis": "Zespół z Uniwersytetu w Kopenhadze i Uniwersytetu w Lozannie (Víctor Moreno-Mayar, Anna-Sapfo Malaspinas) zsekwencjonował w Nature genomy 15 osób z lat 1670–1950. Nie znaleziono śladu gwałtownego spadku liczebności w XVII wieku, co podważa teorię „ekobójstwa”. Zarówno dawni, jak i współcześni Rapanui noszą około 10 proc. DNA rdzennych Amerykanów, a mieszanie datowano na ok. 1250–1430 n.e. Nie wiadomo, gdzie doszło do kontaktu ani której populacji dotyczył, a data jest szacunkiem statystycznym.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Moreno-Mayar i in., Nature 633, 2024 (PubMed Central)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11390480/"
+        },
+        {
+          "nazwa": "Sci.News, 2024",
+          "url": "https://www.sci.news/genetics/ancient-easter-islander-genomes-13254.html"
+        },
+        {
+          "nazwa": "connectsci.au, 2024",
+          "url": "https://connectsci.au/news/news-parent/1469/Easter-Island-ecocide-theory-debunked-by-ancient"
+        }
+      ],
+      "artykul": "05bogowie/bogowie",
+      "cytat_leszka": "Czy tak duża odległość, dzieląca wyspę Wielkanocną od azjatyckiego lądu neguje tożsamość tych dwóch ośrodków cywilizacyjnych, czy też winna skłonić do twierdzenia, że nieobca im była także żegluga oceaniczna?"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Model 3D i fizyka: moai szły, kołysane linami",
+      "opis": "Carl Lipo (Binghamton University) i Terry Hunt (University of Arizona) przeanalizowali 962 posągi, w tym 62 przy drogach, zbudowali modele 3D i potwierdzili, że szerokie, D-kształtne podstawy i pochylenie do przodu sprzyjają zygzakowatemu „chodzeniu” na linach po drogach szerokich na ok. 4,5 m. Praca ukazała się w Journal of Archaeological Science. Autorzy traktują to jako hipotezę do dalszego testowania, nie ostateczny dowód, a krytycy wcześniejszych pokazów (Van Tilburg) kwestionowali dokładność replik.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Lipo, Hunt, Journal of Archaeological Science 183, 2025 (University of Arizona)",
+          "url": "https://experts.arizona.edu/en/publications/the-walking-moai-hypothesis-archaeological-evidence-experimental-/"
+        },
+        {
+          "nazwa": "ScienceDaily, 2025",
+          "url": "https://sciencedaily.com/releases/2025/10/251008030938.htm"
+        },
+        {
+          "nazwa": "Sci.News, 2025",
+          "url": "https://www.sci.news/archaeology/walking-moai-hypothesis-14269.html"
+        }
+      ]
+    }
+  ],
+  "angkor": [
+    {
+      "rok": "2010",
+      "tytul": "Megasusze i monsuny w słojach drzew",
+      "opis": "Zespół Brendana Buckleya z Lamont-Doherty Earth Observatory (Columbia University) odtworzył z słojów cyprysów z Wietnamu 760-letni zapis opadów. Wykazał dwie wielkie susze, w latach 1330–1360 i 1400–1420, po których przychodziły gwałtowne monsuny, mogące niszczyć i zamulać kanały Angkoru. Autor podkreśla, że klimat był czynnikiem współprzyczyniającym się, a nie jedyną przyczyną upadku. Drzewa rosły ok. 700 km od Angkoru, a związek z El Niño pozostaje hipotezą.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "ScienceDaily, 2010 (Buckley i in., PNAS)",
+          "url": "https://sciencedaily.com/releases/2010/03/100329203547.htm"
+        },
+        {
+          "nazwa": "National Geographic, 2010",
+          "url": "https://www.nationalgeographic.com/science/article/tree-rings-reveal-two-droughts-that-sealed-the-fate-of-angkor"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Współczesna historia nie zna takiego kataklizmu w naszych, historycznych czasach."
+    },
+    {
+      "rok": "2013",
+      "tytul": "LiDAR odsłania zaplanowane miasto pod lasem",
+      "opis": "Damian Evans (University of Sydney, École française d'Extrême-Orient, APSARA) przeleciał w 2012 roku helikopterem z laserowym skanerem nad 370 km2 i opublikował wyniki w PNAS. Odsłoniły one nieznany, planowo wytyczony układ miejski o rdzeniu co najmniej 35 km2, wcześniej uznawanym za ok. 9 km2, oraz rozległe systemy wodne także na Phnom Kulen i w Koh Ker. Lidar widzi tylko ukształtowanie terenu, więc daty i funkcje trzeba potwierdzać wykopaliskami. Autorzy sądzą, że tak rozbudowana infrastruktura wodna była też źródłem podatności miasta.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Evans i in., PNAS 110(31), 2013 (PubMed Central)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3732978/"
+        },
+        {
+          "nazwa": "Archaeology (AIA), 2013",
+          "url": "https://archaeology.org/news/2013/06/17/130617-cambodia-mahendraparvata-lost-city-lidar/"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Dlaczego powierzchnia basenów wielokrotnie przekracza powierzchnię samych świątyń?"
+    },
+    {
+      "rok": "2015",
+      "tytul": "Ludzie mieszkali wewnątrz fosy Angkor Wat",
+      "opis": "Miriam Stark, Damian Evans i współpracownicy opublikowali w Antiquity wyniki LiDAR-u i wykopalisk wewnątrz prostokątnego obwodu wokół świątyni. Wykazały one niskogęste zamieszkanie, prawdopodobnie przez osoby obsługujące świątynię, co przeczy poglądowi, że teren ten był zastrzeżoną „świątynią-miastem” elity. Wcześniej, za pomocą georadaru, Till Sonnemann (Leiden) znalazł pod zachodnim wejściem fundamenty ośmiu wież, zburzonych jeszcze podczas budowy. To dobrze udokumentowane odkrycia, ale dotyczą jednego fragmentu kompleksu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Stark i in., Antiquity 89(348), 2015",
+          "url": "https://cambridge.org/core/journals/antiquity/article/residential-patterning-at-angkor-wat/AC4417003B453463101D0DA66B3F2357"
+        },
+        {
+          "nazwa": "Science News (o LiDAR-ze i georadarze w Angkor Wat)",
+          "url": "https://www.sciencenews.org/article/lasers-unveil-secrets-and-mysteries-angkor-wat"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Czy to były naprawdę świątynie lub grobowce?"
+    },
+    {
+      "rok": "2016",
+      "tytul": "Wielkie średniowieczne miasta pod dżunglą",
+      "opis": "Damian Evans zaprezentował wyniki skanowania laserowego z 2015 roku (ok. 1900 km2, finansowane przez Europejską Radę ds. Badań Naukowych), opublikowane w Journal of Archaeological Science. Odsłoniło ono zasięg miast na Phnom Kulen i wokół Preah Khan z Kompong Svay, a także sieci wodne i miejsca wytopu żelaza. Dane podważają popularną tezę o ucieczce Khmerów na południe po najeździe Syjamczyków. Lidar pokazuje układ terenu, a nie dokładne daty.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Electro Optics, 2016 (Evans, Journal of Archaeological Science)",
+          "url": "https://www.electrooptics.com/news/medieval-cities-cambodian-forest-discovered-using-lidar"
+        },
+        {
+          "nazwa": "Phys.org / AFP, 2016",
+          "url": "https://phys.org/news/2016-06-lasers-uncover-hidden-secrets-cambodia.html"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Być może są jeszcze inne w rejonie Mekongu czy poniżej jeziora Boeng Tonle Sab, ale dotychczas nie odkryte."
+    },
+    {
+      "rok": "2018",
+      "tytul": "Sieć kanałów jako słaby punkt miasta",
+      "opis": "Dan Penny i zespół z University of Sydney (m.in. Roland Fletcher, Damian Evans) na podstawie map archeologicznych odtworzyli sieć kanałów, wałów i zbiorników na ponad 1000 km2 i przeprowadzili komputerową symulację wielkich powodzi monsunowych. Wynikło, że wody kierowały się w kilka głównych dróg, które ulegały erozji, a pozostałe odcinki się zamulały, co wywoływało kaskadowe awarie. Praca w Science Advances przedstawia to jako możliwy mechanizm upadku po zmianie klimatu z suszy na deszcze, nie jako dowód.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "ScienceDaily, 2018 (Penny i in., Science Advances)",
+          "url": "https://sciencedaily.com/releases/2018/10/181018095435.htm"
+        },
+        {
+          "nazwa": "The Conversation, 2018 (Dan Penny)",
+          "url": "https://theconversation.com/how-huge-floods-and-complex-infrastructure-could-have-triggered-ancient-angkors-demise-105126"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "W jaki sposób regulowano wymianę wody w zbiornikach?"
+    },
+    {
+      "rok": "2019",
+      "tytul": "Angkor upadał stopniowo, nie w jednej katastrofie",
+      "opis": "Dan Penny, Damian Evans i współpracownicy z University of Sydney przebadali rdzenie osadów z fosy Angkor Thom. Ślady wypalania, wycinki lasu i erozji słabły już na początku XIV wieku, ponad sto lat przed tradycyjną datą porzucenia w 1431 roku, a pod koniec stulecia fosa zarosła. Autorzy w PNAS wnioskują o powolnym schyłku, a nie nagłym załamaniu, i że to elity odeszły pierwsze. Dane pochodzą z jednego miejsca, więc nie muszą opisywać całego państwa.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "ScienceDaily, 2019 (Penny i in., PNAS)",
+          "url": "https://sciencedaily.com/releases/2019/02/190225192144.htm"
+        },
+        {
+          "nazwa": "Medievalists.net, 2019",
+          "url": "https://www.medievalists.net/2019/03/the-fall-of-the-angkor-was-gradual-not-dramatic-researchers-find/"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Cały kompleks został zniszczony wielkim trzęsieniem ziemi."
+    }
+  ],
+  "linie-z-nazca": [
+    {
+      "rok": "2016",
+      "tytul": "Satelity i podziemne akwedukty Nazca (puquios)",
+      "opis": "Zespół Rosy Lasaponary z włoskiego CNR (Instytut Metodologii Analiz Środowiskowych) użył zdjęć satelitarnych do zmapowania spiralnych szybów, czyli puquios, i wykrył wcześniej nieznane. Wyniki wskazują na system hydrauliczny czerpiący wodę z poziomów podziemnych, a spiralne otwory mogły też kierować wiatr do kanałów i wspomagać przepływ wody; część puquios działa do dziś. Wiek systemu jest nadal dyskutowany, a opis opierał się wówczas na relacji badaczki w mediach, przed pełnym wydaniem książki.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology (Archaeological Institute of America), Peru's Puquios",
+          "url": "https://archaeology.org/?p=5035"
+        },
+        {
+          "nazwa": "Mic, 13 kwietnia 2016 (za BBC)",
+          "url": "https://mic.com/articles/140792/mystery-of-nazca-peru-s-puquios-purpose-of-ancient-holes-finally-solved-by-satellites"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "a w ogóle nikt nie zainteresował się podziemnymi kamiennymi kanałami, które być może są następnym olbrzymim systemem hydrotechnicznym"
+    },
+    {
+      "rok": "2019",
+      "tytul": "Ptaki z Nazca: egzotyczne gatunki zamiast lokalnych",
+      "opis": "Masaki Eda z Muzeum Uniwersytetu Hokkaido wraz z T. Yamasakim i M. Sakaiem porównał kształt dziobów, ogonów i stóp 16 geoglifów ptaków z ptakami Peru. Rzekomy koliber to prawdopodobnie pustelnik z tropików, a inne rysunki mogą przedstawiać pelikany z wybrzeża oraz papugę; 12 ptaków nie dało się rozpoznać. Wnioski są ostrożne („prawdopodobnie”), a powodu wyboru obcych gatunków nie ustalono. Praca ukazała się w Journal of Archaeological Science: Reports.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology (AIA), 20 czerwca 2019",
+          "url": "https://archaeology.org/news/2019/06/20/190620-peru-nazca-glyphs"
+        },
+        {
+          "nazwa": "Science News, 2019",
+          "url": "https://www.sciencenews.org/?p=950764"
+        }
+      ]
+    },
+    {
+      "rok": "2019",
+      "tytul": "143 nowe geoglify na pampie Nazca",
+      "opis": "Uniwersytet Yamagata pod kierunkiem Masato Sakaia ogłosił w listopadzie 2019 r. odkrycie 143 nowych figur (142 z badań terenowych i danych wysokiej rozdzielczości z lat 2016–2018, jedna z pierwszej próby z IBM). Duże figury z linii powstały zapewne w początkach okresu Nazca (100–300 n.e.), a mniejsze, wypełnione powierzchnie przy ścieżkach mogą być starsze (100 p.n.e.–100 n.e.). Zespół łączy pierwsze z rytuałami, a drugie z drogowskazami, to ocena badaczy.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Sci.News, 2019 (komunikat Uniwersytetu Yamagata)",
+          "url": "https://www.sci.news/archaeology/new-nazca-geoglyphs-07836.html"
+        },
+        {
+          "nazwa": "Andina, 19 listopada 2019",
+          "url": "https://andina.pe/ingles/noticia-peru-143-new-geoglyphs-discovered-in-nazca-using-artificial-intelligence-774434.aspx"
+        }
+      ]
+    },
+    {
+      "rok": "2020",
+      "tytul": "37-metrowy kot z okresu Paracas",
+      "opis": "Archeolodzy peruwiańskiego Ministerstwa Kultury (Plan Zarządzania Nazca-Palpa) odkryli w 2020 r. podczas prac na punkcie widokowym Mirador Natural geoglif kota o długości ok. 37 m, ledwie widoczny na zboczu i grożący zniknięciem przez erozję. Na podstawie stylu datuje się go na późny okres Paracas, ok. 200–100 p.n.e., czyli jest starszy od właściwych linii Nazca. Wiek ustalono stylistycznie, nie metodą fizyczną. Figurę oczyszczono i zabezpieczono.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Andina (Ministerstwo Kultury Peru), 16 października 2020",
+          "url": "https://andina.pe/ingles/noticia-nazca-lines-new-giant-geoglyph-of-feline-discovered-in-peru-818050.aspx"
+        },
+        {
+          "nazwa": "Sci.News, 2020",
+          "url": "https://www.sci.news/archaeology/cat-geoglyph-nazca-lines-08970.html"
+        }
+      ]
+    },
+    {
+      "rok": "2024",
+      "tytul": "303 nowe geoglify znalezione z pomocą sztucznej inteligencji",
+      "opis": "Zespół Uniwersytetu Yamagata z IBM Research wytrenował model rozpoznawania obrazów na znanych figurach i wytypował 1309 miejsc, z których zbadano około jednej czwartej na piechotę i dronami we wrześniu 2022–lutym 2023 r. Znaleziono 303 nowe figury (178 z podpowiedzi modelu, 125 przy okazji), niemal podwajając liczbę znanych, ale trafność była niska, ok. 1 trop na 36 wskazań, a zdaniem zespołu może ich być jeszcze co najmniej 248. Figury ze zboczy, przedstawiające głównie ludzi i zwierzęta, są według badaczy starsze od wielkich linii i służyły m.in. jako znaki przy ścieżkach. Wyniki opublikował PNAS; autor zewnętrzny podkreśla, że ludzie wciąż są niezbędni.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "CNN / KTVZ, 27 września 2024 (PNAS)",
+          "url": "https://ktvz.com/cnn-other/2024/09/27/ai-helps-uncover-hundreds-of-unknown-ancient-symbols-hidden-in-perus-nazca-desert/"
+        },
+        {
+          "nazwa": "Andina (Ministerstwo Kultury Peru), 2024",
+          "url": "https://andina.pe/ingles/noticia-peru-geoglyphs-discovered-with-ai-are-older-than-nazca-lines-1001698.aspx"
+        }
+      ]
+    }
+  ]
+}
