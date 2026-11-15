@@ -1,5 +1,6 @@
 /**
- * Grafiki progów wsparcia na Patronite (1080×1080), w stylu okładki podcastu i kanału YouTube:
+ * Grafiki progów wsparcia na Patronite: patronite-*-532x240.jpg (wymiar zalecany przez Patronite) i -1064x480.jpg (ostrzejsza),
+ * oraz kwadratowe prog-*.jpg 1080×1080 z listą nagród (na Facebooka i do wpisów), w stylu okładki podcastu i kanału YouTube:
  * nocne tło, złote litery, własny znak każdego progu; im wyższy próg, tym jaśniejsza scena z piramidą w tle.
  * Zdjęcie sceny jest nasze (podcast/scena-kwadrat.jpg), więc grafiki nie wymagają podpisów autorów.
  * Wynik: podcast/patronite/. Uruchomienie: npx tsx scripts/grafika-patronite.ts
@@ -73,4 +74,34 @@ for (const p of PROGI) {
   const plik = `${WYJ}/prog-${p.nr}-${p.nazwa.toLowerCase().replace(/ /g, "-")}.jpg`;
   await sharp(scena).composite([{ input: Buffer.from(svg), left: 0, top: 0 }]).jpeg({ quality: 92 }).toFile(plik);
   console.log(plik);
+
+  // ---------- grafika progu na Patronite: 532×240 (zalecany wymiar) i 1064×480 (podwójna rozdzielczość) ----------
+  // tylko znak, nazwa i kwota – nagrody wpisuje się w opisie progu
+  const BW = 1064, BH = 480;
+  const tloB = await sharp("podcast/scena-kwadrat.jpg").resize(BW, BH, { fit: "cover", position: "top" }).modulate({ brightness: p.jasnosc * 0.9 }).blur(4).toBuffer();
+  const gwiazdyB = Array.from({ length: 25 + p.nr * 15 }, (_, i) => {
+    const x = (i * 389 + p.nr * 97) % BW, y = (i * 173 + p.nr * 41) % BH, r = ((i * 7) % 3) * 0.6 + 0.6;
+    return `<circle cx="${x}" cy="${y}" r="${r}" fill="#fff6e0" opacity="${0.12 + ((i * 13) % 10) / 28}"/>`;
+  }).join("");
+  const dluga = p.nazwa.length > 12;
+  const baner = `<svg xmlns="http://www.w3.org/2000/svg" width="${BW}" height="${BH}"><defs>${ZLOTO}
+    <linearGradient id="ciemno" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#05070c" stop-opacity=".55"/><stop offset=".45" stop-color="#05070c" stop-opacity=".8"/><stop offset="1" stop-color="#05070c" stop-opacity=".55"/></linearGradient>
+    <radialGradient id="blask" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#f0c46f" stop-opacity="${0.12 + p.nr * 0.06}"/><stop offset="1" stop-color="#f0c46f" stop-opacity="0"/></radialGradient>
+    <linearGradient id="kreska" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e2a93f"/><stop offset="1" stop-color="#e2a93f" stop-opacity="0"/></linearGradient></defs>
+    <rect width="${BW}" height="${BH}" fill="url(#ciemno)"/>${gwiazdyB}
+    <rect x="10" y="10" width="${BW - 20}" height="${BH - 20}" rx="28" fill="none" stroke="#e2a93f" stroke-opacity="${0.3 + p.nr * 0.1}" stroke-width="3"/>
+    <circle cx="215" cy="240" r="175" fill="url(#blask)"/>
+    <circle cx="215" cy="240" r="140" fill="#05070c" fill-opacity=".75" stroke="url(#z)" stroke-width="5"/>
+    <circle cx="215" cy="240" r="122" fill="none" stroke="#e2a93f" stroke-opacity=".35" stroke-width="2"/>
+    <g transform="translate(125 150) scale(1.8)" fill="none" stroke="url(#z)" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">${ZNAKI[p.znak]}</g>
+    <text x="410" y="${dluga ? 150 : 145}" font-family="Arial, sans-serif" font-weight="700" font-size="28" letter-spacing="8" fill="#e2a93f">PRÓG ${p.nr}</text>
+    <text x="404" y="${dluga ? 245 : 262}" font-family="Georgia, serif" font-weight="700" font-size="${dluga ? 60 : 112}" fill="url(#z)">${xml(p.nazwa)}</text>
+    <rect x="410" y="${dluga ? 278 : 296}" width="300" height="3" fill="url(#kreska)"/>
+    <text x="410" y="${dluga ? 352 : 366}" font-family="Georgia, serif" font-size="58" fill="#f4efe4">${xml(p.kwota)} <tspan font-size="34" fill="#c9cfdb">miesięcznie</tspan></text>
+    <text x="410" y="${BH - 48}" font-family="Georgia, serif" font-size="26" fill="#9aa3b5">Uwierz we własny rozum · uleszka.net</text></svg>`;
+  const nazwaB = `${WYJ}/patronite-${p.nr}-${p.nazwa.toLowerCase().replace(/ /g, "-")}`;
+  const duzy = await sharp(tloB).composite([{ input: Buffer.from(baner), left: 0, top: 0 }]).png().toBuffer();
+  await sharp(duzy).jpeg({ quality: 92 }).toFile(`${nazwaB}-1064x480.jpg`);
+  await sharp(duzy).resize(532, 240, { kernel: "lanczos3" }).jpeg({ quality: 94 }).toFile(`${nazwaB}-532x240.jpg`);
+  console.log(`${nazwaB}-532x240.jpg i -1064x480.jpg`);
 }
