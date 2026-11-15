@@ -16,6 +16,11 @@ na setki metrów; w podobnych warunkach sięga do kilku metrów. Wcześniejszy a
 o piramidzie Cheopsa (Remote Sensing, 2022) został w sierpniu 2026 r. wycofany przez czasopismo
 z powodu poważnych błędów metodologicznych i statystycznych.
 
+Stanowisko drugiej strony: autorzy kwestionują wycofanie i według raportu Archaeological Rescue Foundation
+(T. Grassi, 11.11.2026) podjęli kroki prawne wobec czasopisma. Ten sam raport opisuje powtórzenie metody
+przez niezależnego badacza, Manu Seyfzadeha. Raport nie przeszedł recenzji, jego autor od 2025 r. publikuje
+materiały zespołu, a pokazane w nim testy sięgają 50–100 m głębokości, nie 648 m.
+
 ## Skąd wzięto kształt twierdzeń
 
 1. **Liczby** pochodzą z oficjalnego streszczenia projektu (podpisane: Filippo Biondi, Armando Mei, Corrado Malanga,
@@ -60,6 +65,11 @@ Twierdzenia Biondiego, Malangi i Meia:
 - Opus Magnum (T. Grassi): [Khafre Project Gallery](https://opusmagnum.org/khafre-project-gallery/)
   – skan oficjalnego streszczenia („Abstract of the Conference on March 16, 2025”) i slajdy konferencji,
   w tym widoki modelu 3D autorów. Główne źródło układu i liczb.
+- Archaeological Rescue Foundation (T. Grassi), 11.11.2026: [The Biondi Validation](https://archaeologicalrescue.org/biondi-validation/)
+  – raport zwolennika metody: skany M. Seyfzadeha wzdłuż zachodniej i wschodniej krawędzi podstawy Chefrena (do 50 m),
+  szybu Ozyrysa (do 100 m) i Cmentarza Zachodniego, porównane z georadarem; stanowisko autorów w sprawie wycofania artykułu.
+  Bez recenzji. Dla modelu wnosi jeden szczegół: dwa tunele wychodzące spod piramidy przy wschodniej krawędzi,
+  mniej więcej w 1/3 i 2/3 jej długości, co zgadza się z dwiema rurami zachód–wschód w modelu.
 - J. Evatt, 23.03.2025: [The Khafre Revelation](https://jonathanevatt.substack.com/p/the-khafre-revelation-whats-really)
   – angielska transkrypcja konferencji prasowej z 15.03.2025 (tłumaczenie maszynowe, miejscami zniekształcone).
 - Megalithic Marvels, 2.01.2026: [4 Satellites Confirm Khafre Pyramid SAR Scan…](https://megalithicmarvels.com/2026/01/02/4-satellites-confirm-khafre-pyramid-sar-scan-discovery-of-massive-structures-underground/)
