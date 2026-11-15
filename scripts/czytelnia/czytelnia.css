@@ -274,3 +274,10 @@ footer { margin-top: 50px; padding: 26px 0 40px; border-top: 1px solid var(--lin
 :root[data-motyw="ciemny"] .karta-tresc .plakietka-pod.jest, :root[data-motyw="kontrast"] .karta-tresc .plakietka-pod.jest { color: #5fe08e; }
 /* link do YouTube przy odcinku: czerwona kropka „odtwarzania” przed tekstem */
 .spotify-przyciski a.yt::before { content: "▶"; display: inline-block; margin-right: 6px; padding: 0 5px; border-radius: 5px; background: #e02020; color: #fff; font-size: 10px; line-height: 16px; vertical-align: 1px; }
+
+/* odnośniki do Atlasu Leszka pod artykułem */
+.miejsca-art { margin: 28px 0 8px; padding: 14px 16px; border: 1px solid var(--linia); border-radius: 14px; background: var(--karta); }
+.miejsca-art b { display: block; font-size: 14px; color: var(--tekst-2); margin-bottom: 8px; }
+.miejsca-art span { display: flex; flex-wrap: wrap; gap: 8px; }
+.miejsca-art a { padding: 5px 12px; border-radius: 999px; border: 1px solid var(--linia); background: var(--pole); color: var(--link); text-decoration: none; font-size: 14.5px; font-weight: 600; }
+.miejsca-art a:hover { border-color: var(--akcent); }

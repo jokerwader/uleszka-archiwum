@@ -1,0 +1,36 @@
+name: "📝 Uwaga do tekstu lub literówka"
+description: Literówka w artykule, błąd w opracowaniu AI, w opisie zdjęcia albo w tekście dla lektora podcastu.
+title: "[Tekst] "
+labels: ["tekst"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Teksty Leszka są w archiwum **bez zmian**. Oczywiste literówki poprawiamy tylko w czytelni i w podcaście
+        (lista w `dane/poprawki/errata.json`), a oryginał zostaje nietknięty.
+  - type: input
+    id: artykul
+    attributes:
+      label: Artykuł
+      description: Tytuł albo link do strony w czytelni.
+    validations:
+      required: true
+  - type: dropdown
+    id: gdzie
+    attributes:
+      label: Gdzie jest błąd?
+      options:
+        - W tekście Leszka (literówka)
+        - W streszczeniu lub tezach przygotowanych przez AI
+        - W opisie zdjęcia
+        - W podcaście albo filmie na YouTube
+        - Inne
+    validations:
+      required: true
+  - type: textarea
+    id: opis
+    attributes:
+      label: Co jest nie tak?
+      description: Zacytuj fragment i napisz, jak powinno być.
+    validations:
+      required: true

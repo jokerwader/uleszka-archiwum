@@ -44,7 +44,7 @@ const sprawdz = async (opis: string, fn: () => Promise<void>) => {
   console.log(`✔ ${opis}`);
 };
 
-await sprawdz("serwer podaje instrukcje i 12 narzędzi", async () => {
+await sprawdz("serwer podaje instrukcje i 13 narzędzi", async () => {
   assert.match(client.getInstructions() ?? "", /uleszka\.net/);
   const { tools } = await client.listTools();
   assert.deepEqual(tools.map((t) => t.name).sort(), [
@@ -55,12 +55,24 @@ await sprawdz("serwer podaje instrukcje i 12 narzędzi", async () => {
     "list_articles",
     "list_books",
     "list_library",
+    "list_places",
     "read_article",
     "read_book",
     "related_articles",
     "search",
     "search_by_meaning",
   ]);
+});
+
+await sprawdz("list_places: miejsca z artykułu, rodzaj i okolica (Atlas Leszka)", async () => {
+  const z = txt(await wywolaj("list_places", { query: "Giza", with_photos: true }));
+  assert.match(z, /Piramidy w Gizie/);
+  assert.match(z, /atlas\/piramidy-w-gizie\.html/);
+  assert.match(z, /upload\.wikimedia\.org/);
+  const b = txt(await wywolaj("list_places", { near: "Cusco", limit: 3 }));
+  assert.match(b, /Sacsayhuam|Qenko|Tambomachay/);
+  const p = txt(await wywolaj("list_places", { type: "Zamki", limit: 50 }));
+  assert.match(p, /Bobolicach/);
 });
 
 await sprawdz("search_by_meaning: „katastrofy z kosmosu” znajduje teksty o kometach/Tiamat bez tych słów w pytaniu", async () => {

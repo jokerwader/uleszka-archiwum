@@ -1,0 +1,27 @@
+name: "💡 Pomysł lub materiał"
+description: Propozycja zmiany na stronie, temat odcinka podcastu albo materiał o Leszku Klimku (wywiad, wpis, wspomnienie).
+title: "[Pomysł] "
+labels: ["pomysł"]
+body:
+  - type: dropdown
+    id: rodzaj
+    attributes:
+      label: Czego dotyczy?
+      options:
+        - Strona i czytelnia
+        - Podcast i YouTube
+        - Materiały o autorze (teksty, wywiady, zdjęcia)
+        - Rozmowa z archiwum przez AI
+        - Inne
+    validations:
+      required: true
+  - type: textarea
+    id: opis
+    attributes:
+      label: Opis
+    validations:
+      required: true
+  - type: textarea
+    id: zrodla
+    attributes:
+      label: Linki i źródła

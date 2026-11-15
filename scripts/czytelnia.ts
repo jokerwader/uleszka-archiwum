@@ -10,6 +10,7 @@ import { marked } from "marked";
 import { Archiwum, type Dokument } from "../src/archiwum.js";
 import { poprawHtml, popraw, tekstBazowy, wczytajErrate } from "./lib/errata.js";
 import { INICJAL_MD, polaczInicjaly } from "./lib/inicjaly.js";
+import { wczytajAtlas } from "./lib/atlas.js";
 
 const archiwum = new Archiwum(".");
 const errata = wczytajErrate(".");
@@ -26,6 +27,15 @@ const slug = (s: string) =>
 const plikArt = (a: Dokument) => `${slug(a.id)}.html`;
 const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const poId = new Map(archiwum.artykuly.map((a) => [a.id, a]));
+
+// Atlas Leszka: pod artykułem odnośniki do kart miejsc, o których jest mowa (scripts/atlas.ts buduje karty)
+const atlas = wczytajAtlas(archiwum);
+const miejscaArtykulu = (id: string) => {
+  const m = atlas.poArtykule.get(id);
+  if (!m?.length) return "";
+  return `  <nav class="miejsca-art" aria-label="Miejsca w atlasie"><b>📍 Miejsca z tego artykułu w atlasie</b><span>${m
+    .map((x) => `<a href="../atlas/${x.slug}.html">${esc(x.nazwa)}</a>`).join("")}</span></nav>\n`;
+};
 const rawUrl = (sciezka: string) => RAW + sciezka.split("/").map(encodeURIComponent).join("/");
 
 // odcinki podcastu (podcast/odcinki.json): przy artykule pojawia się odtwarzacz Spotify, wczytywany dopiero po kliknięciu
@@ -182,6 +192,7 @@ const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; cs
   <nav>
     <button class="przycisk-gora" id="przycisk-spisu" type="button" aria-expanded="false" aria-controls="spis-panel">☰ Spis treści</button>
     <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
+    <a href="../atlas/">Atlas</a>
     <a class="tylko-szeroki" href="../#jak-zaczac">Porozmawiaj z AI</a>
   </nav>
 </div></header>
@@ -205,7 +216,7 @@ const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; cs
 
 const stopka = `<footer><div class="wrap-sz">
   <p>Teksty: Leszek Klimek, uleszka.net (ok. 2004–2007), przeniesione bez zmian. Treści należą do autora i jego spadkobierców; archiwum ma charakter dokumentacyjny i niekomercyjny.
-  Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${REPO}/issues">zgłoś uwagę</a></p>
+  Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${REPO}/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="czytelnia.js" defer></script>
@@ -268,7 +279,7 @@ ${o.tezy.length ? `    <ul>${o.tezy.slice(0, 6).map((t) => `<li>${esc(t.teza)}</
 }  <article class="tresc">
 ${tresc}
   </article>
-${
+${miejscaArtykulu(a.id)}${
   podstrony.length
     ? `  <nav class="podstrony"><h2>Dalsze części i podstrony</h2><ul>${podstrony.map((p) => `<li><a href="${plikArt(p)}">${esc(p.tytul)}</a></li>`).join("")}</ul></nav>\n`
     : ""

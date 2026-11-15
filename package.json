@@ -19,9 +19,11 @@
     "wektory": "tsx scripts/wektory.ts",
     "sprawdz-opracowania": "tsx scripts/sprawdz-opracowania.ts",
     "czytelnia": "tsx scripts/czytelnia.ts",
-    "strona": "tsx scripts/strona-zdjecia.ts && tsx scripts/obrazek-strony.ts && tsx scripts/czytelnia.ts",
+    "strona": "tsx scripts/strona-zdjecia.ts && tsx scripts/obrazek-strony.ts && tsx scripts/czytelnia.ts && tsx scripts/atlas.ts",
     "literowki": "tsx scripts/literowki.ts",
-    "errata": "tsx scripts/errata.ts"
+    "errata": "tsx scripts/errata.ts",
+    "atlas-pobierz": "tsx scripts/atlas-pobierz.ts",
+    "atlas": "tsx scripts/atlas.ts"
   },
   "keywords": [
     "mcp",

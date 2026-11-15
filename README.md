@@ -159,6 +159,19 @@ AI może poprowadzić rozmowę **stylem i poglądami Leszka Klimka**: gawędziar
 
 Inne wypowiedzi autora i teksty o nim są zebrane w [`materialy/`](materialy/README.md).
 
+## 📍 Atlas Leszka
+
+[**uleszka.net/atlas**](https://uleszka.net/atlas/) to mapa miejsc, o których pisał Leszek: piramidy, megality, dawne miasta, zamki i ślady kataklizmów
+(ok. 190 miejsc). Każde ma kartę z jego artykułami i dosłownymi cytatami, zdjęciami z dawnej strony, współczesnymi zdjęciami z Wikimedia Commons
+(tylko wolne licencje, z autorem i licencją), krótkim wstępem z Wikipedii w części „Co mówią dziś badania”, mini mapą i miejscami w pobliżu.
+Asystent AI ma do atlasu narzędzie `list_places`.
+
+- `atlas/miejsca.json` – ręczna lista miejsc: nazwa, rodzaje zagadek, nazwy z opracowań (aliasy), identyfikator Wikidata, czasem współrzędne.
+- `npm run atlas-pobierz` – pobiera z Wikidata, Wikipedii i Commons położenie, opisy i zdjęcia do `atlas/dane.json` (raz; potem tylko nowe miejsca).
+- `npm run atlas` – buduje `docs/atlas/` i `atlas/atlas.json` (dla serwera MCP). Uruchamiaj po `npx tsx scripts/czytelnia.ts`.
+
+Zgłoszenia (nowe miejsce, złe położenie, zdjęcie, literówka, pomysł) przychodzą przez [formularze na GitHubie](https://github.com/jokerwader/uleszka-archiwum/issues/new/choose).
+
 ## 📚 Książki, na które powołuje się autor
 
 Leszek Klimek cytuje setki książek i dawnych tekstów: od Platona, Herodota i Księgi Henocha po Dänikena i Sitchina. Zestawienie [**docs/ksiazki.md**](docs/ksiazki.md) pokazuje, które z nich można legalnie przeczytać lub pobrać za darmo i gdzie, a także w których artykułach są cytowane.
@@ -190,6 +203,7 @@ To repozytorium zachowuje stronę w pierwotnym układzie działów, razem ze zdj
 | [`opracowania/`](opracowania) | Opracowania AI każdego artykułu (JSON) i [ich spis](opracowania/README.md) |
 | [`biblioteka/`](biblioteka) | 30 dawnych dzieł z domeny publicznej, na które powołuje się autor, i 17 tekstów w językach oryginału ([spis](biblioteka/README.md)) |
 | [`materialy/`](materialy/README.md) | wypowiedzi autora spoza strony (wywiad dla nandi.pl) i teksty o nim |
+| [`atlas/`](atlas) | Atlas Leszka: lista miejsc, dane z Wikidata i Commons, plik dla serwera MCP |
 | [`dane/`](dane) | Opisy AI zdjęć (`opisy-obrazow/`) i wektory do wyszukiwania po znaczeniu (`wektory/`) |
 | [`src/`](src) | Serwer MCP |
 | [`scripts/`](scripts) | Konwersja, kontrola wierności, pliki dla AI, testy |

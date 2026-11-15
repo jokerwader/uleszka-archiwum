@@ -39,6 +39,7 @@ Jak pracować:
   Gdy autor powołuje się na Platona, Herodota, Biblię itp., sprawdź w bibliotece, co źródło naprawdę mówi.
   Dla wielu dzieł jest też tekst w języku oryginału (greka, łacina, hebrajski, dawny francuski, sanskryt) z numeracją miejsc –
   read_book(id, ref) otwiera wskazane miejsce. Własne tłumaczenia z oryginału oznaczaj jako przekład roboczy AI.
+- Miejsca, o których pisał autor (mapa, zdjęcia dawne i współczesne, położenie, artykuły): list_places (Atlas Leszka na uleszka.net/atlas/).
 - Cytując archiwum, przytaczaj tekst dosłownie i podawaj tytuł artykułu. Opracowania i opisy zdjęć są pomocą AI, nie częścią oryginału.
 - Wyraźnie oddzielaj to, co twierdzi autor strony, od aktualnej wiedzy i własnej oceny. Teksty pochodzą sprzed ok. 20 lat
   i zawierają wiele hipotez niezgodnych z dzisiejszą nauką (szczególnie w dziale medycznym) – omawiaj je rzetelnie,
@@ -438,6 +439,72 @@ server.registerTool(
     const wBibliotece = archiwum.ksiazki.filter((k) => !query || zloz(`${k.tytul} ${k.autor}`).includes(zloz(query)));
     if (wBibliotece.length && wBibliotece.length < archiwum.ksiazki.length)
       linie.push("", `W bibliotece (pełny tekst, read_book): ${wBibliotece.map((k) => `${k.tytul} (id: ${k.id})`).join("; ")}`);
+    return tekst(linie.join("\n"));
+  },
+);
+
+// Atlas Leszka: miejsca z tekstów autora (scripts/atlas.ts zapisuje atlas/atlas.json)
+type MiejsceAtlasu = {
+  id: string; nazwa: string; inne_nazwy: string[]; rodzaje: string[]; lat: number; lon: number; opis: string; powstanie: string; artykuly: string[];
+  strona: string; wikipedia: string; wikidata: string; zdjecia_leszka: number; zdjecia_wspolczesne: { url: string; autor: string; licencja: string; zrodlo: string }[];
+};
+const PLIK_ATLASU = join(KATALOG_GLOWNY, "atlas", "atlas.json");
+const atlas: MiejsceAtlasu[] = existsSync(PLIK_ATLASU) ? JSON.parse(readFileSync(PLIK_ATLASU, "utf8")) : [];
+const km = (a: { lat: number; lon: number }, b: { lat: number; lon: number }) => {
+  const r = Math.PI / 180, x = Math.sin(((b.lat - a.lat) * r) / 2) ** 2 + Math.cos(a.lat * r) * Math.cos(b.lat * r) * Math.sin(((b.lon - a.lon) * r) / 2) ** 2;
+  return 12742 * Math.asin(Math.sqrt(x));
+};
+
+server.registerTool(
+  "list_places",
+  {
+    title: "Atlas Leszka – miejsca z tekstów autora",
+    description:
+      "Places the author wrote about (pyramids, megaliths, ancient cities, castles, traces of cataclysms…), each with coordinates, type, Wikidata description, approximate founding date, the author's articles that mention it, a web page with his photos and modern freely-licensed photos (Wikimedia Commons, with author and licence), and a Wikipedia link for today's knowledge. Filter by name/text, type, article id, or proximity to another place. Use for questions like 'which sites with huge stone blocks did he describe?', 'what did he write about places near Cusco?', or to find photos of a place.",
+    inputSchema: {
+      query: z.string().optional().describe("nazwa lub fragment nazwy/opisu, np. „Giza”, „zamek”, „Peru”"),
+      type: z.string().optional().describe(`rodzaj: ${[...new Set(atlas.flatMap((m) => m.rodzaje))].join(", ")}`),
+      article: z.string().optional().describe("id artykułu – miejsca, o których w nim mowa"),
+      near: z.string().optional().describe("id lub nazwa miejsca – pokaż miejsca najbliżej niego"),
+      with_photos: z.boolean().default(false).describe("dołącz adresy współczesnych zdjęć z autorem i licencją"),
+      limit: z.number().int().min(1).max(200).default(20),
+    },
+    annotations: { readOnlyHint: true },
+  },
+  async ({ query, type, article, near, with_photos, limit }) => {
+    if (!atlas.length) return blad("Brak danych atlasu (atlas/atlas.json). Uruchom: npx tsx scripts/atlas.ts");
+    let lista = atlas;
+    const q = query ? zloz(query) : "";
+    if (q) {
+      // najpierw trafienia w nazwę lub inne nazwy (np. „Giza” → Piramidy w Gizie), potem w opis i rodzaj
+      const wNazwie = (m: MiejsceAtlasu) => [m.nazwa, ...m.inne_nazwy].some((n) => zloz(n).includes(q));
+      lista = lista.filter((m) => wNazwie(m) || zloz(`${m.opis} ${m.rodzaje.join(" ")}`).includes(q)).sort((a, b) => Number(wNazwie(b)) - Number(wNazwie(a)));
+    }
+    if (type) lista = lista.filter((m) => m.rodzaje.some((r) => zloz(r).includes(zloz(type))));
+    if (article) {
+      const a = archiwum.znajdz(article, "artykul");
+      if (!a) return blad(`Nie znam artykułu „${article}”.`);
+      lista = lista.filter((m) => m.artykuly.includes(a.id));
+    }
+    let odleglosci: Map<MiejsceAtlasu, number> | undefined;
+    if (near) {
+      const z = zloz(near);
+      const srodek = atlas.find((m) => m.id === near) ?? atlas.find((m) => zloz(m.nazwa).includes(z));
+      if (!srodek) return blad(`Nie ma w atlasie miejsca „${near}”.`);
+      odleglosci = new Map(lista.filter((m) => m !== srodek).map((m) => [m, km(srodek, m)]));
+      lista = [...odleglosci.keys()].sort((a, b) => odleglosci!.get(a)! - odleglosci!.get(b)!);
+    }
+    if (!lista.length) return tekst("Brak miejsc spełniających warunki. Wszystkie rodzaje: " + [...new Set(atlas.flatMap((m) => m.rodzaje))].join(", "));
+    const linie = [`Atlas Leszka: ${lista.length} z ${atlas.length} miejsc${lista.length > limit ? ` (pokazuję ${limit})` : ""}.`, ""];
+    for (const m of lista.slice(0, limit)) {
+      const tytuly = m.artykuly.map((id) => `${archiwum.znajdz(id, "artykul")?.tytul ?? id} (id: ${id})`);
+      linie.push(`## ${m.nazwa}${odleglosci ? ` – ${Math.round(odleglosci.get(m)!)} km` : ""}`);
+      linie.push(`Rodzaj: ${m.rodzaje.join(", ")} · ${m.lat}, ${m.lon}${m.opis ? ` · ${m.opis}` : ""}${m.powstanie ? ` · powstanie (Wikidata): ${m.powstanie}` : ""}`);
+      linie.push(`Artykuły autora: ${tytuly.join("; ")}`);
+      linie.push(`Karta w atlasie: ${m.strona} (zdjęcia z artykułów: ${m.zdjecia_leszka}, współczesne: ${m.zdjecia_wspolczesne.length})${m.wikipedia ? ` · dzisiejsza wiedza: ${m.wikipedia}` : ""}`);
+      if (with_photos) for (const f of m.zdjecia_wspolczesne.slice(0, 4)) linie.push(`  - ${f.url} (fot. ${f.autor}, ${f.licencja}; ${f.zrodlo})`);
+      linie.push("");
+    }
     return tekst(linie.join("\n"));
   },
 );

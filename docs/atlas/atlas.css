@@ -1,0 +1,84 @@
+/* Atlas Leszka – uzupełnienie stylu czytelni (zmienne kolorów i motywy z czytelnia.css) */
+.wrap-atlas { max-width: 1180px; margin: 0 auto; padding: 0 20px 40px; }
+.r-piramidy { --kol: #c9861a; } .r-megality { --kol: #8a6d4b; } .r-miasta { --kol: #b0503a; } .r-podziemia { --kol: #5c5470; }
+.r-astronomia { --kol: #2f6f9f; } .r-kataklizmy { --kol: #3f8a7a; } .r-zamki { --kol: #7a7f2a; } .r-zagadki { --kol: #9b4f8f; }
+.chip { display: inline-block; padding: 3px 11px; border-radius: 999px; font-size: 13px; font-weight: 600; color: #fff; background: var(--kol, var(--akcent)); }
+.uwaga { font-size: 13.5px; color: var(--tekst-2); margin: -4px 0 14px; }
+h2 { font-family: Georgia, serif; color: var(--naglowek); font-size: 26px; margin: 0 0 10px; }
+h2 .ile { font: 600 14px system-ui, sans-serif; color: var(--tekst-2); vertical-align: middle; margin-left: 6px; }
+
+/* mapa i filtry */
+.wstep-atlasu { margin: 34px 0 18px; max-width: 760px; }
+.wstep-atlasu .etykieta { margin: 0 0 6px; font-size: 13px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--akcent); }
+.wstep-atlasu p { color: var(--tekst-2); font-size: 17px; line-height: 1.6; }
+.filtry { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 0 0 14px; }
+.filtr { display: inline-flex; align-items: center; gap: 6px; padding: 7px 13px; border-radius: 999px; border: 1px solid var(--linia); background: var(--karta);
+  color: var(--tekst); font: 600 14px system-ui, sans-serif; cursor: pointer; }
+.filtr::before { content: ""; width: 10px; height: 10px; border-radius: 50%; background: var(--kol, var(--akcent)); }
+.filtr[data-r=""]::before { display: none; }
+.filtr span { color: var(--tekst-2); font-weight: 500; }
+.filtr[aria-pressed="true"] { border-color: var(--kol, var(--akcent)); box-shadow: inset 0 0 0 1px var(--kol, var(--akcent)); }
+#szukaj-miejsca { flex: 1 1 200px; min-width: 0; padding: 9px 14px; border-radius: 999px; border: 1px solid var(--linia); background: var(--pole); color: var(--tekst); font-size: 15px; }
+.mapa { height: min(68vh, 640px); min-height: 360px; border-radius: 18px; border: 1px solid var(--linia); overflow: hidden; z-index: 0; }
+.pod-mapa { font-size: 14px; color: var(--tekst-2); margin: 10px 0 22px; }
+.leaflet-popup-content { margin: 10px 12px; font: 14px/1.4 system-ui, sans-serif; }
+.leaflet-popup-content img { display: block; width: 220px; height: 130px; object-fit: cover; border-radius: 8px; margin-bottom: 8px; }
+.leaflet-popup-content b { display: block; font: 700 16px Georgia, serif; margin-bottom: 2px; }
+.leaflet-popup-content a.otworz { display: inline-block; margin-top: 6px; font-weight: 700; }
+.karty-miejsc { grid-template-columns: repeat(auto-fill, minmax(min(100%, 210px), 1fr)); gap: 14px; }
+.karty-miejsc li { background: var(--karta); border: 1px solid var(--linia); border-radius: 14px; overflow: hidden; transition: transform .2s, border-color .2s; }
+.karty-miejsc li:hover { transform: translateY(-2px); border-color: var(--akcent); }
+.karty-miejsc li[hidden] { display: none; }
+.karty-miejsc a { display: flex; flex-direction: column; text-decoration: none; color: var(--tekst); height: 100%; }
+.karty-miejsc img, .karty-miejsc .bez-foto { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; background: var(--pole); display: block; }
+.karty-miejsc b { font: 700 17px/1.25 Georgia, serif; color: var(--naglowek); padding: 10px 12px 2px; }
+.karty-miejsc small { padding: 0 12px 12px; color: var(--tekst-2); font-size: 13px; }
+
+/* karta miejsca */
+.naglowek-miejsca { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 28px; align-items: center; margin: 4px 0 34px; }
+.naglowek-miejsca:not(:has(.foto-glowne)) { grid-template-columns: 1fr; }
+.foto-glowne { margin: 0; }
+.foto-glowne button { display: block; width: 100%; padding: 0; border: 0; background: none; cursor: zoom-in; }
+.foto-glowne img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 18px; box-shadow: 0 20px 50px rgba(40, 25, 5, .25); display: block; }
+.foto-glowne figcaption { font-size: 12.5px; color: var(--tekst-2); margin-top: 6px; }
+.chipy { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 14px; }
+.fakty { color: var(--tekst-2); font-size: 15px; line-height: 1.6; }
+.podcast-miejsca { margin-top: 14px; padding: 12px 14px; border-radius: 12px; background: var(--karta); border: 1px solid var(--linia); font-size: 15px; }
+.dwie-strony { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 26px; margin-bottom: 40px; }
+.co-pisal, .co-dzis { background: var(--karta); border: 1px solid var(--linia); border-radius: 18px; padding: 22px 24px; }
+.co-dzis { border-top: 4px solid #2f6f9f; align-self: start; }
+.co-pisal { border-top: 4px solid var(--akcent); }
+.co-dzis p { line-height: 1.65; }
+.zrodlo { font-size: 13.5px; color: var(--tekst-2); }
+.lista-art { list-style: none; padding: 0; margin: 0; display: grid; gap: 18px; }
+.lista-art li + li { border-top: 1px solid var(--linia); padding-top: 16px; }
+.tytul-art { font: 700 19px Georgia, serif; color: var(--naglowek); }
+.dzial { font-size: 12.5px; color: var(--tekst-2); margin-left: 4px; white-space: nowrap; }
+.lista-art p { margin: 6px 0; color: var(--tekst-2); line-height: 1.6; font-size: 15px; }
+.lista-art blockquote { margin: 10px 0 0; padding: 4px 0 4px 14px; border-left: 3px solid var(--akcent); font: italic 16.5px/1.6 Georgia, serif; color: var(--tresc); }
+.galeria-sekcja { margin-bottom: 40px; }
+.galeria { columns: 4 230px; column-gap: 14px; }
+.galeria figure { break-inside: avoid; margin: 0 0 14px; background: var(--karta); border: 1px solid var(--linia); border-radius: 12px; overflow: hidden; }
+.galeria button { display: block; width: 100%; padding: 0; border: 0; background: var(--pole); cursor: zoom-in; }
+.galeria img { width: 100%; display: block; }
+.galeria figcaption { font-size: 12.5px; line-height: 1.45; color: var(--tekst-2); padding: 8px 10px 10px; }
+.gdzie .mini-mapa { height: 320px; border-radius: 16px; border: 1px solid var(--linia); z-index: 0; }
+.blisko { font-size: 15px; } .blisko span { color: var(--tekst-2); font-size: 13px; }
+.przycisk { display: inline-block; margin: 4px 8px 4px 0; padding: 10px 16px; border-radius: 12px; background: var(--akcent); color: #fff; text-decoration: none; font-weight: 700; font-size: 15px; }
+.przycisk.drugi { background: none; color: var(--link); border: 1px solid var(--linia); }
+
+/* podgląd zdjęcia */
+.podglad { max-width: min(96vw, 1400px); max-height: 94vh; padding: 0; border: 0; border-radius: 14px; background: #0b0d12; color: #e8e2d4; }
+.podglad::backdrop { background: rgba(0, 0, 0, .8); }
+.podglad img { display: block; max-width: 100%; max-height: 82vh; margin: 0 auto; }
+.podglad p { margin: 0; padding: 10px 16px 14px; font-size: 14px; line-height: 1.5; }
+.podglad .zamknij { position: absolute; top: 8px; right: 8px; width: 38px; height: 38px; border-radius: 50%; border: 0; background: rgba(0, 0, 0, .6); color: #fff; font-size: 18px; cursor: pointer; }
+
+@media (max-width: 820px) {
+  .naglowek-miejsca, .dwie-strony { grid-template-columns: 1fr; gap: 18px; }
+  .co-pisal, .co-dzis { padding: 18px 16px; }
+  .mapa { height: 62vh; }
+  .filtry { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-right: -20px; padding-right: 20px; }
+  .filtr { flex: none; }
+  #szukaj-miejsca { flex: 0 0 190px; }
+}

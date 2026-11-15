@@ -1,0 +1,54 @@
+name: "📍 Atlas: miejsce, poprawka albo zdjęcie"
+description: Zaproponuj nowe miejsce do Atlasu Leszka, popraw położenie lub opis albo wskaż lepsze zdjęcie.
+title: "[Atlas] "
+labels: ["atlas"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dziękujemy! Zgłoszenia przegląda redakcja archiwum, zanim cokolwiek trafi na stronę.
+        Atlas pokazuje miejsca, o których **pisał Leszek Klimek** na uleszka.net (2004–2007).
+  - type: dropdown
+    id: rodzaj
+    attributes:
+      label: Czego dotyczy zgłoszenie?
+      options:
+        - Nowe miejsce, o którym pisał Leszek
+        - Złe położenie na mapie
+        - Błąd w opisie albo w przypisanych artykułach
+        - Zdjęcie do dodania albo do usunięcia
+        - Lepsze źródło do części „Co mówią dziś badania”
+        - Inne
+    validations:
+      required: true
+  - type: input
+    id: miejsce
+    attributes:
+      label: Miejsce
+      description: Nazwa miejsca albo link do jego karty w atlasie.
+      placeholder: np. Sacsayhuamán albo https://uleszka.net/atlas/sacsayhuaman.html
+    validations:
+      required: true
+  - type: input
+    id: artykul
+    attributes:
+      label: Artykuł Leszka (jeśli dotyczy)
+      description: Tytuł albo link do artykułu w czytelni, w którym pisze o tym miejscu.
+  - type: textarea
+    id: opis
+    attributes:
+      label: Opis
+      description: Co należy dodać lub poprawić? Przy położeniu podaj współrzędne albo link do mapy.
+    validations:
+      required: true
+  - type: textarea
+    id: zrodla
+    attributes:
+      label: Źródła i linki
+      description: Skąd to wiadomo? Przy zdjęciu podaj link do oryginału (najlepiej Wikimedia Commons), autora i licencję.
+  - type: checkboxes
+    id: licencja
+    attributes:
+      label: Zdjęcia
+      options:
+        - label: Jeśli dodaję zdjęcie, to jest moje albo ma wolną licencję (CC0, CC BY, CC BY-SA, domena publiczna) i podaję jego źródło.
