@@ -52,40 +52,53 @@
     dlg.showModal();
   });
 
-  // „Pokaż wszystkie” – rozwija zwiniętą listę (badania, artykuły) i znika
+  // „Pokaż wszystkie” – rozwija zwiniętą listę (artykuły, badania, zdjęcia) i znika
   document.querySelectorAll(".pokaz-wszystkie").forEach((p) => p.addEventListener("click", () => {
     p.previousElementSibling?.classList.add("rozwiniete");
     p.hidden = true;
   }));
-  // długi opis badania: „więcej” pokazuje cały tekst
-  document.querySelectorAll(".badanie .wiecej").forEach((w) => w.addEventListener("click", () => {
-    w.previousElementSibling.classList.add("caly");
-    w.remove();
+  // filtr (lata badań, rodzaj zdjęć): wybrana wartość pokazuje wszystkie pasujące wpisy, bez zwijania
+  const filtruj = (grupa, lista, atrybut, pasuje) => {
+    const przyciski = [...document.querySelectorAll(`${grupa} button`)];
+    if (!lista || !przyciski.length) return;
+    przyciski.forEach((b) => b.addEventListener("click", () => {
+      const w = b.dataset[atrybut];
+      przyciski.forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      for (const li of lista.children) li.hidden = !!w && !pasuje(li, w);
+      if (w) {
+        lista.classList.add("rozwiniete");
+        const wiecej = lista.nextElementSibling;
+        if (wiecej?.classList.contains("pokaz-wszystkie")) wiecej.hidden = true;
+      }
+    }));
+  };
+  filtruj(".lata-filtr", document.querySelector(".os-badan"), "rok", (li, w) => li.dataset.rok === w);
+  filtruj(".przelacznik-zdjec", document.querySelector(".mozaika"), "grupa", (li, w) => li.dataset.grupa === w);
+  // link do „#badania” z części „W skrócie” rozwija najnowsze badanie
+  document.querySelectorAll('a[href="#badania"]').forEach((a) => a.addEventListener("click", () => {
+    const d = document.querySelector(".os-badan details");
+    if (d) d.open = true;
   }));
-  // kalendarz lat: wybrany rok pokazuje tylko jego badania (wszystkie, bez zwijania); „Wszystkie” wraca do listy
-  const kal = document.querySelector(".kalendarz");
-  if (kal) {
-    const lista = document.querySelector(".lista-badan");
-    const przycisk = lista.parentElement.querySelector(".pokaz-wszystkie");
-    const rozwinieta = lista.classList.contains("rozwiniete");
-    kal.addEventListener("click", (e) => {
-      const b = e.target.closest("button[data-rok]");
-      if (!b || b.disabled) return;
-      const rok = b.dataset.rok;
-      kal.querySelectorAll("button[data-rok]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
-      for (const li of lista.children) li.hidden = !!rok && !li.dataset.lata.split(" ").includes(rok);
-      if (rok) { lista.classList.add("rozwiniete"); if (przycisk) przycisk.hidden = true; }
-      else if (!rozwinieta && przycisk && przycisk.isConnected && !przycisk.dataset.uzyty) { lista.classList.remove("rozwiniete"); przycisk.hidden = false; }
+  // pasek części karty: podświetla tę, którą się właśnie czyta
+  const linkiSekcji = [...document.querySelectorAll(".sekcje a")];
+  if (linkiSekcji.length) {
+    const sekcje = linkiSekcji.map((a) => document.querySelector(a.getAttribute("href"))).filter(Boolean);
+    const zaznacz = (id) => linkiSekcji.forEach((a) => {
+      const tu = a.getAttribute("href") === `#${id}`;
+      a.classList.toggle("tu", tu);
+      if (tu) { a.setAttribute("aria-current", "true"); const n = a.parentElement; n.scrollTo({ left: a.offsetLeft - (n.clientWidth - a.clientWidth) / 2, behavior: "smooth" }); } else a.removeAttribute("aria-current");
     });
-    przycisk?.addEventListener("click", () => (przycisk.dataset.uzyty = "1"));
+    // bieżąca część: ostatnia, której początek minął pasek nawigacji
+    let czeka = false, ostatnia;
+    const sprawdz = () => {
+      czeka = false;
+      let biez = "";
+      for (const s of sekcje) if (s.getBoundingClientRect().top <= 160) biez = s.id;
+      if (biez !== ostatnia) { ostatnia = biez; zaznacz(biez); }
+    };
+    addEventListener("scroll", () => { if (!czeka) { czeka = true; requestAnimationFrame(sprawdz); } }, { passive: true });
+    sprawdz();
   }
-
-  // karta miejsca: przełącznik rodzaju zdjęć
-  const przyciski = [...document.querySelectorAll(".przelacznik-zdjec button")];
-  przyciski.forEach((p) => p.addEventListener("click", () => {
-    przyciski.forEach((x) => x.setAttribute("aria-pressed", String(x === p)));
-    document.querySelectorAll(".siatka-zdjec li").forEach((li) => (li.hidden = !!p.dataset.grupa && li.dataset.grupa !== p.dataset.grupa));
-  }));
 
   const start = () => {
     if (!window.L) return;
@@ -93,9 +106,17 @@
     const mini = document.getElementById("mini-mapa");
     if (mini) {
       const p = [+mini.dataset.lat, +mini.dataset.lon];
-      const m = L.map(mini, { scrollWheelZoom: false }).setView(p, 6);
+      const m = L.map(mini, { scrollWheelZoom: false });
       L.tileLayer(KAFELKI, { attribution: OSM, maxZoom: 18 }).addTo(m);
       L.marker(p).addTo(m).bindPopup(esc(mini.dataset.nazwa));
+      // miejsca z atlasu w promieniu 400 km jako małe punkty; mapa obejmuje je wszystkie (bez nich – widok regionu)
+      const blisko = JSON.parse(mini.dataset.blisko || "[]").filter((b) => b[4] <= 400);
+      for (const [la, lo, n, s, km] of blisko) {
+        L.circleMarker([la, lo], { radius: 6, color: "#fff", weight: 1.5, fillColor: "#9a5f12", fillOpacity: 0.9 })
+          .addTo(m).bindPopup(`<b>${esc(n)}</b>${km} km stąd<br><a class="otworz" href="${s}.html">Otwórz kartę →</a>`);
+      }
+      if (blisko.length) m.fitBounds(L.latLngBounds([p, ...blisko.map((b) => [b[0], b[1]])]), { padding: [30, 30], maxZoom: 9 });
+      else m.setView(p, 7);
       return;
     }
     // mapa wszystkich miejsc

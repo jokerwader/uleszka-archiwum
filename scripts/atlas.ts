@@ -94,7 +94,7 @@ ${o.mapa ? `<link rel="stylesheet" href="${LEAFLET}leaflet.css" crossorigin="">\
 `;
 const stopka = (skrypty: string) => `<footer><div class="wrap-sz">
   <p>Teksty i zdjęcia z artykułów: Leszek Klimek, uleszka.net (ok. 2004–2007). Współczesne zdjęcia: Wikimedia Commons i Openverse (m.in. Flickr), tylko na wolnych licencjach – autor i licencja przy każdym zdjęciu. Zdjęcie do usunięcia? Zgłoś je.
-  Wstępy w części „Co wiadomo dziś”: Wikipedia (CC BY-SA 4.0). Położenie i opisy miejsc: Wikidata. Mapa: © autorzy OpenStreetMap.
+  Wstępy w części „W skrócie”: Wikipedia (CC BY-SA 4.0). Położenie i opisy miejsc: Wikidata. Mapa: © autorzy OpenStreetMap.
   Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${zgloszenie()}">zgłoś miejsce lub poprawkę</a></p>
 </div></footer>
 <dialog class="podglad" id="podglad"><form method="dialog"><button class="zamknij" aria-label="Zamknij">✕</button></form><img alt=""><p></p></dialog>
@@ -107,7 +107,7 @@ ${skrypty}<script src="../menu.js" defer></script>
 const chip = (r: string) => `<span class="chip r-${r}">${esc(rodzaje[r] ?? r)}</span>`;
 
 // ---------- „Najnowsze badania” (atlas/odkrycia.json; instrukcja: atlas/ODKRYCIA.md) ----------
-const POKAZ = Number(process.env.ATLAS_POKAZ ?? 6); // ile badań i artykułów widać od razu; resztę rozwija przycisk „Pokaż wszystkie”
+const POKAZ = Number(process.env.ATLAS_POKAZ ?? 8); // ile badań widać od razu; resztę rozwija przycisk „Pokaż wszystkie”
 type Odkrycie = { rok: string; tytul: string; opis: string; pewnosc?: string; zrodla: { nazwa: string; url: string }[]; artykul?: string; cytat_leszka?: string };
 const odkrycia: Record<string, Odkrycie[]> = existsSync("atlas/odkrycia.json") ? JSON.parse(readFileSync("atlas/odkrycia.json", "utf8")) : {};
 const zlozone = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ł/g, "l").replace(/[^a-z0-9]+/g, " ").trim();
@@ -145,42 +145,60 @@ rmSync(WYJSCIE, { recursive: true, force: true });
 mkdirSync(WYJSCIE, { recursive: true });
 
 // ---------- karty miejsc ----------
+// ile widać od razu; resztę rozwija przycisk „Pokaż wszystkie”
+const POKAZ_ART = 5, POKAZ_ZDJ = 9;
+const km = (n: number) => `${n < 10 ? n.toLocaleString("pl-PL", { maximumFractionDigits: 1 }) : Math.round(n).toLocaleString("pl-PL")} km`;
+const kafelHtml = (k: Kafelek) =>
+  `<button type="button" class="powieksz" data-duze="${esc(k.duze)}" data-podpis="${esc(k.podpis)}"><img src="${esc(k.mini)}" alt="${esc(skroc(k.alt, 140))}" loading="lazy">${k.ocena ? `<span class="ocena" title="Wyróżnione przez społeczność Commons">★</span>` : ""}</button>`;
+
 for (const m of miejsca) {
   // na górze zdjęcie całego miejsca (nie zbliżenie)
   const glowne = m.zdjeciaCommons.find((z) => !z.detal) ?? m.zdjeciaCommons[0];
   const tlo = glowne?.duze ?? (m.zdjeciaLeszka[0] ? rawUrl(m.zdjeciaLeszka[0].sciezka) : "");
   const pod = podcastMiejsca(m);
-  const blisko = miejsca.filter((x) => x !== m).map((x) => ({ x, km: odleglosc(m, x) })).sort((a, b) => a.km - b.km).slice(0, 4);
+  const blisko = miejsca.filter((x) => x !== m).map((x) => ({ x, km: odleglosc(m, x) })).sort((a, b) => a.km - b.km).slice(0, 5);
   const opis = `${m.nazwa} w tekstach Leszka Klimka (uleszka.net): ${m.artykuly.length} ${odm(m.artykuly.length, ART)}, zdjęcia, najnowsze badania, mapa i to, co wiadomo dziś.`;
   const powstanie = kiedyPowstalo(m.powstanie);
   const lista = odkrycia[m.slug] ?? [];
-  // najnowsze badania od najnowszych; „2014–2016” obejmuje każdy z tych lat w kalendarzu
-  const badania = lista.map((o) => {
-    const r = (o.rok.match(/\d{4}/g) ?? []).map(Number);
-    const lata = r.length >= 2 ? Array.from({ length: Math.max(1, r[r.length - 1] - r[0] + 1) }, (_, i) => r[0] + i) : r;
-    return { o, lata, od: r[0] ?? 0, do: r[r.length - 1] ?? 0 };
-  }).sort((a, b) => b.do - a.do || b.od - a.od);
-  const ileWRoku = new Map<number, number>();
-  for (const b of badania) for (const r of b.lata) ileWRoku.set(r, (ileWRoku.get(r) ?? 0) + 1);
-  const wszystkieLata = [...ileWRoku.keys()];
-  const lataBadan: [number, number][] = wszystkieLata.length
-    ? Array.from({ length: Math.max(...wszystkieLata) - Math.min(...wszystkieLata) + 1 }, (_, i) => Math.min(...wszystkieLata) + i).map((r) => [r, ileWRoku.get(r) ?? 0])
-    : [];
-  const maxRok = Math.max(1, ...lataBadan.map(([, n]) => n));
+  // jeden rok na badanie; przy zakresie („2017–2024”) liczy się rok końcowy. Od najnowszych.
+  const badania = lista.map((o) => { const r = o.rok.match(/\d{4}/g) ?? []; return { o, rok: Number(r[r.length - 1] ?? 0) }; }).sort((a, b) => b.rok - a.rok);
+  const lataBadan = [...new Set(badania.map((b) => b.rok))];
   const kaf = kafelki(m, glowne);
-  const grupy = (["zblizenia", "widoki", "leszek"] as const).filter((g) => kaf.some((k) => k.grupa === g));
+  // współczesne: najpierw zbliżenia konstrukcji, potem widoki; archiwum Leszka osobno
+  const wspolczesne = kaf.filter((k) => k.grupa !== "leszek").sort((a, b) => Number(a.grupa !== "zblizenia") - Number(b.grupa !== "zblizenia"));
+  const archiwalne = kaf.filter((k) => k.grupa === "leszek");
+  const grupy = (["zblizenia", "widoki"] as const).filter((g) => wspolczesne.some((k) => k.grupa === g));
   // najmocniejszy cytat Leszka o tym miejscu jako motto karty
   const motto = m.cytaty.find((c) => c.cytat.length >= 60 && c.cytat.length <= 320) ?? m.cytaty[0];
+  const najblizej = blisko[0];
 
   const leszek = m.artykuly.map((id, i) => {
     const a = art(id), o = archiwum.opracowania.get(id);
-    const cyt = m.cytaty.filter((c) => c.artykul === id && c !== motto).slice(0, 1);
-    return `<li class="art-karta${i >= POKAZ ? " dalsze" : ""}">
-          <a class="tytul-art" href="${urlArt(id)}">${esc(a.tytul)}</a><span class="dzial">${esc(a.dzial)}</span>
-          ${o?.streszczenie ? `<p>${esc(skroc(o.streszczenie, 260))}</p>` : ""}
-          ${cyt.map((c) => `<blockquote>„${esc(c.cytat)}”</blockquote>`).join("")}
-        </li>`;
+    const cyt = m.cytaty.find((c) => c.artykul === id && c !== motto);
+    // zajawka: dosłowny cytat Leszka, a gdy go nie ma – początek streszczenia
+    const zajawka = cyt ? `<span class="cyt">„${esc(skroc(cyt.cytat, 170))}”</span>` : o?.streszczenie ? esc(skroc(o.streszczenie, 170)) : "";
+    return `<li${i >= POKAZ_ART ? ' class="dalsze"' : ""}><a href="${urlArt(id)}">
+          <span class="art-glowa"><span class="tytul-art">${esc(a.tytul)}</span><span class="dzial">${esc(a.dzial)}</span></span>
+          ${zajawka ? `<span class="zajawka">${zajawka}</span>` : ""}
+          <span class="czytaj" aria-hidden="true">Czytaj →</span>
+        </a></li>`;
   }).join("\n        ");
+
+  const badanieHtml = ({ o, rok }: (typeof badania)[number], i: number) => {
+    const c = cytatPrawdziwy(o);
+    const tytulArt = o.artykul ? archiwum.znajdz(o.artykul, "artykul")?.tytul : undefined;
+    return `<li data-rok="${rok}"${i >= POKAZ ? ' class="dalsze"' : ""}>
+          <span class="rok">${rok || esc(o.rok)}</span>
+          <details class="badanie"${i === 0 ? " open" : ""}>
+            <summary><span class="tytul-badania">${esc(o.tytul)}</span>${o.pewnosc && PEWNOSC[o.pewnosc] ? ` <span class="pewnosc p-${slug(o.pewnosc)}">${esc(PEWNOSC[o.pewnosc])}</span>` : ""}</summary>
+            <div class="badanie-tresc${c ? " z-cytatem" : ""}">
+              ${c ? `<div class="leszek-pisal"><small>Leszek pisał</small><p>„${esc(c)}”</p>${tytulArt ? `<a href="${urlArt(o.artykul!)}">„${esc(tytulArt)}” →</a>` : ""}</div>` : ""}
+              <div class="ustalenia"><small>${c ? `Badania, ${rok}` : "Co ustalono"}</small><p>${esc(o.opis)}</p></div>
+            </div>
+            <p class="zrodla-odkrycia"><span>Źródła:</span> ${o.zrodla.map((z) => `<a href="${esc(z.url)}" rel="noopener">${esc(z.nazwa)} ↗</a>`).join("")}</p>
+          </details>
+        </li>`;
+  };
 
   const html = glowa({ tytul: `${m.nazwa} – Atlas Leszka, uleszka.net`, opis, url: `${BAZA}atlas/${m.slug}.html`, obraz: glowne?.duze, mapa: true }) +
     `<main class="karta-miejsca">
@@ -205,66 +223,78 @@ for (const m of miejsca) {
   </div></div>
 
   <nav class="sekcje" aria-label="Części karty"><div class="wrap-atlas">
-    <a href="#leszek">Co pisał Leszek</a>${lista.length ? `<a href="#badania">Najnowsze badania</a>` : ""}<a href="#dzis">Co wiadomo dziś</a>${kaf.length ? `<a href="#zdjecia">Zdjęcia</a>` : ""}<a href="#mapa">Mapa</a>
+    <a href="#skrot">W skrócie</a><a href="#leszek">Co pisał Leszek</a>${badania.length ? `<a href="#badania">Najnowsze badania</a>` : ""}${kaf.length ? `<a href="#zdjecia">Zdjęcia</a>` : ""}<a href="#mapa">Mapa</a>
   </div></nav>
 
-  <div class="wrap-atlas">
-    <section id="leszek" class="sekcja">
-      <p class="etykieta">Co pisał Leszek</p>
-      ${motto ? `<figure class="motto"><blockquote>„${esc(motto.cytat)}”</blockquote><figcaption>Leszek Klimek, <a href="${urlArt(motto.artykul)}">„${esc(art(motto.artykul).tytul)}”</a></figcaption></figure>` : ""}
-      <ul class="artykuly-miejsca zwijane${m.artykuly.length > POKAZ ? "" : " rozwiniete"}">
+  <section id="skrot" class="pas w-skrocie"><div class="wrap-atlas skrot-siatka">
+    <div>
+      <h2 class="etykieta">W skrócie</h2>
+      ${m.wiki ? `<p class="wstep-wiki">${esc(skroc(m.wiki.wstep, 560))}</p>
+      <p class="zrodlo">Wstęp z <a href="${esc(m.wiki.url)}" rel="noopener">Wikipedii${m.wiki.jezyk === "en" ? " (angielskiej)" : ""}: „${esc(m.wiki.tytul)}”</a> (CC BY-SA 4.0) · <a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Wikidata</a></p>`
+        : `<p class="wstep-wiki">${esc(m.opisWikidata ? m.opisWikidata[0].toUpperCase() + m.opisWikidata.slice(1) + "." : m.nazwa)}</p><p class="zrodlo"><a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Dane w Wikidata</a></p>`}
+    </div>
+    <div class="skrot-boczny">
+      ${badania[0] ? `<a class="skrot-kafel" href="#badania"><small>Najnowsze badanie · ${badania[0].rok}</small><b>${esc(badania[0].o.tytul)}</b></a>` : ""}
+      ${najblizej ? `<a class="skrot-kafel" href="${najblizej.x.slug}.html"><small>Najbliżej w atlasie · ${km(najblizej.km)}</small><b>${esc(najblizej.x.nazwa)}</b></a>` : ""}
+    </div>
+  </div></section>
+
+  <section id="leszek" class="pas jasny-pas"><div class="wrap-atlas">
+    <h2 class="etykieta">Co pisał Leszek · ${m.artykuly.length}</h2>
+    ${motto ? `<figure class="motto"><blockquote>„${esc(motto.cytat)}”</blockquote><figcaption>Leszek Klimek, <a href="${urlArt(motto.artykul)}">„${esc(art(motto.artykul).tytul)}”</a></figcaption></figure>` : ""}
+    <ul class="lista-artykulow zwijane${m.artykuly.length > POKAZ_ART ? "" : " rozwiniete"}">
         ${leszek}
-      </ul>
-      ${m.artykuly.length > POKAZ ? `<button type="button" class="pokaz-wszystkie" data-tekst="Pokaż wszystkie artykuły (${m.artykuly.length})">Pokaż wszystkie artykuły (${m.artykuly.length})</button>` : ""}
-      <p class="uwaga">Streszczenia przygotowała AI; cytaty są dosłowne, z artykułów Leszka.</p>
-    </section>
+    </ul>
+    ${m.artykuly.length > POKAZ_ART ? `<button type="button" class="pokaz-wszystkie">Pokaż wszystkie artykuły (${m.artykuly.length})</button>` : ""}
+    <p class="uwaga">Cytaty są dosłowne, z artykułów Leszka; krótkie streszczenia przygotowała AI.</p>
+  </div></section>
 
-    ${badania.length ? `<section id="badania" class="sekcja">
-      <p class="etykieta">Najnowsze badania · ${badania.length}</p>
-      ${lataBadan.length > 1 ? `<div class="kalendarz" role="group" aria-label="Kalendarz: lata badań">
-        <button type="button" class="kal-wszystkie" data-rok="" aria-pressed="true">Wszystkie</button>
-        <div class="kal-lata">${lataBadan.map(([rok, ile]) => `<button type="button" data-rok="${rok}" aria-pressed="false"${ile ? "" : " disabled"} title="${rok}: ${ile} ${odm(ile, ["badanie", "badania", "badań"])}"><span class="slupek" style="--n:${(ile / maxRok).toFixed(2)}"></span><b>${String(rok).slice(2)}</b></button>`).join("")}</div>
+  ${badania.length ? `<section id="badania" class="pas"><div class="wrap-atlas">
+    <h2 class="etykieta">Najnowsze badania · ${badania.length}</h2>
+    ${badania.length > POKAZ && lataBadan.length > 1 ? `<div class="lata-filtr" role="group" aria-label="Pokaż badania z roku">
+      <button type="button" data-rok="" aria-pressed="true">Wszystkie <span>${badania.length}</span></button>${lataBadan.map((r) => `<button type="button" data-rok="${r}" aria-pressed="false">${r}${((n) => (n > 1 ? ` <span>${n}</span>` : ""))(badania.filter((b) => b.rok === r).length)}</button>`).join("")}
+    </div>` : ""}
+    <ol class="os-badan zwijane${badania.length > POKAZ ? "" : " rozwiniete"}">
+        ${badania.map(badanieHtml).join("\n        ")}
+    </ol>
+    ${badania.length > POKAZ ? `<button type="button" class="pokaz-wszystkie">Pokaż wszystkie badania (${badania.length})</button>` : ""}
+    <p class="uwaga">Kliknij tytuł, żeby rozwinąć opis i źródła.</p>
+  </div></section>` : ""}
+
+  ${kaf.length ? `<section id="zdjecia" class="pas jasny-pas"><div class="wrap-atlas">
+    <div class="naglowek-zdjec">
+      <h2 class="etykieta">Zdjęcia · ${kaf.length}</h2>
+      ${grupy.length > 1 ? `<div class="przelacznik-zdjec" role="group" aria-label="Rodzaj zdjęć">
+        <button type="button" data-grupa="" aria-pressed="true">Wszystkie <span>${wspolczesne.length}</span></button>${grupy.map((g) => `<button type="button" data-grupa="${g}" aria-pressed="false">${NAZWY_GRUP[g]} <span>${wspolczesne.filter((k) => k.grupa === g).length}</span></button>`).join("")}
       </div>` : ""}
-      <ol class="lista-badan zwijane${badania.length > POKAZ ? "" : " rozwiniete"}">
-        ${badania.map(({ o, lata }, i) => { const c = cytatPrawdziwy(o); return `<li data-lata="${lata.join(" ")}"${i >= POKAZ ? ' class="dalsze"' : ""}>
-          <span class="rok">${esc(o.rok)}</span>
-          <div class="badanie">
-            <h3>${esc(o.tytul)}${o.pewnosc && PEWNOSC[o.pewnosc] ? ` <span class="pewnosc p-${slug(o.pewnosc)}">${esc(PEWNOSC[o.pewnosc])}</span>` : ""}</h3>
-            <p class="opis-badania${o.opis.length > 300 ? " dlugi" : ""}">${esc(o.opis)}</p>
-            ${o.opis.length > 300 ? `<button type="button" class="wiecej">więcej</button>` : ""}
-            ${c ? `<p class="nawiazanie">Leszek pytał: „${esc(c)}”${o.artykul ? ` <a href="${urlArt(o.artykul)}">(„${esc(art(o.artykul)?.tytul ?? o.artykul)}”)</a>` : ""}</p>` : ""}
-            <p class="zrodla-odkrycia">${o.zrodla.map((z) => `<a href="${esc(z.url)}" rel="noopener">${esc(z.nazwa)} ↗</a>`).join("")}</p>
-          </div>
-        </li>`; }).join("\n        ")}
-      </ol>
-      ${badania.length > POKAZ ? `<button type="button" class="pokaz-wszystkie" data-tekst="Pokaż wszystkie badania (${badania.length})">Pokaż wszystkie badania (${badania.length})</button>` : ""}
-    </section>` : ""}
+    </div>
+    ${wspolczesne.length ? `<ul class="mozaika zwijane${wspolczesne.length > POKAZ_ZDJ ? "" : " rozwiniete"}">
+        ${wspolczesne.map((k, i) => `<li data-grupa="${k.grupa}"${i >= POKAZ_ZDJ ? ' class="dalsze"' : ""}>${kafelHtml(k)}</li>`).join("\n        ")}
+    </ul>
+    ${wspolczesne.length > POKAZ_ZDJ ? `<button type="button" class="pokaz-wszystkie">Pokaż wszystkie zdjęcia (${wspolczesne.length})</button>` : ""}` : ""}
+    ${archiwalne.length ? `<div class="archiwum-leszka">
+      <h3>Archiwum Leszka <small>zdjęcia z jego artykułów, 2004–2007</small></h3>
+      <ul class="pasek-archiwum">${archiwalne.map((k) => `<li>${kafelHtml(k)}</li>`).join("")}</ul>
+    </div>` : ""}
+    <p class="uwaga">Współczesne zdjęcia: Wikimedia Commons i Openverse (m.in. Flickr), na wolnych licencjach${wspolczesne.some((k) => k.ocena) ? " (★ – wyróżnione przez społeczność Commons)" : ""}. Kliknij zdjęcie, żeby zobaczyć opis, autora i licencję.</p>
+  </div></section>` : ""}
 
-    <section id="dzis" class="sekcja dzis">
-      <p class="etykieta">Co wiadomo dziś</p>
-      ${m.wiki ? `<p class="wstep-wiki">${esc(skroc(m.wiki.wstep, 700))}</p>
-      <p class="zrodlo">Wstęp z <a href="${esc(m.wiki.url)}" rel="noopener">Wikipedii${m.wiki.jezyk === "en" ? " (angielskiej)" : ""}: „${esc(m.wiki.tytul)}”</a> (CC BY-SA 4.0) · <a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Wikidata</a> · Znasz nowe odkrycie albo lepsze źródło? <a href="${zgloszenie(m)}">Zgłoś je</a>.</p>` : `<p>Brak opracowania w Wikipedii. <a href="https://www.wikidata.org/wiki/${m.wikidata}" rel="noopener">Dane w Wikidata</a>.</p>`}
-    </section>
-
-    ${kaf.length ? `<section id="zdjecia" class="sekcja">
-      <p class="etykieta">Zdjęcia</p>
-      <div class="przelacznik-zdjec" role="group" aria-label="Rodzaj zdjęć">
-        ${grupy.length > 1 ? `<button type="button" data-grupa="" aria-pressed="true">Wszystkie <span>${kaf.length}</span></button>` : ""}
-        ${grupy.map((g) => `<button type="button" data-grupa="${g}" aria-pressed="${grupy.length === 1}">${NAZWY_GRUP[g]} <span>${kaf.filter((k) => k.grupa === g).length}</span></button>`).join("")}
+  <section id="mapa" class="pas gdzie"><div class="wrap-atlas">
+    <h2 class="etykieta">Gdzie to jest</h2>
+    <div class="gdzie-siatka">
+      <div class="mini-mapa" id="mini-mapa" data-lat="${m.lat}" data-lon="${m.lon}" data-nazwa="${esc(m.nazwa)}" data-blisko="${esc(JSON.stringify(blisko.map(({ x, km: d }) => [+x.lat.toFixed(4), +x.lon.toFixed(4), x.nazwa, x.slug, Math.round(d)])))}"></div>
+      <div class="blisko">
+        <p class="blisko-tytul">W pobliżu w atlasie</p>
+        ${blisko.map(({ x, km: d }) => { const f = miniatura(x); return `<a href="${x.slug}.html">${f ? `<img src="${esc(f)}" alt="" loading="lazy">` : `<span class="bez-foto"></span>`}<span><b>${esc(x.nazwa)}</b><small>${km(d)}</small></span></a>`; }).join("\n        ")}
+        <a class="przycisk drugi" href="./#${m.slug}">Zobacz na mapie atlasu</a>
       </div>
-      <ul class="siatka-zdjec">
-        ${kaf.map((k, i) => `<li data-grupa="${k.grupa}"><button type="button" class="powieksz" data-i="${i}" data-duze="${esc(k.duze)}" data-podpis="${esc(k.podpis)}"><img src="${esc(k.mini)}" alt="${esc(skroc(k.alt, 140))}" loading="lazy">${k.ocena ? `<span class="ocena">★</span>` : ""}${k.grupa === "leszek" ? `<span class="znak-archiwum">2004–07</span>` : ""}</button></li>`).join("\n        ")}
-      </ul>
-      <p class="uwaga">Współczesne zdjęcia: Wikimedia Commons i Openverse (m.in. Flickr), na wolnych licencjach (★ – wyróżnione przez społeczność Commons). Archiwum Leszka: zdjęcia z jego artykułów z lat 2004–2007. Kliknij zdjęcie, żeby zobaczyć opis, autora i licencję.</p>
-    </section>` : ""}
+    </div>
+  </div></section>
 
-    <section id="mapa" class="sekcja gdzie">
-      <p class="etykieta">Gdzie to jest</p>
-      <div class="mini-mapa" id="mini-mapa" data-lat="${m.lat}" data-lon="${m.lon}" data-nazwa="${esc(m.nazwa)}"></div>
-      <div class="blisko">${blisko.map(({ x, km }) => `<a href="${x.slug}.html"><b>${esc(x.nazwa)}</b><span>${km < 10 ? km.toFixed(1) : Math.round(km).toLocaleString("pl-PL")} km</span></a>`).join("")}</div>
-      <p><a class="przycisk" href="./#${m.slug}">Zobacz na mapie atlasu</a> <a class="przycisk drugi" href="${zgloszenie(m)}">Zgłoś odkrycie, poprawkę albo zdjęcie</a></p>
-    </section>
-  </div>
+  <section class="pas zglos"><div class="wrap-atlas zglos-pasek">
+    <p><b>Znasz nowe odkrycie, lepsze źródło albo zdjęcie tego miejsca?</b> Zgłoś je, a dopiszemy je do karty.</p>
+    <a class="przycisk" href="${zgloszenie(m)}">Zgłoś</a>
+  </div></section>
 </main>
 ` + stopka(`<script src="${LEAFLET}leaflet.js" crossorigin=""></script>\n`);
   writeFileSync(`${WYJSCIE}/${m.slug}.html`, html, "utf8");

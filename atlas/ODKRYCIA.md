@@ -39,7 +39,7 @@ Klucz to `id` miejsca z `atlas/atlas.json` (taki jak w adresie karty, np. `sacsa
 }
 ```
 
-- `rok` – rok odkrycia albo publikacji (tekst, może być np. `"2014–2016"`).
+- `rok` – jeden rok: odkrycia albo publikacji. Gdy badania trwały kilka lat (np. 2017–2024), wpisz rok końcowy (`"2024"`).
 - `zrodla` – co najmniej jedno, najlepiej dwa niezależne.
 - `cytat_leszka` musi być **słowo w słowo** z artykułu Leszka. Skrypt budujący stronę sprawdza to i pomija cytat, którego nie ma w tekście.
 - Kolejność wpisów: od najstarszego do najnowszego.
