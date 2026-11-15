@@ -1,0 +1,339 @@
+<title>Chefren SAR 3D</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap">
+<style>
+  /* Układ: scena 3D na całą stronę, wąski panel sterowania po lewej (na telefonie pod sceną).
+     Jeden, celowo ciemny wygląd: model świeci własnymi kolorami na tle nocnego granatu. */
+  :root {
+    color-scheme: dark;
+    --bg: #171c26;            /* nocny granat, jak tło renderów */
+    --panel: #1f2633;
+    --panel-line: #313a4c;
+    --fg: #eef1f6;
+    --muted: #a3adbf;
+    --confirmed: #ffd166;     /* złoty: potwierdzone */
+    --claim: #ff6f91;         /* różowy: twierdzenie */
+    --focus: #8fc7ff;
+    --font-display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+    --font-body: "Inter", "Segoe UI", system-ui, sans-serif;
+  }
+  html, body { height: 100%; }
+  body {
+    background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 14px; line-height: 1.45;
+    display: grid; grid-template-columns: minmax(260px, 320px) 1fr; grid-template-rows: 100%;
+  }
+  .panel {
+    background: var(--panel); border-right: 1px solid var(--panel-line); overflow-y: auto; min-width: 0;
+    padding-block: 18px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: 16px;
+    display: flex; flex-direction: column; gap: 18px;
+  }
+  h1 { font-family: var(--font-display); font-size: 20px; font-weight: 600; line-height: 1.2; margin: 0; text-wrap: balance; }
+  .lede { color: var(--muted); margin: 6px 0 0; }
+  h2 { font-family: var(--font-display); font-size: 12px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase;
+       color: var(--muted); margin: 0 0 8px; }
+  .legend { display: flex; flex-direction: column; gap: 6px; margin: 0; padding: 0; list-style: none; }
+  .legend li { display: flex; gap: 10px; align-items: baseline; }
+  .sw { flex: none; width: 12px; height: 12px; border-radius: 2px; transform: translateY(1px); }
+  .sw.c { background: var(--confirmed); } .sw.t { background: var(--claim); }
+  .views { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  button.view {
+    font: 500 13px var(--font-body); color: var(--fg); background: transparent; border: 1px solid var(--panel-line);
+    border-radius: 6px; padding: 8px 10px; text-align: left; cursor: pointer;
+  }
+  button.view:hover { border-color: var(--muted); }
+  button.view[aria-pressed="true"] { border-color: var(--confirmed); color: var(--confirmed); }
+  .layers { display: flex; flex-direction: column; gap: 6px; }
+  .layers label { display: flex; gap: 8px; align-items: center; cursor: pointer; }
+  .layers input { accent-color: var(--confirmed); width: 16px; height: 16px; margin: 0; }
+  button:focus-visible, input:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .info { border-top: 1px solid var(--panel-line); padding-top: 14px; min-height: 5.5em; }
+  .info strong { display: block; font-weight: 600; }
+  .info .tag { font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; }
+  .info .tag.c { color: var(--confirmed); } .info .tag.t { color: var(--claim); } .info .tag.n { color: var(--muted); }
+  .note { color: var(--muted); font-size: 12.5px; border-top: 1px solid var(--panel-line); padding-top: 14px; margin: 0; }
+  .stage { position: relative; min-width: 0; min-height: 0; }
+  #scene { position: absolute; inset: 0; width: 100%; height: 100%; display: block; touch-action: none; }
+  .status {
+    position: absolute; left: 16px; bottom: calc(14px + env(safe-area-inset-bottom, 0px)); right: max(16px, env(safe-area-inset-right, 0px));
+    color: var(--muted); font-size: 12.5px; pointer-events: none;
+  }
+  .status span { background: var(--panel); border: 1px solid var(--panel-line); border-radius: 6px; padding: 5px 9px; display: inline-block; }
+  .status b { color: var(--fg); font-weight: 500; }
+  @media (max-width: 720px) {
+    body { grid-template-columns: 1fr; grid-template-rows: 55% 45%; }
+    .stage { grid-row: 1; }
+    .panel { grid-row: 2; border-right: 0; border-top: 1px solid var(--panel-line);
+             padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+  }
+</style>
+
+<aside class="panel">
+  <header>
+    <h1>Pod piramidą Chefrena: twierdzenia Biondiego i Malangi</h1>
+    <p class="lede">Model 3D w skali. To ilustracja tego, co twierdzą autorzy, a nie potwierdzone odkrycie.</p>
+  </header>
+
+  <section>
+    <h2>Kolory</h2>
+    <ul class="legend">
+      <li><span class="sw c"></span><span>potwierdzone: piramida, znane komory i korytarze</span></li>
+      <li><span class="sw t"></span><span>twierdzenie Biondiego i Malangi (2025, bez recenzji)</span></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Widoki</h2>
+    <div class="views">
+      <button class="view" id="view-piramida" data-view="piramida" aria-pressed="true">Piramida</button>
+      <button class="view" id="view-komory" data-view="komory" aria-pressed="false">Znane komory</button>
+      <button class="view" id="view-szyby" data-view="szyby" aria-pressed="false">Szyby i skrzynie</button>
+      <button class="view" id="view-calosc" data-view="calosc" aria-pressed="false">Całość do 2 km</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>Warstwy</h2>
+    <div class="layers">
+      <label><input type="checkbox" id="layer-claims" data-layer="claims" checked> twierdzenia autorów</label>
+      <label><input type="checkbox" id="layer-known" data-layer="known" checked> znane komory i korytarze</label>
+      <label><input type="checkbox" id="layer-faces" data-layer="faces" checked> ściany piramidy</label>
+      <label><input type="checkbox" id="layer-ground" data-layer="ground" checked> grunt i warstwy skały</label>
+      <label><input type="checkbox" id="layer-scale" data-layer="scale"> skala głębokości</label>
+    </div>
+  </section>
+
+  <section class="info" id="info" aria-live="polite">
+    <span class="tag n">Wskazówka</span>
+    <strong>Kliknij element modelu</strong>
+    <span>Pokażę, co to jest i skąd pochodzą jego wymiary.</span>
+  </section>
+
+  <p class="note">Praca autorów nie przeszła recenzji naukowej. Geofizycy (m.in. L. Conyers, S. Parcak) wskazują, że radar SAR
+    nie przenika skały na setki metrów. Wcześniejszy artykuł autorów o piramidzie Cheopsa wycofano w 2026 r.
+    Warstwy skały są schematyczne. Model: uleszka.net, jokerwader.</p>
+</aside>
+
+<main class="stage">
+  <canvas id="scene" aria-label="Model 3D piramidy Chefrena i struktur opisywanych przez Biondiego i Malangę"></canvas>
+  <div class="status"><span id="status">Wczytywanie modelu…</span></div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/three@0.147.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.147.0/examples/js/controls/OrbitControls.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.147.0/examples/js/loaders/GLTFLoader.js"></script>
+<script>
+(function () {
+  "use strict";
+  var statusEl = document.getElementById("status");
+  var infoEl = document.getElementById("info");
+  if (!window.THREE || !THREE.GLTFLoader || !THREE.OrbitControls) {
+    statusEl.textContent = "Nie udało się wczytać biblioteki 3D. Odśwież stronę.";
+    return;
+  }
+  var canvas = document.getElementById("scene");
+  var renderer = new THREE.WebGLRenderer({ canvas: canvas, antialias: true, alpha: true, logarithmicDepthBuffer: true });
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+  renderer.outputEncoding = THREE.sRGBEncoding;
+  var scene = new THREE.Scene();
+  var camera = new THREE.PerspectiveCamera(38, 1, 1, 30000);
+  scene.add(new THREE.AmbientLight(0xffffff, 0.45));
+  var sun = new THREE.DirectionalLight(0xffffff, 0.7);
+  sun.position.set(600, 900, 700);
+  scene.add(sun);
+  var controls = new THREE.OrbitControls(camera, canvas);
+  controls.enableDamping = true;
+  controls.dampingFactor = 0.08;
+  controls.maxDistance = 9000;
+  controls.minDistance = 8;
+
+  // Współrzędne glTF: X = wschód, Y = góra, Z = południe (północ to -Z). Jednostka: metr.
+  var VIEWS = {
+    piramida: { pos: [300, 190, 380], target: [8, 20, 0], layers: { claims: true, known: true, faces: true, ground: true, scale: false } },
+    komory: { pos: [190, 60, -110], target: [12.45, 0, -55], layers: { claims: false, known: true, faces: false, ground: false, scale: false } },
+    szyby: { pos: [520, -300, 640], target: [8, -560, 0], layers: { claims: true, known: true, faces: true, ground: true, scale: true } },
+    calosc: { pos: [2300, 500, 2700], target: [0, -950, 0], layers: { claims: true, known: true, faces: true, ground: true, scale: true } }
+  };
+  var LAYERS = { claims: [], known: [], faces: [], ground: [], scale: [] };
+  var pickable = [];
+
+  function layerOf(mesh) {
+    var m = (mesh.material && mesh.material.name) || "";
+    var n = mesh.name || "";
+    if (m.indexOf("twierdz_") === 0) return "claims";
+    if (m === "potw_piramida_przezroczysta") return "faces";
+    if (m.indexOf("potw_piramida") === 0) return null;      // krawędzie piramidy zostają zawsze
+    if (m.indexOf("potw_") === 0) return "known";
+    if (m.indexOf("grunt_") === 0 || n.indexOf("Grunt") === 0 || n.indexOf("Granica") === 0) return "ground";
+    if (m.indexOf("skala") === 0 || n.indexOf("Skala") === 0) return "scale";
+    return null;
+  }
+
+  var SRC_ABS = "streszczenie zespołu (Biondi, Mei, Malanga, marzec 2025)";
+  var INFO = [
+    ["Komora_grobowa", "c", "Komora grobowa (Belzoniego)", "14,17 × 4,97 m, ściany 5,24 m, szczyt stropu 6,84 m. Wykuta w skale. Pomiary: Petrie (1883)."],
+    ["Komora_boczna", "c", "Komora boczna", "10,41 × 3,12 × 2,61 m, po zachodniej stronie dolnego korytarza. Pomiary: Petrie; położenie rampy szacunkowe."],
+    ["Sarkofag", "c", "Sarkofag", "2,63 × 1,07 × 0,97 m, zagłębiony w posadzce przy zachodniej ścianie komory. Pomiary: Petrie."],
+    ["Zapadnia", "c", "Zapadnia granitowa", "W poziomym odcinku górnego korytarza, 1,04 m za końcem pochyłego stropu (Petrie)."],
+    ["Korytarz_gorny_zstepujacy", "c", "Górny korytarz zstępujący", "Wejście 11,54 m nad podstawą, kąt ok. 26°30′, przekrój 1,05 × 1,20 m (Maragioglio i Rinaldi, Petrie)."],
+    ["Korytarz_gorny_poziomy", "c", "Górny korytarz poziomy", "Posadzka ok. 3 m poniżej dziedzińca, wysokość 1,80 m; prowadzi do komory grobowej."],
+    ["Korytarz_dolny", "c", "Dolny korytarz", "Wejście w bruku na północ od piramidy; zejście ok. 22°40′, podejście ok. 21°40′. Głębokość odcinka poziomego szacunkowa."],
+    ["Rampa", "c", "Rampa do komory bocznej", "Odchodzi na zachód od dolnego korytarza. Długość i spadek szacunkowe."],
+    ["Piramida_Chefrena", "c", "Piramida Chefrena", "Bok podstawy 215,25 m, pierwotna wysokość 143,5 m (Petrie)."],
+    ["Zed_", "t", "Struktura „Zed”", "Jedna z pięciu nad komorą Belzoniego: 5 poziomów i skośny dach. Źródło: " + SRC_ABS + ". Rozmiar odczytany z modelu 3D autorów."],
+    ["Korytarz_ramy", "t", "Rama korytarzy", "„Geometryczne ścieżki” łączące struktury. Układ odczytany z modelu 3D autorów; wymiary szacunkowe."],
+    ["Skrzynia_zachodnia", "t", "Skrzynia przy zachodnim boku", "„Struktura dodatkowa” z modelu 3D autorów. Wymiary szacunkowe."],
+    ["Belka_zachodnia", "t", "Belka przy zachodnim boku", "Element z modelu 3D autorów, uproszczony."],
+    ["Hak_", "t", "„Hak” pod belką", "Jeden z pięciu wygiętych elementów w modelu 3D autorów, uproszczony."],
+    ["Szyb_", "t", "Szyb (rura)", "Jeden z ośmiu, w dwóch rzędach z północy na południe, do 648 m w głąb (" + SRC_ABS + "). Średnica 10–12 m według Malangi."],
+    ["Spirala_", "t", "Spirala wokół szybu", "„Schodząca spiralna ścieżka” (" + SRC_ABS + "). Skok i promień szacunkowe."],
+    ["Skrzynia_po", "t", "„Skrzynia” na 648 m", "Jedna z dwóch, bok ok. 80 m; do każdej wchodzą 4 szyby (" + SRC_ABS + "; Malanga)."],
+    ["Woda_", "t", "Woda", "Autorzy mówią, że poniżej pewnego poziomu jest woda, ale nie podają głębokości. Poziom wzięty z proporcji ich modelu."],
+    ["Strefa_1200m", "t", "Strefa na ok. 1200 m", "Jasne plamy na tomografii, które Malanga nazwał „miastem, w cudzysłowie”. Bez określonych kształtów."],
+    ["Zasieg_2km", "t", "Zasięg ok. 2 km", "Streszczenie zespołu mówi o strukturach ok. 2 km pod trzema piramidami. Linia przerywana tylko zaznacza tę głębokość."],
+    ["Grunt", "n", "Grunt", "Warstwy skały są schematyczne, bez danych z odwiertów."],
+    ["Granica", "n", "Granica warstw skały", "Schematyczna, orientacyjna głębokość."],
+    ["Skala", "n", "Skala głębokości", "Podziałka co 100 m, od poziomu podstawy do 2000 m."]
+  ];
+  var TAGS = { c: "Potwierdzone", t: "Twierdzenie", n: "Tło modelu" };
+
+  function describe(name) {
+    for (var i = 0; i < INFO.length; i++) {
+      if (name.indexOf(INFO[i][0]) === 0) return INFO[i];
+    }
+    return null;
+  }
+  function showInfo(entry, name) {
+    infoEl.textContent = "";
+    var tag = document.createElement("span");
+    tag.className = "tag " + entry[1];
+    tag.textContent = TAGS[entry[1]];
+    var title = document.createElement("strong");
+    var num = /^(Zed|Szyb|Spirala|Hak)_(\d+)/.exec(name);
+    title.textContent = entry[2] + (num ? " " + num[2] : "");
+    var body = document.createElement("span");
+    body.textContent = entry[3];
+    infoEl.appendChild(tag); infoEl.appendChild(title); infoEl.appendChild(body);
+  }
+
+  function setLayer(key, on) {
+    LAYERS[key].forEach(function (o) { o.visible = on; });
+    var box = document.getElementById("layer-" + key);
+    if (box) box.checked = on;
+  }
+
+  var anim = null;
+  var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function goTo(key, instant) {
+    var v = VIEWS[key];
+    Object.keys(v.layers).forEach(function (k) { setLayer(k, v.layers[k]); });
+    document.querySelectorAll("button.view").forEach(function (b) {
+      b.setAttribute("aria-pressed", b.dataset.view === key ? "true" : "false");
+    });
+    var p1 = new THREE.Vector3().fromArray(v.pos), t1 = new THREE.Vector3().fromArray(v.target);
+    if (instant || reduceMotion) {
+      camera.position.copy(p1); controls.target.copy(t1); controls.update(); anim = null; return;
+    }
+    anim = { p0: camera.position.clone(), t0: controls.target.clone(), p1: p1, t1: t1, start: performance.now(), dur: 900 };
+  }
+
+  function resize() {
+    var w = canvas.clientWidth, h = canvas.clientHeight;
+    if (!w || !h) return;
+    renderer.setSize(w, h, false);
+    camera.aspect = w / h;
+    camera.updateProjectionMatrix();
+  }
+  window.addEventListener("resize", resize);
+  if (window.ResizeObserver) new ResizeObserver(resize).observe(canvas);
+
+  document.querySelectorAll("button.view").forEach(function (b) {
+    b.addEventListener("click", function () { goTo(b.dataset.view, false); });
+  });
+  document.querySelectorAll(".layers input").forEach(function (box) {
+    box.addEventListener("change", function () { setLayer(box.dataset.layer, box.checked); });
+  });
+
+  // kliknięcie (bez przeciągania) wybiera element
+  var down = null;
+  var raycaster = new THREE.Raycaster();
+  canvas.addEventListener("pointerdown", function (e) { down = { x: e.clientX, y: e.clientY }; });
+  canvas.addEventListener("pointerup", function (e) {
+    if (!down || Math.abs(e.clientX - down.x) + Math.abs(e.clientY - down.y) > 6) return;
+    var r = canvas.getBoundingClientRect();
+    var ndc = new THREE.Vector2(((e.clientX - r.left) / r.width) * 2 - 1, -((e.clientY - r.top) / r.height) * 2 + 1);
+    raycaster.setFromCamera(ndc, camera);
+    var hits = raycaster.intersectObjects(pickable.filter(function (o) { return o.visible; }), false);
+    // najpierw konkretne elementy, dopiero potem tło (grunt, ściany piramidy)
+    var best = null;
+    for (var i = 0; i < hits.length; i++) {
+      var entry = describe(hits[i].object.name);
+      if (!entry) continue;
+      var soft = entry[1] === "n" || hits[i].object.name === "Piramida_Chefrena";
+      if (!soft) { best = [entry, hits[i].object.name]; break; }
+      if (!best) best = [entry, hits[i].object.name];
+    }
+    if (best) showInfo(best[0], best[1]);
+  });
+
+  function frame(now) {
+    if (anim) {
+      var k = Math.min(1, (now - anim.start) / anim.dur);
+      var e = k < 0.5 ? 2 * k * k : 1 - Math.pow(-2 * k + 2, 2) / 2;
+      camera.position.lerpVectors(anim.p0, anim.p1, e);
+      controls.target.lerpVectors(anim.t0, anim.t1, e);
+      if (k >= 1) anim = null;
+    }
+    controls.update();
+    renderer.render(scene, camera);
+    requestAnimationFrame(frame);
+  }
+
+  resize();
+  goTo("piramida", true);
+  requestAnimationFrame(frame);
+
+  // Kolory z Blendera są w przeglądarce za jasne: przyciemnij świecenie i rozrzedź grunt.
+  var tuned = [];
+  function tune(m) {
+    if (!m || tuned.indexOf(m) >= 0) return;
+    tuned.push(m);
+    var name = m.name || "";
+    if (m.emissive) m.emissiveIntensity = Math.min(m.emissiveIntensity || 0, 1) * 0.5;
+    if (m.transparent) m.depthWrite = false;
+    if (name.indexOf("grunt_") === 0 && m.transparent) m.opacity = m.opacity * 0.45;
+    if (name === "potw_piramida_przezroczysta") m.opacity = 0.12;
+    if (name === "twierdz_woda") m.opacity = 0.16;
+    if (name === "twierdz_strefa_1200m") m.opacity = 0.12;
+  }
+  function onModel(gltf) {
+    gltf.scene.traverse(function (o) {
+      if (!o.isMesh) return;
+      var key = layerOf(o);
+      if (key) LAYERS[key].push(o);
+      tune(o.material);
+      pickable.push(o);
+    });
+    scene.add(gltf.scene);
+    goTo("piramida", true);
+    statusEl.innerHTML = "Obracaj: przeciągnij. Przybliżaj: kółko lub dwa palce. Przesuwaj: prawy przycisk. <b>1 jednostka = 1 m.</b>";
+  }
+  function onError() {
+    statusEl.textContent = "Nie udało się wczytać pliku modelu (chefren-sar.glb).";
+  }
+  var loader = new THREE.GLTFLoader();
+  if (window.CHEFREN_GLB_BASE64) {
+    // wersja jednoplikowa: model wbudowany w stronę
+    try {
+      var bin = atob(window.CHEFREN_GLB_BASE64);
+      var bytes = new Uint8Array(bin.length);
+      for (var i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+      loader.parse(bytes.buffer, "", onModel, onError);
+    } catch (err) { onError(); }
+  } else {
+    // wersja z repozytorium: plik .glb obok strony (wymaga serwera HTTP)
+    loader.load("chefren-sar.glb", onModel, function (ev) {
+      if (ev && ev.total) statusEl.textContent = "Wczytywanie modelu… " + Math.round((ev.loaded / ev.total) * 100) + "%";
+    }, onError);
+  }
+})();
+</script>

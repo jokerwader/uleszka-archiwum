@@ -37,6 +37,7 @@ z powodu poważnych błędów metodologicznych i statystycznych.
 | `build_chefren_sar.py` | Skrypt Blendera, który buduje całą scenę od zera, zapisuje `.blend`, eksportuje `.glb` i renderuje kadry |
 | `chefren-sar.blend` | Scena Blendera (kamery, nakładki z podpisami, kolekcje „POTWIERDZONE” i „TWIERDZENIA_…”) |
 | `chefren-sar.glb` | Model do przeglądarki 3D na stronie (np. `<model-viewer>`), 1 jednostka = 1 m |
+| `podglad-3d.html` | Interaktywny podgląd modelu w przeglądarce (three.js): obracanie, cztery widoki, włączanie warstw, opis elementu po kliknięciu. Wczytuje `chefren-sar.glb` leżący obok, więc wymaga serwera HTTP |
 | `render-01-widok-ogolny.png` | Widok ogólny całej kolumny skały do 2 km |
 | `render-02-przekroj.png` | Przekrój zachód–wschód, widok od południa, do ok. 840 m |
 | `render-03-szyby-zblizenie.png` | Zbliżenie: piramida, struktury „Zed”, rama korytarzy i górne odcinki szybów |
@@ -168,6 +169,10 @@ W pliku `.blend` każdy kadr ma własną kamerę, własne napisy i własną wers
   `Skrzynia_poludniowa`, `Woda_…`, `Strefa_1200m_…`, `Zasieg_2km_…`, `Grunt_…`, `Skala_…`), więc można je
   podpisać lub ukryć w przeglądarce.
 - Materiały mają prefiks `potw_` (potwierdzone) lub `twierdz_` (twierdzenia), co ułatwia legendę.
+- `podglad-3d.html` jest gotowym wzorem osadzenia: dzieli siatki na warstwy po nazwach materiałów, ma ustawione
+  kamery startowe i przyciemnia świecenie materiałów, które w przeglądarce wychodzi jaśniej niż w Blenderze.
+  Plik nie ma własnego `<!doctype>` ani `<html>`, bo powstał jako strona do opublikowania w podglądzie Claude;
+  przy osadzaniu na stronie trzeba go wstawić w zwykły szkielet HTML.
 - Model jest w metrach i ma 2,1 km wysokości, a piramida tylko 143 m; znane korytarze mają ok. 1 m szerokości.
   Warto ustawić kamerę startową na górną część albo dodać przycisk „przybliż piramidę”.
 
