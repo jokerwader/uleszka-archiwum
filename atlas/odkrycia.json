@@ -4674,5 +4674,688 @@
         }
       ]
     }
+  ],
+  "chavin-de-huantar": [
+    {
+      "rok": "2008–2014",
+      "tytul": "Akustyka podziemnych galerii i trąby pututu",
+      "opis": "Zespół Stanford University (Center for Computer Research in Music and Acoustics, z udziałem Miriam Kolar i Johna Ricka) mierzył od 2007 roku dźwięk w podziemnych galeriach świątyni oraz nagrywał dziewiętnaście muszlowych trąb pututu znalezionych w 2001 roku. Galerie mają krótki pogłos i gęste odbicia dochodzące z wielu stron naraz, więc źródło dźwięku trudno zlokalizować, a muszle brzmią w nich donośnie. Badacze nie potrafią udowodnić, że korytarze zaprojektowano celowo pod kątem akustyki, choć Rick uważa manipulację dźwiękiem w obrzędach za bardzo prawdopodobną.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2011",
+          "url": "https://archaeology.org/issues/online/digs-discoveries/listening-to-the-gods-of-ancient-peru/"
+        },
+        {
+          "nazwa": "CCRMA Stanford, Chavín de Huántar Archaeological Acoustics Project (ASA 2014)",
+          "url": "https://ccrma.stanford.edu/groups/chavin/ASA2014.html"
+        }
+      ]
+    },
+    {
+      "rok": "2018",
+      "tytul": "Roboty w zamkniętych galeriach: pochówki z okresu Chavín",
+      "opis": "Zespół Chavín de Huántar Archaeological Research and Conservation Program kierowany przez Johna Ricka (Stanford) ogłosił w sierpniu 2018 roku odkrycie trzech nowych galerii i pierwszych w Peru pochówków z okresu Chavín. Do wąskich, zamkniętych przejść wprowadzono małe zdalnie sterowane roboty z kamerami, zaprojektowane przez inżynierów Stanforda. Zmarli leżeli twarzą w dół pod stosami kamieni; Rick uznał, że mogli być złożeni w ofierze, ale wymaga to jeszcze potwierdzenia analizami. Informacje pochodzą głównie z wypowiedzi zespołu i urzędników, a nie z recenzowanej publikacji.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Andina (agencja państwowa Peru), 21.08.2018",
+          "url": "https://andina.pe/ingles/noticia-peru-chavin-huantar-new-finds-among-the-largest-in-50-years-722658.aspx"
+        },
+        {
+          "nazwa": "Andina/EFE, 21.08.2018",
+          "url": "https://andina.pe/ingles/noticia-robots-revelan-posibles-sacrificios-humanos-chavin-huantar-fotos-y-video-722642.aspx"
+        }
+      ]
+    },
+    {
+      "rok": "2019",
+      "tytul": "Nowe datowania AMS: Chavín istniał ok. 950–400 p.n.e.",
+      "opis": "Richard Burger (Yale University) wykonał datowania metodą AMS kolagenu z kości zwierząt wydobytych w 1975 roku w osadzie przy świątyni. Wyniki potwierdziły trójfazową sekwencję ceramiki: Urabarriu 950–800, Chakinani 800–700 i Janabarriu 700–400 p.n.e. Według autora ośrodek powstał około 950 p.n.e. i został opuszczony do 400 p.n.e., a jego rozkwit nastąpił po wcześniejszych cywilizacjach wybrzeża, co podważa część dotychczasowych interpretacji jego początków.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Burger, Latin American Antiquity 30(2), 2019 (Cambridge University Press)",
+          "url": "https://www.cambridge.org/core/journals/latin-american-antiquity/article/understanding-the-socioeconomic-trajectory-of-chavin-de-huantar-a-new-radiocarbon-sequence-and-its-wider-implications/5D63DAC926FCA75CAFE0F044632CC28B"
+        }
+      ],
+      "artykul": "09tiahu/tiahua"
+    },
+    {
+      "rok": "2022",
+      "tytul": "Sieć tuneli i Galeria Kondora",
+      "opis": "Archeolodzy z programu Stanford University pod kierunkiem Johna Ricka poinformowali w 2022 roku o odkryciu sieci około 35 połączonych tuneli i ceremonialnej Galerii Kondora. Prowadzący do niej kanał zauważono już w 2019 roku, a prace opóźniła pandemia. Znaleziono m.in. dwie kamienne misy, z których większa przedstawia głowę, skrzydła i ogon kondora. Rick sądzi, że tunele mogą być starsze od głównych galerii, ale na pełne datowanie trzeba poczekać na publikację naukową.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Arkeonews, 6.06.2022",
+          "url": "https://arkeonews.net/archaeologists-unearth-hidden-tunnels-under-the-3000-year-old-temple-complex/"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Ślady vilki i tytoniu w kościanych rurkach do wciągania",
+      "opis": "Zespół Johna Ricka (Stanford) z udziałem Daniela Contrerasa (University of Florida) przebadał chemicznie i mikroskopowo kościane i muszlowe przedmioty, w tym rurki do wciągania proszku, odkryte w zamkniętej galerii. Znaleziono ślady nikotyny z dzikich krewnych tytoniu i nasion vilca (Anadenanthera), rośliny o działaniu halucynogennym. To najstarszy bezpośredni dowód użycia roślin psychoaktywnych w peruwiańskich Andach. Interpretacja, że elity kontrolowały dostęp do tych obrzędów, jest wnioskiem autorów opartym na rozmieszczeniu znalezisk.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "ScienceDaily, 5.05.2025 (Rick i in., PNAS 122(19))",
+          "url": "https://sciencedaily.com/releases/2025/05/250505170814.htm"
+        },
+        {
+          "nazwa": "HeritageDaily, 2025",
+          "url": "https://www.heritagedaily.com/2025/05/ancient-ritual-drug-use-found-at-chavin-de-huantar/155227"
+        }
+      ]
+    }
+  ],
+  "salar-de-coipasa": [
+    {
+      "rok": "2012",
+      "tytul": "Osuwisko wulkanu Tata Sabaya wpadło do jeziora Coipasa",
+      "opis": "Zespół z Universidad de Chile (Godoy, Clavero i in.) opisał facje osuwiska po zawaleniu się boku wulkanu Tata Sabaya, którego osady wypełniają północno-zachodnią część niecki Salar de Coipasa. Złoże ma co najmniej 230 km² powierzchni i około 6 km³ objętości, a przyczyną mogło być połączenie aktywności magmowej i sejsmicznej. Wiek zdarzenia ustalono pośrednio: nacieki trawertynowe (tufa) przecinają osady osuwiska, więc zawalenie nastąpiło przed ok. 12 tys. lat temu, przed wysokim stanem jeziora Coipasa; bezpośredniego datowania osadów brak.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Godoy i in., Andean Geology 39(3), 2012",
+          "url": "https://andeangeology.cl/index.php/revista1/article/view/V39n3-a03"
+        },
+        {
+          "nazwa": "NASA Earth Observatory, Tata Sabaya",
+          "url": "https://science.nasa.gov/earth/earth-observatory/tata-sabaya-volcano-80945"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "Skąd w południowej części Altiplano wzięły się dwa ogromne, słone i wysychające jeziora Salar de Uyuni i Salar de Coipasa?"
+    }
+  ],
+  "toro-muerto": [
+    {
+      "rok": "2019",
+      "tytul": "Polsko-peruwiańska dokumentacja: 2600 głazów z petroglifami",
+      "opis": "Zespół Uniwersytetu Warszawskiego pod kierunkiem Janusza Wołoszyna i Liz Gonzales Ruiz zbadał w trzech sezonach (od 2015 r.) ponad 10 km² centralnej strefy stanowiska w dolinie Majes. Zarejestrowano prawie 2600 zdobionych skał – ok. połowy dawnych szacunków (ok. 5000) – użyto tachimetru, GPS, fotografii, kalek i modeli 3D, a w 2018 r. zdjęć lotniczych. Większość petroglifów powstała prawdopodobnie między ostatnimi wiekami p.n.e. a pierwszymi wiekami n.e., z późniejszą aktywnością. Wykopaliska przy głazach odsłoniły ofiary (kukurydza, kawie, malowane tabliczki), co wiąże miejsce z andyjską tradycją świętych miejsc waka. Wyników datowania organicznych ofiar nie podano.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Wołoszyn, Gonzales Ruiz, Rozwadowski, Antiquity, 2019",
+          "url": "https://www.cambridge.org/core/product/identifier/S0003598X1900200X/type/journal_article"
+        },
+        {
+          "nazwa": "Archeowieści, projekt Toro Muerto",
+          "url": "https://archeowiesci.pl/en/toro-muerto-researching-pre-columbian-petroglyphs/"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Współczesna nauka określiła wiek rysunków na 1000-1200 lat. Na jakiej podstawie? Jaką metodą?"
+    },
+    {
+      "rok": "2024",
+      "tytul": "Zygzaki przy tancerzach jako zapis pieśni",
+      "opis": "Andrzej Rozwadowski (UAM) i Janusz Wołoszyn (UW) opublikowali w Cambridge Archaeological Journal interpretację zygzaków i linii towarzyszących postaciom tancerzy (danzantes). Na podstawie analogii etnograficznej ze sztuką Tukano z pogranicza Kolumbii i Brazylii proponują, że wzory zapisują pieśni i doświadczenie transu, a nie węże czy błyskawice. To nowa hipoteza, nie ustalony konsensus; sugestię udziału roślin halucynogennych autorzy przedstawiają jako możliwość, a nie ustalenie.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Nauka w Polsce (PAP), 2024",
+          "url": "https://scienceinpoland.pl/en/news/news%2C102513%2Cpolish-scientists-reinterpret-petroglyphs-toro-muerto.html"
+        },
+        {
+          "nazwa": "Phys.org, 2024",
+          "url": "https://phys.org/news/2024-04-southern-peru-people-hallucinating.html"
+        }
+      ]
+    }
+  ],
+  "tenochtitlan": [
+    {
+      "rok": "2010",
+      "tytul": "Monolit Tlaltecuhtli i ofiary przy Templo Mayor",
+      "opis": "Projekt Templo Mayor (INAH) pod kierunkiem Leonarda Lópeza Luján wydobył w 2007 r. czterometrowy, ok. 12-tonowy monolit bogini ziemi Tlaltecuhtli, znaleziony w 2006 r. obok piramidy, a pod nim odkrył siedem ofiar, m.in. pochowanego psowatego z turkusami i złotymi dzwonkami oraz dwa złote orły. Data „10 Królik” odpowiada 1502 r., śmierci Ahuízotla; López Luján uważa, że prochy władcy złożono w pobliżu, lecz grobu nie odnaleziono, więc to hipoteza.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "AP / Taipei Times, 2010",
+          "url": "https://www.taipeitimes.com/News/world/archives/2010/06/18/2003475729"
+        },
+        {
+          "nazwa": "National Geographic, 2010",
+          "url": "https://www.nationalgeographic.com/magazine/2010/11/greatest-aztec"
+        }
+      ]
+    },
+    {
+      "rok": "2016",
+      "tytul": "Izotopy strontu: ofiary nie tylko jeńcy z podbitych ziem",
+      "opis": "Allan Barrera (INAH) zbadał izotopy strontu w szczątkach złożonych w ofiarach Wielkiej Świątyni (lata 1469–1521). Część ofiar pochodziła spoza Doliny Meksyku, ale mieszkała wśród Azteków co najmniej sześć lat, co sugeruje, że niektórzy mogli być wysoko urodzonymi jeńcami służącymi elitom, a nie zabitymi tuż po pojmaniu. Próba była niewielka, a doniesienie prasowe nie podaje czasopisma.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2016",
+          "url": "https://archaeology.org/news/2016/01/25/160125-aztecs-tenochtitlan-human-sacrifices/"
+        }
+      ],
+      "artykul": "ameryka/folklor",
+      "cytat_leszka": "Czy opis hiszpańskiego klechy jest wiarygodny?"
+    },
+    {
+      "rok": "2017–2020",
+      "tytul": "Huei Tzompantli: mur czaszek z kobietami i dziećmi",
+      "opis": "Archeolodzy INAH (Raúl Barrera Rodríguez, Lorena Vázquez Vallín) odkopali przy Templo Mayor okrągłą wieżę z czaszek, poświęconą Huitzilopochtli, z końca XV w. Pierwsze 484 czaszki znaleziono w 2017 r., a w 2020 r. dodano 119 z części wschodniej; antropolog fizyczny Rodrigo Bolaños stwierdził wśród nich mężczyzn, kobiety i co najmniej troje dzieci. Zaskoczyło to badaczy, bo nie byli to typowi wojownicy. Dokładna liczba jeńców wojennych i ofiar rytualnych pozostaje nieustalona.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "ScienceAlert, 2020",
+          "url": "https://www.sciencealert.com/archaeologists-uncover-119-more-remains-in-the-aztec-tower-of-skulls"
+        },
+        {
+          "nazwa": "Mexico News Daily, 2020",
+          "url": "https://mexiconewsdaily.com/news/another-119-skulls-discovered-in-aztec-skull-tower-in-tenochtitlan/"
+        }
+      ]
+    },
+    {
+      "rok": "2021–2022",
+      "tytul": "Osady dawnego jeziora Texcoco i wyspowe osady tlatel",
+      "opis": "Carlos Cordova (Oklahoma State University) z kolegami z Chapingo i INAH zbadał stratygrafię i geomorfologię trzech osad typu tlatel na wschodnim brzegu dawnego jeziora Texcoco i powiązał ich fazy z trendami paleoklimatu od VII w. p.n.e. do XVI w. n.e. Osady powstały dzięki sedymentacji deltowej i słodkowodnym źródłom w zmiennym, zasolonym jeziorze; ich powstanie i opuszczenie pośrednio ilustrują zmiany jeziora w czasie rozwoju Tenochtitlan na zachodnim brzegu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Cordova i in., Ancient Mesoamerica 33(2), 2022",
+          "url": "https://www.cambridge.org/core/journals/ancient-mesoamerica/article/lacustrine-dynamics-and-tlateltype-settlements-from-middle-formative-to-late-aztec-in-the-eastern-part-of-lake-texcoco-mexico/065E30FC5F57766EEC1642C6FB3B3EAE"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Dawna stolica Azteków Tenochtitlan była tylko małą wyspą na tym wielkim jeziorze, które łączyło się jeszcze z czterema innymi?"
+    },
+    {
+      "rok": "2026",
+      "tytul": "Krąg sześciu skrzyń ofiarnych z czasów Motecuhzomy Ilhuicaminy",
+      "opis": "Projekt Templo Mayor (INAH, kierownik Leonardo López Luján) przedstawił w lutym 2026 r. trzy nowo odkopane składy (186, 187, 189), które wraz z wcześniejszymi (18, 19, 97) tworzą krąg sześciu kamiennych skrzyń złożonych podczas jednej ceremonii w latach 1440–1469 (faza IVa). W nich 83 figurki w stylu Mezcala z dzisiejszego Guerrero, prawdopodobnie łup wojenny, oraz ponad 4000 muszli i mięczaków, w tym gatunki atlantyckie. Ślady barwników pokazują, że Meksykanie dodali figurkom cechy Tlaloka.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "HeritageDaily, 2026",
+          "url": "https://www.heritagedaily.com/2026/02/colossal-mexica-offering-linked-to-motecuhzoma-ilhuicamina-uncovered-at-templo-mayor/157154"
+        },
+        {
+          "nazwa": "Arkeonews, 2026",
+          "url": "https://arkeonews.net/monumental-aztec-ceremony-unearthed-at-templo-mayor-new-discoveries-reveal-motecuhzomas-grand-offering/"
+        }
+      ]
+    }
+  ],
+  "harappa": [
+    {
+      "rok": "2013",
+      "tytul": "Choroby i przemoc w Harappie w czasie upadku miast",
+      "opis": "Gwen Robbins Schug (Appalachian State University) z zespołem zbadała szkielety 160 osób z trzech pochówków w Harappie i opublikowała wyniki w PLOS ONE. Trąd pojawił się już w okresie miejskim (ok. 3% osób z cmentarza R-37), a w późniejszych pochówkach i w ossuarium poza miastem odsetek chorych na trąd lub gruźlicę rósł, podobnie jak ślady urazów czaszek. Najwięcej chorób i przemocy zanotowano u osób wyłączonych z głównych cmentarzy, co autorzy łączą z marginalizacją, a nie z samą chorobą. Próby są fragmentaryczne, a część diagnoz niepewna; obraz to powolne narastanie napięć, nie nagły kataklizm.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Robbins Schug i in., PLOS ONE 8(12), 2013",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0084814"
+        },
+        {
+          "nazwa": "ScienceDaily / Appalachian State University, 2014",
+          "url": "https://www.sciencedaily.com/releases/2014/01/140116162019.htm"
+        }
+      ],
+      "artykul": "atomwoj/bogatom01",
+      "cytat_leszka": "otóż okazało się, że katastrofa stała się w mgnieniu oka"
+    },
+    {
+      "rok": "2015",
+      "tytul": "Izotopy w zębach: pochowani w Harappie byli głównie przybyszami",
+      "opis": "Benjamin Valentine (Dartmouth College) z Jonathanem Markiem Kenoyerem, Vasantem Shinde i innymi zbadał stront i ołów w szkliwie 44 zębów z co najmniej 38 osób z cmentarza Harappy oraz zęby z Farmany w Indiach. Pierwsze trzonowce, tworzące się w dzieciństwie, w większości nie pasują do lokalnych wartości, co wskazuje na dzieciństwo spędzone gdzie indziej, np. w górskim zapleczu miasta. Autorzy widzą w tym uregulowany system napływu ludności do miast, ale sami zaznaczają, że próba jest mała, a lokalne wartości wzorcowe oszacowano z niewielu zwierzęcych próbek, więc interpretacja instytucjonalna jest spekulatywna.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Valentine i in., PLOS ONE, 2015",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123103"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Na podstawie znalezisk stwierdzono ożywiony handel rejonu z pobliskimi Indiami i Sumerem."
+    },
+    {
+      "rok": "2024",
+      "tytul": "Kał bydlęcy jako opał: nowe spojrzenie na zaopatrzenie Harappy w zboże",
+      "opis": "Nathaniel James (UC San Diego) wraz z J. Markiem Kenoyerem i Richardem Meadowem przeanalizował 1144 próbki szczątków roślin z wykopalisk Harappy z lat 1986–2001 i opublikował wyniki w Antiquity. Zboże występowało obficie, plew było mało, a wiele nasion chwastów pochodziło z roślin zjadanych przez bydło. Według autorów trafiły one do osady w spalanym jako opał kale, także w piecach garncarskich i do fajansu, a oczyszczone ziarno dostarczano prawdopodobnie z zewnątrz dużym nakładem pracy. To interpretacja modelowa; autorzy zastrzegają, że obraz tworzyło kilka procesów naraz.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "James i in., Antiquity 99(403), 2025 (online 2024)",
+          "url": "https://www.cambridge.org/core/product/55810416F25148D686092A0968D5AD6F"
+        },
+        {
+          "nazwa": "IFLScience, 2025",
+          "url": "https://www.iflscience.com/what-was-life-like-in-harappan-home-of-the-indus-valley-script-78165"
+        }
+      ]
+    }
+  ],
+  "persepolis": [
+    {
+      "rok": "2007–2010",
+      "tytul": "Archiwum tabliczek z Persepolis trafia do cyfrowej bazy",
+      "opis": "Oriental Institute Uniwersytetu Chicagowskiego, przy wsparciu fundacji Mellona, rozpoczął w 2007 roku obrazowanie wysokiej rozdzielczości (m.in. metodą PTM) tabliczek z Archiwum Fortyfikacyjnego z Persepolis, z celem ok. 10 tys. obiektów do 2010 roku. Archiwum liczy ok. 30 tys. glinianych tabliczek i fragmentów z lat 509–493 p.n.e., z czasów Dariusza I; większość to teksty elamickie, wiele aramejskich, prawie wszystkie mają odciski pieczęci. Zapisują one racje żywności i płace robotników oraz członków rodziny królewskiej. Daty są pewne, bo tabliczki podają lata panowania.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "University of Chicago News, 2009",
+          "url": "https://news.uchicago.edu/story/ancient-persian-archive-digitized-support-mellon-foundation"
+        },
+        {
+          "nazwa": "Iran International, 2024 (zawartość archiwum)",
+          "url": "https://iranintl.news/en/202409280337"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Chronologia Mezopotamii i Azji Mniejszej czeka jeszcze na uporządkowanie."
+    },
+    {
+      "rok": "2012–2014",
+      "tytul": "Persepolis jako rozproszone miasto: geofizyka wokół tarasu",
+      "opis": "Wspólna misja irańsko-włoska pod kierunkiem Uniwersytetu w Bolonii (projekt SELOPerse) połączyła badania powierzchniowe, magnetometrię i sondaże wykopaliskowe. Odkryto nowy monumentalny kompleks kilkaset metrów na północny zachód od tarasu, pozostałości kamieniołomów oraz fragmenty wczesnoachemenidzkiego budynku w Tol-e Ajori. Wniosek: Persepolis nie było gęsto zabudowanym, otoczonym murem miastem, lecz rozległym układem budynków przeplecionych ogrodami i polami. Dane wciąż są opracowywane; datowanie i funkcja części obiektów wymagają dalszych wykopalisk.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "CORDIS (UE), sprawozdanie końcowe projektu SELOPerse",
+          "url": "https://cordis.europa.eu/project/id/299665/reporting"
+        },
+        {
+          "nazwa": "Iran Times, 2013 (budynek w Tol-e Ajori)",
+          "url": "https://iran-times.com/huge-unknown-building-unearthed-near-persepolis/?amp=1"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Kto budował z ogromnych elementów Persepolis i do tego na sztucznym podwyższeniu umocnionym kamiennymi płytami?"
+    },
+    {
+      "rok": "2019",
+      "tytul": "Prawie 1800 tabliczek wraca z Chicago do Iranu",
+      "opis": "Po wyroku Sądu Najwyższego USA z 2018 roku, który odrzucił próby zajęcia irańskich zabytków przez ofiary zamachu terrorystycznego, Oriental Institute pod koniec września 2019 roku zwrócił Iranowi prawie 1800 tabliczek z Archiwum Fortyfikacyjnego, wypożyczonych w 1936 roku do badań. Około 110 pokazano w Muzeum Narodowym Iranu w Teheranie. Instytut sam kwestionuje nazywanie zwrotu repatriacją, bo tabliczki były formalnie użyczone. Znacznie więcej tabliczek wracało do Iranu w kolejnych latach; łączne liczby podają źródła niejednolicie.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Chicago Maroon, 2019",
+          "url": "https://chicagomaroon.com/?p=27330"
+        },
+        {
+          "nazwa": "Iran International, 2024",
+          "url": "https://iranintl.news/en/202409280337"
+        }
+      ]
+    },
+    {
+      "rok": "2023",
+      "tytul": "Kolory Persepolis: analiza pigmentów z reliefu z Hali Stu Kolumn",
+      "opis": "Zespół z Harvard Art Museums i Alexander Nagel (Fashion Institute of Technology) opublikował w czasopiśmie Heritage wyniki badań pigmentów na fragmencie reliefu z Hali Stu Kolumn, przechowywanym w Harvardzie od 1943 roku. Widoczne na nim ślady czerwieni (cynober), zieleni (malachit) i błękitu egipskiego pokazują, że rzeźby były barwne, a kamień ozdabiano też złotem i niebieskimi wstawkami. Nagel opisuje szerzej poszukiwania farb na budowlach Persepolis w książce z 2023 roku. Rekonstrukcja kolorów pozostaje częściowa i w dużej mierze hipotetyczna.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "FIT News, 2024 (Nagel, Heritage)",
+          "url": "http://news.fitnyc.edu/2024/02/12/what-were-the-colors-of-ancient-persia-alexander-nagel-could-tell-you/"
+        },
+        {
+          "nazwa": "Harvard Art Museums, rekonstrukcja kolorów",
+          "url": "https://www.harvardartmuseums.org/collections/object/321166"
+        }
+      ]
+    }
+  ],
+  "czoga-zanbil": [
+    {
+      "rok": "2020",
+      "tytul": "Starożytne zarządzanie wodą deszczową w Czoga Zanbil",
+      "opis": "M. Nakhaei (Pasargadae World Heritage Research Center) i M. Correia (Escola Superior Gallaecia) opisali w materiałach ISPRS problem ochrony glinianych budowli zigguratu przed ulewami i spływem wody. Archeolodzy odkryli tam dawny system kontroli wód powierzchniowych, który autorzy uważają za możliwy do pogodzenia z nowoczesnym zarządzaniem terenem. To artykuł konferencyjny z naciskiem na konserwację, nie nowe wykopaliska.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Nakhaei i Correia, ISPRS Archives XLIV-M-1-2020",
+          "url": "https://isprs-archives.copernicus.org/articles/XLIV-M-1-2020/683/2020/"
+        }
+      ]
+    },
+    {
+      "rok": "2022",
+      "tytul": "Czy zbiornik w Czoga Zanbil oczyszczał wodę? Modelowanie hydrauliczne",
+      "opis": "Sadegh Partani i Vahid Heidary, opierając się na skanowaniu laserowym, badaniach geofizycznych i hydrologicznych, sprawdzili funkcję systemu wodnego w Czoga Zanbil. Roman Ghirshman, główny badacz, uważał go za oczyszczalnię wody dla mieszkańców, lecz autorzy zwracają uwagę, że miasto leży wysoko i brak dowodów na kanał z rzeki Karkheh. Ich zdaniem najbardziej prawdopodobna jest funkcja odwadniająca. To hipoteza oparta na modelu; rozstrzygnąć mogłyby dopiero wykopaliska.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Partani i Heidary, Journal of Iranian Architecture Studies 6(11), 2022",
+          "url": "https://jias.kashanu.ac.ir/article_111778.html?lang=en"
+        }
+      ]
+    }
+  ],
+  "jaskinia-lascaux": [
+    {
+      "rok": "2012",
+      "tytul": "Czarne plamy w Lascaux: biocydy pomogły grzybom",
+      "opis": "Po wybuchu grzyba Fusarium solani w 2001 roku jaskinię leczono biocydami, a od 2006 roku coraz bardziej rozrastały się czarne plamy na ścianach. Międzynarodowy zespół (m.in. Cesáreo Saiz-Jiménez) opisał w Environmental Science & Technology skład grzybów w plamach: w latach 2007–2008 dominował nowo opisany Ochroconis lascauxensis. Wnioski badaczy: intensywne stosowanie biocydów nie opanowało problemu, a prawdopodobnie sprzyjało ciemnym grzybom. Jaskinia pozostaje zamknięta dla zwiedzających, a konserwatorzy ograniczają ingerencję.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Chromatography Online o pracy w Environ. Sci. Technol. 46(7), 2012",
+          "url": "https://www.chromatographyonline.com/view/cave-markings"
+        },
+        {
+          "nazwa": "History News Network (AP), 2009 – narada naukowców w sprawie Lascaux",
+          "url": "https://www.historynewsnetwork.org/article/64270"
+        }
+      ]
+    },
+    {
+      "rok": "2012–2014",
+      "tytul": "Nowy cyfrowy skan jaskini w rozdzielczości poniżej milimetra",
+      "opis": "Francuskie Ministerstwo Kultury przeprowadziło w latach 2012–2014 ponowny skan 3D całej jaskini, z rozdzielczością poniżej milimetra i fotografiami o wielokrotnie większej liczbie pikseli niż w skanie z 2003 roku. Model posłużył do budowy repliki (Lascaux IV, otwartej w 2016 roku) oraz symulatora klimatu jaskini opracowanego z Uniwersytetem w Bordeaux, który pozwala testować hipotezy bez ingerencji w oryginał. Jest to dokumentacja i narzędzie konserwatorskie, nie nowe datowanie.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Ministère de la Culture – Lascaux: nouveau modèle numérique",
+          "url": "https://archeologie.culture.gouv.fr/lascaux/en/new-digital-model"
+        }
+      ]
+    },
+    {
+      "rok": "2022–2023",
+      "tytul": "Mikrobiom czarnych plam i rola skoczogonków",
+      "opis": "Zespół Yvana Moënne-Loccoza i współpracowników zbadał w sali Apsydy plamy na skale. Okazało się, że w plamach dominują pigmentowane grzyby, zwłaszcza Ochroconis, a ubywa bakterii Pseudomonas, które w testach laboratoryjnych hamowały te grzyby. Skoczogonek Folsomia candida żywi się plamami i w eksperymencie roznosił grzyby, więc może przyczyniać się do ich rozprzestrzeniania. To wyniki obserwacyjne i laboratoryjne, a nie gotowa metoda leczenia.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Alonso i in., Environmental Microbiology Reports 15(2), 2023 (PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10103860"
+        }
+      ]
+    },
+    {
+      "rok": "2023–2024",
+      "tytul": "„Kalendarz księżycowy” w sztuce jaskiniowej i jego krytyka",
+      "opis": "Zespół Bennetta Bacona (m.in. University College London i Durham University) argumentował w Cambridge Archaeological Journal, że kropki i kreski przy zwierzętach w europejskich jaskiniach (w tym przykłady z Lascaux) zapisują fazy księżyca i sezony rozrodu zwierząt, a znak Y oznacza poród. W 2024 roku April Nowell, Paul Bahn i Jean-Loïc Le Quellec uznali tę interpretację za niewykonalną metodologicznie, a twierdzenie o najstarszym piśmie za nieudowodnione. To hipoteza sporna, bez rozstrzygnięcia.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Phys.org, 2023 (Bacon i in., Cambridge Archaeological Journal)",
+          "url": "https://phys.org/news/2023-01-cave-ice-age-hunter-gatherers-lunar.html"
+        },
+        {
+          "nazwa": "Nowell, Bahn, Le Quellec, Cambridge Archaeological Journal 2024 (repozytorium UVic)",
+          "url": "https://dspace.library.uvic.ca/items/27fd4aaf-32ca-4711-b2d6-6423d9cfa051"
+        }
+      ]
+    }
+  ],
+  "tassili-n-ajjer": [
+    {
+      "rok": "2012",
+      "tytul": "Datowanie luminescencyjne: malowidła Okrągłogłowych młodsze niż 9–10 tys. lat",
+      "opis": "Norbert Mercier, Jean-Loïc Le Quellec i współpracownicy datowali metodą OSL osady, na których stali twórcy malowideł, w Tassili n'Ajjer. Gleba pochodzi sprzed co najwyżej 9–10 tys. lat, więc malowidła w stylu Okrągłych Głów muszą być młodsze, co podważa spekulacje o wieku 12 tys. lat i większym. Metoda daje tylko górną granicę, a nie datę samych malowideł; próby datowania pigmentów radiowęglem nie dały wiarygodnych wyników.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Hominides.com o pracy Mercier i in., Quaternary Geochronology, 2012",
+          "url": "https://hominides.com/?p=15047"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Przy badaniu wieku petroglifów dochodzi do absurdów."
+    },
+    {
+      "rok": "2015",
+      "tytul": "Zielona Sahara kończyła się stopniowo, z północy na południe",
+      "opis": "Zespół Timothy'ego Shanahana (University of Texas at Austin) z udziałem Woods Hole Oceanographic Institution przeanalizował woski liści w osadach jeziora Bosumtwi w Ghanie i zestawił zapisy z całej północnej Afryki. Afrykański okres wilgotny, który trwał od ok. 14,8 do 5,5 tys. lat temu, nie skończył się nagle wszędzie naraz: monsun słabł stopniowo i przesuwał się na południe przez kilka tysięcy lat. Lokalnie zmiany mogły jednak wyglądać na gwałtowne.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "ScienceDaily, 2015 (Shanahan i in., Nature Geoscience)",
+          "url": "https://sciencedaily.com/releases/2015/02/150202132613.htm"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Pierwsze genomy z zielonej Sahary: pasterze z Takarkori",
+      "opis": "Zespół z Instytutu Maxa Plancka w Lipsku, Uniwersytetu Sapienza i Uniwersytetu we Florencji odczytał DNA dwóch naturalnie zmumifikowanych kobiet sprzed ok. 7 tys. lat z kryjówki skalnej Takarkori w południowo-zachodniej Libii (masyw Acacus, sąsiadujący z Tassili). Ich przodkowie należeli do izolowanej północnoafrykańskiej linii, blisko spokrewnionej z łowcami z Taforalt w Maroku, bez wyraźnego śladu przodków z Afryki Subsaharyjskiej. Autorzy wnioskują, że pasterstwo rozprzestrzeniało się raczej przez wymianę kulturową niż wielkie migracje; wniosek opiera się na zaledwie dwóch osobach.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Max-Planck-Gesellschaft, 2025 (Salem i in., Nature)",
+          "url": "https://www.mpg.de/24407329/first-ancient-genomes-from-the-green-sahara-deciphered"
+        },
+        {
+          "nazwa": "Sapienza Università di Roma, 2025",
+          "url": "https://www.uniroma1.it/en/node/534569"
+        }
+      ]
+    }
+  ],
+  "kartagina": [
+    {
+      "rok": "2010–2013",
+      "tytul": "Spór o tofet: cmentarz niemowląt czy miejsce ofiar",
+      "opis": "W tofecie w Kartaginie znaleziono urny z kośćmi spalonych niemowląt. Zespół Jeffreya Schwartza uznał w 2010 i 2012 roku, że to cmentarz dzieci zmarłych około narodzin, a dowody na ofiary są niewystarczające. Paolo Xella, Josephine Quinn, Valentina Melchiorri i Peter van Dommelen odpowiedzieli w Antiquity (2013), że urny, szczątki zwierząt i inskrypcje wskazują na rytualne zabijanie dzieci. Spór pozostaje otwarty; zależy m.in. od szacowania wieku spalonych kości.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Xella, Quinn, Melchiorri, van Dommelen, Antiquity 87(338), 2013",
+          "url": "https://cambridge.org/core/journals/antiquity/article/cemetery-or-sacrifice-infant-burials-at-the-carthage-tophet/DAC7C386CD20F5C280C9DB41E5184A2E"
+        },
+        {
+          "nazwa": "Brown University, komunikat 2014",
+          "url": "https://archive2.news.brown.edu/2007-2015/articles/2014/01/study-phoenicians-sacrificed-infants.html"
+        },
+        {
+          "nazwa": "Schwartz i in., Antiquity 86(333), 2012 (odpowiedź)",
+          "url": "https://www.cambridge.org/core/journals/antiquity/article/bones-teeth-and-estimating-age-of-perinates-carthaginian-infant-sacrifice-revisited/CA46F625ED28CFD23EFB5A71D06BCF48"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "DNA Kartagińczyków: mało przodków z Lewantu",
+      "opis": "Zespół Haralda Ringbauera (Instytut Maxa Plancka w Lipsku) z udziałem Harvardu analizował genomy 210 osób z 14 stanowisk fenickich i punickich w Lewancie, Afryce Północnej, Iberii oraz na Sycylii, Sardynii i Ibizie. Okazało się, że ludność punicka miała bardzo mało przodków z fenickiego Lewantu; największy składnik przypominał dzisiejszych mieszkańców Sycylii i Egejskiego, a w Kartaginie obok nich żyli ludzie z przodkami północnoafrykańskimi. Autorzy wnioskują, że kultura fenicka rozprzestrzeniała się głównie przez przejmowanie jej przez miejscowych, nie masowe migracje. Wynik dotyczy ludności punickiej, nie samych pierwszych założycieli.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "ScienceDaily, 2025 (Ringbauer i in., Nature)",
+          "url": "https://www.sciencedaily.com/releases/2025/04/250423111750.htm"
+        },
+        {
+          "nazwa": "Max-Planck-Gesellschaft, 2025",
+          "url": "https://www.mpg.de/24574685/phoenician-culture-spread-mainly-through-cultural-exchange"
+        }
+      ],
+      "artykul": "11atlantyda/atlant",
+      "cytat_leszka": "Etrusków sprowadza się zza północnych Alp, Fenicjan wypędzają Asyryjczycy i zakładają oni kolonię w Kartaginie, Celtów sprowadza się z nadwołżańskich stepów."
+    },
+    {
+      "rok": "2025",
+      "tytul": "Marmurowa maska w tofecie Kartaginy",
+      "opis": "Zespół Tunezyjskiego Instytutu Dziedzictwa (INP) pod kierunkiem Imeda Ben Jerbanii znalazł 4 listopada 2025 roku w świątyni Baala Hammona i Tanit marmurową twarz kobiety z fenicką fryzurą, datowaną na koniec IV wieku p.n.e. Wstępna hipoteza to wotum dla bóstw; analizy marmuru i śladów farby mają ustalić jego pochodzenie, prawdopodobnie ze wschodniej części Morza Śródziemnego. Na stanowisku wcześniej znaleziono m.in. dziewięć złotych monet z połowy III wieku p.n.e. Wyniki są wstępne, końcowy raport jeszcze nie powstał.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Finestre sull'Arte, 2025",
+          "url": "https://www.finestresullarte.info/en/archaeology/ancient-carthage-tunisia-marble-face-resurfaces-from-the-temple-of-baal-hammon-and-tanit"
+        },
+        {
+          "nazwa": "Africanews, 2025",
+          "url": "https://www.africanews.com/2025/11/10/unique-marble-mask-unearthed-at-carthages-tofet-site-in-tunisia/"
+        }
+      ]
+    }
+  ],
+  "ur": [
+    {
+      "rok": "2009–2011",
+      "tytul": "Tomografia czaszek z Grobów Królewskich: nie otrucie, lecz uderzenie",
+      "opis": "Zespół z Penn Museum (Aubrey Baadsgaard, Janet Monge, Samantha Cox, Richard Zettler) wykonał tomografię komputerową dwóch czaszek ze „śmierci królewskiej” w Ur sprzed ok. 4,5 tys. lat. Wyniki nie potwierdzają hipotezy Woolleya, że świta zmarłych sama wypiła truciznę: czaszki noszą ślady uderzeń ostrym narzędziem. Autorzy proponują, że ciała po zabiciu starannie przygotowano i ułożono rzędami (m.in. ogrzewanie i konserwacja rtęcią). To wniosek z dwóch czaszek, więc nie dotyczy automatycznie wszystkich pochówków z cmentarza.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Baadsgaard, Monge, Cox, Zettler, Antiquity 85, 2011 (Cambridge Core)",
+          "url": "https://www.cambridge.org/core/product/E44F1731C922EF9FF43E0B5D2DF67AC1"
+        },
+        {
+          "nazwa": "Reuters / NBC News, 2009",
+          "url": "https://www.nbcnews.com/id/wbna33448804"
+        }
+      ]
+    },
+    {
+      "rok": "2013–2015",
+      "tytul": "Ur Online: archiwum wykopalisk Woolleya w sieci",
+      "opis": "British Museum i Penn Museum, przy wsparciu Leon Levy Foundation (1,28 mln USD), ogłosiły w 2013 roku wspólną cyfryzację zabytków i dokumentacji z wykopalisk Woolleya w Ur z lat 1922–1934. Do sieci trafiły opisy przedmiotów z miejscem znalezienia, mapy, rysunki, fotografie, notatki polowe i tłumaczenia inskrypcji. Dzięki temu rozproszone między Londynem, Filadelfią i Bagdadem zbiory można badać razem, co umożliwiło m.in. ponowne zbadanie dawnych wykopalisk.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Penn Today, 2013",
+          "url": "https://penntoday.upenn.edu/news/british-museum-and-penn-museum-join-forces-create-new-web-resource-famous-1922-34-excavations-u"
+        },
+        {
+          "nazwa": "Hafford, Expedition Magazine (Penn Museum)",
+          "url": "https://www.penn.museum/sites/expedition/?p=24158"
+        }
+      ]
+    },
+    {
+      "rok": "2015–2017",
+      "tytul": "Wznowione wykopaliska w Ur po ponad 80 latach",
+      "opis": "W 2015 roku amerykańsko-brytyjsko-iracki zespół (Elizabeth Stone, Paul Zimansky, Abdulameer Al-Hamdani) wrócił do Ur po raz pierwszy od czasów Woolleya, skupiając się na codziennym życiu miasta, a nie tylko na świątyniach i grobach. Odkryto m.in. kawałek hebanu, prawdopodobnie z cywilizacji Indusu (Meluhha), 28 tabliczek gospodarczych, glinianą maskę Humbaby i co najmniej jedenaście niepublikowanych dotąd grobów pod podłogami domów w dzielnicy staro-babilońskiej. Program z 2017 roku obejmował też szkolenie młodych archeologów z Kufy i Al-Kadisijji. Są to wstępne wyniki; pełne publikacje wciąż się ukazują.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic, 2016",
+          "url": "https://www.nationalgeographic.com/news/2016/03/160311-ur-iraq-trade-royal-cemetery-woolley-archaeology/"
+        },
+        {
+          "nazwa": "Hafford, Expedition Magazine (Penn Museum)",
+          "url": "https://www.penn.museum/sites/expedition/?p=24158"
+        },
+        {
+          "nazwa": "Al-Hamdani i Van de Ven, Iraq 84, 2022",
+          "url": "https://www.cambridge.org/core/journals/iraq/article/archaeology-in-the-shadow-of-the-ziggurat-initial-results-of-a-collaborative-programme-at-ur/DA1BFCB273495CC8F35B3DFBE41A16AB"
+        }
+      ]
+    },
+    {
+      "rok": "2022",
+      "tytul": "Izotopy w zębach bydła z Ur: „królewskie stada” nie wyróżniały się",
+      "opis": "Tina Greenfield (Uniwersytet Saskatchewan) z zespołem z Cambridge, UCL i Penn Museum zbadała izotopy tlenu, węgla i strontu w szkliwie zębów bydła z grobów królewskich i zwykłych w Ur z okresu wczesnodynastycznego (ok. 2900–2350 p.n.e.). Większość zwierząt wypasano w pobliżu miasta, a przynajmniej jeden wół przybył z daleka. Nie wykazano systematycznej różnicy w hodowli zwierząt z grobów królewskich i pozostałych, co kwestionuje wizję ściśle sterowanej przez państwo gospodarki pasterskiej.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Greenfield i in., PLOS ONE 17(6), 2022",
+          "url": "https://journals.plos.org/plosone/doi?id=10.1371/journal.pone.0265170"
+        },
+        {
+          "nazwa": "University of Saskatchewan, 2022",
+          "url": "https://news.usask.ca/articles/research/2022/teeth-from-royal-cattle-herds-of-mesopotamia-shed-light-on-ancient-urban-cultures-usask-research.php"
+        }
+      ]
+    }
+  ],
+  "lagasz": [
+    {
+      "rok": "2022",
+      "tytul": "Lagasz jako miasto na wyspach wśród mokradeł",
+      "opis": "Emily Hammer (University of Pennsylvania) przeanalizowała zdjęcia z dronów i dane magnetometryczne z ok. 300 ha wczesnodynastycznego Lagasz (Tell al-Hiba) i zaproponowała, że miasto składało się z oddzielnych dzielnic oddzielonych murami lub kanałami, być może z czterech wysp na mokradłach połączonych drogami wodnymi. Nie miało jednego centrum geograficznego ani rytualnego. Wnioski opierają się głównie na teledetekcji, a nie wykopaliskach; zespół Pittman w odpowiedzi z 2023 roku kwestionuje chronologię i interpretację paleośrodowiskową tych danych.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Science News (Bower) za History News Network, 2022 (Hammer, J. Anthropological Archaeology)",
+          "url": "https://hnn.us/article/184230"
+        },
+        {
+          "nazwa": "ZME Science, 2022",
+          "url": "https://zmescience.com/science/archaeology/one-of-the-first-cities-in-mesopotamia-resembled-modern-venice-17102022"
+        }
+      ]
+    },
+    {
+      "rok": "2022–2023",
+      "tytul": "Lokal gastronomiczny sprzed ok. 4700 lat i dzielnica garncarska",
+      "opis": "Projekt Penn Museum (Holly Pittman) z Uniwersytetem w Pizie odkopał w Lagasz budynek z ok. 2700 p.n.e. z piecem, otwartym dziedzińcem z ławami, glinianym naczyniem chłodzącym zeer i setkami misek ze śladami jedzenia, interpretowany jako publiczne miejsce posiłków (tzw. tawerna). Wykopaliska poprzedzono dronami i magnetometrią, która wskazała też kolejne piece garncarskie. Nazwa „tawerna” i wniosek o istnieniu klasy średniej to interpretacje autorów, a „5000 lat” w nagłówkach to zaokrąglenie; wzmianka o „przepisie na piwo” dotyczy tabliczki ze świątyni, której związek z tym budynkiem nie jest potwierdzony.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2023",
+          "url": "https://archaeology.org/news/2023/01/25/230127-iraq-lagash-tavern"
+        },
+        {
+          "nazwa": "Phys.org, 2023",
+          "url": "https://phys.org/news/2023-01-unearthing-archaeological-lagash-site-southern.html"
+        },
+        {
+          "nazwa": "Lagash Archaeological Project, sezon jesień 2022 (University of Pennsylvania)",
+          "url": "https://web.sas.upenn.edu/lagash/2022-fall-season"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Powódź w Lagasz za Lugalzagesiego",
+      "opis": "Zespół Reeda Goodmana (Clemson), Sary Pizzimenti (Piza) i Holly Pittman na podstawie teledetekcji, magnetometrii i stratygrafii wykopów wskazuje na wielką powódź w Lagasz pod koniec okresu wczesnodynastycznego (ok. 2400–2350 p.n.e.), która pokryła budynki grubą warstwą mułu. Autorzy przypuszczają, że przyczyną było umyślne przerwanie wałów głównego kanału podczas najazdu Lugalzagesiego z Umma i Uruk. Jest to hipoteza oparta na danych terenowych i tekstach, a nie rozstrzygnięty fakt; komunikat uczelni formułuje ją ostrożnie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Clemson News, 2025 (Constantinescu, Pizzimenti, Goodman i in., Geoarchaeology)",
+          "url": "https://news.clemson.edu/clemson-scientist-finds-ancient-flood-offers-modern-lessons-for-south-carolinas-water-future/"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Tak jak poprzednio opisywane ośrodki, tak i tutaj widać, że zniszczenia nastąpiły w wyniku ogromnego kataklizmu."
+    }
+  ],
+  "larsa": [
+    {
+      "rok": "2019–2020",
+      "tytul": "Dronowy model 3D Larsy i ochrona przed grabieżą",
+      "opis": "W maju 2019 roku firma Iconem w ramach francuskiego projektu pod kierunkiem Régisa Valleta (CNRS, IFPO) wykonała fotogrametrię Larsy z zdjęć naziemnych i z drona, tworząc model 3D stanowiska. Model można porównywać ze starszymi zdjęciami satelitarnymi, by mierzyć skutki grabieży. Jest to narzędzie dokumentacyjne, a nie odkrycie nowych budowli.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "CNRS News, 2020",
+          "url": "https://news.cnrs.fr/node/1552"
+        }
+      ]
+    },
+    {
+      "rok": "2019–2022",
+      "tytul": "Magnetometria odsłania mury i sieć kanałów Larsy",
+      "opis": "Zespół francuski (Régis Vallet, Vincent Darras) badał Larsę magnetometrem gradientowym i na tej podstawie wytyczył przebieg murów miejskich o długości 5376 m oraz setki kanałów wewnątrz i na zewnątrz murów, na ok. 1200 ha; Wielki Kanał miał ok. 22 m szerokości. W centrum odkopano ceglany most nad nim i dużą świątynię (B50, ok. 7250 m2), być może Gipar odbudowany przez Sin-iddinama. Dane geofizyczne pokazują układ, ale daty i funkcje potwierdzają dopiero wykopaliska.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "UMR Temps (CNRS), strona misji Larsa",
+          "url": "https://umrtemps.cnrs.fr/en/terrain/larsa-2/"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Czy ktoś przeprowadził badania, czy w pobliżu tych ośrodków nie ma starych koryt rzecznych zasypanych dziś piaskami pustyni?"
+    },
+    {
+      "rok": "2021–2022",
+      "tytul": "Rezydencja władcy, cegła Sin-iddinama i most nad kanałem",
+      "opis": "Francusko-iracka misja Valleta odkryła w Larsie cegłę z sumeryjskim napisem króla Sin-iddinama (XIX w. p.n.e.; odczyt Dominique Charpin), prawdopodobne przyczółki mostu nad miejskim kanałem oraz rezydencję, w której znaleziono ok. 60 tabliczek klinowych, przekazanych do Muzeum Narodowego w Bagdadzie. W jednym z budynków (B49) odnaleziono prywatne archiwa Etellum, wielkiego wezyra za Gungunuma i Abi-sare. Doniesienia pochodzą z komunikatów prasowych i raportów wstępnych.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "AFP za Phys.org, 2022",
+          "url": "https://phys.org/news/2022-01-european-archaeologists-iraq-years-war.html"
+        },
+        {
+          "nazwa": "AFP za Arab News, 2022",
+          "url": "https://www.arabnews.com/node/2003261/middle-east"
+        },
+        {
+          "nazwa": "UMR Temps (CNRS), strona misji Larsa",
+          "url": "https://umrtemps.cnrs.fr/en/terrain/larsa-2/"
+        }
+      ]
+    }
   ]
 }
