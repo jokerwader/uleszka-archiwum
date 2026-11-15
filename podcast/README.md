@@ -60,8 +60,13 @@ npx tsx scripts/wideo.ts podcast/<folder odcinka> "<nagranie.mp3>"
 W `podcast/<folder>/youtube/` powstają:
 - `wideo.mp4` (1920×1080): plansza tytułowa z okładką na zapowiedź, plansze z tytułami rozdziałów, zdjęcia Leszka z artykułu
   (pokazywane mniej więcej wtedy, gdy lektor czyta fragment obok zdjęcia) i plansza końcowa,
+  a także zdjęcia wysokiej jakości miejsc z [Atlasu Leszka](https://uleszka.net/atlas/) (Wikimedia Commons, wolne licencje):
+  pokazywane, gdy lektor wspomina miejsce, i w długich przerwach, z nazwą miejsca, autorem i licencją w kadrze.
+  Pobierają się raz do `podcast/.zdjecia/` (poza repozytorium). Bez nich: opcja `--bez-commons`,
 - `miniatura.jpg` (1280×720) do YouTube,
-- `opis.txt`: tytuł, opis i rozdziały ze znacznikami czasu (YouTube zrobi z nich rozdziały w odtwarzaczu),
+- `opis.txt`: tytuł, opis i rozdziały ze znacznikami czasu (YouTube zrobi z nich rozdziały w odtwarzaczu), linki do miejsc w atlasie;
+  mieści się w limicie 5000 znaków YouTube,
+- `autorzy-zdjec.txt`: pełna lista autorów i licencji zdjęć z Commons (do wglądu albo do komentarza pod filmem),
 - `napisy.txt`: dokładny tekst czytany przez lektora, bez znaczników tonu. W YouTube Studio: Napisy → Dodaj język
   (polski) → Dodaj napisy → „Automatyczna synchronizacja” → wklej tekst; YouTube sam dopasuje czasy.
   Same napisy, bez wideo: `npx tsx scripts/wideo.ts <folder> <nagranie.mp3> --tylko-napisy`.

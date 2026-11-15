@@ -29,7 +29,7 @@ const norm = (s: string) => s.toLowerCase().replace(/ł/g, "l").normalize("NFD")
 // rdzenie nazw do szukania w opisach zdjęć: „Gizie” ~ „Giza”, „Sacsayhuamán” ~ „Sacsayhuaman”
 const ZBEDNE = new Set(["zamek", "zamku", "w", "we", "i", "na", "pod", "k", "dolina", "jezioro", "wyspa", "wielki", "wielka", "swiatynie", "swiatynia", "piramidy", "piramida", "grobowce", "megalityczne", "klasztor", "nekropolia", "jaskinia", "linie", "z", "kamienie", "most", "mur", "wal", "palac", "struktura", "naturalny", "reaktor", "meteoryt", "katastrofa", "slady", "nad", "rzeka", "odcisk", "droga", "kolegiata", "akwedukt", "cysterna", "bazyliki", "mechanizm", "dolmen", "egipskie", "egipt", "porownanie", "jeziorem", "stare", "miasto"]);
 // każda nazwa daje wzorzec: rdzenie jej znaczących słów – opis zdjęcia musi zawierać wszystkie („Brama Słońca” = bram + slonc)
-const rdzenie = (nazwy: string[]) =>
+export const rdzenie = (nazwy: string[]) =>
   nazwy
     .map((n) => norm(n.replace(/\(.*?\)/g, "")).split(/[^a-z0-9]+/).filter((w) => w.length >= 3 && !ZBEDNE.has(w)).map((w) => w.slice(0, Math.max(4, Math.min(w.length - 1, 7)))))
     .filter((w) => w.length);
