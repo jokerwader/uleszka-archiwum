@@ -1,7 +1,7 @@
 /**
  * Odrzuca zdjęcia atlasu wskazane przy przeglądzie arkuszy (scripts/atlas-arkusze.ts):
  * dopisuje je do atlas/odrzucone.json (nie wrócą przy kolejnym pobieraniu) i usuwa z atlas/dane.json.
- * Na koniec zostawia najwyżej 16 zdjęć na miejsce.
+ * Wszystkie pozostałe zdjęcia zostają (przeszły przegląd).
  *
  * Uruchomienie: npx tsx scripts/atlas-odrzuc.ts <spis.json z arkuszy> <odrzuty.json>
  *   odrzuty.json: { "<id miejsca>": { "numery": [3, 8], "powod": "ludzie pozujący do zdjęcia" } }
@@ -15,7 +15,7 @@ const spis: Record<string, string[]> = JSON.parse(readFileSync(plikSpisu, "utf8"
 const odrzuty: Record<string, { numery: number[]; powod?: string }> = JSON.parse(readFileSync(plikOdrzutow, "utf8"));
 const odrzucone: Record<string, string> = JSON.parse(readFileSync("atlas/odrzucone.json", "utf8"));
 const dane: Record<string, { zdjecia: { plik: string }[] }> = JSON.parse(readFileSync("atlas/dane.json", "utf8"));
-const MAKS = 16;
+
 
 let ile = 0;
 for (const [id, { numery, powod }] of Object.entries(odrzuty)) {
@@ -29,7 +29,7 @@ for (const [id, { numery, powod }] of Object.entries(odrzuty)) {
 let usuniete = 0;
 for (const [nazwa, d] of Object.entries(dane)) {
   const przed = d.zdjecia.length;
-  d.zdjecia = d.zdjecia.filter((z) => !odrzucone[z.plik]).slice(0, MAKS);
+  d.zdjecia = d.zdjecia.filter((z) => !odrzucone[z.plik]);
   usuniete += przed - d.zdjecia.length;
   void slug(nazwa);
 }
@@ -41,4 +41,4 @@ if (existsSync("atlas/openverse.json")) {
 }
 writeFileSync("atlas/odrzucone.json", JSON.stringify(Object.fromEntries(Object.entries(odrzucone).sort()), null, 1) + "\n");
 writeFileSync("atlas/dane.json", JSON.stringify(dane, null, 1) + "\n");
-console.log(`Odrzucono ${ile} zdjęć (razem na liście: ${Object.keys(odrzucone).length}); z atlasu ubyło ${usuniete} (w tym nadmiar ponad ${MAKS}).`);
+console.log(`Odrzucono ${ile} zdjęć (razem na liście: ${Object.keys(odrzucone).length}); z atlasu ubyło ${usuniete}.`);
