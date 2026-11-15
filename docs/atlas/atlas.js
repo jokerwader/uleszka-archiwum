@@ -15,8 +15,18 @@
     biezacy = b;
     const [tekst, adres] = (b.dataset.podpis || "").split("|");
     const lista = widoczne();
-    dlg.querySelector("img").src = b.dataset.duze;
-    dlg.querySelector("img").alt = b.querySelector("img")?.alt || "";
+    // od razu miniatura (jest już w pamięci przeglądarki), a duże zdjęcie (1920 px) podmieniamy, gdy się wczyta
+    const img = dlg.querySelector("img");
+    const mini = b.querySelector("img")?.currentSrc;
+    img.src = mini || b.dataset.duze;
+    img.alt = b.querySelector("img")?.alt || "";
+    dlg.classList.toggle("laduje", !!mini && mini !== b.dataset.duze);
+    if (mini && mini !== b.dataset.duze) {
+      const duze = new Image();
+      duze.onload = () => { if (biezacy === b) { img.src = b.dataset.duze; dlg.classList.remove("laduje"); } };
+      duze.onerror = () => dlg.classList.remove("laduje");
+      duze.src = b.dataset.duze;
+    }
     const p = dlg.querySelector("p");
     p.textContent = "";
     if (lista.length > 1) p.append(Object.assign(document.createElement("span"), { className: "licznik-zdj", textContent: `${lista.indexOf(b) + 1} / ${lista.length}` }));

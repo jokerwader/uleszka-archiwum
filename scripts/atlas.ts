@@ -177,6 +177,7 @@ for (const m of miejsca) {
       ${m.opisWikidata ? `<p class="podtytul">${esc(m.opisWikidata[0].toUpperCase() + m.opisWikidata.slice(1))}</p>` : ""}
       <p class="chipy">${m.rodzaje.map(chip).join(" ")}</p>
     </div>
+    ${glowne ? `<button type="button" class="powieksz hero-powieksz" data-duze="${esc(glowne.duze)}" data-podpis="${esc(`${glowne.opis && glowne.opis.length > 12 ? `${glowne.opis} · ` : ""}fot. ${glowne.autor}, ${glowne.licencja} · Wikimedia Commons|${glowne.strona}`)}">⤢ Powiększ zdjęcie</button>` : ""}
     ${glowne ? `<p class="hero-autor">fot. ${esc(skroc(glowne.autor, 50))}, ${esc(glowne.licencja)} · <a href="${esc(glowne.strona)}" rel="noopener">Commons</a></p>` : ""}
   </header>
 

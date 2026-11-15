@@ -120,3 +120,35 @@ document.addEventListener("click", (e) => {
   const p = e.target.closest?.(".poprawka");
   if (p && !p.closest(".slucha")) p.classList.toggle("pokaz");
 });
+
+// powiększanie zdjęć w artykule: kliknięcie otwiera zdjęcie w dużym oknie z opisem; strzałki i ← → przechodzą dalej
+// (zdjęcia będące linkami – np. miniatury prowadzące do stron z fotografiami – działają jak dotąd)
+(() => {
+  const zdjecia = [...document.querySelectorAll(".tresc img")].filter((i) => !i.closest("a") && i.alt); // bez ozdobników (nie mają opisu)
+  if (!zdjecia.length || !window.HTMLDialogElement) return;
+  const dlg = document.createElement("dialog");
+  dlg.className = "podglad-zdjecia";
+  dlg.innerHTML = '<button type="button" class="zamknij" aria-label="Zamknij">✕</button><button type="button" class="nawigacja wstecz" aria-label="Poprzednie zdjęcie">‹</button><button type="button" class="nawigacja dalej" aria-label="Następne zdjęcie">›</button><img alt=""><p></p>';
+  document.body.append(dlg);
+  let i = 0;
+  const pokaz = (n) => {
+    i = (n + zdjecia.length) % zdjecia.length;
+    const z = zdjecia[i];
+    dlg.querySelector("img").src = z.currentSrc || z.src;
+    dlg.querySelector("img").alt = z.alt;
+    dlg.querySelector("p").textContent = `${zdjecia.length > 1 ? `${i + 1} / ${zdjecia.length} · ` : ""}${z.alt ? `Opis AI: ${z.alt}` : ""}`;
+    dlg.querySelectorAll(".nawigacja").forEach((b) => (b.hidden = zdjecia.length < 2));
+  };
+  zdjecia.forEach((z, n) => {
+    z.classList.add("da-sie-powiekszyc");
+    z.tabIndex = 0;
+    const otworz = () => { pokaz(n); dlg.showModal(); };
+    z.addEventListener("click", otworz);
+    z.addEventListener("keydown", (e) => { if (e.key === "Enter") otworz(); });
+  });
+  dlg.querySelector(".zamknij").addEventListener("click", () => dlg.close());
+  dlg.querySelector(".wstecz").addEventListener("click", () => pokaz(i - 1));
+  dlg.querySelector(".dalej").addEventListener("click", () => pokaz(i + 1));
+  dlg.addEventListener("keydown", (e) => { if (e.key === "ArrowLeft") pokaz(i - 1); if (e.key === "ArrowRight") pokaz(i + 1); });
+  dlg.addEventListener("click", (e) => { if (e.target === dlg) dlg.close(); });
+})();
