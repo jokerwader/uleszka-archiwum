@@ -1186,5 +1186,755 @@
         }
       ]
     }
+  ],
+  "biskupin": [
+    {
+      "rok": "2010",
+      "tytul": "Siostrzane osady typu biskupińskiego: lotnicze zdjęcia, magnetometria i dendrochronologia",
+      "opis": "Anthony Harding (Exeter) i Włodzimierz Rączkowski (Poznań) opublikowali w „Antiquity” wyniki badań osad z wczesnej epoki żelaza w okolicach Poznania, prowadzonych zdjęciami lotniczymi, geofizyką (magnetometr) i datowaniem drewna. Powstały datowane plany osad, które w niektórych cechach przypominają Biskupin, a w innych się od niego różnią, wszystkie w tym samym okresie. Autorzy nazywają je niemal „repertuarem wczesnego urbanizmu”, więc Biskupin nie był jedyną zaplanowaną osadą tej epoki.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Harding i Rączkowski, Antiquity 84 (2010), streszczenie",
+          "url": "https://cambridge.org/core/journals/antiquity/article/abs/living-on-the-lake-in-the-iron-age-new-results-from-aerial-photographs-geophysical-survey-and-dendrochronology-on-sites-of-biskupin-type/0573111EBB310886BBDCE36CA0BBDE5E"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "Po terenach Polski wałęsają się hordy dzikich plemion"
+    },
+    {
+      "rok": "2018–2024",
+      "tytul": "LiDAR odkrywa kolejne grody z czasów Biskupina",
+      "opis": "Dane z lotniczego skanowania laserowego (ISOK) pozwoliły wykryć w Polsce kolejne warownie z epoki Biskupina. W 2018 roku muzealnicy z Białegostoku sprawdzili w terenie Jatwieź Dużą na Podlasiu: ślady osady z wałem ze wzmocnieniem kamiennym, wstępnie datowane na ok. 2500 lat, dokładne datowanie było jeszcze w toku. Koło Rogaczewa Wielkiego pod Kościanem w Wielkopolsce odkryto gród o wale szerokim u podstawy do ok. 14 m; datowanie radiowęglowe węgla drzewnego wskazuje na VIII wiek p.n.e., czyli czas Biskupina. Kto go zbudował i do czego służył, nie jest ustalone, wnętrza nie badano.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic Polska, 2024 (gród koło Kościana)",
+          "url": "https://www.national-geographic.pl/artykul/w-wielkopolsce-odkryto-zagadkowa-fortece-sprzed-2700-lat-chronily-ja-potezne-waly-240108114953"
+        },
+        {
+          "nazwa": "Nauka w Polsce / PAP, 2018 (Jatwieź Duża)",
+          "url": "https://scienceinpoland.pl/en/news/news,30783,discovery-traces-defensive-settlement-similar-period-biskupin.html"
+        }
+      ]
+    },
+    {
+      "rok": "2024",
+      "tytul": "Datowanie Biskupina 750–708 p.n.e. i spór o przyczyny porzucenia osady",
+      "opis": "W referacie na konferencji w Biskupinie (materiały z 2024 r.) archeolog Jacek Gackowski przypomniał, że dwie serie datowań dendrochronologicznych drewna z Biskupina i wcześniejsze datowania radiowęglowe mieszczą się w przedziale 750–708 p.n.e. Osada istniała więc już w VIII wieku p.n.e. Otwarte pozostaje, czy porzucenie obwarowanych osad wywołała zmiana klimatu (wilgotniejsza epoka subatlantycka, wzrost poziomu jeziora), czy szersze przemiany kulturowe w Europie. Popularne opracowania wskazują na podnoszącą się wodę jako główną przyczynę, ale ta hipoteza, podobnie jak alternatywna interpretacja wałów jako tamy (A. Mierzwiński), jest nadal dyskutowana.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Muzeum Archeologiczne w Biskupinie, abstrakty konferencji, 2024 (J. Gackowski)",
+          "url": "https://biskupin.pl/wp-content/uploads/2024/10/abstrakty.pdf"
+        },
+        {
+          "nazwa": "National Geographic Polska, o przyczynach upadku osady",
+          "url": "https://www.national-geographic.pl/artykul/biskupin-osada-przypominajaca-blokowisko-jej-mieszkancy-mieli-cieple-chaty-i-starannie-wytyczone-ulice"
+        }
+      ],
+      "artykul": "12rzym/rzym",
+      "cytat_leszka": "założą w VI wieku pne. obronną osadę bagienną w Biskupinie"
+    }
+  ],
+  "piramidy-kujawskie-wietrzychowice-sarnowo": [
+    {
+      "rok": "2009–2026",
+      "tytul": "Wietrzychowice: datowanie C-14 i pierwsze wyniki DNA",
+      "opis": "Muzeum Archeologiczno-Etnograficzne w Łodzi i Fundacja im. Konrada Jażdżewskiego prowadzą od 2009 roku badania w Parku Kulturowym Wietrzychowice. Datowanie radiowęglowe szczątków ludzkich potwierdziło, że grobowce powstały w połowie IV tysiąclecia p.n.e., czyli ok. 5500 lat temu. Wstępne badania DNA pokazały, że w podwójnym pochówku w grobowcu nr 5 spoczęli mężczyzna i kobieta, a nie dwaj mężczyźni, jak sądzono. Skaning laserowy lasu wskazał też prawdopodobny, niepotwierdzony jeszcze kolejny grobowiec 250 m na północ od znanych. Informacje pochodzą z wywiadu z kierownikiem badań, pełne wyniki DNA nie zostały jeszcze opublikowane.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Urząd Marszałkowski Woj. Kujawsko-Pomorskiego, wywiad z dr. Piotrem Papiernikiem, 2026",
+          "url": "https://kujawsko-pomorskie.pl/en/news/interview-of-a-week/the-mysteries-of-the-tombs-at-wietrzychowice/"
+        }
+      ],
+      "artykul": "upadek/archeoastro1",
+      "cytat_leszka": "Wznoszono je w okresie od piątego do czwartego tysiąclecia przed naszą erą."
+    },
+    {
+      "rok": "2018–2023",
+      "tytul": "Sobota pod Poznaniem: pierwsze długie kurhany kujawskie w Wielkopolsce, odkryte LiDAR-em",
+      "opis": "W 2018 roku analiza danych lotniczego skanowania laserowego ujawniła w lesie w Sobocie koło Rokietnicy pięć długich nasypów. Zespół z UAM i Muzeum Archeologicznego w Poznaniu wykonał w 2022 roku wykopy sondażowe: nasypy mają 132–145 m długości, leżą na osi NWW–SEE, a datowania C-14 spalonych kości zwierzęcych wskazują na lata 3635–3520 p.n.e. Do 2018 roku w środkowej Wielkopolsce nie znano takich grobowców; później zidentyfikowano kolejne (Sierpówek, Wyskoć). Orientację osi podano jako fakt terenowy, badacze nie testowali jej astronomicznej interpretacji.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Żurkiewicz i in., Sprawozdania Archeologiczne 74/2 (2022)",
+          "url": "https://journals.iaepan.pl/sa/article/download/3141/3185/17750"
+        },
+        {
+          "nazwa": "National Geographic Polska, 2023",
+          "url": "https://www.national-geographic.pl/artykul/grobowce-megalityczne-w-wielkopolsce-mialo-ich-tam-nie-byc-naliczono-ich-juz-kilkanascie-230821104000"
+        }
+      ],
+      "artykul": "upadek/archeoastro1",
+      "cytat_leszka": "Są zorientowane według Słońca wschodzącego w danym punkcie na horyzoncie podczas przesilenia zimowego czy równonocy"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Wyskoć: dwa kolejne grobowce kujawskie odkryte w lesie koło Kościana",
+      "opis": "Pracownik parków krajobrazowych Wielkopolski wytypował na danych LiDAR i zdjęciach satelitarnych pięć możliwych nasypów w okolicy Wyskoci. Archeolodzy z UAM (dr Danuta Żurkiewicz, prof. Iwona Sobkowiak-Tabaka) wykopali je w 2025 roku i potwierdzili co najmniej dwa grobowce typu kujawskiego z IV tysiąclecia p.n.e., ok. 5500 lat temu. Odkrycie pokazuje, że tradycja monumentalnych grobowców kultury pucharów lejkowatych sięgała daleko poza Kujawy. Planowane są dalsze datowania C-14 i badania DNA.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Uniwersytet im. Adama Mickiewicza, komunikat, 2025",
+          "url": "https://amu.edu.pl/en/news-and-events/news/megalithic-tombs-from-5,500-years-ago-discovered-by-uam-scientists"
+        },
+        {
+          "nazwa": "Archeologia.com.pl, 2025",
+          "url": "https://archeologia.com.pl/dwa-megalityczne-grobowce-sprzed-5500-lat-odkryte-w-wyskocu/"
+        }
+      ],
+      "artykul": "upadek/archeoastro1"
+    },
+    {
+      "rok": "2026",
+      "tytul": "Budowniczowie grobowców z Soboty: selektywne karczowanie, nie niszczenie lasu",
+      "opis": "Zespół z UAM (m.in. D. Żurkiewicz) opublikował w „Journal of Archaeological Science” analizę pyłków i węgla drzewnego z torfowiska po dawnym jeziorze obok cmentarzyska w Sobocie. Rolnicy i pasterze działali w okolicy ponad sto lat przed wzniesieniem grobowców (ok. 3660 p.n.e.), rzadko używali ognia, wycinali krzewy i młode drzewa i rotacyjnie użytkowali polany. Wyniki kwestionują pogląd, że budowa monumentalnych grobowców wiązała się z wielkim niszczeniem lasów. Wniosek dotyczy jednego stanowiska.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Nauka w Polsce, 2026",
+          "url": "https://scienceinpoland.pl/en/news/news%2C113659%2Cstudy-challenges-view-neolithic-monument-builders-devastated-europes-forests.html"
+        },
+        {
+          "nazwa": "National Geographic Polska, 2026",
+          "url": "https://www.national-geographic.pl/historia/czy-tworcy-polskich-megalitow-zyli-w-zgodzie-z-natura-nowe-badania-zmieniaja-wizje-archeologow/"
+        }
+      ]
+    }
+  ],
+  "jaskinia-maszycka": [
+    {
+      "rok": "2012–2017",
+      "tytul": "Nowe datowania AMS: Maszycka ma ok. 18 tys. lat, nie 6,5 tys.",
+      "opis": "Cztery nowe datowania AMS (kości ludzkie i narzędzia kościane) wykonane przez zespół Kozłowskiego, Połtowicz-Bobak, Bobaka i Terbergera dały wiek ok. 15 000 lat BP, a po kalibracji ok. 18 tys. lat temu. Maszycka okazała się jednym z najstarszych znanych stanowisk magdaleńskich w Europie Środkowej. Model bayesowski z 2017 roku (Wiśniewski i in.) daje przedział ok. 18 900–17 500 lat cal BP, który autorzy chcą zawęzić. Abstrakt z 2012 roku podaje datę kalibrowaną niejednoznacznie, dlatego wiek w latach kalendarzowych opiera się na modelu z 2017 roku.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Kozłowski i in., Quaternary International 272–273 (2012)",
+          "url": "https://repozytorium.ur.edu.pl/items/eecee881-ab90-4fbd-a7ed-c10d573f9145"
+        },
+        {
+          "nazwa": "Wiśniewski i in., Geochronometria 44 (2017)",
+          "url": "https://www.geochronometria.com/The-Epigravettian-and-the-Magdalenian-in-Poland-New-chronological-data-and-an-old,184507,0,2.html"
+        }
+      ],
+      "artykul": "upadek/archeoastro1",
+      "cytat_leszka": "Sprzed sześciu i pół tysiąca lat pochodzą kości z nacięciami, które odnoszą się prawdopodobnie do faz Księżyca."
+    },
+    {
+      "rok": "2022",
+      "tytul": "Kościane i rogowe wyroby z Maszyckiej: ślad migracji z zachodniej Europy",
+      "opis": "Sebastian Pfeifer (Uniwersytet w Jenie) przeanalizował 89 wyrobów z poroża, kła mamuta i kości z Maszyckiej. Typ grotów i ozdób wiąże zespół z wczesnym środkowym magdalenienem Francji (facja à navettes, ok. 19–17,5 tys. lat cal BP). Autor sądzi, że to ślad bezpośredniej migracji łowców-zbieraczy z zachodu zaraz po szczycie zlodowacenia. Bogate zdobienia (wzory z kresek i zygzaków) interpretuje się jako symboliczne, a nie jako potwierdzony kalendarz księżycowy; A. Marshack widział w motywie na żebrze odniesienie do wody.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Pfeifer, Journal of Paleolithic Archaeology 5 (2022)",
+          "url": "https://doi.org/10.1007/s41982-022-00125-9"
+        }
+      ],
+      "artykul": "upadek/archeoastro1",
+      "cytat_leszka": "i był to pewnie rodzaj lunarnego kalendarza, jakim posługiwały się ludy zbieracko-łowieckie"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Ślady kanibalizmu na kościach z Maszyckiej",
+      "opis": "Zespół Francesca Marginedasa (IPHES) z udziałem badaczy z Rzeszowa i Getyngi (T. Terberger) przebadał w „Scientific Reports” 63 kości co najmniej 10 osób sprzed ok. 18 tys. lat, w tym materiał z dawnych wykopalisk. Na 36 fragmentach są ślady rozbierania ciał niedługo po śmierci: nacięcia na czaszkach i rozbite kości długie, prawdopodobnie dla szpiku. Motyw jest niejasny: autorzy uważają głód za mało prawdopodobny, rozważają rytuał lub przemoc, ale to hipotezy. Stanowisko kopano ponad 100 lat temu z niepełną dokumentacją.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Uniwersytet w Getyndze, komunikat, 2025",
+          "url": "https://www.uni-goettingen.de/en/73613.html?id=7718"
+        },
+        {
+          "nazwa": "Nauka w Polsce / PAP, 2025",
+          "url": "https://scienceinpoland.pl/en/news/news,106576,research-confirms-cannibalistic-practices-prehistoric-inhabitants-maszycka-cave"
+        }
+      ]
+    }
+  ],
+  "ostrow-lednicki": [
+    {
+      "rok": "2016",
+      "tytul": "Dłubanka z X wieku wydobyta z dna jeziora Lednica",
+      "opis": "Nurkowie z Uniwersytetu Mikołaja Kopernika w Toruniu pod kierunkiem Krzysztofa Radki wydobyli z głębokości ok. 9,5 m dłubankę długości ok. 10 m, wykonaną z pnia lipy i leżącą obok pozostałości mostu. Źródło datuje ją ogólnie na X wiek, bez podania wyniku badań laboratoryjnych. Po konserwacji łódź ma trafić na wystawę w Muzeum Historii Polski w Warszawie.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Nauka w Polsce (PAP), 2016",
+          "url": "https://scienceinpoland.pl/en/node/4684"
+        }
+      ]
+    },
+    {
+      "rok": "2017",
+      "tytul": "Trzeci most na Lednicy: przeprawa z końca XIII wieku",
+      "opis": "Podwodni archeolodzy z UMK w Toruniu (kierownik: Andrzej Pydyn) użyli sonaru wielowiązkowego, profilera osadów dennych i magnetometru, sprawdzili ponad 250 anomalii i odnaleźli przeprawę z wyspy Ledniczka na zachodni brzeg jeziora. Dendrochronologia (Tomasz Ważny) wykazała, że drewno ścięto kilka lat po 1293 r. Dwa starsze mosty, łączące Ostrów Lednicki z lądem, pochodzą z lat 963–964, więc przeprawy budowano tu przez kilka stuleci. Późniejsze opracowanie Pydyna i Popka (2020) sugeruje, że ta przeprawa mogła działać w dwóch okresach: w X wieku i na przełomie XIII i XIV wieku.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl (PAP), 2017",
+          "url": "https://dzieje.pl/dziedzictwo-kulturowe/nad-jeziorem-lednickim-odkryto-trzecia-przeprawe-mostowa-z-konca-xiii-w"
+        },
+        {
+          "nazwa": "Pydyn, Popek, Archeologické rozhledy 72, 2020",
+          "url": "https://archeologickerozhledy.cz/index.php/ar/article/view/44"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "Datowanie radiowęglowe palatium: początek budowy między 936 a 985 rokiem",
+      "opis": "Poznańskie Laboratorium Radiowęglowe (Tomasz Goslar) oznaczyło metodą AMS wiek węgli z zaprawy, kości i ziaren z palatium i kaplicy na Ostrowie Lednickim, a wyniki przepuszczono przez model bayesowski. Budowa kompleksu zaczęła się w przedziale 936–985, z prawdopodobieństwem prawie 70 proc. Wcześniejsza dendrochronologia drewna dała lata ścięcia 963–964, co wiąże obiekt z czasami Mieszka I. Przedział jest szeroki, a przypisanie konkretnemu władcy opiera się głównie na danych z drewna.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Nauka w Polsce (PAP), 2021",
+          "url": "https://scienceinpoland.pl/en/news/news%2C86278%2Cpalace-construction-ostrow-lednicki-started-between-936-and-985-new-research"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "Czym spajano kamienie? Tego nie zbadano."
+    },
+    {
+      "rok": "2022",
+      "tytul": "Baptysteria i mosty z 965 r.: argumenty za Lednicą jako miejscem chrztu",
+      "opis": "Dyrektor Muzeum Pierwszych Piastów Andrzej Wyrwa przedstawił w wywiadzie dla PAP wnioski z badań: w kaplicy palatium zachowały się dwa gipsowe baseny z X wieku, które można wiązać z chrztem, a analizy fizykochemiczne mają wskazywać, że mosty łączące wyspę z lądem ukończono w 965 r. Według Wyrwy poznańska „misa chrzcielna” nie jest misą chrzcielną. To stanowisko jednego badacza, który sam zaznacza, że nauka rzadko daje pewność. Szczegółów analiz mostów nie podano w dostępnych relacjach prasowych.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl (PAP), 2022",
+          "url": "https://dzieje.pl/node/137818"
+        },
+        {
+          "nazwa": "Nauka w Polsce (PAP), 2022",
+          "url": "https://scienceinpoland.pl/en/node/91998"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Wszakże już kamienne budowle istniały za Mieszka I na Ostrowie Lednickim"
+    },
+    {
+      "rok": "2024–2025",
+      "tytul": "Belka z rzeźbioną twarzą z jeziora, ścięta około 967 roku",
+      "opis": "Podwodni archeolodzy z UMK wydobyli z dna jeziora dębową belkę, na której dopiero po oczyszczeniu zauważono rzeźbioną ludzką twarz. Dendrochronologia (laboratorium Marka Krąpca) datuje ścięcie drewna na ok. 967 r. (+6/-7 lat). Belka była zapewne elementem wałów grodu, a twarz mogła mieć funkcję ochronną. To rzadki przykład słowiańskiej rzeźby w drewnie z czasów Mieszka I.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2025",
+          "url": "https://archaeology.org/news/2025/07/22/beam-with-carved-human-face-retrieved-from-polish-lake/"
+        },
+        {
+          "nazwa": "Centrum Archeologii Podwodnej UMK, 2025",
+          "url": "https://archeologiapodwodna.umk.pl/en/the-mysterious-face-from-lake-lednica-a-trace-of-slavic-spirituality-or-a-magical-guardian-of-the-stronghold"
+        },
+        {
+          "nazwa": "Notes from Poland, 2025",
+          "url": "https://notesfrompoland.com/2025/07/12/thousand-year-old-wooden-face-sculpture-found-at-bottom-of-polish-lake/"
+        }
+      ]
+    }
+  ],
+  "strzelno": [
+    {
+      "rok": "2013",
+      "tytul": "Strzeleńska płyta z Matką Boską i prorokami: nowe odczytanie rzeźby",
+      "opis": "Joanna Szczęsna z KUL zanalizowała w „Rocznikach Humanistycznych” piaskowcową płytę (105 x 62 cm) z Matką Boską z Dzieciątkiem otoczoną prorokami, dziś w muzeum przy kościele Trójcy Świętej. Płyta łączy tradycje zachodnie (porównania do rzeźby lombardzkiej i do Moissac z ok. 1130 r.) z wzorcem bizantyjskim typu Hodegetria. Autorka wiąże ją z fundatorami Piotrem Włostowicem i Marią oraz córką Beatrycze. Pierwotna funkcja płyty i jej dokładne datowanie pozostają nieustalone.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Roczniki Humanistyczne 61(4), 2013",
+          "url": "https://ojs.tnkul.pl/index.php/rh/article/view/5993"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "Barwy romańskiego Strzelna: polichromie z XIII wieku",
+      "opis": "Krystyna Sułkowska-Tuszyńska z Instytutu Archeologii UMK opisała w „Slavia Antiqua” resztki tynków i farb na ścianach, kolumnach i filarach bazyliki norbertanek, odkryte podczas wykopalisk i prac konserwatorskich. W apsydzie prezbiterium odsłonięto pierwsze figuralne polichromie, a w XIII w. przeważał kolor czerwony. Praca podważa obraz romańskiej architektury jako surowej i pozbawionej koloru.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Slavia Antiqua 62, 2021",
+          "url": "https://pressto.amu.edu.pl/index.php/sla/article/view/29868"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "rzeźbione kamienne kolumny, ukryte pod warstwą daleko późniejszego pacykarza"
+    }
+  ],
+  "kolegiata-w-tumie": [
+    {
+      "rok": "2009–2011",
+      "tytul": "Wykopaliska przy kolegiacie: brama grodu i „pierścień księżnej Salomei”",
+      "opis": "Muzeum Archeologiczne i Etnograficzne w Łodzi prowadziło wykopaliska w sąsiedztwie kolegiaty, odkrywając m.in. bramę, most, fosy, wieżę i studnię dawnego grodu oraz srebrny pierścień z łacińskim napisem i motywem feniksa, nazywany pierścieniem Salomei. Brak dowodów, że należał do żony Krzywoustego. Na podstawie wykopalisk odtworzono część grodu, otwartą w kwietniu 2022 r.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl (PAP)",
+          "url": "https://dzieje.pl/node/137943"
+        },
+        {
+          "nazwa": "Radio ZW, 2022",
+          "url": "https://www.radiozw.com.pl/grodzisko-w-tumie-powiat-leczycki-otwarte-zdjecia"
+        }
+      ]
+    },
+    {
+      "rok": "2017",
+      "tytul": "Pod kolegiatą ślady starszego opactwa",
+      "opis": "Jerzy Maik (Instytut Archeologii i Etnologii PAN) opisał w „Przeglądzie Archeologicznym” resztki fundamentów starszej budowli pod kolegiatą. Utożsamia je z opactwem NMP znanym z bulli gnieźnieńskiej z 1136 r., prawdopodobnie benedyktyńskim, które miało powstać około roku 1000 i zostać rozebrane przed rozpoczęciem kolegiaty, ok. 1141 r. To interpretacja autora, a datowanie opactwa nie wynika z oznaczeń laboratoryjnych.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Przegląd Archeologiczny 65, 2017",
+          "url": "https://journals.iaepan.pl/pa/article/view/1636"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "Nikt nie zastanawia się na jakich fundamentach stoją okazałe kościoły i zamki."
+    },
+    {
+      "rok": "2025",
+      "tytul": "Pięć grobów z przełomu XI i XII wieku przy kolegiacie",
+      "opis": "Archeolodzy z łódzkiego muzeum (Waldemar Stasiak) odkryli podczas prac przed budową szlaku „Pierścień Księżnej Salomei” pięć pochówków, datowanych na przełom XI i XII w. na podstawie monety z drugiej połowy XI w. Kości zachowały się dobrze, więc możliwa jest analiza antropologiczna, a datowanie radiowęglowe zależy od funduszy. Brak wyposażenia grobów tłumaczy się postępem chrystianizacji.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl (PAP), wrzesień 2025",
+          "url": "https://dzieje.pl/node/165516"
+        }
+      ]
+    }
+  ],
+  "sleza": [
+    {
+      "rok": "2015–2020",
+      "tytul": "Spór o wiek rzeźb ze Ślęży: średniowieczna osada kamieniarzy czy kult sprzed epoki żelaza",
+      "opis": "Archeolog Patryk Chudzik argumentuje, że niedźwiedź i „panna z rybą” mogą być dziełem średniowiecznych kamieniarzy z końca XII lub początku XIII wieku, bo znaleziono je w pobliżu osady kamieniarzy na północnym stoku. Inni badacze, np. Aleksander Limisiewicz, wiążą rzeźby z okresem lateńskim (ok. 400 p.n.e. – początek n.e.), a Wacław Korta z przełomem epoki brązu i żelaza. Rzeźby leżą poza pierwotnym kontekstem archeologicznym, więc żadna z metod nie pozwala dziś ich datować pewnie; spór pozostaje otwarty.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Przekrój, 2020: „Góra tajemnic”",
+          "url": "https://przekroj.org/sztuka-opowiesci/gora-tajemnic/"
+        },
+        {
+          "nazwa": "Archeo-opowieści, 2023: „O co chodzi z tą Ślężą?”",
+          "url": "https://archeo-opowiesci.pl/o-co-chodzi-z-ta-sleza/"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "Znane sa też zapewne kamienne rzeźby z okolic Ślęży, ponoć świętej góry śląskich pogan, na której szczycie odkryto pozostałości kamiennej budowli."
+    },
+    {
+      "rok": "2021",
+      "tytul": "Dom z późnej epoki brązu na Raduni, w sąsiedztwie Ślęży",
+      "opis": "Patryk Chudzik i Radosław Kuźbik opublikowali wyniki wykopalisk na górze Radunia, na południowym skraju masywu Ślęży. Odsłonili częściowo zagłębiony w ziemi budynek z drewnianą nadbudową, stojący przy naturalnym zbiorniku wody Kacza Kałuża. Zabytki datują go na późną epokę brązu, a charakter znalezisk wskazuje raczej na użytkowe niż kultowe przeznaczenie. Autorzy widzą w masywie także miejsce schronienia i eksploatacji zasobów, a nie wyłącznie „świętą górę”.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Chudzik, Kuźbik, Archäologisches Korrespondenzblatt 51 (3), 2021 – rekord w repozytorium UW",
+          "url": "https://repozytorium.uw.edu.pl/entities/publication/d2669782-f4e3-47bd-8e41-5a6d54fe0ebc"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "Na Ślęży rozgrzebuje się coś archeologicznie, ale jak dotąd nie opublikowano żadnych badań."
+    },
+    {
+      "rok": "2023",
+      "tytul": "Georadar w lesie na Ślęży: sztuczne wzgórze i zabrukowana droga",
+      "opis": "Zespół z Uniwersytetu Przyrodniczego w Poznaniu (Anna K. Gdula i współautorzy) zbadał georadarem dwa obiekty w Lasach Państwowych na Ślęży: wzgórek i drogę leśną. Zróżnicowane właściwości dielektryczne gruntu wskazują, że wzgórek jest tworem antropogenicznym, a na drodze miejscami widać bruk z kamienia, w większości przykryty warstwą gleby. Praca służy głównie inwentaryzacji stanowisk w lasach; nie podaje wieku obiektów, więc nie rozstrzyga ich datowania.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Gdula i in., Sylwan 167, 2023: GPR research in forest areas to identify archaeological sites (Mount Ślęża)",
+          "url": "https://sylwan-journal.pl/apex/f?p=sylwan:10:::NO::P10_NAZWA_PLIKU,P10_ARTYKUL,P10_ZESZYT_NEW:14705130540846472/2023_05_302au.pdf,2022081,2023_5"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "Na Ślęży rozgrzebuje się coś archeologicznie, ale jak dotąd nie opublikowano żadnych badań."
+    }
+  ],
+  "wawel": [
+    {
+      "rok": "2005–2011",
+      "tytul": "Datowanie radiowęglowe zapraw: rotunda Feliksa i Adaukta z lat ok. 970",
+      "opis": "Zespół Instytutu Archeologii i Etnologii PAN (m.in. Andrzej Koss, Zygmunt Świechowski) pobrał w latach 2005 i 2009 próbki węgla z zapraw najstarszych murów Wawelu i zbadał je w Poznańskim Laboratorium Radiowęglowym. Dla rotundy-tetrakonchosa św. Feliksa i Adaukta oraz poprzedniczki katedry romańskiej wyszły daty z trzeciej ćwierci X wieku, czyli sprzed objęcia Krakowa przez pierwszych Piastów. Metoda daje dokładność rzędu 20–30 lat, a część dat dotyczy późniejszych przebudowań; wynik jest argumentem na rzecz „czeskiego” początku wawelskiej architektury.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Z. Świechowski, Stan wiedzy o chronologii wczesnej architektury monumentalnej w Polsce po pięcioletnich badaniach metodą 14C (PAN, ok. 2011)",
+          "url": "https://journals.pan.pl/Content/87271"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Stolica Kazimierzowa - Kraków, także stoi na potężnych kamiennych fundamentach i zapewne budowana była na długo przed tym nim pierwszy Piast zasiadł na wawelskim stolcu."
+    },
+    {
+      "rok": "2022",
+      "tytul": "Kamera w grobie Łokietka: król miał ok. 152–155 cm wzrostu",
+      "opis": "Podczas remontu krypty w katedrze wawelskiej zespół archeologa Tomasza Wagnera obejrzał endoskopem komorę grobową Władysława Łokietka, nie otwierając jej. Komora była dobrze zachowana: widać szczątki w pierwotnym ułożeniu, granatowe szaty, buty, berło i miecz, ale bez korony. Wzrost króla oszacowano na 152–155 cm, a nie 120 cm, jak powtarzano w legendzie. To oszacowanie z obrazu z kamery, nie pomiar, a tożsamość pochowanego opiera się na miejscu pochówku i insygniach.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Notes from Poland, 4.10.2022",
+          "url": "https://notesfrompoland.com/2022/10/04/polands-elbow-high-king-was-taller-than-believed-finds-camera-probe-of-tomb/"
+        },
+        {
+          "nazwa": "The History Blog, 4.10.2022",
+          "url": "https://www.thehistoryblog.com/?p=65291"
+        }
+      ]
+    },
+    {
+      "rok": "2023–2025",
+      "tytul": "Wczesnośredniowieczny wał pod Wawelem, brama i złoty pierścień z Wieży Duńskiej",
+      "opis": "Wykopaliska Zamku Królewskiego na Wawelu przed otwarciem trasy „Międzymurze” odsłoniły 12-metrowy odcinek wczesnośredniowiecznego wału datowanego na XI wiek, palenisko i przedmioty codziennego użytku. W jego wnętrzu znaleziono relikty jednej z bram prowadzących na wzgórze. W podziemiach Wieży Duńskiej, na szczycie kamiennej konstrukcji uznanej wstępnie za część wału, odkryto złoty pierścień z X–XII wieku. Metoda datowania wału nie jest w dostępnych relacjach opisana, a przedział dat pierścienia jest szeroki.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl (PAP), 25.05.2025",
+          "url": "https://dzieje.pl/node/163991"
+        },
+        {
+          "nazwa": "Dzieje.pl (PAP), 22.05.2025: Międzymurze",
+          "url": "https://dzieje.pl/node/163956"
+        },
+        {
+          "nazwa": "National Geographic Polska, 7.02.2024: złoty pierścień",
+          "url": "https://www.national-geographic.pl/historia/na-zamku-krolewskim-na-wawelu-odkryto-zloty-pierscien-niezwykle-rzadkie-znalezisko-240207100441/"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Wszakże już kamienne budowle istniały za Mieszka I na Ostrowie Lednickim, a przed nim budowaliśmy ponoć tylko grody ziemno-drewniane z typowo \"polskimi\" hakami wałowymi, jak ten w Gnieźnie."
+    },
+    {
+      "rok": "2025",
+      "tytul": "Poszukiwanie wczesnośredniowiecznego kościoła św. Jerzego na dziedzińcu zewnętrznym",
+      "opis": "Zamek Królewski na Wawelu rozpoczął w maju 2025 wykopaliska przy nieistniejącym gotyckim kościele św. Jerzego, aby sprawdzić hipotezę o starszej, wczesnośredniowiecznej świątyni pod nim. Miejsca wybrano m.in. po badaniach georadarowych, a wcześniejsze prace z 1965 roku dały fragmenty sugerujące starszą budowlę. Na razie odkryto trzy dziecięce pochówki (prawdopodobnie z XVII wieku) i fragment broni; istnienia starszego kościoła nie potwierdzono.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "TVN24, 27.05.2025",
+          "url": "https://tvn24.pl/krakow/wawel-archeolodzy-szukali-swiatyni-znalezli-xvii-wieczne-dzieciece-groby-st8481883"
+        },
+        {
+          "nazwa": "Research in Poland, 29.05.2025",
+          "url": "https://researchinpoland.org/?p=234842"
+        }
+      ],
+      "artykul": "13celtowie/celt"
+    }
+  ],
+  "truso": [
+    {
+      "rok": "2007–2008",
+      "tytul": "Ratownicze wykopaliska w Janowie Pomorskim: emporium z VIII–XI wieku",
+      "opis": "Przy budowie drogi S7 Marek Jagodziński z Muzeum Archeologiczno-Historycznego w Elblągu przebadał ok. 4 ha stanowiska 1 w Janowie Pomorskim, czyli osady utożsamianej z Truso. Użyto analiz geologicznych, petrograficznych, numizmatycznych, radiowęglowych i archeozoologicznych. Znaleziono ceramikę, ozdoby ze złota i srebra, monety, broń oraz jedną z największych kolekcji szczątków śledzi. Wyniki opublikowano w serii „Studia nad Truso” w 2012 roku.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl (PAP), 26.06.2012",
+          "url": "https://dzieje.pl/node/23197"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Odkopana dziś drewniana osada rybacka nad jeziorem Drużno, okrzyknięta na wyrost Truso, nijak się ma do miana portu, do którego zawinął Wulfstan."
+    },
+    {
+      "rok": "2020",
+      "tytul": "Georadar szuka cmentarza Truso",
+      "opis": "W ramach projektu „Bałtycka Odyseja” Marek Jagodziński przeprowadził w 2020 roku badania georadarem i odwierty, szukając cmentarza związanego z osadą, prawdopodobnie na południowy zachód od niej. Radar wskazał dwie duże struktury (ok. 5 x 10 m), być może zarysy domów, oraz pięć małych okrągłych anomalii, które gdzie indziej okazywały się czaszkami; to niepotwierdzone. Odwierty dały polepę, węgle drzewne i ceramikę, ale nie kości. Zabudowa terenu ograniczyła pomiary do ok. 1600 m².",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl (PAP), 21.07.2020",
+          "url": "https://dzieje.pl/node/117745"
+        },
+        {
+          "nazwa": "HeritageDaily, 22.07.2020",
+          "url": "https://www.heritagedaily.com/2020/07/archaeologists-search-for-lost-viking-cemetery/134330"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Odkopana dziś drewniana osada rybacka nad jeziorem Drużno, okrzyknięta na wyrost Truso, nijak się ma do miana portu, do którego zawinął Wulfstan."
+    },
+    {
+      "rok": "2025",
+      "tytul": "Skarb arabskich dirhemów z Truso",
+      "opis": "Muzeum w Elblągu zaprezentowało skarb srebrnych monet odkryty w 1986 roku: 11 całych monet i 5 fragmentów, w tym 10 dirhemów abbasydzkich i jedna drachma sasanidzkiego króla Chosroesa II. Monety pochodzą sprzed 628 roku do ok. 814/815, a skarb ukryto w pierwszej połowie IX wieku. Celowe uszkodzenie monet i powód ukrycia (zagrożenie, ofiara wotywna czy zapas) pozostają kwestią interpretacji.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl (PAP), 17.01.2025",
+          "url": "https://dzieje.pl/node/162246"
+        },
+        {
+          "nazwa": "National Geographic Polska, 23.01.2025",
+          "url": "https://www.national-geographic.pl/historia/w-polsce-znaleziono-skarb-wikingow-to-monety-ktore-pochodza-z-odleglych-zakatkow-swiata/"
+        }
+      ]
+    },
+    {
+      "rok": "2026",
+      "tytul": "Truso większe niż sądzono: ok. 25 ha, łodzie i warsztaty",
+      "opis": "Według Marka Jagodzińskiego późniejsze badania georadarem, magnetometrem oraz zdjęcia lotnicze i z dronów wskazują, że emporium zajmowało prawie 25 ha, a nie ok. 5 ha, jak wynikało z pierwszych znalezisk. Wykopaliska dostarczyły śladów długich domów, palenisk, warsztatów (grzebienie, biżuteria, kowalstwo) oraz fragmentów łodzi z nitami szkutniczymi. Osada miała działać od schyłku VII wieku do początku XI wieku. Podane wymiary pochodzą z wywiadu, a nie z publikacji z pomiarami.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl (PAP), 27.01.2026",
+          "url": "https://dzieje.pl/wiadomosci/45-lat-temu-odkryto-legendarny-wikinski-port-truso-porownywany-do-antycznej-troi-albo"
+        },
+        {
+          "nazwa": "RMF24 (PAP), 27.01.2026",
+          "url": "https://www.rmf24.pl/regiony/olsztyn/news-jedyna-wskazowka-byl-opis-sprzed-tysiaca-lat-tak-w-polsce-od,nId,8060503"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Odkopana dziś drewniana osada rybacka nad jeziorem Drużno, okrzyknięta na wyrost Truso, nijak się ma do miana portu, do którego zawinął Wulfstan."
+    }
+  ],
+  "zamek-w-malborku": [
+    {
+      "rok": "2008",
+      "tytul": "Pierwsze datowanie cegieł z Malborka metodą termoluminescencji",
+      "opis": "Zespół Alicji Chruścińskiej (A. Chruścińska, B. Jesionowski, H. Oczkowski, K. Przegiętka) opublikował w 2008 roku wstępne wyniki datowania pięciu cegieł z zamku w Malborku metodą termoluminescencji (protokół SAR). Cegły pochodziły z części zamku o znanym wieku, co miało sprawdzić, czy metoda daje wiarygodne daty. Autorzy zwracają uwagę, że różnice w promieniotwórczości cegły i zaprawy utrudniają pomiar w murze. Opublikowane streszczenie potwierdza dobrą dokładność dawki ekwiwalentnej, ale nie podaje konkretnych dat, więc nie jest to jeszcze niezależny test kronik zakonu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Chruścińska i in., Geochronometria 30, 2008",
+          "url": "https://geochronometria.com/Using-the-TL-Single-Aliquot-Regenerative-Dose-Protocol-for-the-Verification-of-the,187692,0,2.html"
+        },
+        {
+          "nazwa": "Medievalists.net, 2011 (omówienie)",
+          "url": "https://www.medievalists.net/2011/03/using-the-tl-single-aliquot-regenerative-dose-protocol-for-the-verification-of-the-chronology-of-the-teutonic-order-castle-in-malbork/"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "niezbitym dowodem może być tylko wiek budulca, a właściwie czas jego zastosowania"
+    },
+    {
+      "rok": "2011",
+      "tytul": "Dendrochronologia średniowiecznego mostu przy Bramie Nowej",
+      "opis": "Archeolodzy firmy ANTIQUA pod kierunkiem Bogdana Bobowskiego odsłonili w fosie pod wałem von Plauena pozostałości drewnianego mostu prowadzącego do Bramy Nowej. Analiza przyrostów rocznych wskazała, że najstarsze drewno pochodzi z lat około 1450–1453, a młodsze elementy zapewne z napraw w XVII wieku. W fosie znaleziono też groty bełtów, kule i miecz koncerz, łączone z walkami z czerwca 1457 roku w czasie wojny trzynastoletniej. To dobrze udokumentowany przykład datowania drewna w Malborku, choć dotyczy późnej budowli obronnej, a nie murów zamku z XIII wieku.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Nauka w Polsce (PAP), 2011",
+          "url": "https://naukawpolsce.pl/aktualnosci/news,386138,na-zamku-malborskim-odkryto-sredniowieczny-most.html"
+        }
+      ]
+    },
+    {
+      "rok": "2014–2016",
+      "tytul": "Madonna z Malborka: odlew z gipsu i badania materiałowe przed odbudową",
+      "opis": "Muzeum Zamkowe w Malborku odbudowało w latach 2014–2016 ośmiometrową figurę Madonny z elewacji kościoła zamkowego, zniszczoną w 1945 roku. Przed pracami zbadano tomografem komputerowym strukturę sztucznego kamienia, z którego ją wykonano: według Mariusza Mierzwińskiego głównym składnikiem był wolnowiążący gips jastrychowy, a figurę odlano w kilkunastu segmentach na placu budowy. Około 60 procent oryginalnych segmentów odzyskano z gruzu. Szklane kostki mozaiki, dodane około 40 lat po powstaniu figury, porównano analitycznie z mozaikami w Kwidzynie i Pradze (zespół Davida Hradila z Czeskiej Akademii Nauk).",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Mierzwiński, Ochrona Zabytków 2/2022",
+          "url": "https://ochronazabytkow.nid.pl/wp-content/uploads/2023/06/OZ_2-2022_M-Mierzwinski-1.pdf"
+        },
+        {
+          "nazwa": "Inżynier Budownictwa: prace konserwatorskie w kościele NMP 2014–2016",
+          "url": "https://inzynierbudownictwa.pl/?p=10455"
+        },
+        {
+          "nazwa": "Hradil i in., Zprávy památkové péče 77(3), 2017",
+          "url": "https://zpp.npu.cz/en/artkey/zpp-201703-0014_material-research-of-medieval-glass-mosaics-in-malbork-and-kwidzyn.php"
+        }
+      ]
+    },
+    {
+      "rok": "2020–2024",
+      "tytul": "Przedzamcze w Malborku: drewniane nabrzeże z lat 70. XIII wieku na naturalnym gruncie",
+      "opis": "Badania i nadzory archeologiczne Muzeum Zamkowego (Bogusz Wasik) wykryły na przedzamczu drewnianą konstrukcję nabrzeża ułożoną wprost na calcu, czyli nienaruszonym gruncie naturalnym. Dendrochronologia próbki wskazała okres po 1269 roku (bez zewnętrznych słojów, więc data może być nieco późniejsza), a datowania radiowęglowe dały przedziały z lat około 1270–1295. Pod późniejszą zabudową stwierdzono osady naturalne, a nie ślady wcześniejszych murów. Wyniki dotyczą przedzamcza i zaplecza budowy, nie samego Zamku Wysokiego, i zgadzają się z tradycyjnym datowaniem początku budowy na drugą połowę lat 70. XIII wieku.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Wasik, Ochrona Zabytków 1/2025",
+          "url": "https://ochronazabytkow.nid.pl/wp-content/uploads/2025/06/OZ_1-2025_B-Wasik.pdf"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Ja sądzę, że ruiny zamku pokrywała warstwa ziemi, a cała praca Krzyżaków ograniczyła się do ich odkopania, oczyszczenia, odzyskania budulca i samej odbudowy."
+    }
+  ],
+  "krzyztopor": [
+    {
+      "rok": "2010–2011",
+      "tytul": "Pierwsze od dekad wykopaliska w Krzyżtoporze: fosa w skale, zatkany drenaż, ogrody",
+      "opis": "Podczas unijnej konserwacji zespół Andrzeja Gołembnika prowadził badania na dziedzińcach, w fosie i przy bramie. Ustalono, że fosę wykuto w litej skale, a urobek poszedł na mury i bastiony, oraz że z biegiem wieków zatkał się system odprowadzania wody deszczowej, co przyspieszało niszczenie ruin. Pod metrową warstwą gruzu odkryto kamienne elementy ogrodu, a w pałacu m.in. połowę kafla z herbem Ossolińskich. Zamek stanął na terenie wcześniej zasiedlonym, obok średniowiecznego kościoła i cmentarza parafii Ujazd. Wyniki nie zostały w pełni opublikowane, a część komentatorów oceniała je jako skromne.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archeowieści, 29 września 2010",
+          "url": "https://archeowiesci.wordpress.com/2010/09/29/nowe-odkrycia-na-terenie-palacu-krzyztopor/"
+        },
+        {
+          "nazwa": "Trips over Poland, 2012",
+          "url": "https://blog.tripsoverpoland.pl/2012/05/12/krzyztopor-trwala-ruina-czy-trwaly-brak-koncepcji/"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "Tymczasem możemy obejrzeć skorodowane mury na skutek warunków atmosferycznych i upływu czasu."
+    },
+    {
+      "rok": "2026",
+      "tytul": "Cmentarzysko przy zamku i badania diety mieszkańców Krzyżtoporu",
+      "opis": "Według PAP z czerwca 2026 roku Uniwersytet Jana Kochanowskiego i gmina Iwaniska podpisały porozumienie o badaniach zamku. W jego otoczeniu odkryto dawne cmentarzysko; wstępne sondaże potwierdziły pochówki, prawdopodobnie także żołnierzy szwedzkich. Planowane są badania antropologiczne i DNA, a kości zwierzęce i rybie z dziedzińców gospodarczych analizuje się pod kątem diety mieszkańców. Są to na razie zapowiedzi i wstępne sondaże, bez opublikowanych wyników.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "PAP / dzieje.pl, 15 czerwca 2026",
+          "url": "https://dzieje.pl/wiadomosci/zabytki-z-wawelu-po-pol-wieku-wroca-do-zamku-krzyztopor"
+        }
+      ]
+    }
+  ],
+  "zamek-ogrodzieniec": [
+    {
+      "rok": "2020",
+      "tytul": "Nałokietnik z Ogrodzieńca: żelazo z wielkiego pieca w późnośredniowiecznej zbroi",
+      "opis": "Zespół Eweliny Imiołczyk z Muzeum Górnośląskiego w Bytomiu opublikował analizę metalograficzną nałokietnika z przełomu XIV i XV wieku, znalezionego na zamku podczas badań w 1964 roku. Wykonano go z żelaza prawie bez węgla, za to bogatego w fosfor. Skład wtrąceń żużlowych sugeruje użycie żelaza z wielkiego pieca, przerobionego w procesie pośrednim, co byłoby wczesnym przykładem takiej technologii w zbrojach płytowych. Zabytek jest w stanie szczątkowym, a jego wiek opiera się na analogiach typologicznych, nie na datowaniu fizycznym.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Imiołczyk i in., Archaeological and Anthropological Sciences 12, 2020",
+          "url": "https://link.springer.com/article/10.1007/s12520-019-00979-1"
+        }
+      ]
+    }
+  ],
+  "zamek-w-olsztynie": [
+    {
+      "rok": "2015",
+      "tytul": "Georadar i wykopaliska: brama, filary mostu i nieznana kondygnacja baszty studziennej",
+      "opis": "Podczas sezonu 2015 archeolog dr Czesław Hadamik odsłonił fundamenty wieży bramnej, trzy filary mostu prowadzącego do zamku górnego oraz izdebkę odźwiernego. Wykop o głębokości ponad 3 m odsłonił nieznaną dotąd dolną kondygnację baszty studziennej. Georadar dr. Wiesława Nawrockiego z Krakowa i wiercenia wskazały zapadlisko, które najpewniej jest studnią z XVII-wiecznych lustracji, ale samej studni jeszcze nie osiągnięto. Zamek dolny datowany jest na XV wiek, a początki całego założenia sięgają XIII wieku (dokumenty z 1306 r. opisują wydarzenia z 1294 r.).",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Nauka w Polsce / PAP, 2015 (Histmag)",
+          "url": "https://histmag.org/nowe-informacje-o-zamku-w-olsztynie-12278"
+        },
+        {
+          "nazwa": "Dzieje.pl / PAP, 2015",
+          "url": "https://dzieje.pl/rozmaitosci/archeolog-wiemy-wiecej-o-dawnym-wygladzie-zamku-w-olsztynie-k-czestochowy"
+        }
+      ],
+      "artykul": "warownie/kazimierz"
+    },
+    {
+      "rok": "2016",
+      "tytul": "Odkopana studnia w baszcie studziennej i XIII-wieczne początki zamku",
+      "opis": "Archeolodzy pod kierunkiem dr. Czesława Hadamika usunęli ponad 300 m³ ziemi na zamku dolnym i dotarli do nieznanego dotąd niższego poziomu baszty studziennej oraz kwadratowego szybu wykutego w skale. Według inspekcji z XVII wieku studnia miała sięgać ok. 160 m w głąb skały, ale ta wartość pochodzi z dokumentów, nie z pomiaru, a szyb przez ok. 400 lat był zasypany. Hadamik datuje powstanie zamku na drugą połowę XIII wieku (prawdopodobnie jako własność biskupów krakowskich), czyli na długo przed Kazimierzem Wielkim, który go tylko rozbudował; wcześniejsze datowanie opiera się częściowo na źródłach pisanych z lat 1294–1306.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl / PAP, 2016 (wykopaliska w Olsztynie)",
+          "url": "https://dzieje.pl/node/64604"
+        },
+        {
+          "nazwa": "National Geographic Traveler: zamek Olsztyn (początki w XIII w., wzmianka 1306)",
+          "url": "https://www.national-geographic.pl/traveler/kierunki/zamek-olsztyn-byl-poteznym-orlim-gniazdem-do-dzis-zachowaly-sie-tylko-ruiny-niegdysiejszej-twierdzy/"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Dlaczego nie prowadzi się systematycznych i dogłębnych (dosłownie) badań tego co widać jak na dłoni"
+    },
+    {
+      "rok": "2019",
+      "tytul": "Ponad 200 krzemieni neandertalczyków w jaskini pod zamkiem",
+      "opis": "Podczas prac przy częściowej rekonstrukcji zamku archeolodzy z Fundacji Przyroda i Człowiek (dr Mikołaj Urbanowski) znaleźli w jaskini zamku dolnego ponad 200 krzemiennych narzędzi, m.in. noże i skrobacze, w tym nóż wykonany techniką lewaluaską. Przypisano je neandertalczykom i datowano na ok. 40 tys. lat temu; podana w komunikacie data wynika z typologii narzędzi, a metoda datowania nie została w nim opisana. Późniejsze prace zespołu Uniwersytetu Wrocławskiego w osadach plejstoceńskich odkryły też kości dużych ssaków, m.in. lwa jaskiniowego, niedźwiedzia i hieny. Zespół Uniwersytetu Wrocławskiego (m.in. prof. Krzysztof Stefaniak) opisuje też artefakty środkowego paleolitu i magdaleńskie oraz próby analizy dawnego DNA, ale wiek większości warstw podaje tylko ogólnie, jako okresy geologiczne.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Nauka w Polsce (PAP), 2019",
+          "url": "https://scienceinpoland.pl/en/node/78193"
+        },
+        {
+          "nazwa": "Polish Science / Uniwersytet Wrocławski, 2022",
+          "url": "https://www.polishscience.pl/en/?p=237359"
+        },
+        {
+          "nazwa": "Uniwersytet Wrocławski: Zamek w Olsztynie odkrywa swoje tajemnice",
+          "url": "https://uwr.edu.pl/projekty-badawcze-i-patenty/wybrane-projekty/rok-jaskin/wykopaliska/zamek-w-olsztynie-odkrywa-swoje-tajemnice/"
+        }
+      ],
+      "artykul": "warownie/kazimierz"
+    },
+    {
+      "rok": "2020–2021",
+      "tytul": "Nieznane szczeliny, pustki i ukryta jaskinia pod zamkiem",
+      "opis": "Wiercenia, sondowanie endoskopowe i badania elektrooporowe (zespół z Uniwersytetu Wrocławskiego i Uniwersytetu Śląskiego) wykazały pod zamkiem rozgałęziony system pustek i szczelin sięgających ok. 7 m w głąb, a w 2020 r. archeolodzy odkryli nieznaną komorę jaskini przy przedpolu baszty studziennej. Odnaleziono też XV-wieczny piec metalurgiczny i kafel z rycerzem-sokolnikiem. Badacze podkreślają, że wyniki są wstępne; największa pustka wykryta oporowo to prawdopodobnie naturalny krasowy, choć związku z budową zamku nie wykluczono. Doniesienia o tunelach należy traktować ostrożnie, bo ich wieku i zasięgu nie ustalono.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "HeritageDaily, 2020",
+          "url": "https://www.heritagedaily.com/2020/07/hidden-cave-system-discovered-beneath-historic-castle/134498"
+        },
+        {
+          "nazwa": "National Geographic Polska, 2021",
+          "url": "https://www.national-geographic.pl/artykul/rozlegly-system-tuneli-i-jaskin-odkryto-pod-zamkiem-w-olsztynie-jakie-sekrety-skrywa"
+        }
+      ],
+      "artykul": "warownie/kazimierz"
+    }
+  ],
+  "zamek-w-bobolicach": [
+    {
+      "rok": "1999–2011",
+      "tytul": "Odbudowa z ruiny i spór o jej autentyczność",
+      "opis": "Po zakupie ruin przez rodzinę Laseckich w 1998 r. zamek odbudowano w ok. 12 lat: cztery lata trwały prace archeologiczne i badawcze, potem osiem lat budowy tradycyjnymi technikami. Ponieważ nie zachowały się źródła pokazujące pierwotny wygląd, kształt odtworzono z zarysu murów i analogii do innych budowli. Rekonstrukcja budzi kontrowersje: historycy sztuki i konserwatorzy ją krytykują (omawia to m.in. Ł. M. Sadowski w 2025 r.), a właściciel przyznaje, że oparto ją na ówczesnej teorii konserwatorskiej „w sposób bardzo dyskusyjny”. Datowanie faz zamku (ok. 1350, Kazimierz Wielki) opiera się na analizie architektury i źródłach pisanych.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Dzieje.pl / PAP, 2011 (odbudowany zamek w Bobolicach)",
+          "url": "https://dzieje.pl/node/30959"
+        },
+        {
+          "nazwa": "Medieval Heritage: Bobolice – castle",
+          "url": "https://medievalheritage.eu/en/main-page/heritage/poland/bobolice-castle/"
+        },
+        {
+          "nazwa": "Sadowski, Ochrona Dziedzictwa Kulturowego 23, 2025",
+          "url": "https://ph.pollub.pl/index.php/odk/article/view/7289"
+        },
+        {
+          "nazwa": "Życie Częstochowy: wywiad z J. Laseckim",
+          "url": "https://zycieczestochowy.pl/skarby-jury-o-zamku-bobolice-i-mirow-rozmawiamy-wlascicielem-jaroslawem-laseckim/"
+        }
+      ],
+      "artykul": "warownie/kazimierz"
+    }
+  ],
+  "zamek-w-checinach": [
+    {
+      "rok": "2013–2015",
+      "tytul": "Ratownicze wykopaliska przed rewitalizacją: nieznana wieża i nowe datowanie zamku",
+      "opis": "W latach 2013–2014 przed rewitalizacją (zakończoną w 2015 r., koszt ponad 8 mln zł) prowadzono na zamku i w mieście ratownicze badania archeologiczne. Odsłoniły one nieznane wcześniej relikty wolnostojącej wieży (według abstraktu murowanej, według innego opisu cylindrycznej) otoczonej murem, wiązanej z końcem XIII w. i Wacławem II lub biskupem Muskatą. W analizie opublikowanej w 2025 r. W. Gliński przesuwa też tzw. Dom Wielki, uważany dotąd za najstarszy, na okres jagielloński. Wskazanie Wacława II jako fundatora to interpretacja badaczy, nie pewnik.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Gliński, Folia Archaeologica 40, 2025 (abstrakt, CEEOL)",
+          "url": "https://www.ceeol.com/search/article-detail?id=1402267"
+        },
+        {
+          "nazwa": "TVN24, 2015 (otwarcie po rewitalizacji)",
+          "url": "https://tvn24.pl/krakow/ruiny-zamku-w-checinach-znow-otwarte-dla-turystow-ra536878-ls3299573"
+        },
+        {
+          "nazwa": "Medieval Heritage: Chęciny – Royal Castle",
+          "url": "https://medievalheritage.eu/en/main-page/heritage/poland/checiny-royal-castle/"
+        },
+        {
+          "nazwa": "Folia Archaeologica 40, 2025 (strona artykułu, Uniwersytet Łódzki)",
+          "url": "https://czasopisma.uni.lodz.pl/archaeo/article/view/28169"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "Do dziś nie wiadomo co kryje się od powierzchni ziemi po fundament."
+    }
   ]
 }

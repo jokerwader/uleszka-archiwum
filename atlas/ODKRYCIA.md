@@ -48,4 +48,14 @@ Klucz to `id` miejsca z `atlas/atlas.json` (taki jak w adresie karty, np. `sacsa
 
 Najpierw miejsca z najbliższych odcinków podcastu (harmonogram: `podcast/harmonogram.json`, karta miejsca pokazuje datę premiery)
 i najczęściej opisywane przez Leszka: Piramidy w Gizie, Wielki Sfinks, Tiahuanaco, Puma Punku, Sacsayhuamán, Machu Picchu,
-Teotihuacan, Stonehenge, Baalbek, Abydos i Osireion, Ollantaytambo, Cusco i Coricancha, Wyspa Wielkanocna, Angkor, Linie z Nazca.
+Teotihuacan, Stonehenge, Baalbek, Abydos i Osireion, Ollantaytambo, Cusco i Coricancha, Wyspa Wielkanocna, Angkor, Linie z Nazca (gotowe).
+
+Druga partia – Polska: Biskupin, Piramidy kujawskie, Jaskinia Maszycka, Ostrów Lednicki, Strzelno, Kolegiata w Tumie, Ślęża, Wawel,
+Truso, Zamek w Malborku, Krzyżtopór, Zamek Ogrodzieniec, Zamek w Olsztynie, Zamek w Bobolicach, Zamek w Chęcinach.
+Pozostałe polskie miejsca: Zamek w Mirowie, Ostrężniku, Proboszczowicach, Czorsztynie, Gniewie, Bytowie, Nidzicy, Zamek Bolczów.
+
+Potem: wszystkie pozostałe miejsca z `atlas/atlas.json`, najpierw te z najbliższych odcinków podcastu (`podcast/harmonogram.json`),
+potem te z największą liczbą artykułów Leszka (pole `artykuly`), na końcu reszta.
+
+Wskazówki: przy polskich miejscach dobrze sprawdzają się Nauka w Polsce (PAP), komunikaty uczelni, muzeów i NID.
+Nature, Science, Smithsonian i ScienceDirect często blokują pobieranie – wtedy szukaj komunikatu uczelni, PMC albo arXiv.
