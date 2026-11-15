@@ -1936,5 +1936,776 @@
       "artykul": "warownie/kazimierz",
       "cytat_leszka": "Do dziś nie wiadomo co kryje się od powierzchni ziemi po fundament."
     }
+  ],
+  "jezioro-titicaca": [
+    {
+      "rok": "2007",
+      "tytul": "Rdzeń wiertniczy z Titicaca: 370 tysięcy lat historii jeziora",
+      "opis": "Międzynarodowy zespół kierowany przez Sherilyn Fritz (Uniwersytet Nebraski w Lincoln) i Paula Bakera (Duke University) opisał 136-metrowy rdzeń osadów z dna jeziora Titicaca, obejmujący szacunkowo ostatnie 370 tys. lat i cztery cykle zlodowaceń. W okresach zlodowaceń jezioro było głębsze i słodsze, a w okresach cieplejszych płytsze i zamknięte, bez odpływu. Autorzy wiążą te zmiany z globalnymi wahaniami temperatury i z monsunem południowoamerykańskim. Zapis pokazuje długie, cykliczne zmiany poziomu wody, a nie pojedyncze zdarzenie; wiek osadów jest szacowany z błędem wynikającym z modelu wieku.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Fritz i in., Quaternary Research 68(3), 2007 (University of Nebraska–Lincoln, DigitalCommons)",
+          "url": "https://digitalcommons.unl.edu/geosciencefacpub/18"
+        },
+        {
+          "nazwa": "Fritz i in., Quaternary Research 68(3), 2007 (Duke University, baza publikacji)",
+          "url": "https://scholars.duke.edu/publication/758706"
+        }
+      ],
+      "artykul": "09tiahu/tiahua"
+    },
+    {
+      "rok": "2012",
+      "tytul": "Ślimaki z Titicaca: fauna jeziora młodsza od jeziora, ślad zmian zasolenia",
+      "opis": "Międzynarodowy zespół z udziałem Olivera Krolla, Roberta Hershlera, Christiana Albrechta i Thomasa Wilkego zbadał molekularnie ślimaki z rodzaju Heleobia żyjące na Altiplano. Grupa gatunków tworzy tzw. stado gatunkowe, które rozwinęło się głównie w samym Titicaca, a wspólny przodek żył ok. 0,53 mln lat temu, w czasie wielkiego dawnego jeziora Ballivián. Autorzy zakładają, że jezioro ma 2–3 mln lat i że kurczyło się w holocenie nawet o ok. 100 m głębokości, co podnosiło zasolenie i mogło ograniczać rozwój gatunków. Praca opisuje historię zasolenia opartą na kurczeniu się jeziora, nie na dawnym połączeniu z morzem.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Kroll i in., Ecology and Evolution 2(7), 2012 (PubMed Central)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3434920"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "że było ono kiedyś bardziej słone, a mówiąc dokładniej, znajdująca się w nim woda pochodziła z morza."
+    },
+    {
+      "rok": "2021",
+      "tytul": "Genomy skorupiaków z Titicaca: wiele kolonizacji, ale z wód słodkich",
+      "opis": "Zespół Zapelloni i współpracowników z Uniwersytetu Balearów i instytutu IMEDEA (CSIC-UIB) porównał mitogenomy i geny jądrowe obunogów z rodzaju Hyalella z jeziora Titicaca i okolicznych zbiorników. Linie, które trafiły na Altiplano, rozeszły się od siebie już we wczesnym miocenie (ok. 19 mln lat temu), a wewnątrz jeziora różnicowały się dopiero 2–3 mln lat temu, zgodnie z wiekiem jeziora. Kolonizacji było więc wiele i niezależnych. Praca traktuje Hyalella jako rodzaj słodkowodny i nie wskazuje na morskie pochodzenie fauny.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Zapelloni i in., Scientific Reports 11, 2021 (PubMed Central)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7801522"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "W sieciach rybaków znalazło się wiele zaskakujących okazów, na przykład z rodzaju hippocampus (konik morski)."
+    }
+  ],
+  "salar-de-uyuni": [
+    {
+      "rok": "2011",
+      "tytul": "Izotopy strontu i uranu: skąd brały wodę wielkie jeziora Altiplano",
+      "opis": "Christa Placzek (Los Alamos National Laboratory) z Jayem Quade i Jonathanem Patchettem (University of Arizona) zmierzyła izotopy strontu, uranu i tlenu w węglanach osadzonych przez dawne jeziora południowego Altiplano. Każdy cykl jeziorny, m.in. Sajsi (24–20,5 tys. lat temu), Tauca (18,1–14,1 tys.) i Coipasa (12,8–11,4 tys.), ma charakterystyczny skład strontu. Wynika z niego, że większość jezior zasilały opady na północ od działu wodnego Laca, przy minimalnym udziale wody z Titicaca, a Coipasę zasilały głównie deszcze z południa. Dawne jeziora były więc wypełnione wodami opadowymi i rzecznymi z gór, co potwierdza ich pochodzenie klimatyczne.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Placzek, Quade, Patchett, Quaternary Research 75(1), 2011 (JCU ResearchOnline)",
+          "url": "https://researchonline.jcu.edu.au/20610/1/QuaternaryResearch2011.pdf"
+        }
+      ],
+      "artykul": "02uskok/uskok"
+    },
+    {
+      "rok": "2011",
+      "tytul": "Daty jezior Tauca i Coipasa: wysoki stan wód przy Heinrich 1 i młodszym dryasie",
+      "opis": "Zespół Pierre-Henriego Blarda datował metodami uranowo-torowymi i radiowęglowymi węglany z brzegów dawnych jezior Altiplano. Jezioro Sajsi miało szczyt ok. 22 tys. lat temu, Tauca ok. 18–14,5 tys. (najwyższy stan 16,5–15 tys.), a Coipasa ok. 12,5–11,9 tys. lat temu i sięgała ok. 42 m ponad dzisiejszą powierzchnię Salar de Uyuni. Wysokie stany wód zbiegają się z zimnymi epizodami na Północnym Atlantyku (Heinrich 1, młodszy dryas), co autorzy tłumaczą przesunięciami strefy opadów tropikalnych. Solnisko to więc resztka słodko-słonawych jezior epoki lodowej, a nie dna morza.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Blard i in., Quaternary Science Reviews 30(27–28), 2011 (IRD)",
+          "url": "https://www.documentation.ird.fr/hor/fdi:010054340/mods"
+        },
+        {
+          "nazwa": "Blard i in., 2011 (Caltech, repozytorium prac)",
+          "url": "https://authors.library.caltech.edu/29259"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Płytkie zbiorniki wyparowały i dziś oglądamy wielkie solne równiny jak w Salt Lake czy Uyuni."
+    },
+    {
+      "rok": "2019",
+      "tytul": "Salar de Coipasa: 40 tysięcy lat wahań poziomu jeziora",
+      "opis": "Andrew Nunnery, Sherilyn Fritz, Paul Baker i Wout Salenbien (Duke University, University of Nebraska–Lincoln) przebadali 14-metrowy rdzeń z solniska Coipasa, sąsiada Uyuni. Skamieniałe okrzemki i izotopy pokazują ciągłe jezioro o zmiennej głębokości i zasoleniu od ok. 40 do 6 tys. lat temu, najgłębsze podczas zdarzeń Heinrich 1 i młodszego dryasu; potem solnisko było suche lub bardzo płytkie. Wynik zgadza się z wcześniejszym rdzeniem z Uyuni.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Nunnery i in., Quaternary Research, 2019 (doi:10.1017/qua.2018.108, Cambridge University Press)",
+          "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/ACF88920D37FBDC1DBE9A64F134394A6/S0033589418001084a.pdf/lake-level-variability-in-salar-de-coipasa-bolivia-during-the-past-40000-yr.pdf"
+        }
+      ],
+      "artykul": "02uskok/uskok"
+    },
+    {
+      "rok": "2024",
+      "tytul": "Rdzeń 460 m pod Uyuni: sól głównie z lokalnych diapirów",
+      "opis": "Zespół z Universitat de Barcelona (Luis Gibert i in.) razem z boliwijskimi służbami geologicznymi i Berkeley Geochronology Center przedstawił na zjeździe GSA nowy rdzeń o głębokości 460 m. Skały datowano metodą 40Ar/39Ar w tufach i magnetostratygrafią; zapis obejmuje okres od środkowego pliocenu do późnego plejstocenu i zawiera sól, gips, iły i osady jezior słodkich. Autorzy uznają, że sól pochodzi głównie z pobliskich mezozoicznych diapirów solnych, a osadzanie zależało od klimatu i zasilania rzek. To streszczenie konferencyjne, bez recenzowanej publikacji i bez podanych dat liczbowych.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Gibert i in., GSA Connects 2024, referat 124-5 (streszczenie)",
+          "url": "https://studio.m-anage.com/gsa/2024AM/webprogram/Paper402989.html"
+        }
+      ],
+      "artykul": "02uskok/uskok"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Bor decyduje o odczynie solanek litowych pod Uyuni",
+      "opis": "Gordon Williams, Paz Nativ i Avner Vengosh z Duke University zbadali naturalne solanki i osiem kolejnych basenów odparowania na Salar de Uyuni, a potem setki solanek litowych z Trójkąta Litowego i Tybetu. Okazało się, że w nich to bor, a nie węglany, odpowiada za zasadowość i odczyn: naturalne solanki Uyuni są prawie obojętne, a w basenach odparowania zakwaszają się do pH ok. 3,2. Wynik ma znaczenie dla wydobycia litu, a nie dla wieku solniska.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Williams, Nativ, Vengosh, Science Advances 11, eadw3268, 2025 (PubMed Central)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12101514"
+        },
+        {
+          "nazwa": "Duke University, komunikat prasowy (EurekAlert), maj 2025",
+          "url": "https://www.eurekalert.org/news-releases/1084409"
+        }
+      ]
+    }
+  ],
+  "wyspa-akpatok": [
+    {
+      "rok": "2017–2018",
+      "tytul": "Nowa stratygrafia Akpatok: skały sprzed 450 milionów lat i potencjalne źródło ropy",
+      "opis": "Shunxin Zhang z Canada-Nunavut Geoscience Office uporządkował budowę geologiczną wyspy: odsłonięte tu wapienie górnego ordowiku podzielił na formacje Amadjuak, Akpatok i Foster Bay. Wspólnie z Johnem Rivą (INRS) datował graptolity z warstw bogatych w materię organiczną i wykazał, że są one górnoordowickie (piętro katu), więc dawną „formację Boas River” proponuje się wycofać. Bitumiczne wapienie z Foster Bay zawierają 1,52–4,19% węgla organicznego i to niedojrzałe skały macierzyste dla ropy. Wyspa składa się więc ze skał osadowych liczących ok. 450 mln lat; badania te nie dotyczą położenia bieguna.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Zhang i Riva, Canadian Journal of Earth Sciences, 2018 (rękopis, INRS)",
+          "url": "https://espace.inrs.ca/id/eprint/6897/1/P3309.pdf"
+        },
+        {
+          "nazwa": "Zhang, GeoConvention 2018 (streszczenie)",
+          "url": "https://geoconvention.com/wp-content/uploads/abstracts/2018/061_GC2018_Ordovician_petroleum_source_rock_potential_in_Hudson_Strait_Basin.pdf"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Lakonicznie stwierdza się, że biegun północny wędrował gdzieś od Alaski i około 12 tysięcy lat temu znajdował się w okolicy wyspy Akpatok na północy Labradoru."
+    },
+    {
+      "rok": "2023",
+      "tytul": "Pompowanie wód podziemnych przesunęło oś obrotu Ziemi o ok. 80 cm",
+      "opis": "Zespół Ki-Weona Seo z Seoul National University wykazał w „Geophysical Research Letters”, że przemieszczenie ok. 2150 gigaton wód podziemnych w latach 1993–2010 przesunęło biegun obrotu Ziemi o prawie 80 cm na wschód. To pokazuje, że redystrybucja masy na powierzchni zmienia położenie osi, ale w skali centymetrów i dziesięcioleci. Liczba 2150 Gt pochodzi z modeli klimatycznych i trudno ją zweryfikować. Praca dotyczy dryfu bieguna obrotu, a nie przesunięcia skorupy względem płaszcza, o którym pisał Hapgood.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Down To Earth (relacja o pracy Seo i in., GRL, czerwiec 2023)",
+          "url": "https://www.downtoearth.org.in/news/science-and-technology/groundwater-extraction-has-tilted-earth-s-spin-how-likely-is-it-to-fuel-climate-change--90073"
+        }
+      ],
+      "artykul": "02uskok/uskok"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Wędrówka biegunów przez 320 mln lat: duża, ale powolna",
+      "opis": "B. Vaes i D. J. J. van Hinsbergen ponownie przeanalizowali dane paleomagnetyczne i odtworzyli wędrówkę bieguna prawdziwego (true polar wander) przez ostatnie 320 mln lat. Obroty skorupy i płaszcza względem osi o amplitudzie ponad 10° były powolne, rzędu kilku cm na rok (ok. 3 cm/rok), a rozproszone dowody na szybsze oscylacje w jurze i kredzie nie potwierdziły się. Dane nie wykluczają jednak szybszych ruchów w skali krótszej niż ok. 10 mln lat. Zjawisko jest więc realne, ale w tej analizie przebiega w skali milionów lat, nie tysięcy.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Eos (AGU), omówienie pracy Vaes i van Hinsbergen, AGU Advances 6, 2025",
+          "url": "https://eos.org/editor-highlights/300-million-years-of-polar-wander-slowly-but-surely"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Z pobieżnych wyliczeń wynika, że wskazuje kierunek na Akpatok, na biegun północny sprzed 12,5 tysiąca lat."
+    },
+    {
+      "rok": "2026",
+      "tytul": "Dawne morza zdradzają epizody szybkiej wędrówki bieguna",
+      "opis": "Mathew Domeier z Uniwersytetu w Oslo i współpracownicy opublikowali w „Science” nową metodę wykrywania szybkiej wędrówki bieguna prawdziwego na podstawie map zalewów i cofania się mórz co 10 mln lat. Znaleźli cztery przedziały ze statystycznie istotnym sygnałem (ok. 200–190, 150–140, 100–90 i 30–20 mln lat temu), najsilniejsze w jurze i kredzie; dla większości kenozoiku sygnału nie wykryto. Wynik spiera się z pracą Vaes i van Hinsbergen z 2025 r., więc kwestia tempa jest otwarta. Badanie dotyczy deep time, nie zdarzeń sprzed 12,5 tys. lat.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Astrobiology.com, 2 października 2026 (Domeier i in., Science, doi:10.1126/science.aec8423)",
+          "url": "https://astrobiology.com/2026/10/02/ancient-seas-reveal-times-when-the-earth-rapidly-shifted-relative-to-its-axis/"
+        },
+        {
+          "nazwa": "The Brighter Side of News, 3 października 2026",
+          "url": "https://thebrighterside.news/post/scientists-find-evidence-for-several-earth-axis-shifts-during-the-age-of-dinosaurs/"
+        }
+      ],
+      "artykul": "02uskok/uskok"
+    }
+  ],
+  "sakkara": [
+    {
+      "rok": "2016–2023",
+      "tytul": "Podziemny warsztat balsamistów i chemia mumifikacji",
+      "opis": "Egipsko-niemiecka misja Uniwersytetu w Tybindze pod kierunkiem Ramadana Hussejna odkryła w pobliżu piramidy Unasa podziemny warsztat balsamistów z epoki saickiej (664–525 p.n.e.). W 2023 roku zespół Maxime'a Rageota i Philippa Stockhammera opublikował w „Nature” analizę zawartości 31 naczyń, z których wiele miało napisy nazywające zawartość. Metodą chromatografii gazowej ze spektrometrią mas wykazano m.in. oleje jałowca, cyprysu i cedru, bitum znad Morza Martwego, tłuszcze zwierzęce, wosk oraz żywice sprowadzane z tropikalnej Azji (elemi, dammara). Tajemnicze „antiu” okazało się mieszaniną, a nie kadzidłem czy mirrą.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Scientific American, 2023 (o pracy w Nature)",
+          "url": "https://www.scientificamerican.com/article/surprising-chemicals-were-used-to-embalm-egyptian-mummies/"
+        },
+        {
+          "nazwa": "Inverse, 2023",
+          "url": "https://www.inverse.com/science/mummy-embalming"
+        }
+      ]
+    },
+    {
+      "rok": "2018",
+      "tytul": "Nienaruszony grobowiec kapłana Wahtye",
+      "opis": "W grudniu 2018 roku egipska misja w Świętej Nekropolii Zwierząt w Sakkarze ogłosiła odkrycie grobowca Wahtye, królewskiego kapłana oczyszczającego z czasów Neferirkarego (V dynastia, ok. 4400 lat temu). Grobowiec jest wyjątkowo dobrze zachowany: ma kolorowe sceny rodzinne, rzemiosła, muzyki i polowań oraz rzeźby w niszach, a także szyby grobowe. Datowanie opiera się na stylu i inskrypcjach, nie na analizach laboratoryjnych.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine (AIA), 2018",
+          "url": "https://www.archaeology.org/news/7249-181217-saqqara-priest-tomb"
+        },
+        {
+          "nazwa": "Asharq Al-Awsat, 2018",
+          "url": "https://english.aawsat.com/home/article/1505561/4400-year-old-tomb-discovered-egypt’s-saqqara"
+        }
+      ],
+      "artykul": "08egipt/egipt",
+      "cytat_leszka": "Sama Sakkara odsłoniła, wedle francuskich naukowców, zaledwie 20% swoich zasobów archeologicznych."
+    },
+    {
+      "rok": "2020",
+      "tytul": "59 zapieczętowanych sarkofagów w trzech szybach",
+      "opis": "We wrześniu i październiku 2020 roku egipskie ministerstwo ogłosiło odnalezienie w Sakkarze co najmniej 59 zapieczętowanych drewnianych trumien w trzech szybach, ponad 2500–2600 lat starych (okres saicki). Większość zawierała mumie, a jedną otwarto przed kamerami. Minister Chalid al-Anani zaznaczył, że to początek większego odkrycia, bo nieznana liczba trumien wciąż leży pod ziemią. Pełne publikacje naukowe jeszcze nie ukazały się.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Boston.com / AP, 2020",
+          "url": "https://www.boston.com/news/world-news-2/2020/10/03/egypt-reveals-59-ancient-coffins-found-near-saqqara-pyramids-many-with-mummies-inside"
+        }
+      ],
+      "artykul": "08egipt/egipt",
+      "cytat_leszka": "Ogromna większość dowodów w dalszym ciągu spoczywa pod ziemią, zasypana piaskami Sahary."
+    },
+    {
+      "rok": "2023",
+      "tytul": "Mumia Hekaszepesa i odkrycia wokół piramidy Dżesera",
+      "opis": "W styczniu 2023 roku zespół Zahiego Hawassa ogłosił odkrycie grobowców z V–VI dynastii, w tym sarkofagu z mumią Hekaszepesa owiniętą w złotą folię, na dnie 15-metrowego szybu. Hawass nazwał ją najstarszą kompletną mumią, jednak to ocena ministerialna, a starsze mumie są znane; rzetelniejsze sformułowanie to „najstarsza kompletna mumia pokryta złotem”. Odkryto też grobowce sędziego Fetka, kapłana Chnumdżedefa i urzędnika Meriego.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Al Jazeera, 2023",
+          "url": "https://www.aljazeera.com/amp/news/2023/1/27/oldest-complete-mummy-found-egypt"
+        }
+      ]
+    },
+    {
+      "rok": "2024",
+      "tytul": "Czy piramida Dżesera powstała z pomocą siły wody?",
+      "opis": "Xavier Landreau i współpracownicy (CEA Paleotechnic Institute, INRAE i Uniwersytet w Orleanie) opublikowali w „PLOS ONE” hipotezę, że przy budowie piramidy schodkowej mogła pomagać hydrauliczna winda: zapora Gisr el-Mudir miałaby zatrzymywać wodę i osady, a woda wpływałaby do szybów wewnątrz piramidy i unosiła platformę z blokami. Autorzy sami zastrzegają, że to możliwość wspierająca inne metody (rampy), a nie ustalony fakt; nie wiadomo, ile wody było dostępne i jak kontrolowano jej przepływ.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Phys.org, 2024 (Landreau i in., PLOS ONE)",
+          "url": "https://phys.org/news/2024-08-hydraulic-technology-egypt-iconic-pyramid.html"
+        },
+        {
+          "nazwa": "ScienceAlert, 2024",
+          "url": "https://www.sciencealert.com/researchers-claim-long-lost-technology-used-to-build-iconic-pyramid-of-djoser"
+        }
+      ],
+      "artykul": "08egipt/egipt"
+    }
+  ],
+  "heliopolis": [
+    {
+      "rok": "2017–2018",
+      "tytul": "Kolos Psametycha I wydobyty z wód gruntowych Matariji",
+      "opis": "Egipsko-niemiecki Heliopolis Project (m.in. Dietrich Raue, Aiman Aszmawi) odkrył w marcu 2017 roku w dzielnicy Matarija w Kairze fragmenty kwarcytowego kolosa, początkowo uznanego za Ramzesa II. Napisy na filarze grzbietowym wskazały Psametycha I (664–610 p.n.e.). W sezonie 2018 znaleziono kolejne ok. 4500 fragmentów (łącznie ok. 6400), co umożliwia rekonstrukcję posągu; liczby podają różne relacje. Posąg stał przed świątynią z czasów Ramessydów.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Luxor Times, 2018",
+          "url": "https://luxortimes.com/german-egyptian-team-discovers-thousands-of-fragments-in-old-heliopolis/"
+        },
+        {
+          "nazwa": "Daily Sabah, 2018",
+          "url": "https://www.dailysabah.com/history/2018/04/15/excavation-works-complete-after-unearthing-more-parts-of-huge-pharaoh-statue-in-cairo/amp"
+        },
+        {
+          "nazwa": "InsideHook, 2017",
+          "url": "https://www.insidehook.com/culture/giant-statue-king-ramses-ii-uncovered-egypt/amp"
+        }
+      ]
+    },
+    {
+      "rok": "2018",
+      "tytul": "Świątynia Nektanebo I i fragmenty bram Ramzesa II",
+      "opis": "W sezonie 2018 misja egipsko-niemiecka pracowała przy świątyni Nektanebo I (380–363 p.n.e.) w Matariji. Znaleziono fragmenty kwarcytowej bramy Ramzesa II i Nektanebo I, fryz z sokołami, część bramy Merenptaha oraz elementy czerwonego granitowego sfinksa z czasów Ramessydów. Raue wnioskuje, że Nektanebo dobudował swój obiekt do znacznie starszej świątyni. W części ptolemejskiej odsłonięto też pomieszczenia warsztatowe, gdzie ponownie użyto starszego wyposażenia świątynnego.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Luxor Times, 2018",
+          "url": "https://luxortimes.com/german-egyptian-team-discovers-thousands-of-fragments-in-old-heliopolis/"
+        }
+      ]
+    }
+  ],
+  "sais": [
+    {
+      "rok": "2014",
+      "tytul": "Neolityczna osada na równinie zalewowej Delty",
+      "opis": "Monografia „Sais II” (Egypt Exploration Society, 2014; Penelope Wilson, Gregory Gilbert, Geoffrey Tassie) podaje wyniki wykopalisk z 2007 roku w tzw. Wielkim Dole w Sa el-Hagar. Odsłoniły one pozostałości neolitycznej osady z ok. 4200–3900 p.n.e., jedynej tej epoki dotąd wykopanej na równinie zalewowej Nilu w Egipcie, a nad nią warstwy z okresu Buto-Maadi. Wyniki dotyczą rolnictwa i wczesnego osadnictwa w Delcie, nie samego miasta Saitów.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Opis monografii Sais II, EES, 2014",
+          "url": "https://www.schweitzer-online.de/en/buch/Wilson/Sais-II/9780856982187/A24568933/"
+        },
+        {
+          "nazwa": "World Archaeology, Penny Wilson o Sais",
+          "url": "https://www.world-archaeology.com/features/sais/"
+        }
+      ]
+    }
+  ],
+  "szuruppak": [
+    {
+      "rok": "2016",
+      "tytul": "Mapa dawnych koryt Eufratu i jedenaście wielkich przesunięć rzek",
+      "opis": "Jaafar Jotheri (Durham University i Uniwersytet Al-Kadisijja) połączył zdjęcia satelitarne, odwierty do 7 m i datowanie radiowęglowe, by prześledzić dawne koryta Eufratu na zachód i południowy zachód od Babilonu. Wyznaczył pięć kolejnych głównych biegów rzeki, w tym cztery wcześniej nieznane, a w pracy doktorskiej z tego samego roku opisał jedenaście wielkich przesunięć koryt Eufratu i Tygrysu w środkowej i południowej Mezopotamii. Ponad 8000 stanowisk archeologicznych układa się wzdłuż rozpoznanych paleokoryt, a przesunięcia rzek tłumaczą rozwój i upadek wielu osiedli. To lokalne, rzeczne mechanizmy; praca nie dotyczy bezpośrednio potopu ani jednego globalnego kataklizmu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Jotheri, Allen, Wilkinson, Geoarchaeology 31, 2016 (streszczenie w pliku PDF repozytorium Uniwersytetu Al-Kadisijja)",
+          "url": "https://repository.qu.edu.iq/wp-content/uploads/sites/31/2017/12/Holocene-Avulsions-of-the-Euphrates-River-in-the-Najaf-Area-of-Western-Mesopotamia.pdf"
+        },
+        {
+          "nazwa": "Jotheri, praca doktorska, Durham University, 2016",
+          "url": "https://etheses.durham.ac.uk/id/eprint/11752"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Czy ktoś przeprowadził badania, czy w pobliżu tych ośrodków nie ma starych koryt rzecznych zasypanych dziś piaskami pustyni?"
+    },
+    {
+      "rok": "2016–2018",
+      "tytul": "Fara (Szuruppak): plan miasta bez wykopów",
+      "opis": "Zespół z Uniwersytetu Monachijskiego (LMU) pod kierunkiem Adelheid Otto, z Abbasem al-Hussainym z Uniwersytetu Al-Kadisijja, w trzech kampaniach 2016–2018 przeprowadził powierzchniowe rozpoznanie niemal całego dolnego miasta. W 2018 roku Jörg Faßbinder wykonał badania magnetometryczne. Ujawniły one fragment muru miejskiego na wschodnim skraju miasta, rozległy budynek pośrodku głównego kopca (prawdopodobnie świątynię bogini miasta) oraz ślady kanałów wewnątrz osady. Miasto o powierzchni 180–250 ha, jedno z największych w III tysiącleciu p.n.e., zostało poważnie zniszczone przez rabunkowe kopanie w latach 2003–2006.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "LMU Monachium, FARA Regional Survey Project (FARSUP)",
+          "url": "https://www.en.vorderas-archaeologie.uni-muenchen.de/research/fara/index.html"
+        },
+        {
+          "nazwa": "Otto i in., MDOG 156, 2024",
+          "url": "https://www.vorderas-archaeologie.uni-muenchen.de/personen/wiss_mitarbeiter/einwag/publikationen/56_otto_et_al_mdog_156_2024.pdf"
+        }
+      ]
+    },
+    {
+      "rok": "2022",
+      "tytul": "Nowe wykopaliska w Fara: warstwa mułu bez datowania",
+      "opis": "Wiosną 2022 roku, dokładnie 120 lat po pierwszych badaniach Koldeweya i Andraego, zespół LMU z Uniwersytetem Al-Kadisijja wykonał niewielkie, celowane wykopy. Po raz pierwszy systematycznie udokumentowano domy z okresu wczesnodynastycznego II–IIIa (ok. 2900–2475 p.n.e.), a duży budynek w centrum uznano za główną świątynię otoczoną zaplanowanymi ulicami. W sondażach natrafiono na 30–50-centymetrową, pozbawioną zabytków warstwę czystego iłu z muszlami i ślimakami, która mogła powstać w wyniku zalania. Autorzy nie mają jej datowania i nie wiążą jej z mitem o potopie; planują odwierty, by sprawdzić, czy to ta sama warstwa, którą w dawnych wykopaliskach łączono z potopem.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Otto, al-Hussainy, Einwag i in., MDOG 156, 2024 (Uniwersytet Monachijski)",
+          "url": "https://www.vorderas-archaeologie.uni-muenchen.de/personen/wiss_mitarbeiter/einwag/publikationen/56_otto_et_al_mdog_156_2024.pdf"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Tak jak poprzednio opisywane ośrodki, tak i tutaj widać, że zniszczenia nastąpiły w wyniku ogromnego kataklizmu."
+    }
+  ],
+  "eridu": [
+    {
+      "rok": "2019–2022",
+      "tytul": "Wznowione wykopaliska w Eridu: mur świętego okręgu Enki",
+      "opis": "Iracko-włosko-francuska misja AMEr (Sapienza Università di Roma i Uniwersytet w Strasburgu; kierownicy Franco D'Agostino i Philippe Quénet) wznowiła w 2019 roku wykopaliska w Eridu, a drugą kampanię przeprowadziła w 2022. Badano m.in. kamienny mur okręgu świętego boga Enki (E-abzu) i okolice cmentarza z okresu Ubajd. Mur i jego skarpa datowane są na czasy III dynastii z Ur i dynastii z Isin i Larsy, a osadnictwo sięga VI tysiąclecia p.n.e. Raport zawiera też badania geoarchaeologiczne i lotnicze okolicy.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Quenet, D'Agostino i in., Iraq 87, 2025 (Cambridge Core)",
+          "url": "https://www.cambridge.org/core/product/A05E7D8818C18FF61AA9A212CC42DFF6/core-reader"
+        }
+      ]
+    },
+    {
+      "rok": "2025–2026",
+      "tytul": "Sieć kanałów nawadniających wokół Eridu",
+      "opis": "Zespół Jaafara Jotheriego (Uniwersytet Al-Kadisijja) z brytyjskimi współpracownikami zmapował na zdjęciach satelitarnych, dronowych i w terenie ponad 200 głównych kanałów, ponad 4000 mniejszych i ponad 700 gospodarstw w okolicy Eridu. Sieć obejmuje okres od wczesnego Ubajdu po okres nowobabiloński i była zasilana z dawnego koryta Eufratu. Wykopy z 2020 roku i datowania muszli ze skarp kanałów wskazują na wiek od V do II tysiąclecia p.n.e., a rzeka według autorów zmieniała bieg tylko bocznie, bez wielkich przeskoków. Dla porzucenia terenu istotne było późniejsze przesunięcie Eufratu, a nie jednorazowa katastrofa.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Jotheri i in., Antiquity 99(405), 2025",
+          "url": "https://www.cambridge.org/core/product/2B2BE82BACA8A2BEFCB4C43A140419C5/core-reader"
+        },
+        {
+          "nazwa": "Rayne, de Gruchy, Jotheri, Abdan, Iraq, 2026",
+          "url": "https://www.cambridge.org/core/journals/iraq/article/landscape-archaeology-of-the-eridu-region-discovering-the-irrigation-systems-of-ancient-farms/598B8A4EC56D3759AF7C0A02256FFBBB"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Czy ktoś badał czy pod piaskami pustyni nie ma pozostałości po kanałach nawadniających?"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Zatoka Perska, pływy i delta u początków Sumeru",
+      "opis": "Liviu Giosan (Woods Hole Oceanographic Institution) i Reed Goodman (Clemson University) odtworzyli dawną linię brzegową na podstawie zdjęć satelitarnych i nowych próbek osadów z Lagasz, w ramach projektu Penn Museum i irackich archeologów. Zatoka Perska sięgała między ok. 7000 a 5000 lat temu znacznie dalej w głąb lądu, a pływy wprowadzały słodką wodę w dolne odcinki rzek. Narastanie delt odcięło potem dostęp pływów, co według autorów skłoniło społeczności do budowy wielkich systemów nawadniania. Wyjaśnienie opiera się na stopniowym nanoszeniu osadów, nie na jednorazowej fali; praca nie opisuje osobno Eridu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Woods Hole Oceanographic Institution, 2025 (Giosan i Goodman, PLOS ONE)",
+          "url": "https://www.whoi.edu/press-room/news-release/southernmesopotamia"
+        },
+        {
+          "nazwa": "ScienceDaily, 2025",
+          "url": "https://www.sciencedaily.com/releases/2025/10/251027023809.htm"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Czy ktoś przeprowadził badania dlaczego brzeg Zatoki Perskiej jest tak oddalony od Eridu, Ur, Larsa czy Lagasz?"
+    }
+  ],
+  "palenque": [
+    {
+      "rok": "2010",
+      "tytul": "Akwedukt Piedras Bolas: woda pod ciśnieniem w mieście Majów",
+      "opis": "Kirk French (Penn State) i hydrolog Christopher Duffy zbadali w Palenque akwedukt Piedras Bolas: sztolnię zasilaną źródłem, której przekrój zwęża się od ok. 10 stóp kwadratowych przy źródle do pół stopy przy wylocie. Z prostych modeli hydraulicznych wynika, że woda wypływała pod ciśnieniem i teoretycznie mogła wytrysnąć na ok. 6 m. Autorzy uważają to za najwcześniejszy znany w Nowym Świecie przykład celowo wytworzonego ciśnienia wody. Wylot jest częściowo zawalony, więc zastosowanie (fontanna? zasilanie budynków?) pozostaje nieznane, a wysokość strumienia to szacunek, nie pomiar.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "EurekAlert / Penn State, 2010 (French i Duffy, Journal of Archaeological Science)",
+          "url": "https://www.eurekalert.org/news-releases/535682"
+        },
+        {
+          "nazwa": "Penn State News",
+          "url": "https://www.psu.edu/news/research/story/maya-plumbing-first-pressurized-water-feature-found-new-world"
+        }
+      ]
+    },
+    {
+      "rok": "2012–2013",
+      "tytul": "Czerwona Królowa: DNA i pochodzenie",
+      "opis": "Szczątki kobiety z grobowca w Świątyni XIII (odkrytego w 1994 roku), całego pokrytego cynobrem, badano w latach 1997–2002. W 2012 roku meksykański INAH pobrał z jej kręgu próbkę kolagenu do analizy DNA, który okazał się dobrze zachowany. Według relacji National Geographic analiza genetyczna wykazała brak pokrewieństwa z królem Pakalem, a zęby wskazują na lokalne pochodzenie. Najpopularniejsza hipoteza mówi, że to jego żona Ix Tz'akb'u Ajaw, ale badania nie są rozstrzygające. Wyniki znamy z relacji prasowych, nie z recenzowanej publikacji.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic, 2017",
+          "url": "https://www.nationalgeographic.com/history/magazine/2017/05-06/Maya_Red_Queen/"
+        },
+        {
+          "nazwa": "ArtDaily, 2013 (INAH, pobranie próbek do DNA)",
+          "url": "https://artdaily.com/news/60129/images/close.gif"
+        }
+      ]
+    },
+    {
+      "rok": "2018",
+      "tytul": "Stiukowa maska prawdopodobnie przedstawiająca Pakala w starości",
+      "opis": "Podczas rutynowych prac konserwatorskich w Domu E Pałacu w Palenque zespół INAH pod kierunkiem Arnoldo Gonzáleza Cruza znalazł depozyt wotywny z maską stiukową o pomarszczonej twarzy i wydatnej dolnej wardze. Archeolodzy uważają, że to Pakal Wielki jako starzec (zm. 683 r.), co byłoby jego pierwszym znanym takim wizerunkiem. Identyfikacja opiera się wyłącznie na cechach twarzy i nie jest potwierdzona. Nie jest to słynna jadeitowa maska z grobowca.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Mexico News Daily, 2018",
+          "url": "https://mexiconewsdaily.com/news/palenque-mask-believed-to-represent-7th-century-mayan-ruler"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "Świątynia Inskrypcji jako element planowanego mauzoleum",
+      "opis": "Arianna Campiani, Rodrigo Liendo Stuardo i Nicola Lercari zeskanowali w 2018 roku laserem naziemnym i fotogrametrią z drona rdzeń Palenque, także wnętrza Świątyni Inskrypcji. Z danych wynika, że podstawy Świątyni Inskrypcji i sąsiedniej Świątyni XIII powstały jednocześnie, a całość zaplanował za życia sam Pakal jako zespół grobowy. Trójkomnatowy układ podziemi to wniosek przez analogię z innymi grobowcami, a nie obserwacja z wykopalisk.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Campiani, Liendo Stuardo, Lercari, Ancient Mesoamerica 33(2), 2022 (online 2021)",
+          "url": "https://www.cambridge.org/core/product/1D0D092746243BEE58B4B7FBCAB41D3A/core-reader"
+        }
+      ],
+      "artykul": "07piramidy/piramidy",
+      "cytat_leszka": "Nawet odnalezienie w piramidzie na drugim końcu świata grobowca króla Pacala w Palenque"
+    }
+  ],
+  "tikal": [
+    {
+      "rok": "2018",
+      "tytul": "LiDAR PACUNAM: Majowie na dużo większą skalę",
+      "opis": "Zespół Marcella Canuto (Tulane University) z konsorcjum PACUNAM przeskanował z samolotu ok. 2144 km² północnej Gwatemali, także okolice Tikal. W danych zidentyfikowano 61 480 budowli, ok. 106 km² dróg grobli, rozległe pola tarasowe i liczne umocnienia obronne, m.in. wał i fosę częściowo otaczające Tikal. Autorzy szacują 7–11 mln mieszkańców regionu w późnej epoce klasycznej, ale przeliczenie liczby budowli na ludność jest niepewne, a skaner nie datuje obiektów.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Phys.org / Tulane, 2018 (Canuto i in., Science)",
+          "url": "https://phys.org/news/2018-09-unprecedented-massive-scale-lowland-maya.html"
+        },
+        {
+          "nazwa": "Science News, 2018",
+          "url": "https://www.sciencenews.org/?p=25172"
+        },
+        {
+          "nazwa": "National Geographic, 2019",
+          "url": "https://www.nationalgeographic.com/culture/article/lasers-reveal-maya-war-ruins"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "jak wiemy zdjęcia satelitarne pokazały niebywałą sieć szerokich na 12 m dróg na całym Jukatanie"
+    },
+    {
+      "rok": "2020",
+      "tytul": "Rtęć i toksyczne sinice w zbiornikach Tikal",
+      "opis": "Zespół Davida Lentza (University of Cincinnati) przebadał osady z 10 zbiorników Tikal. W dwóch największych, przy świątyniach i pałacu, wykrył rtęć pochodzącą z cynobru, czerwonego barwnika używanego przez Majów, oraz sinice produkujące toksyny odporne na gotowanie. Osady pochodzą z IX wieku. Autorzy uważają, że te zbiorniki raczej nie służyły do picia, a skażenie mogło współprzyczynić się do wyludnienia, obok suszy i czynników społecznych, ale nie dowodzą, że było główną przyczyną.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "University of Cincinnati, 2020 (Scientific Reports)",
+          "url": "https://www.uc.edu/news/articles/n20927014/ancient-maya-reservoirs-were-polluted-with-toxic-mercury-blue-green-algae.html"
+        },
+        {
+          "nazwa": "Sci.News, 2020",
+          "url": "https://www.sci.news/archaeology/toxic-chemicals-water-reservoirs-ancient-maya-city-tikal-08587.html"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "i nagle trach! ludzie wynoszą się gdzie indziej"
+    },
+    {
+      "rok": "2020",
+      "tytul": "Filtr z zeolitu i kwarcu chronił wodę pitną",
+      "opis": "Kenneth Tankersley i współpracownicy z University of Cincinnati, stosując dyfrakcję rentgenowską, wykryli w osadach zbiornika Corriental mieszaninę zeolitu i kwarcu, sprowadzanych z ok. 30 km od Tikal (okolice Bajo de Azúcar). Taki filtr usuwa mikroby, związki azotu, metale ciężkie i toksyny, a w Corriental nie znaleziono rtęci obecnej w innych zbiornikach. System działał ok. 2200–1000 lat temu. Autorzy uznają go za najstarszy znany przykład takiego uzdatniania wody na półkuli zachodniej, co jest ich własną oceną.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "University of Cincinnati, 2020 (Tankersley i in., Scientific Reports)",
+          "url": "https://www.uc.edu/news/articles/2020/10/n20956556.html"
+        },
+        {
+          "nazwa": "ScienceDaily, 2020",
+          "url": "https://www.sciencedaily.com/releases/2020/10/201022151741.htm"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "Replika Ciudadeli z Teotihuacan ukryta w lesie",
+      "opis": "Stephen Houston (Brown University), Edwin Román Ramírez i współautorzy opisali w Antiquity kompleks widoczny w danych LiDAR z 2016 roku, wcześniej brany za naturalne wzgórza. Kopiuje on Ciudadelę i Świątynię Pierzastego Węża z Teotihuacan w ok. 30% skali, z podobną orientacją (ok. 15,5° na wschód od północy). Wykopaliska od 2019 roku dały zabudowę z gliny i cegły, zielone groty z obsydianu i kadzielnice w stylu Teotihuacan oraz pochówek przypominający pochówki wojowników. Związek z najazdem z 378 r. (Sihyaj K'ahk') i rola „ambasady” to interpretacje.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Houston i in., Antiquity 95(384), 2021",
+          "url": "https://www.cambridge.org/core/product/1ABD72745DB20D55493B1A47CF267E77/core-reader"
+        },
+        {
+          "nazwa": "Archaeology Magazine, 2022",
+          "url": "https://archaeology.org/issues/online/collection/digs-guatemala-tikal-ciudadela/"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Który z nich jest właściwy?"
+    }
+  ],
+  "troja": [
+    {
+      "rok": "2015",
+      "tytul": "Czy późnobrązowy Hisarlik był dużym portem? Głos sceptyczny",
+      "opis": "Nicolas Assur Corfù przeanalizował dawne wiercenia geoarcheologiczne i uznał, że równiny wokół Hisarlik i tzw. dolnego miasta były w epoce brązu terenami podmokłymi, więc duża osada z portem jest mało prawdopodobna; wskazał też malarię jako czynnik. To stanowisko mniejszości, sprzeczne z wynikami zespołu Korfmanna (dolne miasto ok. 200 000 m² i rów obronny) i z pracami Krafta i Kayana nad zatoką Troi. Źródło to opis pracy w repozytorium uniwersyteckim, bez niezależnej oceny.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Corfù, Universität Basel (edoc), 2015",
+          "url": "https://edoc.unibas.ch/entities/publication/56a0176c-2a98-4137-8bb2-192cee56d220"
+        }
+      ],
+      "artykul": "04chrono/chronos",
+      "cytat_leszka": "Czy prawdziwa Troja zniknęła gdzieś pod wodą w wyniku kataklizmu?"
+    },
+    {
+      "rok": "2017",
+      "tytul": "Kamienna droga z Troi VI/VII w wykopaliskach Aslana",
+      "opis": "Zespół 40 osób Rüstema Aslana (Çanakkale Onsekiz Mart University), prowadzącego wykopaliska od 2013 roku, odkrył w sezonie 2017 pod warstwami rzymskimi i hellenistycznymi kamienną drogę, którą datuje na okres Troi VI i VII, czyli ok. 3500 lat. Znaleziono też rzymską łaźnię i system wodny; jego datowanie w relacjach jest niespójne (ok. 500 p.n.e. lub okres rzymski). Ustalenia są wstępne, a nekropolii z późnej epoki brązu wciąż nie odnaleziono.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Hürriyet Daily News, 2017",
+          "url": "https://hurriyetdailynews.com/excavations-unveil-mysteries-of-trojan-war-116282"
+        },
+        {
+          "nazwa": "Protothema (en), 2017",
+          "url": "https://en.protothema.gr/2017/08/10/excavations-unveil-mysteries-of-trojan-war/"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "201 odwiertów wokół rowu obronnego dolnego miasta",
+      "opis": "Zespół İlhana Kayana, Mehmeta Doğana i Rüstema Aslana wykonał 201 odwiertów prostopadłych do przebiegu późnobrązowego rowu obronnego na skraju dolnego miasta, sprawdzając anomalie wykryte wcześniej metodami geofizycznymi w latach 2007–2011. Nad mioceńskim podłożem leży 2–3 m gruzu z Troi. Rów udało się prześledzić do jednego punktu, a dalej na północny wschód nie znaleziono jego śladu. Metoda ogranicza zbędne wykopy, lecz nie rozstrzyga sporu o rozmiary dolnego miasta.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Kayan i in., Arkeoloji Dergisi, 2021",
+          "url": "https://dergipark.org.tr/en/pub/egearkeoloji/article/868160"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Kamienie do proc przed pałacem w warstwach Troi VI/VII",
+      "opis": "Ekipa Rüstema Aslana odkryła tuż przed murami pałacu stos drobnych otoczaków, najpewniej amunicję do proc, w warstwach Troi VI i VII z XIII w. p.n.e. Wcześniej w tych warstwach znajdowano ślady pożarów i niedbale pochowane szkielety. Aslan wiąże koncentrację kamieni z obroną lub atakiem, ale nie wiadomo, czy ma to związek z wojną z legendy, a część badaczy wciąż nie jest przekonana, że doszło do dziesięcioletniej wojny.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2025",
+          "url": "https://archaeology.org/news/2025/07/10/new-evidence-alludes-to-military-conflict-at-ancient-troy/"
+        }
+      ],
+      "artykul": "01potop/potop",
+      "cytat_leszka": "Starożytni Grecy wojnę trojańską umieszczają około 1200 lat pne."
+    },
+    {
+      "rok": "2026",
+      "tytul": "Agora sprzed ok. 2800 lat i szybkie ponowne zasiedlenie",
+      "opis": "Według komunikatów z wykopalisk (ministerstwo kultury i Çanakkale Onsekiz Mart University) odsłonięto fragment agory sprzed ok. 2800 lat oraz brukowaną drogę z dolnego miasta do bramy południowej. Zastępczyni kierownika, Reyhan Körpe, twierdzi, że nowi osadnicy pojawili się 80–90 lat po upadku Troi i wykorzystywali dawne mury. Relacja prasowa podaje to bez szczegółów datowania i nie wyjaśnia, jak to się ma do przypisania terenu Troi VI, więc wniosek wymaga publikacji naukowej.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Euronews, 2026",
+          "url": "https://www.euronews.com/culture/2026/09/22/archaeology-at-troy-2800-year-old-agora-found-city-was-not-abandoned-after-war"
+        }
+      ]
+    }
+  ],
+  "teby-luksor-i-karnak": [
+    {
+      "rok": "2021",
+      "tytul": "„Złote Miasto” Atona z czasów Amenhotepa III",
+      "opis": "Egipska misja pod kierunkiem Zahiego Hawassa ogłosiła w kwietniu 2021 roku odkrycie osady administracyjno-rzemieślniczej na zachodnim brzegu Nilu w Luksorze, między świątynią Ramzesa III w Medinet Habu a świątynią Amenhotepa III. Za datowaniem na jego panowanie przemawiają cegły i pieczęcie z jego kartuszem, pierścienie, skarabeusze i naczynia, a miasto miało być używane jeszcze za Tutanchamona i Aja. Wiadomości pochodzą głównie z komunikatów ministerstwa i samego Hawassa, bez recenzowanej publikacji, a określenia „największe miasto w Egipcie” i „złote” są hasłami medialnymi.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Egyptian Streets, 2021",
+          "url": "https://egyptianstreets.com/2021/04/08/egyptologist-zahi-hawass-announces-discovery-of-lost-golden-city-in-luxor/"
+        },
+        {
+          "nazwa": "Sci.News, 2021",
+          "url": "https://www.sci.news/archaeology/aten-city-09547.html"
+        }
+      ]
+    },
+    {
+      "rok": "2024",
+      "tytul": "Nil pod Luksorem: zmiana rzeki 4000 lat temu",
+      "opis": "Międzynarodowy zespół z Uniwersytetu w Uppsali i Uniwersytetu w Southampton wykonał 81 odwiertów w dolinie Nilu pod Luksorem i datował osady metodą luminescencji (OSL). Rzeka przez ok. 7 tys. lat wcinała się w dno doliny, a około 4000 lat temu, wskutek wysychania Sahary, zaczęła gwałtownie odkładać muł i poszerzać równinę zalewową; z wielu koryt zrobiło się kilka stabilnych. Autorzy ostrożnie wiążą to z rolnictwem i rozmieszczeniem stanowisk, zaznaczając, że bezpośrednich związków przyczynowych nie da się wykazać.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "University of Southampton, 2024 (Nature Geoscience)",
+          "url": "https://www.southampton.ac.uk/news/2024/06/crucial-shift-in-river-niles-evolution.page"
+        },
+        {
+          "nazwa": "Phys.org, 2024",
+          "url": "https://phys.org/news/2024-06-crucial-shift-river-nile-evolution.html"
+        }
+      ],
+      "artykul": "08egipt/egipt",
+      "cytat_leszka": "Czy ktoś zagrożony corocznymi, potężnymi wylewami rzeki zdecydował by się na budowę w takich miejscach?"
+    },
+    {
+      "rok": "2025",
+      "tytul": "Grobowiec Totmesa II w Zachodnich Dolinach Teb",
+      "opis": "Brytyjsko-egipski zespół (New Kingdom Research Foundation, Piers Litherland) ogłosił w lutym 2025 roku, że grobowiec C4, odkryty w 2022 roku w Zachodnich Dolinach, należał do Totmesa II. Dowodem są alabastrowe naczynia z jego imieniem i imieniem żony Hatszepsut oraz dekoracja z gwiaździstym niebem i fragmentami Amduatu, typowymi dla grobów królewskich. Grób był pusty; badacze sądzą, że po zalaniu wyposażenie przeniesiono do drugiego, nieodnalezionego jeszcze grobowca, a hasło „pierwszy grób faraona od czasów Tutanchamona” bywa kwestionowane.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "The Past, 2025",
+          "url": "https://the-past.com/news/lost-pharaohs-tomb-discovered/"
+        },
+        {
+          "nazwa": "Daily Maverick, 2025",
+          "url": "https://www.dailymaverick.co.za/article/2025-02-24-tomb-of-egyptian-pharaoh-is-first-found-in-luxor-since-tutankhamun-heres-how-we-know-who-lay-inside/"
+        }
+      ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Karnak zaczynał się na wyspie na Nilu",
+      "opis": "Zespół Uniwersytetu w Uppsali i Uniwersytetu w Southampton (Angus Graham, Ben Pennington) pobrał 61 rdzeni osadów i zbadał dziesiątki tysięcy fragmentów ceramiki; wyniki opublikowano w Antiquity w październiku 2025. Przed ok. 2520 p.n.e. teren był regularnie zalewany, a koryta Nilu po obu stronach pozostawiły wyspę wyżej położonego gruntu, na której stanęły pierwsze budowle; najstarsze osadnictwo datuje się na Stare Państwo. Egipcjanie zasypywali też koryta pustynnym piaskiem, by zyskać grunt pod zabudowę. Powiązanie wyspy z mitem o wzgórzu wyłaniającym się z wód jest tylko hipotezą autorów.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "University of Southampton, 2025 (Antiquity)",
+          "url": "https://www.southampton.ac.uk/news/2025/10/research-unearths-origins-of-ancient-egypts-karnak-temple.page"
+        },
+        {
+          "nazwa": "Uppsala University, 2025",
+          "url": "https://www.uu.se/en/press/press-releases/2025/2025-10-13-origins-of-ancient-egypts-karnak-temple-revealed"
+        }
+      ],
+      "artykul": "08egipt/egipt",
+      "cytat_leszka": "Budowano także na wyspach na rzece."
+    }
+  ],
+  "aksum": [
+    {
+      "rok": "2005–2008",
+      "tytul": "Obelisk wraca z Rzymu, a pod parkingiem odkryto grobowce",
+      "opis": "Włochy zwróciły w 2005 roku stelę zabraną w 1937 roku do Rzymu; pocięta na trzy bloki, została ponownie ustawiona w Aksum przez zespoły UNESCO, co zakończono 1 sierpnia 2008 roku. Przed pracami nieinwazyjne badania ekipy Rodolfa Fattovicha wykryły pod dawnym parkingiem przy stelach podziemne komory i arkady, wskazujące na królewską nekropolię używaną przez kilka dynastii jeszcze przed epoką chrześcijańską. Podawana masa obelisku różni się w źródłach (150–160 t).",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "UN News, 2005",
+          "url": "https://news.un.org/en/node/135932"
+        },
+        {
+          "nazwa": "UN News, 2008",
+          "url": "https://news.un.org/en/node/268092"
+        }
+      ]
+    },
+    {
+      "rok": "2015",
+      "tytul": "Groby z rzymskimi wyrobami sprzed prawie 2000 lat",
+      "opis": "Brytyjska ekipa pod kierunkiem Louise Schofield, byłej kuratorki British Museum, odkryła w Aksum po sześciu tygodniach prac groby z I–II wieku n.e., m.in. kobiety z brązowym lustrem rzymskim, szklanymi naczyniami i paciorkami oraz wojowników z żelaznymi bransoletami. Sugerowałoby to, że kontakty handlowe i kulturowe z Rzymem sięgały kilka stuleci wcześniej, niż zakładano (dotąd IV–V wiek). Informacja pochodzi z relacji prasowej, bez recenzowanej publikacji wyników.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology News (archaeology.wiki), 2015",
+          "url": "https://www.archaeology.wiki/blog/2015/06/09/aksumite-roman-artefacts-discovered-ethiopian-grave"
+        }
+      ]
+    },
+    {
+      "rok": "2019",
+      "tytul": "Beta Samati: miasto Aksumitów i najstarsza bazylika",
+      "opis": "Zespół Michaela Harrowera (Johns Hopkins University) opublikował w Antiquity wyniki wykopalisk z lat 2011–2016 w Beta Samati, osadzie o powierzchni ok. 20 ha, położonej 6,5 km od Yeha. Mur kamienny sięga VIII wieku p.n.e., a trójnawowa bazylika z IV wieku n.e. z napisem w ge'ez należy do najstarszych znanych kościołów na południe od Sahary; znaleziono też figurki byków i złoty pierścień, co wskazuje na współistnienie dawnych wierzeń. Osadę zamieszkiwano do VII wieku n.e.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Harrower i in., Antiquity, 2019 (Cambridge Core)",
+          "url": "https://www.cambridge.org/core/product/643FA872A5B2F9B5E0E765D850C4A526/core-reader"
+        },
+        {
+          "nazwa": "Archaeology Magazine, Beta Samati",
+          "url": "https://archaeology.org/issues/online/collection/digs-ethiopia-beta-samati"
+        }
+      ]
+    }
+  ],
+  "delfy": [
+    {
+      "rok": "2008",
+      "tytul": "Uskok delficki: gazy mogły towarzyszyć trzęsieniom ziemi",
+      "opis": "Luigi Piccardi i współpracownicy w Journal of the Geological Society zestawili pomiary geochemii wód, trawertynu i gleby z analizą uskoków, historią i mitologią. Dziś nie stwierdzono wypływu gazów węglowodorowych i uskok delficki nie jest aktualnie drogą ucieczki głębokich płynów, ale autorzy sądzą, że w przeszłości wstrząsy (do Ms 6,7 w 1870 roku) mogły okresowo uwalniać gazy bogate w CO2 i H2S, co mogło dać początek micie o szczelinie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Piccardi i in., J. Geol. Soc. London 165, 2008 (SERC Carleton)",
+          "url": "https://serc.carleton.edu/resources/40489.html"
+        }
+      ]
+    },
+    {
+      "rok": "2017",
+      "tytul": "Delfy na uskoku: trzęsienie ziemi z 373 r. p.n.e. i rola sejsmiki",
+      "opis": "Iain Stewart (Uniwersytet w Plymouth) i Luigi Piccardi opublikowali w Proceedings of the Geologists' Association analizę ośmiu starożytnych miejsc kultu egejskiego leżących na uskokach. Świątynia Apollina stoi na wapieniu przeciętym dwoma uskokami, a trzęsienie ziemi w 373 r. p.n.e. zniszczyło sanktuarium, które odbudowano w tym samym miejscu. Teza o kulturowej roli trzęsień ziemi jest interpretacją geologów, nie dowodem, że to gazy wywoływały wizje.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Sci.News, 2017",
+          "url": "https://www.sci.news/archaeology/earthquakes-cultural-significance-ancient-greek-world-05221.html"
+        },
+        {
+          "nazwa": "EARTH Magazine, 2017",
+          "url": "https://www.earthmagazine.org/article/earthquakes-shaped-ancient-greek-culture/"
+        }
+      ],
+      "artykul": "02uskok/uskok",
+      "cytat_leszka": "Na środkowym zdjęciu potrzaskane \"klocki Lego\" z greckich Delf."
+    }
   ]
 }
