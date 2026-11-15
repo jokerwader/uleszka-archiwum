@@ -6,11 +6,12 @@
  * Dane: atlas/miejsca.json (ręczna lista) + atlas/dane.json (npx tsx scripts/atlas-pobierz.ts) + opracowania artykułów.
  * Uruchomienie: npx tsx scripts/atlas.ts   (po czytelni – korzysta z docs/czytelnia/harmonogram.json)
  */
-import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs";
 import { Archiwum, type Dokument } from "../src/archiwum.js";
 import { wczytajAtlas, slug, type MiejsceAtlasu } from "./lib/atlas.js";
 import { hamburger, menuLinki } from "./lib/menu.js";
 import { zWersja } from "./lib/wersja.js";
+import sharp from "sharp";
 
 const archiwum = new Archiwum(".");
 const { miejsca, rodzaje } = wczytajAtlas(archiwum);
@@ -162,6 +163,65 @@ const NAZWY_GRUP = { zblizenia: "Zbliżenia konstrukcji", widoki: "Widoki", lesz
 rmSync(WYJSCIE, { recursive: true, force: true });
 mkdirSync(WYJSCIE, { recursive: true });
 
+// ---------- ciekawostki 3D (atlas/modele-3d.json): model .glb i rendery z grafiki/3d ----------
+// Na stronie najpierw widać render z opisami; interaktywny podgląd (three.js + model, kilka MB) wczytuje się dopiero po kliknięciu.
+type Model3d = {
+  folder: string; model: string; plakat: string; tytul: string; opis: string; wycofanie?: string; badanie?: string;
+  kadry: { plik: string; podpis: string }[]; podglad: string; zrodla: { nazwa: string; url: string }[];
+};
+const modele3d: Record<string, Model3d> = existsSync("atlas/modele-3d.json")
+  ? Object.fromEntries(Object.entries(JSON.parse(readFileSync("atlas/modele-3d.json", "utf8"))).filter(([k]) => !k.startsWith("_"))) as Record<string, Model3d>
+  : {};
+for (const [s, md] of Object.entries(modele3d)) {
+  const cel = `${WYJSCIE}/3d/${s}`;
+  mkdirSync(cel, { recursive: true });
+  copyFileSync(`${md.folder}/${md.model}`, `${cel}/${md.model}`);
+  // podgląd z grafiki/3d nie ma szkieletu HTML: część przed panelem idzie do <head>, reszta do <body>
+  const pg = readFileSync(`${md.folder}/${md.podglad}`, "utf8");
+  const ciało = pg.search(/<aside|<main|<canvas/);
+  writeFileSync(`${cel}/index.html`, `<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+${pg.slice(0, ciało).replace(/<meta name="claude:[^>]*>\n?/g, "").replace(/<title>[^<]*<\/title>/, `<title>${esc(md.tytul)} – model 3D, uleszka.net</title>`)}<style>body { margin: 0; }</style>
+</head>
+<body>
+${pg.slice(ciało)}</body>
+</html>
+`, "utf8");
+  await sharp(`${md.folder}/${md.plakat}`).resize(1600).jpeg({ quality: 82, mozjpeg: true }).toFile(`${cel}/plakat.jpg`);
+  for (const [i, k] of md.kadry.entries()) {
+    await sharp(`${md.folder}/${k.plik}`).resize(1600).jpeg({ quality: 82, mozjpeg: true }).toFile(`${cel}/kadr-${i + 1}.jpg`);
+    await sharp(`${md.folder}/${k.plik}`).resize(480).jpeg({ quality: 78, mozjpeg: true }).toFile(`${cel}/kadr-${i + 1}-mini.jpg`);
+  }
+}
+const model3dHtml = (s: string) => {
+  const md = modele3d[s];
+  if (!md) return "";
+  const d = `3d/${s}/`;
+  return `<section id="model-3d" class="pas ciekawostka-3d"><div class="wrap-atlas">
+    <h2 class="etykieta">Ciekawostka · model 3D</h2>
+    <div class="model-siatka">
+      <div class="model-opis">
+        <h3>${esc(md.tytul)}</h3>
+        <p>${esc(md.opis)}</p>
+        ${md.wycofanie ? `<p class="wycofanie">${esc(md.wycofanie)}</p>` : ""}
+        <p class="legenda-3d"><span class="l-twierdz">twierdzenia (2025, bez recenzji)</span><span class="l-potw">potwierdzone</span></p>
+        <p class="zrodla-odkrycia"><span>Źródła:</span> ${md.zrodla.map((z) => `<a href="${esc(z.url)}" rel="noopener">${esc(z.nazwa)} ↗</a>`).join("")}</p>
+      </div>
+      <div class="model-okno" data-podglad="${d}" data-tytul="${esc(md.tytul)}">
+        <img class="model-plakat" src="${d}plakat.jpg" alt="${esc(md.tytul)} – kadr z opisami" loading="lazy">
+        <button type="button" class="wczytaj-3d">⟳ Otwórz model 3D <small>(${(statSync(`${md.folder}/${md.model}`).size / 1e6).toLocaleString("pl-PL", { maximumFractionDigits: 1 })} MB)</small></button>
+      </div>
+    </div>
+    <p class="model-pelny"><a href="${d}" target="_blank" rel="noopener">Otwórz model na całym ekranie ↗</a></p>
+    <ul class="kadry-3d">${md.kadry.map((k, i) => `<li><button type="button" class="powieksz" data-duze="${d}kadr-${i + 1}.jpg" data-podpis="${esc(`${k.podpis} · model poglądowy: jokerwader, uleszka.net`)}"><img src="${d}kadr-${i + 1}-mini.jpg" alt="${esc(k.podpis)}" loading="lazy"></button></li>`).join("")}</ul>
+    <p class="uwaga">Model poglądowy przygotowany w Blenderze na podstawie streszczenia i konferencji autorów (marzec 2025) oraz pomiarów piramidy. Tam, gdzie autorzy nie podali liczb, wymiary są szacunkowe. W modelu możesz przełączać widoki i warstwy, a kliknięcie elementu pokazuje, co to jest i skąd są jego wymiary.</p>
+  </div></section>`;
+};
+
 // ---------- karty miejsc ----------
 // ile widać od razu; resztę rozwija przycisk „Pokaż wszystkie”
 const POKAZ_ART = 5, POKAZ_ZDJ = 9;
@@ -213,7 +273,7 @@ for (const m of miejsca) {
               ${c ? `<div class="leszek-pisal"><small>Leszek pisał</small><p>„${esc(c)}”</p>${tytulArt ? `<a href="${urlArt(o.artykul!)}">„${esc(tytulArt)}” →</a>` : ""}</div>` : ""}
               <div class="ustalenia"><small>${c ? `Badania, ${rok}` : "Co ustalono"}</small><p>${esc(o.opis)}</p></div>
             </div>
-            <p class="zrodla-odkrycia"><span>Źródła:</span> ${o.zrodla.map((z) => `<a href="${esc(z.url)}" rel="noopener">${esc(z.nazwa)} ↗</a>`).join("")}</p>
+            <p class="zrodla-odkrycia"><span>Źródła:</span> ${o.zrodla.map((z) => `<a href="${esc(z.url)}" rel="noopener">${esc(z.nazwa)} ↗</a>`).join("")}${modele3d[m.slug]?.badanie === o.tytul ? `<a class="do-modelu" href="#model-3d">Zobacz model 3D ↓</a>` : ""}</p>
           </details>
         </li>`;
   };
@@ -241,7 +301,7 @@ for (const m of miejsca) {
   </div></div>
 
   <nav class="sekcje" aria-label="Części karty"><div class="wrap-atlas">
-    <a href="#skrot">W skrócie</a><a href="#leszek">Co pisał Leszek</a>${badania.length ? `<a href="#badania">Najnowsze badania</a>` : ""}${kaf.length ? `<a href="#zdjecia">Zdjęcia</a>` : ""}<a href="#mapa">Mapa</a>
+    <a href="#skrot">W skrócie</a><a href="#leszek">Co pisał Leszek</a>${badania.length ? `<a href="#badania">Najnowsze badania</a>` : ""}${modele3d[m.slug] ? `<a href="#model-3d">Model 3D</a>` : ""}${kaf.length ? `<a href="#zdjecia">Zdjęcia</a>` : ""}<a href="#mapa">Mapa</a>
   </div></nav>
 
   <section id="skrot" class="pas w-skrocie"><div class="wrap-atlas skrot-siatka">
@@ -278,6 +338,8 @@ for (const m of miejsca) {
     ${badania.length > POKAZ ? `<button type="button" class="pokaz-wszystkie">Pokaż wszystkie badania (${badania.length})</button>` : ""}
     <p class="uwaga">Kliknij tytuł, żeby rozwinąć opis i źródła.</p>
   </div></section>` : ""}
+
+  ${model3dHtml(m.slug)}
 
   ${kaf.length ? `<section id="zdjecia" class="pas jasny-pas"><div class="wrap-atlas">
     <div class="naglowek-zdjec">

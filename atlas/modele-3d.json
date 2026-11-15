@@ -1,0 +1,45 @@
+{
+  "_opis": "Ciekawostki 3D na kartach atlasu (sekcja „Ciekawostka: model 3D”). Klucz = slug miejsca. folder: katalog w grafiki/3d z plikiem .glb, renderami PNG i interaktywnym podglądem (podglad: strona three.js bez szkieletu HTML, wczytuje .glb leżący obok); plakat: render widoczny przed otwarciem modelu; kadry: dodatkowe rendery do powiększenia; badanie: tytuł wpisu z odkrycia.json, przy którym pojawi się link do modelu.",
+  "piramidy-w-gizie": {
+    "folder": "grafiki/3d/chefren-sar",
+    "model": "chefren-sar.glb",
+    "plakat": "render-04-opis.png",
+    "tytul": "Co według Malangi i Biondiego jest pod piramidą Chefrena?",
+    "opis": "W marcu 2025 Filippo Biondi i Corrado Malanga ogłosili, że z danych radarowych odczytali pod piramidą Chefrena szyby, ogromne komory i „miasto” do 2 km w głąb. Model pokazuje w jednej skali to, co twierdzą (na różowo), obok tego, co naprawdę zmierzono (piramida i znane komory, kolor piaskowy i złoty). To ilustracja ich twierdzeń, a nie odkrycie: praca nie przeszła recenzji, a geofizycy wskazują, że radar nie sięga w skałę głębiej niż na kilka metrów.",
+    "wycofanie": "W sierpniu 2026 czasopismo Remote Sensing wycofało ich wcześniejszy artykuł o korytarzach w piramidzie Cheopsa (2022) z powodu poważnych błędów metodologicznych.",
+    "badanie": "Sensacja o „strukturach” pod piramidą Chefrena z radaru SAR",
+    "kadry": [
+      {
+        "plik": "render-02-przekroj.png",
+        "podpis": "Przekrój zachód–wschód do ok. 840 m: różowe – twierdzenia Biondiego i Malangi (2025, bez recenzji), piaskowe i złote – potwierdzone"
+      },
+      {
+        "plik": "render-03-szyby-zblizenie.png",
+        "podpis": "Zbliżenie: piramida, struktury „Zed”, rama korytarzy i górne odcinki szybów według Biondiego i Malangi (2025, bez recenzji)"
+      },
+      {
+        "plik": "render-05-znane-komory.png",
+        "podpis": "Tylko to, co potwierdzone: znane komory i korytarze piramidy Chefrena według pomiarów Petriego (1883) oraz Maragioglia i Rinaldiego (1966)"
+      },
+      {
+        "plik": "render-01-widok-ogolny.png",
+        "podpis": "Widok ogólny całej kolumny skały do 2 km według twierdzeń Biondiego i Malangi (2025, bez recenzji)"
+      }
+    ],
+    "zrodla": [
+      {
+        "nazwa": "National Geographic, 2025",
+        "url": "https://www.nationalgeographic.com/history/article/is-there-a-secret-city-under-the-pyramids-"
+      },
+      {
+        "nazwa": "Retraction Watch, 2026",
+        "url": "https://retractionwatch.com/2026/08/31/retraction-corridors-inside-great-pyramid-giza/"
+      },
+      {
+        "nazwa": "Opis modelu i wszystkie źródła",
+        "url": "https://github.com/jokerwader/uleszka-archiwum/tree/main/grafiki/3d/chefren-sar"
+      }
+    ],
+    "podglad": "podglad-3d.html"
+  }
+}

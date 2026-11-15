@@ -111,6 +111,18 @@
     const d = document.querySelector(".os-badan details");
     if (d) d.open = true;
   }));
+  // ciekawostka 3D: interaktywny podgląd (three.js i model, kilka MB) wczytuje się dopiero po kliknięciu, w ramce na całą szerokość
+  document.querySelectorAll(".model-okno").forEach((okno) => {
+    okno.querySelector(".wczytaj-3d")?.addEventListener("click", () => {
+      const ramka = Object.assign(document.createElement("iframe"), { src: okno.dataset.podglad, title: `Model 3D: ${okno.dataset.tytul}` });
+      ramka.setAttribute("allow", "fullscreen");
+      okno.replaceChildren(ramka);
+      okno.classList.add("wczytany");
+      okno.closest(".model-siatka")?.classList.add("otwarty");
+      okno.scrollIntoView({ block: "nearest" });
+    });
+  });
+
   // pasek części karty: podświetla tę, którą się właśnie czyta
   const linkiSekcji = [...document.querySelectorAll(".sekcje a")];
   if (linkiSekcji.length) {
