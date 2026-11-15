@@ -34,7 +34,7 @@ const ZNAKI: Record<string, string> = {
 // kwoty jak zaleca Patronite (10, 20, 30, 50, 100 zł; kwoty progu nie da się później zmienić);
 // próg 10 zł wybiera najwięcej osób, więc ma najatrakcyjniejszą nagrodę: odcinek dzień przed premierą
 const PROGI = [
-  { nr: 1, nazwa: "Czytelnik", kwota: "10 zł", znak: "ksiazka", jasnosc: 0.15, zalety: ["Odcinki podcastu dzień przed premierą", "Twoje imię na stronach Patronów", "Wpisy zza kulis wszystkich projektów"] },
+  { nr: 1, nazwa: "Czytelnik", kwota: "10 zł", znak: "ksiazka", jasnosc: 0.15, zalety: ["Grupa patronów na Telegramie", "Odcinki podcastu dzień przed premierą", "Imię na stronach Patronów i wpisy zza kulis"] },
   { nr: 2, nazwa: "Odkrywca", kwota: "20 zł", znak: "kompas", jasnosc: 0.25, zalety: ["Imię w napisach końcowych filmów", "Głos w wyborze tematów i archiwów", "Wszystko z progu Czytelnik"] },
   { nr: 3, nazwa: "Badacz", kwota: "30 zł", znak: "mapa", jasnosc: 0.35, zalety: ["Co miesiąc mapa lub grafika do druku", "Nowości przed publikacją", "Wszystko z niższych progów"] },
   { nr: 4, nazwa: "Mecenas", kwota: "50 zł", znak: "piramida", jasnosc: 0.48, zalety: ["Pierwszeństwo Twoich tematów i propozycji", "Spotkanie online raz na kwartał", "Wszystko z niższych progów"] },
