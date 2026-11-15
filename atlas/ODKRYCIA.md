@@ -1,12 +1,12 @@
 # Nowe odkrycia do Atlasu Leszka – instrukcja dla agenta
 
-Na każdej karcie miejsca w atlasie (`https://uleszka.net/atlas/<miejsce>.html`) jest sekcja **„Co odkryto od czasów Leszka”**:
+Na każdej karcie miejsca w atlasie (`https://uleszka.net/atlas/<miejsce>.html`) jest sekcja **„Najnowsze badania”**:
 oś czasu z odkryciami i badaniami z lat **2007–dziś**, które dotyczą pytań stawianych przez Leszka Klimka na uleszka.net.
 Dane są w jednym pliku: [`odkrycia.json`](odkrycia.json). Po zmianie: `npx tsx scripts/atlas.ts`.
 
 ## Zadanie
 
-Dla wskazanych miejsc znajdź **3–6 najważniejszych odkryć lub badań od 2007 roku**. Patrz oczami Leszka: co by go zainteresowało?
+Dla wskazanych miejsc znajdź **2–6 najważniejszych odkryć lub badań od 2007 roku** (dla bardzo popularnych miejsc wolno więcej – strona ma kalendarz lat i zwijanie; liczy się jakość, nie liczba). Patrz oczami Leszka: co by go zainteresowało?
 Np. nowe datowania, odkrycia pod ziemią, badania technik obróbki kamienia, ślady katastrof, odczytane inskrypcje, skanowanie (LiDAR, mion, georadar).
 Ale opisuj **rzetelnie, jak dziennikarz naukowy**, a nie jak Leszek: co odkryto, kto, gdzie i na ile jest to pewne.
 
@@ -59,3 +59,12 @@ potem te z największą liczbą artykułów Leszka (pole `artykuly`), na końcu 
 
 Wskazówki: przy polskich miejscach dobrze sprawdzają się Nauka w Polsce (PAP), komunikaty uczelni, muzeów i NID.
 Nature, Science, Smithsonian i ScienceDirect często blokują pobieranie – wtedy szukaj komunikatu uczelni, PMC albo arXiv.
+
+## Stan (15 listopada 2026)
+
+Wpisy ma 171 ze 188 miejsc (520 wpisów, 193 z dosłownym cytatem Leszka). Bez wpisów – brak sprawdzalnych badań po 2007 r.
+albo tylko źródła turystyczne i sensacyjne: Zawijet el-Arjan, Kisz, Kerak, Bagras, Guimarães, zamek w Ostrężniku,
+zamek w Proboszczowicach, zamek Bolczów, zamek w Gniewie, Pisac, Qenko, Tambomachay, Sillustani, Aramu Muru, Ingapirca,
+Khajuraho, odcisk z Antelope Spring. Przy kolejnej rundzie warto zacząć od nich i od miejsc z 1 wpisem.
+
+Nie są źródłem: Wikipedia, Ancient Origins, Gaia, History Channel i podobne serwisy sensacyjne, strony biur podróży.
