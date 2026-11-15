@@ -105,3 +105,36 @@ for (const p of PROGI) {
   await sharp(duzy).resize(532, 240, { kernel: "lanczos3" }).jpeg({ quality: 94 }).toFile(`${nazwaB}-532x240.jpg`);
   console.log(`${nazwaB}-532x240.jpg i -1064x480.jpg`);
 }
+
+// ---------- profil Patronite: awatar 1000×1000 i okładka 1920×640 (napisy w środkowym pasie – bezpieczne przy przycięciu) ----------
+{
+  const A = 1000;
+  const scena = await sharp("podcast/scena-kwadrat.jpg").extract({ left: 243, top: 260, width: 1100, height: 1100 }).resize(A, A).modulate({ brightness: 1.05 }).toBuffer();
+  const pierscien = `<svg xmlns="http://www.w3.org/2000/svg" width="${A}" height="${A}"><defs>${ZLOTO}
+    <radialGradient id="v" cx="50%" cy="50%" r="50%"><stop offset=".72" stop-color="#05070c" stop-opacity="0"/><stop offset="1" stop-color="#05070c" stop-opacity=".85"/></radialGradient></defs>
+    <rect width="${A}" height="${A}" fill="url(#v)"/>
+    <circle cx="${A / 2}" cy="${A / 2}" r="${A / 2 - 34}" fill="none" stroke="url(#z)" stroke-width="10"/>
+    <circle cx="${A / 2}" cy="${A / 2}" r="${A / 2 - 58}" fill="none" stroke="#e2a93f" stroke-opacity=".4" stroke-width="2"/></svg>`;
+  await sharp(scena).composite([{ input: Buffer.from(pierscien), left: 0, top: 0 }]).jpeg({ quality: 92 }).toFile(`${WYJ}/profil-awatar-1000.jpg`);
+
+  const OW = 1920, OH = 640;
+  const X0 = 1300; // scena z piramidą po prawej, wtopiona w nocne tło
+  const maska = `<svg xmlns="http://www.w3.org/2000/svg" width="${OW - X0}" height="${OH}"><defs><linearGradient id="m" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/></linearGradient></defs><rect width="${OW - X0}" height="${OH}" fill="url(#m)"/></svg>`;
+  const BOK = Math.max(OW - X0, OH + 40);
+  const prawa = await sharp("podcast/scena-kwadrat.jpg").resize(BOK, BOK).extract({ left: Math.round((BOK - (OW - X0)) / 2), top: 40, width: OW - X0, height: OH }).ensureAlpha()
+    .composite([{ input: Buffer.from(maska), blend: "dest-in" }]).png().toBuffer();
+  const gw = Array.from({ length: 90 }, (_, i) => `<circle cx="${(i * 389) % 1300}" cy="${(i * 173) % OH}" r="${((i * 7) % 3) * 0.6 + 0.6}" fill="#fff6e0" opacity="${0.12 + ((i * 13) % 10) / 30}"/>`).join("");
+  const napisy = `<svg xmlns="http://www.w3.org/2000/svg" width="${OW}" height="${OH}"><defs>${ZLOTO}
+    <radialGradient id="n" cx="70%" cy="30%" r="90%"><stop offset="0" stop-color="#16244a"/><stop offset=".55" stop-color="#090d18"/><stop offset="1" stop-color="#05070c"/></radialGradient>
+    <linearGradient id="k" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e2a93f"/><stop offset="1" stop-color="#e2a93f" stop-opacity="0"/></linearGradient></defs>
+    ${gw}
+    <text x="250" y="210" font-family="Arial, sans-serif" font-weight="700" font-size="28" letter-spacing="9" fill="#e2a93f">JOKERWADER · PATRONITE</text>
+    <text x="244" y="312" font-family="Georgia, serif" font-weight="700" font-size="68" fill="url(#z)">Ocalam zapomniane strony</text>
+    <text x="244" y="392" font-family="Georgia, serif" font-weight="700" font-size="68" fill="url(#z)">o historii i zagadkach przeszłości</text>
+    <rect x="250" y="432" width="520" height="3" fill="url(#k)"/>
+    <text x="250" y="490" font-family="Georgia, serif" font-size="34" fill="#d7dbe4">Archiwa · podcast · Atlas · rozmowa z archiwum przez AI</text>
+    <text x="250" y="540" font-family="Georgia, serif" font-size="28" fill="#9aa3b5">uleszka.net · kodczasu.pl · Nieznana Historia Polski — wszystko bezpłatne</text></svg>`;
+  const tlo = `<svg xmlns="http://www.w3.org/2000/svg" width="${OW}" height="${OH}"><defs><radialGradient id="n" cx="70%" cy="30%" r="90%"><stop offset="0" stop-color="#16244a"/><stop offset=".55" stop-color="#090d18"/><stop offset="1" stop-color="#05070c"/></radialGradient></defs><rect width="${OW}" height="${OH}" fill="url(#n)"/></svg>`;
+  await sharp(Buffer.from(tlo)).composite([{ input: prawa, left: X0, top: 0 }, { input: Buffer.from(napisy), left: 0, top: 0 }]).jpeg({ quality: 92 }).toFile(`${WYJ}/profil-okladka-1920x640.jpg`);
+  console.log(`${WYJ}/profil-awatar-1000.jpg, ${WYJ}/profil-okladka-1920x640.jpg`);
+}
