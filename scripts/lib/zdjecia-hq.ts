@@ -33,5 +33,5 @@ export async function pobierzZdjecie(z: ZdjecieCommons): Promise<string | null> 
 /** Krótki podpis autorstwa do wideo: „fot. Jan Kowalski, CC BY-SA 4.0 · Wikimedia Commons”. */
 export const podpisAutora = (z: ZdjecieCommons) => {
   const autor = z.autor.replace(/\s+/g, " ").trim();
-  return `fot. ${autor.length > 45 ? `${autor.slice(0, 44)}…` : autor}, ${z.licencja} · Wikimedia Commons`;
+  return `fot. ${autor.length > 45 ? `${autor.slice(0, 44)}…` : autor}, ${z.licencja} · ${z.serwis ?? "Wikimedia Commons"}`;
 };

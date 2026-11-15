@@ -93,7 +93,7 @@ ${o.mapa ? `<link rel="stylesheet" href="${LEAFLET}leaflet.css" crossorigin="">\
 </div></header>
 `;
 const stopka = (skrypty: string) => `<footer><div class="wrap-sz">
-  <p>Teksty i zdjęcia z artykułów: Leszek Klimek, uleszka.net (ok. 2004–2007). Współczesne zdjęcia: Wikimedia Commons (autor i licencja przy każdym zdjęciu).
+  <p>Teksty i zdjęcia z artykułów: Leszek Klimek, uleszka.net (ok. 2004–2007). Współczesne zdjęcia: Wikimedia Commons i Openverse (m.in. Flickr), tylko na wolnych licencjach – autor i licencja przy każdym zdjęciu. Zdjęcie do usunięcia? Zgłoś je.
   Wstępy w części „Co wiadomo dziś”: Wikipedia (CC BY-SA 4.0). Położenie i opisy miejsc: Wikidata. Mapa: © autorzy OpenStreetMap.
   Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${zgloszenie()}">zgłoś miejsce lub poprawkę</a></p>
 </div></footer>
@@ -131,7 +131,7 @@ const kafelki = (m: MiejsceAtlasu, glowne?: MiejsceAtlasu["zdjeciaCommons"][numb
     const opisZdj = z.opis && z.opis.length > 12 ? z.opis : "";
     return {
       mini: z.miniatura, duze: z.duze, alt: opisZdj || m.nazwa, grupa: z.detal ? "zblizenia" : "widoki", ocena: z.ocena,
-      podpis: `${opisZdj ? `${opisZdj} · ` : ""}fot. ${z.autor}${z.data ? `, ${z.data.slice(0, 4)}` : ""}, ${z.licencja} · Wikimedia Commons|${z.strona}`,
+      podpis: `${opisZdj ? `${opisZdj} · ` : ""}fot. ${z.autor}${z.data ? `, ${z.data.slice(0, 4)}` : ""}, ${z.licencja} · ${z.serwis ?? "Wikimedia Commons"}|${z.strona}`,
     };
   }),
   ...m.zdjeciaLeszka.map((z): Kafelek => ({
@@ -191,8 +191,8 @@ for (const m of miejsca) {
       ${m.opisWikidata ? `<p class="podtytul">${esc(m.opisWikidata[0].toUpperCase() + m.opisWikidata.slice(1))}</p>` : ""}
       <p class="chipy">${m.rodzaje.map(chip).join(" ")}</p>
     </div>
-    ${glowne ? `<button type="button" class="powieksz hero-powieksz" data-duze="${esc(glowne.duze)}" data-podpis="${esc(`${glowne.opis && glowne.opis.length > 12 ? `${glowne.opis} · ` : ""}fot. ${glowne.autor}, ${glowne.licencja} · Wikimedia Commons|${glowne.strona}`)}">⤢ Powiększ zdjęcie</button>` : ""}
-    ${glowne ? `<p class="hero-autor">fot. ${esc(skroc(glowne.autor, 50))}, ${esc(glowne.licencja)} · <a href="${esc(glowne.strona)}" rel="noopener">Commons</a></p>` : ""}
+    ${glowne ? `<button type="button" class="powieksz hero-powieksz" data-duze="${esc(glowne.duze)}" data-podpis="${esc(`${glowne.opis && glowne.opis.length > 12 ? `${glowne.opis} · ` : ""}fot. ${glowne.autor}, ${glowne.licencja} · ${glowne.serwis ?? "Wikimedia Commons"}|${glowne.strona}`)}">⤢ Powiększ zdjęcie</button>` : ""}
+    ${glowne ? `<p class="hero-autor">fot. ${esc(skroc(glowne.autor, 50))}, ${esc(glowne.licencja)} · <a href="${esc(glowne.strona)}" rel="noopener">${esc(glowne.serwis ?? "Commons")}</a></p>` : ""}
   </header>
 
   <div class="fakty-pasek"><div class="wrap-atlas">
@@ -255,7 +255,7 @@ for (const m of miejsca) {
       <ul class="siatka-zdjec">
         ${kaf.map((k, i) => `<li data-grupa="${k.grupa}"><button type="button" class="powieksz" data-i="${i}" data-duze="${esc(k.duze)}" data-podpis="${esc(k.podpis)}"><img src="${esc(k.mini)}" alt="${esc(skroc(k.alt, 140))}" loading="lazy">${k.ocena ? `<span class="ocena">★</span>` : ""}${k.grupa === "leszek" ? `<span class="znak-archiwum">2004–07</span>` : ""}</button></li>`).join("\n        ")}
       </ul>
-      <p class="uwaga">Współczesne zdjęcia: Wikimedia Commons, na wolnych licencjach (★ – wyróżnione przez społeczność Commons). Archiwum Leszka: zdjęcia z jego artykułów z lat 2004–2007. Kliknij zdjęcie, żeby zobaczyć opis, autora i licencję.</p>
+      <p class="uwaga">Współczesne zdjęcia: Wikimedia Commons i Openverse (m.in. Flickr), na wolnych licencjach (★ – wyróżnione przez społeczność Commons). Archiwum Leszka: zdjęcia z jego artykułów z lat 2004–2007. Kliknij zdjęcie, żeby zobaczyć opis, autora i licencję.</p>
     </section>` : ""}
 
     <section id="mapa" class="sekcja gdzie">

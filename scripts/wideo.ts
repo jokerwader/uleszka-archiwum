@@ -293,9 +293,9 @@ const autorzy = [...new Map(uzyteHq.map((x) => [x.z.plik, x])).values()].map(
 );
 // YouTube przyjmuje opis do 5000 znaków: pełna lista autorów idzie do osobnego pliku (np. na przypięty komentarz),
 // a w opisie zostaje krótka informacja i linki do kart miejsc (tam każde zdjęcie ma autora i licencję)
-if (autorzy.length) writeFileSync(join(wyj, "autorzy-zdjec.txt"), `Zdjęcia współczesne w filmie (Wikimedia Commons):\n${autorzy.join("\n")}\n\nZdjęcia archiwalne: artykuły Leszka Klimka na uleszka.net (2004–2007).\n`, "utf8");
+if (autorzy.length) writeFileSync(join(wyj, "autorzy-zdjec.txt"), `Zdjęcia współczesne w filmie (Wikimedia Commons i Openverse):\n${autorzy.join("\n")}\n\nZdjęcia archiwalne: artykuły Leszka Klimka na uleszka.net (2004–2007).\n`, "utf8");
 const glowna = `TYTUŁ:\n${tytul}${rodzaj === "Zwiastun" ? "" : ` | ${PODCAST} – ${rodzaj.toLowerCase()}`}\n\nOPIS:\n${opisSpotify}\n\nPodcast w Spotify: ${SPOTIFY}\n\nRozdziały:\n${znaczniki}\n`;
-const zdjeciaInfo = autorzy.length ? `\nZdjęcia współczesne: Wikimedia Commons (${autorzy.length}, wolne licencje) – autor i licencja w kadrze i na kartach miejsc w atlasie. Zdjęcia archiwalne: artykuły Leszka Klimka (2004–2007).\n` : "";
+const zdjeciaInfo = autorzy.length ? `\nZdjęcia współczesne: Wikimedia Commons i Openverse (${autorzy.length}, wolne licencje) – autor i licencja w kadrze i na kartach miejsc w atlasie. Zdjęcia archiwalne: artykuły Leszka Klimka (2004–2007).\n` : "";
 let miejscaTxt = miejscaWOpisie.length ? `\nMiejsca z odcinka na mapie (Atlas Leszka):\n${miejscaWOpisie.join("\n")}\n` : "";
 const LIMIT = 4900 + "TYTUŁ:\n".length + tytul.length + 60; // ok. 4900 znaków samego opisu
 for (let ile = miejscaWOpisie.length; ile > 0 && (glowna + miejscaTxt + zdjeciaInfo).length > LIMIT; ile--)

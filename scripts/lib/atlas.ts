@@ -6,12 +6,12 @@
 import { existsSync, readFileSync } from "node:fs";
 import type { Archiwum, Dokument } from "../../src/archiwum.js";
 
-export type ZdjecieCommons = { plik: string; url: string; miniatura: string; duze: string; szer: number; wys: number; autor: string; licencja: string; licencja_url: string; data: string; strona: string; detal?: boolean; opis?: string; ocena?: string };
+export type ZdjecieCommons = { plik: string; url: string; miniatura: string; duze: string; szer: number; wys: number; autor: string; licencja: string; licencja_url: string; data: string; strona: string; detal?: boolean; opis?: string; ocena?: string; serwis?: string };
 type DaneMiejsca = {
   wikidata: string; etykieta: string; opis: string; lat: number | null; lon: number | null;
   kategoria: string; powstanie: string; wiki: { jezyk: string; tytul: string; url: string; wstep: string } | null; zdjecia: ZdjecieCommons[];
 };
-type Wpis = { nazwa: string; wikidata?: string; wsp?: [number, number]; rodzaje: string[]; aliasy: string[] };
+type Wpis = { nazwa: string; wikidata?: string; wsp?: [number, number]; rodzaje: string[]; aliasy: string[]; ukryte?: string }; // ukryte: powód, dla którego miejsca nie pokazujemy (np. niepewne położenie)
 
 export type ZdjecieLeszka = { sciezka: string; typ: string; opis: string; artykul: string; pochodzenie: string };
 export type MiejsceAtlasu = {
@@ -46,6 +46,9 @@ export function wczytajAtlas(archiwum: Archiwum, katalog = "."): { miejsca: Miej
   if (!existsSync(plikM) || !existsSync(plikD)) return { miejsca: [], rodzaje: {}, poArtykule: new Map() };
   const zrodlo: { rodzaje: Record<string, string>; miejsca: Wpis[] } = JSON.parse(readFileSync(plikM, "utf8"));
   const dane: Record<string, DaneMiejsca> = JSON.parse(readFileSync(plikD, "utf8"));
+  // dodatkowe zdjęcia z Openverse (scripts/atlas-openverse.ts) i lista odrzuconych przy przeglądzie
+  const openverse: Record<string, ZdjecieCommons[]> = existsSync(`${katalog}/atlas/openverse.json`) ? JSON.parse(readFileSync(`${katalog}/atlas/openverse.json`, "utf8")) : {};
+  const odrzucone: Record<string, string> = existsSync(`${katalog}/atlas/odrzucone.json`) ? JSON.parse(readFileSync(`${katalog}/atlas/odrzucone.json`, "utf8")) : {};
 
   const poAliasie = new Map<string, Wpis>();
   for (const w of zrodlo.miejsca) for (const a of [w.nazwa, ...w.aliasy]) poAliasie.set(norm(a), w);
@@ -64,7 +67,7 @@ export function wczytajAtlas(archiwum: Archiwum, katalog = "."): { miejsca: Miej
   for (const w of zrodlo.miejsca) {
     const d = dane[w.nazwa];
     const lat = w.wsp?.[0] ?? d?.lat, lon = w.wsp?.[1] ?? d?.lon;
-    if (!d || lat == null || lon == null) continue;
+    if (!d || lat == null || lon == null || w.ukryte) continue;
     const artykuly = [...(artykulyMiejsca.get(w) ?? [])].filter((id) => archiwum.znajdz(id, "artykul"));
     artykuly.sort((a, b) => (archiwum.znajdz(a, "artykul")!.kolejnosc - archiwum.znajdz(b, "artykul")!.kolejnosc));
     const r = wzorce.get(w)!;
@@ -96,7 +99,7 @@ export function wczytajAtlas(archiwum: Archiwum, katalog = "."): { miejsca: Miej
       cytaty,
       slug: slug(w.nazwa), nazwa: w.nazwa, aliasy: w.aliasy.filter((a) => a !== w.nazwa), rodzaje: w.rodzaje, lat, lon,
       wikidata: d.wikidata, opisWikidata: d.opis, powstanie: d.powstanie, wiki: d.wiki,
-      artykuly, zdjeciaLeszka: zdjeciaLeszka.slice(0, 40), zdjeciaCommons: d.zdjecia,
+      artykuly, zdjeciaLeszka: zdjeciaLeszka.slice(0, 40), zdjeciaCommons: [...d.zdjecia, ...(openverse[w.nazwa] ?? [])].filter((z) => !odrzucone[z.plik]),
     });
   }
   const poArtykule = new Map<string, MiejsceAtlasu[]>();

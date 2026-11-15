@@ -66,13 +66,13 @@ async function znajdzQid(m: Miejsce): Promise<string | null> {
   return null;
 }
 
-// podkategorie i pliki ze zbliżeniami konstrukcji: detale, mury, bloki, reliefy, napisy, wnętrza…
-const DETAL = /\b(details?|close[- ]?ups?|stonework|masonry|walls?|blocks?|stones?|megaliths?|reliefs?|carvings?|carved|inscriptions?|hieroglyphs?|petroglyphs?|glyphs?|interiors?|joints?|columns?|capitals?|doors?|doorways?|gates?|niches?|windows?|statues?|sculptures?|murals?|frescos?|frescoes|ceilings?|chambers?|corridors?|tunnels?|stairs|steps|altars?|stelae?|monoliths?|engravings?|ornaments?|construction|architecture)\b/i;
-// pomijane: mapy, plany, logo, znaczki, filmy i zdjęcia ludzi przy okazji
-const ZBEDNE = /\b(maps?|plans?|diagrams?|logos?|coats? of arms|stamps?|postcards?|banknotes?|coins?|videos?|audio|people|tourists?|selfies?|signs?|tickets?|events?|concerts?|festivals?|souvenirs?|hotels?|restaurants?|buses|trains?|vehicles?|airports?)\b/i;
+import { DETAL, KONSTRUKCJA, LUDZIE_KAT, LUDZIE_TXT, PRZYRODA, RZEZBA, ZBEDNE } from "./lib/filtry-zdjec.js";
 const OCENY: [RegExp, string, number][] = [[/featured|poty|potd/i, "wyróżnione", 30], [/quality/i, "jakościowe", 20], [/valued/i, "wartościowe", 15]];
 
-async function zdjeciaCommons(obraz: string | undefined, kategoria: string, ile = 16): Promise<ZdjecieCommons[]> {
+// zdjęcia odrzucone przy przeglądzie (ludzie pozujący, logo, reklamy…) albo zgłoszone – nie wracają przy kolejnym pobieraniu
+const ODRZUCONE: Record<string, string> = existsSync("atlas/odrzucone.json") ? JSON.parse(readFileSync("atlas/odrzucone.json", "utf8")) : {};
+
+async function zdjeciaCommons(obraz: string | undefined, kategoria: string, ile = 20): Promise<ZdjecieCommons[]> {
   const zrodlo = new Map<string, boolean>(); // plik → z podkategorii o detalach
   const dodaj = (t: string, detal: boolean) => { if (/\.jpe?g$/i.test(t) && !ZBEDNE.test(t.replace(/_/g, " "))) zrodlo.set(t, zrodlo.get(t) || detal); };
   if (obraz) dodaj(`File:${obraz}`, false);
@@ -86,6 +86,27 @@ async function zdjeciaCommons(obraz: string | undefined, kategoria: string, ile 
     for (const k of [...detale, ...inne]) {
       const r2 = await commons({ action: "query", list: "categorymembers", cmtitle: k, cmtype: "file", cmlimit: "40" });
       for (const c of r2.query?.categorymembers ?? []) dodaj(c.title, detale.includes(k));
+    }
+    // celowane szukanie w całym drzewie kategorii: rzeźby, mury, wykopaliska, tunele i wnętrza – to są zbliżenia konstrukcji
+    for (const fraza of [
+      "sculpture OR statue OR relief OR carving OR petroglyph OR stela",
+      "wall OR masonry OR blocks OR megalith OR stones OR rampart",
+      "excavation OR archaeological OR ruins OR remains",
+      "tunnel OR chamber OR interior OR cave OR crypt OR inscription",
+    ]) {
+      const r4 = await commons({ action: "query", list: "search", srnamespace: "6", srlimit: "15", srsearch: `deepcat:"${kategoria}" ${fraza}` }).catch(() => null);
+      for (const c of r4?.query?.search ?? []) dodaj(c.title, true);
+    }
+    // zwykłe szukanie po nazwie bez polskich znaków („Sleza sculpture”) – znajduje rzeźby i detale opisane poza drzewem kategorii
+    const nazwaAscii = kategoria.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ł/g, "l").replace(/Ł/g, "L").replace(/\s*\(.*?\)/g, "");
+    for (const slowo of ["sculpture", "statue", "relief", "wall", "ruins", "excavation", "tunnel", "inscription"]) {
+      const r5 = await commons({ action: "query", list: "search", srnamespace: "6", srlimit: "8", srsearch: `${nazwaAscii} ${slowo}` }).catch(() => null);
+      for (const c of r5?.query?.search ?? []) dodaj(c.title, true);
+    }
+    // najlepsze zdjęcia z całego drzewa kategorii: ocenione przez społeczność (Quality / Featured / Valued images)
+    for (const ocena of ["Quality images", "Featured pictures on Wikimedia Commons", "Valued images sorted by promotion date"]) {
+      const r3 = await commons({ action: "query", list: "search", srnamespace: "6", srlimit: "30", srsearch: `deepcat:"${kategoria}" incategory:"${ocena}"` }).catch(() => null);
+      for (const c of r3?.query?.search ?? []) dodaj(c.title, false);
     }
   }
   if (!zrodlo.size) return [];
@@ -102,12 +123,19 @@ async function zdjeciaCommons(obraz: string | undefined, kategoria: string, ile 
       if (!WOLNA.test(licencja)) continue;
       if (ii.width < 1200 || ii.height < 700) continue; // tylko zdjęcia nadające się do wideo 1080p
       const plik = s.title.replace(/^File:/, "");
+      if (ODRZUCONE[plik]) continue;
       const opis = bezHtml(md.ImageDescription?.value).replace(/^(english|polski|deutsch|español|français):\s*/i, "");
       const kategorie = String(md.Categories?.value ?? "");
+      const calosc = `${plik.replace(/[_-]/g, " ")} ${opis} ${kategorie.replace(/\|/g, " ")}`;
+      const rzezba = RZEZBA.test(calosc); // „Girl with fish” to rzeźba, a nie zdjęcie ludzi
+      if (!rzezba && (LUDZIE_KAT.test(kategorie.replace(/\|/g, " ")) || LUDZIE_TXT.test(`${plik.replace(/[_-]/g, " ")} ${opis}`))) continue;
+      if (/\b(huts?|hostels?|schronisk\w*|przystan\w*|bus stops?|parking|signposts?|tablice?)\b/i.test(calosc)) continue;
+      if (PRZYRODA.test(`${plik.replace(/[_-]/g, " ")} ${opis} ${kategorie.replace(/\|/g, " ")}`)) continue;
       const ocena = OCENY.find(([w]) => w.test(`${md.Assessments?.value ?? ""} ${/Quality images|Featured pictures|Valued images/i.test(kategorie) ? kategorie : ""}`));
       const detal = zrodlo.get(s.title) || DETAL.test(`${plik.replace(/_/g, " ")} ${opis}`);
       if (ZBEDNE.test(opis.slice(0, 120))) continue;
-      const punkty = (ocena?.[2] ?? 0) + (detal ? 8 : 0) + Math.log2((ii.width * ii.height) / 1e6 + 1) * 3 + (ii.width > ii.height ? 3 : 0) + (opis.length > 30 ? 2 : 0);
+      // konstrukcja i rzeźba w opisie/kategoriach: wyraźny dodatek (to jest to, co ma pokazać atlas)
+      const punkty = (ocena?.[2] ?? 0) + (detal ? 8 : 0) + (rzezba ? 12 : 0) + (KONSTRUKCJA.test(calosc) ? 6 : 0) + Math.log2((ii.width * ii.height) / 1e6 + 1) * 3 + (ii.width > ii.height ? 3 : 0) + (opis.length > 30 ? 2 : 0);
       wyniki.push({
         plik, url: ii.url.split("?")[0], ...rozmiary(ii.thumburl, ii.url, ii.width), szer: ii.width, wys: ii.height,
         // „No machine-readable author provided. Xauxa assumed (based on copyright claims)” → „Xauxa”
@@ -119,7 +147,8 @@ async function zdjeciaCommons(obraz: string | undefined, kategoria: string, ile 
     }
   }
   // seria zdjęć z jednego aparatu („Tiwanaku10”, „Tiwanaku11”…) – najwyżej dwa z serii
-  const seria = (p: string) => p.replace(/\.[a-z]+$/i, "").replace(/[\d\s_().,-]+/g, "").toLowerCase();
+  // „…07a”, „…07b” to ta sama seria
+  const seria = (p: string) => p.replace(/\.[a-z]+$/i, "").replace(/\d+[a-z]?\b/gi, "").replace(/[\d\s_().,-]+/g, "").toLowerCase();
   const glowne = obraz ? obraz.replace(/_/g, " ") : "";
   wyniki.sort((a, b) => Number(b.plik.replace(/_/g, " ") === glowne) - Number(a.plik.replace(/_/g, " ") === glowne) || b.punkty - a.punkty);
   const ileSerii = new Map<string, number>();
@@ -133,7 +162,14 @@ async function zdjeciaCommons(obraz: string | undefined, kategoria: string, ile 
     ileSerii.set(s, (ileSerii.get(s) ?? 0) + 1);
   }
   // za mało zbliżeń albo widoków: dopełnij drugą grupą do łącznej liczby
-  const reszta = wyniki.filter((z) => !wybrane.detal.includes(z) && !wybrane.widok.includes(z) && (ileSerii.get(seria(z.plik)) ?? 0) < 2);
+  const reszta: typeof wyniki = [];
+  for (const z of wyniki) {
+    if (wybrane.detal.includes(z) || wybrane.widok.includes(z)) continue;
+    const s = seria(z.plik);
+    if ((ileSerii.get(s) ?? 0) >= 2) continue;
+    reszta.push(z);
+    ileSerii.set(s, (ileSerii.get(s) ?? 0) + 1);
+  }
   const razem = [...wybrane.widok, ...wybrane.detal, ...reszta].slice(0, ile);
   return razem.map(({ punkty, ...z }) => z);
 }
@@ -160,9 +196,10 @@ const zapisz = () => {
 
 // --zdjecia: tylko nowe zdjęcia dla wszystkich pobranych już miejsc (bez ponownego szukania w Wikidata i Wikipedii)
 if (process.argv.includes("--zdjecia")) {
+  const wszystkie = process.argv.includes("--wszystkie"); // pobierz od nowa zdjęcia wszystkich miejsc (np. po zmianie filtrów)
   const tylko = process.argv.find((a) => a.startsWith("--tylko="))?.slice(8); // np. --tylko=Stonehenge (próba na jednym miejscu)
   // bez --od-nowa pomija miejsca już zrobione (gdy poprzednie pobieranie się przerwało)
-  const lista = zrodlo.miejsca.filter((m) => dane[m.nazwa] && !m.bez_zdjec && (!tylko || m.nazwa === tylko) && (odNowa || !!tylko || !dane[m.nazwa].zdjecia.some((z) => "detal" in z)));
+  const lista = zrodlo.miejsca.filter((m) => dane[m.nazwa] && !m.bez_zdjec && (!tylko || m.nazwa === tylko) && (odNowa || wszystkie || !!tylko || !dane[m.nazwa].zdjecia.some((z) => "detal" in z)));
   const p18 = new Map<string, string>();
   for (let i = 0; i < lista.length; i += 50) {
     const ids = lista.slice(i, i + 50).map((m) => dane[m.nazwa].wikidata);
@@ -174,7 +211,7 @@ if (process.argv.includes("--zdjecia")) {
     const zdj = await zdjeciaCommons(p18.get(d.wikidata), d.kategoria).catch((e) => { console.log(`✗ ${m.nazwa}: ${e.message}`); return null; });
     if (!zdj) continue;
     const przed = d.zdjecia.length;
-    if (zdj.length >= przed || zdj.length >= 6) d.zdjecia = zdj; // nie zastępuj bogatszej listy uboższą
+    if (wszystkie || tylko || zdj.length >= przed || zdj.length >= 6) d.zdjecia = zdj; // nie zastępuj bogatszej listy uboższą
     console.log(`✓ ${m.nazwa}: ${przed} → ${d.zdjecia.length} zdj. (zbliżeń: ${d.zdjecia.filter((z) => z.detal).length}, ocenionych: ${d.zdjecia.filter((z) => z.ocena).length})`);
     zapisz();
     await czekaj(100);
