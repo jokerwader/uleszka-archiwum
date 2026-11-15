@@ -1619,6 +1619,20 @@
           "url": "https://ochronazabytkow.nid.pl/wp-content/uploads/2024/05/OZ_1-2024_K-Stala.pdf"
         }
       ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Święta góra czy mit? Geolodzy o Ślęży, jej wałach i poszukiwaczach skarbów",
+      "opis": "Kacper Konieczny i Piotr Migoń (geomorfolodzy, Uniwersytet Wrocławski) opublikowali w Geoheritage przegląd tego, jak Ślęża, samotne gabrowe wzgórze nad nizinami, stała się miejscem kultu i legend. Autorzy zestawiają stan badań: najwyższy kamienny wał przy płaskowyżu szczytowym datują na przełom epoki brązu i żelaza i przypominają, że odczytanie go jako granicy przestrzeni sakralnej (obok funkcji obronnej) nie zostało potwierdzone wykopaliskami. Rzeźby z granitu z wyrytym znakiem X są według nich różnie interpretowane: jako prechrześcijańskie wizerunki z symbolem solarnym, dzieła średniowieczne (klasztor augustianów, znak X jako granica własności) albo związane z działalnością Celtów ok. 400–200 p.n.e. Osobno opisano wielowiekową historię poszukiwań skarbów na górze, od XVI wieku po prace górnicze po 1745 roku. Praca jest syntezą, nie nowym odkryciem terenowym.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Konieczny, Migoń, Geoheritage 17, art. 93, 2025: The place of worship and treasure hunting. Geomythological aspects of Mount Ślęża inselberg (SW Poland)",
+          "url": "https://link.springer.com/article/10.1007/s12371-025-01140-2"
+        }
+      ],
+      "artykul": "13celtowie/celt",
+      "cytat_leszka": "ponoć świętej góry śląskich pogan"
     }
   ],
   "wawel": [
@@ -1846,6 +1860,22 @@
       "cytat_leszka": "Tymczasem możemy obejrzeć skorodowane mury na skutek warunków atmosferycznych i upływu czasu."
     },
     {
+      "rok": "2025",
+      "tytul": "Kamieniołomy pod zamkiem: ślady ryb wychodzących na ląd sprzed ponad 400 mln lat",
+      "opis": "Paleontolodzy z Państwowego Instytutu Geologicznego – PIB (Piotr Szrek i współpracownicy) oraz Uniwersytetu Jagiellońskiego (Alfred Uchman) opisali w Scientific Reports tropy nazwane Reptanichnus acutori z opuszczonych kamieniołomów piaskowca w Ujeździe i Kopcu, tuż obok Krzyżtoporu; prace terenowe prowadzono w latach 2020–2021. Odciski pyska, płetw, tułowia i ogona zostawiły ryby dwudyszne, które częściowo wychodziły z wody na płyciznach dewońskiego wybrzeża ok. 10 mln lat przed najstarszymi tropami czworonogów. Według relacji prasowych pierwsze tego typu znaleziska z okolicy zauważono w murach zamku, zbudowanego z miejscowego piaskowca, a w 2016 roku znaleziono przy zamku pierwsze w Polsce szczątki dewońskich dwudyszy. Określenie „najstarsze ślady kręgowców na lądzie” pochodzi z mediów; sama interpretacja tropów jako śladów ryb jest propozycją autorów.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic Polska, sierpień 2025",
+          "url": "https://www.national-geographic.pl/historia/sensacyjne-znalezisko-polskich-naukowcow-pierwsze-ryby-ktore-probowaly-wyjsc-na-lad/"
+        },
+        {
+          "nazwa": "Polskie Radio (English Section), 13 sierpnia 2025",
+          "url": "https://www.polskieradio.pl/395/7784/artykul/3564390"
+        }
+      ]
+    },
+    {
       "rok": "2026",
       "tytul": "Cmentarzysko przy zamku i badania diety mieszkańców Krzyżtoporu",
       "opis": "Według PAP z czerwca 2026 roku Uniwersytet Jana Kochanowskiego i gmina Iwaniska podpisały porozumienie o badaniach zamku. W jego otoczeniu odkryto dawne cmentarzysko; wstępne sondaże potwierdziły pochówki, prawdopodobnie także żołnierzy szwedzkich. Planowane są badania antropologiczne i DNA, a kości zwierzęce i rybie z dziedzińców gospodarczych analizuje się pod kątem diety mieszkańców. Są to na razie zapowiedzi i wstępne sondaże, bez opublikowanych wyników.",
@@ -1868,6 +1898,54 @@
         {
           "nazwa": "Imiołczyk i in., Archaeological and Anthropological Sciences 12, 2020",
           "url": "https://link.springer.com/article/10.1007/s12520-019-00979-1"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "Żelazny grot włóczni z Ogrodzieńca",
+      "opis": "Radosław Liwoch z Muzeum Archeologicznego w Krakowie opublikował opis dużego, kutego grotu włóczni (typ V wg Nadolskiego) przechowywanego w dawnych zbiorach muzeum, najprawdopodobniej pochodzącego z terenu zamku. Autor datuje go na drugą połowę XIV–XV wiek, dopuszczając też XVI–XVII wiek, bo groty włóczni słabo nadają się do datowania typologicznego. Miejsce znalezienia nie jest pewne: zabytek mógł pochodzić także z samego miasta.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Liwoch, Prądnik 31, 2021 (PDF, Ojcowski Park Narodowy)",
+          "url": "https://opn.gov.pl/pliki-do-pobrania/otworz/339f9e39-85e8-499d-9e0a-6f91d7dbabdb.pdf"
+        },
+        {
+          "nazwa": "Zenodo: Liwoch, Grot włóczni z Ogrodzieńca, 2021",
+          "url": "https://zenodo.org/record/5807324"
+        }
+      ]
+    },
+    {
+      "rok": "2022",
+      "tytul": "Żelazna kula armatnia z Ogrodzieńca",
+      "opis": "Radosław Liwoch (Muzeum Archeologiczne w Krakowie) i Piotr Strzyż (Uniwersytet Łódzki) opisali kutą żelazną kulę działową o kalibrze ok. 100 mm i masie niespełna 3 kg (klasa 8-funtowa), przekazaną do zbiorów w 1889 roku jako znalezioną na głębokości około dwóch łokci pod Ogrodzieńcem. Kula nosi ślady uderzeń młotem i silne pęknięcia, co może wskazywać na trafienie w twardą przeszkodę. Datowanie na późne średniowiecze lub czasy nowożytne (XV–XVI w.) jest szacunkowe, oparte wyłącznie na ocenie makroskopowej, bez badań specjalistycznych.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Liwoch, Strzyż, Prądnik 32, 2022 (PDF, Ojcowski Park Narodowy)",
+          "url": "https://opn.gov.pl/pliki-do-pobrania/otworz/0130dabd-c895-49cd-b0c1-7bf0ec1d804f.pdf"
+        },
+        {
+          "nazwa": "Zenodo: Kula armatnia z Ogrodzieńca, 2022",
+          "url": "https://zenodo.org/record/7476602"
+        }
+      ]
+    },
+    {
+      "rok": "2023",
+      "tytul": "Norymberski liczman z rachmistrzem z wieży Kurza Stopa",
+      "opis": "Ewelina Imiołczyk z Muzeum Górnośląskiego w Bytomiu opisała liczman (żeton rachunkowy) odkryty w 1967 roku podczas oczyszczania z gruzu wieży Kurza Stopa; zabytek pochodzi z norymberskiej pracowni rodziny Schultesów (lata 1553–1612) i jest datowany na lata 80.–90. XVI wieku. Autorka widzi w nim ślad dalekosiężnych kontaktów handlowych i wiąże go z kimś z właścicieli lub mieszkańców zamku. Interpretacja przeznaczenia przedmiotu pozostaje hipotezą badaczki.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Imiołczyk, Folia Archaeologica 38, 2023 (Uniwersytet Łódzki)",
+          "url": "https://czasopisma.uni.lodz.pl/archaeo/article/download/21486/21201"
+        },
+        {
+          "nazwa": "CEEOL: Liczman z zamku Ogrodzieniec. Próba interpretacji",
+          "url": "https://ceeol.com/search/article-detail?id=1220753"
         }
       ]
     }
@@ -1930,6 +2008,22 @@
       "artykul": "warownie/kazimierz"
     },
     {
+      "rok": "2019–2022",
+      "tytul": "Pies pod piecem i ślady trzęsienia ziemi: nowe ustalenia z Jaskini Zamkowej Dolnej",
+      "opis": "Pod XV-wiecznym piecem do wytopu stopów miedzi w jaskini na zamku dolnym archeolodzy (zespół koordynowany przez dr. Mikołaja Urbanowskiego) znaleźli szczątki młodego psa, interpretowane jako ofiara zakładzinowa mająca zapewnić powodzenie wytopu; usytuowanie takiego pieca w jaskini uznano za zjawisko co najmniej w skali Polski rzadkie. Według zespołu z Uniwersytetu Śląskiego (dr Andrzej Tyc) w warstwach z narzędziami krzemiennymi i kośćmi renifera, z których pobrano próbki do datowania OSL, wiek osadów magdaleńskich wynosi 13–14 tys. lat. Badacze proponują też, że trzęsienie ziemi oderwało fragment skały przy wejściu do jaskini i częściowo zniszczyło wieżę, co ma potwierdzać zapis historyczny. Ostatnia teza to hipoteza zespołu, a pełna publikacja naukowa pieca i datowań nie była dostępna w źródłach, z których korzystano.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Uniwersytet Śląski, Tajemnice Jaskini Zamkowej Dolnej – badania dr. Andrzeja Tyca (Magazyn UŚ, XII 2022, aktualizacja I 2023)",
+          "url": "https://us.edu.pl/en/tajemnice-jaskini-zamkowej-dolnej-badania-dr-andrzeja-tyca/"
+        },
+        {
+          "nazwa": "Archaeology Magazine, 15 sierpnia 2019 (za Nauką w Polsce)",
+          "url": "https://www.archaeology.org/news/7940-190815-poland-castle-cave"
+        }
+      ]
+    },
+    {
       "rok": "2020–2021",
       "tytul": "Nieznane szczeliny, pustki i ukryta jaskinia pod zamkiem",
       "opis": "Wiercenia, sondowanie endoskopowe i badania elektrooporowe (zespół z Uniwersytetu Wrocławskiego i Uniwersytetu Śląskiego) wykazały pod zamkiem rozgałęziony system pustek i szczelin sięgających ok. 7 m w głąb, a w 2020 r. archeolodzy odkryli nieznaną komorę jaskini przy przedpolu baszty studziennej. Odnaleziono też XV-wieczny piec metalurgiczny i kafel z rycerzem-sokolnikiem. Badacze podkreślają, że wyniki są wstępne; największa pustka wykryta oporowo to prawdopodobnie naturalny krasowy, choć związku z budową zamku nie wykluczono. Doniesienia o tunelach należy traktować ostrożnie, bo ich wieku i zasięgu nie ustalono.",
@@ -1975,6 +2069,18 @@
     }
   ],
   "zamek-w-checinach": [
+    {
+      "rok": "2010",
+      "tytul": "Kafle z wykopalisk zamku: od późnego średniowiecza po XVII wiek",
+      "opis": "Czesław Hadamik z Kielc uporządkował zbiór około 185 fragmentów kafli piecowych znalezionych podczas badań archeologicznych zamku. Niewielka grupa pochodzi z późnego średniowiecza, więcej z XVI wieku, a najliczniejsze z lat 1607–1655, w tym kafle z niebiesko-białą polewą, z których co najmniej jeden może należeć do „pieca błękitnego” z inwentarza z 1613 roku. Praca to pierwszy krok do odtworzenia systemu ogrzewania zamku; chronologia opiera się na analizie stylistycznej i technologicznej.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Hadamik, Folia Archaeologica 27, 2010 (Uniwersytet Łódzki)",
+          "url": "https://czasopisma.uni.lodz.pl/archaeo/article/view/17131"
+        }
+      ]
+    },
     {
       "rok": "2013–2015",
       "tytul": "Ratownicze wykopaliska przed rewitalizacją: nieznana wieża i nowe datowanie zamku",
@@ -2315,6 +2421,22 @@
         {
           "nazwa": "World Archaeology, Penny Wilson o Sais",
           "url": "https://www.world-archaeology.com/features/sais/"
+        }
+      ]
+    },
+    {
+      "rok": "2018",
+      "tytul": "Czerwona cegła i złota moneta Ptolemeusza III w Sa el-Hagar",
+      "opis": "Egipska misja Najwyższej Rady Starożytności pod kierunkiem Saida el-Asala odsłoniła w Sa el-Hagar (dawny Sais) fragmenty dużego budynku z czerwonej cegły, uznanego wstępnie za część łaźni z epoki grecko-rzymskiej. Wśród zabytków były naczynia, terakotowe figurki, brązowe narzędzia, kamień z hieroglifami oraz złota moneta z portretem Ptolemeusza III, wybita za panowania jego syna Ptolemeusza IV. Informację podało ministerstwo starożytności w maju 2018 roku; interpretacja budynku jest wstępna i nie ma jeszcze publikacji naukowej.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "Archaeology Magazine, 2018 (za Ahram Online)",
+          "url": "https://www.archaeology.org/news/6640-180523-egypt-red-brick-bath?v=2"
+        },
+        {
+          "nazwa": "Arab News / AP, 2018",
+          "url": "https://arabnews.com/node/1308366"
         }
       ]
     }
@@ -3077,6 +3199,30 @@
   ],
   "san-agustin": [
     {
+      "rok": "2014",
+      "tytul": "Ratunkowe wykopaliska kopca El Tabor (Alto de Chinas) poza parkiem",
+      "opis": "Eduardo Forero Lloreda opublikował w 2014 r. w Boletín de Arqueología FIAN (Fundación de Investigaciones Arqueológicas Nacionales, Bogota) sprawozdanie z ratunkowych badań z 1994 r. na kopcu El Tabor w Alto de Chinas koło San Agustín, poza granicami parku, zagrożonym grabieżą. W kopcu odkryto dwa sarkofagi, bazaltowe kolumny i grobowce skrzynkowe (cancel), wielokrotnie plądrowane; z grobu nr 4 wydobyto antropomorficzną rzeźbę z naczyniem. Datowano węgiel drzewny, ale daty liczbowej nie ma w streszczeniu, a próbę datowania termoluminescencyjnego naczynia przeprowadzić się nie udało.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Forero Lloreda, E., Boletín de Arqueología 12(1), 2014",
+          "url": "https://publicaciones.banrepcultural.org/index.php/fian/article/view/5501"
+        }
+      ]
+    },
+    {
+      "rok": "2015",
+      "tytul": "Wykopaliska ICANH w parkach San Agustín i Isnos: kolumny, grobowce, posągi",
+      "opis": "Kolumbijski ICANH, pod kierunkiem Ernesto Montenegro, prowadził w grudniu 2015 r. prace w parkach San Agustín i Isnos: przy Montículo II odsłonięto trzy kamienne kolumny i dwa przeciwległe grobowce, a w Mesitas kolejne groby; archeolog Hernán Ordóñez Hurtado kierował wykopem, a badanie geomagnetyczne Mesitas prowadził Víctor González Fernández. Dwa posągi znalezione w 1990 r. miały wrócić na pierwotne miejsce. Relacja pochodzi z regionalnej gazety, bez wyników datowań ani publikacji naukowej.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "La Nación (Neiva), 23 XII 2015",
+          "url": "https://www.lanacion.com.co/sorprendentes-hallazgos-arqueologicos-en-san-agustin/"
+        }
+      ]
+    },
+    {
       "rok": "2026",
       "tytul": "Posągi San Agustín odczytane przez pryzmat mitów Amazonii",
       "opis": "César Velandia z Uniwersytetu w Tolimie przez ćwierć wieku porównywał rzeźby z San Agustín z ustnymi tradycjami ludów Tucano, Tanimuka i Kurripako. Zauważył, że wzory malowane w grobowcach (czerwień, żółć, czerń, biel) odpowiadają skórze węża koralowego, związanego w kosmologiach amazońskich ze śmiercią, a posąg w masce zwierzęcia wiąże z sępem królewskim. Według tej relacji ludzie ci żyli w kacykatach, a pochówki w dużych i małych grobowcach nie różnią się bogactwem wyposażenia. To interpretacja etnograficzna, nie wynik datowania. Opis pochodzi z jednego omówienia w magazynie Archaeology.",
@@ -3093,6 +3239,30 @@
   ],
   "el-baul": [
     {
+      "rok": "2010–2011",
+      "tytul": "Dwie nowe groble i utrata mostów w Cotzumalguapie",
+      "opis": "Oswaldo Chinchilla Mazariegos z zespołem odkrył w sezonie 2010–2011 dwie nieznane groble i resztki co najmniej dwóch mostów w Cotzumalguapie. Jednocześnie stwierdzono, że mosty Thompsona i El Baúl uległy zniszczeniu w 2010 r. przez zaniedbanie i siły przyrody. Zespół ratował też Pomnik 69, zagrożony po upadku mostu. Autorzy podkreślają, że stanowiska na prywatnych gruntach nie mają żadnej ochrony i są niszczone przez uprawy.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Chinchilla Mazariegos i in., XXV Simposio de Investigaciones Arqueológicas en Guatemala, 2012",
+          "url": "https://www.mesoweb.com/Simposio/pdf/25/Chinchilla_et_al.2012.pdf"
+        }
+      ]
+    },
+    {
+      "rok": "2014–2017",
+      "tytul": "Pomniki 81 i 82 oraz grobla Seler-Sachs",
+      "opis": "Przypadkowe znalezienie Pomnika 81 (kamienia z jaguarem) w maju 2014 r. doprowadziło do ratowniczych wykopalisk w lutym–kwietniu 2015 r., z badaniami georadarem. Gilberto Cruz Gómez i Chinchilla powiązali pomnik z groblą Seler-Sachs, a jej długość ustalili na 1,04 km, co czyni ją drugą najdłuższą groblą Cotzumalguapy. Odkryto też Pomnik 82 z twarzą Boga Śmierci, co potwierdza, że takie rzeźby tworzyły nawierzchnię grobli. Georadar wskazał kolejną możliwą groblę i budowle na południowym zachodzie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Cruz Gómez i Chinchilla, XXX Simposio de Investigaciones Arqueológicas en Guatemala, 2017",
+          "url": "https://www.mesoweb.com/Simposio/pdf/30/Cruz_y_Chinchilla.2017.pdf"
+        }
+      ]
+    },
+    {
       "rok": "2018",
       "tytul": "Mosty i groble Cotzumalhuapy: miasto z inżynierią wodną",
       "opis": "Oswaldo Chinchilla Mazariegos (Yale) opublikował w Antiquity przegląd co najmniej pięciu przedkolumbijskich mostów lub przepraw w Cotzumalhuapie, co jest w Mezoameryce rzadkością. Badania prowadzone od 1994 roku obejmują też system grobli łączących El Baúl, Bilbao i El Castillo, dokumentowany z użyciem rozległej prospekcji geofizycznej, oraz ponad 200 rzeźbionych monumentów. Strona Yale nie wspomina o LiDAR-ze. Wzorzec dotyczy głównie późnego okresu klasycznego.",
@@ -3105,6 +3275,22 @@
         {
           "nazwa": "Yale, Archaeological Studies: Mesoamerica",
           "url": "https://archaeology.yale.edu/mesoamerica"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "Skradziony Pomnik 59 odnaleziony w stolicy Gwatemali",
+      "opis": "W maju 2021 r. robotnicy miejscy naprawiający chodnik w dzielnicy Santa Fe w mieście Gwatemala znaleźli bazaltowy blok z reliefem i hieroglifami. Specjaliści Instytutu Antropologii i Historii potwierdzili, że to Pomnik 59 z El Baúl, wywieziony z miejsca na początku lat 90.; zgłosili go w 1992 r. Víctor Rivera i Juan Antonio Siller, a Chinchilla znał go tylko z fotografii. Pomnik ma 80 cm wysokości i pochodzi z późnego okresu klasycznego. Ministerstwo przejęło go do badań konserwatorskich; nie wiadomo, jak trafił pod chodnik.",
+      "pewnosc": "potwierdzone",
+      "zrodla": [
+        {
+          "nazwa": "AGN (agencja rządowa Gwatemali), 26 maja 2021",
+          "url": "https://agn.gt/monumento-prehispanico-encontrado-en-zona-13-capitalina-es-resguardado/"
+        },
+        {
+          "nazwa": "La Hora, 26 maja 2021",
+          "url": "https://lahora.gt/nacionales/jeanelly/2021/05/26/pieza-arqueologica-localizada-en-santa-fe-podria-tener-mas-de-mil-anos/"
         }
       ]
     }
@@ -4673,6 +4859,18 @@
           "url": "https://www.razon.com.mx/infografias/2025/06/09/tenayuca-a-100-anos-de-la-excavacion-de-la-gran-capital-chichimeca/"
         }
       ]
+    },
+    {
+      "rok": "2025",
+      "tytul": "Archiwa: od 1858 r. wołano o ochronę wzgórka Tenayuca",
+      "opis": "Beatriz Zúñiga Bárcenas z Centro INAH Estado de México opisała w Arqueología Mexicana (nr 195, 2025) dokumenty o ochronie Tenayuca przed odkryciem piramidy. Już w 1858 r. Meksykańskie Towarzystwo Geografii i Statystyki prosiło o nadzór nad wydobyciem kamienia, w 1914 r. Inspekcja Zabytków pod kierunkiem Manuela Gamio poinformowała właścicieli o ochronie prawnej, a w 1919 r. wytyczono obszar 5870 m² obejmujący wzgórek. Pod nim przypuszczalnie kryła się niemal nietknięta świątynia. Dostępny jest tylko fragment artykułu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Arqueología Mexicana, nr 195, 2025 (Zúñiga Bárcenas)",
+          "url": "https://arqueologiamexicana.mx/mexico-antiguo/los-primeros-esfuerzos-de-conservacion-en-tenayuca"
+        }
+      ]
     }
   ],
   "chavin-de-huantar": [
@@ -4752,6 +4950,24 @@
   ],
   "salar-de-coipasa": [
     {
+      "rok": "2011",
+      "tytul": "Jezioro Coipasa: wysoki stan wód 12,5–11,9 tys. lat temu",
+      "opis": "Zespół Pierre-Henri Blarda datował metodami uranowo-torową i radiowęglową węglany z dawnych brzegów jezior na Altiplano. Wyróżnił trzy wysokie stany wód: Sajsi (ok. 25–19 tys. lat temu), Tauca (18–14,5 tys.) oraz Coipasa (12,5–11,9 tys. lat temu), gdy poziom sięgał ok. 3700 m n.p.m., czyli ok. 42 m ponad dzisiejszą powierzchnię Salar de Uyuni. Autorzy wiążą te fazy z zimnymi i ciepłymi epizodami na Północnym Atlantyku (Heinrich 1, młodszy dryas) i przesunięciami strefy opadów tropikalnych, a nie z ruchami skorupy ziemskiej.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Blard i in., Quaternary Science Reviews 30, 2011 (zapis w repozytorium Caltech)",
+          "url": "https://authors.library.caltech.edu/29259"
+        },
+        {
+          "nazwa": "IRD, baza publikacji, Blard i in. 2011",
+          "url": "https://www.documentation.ird.fr/hor/fdi:010054340"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "Czy Altiplano wykonuje jakieś dziwne ruchy tektoniczne, a reszta pozostaje w bezruchu?"
+    },
+    {
       "rok": "2012",
       "tytul": "Osuwisko wulkanu Tata Sabaya wpadło do jeziora Coipasa",
       "opis": "Zespół z Universidad de Chile (Godoy, Clavero i in.) opisał facje osuwiska po zawaleniu się boku wulkanu Tata Sabaya, którego osady wypełniają północno-zachodnią część niecki Salar de Coipasa. Złoże ma co najmniej 230 km² powierzchni i około 6 km³ objętości, a przyczyną mogło być połączenie aktywności magmowej i sejsmicznej. Wiek zdarzenia ustalono pośrednio: nacieki trawertynowe (tufa) przecinają osady osuwiska, więc zawalenie nastąpiło przed ok. 12 tys. lat temu, przed wysokim stanem jeziora Coipasa; bezpośredniego datowania osadów brak.",
@@ -4768,6 +4984,18 @@
       ],
       "artykul": "09tiahu/tiahua",
       "cytat_leszka": "Skąd w południowej części Altiplano wzięły się dwa ogromne, słone i wysychające jeziora Salar de Uyuni i Salar de Coipasa?"
+    },
+    {
+      "rok": "2019",
+      "tytul": "Rdzeń osadów z Coipasa: jezioro w ostatnich 40 tys. lat",
+      "opis": "Andrew Nunnery, Sherilyn Fritz, Paul Baker i Wout Salenbien opisali ok. 14-metrowy rdzeń osadów z Salar de Coipasa, obejmujący ostatnie ok. 40 tys. lat. Okrzemki i wskaźniki geochemiczne pokazują, że jezioro istniało stale między ok. 40 a 6 tys. lat temu, zmieniając głębokość od płytkiej do umiarkowanie głębokiej; najgłębsze fazy zbiegają się ze zdarzeniem Heinricha 1 i młodszym dryasem. Po ok. 6 tys. lat temu basen był suchy lub bardzo płytki. Wyniki zgadzają się z wcześniejszą chronologią rdzenia z Salar de Uyuni.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Nunnery i in., Quaternary Research 91(2), 2019 (zapis Lund University)",
+          "url": "https://lup.lub.lu.se/record/39e50353-5a6f-43d3-a248-602e914f5c18"
+        }
+      ]
     }
   ],
   "toro-muerto": [
@@ -5565,9 +5793,37 @@
           "url": "https://www.newarab.com/features/arab-world-institute-paris-traces-11-millennia-byblos-history?amp=1"
         }
       ]
+    },
+    {
+      "rok": "2024",
+      "tytul": "Byblos i wczesne państwo egipskie: port, który współtworzył ideologię władzy",
+      "opis": "Karin Sowada (Macquarie University) przedstawiła w rozdziale zbiorowej monografii „Byblos: a legacy unearthed” (Sidestone Press, 2024; wydanie Muzeum Starożytności w Leiden i libańskiej Dyrekcji Generalnej Starożytności) podsumowanie relacji Byblos z Egiptem w III tysiącleciu p.n.e. Potrzeba surowców z libańskiego wybrzeża miała kształtować egipską ideologię królewską i rozwój państwa terytorialnego, a stałe powiązania dały Byblos stabilną podstawę gospodarczą aż do regionalnego kryzysu ok. 2200 p.n.e. To synteza dotychczasowych badań, nie nowe wykopaliska.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Macquarie University, Research Portal, 2024",
+          "url": "https://researchers.mq.edu.au/en/publications/byblos-and-the-early-egyptian-state/"
+        },
+        {
+          "nazwa": "Sidestone Press, 2024",
+          "url": "https://www.sidestone.com/books/byblos-a-legacy-unearthed"
+        }
+      ]
     }
   ],
   "sydon": [
+    {
+      "rok": "2011",
+      "tytul": "Kamienny magazyn zboża, świątynia i groby z epoki brązu w Sydonie",
+      "opis": "Według relacji z sezonu 2011 brytyjsko-libańska ekipa Claude Doumet-Serhal na stanowisku Frères w starym Sydonie odkryła magazyn z kamienia (nie z cegły mułowej) ze spalonym zbożem: pszenicą samopszą i ok. 160 kg jęczmienia, zniszczony przez pożar ok. 2500–2400 p.n.e. Opisano też 48-metrową, sześciopomieszczeniową świątynię ze środkowej epoki brązu, gdzie odbywały się uczty religijne, oraz 116 grobów z pierwszej połowy II tysiąclecia p.n.e., w tym jeden zbiorowy z co najmniej ośmioma osobami. Dane pochodzą z krótkiej relacji prasowej, bez pełnej publikacji.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Stone Pages (za The Daily Star), lipiec 2011",
+          "url": "https://www.stonepages.com/news/archives/004416.html"
+        }
+      ]
+    },
     {
       "rok": "2017",
       "tytul": "Genomy Kananejczyków z Sydonu: ciągłość aż do dzisiejszych Libańczyków",
@@ -5585,6 +5841,30 @@
       ],
       "artykul": "11atlantyda/atlant",
       "cytat_leszka": "Etruskowie, Kartagińczycy, Fenicjanie, Celtowie, Baskowie, Guanczowie to potomkowie ludów, które przeżyły kataklizm"
+    },
+    {
+      "rok": "2018",
+      "tytul": "Dziecko w dzbanie z naszyjnikiem i islamska wieża w murach Sydonu",
+      "opis": "Zespół British Museum pod kierunkiem Claude Doumet-Serhal ogłosił w lipcu 2018 roku odkrycie pochówku dziecka w naczyniu, z naszyjnikiem na szyi; według Haaretz to pierwszy taki pochówek dziecka znaleziony w tym miejscu (wcześniejsze pochówki w dzbanach z epoki miedzi dotyczyły dorosłych). Wykopaliska odsłoniły też importowane z Egiptu marmurowe misy i obronną wieżę z epoki islamskiej przy murach Starego Miasta. Dokładnego datowania pochówku w relacji nie podano.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Haaretz, 2018",
+          "url": "https://www.haaretz.com/archaeology/2018-07-24/ty-article-magazine/archaeologists-reveal-canaanite-childs-jar-burial-in-ancient-sidon/0000017f-dc0e-d856-a37f-fdce923b0000"
+        }
+      ]
+    },
+    {
+      "rok": "2021",
+      "tytul": "Masowe groby krzyżowców w fosie zamku w Sydonie",
+      "opis": "Zespół Mikulskiego i współpracowników opisał w PLoS ONE szczątki co najmniej 25 mężczyzn z dwóch zbiorowych grobów w suchej fosie krzyżowego zamku w Sydonie. Monety, sprzączki w stylu frankijskim i datowania wskazują na jedno wydarzenie w XIII wieku, prawdopodobnie atak Mameluków w 1253 lub Mongołów w 1260 roku. Ślady ran ostrzem i tępymi narzędziami, wiele na plecach, sugerują ucieczkę, a analizy DNA i izotopów wskazały, że część mężczyzn urodziła się w Europie. Przypisanie do konkretnego ataku pozostaje hipotezą.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "PAST / Current World Archaeology, 2021",
+          "url": "https://the-past.com/news/mass-graves-of-crusader-soldiers-identified-in-lebanon/"
+        }
+      ]
     }
   ],
   "tyr": [
@@ -6091,6 +6371,18 @@
           "url": "https://publications.dainst.org/journals/efb/1628"
         }
       ]
+    },
+    {
+      "rok": "2015",
+      "tytul": "Nowy depozyt przy Zachodnich Schodach: ostatnie dni pałacu w Tyrynsie",
+      "opis": "Eleftheria Kardamaki opublikowała w 2015 roku (tom konferencyjny Szwedzkiego Instytutu w Atenach) analizę zwału ceramiki i fragmentów fresków, odkrytego w 1999 roku podczas prac konserwatorskich przy zachodnim murze Górnej Cytadeli, na tarasie Zachodnich Schodów. Wyróżniono trzy warstwy: środkowa odpowiada zniszczeniu pałacu na przełomie XIII i XII w. p.n.e., a wyższa późniejszemu sprzątaniu i niwelacji przed budową nowego megaronu z fazy LH IIIC. Depozyt przypomina zwał, w którym sto lat wcześniej znaleziono słynne freski tyryńskie.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Kardamaki 2015, w: Mycenaeans up to date, Swedish Institute at Athens (plik z Aegeus Society)",
+          "url": "https://www.aegeussociety.org/wp-content/uploads/2021/12/Kardamaki-2015-NewDeposit.pdf"
+        }
+      ]
     }
   ],
   "klasztor-batalha": [
@@ -6521,6 +6813,18 @@
       ],
       "artykul": "12rzym/rzym",
       "cytat_leszka": "Skąd wobec tego wzięły się tam budowle rzymskie?"
+    },
+    {
+      "rok": "2024–2025",
+      "tytul": "Kamieniołom, nekropolia i cyrk: francusko-tunezyjskie badania skał Dougga",
+      "opis": "Zespół francusko-tunezyjski kierowany przez Yvana Maligorne'a (Université de Bretagne Occidentale) badał w 2024 roku 2,5-hektarowy obszar na obrzeżach Dougga, gdzie nałożyły się kamieniołom, nekropolia i rzymski cyrk. Geolodzy opisali 98 próbek wapieni i wyróżnili 11 rodzajów skał użytych w mieście, a archeolodzy zmapowali ślady wydobycia bloków. Wynika z tego, że nekropolia przerwała eksploatację części kamieniołomu, a budowa cyrku zmieniła drogi wywozu kamienia, co wymusiło nową rampę od północy. Wyniki przedstawiono w prasie naukowo-popularnej, bez pełnej publikacji.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Sciences Ouest nr 432, wrzesień 2025",
+          "url": "https://espace-sciences.org/sciences-ouest/432/actualite/a-dougga-les-pierres-parlent"
+        }
+      ]
     }
   ],
   "leptis-magna": [
@@ -6863,6 +7167,18 @@
       ],
       "artykul": "warownie/warownie",
       "cytat_leszka": "Zastanówmy się też nad technicznym rozwiązaniem budowy łuków z potężnych kamiennych elementów w przyziemiach zamków Azrak, Safita czy zamku Saladyna."
+    },
+    {
+      "rok": "2023",
+      "tytul": "Trzęsienie ziemi z 6 lutego 2023 uszkodziło wieżę w Saficie",
+      "opis": "Raport organizacji Heritage for Peace i sieci ANSCH z 3 marca 2023 roku podaje, że trzęsienie ziemi z 6 lutego powiększyło dawne pęknięcia donżonu w Saficie (ok. 39 m wysokości, jedyna zachowana część zamku), pojawiły się nowe rysy, część kamieni wypadła, a na pierwszej kondygnacji powstała pusta przestrzeń. Autorzy zaznaczają, że pełna ocena stanu konstrukcji nie była jeszcze możliwa. To dokumentacja organizacji pozarządowej, bez potwierdzenia w komunikacie syryjskiej służby starożytności.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "Heritage for Peace / ANSCH, raport z 3 marca 2023",
+          "url": "https://ansch.heritageforpeace.org/wp-content/uploads/2023/03/the-impact-of-the-2023-earthquake-on-the-archaeological-locations-on-the-Syrian-coast.pdf"
+        }
+      ]
     }
   ],
   "belvoir": [
@@ -6930,6 +7246,18 @@
     }
   ],
   "obidos": [
+    {
+      "rok": "2010",
+      "tytul": "Czy Óbidos jest naprawdę średniowieczne? Spór o chronologię murów",
+      "opis": "Historyczka Manuela Santos Silva (Uniwersytet Lizboński) powiedziała na międzynarodowym sympozjum o zamkach w Óbidos w listopadzie 2010 roku, że obraz miasta jako w pełni średniowiecznego bywa złudny. Na podstawie źródeł pisanych uważa, że rozwój miejski jest udokumentowany dopiero po zdobyciu Lizbony w 1147 roku, a mur miejski ukończono w 1386 roku za Ferdynanda I. Wzywa do systematycznych wykopalisk, które potwierdziłyby lub obaliły te ustalenia; to teza oparta na dokumentach, nie na badaniach terenowych.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "Região de Leiria (Lusa), 11.11.2010",
+          "url": "https://www.regiaodeleiria.pt/2010/11/historiadora-defende-que-nem-toda-a-vila-de-obidos-e-medieval/"
+        }
+      ]
+    },
     {
       "rok": "2022",
       "tytul": "Studium akweduktu w Óbidos: stan i plan odbudowy",
@@ -7408,6 +7736,18 @@
     }
   ],
   "meteoryt-hoba": [
+    {
+      "rok": "2008",
+      "tytul": "Historia Hoby z archiwów: Brits, rów i pierwsze wzmianki",
+      "opis": "Peter Spargo z Uniwersytetu w Kapsztadzie odtworzył z archiwów w serii w MNASSA dzieje meteorytu. Odkrywcą w 1920 r. był farmer Jacobus Hermanus Brits, a jego żona zaczęła odkopywać blok. Pierwsza wzmianka w literaturze naukowej pojawiła się dopiero w katalogu Priora z 1923 r., a eksperci odwiedzili miejsce w 1925 r., gdy rów wokół bloku był już gotowy. Wieść o znalezisku przez ok. sześć lat nie wyszła poza okolice Grootfontein.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Spargo P.E., The History of the Hoba Meteorite, Part II, MNASSA 67 (9/10), 2008",
+          "url": "https://www.mnassa.org.za/html/Oct2008/2008MNASSA..67..Oct..166.pdf"
+        }
+      ]
+    },
     {
       "rok": "2013",
       "tytul": "Jak 60-tonowy blok żelaza spadł bez krateru",
@@ -8039,6 +8379,18 @@
       ]
     },
     {
+      "rok": "2020",
+      "tytul": "Najmłodsze ślady w jaskini Stajnia: schronienie w czasie wojen",
+      "opis": "Michał Wojenka (UJ) i Mikołaj Urbanowski opisali zabytki z górnych warstw jaskini Stajnia, położonej ok. 680 m od zamku w Mirowie, badanej w latach 2006–2010. Poza grotem z brązu i przęślikiem z młodszej prehistorii odkryto ceramikę z XIII–XV wieku oraz prawie 900 skorup z XVII–XIX wieku. Część z nich autorzy wiążą z ukrywaniem się ludności podczas wojny północnej w latach 1702–1704, a część z XIX wieku warunkowo z pobytem powstańców styczniowych w 1863 roku; to interpretacje oparte na przekazach pisanych, nie pewnik.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Wojenka, Urbanowski, Prądnik 30, 2020 (PDF, Ojcowski Park Narodowy)",
+          "url": "https://opn.gov.pl/pliki-do-pobrania/otworz/51503f25-f056-4623-9456-da67406709c9.pdf"
+        }
+      ]
+    },
+    {
       "rok": "2021",
       "tytul": "Ślady wykałaczki na zębach neandertalczyków ze Stajni",
       "opis": "Zespół dr Wioletty Nowaczewskiej z Uniwersytetu Wrocławskiego opisał w „Journal of Human Evolution” nowe zęby neandertalczyków z jaskini Stajnia, sprzed ok. 46 tys. lat. Rowki na zębie interpretuje się jako ślady używania wykałaczki; to drugi taki przypadek w tej jaskini. Materiał wykałaczki nie jest znany, a interpretacja śladów opiera się na analizie morfologicznej.",
@@ -8157,6 +8509,38 @@
   ],
   "mayapan": [
     {
+      "rok": "2012–2014",
+      "tytul": "Skanowanie laserowe: ponad 100 nieznanych cenotów wokół Mayapánu",
+      "opis": "W 2012 r. ośrodek NCALM (Uniwersytet Houston i UC Berkeley) wykonał lotnicze skanowanie LiDAR Mayapánu dla projektu archeologicznego (44 punkty na m², by przebić się przez roślinność). Według relacji prasowych i INAH liczba znanych cenotów wzrosła z ok. 45 wewnątrz muru do ponad 150 w okolicy. Liczby się różnią: National Geographic mówi o 150 nowych cenotach, a Yucatán Magazine o 105 oraz 19 nieznanych stanowiskach z ok. 2000 budowli. Pełnej publikacji wyników w tym wpisie nie sprawdzono.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic, 2014",
+          "url": "https://www.nationalgeographic.com/news/2014/1/140116-maya-mexico-yucatan-cenote-bones-haunted-taboo-archaeology-science/"
+        },
+        {
+          "nazwa": "Yucatán Magazine, 2017 (za INAH i Televisa)",
+          "url": "https://yucatanmagazine.com/?p=33962"
+        },
+        {
+          "nazwa": "OpenTopography, opis zbioru danych Mayapan",
+          "url": "https://opentopography.org/node/3170"
+        }
+      ]
+    },
+    {
+      "rok": "2013–2014",
+      "tytul": "Cenote Sac Uayum: kości kilkunastu osób tuż za murem",
+      "opis": "Zespół Bradleya Russella wraz z Lisseth Pedrozą Fuentes badał latem 2013 r. zalaną jaskinię Sac Uayum tuż za murem Mayapánu. Nurkowie naliczyli 15 czaszek w dwóch komorach, kobiet i mężczyzn, nastolatków i dorosłych. Russell sądzi, że kości leżały pierwotnie w pierwszej komorze i spadły do drugiej po zawaleniu dna; sugeruje, że mogły to być ofiary zarazy, ale to niepotwierdzona hipoteza, a datowanie radiowęglowe zębów dopiero planowano. Mur miasta zakręca tak, by cenote zostawić na zewnątrz, a pobliskie X'coton objąć.",
+      "pewnosc": "hipoteza",
+      "zrodla": [
+        {
+          "nazwa": "National Geographic, 2014",
+          "url": "https://www.nationalgeographic.com/news/2014/1/140116-maya-mexico-yucatan-cenote-bones-haunted-taboo-archaeology-science/"
+        }
+      ]
+    },
+    {
       "rok": "2022",
       "tytul": "Susza, przemoc i upadek ostatniej wielkiej stolicy Majów",
       "opis": "Zespół Douglasa Kennetta (UC Santa Barbara) z INAH, Cambridge i innymi uczelniami zestawił setki dat radiowęglowych, dane izotopowe i szkieletowe z Mayapán z zapisem suszy w naciekach jaskini pod miastem. Okazało się, że ludność zaczęła spadać już po ok. 1350 r., a susze z końca XIV i XV wieku nasilały konflikty elit, kończące się przemocą w latach 1441–1461 i opuszczeniem miasta. Autorzy mówią o czynniku, który wzmocnił konflikt, a nie o jedynej przyczynie, a sam związek wynika z zestawienia zbieżnych danych. Po upadku Mayapán państwa Majów na Jukatanie przetrwały aż do przybycia Hiszpanów.",
@@ -8173,24 +8557,6 @@
         {
           "nazwa": "The Conversation (Serafin), 2022",
           "url": "https://theconversation.com/climate-conflict-collapse-how-drought-destabilised-the-last-major-precolonial-mayan-city-187165"
-        }
-      ]
-    }
-  ],
-  "montserrat": [
-    {
-      "rok": "2014–2016",
-      "tytul": "Cztery techniki monitorowania osuwisk skalnych nad klasztorem",
-      "opis": "Zespół Katalońskiego Instytutu Kartograficznego i Geologicznego (ICGC) z Uniwersytetem w Barcelonie przetestował w latach 2014–2016 cztery metody śledzenia ruchów skał w masywie Montserrat: radar satelitarno-naziemny GB-SAR, naziemny skaning laserowy, sieć bezprzewodowych czujników w szczelinach oraz tachimetr na pojedynczych iglicach skalnych. Masyw zbudowany jest ze zlepieńców przełożonych słabszymi mułowcami i piaskowcami, a skały spadają na teren, który odwiedza ok. 2,4 mln osób rocznie, zagrażając klasztorowi, drogom i kolejce zębatej. Publikacja opisuje wstępne wyniki pilotażu, a nie pełny katalog zdarzeń.",
-      "pewnosc": "publikacja naukowa",
-      "zrodla": [
-        {
-          "nazwa": "Janeras i in., Engineering Geology 219, 2016 (repozytorium Uniwersytetu w Barcelonie)",
-          "url": "https://diposit.ub.edu/dspace/handle/2445/110222"
-        },
-        {
-          "nazwa": "Repozytorium UB, rekord pracy (abstrakt)",
-          "url": "https://diposit.ub.edu/items/ec9ee504-7693-4044-8275-63f338ec559c/full"
         }
       ]
     }
@@ -8643,6 +9009,116 @@
           "url": "https://archaeology.org/news/2024/08/15/stela-discovered-in-mexicos-coba-archaeological-zone/"
         }
       ]
+    }
+  ],
+  "pisac": [
+    {
+      "rok": "2025",
+      "tytul": "Grobowce Doliny Świętej: Pisaq i różnorodność wierzeń pogrzebowych",
+      "opis": "Julia E. Earle (University of Texas w Austin) przeanalizowała 788 grobowców z 30 stanowisk w Świętej Dolinie i okolicach (ok. 1000–1532 r. n.e.) i wydzieliła sześć typów. W Pisaq wyróżniają się „kapsuły” wykute lub zbudowane w ścianach skalnych, często praktycznie niedostępne i bez śladów urządzeń do późniejszych obrzędów; jedną z nich datowano radiowęglowo na koniec XIII lub początek XIV w., co nie wyklucza związku z Inkami. Autorka argumentuje, że różnice w formie grobów odzwierciedlają odmienne wierzenia, a nie jedną wspólną tradycję andyjską. To analiza typologiczna, a nie nowe wykopaliska w cmentarzysku Pisaq; pojedyncza data pochodzi z jednego obiektu.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Earle, J. E., Latin American Antiquity 36(3), 2025 (Cambridge Core)",
+          "url": "https://www.cambridge.org/core/journals/latin-american-antiquity/article/tombs-as-evidence-of-religious-diversity-in-the-sacred-valley-peru-ca-ad-10001532/C1C0266837C3501CC870AA1057E1B39B"
+        }
+      ]
+    }
+  ],
+  "sillustani": [
+    {
+      "rok": "2011",
+      "tytul": "Szczątki z epoki przedinkaskiej odkryte przy chullpie El Lagarto",
+      "opis": "We wrześniu 2011 r. podczas prac konserwatorskich finansowanych przez Plan Copesco, pod nadzorem regionalnej dyrekcji kultury w Puno, odkryto przy wieży grobowej El Lagarto ludzkie szczątki z późnego okresu pośredniego. Archeolog Eduardo Arizaca mówił o czterech dorosłych i dwojgu dzieciach z ofiarami (ziemniaki, komosa, naczynia, przedmioty metalowe); inna relacja wymienia szczątki dziecka z psem i talerzem ceramicznym, datowane szacunkowo na lata 1300–1400. Doniesienia różnią się szczegółami, a datowań laboratoryjnych nie podano. Archeolog Fernando Sosa nie wykluczał dalszych odkryć przy pozostałych dziesięciu wieżach objętych projektem.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "RPP, 20 IX 2011",
+          "url": "https://rpp.pe/peru/actualidad/hallan-restos-preincas-en-chullpa-de-complejo-sillustani-en-puno-noticia-405610"
+        },
+        {
+          "nazwa": "Arqueología del Perú, IX 2011 (za Andina)",
+          "url": "https://arqueologiadelperu.com/hallan-restos-de-nino-de-epoca-prehispanica-en-chullpas-de-sillustani-en-puno/"
+        }
+      ],
+      "artykul": "09tiahu/tiahua",
+      "cytat_leszka": "Ogromne \"silosy\" wypełnione kamieniami. Do czego służyły?"
+    }
+  ],
+  "kisz": [
+    {
+      "rok": "2015",
+      "tytul": "Nowa data radiowęglowa dla Kisz z okresu wczesnodynastycznego",
+      "opis": "Federico Zaina ponownie przeanalizował sondaż YWN na Tell Ingharra, wykonany w latach 1927–1930 przez wspólną ekspedycję Oxfordu i Field Museum, korzystając z niepublikowanej dokumentacji i zabytków z wykopalisk. Nowe datowanie radiowęglowe próbki kostnej umieściło najmłodszą fazę sondażu na przełomie okresu wczesnodynastycznego IIIb i epoki akadyjskiej. Praca porządkuje chronologię jednego z najstarszych miast Mezopotamii i pozwala porównać ją z datami z innych stanowisk północnej i środkowej Mezopotamii.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "F. Zaina, Iraq 77, 2015 (Cambridge University Press)",
+          "url": "https://www.cambridge.org/core/journals/iraq/article/abs/radiocarbon-date-from-early-dynastic-kish-and-the-stratigraphy-and-chronology-of-the-ywn-sounding-at-tell-ingharra/C4145A93924790BD3B74AF4AADD657CD"
+        }
+      ],
+      "artykul": "10woda/bogwody",
+      "cytat_leszka": "Po potopie królestwo \"ponownie zeszło z nieba\" i znajdowało się w Kisz. Archeologia odnalazła niewiele."
+    },
+    {
+      "rok": "2025",
+      "tytul": "Dwa cylindry Nebukadnezara II z ziggurata w Kisz",
+      "opis": "Pracownicy irackiego Państwowego Zarządu Starożytności i Dziedzictwa (Ahmed Ali Jawad i Hussein Fleih Al-Ammari) opublikowali dwa gliniane cylindry z identycznym napisem Nebukadnezara II (604–562 p.n.e.), znalezione przypadkowo na powierzchni Tell al-Uhaimir i przekazane władzom w grudniu 2013 r. Tekst opisuje odbudowę ziggurata Eunirkituszmah, poświęconego bogu Zababie i bogini Isztar; autorzy uznają go za pierwszy tekst fundacyjny dokumentujący prace tego władcy w Kisz. Wcześniej jego działalność w mieście znano jedynie z cegieł z pieczęciami. Tekst nie jest datowany, a cylindry pochodzą ze zbioru przypadkowych znalezisk powierzchniowych, nie z wykopalisk.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Jawad i Al-Ammari, Iraq 87, 2025 (Cambridge University Press)",
+          "url": "https://www.cambridge.org/core/product/identifier/S0021088925100235/type/journal_article"
+        },
+        {
+          "nazwa": "Arkeonews, 2026",
+          "url": "https://arkeonews.net/clay-cylinders-of-the-builder-king-of-the-neo-babylonian-world-reveal-the-restoration-of-the-kish-ziggurat/"
+        }
+      ]
+    }
+  ],
+  "bagras": [
+    {
+      "rok": "2023",
+      "tytul": "Trzęsienie ziemi z lutego 2023 uszkodziło zamek Bagras",
+      "opis": "Według relacji Anadolu Agency przytoczonej przez TRT World, podczas trzęsień ziemi z 6 lutego 2023 r. zniszczeniu uległy części zamku Bagras (Baghras) przy drodze Antakya–İskenderun w prowincji Hatay. Zamek jest zamknięty dla zwiedzających, a o szkodach mówił AA sołtys osiedla Ötençay w powiecie Belen. Dokładnego zakresu zniszczeń nie opisano, a niezależnego potwierdzenia ani oceny konserwatorskiej nie znaleziono.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "TRT World (za Anadolu Agency), 2023",
+          "url": "https://www.trtworld.com/article/13118988"
+        }
+      ]
+    }
+  ],
+  "guimaraes": [
+    {
+      "rok": "2026",
+      "tytul": "19 rzeźbionych skał z epoki prehistorycznej w Barco koło Guimarães",
+      "opis": "Przy budowie akademika AvePark w parafii Barco (gmina Guimarães) odkryto 19 skał z prehistorycznymi rytami: zagłębieniami czarkowatymi, liniami wężowatymi oraz przedstawieniami zwierząt i postaci ludzkich, a także ślady dawnych konstrukcji, których funkcja jest badana. Według komunikatu urzędu miasta ryty pochodzą z okresu od III do I tysiąclecia p.n.e., a prace budowlane nie zostały wstrzymane. Informacja pochodzi z komunikatu gminy, bez publikacji naukowej.",
+      "pewnosc": "doniesienie",
+      "zrodla": [
+        {
+          "nazwa": "DNotícias, lipiec 2026 (komunikat Câmara Municipal de Guimarães)",
+          "url": "https://www.dnoticias.pt/2026/7/1/497534-conjunto-arqueologico-com-mais-de-tres-mil-anos-descoberto-em-guimaraes/"
+        }
+      ]
+    }
+  ],
+  "zamek-w-gniewie": [
+    {
+      "rok": "2023–2025",
+      "tytul": "Bitwa pod Gniewem 1626: szaniec i pochówki odkopane w Ciepłem, kilka kilometrów od zamku",
+      "opis": "Zespół Sławomira Wadyla z Wydziału Archeologii Uniwersytetu Warszawskiego prowadził w latach 2023–2024 wykopaliska w Ciepłem k. Gniewa, na reliktach wczesnośredniowiecznego grodziska. Odsłonił tam ziemne fortyfikacje typu redutowego z czasów wojny polsko-szwedzkiej, setki kul muszkietowych, sztaby ołowiu i formę do odlewania kul oraz sześć pochówków (w tym dwoje dzieci), które datowanie radiowęglowe przesunęło z wczesnego średniowiecza na przełom XVI i XVII w. Wyniki, opublikowane w 2025 r. w International Journal of Historical Archaeology, wiążą stanowisko z bitwą pod Gniewem (22 IX – 1 X 1626), toczoną o zajęty przez Szwedów Gniew. Samego zamku wykopaliska nie dotyczą, a nie wszyscy pochowani muszą być żołnierzami.",
+      "pewnosc": "publikacja naukowa",
+      "zrodla": [
+        {
+          "nazwa": "Archeowieści, 25 sierpnia 2025 (omówienie artykułu Wadyl, Bakiera, Fetner, Int. J. Hist. Archaeol. 2025)",
+          "url": "https://archeowiesci.pl/fortyfikacje-i-smierc-slady-bitwy-pod-gniewem/"
+        }
+      ],
+      "artykul": "warownie/kazimierz",
+      "cytat_leszka": "natomiast rekordową liczbę zniszczeń odnotowali Szwedzi, odpowiedzialni za zniszczenie 57 obiektów"
     }
   ]
 }

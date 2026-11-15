@@ -42,7 +42,7 @@
 
   <div class="fakty-pasek"><div class="wrap-atlas">
     <span><b>1</b> artykuł Leszka</span>
-    <span><b>1</b> najnowsze badanie</span>
+    <span><b>2</b> najnowsze badania</span>
     <span><b>16</b> zdjęć</span>
     
     <span><a href="https://www.openstreetmap.org/?mlat=-19.592472&amp;mlon=17.933667#map=14/-19.592472/17.933667" rel="noopener">-19.592, 17.934</a></span>
@@ -69,8 +69,11 @@
     </section>
 
     <section id="badania" class="sekcja">
-      <p class="etykieta">Najnowsze badania · 1</p>
-      
+      <p class="etykieta">Najnowsze badania · 2</p>
+      <div class="kalendarz" role="group" aria-label="Kalendarz: lata badań">
+        <button type="button" class="kal-wszystkie" data-rok="" aria-pressed="true">Wszystkie</button>
+        <div class="kal-lata"><button type="button" data-rok="2008" aria-pressed="false" title="2008: 1 badanie"><span class="slupek" style="--n:1.00"></span><b>08</b></button><button type="button" data-rok="2009" aria-pressed="false" disabled title="2009: 0 badań"><span class="slupek" style="--n:0.00"></span><b>09</b></button><button type="button" data-rok="2010" aria-pressed="false" disabled title="2010: 0 badań"><span class="slupek" style="--n:0.00"></span><b>10</b></button><button type="button" data-rok="2011" aria-pressed="false" disabled title="2011: 0 badań"><span class="slupek" style="--n:0.00"></span><b>11</b></button><button type="button" data-rok="2012" aria-pressed="false" disabled title="2012: 0 badań"><span class="slupek" style="--n:0.00"></span><b>12</b></button><button type="button" data-rok="2013" aria-pressed="false" title="2013: 1 badanie"><span class="slupek" style="--n:1.00"></span><b>13</b></button></div>
+      </div>
       <ol class="lista-badan zwijane rozwiniete">
         <li data-lata="2013">
           <span class="rok">2013</span>
@@ -80,6 +83,16 @@
             <button type="button" class="wiecej">więcej</button>
             <p class="nawiazanie">Leszek pytał: „Jeśli masa początkowa przekracza 1000 ton, atmosfera nie jest w stanie spowolnić jego prędkości, a sam upadek powoduje ogromne zniszczenia.” <a href="../czytelnia/uklad-wstep1.html">(„Tiamat i komety”)</a></p>
             <p class="zrodla-odkrycia"><a href="https://link.springer.com/article/10.1007/s11038-013-9421-7" rel="noopener">Beech, Earth, Moon, and Planets 111, 2013 ↗</a><a href="https://www.iflscience.com/hoba-mystery-why-didnt-the-worlds-largest-meteorite-leave-an-impact-crater-78007" rel="noopener">IFLScience, 2025 ↗</a></p>
+          </div>
+        </li>
+        <li data-lata="2008">
+          <span class="rok">2008</span>
+          <div class="badanie">
+            <h3>Historia Hoby z archiwów: Brits, rów i pierwsze wzmianki <span class="pewnosc p-publikacja-naukowa">publikacja naukowa</span></h3>
+            <p class="opis-badania dlugi">Peter Spargo z Uniwersytetu w Kapsztadzie odtworzył z archiwów w serii w MNASSA dzieje meteorytu. Odkrywcą w 1920 r. był farmer Jacobus Hermanus Brits, a jego żona zaczęła odkopywać blok. Pierwsza wzmianka w literaturze naukowej pojawiła się dopiero w katalogu Priora z 1923 r., a eksperci odwiedzili miejsce w 1925 r., gdy rów wokół bloku był już gotowy. Wieść o znalezisku przez ok. sześć lat nie wyszła poza okolice Grootfontein.</p>
+            <button type="button" class="wiecej">więcej</button>
+            
+            <p class="zrodla-odkrycia"><a href="https://www.mnassa.org.za/html/Oct2008/2008MNASSA..67..Oct..166.pdf" rel="noopener">Spargo P.E., The History of the Hoba Meteorite, Part II, MNASSA 67 (9/10), 2008 ↗</a></p>
           </div>
         </li>
       </ol>

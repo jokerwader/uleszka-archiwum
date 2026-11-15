@@ -62,9 +62,12 @@ Nature, Science, Smithsonian i ScienceDirect często blokują pobieranie – wte
 
 ## Stan (15 listopada 2026)
 
-Wpisy ma 171 ze 188 miejsc (520 wpisów, 193 z dosłownym cytatem Leszka). Bez wpisów – brak sprawdzalnych badań po 2007 r.
-albo tylko źródła turystyczne i sensacyjne: Zawijet el-Arjan, Kisz, Kerak, Bagras, Guimarães, zamek w Ostrężniku,
-zamek w Proboszczowicach, zamek Bolczów, zamek w Gniewie, Pisac, Qenko, Tambomachay, Sillustani, Aramu Muru, Ingapirca,
-Khajuraho, odcisk z Antelope Spring. Przy kolejnej rundzie warto zacząć od nich i od miejsc z 1 wpisem.
+Wpisy ma 176 ze 186 miejsc (554 wpisy). Druga runda („mniej znane znaleziska”) przeszukała prasę regionalną, muzea, konserwatorów,
+ministerstwa, roczniki i sprawozdania z konferencji dla miejsc z 0–1 wpisem i dla Ślęży.
+Nadal bez wpisów – brak sprawdzalnych badań po 2007 r. albo tylko źródła turystyczne i sensacyjne: Zawijet el-Arjan, Kerak,
+zamek w Ostrężniku, zamek Bolczów, Qenko, Tambomachay, Aramu Muru, Ingapirca, Khajuraho, odcisk z Antelope Spring.
+Tropy na przyszłość: studnia na dziedzińcu zamku w Bytowie (Kajkowski, Szczepanik, Acta Archaeologica Pomoranica 5, 2015),
+misja florencka w Keraku (Jordan Times 2017–2019), konserwacja ruin w Mirowie i Bobolicach (Kurek 2024).
+Wiele stron (gp24.pl, echodnia.eu, Jordan Times, ScienceDirect, Springer) blokuje automatyczne pobieranie – warto otworzyć je w przeglądarce.
 
 Nie są źródłem: Wikipedia, Ancient Origins, Gaia, History Channel i podobne serwisy sensacyjne, strony biur podróży.
