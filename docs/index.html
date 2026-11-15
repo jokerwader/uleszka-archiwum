@@ -49,7 +49,7 @@
 
   /* ---------- HERO: scena 3D ---------- */
   .hero {
-    position: relative; min-height: 100vh; min-height: 100svh; color: #f4efe4; overflow: hidden; isolation: isolate;
+    position: relative; z-index: 20; min-height: 100vh; min-height: 100svh; color: #f4efe4; overflow: hidden; isolation: isolate; /* z-index: menu (w środku) nad sekcjami */
     display: flex; flex-direction: column;
     background:
       radial-gradient(ellipse 70% 45% at 70% 105%, rgba(226, 169, 63, .18), transparent 70%),
@@ -796,6 +796,10 @@
           <p>Nie. Archiwum i serwer są bezpłatne i nie wymagają logowania. Potrzebujesz tylko konta w Claude (darmowe wystarczy) albo płatnego ChatGPT.</p>
         </details>
         <details name="faq">
+          <summary><span>Na co idą wpłaty?</span><span class="krotko">Na koszty</span><span class="znak" aria-hidden="true"></span></summary>
+          <p>Wszystkie teksty, podcast, filmy i atlas są i zostaną bezpłatne. Dobrowolne wpłaty (np. przez Patronite) pokrywają wyłącznie koszty: lektora AI, serwera dla asystentów AI, przygotowania filmów i grafik oraz czasu pracy nad archiwum. Nikt nie płaci za teksty Leszka Klimka i nie są one sprzedawane. Przy dużych kosztach jednego odcinka (godzina nagrania to dziesiątki tysięcy znaków dla lektora) wsparcie pozwala utrzymać rytm: nowy odcinek co niedzielę.</p>
+        </details>
+        <details name="faq">
           <summary><span>Czy teksty są zmienione albo skrócone?</span><span class="krotko">Nie</span><span class="znak" aria-hidden="true"></span></summary>
           <p>Nie. Artykuły są przeniesione słowo w słowo, a zgodność z oryginałem sprawdza automat, litera po literze. Streszczenia i opisy zdjęć przygotowała AI. Są wyraźnie oznaczone i trzymane osobno od oryginału.</p>
         </details>
@@ -828,7 +832,7 @@
 
 <footer>
   <div class="wrap">
-    <p>Treści strony uleszka.net należą do ich autora i jego spadkobierców. Archiwum ma charakter dokumentacyjny i niekomercyjny: chroni przed zniknięciem stronę, której już nie ma w sieci. Jeśli masz prawa do tych treści i zastrzeżenia, <a href="https://github.com/jokerwader/uleszka-archiwum/issues">daj znać</a>, a treści zostaną usunięte.</p>
+    <p>Treści strony uleszka.net należą do ich autora i jego spadkobierców. Archiwum ma charakter dokumentacyjny i niekomercyjny: chroni przed zniknięciem stronę, której już nie ma w sieci. Dobrowolne wpłaty pokrywają wyłącznie koszty utrzymania i produkcji (lektor AI, serwer, filmy); za teksty autora nikt nie płaci. Jeśli masz prawa do tych treści i zastrzeżenia, <a href="https://github.com/jokerwader/uleszka-archiwum/issues">daj znać</a>, a treści zostaną usunięte.</p>
     <p>Kod archiwum: licencja MIT · <a href="https://github.com/jokerwader/uleszka-archiwum">github.com/jokerwader/uleszka-archiwum</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/ksiazki.md">książki cytowane przez autora</a></p>
   </div>
 </footer>
