@@ -14,7 +14,7 @@
 .wstep-atlasu { margin: 34px 0 18px; max-width: 760px; }
 .wstep-atlasu .etykieta { margin: 0 0 6px; font-size: 13px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--akcent); }
 .wstep-atlasu h1 { font-family: Georgia, serif; }
-.wstep-atlasu p { color: var(--tekst-2); font-size: 17px; line-height: 1.6; }
+.wstep-atlasu p { color: var(--tekst-2); font-size: calc(var(--rozmiar) * 0.895); line-height: 1.6; }
 .filtry { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 0 0 14px; }
 .filtr { display: inline-flex; align-items: center; gap: 6px; padding: 7px 13px; border-radius: 999px; border: 1px solid var(--linia); background: var(--karta);
   color: var(--tekst); font: 600 14px system-ui, sans-serif; cursor: pointer; }
@@ -35,7 +35,7 @@
 .karty-miejsc li[hidden] { display: none; }
 .karty-miejsc a { display: flex; flex-direction: column; text-decoration: none; color: var(--tekst); height: 100%; }
 .karty-miejsc img, .karty-miejsc .bez-foto { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; background: var(--pole); display: block; }
-.karty-miejsc b { font: 700 17px/1.25 Georgia, serif; color: var(--naglowek); padding: 10px 12px 2px; }
+.karty-miejsc b { font: 700 calc(var(--rozmiar) * 0.895)/1.25 Georgia, serif; color: var(--naglowek); padding: 10px 12px 2px; }
 .karty-miejsc small { padding: 0 12px 12px; color: var(--tekst-2); font-size: 13px; }
 /* w atlasie za linkami menu nie ma przycisków (Spis, Aa), więc bez kreski oddzielającej */
 .gora nav .menu-linki { border-right: 0; margin-right: 0; padding-right: 0; }
@@ -55,8 +55,8 @@
   background: rgba(5, 7, 12, .5); color: #fff; font: 600 13px system-ui, sans-serif; cursor: zoom-in; backdrop-filter: blur(4px); }
 .hero-powieksz:hover { background: rgba(5, 7, 12, .75); }
 .fakty-pasek { background: var(--karta); border-bottom: 1px solid var(--linia); }
-.fakty-pasek .wrap-atlas { display: flex; flex-wrap: wrap; gap: 6px 26px; padding-top: 14px; padding-bottom: 14px; font-size: 14.5px; color: var(--tekst-2); }
-.fakty-pasek b { color: var(--naglowek); font-size: 16px; }
+.fakty-pasek .wrap-atlas { display: flex; flex-wrap: wrap; gap: 6px 26px; padding-top: 14px; padding-bottom: 14px; font-size: calc(var(--rozmiar) * 0.763); color: var(--tekst-2); }
+.fakty-pasek b { color: var(--naglowek); font-size: calc(var(--rozmiar) * 0.842); }
 .sekcje { position: sticky; top: 56px; z-index: 15; background: var(--gora); backdrop-filter: blur(10px); border-bottom: 1px solid var(--linia); }
 .sekcje .wrap-atlas { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; padding-top: 6px; padding-bottom: 6px; }
 .sekcje a { flex: none; padding: 7px 12px; border-radius: 999px; color: var(--tekst-2); text-decoration: none; font-size: 14.5px; font-weight: 600; }
@@ -71,13 +71,13 @@ h2.etykieta { margin: 0 0 16px; font: 700 12.5px system-ui, sans-serif; letter-s
 
 /* W skrócie */
 .skrot-siatka { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(260px, 1fr); gap: 32px; align-items: start; }
-.wstep-wiki { margin: 0; font: 19px/1.7 Georgia, serif; color: var(--tresc); max-width: 720px; }
+.wstep-wiki { margin: 0; font: var(--rozmiar)/1.7 Georgia, serif; color: var(--tresc); max-width: 720px; }
 .w-skrocie .zrodlo { margin: 12px 0 0; }
 .skrot-boczny { display: grid; gap: 12px; padding-top: 30px; }
 .skrot-kafel { display: block; padding: 14px 16px; border-radius: 14px; background: var(--karta); border: 1px solid var(--linia); text-decoration: none; color: var(--naglowek); transition: border-color .2s; }
 .skrot-kafel:hover { border-color: var(--akcent); }
 .skrot-kafel small { display: block; margin-bottom: 4px; font: 600 12px system-ui, sans-serif; letter-spacing: .5px; text-transform: uppercase; color: var(--akcent); }
-.skrot-kafel b { font: 700 17px/1.35 Georgia, serif; }
+.skrot-kafel b { font: 700 calc(var(--rozmiar) * 0.895)/1.35 Georgia, serif; }
 
 /* Co pisał Leszek */
 .motto { margin: 0 0 26px; max-width: 880px; }
@@ -88,11 +88,11 @@ h2.etykieta { margin: 0 0 16px; font: 700 12.5px system-ui, sans-serif; letter-s
 .lista-artykulow a { display: grid; grid-template-columns: minmax(200px, 1fr) minmax(0, 2fr) auto; gap: 6px 24px; align-items: baseline; padding: 14px 6px; text-decoration: none; color: var(--tekst); transition: background .2s; }
 .lista-artykulow a:hover { background: var(--pole); }
 .art-glowa { display: flex; flex-direction: column; }
-.tytul-art { font: 700 18px/1.3 Georgia, serif; color: var(--naglowek); }
+.tytul-art { font: 700 calc(var(--rozmiar) * 0.947)/1.3 Georgia, serif; color: var(--naglowek); }
 .lista-artykulow a:hover .tytul-art { color: var(--akcent-mocny); }
 .dzial { font-size: 12.5px; color: var(--tekst-2); }
-.zajawka { font-size: 14.5px; line-height: 1.55; color: var(--tekst-2); }
-.zajawka .cyt { font: italic 15.5px/1.55 Georgia, serif; color: var(--tresc); }
+.zajawka { font-size: calc(var(--rozmiar) * 0.763); line-height: 1.55; color: var(--tekst-2); }
+.zajawka .cyt { font: italic calc(var(--rozmiar) * 0.816)/1.55 Georgia, serif; color: var(--tresc); }
 .czytaj { font: 700 13.5px system-ui, sans-serif; color: var(--link); white-space: nowrap; }
 
 /* Najnowsze badania: oś czasu z rozwijanymi wpisami */
@@ -112,7 +112,7 @@ h2.etykieta { margin: 0 0 16px; font: 700 12.5px system-ui, sans-serif; letter-s
 .badanie summary::after { content: "+"; position: absolute; right: 16px; top: 10px; font: 400 24px/1 system-ui, sans-serif; color: var(--akcent); }
 .badanie[open] summary::after { content: "−"; }
 .badanie summary:hover .tytul-badania { color: var(--akcent-mocny); }
-.tytul-badania { font: 700 18px/1.35 Georgia, serif; color: var(--naglowek); }
+.tytul-badania { font: 700 calc(var(--rozmiar) * 0.947)/1.35 Georgia, serif; color: var(--naglowek); }
 .pewnosc { display: inline-block; padding: 2px 9px; border-radius: 999px; font: 600 11.5px system-ui, sans-serif; background: var(--pole); color: var(--tekst-2); border: 1px solid var(--linia); white-space: nowrap; }
 .p-potwierdzone, .p-publikacja-naukowa { color: #2f7a4f; border-color: #2f7a4f55; }
 .p-hipoteza { color: #9b4f8f; border-color: #9b4f8f55; }
@@ -120,10 +120,10 @@ h2.etykieta { margin: 0 0 16px; font: 700 12.5px system-ui, sans-serif; letter-s
 .badanie-tresc { padding: 0 18px; }
 .badanie-tresc.z-cytatem { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.6fr); gap: 12px; align-items: start; }
 .badanie-tresc small { display: block; margin-bottom: 4px; font: 700 11.5px system-ui, sans-serif; letter-spacing: 1px; text-transform: uppercase; }
-.badanie-tresc p { margin: 0; line-height: 1.65; }
+.badanie-tresc p { margin: 0; line-height: 1.65; font-size: calc(var(--rozmiar) * 0.842); }
 .leszek-pisal { padding: 12px 14px; border-radius: 10px; background: var(--pole); border: 1px dashed var(--linia); }
 .leszek-pisal small { color: var(--tekst-2); }
-.leszek-pisal p { font: italic 16px/1.55 Georgia, serif; color: var(--tresc); }
+.leszek-pisal p { font: italic calc(var(--rozmiar) * 0.842)/1.55 Georgia, serif; color: var(--tresc); }
 .leszek-pisal a { display: inline-block; margin-top: 6px; font-size: 13.5px; }
 .z-cytatem .ustalenia { padding: 12px 14px; border-radius: 10px; background: var(--czytane); }
 .ustalenia small { color: var(--akcent-mocny); }
@@ -164,13 +164,13 @@ h2.etykieta { margin: 0 0 16px; font: 700 12.5px system-ui, sans-serif; letter-s
 .blisko a:not(.przycisk) { display: flex; align-items: center; gap: 12px; padding: 6px; border-radius: 12px; background: var(--karta); border: 1px solid var(--linia); text-decoration: none; color: var(--naglowek); }
 .blisko a:not(.przycisk):hover { border-color: var(--akcent); }
 .blisko img, .blisko .bez-foto { flex: none; width: 64px; height: 48px; border-radius: 8px; object-fit: cover; background: var(--pole); }
-.blisko b { display: block; font: 700 15.5px/1.3 Georgia, serif; }
+.blisko b { display: block; font: 700 calc(var(--rozmiar) * 0.816)/1.3 Georgia, serif; }
 .blisko small { color: var(--tekst-2); font-size: 13px; }
 .blisko .przycisk { margin-top: auto; }
 .zglos { padding: 0; }
 .zglos-pasek.wrap-atlas { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 24px; padding-top: 22px; padding-bottom: 22px; }
 .zglos { background: var(--czytane); border-top: 1px solid var(--linia); }
-.zglos p { margin: 0; color: var(--tekst); font-size: 16px; }
+.zglos p { margin: 0; color: var(--tekst); font-size: calc(var(--rozmiar) * 0.842); }
 
 /* zwijanie list („Pokaż wszystkie”) */
 .zwijane:not(.rozwiniete) > .dalsze { display: none; }
@@ -211,7 +211,7 @@ h2.etykieta { margin: 0 0 16px; font: 700 12.5px system-ui, sans-serif; letter-s
 }
 @media (max-width: 640px) {
   .pas { padding-top: 32px; }
-  .wstep-wiki { font-size: 17px; }
+  .wstep-wiki { font-size: calc(var(--rozmiar) * 0.895); }
   .os-badan::before { display: none; }
   .os-badan > li { grid-template-columns: 1fr; gap: 6px; }
   .os-badan .rok { justify-self: start; margin-top: 0; }

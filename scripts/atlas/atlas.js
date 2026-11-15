@@ -6,6 +6,38 @@
   const odm = (n, [a, b, c]) => (n === 1 ? a : n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? b : c);
   const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 
+  // kolory (motyw) i wielkość tekstu – przycisk „Aa” w górnym pasku; te same ustawienia co w czytelni
+  const html = document.documentElement;
+  const zapisz = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
+  const panel = document.getElementById("panel-wygladu");
+  const przyciskWygladu = document.getElementById("przycisk-wygladu");
+  if (panel && przyciskWygladu) {
+    const ustawMotyw = (m) => {
+      html.dataset.motyw = m;
+      zapisz("uleszka-motyw", m);
+      panel.querySelectorAll("[data-motyw]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.motyw === m)));
+    };
+    const ROZMIARY = [16, 17, 18, 19, 20, 22, 24, 26];
+    const rozmiarWart = document.getElementById("rozmiar-wart");
+    const ustawRozmiar = (px, pamietaj = true) => {
+      html.style.setProperty("--rozmiar", px + "px");
+      if (pamietaj) zapisz("uleszka-rozmiar", String(px));
+      if (rozmiarWart) rozmiarWart.textContent = Math.round((px / 19) * 100) + "%";
+    };
+    const terazPx = () => Number(getComputedStyle(html).getPropertyValue("--rozmiar").replace("px", "")) || 19;
+    ustawMotyw(html.dataset.motyw || "sepia");
+    ustawRozmiar(terazPx(), false);
+    panel.querySelectorAll("[data-motyw]").forEach((b) => b.addEventListener("click", () => ustawMotyw(b.dataset.motyw)));
+    panel.querySelectorAll("[data-rozmiar]").forEach((b) => b.addEventListener("click", () => {
+      const i = ROZMIARY.findIndex((r) => r >= terazPx());
+      ustawRozmiar(ROZMIARY[Math.min(ROZMIARY.length - 1, Math.max(0, (i < 0 ? ROZMIARY.length - 1 : i) + Number(b.dataset.rozmiar)))]);
+    }));
+    const przelacz = (pokaz) => { panel.hidden = !pokaz; przyciskWygladu.setAttribute("aria-expanded", String(pokaz)); };
+    przyciskWygladu.addEventListener("click", (e) => { e.stopPropagation(); przelacz(panel.hidden); });
+    document.addEventListener("click", (e) => { if (!panel.hidden && !panel.contains(e.target)) przelacz(false); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !panel.hidden) { przelacz(false); przyciskWygladu.focus(); } });
+  }
+
   // podgląd zdjęcia w dużym formacie; strzałki (i klawisze ← →) przechodzą między widocznymi zdjęciami
   // podpis „opis · autor · licencja|adres” – część po „|” to link do źródła zdjęcia albo artykułu
   const dlg = document.getElementById("podglad");

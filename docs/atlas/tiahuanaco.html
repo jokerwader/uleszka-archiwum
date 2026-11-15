@@ -14,20 +14,37 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  try { document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia"; } catch { document.documentElement.dataset.motyw = "sepia"; }
+  // motyw i wielkość tekstu wybrane w czytelni lub atlasie (przycisk „Aa”), ustawiane przed wyświetleniem strony
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
-<link rel="stylesheet" href="../czytelnia/czytelnia.css">
+<link rel="stylesheet" href="../czytelnia/czytelnia.css?v=a48761da">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
-<link rel="stylesheet" href="atlas.css">
+<link rel="stylesheet" href="atlas.css?v=93a0b520">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · atlas</span></a>
   <nav aria-label="Menu główne">
     <div class="menu-linki" id="menu-linki"><a href="../czytelnia/">Czytelnia</a><a href="../atlas/" aria-current="page">Atlas</a><a href="../#podcast">Podcast</a><a href="../#jak-zaczac">Rozmowa z AI</a><a href="../#o-stronie">O stronie</a></div>
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
     <button class="hamburger" type="button" aria-expanded="false" aria-controls="menu-linki" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
   </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
 <main class="karta-miejsca">
   <header class="hero-miejsca" style="--tlo: url('https://upload.wikimedia.org/wikipedia/commons/c/c1/Zonnepoort_tiwanaku.jpg')">
     <div class="hero-tresc wrap-atlas">
@@ -260,7 +277,7 @@
 </div></footer>
 <dialog class="podglad" id="podglad"><form method="dialog"><button class="zamknij" aria-label="Zamknij">✕</button></form><img alt=""><p></p></dialog>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-<script src="../menu.js" defer></script>
-<script src="atlas.js" defer></script>
+<script src="../menu.js?v=159f84c8" defer></script>
+<script src="atlas.js?v=41e56a65" defer></script>
 </body>
 </html>

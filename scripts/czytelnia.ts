@@ -12,6 +12,7 @@ import { poprawHtml, popraw, tekstBazowy, wczytajErrate } from "./lib/errata.js"
 import { INICJAL_MD, polaczInicjaly } from "./lib/inicjaly.js";
 import { wczytajAtlas } from "./lib/atlas.js";
 import { hamburger, menuLinki } from "./lib/menu.js";
+import { zWersja } from "./lib/wersja.js";
 
 const archiwum = new Archiwum(".");
 const errata = wczytajErrate(".");
@@ -185,7 +186,7 @@ const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; cs
     if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
   } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
-<link rel="stylesheet" href="${o.css}">
+<link rel="stylesheet" href="${zWersja(o.css, `scripts/czytelnia/${o.css}`)}">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
@@ -220,8 +221,8 @@ const stopka = `<footer><div class="wrap-sz">
   Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${REPO}/issues/new?template=tekst.yml">zgłoś uwagę do tekstu</a></p>
 </div></footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
-<script src="../menu.js" defer></script>
-<script src="czytelnia.js" defer></script>
+<script src="${zWersja("../menu.js", "docs/menu.js")}" defer></script>
+<script src="${zWersja("czytelnia.js", "scripts/czytelnia/czytelnia.js")}" defer></script>
 </body>
 </html>
 `;
@@ -301,7 +302,7 @@ ${miejscaArtykulu(a.id)}${
   </nav>
 </main>
 ` +
-    (odcinek ? stopka : stopka.replace("</body>", `<script src="czytaj.js" defer></script>\n</body>`));
+    (odcinek ? stopka : stopka.replace("</body>", `<script src="${zWersja("czytaj.js", "scripts/czytelnia/czytaj.js")}" defer></script>\n</body>`));
   writeFileSync(`${WYJSCIE}/${plikArt(a)}`, html, "utf8");
 });
 

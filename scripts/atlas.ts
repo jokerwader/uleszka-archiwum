@@ -10,6 +10,7 @@ import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSyn
 import { Archiwum, type Dokument } from "../src/archiwum.js";
 import { wczytajAtlas, slug, type MiejsceAtlasu } from "./lib/atlas.js";
 import { hamburger, menuLinki } from "./lib/menu.js";
+import { zWersja } from "./lib/wersja.js";
 
 const archiwum = new Archiwum(".");
 const { miejsca, rodzaje } = wczytajAtlas(archiwum);
@@ -78,19 +79,36 @@ const glowa = (o: { tytul: string; opis: string; url: string; obraz?: string; ma
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="../favicon.png">
 <script>
-  try { document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia"; } catch { document.documentElement.dataset.motyw = "sepia"; }
+  // motyw i wielkość tekstu wybrane w czytelni lub atlasie (przycisk „Aa”), ustawiane przed wyświetleniem strony
+  try {
+    document.documentElement.dataset.motyw = localStorage.getItem("uleszka-motyw") || "sepia";
+    const r = localStorage.getItem("uleszka-rozmiar");
+    if (r) document.documentElement.style.setProperty("--rozmiar", r + "px");
+  } catch { document.documentElement.dataset.motyw = "sepia"; }
 </script>
-<link rel="stylesheet" href="../czytelnia/czytelnia.css">
-${o.mapa ? `<link rel="stylesheet" href="${LEAFLET}leaflet.css" crossorigin="">\n` : ""}<link rel="stylesheet" href="atlas.css">
+<link rel="stylesheet" href="${zWersja("../czytelnia/czytelnia.css", "scripts/czytelnia/czytelnia.css")}">
+${o.mapa ? `<link rel="stylesheet" href="${LEAFLET}leaflet.css" crossorigin="">\n` : ""}<link rel="stylesheet" href="${zWersja("atlas.css", "scripts/atlas/atlas.css")}">
 </head>
 <body>
 <header class="gora"><div class="wrap-sz">
   <a class="logo" href="../">uleszka<span>.net</span><span class="tylko-szeroki" style="color:inherit"> · atlas</span></a>
   <nav aria-label="Menu główne">
     ${menuLinki("atlas")}
+    <button class="przycisk-gora" id="przycisk-wygladu" type="button" aria-expanded="false" aria-controls="panel-wygladu" title="Kolory i wielkość tekstu"><b>Aa</b></button>
     ${hamburger}
   </nav>
 </div></header>
+<div class="panel-wygladu" id="panel-wygladu" hidden>
+  <p>Kolory</p>
+  <div class="motywy">
+    <button type="button" data-motyw="sepia"><span>Aa</span>Sepia</button>
+    <button type="button" data-motyw="jasny"><span>Aa</span>Jasny</button>
+    <button type="button" data-motyw="ciemny"><span>Aa</span>Ciemny</button>
+    <button type="button" data-motyw="kontrast"><span>Aa</span>Kontrast</button>
+  </div>
+  <p>Wielkość tekstu</p>
+  <div class="rozmiary"><button type="button" data-rozmiar="-1" aria-label="Mniejszy tekst">A−</button><span id="rozmiar-wart">100%</span><button type="button" data-rozmiar="1" aria-label="Większy tekst">A+</button></div>
+</div>
 `;
 const stopka = (skrypty: string) => `<footer><div class="wrap-sz">
   <p>Teksty i zdjęcia z artykułów: Leszek Klimek, uleszka.net (ok. 2004–2007). Współczesne zdjęcia: Wikimedia Commons i Openverse (m.in. Flickr), tylko na wolnych licencjach – autor i licencja przy każdym zdjęciu. Zdjęcie do usunięcia? Zgłoś je.
@@ -98,8 +116,8 @@ const stopka = (skrypty: string) => `<footer><div class="wrap-sz">
   Opracowania i opisy zdjęć przygotowała AI. <a href="${REPO}">Archiwum na GitHubie</a> · <a href="${zgloszenie()}">zgłoś miejsce lub poprawkę</a></p>
 </div></footer>
 <dialog class="podglad" id="podglad"><form method="dialog"><button class="zamknij" aria-label="Zamknij">✕</button></form><img alt=""><p></p></dialog>
-${skrypty}<script src="../menu.js" defer></script>
-<script src="atlas.js" defer></script>
+${skrypty}<script src="${zWersja("../menu.js", "docs/menu.js")}" defer></script>
+<script src="${zWersja("atlas.js", "scripts/atlas/atlas.js")}" defer></script>
 </body>
 </html>
 `;
