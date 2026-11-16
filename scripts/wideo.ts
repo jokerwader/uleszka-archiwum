@@ -436,6 +436,8 @@ for (let proba = 0; proba < 3000; proba++) {
   }
   if (!dodano) break;
 }
+// zamiast powtórek: lista miejsc, gdzie zabrakło materiału – tam trzeba dobrać zdjęcia albo nagrania (nagrania-cc.json) lub klip 3D
+if (bezZdjecia.size) console.log(`Zabrakło zdjęć bez powtórek w ${bezZdjecia.size} miejscach: ${os.filter((z) => bezZdjecia.has(z.plik)).map((z) => czas(z.t)).join(", ")} – dobierz zdjęcia lub nagrania.`);
 {
   const dlugosci = os.map((z, i) => ({ z, d: (os[i + 1]?.t ?? dlugosc) - z.t - (z.klip ? z.klip.dl : 0) })).filter((x) => x.z.t < zakonczenieStart && x.z !== os[0]);
   const najdl = dlugosci.reduce((m, x) => (x.d > m.d ? x : m), dlugosci[0]);
