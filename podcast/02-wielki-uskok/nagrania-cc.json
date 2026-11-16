@@ -1,5 +1,101 @@
 [
   {
+    "nazwa": "Ziemia i jej skorupa, animacja",
+    "miejsce": "Ziemia: skorupa i płaszcz (animacja ZDF Terra X)",
+    "plik": "podcast/.nagrania-cc/ziemia-skorupa-zdf.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_erdbebensicher_haben_die_Inka_gebaut.webm",
+    "autor": "ZDF/TerraX/K22/Mona Garzón/Ricardo Garzón/Ricardo Garzón/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      74,
+      84
+    ],
+    "fraza": "Teoria wielkich katastrof opiera się na stwierdzeniu, że co jakiś czas Ziemię nawiedza potężny kataklizm",
+    "serwis": "Wikimedia Commons"
+  },
+  {
+    "nazwa": "Delfy, kolumny świątyni pod światło",
+    "miejsce": "Delfy, Grecja",
+    "plik": "podcast/.nagrania-cc/delfy-kolumny-pod-swiatlo.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:DELPHI_ARCHAEOLOGICAL_SITE_,_Greece.webm",
+    "autor": "Le Monde en Vidéo",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      147,
+      159
+    ],
+    "fraza": "Rozbijany jest w puch dorobek całych cywilizacji",
+    "serwis": "Wikimedia Commons"
+  },
+  {
+    "nazwa": "Angkor, rekonstrukcja miasta o zmierzchu",
+    "miejsce": "Angkor, Kambodża (rekonstrukcja ZDF Terra X)",
+    "plik": "podcast/.nagrania-cc/angkor-miasto-o-zmierzchu.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Angkor_-_Zentrum_des_K%C3%B6nigreichs_der_Khmer_(CC_BY-SA_4.0).webm",
+    "autor": "ZDF/Terra X/interscience film/Faber Courtial/Gero von Boehm/Alexander Hein/Andreas Tiletzek, Jörg Courtial",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      24,
+      36
+    ],
+    "fraza": "Buduje wszystko od zera, przypisując nieznane budowle Bogom",
+    "serwis": "Wikimedia Commons"
+  },
+  {
+    "nazwa": "Góry lodowe w zatoce",
+    "miejsce": "Ilulissat, Grenlandia",
+    "plik": "podcast/.nagrania-cc/grenlandia-gory-lodowe-zatoka.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:GreenlandReel_Icebergs_2160APR.webm",
+    "autor": "NASA",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      150,
+      162
+    ],
+    "fraza": "Nasza cywilizacja odnajduje ślady potężnych katastrof na całej Ziemi",
+    "serwis": "Wikimedia Commons"
+  },
+  {
+    "nazwa": "Stonehenge o wschodzie słońca, z drona",
+    "miejsce": "Stonehenge, Anglia",
+    "plik": "podcast/.nagrania-cc/stonehenge-wschod-slonca.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm",
+    "autor": "Benjamin Kenobi",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      124,
+      136
+    ],
+    "fraza": "Faktem jest także, że wiedza spisana jest uboga",
+    "serwis": "Wikimedia Commons"
+  },
+  {
+    "nazwa": "Ruiny Chinkana na Wyspie Słońca",
+    "miejsce": "Chinkana, Isla del Sol, jezioro Titicaca",
+    "plik": "podcast/.nagrania-cc/chinkana-isla-del-sol.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Ruinas_de_Chinkana_en_la_Isla_del_Sol.webm",
+    "autor": "Jawira",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      4,
+      16
+    ],
+    "fraza": "Dużo języków jest utraconych dla świata",
+    "serwis": "Wikimedia Commons"
+  },
+  {
     "nazwa": "Stonehenge z niskiego lotu drona",
     "miejsce": "Stonehenge, Anglia",
     "plik": "podcast/.nagrania-cc/stonehenge-z-ziemi.mp4",

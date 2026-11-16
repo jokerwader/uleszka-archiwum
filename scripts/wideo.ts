@@ -474,20 +474,19 @@ for (const { z } of doZrobienia) await z.zrob();
 const ffmpegAsync = (args: string[]) => new Promise<void>((ok, blad) => execFile("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", ...args], (e) => (e ? blad(e) : ok())));
 const KODEK = ["-c:v", "libx264", "-preset", "veryfast", "-crf", "24", "-pix_fmt", "yuv420p", "-r", String(FPS), "-g", String(FPS * 2), "-an"];
 const RUCHY: [number, number][] = [[0.5, 0.5], [0.3, 0.7], [0.7, 0.3], [0.5, 0.5]];
-async function ujecie(z: Zdarzenie, i: number, klatek: number, plik: string) {
+/** wejścia ffmpeg i graf filtrów jednego ujęcia; wynik grafu: [o] */
+async function grafUjecia(z: Zdarzenie, i: number, klatek: number): Promise<{ wejscia: string[]; graf: string }> {
   if (z.klip) {
     const nakl = join(klatki, `klip-${i}-n.png`);
-    await z.klip.nakl().toFile(nakl);
+    if (!existsSync(nakl)) await z.klip.nakl().toFile(nakl);
     const zapas = Math.max(0, klatek / FPS - z.klip.dl + 1); // gdy lektor mówi dłużej, ostatnia klatka klipu zostaje
     const nc = z.klip.naklCzas;
     const n = nc ? `[1:v]format=rgba,fade=in:st=${nc[0].toFixed(2)}:d=0.8:alpha=1,fade=out:st=${(nc[1] - 0.8).toFixed(2)}:d=0.8:alpha=1[n]` : "[1:v]null[n]";
-    return ffmpegAsync(["-i", z.klip.mp4, "-loop", "1", "-framerate", String(FPS), "-i", nakl, "-filter_complex",
-      `[0:v]fps=${FPS},scale=${W}:${H}:force_original_aspect_ratio=increase,crop=${W}:${H},setsar=1,tpad=stop_mode=clone:stop_duration=${zapas.toFixed(2)}[v];${n};[v][n]overlay=0:0,format=yuv420p`,
-      ...KODEK, "-frames:v", String(klatek), plik]);
+    return { wejscia: ["-i", z.klip.mp4, "-loop", "1", "-framerate", String(FPS), "-i", nakl],
+      graf: `[0:v]fps=${FPS},scale=${W}:${H}:force_original_aspect_ratio=increase,crop=${W}:${H},setsar=1,tpad=stop_mode=clone:stop_duration=${zapas.toFixed(2)}[v];${n};[v][n]overlay=0:0[o]` };
   }
   const nakl = naklPlik(z.plik), maNakl = existsSync(nakl);
   const A = z.ruch ?? 0;
-  const wejscie = ["-loop", "1", "-framerate", String(FPS), "-i", z.plik, ...(maNakl ? ["-loop", "1", "-i", nakl] : [])];
   let obraz = "[0:v]setsar=1[v]";
   if (A) {
     const zoom = i % 2 ? `1+${A}*on/${klatek}` : `1+${A}-${A}*on/${klatek}`; // na przemian przybliżenie i oddalenie
@@ -495,14 +494,34 @@ async function ujecie(z: Zdarzenie, i: number, klatek: number, plik: string) {
     // obraz powiększony do 4K przed zoompan: ruch bez drgań (zoompan zaokrągla położenie do pełnych pikseli)
     obraz = `[0:v]scale=${W * 2}:${H * 2}:flags=lanczos,zoompan=z='${zoom}':x='(iw-iw/zoom)*(${p0}+${(p1 - p0).toFixed(2)}*on/${klatek})':y='(ih-ih/zoom)*0.5':d=1:s=${W}x${H}:fps=${FPS},setsar=1[v]`;
   }
-  return ffmpegAsync([...wejscie, "-filter_complex", `${obraz};[v]${maNakl ? "[1:v]overlay=0:0," : ""}format=yuv420p`, ...KODEK, "-frames:v", String(klatek), plik]);
+  return { wejscia: ["-loop", "1", "-framerate", String(FPS), "-i", z.plik, ...(maNakl ? ["-loop", "1", "-i", nakl] : [])],
+    graf: `${obraz};${maNakl ? "[v][1:v]overlay=0:0[o]" : "[v]null[o]"}` };
 }
+// przejścia: ostatnie klatki ujęcia płynnie przenikają w pierwszą klatkę następnego (dokumentalny „cross dissolve”);
+// dłużej przy wstępie i planszach rozdziałów. Ujęcia liczą się równolegle, bo pierwszą klatkę następnego ujęcia
+// rysujemy osobno, zanim powstanie samo ujęcie.
+const PRZEJSCIE = { zwykle: 0.6, plansza: 1.0 };
 const ujecia: string[] = [];
 let gotowe = 0;
-const kolejka = doZrobienia.map((x) => ({ ...x, plik: join(klatki, `ujecie-${String(x.i).padStart(4, "0")}.mp4`) }));
+const kolejka = doZrobienia.map((x, k) => ({ ...x, plik: join(klatki, `ujecie-${String(x.i).padStart(4, "0")}.mp4`), pierwsza: join(klatki, `pierwsza-${String(x.i).padStart(4, "0")}.png`), nast: doZrobienia[k + 1] }));
+const pierwsze = [...kolejka.slice(1)];
+async function pierwszaKlatka() {
+  for (let x = pierwsze.shift(); x; x = pierwsze.shift()) {
+    const g = await grafUjecia(x.z, x.i, x.f1 - x.f0);
+    await ffmpegAsync([...g.wejscia, "-filter_complex", `${g.graf};[o]format=rgb24[f]`, "-map", "[f]", "-frames:v", "1", x.pierwsza]);
+  }
+}
+await Promise.all([pierwszaKlatka(), pierwszaKlatka(), pierwszaKlatka(), pierwszaKlatka()]);
 async function pracownik() {
   for (let x = kolejka.shift(); x; x = kolejka.shift()) {
-    await ujecie(x.z, x.i, x.f1 - x.f0, x.plik);
+    const klatek = x.f1 - x.f0;
+    const g = await grafUjecia(x.z, x.i, klatek);
+    const n = g.wejscia.filter((a) => a === "-i").length; // numer wejścia z klatką następnego ujęcia
+    const dl = x.nast ? (x.z.twarde || x.nast.z.twarde || x.i === 0 ? PRZEJSCIE.plansza : PRZEJSCIE.zwykle) : 0;
+    const dlK = Math.min(Math.round(dl * FPS), Math.floor(klatek / 3));
+    const przejscie = dlK > 0 && x.nast ? `;[${n}:v]format=rgba,fade=in:st=${((klatek - dlK) / FPS).toFixed(3)}:d=${(dlK / FPS).toFixed(3)}:alpha=1[x];[o][x]overlay=0:0,format=yuv420p[f]` : ";[o]format=yuv420p[f]";
+    await ffmpegAsync([...g.wejscia, ...(dlK > 0 && x.nast ? ["-loop", "1", "-framerate", String(FPS), "-i", join(klatki, `pierwsza-${String(x.nast.i).padStart(4, "0")}.png`)] : []),
+      "-filter_complex", g.graf + przejscie, "-map", "[f]", ...KODEK, "-frames:v", String(klatek), x.plik]);
     if (++gotowe % 20 === 0) console.log(`  ujęcia: ${gotowe}/${doZrobienia.length}`);
   }
 }
