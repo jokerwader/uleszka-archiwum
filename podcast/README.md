@@ -71,8 +71,29 @@ W `podcast/<folder>/youtube/` powstają:
   (polski) → Dodaj napisy → „Automatyczna synchronizacja” → wklej tekst; YouTube sam dopasuje czasy.
   Same napisy, bez wideo: `npx tsx scripts/wideo.ts <folder> <nagranie.mp3> --tylko-napisy`.
 
-Czasy są szacowane z długości tekstu, więc zdjęcia i rozdziały mogą się rozjechać o kilkanaście sekund –
-przed publikacją przewiń wideo i w razie potrzeby popraw czasy w opisie. Folder `youtube/` nie trafia do repozytorium.
+Ruch i klipy:
+- zdjęcia mają powolny ruch kamery (przybliżenie albo oddalenie z lekkim przesunięciem), plansze stoją,
+- animacje 3D z `grafiki/3d/wideo/*/` (zasady: `grafiki/3d/wideo/ZASADY.md`) wchodzą same, gdy w tekście odcinka jest fraza
+  z ich `klip.json`; w rogu kadru znaczek według rodzaju („Według rysunku Leszka Klimka”, „Hipoteza z tekstu, nie fakt”, „Rekonstrukcja 3D”),
+- nagrania wideo z Wikimedia Commons (wolne licencje) z `podcast/<folder>/nagrania-cc.json`, z autorem i licencją w kadrze
+  i w `autorzy-zdjec.txt`; pliki w `podcast/.nagrania-cc/` (poza repozytorium). Bez klipów: `--bez-klipow`,
+- szybki podgląd fragmentu: `--zakres 600-900` (sekundy) daje `youtube/wideo-probka-600-900.mp4`,
+- własne tło miniatury: `--miniatura grafiki/3d/wideo/<klip>/kadr.jpg`.
+
+Cały film z ruchem składa się dłużej (dla 90 minut ok. pół godziny) i waży więcej (ok. 1,5–2 GB).
+
+**Czasy (kiedy pokazać zdjęcie, klip, planszę rozdziału).** Najpierw raz na odcinek rozpoznaj mowę w nagraniu:
+```
+npx tsx scripts/wideo.ts podcast/<folder odcinka> "<nagranie.mp3>" --rozpoznaj
+```
+Rozpoznawanie robi whisper.cpp wbudowany w ffmpeg (od wersji 8), lokalnie i za darmo; trwa mniej więcej połowę długości nagrania.
+Potrzebny jest model `ggml-large-v3-turbo-q5_0.bin` (574 MB, https://huggingface.co/ggerganov/whisper.cpp) w folderze
+`../modele/` obok repozytorium albo w ścieżce ze zmiennej `WHISPER_MODEL` (na tym samym dysku co repozytorium).
+Wynik `podcast/<folder>/mowa.jsonl` (zdania z czasami) zostaje w repozytorium i jest używany przy każdym kolejnym składaniu:
+słowa nagrania są dopasowywane do słów artykułu, więc zdjęcie miejsca pojawia się 1–3 s po tym, jak lektor je wymieni,
+a rozdziały w opisie YouTube trafiają w tytuły. Bez `mowa.jsonl` (albo z `--bez-mowy`) czasy są szacowane z długości tekstu
+i potrafią się rozjechać o minutę i więcej. Zdjęcie, które nie zmieści się najwyżej 20 s po swoim miejscu
+(np. przez klip), jest pomijane, a nie pokazywane za późno. Folder `youtube/` nie trafia do repozytorium.
 Przy wgrywaniu zaznacz w YouTube, że głos jest wygenerowany przez AI.
 
 ## Harmonogram odcinków

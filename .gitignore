@@ -7,6 +7,11 @@ podcast/**/*.wav
 dane/poprawki/kandydaci.json
 podcast/**/youtube/
 podcast/.zdjecia/
+podcast/.nagrania-cc/
 
 # kopie zapasowe Blendera
 *.blend1
+
+# klatki pośrednie klipów 3D
+grafiki/3d/wideo/*/_klatki/
+grafiki/3d/wideo/.renderuje

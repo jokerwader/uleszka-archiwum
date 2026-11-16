@@ -13,9 +13,9 @@
  * Czasy są szacowane z długości tekstu (lektor czyta w stałym tempie), więc zdjęcie może się pojawić
  * kilkanaście sekund wcześniej albo później niż jego fragment. Wymaga ffmpeg i ffprobe.
  */
-import { execFileSync } from "node:child_process";
+import { execFile, execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
-import { join, resolve } from "node:path";
+import { join, relative, resolve } from "node:path";
 import sharp from "sharp";
 import { Archiwum, zloz, type Dokument } from "../src/archiwum.js";
 import { rdzenie, wczytajAtlas, type MiejsceAtlasu, type ZdjecieCommons } from "./lib/atlas.js";
@@ -74,28 +74,99 @@ writeFileSync(
 );
 if (process.argv.includes("--tylko-napisy")) { console.log(`Gotowe: ${join(wyjNapisy, "napisy.txt")}`); process.exit(0); }
 
-// ---------- czasy: długość nagrania dzielona proporcjonalnie do liczby znaków rozdziałów ----------
+// ---------- czasy ----------
+// Najlepiej: rozpoznana mowa (<folder>/mowa.jsonl, tworzy ją opcja --rozpoznaj) – zdania nagrania dopasowane do słów artykułu,
+// zdjęcia i klipy trafiają w swoje zdanie z dokładnością do 1–2 s, rozdziały w opisie YouTube też.
+// Bez niej: długość nagrania dzielona proporcjonalnie do liczby znaków rozdziałów (zdjęcie potrafi się spóźnić o minutę i więcej).
 const dlugosc = Number(execFileSync("ffprobe", ["-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", mp3], { encoding: "utf8" }).trim());
 if (!(dlugosc > 0)) throw new Error("Nie udało się odczytać długości nagrania");
-const razem = rozdzialy.reduce((s, r) => s + r.znaki, 0);
-let t0 = 0;
-for (const r of rozdzialy) { r.start = t0; t0 += (r.znaki / razem) * dlugosc; }
-const zapowiedzKoniec = rozdzialy[1]?.start ?? 0;
-const zakonczenieStart = rozdzialy[rozdzialy.length - 1].start;
-
-// zdjęcia: pozycja w tekście artykułu przeliczona na czas – kotwicami są początki rozdziałów (ich tytuły w tekście)
-const tresc = dokumenty.map((d) => d.tresc).join("\n\n");
-const kotwice: [number, number][] = [[0, zapowiedzKoniec]];
-for (const r of rozdzialy.slice(1, -1)) {
-  const poz = tresc.indexOf(r.tytul, kotwice[kotwice.length - 1][0]);
-  if (poz > kotwice[kotwice.length - 1][0]) kotwice.push([poz, r.start]);
+const plikMowy = join(folder, "mowa.jsonl");
+if (process.argv.includes("--rozpoznaj")) {
+  // whisper.cpp wbudowany w ffmpeg (od wersji 8); model np. ggml-large-v3-turbo-q5_0.bin z huggingface.co/ggerganov/whisper.cpp
+  const model = process.env.WHISPER_MODEL ?? "../modele/ggml-large-v3-turbo-q5_0.bin";
+  if (!existsSync(model)) throw new Error(`Brak modelu rozpoznawania mowy: ${model} (podaj ścieżkę w zmiennej WHISPER_MODEL)`);
+  // ścieżki względne z ukośnikami: w opcjach filtra ffmpeg dwukropek (np. „C:”) jest separatorem
+  const wzgl = (p: string) => relative(process.cwd(), resolve(p)).replace(/\\/g, "/");
+  if ([model, plikMowy].some((p) => wzgl(p).includes(":"))) throw new Error("Model musi leżeć na tym samym dysku co repozytorium");
+  console.log("Rozpoznaję mowę (whisper.cpp w ffmpeg) – trwa mniej więcej połowę długości nagrania…");
+  execFileSync("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-i", mp3, "-af",
+    `whisper=model=${wzgl(model)}:language=pl:queue=20:destination=${wzgl(plikMowy)}:format=json`, "-f", "null", "-"], { stdio: "inherit" });
 }
-kotwice.push([tresc.length, zakonczenieStart]);
+const tresc = dokumenty.map((d) => d.tresc).join("\n\n");
+let kotwice: [number, number][] = [];
+let zapowiedzKoniec = 0, zakonczenieStart = 0;
+const mowa = existsSync(plikMowy) && !process.argv.includes("--bez-mowy");
+if (mowa) {
+  // słowa nagrania z czasem (wewnątrz zdania czas rozłożony według długości słów)
+  const slowaM: { w: string; t: number }[] = [];
+  for (const l of readFileSync(plikMowy, "utf8").split("\n").filter((x) => x.trim())) {
+    // ffmpeg nie zabezpiecza cudzysłowów w tekście zdania, więc nie zawsze jest to poprawny JSON
+    const m = l.match(/^\{"start":(\d+),"end":(\d+),"text":"(.*)"\}\s*$/);
+    if (!m) continue;
+    const o = { start: Number(m[1]), end: Number(m[2]), text: m[3] };
+    const ws = zloz(o.text).match(/[a-z0-9]+/g) ?? [];
+    const suma = ws.reduce((s, w) => s + w.length + 1, 0);
+    let acc = 0;
+    for (const w of ws) { slowaM.push({ w, t: (o.start + ((o.end - o.start) * acc) / suma) / 1000 }); acc += w.length + 1; }
+  }
+  const slowaT = [...zloz(tresc).matchAll(/[a-z0-9]+/g)].map((m) => ({ w: m[0], poz: m.index! }));
+  // kotwice: te same 4 słowa pod rząd w tekście i w nagraniu, po kolei i blisko miejsca poprzedniej kotwicy
+  const N = 4;
+  const klucz = (a: { w: string }[], i: number) => a.slice(i, i + N).map((x) => x.w).join(" ");
+  const indeks = new Map<string, number[]>();
+  for (let j = 0; j + N <= slowaM.length; j++) { const k = klucz(slowaM, j); const l = indeks.get(k); if (l) l.push(j); else indeks.set(k, [j]); }
+  let ostJ = -1, ostI = 0;
+  for (let i = 0; i + N <= slowaT.length; i++) {
+    const k = klucz(slowaT, i);
+    if (k.length < 16) continue; // krótkie zbitki („i w tym”) powtarzają się w całym tekście
+    const okno = kotwice.length ? 40 + 2 * (i - ostI) : 2000;
+    const j = indeks.get(k)?.find((x) => x > ostJ && x - ostJ <= okno);
+    if (j === undefined) continue;
+    kotwice.push([slowaT[i].poz, slowaM[j].t]);
+    ostJ = j; ostI = i;
+  }
+  if (kotwice.length < 20) throw new Error(`Rozpoznana mowa nie pasuje do tekstu odcinka (${kotwice.length} kotwic) – sprawdź ${plikMowy} albo użyj --bez-mowy`);
+  // zakończenie (nie jest tekstem autora): pierwsze słowa pliku zakończenia w nagraniu po ostatniej kotwicy
+  const ostatni = rozdzialy[rozdzialy.length - 1];
+  const slowaZak = (zloz(readFileSync(join(folder, "rozdzialy-studio", ostatni.plik), "utf8").replace(/\[[^\]\n]*\]/g, "")).match(/[a-z0-9]+/g) ?? []).map((w) => ({ w }));
+  const jZak = indeks.get(klucz(slowaZak, 0))?.find((x) => x > ostJ);
+  zakonczenieStart = jZak !== undefined ? slowaM[jZak].t - 0.5 : kotwice[kotwice.length - 1][1] + 3;
+  kotwice = [[0, Math.max(0, kotwice[0][1] - 1)], ...kotwice, [tresc.length, zakonczenieStart]];
+  const luki = kotwice.slice(1).map((k, i) => k[1] - kotwice[i][1]);
+  console.log(`Dopasowanie mowy: ${kotwice.length} kotwic, najdłuższa luka bez kotwicy ${Math.round(Math.max(...luki))} s.`);
+}
 const czasPozycji = (poz: number) => {
   for (let i = 1; i < kotwice.length; i++)
     if (poz <= kotwice[i][0]) { const [p0, c0] = kotwice[i - 1], [p1, c1] = kotwice[i]; return c0 + ((poz - p0) / Math.max(1, p1 - p0)) * (c1 - c0); }
   return zakonczenieStart;
 };
+if (mowa) {
+  // rozdziały: chwila, w której lektor czyta tytuł rozdziału
+  let od = 0;
+  for (const r of rozdzialy.slice(1, -1)) {
+    const poz = tresc.indexOf(r.tytul, od);
+    if (poz >= od) { r.start = Math.max(0, czasPozycji(poz) - 0.5); od = poz + 1; } else r.start = -1;
+  }
+  rozdzialy[0].start = 0;
+  rozdzialy[rozdzialy.length - 1].start = zakonczenieStart;
+  // rozdział, którego tytułu nie ma dosłownie w tekście: w połowie między sąsiadami
+  rozdzialy.forEach((r, i) => { if (r.start < 0) r.start = (rozdzialy[i - 1].start + (rozdzialy.slice(i + 1).find((x) => x.start >= 0)?.start ?? zakonczenieStart)) / 2; });
+  zapowiedzKoniec = rozdzialy[1]?.start ?? 0;
+} else {
+  // zdjęcia: pozycja w tekście artykułu przeliczona na czas – kotwicami są początki rozdziałów (ich tytuły w tekście)
+  const razem = rozdzialy.reduce((s, r) => s + r.znaki, 0);
+  let t0 = 0;
+  for (const r of rozdzialy) { r.start = t0; t0 += (r.znaki / razem) * dlugosc; }
+  zapowiedzKoniec = rozdzialy[1]?.start ?? 0;
+  zakonczenieStart = rozdzialy[rozdzialy.length - 1].start;
+  kotwice = [[0, zapowiedzKoniec]];
+  for (const r of rozdzialy.slice(1, -1)) {
+    const poz = tresc.indexOf(r.tytul, kotwice[kotwice.length - 1][0]);
+    if (poz > kotwice[kotwice.length - 1][0]) kotwice.push([poz, r.start]);
+  }
+  kotwice.push([tresc.length, zakonczenieStart]);
+  console.log("Czasy szacowane z długości tekstu, bez rozpoznanej mowy (dokładniej: opcja --rozpoznaj).");
+}
 const widziane = new Set<string>();
 const zdjecia: { sciezka: string; t: number }[] = [];
 let przesuniecie = 0;
@@ -133,7 +204,7 @@ for (const m of bezHq ? [] : miejscaOdc) {
   const poz = wzmianki(m);
   if (!poz.length) continue;
   // najpierw zdjęcia poziome (lepiej wypełniają kadr 16:9)
-  const kandydaci = [...m.zdjeciaCommons].sort((a, b) => Number(b.szer / b.wys >= 1.3) - Number(a.szer / a.wys >= 1.3)).slice(0, Math.min(6, 2 + poz.length));
+  const kandydaci = [...m.zdjeciaCommons].sort((a, b) => Number(b.szer / b.wys >= 1.3) - Number(a.szer / a.wys >= 1.3)).slice(0, Math.min(10, 4 + poz.length));
   const zdjecia: ZdjecieHQ[] = [];
   for (const z of kandydaci) {
     const plik = await pobierzZdjecie(z);
@@ -152,6 +223,16 @@ const tekstSvg = (wiersze: string[], x: number, y: number, rozmiar: number, styl
   wiersze.map((w, i) => `<text x="${x}" y="${y + i * rozmiar * 1.18}" font-size="${rozmiar}" ${styl}>${xml(w)}</text>`).join("");
 const stopkaSvg = `<text x="120" y="${H - 70}" font-family="Georgia, serif" font-size="30" fill="#9aa3b5">${xml(PODCAST)} · Leszek Klimek · uleszka.net</text>`;
 const zSvg = (svg: string) => sharp(Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">${svg}</svg>`));
+/** nakładka (przezroczysta, nieruchoma nad ruchomym obrazem): pasek z podpisem na dole, opcjonalnie znaczek w lewym górnym rogu */
+const nakladka = (podpis: string, prawy: string, znaczek = "", rozmiar = 40) => {
+  const zn = znaczek ? `<rect x="40" y="40" width="${Math.round(znaczek.length * 12.6 + 48)}" height="52" rx="26" fill="#05070c" fill-opacity=".72" stroke="#f0c46f" stroke-opacity=".55"/>
+    <text x="64" y="75" font-family="Arial, sans-serif" font-weight="700" font-size="24" fill="#f0c46f">${xml(znaczek)}</text>` : "";
+  return zSvg(`<defs><linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070c" stop-opacity="0"/><stop offset="1" stop-color="#05070c" stop-opacity=".88"/></linearGradient></defs>
+    <rect y="${H - 200}" width="${W}" height="200" fill="url(#p)"/>
+    <text x="60" y="${H - 58}" font-family="Georgia, serif" font-weight="700" font-size="${rozmiar}" fill="#f0c46f">${xml(podpis)}</text>
+    <text x="${W - 60}" y="${H - 60}" text-anchor="end" font-family="Arial, sans-serif" font-size="22" fill="#c9cfdb">${xml(prawy)}</text>${zn}`).png();
+};
+const naklPlik = (plik: string) => plik.replace(/\.png$/, "-n.png");
 
 async function planszaRozdzialu(nazwa: string, plik: string) {
   const w = linie(nazwa, 30);
@@ -168,7 +249,7 @@ async function planszaOkladki(gora: string, glowny: string, dol: string[], plik:
     ${tekstSvg(dol, 1000, y0 + w.length * 88 * 1.18 + 40, 36, 'font-family="Georgia, serif" fill="#d7dbe4"')}`).png().toBuffer();
   await sharp(svg).composite([{ input: okladka, left: 160, top: 180 }]).png().toFile(plik);
 }
-/** zdjęcie wysokiej jakości: poziome wypełnia cały kadr, pionowe stoi na rozmytym tle; na dole miejsce i autor zdjęcia */
+/** zdjęcie wysokiej jakości: poziome wypełnia cały kadr, pionowe stoi na rozmytym tle; podpis (miejsce, autor) w osobnej nakładce */
 async function klatkaHQ(sciezka: string, podpis: string, autor: string, plik: string) {
   const org = await sharp(sciezka).metadata();
   const poziome = (org.width ?? 1) / (org.height ?? 1) >= 1.3;
@@ -180,11 +261,8 @@ async function klatkaHQ(sciezka: string, podpis: string, autor: string, plik: st
     const m = await sharp(zdj).metadata();
     warstwy.push({ input: zdj, left: Math.round((W - (m.width ?? 0)) / 2), top: Math.round((H - 100 - (m.height ?? 0)) / 2) });
   }
-  warstwy.push({ input: await zSvg(`<defs><linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070c" stop-opacity="0"/><stop offset="1" stop-color="#05070c" stop-opacity=".88"/></linearGradient></defs>
-    <rect y="${H - 200}" width="${W}" height="200" fill="url(#p)"/>
-    <text x="60" y="${H - 58}" font-family="Georgia, serif" font-weight="700" font-size="40" fill="#f0c46f">${xml(podpis)}</text>
-    <text x="${W - 60}" y="${H - 60}" text-anchor="end" font-family="Arial, sans-serif" font-size="22" fill="#c9cfdb">${xml(autor)}</text>`).png().toBuffer(), left: 0, top: 0 });
   await sharp(tloZdj).composite(warstwy).png().toFile(plik);
+  await nakladka(podpis, autor).toFile(naklPlik(plik));
 }
 async function klatkaZdjecia(sciezka: string, podpis: string, plik: string) {
   const tloZdj = await sharp(sciezka).flatten({ background: "#0b0d12" }).resize(W, H, { fit: "cover" }).blur(40).modulate({ brightness: 0.35 }).toBuffer();
@@ -193,86 +271,236 @@ async function klatkaZdjecia(sciezka: string, podpis: string, plik: string) {
   const skala = Math.min((W - 200) / (org.width ?? 1), (H - 240) / (org.height ?? 1), 4);
   const zdj = await sharp(sciezka).resize(Math.round((org.width ?? 1) * skala), Math.round((org.height ?? 1) * skala), { kernel: "lanczos3" }).png().toBuffer();
   const m = await sharp(zdj).metadata();
-  const pasek = await zSvg(`<defs><linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070c" stop-opacity="0"/><stop offset="1" stop-color="#05070c" stop-opacity=".9"/></linearGradient></defs>
-    <rect y="${H - 170}" width="${W}" height="170" fill="url(#p)"/>
-    <text x="60" y="${H - 50}" font-family="Georgia, serif" font-size="32" fill="#f0c46f">${xml(podpis)}</text>
-    <text x="${W - 60}" y="${H - 50}" text-anchor="end" font-family="Georgia, serif" font-size="28" fill="#9aa3b5">uleszka.net</text>`).png().toBuffer();
-  await sharp(tloZdj)
-    .composite([{ input: zdj, left: Math.round((W - (m.width ?? 0)) / 2), top: Math.round((H - 100 - (m.height ?? 0)) / 2) }, { input: pasek, left: 0, top: 0 }])
-    .png().toFile(plik);
+  await sharp(tloZdj).composite([{ input: zdj, left: Math.round((W - (m.width ?? 0)) / 2), top: Math.round((H - 100 - (m.height ?? 0)) / 2) }]).png().toFile(plik);
+  await nakladka(podpis, "uleszka.net", "", 32).toFile(naklPlik(plik));
 }
 
-// ---------- oś czasu: plansze i zdjęcia; każda klatka trwa do następnej (najkrócej 6 s) ----------
+// ---------- klipy: animacje 3D (grafiki/3d/wideo/*/klip.json) i nagrania na wolnej licencji (<folder>/nagrania-cc.json) ----------
+// fraza z tekstu lektora szukana w treści artykułu po samych literach i cyfrach (bez wielkości liter, polskich znaków,
+// odstępów, cudzysłowów i znaków markdown); gdy całej nie ma (np. poprawiona literówka), szukany jest jej początek
+const plaski = (() => {
+  let s = "";
+  const poz: number[] = [];
+  for (let i = 0; i < zt.length; i++) if (/[a-z0-9]/.test(zt[i])) { s += zt[i]; poz.push(i); }
+  return { s, poz };
+})();
+const znajdzFraze = (fraza: string) => {
+  const g = zloz(fraza).replace(/[^a-z0-9]/g, "");
+  if (g.length < 30) return -1;
+  for (const dl of [g.length, 80, 50]) {
+    const i = plaski.s.indexOf(g.slice(0, dl));
+    if (dl <= g.length && i >= 0) return plaski.poz[i];
+  }
+  return -1;
+};
+const dlugoscPliku = (p: string) => Number(execFileSync("ffprobe", ["-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", p], { encoding: "utf8" }).trim());
+const ZNACZKI: Record<string, string> = {
+  "rysunek-leszka": "Według rysunku Leszka Klimka · animacja 3D",
+  hipoteza: "Hipoteza z tekstu, nie fakt · animacja 3D",
+  rekonstrukcja: "Rekonstrukcja 3D",
+  ilustracja: "Animacja 3D",
+};
+type NagranieCC = { nazwa: string; miejsce: string; plik: string; strona: string; autor: string; licencja: string; licencja_url?: string; serwis?: string; fraza?: string; frazy?: string[] };
+type Klip = { mp4: string; dl: number; t: number; nakl: () => ReturnType<typeof sharp>; cc?: NagranieCC; nazwa: string };
+const klipy: Klip[] = [];
+if (!process.argv.includes("--bez-klipow")) {
+  const KLIPY3D = "grafiki/3d/wideo";
+  for (const k of existsSync(KLIPY3D) ? readdirSync(KLIPY3D) : []) {
+    const pj = join(KLIPY3D, k, "klip.json"), mp4 = join(KLIPY3D, k, "klip.mp4");
+    if (!existsSync(pj) || !existsSync(mp4)) continue;
+    const o = JSON.parse(readFileSync(pj, "utf8"));
+    const dl = dlugoscPliku(mp4);
+    for (const f of (o.frazy ?? [o.fraza]).filter(Boolean) as string[]) {
+      const poz = znajdzFraze(f);
+      if (poz >= 0) klipy.push({ mp4, dl, t: czasPozycji(poz) + 2, nazwa: k, nakl: () => nakladka(String(o.podpis ?? o.tytul).slice(0, 80), "uleszka.net", ZNACZKI[o.rodzaj] ?? "Animacja 3D") });
+      else console.log(`Klip 3D „${k}”: nie znalazłem frazy w tekście odcinka – pomijam to miejsce.`);
+    }
+  }
+  const plikCC = join(folder, "nagrania-cc.json");
+  for (const o of (existsSync(plikCC) ? JSON.parse(readFileSync(plikCC, "utf8")) : []) as NagranieCC[]) {
+    if (!existsSync(o.plik)) { console.log(`Nagranie CC „${o.nazwa}”: brak pliku ${o.plik}`); continue; }
+    const dl = dlugoscPliku(o.plik);
+    const autor = o.autor.replace(/\s+/g, " ").trim();
+    for (const f of (o.frazy ?? [o.fraza]).filter(Boolean) as string[]) {
+      const poz = znajdzFraze(f);
+      if (poz >= 0) klipy.push({ mp4: o.plik, dl, t: czasPozycji(poz) + 2, nazwa: o.nazwa, cc: o, nakl: () => nakladka(o.miejsce.slice(0, 60), `nagranie: ${autor.length > 40 ? `${autor.slice(0, 39)}…` : autor}, ${o.licencja} · ${o.serwis ?? "Wikimedia Commons"}`) });
+      else console.log(`Nagranie CC „${o.nazwa}”: nie znalazłem frazy w tekście odcinka – pomijam.`);
+    }
+  }
+}
+
+// ---------- oś czasu: plansze, zdjęcia i klipy ----------
+// plansze (tytułowa, rozdziałów, końcowa) mają stałe czasy; klipy i zdjęcia układane są w wolne miejsca:
+// najpierw klipy (każdy dostaje tyle czasu, ile trwa), potem zdjęcia (najkrócej 6 s)
 const wyj = join(folder, "youtube");
 const klatki = join(wyj, "klatki");
 rmSync(klatki, { recursive: true, force: true });
 mkdirSync(klatki, { recursive: true });
-type Zdarzenie = { t: number; plik: string; zrob: () => Promise<void> };
+type Zdarzenie = { t: number; plik: string; zrob: () => Promise<void>; twarde?: boolean; ruch?: number; klip?: Klip };
 const zdarzenia: Zdarzenie[] = [];
 const podtytul = artykuly.length === 1 && artykuly[0].tytul !== tytul ? `artykuł „${artykuly[0].tytul}”` : "";
 const nr = (n: number) => join(klatki, `${String(n).padStart(4, "0")}.png`);
 let n = 0;
-{ const p = nr(n++); zdarzenia.push({ t: 0, plik: p, zrob: () => planszaOkladki(etykieta, tytul, ["Leszek Klimek, uleszka.net (2004–2007)", podtytul || "Tekst bez zmian, czyta lektor AI"].filter(Boolean), p) }); }
+{ const p = nr(n++); zdarzenia.push({ t: 0, plik: p, twarde: true, zrob: () => planszaOkladki(etykieta, tytul, ["Leszek Klimek, uleszka.net (2004–2007)", podtytul || "Tekst bez zmian, czyta lektor AI"].filter(Boolean), p) }); }
 const rozdzialAt = (t: number) => [...rozdzialy].reverse().find((r) => r.start <= t + 0.5)?.tytul ?? tytul;
 for (const r of rozdzialy.slice(1, -1)) {
   if (rozdzialy.length <= 3) break; // jeden rozdział (np. zwiastun) – bez planszy rozdziału
   const p = nr(n++);
-  zdarzenia.push({ t: r.start, plik: p, zrob: () => planszaRozdzialu(r.tytul, p) });
+  zdarzenia.push({ t: r.start, plik: p, twarde: true, zrob: () => planszaRozdzialu(r.tytul, p) });
 }
+for (const k of klipy) zdarzenia.push({ t: k.t, plik: nr(n++), klip: k, zrob: async () => {} });
 for (const z of zdjecia) {
   const p = nr(n++);
-  zdarzenia.push({ t: z.t + 8, plik: p, zrob: () => klatkaZdjecia(z.sciezka, (rozdzialAt(z.t) === tytul ? tytul : `${tytul} · ${rozdzialAt(z.t)}`).slice(0, 95), p) }); // +8 s: po planszy rozdziału
+  zdarzenia.push({ t: z.t + (mowa ? 1 : 8), plik: p, ruch: 0.05, zrob: () => klatkaZdjecia(z.sciezka, (rozdzialAt(z.t) === tytul ? tytul : `${tytul} · ${rozdzialAt(z.t)}`).slice(0, 95), p) }); // +8 s: po planszy rozdziału
 }
 // zdjęcia miejsc: przy kolejnych wzmiankach kolejne zdjęcie (+14 s, żeby nie zderzać się ze zdjęciem z artykułu)
 const dodajHq = (x: ZdjecieHQ, t: number) => {
   const p = nr(n++);
   hqPoKlatce.set(p, x);
-  zdarzenia.push({ t, plik: p, zrob: () => klatkaHQ(x.plik, x.m.nazwa.slice(0, 60), podpisAutora(x.z), p) });
+  return { t, plik: p, ruch: 0.1, zrob: () => klatkaHQ(x.plik, x.m.nazwa.slice(0, 60), podpisAutora(x.z), p) } as Zdarzenie;
 };
 const wolne = new Map(hq.map((x) => [x.m, [...x.zdjecia]]));
-for (const x of hq) x.poz.forEach((poz) => { const z = wolne.get(x.m)!.shift(); if (z) dodajHq(z, czasPozycji(poz) + 14); });
-// długie przerwy bez zmiany obrazu (ponad 75 s): zdjęcia miejsca wspomnianego ostatnio przed przerwą
+for (const x of hq) x.poz.forEach((poz) => { const z = wolne.get(x.m)!.shift(); if (z) zdarzenia.push(dodajHq(z, czasPozycji(poz) + (mowa ? 3 : 14))); });
+{ const p = nr(n++); zdarzenia.push({ t: zakonczenieStart, plik: p, twarde: true, zrob: () => planszaOkladki("Dziękuję za wysłuchanie", "Pełny tekst ze zdjęciami: uleszka.net", ["Rozmowa z archiwum przez AI: uleszka.net", "Kolejne odcinki: obserwuj kanał i podcast w Spotify"], p) }); }
+
+const MIN = 6;
+const zajmuje = (z: Zdarzenie) => (z.klip ? z.klip.dl : MIN);
+const os: Zdarzenie[] = zdarzenia.filter((z) => z.twarde).sort((a, b) => a.t - b.t);
+/** wstawia zdarzenie w najbliższe wolne miejsce nie wcześniej niż z.t (zdjęcie najwyżej 20 s, klip 30 s później); false, gdy się nie mieści */
+const wstaw = (z: Zdarzenie) => {
+  let t = z.t;
+  for (let krok = 0; krok < 50; krok++) {
+    const prev = [...os].reverse().find((x) => x.t <= t), next = os.find((x) => x.t > t);
+    if (prev && t < prev.t + zajmuje(prev)) { t = prev.t + zajmuje(prev); continue; }
+    if (next && next.t - t < Math.min(zajmuje(z), MIN)) { t = next.t + zajmuje(next); continue; }
+    if (t - z.t > (z.klip ? 30 : 20) || t > zakonczenieStart - MIN) return false; // lepiej pominąć niż pokazać za późno
+    z.t = t;
+    os.push(z);
+    os.sort((a, b) => a.t - b.t);
+    return true;
+  }
+  return false;
+};
+const miekkie = zdarzenia.filter((z) => !z.twarde).sort((a, b) => Number(!!b.klip) - Number(!!a.klip) || a.t - b.t);
+const pominiete = miekkie.filter((z) => !wstaw(z));
+if (pominiete.some((z) => z.klip)) console.log(`Nie zmieściły się klipy: ${pominiete.filter((z) => z.klip).map((z) => z.klip!.nazwa).join(", ")}`);
+// wypełnianie: obraz nie stoi w miejscu dłużej niż ok. 25–30 s (plansza rozdziału 8 s, po klipie najwyżej 6 s jego ostatniej klatki);
+// wolne miejsca dostają zdjęcia miejsc z odcinka: najpierw nieużyte, potem pokazane najdawniej (nie w ostatnich 5 minutach)
+const DLUGO = { zdjecie: 25, plansza: 8, poKlipie: 6 };
 const wzmiankiCzas = hq.flatMap((x) => x.poz.map((p) => ({ t: czasPozycji(p), m: x.m }))).sort((a, b) => a.t - b.t);
-for (let proba = 0; proba < 200; proba++) {
-  const czasy = zdarzenia.map((z) => z.t).sort((a, b) => a - b);
+const ostatnio = new Map<string, number>(); // plik zdjęcia → kiedy ostatnio pokazane
+for (const z of os) { const x = hqPoKlatce.get(z.plik); if (x) ostatnio.set(x.plik, z.t); }
+const wybierzZdjecie = (t: number): ZdjecieHQ | undefined => {
+  const ost = [...wzmiankiCzas].reverse().find((w) => w.t <= t && wolne.get(w.m)?.length);
+  if (ost) return wolne.get(ost.m)!.shift();
+  const dowolne = [...wolne.values()].find((l) => l.length);
+  if (dowolne) return dowolne.shift();
+  const najdawniej = (l: ZdjecieHQ[]) => l.filter((x) => t - (ostatnio.get(x.plik) ?? -1e9) > 300)
+    .sort((a, b) => (ostatnio.get(a.plik) ?? -1e9) - (ostatnio.get(b.plik) ?? -1e9))[0];
+  const m = [...wzmiankiCzas].reverse().find((w) => w.t <= t)?.m;
+  return (m && najdawniej(hq.find((x) => x.m === m)?.zdjecia ?? [])) || najdawniej(hq.flatMap((x) => x.zdjecia));
+};
+wypelnij: for (let proba = 0; proba < 3000; proba++) {
   let dodano = false;
-  for (let i = 0; i < czasy.length - 1 && !dodano; i++) {
-    if (czasy[i + 1] - czasy[i] < 75 || czasy[i] >= zakonczenieStart) continue;
-    const t = czasy[i] + 40;
-    const kandydat = [...wzmiankiCzas].reverse().find((w) => w.t <= t && wolne.get(w.m)?.length) ?? wzmiankiCzas.find((w) => wolne.get(w.m)?.length);
-    if (!kandydat) break;
-    dodajHq(wolne.get(kandydat.m)!.shift()!, t);
+  for (let i = 1; i < os.length - 1 && !dodano; i++) { // i = 0: plansza tytułowa stoi przez całą zapowiedź
+    const a = os[i];
+    if (a.t >= zakonczenieStart) continue;
+    const limit = a.klip ? a.klip.dl + DLUGO.poKlipie : a.twarde ? DLUGO.plansza : DLUGO.zdjecie;
+    const dl = os[i + 1].t - a.t;
+    if (dl <= limit + MIN) continue;
+    const t = a.t + (a.klip ? a.klip.dl : a.twarde ? DLUGO.plansza : Math.min(DLUGO.zdjecie, dl / 2));
+    const x = wybierzZdjecie(t);
+    if (!x) break wypelnij;
+    ostatnio.set(x.plik, t);
+    os.push(dodajHq(x, t));
+    os.sort((p, q) => p.t - q.t);
     dodano = true;
   }
   if (!dodano) break;
 }
-{ const p = nr(n++); zdarzenia.push({ t: zakonczenieStart, plik: p, zrob: () => planszaOkladki("Dziękuję za wysłuchanie", "Pełny tekst ze zdjęciami: uleszka.net", ["Rozmowa z archiwum przez AI: uleszka.net", "Kolejne odcinki: obserwuj kanał i podcast w Spotify"], p) }); }
-zdarzenia.sort((a, b) => a.t - b.t);
-const MIN = 6;
-const os: Zdarzenie[] = [];
-for (const z of zdarzenia) {
-  const ost = os[os.length - 1];
-  const koncowa = z.t === zakonczenieStart;
-  if (ost && z.t - ost.t < MIN && !koncowa) { if (ost.t + MIN < zakonczenieStart - MIN) { z.t = ost.t + MIN; os.push(z); } continue; }
-  os.push(z);
+{
+  const dlugosci = os.map((z, i) => ({ z, d: (os[i + 1]?.t ?? dlugosc) - z.t - (z.klip ? z.klip.dl : 0) })).filter((x) => x.z.t < zakonczenieStart && x.z !== os[0]);
+  const najdl = dlugosci.reduce((m, x) => (x.d > m.d ? x : m), dlugosci[0]);
+  // podsumowanie po rozdziałach: ile ujęć, klipów i powtórzonych zdjęć (gdzie przydałyby się nowe klipy)
+  const widzianeHq = new Set<string>();
+  const statyRozdz = rozdzialy.slice(1, -1).map((r) => ({ r, ujec: 0, klipow: 0, powtorek: 0, minut: 0 }));
+  statyRozdz.forEach((x, i) => { x.minut = ((statyRozdz[i + 1]?.r.start ?? zakonczenieStart) - x.r.start) / 60; });
+  for (const z of os) {
+    const st = [...statyRozdz].reverse().find((x) => x.r.start <= z.t + 0.5);
+    if (!st) continue;
+    st.ujec++;
+    if (z.klip) st.klipow++;
+    const x = hqPoKlatce.get(z.plik);
+    if (x) { if (widzianeHq.has(x.plik)) st.powtorek++; widzianeHq.add(x.plik); }
+  }
+  for (const x of statyRozdz) console.log(`  ${x.r.tytul.slice(0, 45).padEnd(45)} ${x.minut.toFixed(1).padStart(5)} min, ${String(x.ujec).padStart(3)} ujęć (co ${Math.round((x.minut * 60) / Math.max(1, x.ujec))} s), klipów ${x.klipow}, powtórzonych zdjęć ${x.powtorek}`);
+  console.log(`Najdłużej stojący obraz: ${Math.round(najdl.d)} s (${czas(najdl.z.t)}); ujęć dłuższych niż 30 s: ${dlugosci.filter((x) => x.d > 30).length}.`);
 }
-os.sort((a, b) => a.t - b.t);
 const uzyteHq = os.map((z) => hqPoKlatce.get(z.plik)).filter((x): x is ZdjecieHQ => !!x);
-console.log(`Nagranie ${czas(dlugosc)}, ${rozdzialy.length} rozdziałów, ${zdjecia.length} zdjęć z artykułu, ${uzyteHq.length} zdjęć wysokiej jakości, ${os.length} klatek – rysuję…`);
-for (const z of os) await z.zrob();
+const uzyteKlipy = os.filter((z) => z.klip).map((z) => z.klip!);
+for (const z of os.filter((x) => x.klip)) console.log(`  ${czas(z.t)}  ${z.klip!.cc ? "nagranie" : "3D"}: ${z.klip!.nazwa} (${z.klip!.dl.toFixed(1)} s)`);
+console.log(`Nagranie ${czas(dlugosc)}, ${rozdzialy.length} rozdziałów, ${zdjecia.length} zdjęć z artykułu, ${uzyteHq.length} zdjęć wysokiej jakości, ${uzyteKlipy.length} klipów (${uzyteKlipy.filter((k) => k.cc).length} nagrań CC), ${os.length} ujęć.`);
 
-// lista dla ffmpeg (concat): każda klatka z czasem trwania do następnej; ostatnią trzeba powtórzyć
-const lista = os.map((z, i) => `file '${resolve(z.plik).replace(/\\/g, "/")}'\nduration ${(((os[i + 1]?.t ?? dlugosc) - z.t) || 1).toFixed(2)}`).join("\n");
-writeFileSync(join(klatki, "lista.txt"), `${lista}\nfile '${resolve(os[os.length - 1].plik).replace(/\\/g, "/")}'\n`, "utf8");
-console.log("Składam wideo (ffmpeg)…");
-execFileSync("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", join(klatki, "lista.txt"), "-i", mp3,
-  "-map", "0:v", "-map", "1:a", "-vf", "fps=2,format=yuv420p", "-c:v", "libx264", "-preset", "medium", "-tune", "stillimage", "-crf", "22",
-  "-c:a", "aac", "-b:a", "192k", "-t", dlugosc.toFixed(2), "-movflags", "+faststart", join(wyj, "wideo.mp4")], { stdio: "inherit" });
+// --zakres 600-900: tylko ujęcia z tego przedziału (w sekundach) – szybki podgląd do sprawdzenia
+const zakres = (() => { const i = process.argv.indexOf("--zakres"); if (i < 0) return null; const [a, b] = process.argv[i + 1].split("-").map(Number); return { a, b }; })();
+const FPS = 25;
+const klatkaNr = (t: number) => Math.round(t * FPS);
+const doZrobienia = os.map((z, i) => ({ z, i, f0: klatkaNr(z.t), f1: klatkaNr(os[i + 1]?.t ?? dlugosc) }))
+  .filter((x) => x.f1 > x.f0 && (!zakres || (x.f1 / FPS > zakres.a && x.f0 / FPS < zakres.b)));
+console.log(`Rysuję ${doZrobienia.length} ujęć…`);
+for (const { z } of doZrobienia) await z.zrob();
+
+// ---------- ujęcia wideo: zdjęcia z powolnym ruchem kamery (przybliżenie, przesunięcie), klipy z nakładką, plansze bez ruchu ----------
+const ffmpegAsync = (args: string[]) => new Promise<void>((ok, blad) => execFile("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", ...args], (e) => (e ? blad(e) : ok())));
+const KODEK = ["-c:v", "libx264", "-preset", "veryfast", "-crf", "24", "-pix_fmt", "yuv420p", "-r", String(FPS), "-g", String(FPS * 2), "-an"];
+const RUCHY: [number, number][] = [[0.5, 0.5], [0.3, 0.7], [0.7, 0.3], [0.5, 0.5]];
+async function ujecie(z: Zdarzenie, i: number, klatek: number, plik: string) {
+  if (z.klip) {
+    const nakl = join(klatki, `klip-${i}-n.png`);
+    await z.klip.nakl().toFile(nakl);
+    const zapas = Math.max(0, klatek / FPS - z.klip.dl + 1); // gdy lektor mówi dłużej, ostatnia klatka klipu zostaje
+    return ffmpegAsync(["-i", z.klip.mp4, "-loop", "1", "-i", nakl, "-filter_complex",
+      `[0:v]fps=${FPS},scale=${W}:${H}:force_original_aspect_ratio=increase,crop=${W}:${H},setsar=1,tpad=stop_mode=clone:stop_duration=${zapas.toFixed(2)}[v];[v][1:v]overlay=0:0,format=yuv420p`,
+      ...KODEK, "-frames:v", String(klatek), plik]);
+  }
+  const nakl = naklPlik(z.plik), maNakl = existsSync(nakl);
+  const A = z.ruch ?? 0;
+  const wejscie = ["-loop", "1", "-framerate", String(FPS), "-i", z.plik, ...(maNakl ? ["-loop", "1", "-i", nakl] : [])];
+  let obraz = "[0:v]setsar=1[v]";
+  if (A) {
+    const zoom = i % 2 ? `1+${A}*on/${klatek}` : `1+${A}-${A}*on/${klatek}`; // na przemian przybliżenie i oddalenie
+    const [p0, p1] = RUCHY[i % RUCHY.length];
+    // obraz powiększony do 4K przed zoompan: ruch bez drgań (zoompan zaokrągla położenie do pełnych pikseli)
+    obraz = `[0:v]scale=${W * 2}:${H * 2}:flags=lanczos,zoompan=z='${zoom}':x='(iw-iw/zoom)*(${p0}+${(p1 - p0).toFixed(2)}*on/${klatek})':y='(ih-ih/zoom)*0.5':d=1:s=${W}x${H}:fps=${FPS},setsar=1[v]`;
+  }
+  return ffmpegAsync([...wejscie, "-filter_complex", `${obraz};[v]${maNakl ? "[1:v]overlay=0:0," : ""}format=yuv420p`, ...KODEK, "-frames:v", String(klatek), plik]);
+}
+const ujecia: string[] = [];
+let gotowe = 0;
+const kolejka = doZrobienia.map((x) => ({ ...x, plik: join(klatki, `ujecie-${String(x.i).padStart(4, "0")}.mp4`) }));
+async function pracownik() {
+  for (let x = kolejka.shift(); x; x = kolejka.shift()) {
+    await ujecie(x.z, x.i, x.f1 - x.f0, x.plik);
+    if (++gotowe % 20 === 0) console.log(`  ujęcia: ${gotowe}/${doZrobienia.length}`);
+  }
+}
+for (const x of kolejka) ujecia.push(x.plik);
+await Promise.all([pracownik(), pracownik(), pracownik()]);
+writeFileSync(join(klatki, "lista.txt"), ujecia.map((p) => `file '${resolve(p).replace(/\\/g, "/")}'`).join("\n") + "\n", "utf8");
+console.log("Składam wideo z dźwiękiem (ffmpeg)…");
+const start = zakres ? doZrobienia[0].f0 / FPS : 0;
+const koniecWideo = zakres ? Math.min(dlugosc, doZrobienia[doZrobienia.length - 1].f1 / FPS) : dlugosc;
+const plikWideo = join(wyj, zakres ? `wideo-probka-${zakres.a}-${zakres.b}.mp4` : "wideo.mp4");
+execFileSync("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", join(klatki, "lista.txt"), "-ss", start.toFixed(2), "-i", mp3,
+  "-map", "0:v", "-map", "1:a", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-t", (koniecWideo - start).toFixed(2), "-movflags", "+faststart", plikWideo], { stdio: "inherit" });
+if (zakres) { rmSync(klatki, { recursive: true, force: true }); console.log(`Gotowe: ${plikWideo}`); process.exit(0); }
 
 // ---------- miniatura 1280×720: największe zdjęcie z artykułu w tle, tytuł złotymi literami ----------
 // miniatura: zdjęcie wysokiej jakości najczęściej wspominanego miejsca (poziome), a bez niego największe zdjęcie z artykułu
 const najwazniejsze = [...hq].sort((a, b) => b.poz.length - a.poz.length)[0]?.zdjecia.find((x) => x.z.szer / x.z.wys >= 1.3);
-const wybrane = najwazniejsze ? najwazniejsze.plik : zdjecia.length ? (await Promise.all(zdjecia.map(async (z) => ({ z, m: await sharp(z.sciezka).metadata() })))).sort((a, b) => (b.m.width ?? 0) * (b.m.height ?? 0) - (a.m.width ?? 0) * (a.m.height ?? 0))[0].z.sciezka : "podcast/okladka.jpg";
+// --miniatura <obraz>: własne tło miniatury (np. kadr.jpg animacji 3D)
+const wlasnaMiniatura = process.argv[process.argv.indexOf("--miniatura") + 1];
+const wybrane = process.argv.includes("--miniatura") && existsSync(wlasnaMiniatura) ? wlasnaMiniatura : najwazniejsze ? najwazniejsze.plik : zdjecia.length ? (await Promise.all(zdjecia.map(async (z) => ({ z, m: await sharp(z.sciezka).metadata() })))).sort((a, b) => (b.m.width ?? 0) * (b.m.height ?? 0) - (a.m.width ?? 0) * (a.m.height ?? 0))[0].z.sciezka : "podcast/okladka.jpg";
 const mt = linie(tytul, 18);
 const napisy = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720"><defs>
   <linearGradient id="c" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#05070c" stop-opacity=".95"/><stop offset=".6" stop-color="#05070c" stop-opacity=".6"/><stop offset="1" stop-color="#05070c" stop-opacity=".1"/></linearGradient>
@@ -293,14 +521,25 @@ const autorzy = [...new Map(uzyteHq.map((x) => [x.z.plik, x])).values()].map(
 );
 // YouTube przyjmuje opis do 5000 znaków: pełna lista autorów idzie do osobnego pliku (np. na przypięty komentarz),
 // a w opisie zostaje krótka informacja i linki do kart miejsc (tam każde zdjęcie ma autora i licencję)
-if (autorzy.length) writeFileSync(join(wyj, "autorzy-zdjec.txt"), `Zdjęcia współczesne w filmie (Wikimedia Commons i Openverse):\n${autorzy.join("\n")}\n\nZdjęcia archiwalne: artykuły Leszka Klimka na uleszka.net (2004–2007).\n`, "utf8");
+const nagraniaCC = [...new Map(uzyteKlipy.filter((k) => k.cc).map((k) => [k.cc!.strona, k.cc!])).values()].map(
+  (o) => `${o.miejsce} (${o.serwis ?? "Wikimedia Commons"}) – nagranie: ${o.autor.replace(/\s+/g, " ").trim()}, ${o.licencja}${o.licencja_url ? ` (${o.licencja_url})` : ""}, ${o.strona} – użyto fragmentu, kadr przycięty i przeskalowany`,
+);
+const ma3d = uzyteKlipy.some((k) => !k.cc);
+const INFO_3D = "Animacje 3D (Blender) na podstawie rysunków Leszka Klimka i publicznych danych; skrypty i źródła: https://github.com/jokerwader/uleszka-archiwum/tree/main/grafiki/3d/wideo";
+if (autorzy.length || nagraniaCC.length) writeFileSync(join(wyj, "autorzy-zdjec.txt"), [
+  autorzy.length ? `Zdjęcia współczesne w filmie (Wikimedia Commons i Openverse):\n${autorzy.join("\n")}\n` : "",
+  nagraniaCC.length ? `Nagrania wideo w filmie:\n${nagraniaCC.join("\n")}\n` : "",
+  ma3d ? `${INFO_3D}\n` : "",
+  "Zdjęcia archiwalne: artykuły Leszka Klimka na uleszka.net (2004–2007).\n",
+].filter(Boolean).join("\n"), "utf8");
 const glowna = `TYTUŁ:\n${tytul}${rodzaj === "Zwiastun" ? "" : ` | ${PODCAST} – ${rodzaj.toLowerCase()}`}\n\nOPIS:\n${opisSpotify}\n\nPodcast w Spotify: ${SPOTIFY}\n\nRozdziały:\n${znaczniki}\n`;
 const zdjeciaInfo = autorzy.length ? `\nZdjęcia współczesne: Wikimedia Commons i Openverse (${autorzy.length}, wolne licencje) – autor i licencja w kadrze i na kartach miejsc w atlasie. Zdjęcia archiwalne: artykuły Leszka Klimka (2004–2007).\n` : "";
+const klipyInfo = `${nagraniaCC.length ? `\nNagrania wideo: ${[...new Set(uzyteKlipy.filter((k) => k.cc).map((k) => k.cc!.serwis ?? "Wikimedia Commons"))].join(", ")} (${nagraniaCC.length}) – autor i licencja w kadrze; pełna lista w komentarzu.\n` : ""}${ma3d ? `\n${INFO_3D}\n` : ""}`;
 let miejscaTxt = miejscaWOpisie.length ? `\nMiejsca z odcinka na mapie (Atlas Leszka):\n${miejscaWOpisie.join("\n")}\n` : "";
 const LIMIT = 4900 + "TYTUŁ:\n".length + tytul.length + 60; // ok. 4900 znaków samego opisu
-for (let ile = miejscaWOpisie.length; ile > 0 && (glowna + miejscaTxt + zdjeciaInfo).length > LIMIT; ile--)
+for (let ile = miejscaWOpisie.length; ile > 0 && (glowna + miejscaTxt + zdjeciaInfo + klipyInfo).length > LIMIT; ile--)
   miejscaTxt = `\nMiejsca z odcinka na mapie (Atlas Leszka):\n${miejscaWOpisie.slice(0, ile - 1).join("\n")}\n…i więcej: https://uleszka.net/atlas/\n`;
-writeFileSync(join(wyj, "opis.txt"), glowna + miejscaTxt + zdjeciaInfo, "utf8");
+writeFileSync(join(wyj, "opis.txt"), glowna + miejscaTxt + zdjeciaInfo + klipyInfo, "utf8");
 rmSync(klatki, { recursive: true, force: true });
 console.log(`Gotowe: ${join(wyj, "wideo.mp4")}, miniatura.jpg, opis.txt`);
 console.log("Rozdziały w opisie są orientacyjne (liczone z długości tekstu) – przed publikacją sprawdź je w odtwarzaczu.");
