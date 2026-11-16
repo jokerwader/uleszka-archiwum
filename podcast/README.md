@@ -78,7 +78,10 @@ Ruch i klipy:
 - nagrania wideo z Wikimedia Commons (wolne licencje) z `podcast/<folder>/nagrania-cc.json`, z autorem i licencją w kadrze
   i w `autorzy-zdjec.txt`; pliki w `podcast/.nagrania-cc/` (poza repozytorium). Bez klipów: `--bez-klipow`,
 - szybki podgląd fragmentu: `--zakres 600-900` (sekundy) daje `youtube/wideo-probka-600-900.mp4`,
-- własne tło miniatury: `--miniatura grafiki/3d/wideo/<klip>/kadr.jpg`.
+- własne tło miniatury: `--miniatura grafiki/3d/wideo/<klip>/kadr.jpg`,
+- wstęp: zamiast nieruchomej planszy z okładką zapowiedź idzie na animacji 3D `grafiki/3d/wideo/wstep/klip.mp4`, wspólnej dla
+  wszystkich odcinków (pod muzykę zapowiedzi). Tytuł odcinka pojawia się na niej, gdy lektor mówi „Odcinek …” (czas z `mowa.jsonl`).
+  Bez animacji: `--bez-wstepu`.
 
 Cały film z ruchem składa się dłużej (dla 90 minut ok. pół godziny) i waży więcej (ok. 1,5–2 GB).
 

@@ -204,7 +204,7 @@ for (const m of bezHq ? [] : miejscaOdc) {
   const poz = wzmianki(m);
   if (!poz.length) continue;
   // najpierw zdjęcia poziome (lepiej wypełniają kadr 16:9)
-  const kandydaci = [...m.zdjeciaCommons].sort((a, b) => Number(b.szer / b.wys >= 1.3) - Number(a.szer / a.wys >= 1.3)).slice(0, Math.min(10, 4 + poz.length));
+  const kandydaci = [...m.zdjeciaCommons].sort((a, b) => Number(b.szer / b.wys >= 1.3) - Number(a.szer / a.wys >= 1.3)).slice(0, 20); // wszystkie zdjęcia miejsca z atlasu (do 20): im więcej, tym mniej powtórek
   const zdjecia: ZdjecieHQ[] = [];
   for (const z of kandydaci) {
     const plik = await pobierzZdjecie(z);
@@ -301,7 +301,7 @@ const ZNACZKI: Record<string, string> = {
   ilustracja: "Animacja 3D",
 };
 type NagranieCC = { nazwa: string; miejsce: string; plik: string; strona: string; autor: string; licencja: string; licencja_url?: string; serwis?: string; fraza?: string; frazy?: string[] };
-type Klip = { mp4: string; dl: number; t: number; nakl: () => ReturnType<typeof sharp>; cc?: NagranieCC; nazwa: string };
+type Klip = { mp4: string; dl: number; t: number; nakl: () => ReturnType<typeof sharp>; cc?: NagranieCC; nazwa: string; naklCzas?: [number, number] }; // naklCzas: nakładka tylko w tym czasie (s od początku klipu), z płynnym wejściem i zejściem
 const klipy: Klip[] = [];
 if (!process.argv.includes("--bez-klipow")) {
   const KLIPY3D = "grafiki/3d/wideo";
@@ -341,7 +341,21 @@ const zdarzenia: Zdarzenie[] = [];
 const podtytul = artykuly.length === 1 && artykuly[0].tytul !== tytul ? `artykuł „${artykuly[0].tytul}”` : "";
 const nr = (n: number) => join(klatki, `${String(n).padStart(4, "0")}.png`);
 let n = 0;
-{ const p = nr(n++); zdarzenia.push({ t: 0, plik: p, twarde: true, zrob: () => planszaOkladki(etykieta, tytul, ["Leszek Klimek, uleszka.net (2004–2007)", podtytul || "Tekst bez zmian, czyta lektor AI"].filter(Boolean), p) }); }
+// wstęp: animacja 3D pod zapowiedź (grafiki/3d/wideo/wstep/klip.mp4, wspólna dla odcinków); tytuł odcinka wchodzi na nią,
+// gdy lektor mówi „Odcinek …” (z mowa.jsonl), i schodzi przed końcem zapowiedzi. Bez animacji albo z --bez-wstepu: plansza z okładką.
+const WSTEP = "grafiki/3d/wideo/wstep/klip.mp4";
+if (existsSync(WSTEP) && !process.argv.includes("--bez-wstepu")) {
+  const linia = mowa ? readFileSync(plikMowy, "utf8").split("\n").map((l) => l.match(/^\{"start":(\d+),"end":\d+,"text":"\s*(.*)"\}\s*$/)).find((m) => m && Number(m[1]) < 40000 && /^odcinek\b/i.test(m[2])) : undefined;
+  const od = linia ? Number(linia[1]) / 1000 : 14.3;
+  const doT = Math.max(od + 6, Math.min(25, zapowiedzKoniec - 1));
+  const w = linie(tytul, 24);
+  const y0 = H / 2 - ((w.length - 1) * 104 * 1.18) / 2 + 20;
+  const tytulWstepu = () => zSvg(`${tlo.replace(/<rect[^>]*\/>\s*$/, "")}
+    <text x="${W / 2}" y="${y0 - 120}" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="34" letter-spacing="10" fill="#e2a93f">${xml(etykieta.toUpperCase())}</text>
+    ${w.map((x, i) => `<text x="${W / 2}" y="${y0 + i * 104 * 1.18}" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="104" fill="url(#z)" stroke="#05070c" stroke-opacity=".35" stroke-width="2">${xml(x)}</text>`).join("")}
+    ${podtytul ? `<text x="${W / 2}" y="${y0 + w.length * 104 * 1.18 + 10}" text-anchor="middle" font-family="Georgia, serif" font-size="38" fill="#d7dbe4">${xml(podtytul)}</text>` : ""}`).png();
+  zdarzenia.push({ t: 0, plik: nr(n++), twarde: true, zrob: async () => {}, klip: { mp4: WSTEP, dl: dlugoscPliku(WSTEP), t: 0, nazwa: "wstep", nakl: tytulWstepu, naklCzas: [od, doT] } });
+} else { const p = nr(n++); zdarzenia.push({ t: 0, plik: p, twarde: true, zrob: () => planszaOkladki(etykieta, tytul, ["Leszek Klimek, uleszka.net (2004–2007)", podtytul || "Tekst bez zmian, czyta lektor AI"].filter(Boolean), p) }); }
 const rozdzialAt = (t: number) => [...rozdzialy].reverse().find((r) => r.start <= t + 0.5)?.tytul ?? tytul;
 for (const r of rozdzialy.slice(1, -1)) {
   if (rozdzialy.length <= 3) break; // jeden rozdział (np. zwiastun) – bez planszy rozdziału
@@ -385,33 +399,37 @@ const miekkie = zdarzenia.filter((z) => !z.twarde).sort((a, b) => Number(!!b.kli
 const pominiete = miekkie.filter((z) => !wstaw(z));
 if (pominiete.some((z) => z.klip)) console.log(`Nie zmieściły się klipy: ${pominiete.filter((z) => z.klip).map((z) => z.klip!.nazwa).join(", ")}`);
 // wypełnianie: obraz nie stoi w miejscu dłużej niż ok. 25–30 s (plansza rozdziału 8 s, po klipie najwyżej 6 s jego ostatniej klatki);
-// wolne miejsca dostają zdjęcia miejsc z odcinka: najpierw nieużyte, potem pokazane najdawniej (nie w ostatnich 5 minutach)
+// wolne miejsca dostają zdjęcia miejsc z odcinka: najpierw nieużyte; gdy zabraknie – zdjęcie pokazane dotąd tylko raz
+// i nie w ostatnich 10 minutach (każde zdjęcie najwyżej dwa razy w filmie); bez takiego przerwa zostaje dłuższym ujęciem
 const DLUGO = { zdjecie: 25, plansza: 8, poKlipie: 6 };
 const wzmiankiCzas = hq.flatMap((x) => x.poz.map((p) => ({ t: czasPozycji(p), m: x.m }))).sort((a, b) => a.t - b.t);
 const ostatnio = new Map<string, number>(); // plik zdjęcia → kiedy ostatnio pokazane
-for (const z of os) { const x = hqPoKlatce.get(z.plik); if (x) ostatnio.set(x.plik, z.t); }
+const ileRazy = new Map<string, number>(); // plik zdjęcia → ile razy w filmie
+const pokazane = (x: ZdjecieHQ, t: number) => { ostatnio.set(x.plik, t); ileRazy.set(x.plik, (ileRazy.get(x.plik) ?? 0) + 1); };
+for (const z of os) { const x = hqPoKlatce.get(z.plik); if (x) pokazane(x, z.t); }
 const wybierzZdjecie = (t: number): ZdjecieHQ | undefined => {
   const ost = [...wzmiankiCzas].reverse().find((w) => w.t <= t && wolne.get(w.m)?.length);
   if (ost) return wolne.get(ost.m)!.shift();
   const dowolne = [...wolne.values()].find((l) => l.length);
   if (dowolne) return dowolne.shift();
-  const najdawniej = (l: ZdjecieHQ[]) => l.filter((x) => t - (ostatnio.get(x.plik) ?? -1e9) > 300)
+  const raz = (l: ZdjecieHQ[]) => l.filter((x) => (ileRazy.get(x.plik) ?? 0) < 2 && t - (ostatnio.get(x.plik) ?? -1e9) > 600)
     .sort((a, b) => (ostatnio.get(a.plik) ?? -1e9) - (ostatnio.get(b.plik) ?? -1e9))[0];
   const m = [...wzmiankiCzas].reverse().find((w) => w.t <= t)?.m;
-  return (m && najdawniej(hq.find((x) => x.m === m)?.zdjecia ?? [])) || najdawniej(hq.flatMap((x) => x.zdjecia));
+  return (m && raz(hq.find((x) => x.m === m)?.zdjecia ?? [])) || raz(hq.flatMap((x) => x.zdjecia));
 };
-wypelnij: for (let proba = 0; proba < 3000; proba++) {
+const bezZdjecia = new Set<string>(); // ujęcia, po których nie było już czym wypełnić przerwy
+for (let proba = 0; proba < 3000; proba++) {
   let dodano = false;
-  for (let i = 1; i < os.length - 1 && !dodano; i++) { // i = 0: plansza tytułowa stoi przez całą zapowiedź
+  for (let i = 1; i < os.length - 1 && !dodano; i++) { // i = 0: plansza tytułowa (albo wstęp) stoi przez całą zapowiedź
     const a = os[i];
-    if (a.t >= zakonczenieStart) continue;
+    if (a.t >= zakonczenieStart || bezZdjecia.has(a.plik)) continue;
     const limit = a.klip ? a.klip.dl + DLUGO.poKlipie : a.twarde ? DLUGO.plansza : DLUGO.zdjecie;
     const dl = os[i + 1].t - a.t;
     if (dl <= limit + MIN) continue;
     const t = a.t + (a.klip ? a.klip.dl : a.twarde ? DLUGO.plansza : Math.min(DLUGO.zdjecie, dl / 2));
     const x = wybierzZdjecie(t);
-    if (!x) break wypelnij;
-    ostatnio.set(x.plik, t);
+    if (!x) { bezZdjecia.add(a.plik); continue; }
+    pokazane(x, t);
     os.push(dodajHq(x, t));
     os.sort((p, q) => p.t - q.t);
     dodano = true;
@@ -459,8 +477,10 @@ async function ujecie(z: Zdarzenie, i: number, klatek: number, plik: string) {
     const nakl = join(klatki, `klip-${i}-n.png`);
     await z.klip.nakl().toFile(nakl);
     const zapas = Math.max(0, klatek / FPS - z.klip.dl + 1); // gdy lektor mówi dłużej, ostatnia klatka klipu zostaje
-    return ffmpegAsync(["-i", z.klip.mp4, "-loop", "1", "-i", nakl, "-filter_complex",
-      `[0:v]fps=${FPS},scale=${W}:${H}:force_original_aspect_ratio=increase,crop=${W}:${H},setsar=1,tpad=stop_mode=clone:stop_duration=${zapas.toFixed(2)}[v];[v][1:v]overlay=0:0,format=yuv420p`,
+    const nc = z.klip.naklCzas;
+    const n = nc ? `[1:v]format=rgba,fade=in:st=${nc[0].toFixed(2)}:d=0.8:alpha=1,fade=out:st=${(nc[1] - 0.8).toFixed(2)}:d=0.8:alpha=1[n]` : "[1:v]null[n]";
+    return ffmpegAsync(["-i", z.klip.mp4, "-loop", "1", "-framerate", String(FPS), "-i", nakl, "-filter_complex",
+      `[0:v]fps=${FPS},scale=${W}:${H}:force_original_aspect_ratio=increase,crop=${W}:${H},setsar=1,tpad=stop_mode=clone:stop_duration=${zapas.toFixed(2)}[v];${n};[v][n]overlay=0:0,format=yuv420p`,
       ...KODEK, "-frames:v", String(klatek), plik]);
   }
   const nakl = naklPlik(z.plik), maNakl = existsSync(nakl);

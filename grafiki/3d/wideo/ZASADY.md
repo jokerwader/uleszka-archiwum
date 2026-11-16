@@ -28,8 +28,11 @@ w chwili, gdy lektor czyta fragment tekstu wskazany w `klip.json`.
 - `rodzaj`: `rysunek-leszka` (ożywiony rysunek z artykułu), `hipoteza` (ilustracja tezy z tekstu, której nauka nie potwierdza),
   `rekonstrukcja` (odtworzenie budowli lub miejsca według pomiarów i planów), `ilustracja` (zjawisko potwierdzone, np. wschód Słońca).
   Od rodzaju zależy znaczek w rogu kadru, który dodaje `wideo.ts`.
-- `fraza`: skopiowana dosłownie z `podcast/02-wielki-uskok/rozdzialy-studio/*.txt` (bez znaczników w nawiasach kwadratowych).
-  Może być kilka miejsc: zamiast `fraza` pole `frazy` z listą.
+- `fraza`: skopiowana dosłownie z `podcast/<folder odcinka>/rozdzialy-studio/*.txt` (bez znaczników w nawiasach kwadratowych).
+  Może być kilka miejsc: zamiast `fraza` pole `frazy` z listą. `wideo.ts` szuka fraz każdego klipu w każdym odcinku, więc fraza
+  ma być na tyle długa i charakterystyczna, żeby pasowała tylko do miejsca, o które chodzi.
+- Nazwa folderu: klipy do odcinka 2 bez przedrostka (jak dotąd), do odcinka 1 z przedrostkiem `potop-`, do zwiastuna (odcinek 0) `zwiastun-`.
+  Folder `wstep/` to animacja pod zapowiedź każdego odcinka (bez `klip.json`).
 
 ## Wygląd
 

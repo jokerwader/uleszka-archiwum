@@ -15,3 +15,5 @@ podcast/.nagrania-cc/
 # klatki pośrednie klipów 3D
 grafiki/3d/wideo/*/_klatki/
 grafiki/3d/wideo/.renderuje
+
+__pycache__/
