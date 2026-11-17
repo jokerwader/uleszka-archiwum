@@ -134,11 +134,11 @@ for (const g of GRUPY) {
   });
 }
 
-// ---- „Rozmowa z Leszkiem”: rys autora i jego wywiad (dla trybu, w którym AI mówi stylem autora) ----
+// ---- rys autora i jego wywiad (fakty o autorze; AI nie mówi w jego imieniu) ----
 {
   const { readFileSync, existsSync } = await import("node:fs");
   if (existsSync("docs/leszek-rys.md") && existsSync("materialy/wywiad-nandi-pl.md")) {
-    const plik = `${WYJSCIE}/${String(nr++).padStart(2, "0")}-rozmowa-z-leszkiem.md`;
+    const plik = `${WYJSCIE}/${String(nr++).padStart(2, "0")}-rys-autora.md`;
     const wywiad = readFileSync("materialy/wywiad-nandi-pl.md", "utf8").replace(/^---[\s\S]*?---\n/, "");
     writeFileSync(plik, `${readFileSync("docs/leszek-rys.md", "utf8")}\n\n---\n\n# Załącznik: wywiad z autorem (nandi.pl)\n\nŹródło: https://nandi.pl/index.php?go=art_uleszka – „Można rozpowszechniać bez ograniczeń”.\n\n${wywiad}`, "utf8");
     console.log(`${plik}: rys autora i wywiad`);

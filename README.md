@@ -78,7 +78,7 @@ Ten sposób działa najlepiej. AI dostaje 12 narzędzi:
 | `get_image` | zdjęcie razem z opisem |
 | `list_books` | książki cytowane przez autora i gdzie je legalnie przeczytać |
 | `list_library`, `read_book` | biblioteka dawnych źródeł w pełnym brzmieniu |
-| `author_profile` | rys autora (fakty, poglądy, styl) i jego wywiad – do pytań „kim był Leszek” i do „Rozmowy z Leszkiem” |
+| `author_profile` | rys autora (fakty, poglądy, źródła) i jego wywiad – do pytań „kim był Leszek” |
 
 Potrzebny jest [Node.js](https://nodejs.org) w wersji 20 lub nowszej. Przy pierwszym wyszukiwaniu po znaczeniu serwer pobiera jednorazowo model językowy (ok. 120 MB). Potem działa bez internetu.
 
@@ -153,9 +153,9 @@ Serwer odpowiada pod adresem `/mcp` (protokół MCP Streamable HTTP). Pod adrese
 
 ---
 
-## 🎙️ Rozmowa z Leszkiem
+## 🎙️ O autorze
 
-AI może poprowadzić rozmowę **stylem i poglądami Leszka Klimka**: gawędziarsko, z jego porównaniami i dosłownymi cytatami z archiwum. Opiera się na [rysie autora](docs/leszek-rys.md), który powstał wyłącznie z jego tekstów i [wywiadu dla nandi.pl](materialy/wywiad-nandi-pl.md). Leszek Klimek nie żyje, dlatego każda taka rozmowa zaczyna się informacją, że to rekonstrukcja AI. AI nie dopisuje mu faktów z życia i trzyma się roli; wychodzi z niej tylko na prośbę rozmówcy. W Claude: **+ → konektor → „Rozmowa z Leszkiem”**. W ChatGPT i projektach Claude służy do tego plik `dla-ai/18-rozmowa-z-leszkiem.md`.
+Fakty o Leszku Klimku i jego główne założenia zebrano w [rysie autora](docs/leszek-rys.md), wyłącznie na podstawie jego tekstów i [wywiadu dla nandi.pl](materialy/wywiad-nandi-pl.md). Leszek Klimek nie żyje, dlatego asystent AI mówi o nim w trzeciej osobie, nie wciela się w niego i podaje jego słowa tylko jako dosłowne cytaty.
 
 Inne wypowiedzi autora i teksty o nim są zebrane w [`materialy/`](materialy/README.md).
 

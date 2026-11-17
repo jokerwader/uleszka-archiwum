@@ -53,8 +53,8 @@ O autorze (fakty z archiwum i wywiadu; nie dopisuj innych szczegółów biografi
   i „Wstęp” do Zapomnianej medycyny (id: medalt/wstep).
 - Wylew przeszedł w maju 2001 r.; tekst pożegnalny „Całkiem prywatnie” napisał we wrześniu 2006 r. Ostatnia aktualizacja zachowanej kopii: 5.04.2007.
 - Według Czesława Białczyńskiego (2023) zmarł przed 2014 r.; wtedy czytelnik („Świętobor”) ponownie opublikował teksty na blogach „ULESZKA.NET – Reaktywacja”.
-- Pełny rys autora (fakty, poglądy, styl) i jego wywiad dla nandi.pl: narzędzie author_profile. Gdy rozmówca chce porozmawiać „z Leszkiem”,
-  możesz mówić jego stylem, ale wyłącznie według zasad z rysu (jasno oznaczona rekonstrukcja AI, cytaty, bez zmyślania biografii).
+- Pełny rys autora (fakty, poglądy, źródła) i jego wywiad dla nandi.pl: narzędzie author_profile. Mów o nim w trzeciej osobie;
+  nie wcielaj się w niego i nie mów jego głosem (z szacunku dla zmarłego) – jego słowa podawaj tylko jako dosłowne cytaty ze źródłem.
 - Dla wielu czytelników była to pierwsza strona, która pokazała, że o takie sprawy w ogóle można pytać; zainspirowała wiele późniejszych blogów.
 
 Gdy rozmówca nie wie, od czego zacząć, albo pyta ogólnie („co ciekawego tu jest?”): przedstaw krótko stronę i zaproponuj 6–8 tematów
@@ -514,7 +514,7 @@ server.registerTool(
   {
     title: "Rys autora (Leszek Klimek) i jego wywiad",
     description:
-      "Returns a portrait of the site's author Leszek Klimek: verified biography facts, his main ideas, how he spoke (style, phrases) and the RULES for role-play when the user wants to 'talk with Leszek' (AI speaking in his voice). Optionally also the full text of his interview for nandi.pl. Use before answering 'who was the author' or before speaking in his voice.",
+      "Returns a portrait of the site's author Leszek Klimek: verified biography facts, his main ideas, and sources. Optionally also the full text of his interview for nandi.pl. Use before answering 'who was the author'. Never role-play as Leszek or speak in his voice: he has died; quote his words only verbatim with the source.",
     inputSchema: { include_interview: z.boolean().default(false).describe("dołącz pełny tekst wywiadu z nandi.pl") },
     annotations: { readOnlyHint: true },
   },
@@ -602,24 +602,6 @@ server.registerResource(
 // W Claude.ai i Claude Desktop widać je w menu „+” przy konektorze – rozmowa zaczyna się jednym kliknięciem.
 
 const polecenie = (text: string) => ({ messages: [{ role: "user" as const, content: { type: "text" as const, text } }] });
-
-server.registerPrompt(
-  "rozmowa_z_leszkiem",
-  {
-    title: "Rozmowa z Leszkiem – AI w roli autora",
-    description:
-      "AI rozmawia stylem i poglądami Leszka Klimka, na podstawie jego tekstów i wywiadu – z dosłownymi cytatami. Leszek nie żyje; to rekonstrukcja AI, wyraźnie oznaczona.",
-    argsSchema: { temat: z.string().optional().describe("opcjonalnie: o czym chcesz porozmawiać, np. „potop”, „piramidy”, „jak zaczęła się strona”") },
-  },
-  ({ temat }) =>
-    polecenie(`Chcę porozmawiać z Leszkiem – autorem strony uleszka.net${temat ? ` – o: ${temat}` : ""}.
-1. Najpierw pobierz rys autora i jego wywiad: author_profile(include_interview: true). Przestrzegaj zasad roli z części 4 rysu – zawsze.
-2. Zacznij od krótkiej informacji, że jesteś AI rozmawiającym jak Leszek na podstawie jego tekstów, a Leszek nie żyje.
-3. Potem przywitaj się po swojemu, w jego stylu (gawęda, obrazowe porównania, pytania retoryczne, „proszę zauważyć”),
-   ${temat ? `i zacznij rozmowę o temacie „${temat}”` : "i zapytaj, o czym chciałbym porozmawiać – zaproponuj 3–4 tematy, które były mu najbliższe"}.
-4. W trakcie rozmowy szukaj w archiwum (search, search_by_meaning, read_article) i wplataj jego dosłowne cytaty z tytułem artykułu.
-   Czego nie ma w źródłach – nie zmyślaj; mów jak on: „tego nie wiem”.`),
-);
 
 server.registerPrompt(
   "poznaj_archiwum",

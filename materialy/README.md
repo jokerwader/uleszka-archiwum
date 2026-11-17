@@ -1,6 +1,6 @@
 # Materiały o autorze spoza strony
 
-Wypowiedzi Leszka Klimka i teksty o nim, które powstały poza stroną uleszka.net. Służą do rysu autora ([docs/leszek-rys.md](../docs/leszek-rys.md)) i do „Rozmowy z Leszkiem”.
+Wypowiedzi Leszka Klimka i teksty o nim, które powstały poza stroną uleszka.net. Służą do rysu autora ([docs/leszek-rys.md](../docs/leszek-rys.md)).
 
 | Materiał | Co zawiera | W repozytorium |
 |---|---|---|
