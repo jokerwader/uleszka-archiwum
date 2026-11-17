@@ -27,6 +27,18 @@ oraz linie i nazwy Lwa, Raka i Bliźniąt.
 - Sylwetki budowli są uproszczone: to kształty według podanych wymiarów, bez detali.
 - W ostatnim kadrze dolna część Lwa (Denebola) wchodzi w dolny pas, gdzie `wideo.ts` kładzie podpis. Napisy są ponad nim.
 
+## Sprawdzenie (audyt 16.11.2026)
+
+- To niebo **dzisiejsze** (położenia gwiazd J2000) nad dzisiejszą ruiną z częściowo zawaloną wieżą. Biegun niebieski
+  stoi 20,7° nad horyzontem, bo taka jest szerokość geograficzna miejsca; to się nie zmienia. Zmienia się gwiazda
+  przy biegunie: dziś Gwiazda Polarna leży 0,7° od bieguna, a ok. 906 r., gdy budowano El Caracol, leżała 6,7° od niego
+  (policzone: ruch własny i precesja, `_wspolne/epoka.py`).
+- Wymiary budowli sprawdzone ponownie: El Caracol ma platformę 67 × 52 m, okrągłą wieżę o średnicy 16 m i ok. 23 m
+  wysokości razem; El Castillo ma podstawę 55,3 m i 24 m wysokości oraz 6 m świątyni (Wikipedia, „El Castillo,
+  Chichen Itza”; opisy INAH). Ze współrzędnych z Wikipedii (20,6829°N 88,5686°W i 20,6792°N 88,5707°W) El Castillo
+  stoi ok. 460 m od El Caracol, w azymucie ok. 28° (410 m na północ i 220 m na wschód).
+- Nachylenie ekliptyki 23,4393° to wartość dla epoki J2000 (Meeus).
+
 ## Pliki
 
 - `scena.py`: buduje scenę od zera i renderuje (Blender 5.3, EEVEE). Kadry próbne: `-- probne 1,150,230,300,420,500`, pełny render: `-- pelny`.

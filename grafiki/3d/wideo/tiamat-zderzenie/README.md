@@ -24,13 +24,17 @@ rozbitej planety, a Ziemia powstała na swojej orbicie.
 - Odległości i wielkości nie są w skali: orbity są zagęszczone (promienie mniej więcej jak pierwiastek z odległości),
   planety powiększone, a ruch po orbitach mocno spowolniony i wyrównany (wewnętrzne planety krążą tylko trochę szybciej).
 - Tor Marduka i miejsce zderzenia są umowne – tekst ich nie opisuje.
-- Gwiazdy w tle są losowe (tło, nie prawdziwe niebo).
+- Gwiazdy w tle to prawdziwe niebo: katalog HYG (gwiazdy do 5,0 mag), ustawione w układzie ekliptycznym, bo
+  płaszczyzna orbit to płaszczyzna ekliptyki. Kamera patrzy z północy, więc za planetami widać południowe niebo
+  ekliptyczne. Położenia dzisiejsze (J2000). Poprawka z 16.11.2026 (audyt): wcześniej gwiazdy były losowe.
+- Kolejność planet jest prawdziwa (Merkury, Wenus, Mars, Jowisz); kąty, pod którymi stoją na orbitach, są umowne,
+  bo zdarzenia nie da się umieścić w czasie.
 - Marduk po zderzeniu odlatuje powoli i jeszcze pod koniec klipu widać go przy lewym dolnym brzegu kadru.
 - Pominięte z tekstu: „przybranie na wadze” Jowisza i powstanie komet.
 
 ## Dane i licencje
 
-- Bez danych zewnętrznych: cała scena jest zbudowana w skrypcie.
+- Gwiazdy tła: katalog HYG v4.4 (D. Nash, CC BY-SA 4.0), `_dane/hyg/`. Reszta sceny jest zbudowana w skrypcie.
 - Czcionki napisów: Arial Bold, Georgia (systemowe).
 
 ## Uruchomienie

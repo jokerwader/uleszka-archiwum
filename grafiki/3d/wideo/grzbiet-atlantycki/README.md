@@ -39,6 +39,15 @@ na Pacyfiku wskazują zwężanie się oceanu przy jego brzegach.
 - Obszar Atlantyku dla pasów dna: maska lądów Natural Earth przycięta prostymi regułami (bez Pacyfiku, Morza
   Karaibskiego, Zatoki Meksykańskiej, Morza Śródziemnego, Bałtyku i Zatoki Hudsona).
 
+## Sprawdzenie (audyt 16.11.2026)
+
+38 punktów osi grzbietu porównano z granicami płyt PB2002 (P. Bird, „An updated digital model of plate boundaries”,
+Geochemistry Geophysics Geosystems 4(3), 2003; granice Ameryka Płn.–Eurazja, Ameryka Płn.–Afryka, Afryka–Ameryka Płd.).
+Średnia odległość punktu od granicy to 0,31° (34 km), największa 1,2° (131 km, ostatni punkt przy Wyspie Bouveta).
+To się mieści w podanej wyżej dokładności ok. 1°; na globusie w kadrze 1° to kilka pikseli. Linia w klipie jest
+wygładzona: nie pokazuje uskoków transformacyjnych, które przesuwają oś grzbietu (np. przy równiku).
+Prędkość rozsuwania Atlantyku to ok. 2–2,5 cm na rok w północnej części i do ok. 3,5 cm w południowej (obie strony razem).
+
 ## Uruchomienie
 
 ```

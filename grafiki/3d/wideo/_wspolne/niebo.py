@@ -170,6 +170,10 @@ def material_gwiazd(nazwa="gwiazdy"):
     dx, dy = m("SUBTRACT", sep.outputs["X"], 0.5), m("SUBTRACT", sep.outputs["Y"], 0.5)
     r2 = m("ADD", m("MULTIPLY", dx, dx), m("MULTIPLY", dy, dy))
     g = m("EXPONENT", m("MULTIPLY", r2, -11.09))
+    okno = nt.nodes.new("ShaderNodeMapRange"); okno.interpolation_type = "SMOOTHSTEP"     # wygaszenie przy brzegu kwadratu
+    okno.inputs["From Min"].default_value = 0.25; okno.inputs["From Max"].default_value = 0.10
+    nt.links.new(r2, okno.inputs["Value"])
+    g = m("MULTIPLY", g, okno.outputs["Result"])
     jas = nt.nodes.new("ShaderNodeAttribute"); jas.attribute_name = "jas"
     kol = nt.nodes.new("ShaderNodeAttribute"); kol.attribute_name = "kolor"
     wid = nt.nodes.new("ShaderNodeValue"); wid.name = "widac"; wid.outputs[0].default_value = 1.0

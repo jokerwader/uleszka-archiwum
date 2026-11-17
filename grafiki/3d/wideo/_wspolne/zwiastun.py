@@ -89,7 +89,7 @@ def bsdf(m):
     return m.node_tree.nodes[m["bsdf"]]
 
 
-def kamien(nazwa, kolor, kolor2=None, skala=6.0, szorstkosc=0.85, wypuklosc=0.35, plamy=0.5, rysy=0.5):
+def kamien(nazwa, kolor, kolor2=None, skala=6.0, szorstkosc=0.85, wypuklosc=0.35, plamy=0.5, rysy=0.0, warstwy=0.0):
     """Proceduralny kamień: dwa odcienie mieszane szumem, drobne ziarno, wypukłości (bump) i rysy/pęknięcia (Voronoi).
     Współrzędne obiektu, więc wzór nie pływa przy ruchu kamery."""
     m = pbr(nazwa, kolor, szorstkosc)
@@ -156,6 +156,18 @@ def kamien(nazwa, kolor, kolor2=None, skala=6.0, szorstkosc=0.85, wypuklosc=0.35
     nt.links.new(hsv.outputs[0], b.inputs["Base Color"])
     wys = mat("SUBTRACT", mat("ADD", n1.outputs[0], mat("MULTIPLY", n3.outputs[0], 0.35)),
               mat("MULTIPLY", rysa.outputs[0], 0.9 * rysy))
+    if warstwy:
+        # poziome warstwy skały osadowej: szum mocno rozciągnięty w poziomie
+        mp = nt.nodes.new("ShaderNodeMapping")
+        mp.inputs["Scale"].default_value = (0.12, 0.12, 5.0)
+        nt.links.new(tc.outputs["Object"], mp.inputs["Vector"])
+        n4 = nt.nodes.new("ShaderNodeTexNoise")
+        n4.inputs["Scale"].default_value = skala
+        n4.inputs["Detail"].default_value = 3.0
+        nt.links.new(mp.outputs[0], n4.inputs["Vector"])
+        wys = mat("ADD", wys, mat("MULTIPLY", n4.outputs[0], warstwy))
+        ciem2 = mat("MULTIPLY", ciem, mat("ADD", mat("MULTIPLY", n4.outputs[0], 0.5 * warstwy), 1.0 - 0.25 * warstwy))
+        nt.links.new(ciem2, hsv.inputs["Value"])
     bump = nt.nodes.new("ShaderNodeBump")
     bump.inputs["Strength"].default_value = wypuklosc
     bump.inputs["Distance"].default_value = 0.08

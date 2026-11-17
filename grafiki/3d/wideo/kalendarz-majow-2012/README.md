@@ -38,6 +38,12 @@ Cyfry Majów (kropki, kreski, uproszczona muszla zera) narysowano od zera w `sce
 - Geometria kół, tekstury (szum Blendera) i cyfry: wykonane od zera, bez cudzych grafik.
 - Czcionki: Arial, Georgia (Windows), tylko do renderu.
 
+## Sprawdzenie (audyt 16.11.2026)
+
+Rachunek dat sprawdzony niezależnie: 60 dni przed 4 Ajaw 3 K'ank'in liczba Tzolk'in to (4 − 60) mod 13 = 9, nazwa dnia
+ta sama (60 = 3 × 20), a w Haab' trzy miesiące wcześniej jest 3 Sak'. 13.0.0.0.0 to 1 872 000 dni od początku rachuby;
+ze stałą 584283 wypada 21 grudnia 2012 r., ze stałą 584285 – 23 grudnia.
+
 ## Uruchomienie
 
 ```

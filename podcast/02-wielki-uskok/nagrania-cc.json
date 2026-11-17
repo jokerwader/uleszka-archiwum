@@ -1,24 +1,8 @@
 [
   {
-    "nazwa": "Ziemia i jej skorupa, animacja",
-    "miejsce": "Ziemia: skorupa i płaszcz (animacja ZDF Terra X)",
-    "plik": "podcast/.nagrania-cc/ziemia-skorupa-zdf.mp4",
-    "strona": "https://commons.wikimedia.org/wiki/File:So_erdbebensicher_haben_die_Inka_gebaut.webm",
-    "autor": "ZDF/TerraX/K22/Mona Garzón/Ricardo Garzón/Ricardo Garzón/M. Heß",
-    "licencja": "CC BY-SA 4.0",
-    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "oryginal_rozdzielczosc": "1920x1080",
-    "fragment": [
-      74,
-      84
-    ],
-    "fraza": "Teoria wielkich katastrof opiera się na stwierdzeniu, że co jakiś czas Ziemię nawiedza potężny kataklizm",
-    "serwis": "Wikimedia Commons"
-  },
-  {
     "nazwa": "Delfy, kolumny świątyni pod światło",
     "miejsce": "Delfy, Grecja",
-    "plik": "podcast/.nagrania-cc/delfy-kolumny-pod-swiatlo.mp4",
+    "plik": "podcast/.nagrania-cc/delfy-kolumny-bez-logo.mp4",
     "strona": "https://commons.wikimedia.org/wiki/File:DELPHI_ARCHAEOLOGICAL_SITE_,_Greece.webm",
     "autor": "Le Monde en Vidéo",
     "licencja": "CC BY 3.0",
@@ -28,23 +12,7 @@
       147,
       159
     ],
-    "fraza": "Rozbijany jest w puch dorobek całych cywilizacji",
-    "serwis": "Wikimedia Commons"
-  },
-  {
-    "nazwa": "Angkor, rekonstrukcja miasta o zmierzchu",
-    "miejsce": "Angkor, Kambodża (rekonstrukcja ZDF Terra X)",
-    "plik": "podcast/.nagrania-cc/angkor-miasto-o-zmierzchu.mp4",
-    "strona": "https://commons.wikimedia.org/wiki/File:Angkor_-_Zentrum_des_K%C3%B6nigreichs_der_Khmer_(CC_BY-SA_4.0).webm",
-    "autor": "ZDF/Terra X/interscience film/Faber Courtial/Gero von Boehm/Alexander Hein/Andreas Tiletzek, Jörg Courtial",
-    "licencja": "CC BY-SA 4.0",
-    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "oryginal_rozdzielczosc": "1920x1080",
-    "fragment": [
-      24,
-      36
-    ],
-    "fraza": "Buduje wszystko od zera, przypisując nieznane budowle Bogom",
+    "fraza": "Nowe powstające na gruzach często nie ma pojęcia o swym poprzedniku",
     "serwis": "Wikimedia Commons"
   },
   {
@@ -60,23 +28,7 @@
       150,
       162
     ],
-    "fraza": "Nasza cywilizacja odnajduje ślady potężnych katastrof na całej Ziemi",
-    "serwis": "Wikimedia Commons"
-  },
-  {
-    "nazwa": "Stonehenge o wschodzie słońca, z drona",
-    "miejsce": "Stonehenge, Anglia",
-    "plik": "podcast/.nagrania-cc/stonehenge-wschod-slonca.mp4",
-    "strona": "https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm",
-    "autor": "Benjamin Kenobi",
-    "licencja": "CC BY 3.0",
-    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
-    "oryginal_rozdzielczosc": "1920x1080",
-    "fragment": [
-      124,
-      136
-    ],
-    "fraza": "Faktem jest także, że wiedza spisana jest uboga",
+    "fraza": "stopienie wszystkich lodów na biegunach podwyższy poziom wód o ileś tam metrów",
     "serwis": "Wikimedia Commons"
   },
   {
@@ -383,7 +335,7 @@
   {
     "nazwa": "Sfinks i piramida w Gizie, film archiwalny z 1897 r.",
     "miejsce": "Giza, Egipt",
-    "plik": "podcast/.nagrania-cc/giza-sfinks-1897.mp4",
+    "plik": "podcast/.nagrania-cc/giza-sfinks-1897-dlugi.mp4",
     "strona": "https://commons.wikimedia.org/wiki/File:Les_pyramides_vue_g%C3%A9n%C3%A9rale_-_Film_1897.webm",
     "autor": "Alexandre Promio",
     "licencja": "Public domain",
@@ -391,7 +343,7 @@
     "oryginal_rozdzielczosc": "1920x1080",
     "fragment": [
       2,
-      14
+      25.6
     ],
     "fraza": "Piramidy w Gizie krzyczą o ruchach Oriona - obserwujcie Oriona, on niesie zagładę!"
   },
@@ -457,7 +409,7 @@
       0,
       12
     ],
-    "fraza": "Takich kierunków w samym Tikal można wytyczyć kilka, jeśli nie kilkanaście."
+    "fraza": "Który z nich jest właściwy? Nie wiem. Aby to stwierdzić należy wziąć pod uwagę"
   },
   {
     "nazwa": "Teotihuacan, Piramida Słońca z drona",
@@ -492,6 +444,22 @@
     "fraza": "Tutaj kierunek zdaje się narzucać szeroka aleja nazwana, nie wiedzieć czemu, aleją zmarłych."
   },
   {
+    "nazwa": "Teotihuacan, Piramida Słońca z drona, dalszy przelot",
+    "miejsce": "Teotihuacan, Piramida Słońca",
+    "plik": "podcast/.nagrania-cc/teotihuacan-piramida-slonca-dron-2.mp4",
+    "strona": "https://www.pexels.com/video/aerial-view-of-pyramid-of-the-sun-in-teotihuacan-36909510/",
+    "autor": "Anton Lukin",
+    "licencja": "Pexels License",
+    "licencja_url": "https://www.pexels.com/license/",
+    "serwis": "Pexels",
+    "oryginal_rozdzielczosc": "3840×2160",
+    "fragment": [
+      13.5,
+      24.8
+    ],
+    "fraza": "Powstanie Teotihuacan nauka umieszcza pomiędzy 100 a 600 rokiem naszej ery"
+  },
+  {
     "nazwa": "Monte Albán, Wielki Plac",
     "miejsce": "Monte Albán",
     "plik": "podcast/.nagrania-cc/monte-alban-plac.mp4",
@@ -506,5 +474,2021 @@
       11.4
     ],
     "fraza": "znalazłem różne wyznaczenie kierunku północy na szkicu miejscowości (z tym spotkałem się na szkicach Monte Alban)"
+  },
+  {
+    "nazwa": "Erupcja Litli-Hrútur z drona, krater",
+    "miejsce": "Erupcja Litli-Hrútur, Islandia, 2023",
+    "plik": "podcast/.nagrania-cc/kat-islandia-lh-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:007_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Video_by_Giles_Laurent.webm",
+    "autor": "Giles Laurent",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      0.5,
+      5.5
+    ],
+    "fraza": "Teoria wielkich katastrof opiera się na stwierdzeniu, że co jakiś czas Ziemię nawiedza potężny kataklizm"
+  },
+  {
+    "nazwa": "Sztorm na morzu, fala zalewa dziób statku",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      54.5,
+      59.5
+    ],
+    "fraza": "Teoria wielkich katastrof opiera się na stwierdzeniu, że co jakiś czas Ziemię nawiedza potężny kataklizm"
+  },
+  {
+    "nazwa": "Ziemia po uderzeniu asteroidy, mrok",
+    "miejsce": "Po uderzeniu asteroidy (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-mrok.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      58.9,
+      63.1
+    ],
+    "fraza": "Giną wszyscy lub prawie wszyscy. Ludzie i zwierzęta."
+  },
+  {
+    "nazwa": "Alaska 1964, zawalony budynek",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-budynek.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      39.6,
+      42.1
+    ],
+    "fraza": "Rozbijany jest w puch dorobek całych cywilizacji"
+  },
+  {
+    "nazwa": "Alaska 1964, zniszczone domy",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-domy-bw.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      541,
+      545
+    ],
+    "fraza": "Rozbijany jest w puch dorobek całych cywilizacji"
+  },
+  {
+    "nazwa": "Alaska 1964, port po tsunami",
+    "miejsce": "Po tsunami na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-port-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      330.1,
+      336.2
+    ],
+    "fraza": "Co jest tego przyczyną? Kto lub co powoduje tak ogromne zniszczenia?"
+  },
+  {
+    "nazwa": "Alaska 1964, dom na skarpie i spękana droga",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-kolor-skarpa.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      522.05,
+      526.55
+    ],
+    "fraza": "Nasza cywilizacja odnajduje ślady potężnych katastrof na całej Ziemi"
+  },
+  {
+    "nazwa": "Alaska 1964, szczeliny w śniegu z powietrza",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-snieg-szczelina.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      200.5,
+      206.5
+    ],
+    "fraza": "Nasza cywilizacja odnajduje ślady potężnych katastrof na całej Ziemi"
+  },
+  {
+    "nazwa": "Powódź błyskawiczna w Oak Creek, nurt",
+    "miejsce": "Powódź błyskawiczna, Oak Creek, Utah (Zion NP)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-zion-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Oak_Creek_Flash_Flood.webm",
+    "autor": "Zion National Park",
+    "licencja": "CC BY 2.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/2.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1440x1080",
+    "fragment": [
+      51,
+      57
+    ],
+    "fraza": "Faktem jest także, że wiedza spisana jest uboga"
+  },
+  {
+    "nazwa": "Łowcy mamutów, kolaż",
+    "miejsce": "Łowcy mamutów (kolaż ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-fleisch.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_entstand_unser_Fleischhunger%3F.webm",
+    "autor": "ZDF/Terra X/C. Schrader/M. Jänig/David da Cruz/Maximilian Heß",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      3.5,
+      11.5
+    ],
+    "fraza": "to tylko niektóre przesłanki do tworzenia fałszywego obrazu historii dzisiejszego człowieka"
+  },
+  {
+    "nazwa": "Darwin, szkic drzewa życia i „O powstawaniu gatunków”",
+    "miejsce": "Darwin: drzewo życia (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-darwin-szkic.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Was_besagt_Darwins_Evolutionstheorie%3F.webm",
+    "autor": "ZDF/TerraX/R.Schlosshan/F.Haedecke/C.Ruby/F.Wienke/Gruppe5/Jochen Schmidt",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      9.5,
+      26.9
+    ],
+    "fraza": "Odwieczny spór między ewolucjonistami a kreacjonistami nie ma końca"
+  },
+  {
+    "nazwa": "Asteroida na niebie",
+    "miejsce": "Uderzenie asteroidy (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-meteor.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      40.6,
+      45.6
+    ],
+    "fraza": "Co może zmieść życie z powierzchni Ziemi?"
+  },
+  {
+    "nazwa": "Kīlauea 2018, fontanny lawy ze szczeliny",
+    "miejsce": "Erupcja Kīlauea, Hawaje, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-fontanny-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Fissure_fountains_feed_lava_flows,_as_shown_in_this_overflight_video_of_the_F....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      5,
+      11
+    ],
+    "fraza": "Sadzę, że tylko dwie siły mają taką zdolność - Kosmos i sama planeta Ziemia"
+  },
+  {
+    "nazwa": "Fagradalsfjall, stożek i rzeki lawy",
+    "miejsce": "Erupcja Fagradalsfjall, Islandia, 2021",
+    "plik": "podcast/.nagrania-cc/kat-islandia-geld-e.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Eruption_of_a_volcano_in_Iceland_-_Geldingadalsgos.webm",
+    "autor": "Kaspars Dzenis",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      3,
+      9
+    ],
+    "fraza": "tłumaczenia dostępnych jeszcze dokumentów mówią w większości o udziale samej Ziemi"
+  },
+  {
+    "nazwa": "Lądolód narasta nad Ameryką Północną",
+    "miejsce": "Lądolód epoki lodowej (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-eis-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entstand_das_letzte_Eiszeitalter.webm",
+    "autor": "ZDF/Terra X/Bilderfest/Florian Breier/Klaus Wache/Tobias Forth/Maik Siegle /Peter Riegel/Lilly Wagner/ Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      105.5,
+      113
+    ],
+    "fraza": "Drugi świat skończył się, gdy kula ziemi przesunęła się i zmieniła swoją oś"
+  },
+  {
+    "nazwa": "Alaska 1964, szczeliny z powietrza",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-szczeliny-lot2.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      530.1,
+      534.6
+    ],
+    "fraza": "Wszystko, co żyje, ulegnie zniszczeniu na skutek trzęsienia ziemi"
+  },
+  {
+    "nazwa": "Alaska 1964, dom wśród szczelin",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-dom-szczeliny.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      545.4,
+      551.5
+    ],
+    "fraza": "Będzie to już czwarte zniszczenie ludzkości"
+  },
+  {
+    "nazwa": "Alaska 1964, zalana miejscowość z powietrza",
+    "miejsce": "Po tsunami na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-zalane.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      129.9,
+      132.9
+    ],
+    "fraza": "Będzie to już czwarte zniszczenie ludzkości"
+  },
+  {
+    "nazwa": "Alaska 1964, ulica i zawalony budynek z powietrza",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-lot-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      48.3,
+      54.7
+    ],
+    "fraza": "I jak powiadają starcy, podczas tego Słońca nastąpi wstrząs, będzie głód i tak zginiemy"
+  },
+  {
+    "nazwa": "Ziemia i jej skorupa, animacja",
+    "miejsce": "Skorupa i płaszcz Ziemi (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-skorupa.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_erdbebensicher_haben_die_Inka_gebaut.webm",
+    "autor": "ZDF/TerraX/K22/Mona Garzón/Ricardo Garzón/Ricardo Garzón/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      70.2,
+      82.2
+    ],
+    "fraza": "Jako pierwszy taką hipotezę stworzył i ogłosił Charles Hapggod"
+  },
+  {
+    "nazwa": "Lodowiec Barry i fiord",
+    "miejsce": "Lodowiec Barry, Alaska (ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-glet-jezioro.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunamigefahr_durch_Gletscherschwund.webm",
+    "autor": "ZDF/Terra X/Region Five/I. Zink/O. Roetz/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      46.6,
+      53.6
+    ],
+    "fraza": "Masa lodu na biegunie północnym, nie zrównoważona na biegunie południowym"
+  },
+  {
+    "nazwa": "Fagradalsfjall, lawa wypływa z krateru",
+    "miejsce": "Erupcja Fagradalsfjall, Islandia, 2021",
+    "plik": "podcast/.nagrania-cc/kat-islandia-geld-f.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Eruption_of_a_volcano_in_Iceland_-_Geldingadalsgos.webm",
+    "autor": "Kaspars Dzenis",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      30.5,
+      36.5
+    ],
+    "fraza": "Możliwe, że w wyniku globalnej działalności wulkanicznej"
+  },
+  {
+    "nazwa": "Próba Baker, grzyb z powietrza",
+    "miejsce": "Próba jądrowa Baker, atol Bikini, 1946",
+    "plik": "podcast/.nagrania-cc/kat-atom-baker-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Baker_Shot.ogv",
+    "autor": "U.S. Department of Energy / U.S. Navy",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1280x720",
+    "fragment": [
+      18,
+      24
+    ],
+    "fraza": "Możliwe, jak chce Daeniken, że kiedyś na Ziemi doszło do konfliktu z użyciem broni atomowej"
+  },
+  {
+    "nazwa": "Lądolód nad Europą",
+    "miejsce": "Lądolód epoki lodowej (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-eis-d.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entstand_das_letzte_Eiszeitalter.webm",
+    "autor": "ZDF/Terra X/Bilderfest/Florian Breier/Klaus Wache/Tobias Forth/Maik Siegle /Peter Riegel/Lilly Wagner/ Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      121.5,
+      126
+    ],
+    "fraza": "Możliwe, że Ziemia w pewnym okresie czasu odsunęła swą orbitę od Słońca"
+  },
+  {
+    "nazwa": "Powódź w Wielkim Kanionie, błotny nurt",
+    "miejsce": "Powódź błyskawiczna w Wielkim Kanionie (NPS)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-kanion-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Debris_Flows_Through_Bright_Angel_Creek_(55504603393).webm",
+    "autor": "Grand Canyon NPS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      22,
+      27.5
+    ],
+    "fraza": "Naukowcy są zgodni co do tego, że około 12,5 tysiąca lat temu Ziemia została dotknięta jakimś kataklizmem"
+  },
+  {
+    "nazwa": "Cielenie się lodowca Margerie",
+    "miejsce": "Cielenie się lodowca Margerie, Alaska",
+    "plik": "podcast/.nagrania-cc/kat-cielenie-margerie.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Calving_of_Margerie_Glacier_video.webm",
+    "autor": "gails_pictures (Flickr)",
+    "licencja": "CC BY 2.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/2.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      0.3,
+      6.3
+    ],
+    "fraza": "Nazywają to \"gwałtownym ociepleniem klimatu\", a bardziej groźnie \"ogólnoświatowym potopem\""
+  },
+  {
+    "nazwa": "Powódź błyskawiczna w Oak Creek, kipiel",
+    "miejsce": "Powódź błyskawiczna, Oak Creek, Utah (Zion NP)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-zion-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Oak_Creek_Flash_Flood.webm",
+    "autor": "Zion National Park",
+    "licencja": "CC BY 2.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/2.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1440x1080",
+    "fragment": [
+      58,
+      64
+    ],
+    "fraza": "Nazywają to \"gwałtownym ociepleniem klimatu\", a bardziej groźnie \"ogólnoświatowym potopem\""
+  },
+  {
+    "nazwa": "Sztorm na morzu, statek wbija się w falę",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      82.5,
+      88
+    ],
+    "fraza": "Nie wiadomo ile to trwało, być może kilka dni, ale wody ruszyły do ataku natychmiast"
+  },
+  {
+    "nazwa": "Tsunami przelewa się przez falochron",
+    "miejsce": "Tsunami w Fukushimie (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-fukushima-fala.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Die_Katastrophe_von_Fukushima.webm",
+    "autor": "ZDF/TerraX/Zeitsprung Pictures/Carl-Ludwig Paeschke/Studio Paeper/Michael Mueller",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      11,
+      19.5
+    ],
+    "fraza": "Fala o wysokości kilku kilometrów, miażdżąca masa wody, spłukiwała wszystko co stanęło na jej drodze"
+  },
+  {
+    "nazwa": "Sztorm na morzu, grzywacze",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      103,
+      111.5
+    ],
+    "fraza": "Na tych 3000 km (między 60° a 30° szerokości geograficznej)"
+  },
+  {
+    "nazwa": "Tsunami 2011 na Pacyfiku, czoło fali",
+    "miejsce": "Tsunami 2011, Pacyfik (symulacja NOAA)",
+    "plik": "podcast/.nagrania-cc/kat-ptwc-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunami_Animation-_Tohoku,_Japan_2011_(rotating_globe).webm",
+    "autor": "NOAA Pacific Tsunami Warning Center",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      46,
+      56
+    ],
+    "fraza": "Nie wiemy także jak długo woda uspokajała się w tych oceanicznych \"wannach\""
+  },
+  {
+    "nazwa": "Alaska 1964, rumowisko po tsunami",
+    "miejsce": "Po tsunami na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-zbiornik.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      362.2,
+      365.6
+    ],
+    "fraza": "Była to katastrofa o niewyobrażalnych skutkach"
+  },
+  {
+    "nazwa": "Alaska 1964, spękana ziemia z powietrza",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-lot-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      44.8,
+      48.1
+    ],
+    "fraza": "Trzęsienia Ziemi o sile tak olbrzymiej, że dzisiejsze przy nich to ledwie drgawki"
+  },
+  {
+    "nazwa": "Alaska 1964, pole szczelin",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-pole-szczelin.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      551.9,
+      555.3
+    ],
+    "fraza": "Czas wstrząsów mierzony nie w sekundach, a w dniach"
+  },
+  {
+    "nazwa": "Oko cyklonu tropikalnego z satelity",
+    "miejsce": "Cyklon Jasper z satelity, 2023",
+    "plik": "podcast/.nagrania-cc/kat-cyklon-oko.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:An_Eye_Emerges_Within_Tropical_Cyclone_Jasper_(CIRA_2023-12-08_-_nolabels).webm",
+    "autor": "Himawari imagery: CSU/CIRA & JMA/JAXA",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      0,
+      4.8
+    ],
+    "fraza": "Atmosfera, mająca też swoją bezwładność, wyrównywała swoje ciśnienie przy akompaniamencie huraganów i ulew"
+  },
+  {
+    "nazwa": "Kīlauea 2018, ściana ognia",
+    "miejsce": "Erupcja Kīlauea, Hawaje, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-fontanny-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Fissure_fountains_feed_lava_flows,_as_shown_in_this_overflight_video_of_the_F....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      21,
+      27
+    ],
+    "fraza": "Wielkie trzęsienia ziemi być może uaktywniły wulkany"
+  },
+  {
+    "nazwa": "Erupcja Litli-Hrútur, wrząca lawa",
+    "miejsce": "Erupcja Litli-Hrútur, Islandia, 2023",
+    "plik": "podcast/.nagrania-cc/kat-islandia-lh-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:007_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Video_by_Giles_Laurent.webm",
+    "autor": "Giles Laurent",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      9,
+      16
+    ],
+    "fraza": "Tak opisuje się tylko koniec świata"
+  },
+  {
+    "nazwa": "Lodowiec Barry, kruszące się czoło",
+    "miejsce": "Lodowiec Barry, Alaska (ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-glet-czolo.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunamigefahr_durch_Gletscherschwund.webm",
+    "autor": "ZDF/Terra X/Region Five/I. Zink/O. Roetz/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      16.3,
+      20.3
+    ],
+    "fraza": "Być może efekt cieplarniany to obrona samej matki Ziemi?"
+  },
+  {
+    "nazwa": "Lądolód i wody roztopowe",
+    "miejsce": "Lądolód epoki lodowej (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-eis-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entstand_das_letzte_Eiszeitalter.webm",
+    "autor": "ZDF/Terra X/Bilderfest/Florian Breier/Klaus Wache/Tobias Forth/Maik Siegle /Peter Riegel/Lilly Wagner/ Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      54.5,
+      61.5
+    ],
+    "fraza": "Być może jesteśmy świadkami początku następnej ery lodowcowej?"
+  },
+  {
+    "nazwa": "Płyty tektoniczne na globusie",
+    "miejsce": "Płyty tektoniczne (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-erdbeben-globus.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entsteht_ein_Erdbeben.webm",
+    "autor": "ZDF/Terra X/Julia Kammerer/Martin Schaaf/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      61.2,
+      68
+    ],
+    "fraza": "Co może znaczyć dla nas przyjęcie hipotezy o"
+  },
+  {
+    "nazwa": "Powódź w Wielkim Kanionie, wezbrany potok",
+    "miejsce": "Powódź błyskawiczna w Wielkim Kanionie (NPS)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-kanion-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Debris_Flows_Through_Bright_Angel_Creek_(55504603393).webm",
+    "autor": "Grand Canyon NPS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      28.3,
+      36
+    ],
+    "fraza": "Przede wszystkim pozwoli zrozumieć, że ogólnoświatowy potop jest możliwy"
+  },
+  {
+    "nazwa": "Praludzie przy ognisku, kolaż",
+    "miejsce": "Praludzie (kolaż ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-fleisch-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_entstand_unser_Fleischhunger%3F.webm",
+    "autor": "ZDF/Terra X/C. Schrader/M. Jänig/David da Cruz/Maximilian Heß",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      11.6,
+      17.9
+    ],
+    "fraza": "Nie byliśmy jaskiniowcami, nie jedliśmy surowego mięsa"
+  },
+  {
+    "nazwa": "Darwin i szympans",
+    "miejsce": "Darwin i szympans (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-darwin-malpa.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Was_besagt_Darwins_Evolutionstheorie%3F.webm",
+    "autor": "ZDF/TerraX/R.Schlosshan/F.Haedecke/C.Ruby/F.Wienke/Gruppe5/Jochen Schmidt",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      37.4,
+      40.6
+    ],
+    "fraza": "małpa nie jest wcale naszą prababcią"
+  },
+  {
+    "nazwa": "Sztorm na morzu, ściana wody",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-d.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      145.5,
+      153
+    ],
+    "fraza": "Megatsunami wywołane przez \"wielki uskok...\", jeśli było, prawdopodobnie wpływa też na wnioski"
+  },
+  {
+    "nazwa": "Alaska 1964, kuter wyrzucony na brzeg",
+    "miejsce": "Po tsunami na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-port-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      336.5,
+      339.1
+    ],
+    "fraza": "Mogło przenieść i pozostawić daleko od brzegu lub wysoko w górach wszelkiego rodzaju morskie organizmy"
+  },
+  {
+    "nazwa": "Alaska 1964, wybrzeże po tsunami z powietrza",
+    "miejsce": "Po tsunami na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-brzeg.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      414.7,
+      419.7
+    ],
+    "fraza": "Mogło przenieść i pozostawić daleko od brzegu lub wysoko w górach wszelkiego rodzaju morskie organizmy"
+  },
+  {
+    "nazwa": "Powódź w Wielkim Kanionie, fala błota",
+    "miejsce": "Powódź błyskawiczna w Wielkim Kanionie (NPS)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-kanion-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Debris_Flows_Through_Bright_Angel_Creek_(55504603393).webm",
+    "autor": "Grand Canyon NPS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      36.2,
+      42.8
+    ],
+    "fraza": "Mogło przenieść spłukaną z powierzchni lądu ziemię do oceanu czy morza"
+  },
+  {
+    "nazwa": "Powódź błyskawiczna w Oak Creek, nurt (2)",
+    "miejsce": "Powódź błyskawiczna, Oak Creek, Utah (Zion NP)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-zion-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Oak_Creek_Flash_Flood.webm",
+    "autor": "Zion National Park",
+    "licencja": "CC BY 2.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/2.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1440x1080",
+    "fragment": [
+      51,
+      57
+    ],
+    "fraza": "Wraz z nią mogły się tam znaleźć kości ludzi, zwierząt, resztki domostw"
+  },
+  {
+    "nazwa": "Powódź błyskawiczna w Oak Creek, wir błota",
+    "miejsce": "Powódź błyskawiczna, Oak Creek, Utah (Zion NP)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-zion-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Oak_Creek_Flash_Flood.webm",
+    "autor": "Zion National Park",
+    "licencja": "CC BY 2.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/2.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1440x1080",
+    "fragment": [
+      65.5,
+      70.5
+    ],
+    "fraza": "Spłukana ziemia niesiona wraz z falą mogła pokryć grubą warstwą duże obszary ziemi"
+  },
+  {
+    "nazwa": "Uderzenie asteroidy widziane z kosmosu",
+    "miejsce": "Uderzenie asteroidy (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-impakt.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      46.4,
+      52.5
+    ],
+    "fraza": "Wystarczy przyjąć, że około 11500 lat temu z Ziemią zderzyło się jakieś ciało niebieskie"
+  },
+  {
+    "nazwa": "Tsunami 2011 dociera do Ameryki Południowej",
+    "miejsce": "Tsunami 2011, Pacyfik (symulacja NOAA)",
+    "plik": "podcast/.nagrania-cc/kat-ptwc-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunami_Animation-_Tohoku,_Japan_2011_(rotating_globe).webm",
+    "autor": "NOAA Pacific Tsunami Warning Center",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      60,
+      70
+    ],
+    "fraza": "Wody oceanów skierowały się w okolice \"nowego\" równika, zatapiając dotychczasowe lądy"
+  },
+  {
+    "nazwa": "Miejsce uderzenia asteroidy na mapie",
+    "miejsce": "Krater na Jukatanie (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-mapa.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      52.9,
+      58.6
+    ],
+    "fraza": "Przyjmując, że owo ciało niebieskie trafiło w okolice Wysp Antylskich"
+  },
+  {
+    "nazwa": "Alaska 1964, osuwisko i domy",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-kolor-domy.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      520.75,
+      526.55
+    ],
+    "fraza": "W tym kataklizmie poprzednia cywilizacja została śmiertelnie ranna"
+  },
+  {
+    "nazwa": "Alaska 1964, pożar zbiorników paliwa",
+    "miejsce": "Pożar po trzęsieniu, Alaska 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-pozar.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      426.6,
+      431.2
+    ],
+    "fraza": "Ilu zginęło ludzi? Prawdopodobnie znaczna większość populacji wszystkich żyjących istot."
+  },
+  {
+    "nazwa": "Alaska 1964, ulica i zawalony budynek z powietrza (2)",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-lot-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      48.3,
+      54.7
+    ],
+    "fraza": "Przepadła prawdopodobnie baza przemysłowa i naukowa"
+  },
+  {
+    "nazwa": "Jak powstaje trzęsienie ziemi",
+    "miejsce": "Skąd trzęsienia ziemi (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-erdbeben-zaczep.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entsteht_ein_Erdbeben.webm",
+    "autor": "ZDF/Terra X/Julia Kammerer/Martin Schaaf/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      47.5,
+      57.5
+    ],
+    "fraza": "płyty kontynentalne napierając na siebie kondensują ogromną energię"
+  },
+  {
+    "nazwa": "Alaska 1964, osuwisko Turnagain",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-osuwisko.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      19.7,
+      24
+    ],
+    "fraza": "Jest może więcej przyczyn, ale ta jedna jest zasadniczą"
+  },
+  {
+    "nazwa": "Kīlauea 2018, lawa wpływa do oceanu",
+    "miejsce": "Kīlauea: lawa wpływa do oceanu, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-ocean-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:A_helicopter_overflight_of_the_ocean_entry_in_K%C4%ABlauea_Volcano%E2%80%99s_lower_East_Ri....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      6.5,
+      14.5
+    ],
+    "fraza": "Zetknięcie się wody z gorącym płaszczem musiało spowodować powstanie ogromnej ilości pary wodnej"
+  },
+  {
+    "nazwa": "Erupcja Litli-Hrútur, skorupa na lawie",
+    "miejsce": "Erupcja Litli-Hrútur, Islandia, 2023",
+    "plik": "podcast/.nagrania-cc/kat-islandia-lh-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:007_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Video_by_Giles_Laurent.webm",
+    "autor": "Giles Laurent",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      17,
+      23.5
+    ],
+    "fraza": "pozostała część skorupy zaczęła pękać i rozpoczęła \"wędrówkę\" sunąc po półpłynnym płaszczu Ziemi"
+  },
+  {
+    "nazwa": "Kīlauea 2018, potok lawy z powietrza",
+    "miejsce": "Erupcja Kīlauea, Hawaje, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-potok-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Helicopter_overflight_of_a_fast-moving_lava_flow_emerging_from_fissure_20_on_....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      6.3,
+      13.3
+    ],
+    "fraza": "Oczywiście nie mogło to być nic chaotycznego, choć mogło sprawiać takie wrażenie"
+  },
+  {
+    "nazwa": "Kīlauea 2018, czoło potoku lawy",
+    "miejsce": "Erupcja Kīlauea, Hawaje, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-potok-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Helicopter_overflight_of_a_fast-moving_lava_flow_emerging_from_fissure_20_on_....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      15,
+      23
+    ],
+    "fraza": "Części skorupy ziemskiej pod wpływem ruchu obrotowego i bezwładności własnej masy"
+  },
+  {
+    "nazwa": "Powstawanie Andów, magma pod płytą",
+    "miejsce": "Powstawanie Andów (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-anden-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Die_Entstehung_der_Anden.webm",
+    "autor": "ZDF/Terra X/Hanna Kotarba/Albrecht M. Wendlandt",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      7,
+      13.5
+    ],
+    "fraza": "Prawdopodobnie nie mogło się obejść także bez gigantycznych zderzeń, które powodowały wypiętrzanie się części płyt"
+  },
+  {
+    "nazwa": "Fagradalsfjall, stożek z bliska",
+    "miejsce": "Islandia, Grzbiet Śródatlantycki (erupcja 2021)",
+    "plik": "podcast/.nagrania-cc/kat-islandia-geld-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Eruption_of_a_volcano_in_Iceland_-_Geldingadalsgos.webm",
+    "autor": "Kaspars Dzenis",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      12,
+      26.6
+    ],
+    "fraza": "Gdzie szukać śladów pęknięcia? Jedno jest bardzo widoczne."
+  },
+  {
+    "nazwa": "Wybuch wulkanu Hunga Tonga z satelity",
+    "miejsce": "Wybuch Hunga Tonga 2022 (barwy umowne)",
+    "plik": "podcast/.nagrania-cc/kat-tonga-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Massive_Ash_Plume_Erupts_From_Hunga_Tonga-Hunga_Ha%E2%80%98apai_%E2%80%93_Ash_Product_(CIRA_2022-01-15_-_nolabels).webm",
+    "autor": "Himawari imagery: CSU/CIRA & JMA/JAXA",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      0.5,
+      5
+    ],
+    "fraza": "Ocean Spokojny działalność wulkaniczną skupia na obrzeżach w postaci \"kręgu ognia\""
+  },
+  {
+    "nazwa": "Ziemia i jej skorupa, animacja (2)",
+    "miejsce": "Skorupa i płaszcz Ziemi (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-skorupa.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_erdbebensicher_haben_die_Inka_gebaut.webm",
+    "autor": "ZDF/TerraX/K22/Mona Garzón/Ricardo Garzón/Ricardo Garzón/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      70.2,
+      82.2
+    ],
+    "fraza": "Ocean Spokojny działalność wulkaniczną skupia na obrzeżach w postaci \"kręgu ognia\""
+  },
+  {
+    "nazwa": "Kīlauea 2018, nowy ląd z lawy",
+    "miejsce": "Kīlauea: lawa wpływa do oceanu, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-ocean-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:A_helicopter_overflight_of_the_ocean_entry_in_K%C4%ABlauea_Volcano%E2%80%99s_lower_East_Ri....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      24,
+      32
+    ],
+    "fraza": "Dna oceanów to zastygły, półpłynny płaszcz Ziemi"
+  },
+  {
+    "nazwa": "Płyty tektoniczne na mapie",
+    "miejsce": "Płyty tektoniczne (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-erdbeben-mapa.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entsteht_ein_Erdbeben.webm",
+    "autor": "ZDF/Terra X/Julia Kammerer/Martin Schaaf/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      19.5,
+      26.5
+    ],
+    "fraza": "najmniejszy nawet ruch Grzbietu Atlantyckiego winien powodować przeniesienie nacisku na pozostałe płyty"
+  },
+  {
+    "nazwa": "Alaska 1964, szczeliny i dom",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-szczeliny-lot1.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      6.3,
+      8.9
+    ],
+    "fraza": "Sądzę, że trzęsienia ziemi o ograniczonym zakresie terytorialnym mogą być uwerturą"
+  },
+  {
+    "nazwa": "Alaska 1964, zrujnowany dom",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-dom-ruina.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      420,
+      422.4
+    ],
+    "fraza": "Sądzę, że trzęsienia ziemi o ograniczonym zakresie terytorialnym mogą być uwerturą"
+  },
+  {
+    "nazwa": "Lądolód nad Ameryką i Europą",
+    "miejsce": "Lądolód epoki lodowej (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-eis-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entstand_das_letzte_Eiszeitalter.webm",
+    "autor": "ZDF/Terra X/Bilderfest/Florian Breier/Klaus Wache/Tobias Forth/Maik Siegle /Peter Riegel/Lilly Wagner/ Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      113.5,
+      121.5
+    ],
+    "fraza": "Nagromadzenie się nadmiernej ilości lodu w okolicach bieguna jest zachwianiem równowagi obojętnej"
+  },
+  {
+    "nazwa": "Lawina na Mount Rainier, obłok śniegu",
+    "miejsce": "Lawina na Mount Rainier (archiwum NPS)",
+    "plik": "podcast/.nagrania-cc/kat-lawina-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Avalanche_on_Mount_Rainier.webm",
+    "autor": "U.S. National Park Service",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      34,
+      40
+    ],
+    "fraza": "Co może jeszcze powodować szybkie narastanie pokrywy lodowej?"
+  },
+  {
+    "nazwa": "Kīlauea 2018, kanały lawy",
+    "miejsce": "Erupcja Kīlauea, Hawaje, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-kanaly.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Fissure_fountains_feed_lava_flows,_as_shown_in_this_overflight_video_of_the_F....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      30,
+      37.5
+    ],
+    "fraza": "Skorupa Ziemi na dnie oceanów jest cienka jak pierwszy lód na kałuży"
+  },
+  {
+    "nazwa": "Sztorm na morzu, otwarty ocean",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-e.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      207,
+      215
+    ],
+    "fraza": "Grubość jej liczy się w kilometrach, ale siły napierających na siebie płyt"
+  },
+  {
+    "nazwa": "Asteroida na niebie (2)",
+    "miejsce": "Uderzenie asteroidy (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-meteor.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      40.6,
+      45.6
+    ],
+    "fraza": "Meteoryt o średnicy kilku-kilkunastu kilometrów uderzając w ocean z dziecinną łatwością może przebić dno"
+  },
+  {
+    "nazwa": "Uderzenie asteroidy widziane z kosmosu (2)",
+    "miejsce": "Uderzenie asteroidy (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-impakt.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      46.4,
+      52.5
+    ],
+    "fraza": "Meteoryt o średnicy kilku-kilkunastu kilometrów uderzając w ocean z dziecinną łatwością może przebić dno"
+  },
+  {
+    "nazwa": "Miejsce uderzenia asteroidy na mapie (2)",
+    "miejsce": "Krater na Jukatanie (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-mapa.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      52.9,
+      58.6
+    ],
+    "fraza": "Średnica powstałej dziury nie może być mniejsza od średnicy"
+  },
+  {
+    "nazwa": "Próba Baker, słup wody",
+    "miejsce": "Próba jądrowa Baker, atol Bikini, 1946",
+    "plik": "podcast/.nagrania-cc/kat-atom-baker-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Baker_Shot.ogv",
+    "autor": "U.S. Department of Energy / U.S. Navy",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1280x720",
+    "fragment": [
+      6.2,
+      12.2
+    ],
+    "fraza": "Czy można wyobrazić sobie skutki? Oprócz skutków samej eksplozji"
+  },
+  {
+    "nazwa": "Kīlauea 2018, fontanny lawy",
+    "miejsce": "Erupcja Kīlauea, Hawaje, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-fontanny-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Fissure_fountains_feed_lava_flows,_as_shown_in_this_overflight_video_of_the_F....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      13,
+      19
+    ],
+    "fraza": "dochodzi do wylewu płynnej magmy z dna oceanu"
+  },
+  {
+    "nazwa": "Kīlauea 2018, chmury pary nad oceanem",
+    "miejsce": "Kīlauea: lawa wpływa do oceanu, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-ocean-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:A_helicopter_overflight_of_the_ocean_entry_in_K%C4%ABlauea_Volcano%E2%80%99s_lower_East_Ri....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      40,
+      48
+    ],
+    "fraza": "gorąca magma bez przerwy w połączeniu z wodą tworzy trudną do określenia ilość pary wodnej"
+  },
+  {
+    "nazwa": "Ziemia po uderzeniu asteroidy, mrok (2)",
+    "miejsce": "Po uderzeniu asteroidy (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-mrok.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      58.9,
+      63.1
+    ],
+    "fraza": "gorąca magma bez przerwy w połączeniu z wodą tworzy trudną do określenia ilość pary wodnej"
+  },
+  {
+    "nazwa": "Oko cyklonu tropikalnego z satelity (2)",
+    "miejsce": "Cyklon Jasper z satelity, 2023",
+    "plik": "podcast/.nagrania-cc/kat-cyklon-oko.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:An_Eye_Emerges_Within_Tropical_Cyclone_Jasper_(CIRA_2023-12-08_-_nolabels).webm",
+    "autor": "Himawari imagery: CSU/CIRA & JMA/JAXA",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      0,
+      4.8
+    ],
+    "fraza": "Ile to trwa? Nie umiem odpowiedzieć, ale na pewno dłużej niż dni, tygodnie czy miesiące"
+  },
+  {
+    "nazwa": "Oak Creek, nadciąga woda",
+    "miejsce": "Powódź błyskawiczna, Oak Creek, Utah (Zion NP)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-zion-e.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Oak_Creek_Flash_Flood.webm",
+    "autor": "Zion National Park",
+    "licencja": "CC BY 2.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/2.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1440x1080",
+    "fragment": [
+      30,
+      39.5
+    ],
+    "fraza": "Tym, według mnie, można tłumaczyć długotrwałe opady deszczu opisywane przez starożytnych"
+  },
+  {
+    "nazwa": "Zimowy las",
+    "miejsce": "Zima po katastrofie (ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-zima.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      95.8,
+      99.7
+    ],
+    "fraza": "może być też przyczyną gwałtownego ochłodzenia ziemskiego klimatu"
+  },
+  {
+    "nazwa": "Lądolód nad Europą (2)",
+    "miejsce": "Lądolód epoki lodowej (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-eis-d.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entstand_das_letzte_Eiszeitalter.webm",
+    "autor": "ZDF/Terra X/Bilderfest/Florian Breier/Klaus Wache/Tobias Forth/Maik Siegle /Peter Riegel/Lilly Wagner/ Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      121.5,
+      126
+    ],
+    "fraza": "może być też przyczyną gwałtownego ochłodzenia ziemskiego klimatu"
+  },
+  {
+    "nazwa": "Alaska 1964, szczeliny w śniegu z powietrza (2)",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-snieg-szczelina.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      200.5,
+      206.5
+    ],
+    "fraza": "czy też ma charakter skokowy, gwałtowny połączony z trzęsieniami ziemi i pękaniem skorupy"
+  },
+  {
+    "nazwa": "Cielenie się lodowca Margerie (2)",
+    "miejsce": "Cielenie się lodowca Margerie, Alaska",
+    "plik": "podcast/.nagrania-cc/kat-cielenie-margerie.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Calving_of_Margerie_Glacier_video.webm",
+    "autor": "gails_pictures (Flickr)",
+    "licencja": "CC BY 2.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/2.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      0.3,
+      6.3
+    ],
+    "fraza": "Odnoszę wrażenie, że człowiek usilnie chce, a właściwie już pomógł Ziemi"
+  },
+  {
+    "nazwa": "Lodowiec Barry w górach",
+    "miejsce": "Lodowiec Barry, Alaska (ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-glet-gory.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunamigefahr_durch_Gletscherschwund.webm",
+    "autor": "ZDF/Terra X/Region Five/I. Zink/O. Roetz/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      42,
+      46
+    ],
+    "fraza": "Legendarne śniegi Kilimandżaro zniknęły, gwałtownie roztapiają się lodowce Himalajów"
+  },
+  {
+    "nazwa": "Lawina na Mount Rainier, czoło lawiny",
+    "miejsce": "Lawina na Mount Rainier (archiwum NPS)",
+    "plik": "podcast/.nagrania-cc/kat-lawina-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Avalanche_on_Mount_Rainier.webm",
+    "autor": "U.S. National Park Service",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      60,
+      65
+    ],
+    "fraza": "w Europie nadmierne zimowe opady śniegu, a w innych krajach niespotykane ilości letniego deszczu"
+  },
+  {
+    "nazwa": "Powódź błyskawiczna w Oak Creek, wir",
+    "miejsce": "Powódź błyskawiczna, Oak Creek, Utah (Zion NP)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-zion-d.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Oak_Creek_Flash_Flood.webm",
+    "autor": "Zion National Park",
+    "licencja": "CC BY 2.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/2.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1440x1080",
+    "fragment": [
+      71,
+      75.5
+    ],
+    "fraza": "w Europie nadmierne zimowe opady śniegu, a w innych krajach niespotykane ilości letniego deszczu"
+  },
+  {
+    "nazwa": "Huragan z kosmosu",
+    "miejsce": "Huragan nad Karaibami (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-hurrikan.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entsteht_ein_Hurrikan.webm",
+    "autor": "ZDF/Terra X/R. Marel/S. Hillmann/C. Gerisch/A. Kindler/SpiegelTV/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      21,
+      28
+    ],
+    "fraza": "Coraz częstsze huragany przenoszące z oceanów nad lądy ogromne masy wody"
+  },
+  {
+    "nazwa": "Lodowiec Barry, czoło od góry",
+    "miejsce": "Lodowiec Barry, Alaska (ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-glet-lod.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunamigefahr_durch_Gletscherschwund.webm",
+    "autor": "ZDF/Terra X/Region Five/I. Zink/O. Roetz/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      55.6,
+      60.8
+    ],
+    "fraza": "Przecież to jest normalne, że epoka lodowcowa wokół obu biegunów trwała, trwa i będzie trwać wiecznie"
+  },
+  {
+    "nazwa": "Sztorm na morzu, dziób w fali",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-f.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      264,
+      270
+    ],
+    "fraza": "Czy jest możliwe zatopienie całej Ziemi aż po najwyższe szczyty?"
+  },
+  {
+    "nazwa": "Tsunami 2011 rozchodzi się po Pacyfiku",
+    "miejsce": "Tsunami 2011, Pacyfik (symulacja NOAA)",
+    "plik": "podcast/.nagrania-cc/kat-ptwc-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunami_Animation-_Tohoku,_Japan_2011_(rotating_globe).webm",
+    "autor": "NOAA Pacific Tsunami Warning Center",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      33,
+      45
+    ],
+    "fraza": "Opisy w stylu: \"ziemia kilkakrotnie zapadała się pod wodę i wynurzała się\""
+  },
+  {
+    "nazwa": "Osuwisko wywołuje falę w fiordzie",
+    "miejsce": "Fala po osuwisku (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-glet-fala.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunamigefahr_durch_Gletscherschwund.webm",
+    "autor": "ZDF/Terra X/Region Five/I. Zink/O. Roetz/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      27,
+      37
+    ],
+    "fraza": "Kataklizmu na ogólnoświatową skalę nie wywoła lokalne trzęsienie ziemi, trzęsienie podmorskie czy osunięcie dna morza"
+  },
+  {
+    "nazwa": "Tsunami 2011 dociera do Ameryki Południowej (2)",
+    "miejsce": "Tsunami 2011, Pacyfik (symulacja NOAA)",
+    "plik": "podcast/.nagrania-cc/kat-ptwc-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunami_Animation-_Tohoku,_Japan_2011_(rotating_globe).webm",
+    "autor": "NOAA Pacific Tsunami Warning Center",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      60,
+      70
+    ],
+    "fraza": "Sądzę, że taki kataklizm, może wywołać tylko coś w rodzaju \"wielkiego uskoku...\""
+  },
+  {
+    "nazwa": "Sztorm na Morzu Czarnym, fale przy molo",
+    "miejsce": "Sztorm na Morzu Czarnym",
+    "plik": "podcast/.nagrania-cc/kat-sztorm-czarne-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:%D0%A8%D1%82%D0%BE%D1%80%D0%BC_%D0%BD%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC_%D0%BC%D0%BE%D1%80%D0%B5_Storm_on_the_Black_Sea..webm",
+    "autor": "Евгений",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      14,
+      19
+    ],
+    "fraza": "Zamieszkujący wybrzeża czy wyspy oceaniczne nie napiszą nic ze względów oczywistych"
+  },
+  {
+    "nazwa": "Fagradalsfjall, rzeka lawy",
+    "miejsce": "Erupcja Fagradalsfjall, Islandia, 2021",
+    "plik": "podcast/.nagrania-cc/kat-islandia-geld-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Eruption_of_a_volcano_in_Iceland_-_Geldingadalsgos.webm",
+    "autor": "Kaspars Dzenis",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      42.5,
+      45
+    ],
+    "fraza": "To nie jest dzieło wzburzonego tłumu, jak chcieliby niektórzy. To jest pokaz sił natury."
+  },
+  {
+    "nazwa": "Sztorm na morzu, uderzenie fali",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-g.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      132,
+      134.5
+    ],
+    "fraza": "To nie jest dzieło wzburzonego tłumu, jak chcieliby niektórzy. To jest pokaz sił natury."
+  },
+  {
+    "nazwa": "Lawina na Mount Rainier, chmura śniegu",
+    "miejsce": "Lawina na Mount Rainier (archiwum NPS)",
+    "plik": "podcast/.nagrania-cc/kat-lawina-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Avalanche_on_Mount_Rainier.webm",
+    "autor": "U.S. National Park Service",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      74.5,
+      77
+    ],
+    "fraza": "To nie jest dzieło wzburzonego tłumu, jak chcieliby niektórzy. To jest pokaz sił natury."
+  },
+  {
+    "nazwa": "Tsunami 2011, energia fali na Pacyfiku",
+    "miejsce": "Energia tsunami 2011 (symulacja NOAA)",
+    "plik": "podcast/.nagrania-cc/kat-ptwc-d.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunami_Animation-_Tohoku,_Japan_2011_(rotating_globe).webm",
+    "autor": "NOAA Pacific Tsunami Warning Center",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      118,
+      127
+    ],
+    "fraza": "wielkiego, ogólnoświatowego tsunami"
+  },
+  {
+    "nazwa": "Kīlauea 2018, lawa i ocean",
+    "miejsce": "Kīlauea: lawa wpływa do oceanu, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-ocean-d.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:A_helicopter_overflight_of_the_ocean_entry_in_K%C4%ABlauea_Volcano%E2%80%99s_lower_East_Ri....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      50,
+      58
+    ],
+    "fraza": "Woda morska ma \"stałego dostawcę\" swoich składników w podmorskiej działalności wulkanicznej"
+  },
+  {
+    "nazwa": "Powstawanie Andów, wypiętrzanie",
+    "miejsce": "Powstawanie Andów (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-anden-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Die_Entstehung_der_Anden.webm",
+    "autor": "ZDF/Terra X/Hanna Kotarba/Albrecht M. Wendlandt",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      13.5,
+      21.5
+    ],
+    "fraza": "Uczeni twierdzą, że jezioro Titicaca było w przeszłości morską laguną zamkniętą przez wypiętrzające się Andy"
+  },
+  {
+    "nazwa": "Świat dinozaurów",
+    "miejsce": "Świat dinozaurów (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-mass-dino.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Wie_S%C3%A4ugetiere_das_Massensterben_der_Dinosaurier_%C3%BCberlebten.webm",
+    "autor": "ZDF/Terra X/O. Gurr/L. Bockius/E. Jesse/Kawom GbR/K22/M. Heß",
+    "licencja": "CC BY-SA 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      35.5,
+      40.3
+    ],
+    "fraza": "winny być rajem dla zwolenników ewolucji"
+  },
+  {
+    "nazwa": "Sztorm na Morzu Czarnym, fala na brzegu",
+    "miejsce": "Sztorm na Morzu Czarnym",
+    "plik": "podcast/.nagrania-cc/kat-sztorm-czarne-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:%D0%A8%D1%82%D0%BE%D1%80%D0%BC_%D0%BD%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC_%D0%BC%D0%BE%D1%80%D0%B5_Storm_on_the_Black_Sea..webm",
+    "autor": "Евгений",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      24.5,
+      30
+    ],
+    "fraza": "Sądzę, że te zbiorniki słonej wody to pozostałość po \"wielkim uskoku...\" i jego gigantycznym tsunami"
+  },
+  {
+    "nazwa": "Sztorm na morzu, otwarty ocean (2)",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-e.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      207,
+      215
+    ],
+    "fraza": "Sądzę, że te zbiorniki słonej wody to pozostałość po \"wielkim uskoku...\" i jego gigantycznym tsunami"
+  },
+  {
+    "nazwa": "Powódź w Wielkim Kanionie, potok",
+    "miejsce": "Powódź błyskawiczna w Wielkim Kanionie (NPS)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-kanion-d.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Debris_Flows_Through_Bright_Angel_Creek_(55504603393).webm",
+    "autor": "Grand Canyon NPS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      12,
+      18
+    ],
+    "fraza": "Czy przypadkiem za zasypanie miast starożytnej Mezopotamii"
+  },
+  {
+    "nazwa": "Płyty tektoniczne na globusie (2)",
+    "miejsce": "Płyty tektoniczne (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-erdbeben-globus.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entsteht_ein_Erdbeben.webm",
+    "autor": "ZDF/Terra X/Julia Kammerer/Martin Schaaf/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      61.2,
+      68
+    ],
+    "fraza": "Nie pomoże tu żadna teoria \"wędrówek kontynentów\", przytapiania lądów czy też wielkich trzęsień ziemi"
+  },
+  {
+    "nazwa": "Tsunami 2011, fale na półkuli południowej",
+    "miejsce": "Tsunami 2011, Pacyfik (symulacja NOAA)",
+    "plik": "podcast/.nagrania-cc/kat-ptwc-e.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Tsunami_Animation-_Tohoku,_Japan_2011_(rotating_globe).webm",
+    "autor": "NOAA Pacific Tsunami Warning Center",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      72,
+      84
+    ],
+    "fraza": "symulacja ruchu wody przy zmianach położenia biegunów mogła by pokazać wielkość i zasięg powstałego przy tym tsunami"
+  },
+  {
+    "nazwa": "Kīlauea 2025, fontanna lawy",
+    "miejsce": "Fontanna lawy, Kīlauea, 2025 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-ep18-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:April_22,_2025_%E2%80%94_K%C4%ABlauea_Episode_18_Lava_Fountaining_Video.webm",
+    "autor": "USGS video by H. Winslow and M. Patrick",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      7,
+      13
+    ],
+    "fraza": "Stara śpiewka - zaraza, głód, wybuch pobliskiego wulkanu, pożar i wojny religijne"
+  },
+  {
+    "nazwa": "Sztorm na morzu, fala za falą",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-h.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      243,
+      249
+    ],
+    "fraza": "Fala wysokości kilku kilometrów zatopiła cały Jukatan"
+  },
+  {
+    "nazwa": "Powódź w Wielkim Kanionie, błotny nurt (2)",
+    "miejsce": "Powódź błyskawiczna w Wielkim Kanionie (NPS)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-kanion-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Debris_Flows_Through_Bright_Angel_Creek_(55504603393).webm",
+    "autor": "Grand Canyon NPS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      22,
+      27.5
+    ],
+    "fraza": "Miasto zostało pokryte warstwą ziemi niesioną przez wodę i popadło w ruinę"
+  },
+  {
+    "nazwa": "Kīlauea 2025, fontanna lawy z bliska",
+    "miejsce": "Fontanna lawy, Kīlauea, 2025 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-ep18-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:April_22,_2025_%E2%80%94_K%C4%ABlauea_Episode_18_Lava_Fountaining_Video.webm",
+    "autor": "USGS video by H. Winslow and M. Patrick",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      16,
+      20
+    ],
+    "fraza": "Nie był to zapewne okres sielskiego spokoju, skoro kilka odrębnych cywilizacji mówi o kilku narodzinach ludzkości"
+  },
+  {
+    "nazwa": "Alaska 1964, zniszczone domy (2)",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-domy-bw.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      541,
+      545
+    ],
+    "fraza": "Nie był to zapewne okres sielskiego spokoju, skoro kilka odrębnych cywilizacji mówi o kilku narodzinach ludzkości"
+  },
+  {
+    "nazwa": "Powódź błyskawiczna w Oak Creek, kipiel (2)",
+    "miejsce": "Powódź błyskawiczna, Oak Creek, Utah (Zion NP)",
+    "plik": "podcast/.nagrania-cc/kat-powodz-zion-b.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Oak_Creek_Flash_Flood.webm",
+    "autor": "Zion National Park",
+    "licencja": "CC BY 2.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/2.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1440x1080",
+    "fragment": [
+      58,
+      64
+    ],
+    "fraza": "Nie był to zapewne okres sielskiego spokoju, skoro kilka odrębnych cywilizacji mówi o kilku narodzinach ludzkości"
+  },
+  {
+    "nazwa": "Karykatury Darwina",
+    "miejsce": "Karykatury Darwina (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-darwin-karykatura.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Was_besagt_Darwins_Evolutionstheorie%3F.webm",
+    "autor": "ZDF/TerraX/R.Schlosshan/F.Haedecke/C.Ruby/F.Wienke/Gruppe5/Jochen Schmidt",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      28.6,
+      33
+    ],
+    "fraza": "lecz takie słowa nie przejdą przez usta żadnemu wyznawcy Darwina"
+  },
+  {
+    "nazwa": "Alaska 1964, spękana ziemia z powietrza (2)",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-lot-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      44.8,
+      48.1
+    ],
+    "fraza": "Odpowiedź może być tylko jedna - kolejny wielki kataklizm, kolejny \"wielki uskok skorupy ziemskiej\""
+  },
+  {
+    "nazwa": "Fagradalsfjall, wyrzut lawy",
+    "miejsce": "Erupcja Fagradalsfjall, Islandia, 2021",
+    "plik": "podcast/.nagrania-cc/kat-islandia-geld-c.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Eruption_of_a_volcano_in_Iceland_-_Geldingadalsgos.webm",
+    "autor": "Kaspars Dzenis",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      54,
+      57
+    ],
+    "fraza": "Odpowiedź może być tylko jedna - kolejny wielki kataklizm, kolejny \"wielki uskok skorupy ziemskiej\""
+  },
+  {
+    "nazwa": "Sztorm na morzu, bryzgi",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-i.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      181,
+      184
+    ],
+    "fraza": "Odpowiedź może być tylko jedna - kolejny wielki kataklizm, kolejny \"wielki uskok skorupy ziemskiej\""
+  },
+  {
+    "nazwa": "Fagradalsfjall, przelewająca się lawa",
+    "miejsce": "Erupcja Fagradalsfjall, Islandia, 2021",
+    "plik": "podcast/.nagrania-cc/kat-islandia-geld-d.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Eruption_of_a_volcano_in_Iceland_-_Geldingadalsgos.webm",
+    "autor": "Kaspars Dzenis",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      60,
+      66
+    ],
+    "fraza": "Czy \"Ktoś\" w przeszłości wiedział, że Ziemi co pewien czas zagraża totalna katastrofa"
+  },
+  {
+    "nazwa": "Huragan z kosmosu (2)",
+    "miejsce": "Huragan nad Karaibami (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-hurrikan.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entsteht_ein_Hurrikan.webm",
+    "autor": "ZDF/Terra X/R. Marel/S. Hillmann/C. Gerisch/A. Kindler/SpiegelTV/Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      21,
+      28
+    ],
+    "fraza": "Czy to będzie nasz ostatni wschód Słońca? Czy Gaja ukarze nas za ignorancję?"
+  },
+  {
+    "nazwa": "Alaska 1964, port po tsunami (2)",
+    "miejsce": "Po tsunami na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-port-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      330.1,
+      336.2
+    ],
+    "fraza": "Jeśli taki kataklizm dotknie całego świata, to kto wystąpi w roli ratujących?"
+  },
+  {
+    "nazwa": "Fagradalsfjall, lawa wypływa z krateru (2)",
+    "miejsce": "Erupcja Fagradalsfjall, Islandia, 2021",
+    "plik": "podcast/.nagrania-cc/kat-islandia-geld-f.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Eruption_of_a_volcano_in_Iceland_-_Geldingadalsgos.webm",
+    "autor": "Kaspars Dzenis",
+    "licencja": "CC BY 3.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/3.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      30.5,
+      36.5
+    ],
+    "fraza": "kiedy to Bogowie powrócą po trzeciej wielkiej katastrofie, która zniszczy ludzi"
+  },
+  {
+    "nazwa": "Kīlauea 2018, szczelina i lawa",
+    "miejsce": "Erupcja Kīlauea, Hawaje, 2018 (USGS)",
+    "plik": "podcast/.nagrania-cc/kat-kilauea-fontanny-d.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Fissure_fountains_feed_lava_flows,_as_shown_in_this_overflight_video_of_the_F....webm",
+    "autor": "USGS Volcanoes",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      27.3,
+      30.3
+    ],
+    "fraza": "a tylko pokazanie możliwości katastrofy, jaką może nam zgotować nasza Ziemia"
+  },
+  {
+    "nazwa": "Sztorm na morzu, wysoka fala",
+    "miejsce": "Sztorm na morzu, statek Tethys II (Ifremer)",
+    "plik": "podcast/.nagrania-cc/kat-statek-j.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:Vague_d%27%C3%A9trave_lors_d%27une_temp%C3%AAte_%C3%A0_bord_du_Tethys_II_(Ifremer_00749-86105).webm",
+    "autor": "Olivier Dugornay (Ifremer)",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "3840x2160",
+    "fragment": [
+      285.5,
+      290
+    ],
+    "fraza": "a tylko pokazanie możliwości katastrofy, jaką może nam zgotować nasza Ziemia"
+  },
+  {
+    "nazwa": "Alaska 1964, pole szczelin (2)",
+    "miejsce": "Trzęsienie ziemi na Alasce, 1964 (archiwum USGS)",
+    "plik": "podcast/.nagrania-cc/kat-alaska-pole-szczelin.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:1964_Quake-_The_Great_Alaska_Earthquake.webm",
+    "autor": "USGS",
+    "licencja": "Public domain",
+    "licencja_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      551.9,
+      555.3
+    ],
+    "fraza": "a tylko pokazanie możliwości katastrofy, jaką może nam zgotować nasza Ziemia"
+  },
+  {
+    "nazwa": "Lądolód narasta nad Ameryką Północną (2)",
+    "miejsce": "Lądolód epoki lodowej (animacja ZDF)",
+    "plik": "podcast/.nagrania-cc/kat-zdf-eis-a.mp4",
+    "strona": "https://commons.wikimedia.org/wiki/File:So_entstand_das_letzte_Eiszeitalter.webm",
+    "autor": "ZDF/Terra X/Bilderfest/Florian Breier/Klaus Wache/Tobias Forth/Maik Siegle /Peter Riegel/Lilly Wagner/ Maximilian Mohr",
+    "licencja": "CC BY 4.0",
+    "licencja_url": "https://creativecommons.org/licenses/by/4.0",
+    "serwis": "Wikimedia Commons",
+    "oryginal_rozdzielczosc": "1920x1080",
+    "fragment": [
+      105.5,
+      113
+    ],
+    "fraza": "Jedyny taki kataklizm, który także nieśmiało dopuszcza w tej chwili nauka, mógł się zdarzyć około 12,5 tysiąca lat temu"
   }
 ]

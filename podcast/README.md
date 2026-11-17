@@ -77,11 +77,14 @@ Ruch i klipy:
   z ich `klip.json`; w rogu kadru znaczek według rodzaju („Według rysunku Leszka Klimka”, „Hipoteza z tekstu, nie fakt”, „Rekonstrukcja 3D”),
 - nagrania wideo z Wikimedia Commons (wolne licencje) z `podcast/<folder>/nagrania-cc.json`, z autorem i licencją w kadrze
   i w `autorzy-zdjec.txt`; pliki w `podcast/.nagrania-cc/` (poza repozytorium). Bez klipów: `--bez-klipow`,
+- licencje cudzych materiałów w klipach 3D (np. katalog gwiazd HYG, plan Tikal, zdjęcie korony) są w `atrybucja.txt` obok klipu
+  i trafiają do opisu i `autorzy-zdjec.txt`; sam opis i miniaturę bez składania wideo odświeża `--tylko-opis`,
 - szybki podgląd fragmentu: `--zakres 600-900` (sekundy) daje `youtube/wideo-probka-600-900.mp4`,
 - własne tło miniatury: `--miniatura grafiki/3d/wideo/<klip>/kadr.jpg`,
-- wstęp: zamiast nieruchomej planszy z okładką zapowiedź idzie na animacji 3D `grafiki/3d/wideo/wstep/klip.mp4`, wspólnej dla
-  wszystkich odcinków (pod muzykę zapowiedzi). Tytuł odcinka pojawia się na niej, gdy lektor mówi „Odcinek …” (czas z `mowa.jsonl`).
-  Bez animacji: `--bez-wstepu`.
+- wstęp: zamiast nieruchomej planszy z okładką zapowiedź idzie na animacji 3D `grafiki/3d/wideo/wstep/wersja-b/klip.mp4`, wspólnej dla
+  wszystkich odcinków (pod muzykę zapowiedzi, cięcia na akcentach muzyki). Tytuł odcinka pojawia się na niej w górnej części kadru,
+  gdy lektor mówi „Odcinek …” (czas z `mowa.jsonl`). Licencje wstępu (`wersja-b/atrybucja.txt`) trafiają do opisu i `autorzy-zdjec.txt`.
+  Poprzednia wersja (A) leży w `grafiki/3d/wideo/wstep/klip.mp4`. Bez animacji: `--bez-wstepu`.
 
 Cały film z ruchem składa się dłużej (dla 90 minut ok. pół godziny) i waży więcej (ok. 1,5–2 GB).
 

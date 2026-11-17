@@ -237,6 +237,8 @@ def podpis(tekst, rozmiar, kolor, loc, cam=None, f0=None, kroj="arialb", wyr="CE
     ob_ = (obrys[0], rozmiar * obrys[1]) if obrys and obrys[1] > 0 else None
     ob = G.napis(tekst, rozmiar, kolor, kroj, wyr, loc=tuple(loc), nazwa=nazwa or ("Podpis_" + tekst[:12]), obrys=ob_,
                  odstep=odstep)
+    for o in [ob] + list(ob.children):
+        o.visible_shadow = False
     if cam is not None:
         c = ob.constraints.new("COPY_ROTATION")
         c.target = cam

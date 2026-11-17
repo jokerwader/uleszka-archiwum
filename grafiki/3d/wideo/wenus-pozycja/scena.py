@@ -7,7 +7,7 @@ i zajmuje ją po 11 804 latach, 22–23 grudnia 2012 r.
 Prosta animacja: Słońce, orbity Wenus i Ziemi, w tle kierunki gwiazdozbiorów Zodiaku. Licznik lat biegnie
 od 9792 p.n.e. do 2012 r., Wenus okrąża Słońce (przy dużej prędkości widać tylko świecącą orbitę),
 a na końcu zwalnia i staje w zaznaczonym miejscu. Położenie Wenus i Ziemi na końcu = 22 grudnia 2012
-według średnich elementów orbit (J2000). Tego, że Wenus stała tam samo w 9792 p.n.e., ten sam rachunek
+według elementów orbit Standisha (JPL) i równania Keplera. Tego, że Wenus stała tam samo w 9792 p.n.e., rachunek
 NIE potwierdza (patrz README) – to twierdzenie cytowanego autora.
 
 Uruchomienie (bez okna):
@@ -20,21 +20,45 @@ from mathutils import Vector
 TU = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(TU, "..", "_wspolne"))
 import globus as G
+import niebo as N
 
 KLATEK = 350  # 14 s
 opcje = G.argumenty()
 sc = G.nowa_scena(KLATEK)
 sc.eevee.taa_render_samples = int(os.environ.get("USKOK3D_PROBKI", "24"))
 
-# ---------------------------------------------------------------- rachunek (średnie elementy orbit, J2000)
+# ---------------------------------------------------------------- rachunek
+# Położenia z elementów orbit E. M. Standisha (JPL, „Approximate Positions of the Planets”) i równania Keplera
+# (_wspolne/niebo.py). Kontrola w JPL Horizons (DE441), 22.12.2012 0h: Wenus 214,50°, Ziemia 90,36° – zgodne do 0,01°.
 JD_2012 = 2456283.5                     # 22 grudnia 2012, 0h
+JD_9792 = -1854897.5                    # 27 lipca 9792 p.n.e. (kalendarz juliański proleptyczny), 0h
 T = (JD_2012 - 2451545.0) / 36525
-L_WENUS = math.radians((181.97973 + 58517.81539 * T) % 360)   # ok. 213,7°
-L_ZIEMIA = math.radians((100.46457 + 35999.37245 * T) % 360)  # ok. 90,8°
-OKR_WENUS = 11804 * 365.25 / 224.701    # okrążeń Wenus w 11 804 latach
+
+
+def _dlug(nazwa):
+    v = N._helio(nazwa, T)
+    return math.atan2(v.y, v.x)
+
+
+L_WENUS = _dlug("wenus")                # 214,49° (długość heliocentryczna, ekliptyka J2000)
+L_ZIEMIA = _dlug("ziemia")              # 90,36°
+OKR_WENUS = (JD_2012 - JD_9792) / 224.701    # okrążeń Wenus między obiema datami: ok. 19 186
+LAT = (JD_2012 - JD_9792) / 365.25           # lat juliańskich: 11 803,4 (autor podaje 11 804)
+print(f"[wenus] 22.12.2012: Wenus {math.degrees(L_WENUS) % 360:.2f}°, Ziemia {math.degrees(L_ZIEMIA) % 360:.2f}°; "
+      f"okrążeń Wenus {OKR_WENUS:.1f}, lat {LAT:.1f}")
 
 S_ = 4.2                                 # 1 au w jednostkach sceny
-R_W, R_Z = 0.72333 * S_, 1.0 * S_
+ORB = {}
+for _n in ("wenus", "ziemia"):
+    (_a, _e, _I, _L, _w, _O), (_da, _de, _dI, _dL, _dw, _dO) = N._EL[_n]
+    ORB[_n] = (_a + _da * T, _e + _de * T, math.radians(_w + _dw * T))     # półoś [au], mimośród, długość peryhelium
+
+
+def r_orb(nazwa, l):
+    """Odległość od Słońca [jednostki sceny] na orbicie eliptycznej dla długości l (nachylenie orbity pominięte)."""
+    a, e, w = ORB[nazwa]
+    return S_ * a * (1 - e * e) / (1 + e * math.cos(l - w))
+
 
 def xy(r, l, z=0.0):
     return Vector((r * math.cos(l), r * math.sin(l), z))
@@ -97,44 +121,65 @@ wenus = kula("Wenus", 0.2, m_w)
 ziemia = kula("Ziemia", 0.21, m_z)
 
 def okrag(r, nazwa, kolor, alfa, grub=0.018, przerywany=False):
+    """r: liczba (okrąg) albo nazwa planety (elipsa orbity)."""
+    rr = (lambda l: r_orb(r, l)) if isinstance(r, str) else (lambda l: r)
     cu = bpy.data.curves.new(nazwa, "CURVE"); cu.dimensions = "3D"; cu.bevel_depth = grub
     n = 256
     if przerywany:
         for i in range(0, n, 2):
             sp = cu.splines.new("POLY"); sp.points.add(1)
             for j, t in enumerate((i, i + 1)):
-                sp.points[j].co = (*xy(r, 2 * math.pi * t / n), 1)
+                l = 2 * math.pi * t / n
+                sp.points[j].co = (*xy(rr(l), l), 1)
     else:
         sp = cu.splines.new("POLY"); sp.points.add(n - 1)
         for i in range(n):
-            sp.points[i].co = (*xy(r, 2 * math.pi * i / n), 1)
+            l = 2 * math.pi * i / n
+            sp.points[i].co = (*xy(rr(l), l), 1)
         sp.use_cyclic_u = True
     ob = bpy.data.objects.new(nazwa, cu); sc.collection.objects.link(ob)
     m = G.material_emisja(nazwa + "_mat", kolor, alfa); cu.materials.append(m); ob["mat"] = m.name
     return ob, m
 
-orb_w, m_ow = okrag(R_W, "orbita_Wenus", (250, 225, 170), 0.45)
-orb_z, m_oz = okrag(R_Z, "orbita_Ziemi", (120, 170, 230), 0.4)
+orb_w, m_ow = okrag("wenus", "orbita_Wenus", (250, 225, 170), 0.45)
+orb_z, m_oz = okrag("ziemia", "orbita_Ziemi", (120, 170, 230), 0.4)
 # świecąca orbita Wenus (gdy Wenus krąży za szybko, by ją zobaczyć)
-bl_w, m_blw = okrag(R_W, "smuga_Wenus", (255, 236, 190), 0.0, 0.045)
+bl_w, m_blw = okrag("wenus", "smuga_Wenus", (255, 236, 190), 0.0, 0.045)
 for n in m_blw.node_tree.nodes:
     if n.type == "EMISSION":
         n.inputs["Strength"].default_value = 1.6
-bl_z, m_blz = okrag(R_Z, "smuga_Ziemi", (140, 190, 255), 0.0, 0.04)
+bl_z, m_blz = okrag("ziemia", "smuga_Ziemi", (140, 190, 255), 0.0, 0.04)
 
-# Zodiak: kierunki gwiazdozbiorów (przybliżone środki na ekliptyce, długość ekliptyczna J2000)
-ZODIAK = [("Ryby", 5), ("Baran", 35), ("Byk", 65), ("Bliźnięta", 95), ("Rak", 125), ("Lew", 150), ("Panna", 190),
-          ("Waga", 225), ("Skorpion", 245), ("Strzelec", 275), ("Koziorożec", 305), ("Wodnik", 335)]
+# Zodiak: odcinki ekliptyki w granicach gwiazdozbiorów IAU (E. Delporte 1930). Długości ekliptyczne J2000 punktów,
+# w których ekliptyka przecina granice, policzone z wielokątów granic (plik constellations.bounds.json projektu
+# d3-celestial, dane IAU); zgodne z tablicami dat wejścia Słońca do gwiazdozbiorów. Ekliptyka przechodzi przez 13
+# gwiazdozbiorów: trzynastym jest Wężownik.
+ZODIAK = [("Ryby", 351.64, 28.69), ("Baran", 28.69, 53.42), ("Byk", 53.42, 90.15), ("Bliźnięta", 90.15, 117.99),
+          ("Rak", 117.99, 138.05), ("Lew", 138.05, 173.86), ("Panna", 173.86, 217.82), ("Waga", 217.82, 241.05),
+          ("Skorpion", 241.05, 247.64), ("Wężownik", 247.64, 266.25), ("Strzelec", 266.25, 299.67),
+          ("Koziorożec", 299.67, 327.49), ("Wodnik", 327.49, 351.64)]
 R_ZOD = 1.45 * S_
-okrag(R_ZOD - 0.55, "zodiak", (240, 196, 111), 0.18, 0.012, przerywany=True)
-for nazwa, lam in ZODIAK:
-    ob = G.napis(nazwa.upper(), 0.36, (240, 196, 111), "georgiab", "CENTER", loc=xy(R_ZOD, math.radians(lam), 0.02),
-                 rot=(0, 0, math.radians(lam) + (math.pi / 2 if math.sin(math.radians(lam)) < 0 else -math.pi / 2)),
-                 nazwa="zod_" + nazwa, alfa=0.55)   # dolne napisy obrócone, by czytały się z widoku kamery
+R_KOLA = R_ZOD - 0.55
+okrag(R_KOLA, "zodiak", (240, 196, 111), 0.18, 0.012, przerywany=True)
+gr_cu = bpy.data.curves.new("granice_zodiaku", "CURVE"); gr_cu.dimensions = "3D"; gr_cu.bevel_depth = 0.014
+for nazwa, l0, l1 in ZODIAK:
+    sp = gr_cu.splines.new("POLY"); sp.points.add(1)
+    sp.points[0].co = (*xy(R_KOLA - 0.16, math.radians(l0)), 1); sp.points[1].co = (*xy(R_KOLA + 0.16, math.radians(l0)), 1)
+    lam = (l0 + ((l1 - l0) % 360) / 2) % 360
+    dol = math.sin(math.radians(lam)) < 0           # dolne napisy obrócone, by czytały się z widoku kamery
+    if nazwa == "Skorpion":                         # odcinek ma tylko 6,6°: napis wzdłuż promienia
+        G.napis(nazwa.upper(), 0.27, (240, 196, 111), "georgiab", "RIGHT", loc=xy(R_KOLA + 0.28, math.radians(lam), 0.02),
+                rot=(0, 0, math.radians(lam) + math.pi), nazwa="zod_" + nazwa, alfa=0.55)
+        continue
+    G.napis(nazwa.upper(), 0.30 if nazwa == "Wężownik" else 0.36, (240, 196, 111), "georgiab", "CENTER",
+            loc=xy(R_ZOD, math.radians(lam), 0.02),
+            rot=(0, 0, math.radians(lam) + (math.pi / 2 if dol else -math.pi / 2)), nazwa="zod_" + nazwa, alfa=0.55)
+gr_ob = bpy.data.objects.new("granice_zodiaku", gr_cu); sc.collection.objects.link(gr_ob)
+gr_cu.materials.append(G.material_emisja("granice_zodiaku_mat", (240, 196, 111), 0.45))
 
 # znacznik pozycji Wenus (twierdzenie autora: ta sama w 9792 p.n.e. i 22–23 XII 2012)
 zn = kula("Znacznik", 0.34, mat_poswiata("Znacznik_mat", G.ZLOTY, 3.0, 1.2))
-zn.location = xy(R_W, L_WENUS)
+zn.location = xy(r_orb("wenus", L_WENUS), L_WENUS)
 bpy.ops.mesh.primitive_torus_add(major_radius=0.42, minor_radius=0.025, location=zn.location)
 ring = bpy.context.active_object; ring.name = "ZnacznikPierscien"
 m_ring = G.material_emisja("Pierscien_mat", G.ZLOTY, 1.0); ring.data.materials.append(m_ring)
@@ -188,10 +233,10 @@ def ustaw(scene, depsgraph=None):
     # liczba okrążeń, które Wenus ma jeszcze do zrobienia; na końcu staje w znaczniku
     zostalo = round(OKR_WENUS) * (1 - p)      # całkowita liczba okrążeń: start i koniec w tym samym miejscu (twierdzenie autora)
     lw = L_WENUS - 2 * math.pi * zostalo
-    wenus.location = xy(R_W, lw)
-    zostalo_z = 11804 * (1 - p)
+    wenus.location = xy(r_orb("wenus", lw), lw)
+    zostalo_z = round(LAT) * (1 - p)
     lz = L_ZIEMIA - 2 * math.pi * zostalo_z
-    ziemia.location = xy(R_Z, lz)
+    ziemia.location = xy(r_orb("ziemia", lz), lz)
     # prędkość (okrążeń na klatkę): przy dużej widać tylko świecącą smugę orbity
     dp = postep(f + 1) - postep(f - 1)
     v = OKR_WENUS * dp / 2
@@ -199,7 +244,7 @@ def ustaw(scene, depsgraph=None):
     for nd in m_blw.node_tree.nodes:
         if nd.type == "MIX_SHADER":
             nd.inputs[0].default_value = 0.75 * smuga
-    vz = 11804 * dp / 2
+    vz = LAT * dp / 2
     smz = max(0.0, min(1.0, (vz - 0.04) / 0.25))
     for nd in m_blz.node_tree.nodes:
         if nd.type == "MIX_SHADER":

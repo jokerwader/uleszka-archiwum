@@ -15,7 +15,7 @@
  */
 import { execFile, execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
-import { join, relative, resolve } from "node:path";
+import { dirname, join, relative, resolve } from "node:path";
 import sharp from "sharp";
 import { Archiwum, zloz, type Dokument } from "../src/archiwum.js";
 import { rdzenie, wczytajAtlas, type MiejsceAtlasu, type ZdjecieCommons } from "./lib/atlas.js";
@@ -301,7 +301,7 @@ const ZNACZKI: Record<string, string> = {
   ilustracja: "Animacja 3D",
 };
 type NagranieCC = { nazwa: string; miejsce: string; plik: string; strona: string; autor: string; licencja: string; licencja_url?: string; serwis?: string; fraza?: string; frazy?: string[] };
-type Klip = { mp4: string; dl: number; t: number; nakl: () => ReturnType<typeof sharp>; cc?: NagranieCC; nazwa: string; naklCzas?: [number, number] }; // naklCzas: nakładka tylko w tym czasie (s od początku klipu), z płynnym wejściem i zejściem
+type Klip = { mp4: string; dl: number; t: number; nakl: () => ReturnType<typeof sharp>; cc?: NagranieCC; nazwa: string; naklCzas?: [number, number]; atrybucja?: string }; // naklCzas: nakładka tylko w tym czasie (s od początku klipu), z płynnym wejściem i zejściem
 const klipy: Klip[] = [];
 if (!process.argv.includes("--bez-klipow")) {
   const KLIPY3D = "grafiki/3d/wideo";
@@ -310,9 +310,12 @@ if (!process.argv.includes("--bez-klipow")) {
     if (!existsSync(pj) || !existsSync(mp4)) continue;
     const o = JSON.parse(readFileSync(pj, "utf8"));
     const dl = dlugoscPliku(mp4);
+    // atrybucja.txt obok klipu: autorzy i licencje cudzych materiałów (CC BY, CC BY-SA), po jednym źródle w wierszu – idą do opisu
+    const pa = join(KLIPY3D, k, "atrybucja.txt");
+    const atrybucja = existsSync(pa) ? readFileSync(pa, "utf8").trim() : undefined;
     for (const f of (o.frazy ?? [o.fraza]).filter(Boolean) as string[]) {
       const poz = znajdzFraze(f);
-      if (poz >= 0) klipy.push({ mp4, dl, t: czasPozycji(poz) + 2, nazwa: k, nakl: () => nakladka(String(o.podpis ?? o.tytul).slice(0, 80), "uleszka.net", ZNACZKI[o.rodzaj] ?? "Animacja 3D") });
+      if (poz >= 0) klipy.push({ mp4, dl, t: czasPozycji(poz) + 2, nazwa: k, atrybucja, nakl: () => nakladka(String(o.podpis ?? o.tytul).slice(0, 80), "uleszka.net", ZNACZKI[o.rodzaj] ?? "Animacja 3D") });
       else console.log(`Klip 3D „${k}”: nie znalazłem frazy w tekście odcinka – pomijam to miejsce.`);
     }
   }
@@ -341,15 +344,20 @@ const zdarzenia: Zdarzenie[] = [];
 const podtytul = artykuly.length === 1 && artykuly[0].tytul !== tytul ? `artykuł „${artykuly[0].tytul}”` : "";
 const nr = (n: number) => join(klatki, `${String(n).padStart(4, "0")}.png`);
 let n = 0;
-// wstęp: animacja 3D pod zapowiedź (grafiki/3d/wideo/wstep/klip.mp4, wspólna dla odcinków); tytuł odcinka wchodzi na nią,
+// wstęp: animacja 3D pod zapowiedź (grafiki/3d/wideo/wstep/wersja-b/klip.mp4, wspólna dla odcinków); tytuł odcinka wchodzi na nią,
 // gdy lektor mówi „Odcinek …” (z mowa.jsonl), i schodzi przed końcem zapowiedzi. Bez animacji albo z --bez-wstepu: plansza z okładką.
-const WSTEP = "grafiki/3d/wideo/wstep/klip.mp4";
+// Wersja A (przelot wśród rysunków Leszka) leży w grafiki/3d/wideo/wstep/klip.mp4. Licencje wstępu: atrybucja.txt obok klipu (idzie do opisu).
+const WSTEP = "grafiki/3d/wideo/wstep/wersja-b/klip.mp4";
+const WSTEP_ATRYBUCJA = join(dirname(WSTEP), "atrybucja.txt");
+let wstepAtrybucja = "";
 if (existsSync(WSTEP) && !process.argv.includes("--bez-wstepu")) {
+  if (existsSync(WSTEP_ATRYBUCJA)) wstepAtrybucja = readFileSync(WSTEP_ATRYBUCJA, "utf8").trim();
   const linia = mowa ? readFileSync(plikMowy, "utf8").split("\n").map((l) => l.match(/^\{"start":(\d+),"end":\d+,"text":"\s*(.*)"\}\s*$/)).find((m) => m && Number(m[1]) < 40000 && /^odcinek\b/i.test(m[2])) : undefined;
   const od = linia ? Number(linia[1]) / 1000 : 14.3;
   const doT = Math.max(od + 6, Math.min(25, zapowiedzKoniec - 1));
   const w = linie(tytul, 24);
-  const y0 = H / 2 - ((w.length - 1) * 104 * 1.18) / 2 + 20;
+  // tytuł w górnej części kadru: w wersji B wolne niebo sięga do ok. y = 680 px (niżej kamienie Stonehenge)
+  const y0 = H / 2 - ((w.length - 1) * 104 * 1.18) / 2 - 120;
   const tytulWstepu = () => zSvg(`${tlo.replace(/<rect[^>]*\/>\s*$/, "")}
     <text x="${W / 2}" y="${y0 - 120}" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="34" letter-spacing="10" fill="#e2a93f">${xml(etykieta.toUpperCase())}</text>
     ${w.map((x, i) => `<text x="${W / 2}" y="${y0 + i * 104 * 1.18}" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="104" fill="url(#z)" stroke="#05070c" stroke-opacity=".35" stroke-width="2">${xml(x)}</text>`).join("")}
@@ -463,6 +471,8 @@ console.log(`Nagranie ${czas(dlugosc)}, ${rozdzialy.length} rozdziałów, ${zdje
 
 // --zakres 600-900: tylko ujęcia z tego przedziału (w sekundach) – szybki podgląd do sprawdzenia
 const zakres = (() => { const i = process.argv.indexOf("--zakres"); if (i < 0) return null; const [a, b] = process.argv[i + 1].split("-").map(Number); return { a, b }; })();
+// --tylko-opis: bez rysowania i składania wideo, tylko miniatura, opis.txt i autorzy-zdjec.txt (np. po zmianie licencji klipu)
+if (!process.argv.includes("--tylko-opis")) {
 const FPS = 25;
 const klatkaNr = (t: number) => Math.round(t * FPS);
 const doZrobienia = os.map((z, i) => ({ z, i, f0: klatkaNr(z.t), f1: klatkaNr(os[i + 1]?.t ?? dlugosc) }))
@@ -535,6 +545,7 @@ const plikWideo = join(wyj, zakres ? `wideo-probka-${zakres.a}-${zakres.b}.mp4` 
 execFileSync("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", join(klatki, "lista.txt"), "-ss", start.toFixed(2), "-i", mp3,
   "-map", "0:v", "-map", "1:a", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-t", (koniecWideo - start).toFixed(2), "-movflags", "+faststart", plikWideo], { stdio: "inherit" });
 if (zakres) { rmSync(klatki, { recursive: true, force: true }); console.log(`Gotowe: ${plikWideo}`); process.exit(0); }
+} // koniec części bez --tylko-opis
 
 // ---------- miniatura 1280×720: największe zdjęcie z artykułu w tle, tytuł złotymi literami ----------
 // miniatura: zdjęcie wysokiej jakości najczęściej wspominanego miejsca (poziome), a bez niego największe zdjęcie z artykułu
@@ -566,21 +577,24 @@ const nagraniaCC = [...new Map(uzyteKlipy.filter((k) => k.cc).map((k) => [k.cc!.
   (o) => `${o.miejsce} (${o.serwis ?? "Wikimedia Commons"}) – nagranie: ${o.autor.replace(/\s+/g, " ").trim()}, ${o.licencja}${o.licencja_url ? ` (${o.licencja_url})` : ""}, ${o.strona} – użyto fragmentu, kadr przycięty i przeskalowany`,
 );
 const ma3d = uzyteKlipy.some((k) => !k.cc);
+const zrodla3d = [...new Set(uzyteKlipy.filter((k) => !k.cc && k.atrybucja).flatMap((k) => k.atrybucja!.split("\n").map((s) => s.trim()).filter(Boolean)))];
 const INFO_3D = "Animacje 3D (Blender) na podstawie rysunków Leszka Klimka i publicznych danych; skrypty i źródła: https://github.com/jokerwader/uleszka-archiwum/tree/main/grafiki/3d/wideo";
 if (autorzy.length || nagraniaCC.length) writeFileSync(join(wyj, "autorzy-zdjec.txt"), [
   autorzy.length ? `Zdjęcia współczesne w filmie (Wikimedia Commons i Openverse):\n${autorzy.join("\n")}\n` : "",
   nagraniaCC.length ? `Nagrania wideo w filmie:\n${nagraniaCC.join("\n")}\n` : "",
   ma3d ? `${INFO_3D}\n` : "",
+  zrodla3d.length ? `Cudze materiały w animacjach 3D:\n${zrodla3d.join("\n")}\n` : "",
+  wstepAtrybucja ? `${wstepAtrybucja}\n` : "",
   "Zdjęcia archiwalne: artykuły Leszka Klimka na uleszka.net (2004–2007).\n",
 ].filter(Boolean).join("\n"), "utf8");
 const glowna = `TYTUŁ:\n${tytul}${rodzaj === "Zwiastun" ? "" : ` | ${PODCAST} – ${rodzaj.toLowerCase()}`}\n\nOPIS:\n${opisSpotify}\n\nPodcast w Spotify: ${SPOTIFY}\n\nRozdziały:\n${znaczniki}\n`;
 const zdjeciaInfo = autorzy.length ? `\nZdjęcia współczesne: Wikimedia Commons i Openverse (${autorzy.length}, wolne licencje) – autor i licencja w kadrze i na kartach miejsc w atlasie. Zdjęcia archiwalne: artykuły Leszka Klimka (2004–2007).\n` : "";
-const klipyInfo = `${nagraniaCC.length ? `\nNagrania wideo: ${[...new Set(uzyteKlipy.filter((k) => k.cc).map((k) => k.cc!.serwis ?? "Wikimedia Commons"))].join(", ")} (${nagraniaCC.length}) – autor i licencja w kadrze; pełna lista w komentarzu.\n` : ""}${ma3d ? `\n${INFO_3D}\n` : ""}`;
+const klipyInfo = `${nagraniaCC.length ? `\nNagrania wideo: ${[...new Set(uzyteKlipy.filter((k) => k.cc).map((k) => k.cc!.serwis ?? "Wikimedia Commons"))].join(", ")} (${nagraniaCC.length}) – autor i licencja w kadrze; pełna lista w komentarzu.\n` : ""}${ma3d ? `\n${INFO_3D}\n` : ""}${zrodla3d.length ? `${ma3d ? "" : "\n"}W animacjach: ${zrodla3d.map((s) => s.replace(/\.$/, "")).join("; ")}.\n` : ""}${wstepAtrybucja ? `${ma3d ? "" : "\n"}${wstepAtrybucja}\n` : ""}`;
 let miejscaTxt = miejscaWOpisie.length ? `\nMiejsca z odcinka na mapie (Atlas Leszka):\n${miejscaWOpisie.join("\n")}\n` : "";
 const LIMIT = 4900 + "TYTUŁ:\n".length + tytul.length + 60; // ok. 4900 znaków samego opisu
 for (let ile = miejscaWOpisie.length; ile > 0 && (glowna + miejscaTxt + zdjeciaInfo + klipyInfo).length > LIMIT; ile--)
   miejscaTxt = `\nMiejsca z odcinka na mapie (Atlas Leszka):\n${miejscaWOpisie.slice(0, ile - 1).join("\n")}\n…i więcej: https://uleszka.net/atlas/\n`;
 writeFileSync(join(wyj, "opis.txt"), glowna + miejscaTxt + zdjeciaInfo + klipyInfo, "utf8");
 rmSync(klatki, { recursive: true, force: true });
-console.log(`Gotowe: ${join(wyj, "wideo.mp4")}, miniatura.jpg, opis.txt`);
+console.log(`Gotowe: ${process.argv.includes("--tylko-opis") ? "" : `${join(wyj, "wideo.mp4")}, `}miniatura.jpg, opis.txt, autorzy-zdjec.txt`);
 console.log("Rozdziały w opisie są orientacyjne (liczone z długości tekstu) – przed publikacją sprawdź je w odtwarzaczu.");

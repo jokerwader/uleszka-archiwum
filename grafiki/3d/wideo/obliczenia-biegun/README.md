@@ -33,6 +33,11 @@ Ożywiony rysunek Leszka `zrodlo/webacja/02uskok/obliczenia.jpg` i jego tabela z
 - Pominąłem Tulę, Villahermosę i Uxmal (są w tabeli tylko z kątem obliczonym): przy tej wielkości globusa
   podpisy w Meksyku zlewałyby się. Abydos i Sakkara nie mają w tabeli liczb.
 
+## Sprawdzenie (audyt 16.11.2026)
+
+Azymuty z ostatniej kolumny tabeli przeliczono od nowa wzorem na azymut koła wielkiego ze współrzędnych wpisanych
+w `scena.py`: 19,9°; 17,9°; 15,3°; 13,7°; 1,3° na wschód; 0,7° i 31,6° na zachód. Zgadzają się.
+
 ## Dane i licencje
 
 - Lądy: Natural Earth 1:10 mln, domena publiczna (`_dane/natural-earth/`).

@@ -16,16 +16,22 @@ Indyjskiego…”. 20 s. Rodzaj: `ilustracja` (zjawisko prawdziwe). Spokojny sch
 
 ## Fakty i model – co jest czym
 
-- **Punkty i ich czasy** to pomiary mareografów z bazy NOAA NCEI (domena publiczna), bez zmian.
-- **Czoło fali i linie godzinowe** to przybliżony model, nie zapis rzeczywistej fali. Prędkość fali na płytkiej wodzie
-  v = √(g·h); głębokość h szacowana z odległości od brzegu (50 m przy brzegu, 4000 m od ok. 230 km),
-  płycej na Morzu Andamańskim (700 m) i w Zatoce Bengalskiej (2300 m). Droga tylko po wodzie (algorytm Dijkstry
-  na siatce 0,25°, 16 kierunków). Źródłem fali jest cały pas zerwania uskoku (ok. 1300 km od 3,3°N 95,9°E do 14°N 92,9°E).
-- Model dopasowano do 17 pomiarów NOAA (plik `dane_noaa.csv`): średni błąd bezwzględny 21 min (RMS 26 min).
-  Daleko od ogniska zgadza się dobrze (Lamu: model 8:50, pomiar 8:53; Port Elizabeth: 12:08 i 12:13; Kolombo: 3:01 i 2:50),
-  przy samym ognisku gorzej: w Phukecie model daje 0:58, a mareograf zanotował 1:56 (płytkie wody przy Tajlandii są
-  w modelu tylko zgrubnie). Dlatego punkt Phuketu zapala się wyraźnie
-  po przejściu czoła fali – tak jest uczciwie: punkty pokazują pomiar, nie model.
+- **Punkty i ich czasy** to pomiary mareografów z bazy NOAA NCEI (domena publiczna), bez zmian. Sprawdzone ponownie
+  16.11.2026 przez API bazy: wszystkie 9 czasów i współrzędnych zgadza się co do minuty.
+- **Czoło fali i linie godzinowe** to model policzony na prawdziwej głębokości oceanu, nie zapis rzeczywistej fali.
+  Prędkość fali długiej v = √(g·h), głębokość h z modelu rzeźby dna ETOPO1 (NOAA) na siatce 5 minut kątowych
+  (ok. 9 km). Czas dojścia to najkrótszy czas po wodzie (algorytm Dijkstry, 16 kierunków).
+- Źródło fali: strefa zerwania uskoku, ok. 1300 km od okolic ogniska do 14°N (Lay i in., „The Great Sumatra-Andaman
+  Earthquake of 26 December 2004”, Science 308, 2005). W modelu to linia 0,8° na wschód od osi rowu oceanicznego
+  (oś rowu z granic płyt PB2002, P. Bird 2003), bo dno podniosło się między rowem a wyspami. Zerwanie biegło na północ
+  ok. 2,5 km/s, więc północny koniec źródła rusza ok. 9 minut po ognisku.
+- Model **nie jest do niczego dopasowywany**. Porównanie z pomiarami w punktach klipu (model minus pomiar):
+  Kolombo 0 min, Salala −1, Ćennaj +5, Port Louis −7, Lamu −12, Male +13, Perth (Hillarys) −20, Phuket +28,
+  Port Elizabeth −35. Dla wszystkich 96 mareografów z bazy NOAA leżących w obszarze modelu mediana różnicy to 26 minut.
+  Różnice biorą się głównie z płytkich wód przy brzegu i w portach, których siatka 9 km nie oddaje.
+  Punkty pokazują pomiar, nie model, więc mogą się zapalać nieco przed czołem fali albo po nim.
+- Poprawka z 16.11.2026 (audyt): wcześniej głębokość była zgadywana z odległości od brzegu i dobierana tak, żeby model
+  pasował do pomiarów; w Phukecie dawał 0:58 przy zmierzonym 1:56.
 - Linie co godzinę mają od 0 h do 12 h; liczby godzin nie są podpisane, czas pokazuje zegar.
 
 ## Dane i licencje
@@ -35,7 +41,11 @@ Indyjskiego…”. 20 s. Rodzaj: `ilustracja` (zjawisko prawdziwe). Spokojny sch
   https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/runups?tsunamiEventId=2439 . Domena publiczna
   (dzieło rządu USA). Wybrane rekordy w `dane_noaa.csv`.
 - Ognisko: ta sama baza (3,295°N 95,982°E, 00:58:53 UTC).
-- Lądy: Natural Earth 1:50 mln (model) i 1:10 mln (globus), domena publiczna (`_dane/natural-earth/`).
+- Głębokość oceanu: ETOPO1 (C. Amante, B. W. Eakins, NOAA 2009), domena publiczna, wycinek w
+  `_dane/etopo/etopo1_ocean_indyjski_5min.npz` (opis w `_dane/ZRODLA.md`).
+- Oś rowu Sundajskiego: P. Bird, „An updated digital model of plate boundaries”, Geochemistry Geophysics Geosystems 4(3),
+  2003 (PB2002), współrzędne wpisane w `scena.py`.
+- Lądy na globusie: Natural Earth 1:10 mln, domena publiczna (`_dane/natural-earth/`).
 - Polskie nazwy miejsc: Ćennaj (Chennai), Kolombo, Male, Salala (Salalah).
 
 ## Uruchomienie
@@ -45,4 +55,6 @@ S:\Blender\blender.exe -b --factory-startup --python grafiki/3d/wideo/tsunami-20
 S:\Blender\blender.exe -b --factory-startup --python grafiki/3d/wideo/tsunami-2004/scena.py -- --proba 60,330,500
 ```
 
-Pierwsze uruchomienie liczy pole czasu przejścia (ok. 1 min, zapis w `%TEMP%\uskok3d_cache\tsunami2004_T.npy`).
+Pierwsze uruchomienie liczy pole czasu przejścia (ok. 1,5 min, zapis w `%TEMP%\uskok3d_cache\tsunami2004_T_etopo1_v1.npz`).
+Skrypt wypisuje porównanie modelu z pomiarami (`[tsunami] …`). Plik `dane_noaa.csv` to wyciąg 17 rekordów NOAA
+(do wglądu; model z niego nie korzysta).

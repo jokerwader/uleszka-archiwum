@@ -217,13 +217,22 @@ orb_z = okrag(R_ZIEMIA, "orbita_Ziemi", G.ZLOTY, 0.0, 0.016, przerywany=True)
 G.animuj_alfa(bpy.data.materials[orb_t["mat"]], [(1, 0.55), (F_UDERZENIE, 0.55), (F_UDERZENIE + 60, 0.0)])
 G.animuj_alfa(bpy.data.materials[orb_z["mat"]], [(1, 0.0), (F_ZEPCHNIECIE0 - 20, 0.0), (F_ZEPCHNIECIE0 + 10, 0.8)])
 
-# gwiazdy w tle (losowe punkty, tylko tło)
-random.seed(3)
+# gwiazdy w tle: prawdziwe niebo z katalogu HYG (gwiazdy do 5,0 mag), w układzie ekliptycznym – płaszczyzna orbit
+# planet to płaszczyzna ekliptyki, oś x sceny wskazuje punkt Barana. Kamera patrzy z północy ekliptyki, więc
+# za układem planet widać południowe niebo ekliptyczne. Położenia J2000 (dzisiejsze); wielkość kulki od jasności.
+import csv
+EPS = math.radians(23.4392911)
 bm = bmesh.new()
-for i in range(700):
-    v = Vector((random.gauss(0, 1), random.gauss(0, 1), random.gauss(0, 1))).normalized() * 90
-    res = bmesh.ops.create_icosphere(bm, subdivisions=1, radius=0.05 + 0.12 * random.random() ** 4)
-    bmesh.ops.translate(bm, verts=res["verts"], vec=v)
+with open(os.path.join(G.DANE, "hyg", "gwiazdy_mag6.csv"), encoding="utf-8") as f:
+    for r in csv.DictReader(f):
+        mag = float(r["mag"])
+        if mag > 5.0:
+            continue
+        ra, de = math.radians(float(r["ra_h"]) * 15), math.radians(float(r["dec_deg"]))
+        x, y, z = math.cos(de) * math.cos(ra), math.cos(de) * math.sin(ra), math.sin(de)
+        v = Vector((x, y * math.cos(EPS) + z * math.sin(EPS), -y * math.sin(EPS) + z * math.cos(EPS))) * 90   # równikowe -> ekliptyczne
+        res = bmesh.ops.create_icosphere(bm, subdivisions=1, radius=0.045 + 0.125 * max(0.0, (5.0 - mag) / 6.5) ** 1.6)
+        bmesh.ops.translate(bm, verts=res["verts"], vec=v)
 me = bpy.data.meshes.new("Gwiazdy"); bm.to_mesh(me); bm.free()
 gw = bpy.data.objects.new("Gwiazdy", me); sc.collection.objects.link(gw)
 gw.data.materials.append(G.material_emisja("Gwiazdy_mat", (230, 230, 255), 0.8))

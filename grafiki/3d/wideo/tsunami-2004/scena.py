@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """Klip „tsunami-2004”: fala tsunami z 26 grudnia 2004 r. rozchodzi się po oceanie Indyjskim.
 
-Spokojny schemat na globusie. Czoło fali i linie co godzinę pochodzą z prostego modelu czasu przejścia
-(prędkość fali na płytkiej wodzie v = sqrt(g·h), głębokość szacowana z odległości od brzegu, droga tylko
-po wodzie – algorytm Dijkstry na siatce 0,25°). Model dopasowano do pomiarów mareografów z bazy NOAA NCEI
-(średni błąd ok. 30 min). Punkty na wybrzeżach zapalają się w zmierzonych czasach dotarcia fali
-(baza NOAA NCEI, domena publiczna) – szczegóły w README.md.
+Spokojny schemat na globusie. Czoło fali i linie co godzinę pochodzą z modelu czasu przejścia policzonego na
+prawdziwej batymetrii ETOPO1 (NOAA): prędkość fali długiej v = sqrt(g·h), najkrótszy czas po wodzie (algorytm
+Dijkstry na siatce 5 minut kątowych), źródło wzdłuż strefy zerwania uskoku. Model nie jest do niczego dopasowywany;
+z pomiarami mareografów NOAA zgadza się do ok. pół godziny. Punkty na wybrzeżach zapalają się w zmierzonych
+czasach dotarcia fali (baza NOAA NCEI, domena publiczna) – szczegóły w README.md.
 
 Uruchomienie (z katalogu repozytorium):
   S:\\Blender\\blender.exe -b --factory-startup --python grafiki/3d/wideo/tsunami-2004/scena.py
@@ -39,84 +39,117 @@ STACJE = [  # nazwa w filmie, szer., dł., minut, przesunięcie podpisu (px: x, 
     ("Port Elizabeth", -33.967, 25.633, 733, (18, 0)),
 ]
 EPI = (3.295, 95.982)   # ognisko (NOAA NCEI)
-# pas zerwania uskoku (ok. 1300 km wzdłuż rowu Sundajskiego i Andamanów) – źródło fali
-RUP = [(3.3 + k * (14.0 - 3.3) / 30, 95.9 + k * (92.9 - 95.9) / 30) for k in range(31)]
+# Źródło fali: strefa zerwania uskoku (ok. 1300 km, od ogniska na północ do ok. 14°N; Lay i in., Science 308, 2005).
+# Oś rowu oceanicznego z granic płyt PB2002 (P. Bird 2003; odcinki BU/AU, BU/IN, IN\BU, IN-BU), z południa na północ.
+# Dno podniosło się między rowem a łukiem wysp, dlatego źródło leży 0,8° na wschód od osi rowu.
+ROW = [(1.34, 96.2), (1.49, 96.09), (1.88, 95.54), (2.1, 94.98), (2.46, 94.41), (3.05, 93.75), (3.72, 93.23), (4.38, 92.9),
+       (5.01, 92.67), (5.7, 92.54), (6.33, 92.38), (6.95, 92.28), (7.66, 91.9), (8.16, 91.78), (8.66, 91.65), (9.13, 91.6),
+       (9.6, 91.53), (10.06, 91.56), (10.51, 91.58), (11.3, 91.59), (11.79, 91.64), (12.28, 91.7), (13.15, 91.89),
+       (13.71, 92.07), (14.38, 92.52)]
+ROW_PRZES = 0.8                # stopni na wschód od osi rowu
+V_PEKANIA = 2.5 * 60           # km/min: zerwanie biegło na północ ok. 2,5 km/s (ok. 9 min na całą długość)
 
-# ---------------------------------------------------------------- model czasu przejścia
-RES = 0.25
-LON0, LON1, LAT0, LAT1 = 15.0, 160.0, -75.0, 32.0
+# ---------------------------------------------------------------- model czasu przejścia (prawdziwa batymetria)
+BATYMETRIA = os.path.join(G.DANE, "etopo", "etopo1_ocean_indyjski_5min.npz")   # ETOPO1 (NOAA), co 5 minut kątowych
+W_SW, H_SW = 2160, 1080        # tekstura czasu dla całej kuli: 10 minut kątowych na piksel
+
+
+def model_fali():
+    """Czas dojścia czoła fali [min] na siatce batymetrii (5 minut kątowych): prędkość fali długiej v = sqrt(g·h)
+    z głębokości ETOPO1, najkrótszy czas po wodzie (algorytm Dijkstry, 16 kierunków). Bez żadnego dopasowywania."""
+    cp = os.path.join(G.CACHE, "tsunami2004_T_etopo1_v1.npz")
+    if os.path.exists(cp):
+        z = np.load(cp)
+        return z["T"], z["lats"], z["lons"]
+    t0 = time.time()
+    z = np.load(BATYMETRIA)
+    wys = z["wys"].astype(np.float32)
+    krok = float(z["krok"])
+    ny, nx = wys.shape
+    lats = float(z["szer0"]) + np.arange(ny) * krok
+    lons = float(z["dlug0"]) + np.arange(nx) * krok
+    woda = wys < 0
+    iv = 1.0 / (np.sqrt(9.81 * np.maximum(-wys, 10.0)) * 0.06)          # min/km
+    coslat = np.cos(np.radians(lats))
+    KM = 111.19 * krok
+    nb = [(-1, -1), (-1, 0), (-1, 1), (0, -1), (0, 1), (1, -1), (1, 0), (1, 1),
+          (-1, -2), (-1, 2), (1, -2), (1, 2), (-2, -1), (-2, 1), (2, -1), (2, 1)]
+    zr = {}
+    for (a1, o1), (a2, o2) in zip(ROW[:-1], ROW[1:]):
+        for u in np.linspace(0, 1, 8, endpoint=False):
+            la, lo = a1 + (a2 - a1) * u, o1 + (o2 - o1) * u + ROW_PRZES
+            if not 2.0 <= la <= 14.0:
+                continue
+            j, i = int(round((la - lats[0]) / krok)), int(round((lo - lons[0]) / krok))
+            d = math.hypot((la - EPI[0]) * 111.19, (lo - EPI[1]) * 111.19 * math.cos(math.radians(la)))
+            for r in range(8):
+                c = [(j + a, i + b) for a in range(-r, r + 1) for b in range(-r, r + 1) if woda[j + a, i + b]]
+                if c:
+                    zr[c[0]] = min(zr.get(c[0], 1e9), d / V_PEKANIA)
+                    break
+    T = np.full((ny, nx), np.inf)
+    h = []
+    for (j, i), t in zr.items():
+        T[j, i] = t
+        h.append((t, j, i))
+    heapq.heapify(h)
+    while h:
+        d, j, i = heapq.heappop(h)
+        if d > T[j, i]:
+            continue
+        for dj, di in nb:
+            jj, ii = j + dj, i + di
+            if 0 <= jj < ny and 0 <= ii < nx and woda[jj, ii]:
+                nd = d + math.hypot(di * KM * (coslat[j] + coslat[jj]) / 2, dj * KM) * 0.5 * (iv[j, i] + iv[jj, ii])
+                if nd < T[jj, ii]:
+                    T[jj, ii] = nd
+                    heapq.heappush(h, (nd, jj, ii))
+    T = T.astype(np.float32)
+    os.makedirs(G.CACHE, exist_ok=True)
+    np.savez_compressed(cp, T=T, lats=lats, lons=lons)
+    print(f"[tsunami] model fali {time.time()-t0:.0f} s, siatka {ny}x{nx}")
+    return T, lats, lons
+
+
+def czas_modelu(T, lats, lons, la, lo):
+    """Czas modelu [min] w komórce wody najbliższej punktowi (do ok. 30 km)."""
+    krok = lats[1] - lats[0]
+    j, i = int(round((la - lats[0]) / krok)), int(round((lo - lons[0]) / krok))
+    best, bd = float("inf"), 1e9
+    for a in range(-3, 4):
+        for b in range(-3, 4):
+            if 0 <= j + a < T.shape[0] and 0 <= i + b < T.shape[1] and np.isfinite(T[j + a, i + b]) and a * a + b * b < bd:
+                bd, best = a * a + b * b, float(T[j + a, i + b])
+    return best
 
 
 def pole_czasu():
-    cp = os.path.join(G.CACHE, "tsunami2004_T.npy")
-    if os.path.exists(cp):
-        return np.load(cp)
-    t0 = time.time()
-    m = G.maska_ladu(1440, "50m")
-    c0, c1 = int((LON0 + 180) / RES), int((LON1 + 180) / RES)
-    r0, r1 = int((90 - LAT1) / RES), int((90 - LAT0) / RES)
-    land = m[r0:r1, c0:c1] > 0.5
-    ny, nx = land.shape
-    lats = LAT1 - (np.arange(ny) + 0.5) * RES
-    lons = LON0 + (np.arange(nx) + 0.5) * RES
-    KM = 111.2 * RES
-    coslat = np.cos(np.radians(lats))
-    nb = [(-1, -1), (-1, 0), (-1, 1), (0, -1), (0, 1), (1, -1), (1, 0), (1, 1),
-          (-1, -2), (-1, 2), (1, -2), (1, 2), (-2, -1), (-2, 1), (2, -1), (2, 1)]
-
-    def krok(j, i, jj, ii):
-        return math.hypot((ii - i) * KM * (coslat[j] + coslat[jj]) / 2, (jj - j) * KM)
-
-    def dijkstra(zrodla, wolne, koszt):
-        dist = np.full((ny, nx), np.inf)
-        h = []
-        for j, i in zrodla:
-            dist[j, i] = 0.0
-            h.append((0.0, j, i))
-        heapq.heapify(h)
-        while h:
-            d, j, i = heapq.heappop(h)
-            if d > dist[j, i]:
-                continue
-            for dj, di in nb:
-                jj, ii = j + dj, i + di
-                if 0 <= jj < ny and 0 <= ii < nx and wolne[jj, ii]:
-                    nd = d + koszt(j, i, jj, ii)
-                    if nd < dist[jj, ii]:
-                        dist[jj, ii] = nd
-                        heapq.heappush(h, (nd, jj, ii))
-        return dist
-
-    # odległość od brzegu (km)
-    wsz = np.ones_like(land)
-    dbrzeg = dijkstra(list(zip(*np.nonzero(land))), wsz, krok)
-    # głębokość: szelf 50 m przy brzegu, 4000 m od ok. 230 km; płytsze Morze Andamańskie i Zatoka Bengalska
-    LA, LO = np.meshgrid(lats, lons, indexing="ij")
-    cap = np.full((ny, nx), 4000.0)
-    cap[(LA > 5) & (LA < 16) & (LO > 93.0) & (LO < 99.5)] = 700.0
-    cap[(LA > 7) & (LO > 79) & (LO < 92.5)] = 2300.0
-    h = np.minimum(50.0 + 3950.0 * np.clip((dbrzeg - 30.0) / 200.0, 0, 1), cap)
-    v = np.sqrt(9.81 * h) * 3.6 / 60.0  # km/min
-    woda = ~land
-
-    def koszt(j, i, jj, ii):
-        return krok(j, i, jj, ii) * 0.5 * (1 / v[j, i] + 1 / v[jj, ii])
-
-    zr = []
-    for la, lo in RUP:
-        j, i = int((LAT1 - la) / RES), int((lo - LON0) / RES)
-        for r in range(12):
-            c = [(j + a, i + b) for a in range(-r, r + 1) for b in range(-r, r + 1) if woda[j + a, i + b]]
-            if c:
-                zr.append(c[0])
-                break
-    T = dijkstra(zr, woda, koszt)
-    # do pełnej mapy świata (1440×720); ląd i obszar poza modelem = 9999
-    full = np.full(m.shape, 9999.0, np.float32)
-    Tm = np.where(np.isfinite(T), T, 9999.0)
-    full[r0:r1, c0:c1] = Tm
-    np.save(cp, full)
-    print(f"[tsunami] pole czasu {time.time()-t0:.0f} s")
+    """Tekstura czasu dla całej kuli (wiersz 0 = północ, 10 minut kątowych na piksel), minuty; poza modelem 9999.
+    W komórkach lądu wpisany czas najbliższej wody, żeby przy brzegu czoło fali nie urywało się (ląd zakrywa maska)."""
+    T, lats, lons = model_fali()
+    for nazwa, la, lo, mn, _ in STACJE:
+        m = czas_modelu(T, lats, lons, la, lo)
+        print(f"[tsunami] {nazwa:18s} pomiar {mn // 60}:{mn % 60:02d}  model {int(m) // 60}:{int(m) % 60:02d}  ({m - mn:+.0f} min)")
+    ny, nx = (T.shape[0] - 1) // 2, (T.shape[1] - 1) // 2
+    t4 = np.where(np.isfinite(T[:ny * 2, :nx * 2]), T[:ny * 2, :nx * 2], np.nan).reshape(ny, 2, nx, 2)
+    with np.errstate(all="ignore"):
+        import warnings
+        warnings.simplefilter("ignore")
+        t2 = np.nanmean(t4, axis=(1, 3))                       # 10 minut kątowych, wiersz 0 = południe
+    for _ in range(6):                                         # wypełnij ląd czasem sąsiedniej wody
+        brak = np.isnan(t2)
+        if not brak.any():
+            break
+        p = np.pad(t2, 1, constant_values=np.nan)
+        ss = np.stack([p[1 + a:1 + a + ny, 1 + b:1 + b + nx] for a in (-1, 0, 1) for b in (-1, 0, 1)])
+        with np.errstate(all="ignore"):
+            sr = np.nanmean(ss, axis=0)
+        t2 = np.where(brak, sr, t2)
+    full = np.full((H_SW, W_SW), 9999.0, np.float32)
+    r_pd = int(round((90.0 - lats[0]) * 6.0))                  # wiersz tekstury dla południowej krawędzi siatki
+    c0 = int(round((lons[0] + 180.0) * 6.0))
+    blok = np.where(np.isnan(t2), 9999.0, t2)[::-1]            # wiersz 0 = północ
+    full[r_pd - ny:r_pd, c0:c0 + nx] = blok
     return full
 
 

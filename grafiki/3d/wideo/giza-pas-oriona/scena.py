@@ -32,10 +32,11 @@ J = 0.1   # jednostka sceny = 10 m
 
 # ---------------------------------------------------------------- dane
 CAL = 0.0254
-# środki piramid w metrach (x = wschód, y = północ), początek w środku Cheopsa
-dx_ch, dy_ch = -13165.7 * CAL, -13931.5 * CAL            # Chefren względem Cheopsa (Petrie)
-dy_my = dy_ch - 15170.4 * CAL                            # Mykerinos N–S (Petrie: bok Chefrena 8474,9 + 8856,1 + pół boku Mykerinosa)
-dx_my = dx_ch + (31.128333 - 31.130972) * 111320 * math.cos(math.radians(29.975))   # E–W z Wikidata
+# środki piramid w metrach (x = wschód, y = północ), początek w środku Cheopsa.
+# W. M. F. Petrie, „The Pyramids and Temples of Gizeh” (1883), §92, odległości środków w calach (północ–południe, wschód–zachód):
+#   I–II: 13931,6 i 13165,8;  I–III: 29102,0 i 22616,0;  II–III: 15170,4 i 9450,2
+dx_ch, dy_ch = -13165.8 * CAL, -13931.6 * CAL            # Chefren względem Cheopsa
+dx_my, dy_my = -22616.0 * CAL, -29102.0 * CAL            # Mykerinos względem Cheopsa
 PIRAMIDY = [
     # nazwa, (x, y) [m], bok E–W, bok N–S, wysokość [m]
     ("Cheops", (0.0, 0.0), 230.33, 230.33, 146.6),

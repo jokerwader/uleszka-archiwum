@@ -12,6 +12,7 @@ w chwili, gdy lektor czyta fragment tekstu wskazany w `klip.json`.
 | `kadr.jpg` | Jeden reprezentatywny kadr, 1600 px szerokości (podgląd, miniatura) |
 | `klip.json` | Opis dla `wideo.ts` (format niżej) |
 | `README.md` | Co pokazuje klip, na jakim rysunku lub źródle się opiera, skąd dane (z licencjami) |
+| `atrybucja.txt` | Tylko gdy klip używa cudzych materiałów na CC BY lub CC BY-SA (zdjęcie, plan, katalog gwiazd, dane): po jednym źródle w wierszu, z autorem i licencją. `wideo.ts` dopisuje je do opisu filmu i `autorzy-zdjec.txt` |
 
 `klip.json`:
 
@@ -57,6 +58,10 @@ w chwili, gdy lektor czyta fragment tekstu wskazany w `klip.json`.
 
 - Tylko domena publiczna, CC0, CC BY, CC BY-SA. Mapy: Natural Earth (domena publiczna), tekstury Ziemi: NASA Blue Marble (domena publiczna).
 - Pobrane dane wspólne trzymaj w `grafiki/3d/wideo/_dane/` z plikiem `ZRODLA.md` (skąd, licencja).
+- Materiał na CC BY albo CC BY-SA wymaga podania autora i licencji w opisie filmu: wpisz go do `atrybucja.txt` klipu.
+- Każdy render opiera się na prawdziwych danych i wzorach (położenia gwiazd i planet, tory zaćmień, daty, kąty, mapy, wymiary,
+  czasy fal): policzone albo wzięte ze źródła, nigdy „z pamięci”. Wynik porównaj ze źródłem i zapisz w README. Uproszczenia
+  dla czytelności są dozwolone, jeśli mówi o nich kadr i README. Przegląd wszystkich klipów: `AUDYT.md`.
 - Rysunki Leszka: `zrodlo/webacja/02uskok/`. Tekst artykułu: `podcast/02-wielki-uskok/rozdzialy-studio/`.
 - Nie pokazujemy ludzi.
 
