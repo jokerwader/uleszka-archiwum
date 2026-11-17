@@ -198,6 +198,8 @@ const zapisz = () => {
 if (process.argv.includes("--zdjecia")) {
   const wszystkie = process.argv.includes("--wszystkie"); // pobierz od nowa zdjęcia wszystkich miejsc (np. po zmianie filtrów)
   const tylko = process.argv.find((a) => a.startsWith("--tylko="))?.slice(8); // np. --tylko=Stonehenge (próba na jednym miejscu)
+  // --ile=40: ile zdjęć na miejsce (domyślnie 20); więcej zdjęć to mniej powtórek w filmach z podcastu
+  const ILE = Number(process.argv.find((a) => a.startsWith("--ile="))?.slice(6) ?? 20);
   // bez --od-nowa pomija miejsca już zrobione (gdy poprzednie pobieranie się przerwało)
   const lista = zrodlo.miejsca.filter((m) => dane[m.nazwa] && !m.bez_zdjec && (!tylko || m.nazwa === tylko) && (odNowa || wszystkie || !!tylko || !dane[m.nazwa].zdjecia.some((z) => "detal" in z)));
   const p18 = new Map<string, string>();
@@ -208,7 +210,7 @@ if (process.argv.includes("--zdjecia")) {
   }
   for (const m of lista) {
     const d = dane[m.nazwa];
-    const zdj = await zdjeciaCommons(p18.get(d.wikidata), d.kategoria).catch((e) => { console.log(`✗ ${m.nazwa}: ${e.message}`); return null; });
+    const zdj = await zdjeciaCommons(p18.get(d.wikidata), d.kategoria, ILE).catch((e) => { console.log(`✗ ${m.nazwa}: ${e.message}`); return null; });
     if (!zdj) continue;
     const przed = d.zdjecia.length;
     if (wszystkie || tylko || zdj.length >= przed || zdj.length >= 6) d.zdjecia = zdj; // nie zastępuj bogatszej listy uboższą

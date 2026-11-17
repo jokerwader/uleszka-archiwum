@@ -23,7 +23,7 @@ body:
         - W tekście Leszka (literówka)
         - W streszczeniu lub tezach przygotowanych przez AI
         - W opisie zdjęcia
-        - W podcaście albo filmie na YouTube
+        - W podcaście
         - Inne
     validations:
       required: true

@@ -32,13 +32,13 @@ const ART: [string, string, string] = ["artykuł", "artykuły", "artykułów"];
 const skroc = (s: string, n: number) => (s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, "") + "…" : s);
 
 // podcast: odcinki (podcast/odcinki.json) i zaplanowane premiery (docs/czytelnia/harmonogram.json z czytelni)
-type Odcinek = { nr: number; tytul: string; spotify?: string; youtube?: string; artykuly: string[] };
+type Odcinek = { nr: number; tytul: string; spotify?: string; artykuly: string[] };
 const odcinki: Odcinek[] = existsSync("podcast/odcinki.json") ? JSON.parse(readFileSync("podcast/odcinki.json", "utf8")) : [];
 type Premiera = { nr: number; tytul: string; url: string; kiedy: string; iso: string };
 const premiery: Premiera[] = existsSync("docs/czytelnia/harmonogram.json") ? JSON.parse(readFileSync("docs/czytelnia/harmonogram.json", "utf8")) : [];
 const podcastMiejsca = (m: MiejsceAtlasu) => {
   for (const id of m.artykuly) {
-    const o = odcinki.find((x) => x.artykuly.includes(id) && (x.spotify || x.youtube));
+    const o = odcinki.find((x) => x.artykuly.includes(id) && x.spotify);
     if (o) return { o, id };
   }
   for (const id of m.artykuly) {

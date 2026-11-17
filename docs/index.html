@@ -262,7 +262,6 @@
   }
   .odcinek + .odcinek { margin-top: 18px; }
   .podcast-obserwuj { margin: 22px 0 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
-  .btn-yt::before { content: "▶"; display: inline-grid; place-items: center; width: 22px; height: 16px; border-radius: 5px; background: #e02020; color: #fff; font-size: 9px; }
   .nastepny { margin: 22px 0 0; padding: 20px 24px; border: 1px solid rgba(232, 176, 75, .45); border-radius: 20px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px 24px;
     color: var(--tekst-2); font-size: 15px; background: radial-gradient(ellipse 70% 120% at 100% 0%, rgba(226, 169, 63, .14), transparent 70%), rgba(255, 255, 255, .02); }
   .nastepny-opis { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
@@ -274,9 +273,7 @@
   .odliczanie b { font: 700 30px/1.1 Georgia, serif; color: var(--akcent-mocny); font-variant-numeric: tabular-nums; letter-spacing: 0; }
   .nastepny .ile { flex-basis: 100%; font-weight: 700; color: var(--akcent-mocny); }
   .nastepny .ile:empty { display: none; }
-  .nastepny a.yt { flex-basis: 100%; margin-top: -4px; font: 600 15px/1.4 system-ui, sans-serif; color: var(--akcent-mocny); }
   @media (max-width: 560px) { .odliczanie { width: 100%; } .odliczanie span { flex: 1; min-width: 0; } .odliczanie b { font-size: 26px; } }
-  .nastepny a.yt::before { content: "▶"; display: inline-grid; place-items: center; width: 22px; height: 16px; margin-right: 8px; border-radius: 5px; background: #e02020; color: #fff; font-size: 9px; vertical-align: 1px; }
   .odcinek img { width: 140px; height: 140px; border-radius: 14px; box-shadow: 0 10px 30px rgba(0, 0, 0, .5); display: block; }
   .odcinek h3 { margin: 4px 0 6px; font-size: 24px; }
   .odcinek p { margin: 0 0 16px; color: var(--tekst-2); }
@@ -531,7 +528,7 @@
   <section id="podcast">
     <div class="wrap">
       <h2>Posłuchaj</h2>
-      <p class="pod">Podcast „Uwierz we własny rozum”: teksty Leszka czytane słowo w słowo przez lektora AI. Nowe odcinki co tydzień w Spotify i na YouTube.</p>
+      <p class="pod">Podcast „Uwierz we własny rozum”: teksty Leszka czytane słowo w słowo przez lektora AI. Nowe odcinki co tydzień w Spotify.</p>
       <div class="odcinek">
         <img src="img/podcast.jpg" alt="Okładka podcastu „Uwierz we własny rozum”" width="140" height="140">
         <div class="odcinek-opis">
@@ -541,7 +538,6 @@
           <div class="spotify" data-odcinek="3Aoy9BihOsiKZxy1RMu6wO" data-tytul="Wstęp">
             <button class="btn btn-glowny spotify-graj" type="button">▶ Odtwórz tutaj</button>
             <a class="btn btn-drugi" href="https://open.spotify.com/episode/3Aoy9BihOsiKZxy1RMu6wO" target="_blank" rel="noopener">Otwórz w Spotify ↗</a>
-            <a class="btn btn-drugi btn-yt" href="https://www.youtube.com/watch?v=2gJuT5-VXS0" target="_blank" rel="noopener">YouTube ↗</a>
           </div>
           <p class="odcinek-linki"><a href="czytelnia/cybog-wstepcb.html">Przeczytaj tekst →</a></p>
         </div>
@@ -555,7 +551,6 @@
           <div class="spotify" data-odcinek="5clRnBM2pC8xnxhc0wlk8i" data-tytul="Potop – czy tylko jeden?">
             <button class="btn btn-glowny spotify-graj" type="button">▶ Odtwórz tutaj</button>
             <a class="btn btn-drugi" href="https://open.spotify.com/episode/5clRnBM2pC8xnxhc0wlk8i" target="_blank" rel="noopener">Otwórz w Spotify ↗</a>
-            <a class="btn btn-drugi btn-yt" href="https://www.youtube.com/watch?v=8gh2zlMzVNE" target="_blank" rel="noopener">YouTube ↗</a>
           </div>
           <p class="odcinek-linki"><a href="czytelnia/01potop-potop.html">Przeczytaj tekst ze zdjęciami →</a></p>
         </div>
@@ -569,13 +564,12 @@
           <div class="spotify" data-odcinek="14g2fi8onwYcF3lfB8C12G" data-tytul="Wielki uskok…">
             <button class="btn btn-glowny spotify-graj" type="button">▶ Odtwórz tutaj</button>
             <a class="btn btn-drugi" href="https://open.spotify.com/episode/14g2fi8onwYcF3lfB8C12G" target="_blank" rel="noopener">Otwórz w Spotify ↗</a>
-            <a class="btn btn-drugi btn-yt" href="https://www.youtube.com/watch?v=IJm7IZaIKN0" target="_blank" rel="noopener">YouTube ↗</a>
           </div>
           <p class="odcinek-linki"><a href="czytelnia/02uskok-uskok.html">Przeczytaj tekst ze zdjęciami →</a> · <a href="czytelnia/02uskok-uskok.html#miejsca">19 miejsc z odcinka w atlasie →</a></p>
         </div>
       </div>
       <div class="nastepny" id="nastepny" hidden></div>
-      <p class="podcast-obserwuj"><a class="btn btn-drugi" href="https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu" target="_blank" rel="noopener">Obserwuj podcast w Spotify ↗</a> <a class="btn btn-drugi btn-yt" href="https://www.youtube.com/channel/UCUQV--Lfb4i2o_QAFPOOGVA" target="_blank" rel="noopener">Subskrybuj na YouTube ↗</a></p>
+      <p class="podcast-obserwuj"><a class="btn btn-drugi" href="https://open.spotify.com/show/2xo2dGbYUOWBLWeDI1QKpu" target="_blank" rel="noopener">Obserwuj podcast w Spotify ↗</a></p>
     </div>
   </section>
 
@@ -799,10 +793,6 @@
           <p>Nie. Archiwum i serwer są bezpłatne i nie wymagają logowania. Potrzebujesz tylko konta w Claude (darmowe wystarczy) albo płatnego ChatGPT.</p>
         </details>
         <details name="faq">
-          <summary><span>Na co idą wpłaty?</span><span class="krotko">Na koszty</span><span class="znak" aria-hidden="true"></span></summary>
-          <p>Wszystkie teksty, podcast, filmy i atlas są i zostaną bezpłatne. Projekt powstaje z prywatnych środków autora archiwum (jokerwader). Dobrowolne wsparcie na Patronite pomaga w utrzymaniu serwerów, opłaceniu lektora AI i w pracy nad tym oraz innymi archiwami, np. odtwarzaniu forum kodczasu.pl. Nikt nie płaci za teksty Leszka Klimka i nie są one sprzedawane. Godzina nagrania to dziesiątki tysięcy znaków dla lektora, więc wsparcie pomaga utrzymać rytm: nowy odcinek co niedzielę.</p>
-        </details>
-        <details name="faq">
           <summary><span>Czy teksty są zmienione albo skrócone?</span><span class="krotko">Nie</span><span class="znak" aria-hidden="true"></span></summary>
           <p>Nie. Artykuły są przeniesione słowo w słowo, a zgodność z oryginałem sprawdza automat, litera po literze. Streszczenia i opisy zdjęć przygotowała AI. Są wyraźnie oznaczone i trzymane osobno od oryginału.</p>
         </details>
@@ -835,7 +825,7 @@
 
 <footer>
   <div class="wrap">
-    <p>Treści strony uleszka.net należą do ich autora i jego spadkobierców. Archiwum ma charakter dokumentacyjny i niekomercyjny: chroni przed zniknięciem stronę, której już nie ma w sieci. Dobrowolne wsparcie (Patronite) pomaga w utrzymaniu serwerów i pracy nad archiwami; za teksty autora nikt nie płaci. Jeśli masz prawa do tych treści i zastrzeżenia, <a href="https://github.com/jokerwader/uleszka-archiwum/issues">daj znać</a>, a treści zostaną usunięte.</p>
+    <p>Treści strony uleszka.net należą do ich autora i jego spadkobierców. Archiwum ma charakter dokumentacyjny i niekomercyjny: chroni przed zniknięciem stronę, której już nie ma w sieci. Archiwum powstaje bez zbiórek i reklam; za teksty autora nikt nie płaci. Jeśli masz prawa do tych treści i zastrzeżenia, <a href="https://github.com/jokerwader/uleszka-archiwum/issues">daj znać</a>, a treści zostaną usunięte.</p>
     <p>Kod archiwum: licencja MIT · <a href="https://github.com/jokerwader/uleszka-archiwum">github.com/jokerwader/uleszka-archiwum</a> · <a href="https://github.com/jokerwader/uleszka-archiwum/blob/main/docs/ksiazki.md">książki cytowane przez autora</a></p>
   </div>
 </footer>
@@ -1000,10 +990,6 @@
       el.querySelector("a").href = p.url;
       el.querySelector("a").textContent = `${p.nr}. ${p.tytul}`;
       el.querySelector(".kiedy").textContent = p.kiedy;
-      if (p.youtube) {
-        const yt = Object.assign(document.createElement("a"), { className: "yt", href: `https://www.youtube.com/watch?v=${encodeURIComponent(p.youtube)}`, target: "_blank", rel: "noopener", textContent: "Premiera na YouTube ↗" });
-        el.append(yt);
-      }
       const pole = (j) => el.querySelector(`[data-j="${j}"]`);
       const dwa = (n) => String(n).padStart(2, "0");
       const licz = () => {

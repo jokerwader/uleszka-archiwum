@@ -5,15 +5,17 @@ dist/
 podcast/**/*.mp3
 podcast/**/*.wav
 dane/poprawki/kandydaci.json
-podcast/**/youtube/
-podcast/.zdjecia/
-podcast/.nagrania-cc/
 
 # kopie zapasowe Blendera
 *.blend1
 
-# klatki pośrednie klipów 3D
-grafiki/3d/wideo/**/_klatki/
-grafiki/3d/wideo/.renderuje
 
 __pycache__/
+
+# dawne lokalne pliki filmów YouTube (z YouTube zrezygnowano 17.11.2026) – nie trafiają do repozytorium
+podcast/**/youtube/
+podcast/.zdjecia/
+podcast/.nagrania-cc/
+podcast/.mapy/
+podcast/.ruch-klipow.json
+grafiki/3d/wideo/

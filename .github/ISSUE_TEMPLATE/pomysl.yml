@@ -9,7 +9,7 @@ body:
       label: Czego dotyczy?
       options:
         - Strona i czytelnia
-        - Podcast i YouTube
+        - Podcast
         - Materiały o autorze (teksty, wywiady, zdjęcia)
         - Rozmowa z archiwum przez AI
         - Inne
