@@ -60,7 +60,9 @@ const spotifyHtml = (o: Odcinek) => `  <div class="spotify" data-odcinek="${esc(
 // harmonogram kolejnych odcinków (podcast/harmonogram.json): artykuł z listy dostaje kolejny termin w wybrane dni tygodnia;
 // przy artykule i na jego karcie w spisie pojawia się licznik do premiery (odliczany w przeglądarce, czas polski)
 // pozycja listy: id artykułu albo { "id": …, "czesci": 3 } – długi artykuł podzielony na kilka kolejnych odcinków
-type Harmonogram = { od: string; dni_tygodnia: number[]; godzina: string; pierwszy_numer: number; artykuly: (string | { id: string; czesci: number })[] };
+// "liczniki": false – liczniki do premier wyłączone wszędzie (przy artykułach, na kartach spisu, na stronie głównej i w atlasie);
+// plan zostaje w pliku, a po ustawieniu true (albo usunięciu pola) liczniki wracają
+type Harmonogram = { liczniki?: boolean; od: string; dni_tygodnia: number[]; godzina: string; pierwszy_numer: number; artykuly: (string | { id: string; czesci: number })[] };
 type Premiera = { id: string; nr: number; kiedy: string; iso: string; czesc?: number; czesci?: number };
 const MIESIACE = ["stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"];
 const DNI = ["niedziela", "poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota"];
@@ -75,7 +77,8 @@ if (existsSync("podcast/harmonogram.json")) {
   const h: Harmonogram = JSON.parse(readFileSync("podcast/harmonogram.json", "utf8"));
   const dzien = new Date(`${h.od}T12:00:00Z`);
   let nr = h.pierwszy_numer;
-  for (const poz of h.artykuly) {
+  if (h.liczniki === false) console.log("Liczniki premier wyłączone (podcast/harmonogram.json: \"liczniki\": false).");
+  for (const poz of h.liczniki === false ? [] : h.artykuly) {
     const { id, czesci } = typeof poz === "string" ? { id: poz, czesci: 1 } : poz;
     if (!archiwum.znajdz(id, "artykul")) throw new Error(`harmonogram.json: nie ma artykułu ${id}`);
     for (let c = 1; c <= czesci; c++) {

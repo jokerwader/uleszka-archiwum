@@ -56,6 +56,9 @@ Każdy artykuł dostaje kolejny termin. Na stronie widać licznik do premiery: p
 w spisie i jako „Następny odcinek” na stronie głównej. Gdy odcinek wyjdzie, dopisz go do `odcinki.json` – licznik
 zamieni się w odtwarzacz. Po każdej zmianie: `npx tsx scripts/czytelnia.ts`.
 
+- **Liczniki wyłączone** (od 18.11.2026): `"liczniki": false` w `harmonogram.json` – nigdzie nie ma odliczania do premier
+  (czytelnia, spis, strona główna, atlas), a plan zostaje w pliku. Włączenie: `"liczniki": true` (albo usuń pole),
+  potem `npx tsx scripts/czytelnia.ts` i `npx tsx scripts/atlas.ts`.
 - Dwa odcinki w tygodniu: `"dni_tygodnia": [2, 5]` (wtorek i piątek).
 - Opóźnienie: przesuń `od` na nowy termin – wszystkie dalsze terminy przesuną się razem z nim.
 - Inna kolejność: przestaw artykuły na liście.
